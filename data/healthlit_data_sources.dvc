@@ -1,6 +1,6 @@
 outs:
-- md5: 9c3e3e32297c0f140b5753da0e69c12a.dir
-  size: 807933778
-  nfiles: 126408
+- md5: f56e2f7b2dbc605469b1504670950742.dir
+  size: 518766917
+  nfiles: 65943
   hash: md5
   path: healthlit_data_sources
