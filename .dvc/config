@@ -1,0 +1,6 @@
+[core]
+    remote = aws-remote
+['remote "aws-remote"']
+    url = s3://data-proj2-des-sol-analisis
+    region = us-east-1
+    use_ssl = true
