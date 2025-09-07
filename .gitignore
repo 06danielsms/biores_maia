@@ -1,0 +1,8 @@
+env-dvc/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# MLflow local
+mlflow_work/
+# AWS zip temporales
+awscliv2.zip
