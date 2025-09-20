@@ -6,3 +6,7 @@ __pycache__/
 mlflow_work/
 # AWS zip temporales
 awscliv2.zip
+/data/Cochrane
+/data/Pfizer
+/data/Trial Summaries
+/data/ClinicalTrials.gov
