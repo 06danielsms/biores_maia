@@ -1,5 +1,4 @@
 [core]
-    remote = storage
-    autostage = true
-['remote "storage"']
-    url = s3://biores-project/data
+    remote = s3store
+['remote "s3store"']
+    url = s3://biores-maia-data-clean/dvc-store
