@@ -1,4 +1,4 @@
 [core]
     remote = s3store
 ['remote "s3store"']
-    url = s3://biores.maia
+    url = s3://biores-maia-data-clean/dvc-store
