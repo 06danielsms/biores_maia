@@ -10,7 +10,6 @@ data/*.arrow
 data/cleaned/
 data/tokenized/
 data/origin/
-.dvc/
 
 # Python
 __pycache__/
