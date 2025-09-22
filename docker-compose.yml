@@ -1,0 +1,79 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: biores-backend
+    env_file:
+      - ./backend/.env.example
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - REDIS_DSN=redis://redis:6379/0
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+    volumes:
+      - ./backend:/app
+    ports:
+      - "8000:8000"
+    depends_on:
+      mongo:
+        condition: service_started
+      mlflow:
+        condition: service_started
+      redis:
+        condition: service_started
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: biores-frontend
+    environment:
+      - VITE_API_URL=http://backend:8000/api/v1
+      - VITE_ENVIRONMENT=local
+      - VITE_MLFLOW_URL=http://mlflow:5000
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    command: npm run dev -- --host 0.0.0.0 --port 5173
+    ports:
+      - "5174:5173"
+    depends_on:
+      backend:
+        condition: service_started
+
+  mongo:
+    image: mongo:7.0
+    container_name: biores-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.14.3
+    container_name: biores-mlflow
+    command: >-
+      mlflow server
+      --backend-store-uri sqlite:////mlflow/mlflow.db
+      --default-artifact-root file:/mlflow/artifacts
+      --host 0.0.0.0
+      --port 5000
+    ports:
+      - "5500:5000"
+    volumes:
+      - mlflow-data:/mlflow
+
+  redis:
+    image: redis:7-alpine
+    container_name: biores-redis
+    ports:
+      - "6379:6379"
+
+volumes:
+  mongo-data:
+  mlflow-data:
+
+networks:
+  default:
+    name: biores-maia-net

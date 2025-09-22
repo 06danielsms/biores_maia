@@ -1,0 +1,79 @@
+[
+  {
+    "id": "CT-2024-0001",
+    "file_name": "CT-2024-0001.json",
+    "source": "ClinicalTrials.gov",
+    "language": "en",
+    "readability_fkgl": 46.2,
+    "translated": true,
+    "metrics_ready": true,
+    "tokens": 1874,
+    "domain": "Cardiología",
+    "alignment_risk": "bajo",
+    "updated_at": "2024-11-21T22:14:00Z",
+    "original": "Phase III randomized study evaluating the efficacy of beta blockers in reducing readmission for heart failure patients.",
+    "translation": "Estudio fase III aleatorizado que evalúa la eficacia de los betabloqueadores para reducir las re-hospitalizaciones en pacientes con insuficiencia cardiaca.",
+    "metrics": {
+      "bleu": 54.9,
+      "chrf2": 0.721,
+      "fkgl": 6.3,
+      "bertscore": 0.89
+    },
+    "comments": [
+      {
+        "author": "María Ortega",
+        "role": "Especialista clínica",
+        "content": "Validar terminología cardiológica con comité médico.",
+        "timestamp": "2024-11-22T10:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": "COCH-2023-0812",
+    "file_name": "COCH-2023-0812.json",
+    "source": "Cochrane",
+    "language": "en",
+    "readability_fkgl": 32.5,
+    "translated": true,
+    "metrics_ready": false,
+    "tokens": 2140,
+    "domain": "Oncología",
+    "alignment_risk": "medio",
+    "updated_at": "2024-11-19T17:02:00Z",
+    "original": "Systematic review summarizing adjuvant therapies for gastric cancer with focus on immunotherapy outcomes.",
+    "translation": "Revisión sistemática que resume terapias adyuvantes para cáncer gástrico con foco en resultados de inmunoterapia.",
+    "metrics": {
+      "bleu": 38.1,
+      "chrf2": 0.654,
+      "fkgl": 8.1,
+      "bertscore": 0.82
+    },
+    "comments": [
+      {
+        "author": "Claudia Rivas",
+        "role": "Especialista médica",
+        "content": "Solicitar revisión manual para glosario de inmunoterapia.",
+        "timestamp": "2024-11-21T08:12:00Z"
+      }
+    ]
+  },
+  {
+    "id": "PFZ-2024-0032",
+    "file_name": "PFZ-2024-0032.json",
+    "source": "Pfizer",
+    "language": "es",
+    "readability_fkgl": 58.9,
+    "translated": false,
+    "metrics_ready": false,
+    "tokens": 980,
+    "domain": "Vacunas",
+    "alignment_risk": "pendiente",
+    "updated_at": "2024-11-10T10:22:00Z",
+    "original": "Resumen técnico en español sobre avance de vacuna conjugada pediátrica. Falta homologar criterios de inclusión.",
+    "translation": "Pendiente de traducción automática.",
+    "metrics": {
+      "fkgl": 5.9
+    },
+    "comments": []
+  }
+]

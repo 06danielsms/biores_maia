@@ -1,0 +1,17 @@
+{
+  "generated_at": "2024-11-22T10:30:00Z",
+  "metrics": {
+    "bertscore_f1": 0.873,
+    "alignscore": 0.74,
+    "fkgl": 6.2,
+    "coverage_evidence": 0.87
+  },
+  "alerts": [
+    {
+      "summary_id": "TECH-332",
+      "level": "critical",
+      "detail": "TECH-332 requiere evidencia adicional",
+      "detected_at": "2024-11-22T09:50:00Z"
+    }
+  ]
+}

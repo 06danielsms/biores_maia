@@ -1,0 +1,55 @@
+[
+  {
+    "job_id": "summary-job-4221",
+    "dataset": "pfizer-2024-q4",
+    "model": "phi3:mini",
+    "status": "streaming",
+    "progress": 62,
+    "started_at": "2024-11-22T09:47:00Z",
+    "metrics": {
+      "readability_fkgl": 6.1,
+      "coherence": 0.84,
+      "alignscore": 0.73
+    },
+    "timeline": [
+      {
+        "timestamp": "2024-11-22T09:47:05Z",
+        "event": "Job iniciado",
+        "detail": "Celery worker envi\u00f3 prompt con contexto RAG"
+      },
+      {
+        "timestamp": "2024-11-22T09:48:12Z",
+        "event": "Streaming tokens",
+        "detail": "Generaci\u00f3n token a token con buffer de 1.2s"
+      },
+      {
+        "timestamp": "2024-11-22T09:49:31Z",
+        "event": "Detecci\u00f3n AlignScore",
+        "detail": "AlignScore marc\u00f3 discrepancia con ensayo CONTROL-221"
+      }
+    ]
+  },
+  {
+    "job_id": "job-123",
+    "dataset": "clinical-highlights",
+    "model": "mixtral-8x7b",
+    "status": "streaming",
+    "progress": 55,
+    "started_at": "2024-11-21T08:15:00Z",
+    "metrics": {
+      "readability_fkgl": 6.4,
+      "coherence": 0.81,
+      "alignscore": 0.71
+    },
+    "timeline": [
+      {
+        "timestamp": "2024-11-21T08:15:05Z",
+        "event": "Job iniciado"
+      },
+      {
+        "timestamp": "2024-11-21T08:16:30Z",
+        "event": "Streaming tokens"
+      }
+    ]
+  }
+]

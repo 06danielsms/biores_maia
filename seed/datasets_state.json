@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ClinicalTrials Highlights",
+    "version": "v2024.11.20",
+    "last_sync": "2024-11-22T08:45:00Z",
+    "storage": "s3://biores-maia/dvc/clinical-trials",
+    "status": "synced",
+    "document_count": 1240,
+    "translated_pct": 82.4,
+    "metrics_ready_pct": 74.1
+  },
+  {
+    "name": "Cochrane Summaries",
+    "version": "v2024.11.19",
+    "last_sync": "2024-11-21T21:05:00Z",
+    "storage": "s3://biores-maia/dvc/cochrane",
+    "status": "resync_required",
+    "document_count": 642,
+    "translated_pct": 68.2,
+    "metrics_ready_pct": 51.3
+  },
+  {
+    "name": "Pfizer Lote Q4",
+    "version": "pending",
+    "last_sync": "2024-11-18T14:30:00Z",
+    "storage": "s3://biores-maia/dvc/pfizer-q4",
+    "status": "queued",
+    "document_count": 210,
+    "translated_pct": 12.0,
+    "metrics_ready_pct": 0.0
+  }
+]

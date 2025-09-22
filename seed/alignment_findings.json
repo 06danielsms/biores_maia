@@ -1,0 +1,19 @@
+[
+  {
+    "summary_id": "TECH-332",
+    "alignscore": 0.73,
+    "generated_at": "2024-11-22T09:55:00Z",
+    "hallucinations": [
+      {
+        "severity": "critical",
+        "excerpt": "El resumen menciona pacientes pediátricos cuando el ensayo original solo incluye adultos > 18 años.",
+        "evidence": "ClinicalTrials.gov NCT04122111",
+        "timestamp": "2024-11-22T09:50:00Z"
+      }
+    ],
+    "actions": [
+      "Solicitar nueva generación",
+      "Adjuntar evidencia"
+    ]
+  }
+]

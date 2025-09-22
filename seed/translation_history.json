@@ -1,0 +1,30 @@
+[
+  {
+    "document_id": "CT-2024-0001",
+    "timestamp": "2024-11-22T09:14:00Z",
+    "event": "Job Helsinki batch 2024-Q4",
+    "detail": "64 documentos traducidos · BLEU promedio 52.4",
+    "color": "blue"
+  },
+  {
+    "document_id": "CT-2024-0001",
+    "timestamp": "2024-11-22T10:02:00Z",
+    "event": "Validación TextDescriptives",
+    "detail": "chrF2 y FKGL recalculados · métricas sincronizadas",
+    "color": "green"
+  },
+  {
+    "document_id": "CT-2024-0001",
+    "timestamp": "2024-11-22T11:30:00Z",
+    "event": "Revisión clínica pendiente",
+    "detail": "Asignado a Dra. Ortega para validar terminología",
+    "color": "orange"
+  },
+  {
+    "document_id": "job-123",
+    "timestamp": "2024-11-21T08:20:00Z",
+    "event": "Streaming tokens",
+    "detail": "Generación en progreso",
+    "color": "blue"
+  }
+]

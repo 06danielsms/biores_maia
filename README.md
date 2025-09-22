@@ -48,7 +48,7 @@ Consulte `docs/configuration.md` para una guía detallada de credenciales y buen
 El frontend toma sus endpoints desde variables `VITE_*` definidas en `docker-compose.yml`. Para desarrollo local sin Docker puede crear un archivo `frontend/.env` con:
 
 ```
-VITE_API_URL=http://localhost:8001/api/v1
+VITE_API_URL=http://localhost:8000/api/v1
 VITE_ENVIRONMENT=local
 VITE_MLFLOW_URL=http://localhost:5500
 ```
@@ -64,7 +64,7 @@ VITE_MLFLOW_URL=http://localhost:5500
 # 1. Construir y levantar todo el stack
 docker compose up --build
 
-# 2. Backend disponible en http://localhost:8001/docs
+# 2. Backend disponible en http://localhost:8000/docs
 #    Frontend disponible en http://localhost:5174
 #    MongoDB en mongodb://localhost:27017
 #    Redis en redis://localhost:6379
@@ -112,6 +112,44 @@ pip install -r backend/requirements.txt
 ```
 
 El wrapper acepta variables `MONGO_DSN` y `MONGO_DATABASE` para apuntar a una instancia personalizada. Los archivos en `seed/` se pueden reemplazar por snapshots propios cuando estén disponibles.
+
+### Problema común: falta la dependencia `motor`
+
+El script `./scripts/seed_local_dev.sh` se ejecuta con el intérprete `python` de tu entorno actual. Si ese intérprete no tiene instalada la librería `motor`, el script abortará antes de intentar conectarse a MongoDB (aunque Mongo corra en Docker). Para solucionarlo tienes dos opciones:
+
+- Instalar dependencias localmente (usa el Python/virtualenv donde quieres ejecutar el script):
+
+```bash
+cd backend
+pip install -r requirements.txt
+cd ..
+./scripts/seed_local_dev.sh
+```
+
+- Ejecutar los importadores dentro del contenedor `backend` (no necesitas instalar `motor` localmente):
+
+```bash
+# Levanta al menos mongo (y otros servicios opcionales)
+docker compose up -d mongo
+
+# Ejecuta los importadores usando el Python del contenedor (usa el motor que ya está en la imagen)
+docker compose run --rm backend ./scripts/seed_local_dev.sh
+```
+
+Si prefieres que el propio wrapper en el host intente delegar la ejecución dentro del contenedor, puedes ejecutar:
+
+```bash
+USE_DOCKER=1 ./scripts/seed_local_dev.sh
+```
+
+Si tras instalar `motor` localmente sigues viendo el error, verifica que el `python` que devuelve `which python` sea el mismo intérprete donde instalaste las dependencias.
+
+Nota: he añadido un helper `scripts/run_seed_docker.sh` que automatiza los pasos Docker (levantar mongo, construir backend, ejecutar el seeding y comprobar colecciones). Hazlo ejecutable si lo vas a usar:
+
+```bash
+chmod +x scripts/run_seed_docker.sh
+./scripts/run_seed_docker.sh
+```
 
 ## Endpoints mock disponibles
 

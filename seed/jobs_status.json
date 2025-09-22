@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "job": "Traducción Helsinki batch 2024-Q4",
+      "owner": "worker-03",
+      "started_at": "2024-11-22T09:01:00Z",
+      "duration": "17m",
+      "state": "in_progress",
+      "queue": "celery:translation",
+      "last_heartbeat": "2024-11-22T09:12:30Z"
+    },
+    {
+      "job": "AlignScore EC2 stack",
+      "owner": "aws-ollama-eval",
+      "started_at": "2024-11-22T08:45:00Z",
+      "duration": "41m",
+      "state": "active",
+      "queue": "aws:alignscore",
+      "last_heartbeat": "2024-11-22T09:20:00Z"
+    }
+  ]
+}

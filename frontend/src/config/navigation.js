@@ -1,0 +1,71 @@
+import {
+  AlertOutlined,
+  ApiOutlined,
+  BarChartOutlined,
+  CloudSyncOutlined,
+  DashboardOutlined,
+  DatabaseOutlined,
+  ExperimentOutlined,
+  FundProjectionScreenOutlined,
+} from '@ant-design/icons'
+
+export const navigationItems = [
+  {
+    key: 'dashboard',
+    label: 'Panel Inicio',
+    path: '/',
+    icon: DashboardOutlined,
+    description: 'KPIs, actividad y estado global del proyecto',
+  },
+  {
+    key: 'corpus',
+    label: 'Explorador de corpus',
+    path: '/corpus',
+    icon: DatabaseOutlined,
+    description: 'Consulta de documentos, traducciones y métricas de legibilidad',
+  },
+  {
+    key: 'translation',
+    label: 'Laboratorio de traducción',
+    path: '/translation',
+    icon: CloudSyncOutlined,
+    description: 'Recomputo y comparación de traducciones automáticas',
+  },
+  {
+    key: 'summaries',
+    label: 'Estudio de resúmenes',
+    path: '/summaries',
+    icon: ExperimentOutlined,
+    description: 'Orquestación de jobs de resumido y visualización estructurada',
+  },
+  {
+    key: 'evaluation',
+    label: 'Evaluación y QA',
+    path: '/evaluation',
+    icon: BarChartOutlined,
+    description: 'Métricas RAG, AlignScore y hallazgos de factualidad',
+  },
+  {
+    key: 'operations',
+    label: 'Operaciones y gobernanza',
+    path: '/operations',
+    icon: FundProjectionScreenOutlined,
+    description: 'Tracking de MLflow, costos AWS y auditoría de procesos',
+  },
+  {
+    key: 'api',
+    label: 'API Swagger',
+    path: '/docs',
+    icon: ApiOutlined,
+    external: true,
+    description: 'Documentación interactiva de la API FastAPI',
+  },
+  {
+    key: 'alerts',
+    label: 'Alertas',
+    path: '/alerts',
+    icon: AlertOutlined,
+    disabled: true,
+    description: 'Próximamente: notificaciones en tiempo real y gestión de incidencias',
+  },
+]
