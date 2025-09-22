@@ -1,0 +1,51 @@
+# DVC - Solo excluir archivos específicos dentro de data/, no toda la carpeta
+data/*.txt
+data/*.csv
+data/*.json
+data/*.xml
+data/*.pdf
+data/*.doc
+data/*.docx
+data/*.arrow
+data/cleaned/
+data/tokenized/
+data/origin/
+.dvc/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
