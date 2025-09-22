@@ -1,12 +1,25 @@
-FROM node:22-alpine
+FROM node:22-alpine AS builder
 
 WORKDIR /app
 
+# Install dependencies
 COPY package.json package-lock.json ./
-RUN npm install --legacy-peer-deps
+RUN npm ci --legacy-peer-deps
 
+# Build the production assets
 COPY . .
+RUN npm run build
 
-EXPOSE 5173
+FROM node:22-alpine AS runner
+WORKDIR /app
 
-CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]
+# Lightweight static server that respects $PORT
+RUN npm install -g serve
+
+# Copy built assets from builder
+COPY --from=builder /app/dist /app/dist
+
+# Railway provides a PORT env var; fall back to 8080
+EXPOSE 8080
+
+CMD ["sh", "-c", "serve -s /app/dist -l ${PORT:-8080}"]
