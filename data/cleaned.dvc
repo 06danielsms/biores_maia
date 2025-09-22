@@ -1,0 +1,14 @@
+md5: ec53b4c4c86b7c16293cccccfb908342
+frozen: true
+deps:
+- md5: 55eb3e1fd584ec84172657550fe8f708.dir
+  size: 7463724
+  nfiles: 4598
+  hash: md5
+  path: s3://biores-maia-data-clean/cleaned/
+outs:
+- md5: 4e71fe003b34d043b9f7455000493a76.dir
+  size: 7463724
+  nfiles: 4598
+  hash: md5
+  path: cleaned
