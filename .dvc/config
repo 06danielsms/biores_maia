@@ -1,0 +1,5 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://biores-maia-data-clean/dvcstore
+    endpointurl = https://s3.amazonaws.com
