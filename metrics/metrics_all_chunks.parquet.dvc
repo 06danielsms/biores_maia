@@ -1,0 +1,5 @@
+outs:
+- md5: 226ef6edc5ce1b568272deb506dd1f51
+  size: 23403432
+  hash: md5
+  path: metrics_all_chunks.parquet
