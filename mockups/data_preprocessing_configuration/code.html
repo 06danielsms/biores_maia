@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Biomedical Document Summarization</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "primary": "#1193d4",
+            "background-light": "#f6f7f8",
+            "background-dark": "#101c22",
+          },
+          fontFamily: {
+            "display": ["Inter", "sans-serif"]
+          },
+          borderRadius: {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+        },
+      },
+    }
+  </script>
+<style>
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+  </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display">
+<div class="relative flex h-auto min-h-screen w-full flex-row">
+<!-- SideNavBar -->
+<aside class="flex h-screen min-h-[700px] w-64 flex-col justify-between border-r border-slate-200 bg-white p-4 dark:border-slate-800 dark:bg-background-dark">
+<div class="flex flex-col gap-4">
+<div class="flex gap-3 items-center">
+<div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10" data-alt="User profile picture" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuArC99L8P2DJq03Bu9KnXodSTAi-ya0fYzht3emvdttG4PY5gTtxEMrrycXQjWpxxnxONDSKb4vx_Fgp103kagVJEnPDM5r5YchoVFTFirj-M7UEE3W0T-A9hDOW3INf6arLp8C7cwO8KLPVXlL8FRm7z0p0bv4HhMokwnwmA0MaL6OtvEDYVZK6Uy7g2OojpgWi5R_3FY3uEo7QqLzLyYuWXPo3K0uXEZqbJczhMixvmr8-e4RfLG0BUgQKnlwBPUCJMHUSgO6P7Y");'></div>
+<div class="flex flex-col">
+<h1 class="text-slate-900 dark:text-slate-50 text-base font-medium leading-normal">Dr. Eleanor Vance</h1>
+<p class="text-slate-500 dark:text-slate-400 text-sm font-normal leading-normal">Bio-NLP Researcher</p>
+</div>
+</div>
+<nav class="flex flex-col gap-2">
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">dashboard</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">Dashboard</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg bg-primary/10 dark:bg-primary/20" href="#">
+<span class="material-symbols-outlined text-primary font-bold">file_upload</span>
+<p class="text-primary text-sm font-bold leading-normal">Upload &amp; Preprocess</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">history</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">Summarization History</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">key</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">API Keys</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">settings</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">Settings</p>
+</a>
+</nav>
+</div>
+<div class="flex flex-col gap-4">
+<button class="flex min-w-[84px] w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90">
+<span class="truncate">New Project</span>
+</button>
+<div class="flex flex-col gap-1">
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">help_outline</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">Help &amp; Documentation</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg text-slate-700 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800" href="#">
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200">logout</span>
+<p class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal">Logout</p>
+</a>
+</div>
+</div>
+</aside>
+<!-- Main Content -->
+<main class="flex-1 overflow-y-auto">
+<div class="p-8">
+<!-- PageHeading -->
+<div class="flex flex-wrap justify-between gap-3 pb-6">
+<div class="flex min-w-72 flex-col gap-3">
+<p class="text-slate-900 dark:text-white text-4xl font-black leading-tight tracking-[-0.033em]">Text Preprocessing Configuration</p>
+<p class="text-slate-500 dark:text-slate-400 text-base font-normal leading-normal">Define and apply various preprocessing steps to your uploaded biomedical texts.</p>
+</div>
+</div>
+<!-- EmptyState (File Uploader) -->
+<div class="flex flex-col mb-8">
+<div class="flex flex-col items-center gap-6 rounded-xl border-2 border-dashed border-slate-300 dark:border-slate-700 px-6 py-14 bg-white dark:bg-background-dark/50">
+<div class="flex max-w-[480px] flex-col items-center gap-2">
+<p class="text-slate-900 dark:text-white text-lg font-bold leading-tight tracking-[-0.015em] text-center">Upload your document</p>
+<p class="text-slate-600 dark:text-slate-300 text-sm font-normal leading-normal text-center">Drag and drop your file here, or click the button below to browse your computer. Supports .txt, .pdf, and .docx files.</p>
+</div>
+<button class="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-slate-100 text-slate-800 text-sm font-bold leading-normal tracking-[0.015em] hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700">
+<span class="truncate">Browse Files</span>
+</button>
+</div>
+</div>
+<!-- Two-Panel Layout -->
+<div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+<!-- Left Panel: Configuration -->
+<div class="flex flex-col space-y-6">
+<!-- SectionHeader -->
+<h2 class="text-slate-900 dark:text-white text-[22px] font-bold leading-tight tracking-[-0.015em] border-b border-slate-200 dark:border-slate-800 pb-3">Preprocessing Steps</h2>
+<!-- Toggle Switches & Accordions -->
+<div class="flex flex-col gap-3">
+<!-- Simple Toggles -->
+<div class="flex items-center justify-between p-4 rounded-lg bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+<div class="flex items-center gap-2">
+<label class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal" for="lowercase">Convert to Lowercase</label>
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400 text-base cursor-help" title="Converts all characters in the text to their lowercase equivalents.">info</span>
+</div>
+<label class="relative inline-flex cursor-pointer items-center">
+<input checked="" class="peer sr-only" id="lowercase" type="checkbox"/>
+<div class="peer h-6 w-11 rounded-full bg-slate-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-slate-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-primary peer-checked:after:translate-x-full peer-checked:after:border-white rtl:peer-checked:after:-translate-x-full dark:border-slate-600 dark:bg-slate-700"></div>
+</label>
+</div>
+<div class="flex items-center justify-between p-4 rounded-lg bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+<div class="flex items-center gap-2">
+<label class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal" for="punctuation">Remove Punctuation</label>
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400 text-base cursor-help" title="Removes all punctuation marks from the text.">info</span>
+</div>
+<label class="relative inline-flex cursor-pointer items-center">
+<input checked="" class="peer sr-only" id="punctuation" type="checkbox"/>
+<div class="peer h-6 w-11 rounded-full bg-slate-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-slate-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-primary peer-checked:after:translate-x-full peer-checked:after:border-white rtl:peer-checked:after:-translate-x-full dark:border-slate-600 dark:bg-slate-700"></div>
+</label>
+</div>
+<div class="flex items-center justify-between p-4 rounded-lg bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+<div class="flex items-center gap-2">
+<label class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal" for="tokenization">Tokenization</label>
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400 text-base cursor-help" title="Breaks down the text into individual words or 'tokens'.">info</span>
+</div>
+<label class="relative inline-flex cursor-pointer items-center">
+<input checked="" class="peer sr-only" id="tokenization" type="checkbox"/>
+<div class="peer h-6 w-11 rounded-full bg-slate-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-slate-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-primary peer-checked:after:translate-x-full peer-checked:after:border-white rtl:peer-checked:after:-translate-x-full dark:border-slate-600 dark:bg-slate-700"></div>
+</label>
+</div>
+<!-- Accordion for advanced option -->
+<details class="flex flex-col rounded-lg border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900/50 group" open="">
+<summary class="flex cursor-pointer list-none items-center justify-between gap-6 p-4">
+<div class="flex items-center justify-between w-full">
+<div class="flex items-center gap-2">
+<label class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal" for="stopwords">Stop-word Removal</label>
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400 text-base cursor-help" title="Removes common words (like 'the', 'a', 'is') that don't add much meaning.">info</span>
+</div>
+<div class="flex items-center gap-4">
+<label class="relative inline-flex cursor-pointer items-center">
+<input checked="" class="peer sr-only" id="stopwords" type="checkbox"/>
+<div class="peer h-6 w-11 rounded-full bg-slate-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-slate-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-primary peer-checked:after:translate-x-full peer-checked:after:border-white rtl:peer-checked:after:-translate-x-full dark:border-slate-600 dark:bg-slate-700"></div>
+</label>
+<span class="material-symbols-outlined text-slate-800 dark:text-slate-200 group-open:rotate-180 transition-transform">expand_more</span>
+</div>
+</div>
+</summary>
+<div class="border-t border-slate-200 dark:border-slate-800 p-4">
+<p class="text-slate-500 dark:text-slate-400 text-sm font-normal leading-normal pb-2">Edit the list of stop-words to be removed from the text. Each word should be on a new line.</p>
+<textarea class="w-full h-32 p-2 text-sm rounded-md border border-slate-300 dark:border-slate-700 bg-background-light dark:bg-background-dark text-slate-700 dark:text-slate-300 focus:ring-primary focus:border-primary" placeholder="the
+a
+is
+in
+of..."></textarea>
+</div>
+</details>
+<div class="flex items-center justify-between p-4 rounded-lg bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800">
+<div class="flex items-center gap-2">
+<label class="text-slate-800 dark:text-slate-200 text-sm font-medium leading-normal" for="stemming">Stemming</label>
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400 text-base cursor-help" title="Reduces words to their root form (e.g., 'running' becomes 'run').">info</span>
+</div>
+<label class="relative inline-flex cursor-pointer items-center">
+<input class="peer sr-only" id="stemming" type="checkbox"/>
+<div class="peer h-6 w-11 rounded-full bg-slate-200 after:absolute after:start-[2px] after:top-[2px] after:h-5 after:w-5 after:rounded-full after:border after:border-slate-300 after:bg-white after:transition-all after:content-[''] peer-checked:bg-primary peer-checked:after:translate-x-full peer-checked:after:border-white rtl:peer-checked:after:-translate-x-full dark:border-slate-600 dark:bg-slate-700"></div>
+</label>
+</div>
+</div>
+<!-- Action Buttons -->
+<div class="flex gap-4 pt-4 border-t border-slate-200 dark:border-slate-800">
+<button class="flex-1 flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-primary text-white text-sm font-bold leading-normal tracking-[0.015em] hover:bg-primary/90">
+<span class="truncate">Apply &amp; Summarize</span>
+</button>
+<button class="flex min-w-[84px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-slate-200 text-slate-800 text-sm font-bold leading-normal tracking-[0.015em] hover:bg-slate-300 dark:bg-slate-800 dark:text-slate-200 dark:hover:bg-slate-700">
+<span class="truncate">Reset to Defaults</span>
+</button>
+</div>
+</div>
+<!-- Right Panel: Preview -->
+<div class="flex flex-col h-full">
+<h2 class="text-slate-900 dark:text-white text-[22px] font-bold leading-tight tracking-[-0.015em] border-b border-slate-200 dark:border-slate-800 pb-3 mb-6">Document Preview</h2>
+<div class="flex-1 flex flex-col rounded-lg bg-white dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800 min-h-[500px]">
+<!-- Tabs -->
+<div class="flex border-b border-slate-200 dark:border-slate-800">
+<button class="flex-1 py-3 px-4 text-sm font-semibold text-slate-500 dark:text-slate-400 border-b-2 border-transparent hover:bg-slate-50 dark:hover:bg-slate-800/50">Original Text</button>
+<button class="flex-1 py-3 px-4 text-sm font-semibold text-primary border-b-2 border-primary">Processed Preview</button>
+</div>
+<!-- Text Area -->
+<div class="p-4 overflow-y-auto h-full text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
+<p>
+                  abstract introduction clinical trial aim evaluate efficacy safety new drug cx1 patient moderate severe rheumatoid arthritis result primary endpoint acr20 response rate week 12 significantly higher cx1 group 65 compare placebo group 30 p 0001 secondary endpoint include das28crp sf36 also show significant improvement cx1 group conclusion cx1 well tolerate effective treat moderate severe rheumatoid arthritis
+                  <del class="text-red-500/50 bg-red-500/10">. an</del> <del class="text-red-500/50 bg-red-500/10">this</del> <del class="text-red-500/50 bg-red-500/10">was</del> <del class="text-red-500/50 bg-red-500/10">a</del> <del class="text-red-500/50 bg-red-500/10">to</del> <del class="text-red-500/50 bg-red-500/10">the</del> <del class="text-red-500/50 bg-red-500/10">and</del> <del class="text-red-500/50 bg-red-500/10">of</del> <del class="text-red-500/50 bg-red-500/10">in</del> <del class="text-red-500/50 bg-red-500/10">with</del> <del class="text-red-500/50 bg-red-500/10">for</del>
+                  the data show that the treatment is promising and further research is warranted to explore long-term outcomes and potential adverse effects. patient report significant reduction pain stiffness improve physical function compare baseline measurement.
+                </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</body></html>

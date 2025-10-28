@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>BioSummarize AI - Model Validation Center</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script>
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "primary": "#1193d4",
+                        "background-light": "#f8f9fa",
+                        "background-dark": "#101c22",
+                        "positive": "#50E3C2",
+                        "text-light": "#343A40",
+                        "text-dark": "#f8f9fa",
+                        "border-light": "#dee2e6",
+                        "border-dark": "#374151"
+                    },
+                    fontFamily: {
+                        "display": ["Inter", "sans-serif"]
+                    },
+                    borderRadius: {
+                        "DEFAULT": "0.25rem",
+                        "lg": "0.5rem",
+                        "xl": "0.75rem",
+                        "full": "9999px"
+                    },
+                },
+            },
+        }
+    </script>
+<style>
+         body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-text-light dark:text-text-dark">
+<div class="flex h-screen w-full flex-col">
+<header class="flex shrink-0 items-center justify-between whitespace-nowrap border-b border-solid border-border-light dark:border-border-dark px-6 py-3 bg-white dark:bg-background-dark sticky top-0 z-20">
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-primary text-2xl">science</span>
+<h2 class="text-lg font-bold tracking-[-0.015em]">BioSummarize AI</h2>
+</div>
+<div class="flex flex-1 items-center justify-center gap-8">
+<a class="text-sm font-medium opacity-60 hover:opacity-100" href="#">Dashboard</a>
+<a class="text-sm font-medium opacity-60 hover:opacity-100" href="#">Model Training</a>
+<a class="text-sm font-medium text-primary" href="#">Validation</a>
+</div>
+<div class="flex items-center gap-2">
+<button class="flex h-10 w-10 cursor-pointer items-center justify-center overflow-hidden rounded-lg bg-background-light dark:bg-white/10 hover:bg-gray-200 dark:hover:bg-white/20">
+<span class="material-symbols-outlined text-xl">settings</span>
+</button>
+<button class="flex h-10 w-10 cursor-pointer items-center justify-center overflow-hidden rounded-lg bg-background-light dark:bg-white/10 hover:bg-gray-200 dark:hover:bg-white/20">
+<span class="material-symbols-outlined text-xl">notifications</span>
+</button>
+<div class="ml-2 size-10 rounded-full bg-cover bg-center bg-no-repeat" data-alt="User profile picture of a man with glasses" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDwDDH1LkpsqsbBBB3oMZM18I2Q9IlZ9MWbxLWVMQHtDMqAZBxhjciE_aJal8b1ElQkEHsvdvW1z-2fptT3ZX7DE9VqazUyv6q91lF3KQyu3o7Yc6RAcEGGuRTAP9EdjlISEeMwnPsyJRTCsmglG7kJHnmHWGW__iM9gVGABt3LuhxtnH3HhIdc0zsXeIUonexhMOiuNvP8RQcIV32V23vCijQHrNKZ18lCbDmeOm-0h2lmmZmGEMv8xhZOOCZeOqgDsIFKiXvD_pQ");'></div>
+</div>
+</header>
+<div class="flex flex-1 overflow-hidden">
+<!-- Left Sidebar: Control Panel -->
+<aside class="flex w-80 shrink-0 flex-col border-r border-solid border-border-light dark:border-border-dark bg-white dark:bg-background-dark p-6 overflow-y-auto">
+<div class="flex flex-col gap-2 mb-6">
+<h1 class="text-base font-medium">Control Panel</h1>
+<p class="text-sm font-normal text-text-light/60 dark:text-text-dark/60">Configure &amp; Run Tests</p>
+</div>
+<div class="flex flex-col gap-6">
+<label class="flex flex-col">
+<p class="pb-2 text-sm font-medium">Select Model</p>
+<select class="form-select w-full rounded-lg border-border-light dark:border-border-dark bg-background-light dark:bg-white/10 focus:border-primary focus:ring-primary focus:ring-opacity-50 text-sm">
+<option>BioBERT-Summarizer-v1.2</option>
+<option>ClinicalGPT-FineTuned</option>
+<option>PubMed-DistilBERT</option>
+</select>
+</label>
+<label class="flex flex-col">
+<p class="pb-2 text-sm font-medium">Validation Dataset</p>
+<select class="form-select w-full rounded-lg border-border-light dark:border-border-dark bg-background-light dark:bg-white/10 focus:border-primary focus:ring-primary focus:ring-opacity-50 text-sm">
+<option>PubMed Abstracts Q4</option>
+<option>Clinical Trials Set B</option>
+<option>EMEA Documentation Set</option>
+</select>
+</label>
+<div class="flex flex-col">
+<p class="pb-2 text-sm font-medium">Quick Test (Unstructured Text)</p>
+<textarea class="form-textarea w-full rounded-lg border-border-light dark:border-border-dark bg-background-light dark:bg-white/10 focus:border-primary focus:ring-primary focus:ring-opacity-50 text-sm h-32 resize-none" placeholder="Paste your text data here..."></textarea>
+</div>
+<button class="flex h-11 w-full cursor-pointer items-center justify-center overflow-hidden rounded-lg bg-primary text-white text-sm font-bold tracking-[0.015em]">
+<span class="truncate">Run Validation Test</span>
+</button>
+</div>
+<div class="mt-8 flex flex-col gap-4 border-t border-border-light dark:border-border-dark pt-6">
+<h2 class="text-base font-medium">Test History</h2>
+<div class="flex flex-col gap-2">
+<div class="flex cursor-pointer items-center gap-3 rounded-lg bg-primary/10 dark:bg-primary/20 p-3">
+<span class="material-symbols-outlined text-primary text-2xl">history</span>
+<div class="flex flex-col">
+<p class="text-sm font-medium">BioBERT-Summarizer-v1.2</p>
+<p class="text-xs text-text-light/60 dark:text-text-dark/60">2024-10-26 14:30 UTC</p>
+</div>
+</div>
+<div class="flex cursor-pointer items-center gap-3 rounded-lg p-3 hover:bg-gray-100 dark:hover:bg-white/10">
+<span class="material-symbols-outlined text-2xl">history</span>
+<div class="flex flex-col">
+<p class="text-sm font-medium">ClinicalGPT-FineTuned</p>
+<p class="text-xs text-text-light/60 dark:text-text-dark/60">2024-10-26 11:15 UTC</p>
+</div>
+</div>
+<div class="flex cursor-pointer items-center gap-3 rounded-lg p-3 hover:bg-gray-100 dark:hover:bg-white/10">
+<span class="material-symbols-outlined text-2xl">history</span>
+<div class="flex flex-col">
+<p class="text-sm font-medium">BioBERT-Summarizer-v1.2</p>
+<p class="text-xs text-text-light/60 dark:text-text-dark/60">2024-10-25 09:05 UTC</p>
+</div>
+</div>
+</div>
+</div>
+</aside>
+<!-- Main Content Area -->
+<main class="flex-1 overflow-y-auto bg-background-light dark:bg-background-dark p-8">
+<div class="flex items-center justify-between gap-3 pb-6">
+<p class="text-3xl font-bold tracking-tight">Model Validation Center</p>
+</div>
+<div class="border-b border-border-light dark:border-border-dark">
+<nav aria-label="Tabs" class="-mb-px flex space-x-6">
+<a class="whitespace-nowrap border-b-2 border-primary px-1 pb-3 text-sm font-medium text-primary" href="#">Performance Metrics</a>
+<a class="whitespace-nowrap border-b-2 border-transparent px-1 pb-3 text-sm font-medium text-text-light/60 dark:text-text-dark/60 hover:border-gray-300" href="#">Summary Comparison</a>
+<a class="whitespace-nowrap border-b-2 border-transparent px-1 pb-3 text-sm font-medium text-text-light/60 dark:text-text-dark/60 hover:border-gray-300" href="#">Result Details</a>
+</nav>
+</div>
+<div class="grid grid-cols-1 gap-6 pt-6 sm:grid-cols-2 lg:grid-cols-4">
+<div class="rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50 p-5">
+<h3 class="text-sm font-medium text-text-light/60 dark:text-text-dark/60">ROUGE-1 Score</h3>
+<p class="mt-1 text-3xl font-semibold text-positive">0.824</p>
+</div>
+<div class="rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50 p-5">
+<h3 class="text-sm font-medium text-text-light/60 dark:text-text-dark/60">BLEU Score</h3>
+<p class="mt-1 text-3xl font-semibold">0.751</p>
+</div>
+<div class="rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50 p-5">
+<h3 class="text-sm font-medium text-text-light/60 dark:text-text-dark/60">Precision</h3>
+<p class="mt-1 text-3xl font-semibold">0.892</p>
+</div>
+<div class="rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50 p-5">
+<h3 class="text-sm font-medium text-text-light/60 dark:text-text-dark/60">F1-Score</h3>
+<p class="mt-1 text-3xl font-semibold">0.857</p>
+</div>
+</div>
+<div class="mt-8 rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50 p-6">
+<h3 class="text-lg font-semibold">ROUGE-1 Score Comparison</h3>
+<div class="mt-4 h-80 bg-contain bg-center bg-no-repeat" data-alt="Bar chart showing ROUGE-1 score comparison between different models." style="background-image: url('https://lh3.googleusercontent.com/aida-public/AB6AXuDQbDskmRxDyatpxscRQyRNWezsHL8A7MSr4w4q5ptNs38xKvnw-VnMUKURkJIpe5AxF5jxAICWtN2o0wGnYGburb_igNyhO7lfBjUjVAheWstDJwbDymq7xwZOa2lgKiLZ_e5zjvZhBZz-BrXclxrJ4M_Om5OW4NHJJTJZOu9X2rDMHVTsHK_r90OzvWSkVFkJcdZDPud1lsYxr_Icb0BQ8z5JZyi8WIv6leHirN90SVoC0clnG8jU1GdWJXP7uR5IbO1xO18W71A');"></div>
+</div>
+<div class="mt-8 rounded-xl border border-border-light dark:border-border-dark bg-white dark:bg-background-dark/50">
+<h3 class="p-6 text-lg font-semibold">Result Details</h3>
+<div class="overflow-x-auto">
+<table class="min-w-full divide-y divide-border-light dark:divide-border-dark text-sm">
+<thead class="bg-gray-50 dark:bg-white/5">
+<tr>
+<th class="px-6 py-3 text-left font-medium" scope="col">Document ID</th>
+<th class="px-6 py-3 text-left font-medium" scope="col">Generated Summary</th>
+<th class="px-6 py-3 text-left font-medium" scope="col">Reference Summary</th>
+<th class="px-6 py-3 text-center font-medium" scope="col">Score</th>
+</tr>
+</thead>
+<tbody class="divide-y divide-border-light dark:divide-border-dark">
+<tr>
+<td class="whitespace-nowrap px-6 py-4 font-mono">PMID:34...</td>
+<td class="max-w-xs truncate px-6 py-4">The study found a significant correlation...</td>
+<td class="max-w-xs truncate px-6 py-4">Our research indicates a strong link...</td>
+<td class="whitespace-nowrap px-6 py-4 text-center font-semibold text-positive">0.91</td>
+</tr>
+<tr>
+<td class="whitespace-nowrap px-6 py-4 font-mono">NCT04...</td>
+<td class="max-w-xs truncate px-6 py-4">Patients in the experimental group showed...</td>
+<td class="max-w-xs truncate px-6 py-4">The experimental cohort demonstrated improved...</td>
+<td class="whitespace-nowrap px-6 py-4 text-center font-semibold text-positive">0.88</td>
+</tr>
+<tr>
+<td class="whitespace-nowrap px-6 py-4 font-mono">EMEA/H...</td>
+<td class="max-w-xs truncate px-6 py-4">No adverse effects were reported...</td>
+<td class="max-w-xs truncate px-6 py-4">The safety profile was favorable with no...</td>
+<td class="whitespace-nowrap px-6 py-4 text-center font-semibold text-positive">0.95</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</main>
+<!-- Right Sidebar: Summary Panel -->
+<aside class="w-80 shrink-0 border-l border-solid border-border-light dark:border-border-dark bg-white dark:bg-background-dark p-6 overflow-y-auto">
+<div class="flex flex-col">
+<h2 class="text-base font-medium">Selected Model Details</h2>
+<div class="mt-4 flex flex-col gap-3 rounded-lg border border-border-light dark:border-border-dark p-4">
+<div class="flex justify-between text-sm">
+<span class="text-text-light/60 dark:text-text-dark/60">Model Name:</span>
+<span class="font-medium">BioBERT-Summarizer-v1.2</span>
+</div>
+<div class="flex justify-between text-sm">
+<span class="text-text-light/60 dark:text-text-dark/60">Base Arch:</span>
+<span class="font-medium">BERT</span>
+</div>
+<div class="flex justify-between text-sm">
+<span class="text-text-light/60 dark:text-text-dark/60">Training Date:</span>
+<span class="font-medium">2024-09-15</span>
+</div>
+</div>
+</div>
+<div class="mt-8 flex flex-col">
+<h2 class="text-base font-medium">Latest Test Summary</h2>
+<div class="mt-4 flex flex-col gap-3 rounded-lg border border-border-light dark:border-border-dark p-4">
+<div class="flex justify-between text-sm items-center">
+<span class="text-text-light/60 dark:text-text-dark/60">ROUGE-1</span>
+<span class="font-semibold text-lg text-positive">0.824</span>
+</div>
+<div class="flex justify-between text-sm items-center">
+<span class="text-text-light/60 dark:text-text-dark/60">BLEU</span>
+<span class="font-semibold text-lg">0.751</span>
+</div>
+<div class="flex justify-between text-sm items-center">
+<span class="text-text-light/60 dark:text-text-dark/60">Precision</span>
+<span class="font-semibold text-lg">0.892</span>
+</div>
+<div class="flex justify-between text-sm items-center">
+<span class="text-text-light/60 dark:text-text-dark/60">Recall</span>
+<span class="font-semibold text-lg">0.825</span>
+</div>
+<div class="flex justify-between text-sm items-center">
+<span class="text-text-light/60 dark:text-text-dark/60">F1-Score</span>
+<span class="font-semibold text-lg">0.857</span>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</body></html>

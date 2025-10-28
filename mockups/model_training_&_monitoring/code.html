@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+
+<html class="light" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>AI Model Training Dashboard</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "primary": "#3B82F6",
+            "background-light": "#F9FAFB",
+            "background-dark": "#1F2937",
+          },
+          fontFamily: {
+            "display": ["Inter", "sans-serif"]
+          },
+          borderRadius: {
+            "DEFAULT": "0.25rem",
+            "lg": "0.5rem",
+            "xl": "0.75rem",
+            "full": "9999px"
+          },
+        },
+      },
+    }
+  </script>
+<style>
+    .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 400,
+      'GRAD' 0,
+      'opsz' 24
+    }
+    .material-symbols-outlined.fill {
+        font-variation-settings: 'FILL' 1;
+    }
+  </style>
+</head>
+<body class="bg-background-light dark:bg-background-dark font-display text-gray-800 dark:text-gray-200">
+<div class="flex min-h-screen">
+<!-- SideNavBar -->
+<aside class="w-64 flex-shrink-0 bg-white dark:bg-gray-900/50 border-r border-gray-200 dark:border-gray-800">
+<div class="flex h-full flex-col justify-between p-4">
+<div class="flex flex-col gap-4">
+<div class="flex items-center gap-3 p-2">
+<div class="bg-center bg-no-repeat aspect-square bg-cover rounded-full size-10" data-alt="User profile picture of Dr. Anya Sharma" style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuARRHYaZPWsa3wzPfYm7srild7sPVFAT9VLhejeogGgAzmLoRJWXKmVsCGfgUSD91D05na_YGoxhFXT_3y3ns6m0rzcAO2MSeG0zTDs0GbK2B-O80hkfX420G_lncbbY6Q02fceGTF3FxNhrAVkKuYhSBh-OX08WGpawgGjoG-hnpMetCAOoahcoYWGywZZi6AQL8h8yO5THEENbIyzdJ_zMjHH9IGfnOwchJRFNiWyUcR0kc_t7zuPoJme2_uCUoraE5uMNIbX77c");'></div>
+<div class="flex flex-col">
+<h1 class="text-gray-900 dark:text-white text-sm font-semibold leading-normal">Dr. Anya Sharma</h1>
+<p class="text-gray-500 dark:text-gray-400 text-xs font-normal leading-normal">Bio-NLP Researcher</p>
+</div>
+</div>
+<nav class="flex flex-col gap-2 mt-4">
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">dashboard</span>
+<p class="text-sm font-medium leading-normal">Dashboard</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 rounded-lg bg-primary/10 dark:bg-primary/20 text-primary dark:text-primary-300" href="#">
+<span class="material-symbols-outlined fill text-primary dark:text-primary-300">model_training</span>
+<p class="text-sm font-medium leading-normal">Training</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">dataset</span>
+<p class="text-sm font-medium leading-normal">Datasets</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">memory</span>
+<p class="text-sm font-medium leading-normal">Models</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">history</span>
+<p class="text-sm font-medium leading-normal">History</p>
+</a>
+</nav>
+</div>
+<div class="flex flex-col gap-1">
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">settings</span>
+<p class="text-sm font-medium leading-normal">Settings</p>
+</a>
+<a class="flex items-center gap-3 px-3 py-2 text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg" href="#">
+<span class="material-symbols-outlined text-gray-800 dark:text-gray-200">help</span>
+<p class="text-sm font-medium leading-normal">Help</p>
+</a>
+</div>
+</div>
+</aside>
+<!-- Main Content -->
+<main class="flex-1 p-8">
+<div class="flex flex-col gap-8">
+<!-- PageHeading -->
+<header>
+<p class="text-gray-900 dark:text-white text-3xl font-bold leading-tight tracking-tight">Model Training</p>
+<p class="text-gray-500 dark:text-gray-400 mt-1">Initiate and monitor your Bio-NLP model training sessions.</p>
+</header>
+<!-- Main Grid Layout -->
+<div class="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+<!-- Left Column: Setup & Controls -->
+<div class="lg:col-span-1 xl:col-span-1 flex flex-col gap-6">
+<div class="bg-white dark:bg-gray-900/50 p-6 rounded-xl border border-gray-200 dark:border-gray-800">
+<h2 class="text-gray-900 dark:text-white text-lg font-bold">Training Configuration</h2>
+<div class="flex flex-col gap-6 mt-6">
+<!-- Model Selection -->
+<label class="flex flex-col w-full">
+<p class="text-gray-800 dark:text-gray-200 text-sm font-medium leading-normal pb-2">Model Selection</p>
+<select class="form-select w-full rounded-lg text-gray-800 dark:text-gray-200 focus:outline-0 focus:ring-2 focus:ring-primary/50 border-gray-300 dark:border-gray-700 bg-background-light dark:bg-gray-800 focus:border-primary dark:focus:border-primary h-12 text-sm">
+<option>BioBERT-Large-v1.1</option>
+<option>ClinicalBERT</option>
+<option>PubMedBERT</option>
+</select>
+</label>
+<!-- Dataset Selection -->
+<label class="flex flex-col w-full">
+<p class="text-gray-800 dark:text-gray-200 text-sm font-medium leading-normal pb-2">Dataset Selection</p>
+<select class="form-select w-full rounded-lg text-gray-800 dark:text-gray-200 focus:outline-0 focus:ring-2 focus:ring-primary/50 border-gray-300 dark:border-gray-700 bg-background-light dark:bg-gray-800 focus:border-primary dark:focus:border-primary h-12 text-sm">
+<option>MIMIC-III Clinical Notes</option>
+<option>PubMed Abstracts 2023</option>
+<option>i2b2 Clinical Corpus</option>
+</select>
+</label>
+<!-- Hyperparameters -->
+<div class="border-t border-gray-200 dark:border-gray-700 pt-6">
+<h3 class="text-gray-800 dark:text-gray-200 text-base font-semibold">Hyperparameters</h3>
+<div class="space-y-4 mt-4">
+<label class="flex flex-col">
+<div class="flex justify-between items-center pb-2">
+<span class="text-gray-800 dark:text-gray-200 text-sm font-medium">Learning Rate</span>
+<span class="text-gray-600 dark:text-gray-400 text-sm font-mono">0.00005</span>
+</div>
+<input class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-primary" max="0.001" min="0.00001" step="0.00001" type="range" value="0.00005"/>
+</label>
+<label class="flex flex-col">
+<div class="flex justify-between items-center pb-2">
+<span class="text-gray-800 dark:text-gray-200 text-sm font-medium">Epochs</span>
+<span class="text-gray-600 dark:text-gray-400 text-sm font-mono">5</span>
+</div>
+<input class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-primary" max="20" min="1" type="range" value="5"/>
+</label>
+<label class="flex flex-col">
+<div class="flex justify-between items-center pb-2">
+<span class="text-gray-800 dark:text-gray-200 text-sm font-medium">Batch Size</span>
+<span class="text-gray-600 dark:text-gray-400 text-sm font-mono">16</span>
+</div>
+<input class="w-full h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-primary" max="64" min="4" step="4" type="range" value="16"/>
+</label>
+</div>
+</div>
+<!-- Control Buttons -->
+<div class="flex flex-col gap-3 pt-6 border-t border-gray-200 dark:border-gray-700">
+<button class="flex items-center justify-center gap-2 w-full bg-primary hover:bg-primary/90 text-white font-semibold py-3 px-4 rounded-lg transition-colors">
+<span class="material-symbols-outlined text-xl">play_arrow</span>
+                    Start Training
+                  </button>
+<div class="grid grid-cols-2 gap-3">
+<button class="flex items-center justify-center gap-2 w-full bg-yellow-400/20 hover:bg-yellow-400/30 text-yellow-600 dark:text-yellow-400 font-semibold py-3 px-4 rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed" disabled="">
+<span class="material-symbols-outlined text-xl">pause</span>
+                       Pause
+                     </button>
+<button class="flex items-center justify-center gap-2 w-full bg-red-500/20 hover:bg-red-500/30 text-red-600 dark:text-red-500 font-semibold py-3 px-4 rounded-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed" disabled="">
+<span class="material-symbols-outlined text-xl">stop</span>
+                       Stop
+                     </button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Center Column: Live Monitoring -->
+<div class="lg:col-span-2 xl:col-span-2 flex flex-col gap-6">
+<div class="bg-white dark:bg-gray-900/50 p-6 rounded-xl border border-gray-200 dark:border-gray-800">
+<div class="flex justify-between items-start">
+<div>
+<h2 class="text-gray-900 dark:text-white text-lg font-bold">Training Progress</h2>
+<p class="text-sm text-gray-500 dark:text-gray-400 mt-1">Live metrics from current training session.</p>
+</div>
+<div class="flex items-center gap-2 bg-green-100 dark:bg-green-900/50 text-green-700 dark:text-green-400 text-xs font-semibold px-3 py-1 rounded-full">
+<div class="size-2 bg-green-500 rounded-full"></div>
+                      Training
+                  </div>
+</div>
+<!-- Progress Bar -->
+<div class="mt-6">
+<div class="flex justify-between items-baseline mb-2">
+<span class="text-gray-800 dark:text-gray-200 text-sm font-medium">Overall Progress (Epoch 3/5)</span>
+<span class="text-primary dark:text-primary-300 text-lg font-bold">58%</span>
+</div>
+<div class="w-full bg-gray-200 dark:bg-gray-700 rounded-full h-3">
+<div class="bg-primary h-3 rounded-full" style="width: 58%"></div>
+</div>
+</div>
+<!-- Real-time Charts -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mt-8">
+<div class="col-span-1">
+<p class="text-sm font-medium text-gray-800 dark:text-gray-200">Training Loss</p>
+<img class="w-full mt-2 h-40 object-cover rounded-lg border border-gray-200 dark:border-gray-800" data-alt="Line chart showing a downward trend for training loss over 3 epochs" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDZrBYvSC35G1yOYFuoLdvnFH3pnQzBYnckhuq52OaVzowzDERozktOO3Occ7EDc46rUWu7kQX6fzYVzNBqxZKWPrXNn4CeSWAkD_KPHHSwTnllNFDrHu66FlIUCoHrw6teU7bbrH6if4oEaB3fKtGm_Id_pSSa9Q2hYwxTQgaGM09_a2Grr5pUh6CxjiFa4gTpu7Dr54p2exxcP4drSRWWpBUM7uYgyrYdOUq-V900GKn_RZnvGsj1Pnx861_Fji1GbNaOZDVOU-c"/>
+</div>
+<div class="col-span-1">
+<p class="text-sm font-medium text-gray-800 dark:text-gray-200">Validation Accuracy</p>
+<img class="w-full mt-2 h-40 object-cover rounded-lg border border-gray-200 dark:border-gray-800" data-alt="Line chart showing an upward trend for validation accuracy over 3 epochs" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRl9omu5bScLCaPycR_RUI_OqxypjHR4q8B-XcpSZVh8g3oigq8_nSxS-aXhU_0-f3ChZhOyeAgZEEfs6z_jTKyhwp1snrJ5jSq_l2FfNbf6jzAprVWST3BU_X3F3Ggo8ie0Iq4966zuRp45ueIwyOuFwk4i9-zp4RvKyEaJHc2uGvlWUZMKWn93Hr7UYokwgVw-E2Q2AfB7Laac-8LP89GRMj3OTH5oXGJi_GZ96yH1wWhbfhYCYHqFa30lYJMCnrJap7Pvpui2o"/>
+</div>
+</div>
+</div>
+<!-- Log Viewer -->
+<div class="bg-white dark:bg-gray-900/50 p-6 rounded-xl border border-gray-200 dark:border-gray-800">
+<h2 class="text-gray-900 dark:text-white text-lg font-bold">Live Log</h2>
+<div class="bg-gray-100 dark:bg-gray-800/50 rounded-lg p-4 mt-4 h-64 overflow-y-auto">
+<pre class="text-xs font-mono text-gray-600 dark:text-gray-400 whitespace-pre-wrap">[2023-10-27 10:32:15] - INFO - Starting training run ID: bio-nlp-run-8b1a...
+[2023-10-27 10:32:18] - INFO - Loading dataset 'MIMIC-III Clinical Notes'...
+[2023-10-27 10:32:25] - INFO - Dataset loaded. 58,976 records found.
+[2023-10-27 10:32:30] - INFO - Epoch 1/5, Step 100/1843 - loss: 0.6532, acc: 0.8210
+[2023-10-27 10:32:45] - INFO - Epoch 1/5, Step 200/1843 - loss: 0.5981, acc: 0.8350
+[2023-10-27 10:33:50] - INFO - Epoch 2/5, Step 100/1843 - loss: 0.4211, acc: 0.8905
+[2023-10-27 10:34:05] - INFO - Epoch 2/5, Step 200/1843 - loss: 0.4003, acc: 0.8990
+[2023-10-27 10:35:10] - INFO - Epoch 3/5, Step 100/1843 - loss: 0.2845, acc: 0.9312
+[2023-10-27 10:35:25] - INFO - Epoch 3/5, Step 158/1843 - loss: 0.2799, acc: 0.9345
+                    </pre>
+</div>
+</div>
+</div>
+<!-- Right Column: Job Summary -->
+<div class="lg:col-span-3 xl:col-span-1">
+<div class="bg-white dark:bg-gray-900/50 p-6 rounded-xl border border-gray-200 dark:border-gray-800 sticky top-8">
+<h2 class="text-gray-900 dark:text-white text-lg font-bold">Job Details</h2>
+<div class="space-y-4 mt-6">
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Model Name</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">BioBERT-Large-v1.1</p>
+</div>
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Dataset</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">MIMIC-III</p>
+</div>
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Dataset Size</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">58,976 records</p>
+</div>
+</div>
+<div class="border-t border-gray-200 dark:border-gray-700 mt-6 pt-6 space-y-4">
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Start Time</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">10:32 AM</p>
+</div>
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Elapsed Time</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">3m 10s</p>
+</div>
+<div class="flex justify-between items-center">
+<p class="text-sm text-gray-500 dark:text-gray-400">Est. Time Remaining</p>
+<p class="text-sm font-semibold text-gray-800 dark:text-gray-200">~ 2m 15s</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</body></html>
