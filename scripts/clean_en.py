@@ -1,330 +1,228 @@
-import os, re, html, yaml, regex, argparse, hashlib
+import os
+import re
+import unicodedata
+import boto3
 import pandas as pd
-from typing import List, Tuple, Iterable
-from bs4 import BeautifulSoup
-from unidecode import unidecode
-import ftfy
-import fsspec
-from smart_open import open as sopen
-import spacy
-from tqdm import tqdm
 
-# --------- Regex & helpers ----------
-URL_RE   = re.compile(r"https?://\S+|www\.\S+", re.I)
+BUCKET = "biores-maia-data-clean"
+PREFIX_NOPLS = "textos_final/no_pls/"
+PREFIX_PLS = "textos_final/pls/"
+OUTPUT_LOCAL_DIR = "data_final"
+S3_OUTPUT_PREFIX = "data_final"
+TEST_SIZE = 0.2
+MIN_WORDS_PARAGRAPH = 300
+RANDOM_STATE = 42
+
+os.makedirs(OUTPUT_LOCAL_DIR, exist_ok=True)
+s3 = boto3.client("s3")
+
+URL_RE = re.compile(r"https?://\S+|www\.\S+", re.I)
 EMAIL_RE = re.compile(r"\b[\w\.-]+@[\w\.-]+\.\w+\b", re.I)
-PHONE_RE = re.compile(r"\b(?:\+?\d{1,2}\s?)?(?:\(?\d{3}\)?[\s.-]?)?\d{3}[\s.-]?\d{4}\b")
-SSN_RE   = re.compile(r"\b\d{3}-\d{2}-\d{4}\b")
-DOB_RE   = re.compile(r"\b(?:\d{1,2}[/-]){2}\d{2,4}\b")
-MRN_RE   = re.compile(r"\bMRN[:\s]*\w+\b", re.I)
-HAS_TAGS_RE = re.compile(r"<[a-zA-Z/][\s\S]*?>")
+PHONE_RE = re.compile(r"\b\+?\d[\d\s\-\(\)]{6,}\d\b")
+HASHTAG_RE = re.compile(r"#[A-Za-z0-9_]+")
+HTML_TAG_RE = re.compile(r"<[^>]+>")
+CONTROL_CHARS_RE = re.compile(r"[\x00-\x08\x0b-\x0c\x0e-\x1f\x7f]")
+MULTI_SPACE_RE = re.compile(r"\s+")
+MULTI_DOT_RE = re.compile(r"\.{3,}")
+MULTI_PUNCT_RE = re.compile(r"([!?]){2,}")
 
-def strip_html(x: str) -> str:
-    if not x:
-        return ""
-    if not HAS_TAGS_RE.search(x):
-        return x
-    return BeautifulSoup(x, "html.parser").get_text(" ")
+def list_txt_keys(prefix: str):
+    keys = []
+    paginator = s3.get_paginator("list_objects_v2")
+    for page in paginator.paginate(Bucket=BUCKET, Prefix=prefix):
+        for obj in page.get("Contents", []):
+            key = obj["Key"]
+            if key.lower().endswith(".txt"):
+                keys.append(key)
+    return keys
 
-def deidentify(t: str) -> str:
-    t = EMAIL_RE.sub("[EMAIL]", t)
-    t = PHONE_RE.sub("[PHONE]", t)
-    t = SSN_RE.sub("[SSN]", t)
-    t = DOB_RE.sub("[DATE]", t)
-    t = MRN_RE.sub("[MRN]", t)
-    return t
+def basename_without_ext(key: str) -> str:
+    return os.path.splitext(os.path.basename(key))[0]
 
-def normalize(text: str, cfg: dict) -> str:
-    if not text:
-        return ""
-    t = ftfy.fix_text(html.unescape(text))
-    if cfg.get("normalize_unicode", True):
-        t = unidecode(t)
-    if cfg.get("strip_html", True):
-        t = strip_html(t)
-    if cfg.get("replace_urls", True):
-        t = URL_RE.sub("[URL]", t)
-    if cfg.get("replace_emails", True):
-        t = EMAIL_RE.sub("[EMAIL]", t)
-    if cfg.get("deidentify_phi", True):
-        t = deidentify(t)
-    rn = cfg.get("replace_numbers", "normalize")
-    if rn == "mask":
-        t = regex.sub(r"\p{N}+", "[NUM]", t)
-    elif rn == "normalize":
-        t = regex.sub(r"\p{N}+", "0", t)
-    if cfg.get("lowercase", True):
-        t = t.lower()
-    if cfg.get("remove_punctuation", False):
-        t = regex.sub(r"[^\p{L}\p{N}\s]", " ", t)
-    if cfg.get("normalize_whitespace", True):
-        t = regex.sub(r"\s+", " ", t).strip()
-    return t
+def normalize_unicode(text: str) -> str:
+    return unicodedata.normalize("NFKC", text)
 
-def load_abbrev_map(csv_path: str):
-    if not os.path.exists(csv_path):
-        return {}, None
-    df = pd.read_csv(csv_path)
-    m = {str(a).strip().lower(): str(e).strip().lower()
-         for a, e in zip(df["abbr"], df["expanded"])
-         if str(a).strip() and str(e).strip()}
-    if not m:
-        return {}, None
-    patt = re.compile(r"\b(" + "|".join(map(re.escape, m.keys())) + r")\b", re.I)
-    return m, patt
+def clean_text(text: str) -> str:
+    text = normalize_unicode(text)
+    text = CONTROL_CHARS_RE.sub(" ", text)
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    text = re.sub(r"([^\n])\n([^\n])", r"\1 \2", text)
+    text = HTML_TAG_RE.sub(" ", text)
+    text = URL_RE.sub(" ", text)
+    text = EMAIL_RE.sub(" ", text)
+    text = PHONE_RE.sub(" ", text)
+    text = HASHTAG_RE.sub(" ", text)
+    text = re.sub(r"^[\s>*\-•·◦]+", "", text, flags=re.MULTILINE)
+    text = MULTI_DOT_RE.sub("...", text)
+    text = MULTI_PUNCT_RE.sub(r"\1", text)
+    text = re.sub(r"\s+([,.;:!?])", r"\1", text)
+    text = MULTI_SPACE_RE.sub(" ", text)
+    text = text.strip()
+    return text
 
-def expand_abbrev(t: str, m: dict, patt: re.Pattern | None) -> str:
-    if not m or patt is None:
-        return t
-    return patt.sub(lambda k: m[k.group(0).lower()], t)
+def get_source_from_key(key: str, base_prefix: str) -> str:
+    rest = key[len(base_prefix):]
+    parts = rest.split("/")
+    if len(parts) > 1:
+        return parts[0]
+    return "unknown"
 
-# --------- Sentence splitting & chunking ----------
-def get_sent_splitter(model="en_core_web_sm", n_process=2):
-    try:
-        # desactiva componentes pesados; el 'parser' es lo más lento
-        nlp = spacy.load(model, disable=["ner", "lemmatizer", "tagger", "parser"])
-    except Exception:
-        nlp = spacy.blank("en")
-    if "sentencizer" not in nlp.pipe_names:
-        nlp.add_pipe("sentencizer")
-    nlp.max_length = 2_000_000
-    nlp._n_process = n_process
-    return nlp
-
-def count_tokens_ws(text: str) -> int:
-    return len(text.split())
-
-def chunk_by_budget(sentences: List[str], max_tokens: int, overlap: int, joiner=" ") -> List[Tuple[str, int]]:
-    chunks: List[Tuple[str, int]] = []
-    buf, buf_tokens = [], 0
-    for s in sentences:
-        s_tok = count_tokens_ws(s)
-        if s_tok > max_tokens:
-            words = s.split()
-            start = 0
-            while start < len(words):
-                end = min(start + max_tokens, len(words))
-                part = joiner.join(words[start:end]).strip()
-                if part:
-                    chunks.append((part, end - start))
-                start = max(end - overlap, end)
+def build_df_from_prefix(prefix: str, label: str) -> pd.DataFrame:
+    keys = list_txt_keys(prefix)
+    print(f"[{label}] {len(keys)} archivos .txt en s3://{BUCKET}/{prefix}")
+    rows = []
+    for i, key in enumerate(keys, start=1):
+        obj = s3.get_object(Bucket=BUCKET, Key=key)
+        raw = obj["Body"].read().decode("utf-8", errors="ignore")
+        text = clean_text(raw)
+        if not text or len(text.split()) < 10:
             continue
-        if buf_tokens + s_tok <= max_tokens:
-            buf.append(s); buf_tokens += s_tok
-        else:
-            chunk_text = joiner.join(buf).strip()
-            if chunk_text:
-                chunks.append((chunk_text, buf_tokens))
-            tail = chunk_text.split()[-overlap:] if (overlap > 0 and chunk_text) else []
-            buf = ([" ".join(tail)] if tail else []) + [s]
-            buf_tokens = len(tail) + s_tok
-    if buf:
-        chunk_text = joiner.join(buf).strip()
-        if chunk_text:
-            chunks.append((chunk_text, buf_tokens))
-    return chunks
+        source = get_source_from_key(key, prefix)
+        rows.append({
+            "doc_id": basename_without_ext(key),
+            "text": text,
+            "label": label,
+            "source": source,
+            "n_chars": len(text),
+            "n_words": len(text.split()),
+            "s3_key": key,
+        })
+        if i % 500 == 0:
+            print(f"[{label}] procesados {i} archivos...")
+    df = pd.DataFrame(rows)
+    print(f"[{label}] total filas útiles: {df.shape[0]}")
+    if not df.empty:
+        print(f"[{label}] distribución por fuente:\n{df['source'].value_counts()}")
+    return df
 
-# --------- Labeling ----------
-def infer_label_from_path(path: str, pls_pats: list, npls_pats: list, default="NO_PLS") -> str:
-    p = (path or "").lower()
-    for pat in pls_pats:
-        if pat.lower() in p:
-            return "PLS"
-    for pat in npls_pats:
-        if pat.lower() in p:
-            return "NO_PLS"
-    return default
+def drop_exact_duplicates(df: pd.DataFrame, label: str) -> pd.DataFrame:
+    before = df.shape[0]
+    df = df.drop_duplicates(subset=["text"])
+    after = df.shape[0]
+    print(f"[{label}] duplicados exactos eliminados: {before - after}")
+    return df
 
-# --------- S3 listing & reading ----------
-def list_all_files(prefix: str) -> list:
-    fs = fsspec.filesystem("s3")
-    keys = fs.find(prefix.rstrip("/"))  # incluye TODO (no filtramos extensiones)
-    return [f"s3://{k}" if not str(k).startswith("s3://") else str(k) for k in keys]
+def save_df(df: pd.DataFrame, local_name: str, s3_name: str):
+    local_path = os.path.join(OUTPUT_LOCAL_DIR, local_name)
+    df.to_parquet(local_path, index=False)
+    print(f"Guardado local: {local_path}")
+    s3_key = f"{S3_OUTPUT_PREFIX}/{s3_name}"
+    s3.upload_file(local_path, BUCKET, s3_key)
+    print(f"Subido a S3: s3://{BUCKET}/{s3_key}")
 
-def read_any(path: str, text_col="text") -> pd.DataFrame:
-    """
-    Intenta leer como parquet/csv/json(l)/texto.
-    Si falla, levanta excepción (el caller creará un stub con read_ok=False).
-    """
-    lp = path.lower()
-    if lp.endswith(".parquet"):
-        return pd.read_parquet(path, storage_options={"anon": False})
-    if lp.endswith(".csv"):
-        return pd.read_csv(path, storage_options={"anon": False})
-    if lp.endswith(".tsv"):
-        return pd.read_csv(path, sep="\t", storage_options={"anon": False})
-    if lp.endswith(".jsonl"):
-        return pd.read_json(path, lines=True, storage_options={"anon": False})
-    if lp.endswith(".json"):
-        obj = pd.read_json(path, lines=False, storage_options={"anon": False})
-        return obj if isinstance(obj, pd.DataFrame) else pd.DataFrame([{text_col: obj}])
-    # fallback texto
-    with sopen(path, "r", encoding="utf-8") as f:
-        txt = f.read()
-    return pd.DataFrame([{text_col: txt}])
-
-# --------- Main ----------
-def main(cfg_path: str):
-    with open(cfg_path, "r", encoding="utf-8") as f:
-        cfg = yaml.safe_load(f)
-
-    io  = cfg["io"]
-    cln = cfg["cleaning"]
-    tok = cfg["tokenization"]
-    ch  = cfg["chunking"]
-    lab = cfg["labeling"]
-
-    text_col  = io["text_col"]
-    label_col = io.get("label_col", "label")
-    id_col    = io.get("id_col")
-    raw_prefix = io["s3_raw_prefix"].rstrip("/")
-    out_root   = io["s3_output_prefix"].rstrip("/")
-    local_out  = io["local_output_dir"]
-
-    pls_pats   = lab.get("pls_patterns", ["/pls/"])
-    npls_pats  = lab.get("no_pls_patterns", ["/non_pls/","/alx/","/med/","/not_taken_texts/","/tech/","/technical/"])
-    default_lb = lab.get("default_label", "NO_PLS")
-
-    limit = io.get("limit_files")
-
-    # 0) listar todo
-    paths = list_all_files(raw_prefix)
-    if not paths:
-        raise SystemExit(f"No se encontraron archivos en {raw_prefix}.")
-    if limit:
-        paths = paths[:int(limit)]
-        print(f"[INFO] Procesando solo {limit} archivos (modo prueba).")
-    print(f"[INFO] Encontrados {len(paths)} archivos bajo {raw_prefix} (muestra 10):")
-    for p in paths[:10]:
-        print("   -", p)
-
-    # mapa de abreviaturas
-    abbr_map, abbr_patt = load_abbrev_map("config/abbrev_map.csv") if cln.get("expand_abbrev", True) else ({}, None)
-
-    rows_pls, rows_npls = [], []
-    pbar = tqdm(paths, desc="🧹 Cleaning files", unit="file")
-
-    for i, pth in enumerate(pbar):
-        label = infer_label_from_path(pth, pls_pats, npls_pats, default_lb)
-
-        try:
-            dfp = read_any(pth, text_col=text_col)
-            dfp[text_col] = dfp[text_col].astype(str)
-            dfp["clean_text"] = dfp[text_col].map(lambda x: expand_abbrev(normalize(x, cln), abbr_map, abbr_patt))
-            read_ok = True
-        except Exception as e:
-            # si no se puede leer, igual categorizamos: fila stub
-            dfp = pd.DataFrame([{text_col: "", "clean_text": ""}])
-            read_ok = False
-
-        dfp[label_col] = label
-        dfp["source_path"] = pth
-        dfp["read_ok"] = read_ok
-
-        if not id_col or id_col not in dfp.columns:
-            dfp["doc_id"] = dfp[text_col].map(lambda x: hashlib.sha1(str(x).encode("utf-8")).hexdigest())
-        else:
-            dfp.rename(columns={id_col: "doc_id"}, inplace=True)
-
-        keep_cols = [c for c in [text_col, "clean_text", "doc_id", label_col, "source_path", "read_ok"] if c in dfp.columns]
-        (rows_pls if label == "PLS" else rows_npls).append(dfp[keep_cols])
-
-        if (i + 1) % 1000 == 0:
-            with open("clean_progress.txt", "w") as f:
-                f.write(str(i + 1))
-
-    # 1) concatenar por clase
-    df_pls  = pd.concat(rows_pls,  ignore_index=True) if rows_pls  else pd.DataFrame(columns=[text_col,"clean_text","doc_id",label_col,"source_path","read_ok"])
-    df_npls = pd.concat(rows_npls, ignore_index=True) if rows_npls else pd.DataFrame(columns=[text_col,"clean_text","doc_id",label_col,"source_path","read_ok"])
-
-    print("[INFO] Docs por clase (incluye stubs no legibles):", {"PLS": len(df_pls), "NO_PLS": len(df_npls)})
-
-    # 2) guardar CLEAN primero (local + S3)
-    out_pls_local  = os.path.join(local_out, "PLS")
-    out_npls_local = os.path.join(local_out, "NO_PLS")
-    os.makedirs(out_pls_local, exist_ok=True)
-    os.makedirs(out_npls_local, exist_ok=True)
-
-    p_doc_pls_local  = os.path.join(out_pls_local,  "data_final_clean.parquet")
-    p_doc_npls_local = os.path.join(out_npls_local, "data_final_clean.parquet")
-    df_pls.to_parquet(p_doc_pls_local, index=False)
-    df_npls.to_parquet(p_doc_npls_local, index=False)
-
-    out_pls_s3  = f"{out_root}/PLS"
-    out_npls_s3 = f"{out_root}/NO_PLS"
-    p_doc_pls_s3  = f"{out_pls_s3}/data_final_clean.parquet"
-    p_doc_npls_s3 = f"{out_npls_s3}/data_final_clean.parquet"
-    df_pls.to_parquet(p_doc_pls_s3,  index=False, storage_options={"anon": False})
-    df_npls.to_parquet(p_doc_npls_s3, index=False, storage_options={"anon": False})
-    print("[OK] CLEAN escritos en local y S3.")
-
-    # 3) chunking (solo para filas con texto; los stubs read_ok=False no generan chunks)
-    if ch.get("enabled", True):
-        nlp = get_sent_splitter(tok.get("spacy_model_en", "en_core_web_sm"),
-                                int(tok.get("n_process", 2)))
-        bs = int(tok.get("pipe_batch_size", 128))
-
-        def gen_chunks(df_docs: pd.DataFrame) -> pd.DataFrame:
-            if df_docs.empty:
-                return pd.DataFrame(columns=["doc_id","chunk_id","chunk_index","n_tokens",label_col,"chunk_text"])
-            df_docs = df_docs[df_docs["clean_text"].astype(str).str.len() > 0].copy()
-            if df_docs.empty:
-                return pd.DataFrame(columns=["doc_id","chunk_id","chunk_index","n_tokens",label_col,"chunk_text"])
-
-            texts   = df_docs["clean_text"].astype(str).tolist()
-            doc_ids = df_docs["doc_id"].tolist()
-            labels  = df_docs[label_col].tolist()
-            rows = []
-            use_sents = (ch.get("method","spacy-sentences") == "spacy-sentences")
-
-            for doc, doc_id, lab in tqdm(
-                zip(nlp.pipe(texts, n_process=nlp._n_process, batch_size=bs), doc_ids, labels),
-                total=len(texts), desc="✂️ Chunking", unit="doc"
-            ):
-                if use_sents:
-                    sents = [s.text.strip() for s in doc.sents if s.text.strip()] or [doc.text]
-                else:
-                    sents = [doc.text]
-
-                chunks = chunk_by_budget(
-                    sents,
-                    max_tokens=ch.get("max_tokens", 800),
-                    overlap=ch.get("overlap_tokens", 50),
-                    joiner=ch.get("joiner", " ")
-                )
-                for j, (ct, n_tok) in enumerate(chunks):
-                    rows.append({
-                        "doc_id": doc_id,
-                        "chunk_id": f"{doc_id}_{j:04d}",
-                        "chunk_index": j,
-                        "n_tokens": n_tok,
-                        label_col: lab,
-                        "chunk_text": ct
-                    })
-            return pd.DataFrame(rows)
-
-        df_chunks_pls  = gen_chunks(df_pls)
-        df_chunks_npls = gen_chunks(df_npls)
+def stratified_train_test_split(df: pd.DataFrame, test_size: float, random_state: int):
+    df = df.sample(frac=1.0, random_state=random_state).reset_index(drop=True)
+    dfs_train = []
+    dfs_test = []
+    for (_, _), df_grp in df.groupby(["label", "source"]):
+        df_grp = df_grp.sample(frac=1.0, random_state=random_state)
+        n = len(df_grp)
+        n_test = int(n * test_size)
+        if n_test == 0 and n > 1:
+            n_test = 1
+        if n_test >= n:
+            n_test = n - 1
+        if n_test <= 0:
+            dfs_train.append(df_grp)
+            continue
+        df_test_grp = df_grp.iloc[:n_test]
+        df_train_grp = df_grp.iloc[n_test:]
+        dfs_train.append(df_train_grp)
+        dfs_test.append(df_test_grp)
+    df_train = pd.concat(dfs_train).sample(frac=1.0, random_state=random_state)
+    if dfs_test:
+        df_test = pd.concat(dfs_test).sample(frac=1.0, random_state=random_state)
     else:
-        df_chunks_pls  = pd.DataFrame(columns=["doc_id","chunk_id","chunk_index","n_tokens",label_col,"chunk_text"])
-        df_chunks_npls = pd.DataFrame(columns=["doc_id","chunk_id","chunk_index","n_tokens",label_col,"chunk_text"])
+        df_test = pd.DataFrame(columns=df_train.columns)
+    df_train = df_train.assign(split="train")
+    df_test = df_test.assign(split="test")
+    return df_train, df_test
 
-    # 4) escribir CHUNKS
-    p_chk_pls_local  = os.path.join(out_pls_local,  "data_final_chunks.parquet")
-    p_chk_npls_local = os.path.join(out_npls_local, "data_final_chunks.parquet")
-    df_chunks_pls.to_parquet(p_chk_pls_local, index=False)
-    df_chunks_npls.to_parquet(p_chk_npls_local, index=False)
+def split_into_paragraphs(text: str):
+    paras = re.split(r"\n{2,}", text)
+    paras = [p.strip() for p in paras if p.strip()]
+    if not paras:
+        paras = [text]
+    return paras
 
-    p_chk_pls_s3  = f"{out_pls_s3}/data_final_chunks.parquet"
-    p_chk_npls_s3 = f"{out_npls_s3}/data_final_chunks.parquet"
-    df_chunks_pls.to_parquet(p_chk_pls_s3,  index=False, storage_options={"anon": False})
-    df_chunks_npls.to_parquet(p_chk_npls_s3, index=False, storage_options={"anon": False})
+def paragraphs_min_words(text: str, min_words: int):
+    paras = split_into_paragraphs(text)
+    paras = [p for p in paras if len(p.split()) >= min_words]
+    return paras
 
-    print("[OK] CHUNKS escritos en local y S3.")
-    print("[INFO] Finalizado.")
+def df_to_paragraph_units(df: pd.DataFrame, min_words: int) -> pd.DataFrame:
+    rows = []
+    for _, row in df.iterrows():
+        paras = paragraphs_min_words(row["text"], min_words=min_words)
+        for i, p in enumerate(paras):
+            rows.append({
+                "doc_id": row["doc_id"],
+                "unit_id": f"{row['doc_id']}_p{i}",
+                "text": p,
+                "label": row["label"],
+                "source": row["source"],
+                "split": row.get("split", "unknown"),
+                "n_chars": len(p),
+                "n_words": len(p.split()),
+                "s3_key": row["s3_key"],
+            })
+    df_units = pd.DataFrame(rows)
+    return df_units
+
+def print_stats_main(df_train: pd.DataFrame, df_test: pd.DataFrame):
+    print("\nDataset principal (documentos completos):")
+    print("Train total:", len(df_train))
+    print(df_train.groupby(["label", "source"]).size())
+    print("Test total:", len(df_test))
+    print(df_test.groupby(["label", "source"]).size())
+
+def print_stats_augmented(df_train_units: pd.DataFrame, df_test_units: pd.DataFrame):
+    print("\nDataset aumentado (párrafos >= palabras mínimas):")
+    print("Train total:", len(df_train_units))
+    print(df_train_units.groupby(["label", "source"]).size())
+    print("Test total:", len(df_test_units))
+    print(df_test_units.groupby(["label", "source"]).size())
+
+def main():
+    df_no = build_df_from_prefix(PREFIX_NOPLS, "no_pls")
+    if not df_no.empty:
+        df_no = drop_exact_duplicates(df_no, "no_pls")
+        save_df(df_no, "no_pls_clean.parquet", "no_pls_clean.parquet")
+    else:
+        print("[no_pls] sin filas útiles después de la limpieza.")
+    df_pl = build_df_from_prefix(PREFIX_PLS, "pls")
+    if not df_pl.empty:
+        df_pl = drop_exact_duplicates(df_pl, "pls")
+        save_df(df_pl, "pls_clean.parquet", "pls_clean.parquet")
+    else:
+        print("[pls] sin filas útiles después de la limpieza.")
+
+    df_all = pd.concat([df_no, df_pl], ignore_index=True)
+    if df_all.empty:
+        print("No hay datos para construir datasets.")
+        return
+
+    df_train_docs, df_test_docs = stratified_train_test_split(df_all, TEST_SIZE, RANDOM_STATE)
+    save_df(df_train_docs, "main_train.parquet", "main_train.parquet")
+    save_df(df_test_docs, "main_test.parquet", "main_test.parquet")
+
+    df_train_units = df_to_paragraph_units(df_train_docs, MIN_WORDS_PARAGRAPH)
+    df_test_units = df_to_paragraph_units(df_test_docs, MIN_WORDS_PARAGRAPH)
+
+    if not df_train_units.empty:
+        save_df(df_train_units, "augmented_train.parquet", "augmented_train.parquet")
+    else:
+        print("Sin párrafos de entrenamiento >= mín palabras.")
+    if not df_test_units.empty:
+        save_df(df_test_units, "augmented_test.parquet", "augmented_test.parquet")
+    else:
+        print("Sin párrafos de prueba >= mín palabras.")
+
+    print_stats_main(df_train_docs, df_test_docs)
+    print_stats_augmented(df_train_units, df_test_units)
+    print("\nPipeline completado.")
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--config", default="config/config.yaml")
-    args = ap.parse_args()
-    main(args.config)
+    main()
 
