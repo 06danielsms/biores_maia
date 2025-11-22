@@ -1,51 +1,18 @@
-io:
-  id_col: "id"
-  text_col: "chunk_text"
-  label_col: "label"
-  local_output_dir: "data_processed_en"
-  s3_raw_prefix: "s3://biores-maia-data-clean/Raw_Data"
-  s3_output_prefix: "s3://biores-maia-data-clean/processed_en"
-  pls_path: "data_processed_en/PLS/data_final_chunks.parquet"
-  npls_path: "data_processed_en/NO_PLS/data_final_chunks.parquet"
-  out_dir: "metrics"
-  n_jobs: 4
-  batch_size: 64
+project:
+  name: "biores_maia_data_final"
 
-cleaning:
-  lowercase: true
-  normalize_unicode: true
-  strip_html: true
-  normalize_whitespace: true
-  replace_urls: true
-  replace_emails: true
-  replace_numbers: "normalize"
-  remove_punctuation: false
-  deidentify_phi: true
-  expand_abbrev: true
+data:
+  pls_parquet: "data_final/pls_clean.parquet"
+  no_pls_parquet: "data_final/no_pls_clean.parquet"
+  text_column: "text"
 
-tokenization:
-  spacy_model_en: "en_core_web_sm"
-  n_process: 2
-  batch_size: 256
+metrics:
+  output_csv: "metrics/metrics_final.csv"
 
-chunking:
-  enabled: true
-  method: "spacy-sentences"
-  max_tokens: 800
-  overlap_tokens: 50
-  joiner: " "
-
-labeling:
-  pls_patterns:
-    - "/pls/"
-
-  no_pls_patterns:
-    - "/non_pls/"
-    - "/alx/"
-    - "/med/"
-    - "/not_taken_texts/"
-    - "/tech/"
-    - "/technical/"
-
-  default_label: "NO_PLS"
+plots:
+  output_dir: "metrics/plots"
+  word_hist_png: "metrics/plots/word_len_hist.png"
+  word_kde_png: "metrics/plots/word_len_kde.png"
+  char_hist_png: "metrics/plots/char_len_hist.png"
+  char_kde_png: "metrics/plots/char_len_kde.png"
 
