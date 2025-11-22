@@ -1,67 +1,62 @@
-import argparse
 import os
-
-import matplotlib.pyplot as plt
+import argparse
 import pandas as pd
-import yaml
+import matplotlib.pyplot as plt
+import numpy as np
 
+def plot_hist(df, metric, output_dir, bins=50):
+    if metric not in df.columns:
+        print(f"[WARN] {metric} no está en el dataset, skip.")
+        return
 
-def load_config(path: str) -> dict:
-    with open(path, "r", encoding="utf-8") as f:
-        return yaml.safe_load(f)
+    plt.figure(figsize=(8, 5))
 
+    data_no = df[df["label"] == "no_pls"][metric].dropna()
+    data_pl = df[df["label"] == "pls"][metric].dropna()
 
-def load_metrics(cfg: dict) -> pd.DataFrame:
-    metrics_path = cfg["metrics"]["output_csv"]
-    if not os.path.exists(metrics_path):
-        raise FileNotFoundError(f"No existe: {metrics_path}")
-    df = pd.read_csv(metrics_path, index_col=0)
-    df = df.apply(pd.to_numeric, errors="coerce")
-    df = df.dropna(how="all")
-    return df
+    plt.hist(data_no, bins=bins, alpha=0.5, label="NO_PLS", density=True)
+    plt.hist(data_pl, bins=bins, alpha=0.5, label="PLS", density=True)
 
+    plt.title(f"Distribución: {metric}")
+    plt.xlabel(metric)
+    plt.ylabel("Densidad")
+    plt.legend()
 
-def safe_name(name: str) -> str:
-    return (
-        name.replace(" ", "_")
-        .replace("/", "_")
-        .replace("\\", "_")
-        .replace(":", "_")
-        .replace(",", "_")
-    )
-
-
-def plot_metric(metric_name: str, value_pls: float, value_no: float, out_dir: str):
-    os.makedirs(out_dir, exist_ok=True)
-    plt.figure(figsize=(5, 4))
-    labels = ["PLS", "NO_PLS"]
-    values = [value_pls, value_no]
-    plt.bar(labels, values)
-    plt.title(metric_name)
-    plt.ylabel("Valor")
-    plt.tight_layout()
-    fname = safe_name(metric_name) + ".png"
-    out_path = os.path.join(out_dir, fname)
-    plt.savefig(out_path, dpi=300)
+    os.makedirs(output_dir, exist_ok=True)
+    out_path = os.path.join(output_dir, f"{metric}.png")
+    plt.savefig(out_path, dpi=200, bbox_inches="tight")
     plt.close()
-    print(f"Guardado: {out_path}")
 
+    print(f"[OK] Guardado: {out_path}")
 
-def main(config_path: str) -> None:
-    cfg = load_config(config_path)
-    df = load_metrics(cfg)
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input", required=True, help="Parquet con métricas (train o test)")
+    parser.add_argument("--output", required=True, help="Carpeta donde guardar PNGs")
+    parser.add_argument("--metrics", nargs="*", default=[], help="Lista de métricas a graficar (opcional)")
+    args = parser.parse_args()
 
-    out_dir = "metrics/plots_metrics"
+    print(f"Cargando {args.input} ...")
+    df = pd.read_parquet(args.input)
 
-    for metric in df.index:
-        v_pls = df.loc[metric, "PLS"]
-        v_no = df.loc[metric, "NO_PLS"]
-        plot_metric(metric, v_pls, v_no, out_dir)
+    if "label" not in df.columns:
+        raise ValueError("El dataset no tiene columna 'label'")
 
+    # seleccionar métricas numéricas automáticamente si no se dan
+    if not args.metrics:
+        numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
+        exclude = ["doc_id", "unit_id", "n_chars", "n_words"]
+        metrics = [c for c in numeric_cols if c not in exclude]
+    else:
+        metrics = args.metrics
+
+    print(f"Generando histogramas para {len(metrics)} métricas...")
+
+    for m in metrics:
+        plot_hist(df, m, args.output)
+
+    print("Finalizado.")
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--config", type=str, default="config/config.yaml")
-    args = parser.parse_args()
-    main(args.config)
+    main()
 
