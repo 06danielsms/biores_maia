@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Git
+.git/
+.gitignore
+
+# DVC
+.dvc/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data (los datos se montan como volúmenes)
+data/
+metrics/
+scripts/data_raw/
+
+# Docker
+.dockerignore
+
+# Documentation
+mockups/
+
+# Other projects
+bridging-the-gap-in-health-literacy/
