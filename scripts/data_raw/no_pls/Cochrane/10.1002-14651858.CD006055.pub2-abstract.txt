@@ -1,0 +1,15 @@
+Background
+Bacterial vaginosis (BV) is a very common cause of vaginitis that has been associated with a high incidence of obstetric and gynaecologic complications and increased risk of HIV‐1 transmission. This has led to renewed research interest in its treatment. 
+Objectives
+To assess the effects of antimicrobial agents on BV in non‐pregnant women.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, LILACS, and African Healthline (December 2007); and proceedings of relevant international conferences (from 1981 to date). 
+Selection criteria
+Randomised controlled trials comparing any two or more antimicrobial agents, or antimicrobial agents with placebo or no treatment, in women with clinical or Gram‐stain criteria of BV. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data from the original publications while the third author cross checked the data. 
+Main results
+Twenty‐four trials involving 4422 participants were reviewed. Most examined symptomatic women only. Only seven trials analysed results by intention to treat; we re‐analysed the remainder. 
+Compared with placebo, clindamycin showed a lower rate of treatment failure (relative risk (RR) 0.25, 95% confidence interval (CI) 0.16 to 0.37). Clindamycin and metronidazole showed identical rates of treatment failure, irrespective of regimen type, at two and four‐week follow up (RR 1.01, 95% CI 0.69 to 1.46; RR 0.91, 95% CI 0.70 to 1.18, respectively). Clindamycin tended to cause a lower rate of adverse events (RR 0.75, 95% CI 0.56 to 1.02); metallic taste, and nausea and vomiting were more common in the metronidazole group (RR 0.08, 95% CI 0.1 to 0.59; RR 0.23, 95% CI 0.10 to 0.51, respectively). Given intravaginally as gelatin tablets, lactobacillus was more effective than oral metronidazole  (RR 0.20, 95% CI 0.05 to 0.08). Similarly, oral lactobacillus combined with metronidazole was more effective than metronidazole alone (RR 0.33, 95% CI 0.14 to 0.77). Clindamycin showed a lower rate of clinical failure than triple sulfonamide cream (RR 0.46, 95% CI 0.29 to 0.72). Hydrogen peroxide douche showed a higher rate of clinical failure (RR 1.75, 95% CI 1.02 to 3.00) and adverse events (RR 2.33, 95% CI 1.21 to 4.52) than a single 2 g dose of metronidazole. 
+Authors' conclusions
+Clindamycin preparations, oral metronidazole, and oral and intravaginal tablets of lactobacillus were effective for bacterial vaginosis. Hydrogen peroxide douche and triple sulphonamide cream were ineffective. Metronidazole caused metallic taste, nausea and vomiting. We need better‐designed trials with larger sample sizes to test the effectiveness of promising drugs. 

@@ -1,0 +1,31 @@
+Clinical Trial RESULTS
+What medical problems did participants have during the study?
+A lot of research is needed to know whether a drug causes a medical problem. So, when new drugs are studied, researchers keep track of all medical problems that participants have during the study. These medical problems are called "adverse events". They may or may not be caused by the study drug. 
+
+How many participants had medical problems in the study?
+Overall, 9 out of 18 participants who got anifrolumab (50.0%) and 4 out of 12 participants who got a placebo (33.3%) had at least 1 medical problem. Twenty total medical problems were reported for participants who got anifrolumab, and 4 medical problems were reported for participants who got a placebo. 
+
+The table below shows how many participants had medical problems during the study by treatment group.
+
+Infusion pump
+Injection of 300 mg IV of 300 mg of 600 mg of
+of anifrolumab of anifrolumab anifrolumab Placebo
+(6 participants) (6 participants) (6 participants) (12 participants)
+
+How many participants
+3 (50.0%) 2 (33.3%) 4 (66.7%) 4 (33.3%)
+developed medical problems?
+
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life threatening, causes lasting problems, or needs hospital care. No participants developed serious medical problems in this study, and no participants died during this study. 
+
+What were the most common non-serious medical problems in the study?
+The table below shows the most common medical problems that occurred in at least 2 participants in each treatment group.
+
+Infusion pump
+Injection of 300 mg IV of 300 mg of 600 mg of
+of anifrolumab of anifrolumab anifrolumab Placebo
+(6 participants) (6 participants) (6 participants) (12 participants)
+
+Common cold 2 (33.3%) 1 (16.7%) 0 (0.0%) 1 (8.3%)
+Dry throat 0 (0.0%) 2 (33.3%) 0 (0.0%) 0 (0.0%)

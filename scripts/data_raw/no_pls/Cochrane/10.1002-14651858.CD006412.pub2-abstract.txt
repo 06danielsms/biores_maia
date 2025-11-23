@@ -1,0 +1,14 @@
+Background
+The integration of smart home technology to support health and social care is acquiring an increasing global significance. Provision is framed within the context of a rapidly changing population profile, which is impacting on the number of people requiring health and social care, workforce availability and the funding of healthcare systems. 
+Objectives
+To explore the effectiveness of smart home technologies as an intervention for people with physical disability, cognitive impairment or learning disability, who are living at home, and to consider the impact on the individual's health status and on the financial resources of health care. 
+Search methods
+We searched the following databases for primary studies: (a) the Cochrane Effective Practice and Organisation of Care (EPOC) Group Register, (b) the Cochrane Central Register of Controlled Trials (CENTRAL), (The Cochrane Library, issue 1, 2007), and (c) bibliographic databases, including MEDLINE (1966 to March 2007), EMBASE (1980 to March 2007) and CINAHL (1982 to March 2007). We also searched the Database of Abstracts of Reviews of Effectiveness (DARE). We searched the electronic databases using a strategy developed by the EPOC Trials Search Co‐ordinator. 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐experimental studies, controlled before and after studies (CBAs) and interrupted time series analyses (ITS). Participants included adults over the age of 18, living in their home in a community setting. Participants with a physical disability, dementia or a learning disability were included. The included interventions were social alarms, electronic assistive devices, telecare social alert platforms, environmental control systems, automated home environments and 'ubiquitous homes'. Outcome measures included any objective measure that records an impact on a participant's quality of life, healthcare professional workload, economic outcomes, costs to healthcare provider or costs to participant. We included measures of service satisfaction, device satisfaction and healthcare professional attitudes or satisfaction. 
+Data collection and analysis
+One review author completed the search strategy with the support of a life and health sciences librarian. Two review authors independently screened titles and abstracts of results. 
+Main results
+No studies were identified which met the inclusion criteria.
+Authors' conclusions
+This review highlights the current lack of empirical evidence to support or refute the use of smart home technologies within health and social care, which is significant for practitioners and healthcare consumers. 

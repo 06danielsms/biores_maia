@@ -1,0 +1,16 @@
+Background
+It has been argued that individuals with fragile X syndrome could have low folate levels in their bodies and that supplementing their dietary intake might remediate the adverse developmental and behavioural effects of the condition. 
+Objectives
+To review the efficacy and safety of folic acid in the treatment of people with fragile X syndrome. 
+Search methods
+We searched four databases in November 2010: CENTRAL, PubMed, EMBASE and PsycINFO.
+Selection criteria
+Randomised controlled trials.
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias using the Cochrane 'Risk of bias' tool. 
+Main results
+We included five trials, which were published between 1986 and 1992. Overall, they included 67 patients, all male, with ages ranging from one to 54 years. Intellectual disability in participants varied from borderline to severe and some studies included patients with an additional diagnosis of autism or autistic behaviour. Four of the studies were placebo‐controlled cross‐over trials and one study was a parallel design. The duration of follow‐up ranged from two months to 12 months and the period on folic acid or placebo ranged from two to eight months. Doses of folic acid ranged from 10 mg to 250 mg per day, 10 mg per day being the most common. Most of the younger patients involved were also taking part in special education programmes (usually involving language and occupational therapy). 
+We were not able to perform meta‐analysis to combine results but none of the individual studies found evidence of clinical benefit with the use of folic acid medication in fragile X syndrome patients on any of the areas of interest, either psychological and learning capabilities or behaviour and social performance, as measured with standardised tools. Separate analysis of evidence for patients of different age groups, i.e. prepubertal children and postpubertal young people, found some statistically significant results, but did not show clear evidence of benefit for either group. Adverse effects of folic acid treatment were rare, not serious and transient. 
+Studies were generally poorly reported and we classified only one study as being at low risk of bias. 
+Authors' conclusions
+The quality of available evidence is low and not suitable for drawing conclusions about the effect of folic acid on fragile X syndrome patients. It consists of few studies with small samples of patients, all of them male, with little statistical power to detect anything other than huge effects. 

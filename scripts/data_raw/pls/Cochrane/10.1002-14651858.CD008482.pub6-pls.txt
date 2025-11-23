@@ -1,0 +1,19 @@
+Vitamin K supplementation for cystic fibrosis
+Review question 
+We reviewed the evidence to see whether supplementing vitamin K in people with cystic fibrosis counteracts the effects of deficiency on blood clotting, bone strength and quality of life in people with cystic fibrosis. We tried to determine the best dose needed to prevent this deficiency. This is an update of an earlier review. 
+Background 
+Cystic fibrosis is an inherited condition which causes disease, most noticeably in the lungs, digestive system and pancreas. In people with cystic fibrosis, the pancreas often does not produce enough enzymes to allow the body to absorb digested food properly and this may also be linked to deficiencies of fat‐soluble vitamins like vitamin K. Vitamin K is needed for adequate blood clotting, bone formation and some metabolic functions. 
+Search date 
+The evidence is current to: 12 August 2019.
+Study characteristics 
+We included three trials (total of 70 participants aged between 8 and 46 years) in the review. 
+Two trials compared vitamin K to a control. In the first trial all 18 people taking part (aged 13 to 35 years) were given 5 mg oral vitamin K supplement once a week or nothing for a total duration of one month and then they swapped to the other group for another month. Unfortunately, we could not analyse the data from this trial because the investigators did not report data just from the first part of the trial (only from the end of the trial when everyone taking part had been in both groups), so we could not tell if the effects were due to supplements or no supplements. In the second trial a total of 38 people aged 16 to 45 years took part. They were given either 10 mg vitamin K or placebo (a dummy supplement not containing any vitamin K) every day for 12 months, but the investigators did not state how many people were in each group so we could not analyse the results. 
+In the third trial (14 children aged 8 to 18 years old) participants were given oral vitamin K supplements, half of them at a dose of 1 mg every day and the other half were given 5 mg every day for one month. 
+Key results 
+No trial in either comparison reported our primary outcomes of blood clotting and quality of life or the secondary measures of nutrition and adverse events. 
+Vitamin K versus control 
+Only the 12‐month trial reported on the primary outcome of bone formation; we are very uncertain whether vitamin K supplementation has any effect on bone mineral density measured at the hip or lower back (very low‐quality evidence). Both trials reported an increase in vitamin K levels in the blood and a decrease in undercarboxylated osteocalcin levels (this is an indicator of the risk of hip fracture). The four‐week trial also reported that levels of proteins induced by vitamin K absence (PIVKA) dropped and returned to normal levels, but due to the very low‐quality evidence we are not certain that this is due to supplementation. 
+High‐dose versus low‐dose vitamin K 
+The trial reported that while vitamin K levels improved there did not seem to be any difference between the high‐dose and low‐dose groups. There also did not seem to be any difference in undercarboxylated osteocalcin levels (very low‐quality evidence). 
+Quality of the evidence 
+The overall quality of the evidence was judged to be very low due to risks of bias in the design of all trials and the low numbers of participants. 

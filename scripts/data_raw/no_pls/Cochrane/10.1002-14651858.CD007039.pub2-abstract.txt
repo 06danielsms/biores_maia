@@ -1,0 +1,14 @@
+Background
+Stroke and other adult‐acquired brain injury may impair perception leading to distress and increased dependence on others. Perceptual rehabilitation includes functional training, sensory stimulation, strategy training and task repetition. 
+Objectives
+To examine the evidence for improvement in activities of daily living (ADL) six months post randomisation for active intervention versus placebo or no treatment. 
+Search methods
+We searched the trials registers of the Cochrane Stroke Group and the Cochrane Infectious Diseases Group (May 2009) but not the Injuries Group, the Cochrane Central Register of Controlled Trials (The Cochrane Library 2009, Issue 3), MEDLINE (1950 to August 2009), EMBASE (1980 to August 2009), CINAHL (1982 to August 2009), PsycINFO (1974 to August 2009), REHABDATA and PsycBITE (May to June 2009). We also searched trials and research registers, handsearched journals, searched reference lists and contacted authors. 
+Selection criteria
+Randomised controlled trials of adult stroke or acquired brain injury. Our definition of perception excluded visual field deficits, neglect/inattention and apraxia. 
+Data collection and analysis
+One review author assessed titles, abstracts and keywords for eligibility. At least two review authors independently extracted data. We requested unclear or missing information from corresponding authors. 
+Main results
+We included six single‐site trials in rehabilitation settings, involving 338 participants. Four trials included people with only stroke. All studies provided sensory stimulation, sometimes with another intervention. Sensory stimulation typically involved practising tasks that required visuo‐perceptual processing with occupational therapist assistance. Repetition was never used and only one study included functional training. No trials provided data on longer term improvement in ADL scores. Only three trials provided any data suitable for analysis. Two of these trials compared active to placebo intervention. There was no evidence of a difference in ADL scores at the scheduled end of intervention: mean difference (95% confidence interval (CI)) was 0.9 (‐1.6 to 3.5) points on a self‐care ADL scale in one study and odds ratio (95% CI) was 1.3 (0.56 to 3.1) for passing a driving test in the other, both in favour of active intervention. The trial that compared two active interventions did not find evidence of difference in any of the review outcomes. 
+Authors' conclusions
+There is insufficient evidence to support or refute the view that perceptual interventions are effective. Future studies should be sufficiently large, include a standard care comparison and measure longer term functional outcomes. People with impaired perception problems should continue to receive neurorehabilitation according to clinical guidelines. 

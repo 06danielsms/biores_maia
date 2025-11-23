@@ -1,0 +1,27 @@
+What are the benefits and risks of lens extraction in treating chronic primary angle‐closure glaucoma? 
+Why is this question important?Primary angle‐closure glaucoma (PACG) is a type of glaucoma which is one of the leading causes of blindness worldwide. It occurs when there are problems with fluid drainage from the eye because the iris (the colored part of the eye) has blocked the drainage channels. A blockage can happen suddenly (acute PACG) or gradually (chronic PACG), causing a build‐up of fluid and raising the pressure inside the eye, which can damage the optic nerve and lead to vision loss. Treatment options include eye drops, laser treatment, and surgery. 'Lens extraction' is a type of surgery where the natural lens is replaced with an artificial lens. This also has the effect of opening up the drainage channels and may help to treat PACG. We reviewed the research evidence to find out how lens extraction compares to other treatments for chronic PACG. 
+How did we identify and evaluate the evidence?We searched the medical literature for studies that compared lens extraction with other treatments for chronic PACG, compared the results and summarized the evidence from all the studies, and rated our confidence in the evidence. 
+What did we find?We found eight studies comprising 513 eyes with chronic PACG that met our inclusion criteria. The studies followed participants for six to 69 months, and compared lens extraction against: 
+‐ laser therapy;‐ lens extraction plus an injection of thick liquid to break iris adhesions with the aim of encouraging fluid outflow (viscogonioplasty, VGP);‐ lens extraction plus breaking the iris adhesions mechanically, known as goniosynechialysis (GSL);‐ trabeculectomy (creating a flap to facilitate fluid drainage); and‐ lens extraction plus trabeculectomy. 
+These are the main findings of our review, focusing on results one year after treatment (unless otherwise stated). 
+1. Lens extraction compared with laser therapy (1 study) 
+When compared against laser therapy, the evidence suggests that lens extraction probably:
+‐ limits loss of visual field (the area that can be seen when the eye is looking straight ahead);‐ reduces the number of pressure‐lowering medicines needed;‐ open the drainage angle more; and‐ makes little or no difference to quality of life, vision clarity, or eye pressure. 
+One person treated with lens extraction, and three people treated with laser therapy, experienced irreversible loss of 10 or more EDTRS letters of vision in the three years after treatment. 
+2. Lens extraction compared with lens extraction plus VGP (1 study) 
+When compared against lens extraction plus VGP, the evidence suggests that lens extraction may: 
+‐ reduce the number of pressure‐lowering medications needed;‐ open the drainage angle more; and‐ make little or no difference to clarity of vision. 
+There is uncertain evidence as to whether the two treatments have different effects on eye pressure. The study did not investigate the effects on visual field loss and quality of life. 
+Eye inflammation occurred in two people treated with lens extraction, and in four people treated with lens extraction plus VGP. Three people treated with lens extraction plus VGP experienced bleeding in the front of the eye. 
+3. Lens extraction compared with lens extraction plus GSL (2 studies) 
+When compared against lens extraction plus GSL, the evidence suggests that lens extraction:
+‐ probably does not reduce the number of pressure‐lowering medications needed; and‐ may make little or no difference to eye pressure. 
+The studies did not investigate the effects on visual field loss, eye drainage, vision clarity, and quality of life. 
+Bleeding in the front of the eye occurred in three eyes treated with lens extraction plus GSL. 
+4. Lens extraction compared with lens extraction plus trabeculectomy (3 studies) 
+When compared against lens extraction plus trabeculectomy, the evidence from one study suggests that lens extraction may make little or no difference to: 
+‐ eye pressure;‐ the number of pressure‐lowering medications needed; and‐ vision clarity. 
+There is uncertain evidence as to whether one treatment leads to more unwanted effects than the other. The studies did not investigate the effects on visual field loss, eye drainage, and quality of life. 
+What does this mean?The evidence suggests that: 
+‐ lens extraction is probably a better treatment than laser therapy for chronic PACG;‐ combining lens extraction with VGP or GSL may not work better than lens extraction alone; and‐ there is uncertain evidence as to whether combining lens extraction with trabeculectomy makes a difference. 
+How‐up‐to date is this review?The evidence in this Cochrane Review is current to 13 December 2019. 

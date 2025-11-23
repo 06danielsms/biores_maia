@@ -1,0 +1,14 @@
+Background
+Retinopathy of prematurity (ROP) is a complex condition of the developing retinal blood vessels and is one of the leading causes of preventable childhood blindness. Several risk factors for ROP have been studied over the past 50 years. Among them, general immaturity (low birth weight and low gestational age) and prolonged oxygen therapy have been consistently related to disease onset. However, it is understood that the progression of the disease is multifactorial and may be associated with others risk factors, such as multiple gestation, apnoea, intracranial haemorrhage, anaemia, sepsis, prolonged mechanical ventilation, multiple transfusions and light exposure. Furthermore, the precise role of these individual factors in the development of the disease has not yet been well established. 
+Objectives
+To determine whether the reduction of early environmental light exposure reduces the incidence of retinopathy of prematurity (ROP) or poor ROP outcomes among very low birth weight infants. 
+Search methods
+We searched the following databases: the Cochrane Neonatal Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE, EMBASE, CINAHL, HealthSTAR, Science Citation Index Database, CANCERLIT, the Oxford Database of Perinatal Trials and www.clinicaltrials.gov. We also searched previous reviews including cross‐references, abstracts, conference and symposia proceedings, and contacted expert informants. This search was updated in October 2012. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that reduced light exposure to premature infants within the first seven days following birth were considered for this review. We also considered cluster‐randomised controlled trials. 
+Data collection and analysis
+Data on clinical outcomes including any acute ROP and poor ROP outcome were extracted by both review authors independently and consensus reached. We conducted data analysis according to the standards of the Cochrane Neonatal Review Group. 
+Main results
+Data from four randomised trials with a total of 897 participants failed to show any reduction in acute ROP or poor ROP outcome with the reduction of ambient light to premature infants' retinas. The overall methodological quality of the included studies was about evenly split between those in which the classification was unclear and those in which the studies were categorised as low risk of bias. There was no report on the secondary outcomes considered in this review: quality of life measures; and time of exposure to oxygen. 
+Authors' conclusions
+The evidence shows that bright light is not the cause of retinopathy of prematurity and that the reduction of exposure of the retinas of premature infants to light has no effect on the incidence of the disease. 

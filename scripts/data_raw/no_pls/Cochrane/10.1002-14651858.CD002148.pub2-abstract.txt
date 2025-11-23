@@ -1,0 +1,14 @@
+Background
+Alcohol and hepatotropic viruses cause the majority of liver cirrhosis in the Western World. Colchicine is an anti‐inflammatory and anti‐fibrotic medication. Several randomised clinical trials have addressed the question whether colchicine has any efficacy in patients with alcoholic or non‐alcoholic fibrosis and cirrhosis. 
+Objectives
+To assess the beneficial and harmful effects of colchicine in patients with alcoholic or non‐alcoholic fibrosis or cirrhosis, excluding patients with primary biliary cirrhosis. 
+Search methods
+The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Controlled Trials Register on The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, and full text searches were combined (September 2004). Manufacturers and researchers in the field were also contacted. 
+Selection criteria
+We included randomised trials irrespective of blinding, language, or publication status comparing per oral colchicine with placebo or no intervention for patients with fibrosis or cirrhosis induced by either alcohol, virus, or unknown factors (cryptogenic). 
+Data collection and analysis
+The statistical package (RevMan Analyses) provided by The Cochrane Collaboration was used. The methodological quality of the randomised clinical trials was evaluated. 
+Main results
+We could include 15 randomised clinical trials with 1714 patients. We found no significant effects of colchicine versus placebo/no intervention on mortality (relative risks (RR) 1.00, 95% confidence interval (CI) 0.87 to 1.16), liver‐related mortality (RR 1.08, 95% CI 0.88 to 1.33), complications (RR 1.01, 95% CI 0.74 to 1.38), liver biochemistry, liver histology, or alcohol consumption (RR 1.03, 95% CI 0.77 to 1.39). Colchicine was associated with a significantly increased risk of serious adverse events (RR 8.38, 95% CI 1.08 to 65,2) and non‐serious adverse events (RR 4.35, 95% CI 2.16 to 8.77). 
+Authors' conclusions
+Colchicine should not be used for alcoholic, viral, or cryptogenic liver fibrosis or liver cirrhosis outside randomised clinical trials. 

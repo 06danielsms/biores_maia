@@ -1,0 +1,14 @@
+Background
+There is conflicting evidence regarding the use of intra‐articular lignocaine injection for the closed manual reduction of acute anterior shoulder dislocations. A systematic review may help cohere the conflicting evidence. 
+Objectives
+To compare the clinical efficacy and safety of intra‐articular lignocaine and intravenous analgesia (with or without sedation) for reduction of acute anterior shoulder dislocation. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 1), MEDLINE (1950 to March 2010), and EMBASE (1980 to March 2010). We searched Current Controlled Trials metaRegister of Clinical Trials (compiled by Current Science) (March 2010). We imposed no language restriction. 
+Selection criteria
+Randomized controlled trials comparing intra‐articular lignocaine (IAL) with intravenous analgesia with or without sedation (IVAS) in adults aged 18 years and over for reduction of acute anterior shoulder dislocation. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Where possible, data were pooled and relative risks (RR) and mean differences (MD), each with 95% confidence intervals (CI), were computed using the Cochrane Review Manager statistical package (RevMan). 
+Main results
+Of 1041 publications obtained from the search strategy, we examined nine studies. Four studies were excluded, and five studies with 211 participants were eligible for inclusion. There was no difference in the immediate success rate of IAL when compared with IVAS in the closed manual reduction of acute anterior shoulder dislocation (RR 0.95; 95% CI 0.83 to 1.10). There were significantly fewer adverse effects associated with IAL compared with IVAS (RR 0.16; 95% CI 0.06 to 0.43). The mean time spent in the emergency department was significantly less with IAL compared with IVAS (MD 109.46 minutes; 95% CI 84.60 to 134.32). One trial reported significantly less time for reduction with IVAS (105 seconds; 95% CI 84.0 to 126.1) compared with IAL (284.6 seconds; 95% CI 185.3 to 383.9). One trial reported no joint infection associated with intra‐articular lignocaine injection and no mortality associated with either IAL or IVAS. 
+Authors' conclusions
+We observed no significant difference between IAL and IVAS with regard to the immediate success rate of reduction, pain during reduction, post‐reduction pain relief and reduction failure. Compared to IVAS, IAL may be less expensive and may be associated with fewer adverse effects and a shorter recovery time. 

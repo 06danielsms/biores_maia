@@ -1,0 +1,14 @@
+Background
+Attention deficit hyperactivity disorder (ADHD) is increasingly recognised as occurring in people with intellectual disability (ID), although treatment of ADHD in this population has not ben tested widely. Risperidone has been used to treat ADHD in people with ID, although the evidence for its effectiveness is unclear. 
+Objectives
+To examine the effectiveness of risperidone for the treatment of attention deficit hyperactivity disorder in people with intellectual disabilities. 
+Search methods
+In February 2009, MEDLINE, PsycINFO, EMBASE, AMED, ISI Web of Science and WorldCat Dissertations were searched using an extensive list of synonyms for ADHD and ID. CENTRAL, CCDPLP, Current Controlled Trials meta‐register (mRCT), CenterWatch, NHS National Research Register, clinicaltrials.gov were searched, pharmaceutical companies and experts in the field were contacted. Reference lists of review articles were examined and citation searches were performed in ISI Web of Knowledge. 
+Selection criteria
+All randomised controlled trials (RCTs), both published and unpublished, in any language, in which children or adults with ADHD and ID were treated with risperidone. 
+Data collection and analysis
+Data collection and analyses were planned but not performed due to a lack of suitable studies. 
+Main results
+Eleven studies were considered but none were suitable for inclusion.
+Authors' conclusions
+There is no evidence from RCTs that risperidone is effective for the treatment of ADHD in people with ID. Prescribing in this population can only be based on open‐label studies or extrapolation from research in people with autism and disruptive behaviour disorders; however these studies have not investigated people with ID separately so there are reservations regarding the applicability of these findings. Research into effectiveness and tolerability is urgently needed. 

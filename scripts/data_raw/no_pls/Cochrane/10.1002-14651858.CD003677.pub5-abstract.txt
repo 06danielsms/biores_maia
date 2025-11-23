@@ -1,0 +1,23 @@
+Background
+The four approaches to hysterectomy for benign disease are abdominal hysterectomy (AH), vaginal hysterectomy (VH), laparoscopic hysterectomy (LH) and robotic‐assisted hysterectomy (RH). 
+Objectives
+To assess the effectiveness and safety of different surgical approaches to hysterectomy for women with benign gynaecological conditions. 
+Search methods
+We searched the following databases (from inception to 14 August 2014) using the Ovid platform: Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; Cumulative Index to Nursing and Allied Health Literature (CINAHL) and PsycINFO. We also searched relevant citation lists. We used both indexed and free‐text terms. 
+Selection criteria
+We included randomised controlled trials (RCTs) in which clinical outcomes were compared between one surgical approach to hysterectomy and another. 
+Data collection and analysis
+At least two review authors independently selected trials, assessed risk of bias and performed data extraction. Our primary outcomes were return to normal activities, satisfaction, quality of life, intraoperative visceral injury and major long‐term complications (i.e. fistula, pelvi‐abdominal pain, urinary dysfunction, bowel dysfunction, pelvic floor condition and sexual dysfunction). 
+Main results
+We included 47 studies with 5102 women. The evidence for most comparisons was of low or moderate quality. The main limitations were poor reporting and imprecision. 
+Vaginal hysterectomy (VH) versus abdominal hysterectomy (AH) (nine RCTs, 762 women) 
+Return to normal activities was shorter in the VH group (mean difference (MD) ‐9.5 days, 95% confidence interval (CI) ‐12.6 to ‐6.4, three RCTs, 176 women, I2 = 75%, moderate quality evidence). There was no evidence of a difference between the groups for the other primary outcomes. 
+Laparoscopic hysterectomy (LH) versus AH (25 RCTs, 2983 women) 
+Return to normal activities was shorter in the LH group (MD ‐13.6 days, 95% CI ‐15.4 to ‐11.8; six RCTs, 520 women, I2 = 71%, low quality evidence), but there were more urinary tract injuries in the LH group (odds ratio (OR) 2.4, 95% CI 1.2 to 4.8, 13 RCTs, 2140 women, I2 = 0%, low quality evidence). There was no evidence of a difference between the groups for the other primary outcomes. 
+LH versus VH (16 RCTs, 1440 women) 
+There was no evidence of a difference between the groups for any primary outcomes.
+Robotic‐assisted hysterectomy (RH) versus LH (two RCTs, 152 women) 
+There was no evidence of a difference between the groups for any primary outcomes. Neither of the studies reported satisfaction rates or quality of life. 
+Overall, the number of adverse events was low in the included studies.
+Authors' conclusions
+Among women undergoing hysterectomy for benign disease, VH appears to be superior to LH and AH, as it is associated with faster return to normal activities. When technically feasible, VH should be performed in preference to AH because of more rapid recovery and fewer febrile episodes postoperatively. Where VH is not possible, LH has some advantages over AH (including more rapid recovery and fewer febrile episodes and wound or abdominal wall infections), but these are offset by a longer operating time. No advantages of LH over VH could be found; LH had a longer operation time, and total laparoscopic hysterectomy (TLH) had more urinary tract injuries. Of the three subcategories of LH, there are more RCT data for laparoscopic‐assisted vaginal hysterectomy and LH than for TLH. Single‐port laparoscopic hysterectomy and RH should either be abandoned or further evaluated since there is a lack of evidence of any benefit over conventional LH. Overall, the evidence in this review has to be interpreted with caution as adverse event rates were low, resulting in low power for these comparisons. The surgical approach to hysterectomy should be discussed and decided in the light of the relative benefits and hazards. These benefits and hazards seem to be dependent on surgical expertise and this may influence the decision. In conclusion, when VH is not feasible, LH may avoid the need for AH, but LH is associated with more urinary tract injuries. There is no evidence that RH is of benefit in this population. Preferably, the surgical approach to hysterectomy should be decided by the woman in discussion with her surgeon. 

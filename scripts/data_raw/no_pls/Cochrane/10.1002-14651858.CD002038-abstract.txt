@@ -1,0 +1,14 @@
+Background
+Zidovudine (AZT) monotherapy was the first antiretroviral drug to be tested widely. The next two drugs to be developed were didanosine (ddI) and zalcitabine (ddC). 
+Objectives
+To assess the effects of zidovudine (AZT), zidovudine plus didanosine (ddI) and zidovudine plus zalcitabine (ddC) on HIV disease progression and survival. 
+Search methods
+Investigators and pharmaceutical companies were contacted, and MEDLINE searches were supplemented by searching conference abstracts. 
+Selection criteria
+Randomised controlled trials comparing any two of AZT plus ddI, AZT plus ddC or AZT alone in participants with or without AIDS which collected information on deaths and new AIDS events. 
+Data collection and analysis
+Individual patient data with, wherever possible, follow‐up obtained beyond that previously published were obtained and checked for internal consistency and consistency with any published reports; any apparent discrepancies were resolved with the trialists.  Time to death and to disease progression (defined as a new AIDS‐defining event or prior death) were analysed on an intention to treat basis, stratified to avoid direct comparisons between participants in different trials. 
+Main results
+Six trials were included in the meta‐analysis. During a median follow‐up of 29 months, 2904 individuals progressed, of whom 1850 died. The addition of ddI to AZT delayed both progression (RR 0.74; 95% CI 0.67 to 0.82, P<0.0001) and death (RR 0.72; 95% CI 0.64 to 0.82, P<0.0001). Likewise, the addition of ddC to AZT also delayed progression (RR 0.86; 95% CI 0.78 to 0.94, P=0.001) and death (RR 0.87; 95% CI 0.77 to 0.98, P=0.02). After 3 years the estimated percentages alive and without a new AIDS event were 53% for AZT+ddI, 49% for AZT+ddC and 44% for AZT alone; the percentages alive were 68%, 63% and 59% respectively. Five of the six trials involved randomised comparisons of AZT+ddI versus AZT+ddC: in these, the AZT+ddI regimen had greater effects on disease progression (P=0.004) and death (P=0.009). 
+Authors' conclusions
+The use of ddI and, to a lesser extent, ddC delayed both HIV disease progression and death, at least when added to AZT. 

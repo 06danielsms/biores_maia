@@ -1,0 +1,14 @@
+Background
+Bicyclol is a novel synthetic 'anti‐hepatitis' drug, used in China for chronic hepatitis B. Until now, systematic reviews of bicyclol therapy have not been performed. 
+Objectives
+To study the benefits and harms of bicyclol for patients with chronic hepatitis B.
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (July 2005), The Cochrane Central Register of Controlled Trials in The Cochrane Library (Issue 2, 2005), MEDLINE (1950 to July 2005), EMBASE (1980 to July 2005), Science Citation Index Expanded (1945 to July 2005), The Chinese Biomedical Database (1994 to August 2005), VIP Chinese Science and Technique Journals Database (1994 to August 2005), and China National Infrastructure (CNKI)(1994 to August 2005). We also contacted manufacturers and researchers in the field. 
+Selection criteria
+Randomised clinical trials with bicyclol versus no intervention, placebo, or other interventions were included, irrespective of blinding, publication status, or language. 
+Data collection and analysis
+The primary outcome measures were mortality (total and liver‐related) and liver‐related morbidity (eg, cirrhosis and carcinoma). Secondary outcome measures were viral response and liver histology. 
+Main results
+The search identified one randomised clinical trial comparing bicyclol with bifendate (biphenyldicarboxylate) for patients with hepatitis B. The follow‐up was three months. There was no evidence that bicyclol was superior to bifendate for loss of HBeAg (RR 1.38, 95% CI 0.95 to 2.00), seroconversion of HBeAg to HBeAb (RR 1.44, 95% CI 0.90 to 2.29), loss of HBV DNA (RR 1.19, 95%CI 0.93 to 1.53), or number of patients with normalised alanine aminotransferase and aspartate aminotransferase activity (RR 0.88, 95% CI 0.70 to 1.11 and RR 0.97, 95% CI 0.79 to 1.20, respectively). 
+Authors' conclusions
+Only one randomised clinical trial has examined the potential benefit of bicyclol for patients with chronic hepatitis B. This small, short‐term trial found no evidence to support or refute its use. Large, randomised double‐blind clinical trials with long‐term follow‐up are needed to examine the possible benefits and harms associated with bicyclol. Bicyclol can only be recommended for use in randomised trials. 

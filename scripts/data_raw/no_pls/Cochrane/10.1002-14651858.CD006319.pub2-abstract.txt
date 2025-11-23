@@ -1,0 +1,16 @@
+Background
+Surgery for anorectal fistula may result in recurrence, or impairment of continence. The ideal treatment for anorectal fistulae should be associated with low recurrence rates, minimal incontinence and good quality of life. 
+Objectives
+To assess the efficacy and morbidity of operative procedures for chronic anal fistula, primary outcomes being recurrence and incontinence. 
+Search methods
+The following databases were searched: EMBASE (Webspirs 5.1, Silver Platter version 2.0, 1950‐2009); Medline (Webspirs 5.1, Silver Platter version 2.0, 1950‐2009); The Cochrane Central Register of Controlled Trials (2009 issue 4)and the IndMed ( Indian Medline, www.indmed.nic.in) database. We restricted our search to the English literature. The Indian Journal of Surgery was electronically searched (issues between 2003 and vol 71, Oct 2009). We also searched all primary trial registers (Indian, Australian, Chinese, WHO, ISRCTN and American). 
+Selection criteria
+Randomised controlled trials comparing operative procedures for anorectal fistulae were considered. Non randomised trials and cohort studies were examined where data on recurrence and function were available. 
+Data collection and analysis
+Two reviewers (TJ and BP) independently selected the trials for inclusion in the review. Disagreements were solved by discussion. Where disagreement persisted and published results made data extraction difficult, we obtained clarification from the authors. REVMAN 5 was used for statistical analysis. Quality of the trials were assessed and allowances made for subgroup analysis and prevention of publication bias, using funnel plots if needed. 
+Main results
+Ten randomised controlled trials were available for analysis. The quality of included studies was adequate, though in some trials the numbers were small and they were inadequately powered for equivalence or to detect significant differences. Comparisons were made between various modalities of treatments. There were no significant difference in recurrence rates or incontinence rates in any of the studied comparisons except in the case of advancement flaps. There were more recurrences in the glue plus flap group, a significant difference that favoured the flap only technique. It was also noted that Fibrin glue and advancement flap procedures report low incontinence rates.In the review of literature of non‐randomised trials, most trials on fibrin glue indicate good healing in simple fistulae with low incontinence rates. 
+Authors' conclusions
+There are very few randomized controlled trials comparing the various modalities of surgery for fistula in ano. While post operative pain, time to healing and discharge from hospital affect quality of life, recurrence and incontinence are the most important. As it turns out, there seems to be no major difference between the various techniques used as far as recurrence rates are concerned. 
+The use of Fibrin glue and advancement flaps are associated with low incontinence rates. 
+There is a crying need for well powered, well conducted randomised controlled trials comparing various modes of treatment of fistula in ano. Newer operations like the anal fistula plug and the LIFT procedure need to be evaluated by randomised clinical trials. 

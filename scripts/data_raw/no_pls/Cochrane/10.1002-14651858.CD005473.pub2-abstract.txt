@@ -1,0 +1,14 @@
+Background
+A large proportion of patients with anxiety disorders fail to respond to first‐line medication interventions, despite evidence of the effectiveness of these agents. 
+Objectives
+To assess the effects of medication versus placebo augmentation in the treatment of patients with anxiety disorders who have failed to respond adequately to first‐line drug therapies. 
+Search methods
+The Cochrane Depression, Anxiety & Neurosis Group (CCDAN) specialised registers (CCDANCTR‐Studies and CCDANCTR‐References) were searched on 3/8/2005, , MEDLINE (January 1966 to July 2005) and PsycINFO (1966 to 2005, Part A). Unpublished trials were identified through the Controlled Trials database and the National Institute of Health's Computer Retrieval of Information on Scientific Projects (CRISP) service (1972 to 2005). Additional studies in any language were sought in reference lists of retrieved articles. 
+Selection criteria
+All randomised controlled trials (RCTs) of the medication augmentation of pharmacotherapy for treatment resistant anxiety disorders. 
+Data collection and analysis
+Two raters independently assessed RCTs for inclusion in the review, collated trial data, and assessed trial quality. Investigators were contacted to obtain missing data. Summary statistics were stratified by class of augmentation agent and anxiety disorder. Overall effect estimates were calculated using a random‐effects model, heterogeneity was assessed and subgroup/sensitivity analyses were undertaken. 
+Main results
+Twenty eight short‐term (average of seven weeks) randomised controlled trials (740 participants) were included in the review, 20 of which investigated augmentation of medication for treatment‐resistant obsessive compulsive disorder (OCD). Summary statistics for responder status from nine trials demonstrate overall superiority of a variety of medication agents to placebo (relative risk of non‐response (RR) 3.16, 95% CI 1.08 to 9.23). Similarly, symptom severity was significantly reduced in the medication groups, relative to placebo (number of trials (N) = 14, standardised mean difference (SMD) ‐0.87, 95% CI ‐1.37 to ‐0.36). There is no evidence of a difference between medication and placebo in total dropout rate, or in the number of dropouts due to adverse events. 
+Authors' conclusions
+Medication augmentation can be an effective and well‐tolerated short‐term treatment strategy for non‐responders to first‐line pharmacotherapy of anxiety disorders. However, any conclusions must be tentative in view of methodological and clinical heterogeneity, and the fact that much of the relevant database is based on antipsychotic augmentation trials in OCD patients resistant to serotonin reuptake inhibitors (SRIs). Additional data are needed to address several areas, including the efficacy of augmentation over the longer‐term, and the value of medication augmentation in comparison to other strategies (eg switching medication, adding psychotherapy). 

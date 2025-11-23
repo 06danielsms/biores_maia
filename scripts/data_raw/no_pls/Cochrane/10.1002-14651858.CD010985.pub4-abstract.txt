@@ -1,0 +1,15 @@
+Background
+Sickle cell disease is the most common hemoglobinopathy occurring worldwide and sickle cell intrahepatic cholestasis is a complication long recognized in this population. Cholestatic liver diseases are characterized by impaired formation or excretion (or both) of bile from the liver. There is a need to assess the clinical benefits and harms of the interventions used to treat intrahepatic cholestasis in people with sickle cell disease. This is an update of a previously published Cochrane Review. 
+Objectives
+To assess the benefits and harms of the interventions for treating intrahepatic cholestasis in people with sickle cell disease. 
+Search methods
+We searched the Cystic Fibrosis and Genetic Disorders Group's Haemoglobinopathies Trials Register, which comprises references identified from comprehensive electronic database searches and handsearching of relevant journals and abstract books of conference proceedings. We also searched the LILACS database (1982 to 21 January 2020), the WHO International Clinical Trials Registry Platform Search Portal and ClinicalTrials.gov (21 January 2020). 
+Date of last search of the Cochrane Cystic Fibrosis and Genetic Disorders Group's Haemoglobinopathies Trials Register: 25 November 2019. 
+Selection criteria
+We searched for published or unpublished randomised controlled trials.
+Data collection and analysis
+Each author intended to independently extract data, assess the risk of bias of the trials by standard Cochrane methodologies and assess the quality of the evidence using the GRADE criteria; however, no trials were included in the review. 
+Main results
+We did not identify any randomised controlled trials.
+Authors' conclusions
+This updated Cochrane Review did not identify any randomised controlled trials assessing interventions for treating intrahepatic cholestasis in people with sickle cell disease. Randomised controlled trials are needed to establish the optimum treatment for this condition. 

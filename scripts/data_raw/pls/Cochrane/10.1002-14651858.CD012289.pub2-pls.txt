@@ -1,0 +1,16 @@
+Systemic corticosteroids for improving symptoms in children with acute middle ear infection 
+Review question 
+We reviewed the evidence on the effects of corticosteroids given by mouth or injection for acute middle ear infection (acute otitis media (AOM)) in children, particularly in improving symptoms such as ear pain, fever, irritability, lack of sleep, and lack of appetite. We also looked at the side effects of corticosteroids. 
+Background 
+Acute otitis media is common in children and causes ear pain and non‐specific symptoms such as fever, irritability, and deafness. It is often treated with antibiotics, although ear pain generally resolves within two days, and antibiotics help symptoms only slightly. Other treatments (such as over‐the‐counter antihistamines and decongestants) do not help very much. 
+Corticosteroids are often prescribed to reduce inflammation in children for other illnesses, and so may also help symptoms of AOM, which is an inflammatory process. We investigated whether using corticosteroids was better or worse than nothing in improving AOM‐related symptoms. 
+Search date 
+Our evidence is current to 20 February 2018.
+Study characteristics 
+We included two studies involving 252 children with AOM, aged from three months to six years, receiving hospital ambulatory care. Children were treated with an antibiotic injection and either oral corticosteroid or a placebo (treatment with no effect). In one study, fluid from the middle ear was collected by inserting a needle through the eardrum to measure the level of inflammation. 
+Study funding sources 
+The National Institutes of Health (NIH) and the National Center for Research Resources, NIH, US Public Health Service funded both studies. Pharmaceutical companies provided the drug but did not contribute any other scientific or financial support. 
+Key results and quality of evidence 
+Corticosteroids did not make a significant difference in improving the symptoms and inflammation of the eardrum(s) at Day 5 and Day 14, but we are unsure of this effect due to the small numbers of children in the studies. There were no significant differences between the corticosteroid and placebo groups in terms of resolving fluid in children's middle ears (at 1, 2, and 3 months) and experiencing new episodes of AOM (at 1, 2, 3 months, and 4 and 6 months). Neither study reported a reduction in the duration of overall or specific symptoms, rupture of eardrum(s), the occurrence of middle ear inflammation in the other ear following the current ear infection, or serious complications. Only one study reported the overall side effects identified during the trial (e.g. drowsiness, dry mouth, diaper rash, nervousness). 
+We could not draw any conclusions regarding the effects of corticosteroids for AOM in children. 
+The quality of evidence included in this review was low to very low due to few children included in two small studies. We are uncertain about whether or not corticosteroids are useful in relieving pain from AOM. 

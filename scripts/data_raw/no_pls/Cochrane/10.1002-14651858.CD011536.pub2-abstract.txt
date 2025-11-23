@@ -1,0 +1,14 @@
+Background
+Deep venous thrombosis (DVT) occurs in approximately one in 1000 adults every year, and has an annual mortality of 14.6%. In particular, iliofemoral DVT can lead to recurrent thrombosis and post‐thrombotic syndrome (PTS), a painful condition which can lead to chronic venous insufficiency, oedema, and ulceration. It causes significant disability, impaired quality of life, and economic burden. Early thrombus removal techniques have been advocated in patients with an iliofemoral DVT in order to improve vein patency, prevent valvular dysfunction, and reduce future complications, such as post‐thrombotic syndrome and venous ulceration. One such technique is pharmacomechanical thrombectomy, a combination of catheter‐based thrombectomy and catheter‐directed thrombolysis. 
+Objectives
+To assess the effects of pharmacomechanical thrombectomy versus anticoagulation (alone or with compression stockings), mechanical thrombectomy, thrombolysis, or other endovascular techniques in the management of people with acute DVT of the iliofemoral vein. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Specialised Register (last searched December 2015) and the Cochrane Register of Studies (last searched December 2015). We searched clinical trials databases for details of ongoing or unpublished studies and the reference lists of relevant articles retrieved by electronic searches for additional citations. 
+Selection criteria
+Randomised controlled trials in which patients with an iliofemoral deep vein thrombosis were allocated to receive pharmacomechanical thrombectomy versus anticoagulation, mechanical thrombectomy, thrombolysis (systemic or catheter directed thrombolysis), or other endovascular techniques for the treatment of iliofemoral DVT. 
+Data collection and analysis
+At least two review authors independently assessed studies identified for potential inclusion. 
+Main results
+We found no randomised controlled trials that met the eligibility criteria for this review. We identified one ongoing study. 
+Authors' conclusions
+There were no randomised controlled trials that assessed the effects of pharmacomechanical thrombectomy versus anticoagulation (alone or with compression stockings), mechanical thrombectomy, thrombolysis, or other endovascular techniques in the management of people with acute DVT of the iliofemoral vein that met the eligibility criteria for this review. Further high quality randomised controlled trials are needed. 

@@ -1,0 +1,20 @@
+Vasopressors for hypotensive shock
+Review question 
+This review seeks unbiased evidence about the effects of different drugs that enhance blood pressure on risk of dying in critically ill patients with impaired blood circulation. 
+Background 
+● Circulatory shock is broadly defined as a life‐threatening condition of impaired blood flow resulting in inability of the body to maintain blood delivery to body tissue and to meet oxygen demands. 
+● Typical signs of shock include low blood pressure, rapid heartbeat and poor organ perfusion indicated by low urine output, confusion or loss of consciousness. 
+● Death in the intensive care unit ranges from 16% to 60%, depending on the underlying condition: treatment includes fluid replacement followed by use of vasopressor agents, if necessary. 
+● A vasopressor agent is a drug that causes a rise in blood pressure. Six vasopressor drugs are available and are used successfully to increase blood pressure to reverse circulatory failure in critical care. Differences in their effects on survival are discussed with controversy and must be investigated. 
+● This review aims to discover whether any of the drugs given alone or in combination were better or worse than the others. 
+Search date 
+Evidence is current to June 2015.
+Study characteristics 
+Review authors identified 28 randomized controlled trials involving 3497 critically ill patients with circulatory failure, among whom 1773 died. Patients were followed up to one year. 
+The following drugs, given alone or in combination, were studied in 12 different comparisons: dopamine, norepinephrine, epinephrine, phenylephrine, vasopressin, and terlipressin. 
+Key results 
+In summary, researchers found no significant differences in risk of dying in any comparisons of different drugs given alone or in combination when latest reported death was considered. 
+Disturbances in the rhythm of the heart were observed more frequently in people treated with dopamine than in those treated with norepinephrine. 
+Quality of the evidence 
+The quality of the evidence was high for the comparison of norepinephrine and dopamine, and was very low to moderate for the other comparisons. 
+Findings were consistent among the few large studies and studies of different quality.

@@ -1,0 +1,14 @@
+Background
+Statins have been claimed to be effective in the acute phase of ischemic stroke. The potential positive actions of statins during an acute cerebrovascular ischemic event are two‐fold: a neuroprotective effect, limiting damage and improving recovery; and a preventative effect on early recurrence. 
+Objectives
+To quantify the potential benefits and harms of statins in the acute treatment of cerebrovascular ischemic events (both transient ischemic attacks (TIAs) and ischemic stroke). 
+Search methods
+We searched the Cochrane Stroke Group's Trials Register (November 2010); the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 4); MEDLINE (1950 to November 2010); and EMBASE (1980 to November 2010). In an effort to identify further published, unpublished and ongoing trials we searched ongoing trials and research registers (November 2010), checked reference lists from relevant articles and contacted authors. 
+Selection criteria
+We included all randomized controlled trials (RCTs) comparing statins (any type and dosage) versus placebo or no treatment, administered within two weeks of the onset of acute ischemic stroke or TIA. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion and extracted data. We assessed methodological quality and, when necessary, contacted study authors for additional data. We based quantitative analysis of outcome on the intention‐to‐treat principle. The primary outcomes were mortality from ischemic stroke and mortality from adverse drug effects, bleedings and infections. We estimated the overall treatment effect by the pooled odds ratio (OR) with 95% confidence interval (CI) using a fixed‐effect model (Mantel‐Haenszel). 
+Main results
+We included eight RCTs involving 625 participants. Only one study was judged as 'low risk' of bias. There were insufficient published data from the eight studies for all planned primary and secondary outcomes. No patients died from ischemic stroke or from adverse drug effects, bleeding or infections among the 444 participants in the six studies where these outcomes were reported. Statin treatment did not reduce all‐cause mortality compared with placebo or no treatment (OR 1.51, 95% CI 0.60 to 3.81) in the 431 patients enrolled in seven studies. No cases of rhabdomyolysis (the breakdown of muscle fibres resulting in the release of muscle fibre contents (myoglobin) into the bloodstream) occurred in 274 patients enrolled in three studies. 
+Authors' conclusions
+Insufficient data were available from randomized trials to establish if statins are safe and effective in cases of acute ischemic stroke and TIA. 

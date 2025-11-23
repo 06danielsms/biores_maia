@@ -1,0 +1,16 @@
+Background
+Amyotrophic lateral sclerosis, also known as motor neuron disease, is a fatal neuromuscular disease characterized by progressive muscle weakness resulting in paralysis. It might be treated with ciliary neurotrophic factor. This is an updated review. An updated search was performed in April 2011, but no new studies were found. 
+Objectives
+The objective of this review was to examine the efficacy of ciliary neurotrophic factor in amyotrophic lateral sclerosis. 
+Search methods
+We updated the searches of the Cochrane Neuromuscular Disease Group Specialized Register (19 April 2011), CENTRAL (2011, Issue 2), MEDLINE (January 1966 to April 2011) and EMBASE (January 1980 to April 2011), checked the reference lists of papers identified and contacted the authors of identified studies to get additional unpublished results. 
+Selection criteria
+We considered the following selection criteria:  Types of studies: randomized controlled clinical trials.  Types of participants: adults with a diagnosis of either probable or definite amyotrophic lateral sclerosis according to the El Escorial criteria.  Types of interventions: treatment with ciliary neurotrophic factor for at least six months in a placebo‐controlled randomized trial format.  We did not specify outcomes as selection criteria. In the review our outcome measures were as follows.  Primary outcome: survival.  Secondary outcomes: muscle strength, respiratory function, changes in bulbar functions, changes in quality of life, proportion of patients with adverse side effects (such as cough, asthenia, nausea, anorexia, weight loss and increased salivation). 
+Data collection and analysis
+Three review authors independently checked all titles and abstracts from the searches to identify eligible randomized controlled trials. Two review authors independently extracted data and a third checked the data. We obtained some missing data from the investigators. Two authors independently assessed the risk of bias for each included study. 
+Main results
+Two trials with a total population of 1300 amyotrophic lateral sclerosis patients who were randomized to treatment with subcutaneous injections of recombinant human ciliary neurotrophic factor or placebo were examined in this review. The risk of bias was low for one trial but was unclear for the other trial. No new trials were found on updating the search in April 2011. The methodological quality of these trials was considered adequate. 
+No significant difference was observed between ciliary neurotrophic factor and placebo groups for survival, the primary outcome measure. The risk ratio was 1.07 (95% confidence interval 0.81 to 1.41). 
+No significant differences between the groups were observed for most of the secondary outcomes. However, a significant increase of the incidence of several adverse events was noted in groups treated with higher doses of ciliary neurotrophic factor. 
+Authors' conclusions
+Ciliary neurotrophic factor treatment had no significant effect on amyotrophic lateral sclerosis progression. At high concentrations, several side effects were observed. A combination of ciliary neurotrophic factor with other neurotrophic factors (as suggested by results on animal models) and more efficient delivery methods should be tested. 

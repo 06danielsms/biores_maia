@@ -1,0 +1,25 @@
+The rapid test GenoType® MTBDRsl for testing resistance to second‐line TB drugs
+Background 
+Different drugs are available to treat tuberculosis (TB), but resistance to these drugs is a growing problem. People with drug‐resistant TB require second‐line TB drugs that, compared with first‐line TB drugs, must be taken for longer and may be associated with more harms. Detecting TB drug resistance quickly is important for improving health, reducing deaths, and decreasing the spread of drug‐resistant TB. 
+Definitions  Multidrug‐resistant TB (MDR‐TB) is caused by TB bacteria that are resistant to at least isoniazid and rifampicin, the two most potent TB drugs. 
+Extensively drug‐resistant TB (XDR‐TB) is a type of MDR‐TB that is resistant to nearly all TB drugs. 
+What test is evaluated by this review? 
+GenoType® MTBDRsl (MTBDRsl) is a rapid test for detecting resistance to second‐line TB drugs. In people with MDR‐TB, MTBDRsl is used to detect additional drug resistance. The test may be performed on TB bacteria grown in culture from a patient specimen (indirect testing) or on a patient specimen (direct testing), which eliminates delays associated with culture. MTBDRsl version 1.0 requires a specimen to be smear‐positive by microscopy, while version 2.0 (released in 2015) may use a smear‐positive or ‐negative specimen. 
+What are the aims of the review? 
+We wanted to find out how accurate MTBDRsl is for detecting drug resistance; to compare indirect and direct testing; and to compare the two test versions. 
+How up‐to‐date is the review? 
+We searched for and used studies that had been published up to 21 September 2015.
+What are the main results of the review? 
+We found 27 studies; 26 studies evaluated MTBDRsl version 1.0 and one study evaluated version 2.0. 
+Fluoroquinolone drugs 
+MTBDRsl version 1.0 (smear‐positive specimen) detected 86% of people with fluoroquinolone resistance and rarely gave a positive result for people without resistance (GRADE, moderate quality evidence). 
+Second‐line injectable drugs 
+MTBDRsl version 1.0 (smear‐positive specimen) detected 87% of people with second‐line injectable drug resistance and rarely gave a positive result for people without resistance (GRADE, low quality evidence). 
+XDR‐TB 
+MTBDRsl version 1.0 (smear‐positive specimen) detected 69% of people with XDR‐TB and rarely gave a positive result for people without resistance (GRADE, low quality evidence). 
+For MTBDRsl version 1.0, we found similar results for indirect and direct testing (smear‐positive specimen). 
+As we identified only one study evaluating MTBDRsl version 2.0, we could not be sure of the diagnostic accuracy of version 2.0. Also, we could not compare accuracy of the two versions. 
+What is the methodological quality of the evidence? 
+We used the Quality Assessment of Diagnostic Accuracy Studies (QUADAS‐2) tool to assess study quality. Overall, we considered the included studies to be of high quality; however, we had concerns about how the reference standard (the benchmark against which MTBDRsl was measured) was applied. 
+What are the authors' conclusions? 
+MTBDRsl (smear‐positive specimen) identified most of the patients with second‐line drug resistance. When the test reports a negative result, conventional testing for drug resistance can still be used. 

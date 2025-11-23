@@ -1,0 +1,14 @@
+Background
+Macular translocation has been proposed by vitreoretinal surgeons to displace the neuroretinal tissue onto healthy retinal pigment epithelium and choroid when the macula has been invaded by subretinal neovascularisation. 
+Objectives
+This review aims at assessing the effectiveness of macular translocation for preserving or improving vision in patients with neovascular age‐related macular degeneration (AMD). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE and Caribbean Literature on Health Sciences (LILACS). There were no language or date restrictions in the search for trials.The electronic databases were last searched on 21 July 2008. 
+Selection criteria
+We included randomised or quasi randomised controlled trials comparing macular translocation with any other treatment or observation. 
+Data collection and analysis
+Two authors independently extracted the data. The risk ratio (RR) of visual loss and visual gain was estimated at one year after treatment. 
+Main results
+Only one small unblinded study on 50 people compared full macular translocation with photodynamic therapy (PDT) in AMD patients with predominantly classic subfoveal choroidal neovascularisation (CNV). At the last examination, performed in most of the cases after one year, there was no difference in the rate of visual loss of 3 or more lines (translocation versus PDT: RR 0.56, 95% confidence interval (CI) 0.22 to 1.43), as well as in the mean change of contrast sensitivity (1 letter favouring translocation; 95% CI ‐3.51 to 5.51) and the rate of recurrence of CNV (translocation versus PDT: RR 1.56, 95% CI 0.83 to 2.91). Other outcomes significantly favoured translocation, such as the gain of 3 or more ETDRS lines (RR 21, 95% CI 1.30 to 340.02), the mean change of visual acuity (mean difference (MD) 14.60, 95% CI 5.39 to 23.81) and the mean change of near visual acuity score (MD 17.80, 95% CI 3.98 to 31.62) which is obtained with an algorithm. Serious complications reported after macular translocation were retinal detachment in 6/25 patients and diplopia requiring prismatic correction in 5/25 patients. 
+Authors' conclusions
+There is insufficient evidence from randomised controlled trials on the effectiveness of macular translocation, which is also not free of important risks. Furthermore, this technique is difficult to perform and a long surgical training is required. Future studies might include patients with small neovascular lesions that failed to respond to current pharmacological therapies and are willing to accept the risks associated with surgery to try to improve visual acuity. 

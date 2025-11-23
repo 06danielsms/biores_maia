@@ -1,0 +1,14 @@
+Background
+Granulocyte‐colony stimulating factor (G‐CSF) increases the release of neutrophil endothelial progenitor cells from the bone marrow and improves neutrophil functions, which are often impaired in people with diabetes. 
+Objectives
+To examine the effects of adjunctive G‐CSF compared with placebo or no growth factor added to usual care on rates of infection, cure and wound healing in people with diabetes who have a foot infection. 
+Search methods
+In March 2013, for this second update, we searched the Cochrane Wounds Group Specialised Register (searched 14 March 2013); the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 2); Ovid MEDLINE (1948 to March Week 1 2013); Ovid EMBASE (1974 to 2013 March 13); Ovid MEDLINE (In‐Process march 13,2013); and EBSCO CINAHL (1982 to 28 February 2013). 
+Selection criteria
+Randomised controlled trials (RCTs) that evaluated the effect of adding G‐CSF to usual care in people with a diabetic foot infection. 
+Data collection and analysis
+Three review authors independently assessed trial eligibility, methodological quality and extracted data. We reported risk ratio (RR) or, for continuous outcomes, mean differences (MD), with 95% confidence intervals (CI). In the case of low or no heterogeneity we pooled studies using a fixed‐effect model. 
+Main results
+We identified and included five eligible trials with a total of 167 patients. The investigators administered various G‐CSF preparations, at different doses and for different durations of time. Adding G‐CSF did not significantly affect the likelihood of resolution of infection or wound healing, but it was associated with a significantly reduced likelihood of lower extremity surgical interventions (RR 0.38; 95 % CI 0.21 to 0.70), including amputation (RR 0.41; 95 % CI 0.18 to 0.95). Moreover, providing G‐CSF reduced the duration of hospital stay (MD ‐1.40 days; 95% CI ‐2.27 to ‐0.53 days), but did not significantly affect the duration of systemic antibiotic therapy (MD ‐0.27 days; 95% CI ‐1.30 to 0.77 days). 
+Authors' conclusions
+The available evidence is limited, but suggests that adjunctive G‐CSF treatment in people with a diabetic foot infection, including infected ulcers, does not appear to increase the likelihood of resolution of infection or healing of the foot ulcer. However, it does appear to reduce the need for surgical interventions, especially amputations, and the duration of hospitalisation. Clinicians might consider adding G‐CSF to the usual treatment of diabetic foot infections, especially in patients with a limb‐threatening infection, but it is not clear which patients might benefit. 

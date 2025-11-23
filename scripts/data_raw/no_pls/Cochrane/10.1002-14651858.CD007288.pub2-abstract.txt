@@ -1,0 +1,15 @@
+Background
+Bell's palsy is an idiopathic, acute unilateral facial weakness that evolves rapidly and is maximal within two days. Moderate ear discomfort, sensitivity to sound and reduced tearing may occur. 
+Objectives
+To assess the effects of hyperbaric oxygen therapy on recovery of facial function in adults with moderate to severe Bell's palsy. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (January 2012), CENTRAL (2011, Issue 4), MEDLINE (January 1966 to January 2012), EMBASE (January 1980 to January 2012), CINAHL (1937 to January 2012), AMED (1985 to January 2012), LILACS (January 1982 to January 2012). In addition we made a systematic search for relevant controlled trials in specific hyperbaric literature sources. 
+Selection criteria
+Randomised controlled trials or quasi‐randomised controlled trials of adults (over 16 years of age) undergoing hyperbaric oxygen therapy for moderate to severe Bell's palsy. We considered studies to be of sufficient quality for inclusion in the review only if there was blinding in the assessment of the facial palsy grade. We planned to include studies of HBOT used as adjuvant therapy, or in addition to routine medical therapy (including corticosteroids or antivirals, or both). Both treatment and control groups were to receive the same baseline therapy. HBOT had to be delivered at concentrations greater than or equal to 1.2 ATA in a hyperbaric oxygen chamber as a series of dives of 30 to 120 minutes. 
+Data collection and analysis
+Two reviewers independently assessed eligibility and study quality and extracted data. We contacted study authors for additional information. 
+Main results
+Our searches found no randomised controlled trials or quasi‐randomised controlled trials that met the eligibility criteria for this review. 
+There is very low quality evidence from one randomised trial involving 79 participants with acute Bell's palsy, but this study was excluded as the outcome assessor was not blinded to treatment allocation and thus did not meet pre‐defined eligibility criteria. The trial compared 42 people who received hyperbaric oxygen therapy (2.8 atmospheres for 60 minutes twice daily, five days per week until the facial palsy resolved; maximum 30 'dives') and placebo tablets with 37 people who received placebo hyperbaric oxygen therapy (achieving only a normal partial pressure of oxygen) and prednisone (40 mg twice daily, reducing over eight days). Facial function recovered in more participants treated with hyperbaric oxygen therapy than with prednisone (hyperbaric oxygen therapy, 40/42 (95%); prednisone, 28/37 (76%); risk ratio 1.26, 95% CI 1.04 to 1.53). There were no reported major complications and all participants completed the trial. 
+Authors' conclusions
+Very low quality evidence from one trial suggests that hyperbaric oxygen therapy may be an effective treatment for moderate to severe Bell's palsy, but this study was excluded as the outcome assessor was not blinded to treatment allocation. Further randomised controlled trials are needed. 

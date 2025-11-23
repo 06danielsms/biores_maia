@@ -1,0 +1,18 @@
+Background
+The clinical presentation of acute chest syndrome is similar whether due to infectious or non‐infectious causes, thus antibiotics are usually prescribed to treat all episodes. Many different pathogens, including bacteria, have been implicated as causative agents of acute chest syndrome. There is no standardized approach to antibiotic therapy and treatment is likely to vary from country to country. Thus, there is a need to identify the efficacy and safety of different antibiotic treatment approaches for people with sickle cell disease suffering from acute chest syndrome. This is an update of a Cochrane Review first published in 2007, and most recently updated in 2015. 
+Objectives
+To determine whether an empirical antibiotic treatment approach (used alone or in combination): 
+1. is effective for acute chest syndrome compared to placebo or standard treatment;2. is safe for acute chest syndrome compared to placebo or standard treatment; 
+Further objectives are to determine whether there are important variations in efficacy and safety: 
+3. for different treatment regimens,4. by participant age, or geographical location of the clinical trials. 
+Search methods
+We searched The Group's Haemoglobinopathies Trials Register, which comprises references identified from comprehensive electronic database searches and handsearching of relevant journals and abstract books of conference proceedings. We also searched the LILACS database (1982 to 23 October 2017), African Index Medicus (1982 to 23 October 2017) and trial registries (23 October 2017). 
+Date of most recent search of the Haemoglobinopathies Trials Register: 10 July 2019.
+Selection criteria
+We searched for published or unpublished randomised controlled trials.
+Data collection and analysis
+Each author intended to independently extract data and assess trial quality by standard Cochrane methodologies, but no eligible randomised controlled trials were identified. 
+Main results
+For this update, we were unable to find any randomised controlled trials on antibiotic treatment approaches for acute chest syndrome in people with sickle cell disease. 
+Authors' conclusions
+This update was unable to identify randomised controlled trials on efficacy and safety of the antibiotic treatment approaches for people with sickle cell disease suffering from acute chest syndrome. While randomised controlled trials are needed to establish the optimum antibiotic treatment for this condition, we do not envisage further trials of this intervention will be conducted, and hence the review will no longer be regularly updated. 

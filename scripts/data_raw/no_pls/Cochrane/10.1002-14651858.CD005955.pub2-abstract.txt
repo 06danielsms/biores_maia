@@ -1,0 +1,14 @@
+Background
+A high incidence of functional decline (deterioration in physical or cognitive function) during hospitalisation of older adults is reported. The role of exercise in preventing these deconditioning effects is unclear. 
+Objectives
+To determine the effect of exercise interventions for acutely hospitalised older medical patients on functional status, adverse events and hospital outcomes. 
+Search methods
+We searched MEDLINE (1966‐Feb 2006), CINAHL (1982‐Feb 2006), EMBASE (1988 to Feb 2006), Cochrane Database of Systematic Reviews and Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2006), PEDro (1929‐ Feb 2006), Current Contents (1993‐ Feb 2006) and Sports Discus (1830‐Feb 2006). The Journal of the American Geriatrics Society was hand searched. Additional studies were identified through reference and citation tracking, personal communications with a content expert and contacting authors of eligible trials. There was no language restriction. 
+Selection criteria
+Eligible studies were prospective randomised controlled trials (RCT) or prospective controlled clinical trials (CCT) comparing exercise for acutely hospitalised older medical patients to usual care or no treatment controls. 
+Data collection and analysis
+Two independent reviewers extracted data relating to patient and hospital outcomes and assessed the method quality of included studies. Data were pooled in meta‐analysis using the relative risk (RR) and absolute risk reduction (ARR) for dichotomous outcomes and the standardised mean difference (SMD) or the weighted mean difference (WMD) for continuous outcomes. 
+Main results
+Of 3138 potentially relevant articles screened, 7 randomised controlled trials and 2 controlled clinical trials were included. The effect of exercise on functional outcome measures is unclear. No intervention effect was found on adverse events. Pooled analysis of multidisciplinary interventions that included exercise indicated a small significant increase in the proportion of patients discharged to home at hospital discharge (Relative Risk 1.08, 95% CI 1.03 to 1.14 and Numbers Needed to Treat 16, 95% CI 11 to 43) and a small but important reduction in acute hospital length of stay (weighted mean difference, ‐1.08 days, 95% CI ‐1.93 to ‐0.22) and total hospital costs (weighted mean difference, ‐US$278.65, 95% CI ‐491.85 to ‐65.44) compared to usual care. Pooled analysis of exercise intervention trials found no effect on the proportion of patients discharged to home or acute hospital length of stay. 
+Authors' conclusions
+There is 'silver' level evidence (www.cochranemsk.org) that multidisciplinary intervention that includes exercise may increase the proportion of patients discharged to home and reduce length and cost of hospital stay for acutely hospitalised older medical patients. 

@@ -1,0 +1,13 @@
+Radiotherapy for diffuse brainstem glioma in children and young adults
+Review question 
+To assess the effects of conventional radiotherapy (with or without chemotherapy) versus other therapies (including different radiotherapy techniques) for newly diagnosed diffuse brainstem gliomas in children and young adults aged 0 to 21 years. 
+Background 
+Diffuse brainstem glioma typically occurs in the pons (part of the brainstem) and expands and infiltrates at least 50% of the pons, with a characteristic appearance on magnetic resonance imaging (MRI). The prognosis is very poor, with a median overall survival (OS; time from cancer diagnosis, or treatment, to death from any cause) ranges from 8 to 11 months. So far, there is no analysis or review available that assessed the benefits or harms of radiation for newly diagnosed diffuse brainstem glioma in children and young adults aged 0 to 21 years. 
+Study characteristics 
+Through comprehensive search and screening of medical databases, we found two clinical studies that tested different treatments. One study, with 130 participants included, compared hyperfractionated radiotherapy (six‐week course with treatment twice a day ) with conventional radiotherapy (six‐week course with treatment once a day ). The second study, with 71 participants included, compared hypofractionated radiotherapy (three‐week course with treatment once a day ) with conventional radiotherapy. 
+Key results 
+For the comparison of hyperfractionated radiotherapy and conventional radiotherapy, there was no clear evidence of effect on OS, event‐free survival (EFS; time from diagnosis, study entry, or treatment to disease progression, disease relapse, a second tumour, or death), radiological response (a reduction in tumour size of more than 50%), and toxicities (damage to the body due to radiotherapy). 
+For the comparison of hypofractionated radiotherapy and conventional radiotherapy, there was no clear evidence of effect on OS, progression‐free survival (PFS; time from diagnosis, study entry, or treatment to disease progression), and side effects. 
+Quality of the evidence 
+For the hyperfractionated radiotherapy, when compared with conventional therapy, the quality of evidence was low for OS and EFS, and very low for radiological response and toxicities. 
+For the hypofractionated radiotherapy, when compared with conventional therapy, the quality of evidence was moderate for OS, and low for PFS and toxicities. 

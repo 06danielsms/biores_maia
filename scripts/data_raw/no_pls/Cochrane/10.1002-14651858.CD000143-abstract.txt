@@ -1,0 +1,15 @@
+Background
+Preterm infants being extubated following a period of intermittent positive pressure ventilation via an endotracheal tube are at risk of developing respiratory failure as a result of apnea, respiratory acidosis and hypoxia. Nasal continuous positive airway pressure appears to stabilise the upper airway, improve lung function and reduce apnea and may therefore have a role in facilitating extubation in this population. 
+Objectives
+To evaluate the effect of management with nasal continuous positive airways pressure (NCPAP) compared to extubation directly to headbox oxygen on the need for additional ventilatory support in preterm infants having their endotracheal tube removed following a period of intermittent positive pressure ventilation (IPPV), 
+Search methods
+Searches were made of the Oxford Database of Perinatal Trials, PubMed up to November 2007, Cochrane Central Regsiter of Controlled Trials (The Cochrane Library, Issue 4, 2007), previous reviews including cross references, abstracts of conferences and symposia proceedings, expert informants and journal handsearching mainly in the English language. 
+Selection criteria
+All trials utilising random or quasi‐random patient allocation, in which NCPAP (delivered by any method) was compared with headbox oxygen for post‐extubation care were included. Methodological quality was assessed independently by the two review authors. 
+Data collection and analysis
+Data were extracted independently by the two review authors. Data were analysed using relative risk (RR), risk difference (RD) and number needed to treat (NNT).Prespecified subgroup analysis to determine the impact of different levels of NCPAP, differences in duration of IPPV and use of aminophylline were also performed. 
+Main results
+When applied to preterm infants being extubated following IPPV, nasal CPAP reduces the incidence of respiratory failure (apnea, respiratory acidosis and increased oxygen requirements) indicating the need for additional ventilatory support [typical RR 0.62 (95% CI 0.51, 0.76), typical RD ‐0.17 (95% CI ‐0.23, ‐0.10), NNT 6 (4,10)]. 
+Authors' conclusions
+Implications for practice: nasal CPAP is effective in preventing failure of extubation in preterm infants following a period of endotracheal intubation and IPPV. 
+Implication for research: further definition of the gestational age and weight groups in whom these results apply is warranted. Optimal levels of NCPAP as well as methods of administration remain to be determined. 

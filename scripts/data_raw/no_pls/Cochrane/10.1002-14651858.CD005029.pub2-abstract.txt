@@ -1,0 +1,14 @@
+Background
+Disabling tremor or ataxia is common in multiple sclerosis (MS) and up to 80% of patients experience tremor or ataxia at some point during their disease. A variety of treatments are available, ranging from pharmacotherapy or stereotactic neurosurgery to neurorehabilitation. 
+Objectives
+To assess the efficacy and tolerability of both pharmacological and non‐pharmacologic treatments of ataxia in patients with MS. 
+Search methods
+The following electronic resources were searched: Cochrane MS Group trials register (June 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 2, 2006), MEDLINE (January 1966 to June 2006), EMBASE (Jan 1988 to June 2006) and the National Health Service National Research Register (NRR) including the Medical Research Council Clinical Trials Directory (Issue 2, 2006). Manual searches of bibliographies of relevant articles, pertinent medical and neurology journals and abstract books of major neurology and MS conferences (2001‐2006) were also performed. Direct communication with experts and drug companies was sought. 
+Selection criteria
+Blinded, randomised trials which were either placebo‐controlled or which compared two or more treatments were included. Trials testing pharmacological agents must have had both participant and assessor blinding. Trials testing surgical interventions or effects of physiotherapy, where participants could not have been blinded to the treatment, must have had independent assessors who were blinded to the treatment. Cross‐over trials were included. 
+Data collection and analysis
+Three independent reviewers extracted data and the findings of the trials were summarised. A meta‐analysis was not performed due to the inadequacy of outcome measures and methodological problems with the studies reviewed. 
+Main results
+Ten randomised controlled trials met the inclusion criteria. Six placebo‐controlled studies (pharmacotherapy) and four comparative studies (one stereotactic neurosurgery and three neurorehabilitation) were reviewed. No standardised outcome measures were used across the studies. In general, pharmacotherapies were unrewarding and data on neurosurgery or rehabilitation is insufficient to lead to a change in practice. 
+Authors' conclusions
+The absolute and comparative efficacy and tolerability of pharmacotherapies to treat ataxia in MS are poorly documented and no recommendations can be made to guide prescribing. Although studies on neurosurgery and neurorehabilitation showed promising results, the absolute indications for treating with those methods cannot be developed. Standardised, well validated measures of ataxia and tremor need to be developed and employed in larger randomised controlled trials with careful blinding. 

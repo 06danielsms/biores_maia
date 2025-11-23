@@ -1,0 +1,17 @@
+Background
+It is not unusual to observe peripheral nervous system involvement in people with tumours outside the nervous system. Any part of the peripheral nervous system can be involved, from sensory and motor neurons to nerve roots and plexuses, from distal trunks to neuromuscular junctions. Pathogenesis also varies from direct infiltration by cancer cells, to treatment toxicity, to metabolic derangement, cachexia, infections and paraneoplastic syndromes. 
+Paraneoplastic neurological syndromes are symptoms or signs resulting from damage to organs or tissues that are remote from the site of the malignancy or its metastases. The pathogenesis is thought to be immune‐mediated as a result of a cross‐reaction against antigens shared by the tumour and nervous system cells. 
+Paraneoplastic neuropathies are the most frequently reported paraneoplastic syndromes. They are, however, heterogeneous and require several therapeutic approaches. This review was undertaken to systematically assess any data available from randomised controlled trials (RCTs) on the treatment of paraneoplastic syndromes of the peripheral nervous system and not the whole range of paraneoplastic neurological syndromes. 
+Objectives
+To assess the benefits and harms of treatments for paraneoplastic neuropathies.
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (14 February 2012), CENTRAL (2012, Issue 1), MEDLINE (January 1966 to February 2012), EMBASE (January 1980 to February 2012) and LILACS (January 1982 to February 2012) for RCTs, quasi‐RCTs, historically controlled studies and trials with concurrent controls. 
+We adapted this strategy to search MEDLINE from 1966 and EMBASE from 1980 for comparative cohort studies, case‐control studies and case series. 
+Selection criteria
+We planned to include all RCTs and quasi‐RCTs (in which allocation is not random but is intended to be unbiased, for example alternate allocation) of any treatment for paraneoplastic neuropathies. Since we expected there to be few or no included studies, we also planned to assess and summarise observational studies, prospective and retrospective comparative cohort studies, case‐control studies and case series that met minimum criteria in the discussion. 
+Data collection and analysis
+Three review authors selected the trials for inclusion. When there was any disagreement we reached an agreement by discussion. Two review authors extracted data independently onto a specially designed data extraction form. We would have collected adverse event data from included studies. 
+Main results
+Despite many reports on paraneoplastic neuropathy, we identified no RCT or quasi‐RCTs for inclusion in this review. We found only six studies, involving 54 participants, from among the non‐randomised evidence that were judged by predefined criteria to be of suitable quality for inclusion in the discussion. These studies were not readily comparable. The treatments focused on tumour treatment and immunomodulation, mainly intravenous immunoglobulin. 
+Authors' conclusions
+At present there are no RCTs or quasi‐RCTs of treatment for paraneoplastic neuropathies on which to base practice. There is only evidence from case series, case reports or expert opinion (class IV evidence) for the effect of immunomodulation (intravenous immunoglobulin, plasma exchange, steroid treatment or chemotherapy) on paraneoplastic neuropathy.   

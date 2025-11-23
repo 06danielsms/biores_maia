@@ -1,0 +1,17 @@
+Background
+Fracture of the distal radius is a common clinical problem. Displaced fractures are usually reduced using closed reduction methods, which are non‐surgical and generally comprise traction and manipulation. The resulting position is then stabilised, typically by plaster cast immobilisation. 
+Objectives
+To examine the evidence for the relative effectiveness of different methods of closed reduction for displaced fractures of the distal radius in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (June 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 2), MEDLINE, EMBASE, CINAHL, the National Research Register (UK), conference proceedings and reference lists of articles. 
+Selection criteria
+Randomised or quasi‐randomised clinical trials comparing different methods of closed reduction. We also included trials where the use or not of anaesthesia was tested concurrently with different methods of reduction. 
+Data collection and analysis
+Both authors independently selected trials and assessed methodological quality. Data were extracted independently by one author and checked by the other. No pooling was possible. 
+Main results
+Three trials involving a total of 404, mainly female and older, people with displaced fractures of the distal radius were included. These failed to assess functional outcome, and only one trial reported on complications. 
+One trial found no statistically significant differences between mechanical reduction using finger trap traction and manual reduction in anatomical outcomes. All participants of this trial were given intravenous regional anaesthesia. 
+One trial compared a novel method of manual reduction where the non‐anaesthetised patient actively provided counter‐traction versus traditional manual reduction under intravenous regional anaesthesia. While participants of the novel method group suffered more, yet not intolerable, pain during the reduction procedure, the latter was shorter in duration. No differences in anatomical outcome were detected. 
+The third study compared mechanical reduction involving a special device without anaesthesia versus manual reduction under haematoma block (local anaesthesia). Less pain during the reduction procedure was recorded for the mechanical traction group. Both methods yielded similar radiological results. Fewer participants of the mechanical traction group had signs of neurological impairment, mainly finger numbness, at five weeks but this difference was not statistically significant by one year. 
+Authors' conclusions
+There was insufficient evidence from comparisons tested within randomised controlled trials to establish the relative effectiveness of different methods of closed reduction used in the treatment of displaced fractures of the distal radius in adults. 

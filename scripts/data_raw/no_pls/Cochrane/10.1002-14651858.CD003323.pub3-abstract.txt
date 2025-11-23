@@ -1,0 +1,15 @@
+Background
+Treatments for managing articular cartilage defects of the knee, including drilling and abrasion arthroplasty, are not always effective. When they are, long‐term benefits may not be maintained and osteoarthritis may develop. An alternative is autologous chondrocyte implantation (ACI), the surgical implantation of healthy cartilage cells into the damaged areas. 
+Objectives
+To determine the efficacy and safety of ACI in people with full thickness articular cartilage defects of the knee. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (14 January 2011), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 4), MEDLINE (1948 to January Week 1 2011), EMBASE (1980 to Week 1 2011), SPORTDiscus (1985 to 14 January 2011), the WHO International Clinical Trials Registry Platform (26 January 2011), and Current Controlled Trials (26 January 2011). 
+Selection criteria
+Randomised and quasi‐randomised trials comparing ACI with any other type of treatment (including no treatment or placebo) for symptomatic cartilage defects of the medial or lateral femoral condyle, femoral trochlea or patella. 
+Data collection and analysis
+Review authors selected studies for inclusion independently. We assessed risk of bias based on adequacy of the randomisation and allocation concealment process, potential for selection bias after allocation and level of masking. We did not pool data due to clinical and methodological heterogeneity. 
+Main results
+Six heterogeneous trials were identified with 442 participants. Methodological flaws of the included trials included incomplete follow‐up and inadequate reporting of outcomes. Three trials compared ACI versus mosaicplasty. One reported statistically significant results in favour of ACI at one year in the numbers of people with 'good' or 'excellent' functional results. Conversely, another trial found significant improvement for the mosaicplasty group when assessed using one functional scoring system at two years, but no statistically significant differences based on two other scoring systems. A third trial found no difference between ACI and mosaicplasty, 10 months on average after the surgery. 
+There was no statistically significant difference in functional outcomes at two years in a single trial comparing ACI with microfracture nor in the functional results at 18 months of a single trial comparing characterised chondrocyte implantation versus microfracture. However, the results at 36 months for this trial seemed to indicate better functional results for characterised chondrocyte implantation compared with those for microfracture. The sixth trial comparing matrix‐guided ACI versus microfracture found significantly better results for functional outcomes at two year follow‐up in the MACI group. 
+Authors' conclusions
+There is insufficient evidence to draw conclusions on the use of ACI for treating full thickness articular cartilage defects in the knee. Further good quality randomised controlled trials with long‐term functional outcomes are required. 

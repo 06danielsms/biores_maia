@@ -1,0 +1,20 @@
+Background
+This review will not be updated. It should be considered out of date. It has been superseded by this review: 
+Irlam JH, Siegfried N, Visser ME, Rollins NC. Micronutrient supplementation for children with HIV infection. Cochrane Database of Systematic Reviews 2013, Issue 10. Art. No.: CD010666. DOI: 10.1002/14651858.CD010666.Link to Cochrane Library. [PubMed] 
+The most prevalent haematologic disturbance associated with HIV in children (apart from CD4 lymphocytopenia) is anaemia. Anaemia associated with HIV arises from multiple mechanisms, including the direct inhibitory effect of HIV on red cell precursors, other locally prevalent and/or opportunistic infections, micronutrient deficiency, anaemia of chronic disease, and as a consequence of medicines given for HIV and/or other concurrent illnesses. Iron deficiency is the most common cause of nutritional anaemia globally. There is significant geographical overlap of areas of the world where iron deficiency anaemia (IDA) and paediatric HIV are distributed. Given the high prevalence of IDA, it is likely that many HIV‐infected children also are iron deficient. The contribution of iron deficiency to anaemia in HIV‐infected children has been described but is incompletely understood. Currently, iron supplementation for anaemic infants and children is routinely practiced without any obvious effect in most developing countries, which bear most of the burden of global paediatric HIV infections. 
+Because iron deficiency and IDA are common in HIV‐infected children in high‐prevalence areas and because there are concerns about possible deleterious effects of iron, this review aims to assess the evidence for iron supplementation for reducing morbidity and mortality in HIV‐infected children. 
+Objectives
+To determine whether iron supplementation improves clinical, immunologic, and virologic outcomes in children infected with HIV 
+Search methods
+We used the comprehensive search strategy developed specifically by the Cochrane HIV/AIDS Review Group to identify HIV/AIDS randomised controlled trials, and searched the following electronic databases: MEDLINE (searched November 2007); Embase (searched December 2007); and CENTRAL (December 2007). This search was supplemented with a search of AIDSearch (searched December 2007) and NLM Gateway (searched December 2007) to identify relevant conference abstracts, as well as a search of the reference lists of all eligible articles. The search was not limited by language or publication status. 
+Selection criteria
+Randomised controlled trials (RCTs) of iron supplementation in any form and dose in HIV‐infected children aged 12 years and younger. 
+Data collection and analysis
+We independently screened the results of the search to select potentially relevant studies and to retrieve the full articles. We independently applied the inclusion criteria to the potentially relevant studies.  No studies were identified that fulfilled the selection criteria. 
+Main results
+No RCTs of iron supplementation in HIV‐infected children were found.
+Authors' conclusions
+Implications for clinical practice: 
+The current clinical practice of iron supplementation in HIV‐infected children is based on weak evidence comprising observational studies and expert opinions. 
+Implications for research: 
+High‐quality RCTs of iron supplementation are urgently required, especially in areas with significant overlap of high prevalence of HIV, iron deficiency anaemia, and malaria. Policy makers should prioritise funding for these trials. 

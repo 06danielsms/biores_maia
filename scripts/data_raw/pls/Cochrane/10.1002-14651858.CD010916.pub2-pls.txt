@@ -1,0 +1,13 @@
+Non‐invasive electrical brain stimulation for improving rehabilitation outcomes in patients with idiopathic Parkinson's disease (IPD) 
+Review question 
+To assess the effectiveness of electrical brain stimulation in improving motor and non‐motor symptoms in people with idiopathic Parkinson's disease (IPD) . 
+Background 
+IPD is a neurodegenerative disorder, with the severity of the disability usually increasing with disease duration. IPD affects patients' health‐related quality of life, disability, and impairment. Current rehabilitation strategies have limited effectiveness in improving these outcomes. One possibility for enhancing the effects of rehabilitation might be the addition of non‐invasive electrical brain stimulation through a technique known as transcranial direct current stimulation (tDCS). This technique can alter how the brain works and may improve health‐related quality of life, disability, and impairment in function in patients with IPD. However, the effectiveness of this intervention for improving rehabilitation outcomes is still unknown. 
+Search date 
+The latest search was performed on 17 February 2016.
+Study characteristics 
+We included six trials involving 137 participants. The duration of treatment in the included trials ranged from a single session to five consecutive sessions of tDCS. 
+Key results 
+From the six trials involving 137 participants, we found there was insufficient evidence to determine how much of an effect there is from tDCS in enhancing rehabilitation outcomes regarding reduction in off time (when the symptoms are not controlled by the medication) and on time with dyskinesia (time that symptoms are controlled but the person still experiences involuntary muscle movements) , and for improving health‐ related quality of life, disability, and impairment in patients with IPD. However, tDCS may improve impairment regarding motor symptoms in patients with IPD. We found no study examining the effects of tDCS for improving activities of daily living. Proportions of adverse events and people discontinuing the study were comparable between groups. 
+Quality of evidence 
+All findings are based on evidence of very low quality. That means that we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect. 

@@ -1,0 +1,23 @@
+The table below shows the different methods the researchers used to find out if dapagliflozin was helping the participants.
+
+KCCQ-TSS KCCQ-PLS 6MWD
+What does it stand for? 
+Kansas City Cardiomyopathy Questionnaire – Total 
+Kansas City Cardiomyopathy Questionnaire – Physical 
+Limitation Score
+What does it measure? 
+Overall heart failure symptoms 
+Physical symptoms caused by heart failure 
+How far a person can walk in 6 minutes
+What does the test involve? 
+Answering 7 questions about overall heart failure symptoms 
+Answering 6 questions about physical symptoms 
+The participant walks for 6 minutes and the study doctor measures how far they walked
+What do the scores mean? 
+The questionnaires are scored from 0 to 100. A higher score means fewer heart failure symptoms or less severe physical symptoms. The distance the participant walked is measured in meters, also called m. A longer distance means less impact of severe symptoms on the participant’s ability to walk
+When were these tests done during the study? 
+At study site visits
+Which participants’ results were included? 
+The participants’ results were only included if they had completed the tests at the start and end of the study, or died during the study
+How did the researchers use these test results in the study? 
+For all 3 tests, the study doctors compared the participants’ scores at the start of the study with their scores 16 weeks after starting study treatment. Then, they compared the results between the participants who took dapagliflozin and those who took a placebo. To do this, they used a type of average called a median. In a set of numbers, the median is the middle number between the lowest and highest numbers.

@@ -1,0 +1,17 @@
+Continuous venous blood filtration for severe acute pancreatitis
+Review question 
+Can continuous venous blood filtration reduce the number of deaths in people with severe acute pancreatitis? 
+Background 
+Severe acute pancreatitis is associated with a high death rate and life‐threatening complications. Continuous veno‐venous hemofiltration (CVVH; continuous filtration of blood from a vein) has been used in some centers to reduce complications and death, but it is unknown if CVVH is beneficial for patients. 
+Search date 
+The evidence is current to September 2019.
+Study characteristics 
+We searched for all relevant, well‐conducted studies conducted up to September 2019. We included three randomized controlled trials (experiments in which participants are randomly allocated to two or more interventions, possibly including a control intervention or no intervention, and the results are compared). We included three studies, involving a total of 219 adults with severe acute pancreatitis due to various reasons, including alcoholic abuse, biliary disease, high‐fat diet, excess lipids in the blood, etc. All people had single or multiple organ failure. All of the studies were single‐center studies conducted in China. The mean age of participants was 47.4 years. The mean proportion of females was 42.0%. Two studies randomized 189 people with severe acute pancreatitis to receive either CVVH (97 people) or no CVVH (92 people). One study randomized 30 people with severe acute pancreatitis to receive either high‐volume (high‐speed) CVVH (15 people) or standard CVVH (15 people). 
+Study funding sources 
+One study was sponsored by a non‐commercial grant. The other two studies did not report on funding sources. 
+Key results: CVVH versus no CVVH 
+We cannot tell from our results whether CVVH has an important effect on in‐hospital deaths for people with severe acute pancreatitis because the sample size was small. CVVH may reduce length of stay in the intensive care unit, length of hospital stay, and total hospital cost. However, the evidence is very uncertain because both studies had some limitations and the results were imprecise. 
+Key results: One type ofCVVH versus a different type of CVVH 
+High‐volume CVVH may result in little to no difference in numbers of in‐hospital deaths. We are uncertain whether high‐volume CVVH reduces adverse events. We cannot tell from our results whether high‐volume CVVH is superior, equivalent or inferior to standard CVVH for people with severe acute pancreatitis because the sample size was small and the results were imprecise. 
+Certainty of the evidence 
+Most of the included studies had some limitations in terms of how they were conducted or reported. Overall, the certainty of the evidence ranged from very low to low. 

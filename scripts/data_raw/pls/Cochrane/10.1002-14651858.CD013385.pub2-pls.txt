@@ -1,0 +1,31 @@
+Decision coaching for people making healthcare decisions
+Background 
+There is a need to better involve people who are making healthcare decisions about treatments (e.g. surgery) or screening (e.g. tests to tell if there is a health problem). Quality decisions are made when people know the best available evidence on options and can share what matters with their healthcare provider(s). 
+Decision coaching supports people to prepare for making a health decision. It is provided by healthcare providers who are trained or use a protocol for decision coaching (e.g. nurses, doctors, pharmacists, social workers, health support workers such as peer health workers).  
+We wanted to find out if decision coaching helps people to prepare for making healthcare decisions. 
+ 
+What did we do? 
+We are a team of patient partners, healthcare providers, teachers and researchers from seven countries. 
+We looked for studies that tested decision coaching with people (adults and children) to prepare them for making a healthcare decision about treatment or screening for themselves or a family member. 
+We included studies if people who received decision coaching were randomly put into study groups (e.g. using a computer to decide who goes in which group). Studies where people are randomly put into groups are the best way to compare findings between groups and give results we can rely on when we look at the effects of an intervention like decision coaching.  
+ 
+Search strategy  
+To find studies, we searched eight online data banks. We asked experts and authors of studies about decision coaching. We included studies published up to June 2021.  
+ 
+What we found  
+We found 28 studies about decision coaching used alone or with high‐quality patient information based on research (called ‘evidence‐based information’). There was a total of 5509 adults in the 28 studies. None of the studies included children, and only one study included people (parents) making decisions for someone else. The studies tested decision coaching with a range of healthcare decisions such as treatment decisions related to cancer, menopause, or mental illness; cancer screening decisions, and genetic testing.  
+Some of the studies looked at decision coaching with, or compared to, disease‐specific information or evidence‐based information such as patient decision aids (booklets, videos, online tools that: make the decision clear, provide options and the pros and cons, and help people be clear on what matters to them). 
+ 
+What does the evidence show? 
+People who received decision coaching compared with evidence‐based information only: 
+‐ may have little or no change in knowledge (406 patients, 3 studies);
+‐ may have little of no change in anxiety (242 patients, 1 study).
+ 
+People who received decision coaching plus evidence‐based information compared with usual care:  
+‐may have improved knowledge (1073 patients, 5 studies)
+ 
+Our confidence in the results 
+We have low confidence that decision coaching plus evidence‐based information improves people’s knowledge compared to usual care. We have low confidence that decision coaching may have little or no effect on knowledge and anxiety compared to evidence‐based information. We are less confident about our other findings, as the certainty of the evidence is very low and there were important outcomes that were not reported by the included studies. Many studies had a small number of people taking part and this means that the results of this review might change with more studies.   
+ 
+What this means 
+Decision coaching may improve peoples’ knowledge to help them prepare to make healthcare decisions when used with evidence‐based information. The review did not detect any adverse effects with the use of decision coaching.  

@@ -1,0 +1,14 @@
+Background
+Injected cholera vaccines are rarely used today, although they may have some benefit. It is valuable to summarize the evidence for effectiveness of injected cholera vaccines for comparison with newer oral vaccines (subject of a separate Cochrane Review). 
+Objectives
+To evaluate killed whole cell (KWC) cholera vaccines and other inactive subunit vaccines (administered by injection) for preventing cholera and death, and to evaluate the adverse effects. 
+Search methods
+In September 2008, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2008, Issue 3), EMBASE, and LILACS. We also searched reference lists and handsearched the journal Vaccine up to 1997. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing injected cholera vaccines (KWC or other inactive subunit) with placebo, control vaccines, or no intervention in adults and children irrespective of immune status or special risk category. 
+Data collection and analysis
+Two authors extracted data and assessed trial methodological quality independently. Dichotomous data were reported using the risk ratio (RR) with 95% confidence intervals (CI). Vaccine efficacies were also calculated (% vaccine efficacy = (1‐RR) x 100%). 
+Main results
+Sixteen trials, involving over one million adults, children and infants, fulfilled the inclusion criteria. Twenty‐four comparisons reported on vaccine efficacy (cholera cases and/or deaths) and 11 comparisons considered adverse effects (nine reported on both). Compared to placebo, vaccinees had a reduced risk of death from cholera (RR 0.49, 95% CI 0.25 to 0.93; 837,442 participants) and a reduced risk of contracting cholera at 12 months (RR 0.52, 95% CI 0.42 to 0.65, random‐effects model; 1,512,573 participants). This translates to an efficacy of 48%, 95% confidence interval 35% to 58%. Significant protection lasted for two years, even after only a single dose, and for three years with an annual booster. Children over five years and adults were protected for up to three years, while children under five years were protected for up to a year. Injected cholera vaccines were associated with more systemic and local adverse effects compared to placebo, but these were not severe or life‐threatening. 
+Authors' conclusions
+Injected cholera vaccines appear to be safe and relatively more effective than usually realized. Protection against cholera persists for up to two years following a single dose of vaccine, and for three years with an annual booster. However, they have been superseded by oral vaccines. 

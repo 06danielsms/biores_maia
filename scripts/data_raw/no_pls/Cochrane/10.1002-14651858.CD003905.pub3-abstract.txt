@@ -1,0 +1,14 @@
+Background
+Carpal tunnel syndrome is a common disorder for which several surgical treatment options are available. 
+Objectives
+To compare the efficacy of the various surgical techniques in relieving symptoms and promoting return to work or activities of daily living and to compare the occurrence of side‐effects and complications in patients suffering from carpal tunnel syndrome. 
+Search methods
+We updated the searches in 2006. We conducted computer‐aided searches of the Cochrane Neuromuscular Disease Group Trials Register (searched in June 2006), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2006, Issue 2), MEDLINE (January 1966 to June 2006), EMBASE (January 1980 to June 2006) and also tracked references in bibliographies. 
+Selection criteria
+Randomised controlled trials comparing various surgical techniques for the treatment of carpal tunnel syndrome. 
+Data collection and analysis
+Two review authors performed study selection, assessment of methodological quality and data extraction independently of each other. 
+Main results
+Thirty‐three studies were included in the review of which 10 were newly identified in this update. The methodological quality of the trials ranged from fair to good; however, the use of allocation concealment was mentioned explicitly in only seven trials. Many studies failed to present the results in sufficient detail to enable statistical pooling. Pooling was also impeded by the vast variety of outcome measures that were applied in the various studies. None of the existing alternatives to standard open carpal tunnel release offered significantly better relief from symptoms in the short‐ or long‐term. In three studies with a total of 294 participants, endoscopic carpal tunnel release resulted in earlier return to work or activities of daily living than open carpal tunnel release, with a weighted mean difference of ‐6 days (95% CI ‐9 to ‐3 days). 
+Authors' conclusions
+There is no strong evidence supporting the need for replacement of standard open carpal tunnel release by existing alternative surgical procedures for the treatment of carpal tunnel syndrome. The decision to apply endoscopic carpal tunnel release instead of open carpal tunnel release seems to be guided by the surgeon's and patient's preferences. 

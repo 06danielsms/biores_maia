@@ -1,0 +1,19 @@
+Background
+Non‐adherence to tuberculosis treatment can lead to prolonged periods of infectiousness, relapse, emergence of drug‐resistance, and increased morbidity and mortality. In this review, we assess whether patient education or counselling, or both, promotes adherence to tuberculosis treatment. 
+Objectives
+To evaluate the effects of patient education or counselling, or both, on treatment completion and cure in people requiring treatment for active or latent tuberculosis. 
+Search methods
+Without language restriction, we searched for eligible studies in the Cochrane Infectious Diseases Group Specialized Register, Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, and LILACS; checked reference lists of relevant articles; and contacted relevant researchers and organizations up to 24 November 2011. 
+Selection criteria
+Randomized controlled trials examining the effects of education or counselling, or both, on treatment completion and cure in people with clinical tuberculosis; and treatment completion and clinical tuberculosis in people with latent disease. 
+Data collection and analysis
+We independently screened identified studies for eligibility, assessed methodological quality, and extracted data; with differences resolved by consensus. We expressed study results as risk ratios (RRs) with 95% confidence intervals (CI). 
+Main results
+We found three trials, with a total of 1437 participants, which examined the effects of different educational and counselling interventions on adherence to treatment for latent tuberculosis. 
+All three trials reported the proportion of people who successfully completed treatment for latent tuberculosis. Overall, education or counselling interventions may increase successful treatment completion but the magnitude of benefit is likely to vary depending on the nature of the intervention, and the setting (data not pooled, 923 participants, three trials, low quality evidence). 
+In a four‐arm trial in children from Spain, counselling by nurses via telephone increased the proportion of children completing treatment from 65% to 94% (RR 1.44, 95% CI 1.21 to 1.72; 157 participants, one trial), and counselling by nurses through home visits increased completion to 95% (RR 1.46, 95% CI 1.23 to 1.74; 156 participants, one trial). Both of these interventions were superior to counselling by physicians at the tuberculosis clinic (RR 1.20, 95% CI 0.98 to 1.47; 159 participants, one trial). 
+In the USA, a programme of peer counselling for adolescents failed to show an effect on treatment completion rates at six months (RR 1.01, 95% CI 0.90 to 1.13; 394 participants, one trial). In this trial treatment completion was around 75% even in the control group. 
+In the third study, in prisoners from the USA, treatment completion was very low in the control group (12%), and although counselling significantly improved this, completion in the intervention group remained low at 24% (RR 1.94, 95% CI 1.03 to 3.68; 211 participants, one trial). 
+None of these trials aimed to assess the effect of these interventions on the subsequent development of active tuberculosis, and we found no trials that assessed the effects of patient education or counselling on adherence to treatment for active tuberculosis. 
+Authors' conclusions
+Educational or counselling interventions may improve completion of treatment for latent tuberculosis. As would be expected, the magnitude of the benefit is likely to depend on the nature of the intervention, and the reasons for low completion rates in the specific setting. 

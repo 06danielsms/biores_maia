@@ -1,0 +1,34 @@
+Screening tests for active pulmonary tuberculosis in children
+Why is improving screening for pulmonary tuberculosis in children important? 
+Tuberculosis is one of the leading causes of death worldwide. Most children who die from tuberculosis are never diagnosed or treated. Screening may be useful to identify children with possible tuberculosis and refer them for further testing. As well, screening could be used to identify children without tuberculosis, who should be considered for preventive treatment. A false‐positive result means that children may undergo unnecessary testing and treatment and may not receive preventive treatment promptly. A false‐negative result means that children have tuberculosis, but may miss further testing to confirm the diagnosis. 
+What is the aim of this review? 
+To determine the accuracy of screening tests for active pulmonary tuberculosis in children in high‐risk groups, such as children with HIV and close contacts of people with tuberculosis. 
+What was studied in this review? 
+Screening tests were: one tuberculosis symptom; one or more of a combination of tuberculosis symptoms; the World Health Organization (WHO) four‐symptom screen (one or more of cough, fever, poor weight gain, or tuberculosis contact) in children with HIV, recommended at each healthcare visit; chest radiography (CXR); and Xpert MTB/RIF. 
+What are the main results in this review? 
+Nineteen studies assessed the following screening tests: one symptom (15 studies, 10,097 participants); more than one symptom (12 studies, 29,889 participants); CXR (10 studies, 7146 participants); and Xpert MTB/RIF (two studies, 787 participants). 
+Symptom screening 
+For every 1000 children screened, if 50 had tuberculosis according to the reference standard: 
+One or more of cough, fever, or poor weight gain in tuberculosis contacts (composite reference standard (CRS) (4 studies) 
+– 339 would screen positive, of whom 294 (87%) would not have tuberculosis (false positive). 
+– 661 would screen negative, of whom 5 (1%) would have tuberculosis (false negative).
+One or more of cough, fever, or decreased playfulness in children under five, inpatient or outpatient (CRS) (3 studies) 
+– 251 to 636 would screen positive, of whom 219 to 598 (87% to 94%) would not have tuberculosis (false positive). 
+– 364 to 749 would screen negative, of whom 12 to 18 (2% to 3%) would have tuberculosis (false negative). 
+One or more of cough, fever, poor weight gain, or tuberculosis close contact (WHO four‐symptom screen) in children with HIV, outpatient (CRS) (2 studies) 
+– 88 would screen positive, of which 57 (65%) would not have tuberculosis (false positive).
+– 912 would screen negative, of which 19 (2%) would have tuberculosis (false negative).
+Abnormal CXR in tuberculosis contacts (CRS) (8 studies) 
+– 63 would screen positive, of whom 19 (30%) would not have tuberculosis (false positive).
+– 937 would screen negative, of whom 6 (1%) would have tuberculosis (false negative).
+Xpert MTB/RIF in children, inpatient or outpatient microbiologic reference standard (MRS) (2 studies) 
+– 31 to 69 would be Xpert MTB/RIF‐positive, of whom 9 to 19 (28% to 29%) would not have tuberculosis (false positive). 
+– 931 to 969 would be Xpert MTB/RIF‐negative, of whom 0 to 28 (0% to 3%) would have tuberculosis (false negative). 
+How reliable are the results of the studies in this review? 
+Diagnosing tuberculosis in children is difficult. This may lead to screening tests appearing more or less accurate than they actually are. For Xpert MTB/RIF, there were few studies and children tested to be confident about results. 
+Who do the results of this review apply to? 
+Children at risk for pulmonary tuberculosis. Results likely do not apply to children in the general population. Studies mainly took place in countries with a high burden of tuberculosis. 
+What are the implications of this review? 
+In children who are tuberculosis contacts or living with HIV, screening tests using symptoms or CXR may be useful. However, symptoms and CXR formed part of the reference standard, which may falsely elevate the accuracy of the results. We urgently need better screening tests for tuberculosis in children to better identify children who should be considered for tuberculosis preventive treatment and to increase the timeliness of treatment in those with tuberculosis disease. 
+How up‐to‐date is this review? 
+To 14 February 2020.

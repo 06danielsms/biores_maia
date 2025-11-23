@@ -1,0 +1,14 @@
+Background
+In primary care between 10% and 35% of all visits concern patients with medically unexplained physical symptoms (MUPS). MUPS are associated with high medical consumption, significant disabilities and psychiatric morbidity. 
+Objectives
+To assess the effectiveness of consultation letters (CLs) to assist primary care physicians or occupational health physicians in the treatment of patients with MUPS and diagnostic subgroups. 
+Search methods
+We searched for randomized controlled trials (RCTs) on the Cochrane Collaboration Depression, Anxiety and Neurosis Group Controlled Trials Registers, the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 2, 2009), MEDLINE  (1966‐2009), MEDLINE In Process (2009‐08‐17), EMBASE (1974‐2009), PSYCINFO (1980‐2009) and CINAHL (1982‐2009). We screened the references lists of selected studies and consulted experts in the field to identify any additional, eligible RCTs. 
+Selection criteria
+RCTs of CLs for patients with MUPS being treated in primary care settings.
+Data collection and analysis
+Two authors independently screened the abstracts of the studies identified through the searches and independently assessed the risk of bias of the included studies. We resolved any disagreement by discussion with a third review author. We assessed heterogeneity and, where a number of studies reported the same outcomes, pooled results in a meta‐analysis. 
+Main results
+We included six RCTs, with a total of 449 patients. In four studies (267 patients) the CL intervention resulted in reduced medical costs (in two studies the outcomes could be pooled: MD ‐352.55 US Dollars (95% CI ‐522.32 to ‐182.78)) and improved physical functioning (three studies, MD 5.71 (95% CI 4.11 to 7.31)). In two studies (182 patients) the intervention was a joint consultation with a psychiatrist in presence of the physician, and resulted in reduced severity of somatization symptoms, reduced medical consumption and improved social functioning. 
+Authors' conclusions
+There is limited evidence that a CL is effective in terms of medical costs and improvement of physical functioning for patients with MUPS in primary care. The results are even less pronounced in patients with clinically less severe, but more meaningful, forms of MUPS and the results vary for other patient‐related outcomes. All studies, except one, were performed in the United States and therefore the results can not be generalized directly to countries with other healthcare systems. Furthermore all studies were small and of only moderate quality. There is very limited evidence that a joint consultation with the patient by a psychiatrist in the presence of the physician, together with the provision of a CL, reduces severity of somatization symptoms and medical consumption. 

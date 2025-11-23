@@ -1,0 +1,25 @@
+Background
+Otomycosis is a fungal infection of the outer ear, which may be treated with topical antifungal medications. There are many types, with compounds belonging to the azole group ('azoles') being among the most widely used. 
+Objectives
+To evaluate the benefits and harms of topical azole treatments for otomycosis.
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The search date was 11 November 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) in adults and children with otomycosis comparing any topical azole antifungal with: placebo, no treatment, another type of topical azole or the same type of azole but applied in different forms. A minimum follow‐up of two weeks was required. 
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were: 1) clinical resolution as measured by the proportion of participants with complete resolution at between two and four weeks after treatment (however defined by the authors of the studies) and 2) significant adverse events. Secondary outcomes were 3) mycological resolution and 4) other less serious adverse effects. We used GRADE to assess the certainty of evidence for each outcome. 
+Main results
+We included four studies with 559 participants from Spain, Mexico and India. Three studies included children and adults; one included only adults. The duration of symptoms was not always explicitly stated. Mycological resolution results were only reported in one study. The studies assessed two comparisons: one type of topical azole versus another and the same azole but administered in different forms (cream versus solution). 
+A. Topical azoles versus placebo 
+None of the studies assessed this comparison.
+B. Topical azoles versus no treatment 
+None of the studies assessed this comparison.
+C. One type of topical azole versus another type of topical azole 
+i) Clotrimazole versus other types of azoles (eberconazole, fluconazole, miconazole) 
+Three studies examined clotrimazole versus other types of azoles. The evidence is very uncertain about the difference between clotrimazole and other types of azole in achieving complete clinical resolution at four weeks (risk ratio (RR) 0.80, 95% confidence interval (CI) 0.59 to 1.07; 3 studies; 439 participants; very low‐certainty evidence). The anticipated absolute effects are 668 per 1000 for clotrimazole versus 835 per 1000 for other azoles. 
+One study planned a safety analysis and reported no significant adverse events in either group. The evidence is therefore very uncertain about any differences between clotrimazole and other types of azole (no events in either group; 1 study; 174 participants; very low‐certainty evidence). 
+Clotrimazole may result in little or no difference in mycological resolution at two weeks follow‐up (RR 1.01, 95% CI 0.96 to 1.06; 1 study; 174 participants; low‐certainty evidence) or in other (less serious) adverse events at two weeks follow‐up (36 per 1000, compared to 45 per 1000, RR 0.79, 95% CI 0.18 to 3.41; 1 study; 174 participants; very low‐certainty evidence). 
+ii) Bifonazole cream versus bifonazole solution 
+One study compared bifonazole 1% cream with solution. Bifonazole cream may have little or no effect on clinical resolution at two weeks follow‐up when compared to solution, but the evidence is very uncertain (RR 1.07, 95% CI 0.73 to 1.57; 1 study; 40 ears; very low‐certainty evidence). Bifonazole cream may achieve less mycological resolution compared to solution at two weeks after the end of therapy, but the evidence for this is also very uncertain (RR 0.53, 95% CI 0.29 to 0.96; 1 study; 40 ears; very low‐certainty evidence). Five out of 35 patients sustained severe itching and burning from the bifonazole solution but none with the bifonazole cream (very low‐certainty evidence). 
+Authors' conclusions
+We found no studies that evaluated topical azoles compared to placebo or no treatment. The evidence is very uncertain about the effect of clotrimazole on clinical resolution of otomycosis, on significant adverse events or other (non‐serious) adverse events when compared with other topical azoles (eberconazole, fluconazole, miconazole). There may be little or no difference between clotrimazole and other azoles in terms of mycological resolution. It may be difficult to generalise these results because the range of ethnic backgrounds of the participants in the studies is limited. 

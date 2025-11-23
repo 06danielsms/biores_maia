@@ -1,0 +1,15 @@
+Background
+Avascular necrosis of bone is a frequent and severe complication of sickle cell disease and its treatment is not standardised. This is an update of a previously published Cochrane Review. 
+Objectives
+To determine the impact of any surgical procedure compared with other surgical interventions or non‐surgical procedures, on avascular necrosis of bone in people with sickle cell disease in terms of efficacy and safety. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register, comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. Additional trials were sought from both ongoing trial registries and the reference lists of papers identified by the search strategy. 
+Date of the most recent search of the Group's Haemoglobinopathies Trials Register: 17 September 2019. 
+Selection criteria
+Randomized clinical trials comparing specific therapies for avascular necrosis of bone in people with sickle cell disease. 
+Data collection and analysis
+Each author independently extracted data and assessed trial quality. The quality of the evidence was assessed using GRADE. Given only one trial was identified, meta‐analyses were not possible. 
+Main results
+One trial (46 participants) was eligible for inclusion. After randomization eight participants were withdrawn, mainly because they declined to participate in the trial. Data were analysed for 38 participants at the end of the trial. After a mean follow‐up of three years, hip core decompression and physical therapy did not show clinical improvement when compared with physical therapy alone using the score from the original trial (an improvement of 18.1 points for those treated with intervention therapy versus an improvement of 15.7 points with control therapy). We are very uncertain whether there is any difference between groups regarding major complications (hip pain, risk ratio 0.95 (95% confidence interval 0.56 to 1.60; vaso‐occlusive crises, risk ratio 1.14 (95% confidence interval 0.72 to 1.80; very low quality of evidence); and acute chest syndrome, risk ratio 1.06 (95% confidence interval 0.44 to 2.56; very low quality of evidence)). This trial did not report results on mortality or quality of life. 
+Authors' conclusions
+We found no evidence that adding hip core decompression to physical therapy achieves clinical improvement in people with sickle cell disease with avascular necrosis of bone compared to physical therapy alone. However, we highlight that our conclusion is based on one trial with high attrition rates. Further randomized controlled trials are necessary to evaluate the role of hip‐core depression for this clinical condition. Endpoints should focus on participants' subjective experience (e.g. quality of life and pain) as well as more objective 'time‐to‐event' measures (e.g. mortality, survival, hip longevity). The availability of participants to allow adequate trial power will be a key consideration for endpoint choice. 

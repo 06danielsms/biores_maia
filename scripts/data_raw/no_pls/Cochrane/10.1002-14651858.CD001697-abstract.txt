@@ -1,0 +1,14 @@
+Background
+The timing of surgery to secure a ruptured aneurysm after a subarachnoid haemorrhage is an important issue. Early clipping of an aneurysm prevents rebleeding, a major cause of death after a subarachnoid haemorrhage. However, concerns about the possible deleterious effects of early surgery raise questions about the safety and efficacy of this approach. This review examines the randomised controlled evidence addressing the effect of surgery at different time intervals on the outcome after a subarachnoid haemorrhage. 
+Objectives
+To determine whether the timing of surgery after a subarachnoid haemorrhage significantly influences overall management outcome. 
+Search methods
+We searched the Cochrane Stroke Review Group Trials Register and in addition searched MEDLINE, EMBASE and the Cochrane Controlled Trials Register (CENTRAL/CCTR). Colleagues were contacted to identify further studies and unpublished trials. 
+Selection criteria
+All completed, unconfounded, truly randomised trials comparing "best medical treatment plus early surgery" with "best medical treatment plus delayed surgery". 
+Data collection and analysis
+The authors selected trials for inclusion, or exclusion, according to the above criteria. An "intention to treat" analysis strategy was utilised. 
+Main results
+Only one randomised controlled trial addressing the timing of surgery after aneurysmal subarachnoid haemorrhage was identified. Patients undergoing early surgery tended to fare better than those undergoing late surgery (death or dependency at 3 months OR 0.37 95% CI 0.13,1.02). Patients undergoing surgery in the intermediate time period appeared to fare worse than those undergoing early surgery although confidence intervals were wide (death or dependency at 3 months OR 0.34 95% CI 0.12, 0.93). 
+Authors' conclusions
+Based upon the limited randomised controlled evidence available, the timing of surgery was not a critical factor in determining outcome following a subarachnoid haemorrhage. Since the publication of the only randomised controlled study in 1989, techniques for the treatment of subarachnoid haemorrhage have progressed, questioning the validity of the conclusions in the modern era. Currently, most neurovascular surgeons elect to operate within 3 or 4 days of the bleed in good grade patients to minimise the chances of a devastating rebleed. However, the treatment of patients in poorer grades warrants further scrutiny in a randomised controlled trial. 

@@ -1,0 +1,14 @@
+Background
+Most journals try to improve their articles by technical editing processes such as proof‐reading, editing to conform to 'house styles', grammatical conventions and checking accuracy of cited references. Despite the considerable resources devoted to technical editing, we do not know whether it improves the accessibility of biomedical research findings or the utility of articles. This is an update of a Cochrane methodology review first published in 2003. 
+Objectives
+To assess the effects of technical editing on research reports in peer‐reviewed biomedical journals, and to assess the level of accuracy of references to these reports. 
+Search methods
+We searched The Cochrane Library Issue 2, 2007; MEDLINE (last searched July 2006); EMBASE (last searched June 2007) and checked relevant articles for further references. We also searched the Internet and contacted researchers and experts in the field. 
+Selection criteria
+Prospective or retrospective comparative studies of technical editing processes applied to original research articles in biomedical journals, as well as studies of reference accuracy. 
+Data collection and analysis
+Two review authors independently assessed each study against the selection criteria and assessed the methodological quality of each study. One review author extracted the data, and the second review author repeated this. 
+Main results
+We located 32 studies addressing technical editing and 66 surveys of reference accuracy. Only three of the studies were randomised controlled trials.   A 'package' of largely unspecified editorial processes applied between acceptance and publication was associated with improved readability in two studies and improved reporting quality in another two studies, while another study showed mixed results after stricter editorial policies were introduced. More intensive editorial processes were associated with fewer errors in abstracts and references. Providing instructions to authors was associated with improved reporting of ethics requirements in one study and fewer errors in references in two studies, but no difference was seen in the quality of abstracts in one randomised controlled trial. Structuring generally improved the quality of abstracts, but increased their length. The reference accuracy studies showed a median citation error rate of 38% and a median quotation error rate of 20%. 
+Authors' conclusions
+Surprisingly few studies have evaluated the effects of technical editing rigorously. However there is some evidence that the 'package' of technical editing used by biomedical journals does improve papers. A substantial number of references in biomedical articles are cited or quoted inaccurately. 

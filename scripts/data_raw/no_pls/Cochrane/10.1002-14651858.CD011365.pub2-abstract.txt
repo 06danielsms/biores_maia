@@ -1,0 +1,29 @@
+Background
+Obstructive sleep‐disordered breathing (oSDB) is a condition encompassing breathing problems when asleep due to upper airway obstruction. In children, hypertrophy of the tonsils and/or adenoids is thought to be the commonest cause. As such, (adeno)tonsillectomy has long been the treatment of choice. A rise in partial removal of the tonsils over the last decade is due to the hypothesis that tonsillotomy is associated with lower postoperative morbidity and fewer complications. 
+Objectives
+To assess whether partial removal of the tonsils (intracapsular tonsillotomy) is as effective as total removal of the tonsils (extracapsular tonsillectomy) in relieving signs and symptoms of oSDB in children, and has lower postoperative morbidity and fewer complications. 
+Search methods
+We searched the Cochrane ENT Trials Register; Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The search date was 22 July 2019. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing the effectiveness of (adeno)tonsillectomy with (adeno)tonsillotomy in children aged 2 to 16 years with oSDB. 
+Data collection and analysis
+We used standard Cochrane methods and assessed the certainty of the evidence for our pre‐defined outcomes using GRADE. Our primary outcomes were disease‐specific quality of life, peri‐operative blood loss and the proportion of children requiring postoperative medical intervention (with or without hospitalisation). Secondary outcomes included postoperative pain, return to normal activity, recurrence of oSDB symptoms as a result of tonsil regrowth and reoperation rates. 
+Main results
+We included 22 studies (1984 children), with predominantly unclear or high risk of bias. Three studies used polysomnography as part of their inclusion criteria. Follow‐up duration ranged from six days to six years. Although 19 studies reported on some of our outcomes, we could only pool the results from a few due both to the variety of outcomes and the measurement instruments used, and an absence of combinable data. 
+Disease‐specific quality of life  
+Four studies (540 children; 484 (90%) analysed) reported this outcome; data could not be pooled due to the different outcome measurement instruments used. It is very uncertain whether there is any difference in disease‐specific quality of life between the two surgical procedures in the short (0 to 6 months; 3 studies, 410 children), medium (7 to 13 months; 2 studies, 117 children) and long term (13 to 24 months; 1 study, 67 children) (very low‐certainty evidence). 
+Peri‐operative blood loss  
+We are uncertain whether tonsillotomy reduces peri‐operative blood loss by a clinically meaningful amount (mean difference (MD) 14.06 mL, 95% CI 1.91 to 26.21 mL; 8 studies, 610 children; very low‐certainty evidence). In sensitivity analysis (restricted to three studies with low risk of bias) there was no evidence of a difference between the groups. 
+Postoperative complications requiring medical intervention (with or without hospitalisation)  
+The risk of postoperative complications in the first week after surgery was probably lower in children who underwent tonsillotomy (4.9% versus 2.6%, risk ratio (RR) 1.75, 95% CI 1.06 to 2.91; 16 studies, 1416 children; moderate‐certainty evidence). 
+Postoperative pain  
+Eleven studies (1017 children) reported this outcome. Pain was measured using various scales and scored by either children, parents, clinicians or study personnel. 
+When considering postoperative pain there was little or no difference between tonsillectomy and tonsillotomy at 24 hours (10‐point scale) (MD 1.09, 95% CI 0.88 to 1.29; 4 studies, 368 children); at two to three days (MD 0.93, 95% CI ‐0.14 to 2.00; 3 studies, 301 children); or at four to seven days (MD 1.07, 95% CI ‐0.40 to 2.53; 4 studies, 370 children) (all very low‐certainty evidence). In sensitivity analysis (restricted to studies with low risk of bias), we found no evidence of a difference in mean pain scores between groups. 
+Return to normal activity  
+Tonsillotomy probably results in a faster return to normal activity. Children who underwent tonsillotomy were able to return to normal activity four days earlier (MD 3.84 days, 95% CI 0.23 to 7.44; 3 studies, 248 children; moderate‐certainty evidence). 
+Recurrence of oSDB and reoperation rates  
+We are uncertain whether there is a difference between the groups in the short (RR 0.26, 95% CI 0.03 to 2.22; 3 studies, 186 children), medium (RR 0.35, 95% CI 0.04 to 3.23; 4 studies, 206 children) or long term (RR 0.21 95% CI 0.01 to 4.13; 1 study, 65 children) (all very low‐certainty evidence). 
+Authors' conclusions
+For children with oSDB selected for tonsil surgery, tonsillotomy probably results in a faster return to normal activity (four days) and in a slight reduction in postoperative complications requiring medical intervention in the first week after surgery. 
+This should be balanced against the clinical effectiveness of one operation over the other. However, this is not possible to determine in this review as data on the long‐term effects of the two operations on oSDB symptoms, quality of life, oSDB recurrence and need for reoperation are limited and the evidence is of very low quality leading to a high degree of uncertainty about the results. 
+More robust data from high‐quality cohort studies, which may be more appropriate for detecting differences in less common events in the long term, are required to inform guidance on which tonsil surgery technique is best for children with oSDB requiring surgery. 

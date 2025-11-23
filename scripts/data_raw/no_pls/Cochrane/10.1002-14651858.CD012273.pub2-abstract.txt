@@ -1,0 +1,15 @@
+Background
+Branched‐chain amino acids (BCAAs) play a vital role in neonatal nutrition. Optimal BCAA supplementation might improve neonatal nutrient storage, leading to better physical and neurological development and other outcomes. 
+Objectives
+To determine the effect of BCAA supplementation on physical growth and neurological development in term and preterm neonates. We planned to make the following comparisons: parenteral nutrition with and without BCAA supplementation; enteral BCAA supplementation versus no supplementation; and any type of supplementation including enteral, parenteral and both ways versus no supplementation. 
+To investigate the supplementation effectiveness for different dosages assessed in the eligible trials. 
+Search methods
+We conducted comprehensive searches using Cochrane Neonatal's standard search strategies: Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 6), MEDLINE, Embase and CINAHL (up to July 2016). We updated the search with CENTRAL (2019, Issue 8), MEDLINE, Embase and CINAHL (up to August 2019). We also searched clinical trials registries and reference lists of retrieved articles. 
+Selection criteria
+We planned to include individual and cluster‐randomised and quasi‐randomised controlled trials comparing BCAA supplementation versus placebo or no supplementation in term and preterm neonates. We excluded trials presented only as abstracts and cross‐over trials. 
+Data collection and analysis
+Two review authors independently assessed the eligibility of all potential studies identified from the search strategy. We planned to extract data using a pilot‐tested standard data extraction form and assess risk of bias of the included studies following the methods described in the Cochrane Handbook for Systematic Reviews of Interventions. We planned to analyse treatment effects and report their effect estimates as per dichotomous or continuous data with 95% confidence intervals. We planned to conduct subgroup analysis to investigate heterogeneity, and perform sensitivity analysis where possible. We planned to use fixed‐effect meta‐analysis to combine data wherever appropriate. We planned to assess evidence quality using the GRADE approach. 
+Main results
+We did not identify any potentially eligible studies that met the inclusion criteria in this review. 
+Authors' conclusions
+We found no trial data to support or refute the idea that BCAA supplementation affects physical and neurological development and other outcomes in term and preterm neonates. 

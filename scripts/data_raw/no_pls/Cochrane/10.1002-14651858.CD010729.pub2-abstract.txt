@@ -1,0 +1,14 @@
+Background
+Neuro‐Behçet Syndrome (NBS) is a severe chronic inflammatory vascular disease involving the Central Nervous System (CNS), and it is an invalidating condition with disability and a huge impact on quality of life. Recommendations on treatments for NBS include the use of disease‐modifying therapies in general, although they are not supported by a systematic review of the evidence. 
+Objectives
+To assess the benefit and harms of available treatments for NBS, including biologics, colchicine, corticosteroids, immunosuppressants and interferon‐alpha. 
+Search methods
+We searched the following databases up to 30 September 2014: Trials Specialised Register of The Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System Group, CENTRAL, MEDLINE, EMBASE, CINAHL, LILACS, ORPHANET, Clinicaltrials.gov and World Health Organization (WHO) International Clinical Trials Registry Portal. 
+Selection criteria
+Randomised controlled trials (RCTs), controlled clinical trials (CCTs), prospective and retrospective controlled cohort studies were eligible to assess the benefit. Patients over 13 years of age with a diagnosis of NBS. For assessment of harms, open‐label extension (OLE), case‐control studies, population‐based registries, case‐series and case‐reports were additionally planned to be evaluated. 
+Data collection and analysis
+Selection of studies, data extraction and assessment of risk of bias were planned to be carried out independently by two review authors. Standard methodological procedures expected by The Cochrane Collaboration were followed. We planned to perform standard pair‐wise meta‐analyses for RCTs, and meta‐analyses based on the adjusted estimates using the inverse‐variance weighted average method for non‐randomised studies (NRSs). We planned to present the main results of the review in a 'Summary of Findings' table using the GRADE approach. 
+Main results
+No RCTs, CCTs or controlled cohort studies on the benefit of the treatments for NBS met the inclusion criteria of the review. Only one potentially eligible study was identified, but it did not report sufficient details on the patient characteristics. The author of this study did not provide additional data on request, and therefore it was excluded. Hence, no studies were included in the present review. Since no studies were included in the assessment of benefit, no further search was performed in order to collect data on harms. 
+Authors' conclusions
+There is no evidence to support or refute the benefit of biologics, colchicine, corticosteroids, immunosuppressants and interferon‐alpha for the treatment of patients with NBS. Thus, well‐designed multicentre RCTs are needed in order to inform and guide clinical practice. 

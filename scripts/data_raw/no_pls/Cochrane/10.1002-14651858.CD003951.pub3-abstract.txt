@@ -1,0 +1,14 @@
+Background
+A patent ductus arteriosus (PDA) with significant left to right shunt increases morbidity and mortality in preterm infants. Early closure of the ductus arteriosus may be achieved pharmacologically or by surgery. The preferred initial treatment of a symptomatic PDA, surgical ligation or treatment with indomethacin, is not clear. 
+Objectives
+To compare the effect of surgical ligation of PDA versus medical treatment with cyclooxygenase inhibitors (indomethacin, ibuprofen or mefenamic acid), each used as the initial treatment, on neonatal mortality in preterm infants with a symptomatic PDA. 
+Search methods
+For this update we searched The Cochrane Library 2012, Issue 2, MEDLINE, EMBASE, CINAHL, Clinicaltrials.gov, Controlled‐trials.com, Proceedings of the Annual Meetings of the Pediatric Academic Societies (2000 to 2011) (Abstracts2ViewTM) and Web of Science on 8 February 2012. 
+Selection criteria
+Randomised or quasi‐randomised trials in preterm or low birth weight neonates with symptomatic PDA and comparing surgical ligation with medical treatment with cyclooxygenase inhibitors, each used as the initial treatment for closure of PDA. 
+Data collection and analysis
+The authors independently assessed methodological quality and extracted data for the included trial. We used RevMan 5.1 for analyses of the data. 
+Main results
+One study reporting on 154 neonates was found eligible. No significant difference between surgical closure and indomethacin treatment was found for in‐hospital mortality, chronic lung disease, necrotising enterocolitis, sepsis, creatinine level or intraventricular haemorrhage. There was a significant increase in the surgical group in the incidence of pneumothorax (risk ratio (RR) 2.68; 95% confidence interval (CI) 1.45 to 4.93; risk difference (RD) 0.25; 95% CI 0.11 to 0.38; number needed to treat to harm (NNTH) 4 (95% CI 3 to 9)) and retinopathy of prematurity stage III and IV (RR 3.80; 95% CI 1.12 to 12.93; RD 0.11; 95% CI 0.02 to 0.20; NNTH 9 (95% CI 5 to 50)) compared to the indomethacin group. There was a statistically significant decrease in failure of ductal closure rate in the surgical group as compared to the indomethacin group (RR 0.04; 95% CI 0.01 to 0.27; RD ‐0.32; 95% CI ‐0.43 to ‐0.21, number needed to treat to benefit (NNTB) 3 (95% CI 2 to 4)). No new trials were identified for inclusion in the 2012 update. 
+Authors' conclusions
+There are insufficient data to conclude whether surgical ligation or medical treatment with indomethacin is preferred as the initial treatment for symptomatic PDA in preterm infants. 

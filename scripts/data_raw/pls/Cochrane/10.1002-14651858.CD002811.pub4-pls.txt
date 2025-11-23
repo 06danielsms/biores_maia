@@ -1,0 +1,13 @@
+Coasting (withholding gonadotrophins) to prevent ovarian hyperstimulation syndrome
+Review question 
+To assess the effect of withholding gonadotrophins (coasting) to prevent ovarian hyperstimulation syndrome in assisted reproduction cycles. 
+Background 
+Ovarian hyperstimulation syndrome (OHSS) is a complication of using hormones to induce ovulation (the release of eggs) in IVF (in vitro fertilization). The hormones can sometimes over stimulate the ovaries. Severe OHSS can be life threatening. One method used to try and reduce the risk of OHSS is 'coasting' or 'prolonged coasting'. This involves withholding one hormone (gonadotrophin) before ovulation. 
+Search Date 
+We included studies up to 6th of July 2016.
+Study characteristics 
+Eight randomised controlled trials (702 women) were identified that compared withholding gonadotrophins (coasting) with another intervention to prevent ovarian hyperstimulation syndrome. The other interventions included no coasting, early unilateral follicular aspiration (taking follicles from one ovary 10 to 12 hours after the administration of human chorionic gonadotrophin (hCG)), gonadotrophin‐releasing hormone (GnRH) antagonist (drugs that block the release of luteinising hormone (LH) and follicle‐stimulating hormone (FSH), and FSH co‐trigger (extra dose of FSH given at the same time as the hCG). 
+Key results 
+There was low‐quality evidence to suggest that coasting reduced rates of moderate or severe OHSS more than no coasting. There was no evidence to suggest that coasting was more beneficial than other interventions, except that there was very low‐quality evidence from a single small study to suggest that using FSH co‐trigger at the time of HCG administration may be better at reducing the risk of OHSS than coasting. There were too few data to determine clearly whether there was a difference between the groups for any other outcomes. 
+Quality of the evidence 
+The quality of evidence was low or very low. The main limitations were failure to report live birth, risk of bias due to lack of information about study methods, and imprecision due to low event rates and lack of data. Four of the studies were published only as abstracts, and provided limited data. 

@@ -1,0 +1,16 @@
+Background
+This review is no longer being updated. It has been replaced with a new review with the following citation. Lee  AL, Gordon  CS, Osadnik  CR. Exercise training for bronchiectasis. Cochrane Database of Systematic Reviews 2021, Issue 3. Art. No.: CD013110. DOI: 10.1002/14651858.CD013110.pub2. 
+‐‐‐
+The pathophysiology of bronchiectasis may result in the development of dyspnoea and decreased exercise tolerance, both of which can impact on a patient's quality of life and ability to perform activities of daily living. There is little information regarding the benefits of physical training in bronchiectasis: however it is probable that the benefits of physical training in bronchiectasis are at least comparable to benefits demonstrated in other respiratory conditions. There is also no information regarding the effects of non‐adherence to prescribed physical training in bronchiectasis. However as in patients with COPD non‐adherence may contribute to a deterioration in the patient's condition and conceivably the long term prognosis. 
+Objectives
+The objective of this review is to determine whether a prescribed regime of physical training produces improvements or prevents deterioration in physiological and clinical outcomes in bronchiectasis compared to no physical training. 
+Search methods
+We searched the Cochrane Airways Group trials register and the Cochrane Central Register of Controlled Trials. Searches are current to February 2009. 
+Selection criteria
+Randomised or quasi randomised controlled trials in which a prescribed regimen of physical training is compared to no physical training in patients with bronchiectasis. 
+Data collection and analysis
+One study (data reported in full text publication), and two abstracts met the inclusion criteria for this review. 
+Main results
+Results from the full text publication showed that pulmonary rehabilitation (PR), with or without inspiratory muscle training (PR‐IMT or PR‐SHAM) resulted in significant increases in the incremental shuttle walking test of 96.7m (95% CI 59.6‐133.7) and 124.5m (95% CI 63.2‐185.9) respectively, and in endurance exercise capacity of 174.9% (95% CI 34.7‐ 426.1) and 205.7% (95% CI 31.6‐310.6) respectively. There were no statistically significant differences in the improvements in exercise between the two groups. Significant improvements in inspiratory muscle strength were also observed both in the PR‐IMT group (21.4 cmH2O increase, 95% CI 9.3‐ 33.4, p=0.008) and the PR‐SHAM group (12.0 cmH2O increase, 95% CI 1.1‐ 22.9, p=0.04). 
+Authors' conclusions
+This review only provides evidence of the benefits of inspiratory muscle training and provides no evidence of the effect of other types of physical training (including pulmonary rehabilitation) in bronchiectasis. 

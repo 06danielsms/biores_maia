@@ -1,0 +1,14 @@
+Background
+Alcoholic hepatitis is a life‐threatening disease, with an average mortality of approximately 40%. There is no widely accepted, effective treatment for alcoholic hepatitis. Pentoxifylline is used to treat alcoholic hepatitis, but there has been no systematic review to assess its effects. 
+Objectives
+To assess the benefits and harms of pentoxifylline in alcoholic hepatitis.
+Search methods
+The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, LILACS, clinicaltrials.gov, and full text searches were conducted until August 2009. Manufacturers and authors were contacted. 
+Selection criteria
+All randomised clinical trials of pentoxifylline in participants with alcoholic hepatitis compared to control were selected for inclusion. 
+Data collection and analysis
+Two authors extracted data and evaluated the risk of bias. RevMan Analysis was used for statistical analysis of dichotomous data with risk ratio (RR) and of continuous data with mean difference (MD), both with 95% confidence intervals (CI). Trial sequential analysis (TSA) was also used for statistical analysis of dichotomous and continuous data in order to control for random error. Where data were only available from one trial, we used Fisher's exact test or Student's t‐test. 
+Main results
+Five trials, with a total of 336 randomised participants, were included. A total of 105 participants (31%) died. Of the five included trials, four (80%) had a high risk of bias. Meta‐analysis using all five trials showed that pentoxifylline reduced mortality compared with control (RR 0.64; 95% CI 0.46 to 0.89). However, this result was not supported by trial sequential analysis, which adjusts for multiple testing on accumulating data. Furthermore, four of the five trials were judged to have a high risk of bias, thus risking an overestimated intervention effect. Meta‐analysis showed that pentoxifylline reduced the hepatic‐related mortality due to hepatorenal syndrome (RR 0.40; 95% CI 0.22 to 0.71), but trial sequential analysis did not support this result. Data from one trial suggests that pentoxifylline may increase the occurrence of serious and non‐serious adverse events compared to control. 
+Authors' conclusions
+The current available data may indicate a possible positive intervention effect of pentoxifylline on all‐cause mortality and mortality due to hepatorenal syndrome, and conversely, an increase in serious and non‐serious adverse events. However, the evidence is not firm; no conclusions can be drawn regarding whether pentoxifylline has a positive, negative, or neutral effect on participants with alcoholic hepatitis. 

@@ -1,0 +1,21 @@
+Background
+Intermittent locking of central venous catheters (CVCs) is undertaken to help maintain their patency and performance. There are systematic variations in care: some practitioners use heparin (at different concentrations), whilst others use 0.9% sodium chloride (normal saline). This review looks at the effectiveness and safety of intermittent locking with heparin compared to normal saline, to see if the evidence establishes whether one is better than the other. This is an update of an earlier Cochrane Review. 
+Objectives
+To evaluate the benefits and harms of intermittent locking of CVCs with heparin versus normal saline in adults to prevent occlusion. 
+Search methods
+We used standard, extensive Cochrane search methods. The latest search date was 20 October 2021. 
+Selection criteria
+We included randomised controlled trials in adults ≥ 18 years of age with a CVC that compared intermittent locking with heparin at any concentration versus normal saline. We excluded studies on infants and children from this review. 
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were occlusion of CVCs and duration of catheter patency. Our secondary outcomes were CVC‐related bloodstream infections and CVC‐related colonisation, mortality, haemorrhage, heparin‐induced thrombocytopaenia, CVC‐related thrombosis, number of additional CVC insertions, abnormality of coagulation profile and allergic reactions to heparin. We used GRADE to assess the certainty of evidence for each outcome. 
+Main results
+We identified one new RCT with 30 participants for this update. We included a total of 12 RCTs with 2422 participants. Data for meta‐analysis were available from all RCTs. We noted differences in methods used by the included studies and variation in heparin concentrations (10 to 5000 IU/mL), time to follow‐up (1 to 251.8 days), and the unit of analysis used (participant, catheter, line access). Five studies included ICU (intensive care unit) patients, two studies included oncology patients, and the remaining studies included miscellaneous patients (chronic kidney disease, haemodialysis, home care patients, etc.). 
+Primary outcomes 
+Overall, combined results may show fewer occlusions with heparin compared to normal saline but this is uncertain (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.51 to 0.95; 10 studies; 1672 participants; low‐certainty evidence). We pooled studies that used participant or catheter as the unit of analysis. 
+We carried out subgroup analysis by unit of analysis. No clear differences were detected after testing for subgroup differences (P = 0.23). 
+We found no clear evidence of a difference in the duration of catheter patency with heparin compared to normal saline (mean difference (MD) 0.44 days, 95% CI ‐0.10 to 0.99; 6 studies; 1788 participants; low‐certainty evidence). 
+Secondary outcomes 
+We found no clear evidence of a difference in the following outcomes: CVC‐related bloodstream infections (RR 0.66, 95% CI 0.08 to 5.80; 3 studies; 1127 participants; very low‐certainty evidence); mortality (RR 0.76, 95% CI 0.44 to 1.31; 3 studies; 1100 participants; very low‐certainty evidence); haemorrhage (RR 1.54, 95% CI 0.41 to 5.74; 3 studies; 1197 participants; very low‐certainty evidence); or heparin‐induced thrombocytopaenia (RR 0.21, 95% CI 0.01 to 4.27; 3 studies; 443 participants; very low‐certainty evidence). 
+The main reasons for downgrading the certainty of evidence for the primary and secondary outcomes were unclear allocation concealment, suspicion of publication bias, imprecision and inconsistency. 
+Authors' conclusions
+Given the low‐certainty evidence, we are uncertain whether intermittent locking with heparin results in fewer central venous catheter occlusions than intermittent locking with normal saline in adults. Low‐certainty evidence suggests that heparin may have little or no effect on catheter patency duration. Although we found no evidence of differences in safety (CVC‐related bloodstream infections, mortality, or haemorrhage), the combined studies were not powered to detect rare adverse events such as heparin‐induced thrombocytopaenia. Further research conducted over longer periods would reduce the current uncertainties. 

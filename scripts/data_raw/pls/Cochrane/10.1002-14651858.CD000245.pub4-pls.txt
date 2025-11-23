@@ -1,0 +1,13 @@
+Antibiotic treatment for people with acute bronchitis
+Review question 
+We wanted to know whether antibiotics improve outcomes for people with acute bronchitis. We also assessed potential adverse effects of antibiotic therapy. 
+Background 
+Acute bronchitis is a clinical diagnosis (based on medical signs and patient‐reported symptoms) for an acute cough, which may or may not be associated with coughing up mucus or sputum. Acute bronchitis can be caused by viruses or bacteria. Symptoms generally last for two weeks but can last for up to eight weeks. Antibiotics are commonly prescribed to treat acute bronchitis, but they can have adverse effects such as nausea and diarrhoea as well as cause more serious reactions in those who are allergic. There is no practical test to distinguish between bacterial and viral bronchitis. 
+Study characteristics 
+We included randomised controlled trials comparing any antibiotic therapy with placebo or no treatment in people with acute bronchitis or acute productive cough and no underlying chronic lung condition. We included 17 trials with 5099 participants. Co‐treatments with other medications to relieve symptoms were allowed if they were given to all participants in the study. 
+Key results 
+Our evidence is current to 13 January, 2017.
+We found limited evidence of clinical benefit to support the use of antibiotics for acute bronchitis. Some people treated with antibiotics recovered a bit more quickly with reduced cough‐related outcomes. However, this difference may not be of practical importance as it amounted to a difference of half a day over an 8‐ to 10‐day period. There was a small but significant increase in adverse side effects in people treated with antibiotics. The most commonly reported side effects included nausea, vomiting, diarrhoea, headache, and rash. 
+This review suggests that there is limited benefit to the patient in using antibiotics for acute bronchitis in otherwise healthy individuals. More research is needed on the effects of using antibiotics for acute bronchitis in frail, elderly people with multiple chronic conditions who may not have been included in the existing trials. Antibiotic use needs to be considered in the context of the potential side effects, medicalisation for a self limiting condition, cost of antibiotic treatment, and in particular associated population‐level harms due to increasing antibiotic resistance. 
+Quality of the evidence 
+The quality of these trials was generally good, particularly for more recent studies.

@@ -1,0 +1,14 @@
+Background
+The number of people infected with tuberculosis continues to rise worldwide. Rifampicin‐containing treatment regimens can achieve high cure rates. Intermittent drug treatment delivered in the community has the potential to improve adherence to treatment. 
+Objectives
+The objective of this review was to compare the effectiveness of rifampicin‐containing short‐course chemotherapy regimens, given two or three times a week, with similar regimens given daily in adult patients with pulmonary tuberculosis. 
+Search methods
+We searched the Cochrane Infectious Diseases Group specialized trials register (January 2003), The Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 4, 2002), MEDLINE (1966 to January 2003), EMBASE (1980 to December 2002), and reference lists of articles. We contacted experts in the field. 
+Selection criteria
+Randomized and quasi‐randomized trials of any multiple drug regimen containing rifampicin in patients with confirmed pulmonary tuberculosis. Treatment had to be given up to three times a week for up to nine months, with any initial daily dosing period not more than one month, and was compared to daily dosing throughout for the same period. 
+Data collection and analysis
+Two reviewers independently assessed trial eligibility and quality.
+Main results
+One trial involving 399 patients was included. The trial compared treatment three times per week with daily treatment for six months. There was no difference in cure rate (198 out of 199 people in the intermittent group compared to all 200 in the daily group), but 5 patients relapsed in the group receiving intermittent therapy compared to one in the group receiving the daily regimen. 
+Authors' conclusions
+There is not enough evidence to assess the equivalence of effect between fully intermittent, rifampicin‐containing short‐course chemotherapy and similar daily therapy in patients with pulmonary tuberculosis. Larger randomized studies are required to establish the equivalence of fully intermittent, short‐course chemotherapy, with daily regimens. 

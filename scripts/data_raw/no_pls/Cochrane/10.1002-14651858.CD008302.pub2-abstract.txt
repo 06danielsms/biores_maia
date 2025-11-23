@@ -1,0 +1,14 @@
+Background
+For patients with differentiated thyroid cancer (DTC) following thyroidectomy, thyroid hormone withdrawal (THW) for four to six weeks has been used for decades to increase serum thyroid‐stimulating hormone (TSH) concentrations in order to enhance iodine‐131 uptake by normal thyroid cells and differentiated thyroid tumour cells. Exogenous stimulation with recombinant human thyroid‐stimulating hormone (rhTSH) offers an alternative to THW while avoiding the morbidity of hypothyroidism. However, the efficacy of rhTSH‐aided iodine‐131 treatment for residual or metastatic DTC has not been prospectively assessed. 
+Objectives
+To assess the effects of rhTSH‐aided radioiodine treatment for normal residual or metastatic DTC. 
+Search methods
+We obtained studies from computerised searches of MEDLINE, EMBASE and The Cochrane Library (all until November 2009), and paper collections of conferences held in Chinese. 
+Selection criteria
+Randomised controlled clinical trials and quasi‐randomised controlled clinical trials comparing the effects of rhTSH with THW on iodine‐131 treatment for residual or metastatic differentiated thyroid cancer with at least six months of follow up. 
+Data collection and analysis
+Two authors independently assessed risk of bias and extracted data.
+Main results
+Altogether 223 patients with DTC participated in four trials. Overall, studies had a high risk of bias. We found no statistically significant differences between rhTSH and THW treatment in terms of successful ablation rate but significant benefits in radiation exposure to blood and bone marrow. One trial reported on benefits in some domains of health‐related quality of life. There were no deaths and no serious adverse effects in DTC patients treated with either rhTSH or THW. Maximum follow up was 12 months. None of the included trials investigated complete or partial remission of metastatic tumour, secondary malignancies or economic outcomes. We did not find sufficient data comparing rhTSH with THW‐aided radioiodine treatment for metastatic DTC. 
+Authors' conclusions
+Results from four randomised controlled clinical trials suggest that rhTSH is as effective as THW on iodine‐131 thyroid remnant ablation, with limited data on significant benefits in decreased whole body radiation exposure and health‐related quality of life. It is still uncertain whether lower iodine‐131 doses (1110 MBq or 1850 MBq versus 3700 MBq) are equally effective for remnant ablation under rhTSH stimulation. Randomised controlled clinical trials are needed to guide treatment selection for metastatic differentiated thyroid cancer. 

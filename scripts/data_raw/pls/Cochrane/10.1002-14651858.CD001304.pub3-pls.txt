@@ -1,0 +1,13 @@
+Using diet to manage phenylketonuria
+Review question 
+We reviewed the evidence about the effects of a low‐phenylalanine diet started early in life in people with phenylketonuria. We also aimed to assess the possible effects of relaxing or stopping the diet on intelligence, quality of life and other outcomes. This is an updated version of a previously published review. 
+Background 
+Phenylketonuria is an inherited disease treated with dietary restriction of the amino acid phenylalanine. The diet is started in newborns to prevent learning disability; however, it is restrictive and can be difficult to follow. Whether the diet can be relaxed or stopped during adolescence or should be continued for life remains a controversial issue, which we aim to address in this review. 
+Search date 
+The evidence is current to: 30 April 2020.
+Study characteristics 
+The review included four studies with 251 people with phenylketonuria. One study looked at the effects of stopping a low‐phenylalanine diet at four years of age, a second study looked at the effect of returning to low‐phenylalanine diets in children who had previously relaxed their diet, a third study looked at the effect of increasing phenylalanine intake in children who had continued on a low‐phenylalanine diet since diagnosis and the fourth (a large, multicentre study) investigated the use of a strict low‐phenylalanine diet compared to a moderately strict low‐phenylalanine diet in newly diagnosed children. 
+Key results 
+Given the differences between the studies, we were unable to combine many results across the four studies. We found few major differences between treatment and comparison groups for the outcomes of interest. Blood phenylalanine levels were significantly lower in participants with phenylketonuria following a low‐phenylalanine diet compared to those on a less restricted diet, mean difference (MD) at three months ‐698.67 (95% confidence interval (CI) ‐869.44 to ‐527.89). Intelligence quotient was significantly higher in participants who continued the diet than in those who stopped the diet, MD after 12 months 5.00 (95% CI 0.40 to 9.60). However, these results came from a single study. More research is needed to show if it is safe to relax this diet later on; however, no new studies are expected in this area so we do not plan to update the review. 
+Quality of the evidence 
+The overall quality of the evidence varied across studies.

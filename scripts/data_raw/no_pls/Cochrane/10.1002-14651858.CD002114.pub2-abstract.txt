@@ -1,0 +1,18 @@
+Background
+For a long time pelvic floor muscle training (PFMT) has been the most common form of conservative (non‐surgical) treatment for stress urinary incontinence (SUI). Weighted vaginal cones can be used to help women to train their pelvic floor muscles. Cones are inserted into the vagina and the pelvic floor is contracted to prevent them from slipping out. 
+Objectives
+The objective of this review is to determine the effectiveness of vaginal cones in the management of female urinary stress incontinence (SUI). 
+We wished to test the following comparisons in the management of stress incontinence: 1. vaginal cones versus no treatment; 2. vaginal cones versus other conservative therapies, such as PFMT and electrostimulation; 3. combining vaginal cones and another conservative therapy versus another conservative therapy alone or cones alone; 4. vaginal cones versus non‐conservative methods, for example surgery or injectables. 
+Secondary issues which were considered included whether: 1. it takes less time to teach women to use cones than it does to teach the pelvic floor exercise; 2. self‐taught use is effective; 3. the change in weight of the heaviest cone that can be retained is related to the level of improvement; 4. subgroups of women for whom cone use may be particularly effective can be identified. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (searched 19 September 2012), MEDLINE (January 1966 to March 2013), EMBASE (January 1988 to March 2013) and reference lists of relevant articles. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing weighted vaginal cones with alternative treatments or no treatment. 
+Data collection and analysis
+Two reviewers independently assessed studies for inclusion and trial quality. Data were extracted by one reviewer and cross‐checked by the other. Study authors were contacted for extra information. 
+Main results
+We included 23 trials involving 1806 women, of whom 717 received cones. All of the trials were small, and in many the quality was hard to judge. Outcome measures differed between trials, making the results difficult to combine. Some trials reported high drop‐out rates with both cone and comparison treatments. Seven trials were published only as abstracts. 
+Cones were better than no active treatment (rate ratio (RR) for failure to cure incontinence 0.84, 95% confidence interval (CI) 0.76 to 0.94). There was little evidence of difference for a subjective cure between cones and PFMT (RR 1.01, 95% CI 0.91 to 1.13), or between cones and electrostimulation (RR 1.26, 95% CI 0.85 to 1.87), but the confidence intervals were wide. There was not enough evidence to show that cones plus PFMT was different to either cones alone or PFMT alone. Only seven trials used a quality of life measures and no study looked at economic outcomes. 
+Seven of the trials recruited women with symptoms of incontinence, while the others required women with urodynamic stress incontinence, apart from one where the inclusion criteria were uncertain. 
+Authors' conclusions
+This review provides some evidence that weighted vaginal cones are better than no active treatment in women with SUI and may be of similar effectiveness to PFMT and electrostimulation. This conclusion must remain tentative until larger, high‐quality trials, that use comparable and relevant outcomes, are completed. Cones could be offered as one treatment option, if women find them acceptable. 

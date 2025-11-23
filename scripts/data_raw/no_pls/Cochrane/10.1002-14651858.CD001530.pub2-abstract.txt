@@ -1,0 +1,14 @@
+Background
+Head injury increases the body's metabolic responses, and therefore nutritional demands. Provision of an adequate supply of nutrients is associated with improved outcome. The best route for administering nutrition (parenterally (TPN) or enterally (EN)), and the best timing of administration (for example, early versus late) of nutrients needs to be established. 
+Objectives
+To quantify the effect on mortality and morbidity of alternative strategies of providing nutritional support following head injury. 
+Search methods
+Trials were identified by computerised searches of the Cochrane Injuries Group specialised register, Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, National Research Register, Web of Science and other electronic trials registers. Reference lists of trials and review articles were checked. The searches were last updated in July 2006. 
+Selection criteria
+Randomised controlled trials of timing or route of nutritional support following acute traumatic brain injury. 
+Data collection and analysis
+Two authors independently abstracted data and assessed trial quality. Information was collected on death, disability, and incidence of infection. If trial quality was unclear, or if there were missing outcome data, trialists were contacted in an attempt to get further information. 
+Main results
+A total of 11 trials were included. Seven trials addressed the timing of support (early versus delayed), data on mortality were obtained for all seven trials (284 participants). The relative risk (RR) for death with early nutritional support was 0.67 (95% CI 0.41 to 1.07). Data on disability were available for three trials. The RR for death or disability at the end of follow‐up was 0.75 (95% CI 0.50 to 1.11). Seven trials compared parenteral versus enteral nutrition. Because early support often involves parenteral nutrition, three of the trials are also included in the previous analyses. Five trials (207 participants) reported mortality. The RR for mortality at the end of follow‐up period was 0.66 (0.41 to 1.07). Two trials provided data on death and disability. The RR was 0.69 (95% Cl 0.40 to 1.19). One trial compared gastric versus jejunal enteral nutrition, there were no deaths and the RR was not estimable. 
+Authors' conclusions
+This review suggests that early feeding may be associated with a trend towards better outcomes in terms of survival and disability. Further trials are required. These trials should report not only nutritional outcomes but also the effect on death and disability. 

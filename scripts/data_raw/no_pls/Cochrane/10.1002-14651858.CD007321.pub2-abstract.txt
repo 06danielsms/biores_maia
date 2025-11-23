@@ -1,0 +1,14 @@
+Background
+Osteoarthritis is the most common form of joint disease and the leading cause of pain and disability in the elderly. S‐Adenosylmethionine may be a viable treatment option but the evidence about its effectiveness and safety is equivocal. 
+Objectives
+We set out to compare S‐Adenosylmethionine (SAMe) with placebo or no specific intervention in terms of effects on pain and function and safety outcomes in patients with knee or hip osteoarthritis. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, CINAHL and PEDro up to 5 August 2008, checked conference proceedings and reference lists, and contacted authors. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that compared SAMe at any dosage and in any formulation with placebo or no intervention in patients with osteoarthritis of the knee or hip. 
+Data collection and analysis
+Two independent authors extracted data using standardised forms. We contacted investigators to obtain missing outcome information. We calculated standardised mean differences (SMDs) for pain and function, and relative risks for safety outcomes. We combined trials using inverse‐variance random‐effects meta‐analysis. 
+Main results
+Four trials including 656 patients were included in the systematic review, all compared SAMe with placebo. The methodological quality and the quality of reporting were poor. For pain, the analysis indicated a small SMD of ‐0.17 (95% CI ‐0.34 to 0.01), corresponding to a difference in pain scores between SAMe and placebo of 0.4 cm on a 10 cm VAS, with no between trial heterogeneity (I2 = 0). For function, the analysis suggested a SMD of 0.02 (95% CI ‐0.68 to 0.71) with a moderate degree of between‐trial heterogeneity (I2 = 54%). The meta‐analyses of the number of patients experiencing any adverse event, and withdrawals or drop‐outs due to adverse events, resulted in relative risks of 1.27 (95% CI 0.94 to 1.71) and 0.94 (95% CI 0.48 to 1.86), respectively, but confidence intervals were wide and tests for overall effect were not significant. No trial provided information concerning the occurrence of serious adverse events. 
+Authors' conclusions
+The current systematic review is inconclusive, hampered by the inclusion of mainly small trials of questionable quality. The effects of SAMe on both pain and function may be potentially clinically relevant and, although effects are expected to be small, deserve further clinical evaluation in adequately sized randomised, parallel‐group trials in patients with knee or hip osteoarthritis. Meanwhile, routine use of SAMe should not be advised. 

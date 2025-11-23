@@ -1,0 +1,17 @@
+Background
+Postpartum blood pressure (BP) is highest three to six days after birth when most women have been discharged home. A significant rise in BP may be dangerous (e.g., can lead to stroke), but there is little information about how to prevent or treat postpartum hypertension. 
+Objectives
+To assess the relative benefits and risks of interventions to:  (1) prevent postpartum hypertension, by assessing whether 'routine' postpartum medical therapy is better than placebo/no treatment; and  (2) treat postpartum hypertension, by assessing whether (i) one antihypertensive therapy is better than placebo/no therapy for mild‐moderate postpartum hypertension; and (ii) one antihypertensive agent offers advantages over another for mild‐moderate or severe postpartum hypertension. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 January 2013), bibliographies of retrieved papers, and personal files. 
+Selection criteria
+For women with antenatal hypertension, trials comparing a medical intervention with placebo/no therapy. For women with postpartum hypertension, trials comparing one antihypertensive with either another or placebo/no therapy. 
+Data collection and analysis
+We extracted the data independently and were not blinded to trial characteristics or outcomes. We contacted authors for missing data when possible. 
+Main results
+Nine trials are included.
+Prevention: Four trials (358 women) compared furosemide, nifedipine capsules, or L‐arginine with placebo/no therapy. For women with antenatal pre‐eclampsia, postnatal furosemide is associated with a strong trend towards reduced use of antihypertensive therapy in hospital. 
+Treatment: For treatment of mild‐moderate postpartum hypertension, three trials (189 women) compared timolol, oral hydralazine, or oral nifedipine with methyldopa. Use of additional antihypertensive therapy did not differ between groups (risk ratio (RR) 0.92, 95% confidence interval (CI) 0.20 to 4.20; three trials), but the trials were not consistent in their effects. The drugs were well tolerated. 
+For treatment of severe postpartum hypertension, two trials (120 women) compared intravenous hydralazine with either sublingual nifedipine or intravenous labetalol. There were no maternal deaths or hypotension. Use of additional antihypertensive therapy did not differ between groups (RR 0.58, 95% CI 0.04 to 9.07; two trials), but the trials were not consistent in their effects. 
+Authors' conclusions
+For women with pre‐eclampsia, postnatal furosemide may decrease the need for postnatal antihypertensive therapy in hospital, but more data are needed on substantive outcomes before this practice can be recommended. There are no reliable data to guide management of women who are hypertensive postpartum. Any antihypertensive agent used should be based on a clinician's familiarity with the drug. Future studies should include data on postpartum analgesics, severe maternal hypertension, breastfeeding, hospital length of stay, and maternal satisfaction with care. 

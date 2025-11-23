@@ -1,0 +1,15 @@
+Background
+Amnioinfusion aims to prevent or relieve umbilical cord compression during labour by infusing a solution into the uterine cavity. 
+Objectives
+To assess the effects of amnioinfusion for potential or suspected umbilical cord compression on maternal and perinatal outcome . 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 October 2011). 
+Selection criteria
+Randomised trials of amnioinfusion compared with no amnioinfusion in women with babies at risk of umbilical cord compression in labour. 
+Data collection and analysis
+The original review had one author only (Justus Hofmeyr (GJH)). For this update, two authors (GJH and T Lawrie) assessed 13 additional trial reports for eligibility and quality. We extracted data and checked for accuracy. 
+Main results
+We have included 19 studies, with all but two studies having fewer than 200 participants. Transcervical amnioinfusion for potential or suspected umbilical cord compression was associated with the following reductions: caesarean section overall (13 trials, 1493 participants; average risk ratio (RR) 0.62, 95% confidence interval (CI) 0.46 to 0.83); fetal heart rate (FHR) decelerations (seven trials, 1006 participants; average RR 0.53, 95% CI 0.38 to 0.74); Apgar score less than seven at five minutes (12 trials, 1804 participants; average RR 0.47, 95% CI 0.30 to 0.72); meconium below the vocal cords (three trials, 674 participants, RR 0.53, 95% CI 0.31 to 0.92); postpartum endometritis (six trials, 767 participants; RR 0.45, 95% CI 0.25 to 0.81) and maternal hospital stay greater than three days (four trials, 1051 participants; average RR 0.45, 95% CI 0.25 to 0.78). Transabdominal amnioinfusion showed similar trends, though numbers studied were small. 
+Mean cord umbilical artery pH was higher in the amnioinfusion group (seven trials, 855 participants; average mean difference 0.03, 95% CI 0.00 to 0.06) and there was a trend toward fewer neonates with a low cord arterial pH (less than 7.2 or as defined by trial authors) in the amnioinfusion group (eight trials, 972 participants, average RR 0.58, 95% CI 0.29 to 1.14). 
+Authors' conclusions
+The use of amnioinfusion for potential or suspected umbilical cord compression may be of considerable benefit to mother and baby by reducing the occurrence of variable FHR decelerations, improving short‐term measures of neonatal outcome, reducing maternal postpartum endometritis and lowering the use of caesarean section, although there were methodological limitations to the trials reviewed here. In addition, the trials are too small to address the possibility of rare but serious maternal adverse effects of amnioinfusion. More research is needed to confirm the findings, assess longer‐term measures of fetal outcome, and to assess the impact on caesarean section rates when the diagnosis of fetal distress is more stringent. Trials should assess amnioinfusion in specific clinical situations, such as FHR decelerations, oligohydramnios or prelabour rupture of membranes. 

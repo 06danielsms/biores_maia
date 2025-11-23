@@ -1,0 +1,16 @@
+Background
+Omega‐3 fatty acids have been used in the treatment and prevention of coronary artery disease although current evidence suggests they may be of limited benefit. Peripheral arterial disease and coronary artery disease share a similar pathogenesis so omega‐3 fatty acids may have a similar effect on both conditions. This is an update of a review first published in 2004 and updated in 2007. 
+Objectives
+To determine the clinical and haematological effects of omega‐3 supplementation in people with intermittent claudication. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched September 2012) and the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 9). 
+Selection criteria
+Randomised controlled trials of omega‐3 fatty acids versus placebo or non‐omega‐3 fatty acids in people with intermittent claudication. 
+Data collection and analysis
+One review author identified potential trials. Two review authors independently assessed trial quality and extracted data. We contacted study authors for additional information if necessary. 
+Main results
+Nine studies were included representing 425 participants. All studies compared omega‐3 fatty acid supplementation with placebo lasting from four weeks to two years. Three studies with long treatment periods administered additional substances, making any observed effects impossible to attribute to omega‐3 fatty acids and were excluded from the statistical analyses. One study did not express any mean values and, therefore, could not be included in statistical analyses. 
+No significant differences between intervention and control groups were observed in pain‐free walking distance (mean difference (MD) 11.62 m, 95% confidence interval (CI) ‐67.74 to 90.98), maximal walking distance (MD 16.99 m, 95% CI ‐72.14 to 106.11), ankle brachial pressure index (MD ‐0.02, 95% CI ‐0.09 to 0.05), total cholesterol levels (MD 0.27 mmol/L, 95% CI ‐0.48 to 1.01), high‐density lipoprotein cholesterol levels (MD 0.00 mmol/L, 95% CI ‐0.16 to 0.15), low‐density lipoprotein cholesterol levels (MD 0.44 mmol/L, 95% CI ‐0.31 to 1.19), triglyceride levels (MD ‐0.39 mmol/L, 95% CI ‐1.10 to 0.33), systolic blood pressure (MD 5.00 mmHg, 95% CI ‐11.59 to 21.59) or plasma viscosity (MD 0.03 mPa/s, 95% CI ‐0.02 to 0.08). 
+There was some limited evidence that blood but not plasma viscosity levels decreased with treatment and gastrointestinal side effects such as nausea, diarrhoea and flatulence were observed in two studies. 
+Authors' conclusions
+Omega‐3 fatty acids appear to have little haematological benefit in people with intermittent claudication and there is no evidence of consistently improved clinical outcomes (quality of life, walking distance, ankle brachial pressure index or angiographic findings). Supplementation may also cause adverse effects such as nausea, diarrhoea and flatulence. Further research is needed to evaluate fully short‐ and long‐term effects of omega‐3 fatty acids on the most clinically relevant outcomes in people with intermittent claudication before they can be recommended for routine use. 

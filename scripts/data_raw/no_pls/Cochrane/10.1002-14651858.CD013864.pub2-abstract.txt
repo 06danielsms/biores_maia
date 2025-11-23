@@ -1,0 +1,19 @@
+Background
+Hospital‐acquired pneumonia is one of the most common hospital‐acquired infections in children worldwide. Most of our understanding of hospital‐acquired pneumonia in children is derived from adult studies. To our knowledge, no systematic review with meta‐analysis has assessed the benefits and harms of different antibiotic regimens in neonates and children with hospital‐acquired pneumonia. 
+Objectives
+To assess the beneficial and harmful effects of different antibiotic regimens for hospital‐acquired pneumonia in neonates and children. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, three other databases, and two trial registers to February 2021, together with reference checking, citation searching, and contact with study authors to identify additional studies. 
+Selection criteria
+We included randomised clinical trials comparing one antibiotic regimen with any other antibiotic regimen for hospital‐acquired pneumonia in neonates and children. 
+Data collection and analysis
+Three review authors independently assessed studies for inclusion, extracted data, and assessed risk of bias. We assessed the certainty of the evidence using the GRADE approach. Our primary outcomes were all‐cause mortality and serious adverse events; our secondary outcomes were health‐related quality of life, pneumonia‐related mortality, non‐serious adverse events, and treatment failure. Our primary time point of interest was at maximum follow‐up. 
+Main results
+We included four randomised clinical trials (84 participants). We assessed all trials as having high risk of bias. 
+We did not conduct any meta‐analyses, as the included trials did not compare similar antibiotic regimens. 
+Each of the four trials assessed a different comparison, as follows: cefepime versus ceftazidime; linezolid versus vancomycin; meropenem versus cefotaxime; and ceftobiprole versus cephalosporin. 
+Only one trial reported our primary outcomes of all‐cause mortality and serious adverse events. Three trials reported our secondary outcome of treatment failure. Two trials primarily included community‐acquired pneumonia and hospitalised children with bacterial infections, hence the children with hospital‐acquired pneumonia constituted subgroups of the total sample sizes. 
+Where outcomes were reported, the certainty of the evidence was very low for each of the comparisons. We are unable to draw meaningful conclusions from the numerical results. 
+None of the included trials assessed health‐related quality of life, pneumonia‐related mortality, or non‐serious adverse events. 
+Authors' conclusions
+The relative beneficial and harmful effects of different antibiotic regimens remain unclear due to the very low certainty of the available evidence. The current evidence is insufficient to support any antibiotic regimen being superior to another. Randomised clinical trials assessing different antibiotic regimens for hospital‐acquired pneumonia in children and neonates are warranted. 

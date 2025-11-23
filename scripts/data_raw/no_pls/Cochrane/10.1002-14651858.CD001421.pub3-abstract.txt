@@ -1,0 +1,19 @@
+Background
+Cervical intraepithelial neoplasia (CIN) is the most common pre‐malignant lesion. Surgical treatments for CIN are commonly associated with blood loss. 
+Objectives
+To assess the effectiveness and safety of interventions for preventing blood loss during the treatment of CIN. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, MEDLINE, EMBASE and CENTRAL up to November 2012. We also searched registers of clinical trials, abstracts of scientific meetings and reference lists of included studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of vasopressin, tranexamic acid, haemostatic sutures, Amino‐Cerv or Monsel's solution in women undergoing surgery for CIN. 
+Data collection and analysis
+Two reviewers independently abstracted data and assessed risk of bias. Risk ratios comparing adverse events in women who received one of the interventions were pooled in a random‐effects meta‐analyses or included in single trial analyses. 
+Main results
+Twelve RCTs (N = 1602, of whom 1512 were assessed) were included.
+Vasopressin significantly reduced perioperative bleeding (mean difference (MD) = ‐100.80, 95% confidence interval (CI) ‐129.48 to ‐72.12) and was associated with a decreased risk of bleeding that required haemostatic sutures or further vasopressin, compared to placebo (risk ratio (RR) = 0.39, 95% CI 0.27 to 0.56). 
+Tranexamic acid significantly reduced risk of secondary haemorrhage (RR = 0.23, 95% CI 0.11 to 0.50), but not primary haemorrhage (RR = 1.24, 95% CI 0.04 to 38.23) after knife and laser cone biopsy, compared with placebo. There was also a statistically significant reduction in postoperative blood loss compared with placebo (MD = ‐55.60, 95% CI ‐94.91 to ‐16.29). 
+Packing with Monsel's solution resulted in less perioperative blood loss (MD = ‐22.00, 95% CI ‐23.09 to ‐20.91) and decreased the risk of dysmenorrhoea (RR = 0.37, 95% CI 0.16 to 0.84), unsatisfactory colposcopy (RR = 0.43, 95% CI 0.30 to 0.63) and cervical stenosis (RR = 0.35, 95% CI 0.25 to 0.49) compared to routine suturing, but was not statistically different to sutures for risk of primary and secondary haemorrhages. 
+Amino‐Cerv antibiotic gel failed to make a difference on secondary haemorrhage but was associated with significantly less vaginal discharge at 2 weeks compared with routine care (RR = 0.27, 95% CI 0.09 to 0.86). 
+There was no significant difference in blood loss between women who received ball electrode diathermy and those who received Monsel's paste (MD = 4.82, 95% CI ‐3.45 to 13.09). 
+Authors' conclusions
+Bleeding associated with surgery of the cervix appears to be reduced by vasopressin, used in combination with local anaesthetic. Tranexamic acid appears to be beneficial after knife and laser cone biopsy. There are insufficient data to assess the effects on primary haemorrhage. There is some evidence that haemostatic suturing has an adverse effect on blood loss, cervical stenosis and satisfactory colposcopy. 

@@ -1,0 +1,19 @@
+Background
+Malignant wounds are a devastating complication of cancer. They usually develop in the last six months of life, in the breast, chest wall or head and neck regions. They are very difficult to treat successfully, and the commonly associated symptoms of pain, exudate, malodour, and the risk of haemorrhage are extremely distressing for those with advanced cancer. Treatment and care of malignant wounds is primarily palliative, and focuses on alleviating pain, controlling infection and odour from the wound, managing exudate and protecting the surrounding skin from further deterioration. In malignant wounds, with tissue degradation and death, there is proliferation of both anaerobic and aerobic bacteria. The aim of antibiotic therapy is to successfully eliminate these bacteria, reduce associated symptoms, such as odour, and promote wound healing. 
+Objectives
+To assess the effects of systemic antibiotics for treating malignant wounds.
+Search methods
+We searched the following electronic databases on 8 March 2017: the Cochrane Wounds Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL; the Cochrane Library, 2017, Issue 3), Ovid MEDLINE, Ovid Embase and EBSCO CINAHL Plus. We also searched the clinical trial registries of the World Health Organization (WHO) International Clinical Trials Registry Platform (apps.who.int/trialsearch) and ClinicalTrials.gov on 20 March 2017; and OpenSIGLE (to identify grey literature) and ProQuest Dissertations & Theses Global (to retrieve dissertation theses related to our topic of interest) on 13 March 2017. 
+Selection criteria
+Randomised controlled trials that assessed the effects of any systemic antibiotics on malignant wounds were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently screened and selected trials for inclusion, assessed risk of bias and extracted study data. A third reviewer checked extracted data for accuracy prior to analysis. 
+Main results
+We identified only one study for inclusion in this review. This study was a prospective, double‐blind cross‐over trial that compared the effect of systemic metronidazole with a placebo on odour in malignant wounds. Nine participants with a fungating wound and for whom the smell was troublesome were recruited and six of these completed both the intervention and control (placebo) stages of the trial. Each stage lasted fourteen days, with a fourteen day gap (washout period) between administration of the metronidazole and the placebo. 
+The study, in comparing metronidazole and placebo, reported on two of this review's pre‐specified primary outcomes (malodour and adverse effects of the treatment) and on none of the review's pre‐specified secondary outcomes. 
+Malodour
+The mean malodour (smell) scores for the metronidazole group was 1.17 (standard deviation (SD) 1.60) and the mean for the placebo group was 3.33 (SD 0.82). It is unclear if systemic antibiotics were associated with a difference in malodour (1 study with 6 participants; MD —2.16, 95% CI —3.6 to —0.72) as the quality of the evidence (GRADE) was very low for this outcome. The study was downgraded due to high risk of attrition bias (33% loss to follow‐up) and very serious imprecision due to the small sample size. 
+Adverse effects
+No adverse effects of the treatment were reported in either the intervention or control group by the trial authors. 
+Authors' conclusions
+It is uncertain whether systemic metronidazole leads to a reduction in malodour in patients with malignant wounds. This is because we were only able to include a single study at high risk of bias with a very small sample size, which focused only on patients with breast cancer. More research is needed to substantiate these findings and to investigate the effects of systemic metronidazole and other antibiotics on quality of life, pain relief, exudate and tumour containment in patients with malignant wounds. 

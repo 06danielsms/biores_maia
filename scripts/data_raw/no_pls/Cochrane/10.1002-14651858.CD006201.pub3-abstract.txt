@@ -1,0 +1,15 @@
+Background
+Human African trypanosomiasis, or sleeping sickness, is a painful and protracted disease affecting people in the poorest parts of Africa and is fatal without treatment. Few drugs are currently available for second‐stage sleeping sickness, with considerable adverse events and variable efficacy. 
+Objectives
+To evaluate the effectiveness and safety of drugs for treating second‐stage human African trypanosomiasis. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (January 2013), CENTRAL (The Cochrane Library Issue 12 2012) , MEDLINE (1966 to January 2013), EMBASE (1974 to January 2013), LILACS (1982 to January 2013 ), BIOSIS (1926‐January 2013), mRCT (January 2013) and reference lists. We contacted researchers working in the field and organizations. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials including adults and children with second‐stage HAT, treated with anti‐trypanosomal drugs. 
+Data collection and analysis
+Two authors (VL and AK) extracted data and assessed methodological quality; a third author (JS) acted as an arbitrator. Included trials only reported dichotomous outcomes, and we present these as risk ratio (RR) with 95% confidence intervals (CI). 
+Main results
+Nine trials with 2577 participants, all with Trypansoma brucei gambiense HAT, were included. Seven trials tested currently available drugs: melarsoprol, eflornithine, nifurtimox, alone or in combination; one trial tested pentamidine, and one trial assessed the addition of prednisolone to melarsoprol. The frequency of death and number of adverse events were similar between patients treated with fixed 10‐day regimens of melarsoprol or 26‐days regimens. Melarsoprol monotherapy gave fewer relapses than pentamidine or nifurtimox, but resulted in more adverse events. 
+Later trials evaluate nifurtimox combined with eflornithine (NECT), showing this gives few relapses and is well tolerated. It also has practical advantages in reducing the frequency and number of eflornithine slow infusions to twice a day, thus easing the burden on health personnel and patients. 
+Authors' conclusions
+Choice of therapy for second stage Gambiense HAT will continue to be determined by what is locally available, but eflornithine and NECT are likely to replace melarsoprol, with careful parasite resistance monitoring. We need research on reducing adverse effects of currently used drugs, testing different regimens, and experimental and clinical studies of new compounds, effective for both stages of the disease. 

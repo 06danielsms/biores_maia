@@ -1,0 +1,14 @@
+Background
+The prevalence of sleep problems in adulthood increases with age. While not all sleep changes are pathological in later life, severe disturbances may lead to depression, cognitive impairments, deterioration of quality of life, significant stresses for carers and increased healthcare costs. The most common treatment for sleep disorders (particularly insomnia) is pharmacological. The efficacy of non‐drug interventions has been suggested to be slower than pharmacological methods, but with no risk of drug‐related tolerance or dependency. Physical exercise, taken regularly, may promote relaxation and raise core body temperature in ways that are beneficial to initiating and maintaining sleep. 
+Objectives
+To assess the efficacy of physical exercise amongst older adults (aged 60 and above).
+Search methods
+We searched: The Cochrane Library (Issue 1, 2002); MEDLINE (1966 to January 2002); EMBASE (1980 to January 2002); CINAHL (1982 to January 2002); PsycINFO (1887 to January 2002); National Research Register (Issue1, 2002). Bibliographies of existing reviews in the area, as well as of all trial reports obtained, were searched. Experts in the field were consulted. 
+Selection criteria
+Randomised controlled trials of physical exercise for primary insomnia where 80% or more of participants were over the age of 60. Participants must have been screened to exclude those with dementia and/or depression. 
+Data collection and analysis
+Abstracts of studies identified in searches of electronic databases were read and assessed to determine whether they might meet the inclusion criteria. Data were analysed separately depending on whether results had been obtained subjectively or objectively. 
+Main results
+One trial, including 43 participants with insomnia, examined the effectiveness of exercise in a population within an elderly population. At post‐treatment, sleep onset latency improved slightly for both men and women. Total sleep duration, sleep onset latency and scores on a scale of global sleep quality showed significant improvement. Improvements in sleep efficiency were not significant. In some cases improvements indicated falls to below what are usually considered pathological levels but the wide confidence intervals and small sample size indicate that these findings must be interpreted with caution. 
+Authors' conclusions
+When the possible side‐effects of standard treatment (hypnotics) are considered, there is an argument to be made for clinical use of alternative treatments in the elderly. Exercise, though not appropriate for all in this population, may enhance sleep and contribute to an increased quality of life. Research involving exercise programmes designed with the elderly in mind is needed. 

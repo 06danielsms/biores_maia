@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane Review first published in Issue 3, 2004 of The Cochrane Library and previously updated in 2007. 
+The use of botulinum toxin for the treatment of spasmodic dysphonia is currently the treatment of choice for management of this neurological voice disorder. Over the past 20 years, botulinum toxin has been used to treat both adductor and abductor forms of the disorder, with vocal improvement noted after treatment for both. A large number of studies have attempted to document the efficacy of botulinum toxin for improvement of vocal symptoms in individuals with spasmodic dysphonia. 
+Objectives
+To determine the effectiveness of botulinum toxin for treating spasmodic dysphonia.
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 22 July 2009, following a previous search update in 2007. 
+Selection criteria
+All studies in which the participants were randomly allocated prior to intervention and in which botulinum toxin was compared to either an alternative treatment, placebo or non‐treated control group. 
+Data collection and analysis
+Two authors independently evaluated all potential studies meeting the selection criteria noted above for inclusion. One study met the inclusion criteria and was included in the final analysis. 
+Main results
+Only one study in the literature met the inclusion criteria. This was the only study identified which reported a treatment/no treatment comparison. It reported significant beneficial effects for fundamental frequency (Fo), Fo range, spectrographic analysis, independent ratings of voice severity and patient ratings of voice improvement. 
+Authors' conclusions
+The evidence from randomized controlled trials does not allow firm conclusions to be drawn about the effectiveness of botulinum toxin for all types of spasmodic dysphonia, or for patients with different behavioral or clinical characteristics. 

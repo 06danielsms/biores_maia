@@ -1,0 +1,15 @@
+Background
+Regular antenatal care for women with a multiple pregnancy is accepted practice, and while most women have an increase in the number of antenatal visits, there is no consensus as to what constitutes optimal care. 'Specialised' antenatal clinics have been advocated as a way of improving outcomes for women and their infants. 
+Objectives
+To assess, using the best available evidence, the benefits and harms of 'specialised' antenatal clinics compared with 'standard' antenatal care for women with a multiple pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2015) and reference lists of retrieved studies. 
+Selection criteria
+All published, unpublished, and ongoing randomised controlled trials with reported data that compared outcomes in mothers and babies with a multiple pregnancy who received antenatal care specifically designed for women with a multiple pregnancy (as defined by the trial authors) with outcomes in controls who received 'standard' antenatal care (as defined by the trial authors). 
+Data collection and analysis
+Two of the review authors independently assessed trials for inclusion and trial quality. Both review authors extracted data. Data were checked for accuracy. We graded the quality of the evidence using GRADEpro software. 
+Main results
+Findings were based on the results of a single study with some design limitations.
+Data were available from one study involving 162 women with a multiple pregnancy. For the only reported primary outcome, perinatal mortality, we are uncertain whether specialised antenatal clinics makes any difference compared to standard care (risk ratio (RR) 1.02; 95% confidence interval (CI) 0.26 to 4.03; 324 infants, very low quality evidence). Women receiving specialised antenatal care were significantly more likely to birth by caesarean section (RR 1.38; 95% CI 1.06 to 1.81; 162 women, moderate quality evidence). Data were not reported in the study on the following primary outcomes: small‐for‐gestational age, very preterm birth or maternal death. There were no differences identified between specialised antenatal care and standard care for other secondary outcomes examined: postnatal depression (RR 0.48; 95% CI 0.19 to 1.20; 133 women, very low quality evidence), breastfeeding (RR 0.63; 95% CI 0.24 to 1.68; 123 women, very low quality evidence), stillbirth (RR 0.68; 0.12 to 4.04) or neonatal death (RR 2.05; 95% CI 0.19 to 22.39) (324 infants). 
+Authors' conclusions
+There is currently limited information available from randomised controlled trials to assess the role of 'specialised' antenatal clinics for women with a multiple pregnancy compared with 'standard' antenatal care in improving maternal and infant health outcomes. The value of 'specialised' multiple pregnancy clinics in improving health outcomes for women and their infants requires evaluation in appropriately powered and designed randomised controlled trials. 

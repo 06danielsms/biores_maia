@@ -1,0 +1,21 @@
+Changing the length of time a worker is allowed to take time off work because of illness without a physician's certificate 
+What was the aim of this review? 
+To find out if it is possible to affect sickness absence by changing the length of time a worker is allowed to take time off work because of illness without a physician's certificate. We found five studies. 
+Key messages 
+We are uncertain whether changing the length of time a worker is allowed to take time off work because of illness without a physician's certificate has any effect on sickness absence, as the included studies reported very different results, and the certainty of the evidence was low to very low. 
+What was studied in the review? 
+Sickness absence prevents a person from working and thus may reduce income and causes costs to employers. Usually employers require a physician to certify sickness absence. This may not be meaningful in cases of less severe illnesses that pass quickly with rest. Self‐certification of sickness absence is already used at many workplaces for sickness absence periods lasting typically from one day up to two weeks. In this review, we evaluated how change in the length of the self‐certification period affects the mean number of sickness absence days, number of sickness absence periods, and the amount of lost work time at workplaces. 
+Why is this topic important? 
+Sickness absence is costly to society and to employers. Employers may have to continue paying the sick employee’s salary. After the employer’s obligation to pay has ended, insurance covers sickness benefits. Changing the practice of sickness certification in short sickness absences is expected to change employees' attitudes and behaviour, co‐operation and climate at the workplace, and diminish sickness absence. Self‐certification makes more healthcare resources available for other purposes. 
+What are the main results of the review? 
+We found five studies conducted between 1969 and 2014. One study evaluated the effect of prolonging the self‐certification period among all insured workers in a large city and a region in Sweden in 1988. Three studies evaluated the effect of prolonging the self‐certification period for employees of a few municipalities in Norway. One study evaluated the effect of introducing self‐certification in an organisation in the UK in 1969. The time participants in the intervention groups were allowed to be off work without a doctor's certificate ranged from three days to one year. The included studies measured the effects on the mean number of sickness absence days, the number of sickness absence periods, or on lost work time due to sickness absence periods. All studies compared the effect of the change with practice‐as‐usual. 
+Effects on duration of sickness absence periods 
+Extending self‐certification from one week to two weeks increased the mean duration of sickness absence. Introducing self‐certification for a maximum of three days reduced the mean duration of sickness absences lasting up to three days. Extending self‐certification from one to three days up to a year did not change the duration of sickness absence. 
+Effects on number of sickness absence periods 
+Extending self‐certification from one week to two weeks did not change the number of sickness absence periods. Introducing self‐certification for a maximum of three days increased sickness absence periods lasting up to three days. Extending self‐certification from three days to up to a year decreased sickness absence periods. 
+Effects on lost work time 
+Extending self‐certification from one week to two weeks resulted in an inferred increase in lost work time. Extending self‐certification (from zero days to three days and from three days to five days) increased the amount of work time lost due to sickness absence periods lasting up to three days. Extending self‐certification from ≤ 3 days to ≤ 50 days and from ≤ 3 days to ≤ 365 days reduced lost work time due to sickness absence periods of 4 to 16 days and > 16 days. 
+Costs of sickness absence and physician certification 
+The costs of sickness absence benefits resulting from a longer period of self‐certification may be about six times greater than the possible reduction in costs of fewer physician appointments. 
+How up‐to‐date is this review? 
+We searched for studies up to 14 June 2018.

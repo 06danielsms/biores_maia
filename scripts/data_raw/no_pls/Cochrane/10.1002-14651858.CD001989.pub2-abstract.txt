@@ -1,0 +1,14 @@
+Background
+Acute central retinal artery occlusion (CRAO) occurs as a sudden interruption of the blood supply to the retina and results in an almost complete loss of vision in the affected eye. There is no generally agreed treatment regimen although a number of therapeutic interventions have been proposed. 
+Objectives
+The objective of this review was to examine the effects of treatments used for acute non‐arteritic CRAO. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library, Issue 3, 2008), MEDLINE (January 1966 to September 2008), EMBASE (January 1980 to September 2008) and the reference lists of relevant papers. 
+Selection criteria
+We included randomised controlled trials (RCTs) only in which one treatment aimed to re‐establish blood supply to the retina in people with acute CRAO was compared to another treatment. 
+Data collection and analysis
+Two authors independently assessed the search results for relevant trials. Discrepancies were resolved by discussion. 
+Main results
+We found two RCTs that met our inclusion criteria.
+Authors' conclusions
+The included studies in this review were small and from single centres. Neither study was completely clear about it's method of treatment allocation. One study described the use of pentoxifylline tablets (three 600 mg tablets daily) and the other the use of enhanced external counterpulsation (EECP) combined with haemodilution. Both studies indicated improved retinal perfusion in the non‐control group but neither showed an improvement in vision. Large, well‐designed RCTs are still required to establish the most effective treatment for acute CRAO. These studies should be looking at factors important to the patient i.e. improved vision with acceptable risk/side‐effects. 

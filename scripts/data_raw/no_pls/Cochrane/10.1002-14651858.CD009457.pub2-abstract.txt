@@ -1,0 +1,15 @@
+Background
+Maintenance intravenous fluids are frequently used in hospitalised children who cannot maintain adequate hydration through enteral intake. Traditionally used hypotonic fluids have been associated with hyponatraemia and subsequent morbidity and mortality. Use of isotonic fluid has been proposed to reduce complications. 
+Objectives
+To establish and compare the risk of hyponatraemia by systematically reviewing studies where isotonic is compared with hypotonic intravenous fluid for maintenance purposes in children. 
+Secondly, to compare the risk of hypernatraemia, the effect on mean serum sodium concentration and the rate of attributable adverse effects of both fluid types in children. 
+Search methods
+We ran the search on 17 June 2013. We searched the Cochrane Injuries Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE (OvidSP), Embase (OvidSP), and ISI Web of Science. We also searched clinical trials registers and screened reference lists. We updated this search in October 2014 but these results have not yet been incorporated. 
+Selection criteria
+We included randomised controlled trials that compared isotonic versus hypotonic intravenous fluids for maintenance hydration in children. 
+Data collection and analysis
+At least two authors assessed and extracted data for each trial. We presented dichotomous outcomes as risk ratios (RR) with 95% confidence intervals (CIs) and continuous outcomes as mean differences with 95% CIs. 
+Main results
+Ten studies met the inclusion criteria, with a total of 1106 patients. The majority of the studies were performed in surgical or intensive care populations (or both). There was considerable variation in the composition of intravenous fluid, particularly hypotonic fluid, used in the studies. There was a low risk of bias for most of the included studies. Ten studies provided data for our primary outcome, a total of 449 patients in the analysis received isotonic fluid, while 521 received hypotonic fluid. Those who received isotonic fluid had a substantially lower risk of hyponatraemia (17% versus 34%; RR 0.48; 95% CI 0.38 to 0.60, high quality evidence). It is unclear whether there is an increased risk of hypernatraemia when isotonic fluids are used (4% versus 3%; RR 1.24; 95% CI 0.65 to 2.38, nine studies, 937 participants, low quality evidence), although the absolute number of patients developing hypernatraemia was low. Most studies had safety restrictions included in their methodology, preventing detailed investigation of serious adverse events. 
+Authors' conclusions
+Isotonic intravenous maintenance fluids with sodium concentrations similar to that of plasma reduce the risk of hyponatraemia when compared with hypotonic intravenous fluids. These results apply for the first 24 hours of administration in a wide group of primarily surgical paediatric patients with varying severities of illness. 

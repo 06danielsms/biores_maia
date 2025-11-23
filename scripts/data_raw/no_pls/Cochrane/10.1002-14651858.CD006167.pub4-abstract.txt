@@ -1,0 +1,16 @@
+Background
+Intentional artificial rupture of the amniotic membranes during labour, sometimes called amniotomy or 'breaking of the waters', is one of the most commonly performed procedures in modern obstetric and midwifery practice. The primary aim of amniotomy is to speed up contractions and, therefore, shorten the length of labour. However, there are concerns regarding unintended adverse effects on the woman and baby. 
+Objectives
+To determine the effectiveness and safety of amniotomy alone for routinely shortening all labours that start spontaneously. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2013). 
+Selection criteria
+Randomised controlled trials comparing amniotomy alone versus intention to preserve the membranes. We excluded quasi‐randomised trials. 
+Data collection and analysis
+Two review authors assessed identified studies for inclusion, assessed risk of bias and extracted data. Primary analysis was by intention‐to‐treat. 
+Main results
+We have included 15 studies in this updated review, involving 5583 women.
+Amniotomy alone versus intention to preserve the membranes (no amniotomy) for spontaneous labour   There was no clear statistically significant difference between women in the amniotomy and control groups in length of the first stage of labour (mean difference (MD) ‐20.43 minutes, 95% confidence interval (CI) ‐95.93 to 55.06), caesarean section (risk ratio (RR) 1.27, 95% CI 0.99 to 1.63), maternal satisfaction with childbirth experience (MD ‐1.10, 95% CI ‐7.15 to 4.95) or Apgar score less than seven at five minutes (RR 0.53, 95% CI 0.28 to 1.00). There was no consistency between trials regarding the timing of amniotomy during labour in terms of cervical dilatation. 
+Amniotomy alone versus intention to preserve the membranes (no amniotomy) for spontaneous labours that have become prolonged   There was no clear statistically significant difference between women in the amniotomy and control group in caesarean section (RR 0.95, 95% CI 0.15 to 6.08), maternal satisfaction with childbirth experience (MD 22.00, 95% CI 2.74 to 41.26) or Apgar score less than seven at five minutes (RR 2.86, 95% CI 0.12 to 66.11). 
+Authors' conclusions
+On the basis of the findings of this review, we cannot recommend that amniotomy should be introduced routinely as part of standard labour management and care. We recommend that the evidence presented in this review should be made available to women offered an amniotomy and may be useful as a foundation for discussion and any resulting decisions made between women and their caregivers. 

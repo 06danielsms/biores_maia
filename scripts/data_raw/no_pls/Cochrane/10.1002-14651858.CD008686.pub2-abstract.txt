@@ -1,0 +1,16 @@
+Background
+The identification of serious pathologies, such as spinal malignancy, is one of the primary purposes of the clinical assessment of patients with low‐back pain (LBP). Clinical guidelines recommend awareness of "red flag" features from the patient's clinical history and physical examination to achieve this. However, there are limited empirical data on the diagnostic accuracy of these features and there remains very little information on how best to use them in clinical practice. 
+Objectives
+To assess the diagnostic performance of clinical characteristics identified by taking a clinical history and conducting a physical examination ("red flags") to screen for spinal malignancy in patients presenting with LBP. 
+Search methods
+We searched electronic databases for primary studies (MEDLINE, EMBASE, and CINAHL) and systematic reviews (PubMed and Medion) from the earliest date until 1 April 2012. Forward and backward citation searching of eligible articles was also performed. 
+Selection criteria
+We considered studies if they compared the results of history taking and physical examination on patients with LBP with those of diagnostic imaging (magnetic resonance imaging, computed tomography, myelography). 
+Data collection and analysis
+Two review authors independently assessed the quality of each included study with the QUality Assessment of Diagnostic Accuracy Studies (QUADAS) tool and extracted details on patient characteristics, study design, index tests, and reference standard. Diagnostic accuracy data were presented as sensitivities and specificities with 95% confidence intervals for all index tests. 
+Main results
+We included eight cohort studies of which six were performed in primary care (total number of patients; n = 6622), one study was from an accident and emergency setting (n = 482), and one study was from a secondary care setting (n = 257). In the six primary care studies, the prevalence of spinal malignancy ranged from 0% to 0.66%. Overall, data from 20 index tests were extracted and presented, however only seven of these were evaluated by more than one study. Because of the limited number of studies and clinical heterogeneity, statistical pooling of diagnostic accuracy data was not performed. 
+There was some evidence from individual studies that having a previous history of cancer meaningfully increases the probability of malignancy. Most "red flags" such as insidious onset, age > 50, and failure to improve after one month have high false positive rates. 
+All of the tests were evaluated in isolation and no study presented data on a combination of positive tests to identify spinal malignancy. 
+Authors' conclusions
+For most "red flags," there is insufficient evidence to provide recommendations regarding their diagnostic accuracy or usefulness for detecting spinal malignancy. The available evidence indicates that in patients with LBP, an indication of spinal malignancy should not be based on the results of one single "red flag" question. Further research to evaluate the performance of different combinations of tests is recommended. 

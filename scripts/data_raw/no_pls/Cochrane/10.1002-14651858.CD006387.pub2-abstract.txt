@@ -1,0 +1,15 @@
+Background
+The management of advanced oral cavity and oropharyngeal cancers is problematic and has traditionally relied on surgery and radiotherapy, both of which are associated with substantial adverse effects. Radiotherapy has been in use since the 1950s and has traditionally been given as single daily doses. This method of dividing up the total dose, or fractionation, has been modified over the years and a variety of approaches have been developed with the aim of improving survival whilst maintaining acceptable toxicity. 
+Objectives
+To determine which radiotherapy regimens for oral cavity and oropharyngeal cancers result in increased overall survival, disease free survival, progression free survival and locoregional control. 
+Search methods
+The following electronic databases were searched: the Cochrane Oral Health Group's Trials Register (to 28 July 2010), CENTRAL (The Cochrane Library 2010, Issue 3), MEDLINE via OVID (1950 to 28 July 2010) and EMBASE via OVID (1980 to 28 July 2010). There were no restrictions regarding language or date of publication. 
+Selection criteria
+Randomised controlled trials where more than 50% of participants had primary tumours of the oral cavity or oropharynx, and which compared two or more radiotherapy regimens, radiotherapy versus other treatment modality, or the addition of radiotherapy to other treatment modalities. 
+Data collection and analysis
+Data extraction and assessment of risk of bias was undertaken independently by two or more authors. Study authors were contacted for additional information as required. Adverse events data were collected from published trials. 
+Main results
+30 trials involving 6535 participants were included. Seventeen trials compared some form of altered fractionation (hyperfractionation/accelerated) radiotherapy with conventional radiotherapy; three trials compared different altered fractionation regimens; one trial compared timing of radiotherapy, five trials evaluated neutron therapy and four trials evaluated the addition of pre‐operative radiotherapy. Pooling trials of any altered fractionation radiotherapy compared to a conventional schedule showed a statistically significant reduction in total mortality (hazard ratio (HR) 0.86, 95% confidence interval (CI) 0.76 to 0.98). In addition, a statistically significant difference in favour of the altered fractionation was shown for the outcome of locoregional control (HR 0.79, 95% CI 0.70 to 0.89). No statistically significant difference was shown for disease free survival. 
+No statistically significant difference was shown for any other comparison.
+Authors' conclusions
+Altered fractionation radiotherapy is associated with an improvement in overall survival and locoregional control in patients with oral cavity and oropharyngeal cancers. More accurate methods of reporting adverse events are needed in order to truly assess the clinical performance of different radiotherapy regimens. 

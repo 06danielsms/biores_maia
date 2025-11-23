@@ -1,0 +1,16 @@
+Clinical Study Results
+
+Why was the research needed?
+Researchers are looking for a better way to treat people with breast cancer that has spread to other parts of the body. Before a drug can be approved for patients to take, researchers do clinical studies to find out how safe it is and how it works.
+
+In this study, the researchers wanted to find out if the study drugs AZD2014, palbociclib, and fulvestrant work in participants with a type of tumor called an estrogen receptor positive tumor. If a tumor has an estrogen receptor it means the tumor reacts to hormones found in the body and is expected to grow quicker. They also wanted to find out if the participants had any medical problems during the study.
+
+In people with estrogen receptor positive tumors, a protein called mTOR does not work properly and is too active. This can cause tumor cells to grow out of control. AZD2014 was designed to reduce the activity of mTOR, which would slow the growth of tumor cells. There are treatments for people with estrogen receptor positive tumors that work in a similar way to AZD2014. But, sometimes when people have received these treatments several times, the treatments stop helping their cancer as much.
+
+In this study, the researchers wanted to learn about the safety of AZD2014 when taken together with palbociclib and fulvestrant. These are existing treatments for estrogen receptor positive tumors that work in a different way than AZD2014. Researchers want to find out if getting these treatments together works to shrink the tumor or slow the growth of the tumor.
+
+The main questions the researchers wanted to answer in this study were:
+- Did the study drugs affect the participants’ safety results?
+- What medical problems did the participants have during the study?
+
+To answer the questions in this study, researchers asked for the help of women with estrogen receptor positive tumors that had spread to other parts of the body. The participants in this study were 36 to 77 years old and had stopped menstruating.

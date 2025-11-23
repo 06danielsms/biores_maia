@@ -1,0 +1,14 @@
+Nitrous oxide (laughing gas)‐based techniques versus nitrous oxide‐free techniques for general anaesthesia 
+Review question 
+We reviewed the evidence about the harmful effects of nitrous oxide on people undergoing general anaesthesia. 
+Background 
+Nitrous oxide is an anaesthetic gas which has been used for more than 160 years for inducing anaesthesia and keeping patients anaesthetized throughout an operation. It is also known as 'laughing gas'. It is a colourless non‐flammable gas with a pleasant, faint sweet odour and taste. Its low cost and low toxicity have made nitrous oxide by far the most commonly used general anaesthetic. However, some studies have reported that adding nitrous oxide may lead to harmful effects. This has led many anaesthetists to question its continued routine use in a variety of operating room settings. 
+We wanted to discover whether using nitrous oxide in general anaesthesia was better or worse than not using nitrous oxide. 
+Study characteristics 
+We examined the evidence available up to 17 October 2014. We included 35 trials involving 13,872 adult participants, all of whom were randomized to either receive nitrous oxide or no nitrous oxide. The trials covered a variety of situations during general anaesthesia. 
+Key results 
+We found that general anaesthesia with nitrous oxide increased the risk of pulmonary atelectasis (i.e. failure of the lungs to expand fully). When we restricted the results to the highest quality studies only, we found evidence that nitrous oxide may potentially increase the risk of pneumonia and severe nausea and vomiting. However, nitrous oxide had no effect on the patients' survival, the incidence of heart attack, stroke, wound infection, the occurrence of blood clots within veins, the length of hospital stay, or the length of intensive care unit stay. 
+Quality of the evidence 
+The evidence related to survival of participants was of moderate quality because we did not have enough data. The evidence related to some harmful effects, such as failure of the lungs to expand fully and heart attack, was of high quality, while for other harmful effects, such as stroke and the occurrence of blood clots within veins, the evidence was of moderate quality. For others, such as pneumonia, severe nausea and vomiting, and wound infection, the evidence was of low quality. The evidence related to the length of time spend in hospital was of moderate quality. 
+Authors conclusions 
+The avoidance of nitrous oxide may be reasonable in participants with pre‐existing poor pulmonary function or at high risk of postoperative nausea and vomiting. 

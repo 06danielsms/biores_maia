@@ -1,0 +1,16 @@
+Background
+Human papillomavirus (HPV) is the key risk factor for cervical cancer. Continuing high rates of HPV and other sexually transmitted infections (STIs) in young people demonstrate the need for effective behavioural interventions. 
+Objectives
+To assess the effectiveness of behavioural interventions for young women to encourage safer sexual behaviours to prevent transmission of STIs (including HPV) and cervical cancer. 
+Search methods
+Systematic literature searches were performed on the following databases: Cochrane Central Register of Controlled Trials (CENTRAL Issue 4, 2009) Cochrane Gynaecological Cancer Review Group (CGCRG) Specialised Register, MEDLINE, EMBASE, CINAHL, PsychINFO, Social Science Citation Index and Trials Register of Promoting Health Interventions (TRoPHI) up to the end of 2009. All references were screened for inclusion against selection criteria. 
+Selection criteria
+Randomised controlled trials (RCTs) of behavioural interventions for young women up to the age of 25 years that included, amongst other things, information provision about the transmission and prevention of STIs. Trials had to measure behavioural outcomes (e.g. condom use) and/or biological outcomes (e.g. incidence of STIs, cervical cancer). 
+Data collection and analysis
+A narrative synthesis was conducted. Meta‐analysis was not considered appropriate due to heterogeneity between the interventions and trial populations. 
+Main results
+A total of 5271 references were screened and of these 23 RCTs met the inclusion criteria. Most were conducted in the USA and in health‐care clinics (e.g. family planning). 
+The majority of interventions provided information about STIs and taught safer sex skills (e.g. communication), occasionally supplemented with provision of resources (e.g. free sexual health services). They were heterogeneous in duration, contact time, provider, behavioural aims and outcomes. A variety of STIs were addressed including HIV and chlamydia. None of the trials explicitly mentioned HPV or cervical cancer prevention. 
+Statistically significant effects for behavioural outcomes (e.g. increasing condom use) were common, though not universal and varied according to the type of outcome. There were no statistically significant effects of abstaining from or reducing sexual activity. There were few statistically significant effects on biological (STI) outcomes. Considerable uncertainty exists in the risk of bias due to incomplete or ambiguous reporting. 
+Authors' conclusions
+Behavioural interventions for young women which aim to promote sexual behaviours protective of STI transmission can be effective, primarily at encouraging condom use. Future evaluations should include a greater focus on HPV and its link to cervical cancer, with long‐term follow‐up to assess impact on behaviour change, rates of HPV infection and progression to cervical cancer. Studies should use an RCT design where possible with integral process evaluation and cost‐effectiveness analysis where appropriate. Given the predominance of USA studies in this systematic review evaluations conducted in other countries would be particularly useful. 

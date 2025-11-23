@@ -1,0 +1,16 @@
+Using patient‐reported outcome measures to monitor progress among adults with common mental health disorders 
+Why is this review important? 
+One in six people suffer from a common mental health disorder (CMHD), including depression and anxiety disorders. Patient reported outcome measures (PROMs) are questionnaires on patients' symptoms, functioning, and relationships. Using PROMs to monitor the progress of people with CMHDs might improve treatment outcomes, and change the management of CMHDs. 
+Who will be interested in this review? 
+People with CMHDs; health professionals in primary care, psychological therapy and mental health services; health service commissioners. 
+What questions does this review aim to answer? 
+Does the use of PROMs to monitor progress in people with CMHDs improve health outcomes, including symptoms, quality of life, and social functioning? 
+Does the use of PROMs in people with CMHDs change the way their problems are managed, including drug therapy and referrals for specialist help? 
+Which studies were included in the review? 
+Trial databases were searched to find all high‐quality studies of the use of PROMs to monitor the treatment of CMHDs published up to May 2015. Included studies had to be randomised controlled trials in adult participants, where the majority diagnosed had a CMHD. 
+Seventeen studies involving 8787 participants were included in the review, nine from mental health, six from psychological therapy, and two from primary care settings. 
+The quality of the studies was rated ‘low’ to 'moderate'.
+What does the evidence from the review tell us? 
+Routine outcome monitoring of CMHDs using PROMs was not shown conclusively to be helpful in analyses combining study results, either in terms of improving patient symptom outcomes (across 12 studies), or in changing the duration of treatment for their conditions (across seven studies). It was not possible to analyse changes in drug treatment or referrals for further treatment as only two studies reported these. Similarly, health‐related quality of life, social functioning, adverse events, and costs were reported in very few studies. 
+What should happen next? 
+More research of better quality is required, especially in primary care where most CMHDs are treated. Studies should include people treated with drugs as well as psychological therapies, and should follow them for longer than six months. As well as symptoms and length of treatment, studies should measure possible harms, quality of life, social functioning, and the costs of monitoring. 

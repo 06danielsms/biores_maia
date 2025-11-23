@@ -1,0 +1,14 @@
+Background
+Mooren's ulcer is a chronic, painful peripheral ulcer of the cornea. Its cause is unknown but it can or will lead to loss of vision if untreated. Severe pain is common in patients with Mooren's ulcer and the eye(s) may be intensely reddened, inflamed and photophobic, with tearing. The disease is rare in the northern hemisphere but more common in southern and central Africa, China and the Indian subcontinent. There are a number of treatments used such as anti‐inflammatory drugs (steroidal and non‐steroidal), cytotoxic drugs (topical and systemic), conjunctivectomy and cornea debridement (superficial keratectomy). There is no evidence to show which is the most effective amongst these treatment modalities. 
+Objectives
+The aim of this systematic review is to assess the effectiveness of the various interventions (medical and surgical) for Mooren's ulcer. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 5), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to June 2013), EMBASE (January 1980 to June 2013), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to June 2013), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 4 June 2013. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) or discuss any prospective non‐RCTs in the absence of any RCTs. The trials included would be of people of any age or gender diagnosed with Mooren's ulcer and all interventions (medical and surgical) would be considered. 
+Data collection and analysis
+Two authors screened the search results independently; we found no studies that met our inclusion criteria. 
+Main results
+ As we found no studies that met our inclusion criteria, we highlighted important considerations for conducting RCTs in the future in this area. 
+Authors' conclusions
+We found no evidence in the form of RCTs to assess the treatment effect for the various interventions for Mooren's ulcer. High quality RCTs that compare medical or surgical interventions across different demographics are needed. Such studies should make use of various outcome measures, (i.e. healed versus not healed, percentage of area healed, speed of healing etc.) as well as ensuring high quality randomisation and data analysis, as highlighted in this review . 

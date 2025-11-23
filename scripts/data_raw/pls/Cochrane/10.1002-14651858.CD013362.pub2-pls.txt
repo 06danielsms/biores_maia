@@ -1,0 +1,30 @@
+How accurate are computerised tomography (CT) scans for detecting liver cancer?
+Key messages 
+In people with chronic liver disease,
+· computerised tomography (CT: cross‐sectional scans inside the body) probably misses liver cancer in 22.5% of people who would not receive timely or appropriate treatment, and also, CT incorrectly finds liver cancer in 8.7% of people who would receive unnecessary treatment. 
+· CT probably misses liver cancer in 28.6% of people with liver cancer who could have surgery to remove part of their liver, and CT incorrectly finds liver cancer in 7.7% of people who undergo inappropriate surgery. 
+· The studies were too different from each other to allow us to draw firm conclusions based on the evidence. 
+Why is it important to diagnose liver cancer accurately? 
+Liver cancer, or ‘hepatocellular carcinoma’ occurs mostly in people with chronic liver disease, regardless of the cause. It is the sixth most common cancer in the world and the fourth most common cause of death due to cancer. It is difficult to diagnose because early symptoms are similar to those of liver disease. People with blood test or ultrasound results that suggest liver cancer may go on to have further tests, such as scans that produce images of the liver, or biopsy where a small piece of the liver is removed and examined. If liver cancer is detected early, people may be treated with surgery to remove part of the liver (a liver resection) or with a liver transplant. If the liver cancer is more advanced, people may need chemotherapy. If liver cancer is missed, people will not receive appropriate treatment. However, incorrectly diagnosing liver cancer when it is not present means that people may undergo unnecessary testing or treatment. 
+What is computed tomography and how might it diagnose liver cancer? 
+Computed tomography (CT) produces images that show a cross‐section or ‘slice’ of the bones, blood vessels and tissues inside the body. The images consist of a series of X‐rays that are directed and combined by a computer. CT scans can detect the presence of abnormalities in the liver that might be cancer. Current guidelines recommend using either CT or another type of imaging, magnetic resonance imaging (MRI), to confirm the presence of liver cancer in people who might have liver cancer, and to judge the size and spread (stage) of the cancer. 
+What did we want to find out? 
+We wanted to find out if CT is accurate enough to diagnose liver cancer in adults with chronic liver disease. We were interested firstly, in liver cancers of any size and stage and secondly, in liver cancers that were suitable for resection. 
+What did we do? 
+We searched for studies that assessed the accuracy of CT scans compared to the best available tests to confirm liver cancer in adults with chronic liver disease. The best available tests are examination of the liver, or part of the liver under a microscope. 
+What did we find? 
+We found a total of 21 studies with 3101 people.
+Based on the studies, around 520 (52%) out of 1000 adults with chronic liver disease have confirmed liver cancer. Of these 1000 people, CT may: 
+· correctly detect liver cancer in 403 people
+· miss liver cancer in 117 people
+· incorrectly detect liver cancer in 42 cancer‐free people
+· correctly detect no liver cancer in 438 people.
+Based on the studies, around 350 (35%) out of 1000 adults with chronic liver disease have confirmed resectable liver cancer. Of these 1000 people, CT may: 
+· correctly detect resectable liver cancer in 250 people
+· miss resectable liver cancer in 100 people
+· incorrectly detect resectable liver cancer in 50 people; and
+· correctly detect no resectable liver cancer in 600 people.
+What are the limitations of the evidence? 
+Our confidence in the evidence is limited because the studies used different methods to select study participants and used different definitions for the presence of liver disease. This means CT scans could be more or less accurate than suggested by the evidence. 
+How up to date is this evidence? 
+The evidence is up to date to 4 May 2021.

@@ -1,0 +1,14 @@
+Background
+Despite modern treatment approaches and a focus on community care, there remains a group of people who cannot easily be discharged from psychiatric hospital directly into the community. Twenty‐four hour residential rehabilitation (a 'ward‐in‐a‐house') is one model of care that has evolved in association with psychiatric hospital closure programmes. 
+Objectives
+To determine the effects of 24 hour residential rehabilitation compared with standard treatment within a hospital setting. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (May 2002 and February 2004). 
+Selection criteria
+We included all randomised or quasi‐randomised trials that compared 24 hour residential rehabilitation with standard care for people with severe mental illness. 
+Data collection and analysis
+Studies were reliably selected, quality assessed and data extracted. Data were excluded where more than 50% of participants in any group were lost to follow‐up. For binary outcomes we calculated the relative risk and its 95% confidence interval. 
+Main results
+We identified and included one study with 22 participants with important methodological shortcomings and limitations of reporting. The two‐year controlled study evaluated "new long stay patients" in a hostel ward in the UK. One outcome 'unable to manage in the placement' provided usable data (n=22, RR 7.0 CI 0.4 to 121.4). The trial reported that hostel ward residents developed superior domestic skills, used more facilities in the community and were more likely to engage in constructive activities than those in hospital ‐ although usable numerical data were not reported. These potential advantages were not purchased at a price. The limited economic data was not good but the cost of providing 24 hour care did not seem clearly different from the standard care provided by the hospital ‐ and it may have been less. 
+Authors' conclusions
+From the single, small and ill‐reported, included study, the hostel ward type of facility appeared cheaper and positively effective. Currently, the value of this way of supporting people ‐ which could be considerable ‐ is unclear. Trials are needed. Any 24 hour care 'ward‐in‐a‐house' is likely to be oversubscribed. We argue that the only equitable way of providing care in this way is to draw lots as to who is allocated a place from the eligible group of people with serious mental illness. With follow‐up of all eligible for the placements ‐ those who were lucky enough to be allocated a place as well as people in more standard type of care ‐ real‐world evaluation could take place. In the UK further randomised control trials are probably impossible, as many of these types of facilities have closed. The broader lesson of this review is to ensure early and rigorous evaluation of fashionable innovations before they are superseded by new approaches. 

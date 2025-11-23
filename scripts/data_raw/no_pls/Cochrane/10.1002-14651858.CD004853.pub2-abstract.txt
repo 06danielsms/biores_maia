@@ -1,0 +1,14 @@
+Background
+Despite a number of reviews advocating psychotherapy for the treatment of depression, there is relatively little evidence based on randomised controlled trials that specifically examines its efficacy in older people. 
+Objectives
+To examine the efficacy of psychotherapeutic treatments for depression in older people.
+Search methods
+CCDANCTR‐Studies and CCDANCTR‐References were searched on 11/9/2006. The International Journal of Geriatric Psychiatry and Irish Journal of Psychiatry were handsearched. Reference lists of previous published systematic reviews, included/excluded trial articles and bibliographies were scrutinised.Experts in the field were contacted.. 
+Selection criteria
+All randomised controlled trials that included older adults diagnosed as suffering from depression (ICD or DSM criteria) were included. All types of psychotherapeutic treatments were included, categorised into cognitive behavioural therapies (CBT), psychodynamic therapy, interpersonal therapy and supportive therapies. 
+Data collection and analysis
+Meta‐analysis was performed, using odds ratios for dichotomous outcomes and weighted mean differences (WMD) for continuous outcomes, with 95% confidence intervals. Primary outcomes were a reduction in severity of depression, usually measured by clinician rated rating scales. Secondary outcomes, including dropout and life satisfaction, were also analysed. 
+Main results
+The search identified nine trials of cognitive behavioural and psychodynamic therapy approaches, together with a small group of 'active control' interventions. No trials relating to other psychotherapeutic approaches and techniques were found. A total of seven trials provided sufficient data for inclusion in the comparison between CBT and controls. No trials compared psychodynamic psychotherapy with controls. Based on five trials (153 participants), cognitive behavioural therapy was more effective than waiting list controls (WMD ‐9.85, 95% CI ‐11.97 to ‐7.73). Only three small trials compared psychodynamic therapy with CBT, with no significant difference in treatment effect indicated between the two types of psychotherapeutic treatment. Based on three trials with usable data, CBT was superior to active control interventions when using the Hamilton Depression Rating Scale (WMD ‐5.69, 95% CI ‐11.04 to ‐0.35), but equivalent when using the Geriatric Depression Scale (WMD ‐2.00, 95% CI ‐5.31 to 1.32). 
+Authors' conclusions
+Only a small number of studies and patients were included in the meta‐analysis. If taken on their own merit, the findings do not provide strong support for psychotherapeutic treatments in the management of depression in older people. However, the findings do reflect those of a larger meta‐analysis that included patients with broader age ranges, suggesting that CBT may be of potential benefit. 

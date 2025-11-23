@@ -1,0 +1,14 @@
+Background
+No intervention has proven effective in modifying long‐term disease prognosis in Multiple Sclerosis (MS) but exercise therapy is considered to be an important part of symptomatic and supportive treatment for these patients. 
+Objectives
+To assess the effectiveness of exercise therapy for patients with MS in terms of activities of daily living and health‐related quality of life. 
+Search methods
+We searched the Cochrane MS Group Trials Register (searched: March 2004), Cochrane Central Register of Controlled Trials (CENTRAL) "The Cochrane Library Issue 2, 2004", MEDLINE (from 1966 to March 2004), EMBASE (from 1988 to March 2004 ), CINAHL (from 1982 to March 2004), PEDro (from 1999 to March 2004). Manual search in the journal 'Multiple Sclerosis' and screening of the reference lists of identified studies and reviews. We also searched abstracts published in proceedings of conferences. 
+Selection criteria
+Randomised Controlled Trials (RCTs) that reported on exercise therapy for adults with MS, not presently experiencing an exacerbation; outcomes that include measures of activity limitation or health‐related quality of life or both. 
+Data collection and analysis
+Two reviewers independently extracted data and methodological quality of the included trials. Disagreements were resolved by discussion. The results were analysed using a best‐evidence synthesis based on methodological quality. 
+Main results
+Nine high‐methodological‐quality RCTs(260 participants) met the inclusion criteria. Six trials focussed on comparison of exercise therapy versus no exercise therapy, whereas three trials compared two interventions that both met our definition of exercise therapy. Best evidence synthesis showed strong evidence in favour of exercise therapy compared to no exercise therapy in terms of muscle power function, exercise tolerance functions and mobility‐related activities. Moderate evidence was found for improving mood. No evidence was observed for exercise therapy on fatigue and perception of handicap when compared to no exercise therapy. Finally, no evidence was found that specific exercise therapy programmes were more successful in improving activities and participation than other exercise treatments. No evidence of deleterious effects of exercise therapy was described in included studies. 
+Authors' conclusions
+The results of the present review suggest that exercise therapy can be beneficial for patients with MS not experiencing an exacerbation. There is an urgent need for consensus on a core set of outcome measures to be used in exercise trials. In addition, these studies should experimentally control for 'dose' of treatment, type of MS and should include sufficient contrast between experimental and control groups. 

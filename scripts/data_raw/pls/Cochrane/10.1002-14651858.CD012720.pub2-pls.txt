@@ -1,0 +1,58 @@
+Kinesio taping for rotator cuff disease
+Review question 
+To determine the benefits and harms of kinesio taping (KT) in adults with shoulder pain such as impingement syndrome, rotator cuff disease and calcific tendinopathy. 
+Background 
+KT is one of the conservative treatments proposed for rotator cuff disease. KT is an elastic, adhesive, latex‐free taping made from cotton, without active pharmacological agents. Clinicians have adopted it in the rehabilitation treatment of painful conditions, however, there is no firm evidence on its benefits. 
+Study characteristics 
+We included 23 controlled trials with 1054 participants. Nine studies (312 participants) assessed the effectiveness of KT versus sham therapy (i.e. fake kinesio taping) and fourteen studies (742 participants) assessed the effectiveness of KT versus other conservative treatments (e.g.,conventional taping, physical therapies, exercise, glucocorticoid injection, oral medication). Most participants were aged between 18 and 50 years. Females comprised 52% of the sample. 
+Key results 
+Comparison 1. Kinesio taping versus sham therapy  
+Overall pain (lower scores mean less pain): 
+worsened by 0.7% (9% worse to 7.7% better) or 0.07 points on a zero to 10 scale
+• People who had sham treatment rated their pain as 2.96 points.
+• People who had kinesio taping rating their overall pain as 3.03 points.
+Function (0 to 100; lower scores mean better function): 
+improved by 8% (5% worse to 21% better) or 8.05 points on a zero to 100 scale
+• People who had sham treatment rated function as 47.10 points.
+• People who had kinesio taping rated function as 39.05 points.
+Pain on motion (scale 0 to 10; lower scores mean less pain): 
+improved by 14.8% (7.1% better to 22.5% better) or 1.48 points on a zero to 10 scale
+• People who had sham treatment rated pain on motion as 4.39 points.
+• People who had kinesio taping rated pain on motion as 2.91 points.
+Active range of motion (AROM) (shoulder abduction) without pain (measured in degrees 0–180): 
+improved by 5.7% (8.9% worse to 20.3% better) or 10.23 degrees more
+• Free of pain AROM was 174.2 degrees in people with sham treatment.
+• Free of pain AROM was 184.43 degrees in people with kinesio taping.
+Global assessment of treatment success: 
+no studies reported the outcome.
+Quality of life: 
+one study reported data disaggregated in subscales.
+Adverse events: 
+no reliable estimates for adverse events (4 studies) could be provided due to heterogeneous description of events. 
+Comparison 2. Kinesio taping versus conservative treatment  
+Overall pain (lower scores mean less pain): 
+improved by 4.4% (4.6% worse to 13% better) or 0.44 points on a zero to 10 scale
+• People who had conservative treatment rated pain as 0.9 points.
+• People who had kinesio taping rated pain as 0.46 points.
+Function (0 to 100; lower scores mean better function): 
+improved by 13 % (2% better to 24% better) or 13.13 points on a zero to 100 scale
+• People who had conservative treatment rated function as 46.6 points.
+• People who had kinesio taping rated function 33.47 as points.
+Pain on motion (scale 0 to 10; lower scores mean less pain): 
+improved by 0.6% (7% worse to 8% better) or 0.06 points on a zero to 10 scale
+• People who had conservative treatment rated pain on motion as 4 points.
+• People who had kinesio taping rated pain on motion as 3.94 points.
+Active range of motion (AROM) (shoulder abduction) without pain (measured in degrees 0–180): 
+improved by 3% (11% worse to 17% better) or 3.04 degrees more on a scale 0–180°
+• Free of pain AROM was 156.6 degrees in people with conservative treatment. 
+• Free of pain AROM was 159.64 degrees in people with kinesio taping. 
+Global assessment of treatment success: 
+no studies reported the outcome.
+Quality of life (12‐item Short Form Survey‐, higher scores mean better quality): 
+improved by 18.7% (14.48% better to 22.92% better) or 18.7 points
+• People who had conservative treatment rated quality of life as 37.94 points.
+• People who had kinesio taping rated quality of life as 56.64 points.
+Adverse events: 
+No reliable estimates for adverse events (7 studies) could be provided due to heterogeneous description of events. 
+Quality of evidence 
+Based on overall very low‐quality evidence, KT for rotator cuff disease has uncertain effects on pain, function, pain on motion and active range of motion when compared to sham taping or other conservative treatment. Low‐certainty evidence shows that kinesio taping may improve quality of life when compared to conservative treatment. Evidence on adverse events was scarce and uncertain due to low event rates, thus, we could not obtain a reliable estimate of the risk of these events from the trials in this review. 

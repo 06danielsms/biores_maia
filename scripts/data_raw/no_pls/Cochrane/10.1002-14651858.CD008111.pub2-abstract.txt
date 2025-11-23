@@ -1,0 +1,15 @@
+Background
+Treatments currently used for patients with myasthenia gravis (MG) include steroids, non‐steroid immune suppressive agents, plasma exchange, intravenous immunoglobulin and thymectomy. Data from randomized controlled trials (RCTs) support the use of some of these therapeutic modalities and the evidence for non‐surgical therapies are the subject of other Cochrane reviews. Significant uncertainty and variation persist in clinical practice regarding the potential role of thymectomy in the treatment of people with MG. 
+Objectives
+To assess the efficacy and safety of thymectomy in the management of people with non‐thymomatous MG. 
+Search methods
+On 31 March 2013, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL (2013, Issue 3), MEDLINE (January 1966 to March 2013), EMBASE (January 1980 to March 2013) and LILACS (January 1992 to March 2013) for RCTs. Two authors (RS and GC) read all retrieved abstracts and reviewed the full texts of potentially relevant articles. These two authors checked references of all manuscripts identified in the review to identify additional articles that were of relevance and contacted experts in the field to identify additional published and unpublished data. Where necessary, authors were contacted for further information. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials of thymectomy against no treatment or any medical treatment, and thymectomy plus medical treatment against medical treatment alone, in people with non‐thymomatous MG. 
+We did not use measured outcomes as criteria for study selection.
+Data collection and analysis
+We planned that two authors would independently extract data onto a specially designed data extraction form and assess risk of bias; however, there were no included studies in the review. We would have identified any adverse effects of thymectomy from the included trials. 
+Main results
+We did not identify any RCTs testing the efficacy of thymectomy in the treatment of MG. In the absence of data from RCTs, we were unable to do any further analysis. 
+Authors' conclusions
+There is no randomized controlled trial literature that allows meaningful conclusions about the efficacy of thymectomy on MG. Data from several class III observational studies suggest that thymectomy could be beneficial in MG. An RCT is needed to elucidate if thymectomy is useful, and to what extent, in MG. 

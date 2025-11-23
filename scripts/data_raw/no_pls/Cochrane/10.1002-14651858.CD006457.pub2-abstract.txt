@@ -1,0 +1,14 @@
+Background
+Restless legs syndrome (RLS) is a common movement disorder for which patients may seek treatment with acupuncture. However, the benefits of acupuncture in the treatment of RLS are unclear and have not been evaluated in a systematic review until now. 
+Objectives
+To evaluate the efficacy and safety of acupuncture therapy in patients with RLS.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2007), MEDLINE (January 1950 to February 2007), EMBASE (January 1980 to 2007 Week 8), Chinese Biomedical Database (CBM) (1978 to February 2007), China National Knowledge Infrastructure (CNKI) (1979 to February 2007), VIP Database (1989 to February 2007), Japana Centra Revuo Medicina (1983 to 2007) and Korean Medical Database (1986 to 2007). Four Chinese journals, relevant academic conference proceedings and reference lists of articles were handsearched. 
+Selection criteria
+Randomized controlled trials and quasi‐randomized trials comparing acupuncture with no intervention, placebo acupuncture, sham acupuncture, pharmacological treatments, or other non‐acupuncture interventions for primary RLS were included. Trials comparing acupuncture plus non‐acupuncture treatment with the same non‐acupuncture treatment were also included. Trials that only compared different forms of acupuncture or different acupoints were excluded. 
+Data collection and analysis
+Two authors independently identified potential articles, assessed methodological quality and extracted data. Relative risk (RR) was used for binary outcomes and weighted mean difference for continuous variables. Results were combined only in the absence of clinical heterogeneity. 
+Main results
+Fourteen potentially relevant trials were identified initially, but twelve of them did not meet the selection criteria and were excluded. Only two trials with 170 patients met the inclusion criteria. No data could be combined due to clinical heterogeneity between trials. Both trials had methodological and/or reporting shortcomings. No significant difference was detected in remission of overall symptoms between acupuncture and medications in one trial (RR 0.97, 95% CI 0.76 to 1.24). Another trial found that dermal needle therapy used in combination with medications and massage was more effective than medications and massage alone, in terms of remission of unpleasant sensations in the legs (RR 1.36, 95% CI 1.06 to 1.75; WMD ‐0.61, 95% CI ‐0.96 to ‐0.26) and reduction of RLS frequency (WMD ‐3.44, 95% CI ‐5.15 to ‐1.73). However, there was no significant difference for the reduction in either the longest or the shortest duration of RLS (WMD ‐2.58, 95% CI ‐5.92 to 0.76; WMD ‐0.38, 95% CI ‐1.08 to 0.32). 
+Authors' conclusions
+There is insufficient evidence to determine whether acupuncture is an efficacious and safe treatment for RLS. Further well‐designed, large‐scale clinical trials are needed. 

@@ -1,0 +1,11 @@
+PCSK9 inhibitors for prevention of cardiovascular disease
+Research question 
+What is the effectiveness and safety of PCSK9 inhibitors for cardiovascular disease (CVD) prevention? 
+Background 
+Despite the availability of effective medicines (such as statins (which works by blocking a substance your body needs to make cholesterol) or ezetimibe (which stops your body taking in cholesterol from food), or both) that reduce low‐density lipoprotein (LDL) cholesterol (LDL‐C) (sometimes called 'bad' cholesterol), CVD remains an important cause of death and illness. Additional LDL‐C reduction may be needed, especially for people who are unresponsive to, or are unable to use, existing LDL‐C‐reducing therapies. Medicines called PCSK9 inhibitors are another way of lowering LDL‐C and CVD risk. 
+Study characteristics 
+Review authors identified 23 studies that evaluated the effects of the PCSK9 inhibitors, alirocumab and evolocumab, in people at high risk of CVD. Studies were conducted in outpatient clinics. Review authors identified the studies included in this review through electronic literature searches conducted up to December 2019. This is an update of the review first published in 2017. 
+Key results 
+Both alirocumab and evolocumab decreased the risk of CVD when added to other LDL‐C‐lowering medicines (e.g. statins or ezetimibe). Alirocumab additionally showed a decrease in death from any cause; with insufficient evidence for evolocumab. Limited data, often of lower quality, was available comparing these PCSK9 inhibitors against other LDL‐C‐lowering drugs. Differences in risk between people treated with and without PCSK9 inhibitors suggest the absolute treatment benefit will likely be modest (e.g. less than 1% change in risk). 
+Quality of evidence 
+We found high‐quality evidence when adding PCSK9 inhibitors to existing LDL‐C‐lowering treatments and low‐ to very low‐quality evidence when replacing existing LDL‐C‐reducing medicines with PCSK9 inhibitors. 

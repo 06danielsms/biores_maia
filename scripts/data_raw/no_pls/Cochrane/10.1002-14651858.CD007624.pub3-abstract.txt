@@ -1,0 +1,15 @@
+Background
+Social and psychological factors such as fear of falling, self‐efficacy and coping strategies are thought to be important in the recovery from hip fracture in older people. 
+Objectives
+To evaluate the effects of interventions aimed at improving physical and psychosocial functioning after hip fracture. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (September 2009), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2008, Issue 4), MEDLINE and EMBASE (to December 2008), other databases and reference lists of related articles. 
+Selection criteria
+Randomised and quasi‐randomised trials of rehabilitation interventions applied in inpatient or ambulatory settings to improve physical or psychosocial functioning in older adults with hip fracture. Primary outcomes were physical and psychosocial function and 'poor outcome' (composite of mortality, failure to return to independent living and/or readmission). 
+Data collection and analysis
+Two authors independently selected trials based on pre‐defined inclusion criteria, extracted data and assessed risk of bias. Disagreements were moderated by a third author. 
+Main results
+Nine small heterogeneous trials (involving 1400 participants) were included. The trials had differing interventions, including 'usual care' comparators, providers, settings and outcome assessment. Although most trials appeared well conducted, poor reporting hindered assessment of their risk of bias. 
+Three trials testing interventions (reorientation measures, intensive occupational therapy, cognitive behavioural therapy) delivered in inpatient settings found no significant differences in outcomes. Two trials tested specialist‐nurse led care, which was predominantly post‐discharge but included discharge planning in one trial: this trial found some benefits at three months but the other trial found no differences at 12 months. Coaching (educational and motivational interventions) was examined in two very different trials: one trial found no effect on function at six months; and the other showed coaching improved self‐efficacy expectations at six months, although not when combined with exercise. Two trials testing interventions (home rehabilitation; group learning program) started several weeks after hip fracture found no significant differences in outcomes at 12 months. 
+Authors' conclusions
+Some outcomes may be amenable to psychosocial treatments; however, there is insufficient evidence to recommend practice changes. Further research on interventions described in this review is required, including attention to timing, duration, setting and administering discipline(s), as well as treatment across care settings. To facilitate future evaluations, a core outcome set, including patient‐reported outcomes such as quality of life and compliance, should be established for hip fracture trials. 

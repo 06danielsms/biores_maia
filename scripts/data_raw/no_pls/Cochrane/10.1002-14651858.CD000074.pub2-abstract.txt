@@ -1,0 +1,15 @@
+Background
+Recurrent apnea is common in preterm infants, particularly at very early gestational ages. Apnea can lead to hypoxemia and bradycardia, which may be severe enough to require resuscitation including use of positive pressure ventilation. Doxapram has been used to stimulate breathing and thereby prevent apnea and its consequences. 
+Objectives
+To evaluate the effect of doxapram treatment on apnea and the use of intermittent positive airways pressure (IPPV) in preterm infants with recurrent apnea. 
+Search methods
+We searched the Oxford Database of Perinatal Trials, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2009), MEDLINE from 1966 to April 2009, EMBASE from 1980 to April 2009, CINAHL from 1982 to April 2009. We used the text words 'doxapram', 'apnea or apnoea' and the MeSH term 'infant, premature'. Previous reviews including cross references, abstracts from conferences and symposia proceedings were also examined. Abstracts of the Society for Pediatric Research were searched from 1996 to 2008 inclusive. 
+Selection criteria
+We included all trials utilising random or quasi‐random patient allocation in which doxapram was used for the treatment of apnea in preterm infants. 
+Data collection and analysis
+Each review author evaluated the papers for quality and inclusion criteria and extracted data independently. 
+Main results
+We found only one trial, which randomized 11 infants to intravenous doxapram and 10 infants to placebo. There were fewer treatment failures after 48 hours in the group of preterm infants treated with doxapram (4/11) compared with the group treated with placebo (8/10). The wide confidence intervals made this result non‐significant [summary relative risk 0.45 (0.20 to 1.05)]. Only one infant, who was from the placebo group, was given IPPV. 
+Of the seven responders by 48 hours in the group of 11 who received doxapram, five failed to respond between 48 hours and seven days after commencement of therapy. This gives a late failure rate of 9/11, similar to the short‐term failure rate in the placebo group of 8/10. It is not possible to evaluate the late responses of all those in the placebo group since they crossed over to a treatment arm. 
+Authors' conclusions
+Although intravenous doxapram might reduce apnea within the first 48 hours of treatment, there are insufficient data to evaluate the precision of this result or to assess potential adverse effects. No long‐term outcomes have been measured. Further studies are needed to determine the role of this treatment in clinical practice. 

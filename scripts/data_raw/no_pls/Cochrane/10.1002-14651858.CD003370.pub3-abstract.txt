@@ -1,0 +1,15 @@
+Background
+Endocrine therapy removes the influence of oestrogen on breast cancer cells and so hormonal treatments such as tamoxifen, megestrol acetate and medroxyprogesterone acetate have been in use for many years for advanced breast cancer. Aromatase inhibitors (AIs) inhibit oestrogen synthesis in the peripheral tissues and have a similar tumour‐regressing effect to other endocrine treatments. Aminoglutethimide was the first AI in clinical use and now the third generation AIs, anastrozole, exemestane and letrozole, are in current use. Randomised trial evidence on response rates and side effects of these drugs is still limited. 
+Objectives
+To compare AIs to other endocrine therapy in the treatment of advanced breast cancer in postmenopausal women. 
+Search methods
+For this update, the Cochrane Breast Cancer Group Specialised Register and the Cochrane Central Register of Controlled Trials (CENTRAL) and relevant conference proceedings were searched (to 30 June 2008). 
+Selection criteria
+Randomised controlled trials in postmenopausal women comparing the effects of any AI versus other endocrine therapy, no endocrine therapy, or a different AI in the treatment of advanced (metastatic) breast cancer. Non‐English language publications, comparisons of the same AI at different doses, AIs used as neoadjuvant treatment, or outcomes not related to tumour response were excluded. 
+Data collection and analysis
+Data from published trials were extracted independently by two review authors and cross‐checked by a third. Hazard ratios (HR) were derived for analysis of time‐to‐event outcomes (overall and progression‐free survival). Odds ratios (OR) were derived for objective response, clinical benefit, and toxicity. 
+Main results
+Thirty‐seven trials were identified, 31 of which were included in the main analysis of any AI versus any other treatment (11,403 women). No trials were excluded due to inadequate allocation concealment. The pooled estimate showed a significant survival benefit for treatment with an AI over other endocrine therapies (HR 0.90, 95% CI 0.84 to 0.97). A subgroup analysis of the three commonly prescribed AIs (anastrozole, exemestane, letrozole) also showed a similar survival benefit (HR 0.88, 95% CI 0.80 to 0.96). There were very limited data to compare one AI with a different AI, but these suggested an advantage for letrozole over anastrozole. 
+AIs have a different toxicity profile to other endocrine therapies. For those currently prescribed, and for all AIs combined, they had similar levels of hot flushes and arthralgia; increased risks of rash, nausea, diarrhoea and vomiting; but a 71% decreased risk of vaginal bleeding and 47% decrease in thromboembolic events compared with other endocrine therapies. 
+Authors' conclusions
+In women with advanced (metastatic) breast cancer, aromatase inhibitors including those in current clinical use show a survival benefit when compared to other endocrine therapy. 

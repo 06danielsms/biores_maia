@@ -1,0 +1,14 @@
+Background
+AIDS dementia complex is a common complication of human immunodeficiency virus type 1 (HIV‐1) that continues to exist despite the current use of potent antiretroviral therapy. It is a source of great morbidity and, when severe, is associated with limited survival. 
+Objectives
+To determine efficacy and safety of adjunctive therapies for AIDS dementia complex
+Search methods
+We searched the Cochrane HIV/AIDS group trials Specialized Register (December 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2007), MEDLINE (January 1980 to February 2007), EMBASE (January 1980 to February 2007), AIDSearch (January 1980 to February 2007), PsycINFO (January 1980 to February 2007), PSYCHLIT (January 1980 to February 2007), LILACS (January 1980 to February 2007), conference proceedings, trial registers, theses databases, and reference lists of the articles. We also contacted manufacturers and researchers in the field. 
+Selection criteria
+Randomized controlled trials, either published or published, that compared one type of adjunctive therapy to no therapy or placebo in adults with AIDS dementia complex 
+Data collection and analysis
+Two authors independently assessed trials quality, extracted data and entered data into RevMan 4.2 software. Where possible intention‐to‐treat data were used and we contacted study authors for additional information. We collected neurocognitive performance, adverse effects, tolerability and all‐cause mortality information from the trials. 
+Main results
+Ten trials involving 711 people were included. All the studies were phase 2 trials. Six studies used adequate methods for allocation of sequence generation and unclear in the remaining four trials. Allocation concealment was adequate in five trials and unclear in the remaining trials. The trials were heterogeneous in terms of types, dosages, routes and frequencies of administration of the adjunctive therapies. There were no significant differences between the treated and placebo groups on neuropsychological test scores, number of those that complete the assign dosage of experimental medication, adverse effects, and all‐cause mortality. 
+Authors' conclusions
+This review confirms the absence of evidence that any of the adjunctive therapies improves cognitive performance or quality of life, or both for patients with ADC, though they were well tolerated and safe. 

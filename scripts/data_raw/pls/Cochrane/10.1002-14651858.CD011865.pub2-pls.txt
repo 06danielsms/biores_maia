@@ -1,0 +1,22 @@
+Payment methods for healthcare providers in outpatient healthcare settings
+What is the aim of this review? 
+The aim of this Cochrane Review was to assess the effect of different payment methods for healthcare providers working in outpatient healthcare settings. The review authors collected and analysed all relevant studies to answer this question and found 27 studies. 
+Key messages 
+This review suggests that different payment methods can affect healthcare provider behaviour in both positive and negative ways. For instance, whilst healthcare providers may be encouraged to provide more of specific services, they may also be encouraged to provide unnecessary services. Considerable gaps remain in the understanding of how payment of healthcare providers affects healthcare services, healthcare providers’ work morale and workload, and patient health. 
+What was studied in the review? 
+Healthcare providers may be paid in different ways. Different payment methods can encourage healthcare providers to give patients the treatment they need in the best and most cost‐efficient way, but they can also encourage healthcare providers to offer poor‐quality, expensive, and unnecessary care, and to avoid certain treatments or certain types of patients. Different payment methods can also influence healthcare providers’ work morale and workload. And they can cost more or less for the healthcare system. 
+The review authors searched for studies on the effects of different payment methods for healthcare providers working in outpatient care. Outpatient care is where patients get health care from healthcare providers outside of hospitals and where there is no need for a bed. Healthcare centres, family planning centres, and dental clinics are all examples of outpatient facilities. 
+The payment methods the review authors were interested in were as follows.
+‐ Pay‐for‐performance: healthcare providers are paid for carrying out certain tasks or reaching certain targets. 
+‐ Fee‐for‐service: healthcare providers are paid for each service they provide to the patient. 
+‐ Salary: healthcare providers are paid based on the time they spend at work.
+‐ Capitation: healthcare providers are paid according to how many patients they have.
+‐ A mix of these different approaches.
+What are the main results of the review? 
+The review authors found 27 relevant studies. Most of the studies looked at primary healthcare doctors in high‐income countries. 
+When pay‐for‐performance plus other payment methods (including capitation, salary, and fee‐for‐service) is compared to other payment methods: healthcare providers probably provide more of certain services, including immunisations. They may also provide better‐quality care, including how some medicines are used, but these improvements may be reduced when the pay‐for‐performance payments end. Effects on patient health may be mixed. We are uncertain about the effect on healthcare providers’ work morale or workload, or on cost, because the evidence is missing or of very low certainty. 
+When fee‐for‐service methods are compared to other payment methods (such as capitation or salary): healthcare providers paid by fee‐for‐service may provide more unnecessary services than those paid by salary. We are uncertain about the effect on the quality or quantity of care, patient health, healthcare providers’ work morale or workload, or cost because the evidence is missing or of very low certainty. 
+When fee‐for‐service mixed with other payment methods (including fee‐for‐service plus capitation and fee‐for‐service plus salary) are compared to other payment methods: healthcare providers may provide more of specific services. We are uncertain about the effect on the quality of care, patient health, healthcare providers’ work morale or workload, cost, or unintended effects because the evidence is missing or of very low certainty. 
+When fee‐for‐service methods using a higher fee are compared to fee‐for‐service methods using a lower fee: healthcare providers probably provide more of certain services, including immunisations. We are uncertain if the higher fee has an impact on cost because the evidence is of very low certainty. We are uncertain about the effect on the quality of care, patient health, healthcare providers’ work morale or workload, or unintended effects because the evidence is missing. 
+How up‐to‐date is this review? 
+The review authors searched for studies that had been published up to 5 March 2019.

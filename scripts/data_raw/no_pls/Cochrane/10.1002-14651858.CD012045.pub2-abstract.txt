@@ -1,0 +1,17 @@
+Background
+Partial nephrectomy and radical nephrectomy are the relevant surgical therapy options for localised renal cell carcinoma. However, debate regarding the effects of these surgical approaches continues and it is important to identify and summarise high‐quality studies to make surgical treatment recommendations. 
+Objectives
+To assess the effects of partial nephrectomy compared with radical nephrectomy for clinically localised renal cell carcinoma. 
+Search methods
+We searched CENTRAL, MEDLINE, PubMed, Embase, Web of Science, BIOSIS, LILACS, Scopus, two trial registries and abstracts from three major conferences to 24 February 2017, together with reference lists; and contacted selected experts in the field. 
+Selection criteria
+We included a randomised controlled trial comparing partial and radical nephrectomy for participants with small renal masses. 
+Data collection and analysis
+One review author screened all of the titles and abstracts; only citations that were clearly irrelevant were excluded at this stage. Next, two review authors independently assessed full‐text reports, identified relevant studies, evaluated the eligibility of the studies for inclusion, assessed trial quality and extracted data. The update of the literature search was performed by two independent review authors. We used Review Manager 5 for data synthesis and data analyses. 
+Main results
+We identified one randomised controlled trial including 541 participants that compared partial nephrectomy to radical nephrectomy. The median follow‐up was 9.3 years. 
+Based on low quality evidence, we found that time‐to‐death of any cause was decreased using partial nephrectomy (HR 1.50, 95% CI 1.03 to 2.18). This corresponds to 79 more deaths (5 more to 173 more) per 1000. Also based on low quality evidence, we found no difference in serious adverse events (RR 2.04, 95% CI 0.19 to 22.34). Findings are consistent with 4 more surgery‐related deaths (3 fewer to 78 more) per 1000. 
+Based on low quality evidence, we found no difference in time‐to‐recurrence (HR 1.37, 95% CI 0.58 to 3.24). This corresponds to 12 more recurrences (14 fewer to 70 more) per 1000. Due to the nature of reporting, we were unable to analyse overall rates for immediate and long‐term adverse events. We found no evidence on haemodialysis or quality of life. 
+Reasons for downgrading related to study limitations (lack of blinding, cross‐over), imprecision and indirectness (a substantial proportion of patients were ultimately found not to have a malignant tumour). Based on the finding of a single trial, we were unable to conduct any subgroup or sensitivity analyses. 
+Authors' conclusions
+Partial nephrectomy may be associated with a decreased time‐to‐death of any cause. With regards to surgery‐related mortality, cancer‐specific survival and time‐to‐recurrence, partial nephrectomy appears to result in little to no difference. 

@@ -1,0 +1,27 @@
+Xpert tests for active tuberculosis in children
+Why is improving the diagnosis of pulmonary tuberculosis important? 
+In 2018, at least one million children became ill with tuberculosis and around 200,000 died. When detected early and effectively treated, tuberculosis is largely curable. Xpert MTB/RIF and Xpert Ultra are World Health Organization‐recommended tests that simultaneously detect tuberculosis and rifampicin resistance in adults and children with tuberculosis symptoms. Rifampicin is an important anti‐tuberculosis drug. Not recognizing tuberculosis early may result in delayed diagnosis and treatment, severe illness, and death. A false tuberculosis diagnosis may result in anxiety and unnecessary treatment. 
+What is the aim of this review? 
+To determine the accuracy of tests in symptomatic children for diagnosing pulmonary tuberculosis, tuberculous meningitis, lymph node tuberculosis, and rifampicin resistance. 
+What was studied in this review? 
+Xpert MTB/RIF and Xpert Ultra, with results measured against culture and a composite reference standard (benchmarks), recognizing that neither reference is perfect in children. 
+What are the main results in this review? 
+A total of 49 studies were included. For pulmonary tuberculosis, we analysed 299 data sets including information describing nearly 70,000 children. 
+For a population of 1000 children:
+Xpert MTB/RIF 
+‐ where 100 have pulmonary tuberculosis in sputum (by culture), 74 would be Xpert MTB/RIF‐positive, of whom 9 (12%) would not have tuberculosis (false‐positives); 926 would be Xpert MTB/RIF‐negative; and 35 (4%) would have tuberculosis (false‐negatives) 
+‐ where 100 have tuberculous meningitis (by culture), 86 would be Xpert MTB/RIF‐positive, of whom 59 (69%) would not have tuberculosis (false‐positives); 914 would be Xpert MTB/RIF‐negative; and 23 (3%) would have tuberculosis (false‐negatives) 
+‐ where 100 people have lymph node tuberculosis (by culture), 142 would be Xpert MTB/RIF‐positive, of whom 97 (68%) would not have lymph node tuberculosis (false‐positives); 858 would be Xpert MTB/RIF‐negative; and 5 (1%) would have lymph node TB (false‐negatives) 
+‐ where 100 have rifampicin resistance, 108 would have Xpert MTB/RIF‐rifampicin resistance detected, of whom 18 (17%) would not have rifampicin resistance (false‐positives); 892 would have Xpert MTB/RIF‐rifampicin resistance NOT detected; and 10 (1%) would have rifampicin resistance (false‐negatives) 
+Xpert Ultra 
+‐ where 100 have pulmonary tuberculosis in sputum (by culture), 100 would be Xpert Ultra‐positive, of whom 27 (27%) would not have tuberculosis (false‐positives); 900 would be Xpert Ultra‐negative; and 27 (3%) would have tuberculosis (false‐negatives) 
+How confident are we in the results of this review? 
+We are confident. We included many studies from different countries and settings and used two reference standards. Some studies included only children at referral centres or did not report the setting. Therefore, we could not assess how the tests would work in a primary care setting. 
+What children do the results of this review apply to? 
+Children with presumed pulmonary tuberculosis, tuberculous meningitis, lymph node tuberculosis, or rifampicin resistance. 
+What are the implications of this review? 
+The results of the review suggest Xpert tests have the potential to be used to detect tuberculosis and rifampicin resistance. 
+‐ The risk of missing a diagnosis of pulmonary tuberculosis confirmed by culture with Xpert MTB/RIF (in sputum) is low (4% of those whose Xpert MTB/RIF suggests they do not have tuberculosis) suggesting that only a small number of children with tuberculosis confirmed by culture will not receive treatment. The risk of wrongly diagnosing a child as having tuberculosis is slightly higher (12% of those whose Xpert MTB/RIF test suggests they do have tuberculosis). This may result in some of these children receiving unnecessary treatment. 
+‐ The risk of missing a diagnosis of rifampicin resistance with Xpert MTB/RIF is low (1% of those whose Xpert MTB/RIF suggests they do not have rifampicin resistance) suggesting that only a small number of children with tuberculosis will not receive the appropriate treatment. The risk of wrongly diagnosing a child as rifampicin resistance tuberculosis is higher (17% of those whose Xpert MTB/RIF test suggests they do have rifampicin resistance). This may result in some of these children receiving unnecessary treatment. 
+How up‐to‐date is this review? 
+To 29 April 2019.

@@ -1,0 +1,14 @@
+Background
+Low vision affects over 300 million people worldwide and can compromise both activities of daily living and quality of life. Rehabilitative training and vision assistive equipment (VAE) may help, but some visually impaired people have limited resources to attend in‐person visits at rehabilitation clinics to receive training to learn to use VAE. These people may be able to overcome barriers to care through remote, Internet‐based consultation (i.e. telerehabilitation). 
+Objectives
+To compare the effects of telerehabilitation with face‐to‐face (e.g. in‐office or inpatient) vision rehabilitation services for improving vision‐related quality of life and near reading ability in people with visual function loss due to any ocular condition. Secondary objectives were to evaluate compliance with scheduled rehabilitation sessions, abandonment rates for VAE devices, and patient satisfaction ratings. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2019, Issue 6); Ovid MEDLINE; Embase.com; PubMed; ClinicalTrials.gov, and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any language restriction or study design filter in the electronic searches; however, we restricted the searches from 1980 onwards because the Internet was not introduced to the public until 1982. We last searched the electronic databases on 24 June 2019. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) or controlled clinical trials (CCTs) in which participants diagnosed with low vision were undergoing low vision rehabilitation using an Internet, web‐based technology compared with an approach involving in‐person consultations. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts and then full‐text articles against the eligibility criteria. We planned to have two review authors independently abstract data from the included studies. Any discrepancies were resolved by discussion. 
+Main results
+We identified two ongoing studies, but did not find any completed RCTs and CCTs that met the inclusion criteria for this review. We did not conduct a quantitative analysis. We discussed review articles on telemedicine for facilitating communication with elderly individuals or for providing remote ophthalmological care. 
+Authors' conclusions
+We did not find any evidence from RCTs or CCTs on the efficacy of using telerehabilitation for remote delivery of rehabilitation services to individuals with low vision. Given the disease burden and the growing interest in telemedicine, the two ongoing studies, when completed, may provide evidence in understanding the potential for telerehabilitation as a platform for providing services to people with low vision. 

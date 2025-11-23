@@ -1,0 +1,14 @@
+Background
+Leg ulcers affect up to one percent of people at some time in their life. Leg ulceration is chronic in nature and ulcers may be present for months or even years without healing. After healing there is a high risk of recurrence. Treatments include wound dressings alongside the treatment of underlying medical problems such as poor blood supply, infection and poor nutrition. 
+Objectives
+To assess the effectiveness of oral zinc in healing arterial or venous leg ulcers.
+Search methods
+For this seventh update we searched The Cochrane Wounds Group Specialised Register (searched 02 September 2014) and The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 8). In the original version of the review a company manufacturing zinc sulphate tablets was asked for references to relevant trials. 
+Selection criteria
+Randomised controlled trials comparing oral zinc sulphate with placebo or no treatment in people with arterial or venous leg ulcers were eligible for inclusion. There were no restrictions on date or language of publication. The main outcome measure used was complete healing of the ulcers. Trials were eligible for inclusion if they measured ulcer healing objectively by documenting time to complete healing, proportion of ulcers healed during the study, or healing rates of ulcers. 
+Data collection and analysis
+All data extraction and assessment of trial quality was done by both authors independently.
+Main results
+Six small trials (183 participants) were eligible for inclusion. Four trials considered people with venous ulcers, one trial involved people with arterial ulcers and one people with mixed aetiology ulcers. Serum zinc was measured in four trials and four trials compared oral zinc sulphate with placebo in people with venous ulcers; pooling these trials indicated no statistically significant difference between the two groups for healing (RR 1.22, 95%CI 0.88 to 1.68). Overall, there is no evidence that oral zinc increases the healing of arterial or venous leg ulcers. 
+Authors' conclusions
+Oral zinc sulphate does not appear to aid the healing of arterial and venous leg ulcers, however all included studies were small and at unclear risk of bias (due to poor reporting). 

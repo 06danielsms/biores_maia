@@ -1,0 +1,14 @@
+Background
+Diabetes has long been recognised as a strong, independent risk factor for cardiovascular disease, a problem which accounts for approximately 70% of all mortality in people with diabetes. Prospective studies show that compared to their non‐diabetic counterparts, the relative risk of cardiovascular mortality for men with diabetes is two to three and for women with diabetes is three to four. The two biggest trials in type 2 diabetes, the United Kingdom Prospective Diabetes Study (UKPDS) and the University Group Diabetes Program (UGDP) study did not reveal a reduction of cardiovascular endpoints through improved metabolic control. Theoretical benefits of the peroxisome proliferator activated receptor gamma (PPAR‐gamma) activator rosiglitazone on endothelial function and cardiovascular risk factors might result in fewer macrovascular disease events in people with type 2 diabetes mellitus. 
+Objectives
+To assess the effects of rosiglitazone in the treatment of type 2 diabetes.
+Search methods
+Studies were obtained from computerised searches of MEDLINE, EMBASE and The Cochrane Library. 
+Selection criteria
+Studies were included if they were randomised controlled trials in adult people with type 2 diabetes mellitus and had a trial duration of at least 24 weeks. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Pooling of studies by means of fixed‐effects meta‐analysis could be performed for adverse events only. 
+Main results
+Eighteen trials which randomised 3888 people to rosiglitazone treatment were identified. Longest duration of therapy was four years with a median of 26 weeks. Published studies of at least 24 weeks rosiglitazone treatment in people with type 2 diabetes mellitus did not provide evidence that patient‐oriented outcomes like mortality, morbidity, adverse effects, costs and health‐related quality of life are positively influenced by this compound. Metabolic control measured by glycosylated haemoglobin A1c (HbA1c) as a surrogate endpoint did not demonstrate clinically relevant differences to other oral antidiabetic drugs. Occurrence of oedema was significantly raised (OR 2.27, 95% confidence interval (CI) 1.83 to 2.81). The single large RCT (ADOPT ‐ A Diabetes Outcomes Progression Trial) indicated increased cardiovascular risk. New data on raised fracture rates in women reveal extensive action of rosiglitazone in various body tissues. 
+Authors' conclusions
+New studies should focus on patient‐oriented outcomes to clarify the benefit‐risk ratio of rosiglitazone therapy. Safety data and adverse events of all investigations (published and unpublished) should be made available to the public. 

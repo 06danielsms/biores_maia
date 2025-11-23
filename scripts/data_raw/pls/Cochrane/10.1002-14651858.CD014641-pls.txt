@@ -1,0 +1,20 @@
+Impact of diagnostic strategies for tuberculosis using lateral flow urine lipoarabinomannan test in people living with HIV 
+What was the aim of this review? 
+Tuberculosis is the leading cause of death in people living with HIV. The disease is particularly difficult to diagnose in people living with HIV, in part because it is often challenging to produce sputum for diagnosis. The lateral flow urine lipoarabinomannan test (LF‐LAM) is a World Health Organization (WHO)‐recommended rapid test to assist in the detection of active tuberculosis in people living with HIV. This review is limited to studies that used the Alere Determine TB LAM Ag test (AlereLAM), which is the only LF‐LAM test currently recommended by the WHO; thus LF‐LAM refers only to AlereLAM in this review. Rapid and early tuberculosis diagnosis may allow for prompt treatment and prevent severe illness and death. The aim of this review was to determine whether the use of LF‐LAM testing had an effect on death and other patient‐important outcomes in people living with HIV. 
+Key messages 
+In inpatient settings, the use of LF‐LAM as part of a tuberculosis diagnostic testing strategy likely reduces deaths and probably results in a slight increase in tuberculosis treatment initiation in people living with HIV.  
+In outpatient settings, the use of LF‐LAM testing as part of a tuberculosis diagnostic strategy may reduce deaths and may result in a large increase in tuberculosis treatment initiation in people living with HIV. 
+What was studied in the review? 
+We searched for trials in adults (15 years and older) that evaluated the effect of a tuberculosis diagnostic strategy that included the LF‐LAM test compared to standard care using other WHO‐recommended diagnostic tests in adults living with HIV. 
+What were the main results of the review? 
+We identified three trials, two in inpatient settings and one in outpatient settings.
+Inpatient settings 
+In inpatient settings, the use of LF‐LAM testing as part of a tuberculosis diagnostic strategy likely reduces mortality in people living with HIV at eight weeks compared to routine tuberculosis diagnostic testing without LF‐LAM (2 trials, 5102 participants, moderate‐certainty evidence). 
+In inpatient settings, the use of LF‐LAM testing as part of a tuberculosis diagnostic strategy probably results in a slight increase in the proportion of people living with HIV who were started on tuberculosis treatment compared to routine tuberculosis diagnostic testing without LF‐LAM (2 trials, 5102 participants moderate‐certainty evidence). 
+Outpatient settings 
+In outpatient settings, the use of LF‐LAM testing as part of a tuberculosis diagnostic strategy may reduce mortality in people living with HIV at six months compared to routine tuberculosis diagnostic testing without LF‐LAM (1 trial, 2972 participants, low‐certainty evidence). 
+In outpatient settings, the use of LF‐LAM testing as part of a tuberculosis diagnostic strategy may result in a large increase in the proportion of people living with HIV who were started on tuberculosis treatment compared to routine tuberculosis diagnostic testing without LF‐LAM (1 trial, 3022 participants, low‐certainty evidence). 
+Other patient‐important outcomes 
+The included studies assessed other patient‐important outcomes in different ways. The studies demonstrated that more people living with HIV were able to produce urine compared to sputum for tuberculosis diagnostic testing, and more people living with HIV were diagnosed with tuberculosis in the group that received LF‐LAM. 
+How up‐to‐date is the review? 
+We searched for relevant trials up to 12 March 2021.

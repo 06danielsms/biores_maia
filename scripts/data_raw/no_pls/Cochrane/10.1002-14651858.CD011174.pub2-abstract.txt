@@ -1,0 +1,35 @@
+Background
+Non‐tubal ectopic pregnancy is the implantation of an embryo at a site lying outside the uterine cavity or fallopian tubes. Sites include a caesarean scar, the cornua uteri, the ovary, the cervix, and the abdomen. There has been an increasing trend in the occurrence of these rare conditions, especially caesarean scar pregnancy (CSP). 
+Objectives
+To evaluate the clinical effectiveness and safety of surgery, medical treatment, and expectant management of non‐tubal ectopic pregnancy in terms of fertility outcomes and complications. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group Specialised Register of Controlled Trials, CENTRAL, MEDLINE, Embase, ClinicalTrials.gov, the World Health Organization (WHO) search portal and nine other databases to 12 December 2019. We handsearched reference lists of articles retrieved and contacted experts in the field to obtain additional data. 
+Selection criteria
+We included randomized controlled trials (RCTs) published in all languages that examined the effects and safety of surgery, medical treatment, and expectant management of non‐tubal ectopic pregnancy. 
+Data collection and analysis
+We used Cochrane standard methodological procedures. Primary outcomes were treatment success and complications. 
+Main results
+We included five RCTs with 303 women, all reporting Caesarean scar pregnancy. Two compared uterine arterial embolization (UAE) or uterine arterial chemoembolization (UACE) plus methotrexate (MTX) versus systemic MTX and subsequent dilation and suction curettage; one compared UACE plus MTX versus ultrasonography‐guided local MTX injection; and two compared suction curettage under hysteroscopy versus suction curettage under ultrasonography after UAE/UACE. 
+The quality of evidence ranged from moderate to very low. The main limitations were imprecision (small sample sizes and very wide confidence intervals (CI) for most analyses), multiple comparisons with a small number of trials, and insufficient data available to assess heterogeneity. 
+UAE/UACE versus systemic MTX prior to suction curettage 
+Two studies reported this comparison. One compared UAE with systemic MTX and one compared UACE plus MTX versus systemic MTX, in both cases followed by a suction curettage. 
+We are uncertain whether UAE/UACE improved success rates after initial treatment (UAE: risk ratio (RR) 1.00, 95% CI 0.90 to 1.12; 1 RCT, 72 women; low‐quality evidence; UACE: RR 0.87, 95% CI 0.54 to 1.38; 1 RCT, 28 women; low‐quality evidence). 
+We are uncertain whether UAE/UACE reduced rates of complications (UAE: RR 0.47, 95% CI 0.13 to 1.75; 1 RCT, 72 women; low‐quality evidence; UACE: RR 0.62, 95% CI 0.26 to 1.48; 1 RCT, 28 women; low‐quality evidence). 
+We are uncertain whether UAE/UACE reduced adverse effects (UAE: RR 1.58, 95% CI 0.41 to 6.11; 1 RCT, 72 women; low‐quality evidence; UACE: RR 1.16, 95% CI 0.32 to 4.24; 1 RCT, 28 women; low‐quality evidence), and it was not obvious that the types of events had similar values to participants (e.g. fever versus vomiting). 
+Blood loss was lower in UAE/UACE groups than systemic MTX groups (UAE: mean difference (MD) –378.70 mL, 95% CI –401.43 to –355.97; 1 RCT, 72 women; moderate‐quality evidence; UACE: MD –879.00 mL, 95% CI –1135.23 to ‐622.77; 1 RCT, 28 women; moderate‐quality evidence). 
+Data were not available on time to normalize β‐human chorionic gonadotropin (β‐hCG).
+UACE plus MTX versus ultrasonography‐guided local MTX injection 
+We are uncertain whether UACE improved success rates after initial treatment (RR 0.95, 95% CI 0.56 to 1.60; 1 RCT, 45 women; very low‐quality evidence). 
+Adverse effects: the study reported the same number of failed treatments in each arm (RR 0.88, 95% CI 0.40 to 1.92; 1 RCT, 45 women). 
+We are uncertain whether UACE shortened the time to normalize β‐hCG (MD 1.50 days, 95% CI –3.16 to 6.16; 1 RCT, 45 women; very low‐quality evidence). 
+Data were not available for complications.
+Suction curettage under hysteroscopy versus under ultrasonography after UAE/UACE. 
+Two studies reported this comparison. One compared suction curettage under hysteroscopy versus under ultrasonography after UAE, and one compared these interventions after UACE. 
+We are uncertain whether suction curettage under hysteroscopy improved success rates after initial treatment (UAE: RR 0.91, 95% CI 0.81 to 1.03; 1 RCT, 66 women; very low‐quality evidence; UACE: RR 1.02, 95% CI 0.96 to 1.09; 1 RCT, 92 women; low‐quality evidence). 
+We are uncertain whether suction curettage under hysteroscopy reduced rates of complications (UAE: RR 4.00, 95% CI 0.47 to 33.91; 1 RCT, 66 women; very low‐quality evidence; UACE: RR 0.18, 95% CI 0.01 to 3.72; 1 RCT, 92 women; low‐quality evidence). 
+We are uncertain whether suction curettage under hysteroscopy reduced adverse effects (UAE: RR 3.09, 95% CI 0.12 to 78.70; 1 RCT, 66 women; very low‐quality evidence; UACE: not estimable; 1 RCT, 92 women; very low‐quality evidence). 
+We are uncertain whether suction curettage under hysteroscopy shortened the time to normalize β‐hCG (UAE: MD 4.03 days, 95% CI –1.79 to 9.85; 1 RCT, 66 women; very low‐quality evidence; UACE: MD 0.84 days, 95% CI –1.90 to 3.58; 1 RCT, 92 women; low‐quality evidence). 
+Non‐tubal ectopic pregnancy other than CSP  
+No studies reported on non‐tubal ectopic pregnancies in locations other than on a caesarean scar. 
+Authors' conclusions
+For Caesarean scar pregnancies (CSP) it is uncertain whether there is a difference in success rates, complications, or adverse events between UAE/UACE and administration of systemic MTX before suction curettage (low‐quality evidence). Blood loss was lower if suction curettage is conducted after UAE/UACE than after administration of systemic MTX (moderate‐quality evidence). It is uncertain whether there is a difference in treatment success rates, complications, adverse effects or time to normalize β‐hCG between suction curettage under hysteroscopy and under ultrasonography (very low‐quality evidence). There are no studies of non‐tubal ectopic pregnancy other than CSP and RCTs for these types of pregnancy are unlikely. 

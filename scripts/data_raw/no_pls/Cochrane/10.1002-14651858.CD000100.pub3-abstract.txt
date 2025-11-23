@@ -1,0 +1,14 @@
+Background
+Hepatitis B virus (HBV) causes acute and chronic liver diseases. Hepatitis B vaccination is recommended for health‐care workers. 
+Objectives
+To assess the beneficial and harmful effects of hepatitis B vaccination in health‐care workers. 
+Search methods
+We searched the trial registers of The Cochrane Hepato‐Biliary Group, The Cochrane Library, MEDLINE, and EMBASE to February 2003. 
+Selection criteria
+Randomised trials comparing any dose, injection route, injection site, or schedule of hepatitis B plasma‐derived vaccines (PDV) or recombinant vaccines (RV) versus placebo, no intervention, or another hepatitis B vaccine in health‐care workers. 
+Data collection and analysis
+Two reviewers extracted the data independently. The reviewers assessed the methodological quality of the trials regarding generation of the allocation sequence, allocation concealment, double blinding, and follow‐up. The results were presented as relative risk (RR) with 95% confidence intervals (CI). 
+Main results
+We identified 21 randomised trials, all with one or more methodological weaknesses. Four trials demonstrated that PDV versus placebo significantly decreased hepatitis B events at maximum follow‐up (RR 0.51, 95% CI 0.35 to 0.73). RV did not differ significantly from PDV in eliciting a protective hepatitis B surface antibody (anti‐HBs) level in two trials. Both vaccines were well tolerated. Low‐dose vaccine (1 or 2 µg) by the intradermal route resulted in significantly more participants without protective anti‐HBs level compared with high‐dose (10 or 20 µg) by the intramuscular route (RR 1.41, 95% CI 1.13 to 1.76). The intradermal route caused significantly more local adverse events, while the intramuscular route caused significantly more systemic adverse events. The gluteal injection produced significantly more participants without protective anti‐HBs level than the deltoid injection. The prevalence of anti‐HBs seroconversion by rapid vaccination (0, 1, and 2 months) was significantly lower than that by standard vaccination (0, 1, and 6 months). Booster vaccinations with different RV doses (2.5, 5, 10, 20, or 40 µg) produced similar prevalence of anti‐HBs seroconversion in three trials assessing participants who did not respond to previous HBV vaccination. 
+Authors' conclusions
+PDV significantly prevents hepatitis B events. RV seems to be able to elicit similar protective anti‐HBs levels. The intramuscular route with 20 µg RV was significantly more effective compared with the intradermal route with 2 µg RV as was the standard schedule compared with a rapid schedule and deltoid intramuscular injection compared with the gluteal intramuscular injection. It is unclear if booster vaccination of non‐responders offers higher anti‐HBs seroconversion and hepatitis B vaccine prevents the infection of hepatitis B mutants in health‐care workers. 

@@ -1,0 +1,17 @@
+Treatment for tuberculosis infection of the membrane around the heart
+What is the issue? 
+Tuberculosis infection of the pericardium surrounding the heart is uncommon but life‐threatening.
+What is the aim of this review? 
+The aim of this Cochrane Review was to assess the effects of treatments for people with tuberculous pericarditis. 
+What is this important? 
+Doctors prescribe antituberculous drugs for six months, drain fluid from the pericardium if the patient has heart failure, and sometimes remove the pericardium if it is thick and making the patient ill and sometimes give corticosteroids to reduce the effects of the inflammation. 
+What are the main results of the review? 
+Cochrane researchers collected and examined all potentially relevant studies and found seven trials, all conducted in sub‐Saharan Africa. Six trials evaluated corticosteroids. Other treatments evaluated included Mycobacterium indicus pranii immunotherapy, colchicine, and surgical removal of fluid under general anaesthesia. This review is a new edition of the 2002 review. 
+In people not infected with HIV, six trials found that additional steroids may reduce deaths overall (low certainty evidence) and probably reduce deaths caused by pericarditis (moderate certainty evidence). Steroids may prevent reaccumulation of fluid in the pericardial space (low certainty evidence). However, we do not know whether or not corticosteroids have an effect on constriction or cancer among HIV‐negative people (very low certainty evidence). 
+In people living with HIV, most people evaluated in the included trials were not on antiretroviral drugs. For these patients, corticosteroids may reduce constrictive pericarditis (low certainty evidence), but we do not know if this translates into a reduction in the number of deaths or cancer (very low certainty evidence). Corticosteroids may have little or no effect on reaccumulation of fluid in the pericardial space (low certainty evidence). 
+Colchicine was evaluated in one trial of 33 people, with insufficient data to make any conclusions about an effect. 
+Based on one trial, it is uncertain whether adding M. indicus pranii immunotherapy to antituberculous drugs has an effect on any outcome in people with tuberculous pericarditis regardless of their HIV status (very low certainty evidence). 
+Open surgical drainage of the fluid accumulating between the heart and the membrane using general anaesthesia may be associated with less life‐threatening reaccumulation of fluid in people who are not infected with HIV, but conclusions are not possible as the number of participants studied was too small. We did not find an eligible trial that assessed the effects of open surgical drainage in people living with HIV. 
+The review authors found no eligible trials that examined the length of antituberculous treatment needed nor the effects of other adjunctive treatments for tuberculous pericarditis. 
+How up‐to‐date is this review? 
+The review authors searched for trials published up to 27 March 2017.

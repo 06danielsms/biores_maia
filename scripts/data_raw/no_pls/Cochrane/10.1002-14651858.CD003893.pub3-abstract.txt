@@ -1,0 +1,14 @@
+Background
+Hypertension is associated with an increased risk of stroke, myocardial infarction and congestive heart failure. Methyldopa is a centrally acting antihypertensive agent, which was commonly used in the 1970's and 80's for blood pressure control. Its use at present has largely been replaced by antihypertensive drug classes with less side effects, but it is still used in developing countries due to its low cost. A review of its relative effectiveness compared to placebo on surrogate and clinical outcomes is justified. 
+Objectives
+To quantify the effect of methyldopa compared to placebo in randomized controlled trials (RCTs) on all cause mortality, cardiovascular mortality, serious adverse events, myocardial infarctions, strokes, withdrawals due to adverse effects and blood pressure in patients with primary hypertension. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (1960‐June 2009), MEDLINE (2005‐June 2009), and EMBASE (2007‐June 2009). Bibliographic citations from retrieved studies were also reviewed. No language restrictions were applied. 
+Selection criteria
+We selected RCTs studying patients with primary hypertension. We excluded studies of patients with secondary hypertension or gestational hypertension. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality using the risk of bias tool. Data synthesis and analysis was performed using RevMan 5. Data for blood pressure were combined using the generic inverse variance method. 
+Main results
+Twelve trials (N=595) met the inclusion criteria for this review. None of these studies evaluated the effects of methyldopa compared to placebo on mortality and morbidity outcomes. Data for withdrawals due to adverse effects were not reported in a way that permitted meaningful meta‐analysis. Data from six of the twelve trials (N=231) were combined to evaluate the blood pressure lowering effects of methyldopa compared to placebo. This meta‐analysis shows that methyldopa at doses ranging from 500‐2250 mg daily lowers systolic and diastolic blood pressure by a mean of 13 (95%CI 6‐20) / 8 (95% CI 4‐13) mmHg. Overall, the risk of bias was considered moderate. 
+Authors' conclusions
+Methyldopa lowers blood pressure to varying degrees compared to placebo for patients with primary hypertension. Its effect on clinical outcomes, however, remains uncertain. 

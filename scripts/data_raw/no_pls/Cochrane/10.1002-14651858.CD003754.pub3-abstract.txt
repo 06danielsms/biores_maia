@@ -1,0 +1,15 @@
+Background
+Oral rehydration solution (ORS) is used to treat the dehydration caused by diarrhoeal diseases, including cholera. ORS formulations with an osmolarity (a measure of solute concentration) of ≤ 270 mOsm/L (ORS ≤ 270) are safe and more effective than ORS formulations with an osmolarity of ≥ 310 mOsm/L (ORS ≥ 310) for treating non‐cholera diarrhoea. As cholera causes rapid electrolyte loss, it is important to know if these benefits are similar for people suffering from cholera. 
+Objectives
+To compare the safety and efficacy of ORS ≤270 with ORS ≥ 310 for treating dehydration due to cholera. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register (April 2011), CENTRAL (The Cochrane Library Issue 4, 2011), MEDLINE (1966 to April 2011), EMBASE (1974 to April 2011), and LILACS (1982 to April 2011). We also contacted organizations and searched reference lists. 
+Selection criteria
+Randomized controlled trials comparing ORS ≤ 270 with ORS ≥ 310 for treating adults and children with acute diarrhoea due to cholera. 
+Data collection and analysis
+Two reviewers independently applied eligibility criteria, assessed trial quality, and extracted data. We pooled dichotomous data using risk ratio (RR), pooled continuous data using mean difference (MD) or the standardized mean difference (SMD), and presented the results with 95% confidence intervals (CI). 
+Main results
+For glucose‐based ORS, seven trials (718 participants) met the inclusion criteria. Biochemical hyponatraemia (blood sodium levels < 130 mmol/L) was more common with ORS ≤ 270 (RR 1.67, CI 1.09 to 2.57; 465 participants, four trials), while a higher level of severe biochemical hyponatraemia (blood sodium levels < 125 mmol/L) in the same group was not significant (RR 1.58, CI 0.62 to 4.04; 465 participants, four trials). No instances of symptomatic hyponatraemia or death were noted in the trials that intended to record them. We found no statistically significant difference in the need for unscheduled intravenous infusion. Analyses separating children and adults showed no obvious trends. 
+Two trials also examined rice‐based ORS. In the ORS ≤ 270 group, duration of diarrhoea was shorter (MD ‐11.42 hours, CI ‐13.80 to ‐9.04; 102 participants, two trials). 
+Authors' conclusions
+In people with cholera, ORS ≤ 270 is associated with biochemical hyponatraemia when compared with ORS ≥ 310, but there are no differences in terms of other outcomes. Although this risk does not appear to be associated with any serious consequences, the total patient experience in existing trials is small. Under wider practice conditions, especially where patient monitoring is difficult, caution is warranted. 

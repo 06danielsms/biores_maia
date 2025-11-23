@@ -1,0 +1,14 @@
+Background
+Yellow fever (YF) is an acute viral haemorrhagic disease prevalent in tropical Africa and Latin America. The World Health Organization (WHO) estimates that there are 200,000 cases of YF and 30,000 deaths worldwide annually. Treatment for YF is supportive, but a live attenuated virus vaccine is effective for preventing infection. WHO recommends immunisation for all individuals > 9 months living in countries or areas at risk. However, the United States Advisory Committee on Immunization Practices (ACIP) advises that YF vaccine is contraindicated in individuals with HIV. Given the large populations of HIV‐infected individuals living in tropical areas where YF is endemic, YF vaccine may be an important intervention for preventing YF in immunocompromised populations. 
+Objectives
+To assess the risk and benefits of YF immunisation for people infected with HIV.
+Search methods
+We used standard Cochrane methods to search electronic databases and conference proceedings with relevant search terms without limits to language. 
+Selection criteria
+Randomised controlled trials and cohort studies of individuals with HIV infection who received YF vaccine (17DD or 17D‐204). 
+Data collection and analysis
+Two authors screened abstracts of references identified by electronic or bibliographic searches according to inclusion and exclusion criteria as detailed in the protocol. We identified 199 references and examined 19 in detail for study eligibility. Data were abstracted independently using a standardised abstraction form. 
+Main results
+Three cohort studies were included in the review. They examined 484 patients with HIV infection who received YF immunisation. Patients with HIV infection developed significantly lower concentrations of neutralising antibodies in the first year post immunisation compared to uninfected patients, though decay patterns were similar for recipients regardless of HIV infection. No study patient with HIV infection suffered serious adverse events as a result of YF vaccination. 
+Authors' conclusions
+YF vaccination can produce protective levels of neutralising antibodies in HIV patients. Immunogenicity of YF vaccine is slightly less in HIV‐infected patients compared to HIV‐uninfected patients. No serious adverse events related to YF vaccine were observed in HIV‐infected study participants. At time of immunisation, higher CD4 cell counts and lower HIV RNA levels in patients with HIV infection seem to be key determinants for development of protective titres of neutralising antibodies. The quality of the evidence for all outcomes was low to very low. YF vaccine may potentially be used safely in HIV‐infected patients, although our conclusions are limited by small numbers of patients who have been reported. To assure maximum effectiveness YF vaccine should be given to HIV‐infected patients after HIV replication has been suppressed. 

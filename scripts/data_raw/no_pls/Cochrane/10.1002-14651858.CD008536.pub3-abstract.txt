@@ -1,0 +1,46 @@
+Background
+Tibolone is a synthetic steroid used for the treatment of menopausal symptoms, on the basis of short‐term data suggesting its efficacy. We considered the balance between the benefits and risks of tibolone. 
+Objectives
+To evaluate the effectiveness and safety of tibolone for treatment of postmenopausal and perimenopausal women. 
+Search methods
+In October 2015, we searched the Gynaecology and Fertility Group (CGF) Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and PsycINFO (from inception), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) and clinicaltrials.gov. We checked the reference lists in articles retrieved. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing tibolone versus placebo, oestrogens and/or combined hormone therapy (HT) in postmenopausal and perimenopausal women. 
+Data collection and analysis
+We used standard methodological procedures of The Cochrane Collaboration. Primary outcomes were vasomotor symptoms, unscheduled vaginal bleeding and long‐term adverse events. We evaluated safety outcomes and bleeding in studies including women either with or without menopausal symptoms. 
+Main results
+We included 46 RCTs (19,976 women). Most RCTs evaluated tibolone for treating menopausal vasomotor symptoms. Some had other objectives, such as assessment of bleeding patterns, endometrial safety, bone health, sexuality and safety in women with a history of breast cancer. Two included women with uterine leiomyoma or lupus erythematosus. 
+Tibolone versus placebo  
+Vasomotor symptoms 
+Tibolone was more effective than placebo (standard mean difference (SMD) ‐0.99, 95% confidence interval (CI) ‐1.10 to ‐0.89; seven RCTs; 1657 women; moderate‐quality evidence), but removing trials at high risk of attrition bias attenuated this effect (SMD ‐0.61, 95% CI ‐0.73 to ‐0.49; odds ratio (OR) 0.33, 85% CI 0.27 to 0.41). This suggests that if 67% of women taking placebo experience vasomotor symptoms, between 35% and 45% of women taking tibolone will do so. 
+Unscheduled bleeding 
+Tibolone was associated with greater likelihood of bleeding (OR 2.79, 95% CI 2.10 to 3.70; nine RCTs; 7814 women; I2 = 43%; moderate‐quality evidence). This suggests that if 18% of women taking placebo experience unscheduled bleeding, between 31% and 44% of women taking tibolone will do so. 
+Long‐term adverse events 
+Most of the studies reporting these outcomes provided follow‐up of two to three years (range three months to three years). 
+Breast cancer 
+We found no evidence of differences between groups among women with no history of breast cancer (OR 0.52, 95% CI 0.21 to 1.25; four RCTs; 5500 women; I2= 17%; very low‐quality evidence). Among women with a history of breast cancer, tibolone was associated with increased risk (OR 1.5, 95% CI 1.21 to 1.85; two RCTs; 3165 women; moderate‐quality evidence). 
+Cerebrovascular events 
+We found no conclusive evidence of differences between groups in cerebrovascular events (OR 1.74, 95% CI 0.99 to 3.04; four RCTs; 7930 women; I2 = 0%; very low‐quality evidence). We obtained most data from a single RCT (n = 4506) of osteoporotic women aged 60 to 85 years, which was stopped prematurely for increased risk of stroke. 
+Other outcomes 
+Evidence on other outcomes was of low or very low quality, with no clear evidence of any differences between the groups. Effect estimates were as follows: 
+• Endometrial cancer: OR 2.04, 95% CI 0.79 to 5.24; nine RCTs; 8504 women; I2 = 0%. 
+• Cardiovascular events: OR 1.38, 95% CI 0.84 to 2.27; four RCTs; 8401 women; I2 = 0%. 
+• Venous thromboembolic events: OR 0.85, 95% CI 0.37 to 1.97; 9176 women; I2 = 0%. 
+• Mortality from any cause: OR 1.06, 95% CI 0.79 to 1.41; four RCTs; 8242 women; I2 = 0%. 
+Tibolone versus combined HT  
+Vasomotor symptoms 
+Combined HT was more effective than tibolone (SMD 0.17, 95% CI 0.06 to 0.28; OR 1.36, 95% CI 1.11 to 1.66; nine studies; 1336 women; moderate‐quality evidence). This result was robust to a sensitivity analysis that excluded trials with high risk of attrition bias, suggesting a slightly greater disadvantage of tibolone (SMD 0.25, 95% CI 0.09 to 0.41; OR 1.57, 95% CI 1.18 to 2.10). This suggests that if 7% of women taking combined HT experience vasomotor symptoms, between 8% and 14% of women taking tibolone will do so. 
+Unscheduled bleeding 
+Tibolone was associated with a lower rate of bleeding (OR 0.32, 95% CI 0.24 to 0.41; 16 RCTs; 6438 women; I2 = 72%; moderate‐quality evidence). This suggests that if 47% of women taking combined HT experience unscheduled bleeding, between 18% and 27% of women taking tibolone will do so. 
+Long‐term adverse events 
+Most studies reporting these outcomes provided follow‐up of two to three years (range three months to three years). Evidence was of very low quality, with no clear evidence of any differences between the groups. Effect estimates were as follows: 
+• Endometrial cancer: OR 1.47, 95% CI 0.23 to 9.33; five RCTs; 3689 women; I2 = 0%. 
+• Breast cancer: OR 1.69, 95% CI 0.78 to 3.67; five RCTs; 4835 women; I2 = 0%. 
+• Venous thromboembolic events: OR 0.44, 95% CI 0.09 to 2.14; four RCTs; 4529 women; I2 = 0%. 
+• Cardiovascular events: OR 0.63, 95% CI 0.24 to 1.66; two RCTs; 3794 women; I2 = 0%. 
+• Cerebrovascular events: OR 0.76, 95% CI 0.16 to 3.66; four RCTs; 4562 women; I2 = 0%. 
+• Mortality from any cause: only one event reported (two RCTs; 970 women). 
+Authors' conclusions
+Moderate‐quality evidence suggests that tibolone is more effective than placebo but less effective than HT in reducing menopausal vasomotor symptoms, and that tibolone is associated with a higher rate of unscheduled bleeding than placebo but with a lower rate than HT. 
+Compared with placebo, tibolone increases recurrent breast cancer rates in women with a history of breast cancer, and may increase stroke rates in women over 60 years of age. No evidence indicates that tibolone increases the risk of other long‐term adverse events, or that it differs from HT with respect to long‐term safety. 
+Much of the evidence was of low or very low quality. Limitations included high risk of bias and imprecision. Most studies were financed by drug manufacturers or failed to disclose their funding source. 

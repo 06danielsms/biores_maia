@@ -1,0 +1,14 @@
+Background
+Email is a popular and commonly‐used method of communication, but its use in health care is not routine. Where email communication has been utilised in health care, its purposes have included the coordination of healthcare appointments and attendance reminders, but the effects of using email in this way are not known. This review considers the use of email for the coordination of healthcare appointments and reminders for attendance; particularly scheduling, rescheduling and cancelling healthcare appointments, and providing prompts/reminders for attendance at appointments. 
+Objectives
+To assess the effects of using email for the coordination of healthcare appointments and attendance reminders, compared to other forms of coordinating appointments and reminders, on outcomes for health professionals, patients and carers, and health services, including harms. 
+Search methods
+We searched: the Cochrane Consumers and Communication Review Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1 2010), MEDLINE (OvidSP) (1950 to January 2010), EMBASE (OvidSP) (1980 to January 2010), PsycINFO (OvidSP) (1967 to January 2010), CINAHL (EbscoHOST) (1982 to February 2010),and ERIC (CSA) (1965 to January 2010). We searched grey literature: theses/dissertation repositories, trials registers and Google Scholar (searched July 2010). We used additional search methods: examining reference lists and contacting authors. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised trials, controlled before and after studies and interrupted time series studies of interventions that use email for scheduling health appointments, for reminders for a scheduled health appointment or for ongoing coordination of health appointments and that took the form of 1) unsecured email 2) secure email or 3) web messaging. All healthcare professionals, patients and caregivers in all settings were considered. 
+Data collection and analysis
+Two review authors independently assessed the titles and abstracts of retrieved citations. No studies were identified for inclusion. Consequently, no data collection or analysis was possible. 
+Main results
+No studies met the inclusion criteria, therefore there are no results to report on the use of email for the coordination of healthcare appointments and attendance reminders. 
+Authors' conclusions
+No conclusions on the effects of using email for the coordination of healthcare appointments and attendance reminders could be made and thus no recommendations for practice can be stipulated. Given the significant theoretical opportunities that email presents, there is a need for rigorous studies addressing the review question, but this may involve addressing barriers concerning trial development and implementation. 

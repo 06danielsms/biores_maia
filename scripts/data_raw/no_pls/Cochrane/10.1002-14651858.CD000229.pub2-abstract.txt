@@ -1,0 +1,15 @@
+Background
+Preterm infants are at risk of periventricular haemorrhage (PVH). This can be a sign of brain damage that might lead to neurodevelopmental abnormalities, including cerebral palsy. It has been suggested that vitamin K might improve coagulation in preterm infants and thereby decrease the risk of PVH. 
+Objectives
+To assess the effects of vitamin K administered to women at risk of imminent very preterm birth to prevent PVH and associated neurological injury in the infant. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (20 December 2010). 
+Selection criteria
+Randomised or quasi‐randomised trials of vitamin K administered parenterally or orally to women at risk of imminent preterm birth. The primary outcomes were neonatal mortality, neonatal neurological morbidity, as measured by the presence of PVH on ultrasound during the first week of life, and long‐term neurodevelopment. Secondary outcomes included other neonatal morbidity and any maternal side effects. 
+Data collection and analysis
+Two review authors independently assessed eligibility, trial quality and extracted data. 
+Main results
+Eight trials were included but only seven (843 women) contributed data to the results. The trials were of variable quality. Antenatal vitamin K was associated with a non‐significant reduction in all grades of PVH (risk ratio (RR) 0.76; 95% confidence interval (CI) 0.54 to 1.06) and a significant reduction in severe PVH (grades 3 and 4) (RR 0.58; 95% CI 0.37 to 0.91) for babies receiving prenatal vitamin K compared with control babies. When the two quasi‐randomised trials were excluded, antenatal vitamin K was associated with a non‐significant reduction in all grades of PVH (RR 0.87; 95% CI 0.60 to 1.26) and a non‐significant reduction in severe PVH (RR 0.82; 95% CI 0.49 to 1.36). 
+Treatment with vitamin K resulted in a significant reduction in the Bayley Mental Development Index at two years of age (mean difference (MD) ‐9.00; 95% CI ‐16.66 to ‐1.34, one trial, 121 children); however, these results are derived from one trial with many participants lost to follow up. No difference was found in the incidence of other neurodevelopmental abnormalities at paediatric follow up at 18 to 24 months or seven years of age between children born to mothers given vitamin K and children not so exposed. 
+Authors' conclusions
+Vitamin K administered to women prior to very preterm birth has not been shown to significantly prevent PVH in preterm infants or improve neurodevelopmental outcomes in childhood. 

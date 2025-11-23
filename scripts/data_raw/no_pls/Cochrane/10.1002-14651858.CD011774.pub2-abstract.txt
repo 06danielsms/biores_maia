@@ -1,0 +1,14 @@
+Background
+Walk‐in clinics are growing in popularity around the world as a substitute for traditional medical care delivered in physician offices and emergency rooms, but their clinical efficacy is unclear. 
+Objectives
+To assess the quality of care and patient satisfaction of walk‐in clinics compared to that of traditional physician offices and emergency rooms for people who present with basic medical complaints for either acute or chronic issues. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, six other databases, and two trials registers on 22 March 2016 together with reference checking, citation searching, and contact with study authors to identify additional studies. We applied no restrictions on language, publication type, or publication year. 
+Selection criteria
+Study design: randomized trials, non‐randomized trials, and controlled before‐after studies. Population: standalone physical clinics not requiring advance appointments or registration, that provided basic medical care without expectation of follow‐up. Comparisons: traditional primary care practices or emergency rooms. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane and the Cochrane Effective Practice and Organisation of Care (EPOC) Group. 
+Main results
+The literature search identified 6587 citations, of which we considered 65 to be potentially relevant. We reviewed the abstracts of all 65 potentially relevant studies and retrieved the full texts of 12 articles thought to fit our study criteria. However, following independent author assessment of the full texts, we excluded all 12 articles. 
+Authors' conclusions
+Controlled trial evidence about the mortality, morbidity, quality of care, and patient satisfaction of walk‐in clinics is currently not available. 

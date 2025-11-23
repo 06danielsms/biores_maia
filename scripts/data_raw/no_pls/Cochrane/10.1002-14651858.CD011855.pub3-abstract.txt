@@ -1,0 +1,15 @@
+Background
+Cystic fibrosis is a life‐limiting autosomal recessive genetic illness. A feeling of shortness of breath is common in cystic fibrosis, especially as the disease progresses. Reversing the underlying cause is the priority when treating breathlessness (dyspnoea), but when it is not feasible, palliation (easing) becomes the primary goal to improve an individual's quality of life. A range of drugs administered by various routes have been used, but no definite guidelines are available. A systematic review is needed to evaluate such treatments. 
+Objectives
+To assess the efficacy and safety of drugs used to ease breathlessness in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. Date of last search: 18 November 2019. 
+We searched databases (clinicaltrials.gov, the ISRCTN registry, the Clinical Trials Registry India and WHO ICTRP) for ongoing trials. These searches were last run on 06 March 2020. 
+Selection criteria
+We planned to include randomised and quasi‐randomised controlled trials in people with cystic fibrosis (diagnosed by a positive sweat chloride test or genetic testing) who have breathlessness. We considered studies comparing any drugs used for easing breathlessness to another drug administered by any route (inhaled (nebulised), intravenous, oral, subcutaneous, transmucosal (including buccal, sublingual and intra‐nasal) and transdermal). 
+Data collection and analysis
+The authors assessed the search results according to the pre‐defined inclusion criteria.
+Main results
+The new searches in 2020 yielded two ongoing studies that were not relevant to the review question. Previous searches had found only one study (cross‐over in design), which did not fulfil the inclusion criteria as no data were available from the first treatment period alone. 
+Authors' conclusions
+Due to the lack of available evidence, this review cannot provide any information for clinical practice. The authors call for specific research in this area after taking into account relevant ethical considerations. The research should focus on the efficacy and safety of the drugs with efficacy being measured in terms of improvement in quality of life, dyspnoea scores and hospital stay. 

@@ -1,0 +1,14 @@
+Background
+Active smoking increases the risk of tuberculosis (TB) infection 2 to 2.5 times and is significantly associated with recurrent TB and TB mortality. Observational studies have shown associations between smoking and poor TB treatment outcomes such as increased loss to follow‐up rate, severity of disease, drug resistance and slow smear conversion. Since most smoking‐related immunologic abnormalities are reversible within six weeks of stopping smoking, smoking cessation may have substantial positive effects on TB treatment outcomes, TB relapse and future lung disease. 
+Objectives
+To analyse the effect of tobacco smoking cessation interventions (SCIs) on the treatment outcomes of people with adult pulmonary TB. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register using free‐text and MeSH terms for TB and antitubercular treatment. We also searched MEDLINE and EMBASE using the same topic‐related terms, combined with the search terms used to identify trials of tobacco cessation interventions from the Specialised Register. We also searched reference list of articles and reviews, the Conference Paper Index, clinicaltrials.gov and grey literature. The searches are current to 29th July 2015. 
+Selection criteria
+Individual and cluster‐randomised controlled trials (RCTs), regardless of date, language and publication status, studies of adults with pulmonary TB on first‐line anti‐tubercular drugs, with interventions at either an individual or a population level, delivered separately or as part of a larger tobacco control package. This included any type of behavioural or pharmaceutical intervention or both for smoking cessation. 
+Data collection and analysis
+Using the eligibility criteria, two authors independently checked the abstracts of retrieved studies for relevance, and acquired full trial reports of candidates for inclusion. The authors resolved any disagreements on eligibility by mutual consent, or by recourse to a third author. Two authors intended to independently extract study data from eligible studies into a data extraction form and compare the findings, synthesise data using risk ratios, and assess risk of bias using standard Cochrane methodologies. However, we found no eligible trials. 
+Main results
+There were no randomised controlled trials that met the eligibility criteria. A number of potentially eligible studies are underway, and we will assess them for inclusion in the next update of this review. 
+Authors' conclusions
+There is a lack of high‐quality evidence, i.e. RCTs, that tests the effectiveness of cessation interventions in improving TB treatment outcomes. There is a need for good‐quality randomised controlled trials that assess the effect of SCIs on TB treatment outcomes in both the short and long term. Establishing such an evidence base would be an essential step towards the implementation of SCIs in TB control programmes worldwide. 

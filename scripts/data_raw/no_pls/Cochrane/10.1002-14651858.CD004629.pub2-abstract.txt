@@ -1,0 +1,14 @@
+Background
+Indolent non‐Hodgkin's lymphoma, in particular follicular lymphoma (FL), is characterized by multiple remissions and relapses. Several studies have used interferon‐alpha (IFN) to control this disease, both as induction and as maintenance therapy. It is not yet clear whether IFN can be associated with a survival benefit although it may prolong progression‐free survival. 
+Objectives
+To determine the effects of IFN in the maintenance therapy of FL.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 4, 2008), MEDLINE (1966 to 2008), DARE (1990 to 2008), SCOPUS (searched December 2008) and Current Contents (1975 to 2008). . 
+Selection criteria
+Randomised controlled trials of IFN versus no intervention or placebo, or IFN plus chemotherapy versus chemotherapy alone, in a maintenance setting in patients with non‐Hodgkin's FL. Primary outcomes were overall survival and progression‐free survival. 
+Data collection and analysis
+Three review authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected adverse events information from the trials. 
+Main results
+We included eight trials (1563 patients). The drug was IFN alfa‐2b in six trials and alfa‐2a in two. Trials were heterogeneous in terms of diagnosis of FL, using several classification systems. IFN had been compared with placebo/no intervention in five trials and other chemotherapy in three. The effect of IFN was similar to that of placebo on overall survival (hazard ratio (HR) 0.90, 95% CI 0.61 to 1.34) whereas IFN was more effective when added to chemotherapy (HR 0.68, 95% confidence interval (CI) 0.52 to 0.90). Considering IFN versus all comparators, IFN was effective in prolonging progression‐free survival (HR 0.66, 95% CI 0.57 to 0.77) and overall survival (fixed effects HR 0.79, 95% CI 0.67 to 0.94, I2 = 52%). After adjustment for heterogeneity this statistically significance disappeared (random effects HR 0.82, 95% CI 0.63 to 1.08). Toxicity and patients lost to follow up were significantly higher in the IFN groups. 
+Authors' conclusions
+There is evidence that addition of IFN as maintenance therapy for FL improves progression‐free survival. A net benefit for overall survival is less evident. In the included studies, IFN was associated with significant toxicities that may have a major impact on a patient's quality of life. 

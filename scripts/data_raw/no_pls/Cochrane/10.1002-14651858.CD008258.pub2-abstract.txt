@@ -1,0 +1,16 @@
+Background
+Piggy‐back method of transplantation, which involves preservation of the recipient retrohepatic inferior vena cava, has been suggested as an alternative to the conventional method of liver transplantation, where the recipient retrohepatic inferior vena cava is resected. 
+Objectives
+To compare the benefits and harms of piggy‐back technique versus conventional liver transplantation as well as of the different modifications of piggy‐back technique during liver transplantation. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until June 2010 for identifying randomised trials using search strategies. 
+Selection criteria
+Only randomised clinical trials, irrespective of language, blinding, or publication status were considered for the review. 
+Data collection and analysis
+Two authors (KSG and VP) independently identified trials and independently extracted data. We calculated the mean difference (MD) or standardised mean difference (SMD) with 95% confidence intervals (CI) using both the fixed‐effect and the random‐effects models with RevMan 5 based on intention‐to‐treat analysis for continuous outcomes. For binary outcomes, we used the Fisher's exact test since none of the comparisons of binary outcomes included more than one trial. 
+Main results
+Two trials randomised in total 106 patients to piggy‐back method (n = 53) versus conventional method with veno‐venous bypass (n = 53). Both trials were at high risk of bias. There was no significant difference in post‐operative mortality, primary graft non‐function, vascular complications, renal failure, transfusion requirements, intensive therapy unit (ITU) stay, or hospital stay between the two groups. The warm ischaemic time was significantly shorter in the piggy‐back method than the conventional method (MD ‐11.50 minutes; 95% CI ‐19.35 to ‐3.65; P < 0.01). The proportion of patients who developed chest complications were significantly higher in the the piggy‐back method than the conventional method (75.8% versus 44.1%; P = 0.01). 
+One trial randomised 80 patients to piggy‐back with porto‐caval bypass (n = 40) versus piggy‐back without porto‐caval bypass (n = 40). This trial was at high risk of bias. There was no significant difference in post‐operative mortality, re‐transplantation due to primary graft non‐function, vascular complications, renal failure, or hospital stay between the two groups. Fewer patients required blood transfusion in the piggy‐back with porto‐caval bypass group (55%) than the piggy‐back without porto‐caval bypass group (75%) (P = 0.02). There was no significant difference in the mean amount of blood transfused between the groups (MD ‐1.00 unit; 95% CI ‐2.19 to 0.19; P = 0.10). The ITU stay was significantly shorter in the piggy‐back with porto‐caval bypass group (2.9 days) than the piggy‐back without porto‐caval bypass group (4.9 days; MD ‐2.00 days; 95% CI ‐3.82 to ‐0.18; P = 0.03). 
+There were no trials comparing piggy‐back method with conventional method without veno‐venous bypass or different techniques of piggy‐back method. 
+Authors' conclusions
+There is currently no evidence to recommend or refute the use of piggy‐back method of liver transplantation. 

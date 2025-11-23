@@ -1,0 +1,14 @@
+Background
+Alcohol dependence belongs to the globally leading health risk factors. Therapeutic success of psychosocial programs for relapse prevention is moderate and could be increased by an adjuvant treatment with the opioid antagonists naltrexone and nalmefene. 
+Objectives
+To determine the effectiveness and tolerability of opioid antagonists in the treatment of alcohol dependence. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group (CDAG) Specialized Register, PubMed, EMBASE and CINAHL in January 2010 and inquired manufacturers and researchers for unpublished trials. 
+Selection criteria
+All double‐blind randomised controlled trials (RCTs) which compare the effects of naltrexone or nalmefene with placebo or active control on drinking‐related outcomes. 
+Data collection and analysis
+Two authors independently extracted outcome data. Trial quality was assessed by one author and cross‐checked by a second author. 
+Main results
+Based on a total of 50 RCTs with 7793 patients, naltrexone reduced the risk of heavy drinking to 83% of the risk in the placebo group RR 0.83 (95% CI 0.76 to 0.90) and decreased drinking days by about 4%, MD ‐3.89 (95% CI ‐5.75 to ‐2.04). Significant effects were also demonstrated for the secondary outcomes of the review including heavy drinking days, MD ‐ 3.25 (95% CI ‐5.51 to ‐0.99), consumed amount of alcohol, MD ‐ 10.83 (95% CI ‐19.69 to ‐1.97) and gamma‐glutamyltransferase, MD ‐ 10.37 (95% CI ‐18.99 to ‐1.75), while effects on return to any drinking, RR 0.96 (95 CI 0.92 to 1.00) missed statistical significance. Side effects of naltrexone were mainly gastrointestinal problems (e.g. nausea: RD 0.10; 95% CI 0.07 to 0.13) and sedative effects (e.g. daytime sleepiness: RD 0.09; 95% CI 0.05 to 0.14). Based on a limited study sample, effects of injectable naltrexone and nalmefene missed statistical significance. Effects of industry‐sponsored studies, RR 0.90 (95% CI 0.78 to 1.05) did not significantly differ from those of non‐profit funded trials, RR 0.84 (95% CI 0.77 to 0.91) and the linear regression test did not indicate publication bias (P = 0.765). 
+Authors' conclusions
+Naltrexone appears to be an effective and safe strategy in alcoholism treatment. Even though the sizes of treatment effects might appear moderate in their magnitudes, these should be valued against the background of the relapsing nature of alcoholism and the limited therapeutic options currently available for its treatment. 

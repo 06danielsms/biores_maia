@@ -1,0 +1,14 @@
+Background
+Most people with schizophrenia have a cyclical pattern of illness characterised by remission and relapses. The illness can reduce the ability of self‐care and functioning and can lead to the illness becoming disabling. Life skills programmes, emphasising the needs associated with independent functioning, are often a part of the rehabilitation process. These programmes have been developed to enhance independent living and quality of life for people with schizophrenia. 
+Objectives
+To review the effects of life skills programmes compared with standard care or other comparable therapies for people with chronic mental health problems. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (June 2010). We supplemented this process with handsearching and scrutiny of references. We inspected references of all included studies for further trials. 
+Selection criteria
+We included all relevant randomised or quasi‐randomised controlled trials for life skills programmes versus other comparable therapies or standard care involving people with serious mental illnesses. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis, based on a random‐effects model. For continuous data, we calculated mean differences (MD), again based on a random‐effects model. 
+Main results
+We included seven randomised controlled trials with a total of 483 participants. These evaluated life skills programmes versus standard care, or support group. We found no significant difference in life skills performance between people given life skills training and standard care (1 RCT, n = 32, MD ‐1.10; 95% CI ‐7.82 to 5.62). Life skills training did not improve or worsen study retention (5 RCTs, n = 345, RR 1.16; 95% CI 0.40 to 3.36). We found no significant difference in PANSS positive, negative or total scores between life skills intervention and standard care. We found quality of life scores to be equivocal between participants given life skills training (1 RCT, n = 32, MD ‐0.02; 95% CI ‐0.07 to 0.03) and standard care. Life skills compared with support groups also did not reveal any significant differences in PANSS scores, quality of life, or social performance skills (1 RCT, n = 158, MD ‐0.90; 95% CI ‐3.39 to 1.59). 
+Authors' conclusions
+Currently there is no good evidence to suggest life skills programmes are effective for people with chronic mental illnesses. More robust data are needed from studies that are adequately powered to determine whether life skills training is beneficial for people with chronic mental health problems. 

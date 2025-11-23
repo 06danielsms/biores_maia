@@ -1,0 +1,14 @@
+Background
+Leptospira infection is a global zoonosis with significant health impact for agricultural workers and those persons whose work or recreation takes them into endemic areas. 
+Objectives
+This systematic review assessed the current literature for evidence for or against use of antibiotic prophylaxis against Leptospira infection (leptospirosis). 
+Search methods
+The authors searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and SCI‐Expanded as well as relevant professional society meeting abstracts until January 2009. 
+Selection criteria
+Prospective, randomised clinical trials studying antibiotic prophylaxis against leptospirosis were selected. 
+Data collection and analysis
+Data collection abstracted participant demographics and outcomes as well as features of trial design and quality. Trial results were analysed to independently determine outcomes, while multiple trial data was pooled when relevant. 
+Main results
+Three trials were included, all of which evaluated doxycyline use. Trial quality suffered from a lack of intention‐to‐treat analysis and variability across trials in methodology and targeted outcomes. One trial assessed post‐exposure prophylaxis in an indigenous population after a flood without apparent efficacy in reduction of clinical or laboratory identified Leptospira infection. Two trials assessed pre‐exposure prophylaxis, one among deployed soldiers and another in an indigenous population. Despite an odds ratio of 0.05 (95% CI 0.01 to 0.36) for laboratory‐identified infection among deployed soldiers on doxycyline in one of these two trials, pooled data showed no statistically significant reduction in Leptospira infection among participants (Odds ratio 0.28 (95% CI 0.01 to 7.48). Minor adverse events (predominantly nausea and vomiting) were more common among those on doxycycline with an odds ratio of 11 (95% CI 2.1 to 60). 
+Authors' conclusions
+Regular use of weekly oral doxycycline 200 mg increases the odds for nausea and vomiting with unclear benefit in reducing Leptospira seroconversion or clinical consequences of infection. 

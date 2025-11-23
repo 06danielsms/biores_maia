@@ -1,0 +1,17 @@
+Point‐of‐care tests for detecting high viral load in people living with HIV attending healthcare facilities 
+Why is improving the diagnosis of high HIV viral load infection important? 
+It helps to monitor the HIV virus levels in people living with HIV (PLHIV) who are receiving antiretroviral therapy (ART). High virus levels indicate that the medications are failing to suppress the virus, a condition known as ART treatment failure, which has a risk of severe illness and death. Rapid diagnostic tests that detect high HIV virus levels quickly near the patient (point‐of‐care) can increase access to early changes in ART. 
+What is the aim of this review? 
+To determine the accuracy of point‐of‐care (POC) tests for diagnosing high HIV virus levels in PLHIV attending healthcare facilities. 
+What was studied in this review? 
+Point‐of‐care tests for viral load detection with results measured against central laboratory tests (reference test). We included all forms of tests with POC platforms for VL regardless of the healthcare facility in which the test was conducted. 
+What are the main results in this review? 
+Fourteen studies that completed 20 evaluations involving 8659 participants compared molecular POC tests for diagnosing high virus levels at the clinically recommended positivity threshold of ≥ 1000 copies/mL. 
+What are the strengths and limitations of this review? 
+The review included sufficient studies done on samples from PLHIV retrieved from routine HIV/AIDS care centres or health facilities, but it was unclear if all included participants were on ART. Also, none of the included tests was a true POC test conducted at the patient's side: half of the included studies (n = 10) evaluated POC tests in onsite laboratories near the patient, and the other half were tests with POC platforms evaluated in a central or reference laboratory (n = 10). 
+To whom do the results of this review apply? 
+PLHIV with suspected high viral loads attending healthcare facilities.
+What are the implications of this review? 
+In theory, for a population of 1000 PLHIV where 100 have high virus levels, 136 people would receive a positive result with the molecular POC test; of these, 39 will not have high viral levels (false‐positive result) and would be incorrectly identified as not responding to ART treatment, possibly leading to unnecessary testing or further treatment; and 864 would receive a negative test result with the molecular POC test; of these, three will actually have high virus levels (false‐negative result) and would be missed whilst failing ART treatment. 
+How up‐to‐date is this review? 
+The evidence is current to 23 November 2020.

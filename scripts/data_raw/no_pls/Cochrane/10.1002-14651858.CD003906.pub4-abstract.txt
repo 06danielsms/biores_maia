@@ -1,0 +1,15 @@
+Background
+Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) is an uncommon progressive or relapsing paralysing disease caused by inflammation of the peripheral nerves. If the hypothesis that it is due to autoimmunity is correct, removal of autoantibodies in the blood by plasma exchange should be beneficial. 
+Objectives
+To assess the effects of plasma exchange for treating CIDP.
+Search methods
+On 30 June 2015, we searched the Cochrane Neuromuscular Disease Group Specialized Register, the Cochrane Central Register for Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL Plus, and LILACS. We also scrutinised the bibliographies of the trials, contacted the trial authors and other disease experts, and searched trials registries for ongoing studies. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs in participants of any age comparing plasma exchange with sham treatment or no treatment. 
+Data collection and analysis
+Two review authors independently selected the trials, extracted the data, and assessed risk of bias. Where possible the review authors combined data according to the methods of the Cochrane Neuromuscular Disease Review Group. 
+Main results
+Primary outcome measure: one cross‐over trial including 18 participants showed after four weeks, 2 (95% confidence interval (CI) 0.9 to 3.1) points more improvement on an 11‐point disability scale with plasma exchange (10 exchanges over four weeks) than with sham exchange. Rapid deterioration after plasma exchange occurred in eight of 12 who had improved. 
+Secondary outcome measures: when we combined the results of this cross‐over trial and a trial with 29 participants treated in a parallel‐group design, there were 31 points (95% CI 18 to 45) more improvement on an impairment scale (maximum score 280) after plasma exchange (six exchanges over three weeks) than after sham exchange. There were significant improvements in both trials in an electrophysiological measure, the proximally evoked compound muscle action potential, after three or four weeks. Non‐randomised evidence indicates that plasma exchange induces adverse events in 3% to 17% of procedures. These events are sometimes serious. Both trials had a low risk of bias. A trial that showed no significant difference in the benefit between plasma exchange and intravenous immunoglobulin is included in the Cochrane review of intravenous immunoglobulin for this condition. 
+Authors' conclusions
+Moderate‐ to high‐quality evidence from two small trials shows that plasma exchange provides significant short‐term improvement in disability, clinical impairment, and motor nerve conduction velocity in CIDP but rapid deterioration may occur afterwards. Adverse events related to difficulty with venous access, use of citrate, and haemodynamic changes are not uncommon. We need more research to identify agents that will prolong the beneficial action of plasma exchange. 

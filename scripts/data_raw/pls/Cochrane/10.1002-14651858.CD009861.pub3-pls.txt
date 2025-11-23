@@ -1,0 +1,27 @@
+Melatonin for preoperative and postoperative anxiety in adults
+Review question 
+We reviewed the evidence from randomized controlled trials about the effects of melatonin on preoperative and postoperative anxiety in adults undergoing surgery when compared with placebo or benzodiazepine sedative drugs. 
+Background 
+People often feel uneasy and apprehensive both before and after surgery. Anxiety occurs in up to 80% of individuals undergoing surgery. They may be concerned about their illness, the need for hospitalization and being incapacitated, anaesthesia, surgery, pain, and the situation. 
+Factors that can influence risk of anxiety include age (younger age), being female, surgery type, type of anaesthesia, and cultural and religious differences. Being anxious can lead to increased pain and the need for additional pain management. 
+Interventions to reduce the level of anxiety include anxiolytic‐sedative drugs such as benzodiazepines, information and effective communication around the time of surgery, cognitive‐behavioural therapy, music, and massage therapy. 
+Benzodiazepines can cause cognitive problems such as trouble remembering and concentrating and daytime sleepiness, and they can interfere with coordination and physical movement, even after single doses. 
+Melatonin is a hormone produced in the pineal gland in the brain that regulates circadian rhythms. These are the body and behavioural changes that follow a daily cycle and help to determine sleep patterns. Studies have shown that melatonin can reduce anxiety. It causes few or no cognitive problems and has no known serious side effects. This means it could be a worthy alternative to medical treatment. 
+Search date 
+Evidence for this review update is current to July 2020.
+Study characteristics 
+We found 27 randomized studies involving 2319 adult participants that looked at the effects of melatonin given before surgery on the level of anxiety both before and after surgery. Most studies were conducted in developing countries. We included any kind of surgical procedure in which general, regional, or topical anaesthesia was used. 
+Melatonin doses varied from 3 to 10 mg or from 0.05 to 0.4 mg/kg. Benzodiazepine (midazolam, oxazepam, or alprazolam) doses ranged from 0.25 to 15 mg or from 0.05 to 0.2 mg/kg. 
+None of the studies reported receipt of funding from drug manufacturers or agencies with commercial interests. 
+Key results 
+Twenty‐four studies compared melatonin with placebo, and 11 studies compared melatonin with benzodiazepine drugs. Gabapentin, pregabalin, and clonidine were also compared with melatonin in some studies. 
+Melatonin reduced anxiety before surgery when compared to placebo (18 studies, 1264 participants; moderate‐certainty evidence). 
+The reduction in anxiety after surgery was small compared with that seen with placebo (7 studies, 524 participants; low‐certainty evidence), including at six hours after surgery (2 studies, 73 participants; low‐certainty evidence). 
+Melatonin may have similar effects to benzodiazepines on the level of anxiety before surgery (7 studies, 409 participants; moderate‐certainty evidence) and immediately after surgery (3 studies, 176 participants; low‐certainty evidence). 
+Fourteen studies did not report on adverse events, six studies reported that no side effects were observed, and seven studies reported cases of nausea, sleepiness, dizziness, and headache. Benzodiazepines interfered with psychomotor and cognitive function more than placebo and melatonin (in 11 studies). They caused the greatest degree of sedation, although melatonin also showed sedation compared to placebo (14 studies). No serious adverse events were reported. 
+Quality of the evidence 
+We are moderately confident that melatonin reduces anxiety preoperatively compared with placebo. Effects on immediate and delayed postoperative anxiety after surgery are less clear when compared with placebo (low‐quality evidence). 
+We did not find any evidence that melatonin differs in antianxiety effects from benzodiazepines (moderate‐ and low‐quality evidence). 
+It remains unclear whether the anxiety‐reducing effects of melatonin apply to all surgical patients. 
+Conclusions 
+Giving melatonin before surgery may effectively reduce anxiety before surgery, but any reduction in anxiety after surgery with melatonin is less clear when compared with placebo. 

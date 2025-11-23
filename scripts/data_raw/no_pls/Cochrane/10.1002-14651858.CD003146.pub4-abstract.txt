@@ -1,0 +1,40 @@
+Background
+Sickle cell disease is one of the commonest severe monogenic disorders in the world, due to the inheritance of two abnormal haemoglobin (beta globin) genes. Sickle cell disease can cause severe pain, significant end‐organ damage, pulmonary complications, and premature death. Stroke affects around 10% of children with sickle cell anaemia (HbSS). Chronic blood transfusions may reduce the risk of vaso‐occlusion and stroke by diluting the proportion of sickled cells in the circulation. 
+This is an update of a Cochrane Review first published in 2002, and last updated in 2017. 
+Objectives
+To assess risks and benefits of chronic blood transfusion regimens in people with sickle cell disease for primary and secondary stroke prevention (excluding silent cerebral infarcts). 
+Search methods
+We searched for relevant trials in the Cochrane Library, MEDLINE (from 1946), Embase (from 1974), the Transfusion Evidence Library (from 1980), and ongoing trial databases; all searches current to 8 October 2019. 
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register: 19 September 2019. 
+Selection criteria
+Randomised controlled trials comparing red blood cell transfusions as prophylaxis for stroke in people with sickle cell disease to alternative or standard treatment. There were no restrictions by outcomes examined, language or publication status. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and the risk of bias and extracted data. 
+Main results
+We included five trials (660 participants) published between 1998 and 2016. Four of these trials were terminated early. The vast majority of participants had the haemoglobin (Hb)SS form of sickle cell disease. 
+Three trials compared regular red cell transfusions to standard care in primary prevention of stroke: two in children with no previous long‐term transfusions; and one in children and adolescents on long‐term transfusion. 
+Two trials compared the drug hydroxyurea (hydroxycarbamide) and phlebotomy to long‐term transfusions and iron chelation therapy: one in primary prevention (children); and one in secondary prevention (children and adolescents). 
+The quality of the evidence was very low to moderate across different outcomes according to GRADE methodology. This was due to the trials being at a high risk of bias due to lack of blinding, indirectness and imprecise outcome estimates. 
+Red cell transfusions versus standard care 
+Children with no previous long‐term transfusions 
+Long‐term transfusions probably reduce the incidence of clinical stroke in children with a higher risk of stroke (abnormal transcranial doppler velocities or previous history of silent cerebral infarct), risk ratio 0.12 (95% confidence interval 0.03 to 0.49) (two trials, 326 participants), moderate quality evidence. 
+Long‐term transfusions may: reduce the incidence of other sickle cell disease‐related complications (acute chest syndrome, risk ratio 0.24 (95% confidence interval 0.12 to 0.48)) (two trials, 326 participants); increase quality of life (difference estimate ‐0.54, 95% confidence interval ‐0.92 to ‐0.17) (one trial, 166 participants); but make little or no difference to IQ scores (least square mean: 1.7, standard error 95% confidence interval ‐1.1 to 4.4) (one trial, 166 participants), low quality evidence. 
+We are very uncertain whether long‐term transfusions: reduce the risk of transient ischaemic attacks, Peto odds ratio 0.13 (95% confidence interval 0.01 to 2.11) (two trials, 323 participants); have any effect on all‐cause mortality, no deaths reported (two trials, 326 participants); or increase the risk of alloimmunisation, risk ratio 3.16 (95% confidence interval 0.18 to 57.17) (one trial, 121 participants), very low quality evidence. 
+Children and adolescents with previous long‐term transfusions (one trial, 79 participants) 
+We are very uncertain whether continuing long‐term transfusions reduces the incidence of: stroke, risk ratio 0.22 (95% confidence interval 0.01 to 4.35); or all‐cause mortality, Peto odds ratio 8.00 (95% confidence interval 0.16 to 404.12), very low quality evidence. 
+Several review outcomes were only reported in one trial arm (sickle cell disease‐related complications, alloimmunisation, transient ischaemic attacks). 
+The trial did not report neurological impairment, or quality of life.
+Hydroxyurea and phlebotomy versus red cell transfusions and chelation 
+Neither trial reported on neurological impairment, alloimmunisation, or quality of life. 
+Primary prevention, children (one trial, 121 participants) 
+Switching to hydroxyurea and phlebotomy may have little or no effect on liver iron concentrations, mean difference ‐1.80 mg Fe/g dry‐weight liver (95% confidence interval ‐5.16 to 1.56), low quality evidence. 
+We are very uncertain whether switching to hydroxyurea and phlebotomy has any effect on: risk of stroke (no strokes); all‐cause mortality (no deaths); transient ischaemic attacks, risk ratio 1.02 (95% confidence interval 0.21 to 4.84); or other sickle cell disease‐related complications (acute chest syndrome, risk ratio 2.03 (95% confidence interval 0.39 to 10.69)), very low quality evidence. 
+Secondary prevention, children and adolescents (one trial, 133 participants) 
+Switching to hydroxyurea and phlebotomy may: increase the risk of sickle cell disease‐related serious adverse events, risk ratio 3.10 (95% confidence interval 1.42 to 6.75); but have little or no effect on median liver iron concentrations (hydroxyurea, 17.3 mg Fe/g dry‐weight liver (interquartile range 10.0 to 30.6)); transfusion 17.3 mg Fe/g dry‐weight liver (interquartile range 8.8 to 30.7), low quality evidence. 
+We are very uncertain whether switching to hydroxyurea and phlebotomy: increases the risk of stroke, risk ratio 14.78 (95% confidence interval 0.86 to 253.66); or has any effect on all‐cause mortality, Peto odds ratio 0.98 (95% confidence interval 0.06 to 15.92); or transient ischaemic attacks, risk ratio 0.66 (95% confidence interval 0.25 to 1.74), very low quality evidence. 
+Authors' conclusions
+There is no evidence for managing adults, or children who do not have HbSS sickle cell disease. 
+In children who are at higher risk of stroke and have not had previous long‐term transfusions, there is moderate quality evidence that long‐term red cell transfusions reduce the risk of stroke, and low quality evidence they also reduce the risk of other sickle cell disease‐related complications. 
+In primary and secondary prevention of stroke there is low quality evidence that switching to hydroxyurea with phlebotomy has little or no effect on the liver iron concentration. 
+In secondary prevention of stroke there is low‐quality evidence that switching to hydroxyurea with phlebotomy increases the risk of sickle cell disease‐related events. 
+All other evidence in this review is of very low quality.

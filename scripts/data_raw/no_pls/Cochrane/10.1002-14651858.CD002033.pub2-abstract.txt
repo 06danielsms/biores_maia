@@ -1,0 +1,14 @@
+Background
+Nystatin is sometimes used prophylactically in patients with severe immunodeficiency or in the treatment of fungal infection in such patients, although its effect seems to be equivocal. 
+Objectives
+To study whether nystatin decreases morbidity and mortality when given prophylactically or therapeutically to patients with severe immunodeficiency. 
+Search methods
+We searched PubMed from 1966 to 7 July 2014 and the reference lists of identified articles. 
+Selection criteria
+Randomised clinical trials comparing nystatin with placebo, an untreated control group, fluconazole or amphotericin B. 
+Data collection and analysis
+Data on mortality, invasive fungal infection and colonisation were independently extracted by both authors. A random‐effects model was used unless the P value was greater than 0.10 for the test of heterogeneity. 
+Main results
+We included 14 trials (1569 patients). The drugs were given prophylactically in 12 trials and as treatment in two. Eleven trials were in acute leukaemia, solid cancer, or bone marrow recipients; one in liver transplant patients; one in critically ill surgical and trauma patients; and one in AIDS patients. Nystatin was compared with placebo in three trials, with fluconazole in 10, and amphotericin B in one; the dose varied from 0.8 MIE to 72 MIE daily and was 2 mg/kg/d in a liposomal formulation. The effect of nystatin was similar to that of placebo on fungal colonisation (relative risk (RR) 0.85, 95% confidence interval (CI) 0.65 to 1.13). There was no statistically significant difference between fluconazole and nystatin on mortality (RR 0.75, 95% CI 0.54 to 1.03) whereas fluconazole was more effective in preventing invasive fungal infection (RR 0.40, 95% CI 0.17 to 0.93) and colonisation (RR 0.50, 95% CI 0.36 to 0.68). There were no proven fungal infections in a small trial that compared amphotericin B with liposomal nystatin. The results were very similar if the three studies that were not performed in cancer patients were excluded. For the 2011 and 2014 updates no additional trials were identified for inclusion. 
+Authors' conclusions
+Nystatin cannot be recommended for prophylaxis or the treatment of Candida infections in immunodepressed patients. 

@@ -1,0 +1,16 @@
+Background
+Magnesium sulphate is extensively used in obstetrics for the treatment and prevention of eclampsia. A recent meta‐analysis has shown that magnesium sulphate is an effective fetal neuroprotective agent when given antenatally to women at risk of very preterm birth. Term infants account for more than half of all cases of cerebral palsy, and the incidence has remained fairly constant. It is important to assess if antenatal administration of magnesium sulphate to women at term protects the fetus from brain injury, and associated neurosensory disabilities including cerebral palsy. 
+Objectives
+To assess the effectiveness of magnesium sulphate given to women at term as a neuroprotective agent for the fetus. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trial Register (31 July 2012) and the reference lists of other Cochrane reviews assessing magnesium sulphate in pregnancy. 
+Selection criteria
+Randomised controlled trials comparing antenatally administered magnesium sulphate to women at term with placebo, no treatment or a different fetal neuroprotective agent. We also planned to include cluster‐randomised trials, and exclude cross‐over trials and quasi‐randomised trials. We planned to exclude studies reported as abstracts only. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility and for risk of bias. Two authors independently extracted data. Data were checked for accuracy. 
+Main results
+We included one trial (involving 135 women with mild pre‐eclampsia at term). An additional six studies are awaiting further assessment. 
+The included trial compared magnesium sulphate with a placebo and was at a low risk of bias. The trial did not report any of this review's prespecified primary outcomes. There was no significant difference between magnesium sulphate and placebo in Apgar score less than seven at five minutes (risk ratio (RR) 0.51; 95% confidence interval (CI) 0.05 to 5.46; 135 infants), nor gestational age at birth (mean difference (MD) ‐0.20 weeks; 95% CI ‐0.62 to 0.22; 135 infants). 
+There were significantly more maternal side effects (feeling warm and flushed) in the magnesium sulphate group than in the placebo group (RR 3.81; 95% CI 2.22 to 6.53; 135 women). However, no significant difference in adverse effects severe enough to cease treatment was observed (RR 3.04; 95% CI 0.13 to 73.42; 135 women). There were no significant differences seen between groups in the rates of postpartum haemorrhage (RR 4.06; 95% CI 0.47 to 35.38; 135 women) and caesarean section (RR 0.80; 95% CI 0.39 to 1.63; 135 women). 
+Authors' conclusions
+There is currently insufficient evidence to assess the efficacy and safety of magnesium sulphate when administered to women for neuroprotection of the term fetus. As there has been recent evidence for the use of magnesium sulphate for neuroprotection of the preterm fetus, high‐quality randomised controlled trials are needed to determine the safety profile and neurological outcomes for the term fetus. Strategies to reduce maternal side effects during treatment also require evaluation. 

@@ -1,0 +1,21 @@
+Psychosocial interventions for cocaine and amphetamines abusers
+Review question 
+We reviewed the evidence about the effect of psychosocial treatment, which encompasses a wide variety of strategies that aim to change behaviour and support adults who are affected by harmful use, abuse or dependence on cocaine or amphetamines, including MDMA (ecstasy). 
+Background 
+Globally, cocaine and amphetamines are the two main recreational psychostimulants. The latest estimates indicate that more than 0.35% of adults globally have used cocaine and 0.7% amphetamines at least once in the past year. In terms of prevalence, amphetamines were second only to cannabis as the most commonly used illicit drug type worldwide. 
+Both cocaine and amphetamine dependence have been associated with negative social, physical and psychological consequences. These include delusions and hallucinations, cardiovascular diseases, AIDS and viral hepatitis, and sexually transmitted infections. There is a close link between illicit drug use, including crack cocaine and amphetamines, and crime, sexual abuse and interpersonal violence. 
+Pharmacological treatments do not appear to be effective in addressing this condition, therefore it is crucial to find out whether psychosocial interventions increase adherence to treatment abstinence or reduce frequency of use. 
+Search date 
+The evidence was current to November 2015.
+Study characteristics 
+We looked at 52 randomised controlled trials (studies where people were allocated at random to one of two or more treatment or control groups) in this review. 
+On average, the interventions lasted about 16 weeks, while investigators followed up participants for 6 to 12 months. 
+The studies examined different kinds of psychosocial interventions: cognitive behavioural therapy (19 studies), contingency management (25 studies), motivational interviewing (5 studies), interpersonal therapy (3 studies), psychodynamic therapy (1 study) and 12‐step facilitation (4 studies). 
+Forty‐one studies took place in the United States, four in Spain, three in Australia, two in Switzerland and two in the UK. We included a total of 6923 participants with an average age of 36 years. The proportion of males is 63%. The comparisons made were: any psychosocial versus no intervention (32 studies), any psychosocial versus treatment as usual (6 studies), and one psychosocial intervention versus an alternative psychosocial intervention (13 studies). Five of the included studies did not provide any useful data for inclusion in statistical synthesis. 
+Key results 
+We found that, compared to no intervention, any psychosocial intervention probably improves treatment adherence and may increase abstinence at the end of treatment; however, people may not be able to stay clean several months after the end of treatment. Finally, we found that people undergoing specific psychosocial interventions stay clean for a longer time without using stimulants. However, the vast majority of the studies we looked at assessed a specific psychosocial treatment added to treatment as usual or compared it to another specific psychosocial or pharmacological treatment. So, control groups were not really untreated. This could have led to an underestimation of the true effect of the psychosocial interventions. 
+We found that, when compared to TAU, any psychosocial treatment probably improves adherence but may not improve abstinence at the end of treatment nor help participants to stay clean for a longer time. 
+We could not draw any conclusions on which is the most effective psychosocial treatment based on direct comparisons. Most of the studies took place in the United States, and this could limit the generalisability of the findings, because the effects of psychosocial treatments could be strongly influenced by the social context and ethnicity. 
+None of the studies reported harms related to psychosocial interventions.
+Quality of evidence 
+The quality of evidence was moderate for adherence to treatment but low for abstinence.

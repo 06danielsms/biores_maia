@@ -1,0 +1,14 @@
+Background
+Although epidural analgesia provides the most effective labour analgesia, it is associated with some adverse obstetric consequences, including an increased risk of instrumental delivery. Many centres discontinue epidural analgesia late in labour to improve a woman's ability to push and reduce the rate of instrumental delivery. 
+Objectives
+To assess the impact of discontinuing epidural analgesia late in labour on:  i) rates of instrumental deliveries and other delivery outcomes; and  ii) analgesia and satisfaction with labour care. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (October 2007). 
+Selection criteria
+Randomised controlled trials of epidurals discontinued late in labour compared with continuation of the same epidural protocol until birth, in women who receive an epidural for analgesia in the first stage of labour. 
+Data collection and analysis
+Two review authors independently assessed study eligibility and quality and extracted the data. We analysed categorical data using relative risk (RR), and continuous data using weighted mean difference. 
+Main results
+We identified six studies, of which five were included (462 participants). Three of these were high‐quality studies whilst the other two were judged to be of lower quality because placebo was not used and the method of randomisation not described. All studies used different epidural analgesia protocols (type of drug, dosage or method of administration). Overall, the reduction in instrumental delivery rate was not statistically significant (23% versus 28%, RR 0.84, 95% confidence interval (CI) 0.61 to 1.15) nor was there any statistically significant difference in rates of other delivery outcomes. The only statistically significant result was an increase in inadequate pain relief when the epidural was stopped (22% versus 6%, RR 3.68, 95% CI 1.99 to 6.80). 
+Authors' conclusions
+There is insufficient evidence to support the hypothesis that discontinuing epidural analgesia late in labour reduces the rate of instrumental delivery. There is evidence that it increases the rate of inadequate pain relief in the second stage of labour. The practice of discontinuing epidurals is widespread and the size of the reduction in instrumental delivery rate could be clinically important; therefore, we recommend a larger study than those included in this review be undertaken to determine whether this effect is real or has occurred by chance, and to provide stronger evidence about the safety aspects. 

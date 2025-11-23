@@ -1,0 +1,21 @@
+Background
+As a retained placenta is a potential life‐threatening obstetrical complication, effective and timely management is important. The estimated mortality rates from a retained placenta in developing countries range from 3% to 9%. One possible factor contributing to the high mortality rates is a delay in initiating manual removal of the placenta. Effective anaesthesia or analgesia during this procedure will provide adequate uterine relaxation and pain control, enabling it to be carried out effectively. 
+Objectives
+To assess the effectiveness and safety of general, regional, and local anaesthesia or analgesia during manual removal of a retained placenta. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov and the World Health Organization's International Clinical Trials Registry Platform to 30 September 2019, and reference lists of retrieved studies. 
+Selection criteria
+We sought randomised controlled trials (RCTs), quasi‐randomised controlled trials, and cluster‐randomised trials that compared different methods of preoperative or intraoperative anaesthetic or analgesic, administered during the manual removal of a retained placenta. 
+Data collection and analysis
+Two review authors independently assessed the study reports for inclusion, and risk of bias, extracted data and checked them for accuracy. We followed standard Cochrane methodology. 
+Main results
+We identified only one randomised controlled trial (N = 30 women) that evaluated the effect of paracervical block on women undergoing manual removal of a retained placenta compared with intravenous pethidine and diazepam. The study was conducted in a hospital in Papua New Guinea. The study was at high risk of bias of performance bias and detection bias, low risk of attrition bias, and an unclear risk of selection bias, reporting bias, and other bias. 
+The included study did not measure this review's primary outcomes of pain intensity and adverse events. 
+The study reported that there were no women, in either group, who experienced an estimated postpartum blood loss of more than 500 mL. 
+We are uncertain about the providers' satisfaction with the procedure, defined as their perception of achieving good pain relief during the procedure (risk ratio (RR) 1.50, 95% confidence interval (CI) 0.71 to 3.16, one study, 30 women; very low quality evidence). 
+We are also uncertain about the women's satisfaction with the procedure, defined as their perception of achieving good pain relief during the procedure (RR 0.82, 95% CI 0.49 to 1.37; one study, 30 women; very low quality evidence). 
+The included study did not report on any of our other outcomes of interest.
+Authors' conclusions
+There is insufficient evidence from one small study to evaluate the effectiveness and safety of anaesthesia or analgesia during the manual removal of a retained placenta. 
+The quality of the available evidence was very low. We downgraded based on issues of limitations in study design (risk of bias) and imprecision (single study with small sample size, few or no events, and wide confidence intervals). 
+There is a need for well‐designed, multi‐centre, randomised, controlled trials to evaluate the effectiveness and safety of different types of anaesthesia and analgesia during manual removal of a retained placenta. These studies could report on the important outcomes outlined in this review. 

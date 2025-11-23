@@ -1,0 +1,14 @@
+Background
+Protein restriction has been prescribed for some time for patients with chronic kidney disease (CKD). The effect of a low protein diet on delaying the progression to end‐stage kidney disease (ESKD) in children and its impact on growth and nutrition remains unresolved. 
+Objectives
+To determine the efficacy of protein restricted diet in delaying the start of maintenance dialysis and maintaining nutrition in children. 
+Search methods
+Cochrane Renal group trials register, the Cochrane Central register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, reference lists of nephrology textbooks, review articles and relevant studies. 
+Selection criteria
+Randomised control trials (RCTs) comparing un‐restricted protein diet versus a protein restricted diet (to safe amounts recommended by WHO), with follow‐up period of at least six months were included. 
+Data collection and analysis
+Two authors independently selected studies. Statistical analysis were performed using the random effects model. For dichotomous outcome results are expressed as risk ratio (RR) with 95% confidence intervals (CI). Where continuous scales of measurement are used to assess the effects of treatment, the mean difference (MD) was used. 
+Main results
+Two studies (250 children) were identified, 124 received a protein restricted diet and 126 a control diet. No significant differences was found in the number of renal deaths (RR 1.12, 95% CI 0.54 to 2.33), progression of kidney disease (creatinine clearance at two years: MD 1.47, 95% CI ‐1.19 to 4.14) or growth (weight ‐ MD ‐0.13, 95% CI ‐1.10 to 0.84; height ‐ MD ‐1.99, 95% CI ‐4.84 to 0.86). 
+Authors' conclusions
+Reducing protein intake does not appear to have significant impact in delaying the progression to ESKD in children. 

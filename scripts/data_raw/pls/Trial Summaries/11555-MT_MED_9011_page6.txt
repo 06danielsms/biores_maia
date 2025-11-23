@@ -1,0 +1,16 @@
+How much savolitinib got into the participants' blood? To answer this question, the researchers took blood samples from the participants before and after they got savolitinib. Then, they measured:
+- how much of the savolitinib from Dose 1 and Dose 2 got into the blood
+- how long it took for the amount of savolitinib to reach its highest level in the blood
+
+To find out how much of the savolitinib from Dose 1 got into the blood, the researchers measured the total amount of savolitinib in the participants' blood after Dose 2. Because Dose 2 was an IV infusion given directly into the blood, the researchers knew exactly how much savolitinib there was in the blood from Dose 2. They then subtracted the amount of savolitinib from Dose 2 from the total amount of savolitinib in the blood. This told them how much of the savolitinib in the blood was from Dose 1. The researchers then calculated the amount of savolitinib in the blood from Dose 1 as a percentage of the amount of savolitinib that the participants got in Dose 2. 
+
+Overall, the researchers found that:
+- 68.8% of the savolitinib from Dose 1 got into the participants' blood
+
+To find out how long it took for the amount of savolitinib to reach its highest level in the blood, the researchers measured the amount of savolitinib in the participants' blood after Dose 1. They then calculated how long it took after Dose 1 for the amount of savolitinib to reach its highest level in the blood.
+- It took 3.5 hours for the amount of savolitinib from Dose 1 to reach its highest level in the participants' blood.
+- It took 0.3 hours for the amount of savolitinib from Dose 2 to reach its highest level in the participants' blood.
+
+How much savolitinib left the participants' bodies in their urine and feces? To answer this question, the researchers took urine and feces samples from the participants before and after they got savolitinib. The researchers collected these samples for up to 8 days after the participants got Dose 3.
+
+-

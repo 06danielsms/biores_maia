@@ -1,0 +1,23 @@
+Background
+Persistent pulmonary hypertension of the newborn (PPHN) is a disease entity that describes a physiology in which there is persistence of increased pulmonary arterial pressure. PPHN is characterised by failure to adapt to a functional postnatal circulation with a fall in pulmonary vascular resistance. PPHN is responsible for impairment in oxygenation and significant neonatal mortality and morbidity. Prostanoids and their analogues may be useful therapeutic interventions due to their pulmonary vasodilatory and immunomodulatory effects. 
+Objectives
+Primary objective 
+• To determine the efficacy and safety of prostanoids and their analogues (iloprost, treprostinil, and beraprost) in decreasing mortality and the need for extracorporeal membrane oxygenation (ECMO) among neonates with PH 
+Secondary objective 
+• To determine the efficacy and safety of prostanoids and their analogues (iloprost, treprostinil, and beraprost) in decreasing neonatal morbidity (necrotizing enterocolitis (NEC), chronic lung disease (CLD), retinopathy of prematurity (ROP), intraventricular hemorrhage (IVH), periventricular leukomalacia (PVL), length of hospital stay, and duration of mechanical ventilation) and improving neurodevelopmental outcomes among neonates with PH 
+Comparisons 
+• Prostanoids and their analogues at any dosage or duration used to treat PPHN versus ‘standard treatment without these agents’, placebo, or inhaled nitric oxide (iNO) therapy 
+• Prostanoids and their analogues at any dosage or duration used to treat refractory PPHN as an ‘add‐on’ therapy to iNO versus iNO alone 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 9), MEDLINE via PubMed (1966 to 16 September 2018), Embase (1980 to 16 September 2018), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 16 September 2018). We also searched clinical trials databases, conference proceedings of the Pediatric Academic Societies (1990 to 16 September 2018), and the reference lists of retrieved articles for randomized controlled trials and quasi‐randomized trials. We contacted authors who have published in this field as discerned from the reference lists of identified clinical trials and review authors' personal files. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials evaluating prostanoids or their analogues (at any dose, route of administration, or duration) used in neonates at any gestational age less than 28 days' postnatal age for confirmed or suspected PPHN. 
+Data collection and analysis
+We used the standard methods of Cochrane Neonatal to conduct a systematic review and to assess the methodological quality of included studies (neonatal.cochrane.org/en/index.html). Three review authors independently assessed the titles and abstracts of studies identified by the search strategy and obtained full‐text versions for assessment if necessary. We designed forms for trial inclusion or exclusion and for data extraction. We planned to use the GRADE approach to assess the quality of evidence. 
+Main results
+We did not identify any eligible neonatal trials evaluating prostanoids or their analogues as sole agents in the treatment of PPHN. 
+Authors' conclusions
+Implications for practice 
+Currently, no evidence shows the use of prostanoids or their analogues as pulmonary vasodilators and sole therapeutic agents for the treatment of PPHN in neonates (age 28 days or less). 
+Implications for research 
+The safety and efficacy of different preparations and doses and routes of administration of prostacyclins and their analogues in neonates must be established. Well‐designed, adequately powered, randomized, multi‐center trials are needed to address the efficacy and safety of prostanoids and their analogues in the treatment of PPHN. These trials should evaluate long‐term neurodevelopmental and pulmonary outcomes, in addition to short‐term outcomes. 

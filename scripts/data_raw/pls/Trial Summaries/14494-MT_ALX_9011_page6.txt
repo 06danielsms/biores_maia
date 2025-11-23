@@ -1,0 +1,17 @@
+How unwell were the patients at the start of the study?
+Nearly all of the patients who took part in the study were very unwell. Half of the patients had needed treatment in an intensive care unit for an average of 10 days. At the start of the study, 48 out of 56 patients (86%) were in hospital because of aHUS, and 8 out of 58 patients (14%) previously had a kidney transplant.
+The researchers looked at the blood parameters of each patient to see how severe their illness was. They also looked at the stage of each patient’s kidney disease. At the start of the study, 39 out of 54 patients (72%) had the most severe stage of chronic kidney disease (stage 5), and 29 out of 56 patients (52%) had recently received dialysis.
+Data available for 54 of the 56 patients who took part in this study.
+TREATMENT RESULTS
+Answer to the main question:
+How many patients responded to ravulizumab during 26 weeks of treatment?
+To answer this question, the researchers compared the patients’ blood parameters from the start of the study to the end of 26 weeks of treatment.
+30 out of 56 patients (54%) had a complete response to treatment. This 54% means that, for these patients, all of their blood parameters returned within a normal range during 26 weeks of treatment.
+
+LDH LEVELS   PLATELET COUNT   CREATININE LEVELS
+77%               84%                               59%
+
+LDH levels for 43 out of 56 patients (77%) decreased to a normal range.
+The platelet count for 47 out of 56 patients (84%) increased to a normal range.
+Creatinine levels for 33 out of 56 patients (59%) decreased by at least 25%.
+

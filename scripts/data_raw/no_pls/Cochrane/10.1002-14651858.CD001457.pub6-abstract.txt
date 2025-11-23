@@ -1,0 +1,14 @@
+Background
+Glutamine is a conditionally essential amino acid. Endogenous biosynthesis may be insufficient for tissue needs in states of metabolic stress. Evidence exists that glutamine supplementation improves clinical outcomes in critically ill adults. It has been suggested that glutamine supplementation may also benefit preterm infants. 
+Objectives
+To determine the effects of glutamine supplementation on mortality and morbidity in preterm infants. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL, 2015, Issue 12), MEDLINE, EMBASE and Maternity and Infant Care (to December 2015), conference proceedings and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that compared glutamine supplementation versus no glutamine supplementation in preterm infants at any time from birth to discharge from hospital. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Review Group, with separate evaluation of trial quality and data extraction by two review authors. We synthesised data using a fixed‐effect model and reported typical relative risk, typical risk difference and weighted mean difference. 
+Main results
+We identified 12 randomised controlled trials in which a total of 2877 preterm infants participated. Six trials assessed enteral glutamine supplementation and six trials assessed parenteral glutamine supplementation. The trials were generally of good methodological quality. Meta‐analysis did not find an effect of glutamine supplementation on mortality (typical relative risk 0.97, 95% confidence interval 0.80 to 1.17; risk difference 0.00, 95% confidence interval ‐0.03 to 0.02) or major neonatal morbidities including the incidence of invasive infection or necrotising enterocolitis. Three trials that assessed neurodevelopmental outcomes in children aged 18 to 24 months and beyond did not find any effects. 
+Authors' conclusions
+The available trial data do not provide evidence that glutamine supplementation confers important benefits for preterm infants. 

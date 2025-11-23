@@ -1,0 +1,19 @@
+Background
+Neuroleptic drugs are controversial treatments in dementia, with evidence accumulating that they may hasten clinical decline. Despite these concerns, they are commonly prescribed for elderly and demented patients. Thioridazine, a phenothiazine neuroleptic, has been commonly prescribed because it was thought to produce relatively less frequent motor side effects. The drug has significant sedative effect, and it is thought that this is the main mechanism of action in calming and controlling the patient. However, pharmacologically, it also has marked anticholinergic properties that could potentially have a detrimental effect on cognitive function. 
+Objectives
+To evaluate the efficacy of thioridazine in dementia in terms of:  1) efficacy in controlling symptoms  2) cognitive outcome for the patient  3) safety 
+Search methods
+The CDCIG Specialised register of trials was searched on 13 March 2009 using the terms 'thioridazine' and 'melleril'. This register contains up to date references from major health care databases like MEDLINE and EMBASE as well as records from trials databases in the field of dementia. 
+Selection criteria
+Unconfounded, single‐blind or double‐blind, randomised trials were identified in which treatment with thioridazine was administered for more than one dose and compared to an alternative intervention in patients with dementia of any aetiology. Trials in which allocation to treatment or comparator were not truly random, or in which treatment allocation was not concealed, were reviewed but are not included in the data analysis. 
+Data collection and analysis
+Data were extracted independently by the reviewers (VK, CAK and RJH). For continuous and ordinal variables, the main outcome measures of interest were the final assessment score and the change in score from baseline to the final assessment. The assessment scores were provided by behavioural rating scales, clinical global impression scales, functional assessment scales, psychometric test scores, and frequency and severity of adverse events. Data were pooled where appropriate or possible, and the Peto odds ratio (95%CI) or the weighted mean difference (95%CI) estimated. Where possible, intention to treat data were used. 
+Main results
+The meta‐analysis showed that, compared with placebo, thioridazine reduced anxiety symptoms as evidenced by changes on the Hamilton Anxiety Scale. However, there was no significant effect on clinical global change, and a non‐significant trend for higher adverse effects with thioridazine. 
+Compared to diazepam, thioridazine was superior in terms of some anxiety symptoms, with similar adverse effects. Global clinical evaluation scales did not favour either treatment. 
+Compared to chlormethiazole, thioridazine was significantly inferior when assessed on some items of the CAPE and the Crichton Geriatric Behavioural Rating Scales. Thioridazine was also associated with significantly more dizziness. 
+No superiority for thioridazine was shown in comparisons with etoperidone, loxapine or zuclopenthixol, except to produce fewer side effects than loxapine. 
+Authors' conclusions
+Very limited data are available to support the use of thioridazine in the treatment of dementia. If thioridazine were not currently in widespread clinical use, there would be inadequate evidence to support its introduction. 
+The only positive effect of thioridazine when compared to placebo is the reduction of anxiety. When compared to placebo, other neuroleptics, and other sedatives, it has equal or higher rates of adverse effects. 
+Clinicians should be aware that there is no evidence to support the use of thioridazine in dementia, and its use may expose patients to excess side effects. 

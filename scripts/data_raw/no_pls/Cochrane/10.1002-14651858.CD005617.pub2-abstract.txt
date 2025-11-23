@@ -1,0 +1,14 @@
+Background
+Trigger finger is a disease of the tendons of the hand leading to triggering (locking) of affected fingers, dysfunction and pain. Available treatments include local injection with corticosteroids, surgery, or splinting. 
+Objectives
+To summarize the evidence on the efficacy and safety of corticosteroid injections for trigger finger in adults using the following endpoints: treatment success, frequency of triggering or locking, functional status of the affected fingers, and severity of pain of the fingers. 
+Search methods
+The databases CENTRAL, DARE, MEDLINE (1966 to November 2007), EMBASE (1956 to November 2007), CINAHL (1982 to November 2007), AMED (1985 to November 2007) and PEDro (a physiotherapy evidence database) were searched. 
+Selection criteria
+We selected randomized and controlled clinical trials evaluating efficacy and safety of corticosteroid injections for trigger finger in adults. 
+Data collection and analysis
+The databases were searched for titles of eligible studies. After screening abstracts of these studies, full text articles of studies which fulfilled the selection criteria were obtained. Data were extracted using a predefined electronic form. The methodological quality of included trials was assessed by using items from the checklist developed by Jadad and the Delphi list. We planned to extract data regarding information on the primary outcome measures: treatment success, frequency of triggering or locking, and functional impairment of fingers, severity of the trigger finger; and the secondary outcome measures: proportion of patients with side effects, types of side effects, and patient satisfaction with injection. 
+Main results
+Two randomized controlled studies were found that involved 63 participants: 34 were allocated to corticosteroids and lidocaine, and 29 were allocated to lidocaine alone. Corticosteroid injection with lidocaine was more effective than lidocaine alone on treatment success at four weeks (relative risk 3.15, 95% CI 1.34 to 7.40). The number needed to treat to benefit was 3. No adverse events or side effects were reported. 
+Authors' conclusions
+The effectiveness of local corticosteroid injections was studied in only two small randomized controlled trials of poor methodological quality. Both studies showed better short‐term effects of corticosteroid injection combined with lidocaine compared to lidocaine alone on the treatment success outcome. In one study the effects of corticosteroid injections lasted up to four months. No adverse effects were observed. The available evidence for the effectiveness of intra‐tendon sheath corticosteroid injection for trigger finger can be graded as a silver level evidence for superiority of corticosteroid injections combined with lidocaine over injections with lidocaine alone. 

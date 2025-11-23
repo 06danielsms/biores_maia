@@ -1,0 +1,9 @@
+Interventions for chronic non‐hypovolaemic hypotonic hyponatraemia
+What is the issue? 
+A low blood sodium concentration can be caused by many conditions and is linked to shorter survival and longer hospital stays. Many treatments, such as fluid restriction or certain water pills called vasopressin receptor antagonists can be used to increase the blood sodium concentration, as long as increases happen slowly enough to avoid brain damage. Whether these treatments also improve patient outcomes (the way patients feel, function and survive) is less clear. 
+What did we do? 
+We included randomised controlled trials (RCTs) and quasi‐RCTs that compared the effects of any intervention with placebo, no treatment, standard care, or any other intervention in patients with chronic non‐hypovolaemic hypotonic hyponatraemia. 
+What did we find? 
+Our systematic search (to December 2017) identified 35 studies, enrolling 3429 patients. Vasopressin receptor antagonists have unclear effects on the risk of death and quality of life, with additional studies needed to answer these questions. They likely improve the blood sodium concentration, but it sometimes happens too quickly. In addition, people who take vasopressin receptor antagonists may experience increased thirst and urine output. There is very little information for any of the other available treatments. 
+Conclusions 
+In people with low blood sodium concentration, vasopressin receptor antagonists modestly raised the sodium concentration. The effects on mortality and health‐related quality of life are unclear and do not rule out appreciable benefit or harm; there does not appear to be an important effect on cognitive function, but hospital stay may be slightly shorter, although available data are limited. Evidence for other treatments is largely absent. 

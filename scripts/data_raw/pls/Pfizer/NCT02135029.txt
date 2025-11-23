@@ -1,0 +1,24 @@
+```Heart disease is a leading cause of death in both men and women. One of the biggest risks for getting heart disease is having high "bad" cholesterol (called LDL, or low-density lipoprotein cholesterol). Having high LDL cholesterol can lead to heart problems. 
+Doctors prescribe medicines called "statins" to patients with high LDL cholesterol to lower the LDL cholesterol in the blood. Some people have muscle-related medical problems when taking statins. These medical problems include muscle spasms and pain in the muscles (myalgia), which may be severe. This may prevent them from being able to take their prescribed statin medications. 
+Researchers did this study to look for a new way to treat patients with high LDL cholesterol who are unable to take a statin because of muscle-related medical problems. Bococizumab was the medicine tested in this study. It is not a statin. Bococizumab is a medicine that was given in this study as an injection under the skin (subcutaneous) which may help to lower LDL cholesterol. For this study, researchers wanted to answer the question: Does bococizumab help to lower LDL cholesterol in patients who cannot take statin medications?```
+This study compared 3 groups of patients. Researchers wanted to find out if patients taking bococizumab had lower LDL cholesterol than patients who took a placebo. A placebo does not have any medicine in it, but looks just like the medicine being tested. One group got a statin medicine (atorvastatin). The statin medicine was used to see if people taking it had the same medical problems as when they had used statins before (re-challenge). 
+
+This study included adult men and women who: 
+- Had high cholesterol that requires medicine to treat
+- Tried taking at least 2 different statins in the past
+- Stopped taking their statins because of muscle problems (like pain, or muscle spasms)
+ 
+Patients were put into 1 of 3 treatment groups by chance alone. This is known as a “randomized” study. This is done to make the groups more similar for things like age and the number of men and women. Making the groups more similar makes comparing the groups more fair. The patients and researchers did not know who took what medicine during the study. This is known as a “double-blinded” study. Researchers use “double-blinded” studies to make sure that the results of the study are not influenced in any way.
+
+Descriptions of Medicines Given in Each Group
+Group 1 Medicines Given: Bococizumab 150 mg AND atorvastatin placebo. Why the Group Was Used in this Study: To see if bococizumab lowered LDL cholesterol
+Group 2 Medicines Given: Bococizumab placebo AND atorvastatin placebo. Why the Group Was Used in this Study: To see if bococizumab worked better than no medicine
+Group 3 Medicines Given: Bococizumab placebo AND 40 mg atorvastatin. Why the Group Was Used in this Study: To confirm that the enrolled patients were, in fact, unable to take a statin 
+
+For 2 weeks, patients were checked (screened) to make sure they met all the requirements to be in the study. Next, all patients took the same placebo treatments for 4 weeks. Then, patients were put into 1 of 3 groups and were treated for 24 weeks. After taking the study medicines, patients were followed by researchers for 6 weeks (follow-up phase) to see how they did after taking study medicines. 
+
+While patients were only in the study for 36 weeks (about 9 months), the entire study took 17 months to complete. The study took place at 26 sites in the US and 6 sites in Canada. It began on 04 June 2014 and ended on 03 November 2015. 184 patients started this study. 85 patients were men and 99 patients were women. All patients were between the ages of 33 and 83. 
+
+Of the 184 patients who started the study, 183 took at least one dose of the study medicine. 172 finished the study. 11 patients left before the study was over by their choice or because a doctor decided it was best for a patient to stop the study. 1 patient died. Study medicines did not cause the patient’s death. 
+
+When the study ended in November 2015, the Sponsor began to look at the information collected. The Sponsor then created a report of the results. This is a summary of that report.

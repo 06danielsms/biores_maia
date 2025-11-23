@@ -1,0 +1,16 @@
+Background
+Herbal medicine interventions have been identified as having potential benefit in the treatment of rheumatoid arthritis (RA). 
+Objectives
+To update an existing systematic (Cochrane) review of herbal therapies in RA.
+Search methods
+We searched electronic databases Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, AMED, CINAHL, Web of Science, Dissertation Abstracts (1996 to 2009), unrestricted by language, and the WHO International Clinical Trials Registry Platform in October 2010. 
+Selection criteria
+Randomised controlled trials of herbal interventions compared with placebo or active controls in RA. 
+Data collection and analysis
+Two authors selected trials for inclusion, assessed risk of bias and extracted data. 
+Main results
+Twelve new studies were added to the update, a total of 22 studies were included.
+Evidence from seven studies indicate potential benefits of gamma linolenic acid (GLA) from evening primrose oil, borage seed oil, or blackcurrent seed oil, in terms of reduced pain intensity (mean difference (MD) ‐32.83 points, 95% confidence interval (CI) ‐56.25 to ‐9.42,100 point pain scale); improved disability (MD ‐15.75% 95% CI ‐27.06 to ‐4.44%); and an increase in adverse events (GLA 20% versus placebo 3%), that was not statistically different (relative risk 4.24, 95% CI 0.78 to 22.99). 
+Three studies compared Tripterygium wilfordii (thunder god vine) to placebo and one to sulfasalazine and indicated improvements in some outcomes, but data could not be pooled due to differing interventions, comparisons and outcomes. One study reported serious side effects with oral Tripterygium wilfordii Hook F. In the follow‐up studies, all side effects were mild to moderate and resolved after the intervention ceased. Two studies compared Phytodolor® N to placebo but poor reporting limited data extraction. The remaining studies each considered differing herbal interventions. 
+Authors' conclusions
+Several herbal interventions are inadequately justified by single studies or non‐comparable studies in the treatment of rheumatoid arthritis. There is moderate evidence that oils containing GLA (evening primrose, borage, or blackcurrant seed oil) afford some benefit in relieving symptoms for RA, while evidence for Phytodolor® N is less convincing.Tripterygium wilfordii products may reduce some RA symptoms, however, oral use may be associated with several side effects. Many trials of herbal therapies are hampered by research design flaws and inadequate reporting. Further investigation of each herbal therapy is warranted, particularly via well designed, fully powered, confirmatory clinical trials that use American College of Rheumatology improvement criteria to measure outcomes and report results according to CONSORT guidelines. 

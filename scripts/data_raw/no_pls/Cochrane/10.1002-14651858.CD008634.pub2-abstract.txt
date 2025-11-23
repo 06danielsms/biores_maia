@@ -1,0 +1,15 @@
+Background
+Antipsychotic medication is regularly prescribed in care homes to control 'behavioural and psychological symptoms of dementia' despite moderate efficacy, significant adverse effects, and available non‐pharmacological alternatives. 
+Objectives
+To evaluate the effectiveness of psychosocial interventions to reduce antipsychotic medication in care home residents. 
+Search methods
+The Cochrane Dementia and Cognitive Improvement Group's Specialized Register, MEDLINE, EMBASE, CINAHL, PsycINFO, LILACS, a number of trial registers and grey literature sources were searched on 19th December 2011. 
+Selection criteria
+Individual or cluster‐randomised controlled trials comparing a psychosocial intervention aimed at reducing antipsychotic medication with usual care in care home residents or comparing two different approaches. 
+Data collection and analysis
+Two review authors independently assessed the retrieved articles for relevance and methodological quality and extracted data. Critical appraisal of studies addressed risk of bias through selection bias, performance bias, attrition bias, and detection bias, as well as criteria related to cluster design. Authors of relevant studies were contacted for additional information. 
+Owing to clinical heterogeneity of interventions, statistical heterogeneity was not assessed and no meta‐analysis performed. Study results are presented in a narrative form. 
+Main results
+Four cluster‐randomised controlled studies met the inclusion criteria. All of them investigated complex interventions comprising educational approaches. Three studies offered education and training for nursing staff, one study offered multidisciplinary team meetings as main component of the intervention. There was one high‐quality study, but overall the methodological quality of studies was moderate.  The studies revealed consistent results for the primary end point. All studies documented a decrease of the proportion of residents with antipsychotic drug use or a reduction in days with antipsychotic use per 100 days per resident, respectively. In summary, the reviewed evidence on psychosocial interventions targeting professionals is consistent with a reduction of antipsychotic medication prescription in care home residents. However, owing to heterogeneous approaches, summary effect sizes cannot be determined. 
+Authors' conclusions
+There is evidence to support the effectiveness of psychosocial interventions for reducing antipsychotic medication in care home residents. However, the review was based on a small number of heterogeneous studies with important methodological shortcomings. The most recent and methodologically most rigorous study showed the most pronounced effect. 

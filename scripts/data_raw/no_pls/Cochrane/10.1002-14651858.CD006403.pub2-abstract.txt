@@ -1,0 +1,14 @@
+Background
+Anthrax is a bacterial zoonosis that occasionally causes human disease and is potentially fatal. Anthrax vaccines include a live‐attenuated vaccine, an alum‐precipitated cell‐free filtrate vaccine, and a recombinant protein vaccine. 
+Objectives
+To evaluate the effectiveness, immunogenicity, and safety of vaccines for preventing anthrax. 
+Search methods
+We searched the following databases (November 2008): Cochrane Infectious Diseases Group Specialized Register; CENTRAL (The Cochrane Library 2008, Issue 4); MEDLINE; EMBASE; LILACS; and mRCT. We also searched reference lists. 
+Selection criteria
+We included randomized controlled trials (RCTs) of individuals and cluster‐RCTs comparing anthrax vaccine with placebo, other (non‐anthrax) vaccines, or no intervention; or comparing administration routes or treatment regimens of anthrax vaccine. 
+Data collection and analysis
+Two authors independently considered trial eligibility, assessed risk of bias, and extracted data. We presented cases of anthrax and seroconversion rates using risk ratios (RR) and 95% confidence intervals (CI). We summarized immunoglobulin G (IgG) concentrations using geometric means. We carried out a sensitivity analysis to investigate the effect of clustering on the results from one cluster‐RCT. No meta‐analysis was undertaken. 
+Main results
+One cluster‐RCT (with 157,259 participants) and four RCTs of individuals (1917 participants) met the inclusion criteria. The cluster‐RCT from the former USSR showed that, compared with no vaccine, a live‐attenuated vaccine (called STI) protected against clinical anthrax whether given by a needleless device (RR 0.16; 102,737 participants, 154 clusters) or the scarification method (RR 0.25; 104,496 participants, 151 clusters). Confidence intervals were statistically significant in unadjusted calculations, but when a small amount of association within clusters was assumed, the differences were not statistically significant. The four RCTs (of individuals) of inactivated vaccines (anthrax vaccine absorbed and recombinant protective antigen) showed a dose response relationship for the anti‐protective antigen IgG antibody titre. Intramuscular administration was associated with fewer injection site reactions than subcutaneous injection, and injection site reaction rates were lower when the dosage interval was longer. 
+Authors' conclusions
+One cluster‐RCT provides limited evidence that a live‐attenuated vaccine is effective in preventing cutaneous anthrax. Vaccines based on anthrax antigens are immunogenic in most vaccinees with few adverse events or reactions. Ongoing randomized controlled trials are investigating the immunogenicity and safety of anthrax vaccines.   

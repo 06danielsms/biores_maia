@@ -1,0 +1,14 @@
+Background
+Respiratory distress syndrome (RDS) is considered one of the major contributors to severe pulmonary dysfunction and consequent death in preterm infants. Despite widespread improvements in care, including increased utilization of antenatal steroids, use of surfactant replacement therapy, and advances in conventional mechanical ventilation (CMV), chronic lung disease (CLD) occurs in 42% of surviving preterm infants born at less than 28 weeks gestational age (GA). High frequency ventilation (HFV) aims to optimize lung expansion while minimizing tidal volume (Vt) to decrease lung injury. Two methods of HFV ‐ high frequency oscillatory ventilation (HFOV) and high frequency jet ventilation (HFJV) ‐ are widely used, but neither has demonstrated clear superiority in elective or rescue mode. 
+Objectives
+To compare the benefits and side effects of HFJV versus HFOV for mortality and morbidity in preterm infants born at less than 37 weeks GA with pulmonary dysfunction in both elective and rescue modes. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 11), MEDLINE via PubMed (1966 to November 30, 2015), EMBASE (1980 to November 30, 2015), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to November 30, 2015). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials and quasi‐randomized trials. We imposed no date, language, or publication restrictions. 
+Selection criteria
+We planned to include randomized, cluster‐randomized, and quasi‐randomized controlled trials if study authors stated explicitly that groups compared in the trial were established by a random or systematic method of allocation. We planned to exclude cross‐over studies, as they would not allow assessment of the outcomes of interest. 
+Data collection and analysis
+We used the standard methods of the Neonatal Cochrane Review Group, including independent trial assessment and data extraction. We intended to analyze the data by using risk ratios (RRs) and risk differences (RDs) and 1/RD. We planned to calculate the number needed to treat for an additional beneficial outcome (NNTB) or the number needed to treat for an additional harmful outcome (NNTH). 
+Main results
+We found no studies that met our inclusion criteria.
+Authors' conclusions
+We found no evidence to support the superiority of HFJV or HFOV as elective or rescue therapy. Until such evidence is available, comparison of potential side effects or presumed benefits of either mode is not feasible. 

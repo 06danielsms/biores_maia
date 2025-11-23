@@ -1,0 +1,19 @@
+Background
+Reports of direct comparisons between operative techniques for anal fissure are variable in their results. These reports are either subject to selection bias (in non‐randomized studies) or observer bias (in all studies) or have inadequate numbers of patients enrolled to answer the question of efficacy. 
+Objectives
+To determine the best technique for fissure surgery.
+Search methods
+The Cochrane Central Register of Controlled Trials and MEDLINE (1965‐2011), Medline (Pubmed) and Embase were searched March to 2011. The list of cited references in all included reports and several study authors also were helpful in finding additional comparative studies. 
+A total of four new trials were included in this update of the review.
+Selection criteria
+All reports in which there was a direct comparison between at least two operative techniques were reviewed and when more than one report existed for any given pair, that report was included. All studies must also be randomised. If crude data were not presented in the report, the authors were contacted and crude data obtained. 
+Data collection and analysis
+The two most commonly used end points in all reported studies were treatment failure and post‐operative incontinence both to flatus and faeces. These are the only two endpoints included in the meta‐analysis. 
+Main results
+Four trials, encompassing 406 patients were included in this update, with now a total of 2056 patients in the review from 27 studies that describe and analyze 13 different operative procedures. These operative techniques used by these studies include closed lateral sphincterotomy, open lateral internal sphincterotomy, anal stretch, balloon dilation, wound closure, perineoplasty, length of sphincterotomy and fissurectomy. Two new procedures in the update, similar to anal stretch were described‐ sphincterolysis and controlled intermittent anal dilatation. A new comparison was described, comparing the effects of unilateral internal sphincterotomy and bilateral internal sphincterotomy. 
+Manual Anal stretch has a higher risk of fissure persistence than internal sphincterotomy and also a significantly higher risk of minor incontinence than sphincterotomy. The combined analyses of open versus closed partial lateral internal sphincterotomy show little difference between the two procedures both in fissure persistence and risk of incontinence 
+Unilateral internal sphincterotomy was shown to be more likely to result in treatment failure compared to bilateral internal sphincterotomy, but there is no significant difference in the risk of incontinence. 
+Sphincterotomy was less likely to result in treatment failure when compared to fissurectomy, but there was no significant difference when considering post‐operative incontinence. 
+When comparing sphincterotomy to sphincterolysis, there was no significant difference between the two procedures both in treatment failure and risk of incontinence; the same is the case when comparing sphincterotomy with controlled anal dilation. 
+Authors' conclusions
+Manual anal stretch should probably be abandoned in the treatment of chronic anal fissure in adults. For those patients requiring surgery for anal fissure, open and closed partial lateral internal sphincterotomy appear to be equally efficacious. More data are needed to assess the effectiveness of posterior internal sphincterotomy, anterior levatorplasty, wound suture or papilla excision. Bilateral internal sphincterotomy shows promise, but needs further research into its efficacy. 

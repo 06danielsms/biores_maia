@@ -1,0 +1,14 @@
+Background
+Metronidazole is the standard of care for uncomplicated amoebic liver abscesses (considering that complicated liver abscesses are those localized in left lobe, multiple, and/or pyogenic abscesses). However, a subset of patients with amoebic liver abscesses remain symptomatic, with a significant risk of rupture of the abscess into the peritoneum. The role of image‐guided percutaneous therapeutic aspiration in these patients remains controversial. 
+Objectives
+To assess the beneficial and harmful effects of image‐guided percutaneous procedure plus metronidazole versus metronidazole alone in patients with uncomplicated amoebic liver abscess. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials in The Cochrane Library (Issue 2, 2007), MEDLINE (1966 to November 2007), EMBASE (1988 to September 2007), and Science Citation Index Expanded (1945 to September 2007). 
+Selection criteria
+Randomised or quasi‐randomised trials comparing an image‐guided percutaneous procedure plus metronidazole versus metronidazole alone in patients with uncomplicated amoebic liver abscess. 
+Data collection and analysis
+Inclusion criteria, trial quality assessment, and data extraction were done in duplicate. We calculated relative risks (RR) and mean differences, and checked for heterogeneity by visual inspection of forest plots and chi‐squared and I2 tests. 
+Main results
+Seven low quality randomised trials were included. All studies included a total of 310 patients, but due to selective outcome reporting bias, less patients could be included in our analyses. Pooled analysis of three homogenous trials showed that needle aspiration did not significantly increase the proportion of patients with fever resolution (RR 0.60, 95% confidence interval (CI) 0.22 to 1.61). Sensitivity analysis according to trial quality preserved these findings. Trials that evaluated resolution of abdominal pain, days to resolution of fever, pain, resolution of abscess cavities, reduction in liver size, and duration of hospitalisation were heterogeneous. The benefits in the number of days to resolution of pain (MD ‐1.59, 95%CI ‐2.73 to ‐0.42), number of days to resolution of abdominal tenderness (MD ‐1.70, 95%CI ‐2.86 to ‐0.54), and duration of hospitalisation (MD ‐1.31, 95%CI ‐2.05 to ‐0.57) were observed in the needle aspiration group only. 
+Authors' conclusions
+Therapeutic aspiration in addition to metronidazole to hasten clinical or radiologic resolution of uncomplicated amoebic liver abscesses cannot be supported or refuted by the present evidence. The trials lack methodological rigour and adequate sample size to conclude on the presence of effectiveness of adjunctive image‐guided aspiration plus metronidazole versus metronidazole alone. Further randomised trials are necessary. 

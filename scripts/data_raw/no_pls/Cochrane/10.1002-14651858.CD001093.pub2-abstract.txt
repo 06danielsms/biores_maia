@@ -1,0 +1,14 @@
+Background
+Randomised controlled trials (RCTs) in the 1970s and early 1980s showed the polysaccharide serogroup A vaccine (SgAV) prevented serogroup A meningococcal meningitis (SGAMM). Subsequent non‐RCTs suggested significant variations in the age‐specific duration of protection among children. 
+Objectives
+To determine the protective effect, duration of protection, age‐specific effects and the effect of booster doses in children of the SgAV against SGAMM. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, issue 2) which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE (January 1950 to May Week 3, 2010) and EMBASE (January 1974 to May 2010). 
+Selection criteria
+We included RCTs. Non‐RCTs that addressed outcomes not addressed by the RCTs were then identified and assessed. 
+Data collection and analysis
+We assessed the methodological quality of RCTs and identified and assessed the non‐RCTs. Of the 12 eligible RCTs, four were excluded because of high risk of bias. Data were pooled from the trials using the Exact method to assess vaccine efficacy. Of the 15 non‐RCTs, only two addressed objectives not answered by the RCT but were assessed to be at high risk of bias. 
+Main results
+Eight out of 12 eligible RCTs were included; 236,760 participants were vaccinated and 243,308 participants were controls. The protective effect of the vaccine in the first year was consistent across RCTs ‐ summary vaccine efficacy 95% (95% CI 87% to 99%). Protection extended to the second and third year after vaccination but the results did not attain statistical significance. The vaccine was protective in Finnish children aged three months to five years. The latter was the only trial to offer booster doses to young children but lacked statistical power. The vaccine was protective in one‐ to five‐year olds in low‐income countries but the efficacy in narrower age strata could not be determined. 
+Authors' conclusions
+The  vaccine was strongly protective for the first year in children over five and adults, but its efficacy beyond the first year could not be determined with precision. Children aged one to five years in low‐income countries were also protected but the efficacy in this age group could not be determined. While the vaccine was strongly protective among children aged three months to five years in Finland, the efficacy in narrower age strata could not be determined. The sample size was too small to draw conclusions on the effect of booster doses. 

@@ -1,0 +1,9 @@
+Lung cancer is the name for cancer that starts in the lungs. Non-small cell lung cancer (NSCLC) is the most common type of lung cancer. Some patients have NSCLC that is referred to as "ALK-positive" or "ROS1-positive". These patients have changes in their genes that can cause cancer cells to grow.
+The Sponsor is developing an investigational medicine called lorlatinib to treat ALK-positive and ROS1-positive lung cancers. There are certain proteins called "kinases" that help cancer cells to grow. As they grow, the cancer cells can form into a tumor and spread to other parts of the body, such as the brain. Lorlatinib may be able to block kinases, potentially reducing tumor size and stopping ALK-positive and ROS1-positive lung cancers from being able to grow and spread. Lorlatinib is known as an "ALK-inhibitor" medication.
+This was the first study to test lorlatinib in humans. At the time this study began, lorlatinib was not approved for use outside of research studies. Since that time, lorlatinib has been approved in the United States for certain patients.
+The researchers wanted to learn more about the effects of lorlatinib, and to find the correct dose for treating ALK-positive and ROS1-positive lung cancer patients. This study was divided into 2 parts: phase 1 and phase 2.
+The purpose of the study was to answer the following questions:
+- For phase 1, what "dose-limiting toxicities" did patients have at each dose during their first treatment cycle?
+"Dose-limiting toxicities" (DLTs) are certain medical problems caused by taking lorlatinib which require the patient to lower the dose or stop taking the medicine (permanently or temporarily). DLTs can be many things, and may include, for example, fever with a low count of white blood cells or swelling in the pancreas.
+- For phase 2, how many patients would have a reduction in tumor size after taking lorlatinib?
+090177e18fbbbabd\Approved\Approved On: 12-Nov-2018 09:07 (GMT)

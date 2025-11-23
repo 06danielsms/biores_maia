@@ -1,0 +1,17 @@
+Certolizumab pegol for the treatment of maintaining inactive Crohn's disease
+What was the aim of this review? 
+This Cochrane Review aimed to find out if long‐term use of certolizumab pegol (CZP) is an effective and safe treatment for people with Crohn's disease (CD) compared to placebo. We collected and analyzed all relevant studies to answer this question. 
+What is Crohn's disease? 
+CD is a chronic disease that causes inflammation of the gastrointestinal tract such as the small and large intestines. The common symptoms of CD are chronic diarrhoea, abdominal pain, fever, and weight loss. The exact cause and mechanism of CD are not clear, but it is known that a chemical messenger called tumour necrosis factor‐alpha (TNFα) is involved in the inflammation of the intestines.  
+What is certolizumab pegol? 
+CZP is a medicine that is injected under the skin and suppresses the activity of TNFα. CZP can suppress ongoing inflammation in people with CD. However, the effectiveness and safety of long‐term use of CZP in people with CD who do not have an ongoing inflammation are not well understood, and it is important to clarify this point. 
+What did we do? 
+We searched for studies that investigated CZP compared with placebo (a dummy treatment) in people with CD. We searched the medical literature up to 23 March 2022. 
+What did we find? 
+We found one relevant study involving 428 people with CD. The study focused on people with CD aged 18 years and older who showed a positive response to three doses of CZP. It compared the effectiveness and side effects of long‐term use of CZP against placebo. 
+Key results 
+We found that CZP use likely contributed to better control of CD. Of 216 people with CD who were given CZP, 103 had control of the disease for 26 weeks. In contrast, of the 212 people with CD who were given a placebo, 60 had control of their disease. In addition, there were no obvious side effects of either CZP or placebo over the 26 weeks. 
+Certainty in the evidence 
+We used a general four‐level rating scale method (i.e. high, moderate, low, or very low) for evaluating our certainty in the evidence of the results (GRADE). We found that the certainty of the evidence for the effects of CZP was moderate because the number of participants was insufficient in the included study. For safety evidence of CZP, the certainty of the evidence was low due to the small number of participants who experienced side effects. 
+Conclusions 
+CZP is likely an effective and safe treatment to suppress inflammation in people with CD; however, the current studies are limited to 26 weeks of follow‐up (monitoring) and only in adults. Therefore, these conclusions cannot be used to guide longer‐term treatment or for children at present. 

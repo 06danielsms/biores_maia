@@ -1,0 +1,17 @@
+Background
+Dysmenorrhoea (painful menstrual cramps) is common. Combined OCPs are recommended in the management of primary dysmenorrhoea. 
+Objectives
+To determine the effectiveness and safety of combined oral contraceptive pills for the management of primary dysmenorrhoea. 
+Search methods
+We conducted electronic searches for randomised controlled trials (RCTs) in the Cochrane Menstrual Disorders and Subfertility Group Register of controlled trials CENTRAL, CCTR, MEDLINE, EMBASE, and CINAHL (first conducted in 2001, updated on 5 November 2008). 
+Selection criteria
+RCTs comparing all combined OCPs with other combined OCPs, placebo, no management, or management with nonsteroidal anti‐inflammatories (NSAIDs) were considered. 
+Data collection and analysis
+Twenty three studies were identified and ten were included. Six compared the combined OCP with placebo and four compared different dosages of combined OCP. 
+Main results
+One study of low dose oestrogen and four studies of medium dose oestrogen combined OCPs compared with placebo, for a combined total of 497 women, reported pain improvement. For the outcome of pain relief across the different OCPs the pooled OR suggested benefit with OCPs compared to placebo (7 RCTs: Peto OR 2.01 [95% CI 1.32, 3.08]).The Chi‐squared test for heterogeneity showed there is significant heterogeneity with an I2 statistic of 64% and a significant chi‐square test (14.06, df=5, p=0.02). A sensitivity analysis removing the studies with inadequate allocation concealment suggested significant benefit of treatment with the pooled OR of 2.99 (95% CI 1.76, 5.07) and heterogeneity no longer statistically significant and I2 statistic of 0%. 
+Three studies reported adverse effects (Davis 2005; Hendrix 2002; GPRG 1968) The adverse effects were nausea, headaches and weight gain. Two studies reported if women experienced any side effect and no evidence of an effect was found (3 RCTs: OR = 1.45 (95% 0.71, 2.94). There was no evidence of statistical heterogeneity. 
+There were no studies identified that compared combined OCP versus non steroidal anti‐inflammatory drugs 
+There was no evidence of a difference for the pooled studies for 3rd generation pro gestagens (OR = 1.11 (95% CI 0.79 ‐ 1.57)). For the 2nd generation versus 3rd generation the OR was 0.44 (95% CI 0.23‐0.84) suggesting benefit of the 3rd generation OCP but this was for a single study (Winkler 2003). 
+Authors' conclusions
+There is limited evidence for pain improvement with the use of the OCP (both low and medium dose oestrogen) in women with dysmenorrhoea. There is no evidence of a difference between different OCP preparations. 

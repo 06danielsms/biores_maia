@@ -1,0 +1,14 @@
+Background
+Elevated plasma levels of the amino acid homocysteine (hyperhomocysteinaemia) are associated with narrowing or blocking of the arteries (atherosclerosis). Treatment to lower homocysteine levels has been shown to be both effective and cheap in healthy volunteers. However, the impact of reducing homocysteine levels on the progression of atherosclerosis and patency of the vessels after treatment for atherosclerosis is still unknown and forms the basis for this review. This is the second update of a review first published in 2002. 
+Objectives
+To assess the effects of plasma homocysteine lowering therapy on the clinical progression of disease in people with peripheral arterial disease (PAD) and hyperhomocysteinaemia including, as a subset, those who have undergone surgical or radiological intervention. 
+Search methods
+For this update, the Cochrane Peripheral Vascular Disease Group Trials Search Co‐ordinator (TSC) searched the Specialised Register (last searched January 2013) and CENTRAL (2012, Issue 12). Trial databases were searched by the TSC (January 2013) for details of ongoing and unpublished studies. We also searched the reference lists of relevant articles. 
+Selection criteria
+Randomised trials in which participants with PAD and hyperhomocysteinaemia were allocated to either homocysteine lowering therapy or no treatment, including participants before and after surgical or radiological interventions. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted the data. Information on adverse events was collected from the trials. 
+Main results
+Two randomised trials with a total of 161 participants were included in this review. The studies did not report on mortality and rate of limb loss. One randomised trial with a total of 133 participants showed that there was a significant improvement in ankle brachial index (ABI) in participants who received folic acid compared with placebo (mean difference (MD) 0.07, 95% confidence interval (CI) 0.04 to 0.11, P < 0.001) and in participants who received 5‐methyltetrahydrofolate (5‐MTHF) versus placebo (MD 0.05, 95% CI 0.01 to 0.10, P = 0.009). A second trial with a total of 18 participants showed that there was no difference (P non‐significant) in ABI in participants who received a multivitamin B supplement (mean ± SEM: 0.7 ± 01) compared with placebo (mean ± SEM: 0.8 ± 0.1). No major events were reported. 
+Authors' conclusions
+Currently, no recommendation can be made regarding the value of treatment of hyperhomocysteinaemia in peripheral arterial disease. Further, well constructed trials are urgently required. 

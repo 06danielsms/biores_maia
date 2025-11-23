@@ -1,0 +1,16 @@
+Background
+Pseudomonas aeruginosa is the most common bacterial pathogen causing lung infections in people with cystic fibrosis and appropriate antibiotic therapy is vital. Antibiotics for pulmonary exacerbations are usually given intravenously, and for long‐term treatment, via a nebuliser. Oral anti‐pseudomonal antibiotics with the same efficacy and safety as intravenous or nebulised antibiotics would benefit people with cystic fibrosis due to ease of treatment and avoidance of hospitalisation. This is an update of a previous review. 
+Objectives
+To determine the benefit or harm of oral anti‐pseudomonal antibiotic therapy for people with cystic fibrosis, colonised with Pseudomonas aeruginosa, in the: 1. treatment of a pulmonary exacerbation; and 2. long‐term treatment of chronic infection. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+We contacted pharmaceutical companies and checked reference lists of identified trials.
+Date of last search: 08 July 2016.
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing any dose of oral anti‐pseudomonal antibiotics, to other combinations of inhaled, oral or intravenous antibiotics, or to placebo or usual treatment for pulmonary exacerbations and long‐term treatment. 
+Data collection and analysis
+Two authors independently selected the trials, extracted data and assessed quality. We contacted trial authors to obtain missing information. 
+Main results
+We included three trials examining pulmonary exacerbations (171 participants) and two trials examining long‐term therapy (85 participants). We regarded the most important outcomes as quality of life and lung function. The analysis did not identify any statistically significant difference between oral anti‐pseudomonal antibiotics and other treatments for these outcome measures for either pulmonary exacerbations or long‐term treatment. One of the included trials reported significantly better lung function when treating a pulmonary exacerbation with ciprofloxacin when compared with intravenous treatment; however, our analysis did not confirm this finding. We found no evidence of difference between oral anti‐pseudomonal antibiotics and other treatments regarding adverse events or development of antibiotic resistance, but trials were not adequately powered to detect this. None of the studies had a low risk of bias from blinding which may have an impact particularly on subjective outcomes such as quality of life. The risk of bias for other criteria could not be clearly stated across the studies. 
+Authors' conclusions
+We found no conclusive evidence that an oral anti‐pseudomonal antibiotic regimen is more or less effective than an alternative treatment for either pulmonary exacerbations or long‐term treatment of chronic infection with P. aeruginosa. Until results of adequately‐powered future trials are available, treatment needs to be selected on a pragmatic basis, based upon any available non‐randomised evidence, the clinical circumstances of the individual, the known effectiveness of drugs against local strains and upon individual preference. 

@@ -1,0 +1,14 @@
+Background
+IgA nephropathy (IgAN) is the most common primary glomerular disease with approximately 30% to 40% of patients progressing to end‐stage kidney disease (ESKD) within 20 years. The most common regimens include immunosuppressive agents, however the risks of long‐term treatment often outweigh the potential benefits. Non‐immunosuppressive options, including fish oils, anticoagulants, antihypertensive agents and tonsillectomy have also been examined but not reviewed systematically. 
+Objectives
+To assess the benefits and harms of non‐immunosuppressive treatments for treating IgAN in adults and children. 
+Search methods
+In July 2010 we searched the Cochrane Renal Group's specialised register, CENTRAL (in The Cochrane Library), MEDLINE (from 1966) and EMBASE (from 1980). We also searched reference lists of included studies, review articles and contacted local and international experts. 
+Selection criteria
+Randomised controlled trials (RCTs) of non‐immunosuppressive agents in adults and children with biopsy‐proven IgAN were included. 
+Data collection and analysis
+Two authors independently reviewed search results, extracted data and assessed study quality. Results were expressed as mean differences (MD) for continuous outcomes and risk ratios (RR) for dichotomous outcomes with 95% confidence intervals (CI) using a random‐effects model. 
+Main results
+We included 56 studies (2838 participants). Antihypertensive agents were the most beneficial non‐immunosuppressive intervention for IgAN. The antihypertensives examined were predominantly angiotensin‐converting enzyme inhibitors (ACEi), angiotensin receptor blockers (ARB) or combinations of both, versus other antihypertensives and other agents. The benefits of antihypertensive agents, particularly inhibitors of the renin angiotensin system, appear to potentially outweigh the harms in patients with IgAN. The benefits are largely manifest as a reduction in proteinuria, a surrogate outcome. There is no evidence that treatment with any of the antihypertensive agents evaluated affect major renal and/or cardiovascular endpoints or long‐term mortality risk beyond the benefit that arises from controlling hypertension in patients with IgAN. The RCT evidence is insufficiently robust to demonstrate efficacy for any of the other non‐immunosuppressive therapies evaluated here. 
+Authors' conclusions
+IgAN remains a disease in search of adequately powered RCTs to reliably inform clinical practice. More and better evidence is needed to understand the magnitude of benefit and the possible risks of anti‐hypertensive or more specifically of ACEi/ARB therapy alone or in combination and which specific types of patients with the IgAN might have the greatest potential for benefit. For other non‐immunosuppressive therapies, where neither benefit nor significant harm has yet to be demonstrated, there remains some justification for further exploration of the potential benefits. 

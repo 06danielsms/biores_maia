@@ -1,0 +1,35 @@
+What is advanced lung and breast cancer?
+The participants in this study had cancer that was either non-small cell lung cancer (NSCLC) or triple negative breast cancer (TNBC). These are special kinds of cancer that affect the lung or the breast. Both cancer types were advanced and/or metastatic. This means the cancer had spread to other areas of the body from the lung or the breast. This makes the cancer very difficult to treat and the person will usually pass away from the cancer.
+What is Vaccine-Based Immunotherapy Regimen 2?
+Vaccine-Based Immunotherapy Regimen-2 (VBIR-2) is a new type of treatment being tested in patients with cancer that consists of 4 different components. Treatments are given by injection (either under the skin or into the muscle). One of the main defenses of cancer cells is the ability to hide from and avoid being destroyed by the body's immune system. The aim of VBIR-2 is to boost the participant's immune system to help it destroy some of the cancer cells.
+VBIR-2 includes a cancer vaccine and a cancer vaccine booster (or booster). The cancer vaccine works to try and train immune cells in the body to recognize proteins that are used by cancer cells. Immune cells are cells that fight infections and cancer. Both the cancer vaccine and the booster work in a similar way. Once immune cells have been trained to recognize proteins used by the cancer cell, it may be able to kill that cancer cell.
+VBIR-2 also includes tremelimumab and sasanlimab. These treatments are special types of protein known as "immune checkpoint inhibitors". These treatments may stop cancer cells from preventing or turning down the body's own immune response. This could mean the body's immune system is better able to see and therefore kill the cancer cell. What was the purpose of this study?
+This study looked at the safety and tolerability of VBIR-2 treatment in participants with advanced cancer. The researchers did this by giving participants increasing doses of VBIR-2 and seeing if there were any dose limiting toxicities (DLTs) after treatment with VBIR-2 as well as looking at the general safety of this treatment. DLTs are medical problems that can be seen at some doses of cancer treatments; if DLTs are seen, this means that the dose of the drug needs to be reduced or stopped as it is making the patient very ill. If a patient experiences a DLT, the cancer treatment is often delayed until the patient's body can recover.
+Researchers wanted to know:
+- Did participants given VBIR-2 treatment have DLTs?
+- What medical problems did participants have during the study?
+How was the study done? Researchers tested VBIR-2 on a group of participants with advanced NSCLC or metastatic TNBC to learn about the tolerability and safety of this treatment. This was done by looking first at the safety of the vaccine and booster components of VBIR-2 and then at what would happen when the third (tremelimumab) and fourth (sasanlimab) component of the VBIR-2 treatment were added. This was Part 1 of the study. The researchers also planned to look at the effect of VBIR-2 treatment followed by maintenance therapy in participants with NSCLC in Part 2 of the study. The study was stopped before this could happen. Participants were split into groups and given injections of the components of VBIR-2 as shown in the following figure. The participants and researchers knew who took each type of study medication. This is known as an "open-label" study. The cancer vaccine was given on Day 1 and then this was repeated 4 months later. The booster was given on Day 29 and then this treatment was repeated every 4 weeks for up to 8 months. Tremelimumab (if given) and sasanlimab (if given) were administered on Day 1 and then every 4 weeks. Treatment was to be continued for up to 8 months. Researchers took samples of blood from each participant during the study and checked the participant's health. 
+
+Where did this study take place? The Sponsor ran this study at 11 study locations in the United States (US). 
+
+When did this study take place? It began 27 November 2018 and ended 27 September 2021. 
+
+Who participated in this study? The study included adult participants who had advanced NSCLC or metastatic TNBC that could not be treated using standard cancer treatments, and had progressed. This means the cancer had grown resistant and stopped responding to the treatment. 
+
+- A total of 12 men participated
+- A total of 24 women participated
+- All participants were between the ages of 39 and 82 years
+
+Of the 36 participants who started the study and were treated with VBIR-2, all 36 stopped treatment with VBIR-2. Most participants stopped treatment because their cancer progressed, which means the cancer started to grow again. Reasons for stopping VBIR-2 treatment were:
+
+- Cancer progressed (67%, or 24 out of 36 participants)
+- Overall health deteriorated or worsened (8%, or 3 out of 36 participants)
+- Passed away (8%, or 3 out of 36 participants)
+- A medical problem meant that the participant or their doctor thought it was best for the participant to stop treatment with VBIR-2 (6%, or 2 out of 36participants)
+- Other reasons (6%, or 2 out of 36 participants)
+- Participant wanted to stop treatment (3%, or 1 out of 36 participants)
+- Sponsor stopped the study (3%, or 1 out of 36 participants)
+
+How long did the study last? Study participants were in the study for up to 14 months. This included up to 8 months of treatment and 6 months of safety monitoring and health checks. The entire study took 2 years and 10 months to complete. The Sponsor stopped this study early due to a change in development strategy. 
+
+When the study ended in September 2021, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

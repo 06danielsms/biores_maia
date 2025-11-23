@@ -1,0 +1,12 @@
+Clinical Study Results
+
+Did GP MDI affect the amount of air the participants could breathe out? To answer this question, the study doctors measured the amount of air the participants breathed out in 1 second. They did this 15 minutes after the participants took their treatment as well as their regular asthma inhaler. The study doctors repeated this measurement 4 times during the first 4 hours after the participants took their treatment. The researchers then calculated the average amount of air that was breathed out. This was measured in liters, also called L. They compared the amount breathed out after 24 weeks of treatment to the amount breathed out before the participants started treatment.
+
+The researchers found that in each treatment group, the participants could breathe out more air after 24 weeks of treatment. This amount increased more in the participants who took 7.2 μg of GP MDI compared to the participants who took the placebo. But, the differences between the other GP MDI treatment groups and the placebo were too small for the researchers to know for sure if GP MDI affected the participants' breathing.
+
+The researchers found that after 24 weeks of taking study treatment:
+- The participants taking 28.8 μg of GP MDI breathed out an average of 0.294 L more air than they did at the start of the study.
+- The participants taking 14.4 μg of GP MDI breathed out an average of 0.284 L more air than they did at the start of the study.
+- The participants taking 7.2 μg of GP MDI breathed out an average of 0.308 L more air than they did at the start of the study.
+- The participants taking the placebo breathed out an average of 0.240 L more air than they did at the start of the study.
+- The participants taking 2.5 μg of Spiriva Respimat breathed out an average of 0.347 L more air than they did at the start of the study.

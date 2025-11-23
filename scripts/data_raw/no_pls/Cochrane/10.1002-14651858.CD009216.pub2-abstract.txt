@@ -1,0 +1,14 @@
+Background
+Pyelonephritis is a type of urinary tract infection (UTI) that affects the upper urinary tract and kidneys, and is one of the most common conditions for hospitalisation among pregnant women, aside from delivery. Samples of urine and blood are obtained and used for cultures as part of the diagnosis and management of the condition. Acute pyelonephritis requires hospitalisation with intravenous administration of antimicrobial agents. Several studies have questioned the necessity of obtaining blood cultures in addition to urine cultures, citing cost and questioning whether blood testing is superfluous. Pregnant women with bacteraemia require a change in the initial empirical treatment based on the blood culture. However, these cases are not common, and represent approximately 15% to 20% of cases. It is unclear whether blood cultures are essential for the effective management of the condition. 
+Objectives
+To assess the effectiveness of routine blood cultures to improve health outcomes in the management of pyelonephritis in pregnant women. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register without language or date restrictions (31 December 2014). 
+Selection criteria
+Randomised controlled trials and quasi‐randomised trials comparing outcomes among pregnant women with pyelonephritis who received initial management with or without blood cultures. Cluster‐randomised trials were eligible for inclusion in this review but none were identified. Clinical trials using a cross‐over design were not eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed one trial report for inclusion.
+Main results
+We identified one trial report but this was excluded. No clinical trials met the inclusion criteria for this review. 
+Authors' conclusions
+There are no large‐scale randomised controlled trials to assess outcomes in the management of pyelonephritis in pregnancy with or without blood cultures. Randomised controlled trials are needed to evaluate the effectiveness of managing pyelonephritis in pregnant women with or without blood cultures, and to assess any adverse outcomes as well as the cost‐effectiveness of excluding blood cultures from treatment. 

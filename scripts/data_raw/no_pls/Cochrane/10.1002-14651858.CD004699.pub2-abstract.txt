@@ -1,0 +1,14 @@
+Background
+Surgical resection (usually lobectomy) is considered the treatment of choice for many individuals with early stage non‐small cell lung cancer (NSCLC) . However much of the evidence is observational. 
+Objectives
+To determine whether, in patients with early stage NSCLC, surgical resection of cancer improves disease‐specific and all‐cause mortality compared with no treatment, radiotherapy or chemotherapy. 
+Search methods
+For this update we ran a new search in October 2009, using the following search strategy designed in the original review: Cochrane Central Register of Controlled Trials (CENTRAL) (accessed through The Cochrane Library, 2009, Issue 3), MEDLINE (accessed through PubMed), and EMBASE (accessed through Ovid). 
+Selection criteria
+Randomised controlled trials comparing surgery alone (or in combination with other therapy) with non‐surgical therapy and randomised trials comparing different surgical approaches. 
+Data collection and analysis
+A pooled hazard ratio was calculated where possible. Tests for statistical heterogeneity were performed. 
+Main results
+Thirteen trials were included with a total of 2290 patients. Some of the included studies were judged as having a high risk of bias. There were no studies with an untreated control group. In a pooled analysis of three trials, overall survival was superior in patients with resectable stage I to IIIA NSCLC who underwent resection and complete mediastinal lymph node dissection compared with those undergoing resection and lymph node sampling (hazard ratio 0.63, 95% CI 0.51 to 0.78, P ≤ 0.0001) and there was no statistically significant heterogeneity. A further trial found an increased rate of local recurrence in patients with stage I NSCLC treated with limited resection compared with lobectomy. One small trial found a survival advantage in favour of chemotherapy followed by surgery compared to chemotherapy followed by radiotherapy in patients with stage IIIA NSCLC. However none of the other trials in the review demonstrated a significant improvement in overall survival in patients treated with surgery compared with non surgical therapy. 
+Authors' conclusions
+Conclusions about the efficacy of surgery in NSCLC are limited by the volume and quality of the current evidence base, however lung cancer resection combined with complete mediastinal lymph node dissection is associated with a modest improvement in survival compared with lung cancer resection combined with systematic sampling of mediastinal nodes in patients with stage I to IIIA NSCLC. Current evidence suggests that in stage IIIA N2 NSCLC, chemotherapy followed by surgery is as effective as chemotherapy followed by radical radiotherapy, and radical concurrent chemotherapy and radiotherapy is as effective as induction chemoradiation followed by surgery in terms of overall survival. 

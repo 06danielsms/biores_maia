@@ -1,0 +1,14 @@
+Background
+Inadvertent perioperative hypothermia occurs because of interference with normal temperature regulation by anaesthetic drugs and exposure of skin for prolonged periods. A number of different interventions have been proposed to maintain body temperature by reducing heat loss. Thermal insulation, such as extra layers of insulating material or reflective blankets, should reduce heat loss through convection and radiation and potentially help avoid hypothermia. 
+Objectives
+To assess the effects of pre‐ or intraoperative thermal insulation, or both, in preventing perioperative hypothermia and its complications during surgery in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 2), MEDLINE, OvidSP (1956 to 4 February 2014), EMBASE, OvidSP (1982 to 4 February 2014), ISI Web of Science (1950 to 4 February 2014), and CINAHL, EBSCOhost (1980 to 4 February 2014), and reference lists of articles. We also searched Current Controlled Trials and ClinicalTrials.gov. 
+Selection criteria
+Randomized controlled trials of thermal insulation compared to standard care or other interventions aiming to maintain normothermia. 
+Data collection and analysis
+Two authors extracted data and assessed risk of bias for each included study, with a third author checking details. We contacted some authors to ask for additional details. We only collected adverse events if reported in the trials. 
+Main results
+We included 22 trials, with 16 trials providing data for some analyses. The trials varied widely in the type of patients and operations, the timing and measurement of temperature, and particularly in the types of co‐interventions used. The risk of bias was largely unclear, but with a high risk of performance bias in most studies and a low risk of attrition bias. The largest comparison of extra insulation versus standard care had five trials with 353 patients at the end of surgery and showed a weighted mean difference (WMD) of 0.12 ºC (95% CI ‐0.07 to 0.31; low quality evidence). Comparing extra insulation with forced air warming at the end of surgery gave a WMD of ‐0.67 ºC (95% CI ‐0.95 to ‐0.39; very low quality evidence) indicating a higher temperature with forced air warming. Major cardiovascular outcomes were not reported and so were not analysed. There were no clear effects on bleeding, shivering or length of stay in post‐anaesthetic care for either comparison. No other adverse effects were reported. 
+Authors' conclusions
+There is no clear benefit of extra thermal insulation compared with standard care. Forced air warming does seem to maintain core temperature better than extra thermal insulation, by between 0.5 ºC and 1 ºC, but the clinical importance of this difference is unclear. 

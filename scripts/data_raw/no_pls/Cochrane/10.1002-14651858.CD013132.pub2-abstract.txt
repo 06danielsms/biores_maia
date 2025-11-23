@@ -1,0 +1,14 @@
+Background
+Continuous spike‐wave during slow wave sleep syndrome (CSWS) and Landau‐Kleffner syndrome (LKS) are two epileptic encephalopathies that present with neurocognitive regression, aphasia, and clinical seizures, typically presenting in children around five years of age. The pathophysiology of these conditions is not completely understood. Some studies suggest a common origin for both. No systematic reviews have assessed the efficacy of pharmacological interventions for these conditions. 
+Objectives
+To assess the benefit and adverse effects of pharmacological interventions for the treatment of CSWS and LKS. 
+Search methods
+On 8 September 2020, we searched the Cochrane Register of Studies (CRS Web) and MEDLINE Ovid (1946 to September 04, 2020). We applied no language restrictions. CRS Web includes randomised or quasi‐randomised, controlled trials from CENTRAL, PubMed, Embase, ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised controlled trials, and cluster‐randomised trials comparing antiepileptic drugs alone, or with steroids or intravenous immunoglobulins, or both versus other antiepileptic drugs, or placebo, or no treatment, administered to children with CSWS and LKS. We planned to compare treatments for the two conditions separately. 
+Data collection and analysis
+Two review authors independently assessed studies identified by the search strategy for inclusion. The primary outcomes considered in this review were neuropsychological‐neurolinguistic functions. 
+Main results
+Our search strategy yielded 18 references. Two review authors independently assessed all references. We did not find any completed studies to include. We identified one ongoing trial, which was terminated because of lack of enrolment. 
+Authors' conclusions
+There was no evidence from trials to support or refute the use of pharmacological treatment for continuous spike‐wave during slow wave sleep syndrome or Landau‐Kleffner syndrome. Well‐designed randomised controlled trials are needed to inform practice. 

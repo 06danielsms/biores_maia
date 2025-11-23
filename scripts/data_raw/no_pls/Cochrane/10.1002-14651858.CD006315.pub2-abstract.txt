@@ -1,0 +1,14 @@
+Background
+Ischaemic preconditioning is a mechanism for reducing organ ischaemia reperfusion injury by a brief period of organ ischaemia. 
+Objectives
+To assess the advantages and disadvantages of ischaemic preconditioning during donor hepatectomy for liver transplant recipients. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until June 2008. 
+Selection criteria
+We included only randomised clinical trials comparing ischaemic preconditioning versus no ischaemic preconditioning during donor liver retrievals performed in humans in this review (irrespective of language or publication status). 
+Data collection and analysis
+Two authors independently identified the trials for inclusion and independently collected the data on the characteristics of the trial, bias‐risk of the trials, mortality, initial poor function, primary graft non‐function, re‐transplantation, intensive therapy unit stay, hospital stay, and liver function tests. We analysed the data with both the fixed‐effect and the random‐effects models. For each binary outcome we calculated the risk ratio (RR) with 95% confidence intervals (CI) based on available case analysis. For continuous outcomes, we calculated the mean difference (MD) with 95% CI. 
+Main results
+In four trials, 270 cadaveric liver donor retrievals were randomised; 131 to ischaemic preconditioning and 139 to no ischaemic preconditioning. In one trial, 15 living donor liver retrievals were randomised; 10 to ischaemic preconditioning and 5 to no ischaemic preconditioning. All trials were high bias‐risk trials. There was no statistically significant difference in mortality, initial poor function, primary graft non‐function,re‐transplant, intensive therapy unit stay, or hospital stay between the liver transplant recipients belonging to the two groups. There was no consistent pattern noted in the transaminase activity. There was no statistically significant difference in the bilirubin level or prothrombin activity. 
+Authors' conclusions
+There is currently no evidence to support or refute the use of ischaemic preconditioning in donor liver retrievals. Further studies are necessary to identify the optimal ischaemic preconditioning stimulus. 

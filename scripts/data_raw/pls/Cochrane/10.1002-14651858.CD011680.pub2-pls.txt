@@ -1,0 +1,23 @@
+Treatments for necrotizing (i.e. destructive) soft tissue infections in adults
+What is the aim of this Cochrane Review? 
+We wanted to find out which medicines and surgical treatments are effective and safe for treating necrotizing soft tissue infections (NSTI). NSTI are serious infections of the tissues underneath the skin, mostly caused by bacteria. 
+Key messages 
+The available evidence from three studies is not strong enough to enable us to draw definite conclusions about the effectiveness and safety of the different treatments for NSTI assessed in this review. All studies assessed number of deaths and risk of serious side effects. 
+Factors affecting our confidence in the results included the following:
+‐ the small number of trials and participants; ‐ weaknesses in the trial methodologies which affect the reliability of results; and ‐ poor definition of the participants’ condition. 
+We found no evidence that assessed antimicrobial therapy (which targets a wide range of disease‐causing bacteria and fungi) or surgical removal of damaged tissue. 
+In future studies, risk of death should be a key outcome in the short term (i.e. within 30 days) phase of the condition, and outcomes such as loss of work and quality of life should be assessed in the long‐term phase (after 30 days). 
+What was studied in the review? 
+We included people with NSTI. These types of infections are rare, but can become life‐threatening if left untreated, or result in amputation. NSTIs need emergency treatment, usually with antibiotics and surgical removal of the infected tissue. 
+We searched for studies that assessed treatments for diagnosed NSTI in hospitalised adults. This included: 
+‐ surgical treatments: surgical removal of damaged tissue compared with amputation, immediate versus delayed treatment, or comparison of a number of treatments; ‐ antimicrobial medicines ‐ which kill bacteria and fungi ‐ compared with placebo (i.e. an identical but inactive treatment), or each other; ‐ medicines given as add‐on therapies in addition to the primary treatment (adjuvant therapies) compared with placebo, no treatment, or other adjuvant therapies. 
+Our main outcomes of interest were death within 30 days, and any serious treatment side effects. 
+What are the main results of the review? 
+We found three studies, which enrolled 197 adults (117 men, average age = 55). The trials were conducted worldwide, funded by pharmaceutical companies; they assessed antimicrobial therapy or treatments that control the immune system. 
+One study compared two antibiotics: moxifloxacin and amoxicillin‐clavulanate, administered directly into a vein for seven to 21 days. It found no clear difference between the treatment groups in terms of number of deaths within 30 days, but we are uncertain about this result because it is based on very low‐certainty evidence. 
+One study compared placebo with a new type of treatment that controls immune response (called AB103) given in a single dose (of either 0.5 mg/kg or 0.25 mg/kg), administered directly into a vein. Participants also received standard treatment for NSTI based on antibiotics and surgical treatment, so AB103 was given as an adjuvant therapy. There was no clear difference between the treatment groups in terms of number of deaths within 30 days, but we are uncertain about this conclusion because it is based on very low‐certainty evidence. 
+One study compared injections of immunoglobulin (an antibody, part of the body’s immune system) with placebo. Both treatments were given for three consecutive days. Participants also received standard treatment for NSTI based on antibiotics and surgical treatment, thus immunoglobulin was given as an adjuvant therapy. There was no clear difference between the treatment groups in terms of the number of deaths within 30 days (low‐certainty evidence). 
+No study showed any clear difference between treatments in terms of serious side effects, but the evidence is not strong enough to confirm this. The immunoglobulin study listed the side effects encountered, which included kidney injury, allergic reactions, meningitis, blood clots, and infectious agents (low‐certainty evidence). 
+Only one trial reported assessment of long‐term illness but it was not defined as we had required in our in the protocol (the trial used another scale: the Short Form Health Survey (SF36). Survival time was reported in two trials (but not enough data were provided to analyse these results). 
+How up‐to‐date is this review? 
+We searched for studies published up to April 2018.

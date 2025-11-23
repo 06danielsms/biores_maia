@@ -1,0 +1,13 @@
+Luteal phase support for assisted reproduction
+Review question  
+Many different interventions, dosages and administration routes of luteal phase support have been investigated. We made seven different comparisons to prepare a complete overview of this topic. 
+Background  
+After ovulation, the luteal phase of the menstrual cycle starts, and continues until the next menstruation. Remnants of the ovulated egg in the ovary are known as 'corpus luteum', or yellow body. The yellow body produces hormones, including progesterone. Progesterone stimulates proliferation of the lining of the uterus to prepare for implantation. 
+During assisted reproduction, the woman's pituitary gland is desensitised with medications so that the ovaries can be stimulated in a controlled manner. This results in more mature eggs, which can be harvested and fertilised outside the woman's body. Hyperstimulation of the ovaries causes a luteal phase defect, as the corpus luteum is unable to produce sufficient progesterone. 
+As a low progesterone level may lower the chance of implantation, the luteal phase needs to be supported. This may involve oral, vaginal or intramuscular progesterone, human chorionic gonadotropin (hCG) (which stimulates progesterone production) or gonadotropin‐releasing hormone (GnRH) agonists. GnRH agonists stimulate the production of GnRH, a hormone responsible for follicle‐stimulating hormone (FSH), and luteinising hormone (LH), which triggers ovulation and develops the yellow body. GnRH agonists are thought to restore LH levels and support the luteal phase naturally. 
+Study characteristics  
+We found 94 randomised controlled trials comparing different luteal phase support regimens in a total of 26,198 women. Our primary outcome was live birth or ongoing pregnancy. Other outcomes were clinical pregnancy, ovarian hyperstimulation syndrome (OHSS), miscarriage and multiple pregnancy. The evidence is current to August 2015. 
+Key results  
+hCG or progesterone given during the luteal phase may be associated with higher rates of live birth or ongoing pregnancy than placebo or no treatment, but the evidence is not conclusive. The addition of GnRHa to progesterone appears to improve outcomes. hCG may increase the risk of OHSS compared to placebo. Moreover hCG, with or without progesterone, is associated with higher rates of OHSS than progesterone alone. Neither the addition of oestrogen nor the route of progesterone administration appears to be associated with an improvement in outcomes. 
+Quality of the evidence  
+Evidence for most comparisons was of low or very low quality. The main limitations in the evidence were poor reporting of study methods and imprecision due to small sample sizes. 

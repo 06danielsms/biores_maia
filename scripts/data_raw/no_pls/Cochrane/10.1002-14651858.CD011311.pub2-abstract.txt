@@ -1,0 +1,17 @@
+Background
+Many people with epilepsy report experiencing psychological difficulties such as anxiety, depression and neuropsychological deficits including memory problems. Research has shown that these difficulties are often present not only for people with chronic epilepsy but also for people with newly diagnosed epilepsy. Despite this, there are very few published interventions that detail means to help people with newly diagnosed epilepsy manage these problems. 
+Objectives
+To identify and assess possible psychological and neuropsychological interventions for adults with newly diagnosed epilepsy. 
+Search methods
+We searched the following databases on 30 June 2015: the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid), SCOPUS, PsycINFO, CINAHL, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). 
+Selection criteria
+This review includes all randomised controlled trials, quasi‐randomised controlled trials, prospective cohort controlled studies, and prospective before and after studies which include psychological or neuropsychological interventions for people with newly diagnosed epilepsy. We excluded studies that included people with epilepsy and any other psychological disorder or neurological condition. We excluded studies carried out which recruited only children. 
+Data collection and analysis
+We used the standard methodological procedure expected by The Cochrane Collaboration. Two authors independently completed data extraction and risk of bias analysis. The results of this were cross‐checked and third author resolved any discrepancies. In the event of missing data, we contacted the study authors. Meta‐analysis was not completed due to differences in the intervention and outcomes reported in the two studies. 
+Main results
+We included two randomised controlled trials assessing psychological interventions for people with newly diagnosed epilepsy. One study assessed a cognitive behavioural intervention (CBI) in an adolescent population. This study was rated as low quality. One study assessed a specialist nurse intervention in an adult population. This study was rating as very low quality. 
+We rated one study as having unclear risk of bias and one study as having high risk of bias. 
+The CBI study indicated that this intervention could significantly reduce depressive symptoms in people with subthreshold depressive disorder. However, the study assessing the effectiveness of a nurse intervention found no significant benefit for depressive symptoms,but did find that in individuals with the least knowledge of epilepsy, a nurse intervention could increase their knowledge of epilepsy scores. 
+Authors' conclusions
+Meta‐analysis was not possible as we identified only two studies and they utilised different interventions and outcome measures. 
+Previous research has highlighted the impact of psychological and neuropsychological difficulties experienced by people with epilepsy and the negative effect this has on their quality of life. The main finding of this review is that there is a paucity of research assessing possible neuropsychological and psychological interventions for adults with newly diagnosed epilepsy. 

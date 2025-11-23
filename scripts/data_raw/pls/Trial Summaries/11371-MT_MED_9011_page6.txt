@@ -1,0 +1,39 @@
+The chart below shows what happened during the study.
+
+Before the participants got study treatment:
+- 1 visit
+- The study doctors:
+  - Did physical exams and asked about the participants' health
+  - Checked the health of the participants
+  - Checked the participants' medications and any medical problems
+  - Checked the participants' lung health using CT or X-ray scans
+  - Took blood and urine samples
+  - Checked the participants' heart health using an ECG, and using an echocardiogram for some participants
+
+Up to 1 week:
+While the participants got study treatment:
+- Up to 10 visits from the study doctors while the participants were in the hospital
+- The study doctors:
+  - Did physical exams and asked about the participants' lung health
+  - Checked the participants' medications and any medical problems
+  - Checked the participants' lung health using CT or X-ray scans for some participants
+  - Took blood and urine samples
+
+The participants:
+- Checked the participants' heart health using an ECG, and using an echocardiogram for some participants
+- Got study treatment
+
+10 days:
+After the participants got study treatment:
+- 1 visit from the study doctors each day while the participants were in the hospital, and then up to 4 visits by the participants to a study site
+- The study doctors:
+  - Did physical exams and asked about the participants' lung health
+  - Checked the participants' medications and any medical problems at some visits
+  - Checked the participants' lung health using CT or X-ray scans while they were in the hospital
+  - Took blood and urine samples at some visits
+
+The participants:
+- Checked the participants' heart health using an echocardiogram while they were in the hospital
+- Got BSC (unknown reference) while they were in the hospital
+
+Up to 12 weeks

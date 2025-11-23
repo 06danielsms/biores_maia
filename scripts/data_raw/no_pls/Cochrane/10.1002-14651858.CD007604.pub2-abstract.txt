@@ -1,0 +1,14 @@
+Background
+Although survival of extremely low birth weight (ELBW) infants has dramatically improved over the last decades, the rate of bronchopulmonary dysplasia (BPD) has not changed. The use of indomethacin prophylaxis in ELBW infants results in improved short‐term outcomes with no effect on long‐term outcomes. The addition of fluid restriction to the indomethacin prophylaxis policy could result in a reduction of BPD and improve long‐term survival without neurosensory impairment at eighteen months corrected age. 
+Objectives
+To determine the effect of a policy of fluid restriction compared with a policy of no fluid restriction on morbidity and mortality in ELBW infants receiving indomethacin prophylaxis. 
+Search methods
+We used the standard search strategy for the Cochrane Neonatal Review Group (CNRG). This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL) ( The Cochrane Library 2010, Issue 1), MEDLINE (1966 to December 2010), and EMBASE (1980 to December 2010). Additional searches included conference proceedings, references in articles and unpublished data. 
+Selection criteria
+We planned to include all randomized or quasi‐randomized trials that compared fluid restriction and indomethacin prophylaxis versus indomethacin prophylaxis alone in ELBW infants. 
+Data collection and analysis
+If we had identified any eligible studies, we would have assessed the methodological quality of the trials using the standard methods of the CNRG. We planned to use Review Manager 5 software for statistical analysis. 
+Main results
+We did not identify any eligible trials.
+Authors' conclusions
+We found no randomized controlled trials to investigate the possible interaction between fluid restriction and indomethacin prophylaxis versus indomethacin prophylaxis alone in ELBW infants. A well‐designed randomized trial is needed to address this question. 

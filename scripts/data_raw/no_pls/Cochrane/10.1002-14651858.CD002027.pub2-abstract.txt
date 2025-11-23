@@ -1,0 +1,19 @@
+Background
+This is an update of a Cochrane review first published in The Cochrane Library in Issue 2, 2002 and previously updated in 2004, 2007 and 2010. 
+Radiotherapy, open surgery and endolaryngeal excision (with or without laser) are all accepted modalities of treatment for early‐stage glottic cancer. Case series suggest that they confer a similar survival advantage, however radiotherapy and endolaryngeal surgery offer the advantage of voice preservation. There has been an observed trend away from open surgery in recent years, however equipoise remains between radiotherapy and endolaryngeal surgery as both treatment modalities offer laryngeal preservation with similar survival rates. Opinions on optimal therapy vary across disciplines and between countries. 
+Objectives
+To compare the effectiveness of open surgery, endolaryngeal excision (with or without laser) and radiotherapy in the management of early glottic laryngeal cancer. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL 2014, Issue 8); PubMed; EMBASE; CINAHL; Web of Science; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 18 September 2014. 
+Selection criteria
+Randomised controlled trials comparing open surgery, endolaryngeal resection (with or without laser) and radiotherapy. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We identified only one randomised controlled trial, which compared open surgery and radiotherapy in 234 patients with early glottic laryngeal cancer. The overall risk of bias in this study was high. 
+For T1 tumours, the five‐year survival was 91.7% following radiotherapy and 100% following surgery and for T2 tumours, 88.8% following radiotherapy and 97.4% following surgery. There were no significant differences in survival between the two groups. 
+For T1 tumours, the five‐year disease‐free survival rate was 71.1% following radiotherapy and 100.0% following surgery, and for the T2 tumours, 60.1% following radiotherapy and 78.7% following surgery. Only the latter comparison was statistically significant (P value = 0.036), but statistical significance would not have been achieved with a two‐sided test. 
+Data were not available on side effects, quality of life, voice outcomes or cost.
+We identified no randomised controlled trials that included endolaryngeal surgery. A number of trials comparing endolaryngeal resection and radiotherapy have terminated early because of difficulty recruiting participants. One randomised controlled trial is still ongoing. 
+Authors' conclusions
+There is only one randomised controlled trial comparing open surgery and radiotherapy but its interpretation is limited because of concerns about the adequacy of treatment regimens and deficiencies in the reporting of the study design and analysis. 

@@ -1,0 +1,14 @@
+Background
+Obsessive compulsive disorder is a common and disabling disorder. A significant proportion of patients manifest a chronic course. Individual randomised controlled trials (RCTs) have shown that selective serotonin re‐uptake inhibitors (SSRIs) are effective in this condition. Previous systematic reviews or meta‐analyses summarising the evidence are methodologically problematic or limited in the scope of their analysis. 
+Objectives
+To examine the efficacy and adverse effects of serotonin re‐uptake inhibitors (SSRIs) versus placebo for obsessive compulsive disorder (OCD) in adults. 
+Search methods
+CCDANCTR‐Studies and CCDANCTR‐References were searched on 12/11/2007. Reference lists were checked. Experts in the field were contacted. 
+Selection criteria
+All RCTs and quasi‐RCTs examining the efficacy of SSRIs compared with placebo for OCD in adults were eligible for inclusion. 
+Data collection and analysis
+Selection of studies and data extraction were carried out by two review authors independently, and quality assessment of studies was undertaken. Data analysis was conducted using Review Manager software. Summary measures were produced using the weighted mean difference (WMD) for continuous data and relative risk (RR) for dichotomous data, with 95% confidence intervals (CI). SSRIs were examined as an overall group of drugs, and as individual drugs. 
+Main results
+Seventeen studies were included in the review, involving 3097 participants. Based on all 17 studies, SSRIs as a group were more effective than placebo in reducing the symptoms of OCD between 6 and 13 weeks post‐treatment, measured using the Yale‐Brown Obsessive Compulsive Scale (YBOCS) (WMD ‐3.21, 95% CI ‐3.84 to ‐2.57). The WMD for individual SSRI drugs were similar and not statistically different. Based on 13 studies (2697 participants), SSRIs were more effective than placebo in achieving clinical response at post‐treatment (RR 1.84, 95% CI 1.56 to 2.17). The pooled RR was shown to be similar between individual SSRI drugs. Although reported adverse effects data were more limited, with few exceptions, the overall and individual adverse effects for the different SSRIs were always worse than for placebo and, in the majority of cases, the difference was statistically significant. Nausea, headache and insomnia were always reported amongst the most common adverse effects in trials of each of the drugs. 
+Authors' conclusions
+SSRIs are more effective than placebo for OCD, at least in the short‐term, although there are differences between the adverse effects of individual SSRI drugs. The longer term efficacy and tolerability of different SSRI drugs for OCD has yet to be established. 

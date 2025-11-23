@@ -1,0 +1,20 @@
+Interventions for prevention of ovarian hyperstimulation syndrome in in vitro fertilisation cycles: an overview of Cochrane reviews 
+Overview question 
+This overview of Cochrane reviews aims to identify and summarise all evidence from Cochrane systematic reviews on interventions that could prevent or treat moderate, severe and overall ovarian hyperstimulation syndrome (OHSS) in couples with subfertility who are undergoing assisted reproductive technology (ART) cycles (i.e. in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI)). 
+Background 
+OHSS in ART cycles is an adverse event that follows ovarian stimulation for IVF. It is caused by a very high ovarian response to hormonal medication and results in enlarged ovaries and a fluid shift from blood vessels to the abdominal cavity, resulting in, for example, abdominal bloating, high risk of clots within the blood vessels (thrombosis) and decreased blood supply to important organs such as kidneys and liver. The mild form of OHSS is seen in almost 20% to 33% of cycles, whereas a moderate or severe form is found in approximately 3% to 8% of cycles and can lead to serious disease burden or even mortality if left untreated. It is therefore important to identify treatment regimens and interventions that can reduce the incidence of OHSS. 
+Study characteristics 
+We found a total of 27 Cochrane ART reviews of high quality that could be included for this overview. These reviews aimed to report on OHSS in cycles of IVF or ICSI. We did not include reviews of intrauterine insemination and ovulation induction. The evidence is current to 12 December 2016. 
+Key results 
+Of the 27 reviews included in this overview, 10 reviews had not been updated in the past three years. 
+Seven reviews described interventions that provided a beneficial effect in reducing OHSS rates, and we categorised one additional review as 'promising'. Of the effective interventions, all except one had no detrimental effect on pregnancy outcomes. Evidence of at least moderate quality evidence indicates that clinicians should consider the following interventions in ART cycles to reduce OHSS rates. 
+• Metformin treatment before and during an ART cycle in women with PCOS (moderate‐quality evidence). 
+• Gonadotrophin‐releasing hormone (GnRH) antagonist protocol in ART cycles (moderate‐quality evidence). 
+• GnRH agonist (GnRHa) trigger in donor oocyte or 'freeze‐all' programmes (moderate‐quality evidence). 
+Evidence of low or very low quality evidence suggests that clinicians should consider the following interventions in ART cycles to reduce OHSS rates. 
+• Clomiphene citrate for controlled ovarian stimulation in ART cycles (low‐quality evidence). 
+• Cabergoline around the time of human chorionic gonadotrophin (hCG) administration or oocyte pickup in ART cycles (low‐quality evidence). 
+• Intravenous fluids (blood plasma expanders) around the time of hCG administration or egg pickup in ART cycles (very low‐quality evidence). 
+• Progesterone for luteal phase support in ART cycles (low‐quality evidence).
+A promising intervention that needs to be researched further is coasting (withholding gonadotrophins) for reduction of OHSS. On the basis of this overview, we must conclude that evidence is currently insufficient to support the widespread practice of freezing all embryos and replacing them at a later time when OHSS has dissolved. 
+Clinicians can use the evidence summarised in this overview to choose the best treatment regimen for individual patients ‐ a regimen that not only reduces the chance of developing OHSS but does not compromise pregnancy outcomes. However, results of this overview are limited by the lack of recent primary studies or updated reviews. Furthermore, this overview can be used by policymakers in developing local and regional protocols or guidelines and can reveal knowledge gaps for future research. 

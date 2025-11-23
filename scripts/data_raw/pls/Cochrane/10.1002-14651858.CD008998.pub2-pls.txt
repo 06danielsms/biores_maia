@@ -1,0 +1,10 @@
+Rapid diagnostic tests versus clinical diagnosis for managing fever in settings where malaria is common 
+Cochrane Collaboration researchers conducted a review of the effects of introducing rapid diagnostic tests (RDTs) for diagnosing malaria in areas where diagnosis has traditionally been based on clinical symptoms alone. After searching for relevant trials, they included seven randomized controlled trials, which enrolled 17,505 people with fever. 
+What are RDTs and how might they improve patient care  
+RDTs are simple to use diagnostic kits which can detect the parasites that cause malaria from one drop of the patient's blood. They do not require laboratory facilities or extensive training, and can provide a simple positive or negative result within 20 minutes, making them suitable for use in rural areas of Africa where most malaria cases occur. 
+Improving malaria diagnosis by introducing RDTs is unlikely to improve the health outcomes of people with true malaria as they would probably have received antimalarials even if the health worker was relying on clinical symptoms alone. However, for patients with fever not due to malaria, RDTs could improve health outcomes by prompting the health worker to look for and treat the true cause of their fever earlier. 
+What the research says  
+In these trials, diagnosis using RDTs had little or no effect on the number of people remaining unwell four to seven days after treatment (low quality evidence). 
+However, using RDTs reduced the prescription of antimalarials by up to three‐quarters (moderate quality evidence), and this reduction was highest where health workers only prescribed antimalarials following a positive test, and where malaria was less common. 
+Using RDTs to support diagnosis did not have a consistent effect on the prescription of antibiotics, with some trials showing an increase in antibiotic prescription and some showing a decrease (very low quality evidence). 
+Use of RDTs did not result in more patients with malaria being incorrectly diagnosed as not having malaria and being sent home without treatment (low quality evidence). 

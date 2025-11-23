@@ -1,0 +1,35 @@
+Background
+Despite the health benefits of breastfeeding, initiation and duration rates continue to fall short of international guidelines. Many factors influence a woman's decision to wean; the main reason cited for weaning is associated with lactation complications, such as mastitis. 
+Mastitis is an inflammation of the breast, with or without infection. It can be viewed as a continuum of disease, from non‐infective inflammation of the breast to infection that may lead to abscess formation. 
+Objectives
+To assess the effectiveness of preventive strategies (for example, breastfeeding education, pharmacological treatments and alternative therapies) on the occurrence or recurrence of non‐infective or infective mastitis in breastfeeding women post‐childbirth. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (3 October 2019), and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials of interventions for preventing mastitis in postpartum breastfeeding women. 
+Quasi‐randomised controlled trials and trials reported only in abstract form were eligible. We attempted to contact the authors to obtain any unpublished results, wherever possible.  
+Interventions for preventing mastitis may include: probiotics, specialist breastfeeding advice and holistic approaches.   
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and assessed the certainty of the evidence using GRADE. 
+Main results
+We included 10 trials (3034 women). Nine trials (2395 women) contributed data. Generally, the trials were at low risk of bias in most domains but some were high risk for blinding, attrition bias, and selective reporting. Selection bias (allocation concealment) was generally unclear. The certainty of evidence was downgraded due to risk of bias and to imprecision (low numbers of women participating in the trials). Conflicts of interest on the part of trial authors, and the involvement of industry funders may also have had an impact on the certainty of the evidence. 
+Most trials reported our primary outcome of incidence of mastitis but there were almost no data relating to adverse effects, breast pain, duration of breastfeeding, nipple damage, breast abscess or recurrence of mastitis. 
+Probiotics versus placebo 
+Probiotics may reduce the risk of mastitis more than placebo (risk ratio (RR) 0.51, 95% confidence interval (CI) 0.35 to 0.75; 2 trials; 399 women; low‐certainty evidence). It is uncertain if probiotics reduce the risk of breast pain or nipple damage because the certainty of evidence is very low. Results for the biggest of these trials (639 women) are currently unavailable due to a contractual agreement between the probiotics supplier and the trialists. Adverse effects were reported in one trial, where no woman in either group experienced any adverse effects. 
+Antibiotics versus placebo or usual care 
+The risk of mastitis may be similar between antibiotics and usual care or placebo (RR 0.37, 95% CI 0.10 to 1.34; 3 trials; 429 women; low‐certainty evidence). The risk of mastitis may be similar between antibiotics and fusidic acid ointment (RR 0.22, 95% CI 0.03 to 1.81; 1 trial; 36 women; low‐certainty evidence) or mupirocin ointment (RR 0.44, 95% CI 0.05 to 3.89; 1 trial; 44 women; low‐certainty evidence) but we are uncertain due to the wide CIs. None of the trials reported adverse effects. 
+Topical treatments versus breastfeeding advice 
+The risk of mastitis may be similar between fusidic acid ointment and breastfeeding advice (RR 0.77, 95% CI 0.27 to 2.22; 1 trial; 40 women; low‐certainty evidence) and mupirocin ointment and breastfeeding advice (RR 0.39, 95% CI 0.12 to 1.35; 1 trial; 48 women; low‐certainty evidence) but we are uncertain due to the wide CIs. 
+One trial (42 women) compared topical treatments to each other. The risk of mastitis may be similar between fusidic acid and mupirocin (RR 0.51, 95% CI 0.13 to 2.00; low‐certainty evidence) but we are uncertain due to the wide CIs. Adverse events were not reported. 
+Specialist breastfeeding education versus usual care 
+The risk of mastitis (RR 0.93, 95% CI 0.17 to 4.95; 1 trial; 203 women; low‐certainty evidence) and breast pain (RR 0.93, 95% CI 0.36 to 2.37; 1 trial; 203 women; low‐certainty evidence) may be similar but we are uncertain due to the wide CIs. Adverse events were not reported. 
+Anti‐secretory factor‐inducing cereal versus standard cereal 
+The risk of mastitis (RR 0.24, 95% CI 0.03 to 1.72; 1 trial; 29 women; low‐certainty evidence) and recurrence of mastitis (RR 0.39, 95% CI 0.03 to 4.57; 1 trial; 7 women; low‐certainty evidence) may be similar but we are uncertain due to the wide CIs. Adverse events were not reported. 
+Acupoint massage versus routine care 
+Acupoint massage probably reduces the risk of mastitis compared to routine care (RR 0.38, 95% CI 0.19 to 0.78;1 trial; 400 women; moderate‐certainty evidence) and breast pain (RR 0.13, 95% CI 0.07 to 0.23; 1 trial; 400 women; moderate‐certainty evidence). Adverse events were not reported. 
+Breast massage and low frequency pulse treatment versus routine care 
+Breast massage and low frequency pulse treatment may reduce risk of mastitis (RR 0.03, 95% CI 0.00 to 0.21; 1 trial; 300 women; low‐certainty evidence). Adverse events were not reported. 
+Authors' conclusions
+There is some evidence that acupoint massage is probably better than routine care, probiotics may be better than placebo, and breast massage and low frequency pulse treatment may be better than routine care for preventing mastitis. However, it is important to note that we are aware of at least one large trial investigating probiotics whose results have not been made public, therefore, the evidence presented here is incomplete. 
+The available evidence regarding other interventions, including breastfeeding education, pharmacological treatments and alternative therapies, suggests these may be little better than routine care for preventing mastitis but our conclusions are uncertain due to the low certainty of the evidence. 
+Future trials should recruit sufficiently large numbers of women in order to detect clinically important differences between interventions and results of future trials should be made publicly available. 

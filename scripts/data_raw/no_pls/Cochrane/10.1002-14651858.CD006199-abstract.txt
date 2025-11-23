@@ -1,0 +1,14 @@
+Background
+A malaria vaccine is needed because of the heavy burden of mortality and morbidity due to this disease. This review describes the results of trials of blood (asexual)‐stage vaccines. Several are under development, but only one (MSP/RESA, also known as Combination B) has been tested in randomized controlled trials. 
+Objectives
+To assess the effect of blood‐stage malaria vaccines in preventing infection, disease, and death. 
+Search methods
+In March 2006, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2006, Issue 1), MEDLINE, EMBASE, LILACS, and the Science Citation Index. We also searched conference proceedings and reference lists of articles, and contacted organizations and researchers in the field. 
+Selection criteria
+Randomized controlled trials comparing blood‐stage vaccines (other than SPf66) against P. falciparum, P. vivax, P. malariae, or P. ovale with placebo, control vaccine, or routine antimalarial control measures in people of any age receiving a challenge malaria infection. 
+Data collection and analysis
+Both authors independently assessed trial quality and extracted data. Results for dichotomous data were expressed as risk ratios (RR) with 95% confidence intervals (CI). 
+Main results
+Five trials of MSP/RESA vaccine with 217 participants were included; all five reported on safety, and two on efficacy. No severe or systemic adverse effects were reported at doses of 13 to 15 µg of each antigen (39 to 45 µg total). One small efficacy trial with 17 non‐immune participants with blood‐stage parasites showed no reduction or delay in parasite growth rates after artificial challenge. In the second efficacy trial in 120 children aged five to nine years in Papua New Guinea, episodes of clinical malaria were not reduced, but MSP/RESA significantly reduced parasite density only in children who had not been pretreated with an antimalarial drug (sulfadoxine‐pyrimethamine). Infections with the 3D7 parasite subtype of MSP2 (the variant included in the vaccine) were reduced (RR 0.38, 95% CI 0.26 to 0.57; 719 participants) while those with the other main subtype, FC27, were not (720 participants). 
+Authors' conclusions
+The MSP/RESA (Combination B) vaccine shows promise as a way to reduce the severity of malaria episodes, but the effect of the vaccine is MSP2 variant‐specific. Pretreatment for malaria during a vaccine trial makes the results difficult to interpret, particularly with the relatively small sample sizes of early trials. The results show that blood‐stage vaccines may play a role and merit further development. 

@@ -1,0 +1,21 @@
+Abdominal ultrasound and alpha‐foetoprotein for the diagnosis of hepatocellular carcinoma
+Why is improving the diagnosis of hepatocellular carcinoma important? 
+Hepatocellular carcinoma (HCC), i.e. cancer originating in the liver, is sixth in terms of global occurrences of cancer and fourth in terms of cancer deaths in men. This cancer occurs mostly in people with chronic liver disease regardless of the cause. Ultrasound (US), which uses ultrasound waves to show abnormalities in the liver, can detect the presence of liver lesions suspected of being HCC. Alpha‐foetoprotein (AFP), a glycoprotein, produced by the liver and measurable in the blood, is considered a tumour‐marker because high levels can be associated with the presence of HCC. These two tests (US and AFP) are used, alone or in combination, to exclude the presence of HCC in people at high risk of developing HCC. People at high risk are those who have chronic liver disease. Current guidelines recommend surveillance programmes, repeating abdominal US with or without AFP testing every six months to detect early HCC, amenable to surgical resection or other treatment. 
+What is the aim of this review? 
+To find out how accurate AFP, US, and a combination of AFP and US are for diagnosing HCC in people with chronic liver disease. 
+What was studied in this review? 
+AFP (tumour marker), that can easily be measured in the blood, using a commercial kit. Studies with AFP used various threshold values for defining the test as positive or negative. 
+US is an equipment, available worldwide. It produces images of liver and other abdominal organs. It can detect the presence of liver lesions suspected of being HCC. 
+A combination of AFP and US can detect or negate the presence of liver lesions suspected of being HCC. 
+What are the main results in this review? 
+We found 373 total studies in adults: AFP was analysed in 326 studies, 144,570 participants; US in 39 studies, 18,792 participants; and the combination of AFP and US in eight studies, 5454 participants. 
+‐ AFP with threshold of 20 ng/mL (147 studies): the test was positive in 60 out of 100 participants with HCC and in 16 out of 100 participants without HCC. AFP with threshold of 200 ng/mL (56 studies): the test was positive in 36 out of 100 participants with HCC and only in 1 out of 100 without HCC.‐ US (39 studies): the test was positive in 72 out of 100 participants with HCC and in 6 out of 100 participants without HCC.‐ The combination of AFP with threshold of 20 ng/mL and US (6 studies): one or both tests were positive in 96 out of 100 participants with HCC and in 15 out of 100 participants without HCC. 
+Thus, the combination of the two tests is better in detecting participants with HCC. Considering that people with chronic liver disease have HCC in 5 out of 100, one can assume that among 1000 people with chronic liver disease, 50 will have HCC, and, using AFP and abdominal US in combination, one can detect 48 out of the people with HCC, and 2 people will go undetected and will not receive appropriate treatment; 950 out of 1000 will have no HCC, and 143 of them will receive a wrong diagnosis of HCC, and will undergo further unnecessary testing such as computed tomography, magnetic resonance imaging, or biopsy. 
+How reliable are the results of the studies in this review? 
+All but one study had issues with risk of bias, especially in participants selection and in the correct definition on presence of HCC. These problems could impair the correct estimates of the diagnostic ability of the three tests. 
+Who do the results of this review apply to? 
+People with chronic liver disease
+What are the implications of this review? 
+Using AFP, with 20 ng/mL, as threshold, about 40% of HCC occurrences would be missed, and with US alone, more than a quarter. The sensitivity was highest when the two tests were used in combination, and less than 5% of HCC occurrences would be missed with about 15% of false‐positive results. 
+How up‐to‐date is this review? 
+5 June 2020

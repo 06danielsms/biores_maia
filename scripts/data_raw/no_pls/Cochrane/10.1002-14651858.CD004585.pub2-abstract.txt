@@ -1,0 +1,14 @@
+Background
+Electromyographic biofeedback (EMG‐BFB) is a technique that is believed to have additional benefit when used with standard physiotherapy for the recovery of motor function in stroke patients. However, evidence from individual trials and previous systematic reviews has been inconclusive. 
+Objectives
+To assess the effects of EMG‐BFB for motor function recovery following stroke.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 30 March 2006), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2005), MEDLINE (1966 to November 2005), EMBASE (1980 to November 2005), CINAHL (1983 to November 2005), PsycINFO (1974 to November 2005) and First Search (1966 to November 2005). We scanned reference lists for relevant articles and contacted equipment manufacturers and distributors. 
+Selection criteria
+Randomised and quasi‐randomised studies comparing EMG‐BFB with control for motor function recovery in stroke patients. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Where possible we contacted study authors for further information. Any reported adverse effects were noted. 
+Main results
+Thirteen trials involving 269 people were included. All trials compared EMG‐BFB plus standard physiotherapy to standard physiotherapy either alone or with sham EMG‐BFB. Only one study used a motor strength assessment scale for evaluation of patients, which indicated benefit from EMG‐BFB (WMD 1.09, 95% CI 0.48 to 1.70). EMG‐BFB did not have a significant benefit in improving range of motion (ROM) through the ankle (SMD 0.05, 95% CI ‐0.36 to 0.46), knee or wrist joints. However, one trial suggested a benefit in ROM at the shoulder (SMD 0.88, 95% CI 0.07 to 1.70). Change in stride length or gait speed was not improved by EMG‐BFB. Two studies used different assessment scores to quantify gait quality. One of these suggested a beneficial effect of EMG‐BFB (SMD 0.90, 95% CI 0.01 to 1.78). Most of the studies examining functional outcomes used different assessment scales, which made meta‐analysis impossible. Two studies that used the same scale did show a beneficial effect (SMD 0.69, 95% CI 0.15 to 1.23). 
+Authors' conclusions
+Despite evidence from a small number of individual studies to suggest that EMG‐BFB plus standard physiotherapy produces improvements in motor power, functional recovery and gait quality when compared to standard physiotherapy alone, combination of all the identified studies did not find a treatment benefit. Overall the results are limited because the trials were small, generally poorly designed and utilised varying outcome measures. 

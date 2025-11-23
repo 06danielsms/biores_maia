@@ -1,0 +1,45 @@
+What are the benefits and risks of laser peripheral iridoplasty (a surgical procedure) for chronic primary angle closure (an eye condition)? 
+Why is this question important?  ‘Primary angle closure’ (PAC) is a condition in which the eye does not drain properly because the iris (the coloured part of the eye) blocks the drainage channel. A blockage can happen suddenly (acute PAC) or slowly (chronic PAC). A blockage causes a build‐up of fluid and raises pressure inside the eye, which damages the optic nerve and can lead to partial or complete vision loss. 
+The main treatment for PAC is a surgical procedure called laser peripheral iridotomy. Peripheral iridotomy involves using a laser to create an opening in the iris so that fluid can drain out. For more than one in three people, however, peripheral iridotomy does not improve drainage. An alternative to peripheral iridotomy is laser peripheral iridoplasty (LPIp), in which a laser is used to reshape the iris so that it does not block drainage. 
+To find out how well LPIp works for people with chronic PAC, we reviewed the research evidence. 
+How did we identify and evaluate the evidence?  First, we searched the medical literature for studies that compared the effects of LPIp to other treatments or no treatment. We then compared the results, and summarised the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find?  We found four studies on a total of 252 people, mostly from Asia. The studies followed participants for between 3 and 12 months, and compared: 
+‐ LPIp plus peripheral iridotomy to peripheral iridotomy alone, as a primary treatment (that is, in people who had not received any other treatment for PAC before); 
+‐ LPIp to no treatment, as a secondary treatment (that is, in people who had previously been treated for PAC, but not with LPIp); and 
+‐ LPIp to eye drops (travoprost 0.004%), as a secondary treatment.
+LPIp plus peripheral iridotomy compared to peripheral iridotomy alone, as a primary treatment 
+The evidence suggests that adding LPIp to peripheral iridotomy may make little or no difference to: 
+‐ eye pressure (2 studies, 174 people);
+‐ the need for medicines after 12 months (1 study, 126 people);
+‐ the need for further laser or surgical treatment (1 study, 126 people); and
+‐ the shape of the front of the eye (1 study, 48 people).
+Evidence provided by two studies suggests that:
+‐ unwanted effects (such as bleeding inside the front of the eye) are uncommon; and
+‐ adding LPIp to peripheral iridotomy may make little or no difference to the frequency of unwanted events. 
+We do not know if adding LPIp to peripheral iridotomy slows disease progression or improves quality of life because no study investigated this. 
+LPIp compared to no treatment, as a secondary treatment 
+We found one study on 22 people that compared the effects of LPIp to no treatment on: 
+‐ eye pressure; and
+‐ the shape of the front of the eye.
+This study was not robust enough for us to determine which treatment is better.
+The study did not investigate whether LPIp is better than no treatment to:
+‐ slow disease progression;
+‐ limit the need for medications;
+‐ avoid the need for more laser or surgical treatment; or
+‐ improve quality of life.
+The study did not investigate unwanted events.
+LPIp compared to travoprost 0.004% eye drops, as a secondary treatment 
+The evidence from one study on 80 people suggests that there may be little to no difference between the effects of LPIp and travoprost 0.004% on: 
+‐ disease progression;
+‐ eye pressure;
+‐ the need for medicines after 12 months; and
+‐ the need for further laser or surgical treatment.
+The evidence further suggests that:
+‐ unwanted effects are uncommon; and
+‐ there may be little or no difference in the frequency of unwanted events between the two treatments. 
+The evidence was not robust enough for us to determine whether the treatments have different effects on the shape of the front of the eye. 
+We do not know which treatment works better to improve quality of life because no study investigated this. 
+What does this mean?  The evidence suggests that: 
+‐ LPIp may not be better than other treatments for chronic PAC; and
+‐ unwanted events may be as common with LPIp as with other treatments for chronic PAC. 
+How up‐to‐date is this review?  The evidence in this Cochrane Review is current to December 2020. 

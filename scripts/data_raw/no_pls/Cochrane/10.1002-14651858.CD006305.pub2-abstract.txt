@@ -1,0 +1,14 @@
+Background
+Currently very few drugs are supported for routine use for acute ischaemic stroke. Sanchi is one of the most widely used herbal medicines for ischaemic stroke in China. 
+Objectives
+To assess the effectiveness and safety of sanchi in the treatment of acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched January 2008), the Chinese Stroke Trials Register (searched February 2007), the Cochrane Complementary Medicine Field trials register (searched February 2007), the Chinese Cochrane Centre Controlled Trials Register (last searched February 2007). We also searched the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 1, 2007), MEDLINE (1966 to February 2007), EMBASE (1980 to February 2007), CINAHL (1982 to February 2007), AMED (1985 to February 2007), CNKI (1979 to February 2007), CBM‐disc (1979 to February 2007), Chinese scientific periodical database of VIP INFORMATION (1989 to February 2007), Wanfang Data (1982 to February 2007), CISCOM (1980 to February 2007), and TCMLARS (1984 to February 2007). 
+Selection criteria
+Randomised controlled trials comparing sanchi with placebo or no treatment for acute ischaemic stroke within 30 days of onset. 
+Data collection and analysis
+Two review authors extracted data and assessed trial quality.
+Main results
+Eight trials involving 660 participants were included. Seven of the eight studies were of poor quality. Follow‐up time was less than one month in six trials. Only two trials provided data for the number of participants who were dead or dependent at the end of 28 days of treatment, indicating a significantly lower rate of death and dependency in the sanchi group than in the control group (relative risk (RR) 0.63, 95% confidence interval (Cl) 0.45 to 0.88). One trial reported higher Barthel index scores in the sanchi group. Pooled analysis of seven trials indicated that sanchi might improve neurological deficit more than control with a significant difference (RR 0.29, 95%Cl 0.18 to 0.47). The total case fatality rate was lower than 1% indicating that participants probably had mild strokes. Few adverse events were reported. Data were limited in respect of stroke recurrence and quality of life. 
+Authors' conclusions
+Sanchi appears to be beneficial and safe for acute ischaemic stroke in this review, but the small sample and inferior quality of studies prevented a definite conclusion. More well‐designed randomised controlled trials are required. 

@@ -1,0 +1,15 @@
+Background
+Beta (β) blockers are indicated for use in coronary artery disease (CAD). However, optimal therapy for people with CAD accompanied by intermittent claudication has been controversial because of the presumed peripheral haemodynamic consequences of beta blockers, leading to worsening symptoms of intermittent claudication. This is an update of a review first published in 2008. 
+Objectives
+To quantify the potential harmful effects of beta blockers on maximum walking distance, claudication distance, calf blood flow, calf vascular resistance and skin temperature when used in patients with peripheral arterial disease (PAD). 
+Search methods
+For this update, the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched March 2013) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, 2013, Issue 2). 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the role of both selective (β1) and non‐selective (β1 and β2) beta blockers compared with placebo. We excluded trials that compared different types of beta blockers. 
+Data collection and analysis
+Primary outcome measures were claudication distance in metres, time to claudication in minutes and maximum walking distance in metres and minutes (as assessed by treadmill). 
+Secondary outcome measures included calf blood flow (mL/100 mL/min), calf vascular resistance and skin temperature (ºC). 
+Main results
+We included six RCTs that fulfilled the above criteria, with a total of 119 participants. The beta blockers studied were atenolol, propranolol, pindolol and metoprolol. All trials were of poor quality with the drugs administered over a short time (10 days to two months). None of the primary outcomes were reported by more than one study. Similarly, secondary outcome measures, with the exception of vascular resistance (as reported by three studies), were reported, each by only one study. Pooling of such results was deemed inappropriate. None of the trials showed a statistically significant worsening effect of beta blockers on time to claudication, claudication distance and maximal walking distance as measured on a treadmill, nor on calf blood flow, calf vascular resistance and skin temperature, when compared with placebo. No reports described adverse events associated with the beta blockers studied. 
+Authors' conclusions
+Currently, no evidence suggests that beta blockers adversely affect walking distance, calf blood flow, calf vascular resistance and skin temperature in people with intermittent claudication. However, because of the lack of large published trials, beta blockers should be used with caution, if clinically indicated. 

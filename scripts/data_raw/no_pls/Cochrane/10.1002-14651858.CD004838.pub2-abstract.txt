@@ -1,0 +1,14 @@
+Background
+The proportion of people with schizophrenia who smoke is very high, and as a rule, they tend to be heavier smokers when compared to the general population and those with other psychiatric disorders. Nicotine, the psychoactive component in tobacco, is thought to produce psychological effects that help to alleviate psychotic symptoms. 
+Objectives
+To examine the effects of nicotine and related products in the treatment of schizophrenia.
+Search methods
+We electronically searched the Cochrane Schizophrenia Group's Register (April 2005), supplemented with manually inspecting references of all identified studies and by contacting authors of studies where required. 
+Selection criteria
+We included all randomised clinical trials comparing nicotine or related products as a sole or adjunctive treatment for people with schizophrenia or other similar serious, non‐affective psychotic illness. 
+Data collection and analysis
+Citations and, where possible, abstracts were independently inspected by reviewers and the papers ordered were scrutinised and quality assessed. We extracted and evaluated data independently and analysed on an intention to treat basis. We would have calculated fixed effect relative risk (RR), number needed to treat/harm (NNT/H) and their 95% confidence intervals (CI) for binary outcomes and for continuous non‐skewed data we would have calculated weighted mean differences. We would have excluded data if loss to follow‐up had been greater than 50% and inspected the data for heterogeneity. 
+Main results
+We did not find any trials that met the inclusion criteria.
+Authors' conclusions
+There ought to be further research of nicotine for schizophrenia by parallel group design randomised controlled trials investigating the effects of nicotine on symptoms of schizophrenia as well as on side effects of antipsychotic drugs. We further note that authors and journals should conform to the CONSORT guidelines when publishing the research articles, especially when disclosing all the data available from a particular study. 

@@ -1,0 +1,14 @@
+Background
+Millions of women worldwide undergo perineal suturing after childbirth and the type of repair may have an impact on pain and healing. For more than 70 years, researchers have been suggesting that continuous non‐locking suture techniques for repair of the vagina, perineal muscles and skin are associated with less perineal pain than traditional interrupted methods. 
+Objectives
+To assess the effects of continuous versus interrupted absorbable sutures for repair of episiotomy and second‐degree perineal tears following childbirth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (20 January 2012). 
+Selection criteria
+Randomised trials examining continuous and interrupted suturing techniques for repair of episiotomy and second‐degree tears after vaginal delivery. 
+Data collection and analysis
+Three review authors independently assessed trial quality. Two of the three authors independently extracted data and a third review author checked them. We contacted study authors for additional information. 
+Main results
+Sixteen studies, involving 8184 women at point of entry, from eight countries, were included. The trials were heterogeneous in respect of operator skill and training. Meta‐analysis showed that continuous suture techniques compared with interrupted sutures for perineal closure (all layers or perineal skin only) are associated with less pain for up to 10 days' postpartum (risk ratio (RR) 0.76; 95% confidence interval (CI) 0.66 to 0.88, nine trials). There was an overall reduction in analgesia use associated with the continuous subcutaneous technique versus interrupted stitches for repair of perineal skin (RR 0.70; 95% CI 0.59 to 0.84). There was also a reduction in suture removal in the continuous suturing groups versus interrupted (RR 0.56; 95% CI 0.32 to 0.98), but no significant differences were seen in the need for re‐suturing of wounds or long‐term pain. 
+Authors' conclusions
+The continuous suturing techniques for perineal closure, compared with interrupted methods, are associated with less short‐term pain, need for analgesia and suture removal. Furthermore, there is also some evidence that the continuous techniques used less suture material as compared with the interrupted methods (one packet compared to two or three packets, respectively). 

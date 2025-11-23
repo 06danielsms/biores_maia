@@ -1,0 +1,14 @@
+Background
+Preterm birth causes 60% to 80% of neonatal deaths. Survivors can experience life‐long complications. Thirty to fifty per cent of preterm labours are associated with maternal infection. Probiotics are defined as live micro‐organisms which, when administered in an adequate amount, confer a health benefit on the host. They have been shown to displace and kill pathogens and modulate the immune response, thus potentially interfering with the inflammatory cascade that leads to preterm labour and delivery. During pregnancy, local treatment restoring normal vaginal flora and acidity without systemic effects could be preferable to other treatments to prevent preterm labour. 
+Objectives
+To evaluate the effectiveness and the safety of probiotics for preventing preterm labour and birth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (20 February 2010). 
+Selection criteria
+All randomised controlled trials assessing the prevention of preterm birth in pregnant women, and women planning pregnancy, through the use of probiotics to treat or prevent urogenital infections. 
+Data collection and analysis
+All review authors independently assessed trial quality and extracted data.
+Main results
+We assessed seven trials for inclusion in the review and included three trials. Effects on very preterm birth (less than 32 weeks) (risk ratio (RR) 0.65; 95% confidence interval (CI) 0.03 to 15.88) and preterm birth (less than 37 weeks) (RR 3.95; 95% CI 0.36 to 42.91) showed very wide CIs and no effect of statistical significance (one trial; 238 women). Effects on neonatal death or severe morbidity were not estimable. The impact of probiotics on vaginal infection was based on only 88 women in two trials. There was an 81% reduction in the risk of genital infection with the use of probiotics (RR 0.19; 95% CI 0.08 to 0.48). 
+Authors' conclusions
+Although the use of probiotics appears to treat vaginal infections in pregnancy, there are currently insufficient data from trials to demonstrate any impact on preterm birth and its complications. 

@@ -1,0 +1,31 @@
+Clinical Study Results
+
+Overall, the researchers found that these levels were similar among the 3 treatments.
+
+The results of these measurements are listed below.
+
+Level of tezepelumab in the blood over time:
+
+- 1,040 μg/day/mL for the participants who got tezepelumab through the vial and syringe. This was for 103 out of 103 participants.
+- 1,070 μg/day/mL for the participants who got tezepelumab through the accessorized pre-filled syringe. This was for 104 out of 105 participants.
+- 1,110 μg/day/mL for the participants who got tezepelumab through the auto-injector.
+
+Level of tezepelumab in the blood over time:
+
+1,500
+1,250
+1,110 μg/day/mL
+1,070 μg/day/mL
+1,040 μg/day/mL 
+1,000
+750
+leveL
+500
+250
+0
+
+Vial and syringe    Accessorized    Auto-injector
+(given by the    (given by the
+doctors)    doctors)
+(given by the    )Lm/yad•gμ(
+doctors)

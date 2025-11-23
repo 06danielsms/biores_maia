@@ -1,0 +1,14 @@
+Background
+Anemia is common in persons with HIV infection and is associated with poor prognosis. There is a need to assess the effects of anemia treatments, and to determine whether these interventions are beneficial. 
+Objectives
+To determine the efficacy and safety of treatments for anemia in people with HIV infection and AIDS. 
+Search methods
+The Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 10, 2010), MEDLINE (1980‐November 25, 2010), EMBASE (1980‐November 25, 2010), LlLACS (1982 to November 25, 2010), Africa Index Medicus (up to November 9, 2010), ISI Web of Knowledge (2005 to October 9, 2010), Scirus (October 9, 2010) reference lists of relevant articles. We asked the Cochrane HIV/AIDS and Pregnancy and Childbirth Groups to check their Specialised Registers. We also checked the reference lists of all trials identified by the above methods. 
+Selection criteria
+Randomized trials assessing the effects of treatments for anemia in people diagnosed with HIV infection. There were no age restrictions. 
+Data collection and analysis
+Two authors independently assessed relevant studies for inclusion. Data extraction and quality assessment of relevant studies was performed by two authors and checked by the other two authors. 
+Main results
+Six trials with a high risk of bias, including 537 patients, met the inclusion criteria. These trials only covered recombinant Human erythropoietin alfa (rHuEPO). Two of them including adult and paediatric participants (84 participants and 4 events) comparing rHuEPO to placebo did not reduce the risk of mortality with a follow up to 12 weeks (pooled RR 0.56, 95% confidence interval (CI) 0.08 to 4.05, I2 = 0%). Any trials that compared rHuEPO to placebo did not show any benefit on hematological values response, number of patients transfused, or number of packed red cell transfused. Two trial compared the effects of two rHuEPO dosing regimens on hemoglobin value and quality of life, but the effects are unclear. Three RCT reported high risk of attrition bias; therefore, were not included in a meta‐analysis. 
+Authors' conclusions
+This updated Cochrane review provides evidence that rHuEPO compared with placebo does not reduce mortality, does not reduce transfusion requirements, did not increase hemoglobin levels, and did not improve quality of life in HIV‐infected patients with anemia. The results are based on six RCTs with high risk of bias. Therefore prescription of this intervention for treating anemia in patients with AIDS is not justified, unless new evidence from a large high quality trial alters this conclusion. 

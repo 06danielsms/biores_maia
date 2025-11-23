@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 1, 2008.
+Narcolepsy is a disorder of the central nervous system, the main symptoms of which are excessive daytime sleepiness (EDS) and cataplexy (an abrupt and reversible decrease in or loss of muscle tone, affecting the limbs or trunk or both, elicited by emotional stimuli). Narcolepsy has an adverse impact on people's quality of life. Together with stimulant drugs (used to control EDS), antidepressants are usually recommended to counteract cataplexy. In addition, some antidepressants are also reported to improve EDS. 
+Objectives
+To evaluate the effects of antidepressant drugs on EDS, cataplexy, quality of life, and their side effects in people with narcolepsy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library February issue, 2010), MEDLINE (1950 to March 2010), EMBASE (1980 to April 2010), PsycINFO (1872 to March 2010), and CINAHL (1981 to March 2010). Bibliographies of identified articles were reviewed to find additional references. Unpublished randomised trials were searched for by consulting governmental and non‐governmental clinical trial registers, disease‐specific websites, investigators and experts in the field, pharmaceutical companies/manufacturers. 
+Selection criteria
+Parallel or cross‐over randomised or quasi‐randomised controlled trials testing the treatment of narcolepsy with any type of antidepressant drug versus no treatment, placebo, or another antidepressant drug. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+Three cross‐over and two parallel trials were included with a total of 246 participants. The methodological quality of all studies was unclear. As the trials tested different comparisons, or had a different design or dealt with different outcome measures, meta‐analysis was not performed. In one cross‐over trial (10 participants) femoxetine had no significant effect in eliminating or reducing EDS but significantly reduced cataplexy. Mild and transient side effects were reported in the femoxetine treatment period by two participants. In a second cross‐over trial (56 participants) viloxazine significantly reduced EDS and cataplexy. In a third cross‐over trial the authors inappropriately treated the trial design as a parallel study and no conclusions can be reached in favour of either drug. Two more trials with parallel design tested ritanserin versus placebo without finding differences of effectiveness in reducing EDS or cataplexy. 
+Authors' conclusions
+Since the last version of this review no new studies were found.
+There was no good quality evidence that antidepressants are effective for narcolepsy or improve quality of life. Despite the clinical consensus recommending antidepressants for cataplexy there is scarce evidence that antidepressants have a positive effect on this symptom. There is a clear need for well‐designed randomised controlled trials to assess the effect of antidepressants on narcolepsy. 

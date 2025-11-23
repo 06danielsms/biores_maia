@@ -1,0 +1,17 @@
+Background
+Balneotherapy (or spa therapy, mineral baths) for patients with arthritis is one of the oldest forms of therapy. One of the aims of balneotherapy is to soothe the pain and as a consequence to relieve patients' suffering and make them feel well. In this update we included one extra study. 
+Objectives
+To assess the effectiveness of balneotherapy for patients with osteoarthritis (OA).
+Search methods
+We searched the following databases up to October 2006: EMBASE, PubMed, the Cochrane 'Rehabilitation and Related Therapies' Field database, PEDro, CENTRAL (Issue 3, 2006) and performed reference checking and communicated with authors to retrieve eligible studies. 
+Selection criteria
+Randomised controlled trials (RCT) comparing balneotherapy with any intervention or no intervention. At least 90% of the patient population had to be diagnosed with OA. 
+Data collection and analysis
+Two authors independently assessed quality and extracted data. Disagreements were solved by consensus. In the event of clinical heterogeneity or lack of data we refrained from statistical pooling. 
+Main results
+Seven trials (498 patients) were included in this review. Two studies compared spa‐treatment with no treatment. One study evaluated baths as an add‐on treatment to home exercises and another compared thermal water from Cserkeszölö with tap water (placebo). Three studies evaluated sulphur or Dead Sea baths with no treatment or mineral baths with tap water baths or no treatment. Only one of the trials performed an intention‐to‐treat analysis and two studies provided data to perform an intention‐to‐treat analysis ourselves. A 'quality of life' outcome was reported by one trial. 
+We found:
+silver level evidence concerning the beneficial effects on pain, quality of life and analgesic intake of mineral baths compared to no treatment (SMD between 1.82 and 0.34).  a statistically significant difference in pain and function of Dead Sea + sulphur versus no treatment, only at end of treatment (WMD 5.7, 95%CI 3.3 to 8.1), but not at 3 month follow‐up (WMD 2.6, 95%CI ‐1.1 to 6.3).  no statistically significant differences in pain or function at one or three months of Dead Sea baths versus no treatment (WMD 0.5, 95%CI ‐0.6 to 1.6) or at one or three months of sulphur baths versus no treatment (WMD 0.4, 95%CI ‐0.9 to 1.7). 
+Adverse events were not measured in the included trials.
+Authors' conclusions
+We found silver level evidence (www.cochranemsk.org) concerning the beneficial effects of mineral baths compared to no treatment. Of all other balneological treatments no clear effects were found. However, the scientific evidence is weak because of the poor methodological quality and the absence of an adequate statistical analysis and data presentation. Therefore, the noted "positive findings" should be viewed with caution. 

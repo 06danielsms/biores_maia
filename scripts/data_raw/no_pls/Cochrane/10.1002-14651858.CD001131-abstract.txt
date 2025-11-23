@@ -1,0 +1,14 @@
+Background
+Spasticity is a major health problem for patients with a spinal cord injury (SCI). It limits their mobility and affects their independence in activities of daily living (ADL) and work. Spasticity may also cause pain, loss of range of motion, contractures, sleep disorders and impair ambulation in patients with an incomplete lesion. The effectiveness of available drugs is still uncertain and they may cause adverse effects. Assessing what works in this area is complicated by the lack of valid and reliable measurement tools. The aim of this systematic review is to critically appraise and summarise existing information on the effectiveness of available treatments, and to identify areas where further research is needed. 
+Objectives
+To assess the effectiveness and safety of baclofen, dantrolene, tizanidine and any other drugs for the treatment of long‐term spasticity in SCI patients, as well as the effectiveness and safety of different routes of administration of baclofen. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, CENTRAL, MEDLINE/PubMed, EMBASE, Zetoc, Web of Knowledge, CINAHL and Current Controlled Trials. We also checked the reference lists of relevant papers to identify any further studies. The searches were last conducted in July 2008. 
+Selection criteria
+All parallel and cross‐over randomised controlled trials (RCTs) including spinal cord injury patients complaining of 'severe spasticity'. Studies where less than 50% of patients had a spinal cord injury were excluded. 
+Data collection and analysis
+Methodological quality of studies (allocation concealment, blinding, patient's characteristics, inclusion and exclusion criteria, interventions, outcomes, losses to follow up) was independently assessed by two investigators. The heterogeneity among studies did not allow quantitative combination of results. 
+Main results
+Nine studies met the inclusion criteria. Study designs were: 8 cross‐over and 1 parallel‐group trial. Two studies (14 SCI patients), showed a significant effect of intrathecal baclofen in reducing spasticity (Ashworth Score and ADL performances), compared to placebo, without any adverse effects. The study comparing tizanidine to placebo (118 SCI patients) showed a significant effect of tizanidine in improving Ashworth Score but not in ADL performances. The tizanidine group reported significant rates of adverse effects (drowsiness, xerostomia). For the other drugs (gabapentin, clonidine, diazepam, amytal and oral baclofen) the results did not provide evidence for clinically significant effectiveness. 
+Authors' conclusions
+There is insufficient evidence to assist clinicians in a rational approach to antispastic treatment for SCI. Further research is urgently needed to improve the scientific basis of patient care. 

@@ -1,0 +1,14 @@
+Background
+Most cases of stroke are caused by impairment of blood flow to the brain (ischaemia), which results in a reduction in available oxygen and subsequent cell death. It has been postulated that hyperbaric oxygen therapy (HBOT) may reduce the volume of brain that will die by greatly increasing available oxygen, and it may further improve outcomes by reducing brain swelling. Some centres are using HBOT routinely to treat people with stroke. This is an update of a Cochrane Review first published in 2005. 
+Objectives
+To assess the effectiveness and safety of adjunctive HBOT in the treatment of people with acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched April 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) (April 2014), MEDLINE (1966 to April 2014), EMBASE (1980 to April 2014), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to April 2014), the Database of Randomised Controlled Trials in Hyperbaric Medicine (DORCTIHM) (searched April 2014) and the reference lists of articles. We handsearched relevant publications and contacted researchers to identify additional published and unpublished studies. 
+Selection criteria
+Randomised controlled trials (RCTs) that compared the effects of adjunctive HBOT versus those of no HBOT (no treatment or sham). 
+Data collection and analysis
+Three review authors independently extracted data, assessed each trial for internal validity and resolved differences by discussion. 
+Main results
+We included 11 RCTs involving 705 participants. The methodological quality of the trials varied. We could pool data only for case fatalities. No significant differences were noted in the case fatality rate at six months in those receiving HBOT compared with the control group (risk ratio (RR) 0.97, 95% confidence interval (CI) 0.34 to 2.75, P value 0.96). Four of 14 scale measures of disability and functional performance indicated improvement following HBOT, for example, the mean Trouillas Disability Scale score was lower with HBOT (mean difference (MD) 2.2 point reduction with HBOT, 95% CI 0.15 to 4.3, P value 0.04), and the mean Orgogozo Scale score was higher (MD 27.9 points, 95% CI 4.0 to 51.8, P value 0.02). 
+Authors' conclusions
+We found no good evidence to show that HBOT improves clinical outcomes when applied during acute presentation of ischaemic stroke. Although evidence from the 11 RCTs is insufficient to provide clear guidelines for practice, the possibility of clinical benefit has not been excluded. Further research is required to better define the role of HBOT in this condition. 

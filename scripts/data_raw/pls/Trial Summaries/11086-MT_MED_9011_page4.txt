@@ -1,0 +1,12 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each participant had might be different and are not in this summary.
+Researchers look at the results of many studies to decide which treatments work best and are safest. Other studies may provide new information or different results. Always talk to a doctor before making any treatment change.
+The websites listed at the end of this summary may have a full report of the study results.
+How much verinurad got into the participants' blood?
+To answer this, the study doctors took blood samples from the participants during each treatment period. From the samples, they measured:
+- The average highest amount of verinurad in the participants' blood. This was measured in nanograms per milliliter, also known as ng/mL.
+- The average total amount of verinurad in the participants' blood over time. This was measured in nanograms per milliliter per hour, also known as ng*h/mL.
+- The average total amount of verinurad in the participants' blood, up until the last blood sample taken during the study. This was also measured in ng*h/mL.
+Some of the participants did not have all of the blood tests done. So, the results for each blood test below include the participants in each treatment period who had that blood test done.
+For each measurement, the researchers found that the average amount of verinurad in the participants' blood was lowest when they took verinurad in Form A with food. The average amount of verinurad in the participants' blood was similar when they took the other treatments.

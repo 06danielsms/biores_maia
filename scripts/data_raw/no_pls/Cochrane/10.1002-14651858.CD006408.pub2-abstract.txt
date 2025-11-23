@@ -1,0 +1,14 @@
+Background
+Neck pain is a frequently reported complaint of the musculoskeletal system which can be disabling and costly to society. Mechanical traction is often used as an adjunct therapy in outpatient rehabilitation. 
+Objectives
+To assess the effects of mechanical traction for neck disorders.
+Search methods
+A research librarian searched computerized bibliographic databases without language restrictions up to March 2008 for randomized controlled trials (RCTs) from the medical, chiropractic, and allied health literature. 
+Selection criteria
+The RCTs we selected examined adults with neck disorders who received mechanical traction alone or in combination with other treatments compared to a placebo or another treatment. Our outcomes of interest were pain, function, disability, global perceived effect, patient satisfaction, and quality of life measures. 
+Data collection and analysis
+Two review authors with different backgrounds in medicine, physiotherapy, massage therapy and chiropractics independently conducted study selection, risk of bias assessment and data abstraction using pre‐piloted forms. We resolved disagreement through consensus. 
+Main results
+Of the seven selected RCTs (total participants = 958), only one (N = 100) had a low risk of bias. It found no statistically significant difference (SMD ‐0.16: 95%CI: ‐0.59 to 0.27) between continuous traction and placebo traction in reducing pain or improving function for chronic neck disorders with radicular symptoms. Our review found no evidence from RCTs with a low potential for bias that clearly supports or refutes the use of either continuous or intermittent traction for neck disorders. 
+Authors' conclusions
+The current literature does not support or refute the efficacy or effectiveness of continuous or intermittent traction for pain reduction, improved function or global perceived effect when compared to placebo traction, tablet or heat or other conservative treatments in patients with chronic neck disorders. Large, well conducted RCTs are needed to first determine the efficacy of traction, then the effectiveness, for individuals with neck disorders with radicular symptoms. 

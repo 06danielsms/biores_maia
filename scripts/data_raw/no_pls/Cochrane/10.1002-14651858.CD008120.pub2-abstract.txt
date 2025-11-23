@@ -1,0 +1,15 @@
+Background
+Anxiety disorders are common and disabling conditions, with a lifetime prevalence of 17% in the general population. Due to high rates of treatment resistance, there is interest in new pharmacological treatment options such as second‐generation antipsychotics. 
+Objectives
+To evaluate the efficacy and tolerability of second‐generation antipsychotics as monotherapy or adjunctive treatment for people with anxiety disorders. 
+Search methods
+The Cochrane Depression, Anxiety and Neurosis Group's controlled trial registers (CCDANCTR‐Studies and CCDANCTR‐References) were searched up to 21 July 2010. The author team ran complementary searches on ClinicalTrials.gov. 
+Selection criteria
+We included all randomised trials (RCTs) comparing second‐generation antipsychotic drugs with placebo, benzodiazepines, pregabalin or antidepressants. Participants were people with generalised anxiety disorder, panic disorder and specific phobias including social phobia. 
+Data collection and analysis
+Two authors extracted data independently. For dichotomous data we calculated odds ratios (OR) and their 95% confidence intervals (CI). For continuous data we calculated mean differences (MD) based on a random‐effects model. 
+Main results
+The review currently includes eleven RCTs with 4144 participants on three second‐generation antipsychotics (olanzapine, quetiapine, risperidone). Nine studies investigated the effects of second‐generation antipsychotics in generalised anxiety disorder, only two studies investigated the effects in social phobia. There were no studies on panic disorder or any other primary anxiety disorder. 
+Seven studies investigated the effects of quetiapine. Participants with generalised anxiety disorder responded significantly better to quetiapine than to placebo (4 RCTs, N = 2265, OR = 2.21, 95% CI 1.10 to 4.45). However, they were more likely to drop out due to adverse events, to gain weight, to suffer from sedation or to suffer from extrapyramidal side effects. When quetiapine was compared with antidepressants, there was no significant difference in efficacy‐related outcomes, but more participants in the quetiapine groups dropped out due to adverse events, gained weight and feeling sedated. Only two very small studies with a total of 36 participants examined olanzapine and found no difference in response to treatment. Two trials compared adjunctive treatment with risperidone with placebo and found no difference in response to treatment. 
+Authors' conclusions
+We identified eligible trials on quetiapine, risperidone and olanzapine. The available data on olanzapine and risperidone are too limited to draw any conclusions. Monotherapy with quetiapine seems to be efficacious in reducing symptoms of generalised anxiety disorder and this effect may be similar to that of antidepressants. However, quetiapine's efficacy must be weighed against its lower tolerability. 

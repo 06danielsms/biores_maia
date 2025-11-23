@@ -1,0 +1,20 @@
+Magnetic resonance imaging (MRI) for diagnosis of acute appendicitis
+Review question 
+To check the accuracy of magnetic resonance imaging (MRI), a medical imaging tool used for taking detailed pictures of the inside of the body, to test for appendicitis. 
+Why is diagnosing appendicitis important? 
+Appendicitis is a very common condition that is usually treated with emergency surgery, but it can be difficult to diagnose. Up to one in four patients may be incorrectly diagnosed with appendicitis. Tools such as MRI can help diagnose appendicitis quickly and early. 
+What was studied in this review? 
+We studied the accuracy of MRI for appendicitis in all patients.
+What are the main results of the review? 
+We analysed the results of 58 studies with 7462 participants to calculate the accuracy of MRI. The results of these studies indicate that in theory, if MRI were to be used in 1000 patients with suspected appendicitis, where 250 patients actually had appendicitis, then: 
+• an estimated 250 patients will have an MRI result indicating appendicitis, 12 of whom will not actually have appendicitis; and 
+• of the 750 patients with a result indicating that appendicitis is not present, 30 will actually have appendicitis. 
+MRI remained very accurate when looking specifically at adults, pregnant women, and children. 
+How reliable are the results of the studies in this review? 
+There were problems with how most of the studies were conducted that may have resulted in MRI appearing more accurate than it actually is. 
+To whom do the results of this review apply? 
+The results apply to people with suspected appendicitis, including adults, pregnant women, and children. Most studies were conducted in Europe and North America in large university hospitals. Patients had often undergone an ultrasound scan without a clear result. 
+What are the key messages of this review? 
+Based on the studies included in this review, MRI seems to be a very accurate test for appendicitis. The chance of wrongly diagnosing someone with appendicitis or missing appendicitis was less than 5%. However, as most of the included studies had problems, we cannot trust their results completely. Although MRI is promising, until better studies have been performed, we cannot firmly recommend the use of MRI for the diagnosis of appendicitis. 
+How up‐to‐date is this review? 
+We searched for and used studies published up to February 2021.

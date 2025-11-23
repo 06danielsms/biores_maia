@@ -1,0 +1,14 @@
+Background
+Chronic neck pain with radicular signs or symptoms is a common condition. Many patients use complementary and alternative medicine, including traditional Chinese medicine, to address their symptoms. 
+Objectives
+To assess the efficacy of Chinese herbal medicines in treating chronic neck pain with radicular signs or symptoms. 
+Search methods
+We electronically searched CENTRAL (The Cochrane Library 2009, issue 3), MEDLINE, EMBASE, CINAHL and AMED (beginning to October 1, 2009), the Chinese Biomedical Database and related herbal medicine databases in Japan and South Korea (1979 to 2007). We also contacted content experts and handsearched a number of journals published in China. 
+Selection criteria
+We included randomized controlled trials with adults with a clinical diagnosis of cervical degenerative disc disease, cervical radiculopathy or myelopathy supported by appropriate radiological findings. The interventions were Chinese herbal medicines, defined as products derived from raw or refined plants or parts of plants, minerals and animals that are used for medicinal purposes in any form. The primary outcome was pain relief, measured with a visual analogue scale, numeric scale or other validated tool. 
+Data collection and analysis
+The data were independently extracted and recorded by two review authors on a pre‐developed form. Risk of bias and clinical relevance were assessed separately by two review authors using the twelve criteria and the five questions recommended by the Cochrane Back Review Group. Disagreements were resolved by consensus. 
+Main results
+All four included studies were in Chinese; two of which were unpublished. Effect sizes were not clinically relevant and there was low quality evidence for all outcomes due to study limitations and sparse data (single studies). Two trials (680 participants) found that Compound Qishe Tablets relieved pain better in the short‐term than either placebo or Jingfukang; one trial (60 participants) found than an oral herbal formula of Huangqi ((Radix Astragali)18 g, Dangshen (Radix Codonopsis) 9 g, Sanqi (Radix Notoginseng) 9 g, Chuanxiong (Rhizoma Chuanxiong)12 g, Lujiao (Cornu Cervi Pantotrichum) 12 g, and Zhimu (Rhizoma Anemarrhenae)12 g) relieved pain better than Mobicox or Methycobal and one trial (360 participants) showed that a topical herbal medicine, Compound Extractum Nucis Vomicae, relieved pain better than Diclofenac Diethylamine Emulgel. 
+Authors' conclusions
+There is low quality evidence that an oral herbal medication, Compound Qishe Tablet, reduced pain more than placebo or Jingfukang and a topical herbal medicine, Compound Extractum Nucis Vomicae, reduced pain more than Diclofenac Diethylamine Emulgel. Further research is very likely to change both the effect size and our confidence in the results. 

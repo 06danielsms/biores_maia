@@ -1,0 +1,14 @@
+Background
+Tocilizumab, a new biologic that inhibits interleukin‐6, is approved for treatment of rheumatoid arthritis (RA) in Europe, Japan and the US. 
+Objectives
+To assess the efficacy and safety of tocilizumab in patients with RA using the data from published randomized or quasi‐randomized controlled trials (RCTs). 
+Search methods
+We performed a search of the following databases: the Cochrane Central Register of Controlled Trials (CENTRAL) up to issue 3, 2009; OVID MEDLINE(1966 to 1 October 2009); CINAHL(1982 to 2009); EMBASE (1980 to week 39, 2009); Science Citation Index (Web of Science) (1945 to 2009) and Current Controlled Trials. 
+Selection criteria
+Tocilizumab alone or in combination with disease‐modifying anti‐rheumatic drugs (DMARDs) or biologics compared to placebo or other DMARDs or biologics. 
+Data collection and analysis
+Two review authors independently extracted all data including major (ACR50, adverse events, serious adverse events, withdrawals, specific adverse events) and secondary outcomes. We calculated the risk ratio for dichotomous outcomes and mean difference for continuous outcomes. 
+Main results
+Eight RCTs were included in this systematic review with 3334 participants; 2233 treated with tocilizumab and 1101 controls. Of the 2233, 1561 were treated with tocilizumab 8 mg/kg every four weeks, which is the approved dose. In patients taking concomitant methotrexate, compared to placebo, tocilizumab‐treated patients were four times more likely to achieve ACR50 (absolute %, 38.8% versus 9.6%), 11 times more likely to achieve Disease Activity Score (DAS) remission (absolute %, 30.5% versus 2.7%), 1.8 times more likely to achieve clinically meaningful decrease in Health Assessment Questionnaire (HAQ/mHAQ) scores (absolute %, 60.5% versus 34%), 1.2 times more likely to have any adverse event (absolute %, 74% versus 65%) and 0.6 times less likely to withdraw from therapy for any reason (absolute %, 8.1% versus 14.9%). With the limitation that none of the studies were powered for safety as primary outcome, there were no statistically significant differences in serious adverse effects, or withdrawals due to adverse events. A significant increase in total, HDL and LDL cholesterol and triglyceride level was seen in the tocilizumab treated patients. 
+Authors' conclusions
+Tocilizumab is beneficial in decreasing RA disease activity and improving function. Tocilizumab treatment was associated with significant increase in cholesterol levels and in total adverse events. Larger safety studies are needed to address these safety concerns. 

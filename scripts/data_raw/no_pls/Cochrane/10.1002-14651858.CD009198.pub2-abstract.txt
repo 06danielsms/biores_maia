@@ -1,0 +1,14 @@
+Background
+Gastrostomy has been established as the standard procedure for administering long‐term enteral nutrition in individuals with swallowing disturbances. Percutaneous gastrostomy is a less‐invasive approach than open surgical gastrostomy, and can be accomplished via endoscopy (percutaneous endoscopic gastrostomy or PEG) or sonographic or fluoroscopic guidance (percutaneous radiological gastrostomy or PRG). Both techniques have different limitations, advantages, and contraindications. In order to determine the optimal technique for long‐term nutritional supplementation many studies have been conducted to compare the outcomes of these two techniques; however, it remains unclear as to which method is superior to the other with respect to both efficacy and safety. 
+Objectives
+To compare the safety and efficacy of PEG and PRG in the treatment of individuals with swallowing disturbances. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, January 2016); MEDLINE (1946 to 22 January 2016); EMBASE (1980 to 22 January 2016); the reference lists of identified articles; databases of ongoing trials, including the Chinese Cochrane Centre Controlled Trials Register; and PubMed. We applied no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing PEG with PRG in individuals with swallowing disturbances, regardless of the underlying disease. 
+Data collection and analysis
+Two authors independently evaluated the search results and assessed the quality of the studies. Data analyses could not be performed as no RCTs were identified for inclusion in this review. 
+Main results
+We identified no RCTs comparing PEG and PRG for percutaneous gastrostomy in individuals with swallowing disturbances. The large body of evidence in this field comes from retrospective and non‐randomised controlled studies and case series. Based on this evidence, both PEG and PRG can be safely performed in selected individuals, although both are associated with major and minor complications. A definitive RCT has yet to be conducted to identify the preferred percutaneous gastrostomy technique. 
+Authors' conclusions
+Both PEG and PRG are effective for long‐term enteral nutritional support in selected individuals, though current evidence is insufficient to recommend one technique over the other. Choice of technique should be based on indications and contraindications, operator experience and the facilities available. Large‐scale RCTs are required to compare the two techniques and to determine the optimal approach for percutaneous gastrostomy. 

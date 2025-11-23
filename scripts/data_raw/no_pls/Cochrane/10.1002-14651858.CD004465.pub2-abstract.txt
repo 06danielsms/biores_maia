@@ -1,0 +1,14 @@
+Background
+Acute myocardial infarction (AMI) is the most important cause of morbidity from ischaemic heart disease, and is among the leading causes of death in the western world. Danshen, a Chinese herbal medicine, is widely used in China for treatment of several diseases, including AMI. 
+Objectives
+To assess the effects (both benefits and harms) of danshen preparations for AMI.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (issue 4, 2006), MEDLINE (1966‐2006), EMBASE (1980‐2006), and the Chinese Biomedical Database (CBM) (1982‐2006). We also handsearched 75 Chinese medical journals. 
+Selection criteria
+Randomised controlled trials (RCTs) lasting at least 7 days were sought. Since it seemed evident that few RCTs were available, we also considered other controlled studies. 
+Data collection and analysis
+Eligibility and trial quality were assessed by three reviewers.
+Main results
+Six studies comprised of 2368 participants were included. Only one trial was judged to be a genuine RCT and showed no statistically significant difference in reduction of total mortality (Peto OR 0.55, 95% CI 0.23 to 1.32), but a quasi‐RCT reported a reduced total mortality (Peto OR 0.42, 95% CI 0.23 to 0.77). Pooling these trials yielded an approximate halving of mortality in those patients treated with danshen preparations plus usual care compared with usual care alone (Peto OR 0.46, 95% CI 0.28 to 0.75). 
+Authors' conclusions
+The evidence to support use of danshen preparations is too weak to make any judgement about its effects. Evidence from RCTs is insufficient and of low quality. The safety of danshen preparations is unproven, although some adverse events have been reported. More evidence from high quality trials is needed to support the clinical use of danshen preparations. 

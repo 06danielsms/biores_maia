@@ -1,0 +1,14 @@
+Background
+Many palliative care patients have reduced oral intake during their illness. The management of this can include the provision of medically assisted hydration with the aim of prolonging the life of a patient, improving their quality of life, or both. This is an updated version of the original Cochrane review published in Issue 2, 2008, and updated in February 2011. 
+Objectives
+To determine the effect of medically assisted hydration in palliative care patients on their quality and length of life. 
+Search methods
+We identified studies by searching the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, CANCERLIT, Caresearch, Dissertation abstracts, SCIENCE CITATION INDEX and the reference lists of all eligible studies, key textbooks and previous systematic reviews. The date of the latest search conducted on CENTRAL, MEDLINE and EMBASE was March 2014. 
+Selection criteria
+All relevant randomised controlled trials (RCTs) or prospective controlled studies of medically assisted hydration in palliative care patients. 
+Data collection and analysis
+We identified six relevant studies for this update. These included three RCTs (222 participants), and three prospective controlled trials (360 participants). Two review authors independently assessed the studies for quality and validity. The small number of studies and the heterogeneity of the data meant that a quantitative analysis was not possible, so we included a description of the main findings. 
+Main results
+One study found that sedation and myoclonus (involuntary contractions of muscles) scores were improved more in the intervention group. Another study found that dehydration was significantly higher in the non‐hydration group, but that some fluid retention symptoms (pleural effusion, peripheral oedema and ascites) were significantly higher in the hydration group. The other four studies (including the three RCTs) did not show significant differences in outcomes between the two groups. The only study that had survival as an outcome found no difference in survival between the hydration and control arms. 
+Authors' conclusions
+Since the last version of this review, we found one new study. The studies published do not show a significant benefit in the use of medically assisted hydration in palliative care patients; however, there are insufficient good‐quality studies to inform definitive recommendations for practice with regard to the use of medically assisted hydration in palliative care patients. 

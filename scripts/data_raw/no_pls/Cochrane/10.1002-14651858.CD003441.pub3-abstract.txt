@@ -1,0 +1,14 @@
+Background
+Drugs used to treat psychotic illnesses may take weeks to be effective. In the interim, additional 'as required' doses of medication can be used to calm patients in psychiatric wards. The practice is widespread, with 20% to 50% of people on acute psychiatric wards receiving at least one 'as required' dose of psychotropic medication during their admission. 
+Objectives
+To compare the effects of 'as required' medication regimens with regular patterns of medication for the treatment of psychotic symptoms or behavioural disturbance, thought to be secondary to psychotic illness. These regimens may be given alone or in addition to any regular psychotropic medication for the long‐term treatment of schizophrenia or schizophrenia‐like illnesses. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register, which is based on regular searches of MEDLINE, EMBASE, PubMed, CINAHL, BIOSIS, AMED, PsycINFO and registries of clinical trials, in November 2001, March 2006, July 2012 andOctober 2013. 
+Selection criteria
+We aimed to include all relevant randomised controlled trials involving hospital inpatients with schizophrenia or schizophrenia‐like illnesses, comparing any regimen of medication administered for the short‐term relief of behavioural disturbance, or psychotic symptoms, to be given at the discretion of ward staff ('as required', 'prn') with fixed non‐discretionary patterns of drug administration of the same drug(s). This was in addition to regular psychotropic medication for the long‐term treatment of schizophrenia or schizophrenia‐like illnesses where prescribed. 
+Data collection and analysis
+We independently inspected abstracts and papers for inclusion. If trials had been found, we would have extracted data from the papers and quality assessed the data. For dichotomous data we would have calculated the risk ratios (RR), with the 95% confidence intervals (CI). We would have conducted analyses on an intention‐to‐treat basis. If data were available we would have completed a 'Summary of findings' table using GRADE. 
+Main results
+We have not been able to identify any randomised trials comparing 'as required' medication regimens to regular regimens of the same drug. Our main outcomes of interest were important changes in (i) mental state, (ii) behaviour, (iii) dose of medication used, (iv) adverse events, (v) satisfaction with care and (iv) cost of care. 
+Authors' conclusions
+There is currently no evidence from within randomised trials to support this common practice. Current practice is based on clinical experience and habit rather than high quality evidence. 

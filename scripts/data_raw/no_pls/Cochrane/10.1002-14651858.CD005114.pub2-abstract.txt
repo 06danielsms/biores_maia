@@ -1,0 +1,15 @@
+Background
+Systemic lupus erythematosus (SLE) is a chronic inflammatory, multisystem autoimmune condition. Dehydroepiandrosterone (DHEA) is a naturally occurring inactive steroid which may possess disease activity modifying properties as well as the ability to reduce flares and steroid requirements. 
+Objectives
+To assess the effectiveness and safety of dehydroepiandrosterone compared to placebo in the treatment of people with systemic lupus erythematosus. 
+Search methods
+We searched The Cochrane Library (Issue 2, 2006), MEDLINE, Pub Med, EMBASE, Science Citation Index and ISI Proceedings as well as searching web sites of Genelabs, FDA and EMEA. (Searches undertaken in June 2006 unless otherwise specified). 
+Selection criteria
+We included randomised controlled trials of at least three months duration comparing DHEA to a placebo in people with SLE. 
+Data collection and analysis
+Two review authors assessed quality and extracted data.
+Main results
+From the seven RCTs identified (842 participants) to date there is 'gold' ranking evidence (www.cochranemsk.org) that DHEA: 
+had little clinical effect on disease activity in those with mild/moderate disease (measured by SLEDAI or SLAM) but one study demonstrated evidence of stabilisation or improvement in 8.3% more patients than those treated with placebo;  had a modest but clinically significant improvement in health related quality of life measured by Patient Global Assessment, estimated as 11.5% (11.5 mm on a 100 mm scale) by meta‐analysis;  resulted in a greater number of patients experiencing adverse events, particularly androgenic effects such as acne where patients risk was doubled when compared to placebo (RR 2.2; 95% CI 1.65 to 2.83) 
+Authors' conclusions
+Studying effectiveness of DHEA for SLE is difficult, reflecting the problems of studying any treatment for a disease as complex as SLE. From the seven RCTs to date, there was evidence that DHEA had a modest but clinically significant impact on health related quality of life in the short term. Impact on disease activity was inconsistent, with DHEA showing no benefit over placebo in terms of change in SLEDAI in all but one of the 6 studies reporting this outcome. Long term outcomes and safety remain unstudied. 

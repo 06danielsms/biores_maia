@@ -1,0 +1,15 @@
+Background
+Healing of venous leg ulcers is improved by the use of compression bandaging but some venous ulcers remain unhealed, and some people are unsuitable for compression therapy. Pentoxifylline, a drug which helps blood flow, has been used to treat venous leg ulcers. 
+Objectives
+To assess the effects of pentoxifylline (oxpentifylline or Trental 400) for treating venous leg ulcers, compared with a placebo or other therapies, in the presence or absence of compression therapy. 
+Search methods
+For this fifth update we searched the Cochrane Wounds Group Specialised Register (searched 20 July 2012); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 7); Ovid MEDLINE (2010 to July Week 2 2012); Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations, July 19, 2012); Ovid EMBASE (2010 to 2012 Week 28); and EBSCO CINAHL (2010 to July 13 2012). 
+Selection criteria
+Randomised trials comparing pentoxifylline with placebo or other therapy in the presence or absence of compression, in people with venous leg ulcers. 
+Data collection and analysis
+One review author extracted and summarised details from eligible trials using a coding sheet. One other review author independently verified data extraction. 
+Main results
+No new trials were identified for this update. We included twelve trials involving 864 participants. The quality of trials was variable. Eleven trials compared pentoxifylline with placebo or no treatment. Pentoxifylline is more effective than placebo in terms of complete ulcer healing or significant improvement (RR 1.70, 95% CI 1.30 to 2.24). Pentoxifylline plus compression is more effective than placebo plus compression (RR 1.56, 95% CI 1.14 to 2.13). Pentoxifylline in the absence of compression appears to be more effective than placebo or no treatment (RR 2.25, 95% CI 1.49 to 3.39). 
+More adverse effects were reported in people receiving pentoxifylline (RR 1.56, 95% CI 1.10 to 2.22). Nearly three‐quarters (72%) of the reported adverse effects were gastrointestinal. 
+Authors' conclusions
+Pentoxifylline is an effective adjunct to compression bandaging for treating venous ulcers and may be effective in the absence of compression. The majority of adverse effects were gastrointestinal disturbances. 

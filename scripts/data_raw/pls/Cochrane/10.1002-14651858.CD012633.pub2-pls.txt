@@ -1,0 +1,26 @@
+Which combinations of medicines are best for the prevention and treatment of anaemia in people with cancer? 
+Key messages 
+• Giving medicines that stimulate the bone marrow to produce red blood cells (ESAs) with iron supplements probably decreases the number of blood transfusions, but may also cause more deaths and increase the number of unwanted effects, such as blood clots. 
+• Because of missing data from the studies we could not compare the different treatment options to each other and rank them. 
+• We need more studies that compare these medicines directly against each other.
+What is anaemia and why do people with cancer develop it? 
+Anaemia develops when levels of red blood cells are too low. Red blood cells contain a protein called haemoglobin. Iron molecules in the haemoglobin bind to oxygen and carry it around the body. A lack of oxygen to the organs and tissues in the body makes people feel tired and lack energy, and they may be at greater risk of infections. People with cancer are particularly likely to suffer from anaemia. This might be because the cancers cause inflammation and prevent red blood cell production. Or it might be because treatments like chemotherapy slow down production of red blood cells in bone marrow. 
+People suffering from anaemia may need blood transfusions. However, treatment with medicines that stimulate the production of red blood cells in bone marrow (called erythropoiesis‐stimulating agents or ESAs) and iron supplements may reduce the need for transfusions. 
+What did we want to find out? 
+We wanted to identify the most effective treatments for anaemia in people with cancer and whether they cause any unwanted effects. We were interested in whether iron supplements or ESAs given alone or together affect: 
+• deaths;
+• haemoglobin levels;
+• blood transfusions; and
+• unwanted effects.
+We also wanted to know the best way to give the medicines: by injection (intravenous), or swallowed (oral). 
+What did we do? 
+We searched for studies that compared intravenous, oral or no iron with or without ESAs for the prevention or treatment of anaemia resulting from chemotherapy, radiotherapy, combination therapy or the underlying malignancy in people with cancer. We compared and summarised their results, and rated our confidence in the evidence, based on factors such as study methods and numbers of participants. We used statistical methods to compare multiple treatments against each other and rank them in order of effectiveness and unwanted effects. 
+What did we find? 
+We found 96 relevant studies with 25,157 people. People in the studies were different ages and were receiving a mix of anti‐cancer treatments or no treatment. They had different types of cancer. 
+Ninety‐two studies reported data for our review. They included 24,603 people and compared 12 different treatment options for anaemia. The treatments included combinations of ESAs with intravenous or oral iron and placebo (something that looks, tastes and smells the same as the iron supplement or ESA but with no active ingredient). 
+Not every study reported everything we were interested in, so we did not have enough information to compare each treatment with each of the other treatments. 
+Treatment with ESAs when used on their own or with iron probably increases levels of red blood cells and reduces the need for red blood cell transfusions when compared with no treatment. We cannot rule out an increase in the risk of mortality with ESA in combination with iron, which also appeared to cause more deaths and lead to increased risk of harm caused by the formation of clots in the blood vessels. 
+Our confidence in the findings 
+Overall, we are moderately confident in the evidence that one treatment is better or worse than another. Our confidence is limited because we sometimes found very different results for the same treatments, meaning they could have been both good and bad for patients ‐ we did not have enough evidence to reach firm conclusions. Also, due to a lack of evidence we could not rank the treatments. 
+How up to date is the evidence? 
+The evidence is up‐to‐date to June 2021.

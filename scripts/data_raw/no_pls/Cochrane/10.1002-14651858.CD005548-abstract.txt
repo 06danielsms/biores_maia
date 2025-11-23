@@ -1,0 +1,15 @@
+Background
+In the past, women have been advised that lowering their salt intake might reduce their risk of developing pre‐eclampsia. Although this practice has largely ceased, it remains important to assess the evidence about possible effects of altered dietary salt intake during pregnancy. 
+Objectives
+The objective of this review was to assess the effects of altered dietary salt during pregnancy on the risk of developing pre‐eclampsia and its complications. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (8 April 2005), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 1, 2005), and EMBASE (2002 to May 2005). We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 1 October 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised trials evaluating either reduced or increased dietary salt intake during pregnancy. 
+Data collection and analysis
+Two review authors selected trials for inclusion and extracted data independently. Data were entered on Review Manager software for analysis, and double‐checked for accuracy. 
+Main results
+Two trials were included, with 603 women. Both compared advice to reduce dietary salt intake with advice to continue a normal diet. The confidence intervals were wide and crossed the no‐effect line for all the reported outcomes, including pre‐eclampsia (relative risk 1.11, 95% confidence interval 0.46 to 2.66). In other words, there was insufficient evidence for reliable conclusions about the effects of advice to reduce dietary salt. 
+Authors' conclusions
+In the absence of evidence that advice to alter salt intake during pregnancy has any beneficial effect for prevention of pre‐eclampsia or any other outcome, salt consumption during pregnancy should remain a matter of personal preference. 
+[Note: The citation in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

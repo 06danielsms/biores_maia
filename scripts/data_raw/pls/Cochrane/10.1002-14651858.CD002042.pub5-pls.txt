@@ -1,0 +1,26 @@
+Is it safe to use lower blood counts (haemoglobin levels) as a trigger for blood transfusion in order to give fewer blood transfusions? 
+Key messages 
+•There is no evidence that giving blood transfusions to patients with lower blood counts (haemoglobin levels of 7.0 g/dL to 8.0 g/dL) compared to higher blood counts (9.0 g/dL to 10.0 g/dL) affects risks of death, heart attack, myocardial infarction, stroke, pneumonia, blood clots or infection. 
+• Giving blood only to patients with lower blood counts (7.0 g/dL to 8.0 g/dL) would reduce the amount of blood transfused substantially. It would also reduce the risk of unnecessary transfusions (transfusions can have harmful effects). 
+• More research is needed to:
+‐ establish the blood count at which a blood transfusion is needed in people who have suffered a heart attack, brain injury, or have cancer; and to 
+‐ improve our understanding of outcomes other than death, including quality of life.
+What happens in people who need blood transfusions? 
+Doctors and healthcare professionals often give blood transfusions to people who lose blood through surgery, bleeding, or illness. For example, blood transfusions may help patients with anaemia to recover after surgery, but they should only be given when they help people to get better from their medical condition. Blood is a limited resource and transfusion is not risk‐free, especially for people in low‐income countries where the blood used in transfusions may not be tested for harmful viruses such as HIV or hepatitis. 
+What did we want to find out? 
+The blood count measures the amount of haemoglobin in the blood. Haemoglobin is a protein that gives blood its red colour and carries oxygen around the body. A normal blood count is around 12 grams a decilitre (12 g/dL). We wanted to find out if it is safe to withhold blood transfusion until the blood count drops to between 7.0 g/dL to 8.0 g/dL, rather than transfusing sooner at higher blood counts of between 9.0 g/dL to 10.0 g/dL. 
+What did we do? 
+We examined the results of studies that allocated patients to one of two groups by chance (for example, by flipping a coin). In one group, the patients only received blood transfusions if their blood count fell below a higher threshold (typically, 9.0 g/dL to 10.0 g/dL). In the other group, the patients only received blood transfusions if their blood counts fell below a lower threshold (typically, 7.0 g/dL to 8.0 g/dL). 
+What did we find? 
+We found 48 studies that involved 21,433 patients. The patients had been hospitalised for a range of reasons including: bone (orthopaedic), heart (cardiac) or vascular surgery; critical care; acute blood loss (for example, through bleeding in the stomach or intestines); heart diseases; cancer and blood cancers. The studies compared higher or lower blood count thresholds for blood transfusion. (The ‘threshold’ is the blood count level that would need to be met before a transfusion would be given.) 
+Transfusion 
+We found that patients who received transfusions only at lower blood count thresholds were 41% less likely to receive a blood transfusion than those who received them only at higher blood count thresholds. If the lower threshold were applied routinely by medical staff, it would lead to a substantial reduction in the quantity of blood needed. 
+Death and harmful events 
+There was no clear difference in the risk of dying within 30 days of receiving, or not receiving, a transfusion for patients in the two different threshold groups. 
+There was also no clear difference between the low and high threshold groups for the number of serious harmful events that occurred after patients received, or did not receive, blood transfusions. The harmful events recorded included infection (pneumonia, wound infection, and blood poisoning), heart attacks, strokes, and problems with blood clots. 
+What are the limitations of the evidence? 
+We found that most of the studies provided a high quality of evidence; they were adequately conducted and used methods that minimised biases that could make the validity of the results uncertain. 
+We are confident in the evidence regarding likelihood of receiving a transfusion, death within 30 days of transfusion, heart attack, stroke and infection. We are moderately confident in the evidence for problems caused by blood clots, but too few occurred in either group for us to be more confident. 
+Too few studies evaluated quality of life for us to be able to see whether it varied between groups. 
+How up to date is this evidence? 
+This Cochrane Review updates our previous work on this subject (last published in 2016). Seventeen new studies are included. The evidence is up to date to November 2020. 

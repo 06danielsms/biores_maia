@@ -1,0 +1,28 @@
+Biologics for rheumatoid arthritis (RA) in people not previously treated with methotrexate (MTX) 
+Review question 
+We studied the benefits and harms of biologics or tofacitinib on people with rheumatoid arthritis (RA) who have not previously been treated with methotrexate (MTX), in trials done until June 2015. Data was available for four TNF biologics (adalimumab, etanercept, golimumab, infliximab) and two non‐TNF biologics (abatacept, rituximab). 
+What is RA and what are biologics/tofacitinib? 
+In RA, the immune system, which normally fights infection, attacks the joint lining making it inflamed. Without treatment, the inflammation can lead to joint damage and disability. Biologics or tofacitinib are medications that can reduce joint inflammation/damage and improve symptoms. 
+The review shows that in people with RA: 
+‐ Biologics (abatacept, adalimumab, etanercept, golimumab, infliximab, rituximab) in combination with MTX probably improve signs and symptoms of RA (tender or swollen joints), the chances of RA remission (disappearance of symptoms) and probably slightly improve functional ability. We downgraded our confidence in the results because of concerns about the inconsistency of some results. 
+‐ Biologics in combination with MTX may make little or no difference in the risk of serious adverse events or withdrawals due to adverse events. We downgraded our confidence in the results because of concerns about the inconsistency of some results and the lack of data. 
+‐ We often do not have precise information about side effects and complications. Because of the lack of data, we are uncertain of the effect of biologics on the risk of cancer. 
+‐TNF biologics (adalimumab, etanercept, golimumab) alone (not in combination with MTX) probably make little or no difference in signs and symptoms of RA or chances of RA remission (no data for non‐TNF biologics alone). 
+Best estimate of what happens to people with RA when taking biologics: 
+ACR50 (American College of Rheumatology 50: number of tender or swollen joints, pain and disability)  : 
+Biologic + MTX versus MTX: 56 people out of 100 who were on a biologic (in combination with MTX) experienced improvement in RA compared to 40 people out of 100 who were on MTX (16% improvement). 
+Biologic monotherapy (TNF biologics) versus MTX: 35 people out of 100 who were on a biologic experienced improvement in RA compared to 37 people out of 100 who were on MTX (2% reduction) 
+Remission (DAS <1.6 or DAS28 < 2.6)  
+Biologic + MTX versus MTX: 37 people out of 100 who took a biologic (in combination with MTX) had their RA symptoms disappear compared to 22 people out of 100 who were on MTX (15% improvement). 
+Biologic monotherapy (TNF biologics) versus MTX: 22 people out of 100 who took a biologic had their RA symptoms disappear compared to 20 people out of 100 who were on MTX (2% improvement). 
+Progression of disease damage as measured on X‐rays (scale 0 to 448)  
+Biologic + MTX versus MTX: people who took a biologic (in combination with MTX) showed radiographic progression of 0.45 points compared to those on MTX who showed progression of 3 points (0.5% reduction). 
+There were no studies for biologic monotherapy.
+Drug withdrawal due to adverse events  
+Biologic + MTX versus MTX: 7 people out of 100 who took a biologic (in combination with MTX) withdrew from the study due to adverse events compared to 5 out of 100 participants who took MTX (2% more). 
+Biologic monotherapy (TNF biologics) versus MTX: 6 people out of 100 who took a biologic withdrew from the study due to adverse events compared to 6 out of 100 participants who took MTX (0% difference). 
+Serious adverse events  
+Biologic + MTX versus MTX: 11 participants out of 100 who took a biologic (in combination with MTX) reported serious adverse events compared to 10 participants out of 100 on MTX (1% more serious adverse events). 
+Biologic monotherapy (TNF biologics) versus MTX: 3 participants out of 100 who took a biologic reported serious adverse events compared to 7 participants out of 100 on MTX (4% fewer serious adverse events). 
+Cancer  
+The same number of people (1 out of 100) reported cancer for biologic (both alone and in combination with MTX) and the comparator MTX. However, there were few events of cancer so caution in this interpretation is needed. 

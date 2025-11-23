@@ -1,0 +1,14 @@
+Background
+Information and communication technologies (ICT) are defined as digital and analogue technologies that facilitate the capturing, processing, storage and exchange of information via electronic communication. ICTs have the potential to improve information management, access to health services, quality of care, continuity of services, and cost containment. Knowledge is lacking on conditions for successful ICT integration into practice. 
+Objectives
+To carry out a systematic review of the effectiveness of interventions to promote the adoption of ICT by healthcare professionals. 
+Search methods
+Specific strategies, defined with the help of an information specialist, were used to search the Cochrane Effective Practice and Organisation of Care Group (EPOC) register and additional relevant databases. We considered studies published from January 1990 until October 2007. 
+Selection criteria
+Randomised controlled trials (RCTs), controlled clinical trials (CCTs), controlled before/after studies (CBAs), and interrupted time series (ITS) that reported objectively measured outcomes concerning the effect of interventions to promote adoption of ICT in healthcare professionals' practices. 
+Data collection and analysis
+Two reviewers independently assessed each potentially relevant study for inclusion. We resolved discrepancies by discussion or a third reviewer. Two teams of two reviewers independently extracted data and assessed the quality of included studies. A meta‐analysis of study outcomes was not possible, given the small number of included studies and the heterogeneity of intervention and outcomes measures. We conducted qualitative analyses, and have presented the results in a narrative format. 
+Main results
+Ten studies met the inclusion criteria. Nine of them were RCTs. All studies involved physicians as participants (including postgraduate trainees), and one study also included other participants. Only two studies measured patient outcomes. Searching skills and/or frequency of use of electronic databases, mainly MEDLINE, were targeted in eight studies. Use of Internet for audit and feedback, and email for provider‐patient communication, were targeted in two studies. Four studies showed small to moderate positive effects of the intervention on ICT adoption. Four studies were unable to demonstrate significant positive effects, and the two others showed mixed effects. No studies looked at the long‐term effect or sustainability of the intervention. 
+Authors' conclusions
+There is very limited evidence on effective interventions promoting the adoption of ICTs by healthcare professionals. Small effects have been reported for interventions targeting the use of electronic databases and digital libraries. The effectiveness of interventions to promote ICT adoption in healthcare settings remains uncertain, and more well designed trials are needed. 

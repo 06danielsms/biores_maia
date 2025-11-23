@@ -1,0 +1,34 @@
+Is colchicine an effective treatment for people with COVID‐19?
+Key messages 
+     ○ In hospitalised people with moderate to severe COVID‐19, colchicine probably has little to no benefit; we are uncertain about its side effects.  
+     ○In non‐hospitalised people with no symptoms or mild COVID‐19, we are uncertain whether colchicine prevents deaths or side effects, however it probably reduces the need for hospitalisation or death and serious side effects slightly.  
+     ○ Future studies should assess quality of life in people with no symptoms or mild COVID‐19 and non‐serious side effects and compare colchicine to other medicines for COVID‐19, such as corticosteroids. 
+What is colchicine? 
+Colchicine is a medicine used to reduce swelling and inflammation and may consequently relieve pain. It is often used to treat gout, a condition where people’s joints become swollen and painful. On the other hand, colchicine can be harmful to people with some health conditions, such as kidney or liver problems, or if you take too much of it.  
+How might colchicine treat COVID‐19? 
+Since colchicine is an anti‐inflammatory drug; researchers are interested in whether it might help with reducing inflammation caused by COVID‐19.  
+ What did we want to find out? 
+We wanted to know whether colchicine is an effective treatment for people with COVID‐19 compared to placebo (a treatment that looks and tastes the same as colchicine but with no active ingredient) or usual care alone. We looked at people with moderate or severe disease being treated in hospital or with mild disease being treated in the community. We were particularly interested in the effects of colchicine on: 
+     ○ number of deaths; 
+     ○ whether people’s condition worsened or improved;
+     ○ quality of life; 
+     ○ serious and non‐serious side effects 
+ What did we do? 
+We searched for studies that compared colchicine together with usual care to usual care (plus/minus placebo). Studies could take place anywhere in the world and include people with mild or no symptoms, moderate or severe COVID‐19, of any age, sex, or ethnicity. 
+We compared and summarised the results of the studies and rated our certainty in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We identified four eligible randomised trials. Three included 11,525 hospitalised people and one included 4488 non‐hospitalised people. For hospitalised people, the average age was 64 years, and for non‐hospitalised people, the average age was 55 years. Two studies compared colchicine and usual care with usual care alone and 2 studies compared colchicine with usual care and placebo. None of the studies reported quality of life. We also found 17 ongoing studies and 11 completed but unpublished studies.  
+Main results 
+Hospitalised people with moderate to severe COVID‐19 (3 studies, 11,525 people) 
+  ○Colchicine probably does not reduce deaths in the 28 days after treatment (2 studies, 11,445 people). 
+  ○Colchicine probably does not prevent the worsening of patients’ condition (2 studies, 10,916 people) and probably does not improve it (1 study, 11,340 people).  
+  ○We are very uncertain about the effect of colchicine on side effects and serious side effects (2 studies, 177 people). 
+Non‐hospitalised people with no symptoms or mild COVID‐19 (1 study, 4488 people) 
+  ○We are uncertain whether colchicine prevents deaths up to 28 days after treatment.
+  ○Colchicine probably slightly reduces the risk of hospitalisation or death. 
+  ○We are uncertain about the effect of colchicine on side effects, but it probably slightly reduces serious side effects. 
+What are the limitations of the evidence? 
+Our certainty in the evidence is limited. Two studies did not use a placebo, so everybody knew who was treated with colchicine, which could influence the results. There were too few events for non‐hospitalised people, such as admissions to hospital and deaths, to be certain about the evidence. Studies used different ways to assess and report unwanted effects, so we could not combine studies into a single result to make a judgement. 
+How up to date is this evidence? 
+The evidence is up to date to 21 May 2021.
+Editorial note: this is a living systematic review. We search for new evidence every week and update the review when we identify relevant new evidence. Refer to the Cochrane Database of Systematic Reviews for the current status of this review. 

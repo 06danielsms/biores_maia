@@ -1,0 +1,14 @@
+Background
+Hypoxic‐ischaemic encephalopathy (HIE) is a serious birth complication affecting term and late preterm newborns. Although therapeutic hypothermia (cooling) has been shown to be an effective therapy for neonatal HIE, many cooled infants have poor long‐term neurodevelopmental outcomes. In animal models of neonatal encephalopathy, inhaled xenon combined with cooling has been shown to offer better neuroprotection than cooling alone. 
+Objectives
+To determine the effects of xenon as an adjuvant to therapeutic hypothermia on mortality and neurodevelopmental morbidity, and to ascertain clinically important side effects of xenon plus therapeutic hypothermia in newborn infants with HIE. To assess early predictors of adverse outcomes and potential side effects of xenon. 
+Search methods
+We used the standard strategy of the Cochrane Neonatal Review Group to search the Cochrane Library (2017, Issue 8), MEDLINE (from 1966), Embase (from 1966), and PubMed (from 1966) for randomised controlled and quasi‐randomised trials. We also searched conference proceedings and the reference lists of cited articles. We conducted our most recent search in August 2017. 
+Selection criteria
+We included all trials allocating term or late preterm encephalopathic newborns to cooling plus xenon or cooling alone, irrespective of timing (starting age and duration) and concentrations used for xenon administration. 
+Data collection and analysis
+Two review authors independently assessed results of searches against predetermined criteria for inclusion, assessed risk of bias, and extracted data. We performed meta‐analyses using risk ratios (RRs), risk differences (RDs), and number needed to treat for an additional beneficial outcome (NNTB) with 95% confidence intervals (CIs) for dichotomous outcomes and mean differences (MDs) for continuous data. 
+Main results
+A single randomised controlled trial enrolling 92 participants was eligible for this review. Researchers have not reported long‐term neurodevelopmental outcomes, including the primary outcome of this review ‐ death or long‐term major neurodevelopmental disability in infancy (18 months to three years of age). Cooling plus xenon was not associated with reduced mortality at latest follow‐up, based upon low quality evidence. Investigators noted no substantial differences between groups for other secondary outcomes of this review, such as biomarkers of brain damage assessed with magnetic resonance imaging and occurrence of seizures during primary hospitalisation. Available data do not show an increased adverse event rate in the cooling plus xenon group compared with the cooling alone group. 
+Authors' conclusions
+Current evidence from one small randomised controlled pilot trial is inadequate to show whether cooling plus xenon is safe or effective in near‐term and term newborns with HIE. Further trials reporting long‐term neurodevelopmental outcomes are needed. 

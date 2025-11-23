@@ -1,0 +1,11 @@
+Slowly advancing milk feeds to prevent necrotising enterocolitis in very low birth weight infants 
+Review question 
+Does limiting the rate of increase in milk feeds that very low birth weight infants receive each day during the first few weeks after birth reduce the risk of severe bowel problems? 
+Background 
+Very preterm (born more than eight weeks early) or very low birth weight (weighing < 1500 grams at birth) newborn babies are at risk of developing a severe bowel disorder called necrotising enterocolitis (where the bowel becomes inflamed and dies). It is thought that one way to prevent this condition may be to limit the milk feeds that infants receive each day for the first few weeks after birth. 
+Study characteristics 
+We searched for randomised controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups) comparing slow versus faster rates of increase in the amount of milk fed to newborn infants who were very preterm or very low birth weight. We included 14 trials involving a total of 4033 infants (2804 infants participated in one large trial). The search is up‐to‐date as of October 2020. 
+Key results 
+Combined analysis of the included trials showed that slow advancement of enteral feed volumes probably does not affect the risk of necrotising enterocolitis or death (moderate‐certainty evidence). 
+Conclusions and certainty of evidence 
+Slowly advancing enteral feed volumes probably does not reduce the risk of necrotising enterocolitis or death before hospital discharge for very preterm or very low birth weight infants. 

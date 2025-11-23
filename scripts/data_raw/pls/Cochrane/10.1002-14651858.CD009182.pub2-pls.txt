@@ -1,0 +1,15 @@
+Nitazoxanide for chronic hepatitis C
+What is chronic hepatitis C, and why is it a problem? 
+Hepatitis C is a virus that infects people’s liver. When an infection goes on for a long time, it is said to be ‘chronic’. 
+Hepatitis C is mainly transmitted between people through contact with infected blood (mostly through illegal drug use that involves needle‐sharing, but possibly from mother to baby in the womb, or through having sex with an infected person). 
+Usually people infected with hepatitis C have no symptoms in the early stages of the infection; however, about 60% to 70% of them go on to develop severe liver‐related problems which eventually lead to death. There are about 150 million people in the world with chronic hepatitis C infection and more than 350,000 of them die from this liver infection each year. 
+What are the treatments for chronic hepatitis C infection? 
+The current standard treatment for chronic hepatitis C is a combination of two medicines, pegylated interferon‐alpha (interferon) and ribavirin. Interferon is not widely available globally and can have some adverse (harmful) effects. It works better on some types (genotypes) of the hepatitis C virus than others. 
+Nitazoxanide belongs to a class of antiviral medicines with activity against a broad range of viruses. It is the first medicine in this class to be investigated for its effect on chronic hepatitis C infection. 
+The purpose of this review 
+This Cochrane review tried to identify the benefits and harms of treating chronic hepatitis C infection with nitazoxanide. 
+Findings of this review 
+The review authors searched the medical literature up to April 2013, and identified seven relevant medical trials, with a total of 538 participants. The trials were performed in two countries, the USA and Egypt. All the trials had low numbers of participants, and the methods used in them were not of a high quality, which makes potential overestimation of benefits and underestimation of harms more likely. All the trials only included participants with chronic hepatitis C genotype (type) 1 or 4 infection. 
+Outcomes important to people who suffer from this infection include: death from all causes, death from chronic hepatitis C infection, how unwell you feel (morbidity), quality of life, and adverse events caused by the medicines. This review found no information, or very little low quality evidence, about the effects of nitazoxanide on any of these outcomes. 
+Nitazoxanide might have a beneficial effect on virus activity that can be monitored by analysis of blood samples (sustained virological response (SVR) and virological end‐of‐treatment response (ETR), but this is not certain. Indeed, the review authors could not draw any conclusions about the benefits or harms of nitazoxanide for people with chronic hepatitis C infection. 
+More randomised clinical trials of high methodological quality are needed to establish the effects of nitazoxanide in people with chronic hepatitis C. 

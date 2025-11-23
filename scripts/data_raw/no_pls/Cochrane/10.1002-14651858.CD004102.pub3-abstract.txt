@@ -1,0 +1,22 @@
+Background
+People with Chagas disease may develop progressive and lethal heart conditions. Drugs to eliminate the parasite Trypanosomacruzi (T cruzi) currently carry limited therapeutic value and are used in the early stages of the disease. Extending the use of these drugs to treat chronic chagasic cardiomyopathy (CCC) has also been proposed. 
+Objectives
+To assess the benefits and harms of nitrofurans and trypanocidal drugs for treating late‐stage, symptomatic Chagas disease and CCC in terms of blood parasite reduction or clearance, mortality, adverse effects, and quality of life. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, and LILACS databases on 12 November 2019. We also searched two clinical trials registers, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), on 3 December 2019. 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing trypanocidal drugs versus placebo or no treatment for late‐stage, symptomatic Chagas disease and CCC. 
+Data collection and analysis
+We conducted the reporting of the review according the standard Cochrane methods. Two review authors independently retrieved articles, performed data extraction, and assessed risk of bias. Any disagreements were resolved by a third review author. We contactedstudy authors for additional information. 
+Main results
+We included two studies in this review update. One RCT randomly assigned 26 participants to benznidazole 5 mg/kg/day; 27 participants to nifurtimox 5 mg/kg/day; and 24 participants to placebo for 30 days. The second RCT, newly included in this update, randomised 1431 participants to benznidazole 300 mg/day for 40 to 80 days and 1423 participants to placebo. We also identified one ongoing study. 
+Benznidazole compared to placebo 
+At five‐year follow‐up, low quality of the evidence suggests that there may be a benefit of benznidazole when compared to placebo for clearance or reduction of antibody titres (risk ratio (RR) 1.25, 95% confidence interval (CI) 1.14 to 1.37; 1 trial; 1896 participants). We are uncertain about the effects of benznidazole for the clearance of parasitaemia demonstrated by negative xenodiagnosis, blood culture, and/or molecular assays due to very limited evidence. 
+Low quality of the evidence suggests that when compared to placebo, benznidazole may make little to no difference in the risk of heart failure (RR 0.89, 95% CI 0.69 to 1.14; 1 trial; 2854 participants) and ventricular tachycardia (RR 0.80, 95% CI 0.51 to 1.26; 1 trial; 2854 participants). 
+We found moderate quality of the evidence that adverse events increase with benznidazole when compared to placebo (RR 2.52, 95% CI 2.09 to 3.03; 1 trial; 2854 participants). Adverse effects were observed in 23.9% of patients in the benznidazole group compared to 9.5% in the placebo group. The most frequent adverse effects were: cutaneous rash, gastrointestinal symptoms, and peripheral polyneuropathy. 
+No data were available for the outcomes of pathological demonstration of tissue parasites and quality of life. 
+Nifurtimox compared to placebo 
+Data were only available for this comparison for the outcome clearance or reduction of antibody titres, and we are uncertain about the effect due to very limited evidence. 
+Regarding adverse events, one RCT mentioned in a general manner that nifurtimox caused intense adverse events, without any quantification. 
+Authors' conclusions
+There is insufficient evidence to support the efficacy of the trypanocidal drugs benznidazole and nifurtimox for late‐stage, symptomatic Chagas disease and CCC. 

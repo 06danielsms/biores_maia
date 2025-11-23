@@ -1,0 +1,14 @@
+Background
+Scabies, caused by Sarcoptes scabiei variety hominis or the human itch mite, is a common parasitic infection. While anyone can become infected, it causes significant morbidity in immunocompromised hosts and it spreads easily between human hosts where there is overcrowding or poor sanitation. The most common symptom reported is itch which is worse at night. As the symptoms are attributed to an allergic reaction to the mite, symptoms usually develop between four to six weeks after primary infection. Therefore, people may be infected for some time prior to developing symptoms. During this time, while asymptomatic, they may spread infection to others they are in close contact with. Consequently, it is usually recommended that when an index case is being treated, others who have been in close contact with the index case should also be provided with treatment. 
+Objectives
+To assess the effects of prophylactic interventions for contacts of people with scabies to prevent infestation in the contacts. 
+Search methods
+We searched electronic databases (Cochrane Occupational Safety and Health Review Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE (Ovid), Pubmed, EMBASE, LILACS, CINAHL, OpenGrey and WHO ICTRP) up to November 2013. 
+Selection criteria
+Randomised controlled trials (RCTs) or cluster RCTs which compared prophylactic interventions which were given to contacts of index cases with scabies infestation. Interventions could be compared to each other, or to placebo or to no treatment. Both drug treatments and non‐drug treatments were acceptable. 
+Data collection and analysis
+Two authors intended to extract dichotomous data (developed infection or did not develop infection) for the effects of interventions and report this as risk ratios with 95% confidence intervals. We intended to report any adverse outcomes similarly. 
+Main results
+We did not include any trials in this review. Out of 29 potentially‐relevant studies, we excluded 16 RCTs as the data for the contacts were either not reported or were reported only in combination with the outcomes for the index cases. We excluded a further 11 studies as they were not RCTs. We also excluded one study as not all subjects were examined at baseline and follow‐up, and another as it was a case study. 
+Authors' conclusions
+The effects of providing prophylactic treatments for contacts of people with scabies to prevent infestation are unknown. We need well‐designed RCTs of the use of prophylactic measures to prevent the transmission of scabies conducted with people who had the opportunity for prolonged skin contact with an index case, such as family members, healthcare workers or residential care personnel, within the previous six weeks. 

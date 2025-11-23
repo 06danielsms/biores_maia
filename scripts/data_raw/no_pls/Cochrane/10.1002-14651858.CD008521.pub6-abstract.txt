@@ -1,0 +1,48 @@
+Background
+Rotavirus is a common cause of diarrhoea, diarrhoea‐related hospital admissions, and diarrhoea‐related deaths worldwide. Rotavirus vaccines prequalified by the World Health Organization (WHO) include Rotarix (GlaxoSmithKline), RotaTeq (Merck), and, more recently, Rotasiil (Serum Institute of India Ltd.), and Rotavac (Bharat Biotech Ltd.). 
+Objectives
+To evaluate rotavirus vaccines prequalified by the WHO for their efficacy and safety in children. 
+Search methods
+On 30 November 2020, we searched PubMed, the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (published in the Cochrane Library), Embase, LILACS, Science Citation Index Expanded, Social Sciences Citation Index, Conference Proceedings Citation Index‐Science, Conference Proceedings Citation Index‐Social Science & Humanities. We also searched the WHO ICTRP, ClinicalTrials.gov, clinical trial reports from manufacturers' websites, and reference lists of included studies, and relevant systematic reviews. 
+Selection criteria
+We selected randomized controlled trials (RCTs) conducted in children that compared rotavirus vaccines prequalified for use by the WHO with either placebo or no intervention. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and assessed risk of bias. One author extracted data and a second author cross‐checked them. We combined dichotomous data using the risk ratio (RR) and 95% confidence interval (CI). We stratified the analyses by under‐five country mortality rate and used GRADE to evaluate evidence certainty. 
+Main results
+Sixty trials met the inclusion criteria and enrolled a total of 228,233 participants. Thirty‐six trials (119,114 participants) assessed Rotarix, 15 trials RotaTeq (88,934 participants), five trials Rotasiil (11,753 participants), and four trials Rotavac (8432 participants). 
+Rotarix  
+Infants vaccinated and followed up for the first year of life 
+In low‐mortality countries, Rotarix prevented 93% of severe rotavirus diarrhoea cases (14,976 participants, 4 trials; high‐certainty evidence), and 52% of severe all‐cause diarrhoea cases (3874 participants, 1 trial; moderate‐certainty evidence).  
+In medium‐mortality countries, Rotarix prevented 79% of severe rotavirus diarrhoea cases (31,671 participants, 4 trials; high‐certainty evidence), and 36% of severe all‐cause diarrhoea cases (26,479 participants, 2 trials; high‐certainty evidence).  
+In high‐mortality countries, Rotarix prevented 58% of severe rotavirus diarrhoea cases (15,882 participants, 4 trials; high‐certainty evidence), and 27% of severe all‐cause diarrhoea cases (5639 participants, 2 trials; high‐certainty evidence). 
+Children vaccinated and followed up for two years 
+In low‐mortality countries, Rotarix prevented 90% of severe rotavirus diarrhoea cases (18,145 participants, 6 trials; high‐certainty evidence), and 51% of severe all‐cause diarrhoea episodes (6269 participants, 2 trials; moderate‐certainty evidence).   
+In medium‐mortality countries, Rotarix prevented 77% of severe rotavirus diarrhoea cases (28,834 participants, 3 trials; high‐certainty evidence), and 26% of severe all‐cause diarrhoea cases (23,317 participants, 2 trials; moderate‐certainty evidence).  
+In high‐mortality countries, Rotarix prevented 35% of severe rotavirus diarrhoea cases (13,768 participants, 2 trials; moderate‐certainty evidence), and 17% of severe all‐cause diarrhoea cases (2764 participants, 1 trial; high‐certainty evidence). 
+RotaTeq  
+Infants vaccinated and followed up for the first year of life 
+In low‐mortality countries, RotaTeq prevented 97% of severe rotavirus diarrhoea cases (5442 participants, 2 trials; high‐certainty evidence).  
+In medium‐mortality countries, RotaTeq prevented 79% of severe rotavirus diarrhoea cases (3863 participants, 1 trial; low‐certainty evidence).  
+In high‐mortality countries, RotaTeq prevented 57% of severe rotavirus diarrhoea cases (6775 participants, 2 trials; high‐certainty evidence), but there is probably little or no difference between vaccine and placebo for severe all‐cause diarrhoea (1 trial, 4085 participants; moderate‐certainty evidence).  
+Children vaccinated and followed up for two years 
+In low‐mortality countries, RotaTeq prevented 96% of severe rotavirus diarrhoea cases (5442 participants, 2 trials; high‐certainty evidence).  
+In medium‐mortality countries, RotaTeq prevented 79% of severe rotavirus diarrhoea cases (3863 participants, 1 trial; low‐certainty evidence).  
+In high‐mortality countries, RotaTeq prevented 44% of severe rotavirus diarrhoea cases (6744 participants, 2 trials; high‐certainty evidence), and 15% of severe all‐cause diarrhoea cases (5977 participants, 2 trials; high‐certainty evidence).  
+We did not identify RotaTeq studies reporting on severe all‐cause diarrhoea in low‐ or medium‐mortality countries. 
+Rotasiil  
+Rotasiil has not been assessed in any RCT in countries with low or medium child mortality.
+Infants vaccinated and followed up for the first year of life 
+In high‐mortality countries, Rotasiil prevented 48% of severe rotavirus diarrhoea cases (11,008 participants, 2 trials; high‐certainty evidence), and resulted in little to no difference in severe all‐cause diarrhoea cases (11,008 participants, 2 trials; high‐certainty evidence). 
+Children vaccinated and followed up for two years 
+In high‐mortality countries, Rotasiil prevented 44% of severe rotavirus diarrhoea cases (11,008 participants, 2 trials; high‐certainty evidence), and resulted in little to no difference in severe all‐cause diarrhoea cases (11,008 participants, 2 trials; high‐certainty evidence). 
+Rotavac  
+Rotavac has not been assessed in any RCT in countries with low or medium child mortality. 
+Infants vaccinated and followed up for the first year of life 
+In high‐mortality countries, Rotavac prevented 57% of severe rotavirus diarrhoea cases (6799 participants, 1 trial; moderate‐certainty evidence), and 16% of severe all‐cause diarrhoea cases (6799 participants, 1 trial; moderate‐certainty evidence). 
+Children vaccinated and followed up for two years 
+In high‐mortality countries, Rotavac prevented 54% of severe rotavirus diarrhoea cases (6541 participants, 1 trial; moderate‐certainty evidence); no Rotavac studies have reported on severe all‐cause diarrhoea at two‐years follow‐up. 
+Safety  
+No increased risk of serious adverse events (SAEs) was detected with Rotarix (103,714 participants, 31 trials; high‐certainty evidence), RotaTeq (82,502 participants, 14 trials; moderate to high‐certainty evidence), Rotasiil (11,646 participants, 3 trials; high‐certainty evidence), or Rotavac (8210 participants, 3 trials; moderate‐certainty evidence). 
+Deaths were infrequent and the analysis had insufficient evidence to show an effect on all‐cause mortality. Intussusception was rare.  
+Authors' conclusions
+Rotarix, RotaTeq, Rotasiil, and Rotavac prevent episodes of rotavirus diarrhoea. The relative effect estimate is smaller in high‐mortality than in low‐mortality countries, but more episodes are prevented in high‐mortality settings as the baseline risk is higher. In high‐mortality countries some results suggest lower efficacy in the second year. We found no increased risk of serious adverse events, including intussusception, from any of the prequalified rotavirus vaccines. 

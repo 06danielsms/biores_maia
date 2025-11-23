@@ -1,0 +1,14 @@
+Background
+Lornoxicam is one of the oxicam class of non‐steroidal anti‐inflammatory drugs (NSAIDs), producing analgesic and antipyretic effects in part through the non‐selective inhibition of cyclo‐oxygenase‐1 and ‐2. It is prescribed for osteoarthritis, rheumatoid arthritis, acute lumbar‐sciatica conditions and for postoperative pain management. Lornoxicam is available in 31 countries in Europe, the Middle East, Far East and South America, and is becoming more widely available. 
+Objectives
+To assess the efficacy, the time to onset of analgesia, the time to use of rescue medication and any associated adverse events of single dose oral lornoxicam in acute postoperative pain. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE and PubMed to June 2009.
+Selection criteria
+Single oral dose, randomised, double‐blind, placebo‐controlled trials of lornoxicam for relief of established moderate to severe postoperative pain in adults. 
+Data collection and analysis
+Studies were assessed for methodological quality and the data extracted by two review authors independently. Summed total pain relief over 6 hours (TOTPAR 6) was used to calculate the number of participants achieving at least 50% pain relief. These derived results were used to calculate, with 95% confidence intervals (CIs), the relative benefit compared to placebo, and the number needed to treat (NNT) for one participant to experience at least 50% pain relief over 6 hours. Numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. Information on adverse events and withdrawals was collected. 
+Main results
+Three studies, with 628 participants, met the inclusion criteria; 434 participants were treated with various doses (2 mg to 32 mg) of lornoxicam, 118 with placebo, and 76 with other active therapies. All the participants had pain following third molar extraction, and study duration was 8 to 24 hours. The NNT for at least 50% pain relief over 6 hours after a single dose of lornoxicam 8 mg was 2.9 (2.3 to 4.0). There were insufficient data to analyse other doses or use of rescue medication. No serious adverse events or withdrawals were reported by any of the studies. 
+Authors' conclusions
+Oral lornoxicam is effective at treating moderate to severe acute postoperative pain, based on limited data. Adverse events did not differ significantly from placebo. 

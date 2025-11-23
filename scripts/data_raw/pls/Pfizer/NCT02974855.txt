@@ -1,0 +1,31 @@
+Hemophilia is a disease that is "inherited", which means it runs in families, and it mainly affects boys and men. People with hemophilia have problems with their blood not clotting. After an injury, someone with hemophilia will bruise more easily and, if cut, will bleed for longer. Sometimes the bleeding can happen inside the body and this "internal bleeding" can be serious as it can cause damage. Doctors prescribe medicines called "factor replacement therapy" to help the blood to clot in people with hemophilia. These treatments work by replacing the clotting factors that are missing from the blood of a person with hemophilia. Clotting factors are proteins in the blood that help stop bleeding after an injury as well as prevent bleeding from happening. There are many different clotting factors in the blood and these are numbered using Roman numerals. People with hemophilia A are missing Factor VIII (8) and people with hemophilia B are missing Factor IX (9). This means Factor VIII is given in factor replacement therapy to people with hemophilia A and Factor IX is given to people with hemophilia B. Factor replacement therapy is given by "infusion" and the medicine is prepared in a syringe and then "injected" or pushed through a patient's skin into a "vein". A vein is a tube that carries blood around the body. Other treatments are also available that can be given by "injection", or a shot, "subcutaneously", to prevent or reduce the number of bleeding episodes (also known as bleeds). Subcutaneously means the injection is given just underneath the skin. Marstacimab (PF-06741086) is a new kind of treatment being studied for hemophilia. It works in a different way to other treatments to help blood to clot. The treatment is given subcutaneously and, over time, the medicine is able to reach the bloodstream where it may help to prevent or reduce the number of bleeding episodes.
+This study included 4 groups of patients given an injection of marstacimab at different doses. This was done to see if patients had any medical problems after this treatment and also see if this treatment could prevent bleeding episodes. The 4 groups and the different doses of marstacimab that were given in this study are shown in the following table. 
+
+Description of Treatment Groups
+
+Group Marstacimab Dose Given Number of Patients Treated per Group 
+
+1. 300 mg injection given once a week for 5 weeks (Day 1 to Day 29) and then continued for another 7 weeks (Day 36 to Day 78). 7
+If after 4 weeks the treatment in Group 1 went well then patients in Group 2 could be treated. 
+
+2. 300 mg injection given once and then 150 mg injection given once a week for 5 weeks (Day 1 to Day 29) and then continued for another 7 weeks (Day 36 to Day 78). 6
+If after 4 weeks the treatment in Group 2 went well then patients in Group 3 could be treated. 
+
+3. 450 mg injection given once a week for 5 weeks (Day 1 to Day 29) and then continued for another 7 weeks (Day 36 to Day 78). 6
+If after 4 weeks the treatment in Group 3 went well then patients in Group 4 could be treated. 
+
+4. 300 mg injection given once a week for 5 weeks (Day 1 to Day 29) and then continued for another 7 weeks (Day 36 to Day 78). 7
+It was planned that 6 patients would be included in Group 1 and while 8 were enrolled only 7 patients were treated with marstacimab as 1 withdrew their consent before receiving treatment. Patients with inhibitors to their factor replacement therapy could only join Group 4.
+
+The study included patients who had severe hemophilia A or B, with or without “inhibitors”. Some patients with hemophilia can develop inhibitors in their blood to the proteins in factor replacement therapy. These inhibitors stop the clotting factors in the factor replacement therapy from working. This means that people with hemophilia who have these inhibitors may have more severe bleeds and may need higher doses of factor replacement therapy or alternative treatment(s) to stop any bleeding. Patients with inhibitors to their factor replacement therapy were only able to join Group 4. 
+
+This was an open-label study, so everyone, including the patient, knew what treatment was given to each group. 
+While patients were only in the study for 5 months, the entire study took 21 months to complete. The sponsor ran this study at 8 locations in 6 countries in North America, South America, Europe and South Africa. It began 08 March 2017 and ended 03 December 2018. 27 men participated and 26 were treated with marstacimab 
+
+(1 patient decided he did not want to be treated with marstacimab before being given his first injection). All patients were between the ages of 19 and 63 years.
+
+The 7 patients in Group 1 were treated first and were given 1 injection of marstacimab each week so that they received 5 injections of marstacimab. If these patients did not have many medical problems after 4 weeks, the 6 patients in Group 2 were treated. If the 6 patients in Group 2 did not have many medical problems after 4 weeks , then the 6 patients in Group 3 were treated. If the 6 patients in Group 3 did not have many medical problems after 4 weeks, then the 7 patients in Group 4 were treated.   
+
+Patients were to be treated once a week for up to 3 months. Of the 26 patients who started the study, 24 (92%) finished the study and 2 (8%) did not finish the study because of medical problems. 
+
+When the study ended in December 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

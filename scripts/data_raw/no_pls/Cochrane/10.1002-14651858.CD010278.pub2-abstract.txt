@@ -1,0 +1,17 @@
+Background
+Regional analgesia is more effective than conventional analgesia for controlling pain and may facilitate rehabilitation after large joint replacement in the short term. It remains unclear if regional anaesthesia improves functional outcomes after joint replacement beyond three months after surgery. 
+Objectives
+To assess the effects of regional anaesthesia and analgesia on long‐term functional outcomes 3, 6 and 12 months after elective major joint (knee, shoulder and hip) replacement surgery. 
+Search methods
+We performed an electronic search of several databases (CENTRAL, MEDLINE, EMBASE, CINAHL), and handsearched reference lists and conference abstracts. We updated our search in June 2015. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing regional analgesia versus conventional analgesia in patients undergoing total shoulder, hip or knee replacement. We included studies that reported a functional outcome with a follow‐up of at least three months after surgery. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. We contacted study authors for additional information. 
+Main results
+We included six studies with 350 participants followed for at least three months. All of these studies enrolled participants undergoing total knee replacement. Studies were at least partially blinded. Three studies had a high risk of performance bias and one a high risk of attrition bias, but the risk of bias was otherwise unclear or low. 
+Only one study assessed joint function using a global score. Due to heterogeneity in outcome and reporting, we could only pool three out of six RCTs, with range of motion assessed at three months after surgery used as a surrogate for joint function. All studies had a high risk of detection bias. Using the random‐effects model, there was no statistically significant difference between the experimental and control groups (mean difference 3.99 degrees, 95% confidence interval (CI) − 2.23 to 10.21; P value = 0.21, 3 studies, 140 participants, very low quality evidence). 
+We did not perform further analyses because immediate adverse effects were not part of the explicit outcomes of any of these typically small studies, and long‐term adverse events after regional anaesthesia are rare. 
+None of the included studies elicited or reported long‐term adverse effects like persistent nerve damage. 
+Authors' conclusions
+More high‐quality studies are needed to establish the effects of regional analgesia on function after major joint replacement, as well as on the risk of adverse events (falls). 

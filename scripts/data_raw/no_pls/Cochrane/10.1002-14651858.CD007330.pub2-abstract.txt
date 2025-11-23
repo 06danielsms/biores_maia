@@ -1,0 +1,15 @@
+Background
+Tinnitus is described as the perception of sound or noise in the absence of real acoustic stimulation. Although an outright cure for tinnitus remains elusive, various management strategies have been developed to help to lessen the impact of the symptom. Following the publication of a neurophysiological model of tinnitus, Tinnitus Retraining Therapy (TRT) was developed. Using a combination of directive counselling and sound therapy in a strict framework, this is one of the most commonly used treatment modalities for tinnitus. Many studies refer to the use of TRT where in fact a modified version of this therapy is actually being implemented. It is therefore important to confirm the use of authentic TRT when reviewing any study that reports its use. 
+Objectives
+To assess the efficacy of TRT in the treatment of tinnitus.
+Search methods
+The search included the Cochrane ENT Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE and reference lists of identified publications. The date of the most recent search was 26 August 2009. 
+Selection criteria
+Randomised controlled trials of TRT versus no treatment, or other forms of treatment, in adult patients with tinnitus. 
+Data collection and analysis
+Both authors critically appraised the retrieved studies for risk of bias and extracted data independently. Where necessary, we contacted the original study authors for further information. 
+Main results
+Only one trial (123 participants) was included in the review. Several excluded trials did not follow the strict protocol for TRT, evaluating instead a modified form of TRT. The included trial showed TRT to be more effective than a tinnitus masking (TM) approach. In this study outcome data for tinnitus severity were presented using three instruments (Tinnitus Handicap Inventory (THI), Tinnitus Handicap Questionnaire (THQ), Tinnitus Severity Index (TSI)) for patients in three groups (participants' tinnitus being a 'moderate problem', big problem' or 'very big problem'). 
+At 18 months, improvements for the three groups in the three scores (TRT versus TM) were respectively: 'moderate problem' ‐ THI: 18.2 versus 4.6, THQ: 489 versus 178, TSI 7.5 versus 1.6; 'big problem' ‐ THI: 29.2 versus 16.7, THQ: 799 versus 256, TSI: 12.1 versus 6.7; and 'very big problem' ‐ THI: 50.4 versus 10.3, THQ; 1118 versus 300, TSI: 19.7 versus 4.8. 
+Authors' conclusions
+A single, low‐quality randomised controlled trial suggests that TRT is much more effective as a treatment for patients with tinnitus than tinnitus masking. 

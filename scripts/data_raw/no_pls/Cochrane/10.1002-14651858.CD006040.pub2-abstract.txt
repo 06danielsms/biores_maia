@@ -1,0 +1,14 @@
+Background
+Total mesorectal resection (TME) has led to improved survival and reduced local recurrence in patients with rectal cancer. Straight coloanal anastomosis after TME can lead to problems with frequent bowel movements, fecal urgency and incontinence. The colonic J pouch, side‐to‐end anastomosis and transverse coloplasty have been developed as alternative surgical strategies in order to improve bowel function. 
+Objectives
+The purpose of this study is to determine which rectal reconstructive technique results in the best postoperative bowel function. 
+Search methods
+A systematic search of the literature (MEDLINE, Cancerlit, Embase and Cochrane Databases) was conducted from inception to Feb 14, 2006 by two independent investigators. 
+Selection criteria
+Randomized controlled trials in which patients with rectal cancer undergoing low rectal resection and coloanal anastomosis were randomized to at least two different anastomotic techniques. Furthermore, a measure of postoperative bowel function was necessary for inclusion. 
+Data collection and analysis
+Studies identified for potential inclusion were independently assessed for eligibility by at least two reviewers. Data from included trials was collected using a standardized data collection form. Data was collated and qualitatively summarized for bowel function outcomes and meta‐analysis statistical techniques were used to pool data on postoperative complications. 
+Main results
+Of 2609 relevant studies, 16 randomized controlled trials (RCTs) met our inclusion criteria. Nine RCTs (n=473) compared straight coloanal anastomosis (SCA) to the colonic J pouch (CJP). Up to 18 months postoperatively, the CJP was superior to SCA in most studies in bowel frequency, urgency, fecal incontinence and use of antidiarrheal medication. There were too few patients with long‐term bowel function outcomes to determine if this advantage continued after 18 months postop. Four RCTs (n=215) compared the side‐to‐end anastomosis (STE) to the CJP. These studies showed no difference in bowel function outcomes between these two techniques. Similarly, three RCTs (n=158) compared transverse coloplasty (TC) to CJP. Similarly, there were no differences in bowel function outcomes in these small studies. Overall, there were no significant differences in postoperative complications with any of the anastomotic strategies. 
+Authors' conclusions
+In several randomized controlled trials, the CJP has been shown to be superior to the SCA in bowel function outcomes in patients with rectal cancer for at least 18 months after gastrointestinal continuity is re‐established. The TC and STE anastomoses have been shown to have similar bowel function outcomes when compared to the CJP in small randomized controlled trials; further study is necessary to determine the role of these alternative coloanal anastomotic strategies. 

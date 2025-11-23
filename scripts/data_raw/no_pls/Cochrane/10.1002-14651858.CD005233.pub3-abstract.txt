@@ -1,0 +1,19 @@
+Background
+This is an update of a Cochrane Review originally published in Issue 1, 2007 of The Cochrane Library. 
+Tinnitus is an auditory perception that can be described as the experience of sound, in the ear or in the head, in the absence of external acoustic stimulation. Cognitive behavioural therapy (CBT) uses relaxation, cognitive restructuring of the thoughts and exposure to exacerbating situations in order to promote habituation and may benefit tinnitus patients, as may the treatment of associated psychological conditions. 
+Objectives
+To assess whether CBT is effective in the management of patients suffering from tinnitus.
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; PsycINFO; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 6 May 2010. 
+Selection criteria
+Randomised controlled trials in which patients with unilateral or bilateral tinnitus as their main symptom received cognitive behavioural treatment. 
+Data collection and analysis
+One review author (PMD) assessed every report identified by the search strategy. Three authors (PMD, AW and MT) assessed the methodological quality and applied inclusion/exclusion criteria. Two authors (PMD and RP) extracted data and conducted the meta‐analysis. The four authors contributed to the final text of the review. 
+Main results
+Eight trials comprising 468 participants were included.
+For the primary outcome of subjective tinnitus loudness we found no evidence of a difference between CBT and no treatment or another intervention (yoga, education and 'minimal contact ‐ education'). 
+In the secondary outcomes we found evidence that quality of life scores were improved in participants who had tinnitus when comparing CBT to no treatment or another intervention (education and 'minimal contact education'). We also found evidence that depression scores improved when comparing CBT to no treatment. We found no evidence of benefit in depression scores when comparing CBT to other treatments (yoga, education and 'minimal contact ‐ education'). 
+There were no adverse/side effects reported in any trial.
+Authors' conclusions
+In six studies we found no evidence of a significant difference in the subjective loudness of tinnitus. 
+However, we found a significant improvement in depression score (in six studies) and quality of life (decrease of global tinnitus severity) in another five studies, suggesting that CBT has a positive effect on the management of tinnitus. 

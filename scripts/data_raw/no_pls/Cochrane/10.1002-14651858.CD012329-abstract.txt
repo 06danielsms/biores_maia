@@ -1,0 +1,15 @@
+Background
+This review replaces part of an earlier review that evaluated oxycodone for both neuropathic pain and fibromyalgia, which has now been split into separate reviews for the two conditions. This review will consider pain in fibromyalgia only. 
+Opioid drugs are commonly used to treat fibromyalgia, but they may not be beneficial for people with this condition. Most reviews have examined all opioids together. This review sought evidence specifically for oxycodone, at any dose, and by any route of administration. 
+Objectives
+To assess the analgesic efficacy and adverse events of oxycodone for treating pain in fibromyalgia in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and EMBASE for randomised controlled trials from inception to 25 July 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries. 
+Selection criteria
+We planned to include randomised, double‐blind trials of eight weeks' duration or longer, comparing oxycodone (alone or in fixed‐dose combination with naloxone) with placebo or another active treatment. We did not include observational studies. 
+Data collection and analysis
+The plan was for two independent review authors to extract data and assess trial quality and potential bias. Where pooled analysis was possible, we planned to use dichotomous data to calculate risk ratio and numbers needed to treat for one additional event, using standard methods. 
+Main results
+No study satisfied the inclusion criteria. Effects of interventions were not assessed as there were no included studies. We have only very low quality evidence and are very uncertain about estimates of benefit and harm. 
+Authors' conclusions
+There is no randomised trial evidence to support or refute the suggestion that oxycodone, alone or in combination with naloxone, reduces pain in fibromyalgia. 

@@ -1,0 +1,14 @@
+Background
+Penetrating abdominal trauma occurs when the peritoneal cavity is breached. Routine laparotomy for penetrating abdominal injuries began in the 1800s, with antibiotics first being used in World War II to combat septic complications associated with these injuries. This practice was marked with a reduction in sepsis‐related mortality and morbidity. Whether prophylactic antibiotics are required in the prevention of infective complications following penetrating abdominal trauma is controversial, however, as no randomised placebo controlled trials have been published to date. There has also been debate about the timing of antibiotic prophylaxis. In 1972 Fullen noted a 7% to 11% post‐surgical infection rate with pre‐operative antibiotics, a 33% to 57% infection rate with intra‐operative antibiotic administration and 30% to 70% infection rate with only post‐operative antibiotic administration. Current guidelines state there is sufficient class I evidence to support the use of a single pre‐operative broad spectrum antibiotic dose, with aerobic and anaerobic cover, and continuation (up to 24 hours) only in the event of a hollow viscus perforation found at exploratory laparotomy. 
+Objectives
+To assess the benefits and harms of prophylactic antibiotics administered for penetrating abdominal injuries for the reduction of the incidence of septic complications, such as septicaemia, intra‐abdominal abscesses and wound infections. 
+Search methods
+Searches were not restricted by date, language or publication status. We searched the following electronic databases: the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library 2019, issue 7 of 12), MEDLINE (OvidSP), Embase (OvidSP), ISI Web of Science: Science Citation Index Expanded (SCI‐EXPANDED), ISI Web of Science: Conference Proceedings Citation Index‐ Science (CPCI‐S) and PubMed. Searches were last conducted on 23 July 2019. 
+Selection criteria
+All randomised controlled trials of antibiotic prophylaxis in patients with penetrating abdominal trauma versus no antibiotics or placebo. 
+Data collection and analysis
+Two authors screened the literature search results independently.
+Main results
+We identified no trials meeting the inclusion criteria.
+Authors' conclusions
+There is currently no information from randomised controlled trials to support or refute the use of antibiotics for patients with penetrating abdominal trauma. 

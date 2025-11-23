@@ -1,0 +1,11 @@
+Increasing versus maintaining the dose of antipsychotic medication for people with schizophrenia who do not respond to treatment 
+Review question 
+If a person with schizophrenia does not initially respond to an antipsychotic medication, is increasing the dose of this antipsychotic effective and safe? 
+Background 
+Many people with the serious mental illness schizophrenia do not respond fully (i.e. symptoms such as delusions and hallucinations still remain) with a standard dose of an initially prescribed antipsychotic drug. In such cases, clinicians can consider increasing the antipsychotic dose beyond regular thresholds or switching to a different antipsychotic drug in order to enhance antipsychotic efficacy. The evidence surrounding the optimal treatment strategy is scarce. 
+Searching for evidence 
+The Information Specialist of Cochrane Schizophrenia ran an electronic search of their specialised register up to 30 March 2017 for trials that randomised people with schizophrenia who were not responding to their initial antipsychotic treatment to receive either an increased antipsychotic dose or continue on the same dose. The search returned 1919 records, which were checked for eligibility by the review authors. 
+Evidence found 
+Ten trials met the review requirements and provided usable data. No clear difference between increasing the dose of the antipsychotic drug and continuing antipsychotic treatment at the same dose was shown for any efficacy (clinical response) or safety (incidence of adverse effects) outcomes. The evidence currently available is limited and of low or very low quality. In particular, very few studies reported adverse effects adequately. 
+Conclusions 
+The results of the present review show that there is no good‐quality evidence to support or refute the hypothesis that increasing the antipsychotic dose for patients not responding to their initial antipsychotic treatment differs from continuing antipsychotic treatment at the same dose. No clear evidence regarding safety is available. Therefore, no firm conclusions can be made. Larger, well‐designed trials are needed. 

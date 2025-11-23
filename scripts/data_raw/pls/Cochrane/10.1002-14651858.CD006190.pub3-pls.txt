@@ -1,0 +1,23 @@
+Colchicine for treating acute gout flares
+Background 
+Gout is a very common cause of inflammatory arthritis (pain, redness, warmth and swelling of affected joints) and is caused by urate crystals forming either within or around joints. Uric acid is a normal waste product that is usually excreted with urine. However, in the case of gout, there is either excessive production of uric acid, or the body is not able to excrete it quickly enough, or a combination of both. An attack of gout usually occurs rapidly and usually resolves within 7 to 10 days. 
+Colchicine is a drug that is used mainly in gout to treat an acute attack or to prevent an attack while starting uric acid‐lowering therapy. 
+Study characteristics 
+This Cochrane Review is current to August 2020. We included four trials (803 randomised participants) in this updated review, including two new trials. One three‐arm trial compared high‐dose colchicine (52 participants), low‐dose colchicine (74 participants) and placebo (fake medicine) (59 participants); one trial compared high‐dose colchicine with placebo (43 participants); one trial compared low‐dose colchicine with non‐steroidal anti‐inflammatory drugs (NSAIDs) (399 participants); and one trial compared low‐dose colchicine with Chuanhu anti‐gout mixture (traditional Chinese Medicine compound) (176 participants). We selected low‐dose colchicine compared with placebo as the primary comparison; the low dose is consistent with doses used in practice. Trials were performed in hospital and multicentre settings in four countries, the majority of participants were male, and mean age ranged between 51.2 and 70 years. One trial received funding from a pharmaceutical company that was involved in the study design, data collection, data analysis, and manuscript writing. 
+Key results 
+Compared with placebo medication, low‐dose colchicine for people with acute gout may slightly improve treatment outcomes with little or no increased risk of adverse events at 32 to 36 hours. 
+Proportion of participants reporting treatment success (defined as 50% or more reduction in pain) 
+25% more people (7% more to 42% more) reported success, or 25 more out of 100
+‐ 42 people out of 100 reported treatment success with colchicine
+‐ 17 people out of 100 reported treatment success with placebo
+Total adverse events (diarrhoea, vomiting or nausea) 
+6% more people reported adverse events (13% more to 23% more), or 6 more out of 100
+‐ 26 people out of 100 reported side effects with colchicine
+‐ 20 people out of 100 reported side effects with placebo
+Pain, reduction of inflammation, function of target joint, serious adverse events or withdrawals due to adverse events were not reported for this comparison. 
+Other comparisons are briefly summarised here:
+High‐dose colchicine may improve symptoms compared with placebo, but with more adverse events. High‐dose may have little or no benefit over low‐dose colchicine but more adverse events. There may also be little or no benefit of low‐dose colchicine over NSAIDs in terms of treatment success and pain reduction, with a similar number of adverse events. 
+There were no trials that compared colchicine to glucocorticoids.
+Quality of the evidence 
+We found low‐quality evidence that low‐dose colchicine may be an effective treatment for acute gout when compared to placebo and low‐quality evidence that its benefits may be similar to NSAIDs. We downgraded the evidence for bias and imprecision. While both high‐ and low‐dose colchicine improve treatment success when compared to placebo, high‐dose (but not low‐dose) colchicine may increase the number of adverse events compared to placebo while the number of adverse events may be similar with low‐dose colchicine compared with NSAIDs. 
+Further research is very likely to have an important impact on our confidence in the estimate of effect and may change the estimate. 

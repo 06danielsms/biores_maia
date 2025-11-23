@@ -1,0 +1,29 @@
+Clinical Study Results
+What kind of study was this?
+This was a "double-blind" study. This means none of the participants, study doctors or other study staff knew what treatment each participant got.
+
+In this study, MEDI0382 was compared with a placebo. A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure that any of the effects they see in the participants who get the study drug are actually related to the study drug.
+
+A computer program was used to randomly choose the treatment each participant got. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+
+During the study, the participants got MEDI0382 or the placebo once a day through a needle under the skin, also called an injection. Some injections were given at the study site, and some were done by the participants at home. The doses of MEDI0382 were measured in micrograms, also known as μg.
+
+There were 2 groups in this study. Each group got either the placebo or increasing doses of MEDI0382 for up to 8 weeks. The chart below shows the treatments in each group.
+
+Group 1:
+- 8 participants
+- MEDI0382: 6 participants
+- Starting dose of 20 μg injection once a day
+- Then, increasing doses up to 600 μg each day
+- The participants stayed on each dose for 7 days
+- Placebo: 2 participants
+- An injection of the placebo once each day
+
+Group 2:
+- 12 participants
+- MEDI0382: 9 participants
+- Starting dose of 20 μg injection once a day
+- Then, increasing doses up to 600 μg each day
+- The participants stayed on each dose for 7 days
+- Placebo: 3 participants
+- An injection of the placebo once each day

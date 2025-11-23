@@ -1,0 +1,16 @@
+Background
+An advance directive is a document specifying a person's preferences for treatment, should he or she lose capacity to make such decisions in the future. They have been used in end‐of‐life settings to direct care but should be well suited to the mental health setting. 
+Objectives
+To examine the effects of advance treatment directives for people with severe mental illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (February 2008), the Cochrane Library (Issue 1 2008), BIOSIS (1985 to February 2008), CINAHL (1982 to February 2008), EMBASE (1980 to February 2008), MEDLINE (1966 to February 2008), PsycINFO (1872 to February 2008), as well as SCISEARCH and Google ‐ Internet search engine (February 2008). We inspected relevant references and contacted first authors of included studies. 
+We updated this search on 17 May 2012 and added the results to the awaiting classification section of the review. 
+Selection criteria
+We included all randomised controlled trials (RCTs), involving adults with severe mental illness, comparing any form of advance directive with standard care for health service and clinical outcomes. 
+Data collection and analysis
+We extracted data independently. For homogenous dichotomous data we calculated fixed‐effect relative risk (RR) and 95% confidence intervals (CI) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD) and their 95% confidence interval again using a fixed‐effect model. 
+Main results
+We were able to include two trials involving 321 people with severe mental illnesses. There was no significant difference in hospital admission (n=160, 1 RCT, RR 0.69 0.5 to 1.0), or number of psychiatric outpatient attendances between participants given advanced treatment directives or usual care. Similarly, no significant differences were found for compliance with treatment, self harm or number of arrests. Participants given advanced treatment directives needed less use of social workers time (n=160, 1 RCT, WMD ‐106.00 CI ‐156.2 to ‐55.8) than the usual care group, and violent acts were also lower in the advanced directives group (n=160, 1 RCT, RR 0.27 CI 0.1 to 0.9, NNT 8 CI 6 to 92). The number of people leaving the study early were not different between groups (n=321, 2 RCTs, RR 0.92 CI 0.6 to 1.6). 
+The addition of 11 studies to awaiting classification section of the review may alter the conclusions of the review once assessed. 
+Authors' conclusions
+There are too few data available to make definitive recommendations. More intensive forms of advance directive appear to show promise, but currently practice must be guided by evidence other than that derived from randomised trials. More trials are indicated to determine whether higher intensity interventions, such as joint crisis planning, have an effect on outcomes of clinical relevance. 

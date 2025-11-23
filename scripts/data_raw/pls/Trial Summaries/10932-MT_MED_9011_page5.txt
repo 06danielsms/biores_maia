@@ -1,0 +1,14 @@
+Clinical Study Results
+Amount of the drugs in the blood during the 24 hours after treatment
+
+Budesonide:
+• The amount of budesonide in the blood when participants took budesonide only was 1,151 pg*h/mL. These results include 89 of the 91 participants.
+• The amount of budesonide in the blood when participants took budesonide and albuterol sulfate together was 1,016 pg*h/mL. These results include 85 of the 91 participants.
+
+Amount of budesonide in the blood during the 24 hours after treatment
+1,151 pg*h/mL
+1,016 pg*h/mL
+
+Albuterol sulfate:
+• The amount of albuterol sulfate in the blood when participants took albuterol sulfate only was 3,935 pg*h/mL. These results include 89 of the 91 participants.
+• The amount of albuterol sulfate in the blood when participants took budesonide and albuterol sulfate together was 3,692 pg*h/mL. These results include 87 of the 91 participants.

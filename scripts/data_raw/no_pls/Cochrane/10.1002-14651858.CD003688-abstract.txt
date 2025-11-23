@@ -1,0 +1,14 @@
+Background
+Because of the unpredictability people with arthritis face on a daily basis, patient education programmes have become an effective complement to traditional medical treatment giving people with arthritis the strategies and the tools necessary to make daily decisions to cope with the disease. 
+Objectives
+To assess the effectiveness of patient education interventions on health status in patients with rheumatoid arthritis. 
+Search methods
+We searched MEDLINE, EMBASE and PsycINFO and the Cochrane Controlled Trials Register. A selection of review articles (see references) were examined to identify further relevant publications. There was no language restriction. 
+Selection criteria
+Randomised controlled trials (RCT's) evaluating patient education interventions that included an instructional component and a non‐intervention control group; pre‐ and post‐test results available separately for RA, either in the publication or from the studies' authors; and study results presented in full, end‐of‐study report. 
+Data collection and analysis
+Two reviewers examined and screened search results. Dichotomous items were summarized as relative risk. Standardized mean difference and weighted mean difference were calculated for continuous data. Heterogeneity was assessed using chi square. 
+Main results
+Thirty‐one studies with relevant data were included.  We found significant effects of patient education at first follow‐up for scores on disability, joint counts, patient global assessment, psychological status, and depression. A trend favouring patient education was found for scores on pain. Physician global assessment was not assessed in any of the included studies. The dimensions of anxiety and disease activity showed no significant effects. At final follow up no significant effects of patient education were found, although there was a trend favouring patient education for scores on disability. 
+Authors' conclusions
+Patient education as provided in the studies reviewed here had small short‐term effects on disability, joint counts, patient global assessment, psychological status and depression. There was no evidence of long‐term benefits in adults with rheumatoid arthritis. 

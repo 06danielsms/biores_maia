@@ -1,0 +1,14 @@
+Background
+Nonsteroidal anti‐inflammatory drugs (NSAIDs) are used for pain relief following tonsillectomy in children. However, as they inhibit platelet aggregation and prolong bleeding time they could cause increased perioperative bleeding. The overall risk remains unclear. This review was originally published in 2005 and was updated in 2010 and in 2012. 
+Objectives
+The primary objective of this review was to assess the effects of NSAIDs on bleeding with paediatric tonsillectomy. Our secondary outcome was to establish whether NSAIDs affect the incidence of other postoperative complications when compared to other forms of analgesia. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 10); MEDLINE (inception until October 2012); EMBASE (inception until October 2012); Current Problems (produced by the UK Medicines Control Agency), MedWatch (produced by the US Food and Drug Administration) and the Australian Adverse Drug Reactions Bulletins (to May 2010). The original search was performed in August 2004. We also contacted manufacturers and researchers in the field. 
+Selection criteria
+We included randomized controlled trials assessing NSAIDs in children, up to and including 16 years of age, undergoing elective tonsillectomy or adenotonsillectomy. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted the data. We contacted study authors for additional information, where necessary. 
+Main results
+We included 15 studies that involved 1101 children in this updated review. One study was added as a result of our 2012 search, another previously included study was removed due to lack of randomization. Fourteen included studies compared NSAIDs with other analgesics or placebo and reported on bleeding requiring surgical intervention. The use of NSAIDs was associated with a non‐significant increase in the risk of bleeding requiring surgical intervention: Peto odds ratio (OR) 1.69 (95% confidence interval (CI) 0.71 to 4.01). Ten studies involving 365 children reported perioperative bleeding requiring non‐surgical intervention. NSAIDs did not significantly alter the number of perioperative bleeding events requiring non‐surgical intervention: Peto OR 0.99 (95% CI 0.41 to 2.40) but the confidence intervals did not exclude an increased risk. Thirteen studies involving 1021 children reported postoperative vomiting. There was less vomiting when NSAIDs were used as part of the analgesic regime than when NSAIDs were not used: Mantel Haenszel (M‐H) risk ratio (RR) 0.72 (95% CI 0.61 to 0.85). 
+Authors' conclusions
+There is insufficient evidence to exclude an increased risk of bleeding when NSAIDs are used in paediatric tonsillectomy. They do however confer the benefit of a reduction in vomiting. 

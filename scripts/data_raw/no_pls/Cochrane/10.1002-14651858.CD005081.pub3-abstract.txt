@@ -1,0 +1,14 @@
+Background
+Approximately 50% of people with myasthenia gravis present with purely ocular symptoms, so called ocular myasthenia. Of these between 50% to 60% develop generalized disease, most within two years. Their management is controversial. This is an update of a review first published in 2006 and previously updated in 2008 and 2010. 
+Objectives
+To assess the effects of treatments for ocular myasthenia and to answer three specific questions. Are there any treatments that impact the progression from ocular to generalized disease? Are there any treatments that improve symptoms of diplopia or ptosis? What is the frequency of adverse effects associated with treatments used? 
+Search methods
+In this updated review, we searched the Cochrane Neuromuscular Disease Group Specialized Register (3 August 2012), CENTRAL (2012, Issue 7), MEDLINE (January 1996 to July 2012) and EMBASE (January 1974 to July 2012) for randomized controlled trials (RCTs) as well as case‐control and cohort studies. The titles and abstracts of all articles were read by both authors and the full texts of possibly relevant articles were reviewed. The references of all manuscripts included in the review were scanned to identify additional articles of relevance and experts in the field were contacted to identify additional published and unpublished data. Where necessary, we contacted authors for further information. 
+Selection criteria
+Inclusion required meeting three criteria: (a) randomized (or quasi‐randomized) controlled study design; (b) active treatment compared to placebo, no treatment or some other treatment; and (c) results reported separately for patients with ocular myasthenia (grade 1) as defined by the Myasthenia Gravis Foundation of America. 
+Data collection and analysis
+We collected data regarding the risk of progression to generalized myasthenia gravis, improvement in ocular symptoms, and the frequency of treatment‐related side effects. 
+Main results
+In the original review, we identified two RCTs relevant to the treatment of ocular myasthenia, only one of which reported results in terms of the pre‐specified outcome measures used in this review. This study included only three participants and was of limited methodological quality. There were no new RCTs in searches conducted for this or previous updates. In the absence of data from RCTs, we present a review of the available observational data. 
+Authors' conclusions
+The available randomized controlled literature does not permit any meaningful conclusions about the efficacy of any form of treatment for ocular myasthenia. Data from several reasonably good quality observational studies suggest that corticosteroids and azathioprine may be beneficial in reducing the risk of progression to generalized myasthenia gravis. 

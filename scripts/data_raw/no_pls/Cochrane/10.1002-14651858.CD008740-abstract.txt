@@ -1,0 +1,14 @@
+Background
+The introduction of highly active antiretroviral therapy (ART) as treatment for HIV infection has greatly improved mortality and morbidity for adults and children living with HIV around the world. Two of the most common medications given in first‐line ART are the nucleoside reverse transcriptase inhibitor (NRTI) zidovudine (AZT) and the nucleotide reverse transcriptase inhibitor (NtRTI) tenofovir (TDF). 
+Objectives
+To assess the efficacy, safety, and tolerability of TDF compared with AZT in combination with one NRTI and one non‐nucleoside reverse transcriptase inhibitor (NNRTI) as part of first‐line ART for HIV‐infected people in resource‐limited settings 
+Search methods
+Standard Cochrane methods were used to search electronic databases and conference proceedings with relevant search terms without limits to language. 
+Selection criteria
+Randomised controlled trials of HIV‐infected patients aged 5 years and older were included. Primary outcomes of interest included mortality, serious adverse events, virologic response to ART, and adherence/tolerance/retention. Secondary outcomes included immunologic response to ART, development of ART drug resistance, and prevention of sexual transmission of HIV. 
+Data collection and analysis
+Two authors assessed each reference for inclusion and exclusion criteria established a priori. Data were abstracted independently using a standardised abstraction form. 
+Main results
+Two randomised controlled trials contributed to this literature, enrolling 586 participants, and found no critical difference between TDF and AZT in regards to serious adverse events or virologic response. The trials did find higher rates of adherence and immunologic response in TDF‐containing regimens compared with those containing AZT. The quality of the literature to support this conclusion is moderate to high. Drug resistance was more common for TDF than AZT, but the quality of this literature is low, with only one study reporting this outcome. It should be noted that the two studies compared two different drugs in addition to TDF and AZT; one had lamivudine (3TC) and nevirapine (NVP) and the other had emtricitabine (FTC) and efavirenz (EFV). 
+Authors' conclusions
+We conclude that for the critical outcomes of virologic response and serious adverse events initial ART regimens containing TDF are equivalent to those containing AZT. However, TDF is superior to AZT in terms of immunologic response and adherence and more frequent emergence of resistance. How much the other drugs in the regimens contributed to these findings is unclear, and true head‐to‐head trials are still warranted. The role of each drug in initial ART will likely be driven by their specific toxicities. 

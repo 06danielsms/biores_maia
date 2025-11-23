@@ -1,0 +1,15 @@
+Background
+Alcohol misuse in young people is a cause of concern for health services, policy makers, prevention workers, and criminal justice system, youth workers, teachers, and parents. 
+Objectives
+To systematically review evidence on the effectiveness of universal family‐based prevention programs in preventing alcohol misuse in school‐aged children up to 18 years of age. To update a part of a previously published Cochrane systematic review. 
+Search methods
+Relevant evidence (up to 2002) was selected from the previous Cochrane review. Later studies, to July 2010, were identified from MEDLINE, Cochrane Central Register of Controlled Trials, EMBASE, Project CORK, and PsycINFO. 
+Selection criteria
+Randomized trials evaluating universal family‐based prevention programs and reporting outcomes for alcohol use in students 18 years of age or younger were included. Two reviewers screened titles/abstracts and full text of identified records. 
+Data collection and analysis
+Two reviewers extracted relevant data independently using an a priori defined extraction form. Risk of bias was assessed. 
+Main results
+12 parallel‐group trials were included. The reporting quality of trials was poor, only 20% of them reporting adequate method of randomisation and program allocation concealment. Incomplete data was adequately addressed in about half of the trials and this information was unclear for about 30% of the trials. Due to extensive heterogeneity across interventions, populations, and outcomes, the results were summarized only qualitatively. 
+9 of the 12 trials showed some evidence of effectiveness compared to a control or other intervention group, with persistence of effects over the medium and longer‐term. Four of these effective interventions were gender‐specific, focusing on young females. One study with a small sample size showed positive effects that were not statistically significant, and two studies with larger sample sizes reported no significant effects of the family‐based intervention for reducing alcohol misuse. 
+Authors' conclusions
+In conclusion, in this Cochrane systematic review we found that that the effects of family‐based prevention interventions are small but generally consistent and also persistent into the medium‐ to longer‐term. 

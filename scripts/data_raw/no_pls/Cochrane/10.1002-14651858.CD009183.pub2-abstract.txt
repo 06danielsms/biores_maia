@@ -1,0 +1,16 @@
+Background
+Valproic acid and its sodium salt (sodium valproate) are antiepileptic drugs that are sometimes used to treat chronic neuropathic pain and fibromyalgia, although they are not licensed for this use. 
+Objectives
+To evaluate the analgesic efficacy and adverse effects of valproic acid and sodium valproate in the management of chronic neuropathic pain and fibromyalgia. 
+Search methods
+We identified randomised controlled trials (RCTs) of valproic acid and sodium valproate in acute, and chronic pain by searching MEDLINE, EMBASE and Cochrane CENTRAL to June 2011, together with reference lists of retrieved papers and reviews. 
+Selection criteria
+RCTs that were double blind and of eight‐weeks duration or longer, reporting on analgesic effects and adverse events with valproic acid and sodium valproate in the treatment of chronic neuropathic pain and fibromyalgia. 
+Data collection and analysis
+Two review authors independently extracted results and scored for quality. We extracted efficacy and adverse event data, and examined issues of study quality. 
+Main results
+We included three studies, two in diabetic neuropathy (42 participants treated with valproate, 42 with placebo), and one in post‐herpetic neuralgia (23 treated with divalproex sodium, 22 with placebo). Study duration was eight or 12 weeks. No studies were found in fibromyalgia. 
+Only one study reported one of our primary outcomes (≥ 50% pain relief), while all three reported group means for pain reduction from baseline to endpoint. In all three studies; efficacy results were given only for participants who completed the study. One study in diabetic neuropathy and the study in post‐herpetic neuralgia reported significant differences between active and placebo groups, but there were insufficient data for reliable pooled analysis. 
+More adverse events were reported with active treatment than placebo, and included nausea, drowsiness and abnormal liver function tests. One participant taking sodium valproate withdrew due to serious derangement of liver enzymes. 
+Authors' conclusions
+These three studies no more than hint that sodium valproate may reduce pain in diabetic neuropathy, and divalproex sodium in post‐herpetic neuralgia, but the use of 'completer' analysis may overestimate efficacy, and there were too few data for pooled analysis of efficacy or harm, or to have confidence in the results of the individual studies. There is insufficient evidence to support the use of valproic acid or sodium valproate as a first‐line treatment for neuropathic pain. There is more robust evidence of greater efficacy for a small number of other drugs. 

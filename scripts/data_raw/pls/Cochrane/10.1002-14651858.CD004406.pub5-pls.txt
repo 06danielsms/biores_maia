@@ -1,0 +1,17 @@
+Different antibiotics for group A streptococcal pharyngitis
+Review question 
+We wanted to know which antibiotic was more effective in treating sore throats caused by bacteria (group A beta‐haemolytic streptococci (GABHS)). 
+Background 
+Most sore throats are caused by viruses, but many people carry throat bacteria, which sometimes causes bacterial throat infection. 
+GABHS infection can have serious complications including rheumatic fever and kidney disease. Antibiotics are often prescribed to prevent complications, but provide modest benefit for sore throat, even if GABHS are present. Most throat infections resolve without treatment, and complication risks are extremely low for most people in high‐income countries. However, sometimes antibiotics are needed. Penicillin, an inexpensive antibiotic, has been used to treat GABHS for many years. GABHS resistance to penicillin is rare. 
+Search date 
+We searched the literature to 3 September 2020.
+Study characteristics 
+We included 19 trials (18 publications) that involved 5839 people. The included trials studied different antibiotics for people with sore throat who tested positive for GABHS, and were aged from one month to 80 years. Nine trials included only children, and 10 trials included people aged 12 years or older. Most studies were published over 15 years ago, and all but one reported on outcome measures relevant for patients. 
+Study funding sources 
+Twelve trials reported funding from drug companies. Authors of six trials (in five publications) were employed by drug companies. Seven trials (in six publications) did not report funding sources. 
+Key results 
+Antibiotic effects were similar, and all antibiotics caused side effects (such as nausea and vomiting, rash), but there was no strong evidence to show meaningful differences between antibiotics. Studies did not report on long‐term complications, therefore it was unclear if any class of antibiotics was better in preventing serious but rare complications. 
+All studies were performed in high‐income countries with a low risk of streptococcal complications, so there is a need for trials in low‐income countries and Aboriginal communities, where the risk of complications remains high. Our review supports the use of penicillin as a first‐choice antibiotic in people with throat infections caused by GABHS. 
+Certainty of the evidence 
+We judged the certainty of the evidence as low or very low for all outcomes when macrolides or cephalosporins were compared with penicillin. We have concerns about the rigour of the study methods, the fact that estimates were not very precise and about the differences between studies. 

@@ -1,0 +1,23 @@
+Spontaneous breathing activity in COVID‐19‐related lung failure
+Is early spontaneous breathing beneficial in the treatment of lung failure in individuals with COVID‐19? 
+People with severe COVID‐19 can present with lung failure, which is called acute respiratory distress syndrome (ARDS). This requires invasive mechanical ventilation through a breathing tube. It is possible to allow breathing, triggered by the patient (called spontaneous breathing), whilst being on a ventilator. However, it is unclear whether this is beneficial for such individuals, especially in the early phase of ventilation. 
+Key messages 
+We found no evidence if spontaneous breathing is beneficial in the treatment of lung failure due to COVID‐19. 
+What are the advantages of early spontaneous breathing in ARDS?  
+The advantage of spontaneous breathing during mechanical ventilation is the preserved movement of the diaphragm (the major muscle for breathing located under the lungs). It leads to better distribution of the inhaled air, especially in the pulmonary alveoli (small air sacs within the lungs) close to the diaphragm. In general, ventilation procedures with possible spontaneous breathing require lower doses of sedatives (which slow down brain activity). Since these can cause low blood pressure, it can additionally reduce the administration of cardiovascular medicines. 
+Can early spontaneous breathing be harmful in the treatment of ARDS? 
+During spontaneous breathing under mechanical ventilation, increased pressure fluctuations in the lungs may occur. Increased pressure difference within the lung is the main cause of ventilator‐associated lung injury. 
+What is the alternative to using early spontaneous breathing? 
+Spontaneous breathing may be suppressed by increased sedation or blockade of the nerves innervating muscles by medicines that allow for breathing (called neuromuscular blockade). The advantage of complete ventilator‐based breathing is a lower oxygen consumption of the muscles and the reduced risk of self‐inflicted lung injury. 
+What did we want to find out? 
+We wanted to evaluate the benefits and harms of early spontaneous breathing activity in ventilated people with COVID‐19 with ARDS compared to ventilation strategies that avoid spontaneous breathing. 
+What did we do?  
+We searched for studies that compared early spontaneous breathing during invasive mechanical ventilation with mandatory invasive ventilation and neuromuscular blockade in people with ARDS related to COVID‐19. People could have been any age, sex or ethnicity.  
+What did we find?  
+After systematic search, we found no records that met the inclusion criteria.
+Main results 
+We identified no eligible studies for this review.
+What are the limitations of the evidence? 
+To date, there are no studies that have compared early spontaneous breathing during invasive mechanical ventilation to mandatory invasive ventilation without spontaneous breathing in people with ARDS related to COVID‐19.  
+How up‐to‐date is this evidence? 
+Our evidence is up‐to‐date to 2 March 2022.

@@ -1,0 +1,12 @@
+How much AZD5718 got into the participants' blood? To answer this question, the researchers took blood samples from the participants before and after they took AZD5718. Then, they measured the amount of AZD5718 that got into the participants' blood. The study doctors measured: 
+
+- The average highest amount of AZD5718 in the participants' blood 
+- The average total amount of AZD5718 in the participants' blood over time 
+
+Average highest amount of AZD5718: 
+The average highest amount of AZD5718 was measured in units called nanomoles per litre, also known as nmol/L. The researchers found that the average highest amount of AZD5718 in the blood after taking AZD5718 was 1035 nmol/L. 
+
+Average total amount of AZD5718 over time: 
+The average total amount of AZD5718 over time was measured in units called nmol/L per hour, also known as h per nmol/L. The researchers found that the average total amount of AZD5718 in the blood after the dose of AZD5718 was 5080 h per nmol/L. 
+
+The amounts of AZD5718 reported above are what the researchers expected to find in the participants' blood. Overall, this means that the amount of AZD5718 that got into the participants' blood was high enough for it to possibly be able to work.

@@ -1,0 +1,15 @@
+Background
+Codeine is an opioid metabolised to active analgesic compounds, including morphine. It is widely available by prescription, and combination drugs including low doses of codeine are commonly available without prescription. 
+Objectives
+To assess the efficacy, the time to onset of analgesia, the time to use of rescue medication and any associated adverse events of single dose oral codeine in acute postoperative pain. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE and PubMed to November 2009.
+Selection criteria
+Single oral dose, randomised, double‐blind, placebo‐controlled trials of codeine for relief of established moderate to severe postoperative pain in adults. 
+Data collection and analysis
+Studies were assessed for methodological quality and data independently extracted by two review authors. Summed total pain relief (TOTPAR) or pain intensity difference (SPID) over 4 to 6 hours were used to calculate the number of participants achieving at least 50% pain relief, which were used to calculate, with 95% confidence intervals, the relative benefit compared to placebo, and the number needed to treat (NNT) for one participant to experience at least 50% pain relief over 4 to 6 hours. Numbers using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. Data on adverse events and withdrawals were collected. 
+Main results
+Thirty‐five studies were included (1223 participants received codeine 60 mg, 27 codeine 90 mg, and 1252 placebo). Combining all types of surgery (33 studies, 2411 participants), codeine 60 mg had an NNT of at least 50% pain relief over 4 to 6 hours of 12 (8.4 to 18) compared with placebo. At least 50% pain relief was achieved by 26% on codeine 60 mg and 17% on placebo. 
+Following dental surgery the NNT was 21 (12 to 96) (15 studies, 1146 participants), and following other types of surgery the NNT was 6.8 (4.6 to 13) (18 studies, 1265 participants). The NNT to prevent use of rescue medication within 4 to 6 hours was 11 (6.3 to 50) (11 studies, 765 participants, mostly non‐dental); the mean time to its use was 2.7 hours with codeine and 2.0 hours with placebo. More participants experienced adverse events with codeine 60 mg than placebo; the difference was not significant and none were serious. Two adverse event withdrawals occurred with placebo. 
+Authors' conclusions
+Single dose codeine 60 mg provides good analgesia to few individuals, and does not compare favourably with commonly used alternatives such as paracetamol, NSAIDs and their combinations with codeine, especially after dental surgery; the large difference between dental and other surgery was unexpected. Higher doses were not evaluated. 

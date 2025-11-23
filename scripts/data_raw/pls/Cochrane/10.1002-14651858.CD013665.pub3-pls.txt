@@ -1,0 +1,25 @@
+How accurate are symptoms and medical examination to diagnose COVID‐19?
+Key messages 
+‐ The results suggest that a single symptom included in this review cannot accurately diagnose COVID‐19. 
+‐ Loss of sense of taste or smell could be a 'red flag' for the presence of COVID‐19. Cough or fever might be useful to identify people who might have COVID‐19. These symptoms might be useful to prompt further testing when they are present. 
+‐ We need more research to investigate combinations of symptoms and signs with other information such as recent contact or travel history, or vaccination status, and in children, and adults aged 65 years and over. 
+What are symptoms or signs of COVID‐19? 
+Symptoms are experienced by patients. COVID‐19 symptoms include cough, sore throat, high temperature, diarrhoea, headache, muscle or joint pain, fatigue, and loss of sense of smell and taste. 
+Signs are measured by healthcare workers during clinical examination. They include lung sounds, blood pressure, blood oxygen level and heart rate. 
+Symptoms and signs of COVID‐19 might be important to help people know whether they and the people they come into contact with should isolate at home, undergo testing with a rapid lateral flow test or PCR (laboratory‐based) test, or be hospitalised. 
+What did we want to find out? 
+Symptoms and signs of COVID‐19 are varied and may indicate other diseases, not just COVID‐19. We wanted to know how accurate diagnosis of COVID‐19 is, based on symptoms and signs from medical examination. We were interested in people with suspected COVID‐19, who go to their doctor, outpatient test centres or hospital. 
+What did we do? 
+We searched for studies that assessed the accuracy of symptoms and signs to diagnose COVID‐19. Studies had to be conducted in general practice, outpatient test centres or hospital outpatient settings only. We only included studies of people in hospital if signs and symptoms were recorded when they were admitted to the hospital, for example through the emergency department. 
+What did we find? 
+We focused on 42 studies with 52,608 participants in this review. The studies assessed 96 separate or combined symptoms and signs. Thirty‐five studies were conducted in emergency departments or outpatient COVID‐19 test centres (46,878 participants), 3 studies in general practice (1230 participants), 2 studies in children’s hospitals (493 in‐ and outpatients), and 2 studies in nursing homes (4007 participants). The studies were conducted in 18 different countries around the world. Twenty‐three studies were conducted in Europe, 8 in North‐America, 5 in Asia, and 3 in South‐America and 3 in Australia. We didn’t find any studies conducted in Africa. Three focused specifically on children, and only 1 focused on adults aged 65 years and over. 
+Most studies did not clearly distinguish between mild and severe COVID‐19, so we present the results for mild, moderate and severe disease together. 
+Few studies reported individual signs as diagnostic tests, so we focus mainly on the diagnostic value of symptoms. The most frequently reported symptoms were cough, fever, shortness of breath and sore throat. 
+According to the studies in our review, in a group of 1000 people with suspected COVID‐19 of whom 270 (27%) would actually have COVID‐19, around 567 people would have a cough. Of these 567, 168 would actually have COVID‐19. Of the 433 who do not have a cough, 102 would have COVID‐19. In the same 1000 people, around 283 people would have a fever. Of these 283, 102 would actually have COVID‐19. Of the 717 people without fever, 168 would have COVID‐19. 
+Someone who has lost their sense of smell or taste is five times more likely to have COVID‐19 than someone who hasn’t. 
+Other symptoms, such as a sore throat or runny nose, are more likely to indicate the presence of an infectious disease other than COVID‐19. In the same 1000 people as described above, around 362 people would have a sore throat. Of these, only 84 would actually have COVID‐19. Of the 638 patients without sore throat, 186 would have COVID‐19. We found similar figures for having a runny nose. 
+What are the limitations of the evidence? 
+The results of this updated review are more reliable than those in previous versions as we included more high‐quality studies. However, the accuracy of individual symptoms varied across studies and the diagnostic value of symptoms such as fever, cough or other respiratory symptoms might still be overestimated, as most studies deliberately included participants because they had these symptoms. 
+The results do not clearly differentiate between people with mild, moderate or severe COVID‐19. Only a few studies investigated the symptom‐based diagnosis of COVID‐19 in children or older adults. 
+How up to date is this review? 
+This review updates our previous review. The evidence is up to date to June 2021.

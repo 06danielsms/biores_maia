@@ -1,0 +1,14 @@
+Background
+Breast self‐examination and clinical breast examination have been promoted for many years as general screening methods to diagnose breast cancer at an early stage in order to decrease morbidity and mortality. The possible benefits and harms remain unclear. 
+Objectives
+To determine whether screening for breast cancer by regular self‐examination or clinical breast examination reduces breast cancer mortality and morbidity. 
+Search methods
+For this update, the Cochrane Breast Cancer Group Specialised Register, The Cochrane Library and PubMed were searched (October 2007). 
+Selection criteria
+Randomised clinical trials, including cluster randomised trials.
+Data collection and analysis
+Decisions on which trials to include were taken independently by the authors based on the methods of a trial. Disagreements were resolved by discussion. Intention‐to‐treat analyses were conducted using a fixed‐effect model with 95% confidence intervals. 
+Main results
+Two large population‐based studies (388,535 women) from Russia and Shanghai that compared breast self‐examination with no intervention were included. There was no statistically significant difference in breast cancer mortality between the groups (relative risk 1.05, 95% confidence interval (CI) 0.90 to 1.24; 587 deaths in total). In Russia, more cancers were found in the breast self‐examination group than in the control group (relative risk 1.24, 95% CI 1.09 to 1.41) while this was not the case in Shanghai (relative risk 0.97, 95% CI 0.88 to 1.06). Almost twice as many biopsies (3406) with benign results were performed in the screening groups compared to the control groups (1856) (relative risk 1.88, 95% CI 1.77 to 1.99). One large population‐based trial of clinical breast examination combined with breast self‐examination was also included. The intervention was discontinued because of poor compliance with follow up and no conclusions could be drawn. 
+Authors' conclusions
+Data from two large trials do not suggest a beneficial effect of screening by breast self‐examination but do suggest increased harm in terms of increased numbers of benign lesions identified and an increased number of biopsies performed. At present, screening by breast self‐examination or physical examination cannot be recommended. 

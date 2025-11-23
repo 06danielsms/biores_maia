@@ -1,0 +1,15 @@
+Background
+Venous leg ulcers affect up to 1% of people at some time in their lives and are often painful. The main treatments are compression bandages and dressings. Topical treatments to reduce pain during and between dressing changes are sometimes used. 
+Objectives
+To determine the effects of topical agents or dressings for pain in venous leg ulcers.
+Search methods
+For this third update the following databases were searched: Cochrane Wounds Group Specialised Register (searched 9 May 2012); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 4); Ovid MEDLINE (2009 to April Week 4 2012); Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations May 08, 2012); Ovid EMBASE (2009 to 2012 Week 18); and EBSCO CINAHL (2009 to May 2 2012). No date or language restrictions were applied. 
+Selection criteria
+Published or unpublished randomised controlled trials (RCTs) that evaluated the effects of topical agents or dressing for the treatment of pain in venous ulcers were included. 
+Data collection and analysis
+Two review authors independently performed trial selection, data extraction and risk of bias assessment. 
+Main results
+Six trials (343 participants) evaluated Eutectic Mixture of Local Anaesthetics (EMLA): lidocaine‐prilocaine cream for the pain associated with ulcer debridement. The between‐group difference in pain measured on a 100 mm scale was statistically significant in favour of EMLA (MD ‐20.65, 95% CI ‐12.19 to ‐29.11). No significant between‐group differences in burning or itching were observed. 
+Two trials (470 participants with venous leg ulcers) evaluated ibuprofen slow‐release foam dressings for persistent venous leg ulcer pain. Compared with local best practice, significantly more participants in the ibuprofen dressing group achieved the outcome of >50% of the total maximum pain relief score between day 1 and day 5 than participants in the local best practice group (RR 1.63, 95% CI 1.24 to 2.15). The number needed to treat was 6 (95% CI 4 to 12). In the second trial, compared with an identical non‐ibuprofen foam dressing, there was no statistically significant difference in the proportion of participants experiencing slight to complete pain relief on the first evening of treatment.Limited data were available to assess healing rates or adverse events. 
+Authors' conclusions
+There is some evidence to suggest that ibuprofen dressings may offer pain relief to people with painful venous leg ulcers. EMLA (5%) appears to provide effective pain relief during the debridement of venous leg ulcers. Further research should consider standardised pain assessment methods and assess both the effect on ulcer healing and the impact of long term use of these treatments. 

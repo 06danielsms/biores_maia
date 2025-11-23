@@ -1,0 +1,17 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is characterised by progressive airflow obstruction, worsening exercise performance and health deterioration. It is associated with significant morbidity, mortality and health system burden. 
+Objectives
+To evaluate the effectiveness of outreach respiratory health care worker programmes for COPD patients in terms of improving lung function, exercise tolerance and health related quality of life (HRQL) of patient and carer, and reducing mortality and medical service utilisation. 
+Search methods
+The Cochrane Airways Group Specialised Register of Trials was searched (November 2011). Study references were hand‐searched for additional studies we contacted study authors to identify other unpublished studies. 
+Selection criteria
+We included only randomised controlled trials of COPD patients. We included interventions involving an outreach nurse visiting patients in their homes, providing support, education, monitoring health and liaising with physicians. Studies in which the therapeutic intervention under test was physical training were not included. 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted data. We contacted study authors for additional information. 
+Main results
+We pooled mortality data from eight studies and found a non‐significant reduction in mortality at 12 months (OR 0.72, 95% CI 0.45 to, 1.15). 
+We pooled four studies that assessed disease‐specific heath‐related quality of life (HRQL) and found a statistically significant improvement in HRQL (mean difference ‐2.61, 95% CI ‐4.82 to ‐0.40). 
+Hospitalisations were reported in five studies. Although there was no statistically significant difference in the number of hospitalisations (OR 1.01, 95% CI 0.71 to 1.44), there was significant heterogeneity. Although this heterogeneity appeared to be caused by one outlying study with a statistically significant decrease in hospitalisations in patients receiving home care, whereas the other studies showed a non‐significant increase in hospitalisations, we could not draw firm conclusions about why this heterogeneity exists. Data on GP visits and emergency department presentations were available, however no consistent effect in these was observed with the intervention. The intervention also incurred higher health care costs than standard care as reported in a single study. 
+Very few studies provided data on lung function or exercise performance, so there was insufficient evidence to assess impact on these outcomes. 
+Authors' conclusions
+Outreach nursing programmes for COPD improved disease‐specific HRQL. However the effect on hospitalisations was heterogeneous, reducing admissions in one study, but increasing them in others, therefore we could not draw firm conclusions for this outcome. 

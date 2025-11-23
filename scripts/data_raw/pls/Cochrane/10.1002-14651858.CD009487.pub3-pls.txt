@@ -1,0 +1,15 @@
+Lateral pararectal versus transrectal stoma placement for prevention of parastomal herniation 
+We asked 
+Is there a difference in the rate of parastomal herniation, and other stoma‐related complications in people undergoing abdominal wall enterostomy, when comparing two stoma formation techniques: lateral pararectal, in which the stoma is located beside the rectus abdominis muscle, one of the muscles of the abdominal wall, versus transrectal, in which the stoma is pulled through the rectus abdominis muscle? 
+Background 
+A stoma is an opening in the abdomen, which is surgically created to divert the flow of urine or feces; an enterostomy is a stoma that starts in the bowel. A parastomal hernia is an incisional hernia, through which abdominal contents protrude through a defect in the abdominal wall at the site of previous surgery. It is related to a stoma, and is one of the most common stoma‐related complications. Many factors that potentially influence the occurrence of parastomal herniation have been investigated. However, it remains unclear whether the enterostomy should be placed through or beside the rectus abdominis muscle in order to prevent parastomal herniation. 
+Study characteristics 
+The evidence is current to 9 November 2018. In this update, we included 10 retrospective cohort studies with a total of 864 participants, and one randomized controlled trial (RCT: a study in which participants are randomly allocated to the treatment groups), including 60 participants. The target population was individuals, regardless of age, who received a temporary or permanent enterostomy for any reason in either the elective (planned) or the emergency setting. 
+Key results 
+The results found inconclusive results between the two techniques for the risk of parastomal herniation (11 studies, 924 participants), stomal prolapse (1 study, 145 participants), ileus or stenosis (1 study, 60 participants), and skin irritation (1 study, 60 participants). 
+Neither technique was found to be better than the other for any of the stoma‐related outcomes of interest. 
+None of the studies measured other stoma‐related problems, or death.
+Quality of the evidence 
+We downgraded the quality of the evidence to moderate, low, or very low, because of high risk of bias, small sample sizes, few events, and diversity across studies. 
+Conclusion 
+Based on the current knowledge presented in this review, there is no evidence to support the use of one stoma formation technique over the other. Further research is likely to have an important impact on our confidence in the estimate of effect. 

@@ -1,0 +1,19 @@
+Background
+Pain is a common feature of childhood and adolescence around the world, and for many young people, that pain is chronic. The World Health Organization guidelines for pharmacological treatments for children's persisting pain acknowledge that pain in children is a major public health concern of high significance in most parts of the world. While in the past, pain was largely dismissed and was frequently left untreated, views on children's pain have changed over time, and relief of pain is now seen as important. 
+We designed a suite of seven reviews on chronic non‐cancer pain and cancer pain (looking at antidepressants, antiepileptic drugs, non‐steroidal anti‐inflammatory drugs, opioids, and paracetamol as priority areas) in order to review the evidence for children's pain utilising pharmacological interventions in children and adolescents. 
+As the leading cause of morbidity in children and adolescents in the world today, chronic disease (and its associated pain) is a major health concern. Chronic pain (lasting three months or longer) can arise in the paediatric population in a variety of pathophysiological classifications: nociceptive, neuropathic, idiopathic, visceral, nerve damage pain, chronic musculoskeletal pain, and chronic abdominal pain, and other unknown reasons. 
+Opioids are used worldwide for the treatment of pain. They bind to opioid receptors in the central nervous system (mu, kappa, delta, and sigma) and can be agonists, antagonists, mixed agonist‐antagonists, or partial agonists. Opioids are generally available in healthcare settings across most high‐income countries, but access may be restricted in low‐ and middle‐income countries. For example, opioids currently available in the UK include: buprenorphine, codeine, fentanyl, hydromorphone, methadone, morphine, oxycodone, and tramadol. Opioids are used in varying doses (generally based on body weight for paediatric patients) by means of parenteral, transmucosal, transdermal, or oral administration (immediate release or modified release). To achieve adequate pain relief in children using opioids, with an acceptable grade of adverse effects, the recommended method is a lower dose gradually titrated to effect in the child. 
+Objectives
+To assess the analgesic efficacy and adverse events of opioids used to treat chronic non‐cancer pain in children and adolescents aged between birth and 17 years, in any setting. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Library, MEDLINE via Ovid, and Embase via Ovid from inception to 6 September 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries. 
+Selection criteria
+Randomised controlled trials, with or without blinding, of any dose and any route, treating chronic non‐cancer pain in children and adolescents, comparing opioids with placebo or an active comparator. 
+Data collection and analysis
+Two review authors independently assessed studies for eligibility. We planned to use dichotomous data to calculate risk ratio and number needed to treat, using standard methods. We planned to assess GRADE (Grading of Recommendations Assessment, Development and Evaluation) and planned to create a 'Summary of findings' table. 
+Main results
+No studies were eligible for inclusion in this review.
+There is no evidence to support or refute the use of opioids for treating chronic non‐cancer pain in children and adolescents. 
+Authors' conclusions
+We are unable to comment about efficacy or harm from the use of opioids to treat chronic non‐cancer pain in children and adolescents. 
+We know from adult randomised controlled trials that some opioids, such as morphine and codeine, can be effective in certain chronic pain conditions. 

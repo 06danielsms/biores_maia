@@ -1,0 +1,15 @@
+Background
+Functional immaturity of gastrointestinal motility predisposes preterm infants to feeding intolerance. Erythromycin is a motilin agonist that exerts its prokinetic effect by stimulating propagative contractile activity in the interdigestive phase. 
+Objectives
+To evaluate the efficacy of erythromycin in the prevention and treatment of feeding intolerance in preterm infants. 
+Search methods
+Systematic literature search was performed according to the Cochrane Neonatal Collaborative Review Group search strategy. Randomized controlled trials of erythromycin in preterm infants to promote gastrointestinal motility were identified from the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 4, 2007), MEDLINE (1966 ‐ December 2007), EMBASE (1980 ‐ December 2007), CINAHL (1982 ‐ December 2007), cross‐references, abstracts, and journal hand searching. 
+Selection criteria
+The initial selection criteria limited the review to studies using erythromycin at 3 ‐ 12 mg/kg/day in preterm infants less than 36 weeks gestational age with feeding tolerance. However, a significant number of studies using erythromycin at a higher dose (> 12 mg/kg/day) or as prophylaxis for those at risk of feeding intolerance were identified. A post hoc decision was made to include these studies in the review. 
+Data collection and analysis
+Studies were categorized into prevention and treatment studies, and data from each category were analyzed separately. Within each category, subgroup analyses were performed based on low (3 to 12mg/kg/day) and high doses (> 12mg/kg/day) of erythromycin. Primary outcome was days to full enteral feeding. Secondary outcomes included adverse effects associated with erythromycin, duration of total parenteral nutrition (TPN), weight gain, necrotizing enterocolitis (NEC), and length of hospital stay. 
+Main results
+Ten randomized controlled studies (three prevention and seven treatment studies) were included. Studies varied greatly in the definition of feeding intolerance and how outcomes were measured, analyzed and reported, so meta‐analysis of most outcomes was impossible. It was observed, however, that the studies using erythromycin at higher treatment doses (40 to 50 mg/kg/day) or in infants > 32 weeks' GA reported more positive effects in improving feeding intolerance. 
+Meta‐analysis of high dose prevention studies showed no significant difference in NEC (typical RR 0.59, 95% CI 0.11, 3.01; typical RD ‐0.021, 95% CI ‐0.087, 0.045). Meta‐analysis of high dose treatment studies showed no significant difference in septicemia (typical RR 0.83, 95% CI 0.47, 1.45; typical RD ‐0.04, 95% CI ‐0.17, 0.08). 
+Authors' conclusions
+There is insufficient evidence to recommend the use of erythromycin in low or high doses for preterm infants with or at risk of feeding intolerance. Future research is needed to determine if there is a more precise dose range where erythromycin might be effective as a prokinetic agent in preterm infants > 32 weeks' GA. 

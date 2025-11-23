@@ -1,0 +1,14 @@
+Background
+Transcutaneous nerve stimulation (TENS) has been proposed as a means of reducing pain in labour. The TENS unit emits low‐voltage electrical impulses which vary in frequency and intensity. During labour, TENS electrodes are generally placed on the lower back, although TENS may be used to stimulate acupuncture points or other parts of the body. The physiological mechanisms whereby TENS relieves pain are uncertain. TENS machines are frequently operated by women, which may increase a sense of control in labour. 
+Objectives
+To assess the effects of TENS on pain in labour.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2011) and reference lists of retrieved papers. 
+Selection criteria
+Randomised controlled trials comparing women receiving TENS for pain management in labour versus routine care, alternative non‐pharmacological methods of pain relief, or placebo devices. We included all types of TENS machines. 
+Data collection and analysis
+Two review authors assessed for inclusion all trials identified by the search strategy, carried out data extraction and assessed risk of bias. We have recorded reasons for excluding studies. 
+Main results
+Seventeen trials with 1466 women contribute data to the review. Thirteen examined TENS applied to the back, two to acupuncture points, and two to the cranium. Overall, there was little difference in pain ratings between TENS and control groups, although women receiving TENS to acupuncture points were less likely to report severe pain (average risk ratio 0.41, 95% confidence interval 0.31 to 0.54; measured in two studies). The majority of women using TENS said they would be willing to use it again in a future labour. Where TENS was used as an adjunct to epidural analgesia there was no evidence that it reduced pain. There was no consistent evidence that TENS had any impact on interventions and outcomes in labour. There was little information on outcomes for mothers and babies. No adverse events were reported. 
+Authors' conclusions
+There is only limited evidence that TENS reduces pain in labour and it does not seem to have any impact (either positive or negative) on other outcomes for mothers or babies. The use of TENS at home in early labour has not been evaluated. TENS is widely available in hospital settings and women should have the choice of using it in labour. 

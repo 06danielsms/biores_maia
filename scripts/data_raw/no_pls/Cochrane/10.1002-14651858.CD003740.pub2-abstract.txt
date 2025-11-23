@@ -1,0 +1,14 @@
+Background
+Rotavirus is a common neonatal nosocomial viral infection and epidemics with the newer P(6)G9 strains have been reported. Local mucosal immunity in the intestine to rotavirus is important in the resolution of infection and protection against subsequent infections. Oral administration of anti‐rotaviral immunoglobulin preparations might be a useful strategy in preventing rotaviral infections, especially in low birth weight babies. 
+Objectives
+To determine the effectiveness and safety of oral immunoglobulin preparations for the prevention of rotavirus infection in hospitalized low birthweight infants (birthweight < 2500 g) 
+Search methods
+The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE, EMBASE, CINAHL, biological Abstracts (BIOSIS), Science Citation Index for articles citing Barnes 1982 and the proceedings of the Pediatric Academic Societies from 1991 onwards were searched in July 2011. Ongoing trials were also searched at clinicaltrials.gov and controlled‐trials.com 
+Selection criteria
+The criteria used to select studies for inclusion were:  1) design: randomized or quasi‐randomized controlled trials;  2) participants: hospitalized low birthweight infants;  3) intervention: oral immunoglobulin preparations for prevention of rotavirus infection compared to placebo OR no intervention;  4) at least one of the following outcomes were reported: all cause mortality during hospital stay, mortality due to rotavirus infection during hospital stay, rotavirus infection , duration of diarrhea, need for rehydration, duration of viral excretion, duration of infection control measures, length of hospital stay in days, recurrent diarrhea or chronic diarrhea. 
+Data collection and analysis
+The two review authors independently abstracted data from the included trials.
+Main results
+One published study (Barnes 1982) was eligible for inclusion in this review. Barnes 1982 found no significant difference in the rates of rotavirus infection after oral gammaglobulin versus placebo in hospitalized low birthweight babies [RR 1.27 (95% CI 0.65 to 2.37)]. In the subset of infants who became infected with rotavirus after receiving gammaglobulin or placebo for prevention of rotavirus infection, there was no significant difference in the duration of rotavirus excretion between the group who had gammaglobulin (mean 2 days, range 1 to 4 days) and the group who had placebo (mean 3 days, range 1 to 6 days). Barnes 1982 reported no adverse effects after administration of oral immunoglobulin preparations. 
+Authors' conclusions
+Current evidence does not support the use of oral immunoglobulin preparations to prevent rotavirus infection in low birthweight infants. Researchers are encouraged to conduct well‐designed neonatal trials using the newer preparations of anti‐rotaviral immunoglobulins (colostrum, egg yolk immunoglobulins) and include cost effectiveness evaluations. 

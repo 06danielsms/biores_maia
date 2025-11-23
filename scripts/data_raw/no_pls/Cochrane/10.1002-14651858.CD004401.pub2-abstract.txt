@@ -1,0 +1,14 @@
+Background
+Acute otitis media (AOM) is a common childhood illness which may be frequent and painful. AOM may be associated with tympanic membrane perforation and can progress to chronic suppurative otitis media (CSOM). 
+Objectives
+To determine the effectiveness of long‐term antibiotics (six weeks or longer) in preventing any AOM, AOM with perforation and CSOM. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 3) which includes the Acute Respiratory Infections Group's Specialised Register, MEDLINE (January 1966 to July Week 4, 2010), OLD MEDLINE (1950 to 1965) and EMBASE (1990 to August 2010). 
+Selection criteria
+Randomised controlled trials of long‐term antibiotics versus placebo or no treatment for preventing AOM, AOM with perforation, or CSOM. 
+Data collection and analysis
+Two authors independently extracted the data for: AOM; episodes of AOM; recurrent AOM; episodes of illness; side effects; antibiotic resistance; and outcomes at end of intervention (any AOM) and following cessation of intervention (any AOM). For dichotomous outcomes, we calculated the summary risk ratio (fixed and random‐effects models). For rate outcomes, we calculated the summary incidence rate ratio. 
+Main results
+Seventeen studies (1586 children) were included. All studies enrolled children at increased risk of AOM. In seven studies the children were prone to otitis media. The majority were high‐quality studies and most (16 studies) reported data for our primary outcomes. One reported AOM with perforation or CSOM. Long‐term antibiotics reduced any episode of AOM (14 studies, 1461 children, risk ratio (RR) 0.65, 95% CI 0.53 to 0.79; random‐effects model) and number of episodes of AOM (13 studies, 1327 children, incidence rate ratio (IRR) 0.51, 95% CI 0.39 to 0.66; random‐effects model). Approximately five children would need to be treated long‐term to prevent one child experiencing AOM whilst on treatment. Antibiotics prevented 1.5 episodes of AOM for every 12 months of treatment per child. We explored statistical heterogeneity. Long‐term antibiotics were not associated with a significant increase in adverse events (12 studies, 817 children, RR 1.99, 95% CI 0.25 to 15.89; random‐effects model). 
+Authors' conclusions
+For children at risk, antibiotics given once or twice daily will reduce the probability of AOM while the child is on treatment. In similar populations, antibiotics will reduce the number of episodes of AOM per year from around three to around 1.5. We believe that larger absolute benefits are likely in high‐risk children. These conclusions were not affected by sensitivity analyses. 

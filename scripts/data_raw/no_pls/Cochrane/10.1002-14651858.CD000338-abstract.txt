@@ -1,0 +1,16 @@
+Background
+Two types of implants used for the surgical fixation of extracapsular hip fractures are condylocephalic nails (intramedullary nails that are inserted up through the femoral canal from above the knee and across the fracture) and extramedullary implants. 
+Objectives
+To compare condylocephalic nails (e.g. Ender and Harris nails) with extramedullary implants (e.g. fixed nail plates and sliding hip screws) for the treatment of extracapsular (trochanteric and subtrochanteric) hip fracture in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (September 2004), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2004), MEDLINE (1966 to September week 1 2004), EMBASE, the UK National Research Register, orthopaedic journals, conference proceedings and reference lists of articles. 
+Selection criteria
+Randomised or quasi‐randomised trials comparing condylocephalic nails with extramedullary implants. 
+Data collection and analysis
+We independently assessed trial quality and extracted data. Ender nails and Harris nail data were presented separately. Results from fixed nail plates and sliding hip screws were subgrouped. 
+Main results
+Eleven trials involving 1667 people with predominantly trochanteric fractures were included. Ten compared Ender nails with either a fixed nail plate or a sliding hip screw. One compared the Harris condylocephalic nail with a sliding hip screw. 
+The only advantages of condylocephalic nails were a reduced deep wound sepsis rate (0.9% versus 4.2%; relative risk 0.28, 95% confidence interval 0.11 to 0.62), length of surgery and operative blood loss. However, there was an increased risk of reoperation (20.9% versus 5.5%; relative risk 3.72, 95% confidence interval 2.54 to 5.44) and later fracture of the femur when compared with extramedullary implants. There was an increased risk of cut‐out of the implant from the femoral head for Ender nails compared with the sliding hip screw, but not for fixed nail plates. Backing out of the nail was a frequent complication (30%) of Ender nails and often resulted in revision surgery. 
+Ender nails had an increased risk of shortening of the leg and external rotation deformity and potentially a poorer return to previous walking ability. An increase in residual pain, predominantly knee pain, was also evident in patients undergoing condylocephalic nailing. There was no apparent difference in mortality between the condylocephalic nail and extramedullary implant groups. 
+Authors' conclusions
+Any advantages in intra‐operative outcomes of condylocephalic nails are outweighed by the increase in fracture healing complications, reoperation rate, residual pain and limb deformity when compared with an extramedullary implant, particularly a sliding hip screw. The use of condylocephalic nails (in particular Ender nails), for trochanteric fracture is no longer appropriate. 

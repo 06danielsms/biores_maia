@@ -1,0 +1,31 @@
+Do education and training programs reduce aggressive behavior toward healthcare workers?
+What is aggressive behavior? 
+The International Labour Organization uses the term "workplace violence" defined as "any action, incident or behaviour that departures from reasonable conduct in which a person is threatened, harmed, injured in the course of, or as a direct result of, his or her work". Experiencing aggressive behavior at work can affect people's ability to do their job well, can cause physical and mental health problems, and can also affect home life. Aggressive behavior may lead to absences from work; some people might leave their job if they experience aggressive behavior. 
+Why we did this Cochrane Review 
+Aggressive behavior exhibited by patients and their families, friends, and carers is a serious problem for healthcare workers. It may affect the quality and safety of the care that healthcare workers can provide. 
+Education and training programs have been developed to try to reduce—or eliminate—aggressive behavior at work. These programs are intended to teach and train healthcare workers about: 
+• their organization's policies and procedures;
+• how to assess risks; and
+• strategies to control or reduce the chances—and effects—of experiencing aggressive behavior. 
+What did we do? 
+We searched for studies that investigated how well education and training programs prevented or reduced aggression toward healthcare workers. 
+We included randomized controlled studies, in which the programs that people received were decided at random and studies in which effects of a program were measured before and after among people who completed the program and in another group of people who did not take part. 
+We wanted to know if education and training programs could:
+• reduce the number of incidents of aggressive behavior in healthcare workplaces;
+• improve healthcare workers' knowledge, skills, and attitudes toward aggressive behavior; and 
+• reduce any personal adverse (unwanted or negative) effects noted among healthcare workers who experienced aggressive behavior. 
+Search date: we included evidence published up to June 2020. 
+What we found 
+We found nine studies including 1688 healthcare workers (including healthcare support staff, such as receptionists) who worked with patients and patients' families, friends, and carers. These studies compared the effects of receiving an education and training program to the effects of not receiving such a program. 
+Studies were conducted in hospitals or healthcare centers (four studies), in psychiatric wards (two studies), and in long‐term care centers (three studies) in the United States, Switzerland, the United Kingdom, Sweden, and Taiwan. 
+All programs combined education with training provided either online (four studies) or face‐to‐face (five studies). In eight studies, the people taking part were followed for up to three months (short‐term), and in one study for over one year (long‐term). 
+What are the results of our review? 
+Education and training programs did not reduce the number of reports of aggressive behavior toward healthcare workers (five studies), possibly because these programs made healthcare workers more likely to report these incidents. 
+An education and training program might improve healthcare workers’ knowledge of aggressive behavior in the workplace in the short term (one study), but we are uncertain whether this would be a long‐term effect (one study). 
+Education programs might improve healthcare workers' attitudes toward aggressive behavior in the short term (five studies), although these results varied depending on the type and length of the program provided. 
+Education programs might not affect healthcare workers' skills in dealing with aggressive behavior (two studies) and might not affect whether unwanted or negative personal effects were noted after healthcare workers experienced aggressive behavior (one study). 
+How reliable are these results? 
+We are not confident in the results of our review because these results were reported from a small number of studies—some with small numbers of participants—and because some studies showed large differences in results. We identified problems involving the ways some studies were designed, conducted, and reported. Our results are likely to change if further evidence should become available. 
+Key message 
+Although an education and training program might increase healthcare workers' knowledge and positive attitudes, such a program might not affect the number of incidents of aggressive behavior that healthcare workers experience. 
+More studies are needed, particularly in healthcare workplaces with high rates of aggressive behavior. 

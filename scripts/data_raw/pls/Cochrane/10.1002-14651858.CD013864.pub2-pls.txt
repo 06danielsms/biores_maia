@@ -1,0 +1,20 @@
+Antibiotics for hospital‐acquired pneumonia in newborns and children
+Review question 
+Which antibiotic regimen is safer and more effective in treating neonates (newborns) and children with hospital‐acquired pneumonia? 
+Background 
+Hospital‐acquired pneumonia is an inflammation of the tissue of one or both lungs caused by an infection that occurs during a hospital stay (i.e. 48 hours or more after hospital admission). It is one of the most common hospital‐acquired infections in children worldwide, and is associated with a high death rate. Most of our understanding of hospital‐acquired pneumonia in children is drawn from adult studies. To our knowledge this is the first review with meta‐analysis that assesses the benefits and harms of different antibiotic regimens in newborns and children with hospital‐acquired pneumonia. 
+Search date 
+The evidence is current to February 2021.
+Study characteristics 
+We included four trials randomising 84 children with hospital‐acquired pneumonia to different antibiotic regimens. Three trials were multicentre trials from the USA, Latin America, Europe, and South Africa. The South African trial included one site in Malaysia. Each of the four included trials compared different antibiotic regimens, as follows: cefepime versus ceftazidime; linezolid versus vancomycin; meropenem versus cefotaxime; and ceftobiprole versus cephalosporin. 
+Study funding sources 
+Three trials were funded by pharmaceutical companies (Zeneca Pharmaceuticals, Pharmacia Corp, and Basilea Pharmaceutica International Ltd.), indicating a possible risk of bias related to a vested interest risk. 
+Key results 
+Each of the four included trials compared different antibiotic regimens, as follows: cefepime versus ceftazidime; linezolid versus vancomycin; meropenem versus cefotaxime; and ceftobiprole versus cephalosporin. 
+Only one trial reported our primary outcomes of death from all causes and serious adverse events (major complications). Three trials reported our secondary outcome of treatment failure. Two trials primarily included community‐acquired pneumonia and hospitalised children with bacterial infections, hence the children with hospital‐acquired pneumonia constituted only subgroups of the total study populations. 
+Where outcomes were reported, the certainty of the evidence was very low for each of the comparisons. We were unable to draw any meaningful conclusions from the numerical results. 
+None of the included trials assessed health‐related quality of life, pneumonia‐related death, or non‐serious adverse events (minor complications). 
+Conclusions 
+The available evidence does not suggest that one antibiotic regimen is safer and more effective than another in treating newborns and children with hospital‐acquired pneumonia. Further research is needed. 
+Certainty of the evidence 
+The certainty of evidence is very low. All four included trials had high risk of bias (i.e. the studies were designed in such a way that the results may have been skewed). In addition, the included trials involved few participants, which is likely to have led to inaccurate results. 

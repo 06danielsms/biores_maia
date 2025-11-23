@@ -1,0 +1,14 @@
+Background
+Short acting insulin analogue use for diabetic patients is still controversial, as reflected in many scientific debates. 
+Objectives
+To assess the effects of short acting insulin analogues versus regular human insulin.
+Search methods
+The Cochrane Library, MEDLINE and EMBASE were searched. 
+Selection criteria
+Randomised controlled trials with an intervention duration of at least four weeks.
+Data collection and analysis
+Trial selection and evaluation of study quality was done independently by two reviewers.
+Main results
+Altogether 8274 participants took part in 49 randomised controlled studies. Most studies were of poor methodological quality.  In patients with type 1 diabetes, the weighted mean difference (WMD) of HbA1c was ‐0.1% (95% CI: ‐0.2 to ‐0.1) in favour of insulin analogue, whereas in patients with type 2 diabetes the WMD was 0.0% (95% CI: ‐0.1 to 0.0).  In subgroup analyses of different types of interventions in type 1 diabetic patients, the WMD in HbA1c was ‐0.2% (95% CI: ‐0.3 to ‐0.1) in favour of insulin analogue in studies using continuous subcutaneous insulin injections (CSII), whereas for conventional intensified insulin therapy (IIT) studies the WMD in HbA1c was ‐0.1% (95% CI: ‐0.1 to 0.0).  The WMD of the overall mean hypoglycaemic episodes per patient per month was ‐0.2 (95% CI: ‐1.1 to 0.7) and ‐0.2 (95% CI: ‐0.5 to 0.1) for analogues in comparison to regular insulin in patients with type 1 diabetes and type 2 diabetes, respectively.  For studies in type 1 diabetes patients the incidence of severe hypoglycaemia ranged from 0 to 247.3 (median 21.8) episodes per 100 person‐years for insulin analogues and from 0 to 544 (median 46.1) for regular insulin, in type 2 the incidence ranged from 0 to 30.3 (median 0.3) episodes per 100 person‐years for insulin analogues and from 0 to 50.4 (median 1.4) for regular insulin.  No study was designed to investigate possible long term effects (e.g. mortality, diabetic complications), in particular in patients with diabetes related complications. 
+Authors' conclusions
+Our analysis suggests only a minor benefit of short acting insulin analogues in the majority of diabetic patients treated with insulin. Until long term efficacy and safety data are available we suggest a cautious response to the vigorous promotion of insulin analogues. For safety purposes, we need a long‐term follow‐up of large numbers of patients and well designed studies in pregnant women to determine the safety profile for both the mother and the unborn child. 

@@ -1,0 +1,14 @@
+Background
+Up to 50% of patients with colorectal cancer develop metastases of which half are isolated to the liver and 10% to 25% are eligible for resection. If all disease is removed these patients have a 30% to 50% chance of survival at five years.  Treatment options include hepatic resection and other modalities using cryosurgery and radiofrequency thermal ablation. Although these new modalities allow safe ablation of liver metastases often without the need for surgical intervention, there are still no clear guidelines on the appropriate management of patients with colorectal cancer liver metastases. 
+Objectives
+To assess the effects of surgical resection of colorectal cancer liver metastases compared to no intervention and other modalities of intervention, including cryosurgery and radiofrequency ablation. 
+Search methods
+Searches were conducted in the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and LILACS databases and updated 14 June 2011. 
+Selection criteria
+Randomized controlled trials comparing resection or other surgical interventions for liver metastases in participants who had undergone curative surgery for adenocarcinoma of the colon or rectum and who were eligible for liver resection (i.e. with no evidence of primary or metastatic cancer elsewhere). 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted data.
+Main results
+Only one trial with a high risk of bias involving 123 people (87 male 36 female) was included in this review. The data from this ten year randomized controlled trial suggest that cryosurgery may be effective in the treatment of liver metastases. The investigators reported higher disease free survival rates at 10 years in those patients who received the cryosurgery compared to conventional surgical techniques. 
+Authors' conclusions
+The single study included in this review provides very limited evidence to support the effectiveness of one intervention over the other. The authors conclude that local ablative therapies might be useful for the management of liver metastases, but more research is required to further evaluate the effects of these treatment options and their potential role in increasing disease‐free survival and in decreasing recurrence rates. 

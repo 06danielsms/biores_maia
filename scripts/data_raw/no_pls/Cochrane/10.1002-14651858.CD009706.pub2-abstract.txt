@@ -1,0 +1,14 @@
+Background
+Since 1965 many ventriculo‐peritoneal shunt systems have been inserted worldwide to treat hydrocephalus. The most frequent indication in adults is normal pressure hydrocephalus (NPH), a condition that can be difficult to diagnose precisely. Surgical intervention with flow‐regulated and differential pressure‐regulated ventriculo‐peritoneal shunts remains controversial. Knowledge about the benefits and harms of these interventions is limited. 
+Objectives
+The objective of this review is to summarize the evidence on benefits and harms of flow‐regulated versus differential pressure‐regulated shunt valves for adult patients with NPH, based on reported findings of randomised clinical trials. 
+Search methods
+The ALOIS (www.medicine.ox.ac.uk/alois), the Cochrane Dementia and Cognitive Improvement Group Specialized Register; MEDLINE (from 1950) (Ovid SP); EMBASE (from 1980) (Ovid SP); CINAHL (from 1980) (EBSCOhost); PsycINFO (from 1806) (Ovid SP); LILACS (from 1982 ) (BIREME); ClinicalTrials.gov; Umin Japan Trial Register; WHO portal;The Cochrane Library’s Central Register of Controlled trials (CENTRAL); ISI Web of Knowledge Conference Proceedings; Index to Theses; and Australasian Digital Theses were searched until May 16, 2012.The search terms used were NPH, "normal pressure hydrocephalus," iNPH, idiopathic normal pressure hydrocephalus, sNPH, and "secondary normal pressure hydrocephalus." 
+Selection criteria
+We planned to include randomised clinical trials comparing flow‐regulated versus differential pressure‐regulated shunt valves. 
+Data collection and analysis
+Two authors with expert knowledge within the field independently reviewed studies for eligibility, assessed risk of bias, and extracted data. 
+Main results
+No randomised clinical trials comparing flow‐regulated versus differential pressure‐regulated shunt valves were found. 
+Authors' conclusions
+There is no evidence from randomised clinical trials indicates that flow‐regulated and differential pressure‐regulated shunt valves differ with regard to clinical outcome, shunt failure, or intervention risks. Randomised clinical trials are needed that take into account the large number of VP shunts implanted each year in patients with NPH. 

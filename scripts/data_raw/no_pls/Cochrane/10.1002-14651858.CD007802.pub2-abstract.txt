@@ -1,0 +1,14 @@
+Background
+Persistent pulmonary hypertension of the newborn (PPHN) is a clinical syndrome characterized by suboptimal oxygenation as a result of sustained elevation in pulmonary vascular resistance after birth. Currently, the therapeutic mainstay for PPHN is optimal lung inflation and selective vasodilatation with inhaled nitric oxide (iNO). However, iNO is not available in all countries and not all infants will respond to iNO. Milrinone is a phosphodiesterase III inhibitor which induces pulmonary vasodilatation by its actions through a cyclic adenylate monophosphate mediated signaling pathway. 
+Objectives
+To assess efficacy and safety in infants with PPHN either treated with: milrinone compared with placebo or no treatment; milrinone compared with iNO; milrinone as an adjunct to iNO compared with iNO alone; milrinone compared with potential treatments for PPHN other than iNO. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 2, 2010), MEDLINE and EMBASE databases from their inception until January 2010. We searched the reference lists of potentially relevant studies without any language restriction. 
+Selection criteria
+Fully published randomized controlled trials (RCTs) and quasi‐RCTs comparing milrinone with placebo, iNO or potential treatments other than iNO in neonates with PPHN were included if trials reported any clinical outcome. 
+Data collection and analysis
+We found no studies meeting the criteria for inclusion in this review.
+Main results
+We found no studies meeting the criteria for inclusion in this review.
+Authors' conclusions
+The efficacy and safety of milrinone in the treatment of PPHN are not known and its use should be restricted within the context of RCTs. Such studies should address a comparison of milrinone with placebo (in clinical situations where iNO is not available) or, in well resourced countries, should compare milrinone with iNO or as an adjunct to iNO compared with iNO alone. 

@@ -1,0 +1,14 @@
+Background
+Mother and baby units (MBUs) are recommended, in the UK, as an optimal site for treating post partum psychoses. Naturalistic studies suggest poor outcomes for mothers and their children if admission is needed during the first year after birth, but the evidence for the effectiveness of MBUs in addressing the problems faced by both mothers with mental illness and their babies is unclear. 
+Objectives
+To review the effects of mother and baby units for mothers with schizophrenia or psychoses needing admission during the first year after giving birth, and their children, in comparison to standard care on a ward without a mother and baby unit. 
+Search methods
+We undertook electronic searches of the Cochrane Schizophrenia Group's Register (June 2006). 
+Selection criteria
+We included all randomised clinical trials comparing placement on a mother and baby unit compared to any other standard care without attachment to such a unit. 
+Data collection and analysis
+If data were available we would have independently extracted data and analysed on an intention‐to treat basis; calculated the relative risk (RR) and 95% confidence intervals (CI) of homogeneous dichotomous data using a random effects model, and where possible calculated the number needed to treat (NNT); calculated weighted mean differences (WMD) for continuous data. 
+Main results
+Unfortunately, we did not find any relevant studies to include. One non‐randomised trial, published in 1961, suggested beneficial effects for those admitted to mother and baby units. For the experimental group, more women were able to care for their baby on their own and experienced fewer early relapses on their return home compared with standard care. Care practices for people with schizophrenia have changed dramatically over the past 40 years and a sensitively designed pragmatic trial is possible and justified. 
+Authors' conclusions
+Mother and bay units are reportedly common in the UK but less common in other countries and rare or non‐existent in the developing world. However, there does not appear to be any trial‐based evidence for the effectiveness of these units. This lack of data is of concern as descriptive studies have found poor outcomes such as anxious attachment and poor development for children of mothers with schizophrenia and a greater risk of the children being placed under supervised or foster care. Effective care of both mothers and babies during this critical time may be crucial to prevent poor clinical and parenting outcomes. Good, relevant research is urgently needed. 

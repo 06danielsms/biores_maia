@@ -1,0 +1,14 @@
+Background
+Temporomandibular disorders (TMD) are a group of disorders affecting the temporomandibular joints and the muscles of mastication. TMDs are treated with a wide range of drugs. The extent to which the use of these drugs is based upon evidence is unknown. 
+Objectives
+To assess the effectiveness of pharmacological interventions both alone and in combination with non‐pharmacological therapy in relieving pain in patients with chronic TMD. 
+Search methods
+Electronic searches of the Cochrane Oral Health Group's Trials Register (2 August 2010), CENTRAL (The Cochrane Library 2010, Issue 3), MEDLINE via OVID (1950 to 2 August 2010), EMBASE via OVID (1980 to 2 August 2010) and CINAHL via EBSCO (1981 to 2 August 2010) were conducted. Reference lists of articles and previous reviews were scanned for relevant articles and authors were contacted for further information where appropriate. 
+Selection criteria
+Randomised controlled trials (RCTs) in which a pharmacological agent was compared with placebo for the management of pain in patients with TMD. Parenteral routes of administration were excluded. 
+Data collection and analysis
+Duplicate data extraction and assessment of risk of bias in included studies was performed.
+Main results
+Eleven studies were included with a total of 496 participants. The primary outcome of most of the studies was pain. The risk of bias in the included studies was variable. Whilst four studies showed significant pain relief for the active treatment, three were of poor quality. Most adverse effects were mild to moderate in severity. Four studies reported withdrawals due to severe adverse reactions, but insufficient information was provided regarding the trial groups from which the withdrawals occurred. No meta‐analysis was conducted due to lack of similarities across the included studies. 
+Authors' conclusions
+There is insufficient evidence to support or not support the effectiveness of the reported drugs for the management of pain due to TMD. There is a need for high quality RCTs to derive evidence of the effectiveness of pharmacological interventions to treat pain associated with TMD. 

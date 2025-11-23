@@ -1,0 +1,11 @@
+Anti‐vascular endothelial growth factor (VEGF) drugs for treatment of retinopathy of prematurity 
+Background 
+Retinopathy of prematurity (ROP) is a vascular disorder of the immature retina that can result in impairment of vision and even blindness in preterm infants. It is treated primarily by ablation of the avascular retina, the removal of the part of the retina without any blood vessels by cryotherapy or laser therapy. Though these treatments result in a significant improvement in long‐term outcomes, the results are far from perfect. In addition, they cause permanent loss of the peripheral visual field. Recently, studies have been done to evaluate the use of anti‐VEGF agents to treat ROP. These agents inhibit the action of vascular endothelial growth factor (VEGF), a key regulator of new vessel formation in foetal life. Animal studies had shown significant reduction in the neovascular response following injection of anti‐VEGF antibodies into the vitreous cavity of the eyes ('intravitreal' therapy). 
+Study characteristics 
+We searched scientific databases in December 2016 for studies evaluating the efficacy and safety of intravitreal therapy with anti‐VEGF agents in preterm infants with ROP. We identified six randomised controlled trials involving 383 infants. Five trials compared intravitreal bevacizumab or ranibizumab with conventional laser therapy. One trial compared intravitreal pegaptanib plus laser therapy with laser/cryotherapy alone. 
+Key results 
+The results suggest that intravitreal anti‐VEGF agents reduce the risk of refractive errors (high myopia) during childhood but do not reduce the risk of retinal detachment or recurrence of ROP when used alone. Intravitreal pegaptanib used in conjunction with laser therapy reduces the risk of retinal detachment. The effects on other critical outcomes, including delayed side effects such as stroke, are not known. Further studies are needed to assess these outcomes. 
+Quality of the evidence 
+We graded the quality of the evidence as very low or low for most of the key outcomes.
+Setting 
+Neonatal units in China, Czech Republic, Italy, Iran, Ireland, and USA.

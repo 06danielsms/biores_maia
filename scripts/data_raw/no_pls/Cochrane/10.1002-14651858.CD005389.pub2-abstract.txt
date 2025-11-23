@@ -1,0 +1,14 @@
+Background
+Fluid restriction is often recommended as part of the management of infants with early or established bronchopulmonary dysplasia (BPD). 
+Objectives
+To determine whether fluid restriction as part of the therapeutic intervention for early or established BPD improves clinical outcomes. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1) in the Cochrane Library (searched 16 February 2016), MEDLINE via PubMed (1966 to 16 February 2016), Embase (1980 to 16 February 2016), and CINAHL (1982 to 16 February 2016). We also searched clinical trials' databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Prospective randomised clinical trials comparing two distinct fluid administration volumes in preterm infants with early or established BPD. 
+Data collection and analysis
+We used the standard methods of Cochrane Neonatal. For the included trial, we extracted data and assessed the risk of bias, and used GRADE methods to assess the quality of the evidence. The outcomes considered in this review are effects on mortality or requirement for oxygen at 36 weeks' postmenstrual age (primary outcome measure), the duration of supplemental oxygen therapy, proportion of infants discharged from hospital on oxygen, duration of assisted ventilation, duration of hospitalisation, weight gain, feeding tolerance, apnoea, necrotizing enterocolitis, renal dysfunction or nephrocalcinosis, lung mechanics, and use of diuretic therapy (secondary outcome measures). 
+Main results
+One trial was found, including 60 preterm infants at 28 days of age with persistent oxygen requirements. Infants were randomised to either 180 mL/kg/day of standard formula or 145 mL/kg/day of concentrated formula. This single study did not provide data regarding our primary outcome. No effects of the intervention were found on any of our secondary outcomes. The quality of the evidence from this study was graded low. 
+Authors' conclusions
+There is no evidence to support the practice of fluid restriction in infants with early or established BPD. 

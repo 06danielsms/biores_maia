@@ -1,0 +1,15 @@
+Background
+Neuralgic amyotrophy (also know as Parsonage‐Turner syndrome or brachial plexus neuritis) is a distinct peripheral nervous system disorder characterised by episodes (attacks) of extreme neuropathic pain and rapid multifocal weakness and atrophy in the upper limbs. Neuralgic amyotrophy has both an idiopathic and hereditary form, with similar clinical symptoms but generally an earlier age of onset and more episodes in the hereditary form. The current hypothesis is that neuralgic amyotrophy is caused by an underlying genetic predisposition and a susceptibility to mechanical injury of the brachial plexus, and that the episodes are then caused by an immune‐mediated response to the brachial plexus. Hereditary neuralgic amyotrophy is genetically heterogeneous and is associated with a point mutation or duplication of the SEPT9 gene on chromosome 17q25 in 55% of the families. In the idiopathic form an underlying but as yet unknown genetic predisposition is also assumed. 
+Recovery is slow, in months to years, and many patients are left with residual pain and decreased exercise tolerance in the affected limb(s). Anecdotal evidence suggests that corticosteroids may relieve pain or help improve functional recovery. This is an update of a review first published in 2009. 
+Objectives
+The objective was to provide a systematic review of all randomised clinical trials of treatment in neuralgic amyotrophy. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (17 May 2011), CENTRAL (The Cochrane Library 2011, Issue 2), MEDLINE (January 1966 to May 2011), EMBASE (January 1980 to May 2011), CINAHL Plus (January 1937 to May 2011), and LILACS (January 1982 to May 2011) for randomised controlled trials of treatment for neuralgic amyotrophy. 
+Selection criteria
+Any randomised or quasi‐randomised trial of any intervention for neuralgic amyotrophy would be included in the review. 
+Data collection and analysis
+Two review authors extracted the data (RH, NvA) and two authors assessed study quality and performed data extraction independently (NvA, BvE). 
+Main results
+No randomised or quasi‐randomised trials were identified in either the original review or for the update. In 32 articles anecdotal evidence was found on treatment for neuralgic amyotrophy. Only three of these articles contained more than 10 treated cases, with one providing sufficient details to calculate the primary and secondary outcome measures for this review. 
+Authors' conclusions
+There is no evidence from randomised trials to support any form of treatment for neuralgic amyotrophy. Evidence from one open‐label retrospective series suggests that oral prednisone given in the first month after onset can shorten the duration of the initial pain and leads to earlier recovery in some patients. Randomised clinical trials are needed to establish the efficacy of treatment with corticosteroids or other immune‐modulating therapies. 

@@ -1,0 +1,15 @@
+Background
+There are 76.3 million people with alcohol use disorders worldwide and 15.3 million with drug use disorders. Motivational interviewing (MI) is a client‐centred, semi‐directive method for enhancing intrinsic motivation to change by exploring and resolving ambivalence. The intervention is used widely, and therefore it is important to find out whether it helps, harms or is ineffective. 
+Objectives
+To assess the effectiveness of motivational interviewing for substance abuse on drug use, retention in treatment, readiness to change, and number of repeat convictions. 
+Search methods
+We searched 18 electronic databases, 5 web sites, 4 mailing lists, and reference lists from included studies and reviews. Search dates were November 30, 2010 for Cochrane Library, Medline, Embase and PsychINFO. 
+Selection criteria
+Randomized controlled trials with persons dependent or abusing substance. Interventions were MI or motivational enhancement therapy. The outcomes were extent of substance abuse, retention in treatment, motivation for change, repeat conviction. 
+Data collection and analysis
+Three authors independently assessed studies for inclusion, and two authors extracted data. Results were categorized into (1) MI versus no‐treatment control, (2) MI versus treatment as usual, (3) MI versus assessment and feedback, and (4) MI versus other active treatment. Within each category, we computed meta‐analyses separately for post‐intervention, short, medium and long follow‐ups. 
+Main results
+We included 59 studies with a total of 13,342 participants. Compared to no treatment control MI showed a significant effect on substance use which was strongest at post‐intervention SMD 0.79, (95% CI 0.48 to 1.09) and weaker at short SMD 0.17 (95% CI 0.09 to 0.26], and medium follow‐up SMD 0.15 (95% CI 0.04 to 0.25]). For long follow‐up, the effect was not significant SMD 0.06 (95% CI‐0.16 to 0.28). There were no significant differences between MI and treatment as usual for either follow‐up post‐intervention, short and medium follow up. MI did better than assessment and feedback for medium follow‐up SMD 0.38 (95% CI 0.10 to 0.66). For short follow‐up, there was no significant effect . For other active intervention there were no significant effects for either follow‐up. 
+There was not enough data to conclude about effects of MI on the secondary outcomes.
+Authors' conclusions
+MI can reduce the extent of substance abuse compared to no intervention. The evidence is mostly of low quality, so further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. 

@@ -1,0 +1,14 @@
+Background
+Mannitol is sometimes effective in reversing acute brain swelling, but its effectiveness in the ongoing management of severe head injury remains unclear. There is evidence that, in prolonged dosage, mannitol may pass from the blood into the brain, where it might cause increased intracranial pressure. 
+Objectives
+To assess the effects of different mannitol therapy regimens, of mannitol compared to other intracranial pressure (ICP) lowering agents, and to quantify the effectiveness of mannitol administration given at other stages following acute traumatic brain injury. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE (OvidSP), EMBASE (OvidSP), ISI Web of Science (SCI‐EXPANDED & CPCI‐S) and PubMed. We checked reference lists of trials and review articles, and contacted authors of trials. The search was updated on the 20th April 2009. 
+Selection criteria
+Randomised controlled trials of mannitol, in patients with acute traumatic brain injury of any severity. The comparison group could be placebo‐controlled, no drug, different dose, or different drug. We excluded cross‐over trials, and trials where the intervention was started more than eight weeks after injury. 
+Data collection and analysis
+We independently rated quality of allocation concealment and extracted the data. Relative risks (RR) and 95% confidence intervals (CI) were calculated for each trial on an intention to treat basis. 
+Main results
+We identified four eligible randomised controlled trials. One trial compared ICP‐directed therapy to 'standard care' (RR for death = 0.83; 95% CI 0.47 to 1.46). One trial compared mannitol to pentobarbital (RR for death = 0.85; 95% CI 0.52 to 1.38). One trial compared mannitol to hypertonic saline (RR for death = 1.25; 95% CI 0.47 to 3.33). One trial tested the effectiveness of pre‐hospital administration of mannitol against placebo (RR for death = 1.75; 95% CI 0.48 to 6.38). 
+Authors' conclusions
+Mannitol therapy for raised ICP may have a beneficial effect on mortality when compared to pentobarbital treatment, but may have a detrimental effect on mortality when compared to hypertonic saline. ICP‐directed treatment shows a small beneficial effect compared to treatment directed by neurological signs and physiological indicators. There are insufficient data on the effectiveness of pre‐hospital administration of mannitol. 

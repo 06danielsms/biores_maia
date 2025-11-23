@@ -1,0 +1,99 @@
+What is respiratory syncytial virus (RSV)?
+Respiratory syncytial virus (RSV) is a virus that can cause an infection with symptoms
+that are similar to a bad cold, such as cough, fever, sore throat, and runny nose. This
+infection can be serious in older adults and in those with underlying medical
+conditions. People with serious RSV infection may have trouble breathing and may
+need to be hospitalized.
+What is the RSV vaccine (RSVpreF)?
+This study is about a vaccine called the respiratory syncytial virus vaccine, or
+“RSVpreF.” A vaccine is used to help prevent infection by helping the body to fight
+off germs. RSVpreF may be able to help prevent infections caused by RSV.
+RSVpreF contains proteins found in the virus that may stimulate the body’s response
+to make antibodies (known as the “immune response”), which may protect against
+RSV disease. There is no live virus in RSVpreF.
+In older adults, immune responses decrease with age, so vaccines may require
+additional ingredients (known as “adjuvants”), which may improve the immune
+response against infection.
+RSVpreF used in this study contains either:
+- RSVpreF on its own,
+- or RSVpreF with aluminum hydroxide,
+- or RSVpreF with aluminum hydroxide and CpG adjuvant
+Vaccines containing aluminum hydroxide have been used safely in vaccines for more
+than 70 years. Vaccines containing CpG have been given in research studies of other
+vaccines, and CpG is included in a vaccine approved for use in the United States to
+protect against hepatitis B (a liver virus infection).
+090177e197c5163b\Approved\Approved On: 10-Aug-2021 06:15 (GMT)
+RSVpreF is an investigational vaccine, which means that it has not been approved for
+general use and it is not yet known if it will protect against disease caused by RSV.
+This study is the first time that RSVpreF with CpG adjuvant has been tested in
+people.
+What was the purpose of this study?
+The main purpose of this study was to learn about the safety of RSVpreF in healthy
+older adults.
+Researchers wanted to know:
+- How many of the study participants:
+o Had redness, swelling, or pain at the injection site within 14 days of their
+first RSVpreF vaccination?
+o Had nausea, vomiting, headache, muscle pain, joint pain, diarrhea,
+tiredness, or fever within 14 days after their first RSVpreF vaccination?
+o Had medical problems within 1 month after their first RSVpreF
+vaccination?
+o Had serious medical problems or medical problems that required
+treatment from a doctor within 1 year after their first RSVpreF
+vaccination?
+How was the study done?
+Researchers studied RSVpreF in healthy older adults to find out if participants had any health problems when given RSVpreF. This study was organized into 2 different cohorts, Cohort 1 and Cohort 2. Cohort is just another word for a group of people in a clinical study.
+Participants in Cohort 1 also received a flu vaccine at the same time as RSVpreF. These participants were assigned to 1 of 8 treatment groups by chance alone:
+
+- Group 1: Low dose (60 micrograms (μg)) RSVpreF with aluminum hydroxide (32 participants)
+- Group 2: Low dose (60 μg) RSVpreF with CpG and aluminum hydroxide (32 participants)
+- Group 3: Medium dose (120 μg) RSVpreF with aluminum hydroxide (32 participants)
+- Group 4: Medium dose (120 μg) RSVpreF with CpG and aluminum hydroxide (31 participants)
+- Group 5: High dose (240 μg) RSVpreF with aluminum hydroxide (32 participants)
+- Group 6: High dose (240 μg) RSVpreF with CpG and aluminum hydroxide (32 participants)
+- Group 7: High dose (240 μg) RSVpreF with no aluminum hydroxide or CpG and aluminum hydroxide (32 participants)
+- Group 8: Placebo (An injection that does not have any vaccine in it, but it looks just like RSVpreF)(31 participants)
+
+The first 4 participants were watched by study staff for at least 4 hours after their vaccination to monitor for any medical problems, and vaccination for the rest of the participants could begin no sooner than 2 days later. Vaccination was also limited to no more than 6 participants per day for the first week of the study, and participants were followed up for 1 year after their first vaccination. The figures below show what happened during the study.
+
+Participants in Cohort 2 did not receive a flu vaccine during this study. These participants were assigned to 1 of 2 treatment groups by chance alone. At Visit 1, the participants received either:
+
+- Group 1: High dose (240 μg) RSVpreF with CpG and aluminum hydroxide (32 participants)
+- Group 2: Placebo (31 participants)
+
+The participants then received a second dose of either RSVpreF or placebo 2 months later.
+
+The researchers and participants from Cohort 1 and Cohort 2 did not know which vaccine they received. This is known as a “double-blind” study. Participants were expected to participate in 6 study visits over the course of 1 year. At the visits, blood samples were collected, vaccines were given, and participants were checked for any medical problems. 
+
+Where did this study take place?
+The Sponsor ran this study at 12 locations in Australia.
+When did this study take place?
+It began 05 June 2018 and ended 20 August 2020.
+
+Who participated in this study?
+Participants were checked (screened) by the study doctors to make sure they were a good fit for the study. This study included participants who:
+
+- Were 65 to 85 years old
+- Were males, or females not of childbearing potential (able to have children)
+- Were considered to be healthy or with stable chronic disease by the study doctors
+- Did not have a disease or take medicine that would be associated with a weakened immune system
+- Had never received any vaccine for RSV 
+- Had not received a flu vaccine within the past 6 months (Cohort 1 only)
+- Had never had a severe medical problem or allergic reaction to any of the vaccine ingredients
+- Were informed of the risks and benefits of this study and agreed to participate
+
+254 participants joined Cohort 1. Of these, 250 (98%) participants were vaccinated and 247 (97%) participants completed the study. Two participants (1%) from Cohort 1 left the study early by their own choice, and 1 participant (less than 1%) passed away for a reason that was not related to study vaccination. 63 participants joined Cohort 2 and received the first vaccination. 57 (91%) participants received the second vaccination. 56 participants were withdrawn from Cohort 2 when the Sponsor decided to end the study early. Additionally:
+
+- 4 (6%) participants left the study early due to a medical problem
+- 1 (2%) participant left the study early by their own choice
+- 1 (2%) participant left the study early because they no longer met the study requirements
+- 1 (2%) participant left the study early due to study doctor decision
+
+In the overall group of participants:
+
+- A total of 145 women were vaccinated
+- A total of 168 men were vaccinated
+- All participants were between the ages of 65 and 85 years at the start of the study
+
+How long did the study last?
+Participants were in the study for about 1 year. The entire study took almost 2 years to complete. Cohort 1 was completed as planned. Cohort 2 ended early, 6 months after each participant had received their second vaccination. The Sponsor decided to end the study early because immune responses were not found to be different in the participants who received RSVpreF with CpG, compared to other RSVpreF formulations. This decision was not made due to any safety concerns. When the study ended in August 2020, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

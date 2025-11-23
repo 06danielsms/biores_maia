@@ -1,0 +1,12 @@
+Traditional Chinese herbal medicine for vascular dementia
+Background 
+Vascular dementia is a common form of dementia which is caused by problems with the blood supply to the brain. Some but not all people with vascular dementia have had strokes. There are no Western medicines licensed to treat vascular dementia. Traditional Chinese herbal medicines (TCHMs) are often used to treat it in China. 
+Review question 
+We wanted to find out whether any TCHMs were effective treatments for vascular dementia and whether they had any harmful effects. We also wanted to identify promising TCHMs for further research. 
+What we did 
+We searched for randomised controlled trials (RCTs) which had studied the use of any TCHM listed in either the Chinese Pharmacopoeia (CP) or the Chinese National Essential Drug List (NEDL) for the treatment of vascular dementia. In these studies, participants should have been randomly assigned to either a group given the TCHM or to a comparison (control) group that did not get the TCHM, but may have been given a placebo (dummy pill), a Western medicine or standard medical treatment to reduce the risk of strokes. 
+What we found 
+We included 47 trials with 3581 participants of 18 TCHMs in this review. All were conducted in mainland China between 1997 and 2013 with participant numbers ranging from 26 to 240 and an average study duration of 12 weeks. There were significant problems with the methods in many of the trials, particularly with how participants were allocated to treatments, how outcomes were measured and how thoroughly harmful effects were monitored. For these and other reasons, we rated the overall quality of the evidence as variable, ranging from moderate to very low. This means that we are uncertain, and often very uncertain, about the accuracy of the results. 
+Despite these reservations, we found seven TCHMs which each had potentially large benefits in studies comparing TCHMs to no treatment or Western Medicine. Three of these – Nao XinTong, NaoMaiTai and TongXinLuo – had the strongest evidence to justify further research. We found that the risk of harmful effects was at least 5% higher than the risk for participants in the control group for NaoMaiTai and TongXinLuo, but the quality of this evidence was poor. 
+Conclusion 
+We think further research of some TCHMs for vascular dementia is justified, but it is important that the quality of trial conduct and reporting be improved by adhering to published best‐practice standards. 

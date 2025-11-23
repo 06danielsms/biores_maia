@@ -1,0 +1,21 @@
+Background
+Root canal therapy is a sequence of treatments involving root canal cleaning, shaping, decontamination, and obturation. It is conventionally performed through a hole drilled into the crown of the affected tooth, namely orthograde root canal therapy. When it fails, retrograde filling, which seals the root canal from the root apex, is a good alternative. Many materials are used for retrograde filling. Since none meets all the criteria an ideal material should possess, selecting the most efficacious material is of utmost importance. This is an update of a Cochrane Review first published in 2016. 
+Objectives
+To determine the effects of different materials used for retrograde filling in children and adults for whom retrograde filling is necessary in order to save the tooth. 
+Search methods
+An Information Specialist searched five bibliographic databases up to 21 April 2021 and used additional search methods to identify published, unpublished, and ongoing studies. We also searched four databases in the Chinese language. 
+Selection criteria
+We selected randomised controlled trials (RCTs) that compared different retrograde filling materials, with the reported success rate that was assessed by clinical or radiological methods for which the follow‐up period was at least 12 months. 
+Data collection and analysis
+Records were screened in duplicate by independent screeners. Two review authors extracted data independently and in duplicate. Original trial authors were contacted for any missing information. Two review authors independently assessed the risk of bias of the included studies. We followed Cochrane's statistical guidelines and assessed the certainty of the evidence using GRADE. 
+Main results
+We included eight studies, all at high risk of bias, involving 1399 participants with 1471 teeth, published between 1995 and 2019, and six comparisons of retrograde filling materials. 
+‐ Mineral trioxide aggregate (MTA) versus intermediate restorative material (IRM): there may be little to no effect of MTA compared to IRM on success rate at one year, but the evidence is very uncertain (risk ratio (RR) 1.09, 95% confidence interval (CI) 0.97 to 1.22; I2 = 0%; 2 studies; 222 teeth; very low‐certainty evidence). 
+‐ MTA versus super ethoxybenzoic acid (Super‐EBA): there may be little to no effect of MTA compared to Super‐EBA on success rate at one year, but the evidence is very uncertain (RR 1.03, 95% CI 0.96 to 1.10; 1 study; 192 teeth; very low‐certainty evidence). 
+‐ Super‐EBA versus IRM: the evidence is very uncertain about the effect of Super‐EBA compared with IRM on success rate at 1 year, with results indicating Super‐EBA may reduce or have no effect on success rate (RR 0.90, 95% CI 0.80 to 1.01; 1 study; 194 teeth; very low‐certainty evidence). 
+‐ Dentine‐bonded resin composite versus glass ionomer cement: compared to glass ionomer cement, dentine‐bonded resin composite may increase the success rate of the treatment at 1 year, but the evidence is very uncertain (RR 2.39, 95% CI 1.60 to 3.59; 1 study; 122 teeth; very low‐certainty evidence). Same result was obtained when considering the root as unit of analysis at one year (RR 1.59, 95% CI 1.20 to 2.09; 1 study; 127 roots; very low‐certainty evidence). 
+‐ Glass ionomer cement versus amalgam: the evidence is very uncertain about the effect of glass ionomer cement compared with amalgam on success rate at one year, with results indicating glass ionomer cement may reduce or have no effect on success rate (RR 0.98, 95% CI 0.86 to 1.12; 1 study; 105 teeth; very low‐certainty evidence). 
+‐ MTA versus root repair material (RRM): there may be little to no effect of MTA compared to RRM on success rate at one year, but the evidence is very uncertain (RR 1.00, 95% CI 0.94 to 1.07; I2 = 0%; 2 studies; 278 teeth; very low‐certainty evidence). 
+Adverse events were not assessed by any of the included studies.
+Authors' conclusions
+Based on the present limited evidence, there is insufficient evidence to draw any conclusion as to the benefits of any one material over another for retrograde filling in root canal therapy. We conclude that more high‐quality RCTs are required. 

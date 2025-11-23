@@ -1,0 +1,15 @@
+Background
+The use of peripheral intravenous cannulae is common in newborn babies. Many of them require an intravenous line only for medications and not for fluid. Currently there is little uniformity in methods used to maintain cannula patency. 
+Objectives
+The object of this review was to determine which method was better for maintaining intravenous lines used in neonates for intravenous medication only: intermittent flushing or continuous infusion 
+Search methods
+We searched The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2004), CINAHL (from 1982 to June 2004) and MEDLINE (from 1966 to June 2004) . 
+Selection criteria
+Randomised controlled trials comparing continuous infusion to intermittent flushing to maintain patency of intravenous cannulas. Units of randomisation might include individual catheters or individual babies. 
+Data collection and analysis
+Three reviewers independently assessed trial quality and extracted data.
+Main results
+Two studies were eligible for inclusion. In one study only one of our primary outcomes was available: the duration of cannula patency for the first cannula used per infant was slightly longer in the continuous infusion group, but not significantly so, with a mean difference of ‐4.3 hours (95% CI ‐18.2 to 9.7). 
+In the second study, only one of our primary outcomes was available: the mean (SD) number cannulas used per infant in the first 48 hours was less in the intermittent flush group with a mean difference of ‐0.76 cannulas (95% CI ‐1.37 to ‐0.15). No results were available for any of our other primary outcomes: in the published report, results were reported per catheter rather than per infant, a number of infants received more than one intravenous catheter (39 infants received an unknown number of catheters). The overall duration of cannula patency was significantly longer in the intermittent flush group with a mean duration of patency in the intermittent flush group of 2.1 days (SD 1.0) compared with the continuous infusion group where the mean duration of patency was 1.0 days (SD 0.5) ‐ Student's t test P value 0.0003. 
+Authors' conclusions
+It is difficult to draw reliable conclusions given the way the data were analysed and reported in the two included studies. The reliability of the results is uncertain. However, given the caution in interpreting these data, it should also be noted that the use of intermittent flushes was not associated in either study with a decreased cannula life or any other disadvantages, thus lending some support for the use of intermittent flushing of cannulas in a selected population in neonatal nurseries. 

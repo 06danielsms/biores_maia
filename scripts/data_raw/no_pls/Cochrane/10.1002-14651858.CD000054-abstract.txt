@@ -1,0 +1,15 @@
+Background
+Chlamydia trachomatis is a sexually transmitted infection. Mother‐to‐child transmission can occur at the time of birth and may result in ophthalmia neonatorum or pneumonitis in the newborn. 
+Objectives
+The objective of this review was to assess the effects of antibiotics in the treatment of genital infection with Chlamydia trachomatis during pregnancy with respect to neonatal and maternal morbidity. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register and added the results to Studies awaiting classification (September 2006). We updated this search on 3 January 2012 and added one additional trial report to the awaiting classification section. 
+Selection criteria
+Randomised trials of any antibiotic regimen compared with placebo or no treatment or alternative antibiotic regimens in pregnant women with genital Chlamydia trachomatis infection. 
+Data collection and analysis
+Two review authors assessed trial quality and extracted data independently. Study authors were contacted for additional information. 
+Main results
+Eleven trials were included. Trial quality was generally good. Amoxycillin appeared to be as effective as erythromycin in achieving microbiological cure (odds ratio 0.54, 95% confidence interval 0.28 to 1.02). Amoxycillin was better tolerated than erythromycin (odds ratio 0.16, 95% confidence interval 0.09 to 0.30). Clindamycin and azithromycin also appear to be effective, although the numbers of women included in trials are small. 
+Authors' conclusions
+Amoxycillin appears to be an acceptable alternative therapy for the treatment of genital chlamydial infections in pregnancy when compared with erythromycin. Clindamycin and azithromycin may be considered if erythromycin and amoxycillin are contra‐indicated or not tolerated. 
+[Note: The seven citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

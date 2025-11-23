@@ -1,0 +1,15 @@
+Background
+There is a variety of techniques for closing the abdominal wall during caesarean section. Some methods may be better in terms of postoperative recovery and other important outcomes. 
+Objectives
+To compare the effects of alternative techniques for closure of the rectus sheath and subcutaneous fat on maternal health and healthcare resource use. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group trials register (September 2003), MEDLINE (1966 to September 2003), EMBASE (1980 to September 2003), CINAHL (1983 to September 2003) and CAB Health (1973 to September 2003), and the reference lists of included articles. 
+Selection criteria
+Randomised trials making any of the following comparisons:  (a) any suturing technique or material used for closure of the rectus sheath versus any other;  (b) closure versus non‐closure of subcutaneous fat;  (c) any suturing technique or material used for closure of the subcutaneous fat versus any other;  (d) any type of needle for repair of the abdominal wall in caesarean section versus any other;  (e) any other comparison of methods of abdominal wall closure. 
+Data collection and analysis
+Both reviewers evaluated trials for eligibility and methodological quality without consideration of their results. 
+Main results
+Seven studies involving 2056 women were included. The risk of haematoma or seroma was reduced with fat closure compared with non‐closure (relative risk (RR) 0.52, 95% confidence interval (CI) 0.33 to 0.82), as was the risk of 'wound complication' (haematoma, seroma, wound infection or wound separation) (RR 0.68, 95% CI 0.52 to 0.88). No difference in the risk of wound infection alone or other short‐term outcomes was found. No long‐term outcomes were reported. There was no difference in the risk of wound infection between blunt needles and sharp needles in one small study. No studies were found examining suture techniques or materials for closure of the rectus sheath or subcutaneous fat. 
+Authors' conclusions
+Implications for practice   Closure of the subcutaneous fat may reduce wound complications but it is unclear to what extent these differences affect the well‐being and satisfaction of the women concerned. 
+Implications for research   Further trials are justified to investigate whether the apparent increased risk of haematoma or seroma with non‐closure of the subcutaneous fat is real. These should use a broader range of short‐ and long‐term outcomes, and ensure that they are adequately powered to detect clinically important differences. Further research comparing blunt and sharp needles is justified, as are trials evaluating suturing materials and suturing techniques for the rectus sheath. 

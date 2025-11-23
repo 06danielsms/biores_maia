@@ -1,0 +1,14 @@
+Background
+Researchers have criticised epilepsy care for adults for its lack of impact, stimulating the development of various service models and strategies to respond to perceived inadequacies. 
+Objectives
+To assess the effects of any specialised or dedicated intervention beyond that of usual care in adults with epilepsy. 
+Search methods
+For the latest update of this review, we searched the Cochrane Epilepsy Group Specialized Register (9 December 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 11), MEDLINE (1946 to June 2013), EMBASE (1988 to June 2013), PsycINFO (1887 to December 2013) and CINAHL (1937 to December 2013). In addition, we contacted experts in the field to seek information on unpublished and ongoing studies, checked the websites of epilepsy organisations and checked the reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials, controlled or matched trials, cohort studies or other prospective studies with a control group, and time series studies. 
+Data collection and analysis
+Two review authors independently selected studies, extracted all data, and assessed the quality of all included studies. 
+Main results
+Our review included 18 different studies of 16 separate interventions, which we classified into seven distinct groups. Most of the studies have methodological weaknesses, and many results from other analyses within studies need to be interpreted with caution because of study limitations. Consequently, there is currently limited evidence for the effectiveness of interventions to improve the health and quality of life in people with epilepsy. It was not possible to combine study results in a meta‐analysis because of the heterogeneity of outcomes, study populations, interventions and time scales across the studies. 
+Authors' conclusions
+Two intervention types, the specialist epilepsy nurse and self management education, have some evidence of benefit. However, we did not find clear evidence that other service models substantially improve outcomes for adults with epilepsy. It is also possible that benefits are situation specific and may not apply to other settings. These studies included only a small number of service providers whose individual competence or expertise may have had a significant impact on outcomes. At present it is not possible to advocate any single model of service provision. 

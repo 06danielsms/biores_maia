@@ -1,0 +1,14 @@
+Background
+Multiple sclerosis is a presumed cell‐mediated autoimmune disease of the central nervous system. Cyclophosphamide (CFX) is a cytotoxic and immunosuppressive agent, used in systemic autoimmune diseases. Controversial results have been reported on its efficacy in MS. We conducted a systematic review of all relevant trials, evaluating the efficacy of CFX in patients with progressive MS. 
+Objectives
+The main objective was to determine whether CFX slows the progression of MS.
+Search methods
+We searched the Cochrane MS Group Trials Register (June 2006), Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2006), MEDLINE (PubMed)(January 1966 to June 2006), EMBASE (January 1988 to June 2006) and reference lists of articles. We also contacted researchers in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the clinical effect of CFX treatment in patients affected by clinically definite progressive MS.  CFX had to be administered alone or in combination with adrenocorticotropic hormone (ACTH) or steroids. The comparison group had to be placebo or no treatment or the same co‐intervention (ACTH or steroids) 
+Data collection and analysis
+Two reviewers independently decided the eligibility of the study, assessed the trial quality and extracted data. We also contacted study authors for original data. 
+Main results
+Of the 461 identified references, we initially selected 70: only four RCTs were included for the final analysis. Intensive immunosuppression with CFX (alone or associated with ACTH or prednisone) in patients with progressive MS compared to placebo or no treatment (152 participants) did not prevent the long‐term (12, 18, 24 months) clinical disability progression as defined as evolution to a next step of Expanded Disability Status Scale (EDSS) score. However, the mean change in disability (final disability subtracted from the baseline) significantly favoured the treated group at 12 (effect size ‐ 0.21, 95% confidence interval ‐ 0.25 to ‐0.17) and 18 months (‐ 0.19, 95% confidence interval ‐ 0.24 to ‐ 0.14) but favoured the control group at 24 months (0.14, CI 0.07 to 0.21). We were unable to verify the efficacy of other schedules. Five patients died; sepsis and amenorrhea frequently occurred in treated patients (descriptive analysis). 
+Authors' conclusions
+We were unable to achieve all of the objectives specified for the review. This review shows that the overall effect of CFX (administered as intensive schedule) in the treatment of progressive MS does not support its use in clinical practice. 

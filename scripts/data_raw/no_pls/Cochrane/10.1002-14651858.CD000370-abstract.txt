@@ -1,0 +1,14 @@
+Background
+A previous meta‐analysis of interferon therapy in naive patients with chronic hepatitis C has documented its efficacy in achieving virologic clearance, and improving liver biochemistry and histology; however, since its publication additional trials have been reported. 
+Objectives
+To evaluate the response to interferon in interferon naive patients with chronic hepatitis C. The effect of treatment dose and duration, and the response in patients with cirrhosis and those with normal aminotransferases was also investigated. 
+Search methods
+The Cochrane Controlled Trials Register (Cochrane Library Issue 1, 1999), MEDLINE (January 1966 to December 1999), and reference lists were searched, and pharmaceutical companies were contacted for unpublished trials. 
+Selection criteria
+Randomised clinical trials comparing interferon with placebo, no treatment, or different regimens of interferon were selected. Abstracts were excluded. 
+Data collection and analysis
+The primary outcome measure was sustained disappearance of serum HCV RNA (virologic sustained response (SR)). Biochemical and end of treatment responses, liver histology, and adverse events were also recorded. Assessment of drug efficacy used the methods of Peto and Der Simonian and Laird. 
+Main results
+Fifty‐four trials enrolling 6545 patients were included. Compared with no treatment, interferon 3 MU thrice weekly for 12 months increased the probability of a virologic SR (Peto odds ratio (OR) 4.60; 95% confidence interval (CI) 1.53 to 13.85). At this dosage and duration of therapy, the rate of virologic SR was 17% (95% CI 10 to 28%) in interferon‐treated patients versus 3% (95% CI 1 to 10%) in controls. A dose of 6 MU was more effective than 3 MU thrice weekly (OR for 12 months treatment, 2.21; 95% CI 1.10 to 4.45), as were durations of 12 months or greater versus six months (OR 1.87; 95% CI 1.30 to 2.67). Liver biochemistry responses were alike. Adverse events were more common with higher doses and prolonged durations of treatment. Compared with no therapy, interferon increased the probability of histologic improvement (OR 9.22; 95% CI 5.69 to 14.94). The response to interferon in cirrhotic patients (virologic SR, 17%; 95% CI 11 to 26%) was similar to that in non‐cirrhotic patients. However, interferon was no more effective than control in patients with normal aminotransferases. 
+Authors' conclusions
+Interferon is effective in achieving viral clearance and improving liver biochemistry and histology in interferon naive patients with chronic hepatitis C. Higher doses and prolonged durations are more effective, but associated with more frequent adverse events. Interferon is associated with similar benefits in patients with cirrhosis, but the efficacy in patients with normal aminotransferases is unproven. 

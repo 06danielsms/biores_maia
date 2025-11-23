@@ -1,0 +1,16 @@
+Background
+Many studies investigating covert bacteriuria in children were conducted in the 1970s, but uncertainty remains about whether treatment is beneficial, because results are mixed in terms of treatment effectiveness. It is important to establish the effectiveness of antibiotics and other treatments to eliminate infection, reduce recurrence, and prevent long‐term kidney damage. It is essential that treatment benefit to individual children outweigh any harm. 
+Objectives
+This review aims to evaluate the benefits and harms of treating covert bacteriuria in children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL in The Cochrane Library), MEDLINE (from 1966) and EMBASE (from 1988) without language restriction. 
+Date of last search: 28 December 2011
+Selection criteria
+We included randomised and quasi‐randomised controlled trials that investigated any intervention for covert bacteriuria in children aged up to 18 years with culture‐proven urinary tract infection (UTI) and no known urinary symptoms at the time of diagnosis. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random‐effects model and the results were expressed as risk ratios (RR) with 95% confidence intervals (95% CI) for dichotomous outcomes and mean difference (MD) for continuous outcomes. 
+Main results
+This review included three randomised controlled trials (RCTs) that involved 460 children (all girls). Overall, the studies were not methodologically strong. Gaps in reporting among the included studies made assessment of methodological quality challenging. One study reported that the number of children with bacteriuria was significantly reduced at follow‐up six months after antibiotic treatment (RR 0.33; 95% CI 0.13 to 0.83). At follow‐up two years after treatment, two studies reported that there was no evidence of a reduction in persistent bacteriuria (RR 0.32; 95% CI 0.03 to 3.44). At follow‐up four to five years after initial treatment, all included studies reported that antibiotic treatment was effective in reducing the number of children with bacteriuria (RR 0.54; 95% CI 0.42 to 0.70). There were no differences in kidney growth between treated and untreated groups (MD 0.62; 95% CI ‐0.43 to 1.68). 
+None of the included studies reported data on compliance or adverse effects.
+Authors' conclusions
+The included studies do not provide sufficient detail about the harms and benefits of treating covert bacteriuria to enable formation of reliable conclusions. It appears that antibiotic treatment for covert bacteriuria is unlikely to benefit children in the long term. 

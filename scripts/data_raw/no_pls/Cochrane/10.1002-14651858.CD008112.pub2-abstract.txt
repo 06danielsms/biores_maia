@@ -1,0 +1,14 @@
+Background
+Many therapies exist for the treatment of low‐back pain including spinal manipulative therapy (SMT), which is a worldwide, extensively practiced intervention. 
+Objectives
+To assess the effects of SMT for chronic low‐back pain.
+Search methods
+An updated search was conducted by an experienced librarian to June 2009 for randomised controlled trials (RCTs) in CENTRAL (The Cochrane Library 2009, issue 2), MEDLINE, EMBASE, CINAHL, PEDro, and the Index to Chiropractic Literature.   
+Selection criteria
+RCTs which examined the effectiveness of spinal manipulation or mobilisation in adults with chronic low‐back pain were included. No restrictions were placed on the setting or type of pain; studies which exclusively examined sciatica were excluded. The primary outcomes were pain, functional status and perceived recovery. Secondary outcomes were return‐to‐work and quality of life. 
+Data collection and analysis
+Two review authors independently conducted the study selection, risk of bias assessment and data extraction. GRADE was used to assess the quality of the evidence. Sensitivity analyses and investigation of heterogeneity were performed, where possible, for the meta‐analyses. 
+Main results
+We included 26 RCTs (total participants = 6070), nine of which had a low risk of bias. Approximately two‐thirds of the included studies (N = 18) were not evaluated in the previous review. In general, there is high quality evidence that SMT has a small, statistically significant but not clinically relevant, short‐term effect on pain relief (MD: ‐4.16, 95% CI ‐6.97 to ‐1.36) and functional status (SMD: ‐0.22, 95% CI ‐0.36 to ‐0.07) compared to other interventions. Sensitivity analyses confirmed the robustness of these findings. There is varying quality of evidence (ranging from low to high) that SMT has a statistically significant short‐term effect on pain relief and functional status when added to another intervention. There is very low quality evidence that SMT is not statistically significantly more effective than inert interventions or sham SMT for short‐term pain relief or functional status. Data were particularly sparse for recovery, return‐to‐work, quality of life, and costs of care. No serious complications were observed with SMT. 
+Authors' conclusions
+High quality evidence suggests that there is no clinically relevant difference between SMT and other interventions for reducing pain and improving function in patients with chronic low‐back pain. Determining cost‐effectiveness of care has high priority. Further research is likely to have an important impact on our confidence in the estimate of effect in relation to inert interventions and sham SMT, and data related to recovery. 

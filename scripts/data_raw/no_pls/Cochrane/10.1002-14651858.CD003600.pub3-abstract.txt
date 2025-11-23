@@ -1,0 +1,14 @@
+Background
+Injury in the home is common, accounting for approximately a third of all injuries. The majority of injuries to children under five and people aged 75 and older occur at home. Multifactorial injury prevention interventions have been shown to reduce injuries in the home. However, few studies have focused specifically on the impact of physical adaptations to the home environment and the effectiveness of such interventions needs to be ascertained. 
+Objectives
+To determine the effect of modifications to the home environment on the reduction of injuries due to environmental hazards. 
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE and other specialised databases. We also scanned conference proceedings and reference lists. We contacted the first author of all included randomised controlled trials. The searches were last updated to the end of December 2009, and were not restricted by language or publication status. 
+Selection criteria
+Randomised controlled trials.
+Data collection and analysis
+Two authors screened all abstracts for relevance, outcome and design. Two authors independently assessed methodological quality and extracted data from each eligible study. We performed meta‐analysis to combine effect measures, using a random‐effects model. We assessed heterogeneity using an I2 statistic and a Chi2 test. 
+Main results
+We found 28 published studies and one unpublished study. Only two studies were sufficiently similar to allow pooling of data for statistical analyses. Studies were divided into three groups; children, older people and the general population/mixed age group. None of the studies focusing on children or older people demonstrated a reduction in injuries that were a direct result of environmental modification in the home. One study in older people demonstrated a reduction in falls and one a reduction in falls and injurious falls that may have been due to hazard reduction. One meta‐analysis was performed which examined the effects on falls of multifactorial interventions consisting of home hazard assessment and modification, medication review, health and bone assessment and exercise (RR 1.09, 95% CI 0.97 to 1.23). 
+Authors' conclusions
+There is insufficient evidence to determine whether interventions focused on modifying environmental home hazards reduce injuries. Further interventions to reduce hazards in the home should be evaluated by adequately designed randomised controlled trials measuring injury outcomes. Recruitment of large study samples to measure effect must be a major consideration for future trials. Researchers should also consider using factorial designs to allow the evaluation of individual components of multifactorial interventions. 

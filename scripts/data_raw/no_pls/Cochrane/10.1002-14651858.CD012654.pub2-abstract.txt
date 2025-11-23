@@ -1,0 +1,23 @@
+Background
+Dietary supplements with ginseng, or ginseng alone, are widely used for a broad range of conditions, including erectile dysfunction. Ginseng is particularly popular in Asian countries. Individual studies assessing its effects are mostly small, of uneven methodological quality and have unclear results. 
+Objectives
+To assess the effects of ginseng on erectile dysfunction.
+Search methods
+We conducted systematic searches on multiple electronic databases, including CENTRAL, MEDLINE, Embase, CINAHL, AMED, and loco‐regional databases of east Asia, from their inceptions to 30 January 2021 without restrictions on language and publication status. Handsearches included conference proceedings. 
+Selection criteria
+We included randomized or quasi‐randomized controlled trials that evaluated the use of any type of ginseng as a treatment for erectile dysfunction compared to placebo or conventional treatment. 
+Data collection and analysis
+Two authors independently classified studies and three authors independently extracted data and assessed risk of bias in the included studies. We rated the certainty of evidence according to the GRADE approach. 
+Main results
+We included nine studies with 587 men with mild to moderate erectile dysfunction, aged from 20 to 70 years old. The studies all compared ginseng to placebo. We found only short‐term follow‐up data (up to 12 weeks).  
+Primary outcomes 
+Ginseng appears to have a trivial effect on erectile dysfunction when compared to placebo based on the Erectile Function Domain of the International Index of Erectile Function (IIEF)‐15 instrument (scale: 1 to 30, higher scores imply better function; mean difference [MD] 3.52, 95% confidence interval [CI] 1.79 to 5.25; I² = 0%; 3 studies; low certainty evidence) assuming a minimal clinically important difference (MCID) of 4.  
+Ginseng probably also has a trivial effect on erectile function when compared to placebo based on the IIEF‐5 instrument (scale: 1 to 25, higher scores imply better function; MD 2.39, 95% CI 0.89 to 3.88; I² = 0%; 3 studies; moderate certainty evidence) assuming a MCID of 5. 
+Ginseng may have little to no effect on adverse events compared to placebo (risk ratio [RR] 1.45, 95% CI 0.69 to 3.03; I² = 0%; 7 studies; low certainty evidence). Based on 86 adverse events per 1000 men in the placebo group, this would correspond to 39 more adverse events per 1000 (95% CI 27 fewer to 174 more). 
+Secondary outcomes 
+Ginseng may improve men's self‐reported ability to have intercourse (RR 2.55, 95% CI 1.76 to 3.69; I² = 23%; 6 studies; low certainty evidence). Based on 207 per 1000 men self‐reporting the ability to have intercourse in the placebo group, this would correspond to 321 more men (95% CI 158 more to 558 more) per 1000 self‐reporting the ability to have intercourse. 
+Ginseng may have a trivial effect on men's satisfaction with intercourse based on the Intercourse Satisfaction Domain of the IIEF‐15 (scale: 0 to 15, higher scores imply greater satisfaction; MD 1.19, 95% CI 0.41 to 1.97; I²=0%; 3 studies; low certainty evidence) based on a MCID of 25% improvement from baseline. It may also have a trivial effect on men's satisfaction with intercourse based on item 5 of the IIEF‐5 (scale: 0 to 5, higher scores imply more satisfaction; MD 0.60, 95% CI 0.02 to 1.18; 1 study; low certainty evidence) based on a MCID of 25% improvement from baseline. 
+No study reported quality of life as an outcome.
+We found no trial evidence to inform comparisons to other treatments for erectile dysfunction, such as phosphodiesterase‐5 inhibitors. We were unable to conduct any predefined subgroup analyses. 
+Authors' conclusions
+Based on mostly low certainty evidence, ginseng may only have trivial effects on erectile function or satisfaction with intercourse compared to placebo when assessed using validated instruments. Ginseng may improve men's self‐reported ability to have intercourse. It may have little to no effect on adverse events. We found no trial evidence comparing ginseng to other agents with a more established role in treating erectile dysfunction, such as phosphodiesterase‐5 inhibitors. 

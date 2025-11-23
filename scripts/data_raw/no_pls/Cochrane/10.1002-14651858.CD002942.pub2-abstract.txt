@@ -1,0 +1,14 @@
+Background
+The pain of mammography is recognised as a significant deterrent for women considering this examination, and may affect participation in breast screening. 
+Objectives
+To review interventions to reduce or relieve the pain and discomfort of screening mammography. 
+Search methods
+For this update, the Cochrane Breast Cancer Group Specialised Register was searched on the 18th May 2006. Other databases searched were MEDLINE (1966 to November 2006), CINAHL (1982 to December 2006), EMBASE (1988 to 2006) and reference lists of articles. We also searched Current Controlled Trials (www.controlled‐trials.com, accessed September 2007) and the UK National Research Register (www.update‐software.com/national/, accessed September 2007) for ongoing and completed research projects. Researchers in the field were also contacted. 
+Selection criteria
+Randomised controlled trials and quasi‐randomised trials with a comparison group were considered. Studies had to include assessment of pain or discomfort and, if the intervention could have impacted on the quality of the mammograms, an assessment of image quality was also required. 
+Data collection and analysis
+Two authors (DM and VL) reviewed identified studies to determine whether they met the inclusion criteria. Each study was reviewed for quality, including concealment and generation of allocation sequence, comparability between groups at baseline, inclusion of all randomised participants in analysis and blinding after allocation. Data extraction was performed by these two authors. 
+Main results
+Seven RCTs, involving 1671 women were identified for inclusion. The review found that giving women information about the procedure prior to the mammogram may reduce pain and discomfort. Increasing women's control over breast compression could reduce pain experienced during the procedure, though mammogram image quality was only maintained if the technologist controlled the first compression. If the technologist reduced compression force of the mammogram, discomfort experienced was unchanged. The use of breast cushions reduced pain of mammography; however, image quality was impaired in 2% of women in the intervention group. Acetoaminophen as a premedication did not affect discomfort of mammography. Differences in interventions, and inconsistency in measures, validation of pain scales, and in assessment of mammogram quality, mean that results of these studies cannot be combined. All results are based on single studies. Further research is required. 
+Authors' conclusions
+Currently there are very few proven interventions to reduce pain and discomfort of screening mammography, especially procedures that can be readily introduced to screening programmes. With mammography continuing as the preferred method for breast screening, more research on such interventions is needed. 

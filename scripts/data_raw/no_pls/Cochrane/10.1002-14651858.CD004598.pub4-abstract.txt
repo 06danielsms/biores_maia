@@ -1,0 +1,20 @@
+Background
+This review is an update of a previously published review in the Cochrane Database of Systematic Reviews, 2005, Issue 4 (and last updated in the Cochrane Database of Systematic Reviews, 2013 issue 8), on local anaesthetic blockade (LASB) of the sympathetic chain to treat people with complex regional pain syndrome (CRPS). 
+Objectives
+To assess the efficacy of LASB for the treatment of pain in CRPS and to evaluate the incidence of adverse effects of the procedure. 
+Search methods
+For this update we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2015, Issue 9), MEDLINE (Ovid), EMBASE (Ovid), LILACS (Birme), conference abstracts of the World Congresses of the International Association for the Study of Pain, and various clinical trial registers up to September 2015. We also searched bibliographies from retrieved articles for additional studies. 
+Selection criteria
+We considered randomised controlled trials (RCTs) that evaluated the effect of sympathetic blockade with local anaesthetics in children or adults with CRPS compared to placebo, no treatment, or alternative treatments. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. The outcomes of interest were reduction in pain intensity, the proportion who achieved moderate or substantial pain relief, the duration of pain relief, and the presence of adverse effects in each treatment arm. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation) and created a 'Summary of findings' table. 
+Main results
+We included an additional four studies (N = 154) in this update. For this update, we excluded studies that did not follow up patients for more than 48 hours. As a result, we excluded four studies from the previous review in this update. Overall we included 12 studies (N = 461), all of which we judged to be at high or unclear risk of bias. Overall, the quality of evidence was low to very low, downgraded due to limitations, inconsistency, imprecision, indirectness, or a combination of these. 
+Two small studies compared LASB to placebo/sham (N = 32). They did not demonstrate significant short‐term benefit for LASB for pain intensity (moderate quality evidence). 
+One small study (N = 36) at high risk of bias compared thoracic sympathetic block with corticosteroid and local anaesthetic versus injection of the same agents into the subcutaneous space, reporting statistically significant and clinically important differences in pain intensity at one‐year follow‐up but not at short term follow‐up (very low quality evidence). 
+Of two studies that investigated LASB as an addition to rehabilitation treatment, the only study that reported pain outcomes demonstrated no additional benefit from LASB (very low quality evidence). 
+Eight small randomised studies compared sympathetic blockade to various other active interventions. Most studies found no difference in pain outcomes between sympathetic block versus other active treatments (low to very low quality evidence). 
+One small study compared ultrasound‐guided LASB with non‐guided LASB and found no clinically important difference in pain outcomes (very low quality evidence). 
+Six studies reported adverse events, all with minor effects reported.
+Authors' conclusions
+This update's results are similar to the previous versions of this systematic review, and the main conclusions are unchanged. There remains a scarcity of published evidence and a lack of high quality evidence to support or refute the use of local anaesthetic sympathetic blockade for CRPS. From the existing evidence, it is not possible to draw firm conclusions regarding the efficacy or safety of this intervention, but the limited data available do not suggest that LASB is effective for reducing pain in CRPS. 

@@ -1,0 +1,26 @@
+Background
+People admitted to intensive care units and those with chronic health care problems often require long‐term vascular access. Central venous access devices (CVADs) are used for administering intravenous medications and blood sampling. CVADs are covered with a dressing and secured with an adhesive or adhesive tape to protect them from infection and reduce movement. Dressings are changed when they become soiled with blood or start to come away from the skin. Repeated removal and application of dressings can cause damage to the skin. The skin is an important barrier that protects the body against infection. Less frequent dressing changes may reduce skin damage, but it is unclear whether this practice affects the frequency of catheter‐related infections. 
+Objectives
+To assess the effect of the frequency of CVAD dressing changes on the incidence of catheter‐related infections and other outcomes including pain and skin damage. 
+Search methods
+In June 2015 we searched: The Cochrane Wounds Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We also searched clinical trials registries for registered trials. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+All randomised controlled trials (RCTs) evaluating the effect of the frequency of CVAD dressing changes on the incidence of catheter‐related infections on all patients in any healthcare setting. 
+Data collection and analysis
+We used standard Cochrane review methodology. Two review authors independently assessed studies for inclusion, performed risk of bias assessment and data extraction. We undertook meta‐analysis where appropriate or otherwise synthesised data descriptively when heterogeneous. 
+Main results
+We included five RCTs (2277 participants) that compared different frequencies of CVAD dressing changes. The studies were all conducted in Europe and published between 1995 and 2009. Participants were recruited from the intensive care and cancer care departments of one children's and four adult hospitals. The studies used a variety of transparent dressings and compared a longer interval between dressing changes (5 to15 days; intervention) with a shorter interval between changes (2 to 5 days; control). In each study participants were followed up until the CVAD was removed or until discharge from ICU or hospital. 
+Confirmed catheter‐related bloodstream infection (CRBSI) 
+One trial randomised 995 people receiving central venous catheters to a longer or shorter interval between dressing changes and measured CRBSI. It is unclear whether there is a difference in the risk of CRBSI between people having long or short intervals between dressing changes (RR 1.42, 95% confidence interval (CI) 0.40 to 4.98) (low quality evidence). 
+Suspected catheter‐related bloodstream infection 
+Two trials randomised a total of 151 participants to longer or shorter dressing intervals and measured suspected CRBSI. It is unclear whether there is a difference in the risk of suspected CRBSI between people having long or short intervals between dressing changes (RR 0.70, 95% CI 0.23 to 2.10) (low quality evidence). 
+All cause mortality 
+Three trials randomised a total of 896 participants to longer or shorter dressing intervals and measured all cause mortality. It is unclear whether there is a difference in the risk of death from any cause between people having long or short intervals between dressing changes (RR 1.06, 95% CI 0.90 to 1.25) (low quality evidence). 
+Catheter‐site infection 
+Two trials randomised a total of 371 participants to longer or shorter dressing intervals and measured catheter‐site infection. It is unclear whether there is a difference in risk of catheter‐site infection between people having long or short intervals between dressing changes (RR 1.07, 95% CI 0.71 to 1.63) (low quality evidence). 
+Skin damage 
+One small trial (112 children) and three trials (1475 adults) measured skin damage. There was very low quality evidence for the effect of long intervals between dressing changes on skin damage compared with short intervals (children: RR of scoring ≥ 2 on the skin damage scale 0.33, 95% CI 0.16 to 0.68; data for adults not pooled). 
+Pain 
+Two studies involving 193 participants measured pain. It is unclear if there is a difference between long and short interval dressing changes on pain during dressing removal (RR 0.80, 95% CI 0.46 to 1.38) (low quality evidence). 
+Authors' conclusions
+The best available evidence is currently inconclusive regarding whether longer intervals between CVAD dressing changes are associated with more or less catheter‐related infection, mortality or pain than shorter intervals. 

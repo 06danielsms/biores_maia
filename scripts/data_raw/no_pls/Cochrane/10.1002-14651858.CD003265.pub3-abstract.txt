@@ -1,0 +1,16 @@
+Background
+Methenamine salts are often used as an alternative to antibiotics for the prevention of urinary tract infection (UTI). This review was first published in Issue 1, 2002 and updated in Issue 4, 2007. 
+Objectives
+To assess the benefits and harms of methenamine hippurate in preventing UTI.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL in The Cochrane Library), MEDLINE (from 1950), EMBASE (from 1980), reference lists of articles and abstracts from conference proceedings without language restriction. Manufacturers' of methenamine salts were contacted for unpublished studies and contact was made with known investigators. 
+Date of last search: June 2012
+Selection criteria
+Randomised controlled trials (RCT) and quasi‐RCTs of methenamine hippurate used for the prevention of UTIs in all population groups were eligible. A comparison with a control/no treatment group was a prerequisite for selection. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random effects model and the results expressed as risk ratio (RR) for dichotomous outcomes with 95% confidence intervals (CI). An exploration of heterogeneity and a detailed description of results, grouped by population, was undertaken. 
+Main results
+Thirteen studies (2032 participants) were included. Six studies (654 patients) reported symptomatic UTI and eight studies (796 patients) reported bacteriuria. Overall, study quality was mixed. The overall pooled estimates for the major outcome measures were not interpretable because of underlying heterogeneity. Subgroup analyses suggested that methenamine hippurate may have some benefit in patients without renal tract abnormalities (symptomatic UTI: RR 0.24, 95% CI 0.07 to 0.89; bacteriuria: RR 0.56, 95% CI 0.37 to 0.83), but not in patients with known renal tract abnormalities (symptomatic UTI: RR 1.54, 95% CI 0.38 to 6.20; bacteriuria: RR 1.29, 95% CI 0.54 to 3.07). For short‐term treatment duration (1 week or less) there was a significant reduction in symptomatic UTI in those without renal tract abnormalities (RR 0.14, 95% CI 0.05 to 0.38). The rate of adverse events was low. 
+Authors' conclusions
+Methenamine hippurate may be effective for preventing UTI in patients without renal tract abnormalities, particularly when used for short‐term prophylaxis. It does not appear to work in patients with neuropathic bladder or in patients who have renal tract abnormalities. The rate of adverse events was low, but poorly described. 
+There is a need for further large well‐conducted RCTs to clarify this question, particularly for longer term use for people without neuropathic bladder. 

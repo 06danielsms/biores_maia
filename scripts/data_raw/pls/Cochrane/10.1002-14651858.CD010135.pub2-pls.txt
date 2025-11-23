@@ -1,0 +1,17 @@
+Entropy or EEG‐based depth of anaesthesia monitoring for adults and children undergoing general anaesthesia 
+Review question 
+We wanted to assess if giving anaesthetic medicines according to the values shown in the entropy monitor would help in avoiding overdosing or underdosing of patients with these drugs. 
+Background 
+General anaesthesia is a reversible state of unconsciousness produced by administering anaesthetic medicines that enable patients to undergo surgery without pain or recollection of intraoperative events. Electroencephalography (EEG) is a method whereby sensors attached on the scalp are used to pick up and record electrical activity of the brain. The entropy monitor measures the irregularity of the processed EEG signals and displays it as a numerical value, denoting level of anaesthesia. 
+Too little anaesthesia can cause the patient to awaken during surgery, feel pain, hear conversations and realize that they are paralysed. Recollection of these experiences after awakening can lead to severe mental distress, anxiety and inability to function normally. Excessive anaesthesia can lead to delayed awakening and increased anaesthetic costs, as well as contribute to an increase in incidence of death within 24 hours, or up to a year after surgery. 
+An entropy monitor, by displaying values indicating adequate level of anaesthesia, can guide anaesthetic medicine administration, without increasing chances of awakening during surgery. Further, it can facilitate faster awakening at the end of surgery, reduce costs and decrease chances of death. 
+Study characteristics 
+We included studies that compared entropy monitoring to the standard practice of administering anaesthetic drugs according to changes in heart rate, blood pressure, tearing, sweating or movement in response to surgery. The evidence is current to September 2014. We included adults and children aged two to 16 years. The participants underwent all types of surgery, except brain surgery, under general anaesthesia. We reran the search in January 2016. We identified one potential new study of interest; we will incorporate it into the formal review findings during the review update. 
+Key results 
+We found 11 studies, with a total of 962 participants.
+Six studies (383 participants) found minimally shorter time to awakening in the entropy group. No study reported on death occurring in the first 24 hours after surgery or within 30 days to a year after surgery. 
+Eight studies (797 participants) evaluated recollection of intraoperative events (awareness). Adverse events were rare and no benefit was evident. 
+All 11 studies compared anaesthetic medicine use: six compared propofol (given in the vein) and five evaluated anaesthetic gas (sevoflurane or isoflurane). Limited studies were analysed because of differences in methodology and units of measurement. Analysis of three studies (166 participants) found reduced propofol use, and two studies (156 participants) found lower sevoflurane use in the entropy group. 
+No study reported on cost of general anaesthesia. Three studies found shorter length of stay in the postanaesthesia care unit (PACU) in the entropy group. 
+Quality of evidence 
+The evidence for assessing reduction in time to awakening, recall of intraoperative events and amount of inhalation of anaesthetic agents used is of moderate quality. The quality of evidence as regards intravenous anaesthetic agent used and length of stay in the PACU is of low quality. 

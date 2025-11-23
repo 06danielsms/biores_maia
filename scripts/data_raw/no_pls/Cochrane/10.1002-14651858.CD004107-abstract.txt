@@ -1,0 +1,14 @@
+Background
+Asthma education and self‐management are key recommendations of asthma management guidelines because they improve health outcomes. There are several different modalities for the delivery of asthma self‐management education. 
+Objectives
+We evaluated programmes that:  (1) Optimised asthma control through inhaled corticosteroid use by regular medical review or optimised asthma control by individualised written action plans;  (2) Used written self‐management plans based on peak expiratory flow self‐monitoring compared with symptom self‐monitoring;  (3) Compared different options for the delivery of optimal self‐management programmes. 
+Search methods
+We searched the Cochrane Airways Group trials register and reference lists of articles.
+Selection criteria
+Randomised trials of asthma self‐management education interventions in adults over 16 years of age with asthma. 
+Data collection and analysis
+Fifteen trials met the inclusion criteria. Trial quality was assessed and data were extracted independently by two reviewers. Study authors were contacted for confirmation. 
+Main results
+Six studies compared optimal self‐management allowing self‐adjustment of medications according to an individualised written action plan to adjustment of medications by a doctor. These two styles of asthma management gave equivalent effects for hospitalisation, emergency room (ER) visits, unscheduled doctor visits and nocturnal asthma. Self‐management using a written action plan based on peak expiratory flow (PEF) was found to be equivalent to self‐management using a symptoms based written action plan in the six studies which compared these interventions. Three studies compared self‐management options. In one, that provided optimal therapy but tested the omission of regular review, the latter was associated with more health centre visits and sickness days. In another, comparing high and low intensity education, the latter was associated with more unscheduled doctor visits. In a third, no difference in health care utilisation or lung function was reported between verbal instruction and written action plans. 
+Authors' conclusions
+Optimal self‐management allowing for optimisation of asthma control by adjustment of medications may be conducted by either self‐adjustment with the aid of a written action plan or by regular medical review. Individualised written action plans based on PEF are equivalent to action plans based on symptoms. Reducing the intensity of self‐management education or level of clinical review may reduce its effectiveness. 

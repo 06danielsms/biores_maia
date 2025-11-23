@@ -1,0 +1,14 @@
+Background
+Necrotizing enterocolitis (NEC) is the most common emergency involving the gastrointestinal tract occurring in the neonatal period. There have been published reports that suggest that oral immunoglobulins (Ig)A and IgG produce an immunoprotective effect in the gastrointestinal mucosa. 
+Objectives
+To determine the effect of oral immunoglobulin on the incidence of necrotizing enterocolitis and other complications in preterm or low birth weight (or both) neonates. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Group. We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2016, Issue 1), PubMed (1966 to January 2016), CINAHL (1982 to January 2016) and EMBASE (1980 to January 2016) and conference proceedings. 
+Selection criteria
+All randomized or quasi‐randomised controlled trials where oral immunoglobulins were used as prophylaxis against NEC in preterm (less than 37 weeks' gestation) or low birth weight (less than 2500 gram), or both, neonates. 
+Data collection and analysis
+We performed data collection and analysis in accordance with the standard methods of the Cochrane Neonatal Review Group. 
+Main results
+The search identified five studies on oral immunoglobulin for the prevention of NEC of which three met the inclusion criteria. In this review of the three eligible trials (including 2095 neonates), the oral administration of IgG or an IgG/IgA combination did not result in a significant reduction in the incidence of definite NEC (typical risk ratio (RR) 0.84, 95% confidence interval (CI) 0.57 to 1.25; typical risk difference (RD) ‐0.01, 95% CI ‐0.03 to 0.01; 3 studies, 1840 infants), suspected NEC (RR 0.84, 95% CI 0.49 to 1.46; RD ‐0.01, 95% CI ‐0.02 to 0.01; 1 study, 1529 infants), need for surgery (typical RR 0.21, 95% CI 0.02 to 1.75; typical RD ‐0.03, 95% CI ‐0.06 to 0.00; 2 studies, 311 infants) or death from NEC (typical RR 1.10, 95% CI 0.47 to 2.59; typical RD 0.00, 95% CI ‐0.01 to 0.01; 3 studies, 1840 infants). 
+Authors' conclusions
+Based on the available trials, the evidence does not support the administration of oral immunoglobulin for the prevention of NEC. There are no randomized controlled trials of oral IgA alone for the prevention of NEC. 

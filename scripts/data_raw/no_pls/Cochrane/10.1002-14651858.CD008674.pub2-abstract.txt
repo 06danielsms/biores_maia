@@ -1,0 +1,14 @@
+Background
+Breast cancer is the most prevalent cancer in women and has a lifetime incidence of one in nine in the UK. Curative treatment requires surgery, and may involve adjuvant and neo‐adjuvant therapy. In many women, post‐mastectomy breast reconstruction is essential to restore body image and improve quality of life. Timing of reconstruction may be immediate or delayed following mastectomy. Outcomes such as psychosocial morbidity, aesthetics and complications rates may differ between the two approaches. 
+Objectives
+To assess the effects of immediate versus delayed reconstruction following surgery for breast cancer. 
+Search methods
+We searched the Cochrane Breast Cancer Group's Specialised Register on 22 July 2010, MEDLINE from July 2008 to 26 August 2010, EMBASE from 2008 to 26 August 2010 and the WHO International Clinical Trials Registry Platform (ICTRP) on 26 August 2010. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing immediate breast reconstruction versus delayed or no reconstruction in women of any age and stage of breast cancer. We considered any recognised methods of reconstruction to one or both breasts undertaken at the same time as mastectomy or at any time following mastectomy. 
+Data collection and analysis
+Two review authors independently screened papers, extracted trial details and assessed the risk of bias in the one eligible study. 
+Main results
+We included only one RCT that involved 64 women. We judged this study as being at high risk of bias. Post‐operative morbidity and mortality were not addressed, and secondary outcomes of patient cosmetic evaluations and psychosocial well‐being post‐reconstruction were inadequately reported. Based on limited data there was some, albeit unreliable, evidence that immediate reconstruction compared with delayed or no reconstruction, reduced psychiatric morbidity reported three months post‐operatively. 
+Authors' conclusions
+The current level of evidence for the effectiveness of immediate versus delayed reconstruction following surgery for breast cancer was based on a single RCT with methodological flaws and a high risk of bias, which does not allow confident decision‐making about choice between these surgical options. Until high quality evidence is available, clinicians may wish to consider the recommendations of relevant guidelines and protocols. Although the limitations and ethical constraints of conducting RCTs in this field are recognised, adequately powered controlled trials with a focus on clinical and psychological outcomes are still required. Given the paucity of RCTs in this subject, in future versions of this review we will look at study designs other than RCTs specifically good quality cohort and case‐control studies. 

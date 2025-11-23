@@ -1,0 +1,14 @@
+Background
+Probiotics are live microorganisms consisting of non‐pathogenic yeast and bacteria that are believed to restore the microbial balance of the gastrointestinal tract altered by infection with Clostridium difficile (C. difficile). 
+Objectives
+To assess the efficacy of probiotics in the treatment of antibiotic associated C. difficile colitis. 
+Search methods
+The databases MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials and Cochrane IBD/FBD Specialized Trials register were searched to locate all published reports from 1966 to 2007. 
+Selection criteria
+Randomized, prospective studies using probiotics alone or in conjunction with conventional antibiotics for the treatment of documented C. difficile colitis were eligible for inclusion. 
+Data collection and analysis
+Data extraction and analysis was done independently by two authors.
+Main results
+Four studies met the inclusion criteria and were included in the review. The four studies examined the use of probiotics in conjunction with conventional antibiotics (vancomycin or metronidazole) for the treatment of recurrence or an initial episode of C. difficile colitis in adults. The studies were small in size and had methodological problems. A statistically significant benefit for probiotics combined with antibiotics was found in one study. McFarland 1994 found that patients receiving S. boulardii were significantly less likely than patients receiving placebo to experience recurrence of C. difficile diarrhea (RR 0.59; 95% CI 0.35 to 0.98). No benefit of probiotics treatment was found in the other studies. 
+Authors' conclusions
+There is insufficient evidence to recommend probiotic therapy as an adjunct to antibiotic therapy for C. difficile colitis. There is no evidence to support the use of probiotics alone in the treatment of C. difficile colitis. 

@@ -1,0 +1,20 @@
+Background
+Oxcarbazepine, a keto derivative of the ‘mood stabiliser’ carbamazepine, may have efficacy in the treatment of acute episodes of bipolar disorder. Potentially, it may offer pharmacokinetic advantages over carbamazepine. 
+Objectives
+To review the efficacy and acceptability of oxcarbazepine compared to placebo and other agents in the treatment of acute bipolar episodes including mania, mixed episodes and depression. 
+Search methods
+Electronic databases were searched up to 2 September 2011. Specialist journals and conference proceedings were handsearched. Authors, experts in the field and pharmaceutical companies were contacted requesting information on published and unpublished trials. 
+Selection criteria
+Randomised controlled trials (RCTs) which compared oxcarbazepine with placebo or alternative agents, where the stated intent of intervention was the acute treatment of bipolar affective disorder were sought. Participants with bipolar disorder of either sex and of all ages were included. 
+Data collection and analysis
+Data were extracted from the original reports individually by two review authors. For dichotomous data, odds ratios (ORs) were calculated with 95% confidence intervals (CI). Continuous data were analysed using standardised mean differences (with 95% CI). 
+Main results
+Seven studies were included in the analysis (368 participants in total). All were on mania, hypomania, mixed episodes or rapid‐cycling disorder. Overall, their methodological quality was relatively low. 
+There was no difference in the primary outcome analysis – a fall of  50% or more on the Young Mania Rating Scale (YMRS) ‐ between oxcarbazepine and placebo (N=1, n=110, OR =2.10, 95% CI 0.94 to 4.73) in one study, conducted in children; no studies were available in adult participants. 
+In comparison with other mood stabilisers, there was no difference between oxcarbazepine and valproate as an antimanic agent using the primary outcome (50% or more fall in YMRS, OR=0.44, 95% CI 0.10 to 1.97, 1 study, n=60, P=0.273) or the secondary outcome measure (differences in YMRS between the two groups, SMD=0.18, 95% CI ‐0.24 to 0.59, 2 studies, n=90, P=0.40). No primary or secondary efficacy outcome measures were found comparing oxcarbazepine with lithium monotherapy. 
+As an adjunctive treatment to lithium, oxcarbazepine reduced depression rating scale scores more than carbamazepine in a group of manic participants on the Montgomery‐Åsberg Depression Rating Scale (MADRS) (SMD=‐ 1.12, 95% CI ‐1.71 to ‐0.53, 1 study, n=52, P=0.0002) and on the Hamilton Depression Rating Scale (HDRS) (SMD=‐ 0.77, 95% CI ‐1.35 to ‐0.20, 1 study, n=52, P=0.008). 
+There was a higher incidence of adverse effects, particularly neuropsychiatric, in participants randomised to oxcarbazepine compared to those on placebo (1 study, n=115, 17% to 39% of participants on oxcarbazepine had at least one such event compared to 7% to 10% on placebo).There was no difference in adverse events rates between oxcarbazepine and other mood stabilisers or haloperidol. 
+Authors' conclusions
+Currently, there are insufficient trials of adequate methodological quality on oxcarbazepine in the acute treatment of bipolar disorder to inform us on its efficacy and acceptability. Studies predominantly examine the treatment of mania: there are data from subgroup analysis on mixed affective, hypomania and rapid‐cycling states. 
+From the few studies included in this review, oxcarbazepine did not differ in efficacy compared to placebo in children and adolescents. It did not differ from other active agents in adults. It may have a poorer tolerability profile compared to placebo. No data were found on outcomes relevant to patients and clinicians, such as length of hospital admission.   
+There is a need for adequately powered randomised controlled trials of good methodological quality to inform us of the therapeutic potential of oxcarbazepine across the spectrum of acute episodes in bipolar disorder. 

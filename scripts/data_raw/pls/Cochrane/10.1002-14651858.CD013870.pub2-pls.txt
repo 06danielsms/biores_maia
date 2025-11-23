@@ -1,0 +1,39 @@
+What are the benefits and risks of light therapy for treating atopic eczema (also known as eczema or atopic dermatitis)? 
+Key messages 
+Narrowband (NB) ultraviolet B (UVB), compared to placebo (a sham treatment), may improve eczema severity (including itch) and may not affect the number of people leaving a study because of unwanted effects. 
+We were unable to confidently draw conclusions for other phototherapy (light therapy) treatments. 
+Future research needs to assess longer term effectiveness and safety of NB‐UVB and other forms of phototherapy for eczema. 
+What is eczema? 
+Eczema is a condition that results in dry, itchy patches of inflamed skin. Eczema typically starts in childhood, but can improve with age. Eczema is caused by a combination of genetics and environmental factors, which lead to skin barrier dysfunction. Eczema can negatively impact quality of life, and the societal cost is significant. 
+How is eczema treated? 
+Eczema treatments are often creams or ointments that reduce itch and redness, applied directly to the skin. If these are unsuccessful, systemic medicines that affect the whole body, or phototherapy are options. Phototherapy can be UVB, ultraviolet A (UVA), or photochemotherapy (PUVA), where phototherapy is given alongside substances that increase sensitivity to UV light. 
+What did we want to find out? 
+We wanted to find out whether phototherapy was better than no treatment or other types of treatment for treating eczema, and whether it caused unwanted effects. 
+What did we do? 
+We searched for studies that investigated phototherapy compared with no treatment, placebo, other forms of phototherapy, or another type of eczema treatment. Studies could include people of all ages, who had eczema diagnosed by a healthcare professional. 
+We compared and summarised the results of the studies, and rated our confidence in the evidence. 
+What did we find? 
+We found 32 studies, involving 1219 people with eczema (average age: 28 years), who were recruited from dermatology clinics. Most studies assessed people with skin type II to III (which is classed as white to medium skin colour), and moderate to severe eczema, with which they had lived for many years. Studies included similar numbers of males and females. 
+The studies were conducted in Europe, Asia, and Egypt (setting was not reported by seven studies), and lasted, on average, for 13 weeks. Almost half of the studies reported their source of funding; two were linked to commercial sponsors. 
+Our included studies mostly assessed NB‐UVB, followed by UVA1, then broadband ultraviolet B; fewer studies investigated other types of phototherapy. The studies compared these treatments to placebo, or no treatment, another type of phototherapy, different doses of the same sort of phototherapy, or other eczema treatments applied to the skin or taken by tablet. 
+None of the studies investigated excimer lamp (a source of UV radiation) or heliotherapy (the use of natural sunlight), that were other light therapies in which we were interested. 
+What are the main results of our review? 
+When compared to placebo, NB‐UVB may:
+‐ improve signs of eczema assessed by a healthcare professional (1 study, 41 people);
+‐ increase the number of people reporting less severe itching (1 study, 41 people);
+‐ increase the number of people reporting moderate or greater improvement of eczema, measured by the Investigator Global Assessment scale (IGA), a 5‐point scale that measures improvement in eczema symptoms (1 study, 40 people); and 
+‐ have no effect on the rate of people withdrawing from treatment due to unwanted effects (3 studies, 89 people). 
+None of the studies assessing NB‐UVB against placebo measured health‐related quality of life. 
+We do not know if NB‐UVB (compared with UVA1 or PUVA) or UVA1 (compared with PUVA) has an effect on the following: 
+‐ signs of eczema assessed by a healthcare professional;
+‐ patient‐reported eczema symptoms;
+‐ IGA;
+‐ health‐related quality of life; and
+‐ withdrawals due to unwanted effects.
+This is because either we are not confident in the evidence, or they were not reported.
+We did not identify any studies that investigated UVA1 or PUVA compared with no treatment.
+Some studies reported that phototherapy caused some unwanted effects, including skin reactions or irritation, UV burn, worsening of eczema, and skin infections. However, these did not occur in most people. 
+What are the limitations of the evidence? 
+Our confidence in the evidence is limited, mainly because only a few studies could be included in each comparison, and the studies generally involved only small numbers of people. 
+How up to date is this evidence? 
+The evidence is up to date to January 2021.

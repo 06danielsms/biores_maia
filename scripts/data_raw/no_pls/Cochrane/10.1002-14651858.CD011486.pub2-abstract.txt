@@ -1,0 +1,16 @@
+Background
+There have been enormous advances in the screening, diagnosis, intervention and overall prognosis of abdominal aortic aneurysms (AAAs) in the last decade, but despite these, ruptured AAAs (rAAAs) still cause around 3500 to 6000 deaths in England and Wales each year. Open repair remains standard treatment for rAAA in most centres but increasingly endovascular aneurysm repair (EVAR) is being adopted. This has a 30‐day postoperative mortality of 40%. This has remained static despite surgical, anaesthetic and critical care advances. 
+One significant change to current practice for elective repairs of AAAs, as opposed to emergency repairs of rAAAs, has been the introduction of intravenous heparin. This provides a protective effect against cardiac and thrombotic disease in the postoperative period. This practice has not gained widespread acceptance for emergency repairs of rAAA even though a reduction in mortality and morbidity has been demonstrated in elective repairs. 
+Objectives
+The primary objective was to assess the effect of intravenous heparin on all‐cause mortality in ruptured abdominal aortic aneurysm (rAAA) management in people undergoing an emergency repair. 
+The secondary objectives were to assess the effect of intravenous heparin in rAAA management on the incidence of general arterial disease, for example, cardiovascular, cerebral, pulmonary and renal pathologies, in people undergoing emergency repair. 
+Search methods
+The Cochrane Vascular Information Specialist (CIS) searched the Specialised Register (December 2015). In addition the CIS searched CENTRAL;2015, Issue 11). The CIS searched clinical trials registries for details of ongoing or unpublished studies. 
+Selection criteria
+We sought all published and unpublished randomised controlled trials (RCTs) and controlled clinical trials (CCTs) of intravenous heparin in rAAA repairs (including parallel designs). 
+Data collection and analysis
+Two review authors independently assessed studies identified for potential inclusion in the review. We used standard methodological procedures in accordance with the Cochrane Handbook for Systematic Review of Interventions. 
+Main results
+We identified no RCTs or CCTs that satisfied the inclusion criteria.
+Authors' conclusions
+We identified no RCTs or CCTs of intravenous heparin in rAAA repairs (including parallel designs). Therefore, we were unable to assess the effect of intravenous heparin on all‐cause mortality and incidence of general arterial disease, for example, cardiovascular, cerebral, pulmonary and renal pathologies in rAAA management in people undergoing an emergency repair. It is clear that an RCT is needed to address this question in rAAA management as there is no high quality evidence. 

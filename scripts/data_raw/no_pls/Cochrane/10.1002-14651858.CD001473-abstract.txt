@@ -1,0 +1,14 @@
+Background
+A token economy is a behavioural therapy technique in which the desired change is achieved by means of tokens administered for the performance of predefined behaviours according to a program. Though token economy programmes were widespread in the 1970s they became largely restricted to wards where long‐stay patients from institutions are prepared for transfer into the community and were particularly aimed at changing negative symptoms of schizophrenia ‐ poor motivation, poor attention and social withdrawal. 
+Objectives
+To review the effects of token economies for people with schizophrenia, or other serious or chronic mental illnesses, compared with standard care. 
+Search methods
+Electronic searches of Biological Abstracts (1985‐1999), CINAHL (1982‐1998), The Cochrane Library (Issue 1, 1999), The Cochrane Schizophrenia Group's Register of Trials (February 1999), EMBASE (1980‐1999) and PsycLIT (1987‐1998) were supplemented with reference searches, personal contact with trial authors and hand searches. 
+Selection criteria
+Randomised studies comparing a token economy regime (one in which change is achieved by means of use of non‐monetary, non‐consumable tokens) to standard care for those with schizophrenia or any other similar chronic or serious mental illness. 
+Data collection and analysis
+Studies were reliably selected, quality rated and data extracted. For dichotomous data relative risk (RR) with 95% confidence intervals (CI) was estimated. Where possible, the number needed to treat statistic (NNT) was also calculated. Analysis was by intention‐to‐treat. Normal continuous data were summated using the weighted mean difference (WMD). Scale data were presented only for those tools that had attained pre‐specified levels of quality. 
+Main results
+Only three randomised controlled trials could be included in the analyses (total n=110). There were no usable data on target or non‐target behaviour. One small study favoured the token economy approach for the outcome 'change in mental state' on the SANS‐CV with improvement in negative symptoms at three months (n=40, WMD ‐12.7, CI ‐21.44 to ‐3.96). 
+Authors' conclusions
+The token economy approach may have effects on negative symptoms but it is unclear if these results are reproducible, clinically meaningful and are maintained beyond the treatment programme. Token economy remains worthy of careful evaluation in well designed, conducted and reported randomised trials. 

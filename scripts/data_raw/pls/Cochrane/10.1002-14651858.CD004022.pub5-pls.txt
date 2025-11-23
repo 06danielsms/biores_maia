@@ -1,0 +1,15 @@
+The effect of a low salt diet on blood pressure and some hormones and lipids in people with normal and elevated blood pressure 
+Review question 
+In this 4th Cochrane update since 2003, studies in which participants were distributed by chance into groups with high and low salt intake were analysed to investigate the effect of reduced salt intake on blood pressure (BP) and potential side effects of salt reduction on some hormones and lipids. 
+Background 
+As a reduction in salt intake decreases blood pressure (BP) in individuals with elevated BP, we are commonly advised to cut down on salt, assuming that this will reduce mortality. However, the effect of salt reduction on BP in people with normal BP has been questioned. Furthermore, several studies have shown that salt reduction activates the salt conserving hormonal system (renin and aldosterone), the stress hormones (adrenalin and noradrenalin) and increases fatty substances (cholesterol and triglyceride) in the blood. Finally, recent observations in general populations indicate that a low salt intake is associated with increased mortality 
+Search date 
+The present evidence is current to April 2018.
+Study characteristics 
+One hundred and ninety‐five intervention studies of 12296 individuals lasting three to 1100 days were included, which evaluated at least one of the effect measures. Participants were healthy or had elevated blood pressure. Longitudinal studies have shown that the effect of reduced salt intake on BP is stable after at maximum seven days and population studies have shown that very few people eat more than 14.5 g salt per day. Therefore, we also performed subgroup analyses of 131 studies with a duration of at least seven days and a salt intake of maximum 14.5 g. 
+Study funding sources 
+Only six studies were supported by food industry organisations.
+Key results 
+The mean salt intake was reduced from 11.5 g per day to 3.8 g per day. The reduction in SBP/DBP in people with normal blood pressure was 1.1/0 mmHg (about 0.3%) , and in people with hypertension 5.7/2.9 mmHg (about 3%). In contrast, the effect on hormones and lipids were similar in people with normotension and hypertension. Renin increased 55%; aldosterone increased 127%; adrenalin increased 14%; noradrenalin increased 27%; cholesterol increased 2.9%; and triglyceride increased 6.3%. 
+Quality of evidence 
+Only randomised controlled trials were included and the grade of evidence was therefore considered to be high, although downgraded in some of the smaller analyses. 

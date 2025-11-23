@@ -1,0 +1,14 @@
+Background
+A variety of antifungal drugs, drug preparations and drug combinations are available to treat newborn infants with suspected or confirmed invasive fungal infection. There is a need to assess their relative merits. 
+Objectives
+To assess the effect of treatment with different antifungal drugs, drug preparations or drug combinations on mortality and morbidity in newborn infants with suspected or confirmed invasive fungal infection. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2012, Issue 2), MEDLINE, EMBASE, CINAHL (to March 2012), conference proceedings and previous reviews. 
+Selection criteria
+Randomised and quasi‐randomised control trials comparing one antifungal agent or combination of agents with another in newborn infants with suspected or confirmed invasive fungal infection. 
+Data collection and analysis
+We extracted the data using the standard methods of the Cochrane Neonatal Review Group, with separate evaluation of trial quality and data extraction by each author, and synthesis of data using risk ratio and risk difference. 
+Main results
+We identified only one small trial in which 24 newborn infants participated. This trial compared the use of fluconazole versus amphotericin B (plus 5‐fluorocytosine if fungal meningitis present). The trial did not detect a statistically significant effect on mortality (risk ratio 0.73; 95% confidence interval 0.26 to 2.05). 
+Authors' conclusions
+There are insufficient data to inform practice. Large randomised controlled trials are required to compare antifungal drugs, drug preparations or drug combinations for treating newborn infants with invasive fungal infection. 

@@ -1,0 +1,16 @@
+Postoperative radiotherapy for non‐small cell lung cancer
+Review question 
+Do patients with non‐small cell lung cancer live longer if they are given radiotherapy after surgery? 
+Background 
+Non‐small cell lung cancer is the most common type of lung cancer. If the tumour is early stage, is not too big and has not spread to other parts of the body, doctors usually operate to remove it. Radiotherapy (treatment with x‐rays) is sometimes given after the operation, aiming to kill any remaining cancer cells. 
+In 1998, we did a systematic review and meta‐analysis of individual participant data looking at trials of this treatment ‐ postoperative radiotherapy (PORT). This review brought together information from all patients who took part in similar trials. These trials compared what happened to people with non‐small cell lung cancer who were given radiotherapy after surgery and those who had surgery without radiotherapy. Results were first published in The Lancet in 1998.  Since this review was completed, many trials have been done. To ensure that available evidence is as up‐to‐date as possible, we carried out a new systematic review and meta‐analysis of individual participant data that included all trials, old and new. As for the 1998 review, this review aimed to find out if giving radiotherapy after surgery (1) helps patients live longer, (2) stops cancer from coming back (recurrence) and (3) stops cancer from spreading to other parts of the body (metastases). 
+These updated results were first published in Lung Cancer in 2013. 
+Study characteristics 
+We searched for relevant trials up to 8 July 2016. These studies brought together available trial data from all over the world, with 11 trials and 2343 patients. Trials were carried out between 1966 and 1998. 
+Key results 
+Results showed that fewer people given PORT treatment lived for two years after the operation (53 out of every 100 patients) than those not given PORT after the operation (58 out of every 100 patients). Researchers reported no difference in effects of PORT by types of patients included in trials. 
+Researchers did not routinely collect quality of life information during the trials, and it was unlikely that any benefit of PORT would offset the observed survival disadvantage. 
+Radiotherapy given after successful removal of tumour at operation is not beneficial for patients with non‐small cell lung cancer and should not be used as routine treatment; however, further research into new types of radiotherapy for patients at higher risk of recurrence is ongoing. 
+Quality of evidence 
+These systematic reviews and meta‐analyses use individual participant data, which are considered the gold standard for this type of review. We included all eligible trials, if possible, no matter what language they were published in, or whether or not they were published. This meta‐analysis included 88% of all participants in eligible trials. 
+Studies were well designed and conducted and addressed the review question, with consistent effects noted across trials. The impact of any data not included in our analyses is small. 

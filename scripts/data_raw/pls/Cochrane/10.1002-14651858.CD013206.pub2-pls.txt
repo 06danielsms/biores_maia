@@ -1,0 +1,22 @@
+Which oral or injected medicines work best to treat moderate to severe eczema?
+Why this question is important 
+Eczema is a persistent condition that causes dry, cracked, and itchy skin. People with mild eczema have small patches of dry skin, and people with moderate eczema have larger, redder, or swollen areas of skin. People with severe eczema have red crusts and broken skin (which may ooze fluid) that develop all over the body. 
+Although there is currently no cure for eczema, treatments that aim to relieve symptoms are available. Usually, the first treatment option is to apply creams, ointments, or liquids to the affected skin. If this does not work, it is possible to take oral or injected (systemic) medicines that work throughout the body. 
+Many systemic medicines are available for eczema. To help people decide which one is most appropriate for managing their symptoms, we reviewed the evidence on benefits and risks of different systemic medicines for people with moderate or severe eczema. We particularly wanted to find out: 
+• whether some medicines were more likely than others to have an important positive effect on symptoms (defined as either at least a 75% improvement on the Eczema Area and Severity Index (EASI), or improvement on the Patient‐Oriented Eczema Measure (POEM)—two scales that are used by clinicians to evaluate changes in eczema symptoms); and 
+• whether some medicines are associated with more serious unwanted events, including infection, than others. 
+How we identified and assessed the evidence 
+First, we searched the medical literature for randomised controlled studies (studies where people are randomly divided into different treatment groups) because these studies provide the most robust evidence about the effects of a treatment. We then compared study results and summarised the evidence from all studies. Finally, we assessed how certain the evidence was. To do this, we considered factors such as the way studies were conducted, the size of studies, and the consistency of findings across studies. Based on our assessments, we categorised the evidence as being of very low, low, moderate, or high certainty. 
+What we found 
+We found 74 studies that involved a total of 8177 people with moderate to severe eczema. Studies lasted between 2 weeks and 60 months. Treatments received varied from a single, one‐off dose to weekly doses for 60 months. These studies evaluated 29 different medicines by comparing them to a placebo (fake treatment) or to another medicine, or by comparing different doses of the same medicine. The medicine that was studied most frequently was dupilumab (12 studies), a laboratory‐made version of a protein, which blocks parts of the immune system involved in causing eczema. 
+Dupilumab versus placebo 
+High‐certainty evidence shows that, compared to a placebo or other laboratory‐made proteins, dupilumab improves the symptoms of people with moderate to severe eczema in the short term (within 16 weeks of treatment). It is unclear whether this improvement is sustained after 16 weeks because no studies have looked at changes in POEM scores beyond that time, and because the evidence from studies that measured EASI scores was of very low certainty. Dupilumab may be associated with fewer serious unwanted events than placebo (low‐certainty evidence). 
+Other systemic medicines versus placebo 
+Evidence on the benefits and risks of other systemic medicines compared to placebo is limited because no studies have measured their effects on symptom improvement or serious unwanted effects, or because the certainty of the evidence is low or very low. 
+Comparing different systemic medicines with one another 
+Reviewers found too few studies that compared different systemic medicines against one another to determine which worked best for people with moderate to severe eczema. 
+What this means 
+Evidence shows that, compared to placebo, dupilumab improves the symptoms of people with moderate to severe eczema within 16 weeks of treatment and may be associated with fewer serious unwanted events. 
+Reviewers found too few robust studies to conclude whether dupilumab improves symptoms beyond 16 weeks, or whether this medicine works better than older systemic medicines. Future studies need to compare different systemic treatments beyond 16 weeks in people with moderate to severe eczema. 
+How up‐to‐date is this review? 
+The evidence in this Cochrane Review is current to August 2019.

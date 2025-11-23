@@ -1,0 +1,14 @@
+Background
+The use of central venous catheters is recognised as a risk factor for nosocomial infection. Prophylactic antibiotics may be effective in preventing catheter‐related blood stream infection in newborns but may also have the undesirable effect of promoting the emergence of resistant strains of micro‐organisms. 
+Objectives
+To determine the effect of prophylactic antibiotics on mortality and morbidity in neonates with central venous catheters. 
+Search methods
+Searches were done of the Cochrane Neonatal Review Group Specialised Register, MEDLINE from 1950 to April 2007, CINAHL from 1982 to April 2007, and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2 2007). Previous reviews (including cross references) were also searched. 
+Selection criteria
+Randomised controlled trials or quasi‐randomised controlled trials of adequate quality in which either individual newborn infants or clusters of infants were randomised to receive prophylactic antibiotics (not including antifungals) versus placebo or no treatment. Infants must have had central venous catheters, been full term infants less than 28 days old or preterm infants up to 44 weeks (postmenstrual) corrected age. 
+Data collection and analysis
+Criteria and methods used to assess the methodological quality of the trials: standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. The review authors extracted data independently. Attempts were made to contact study investigators for additional information as required. 
+Main results
+Three small studies have been included in this review. Prophylactic antibiotics in neonates with central venous catheters had no effect on overall mortality (typical RR 0.68, 95% confidence interval 0.31, 1.51). Prophylactic antibiotics in neonates with central venous catheters decreased the rate of proven bacterial sepsis (typical RR 0.38, 95% confidence interval 0.18, 0.82). Prophylactic antibiotics in neonates with central venous catheters decreased the rate of suspected or proven bacterial septicaemia (typical RR 0.40, 95% confidence interval 0.20, 0.78). No resistant organisms colonising infants were identified in any of the studies. No pooled data were available for other important outcome measures such as chronic lung disease or neurodevelopmental outcome. 
+Authors' conclusions
+Prophylactic systemic antibiotics in neonates with a central venous catheter reduces the rate of proven or suspected septicaemia. However, this may not be clinically important in the face of no significant difference in overall mortality and the lack of data on long‐term neurodevelopmental outcome. Furthermore, there is a lack of data pertaining to the potentially significant disadvantages of this approach such as the selection of resistant organisms. The routine use of prophylactic antibiotics in infants with central venous catheters in neonatal units cannot currently be recommended. 

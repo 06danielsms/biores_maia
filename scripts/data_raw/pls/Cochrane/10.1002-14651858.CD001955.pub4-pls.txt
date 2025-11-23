@@ -1,0 +1,16 @@
+Glucocorticoids for croup in children
+Review question 
+We assessed the effectiveness of glucocorticoids for croup in children to determine if they reduced croup symptoms; minimised return visits to care; shortened length of stay; reduced the need for additional treatments; or had side effects. 
+Background 
+Croup causes the throat and windpipe to swell, resulting in hoarseness, a barking cough, and noisy breathing. Glucocorticoids can reduce swelling, making it easier to breathe. 
+This review was previously published in 1999 and updated in 2004 and 2011.
+Search date 
+We searched for articles published up to 3 April 2018.
+Study characteristics 
+We included 43 studies with 4565 children aged up to 18 years published from 1964 to 2013. The glucocorticoids investigated included beclomethasone, betamethasone, budesonide, dexamethasone, fluticasone, and prednisolone. Most studies (26, 60%) compared any glucocorticoid to placebo. Of these, 15 (58%) tested dexamethasone compared to placebo. Three studies compared 0.6 mg/kg to 0.15 mg/kg dosages of dexamethasone, a common clinical question. Half of the studies (22, 51%) described outpatients who presented to emergency departments or outpatient clinics, and 18 (42%) took place in North America, eight (19%) in Europe, seven (16%) in Asia, and 10 (23%) in Australia. Twenty‐six (60%) studies compared glucocorticoids to fake treatment (placebo); four (10%) compared glucocorticoids to epinephrine; 11 (26%) compared one glucocorticoid to another; three (7%) compared one glucocorticoid to a combination of glucocorticoids; five (12%) compared glucocorticoids given in different ways; and four (9%) compared glucocorticoids given in different amounts. 
+Study funding sources 
+Funding sources included government (12%), academic or research institute (7%), industry (19%), or foundations (7%). More than half of studies (56%) did not report funding sources. 
+Key results 
+Glucocorticoids improved croup symptoms at two hours (moderate‐certainty evidence), and the effect lasted at least 24 hours (low‐certainty evidence). Glucocorticoids reduced rates of return visits, admissions, and readmissions (moderate‐certainty evidence). When treated with placebo, 204 of every 1000 children will return for medical care. When treated with glucocorticoids, 74 to 153 of every 1000 children will return for medical care. Glucocorticoids reduced length of stay by 15 hours (range 6 to 24 hours), but made no difference in need for additional treatments. Of studies that compared glucocorticoids to placebo, 50% collected data on side effects. Four studies reported rare occurrences of secondary infections (e.g. pneumonia, ear infection). Most other side effects were not severe (e.g. emotional distress, hyperactivity, vomiting). We are not certain which type, amount, and administration mode (oral, inhaled, injected) of glucocorticoids is best for reducing symptoms of croup in children. 
+Quality of the evidence 
+Most studies (98%) had methods problems, reporting issues, or both.

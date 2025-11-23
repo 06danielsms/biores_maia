@@ -1,0 +1,9 @@
+Self‐monitoring and self‐management of oral anticoagulation therapy
+Background 
+Point‐of‐care testing devices have made it possible for people on long‐term oral anticoagulation to monitor their blood clotting time, measured as the international normalized ratio (INR). Patients who self‐test can either adjust their medication dose according to a pre‐determined dose‐INR schedule (self‐management) or they can call a clinic to be told the appropriate dose adjustment (self‐monitoring). Several published studies and systematic reviews have suggested these methods of monitoring anticoagulation therapy may be equal to or better than standard monitoring by a physician. 
+Study characteristics 
+This is an update of the original review published in 2010. We performed a new search and found 10 new studies (with 4227 participants) to add to the original review, which changed some of the findings. 
+Main results 
+In total, we found 28 randomised trials including 8950 participants that compared self‐monitoring and self‐management with standard monitoring. The quality of the evidence was generally low to moderate. The combined results of the 28 trials showed a halving of thromboembolic events with self‐monitoring and self‐management and no reduction in the number of major bleeds. Self‐management had similar reductions in thromboembolic events and mortality to the overall benefit, with no effect on major bleeds. Self‐monitoring halved the number of major haemorrhages that occurred but did not significantly reduce the rates of thrombotic events or all‐cause mortality. 
+Conclusion 
+In conclusion, self‐monitoring or self‐management can improve the quality of oral anticoagulant therapy, leading to fewer thromboembolic events and lower mortality, without a reduction in the number of major bleeds. Self‐monitoring and self‐management are not feasible for all patients, which requires the identification and education of suitable patients. 

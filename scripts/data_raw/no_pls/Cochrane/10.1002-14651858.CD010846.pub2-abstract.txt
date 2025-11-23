@@ -1,0 +1,15 @@
+Background
+Creatine is an amino acid derivative and, when phosphorylated (phosphocreatine), is involved in replenishing adenosine triphosphate (ATP) via the creatine kinase reaction. Cells obtain creatine from a diet rich in fish, meat, or dairy and by endogenous synthesis from the amino acids arginine, glycine, and methionine in an approximate 50:50 ratio. Animal studies have shown that creatine may provide fetal neuroprotection when given to the mother through her diet in pregnancy. It is important to assess whether maternally administered creatine in human pregnancy (at times of known, suspected, or potential fetal compromise) may offer neuroprotection to the fetus and may accordingly reduce the risk of adverse neurodevelopmental outcomes, such as cerebral palsy and associated impairments and disabilities arising from fetal brain injury. 
+Objectives
+To assess the effects of creatine when used for neuroprotection of the fetus.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 November 2014). 
+Selection criteria
+We planned to include all published, unpublished, and ongoing randomised trials and quasi‐randomised trials. We planned to include studies reported as abstracts only as well as full‐text manuscripts. Trials using a cross‐over or cluster‐randomised design were not eligible for inclusion. 
+We planned to include trials comparing creatine given to women in pregnancy for fetal neuroprotection (regardless of the route, timing, dose, or duration of administration) with placebo, no treatment, or with an alternative agent aimed at providing fetal neuroprotection. We also planned to include comparisons of different regimens for administration of creatine. 
+Data collection and analysis
+We identified no completed or ongoing randomised controlled trials.
+Main results
+We found no randomised controlled trials for inclusion in this review.
+Authors' conclusions
+As we did not identify any randomised controlled trials for inclusion in this review, we are unable to comment on implications for practice. Although evidence from animal studies has supported a fetal neuroprotective role for creatine when administered to the mother during pregnancy, no trials assessing creatine in pregnant women for fetal neuroprotection have been published to date. If creatine is established as safe for the mother and her fetus, research efforts should first be directed towards randomised trials comparing creatine with either no intervention (ideally using a placebo), or with alternative agents aimed at providing fetal neuroprotection (including magnesium sulphate for the very preterm infant). If appropriate, these trials should then be followed by studies comparing different creatine regimens (dosage and duration of exposure). Such trials should be high quality and adequately powered to evaluate maternal and infant short and longer‐term outcomes (including neurodevelopmental disabilities such as cerebral palsy), and should consider utilisation/costs of health care. 

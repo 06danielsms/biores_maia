@@ -1,0 +1,14 @@
+Background
+Each year about one million people die and about 10 million are seriously injured on the world's roads. Educational measures to teach pedestrians how to cope with the traffic environment are considered to be an essential component of any prevention strategy, and pedestrian education has been recommended in many countries. However, as resources available for road safety are limited, a key question concerns the relative effectiveness of different prevention strategies. 
+Objectives
+To quantify the effectiveness of pedestrian safety education programmes in preventing pedestrian‐motor vehicle collisions. 
+Search methods
+We searched the Cochrane Injuries Group's Specialised Register, Cochrane Controlled Trials Register, TRANSPORT, MEDLINE, EMBASE, ERIC, PSYCHLIT, SPECTR, and the WHO database on the Internet. We checked reference lists of relevant reviews and papers and contacted experts in the field. Most database searching was conducted in 1999, and updated in May 2003. 
+Selection criteria
+Randomised controlled trials of safety education programmes for pedestrians of all ages. 
+Data collection and analysis
+One author screened records. Two authors independently extracted data and assessed methodological quality of trials. Because of differences in the types of interventions and outcome measures used in the trials, meta‐analyses were not carried out. 
+Main results
+We found 15 randomised‐controlled trials of pedestrian safety education programmes, conducted between 1976 and 1997. The methodological quality of the included trials was generally poor. Allocation concealment was adequate in three trials, outcome assessment was blinded in eight, and in most of the studies large numbers of participants were lost to follow up. Study participants were children in 14 studies and institutionalised adults in one. Eight studies involved direct education of participants, seven used parents as educators. No trials were conducted in a developing country and there were none of pedestrian safety training in the elderly. None of the trials assessed the effect of pedestrian safety education on the occurrence of pedestrian injury, but six assessed the effect on observed behaviour. Some trials showed evidence of behavioural change following pedestrian safety education but it is difficult to predict what effect this might have on pedestrian injury risk. 
+Authors' conclusions
+Pedestrian safety education can result in improvement in children's knowledge and can change observed road crossing behaviour, but whether this reduces the risk of pedestrian motor vehicle collision and injury occurrence is unknown. There is evidence that changes in safety knowledge and observed behaviour decline with time, suggesting that safety education must be repeated at regular intervals. 

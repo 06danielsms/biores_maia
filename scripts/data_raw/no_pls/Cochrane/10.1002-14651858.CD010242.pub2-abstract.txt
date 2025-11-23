@@ -1,0 +1,14 @@
+Background
+Multiple sclerosis (MS) is an immune‐mediated disease of the central nervous system and a leading cause of disability in young and middle‐aged adults. Mycophenolate mofetil (MMF) is an immunosuppressive agent that has been used for the prevention of allograft rejection after renal, cardiac, or liver transplant and in patients with autoimmune diseases such as active relapsing‐remitting (RRMS) and progressive MS. 
+Objectives
+To assess the efficacy and safety of MMF for preventing disease activity in patients with RRMS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis and Rare Diseases of the Central Nervous System Group Specialised Register (January 14, 2013). We searched three Chinese databases (January 2013) and checked reference lists of identified trials. We contacted authors and pharmaceutical companies to ask for additional information. We applied no language restrictions. 
+Selection criteria
+We included randomized controlled trials with a follow‐up of at least 12 months that compared MMF as monotherapy or in combination with other treatments versus placebo, another drug, or the same cointervention as the treated group. 
+Data collection and analysis
+Two review authors independently selected the trials for inclusion, assessed trial quality, and extracted data. 
+Main results
+One included study involving 26 participants with new‐onset RRMS investigated the efficacy and safety of MMF (13 participants) versus placebo in interferon β‐1a–treated participants. It was assessed to be at high risk of bias, and had a small numbers of participants receiving treatment with short‐term duration. There was inadequate information provided by the study to determine the effect of MMF in reducing relapses, preventing disability progression, or developing new T2‐ or new gadolinium (Gd)‐enhanced lesions on magnetic resonance imaging (MRI) after a 12‐month follow‐up period. No data were available at 24 months. No serious adverse effects were reported. All participants in the MMF‐treated group suffered from gastrointestinal upset, but none of them discontinued therapy as a result. 
+Authors' conclusions
+The evidence we found from one small study was insufficient to determine the effects of MMF as an add‐on therapy for interferon β‐1a in new‐onset RRMS participants. 

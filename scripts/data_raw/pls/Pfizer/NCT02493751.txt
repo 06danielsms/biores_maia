@@ -1,0 +1,43 @@
+The kidneys are organs in the body that help get rid of waste while also controlling 
+the amount of water in the body by producing urine. Renal cell carcinoma (RCC) is a 
+type of kidney cancer that starts in the small tubes of the kidney. It is the most 
+common kind of kidney cancer found in adults. Kidney cancer is called advanced 
+when it has grown or spread outside of the kidney. Treatment for advanced RCC 
+may include all or some of the following:
+- surgery to remove a part of the kidney or the whole kidney 
+- radiation therapy, in which beams of intense energy are used to kill cancer cells
+- treatment with chemical substances (chemotherapy) 
+- treatment that uses the body's own immune system to fight cancer. Substances 
+made by the body or in a laboratory are used to boost, direct, or restore the 
+body's own natural defense against cancer 
+(immunotherapy/biotherapy/biologic therapy) 
+Avelumab is approved in certain countries for the treatment of some cancers and is a 
+drug that stimulates the body's own defense system against cancer. Axitinib is 
+approved in certain countries for the treatment of advanced RCC for certain patients
+after one prior treatment. At the time of this study, avelumab in combination with 
+axitinib was not approved for treatment of patients with advanced RCC. Recently, 
+avelumab in combination with axitinib has been approved in some countries as 
+treatment for patients with advanced RCC.
+The purpose of this study was to find the highest dose level tested of avelumab and 
+axitinib taken together that is considered safe enough (less than 2 dose limiting 
+toxicities [DLTs] in 6 patients) to test in advanced RCC patients in further studies.  
+This is called the "maximum tolerated dose".
+Researchers wanted to know:
+- What is the maximum tolerated dose level of avelumab in combination 
+with axitinib?
+Dose Limiting Toxicities, DLTs, are certain medical problems caused by taking a 
+medicine or medicines which require the patient to lower the dose they are taking or 
+to stop taking the medicine (permanently or temporarily). DLTs can be many things, 
+and may include, for example, fever with a low count of white blood cells.
+The study evaluated a group of patients who did not receive any treatment for advanced RCC before joining this study, to find out what dose of avelumab was best to use in future clinical studies, when taken in combination with axitinib. Three different dose strength combinations of avelumab and axitinib were planned. The highest planned dose combination of avelumab and axitinib (DL1) was found to be an acceptable dose in this study, and therefore the other 2 combinations (DL-1A and DL-1B) were not explored. Avelumab was given into the vein through a small needle, and axitinib tablets were taken by mouth. The treatment groups for this “dose-finding phase” are shown below:
+- DL1: avelumab 10 milligrams (mg) for each kilogram (kg) of the patient’s body weight, every 2 weeks + axitinib 5 mg, 2 times a day
+- DL-1A: avelumab 5 mg for each kg of body weight, every 2 weeks + axitinib 5mg, 2 times a day (planned, but not investigated in this study)
+- DL-1B: avelumab 10 mg for each kg of body weight, every 2 weeks + axitinib 3mg, 2 times a day (planned, but not investigated in th is study)
+This was an “open-label” study, which means that the patients and the researchers knew which medicine the patients received.
+
+There were 2 parts in the study. The first part was the “dose-finding phase”. In this part of the study, the highest dose level, DL1, was tested to see if it is safe to use in further studies. The second part was the “dose expansion phase”. In this part of the study, the DL1 dose combination was given to patients to make sure that the right dose was chosen for future studies.
+To understand what happens to axitinib in the body, 16 patients received axitinib tablets alone for 7 days (this was known as the “lead in period”) prior to the combination (avelumab + axitinib).
+The Sponsor ran this study at 14 locations in the United Kingdom, the United States, and Japan. It began 15 October 2015 and is ongoing. 42 men and 13 women participated. 38 patients were younger than 65 years, and 17 patients were 65 years or older. At the time of data collection, patients were in the study for almost 3 years; the study was ongoing.
+
+Patients were to be treated in the dose-finding phase until DLT data from 6 patients on the highest dose of avelumab and axitinib were collected. This dose was then given in the “dose-expansion phase” of the study, to test the safety and effectiveness of the dose. Fifty-five patients received the study medications. At the time of data collection, 20 patients were still receiving the study medications: 31% (17 out of 55) of patients were still treated with both study medications, 2% (1 out of 55) of patients were still treated with avelumab alone, and 4% (2 out of 55) of patients were still being treated with axitinib alone. Thirty-five patients discontinued study medication. The main reason why patients discontinued study medication was because their advanced RCC worsened.
+When the data were collected in April 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

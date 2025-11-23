@@ -1,0 +1,58 @@
+Are laboratory‐made COVID‐19‐specific monoclonal antibodies effective to prevent COVID‐19 in adults? 
+Key messages 
+Pre‐exposure prophylaxis of COVID‐19: 
+– tixagevimab/cilgavimab probably reduces number of people infected with COVID‐19 and development of COVID‐19 symptoms, and may reduce number of people admitted to hospital; 
+– casirivimab/imdevimab may reduce number of people infected with COVID‐19 and development of COVID‐19 symptoms, and may increase number of unwanted effects (any severity) slightly. 
+Postexposure prophylaxis of COVID‐19:
+– bamlanivimab probably reduces number of people infected with COVID‐19;
+– casirivimab/imdevimab reduces number of people infected with COVID‐19 and development of COVID‐19 symptoms, and reduces number of unwanted effects (any severity). 
+What are 'monoclonal' antibodies? 
+The body makes antibodies to defend against disease. However, they may be produced in a laboratory from cells taken from people who have recovered from a disease. 
+Antibodies that target only one specific protein – in this case, a protein on the SARS‐CoV‐2 virus (that causes COVID‐19) – are 'monoclonal'. They attach to the virus and stop it from entering and replicating in human cells to prevent and fight infection. They are relevant for people who do not respond or respond poorly to vaccinations.  
+What did we want to find out? 
+We wanted to know if COVID‐19‐specific monoclonal antibodies are effective at preventing COVID‐19 in people exposed to the virus or are at high risk of being exposed to the virus. We looked at:  
+– confirmed COVID‐19 infections; 
+– development of COVID‐19 symptoms; 
+– death from any cause; 
+– hospital admission;
+– quality of life; 
+– unwanted effects, such as infections and cardiac disorders;
+– serious unwanted effects, such as life‐threatening, hospitalisation, disability, or death. 
+What did we do? 
+We searched for studies comparing monoclonal antibodies (e.g. bamlanivimab, tixagevimab/cilgavimab, and casirivimab/imdevimab) with placebo (sham treatment), another treatment, or no treatment to prevent COVID‐19 in people of any age, gender, or ethnicity. 
+We summarised data and rated our confidence in the evidence, based on factors such as study methods and size. 
+What did we find? 
+Four studies including 9749 people; two investigated people before being exposed to SARS‐CoV‐2 (pre‐exposure prophylaxis) and two investigated people who were in contact with an infected person (postexposure prophylaxis). Studies were conducted before the emergence of the Omicron variant and before or during widespread vaccine roll‐out. Participants were unvaccinated at baseline. 
+Pre‐exposure prophylaxis  
+One study (5197 people) compared tixagevimab/cilgavimab to placebo. Participants had been exposed to wild‐type, Alpha, Beta, and Delta variants.  
+Tixagevimab/cilgavimab:
+– reduces development of symptoms;
+– probably reduces number of people infected;
+– may reduce number of hospital admissions;
+– may have little or no effect on deaths from any cause, unwanted effects (any severity), and serious unwanted effect. 
+We found no data for quality of life, or mild and severe unwanted effects.
+One study (969 people) compared casirivimab/imdevimab to placebo. Participants may have been exposed to wild‐type, Alpha, and Delta variants.  
+Casirivimab/imdevimab:
+– may reduce number of people infected and development of symptoms;
+– resulted in no deaths;
+– may increase unwanted effects (any severity) slightly;
+– we are uncertain whether casirivimab/imdevimab may have an effect on severe and serious unwanted effects. 
+We found no data for number of people with COVID‐19 within 30 days, development of symptoms within 30 days, hospital admissions within 30 days, quality of life, and mild unwanted effects. 
+Postexposure prophylaxis (two studies)  
+One study (966 people) compared bamlanivimab to placebo. Participants may have been exposed to wild‐type variants. 
+Bamlanivimab:
+– probably reduces number of people infected;
+– may have little or no effect on deaths from any cause;
+– may increase unwanted effects (any severity) and serious unwanted effects slightly.
+We found no data for number of people who developed symptoms, hospital admissions, quality of life, mild, and severe unwanted effects. 
+One study (2617 people) compared casirivimab/imdevimab to placebo. Participants may have been exposed to wild‐type, Alpha, and potentially, but unlikely Delta variants. 
+Casirivimab/ imdevimab:
+– reduces number of people infected, development of symptoms, and unwanted effects (any severity); 
+– may slightly reduce severe unwanted effects;
+– may have little or no effect on deaths, hospital admissions, and serious unwanted effects. 
+We found no data for quality of life and mild unwanted effects.
+What are the limitations of the evidence?  
+One study reported each comparison. All participants were unvaccinated at the beginning of the studies, which were conducted prior to the occurrence of Omicron. Our confidence in the evidence is high to very low. Although we have high confidence in the evidence found for relevant outcomes, the findings are not transferable to vaccinated people and variants that occurred outside the study periods, such as Omicron. Although laboratory studies have shown that tixagevimab/cilgavimab is effective against Omicron, there are no data from clinical studies. The other monoclonal antibodies included in this review were ineffective against Omicron in laboratory studies. 
+Four ongoing studies are likely to change our conclusions and may help us understand how new variants and COVID‐19 vaccines affect the effectiveness of monoclonal antibodies in preventing COVID‐19. 
+How up to date is this evidence?  
+The evidence is up‐to‐date to 27 April 2022.

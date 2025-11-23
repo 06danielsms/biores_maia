@@ -1,0 +1,25 @@
+Background
+Plague is a severe disease associated with high mortality. Late diagnosis leads to advance stage of the disease with worse outcomes and higher risk of spread of the disease. A rapid diagnostic test (RDT) could help in establishing a prompt diagnosis of plague. This would improve patient care and help appropriate public health response. 
+Objectives
+To determine the diagnostic accuracy of the RDT based on the antigen F1 (F1RDT) for detecting plague in people with suspected disease. 
+Search methods
+We searched the CENTRAL, Embase, Science Citation Index, Google Scholar, the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov up to 15 May 2019, and PubMed (MEDLINE) up to 27 August 2019, regardless of language, publication status, or publication date. We handsearched the reference lists of relevant papers and contacted researchers working in the field. 
+Selection criteria
+We included cross‐sectional studies that assessed the accuracy of the F1RDT for diagnosing plague, where participants were tested with both the F1RDT and at least one reference standard. The reference standards were bacterial isolation by culture, polymerase chain reaction (PCR), and paired serology (this is a four‐fold difference in F1 antibody titres between two samples from acute and convalescent phases). 
+Data collection and analysis
+Two review authors independently selected studies and extracted data. We appraised the methodological quality of each selected studies and applicability by using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS‐2) tool. When meta‐analysis was appropriate, we used the bivariate model to obtain pooled estimates of sensitivity and specificity. We stratified all analyses by the reference standard used and presented disaggregated data for forms of plague. We assessed the certainty of the evidence using GRADE. 
+Main results
+We included eight manuscripts reporting seven studies. Studies were conducted in three countries in Africa among adults and children with any form of plague. All studies except one assessed the F1RDT produced at the Institut Pasteur of Madagascar (F1RDT‐IPM) and one study assessed a F1RDT produced by New Horizons (F1RDT‐NH), utilized by the US Centers for Disease Control and Prevention. We could not pool the findings from the F1RDT‐NH in meta‐analyses due to a lack of raw data and a threshold of the test for positivity different from the F1RDT‐IPM. 
+Risk of bias was high for participant selection (retrospective studies, recruitment of participants not consecutive or random, unclear exclusion criteria), low or unclear for index test (blinding of F1RDT interpretation unknown), low for reference standards, and high or unclear for flow and timing (time of sample transportation was longer than seven days, which can lead to decreased viability of the pathogen and overgrowth of contaminating bacteria, with subsequent false‐negative results and misclassification of the target condition). 
+F1RDT for diagnosing all forms of plague 
+F1RDT‐IPM pooled sensitivity against culture was 100% (95% confidence interval (CI) 82 to 100; 4 studies, 1692 participants; very low certainty evidence) and pooled specificity was 70.3% (95% CI 65 to 75; 4 studies, 2004 participants; very low‐certainty evidence). 
+The performance of F1RDT‐IPM against PCR was calculated from a single study in participants with bubonic plague (see below).There were limited data on the performance of F1RDT against paired serology. 
+F1RDT for diagnosing pneumonic plague 
+Performed in sputum, F1RDT‐IPM pooled sensitivity against culture was 100% (95% CI 0 to 100; 2 studies, 56 participants; very low‐certainty evidence) and pooled specificity was 71% (95% CI 59 to 80; 2 studies, 297 participants; very low‐certainty evidence). 
+There were limited data on the performance of F1RDT against PCR or against paired serology for diagnosing pneumonic plague. 
+F1RDT for diagnosing bubonic plague 
+Performed in bubo aspirate, F1RDT‐IPM pooled sensitivity against culture was 100% (95% CI not calculable; 2 studies, 1454 participants; low‐certainty evidence) and pooled specificity was 67% (95% CI 65 to 70; 2 studies, 1198 participants; very low‐certainty evidence). 
+Performed in bubo aspirate, F1RDT‐IPM pooled sensitivity against PCR for the caf1 gene was 95% (95% CI 89 to 99; 1 study, 88 participants; very low‐certainty evidence) and pooled specificity was 93% (95% CI 84 to 98; 1 study, 61 participants; very low‐certainty evidence). 
+There were no data providing data on both F1RDT and paired serology for diagnosing bubonic plague. 
+Authors' conclusions
+Against culture, the F1RDT appeared highly sensitive for diagnosing either pneumonic or bubonic plague, and can help detect plague in remote areas to assure management and enable a public health response. False positive results mean culture or PCR confirmation may be needed. F1RDT does not replace culture, which provides additional information on resistance to antibiotics and bacterial strains. 

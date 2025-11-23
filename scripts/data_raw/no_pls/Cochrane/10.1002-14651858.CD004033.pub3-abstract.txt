@@ -1,0 +1,14 @@
+Background
+Autopsy studies suggest that Wernicke‐Korsakoff syndrome (WKS) is not a rare disorder, particularly in individuals who abuse alcohol. Thiamine has been established as the treatment of choice for over 50 years, but uncertainty remains about appropriate dosage and duration. Current practice guidelines are based on case reports and clinical experience. This is an update of a review first published in 2004 and last updated in 2008. 
+Objectives
+ • To assess the efficacy of thiamine in preventing and treating the manifestations of WKS due to excess alcohol consumption. • To determine the optimum form, dose and duration of thiamine treatment for this indication. 
+Search methods
+ALOIS, the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 6 September 2012 using the term thiamine OR aneurine. ALOIS contains records from all major health care databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many trial databases and grey literature sources. 
+Selection criteria
+Any randomised trials comparing thiamine with alternative interventions or comparing different thiamine regimens (varying in formulation, dose or duration of administration). 
+Data collection and analysis
+All abstracts were independently inspected by two reviewers (ED and PWB), and relevant articles were retrieved and assessed for methodological quality using criteria provided in the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+Two studies were identified that met the inclusion criteria, but only one contained sufficient data for quantitative analysis. Ambrose (2001) randomly assigned participants (n = 107) to one of five doses of intramuscular thiamine and measured outcomes after 2 days of treatment. We compared the lowest dose (5 mg/day) with each of the other four doses. A significant difference favoured 200 mg/day compared with the 5‐mg/day dose in determining the number of trials needed to meet inclusion criteria on a delayed alternation test (mean difference (MD) ‐17.90, 95% confidence interval (CI) ‐35.4 to ‐0.40, P = 0.04). No significant differences emerged when the other doses were compared with 5 mg/day. The pattern of results did not reflect a simple dose‐response relationship. The study had methodological shortcomings in design and in the presentation of results that limited further analysis. 
+Authors' conclusions
+Evidence from randomised controlled clinical trials is insufficient to guide clinicians in determining the dose, frequency, route or duration of thiamine treatment for prophylaxis against or treatment of WKS due to alcohol abuse. 

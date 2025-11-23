@@ -1,0 +1,15 @@
+Background
+Numerous different implants with screws, pins and side plates have been used for the internal fixation of intracapsular hip fractures. 
+Objectives
+To determine from randomised trials which implant is superior for the internal fixation of intracapsular proximal femoral fractures. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (13 September 2010), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 3), MEDLINE (1950 to August week 5, 2010), EMBASE (1980 to 2010 Week 36), and other sources. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing different implants for the internal fixation of intracapsular hip fractures in adults. 
+Data collection and analysis
+Two review authors independently assessed trial quality, by use of an 11 item scale, risk of bias relating to sequence generation and allocation concealment, and extracted data. Additional information was sought from trialists. After grouping by implant type, comparable groups of trials were subgrouped and where appropriate, data were pooled using the fixed‐effect model or, where there was significant heterogeneity, the random‐effects model. 
+Main results
+There are now 30 studies involving 6334 participants (6339 fractures) included in this review, which was published in 2011. There was considerable variation in the quality of trial methodology and generally inadequate reporting of methods and trial findings. Allocation concealment was confirmed in one trial only. The main outcome measures reported were fracture healing complications, re‐operations and mortality. The reporting of functional outcomes was particularly poor. 
+Few trials tested the same comparison. Most of the results for the 25 separate comparisons, frequently tested within one trial only, showed no statistically significant differences between the two implants under test. It was noted that the more rare findings of favourable results were often for implants developed within the same institutions as the trial. There was a consistent finding of less avascular necrosis with the sliding hip screw in comparison with five different types of cancellous screws but there was no significant difference found for re‐operations. Additionally, the sliding hip screw was found to take longer to insert and to have an increased operative blood loss compared with multiple screws or pins. 
+Authors' conclusions
+No clear conclusions can be made on the choice of implant for internal fixation of intracapsular fractures from the available evidence within randomised trials. 

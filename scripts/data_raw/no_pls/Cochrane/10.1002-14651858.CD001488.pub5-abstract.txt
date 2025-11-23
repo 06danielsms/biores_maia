@@ -1,0 +1,14 @@
+Background
+Ulceration of the feet, which can result in loss of limbs and even death, is one of the major health problems for people with diabetes mellitus. 
+Objectives
+To assess the effects of patient education on the prevention of foot ulcers in patients with diabetes mellitus. 
+Search methods
+We searched The Cochrane Wounds Group Specialised Register (searched 03 September 2014); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 8). 
+Selection criteria
+Prospective randomised controlled trials (RCTs) that evaluated educational programmes for preventing foot ulcers in people with diabetes mellitus. 
+Data collection and analysis
+Two review authors independently undertook data extraction and assessment of risk of bias. Primary end points were foot ulceration or ulcer recurrence and amputation. 
+Main results
+Of the 12 RCTs included, the effect of patient education on primary end points was reported in only five. Pooling of outcome data was precluded by marked, mainly clinical, heterogeneity. One of the RCTs showed reduced incidence of foot ulceration (risk ratio (RR) 0.31, 95% confidence interval (CI) 0.14 to 0.66) and amputation (RR 0.33, 95% CI 0.15 to 0.76) during one‐year follow‐up of diabetes patients at high risk of foot ulceration after a one‐hour group education session. However, one similar study, with lower risk of bias, did not confirm this finding (RR amputation 0.98, 95% CI 0.41 to 2.34; RR ulceration 1.00, 95% CI 0.70 to 1.44). Three other studies, also did not demonstrate any effect of education on the primary end points, but were most likely underpowered. Patients' foot care knowledge was improved in the short term in five of eight RCTs in which this outcome was assessed, as was patients' self‐reported self‐care behaviour in the short term in seven of nine RCTs. Callus, nail problems and fungal infections improved in only one of five RCTs. Only one of the included RCTs was at low risk of bias. 
+Authors' conclusions
+In some trials, foot care knowledge and self reported patient behaviour seem to be positively influenced by education in the short term. Yet, based on the only two sufficiently powered studies reporting the effect of patient education on primary end points, we conclude that there is insufficient robust evidence that limited patient education alone is effective in achieving clinically relevant reductions in ulcer and amputation incidence. 

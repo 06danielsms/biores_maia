@@ -1,0 +1,21 @@
+Were there any changes in the patients' symptoms of PNH?
+At the beginning of the study, all patients were asked whether they were experiencing tiredness, stomach pain, shortness of breath, difficulty swallowing, or chest pain. Men were also asked if they had difficulty keeping an erection.
+
+Those patients who had symptoms of PNH were asked again after 24 weeks of treatment if they continued to experience these symptoms or not. The results below show the combined responses of both Group 1 and Group 2.
+
+```
+TIREDNESS              STOMACH PAIN              SHORTNESS OF BREATH
+22%                     100%                         43%
+```
+of patients no longer reported feeling tired, having stomach pain, or shortness of breath.
+
+```
+DIFFICULTY SWALLOWING            CHEST PAIN              AN ERECTION
+67%                                         50%                     100%
+```
+of patients no longer reported difficulty swallowing, chest pain, or men no longer reported difficulty keeping an erection.
+
+Did any of the patients need a blood transfusion?
+The researchers wanted to know how many patients had a blood transfusion before the start of the study. They then looked at how many of those patients needed a blood transfusion during 24 weeks of treatment. Overall, 5 out of 13 patients had a blood transfusion within 12 months before the start of the study.
+
+Of those patients requiring a blood transfusion before the start of the study, 40% needed a further blood transfusion during the treatment period and 60% did not.

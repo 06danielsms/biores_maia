@@ -1,0 +1,14 @@
+Background
+A large subgroup of people with interstitial lung disease (ILD) are normoxic at rest, but rapidly desaturate on exertion. This can limit exercise capacity and worsen dyspnoea. The use of ambulatory or short‐burst oxygen when mobilising or during other activities, may improve exercise capacity and relieve dyspnoea. 
+Objectives
+To determine the effects of ambulatory and short‐burst oxygen therapy, separately, on exercise capacity, dyspnoea and quality of life in people who have interstitial lung disease (ILD), particularly those with idiopathic pulmonary fibrosis (IPF). 
+Search methods
+We conducted searches in the Cochrane Airways Group Specialised Register (all years to May 2016), Cochrane Central Register of Controlled Trials (CENTRAL) (all years to May 2016), MEDLINE (Ovid) (1950 to 4th May 2016) and EMBASE (Ovid) (1974 to 4th May 2016). We also searched the reference lists of relevant studies, international clinical trial registries and respiratory conference abstracts for studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs that compared ambulatory or short‐burst oxygen with a control group in people with ILD of any origin. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion and assessed risk of bias in the included studies. We extracted data from included studies using a prepared checklist, including study characteristics and results. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) criteria to assess the quality of the included studies. 
+Main results
+Three studies (including 98 participants, all of whom had IPF) met the inclusion criteria of this review. These studies were conducted in hospital respiratory physiology laboratories. Two studies did not demonstrate any beneficial effect of supplemental oxygen on exercise capacity or exertional dyspnoea. Neither of these studies titrated oxygen requirements to prevent ongoing exertional desaturation. One study showed an increase in exercise capacity as assessed by endurance time with supplemental oxygen. We did not identify any studies that examined the effect of ambulatory oxygen on health‐related quality of life, survival, costs or time to exacerbation or hospitalisation. No study reported any adverse events. The quality of evidence for all three studies, as assessed by GRADE criteria, was low. 
+Authors' conclusions
+This review found no evidence to support or refute the use of ambulatory or short burst oxygen in ILD due to the limited number of included studies and data. Further research is needed to examine the role of this treatment. 

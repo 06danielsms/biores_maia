@@ -1,0 +1,17 @@
+Background
+Thalassemia syndromes are inherited hemoglobin disorders that result when the synthesis of normal hemoglobin is lacking or significantly reduced. For people with thalassemia, long‐term red blood cell transfusion remains the mainstay of therapy, which may lead to iron overload causing severe complications and damage in different body organs. Long‐term iron chelation therapy is essential for people with thalassemia to minimize the ongoing iron‐loading process. In addition, suboptimal adherence can increase adverse events associated with iron overload and result in increased morbidity, mortality, healthcare utilization and cost of care. 
+Objectives
+To identify and assess the effects of computer and mobile technology interventions designed to facilitate medication adherence and disease management in individuals with thalassemia, including: 
+‐ evaluating the effects of using computer and mobile technology interventions for medication adherence and disease management on health and behavioral outcomes; 
+‐ identifying and assessing the effects of computer and mobile technology interventions specific to different age groups (children, adolescents and adults) and type of modality (e.g. cell phone, the Internet). 
+Search methods
+We searched CENTRAL (the Cochrane Library), MEDLINE, Embase, CINAHL, PsycINFO, ProQuest Dissertations & Theses Global, Psychology and Behavioral Sciences Collection, Web of Science Science & Social Sciences Conference Proceedings Indexes, IEEE Xplore and ongoing trial databases (22 February 2018). We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group’s Haemoglobinopathies Trials Register (20 June 2019). We also searched for unpublished work in the abstract book of nine major conferences in the related field. 
+Selection criteria
+Randomized controlled trials (RCT) and quasi‐RCTs comparing single‐ or multi‐component interventions versus no intervention, placebo or standard care, with adherence to iron chelation as the primary outcome were eligible for inclusion. Non‐randomized studies of interventions, controlled before‐after studies, and interrupted‐time‐series studies were also eligible for inclusion. 
+Data collection and analysis
+Three authors independently assessed study eligibility. If we had included any studies, we would have independently assessed risk of bias and extracted data; we planned to assess the quality of the evidence using GRADE. 
+Main results
+We did not identify any eligible studies for inclusion in the review.
+Authors' conclusions
+Due to lack of evidence, we cannot comment on the efficacy or effectiveness of computer and mobile technology intervention strategies to promote disease management and adherence to iron chelation therapy in people with thalassemia. 
+We concluded that RCTs are needed to examine a variety of computer and mobile technology intervention strategies that may be useful for promoting disease management and increasing adherence to iron chelation therapy in individuals with thalassemia. 

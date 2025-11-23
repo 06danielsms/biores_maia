@@ -1,0 +1,20 @@
+Background
+An unprecedented number of people around the world are experiencing forced displacement due to natural or man‐made events. More than 50% of refugees worldwide are children or adolescents. In addition to the challenges of settling in a new country, many have witnessed or experienced traumatic events. Therefore, refugee children and adolescents are at risk of developing mental health problems such as post‐traumatic stress disorder, and require appropriate and effective support within communities. 
+Objectives
+To assess the effectiveness and acceptability of community‐based interventions (RCTs only) in comparison with controls (no treatment, waiting list, alternative treatment) for preventing and treating mental health problems (major depression, anxiety, post‐traumatic stress disorder, psychological distress) and improving mental health in refugee children and adolescents in high‐income countries. 
+Search methods
+Databases searches included the Cochrane Common Mental Disorders Controlled Trials Register (all available years), CENTRAL/CDSR (2021, Issue 2), Ovid MEDLINE, Embase, six other databases, and two trials registries to 21 February 2021. We checked reference lists of included study reports.  
+Selection criteria
+Studies of any design were eligible as long as they included child or adolescent refugees and evaluated a community‐based mental health intervention in a high‐income country. At a second stage, we selected randomised controlled trials. 
+Data collection and analysis
+For randomised controlled trials, we extracted data relating to the study and participant characteristics, and outcome data relating to the results of the trial. For studies using other evaluation methods, we extracted data relating to the study and participant characteristics. W derived evidence on the efficacy and availability of interventions from the randomised controlled trials only. Data were synthesised narratively. 
+Main results
+We screened 5005 records and sought full‐text manuscripts of 62 relevant records. Three randomised controlled trials were included in this review. Key concerns in the risk of bias assessments included a lack of clarity about the randomisation process, potential for bias is outcome measurement, and risk of bias in the selection of results. 
+Primary outcomes 
+There was no evidence of an effect of community‐based interventions when compared with a waiting list for symptoms of post‐traumatic stress (mean difference (MD) −1.46, 95% confidence interval (CI) −6.78 to 3.86: 1 study; low‐certainty evidence), symptoms of depression (MD 0.26, 95% CI −2.15 to 2.67: 1 study; low‐certainty evidence), and psychological distress (MD −10.5, 95% CI −47.94 to 26.94; 1 study; very low‐certainty evidence).  
+There were no data on adverse events.
+Secondary outcomes 
+Three trials reported on short‐term changes in child behaviour, using different measures, and found no evidence of an effect of the intervention versus a waiting list (low to very low certainty). 
+None of the trials reported on quality of life or well‐being, participation and functioning, or participant satisfaction. 
+Authors' conclusions
+There is insufficient evidence to determine the efficacy and acceptability of community‐based mental health interventions for refugee children and adolescents.  

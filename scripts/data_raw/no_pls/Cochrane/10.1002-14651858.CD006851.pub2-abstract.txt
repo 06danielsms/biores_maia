@@ -1,0 +1,14 @@
+Background
+Herpes zoster oticus (HZO) is a viral infection of the ear and when associated with acute facial paralysis is known as Ramsay Hunt syndrome. Antiviral agents are the standard first‐line treatment for herpes zoster infections at other body sites and are thought to reduce or minimise nerve damage, thereby improving outcomes. It has been suggested that these agents improve the chance of facial weakness improving or resolving completely in patients with Ramsay Hunt syndrome. 
+Objectives
+To determine the effectiveness of antiviral agents in the treatment of adult patients with Ramsay Hunt syndrome (HZO with facial palsy). 
+Search methods
+We searched the Cochrane ENT Disorders Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, current issue), Medline (1950 ‐ 2007), PubMed 2007 ‐ 2008, EMBASE (1974 onwards) and other relevant databases. The date of the most recent search was June 2008. 
+Selection criteria
+Two authors scrutinized all possible citations to identify randomised controlled trials in which antiviral agents alone or in combination with other therapies (using different routes of administration and dosage schemes) were given as treatment for Ramsay Hunt syndrome. We contacted an author for further information. 
+Data collection and analysis
+Two reviewers independently assessed eligibility and trial quality.
+Main results
+Only one randomised, controlled trial was identified and included. It was of low quality and included only 15 participants. In this 1992 trial, intravenous acyclovir and corticosteroids were compared with corticosteroids alone. Our analysis found no statistically significant difference between the two groups. 
+Authors' conclusions
+We found no evidence that anti‐viral agents have a beneficial effect on outcomes in Ramsay Hunt syndrome, despite their widespread use in this condition. The use of these drugs in patients with herpes zoster infections in other parts of the body might suggest that they have a role in herpes zoster oticus. As usual, the absence of positive evidence of benefit (or, in this case, the 'negative' result of one small, statistically under‐powered study) does not necessarily indicate that antivirals are ineffective. However, these drugs are associated with a number of adverse effects and this must be taken into consideration when undertaking the requisite risk‐benefit analysis before instigating treatment. 

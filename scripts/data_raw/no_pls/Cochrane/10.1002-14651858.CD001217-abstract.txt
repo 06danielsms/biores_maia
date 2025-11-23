@@ -1,0 +1,14 @@
+Background
+Colorectal surgery implies higher risk of postoperative thromboembolic complications as deep venous thrombosis (DVT) and pulmonary embolism (PE) than general surgery. The best prophylaxis in general surgery is heparin and graded compression stockings. No systematic review on combination prophylaxis or on thrombosis prophylaxis in colorectal surgery has been published. 
+Objectives
+To compare the incidence of postoperative thromboembolism after colorectal surgery using prophylactic methods focussing on heparins and mechanical methods alone and in combinations. 
+Search methods
+Electronic searches was performed in PUBMED, EMBASE, LILACS and the Cochrane Library. Abstract books from major congresses were handsearched as were reference lists from previously performed reviews. 
+Selection criteria
+RCT or CCT comparing prophylactic interventions and/or placebo. Outcomes were ascending venography, 125 I‐fibrinogen uptake test, ultrasound methods, pulmonary scintigraphy. Studies, using thermographic methods, other isotopic methods, plethysmographic methods, and purely clinical methods as the only diagnostic measure were excluded. 558 studies were identified ‐ 477 were excluded. Only 3 of the identified studies focused exclusively on colorectal surgery. Studies of general surgery contain considerable numbers of colorectal patients. The authors of 66 studies in general and/or abdominal surgery were contacted for retrieving the results from the colorectal patients. Answers were received from very few. 19 studies entered this review. 
+Data collection and analysis
+All studies and all data extraction were performed by at least two of the authors. Outcome was deep venous thrombosis and/or pulmonary embolism. Analysis of bleeding complications were unfeasible. 12 meaningful outcomes were analysed by means of the fixed effects model with Peto Odds Ratios. 
+Main results
+Heparins versus no treatment: Any kind of heparincompared to no treatment or placebo (comparison 07.03, 11 studies). Heparin is better in preventing DVT and/or PE with a Peto Odds ratio at 0.32 (95% Confidence Interval 0.20‐0.53)  Unfractionated heparin versus low molecular weight heparin (comparison 08.03, 4 studies). The two treatments were found equally effective in preventing DVT and/or PE with a Peto Odds ratio 1.01 (95% Confidence Interval 0.67‐1.52).  Mechanical methods (comparison 10.3, 2 studies).The combination of graded compression stockings and LDH is better than LDH alone in preventing DVT and/or PE with a Peto Odds ratio at 4.17 (95% Confidence Interval 1.37‐12.70). 
+Authors' conclusions
+The optimal prophylaxis in colorectal surgery is the combination of graduated compression stockings and low‐dose unfractionated heparin. The unfractionated heparin can be replaced with low molecular weight heparin. 

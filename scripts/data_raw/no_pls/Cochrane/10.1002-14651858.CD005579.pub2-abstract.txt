@@ -1,0 +1,15 @@
+Background
+Clozapine is widely used for people with schizophrenia. Although agranulocytosis, weight gain, and cardiac problems are serious problems associated with its use, hypersalivation, sometimes of a gross and socially unacceptable quantity, is also common (30‐80%). 
+Objectives
+To determine the clinical effects of pharmacological interventions for clozapine‐induced hypersalivation. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (March 2007), inspected references of all identified studies for further trials, contacted relevant pharmaceutical companies, drug approval agencies and authors of trials. 
+Selection criteria
+We included randomised controlled trials comparing pharmacological interventions, at any dose and by any route of administration, for clozapine‐induced hypersalivation. 
+Data collection and analysis
+We extracted data independently. For dichotomous data (homogenous) we calculated relative risk (RR) with 95% confidence intervals (CI) and numbers needed to treat (NNT) on an intention‐to‐treat basis. We calculated weighted mean difference (WMD) for continuous data. 
+Main results
+Of the 15 trials identified, 14 were conducted in China and 14 in hospitals. The quality of reporting was poor with no studies clearly describing allocation concealment and much data were missing or unusable. All results are vulnerable to considerable bias. Most frequently the primary outcome was the diameter of the wet patch on the pillow. Antimuscarinics (astemizole, diphenhydramine, propantheline, doxepin) were the most commonly evaluated drugs. For the outcome of 'no clinically important improvement' astemizole and diphenhydramine were more effective than placebo (astemizole: n=97, 2 RCTs, RR 0.61 CI 0.47 to 0.81 NNT 3 CI 2 to 5; diphenhydramine: n=131, 2 RCTs, RR 0.43 CI 0.31 to 0.58, NNT 2 CI 1.5 to 2.5), but the doses of astemizole used were those that can cause toxicity. Data involving propantheline were heterogeneous (I2= 86.6%), but both studies showed benefit over placebo. Adverse effects were poorly recorded. 
+Of the other interventions, oryzanol (rice bran oil and rice embryo oil extract) showed benefit over the antimuscarinic doxepin in terms of 'no clinically important change' (n=104, 1 RCT, RR 0.45 CI 0.27 to 0.75, NNT 4 CI 2 to 7). The Chinese medicine suo quo wan (comprises spicebush root, Chinese yam and bitter cardamom) showed benefit over doxepin (n=70, 1 RCT, RR 'no clinically important change' 0.31 CI 0.16 to 0.59, NNT 3 CI 1.5 to 3.7). 
+Authors' conclusions
+There are currently insufficient data to confidently inform clinical practice. The limitations of these studies are plentiful and the risk of bias is high. These trials, however, are invaluable guides for current and future study design. Well conducted randomised trials are possible. Some may be underway. Current practice outside of well designed randomised trials should be clearly justified. 

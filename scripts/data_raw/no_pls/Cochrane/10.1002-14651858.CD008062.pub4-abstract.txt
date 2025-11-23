@@ -1,0 +1,14 @@
+Background
+Surgical site infections (i.e. incisions that become infected) are a continuing concern in health care. Microbial sealant is a liquid that can be applied to the skin immediately before surgery and is thought to help reduce the incidence of surgical site infections (SSIs) by sealing in the skin flora, thus preventing contamination and infection of the surgical site. 
+Objectives
+To assess the effects of the preoperative application of microbial sealants (compared with no microbial sealant) on rates of SSI in people undergoing clean surgery. 
+Search methods
+For this second update we searched the following electronic databases in May 2015: the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. There were no restrictions based on language or date of publication or study setting. 
+Selection criteria
+Randomised controlled trials (RCTs) were eligible for inclusion if they involved people undergoing clean surgery (i.e. surgery that does not involve the breathing system, gut, genital or urinary tract, or any part of the body with an existing infection) in an operating theatre and compared the use of preoperative microbial sealants with no microbial sealant. 
+Data collection and analysis
+All review authors independently extracted data on the characteristics, risk of bias and outcomes of the eligible trials. 
+Main results
+Seven trials (859 participants undergoing clean surgery) met the inclusion criteria. The trials all compared cyanoacrylate microbial sealant with no sealant. We found there were fewer SSIs with the use of microbial sealant (23/443 participants) than with the control comparison (46/416 participants). There was no evidence of a difference between the two groups in surgical site infection rates following the use of microbial sealants when the results were pooled (risk ratio (RR) 0.53, 95% CI 0.24 to 1.18). There were adverse events in three studies, but these were not judged to be a result of the use of microbial sealant. 
+Authors' conclusions
+In this second update there is still insufficient evidence available to determine whether the use of microbial sealants reduces the risk of surgical site infection or not. Further rigorous, adequately‐powered RCTs are required to investigate this properly. 

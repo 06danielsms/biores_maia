@@ -1,0 +1,15 @@
+Background
+Sulfasalazine has become a common second line drug (DMARD) for the treatment of rheumatoid arthritis (RA). 
+Objectives
+To estimate the short‐term efficacy and toxicity of sulfasalazine for the treatment of rheumatoid arthritis (RA). 
+Search methods
+We searched the Cochrane Musculoskeletal Group trials register, and Medline, up to July 1997, using the search strategy developed by the Cochrane Collaboration (Dickersin 1994). The search was complemented with bibliography searching of the reference list of the trials retrieved from the electronic search. Key experts in the area were contacted for further published and unpublished articles. 
+Selection criteria
+All randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing sulfasalazine against placebo in patients with RA. 
+Data collection and analysis
+Two reviewers determined the studies to be included based on inclusion and exclusion criteria (GW, MSA). Data were independently abstracted by two reviewers (EB, MSA), and checked by a third reviewer (BS) using a pre‐developed form for the rheumatoid arthritis sub‐group of the Cochrane Musculoskeletal Group. 
+The same two reviewers, using a validated scale (Jadad 1996) assessed the methodological quality of the RCTs and CCTs independently. Rheumatoid arthritis outcome measures were extracted from the publications. The pooled analysis was performed using standardized mean differences (SMDs) for joint counts, pain, and global and functional assessments. Weighted mean differences (WMDs) were used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios (OR) for withdrawals. A chi‐square test was used to assess heterogeneity among trials. Fixed effects models were used throughout and random effects for outcomes showing heterogeneity. 
+Main results
+Six trials, including 468 patients were included. A statistically significant benefit was observed for sulfasalazine when compared to placebo for tender and swollen joint scores, pain and ESR. The standardized weighted mean difference between treatment and placebo was ‐0.49 for tender and swollen joint scores, and ‐0.42 for pain. The difference for ESR was ‐17.6mm. Withdrawals from adverse reactions were significantly higher in the sulfasalazine group (OR=3.0). Patients receiving placebo were four times more likely to discontinue treatment because of lack of efficacy than patients receiving sulfasalazine. 
+Authors' conclusions
+Sulfasalazine appears to have a clinically and statistically significant benefit on the disease activity of patients with RA. Its effects on overall health status and radiological progression are not clear at this time, but would appear to be modest. 

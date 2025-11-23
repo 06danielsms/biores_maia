@@ -1,0 +1,30 @@
+Measures implemented in the school setting to contain the COVID‐19 pandemic
+What was studied in the review? 
+In order to reduce the spread of the virus that causes COVID‐19, many governments and societies put mitigation measures in place in schools. However, we do not know whether these measures work with regards to reducing the spread of the virus, or how these measures affect other aspects of life, such as education, the economy or society as a whole.  
+What are measures implemented in the school setting? 
+Measures in the school setting can be grouped into the following four broad categories.
+1. Measures reducing the opportunity for contacts: by reducing the number of students in a class or a school, opening certain school types only (for example primary schools) or by creating a schedule by which students attend school on different days or in different weeks, the face‐to‐face contact between students can be reduced. 
+2. Measures making contacts safer : by putting measures in place such as face masks, improving ventilation by opening windows or using air purifiers, cleaning, handwashing, or modifying activities like sports or music, contacts can be made safer.  
+3. Surveillance and response measures : screening for symptoms or testing sick or potentially sick students, or teachers, or both, and putting them into isolation (for sick people) or quarantine (for potentially sick people). 
+4. Multicomponent measures : measures from categories 1, 2 and 3 are combined.  
+What is the aim of the review? 
+We aimed to find out which measures implemented in the school setting allow schools to safely reopen, stay open, or both, during the COVID‐19 pandemic.  
+What did we do? 
+We searched for studies that looked at the impact of these types of measures in the school setting on the spread of the virus that causes COVID‐19, the impact on the healthcare system (i.e. how many hospital beds are needed), as well as important social aspects (i.e. how often students attended school). The studies could focus on students, teachers and other school staff, as well as on families and the whole community. They could use real‐life data (observational studies) or data from computer‐generated simulations (modelling studies). 
+What are the main results of the review? 
+We found 38 relevant studies. Most of these were modelling studies (33 studies). Five studies used real‐world data. Twenty studies were conducted in North or South America, 16 in Europe and two in China.  
+Below we summarise the main findings by category. 
+1. Measures reducing the opportunity for contacts  
+We found 23 modelling studies assessing measures to reduce the opportunity for contacts. All studies showed reductions in the spread of the virus that causes COVID‐19 and the use of the healthcare system. Some studies also showed a reduction in the number of days spent in school due to the intervention.  
+2. Measures making contacts safer  
+We found 11 modelling studies and two real‐world studies looking at measures, such as mask wearing in schools, cleaning, handwashing, and ventilation. Five of these studies combined multiple measures, which means we cannot see which specific measures worked and which did not. Most studies showed reductions in the spread of the virus that causes COVID‐19; some studies, however, showed mixed or no effects.  
+3. Surveillance and response measures  
+We found 13 modelling studies and one real‐world study assessing surveillance and response measures. Twelve studies focused on mass testing and isolation measures, while two looked specifically at symptom‐based screening and isolation. Most studies showed results in favour of the intervention, however some showed mixed or no effects. 
+4. Multicomponent measures  
+We found three studies that looked at multicomponent interventions, where it was not possible to determine the effect of each individual intervention. These included one modelling study and two real‐world studies. These studies assessed physical distancing, modification of activities, cancellation of sports or music classes, testing, exemption of high‐risk students, handwashing, and face masks. Most studies showed reduced transmission of the virus that causes COVID‐19, however some showed mixed or no effects. 
+How confident are we in the findings of this review?  
+Our confidence in these results is limited. Most studies used models, that is, they estimated the effects of the interventions rather than observing outcomes. As the models are built on assumptions about how the virus spreads and how people behave, we lack real‐world evidence. Many studies were published as 'preprints' without undergoing rigorous checks of published studies, which further limits our confidence. Also, the studies were very different from each other (for example, with regards to the levels of transmission in the community).  
+What are the key messages? 
+Reopening schools or keeping schools open while having a broad range of measures in place can reduce transmission of the virus that causes COVID‐19. Such measures can also reduce the number of people who will need to go to hospital due to developing COVID‐19. We still know very little about other consequences of these measures, such as those linked to education, resources, and physical or mental health, as this knowledge is mostly based on studies modelling the real world. More studies set in the real world using real‐world data are needed.  
+How up to date is this evidence? 
+The evidence is up‐to‐date to December 2020.

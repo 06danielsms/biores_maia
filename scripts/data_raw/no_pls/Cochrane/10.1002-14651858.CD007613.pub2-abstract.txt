@@ -1,0 +1,14 @@
+Background
+Chronic heart failure (CHF) is a leading cause of morbidity and mortality worldwide. Anaemia is a common (12‐55%) co‐morbid condition and is associated with worsening symptoms and increased mortality. Anaemia is treatable and can be targeted in the treatment of patients with CHF. Erythropoiesis‐stimulating agents (ESA), supplemented by iron therapy, are used to treat anaemia in chronic kidney disease and cancer, however safety concerns have been raised in these patients. The clinical benefit and safety of these agents in CHF remains unclear. 
+Objectives
+To assess the benefits and risks of ESA for CHF patients with anaemia.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library 2008, Issue 3), MEDLINE (1950 to October 2008), EMBASE (1980 to October 2008) and reference lists of articles. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials of any ESA, with or without iron therapy, in CHF patients were eligible for inclusion. 
+Data collection and analysis
+Three reviewers independently assessed study quality and extracted data. Original authors were contacted for additional information. The outcomes of interest were: exercise tolerance, haemoglobin level, New York Heart Association (NYHA) functional class, quality of life, left‐ventricular ejection fraction, B‐type natriuretic peptide, CHF‐related hospitalisations, all‐cause mortality and adverse effects. Risk ratios (RR) were calculated for dichotomous data and weighted mean difference (WMD) for continuous data.  
+Main results
+Eleven studies (794 participants) were included. Overall quality of studies was moderate with nine studies being placebo‐controlled but only five double‐blinded. Compared to control, ESA treatment significantly improved exercise duration by 96.8 seconds (95% CI 5.2 to 188.4, p=0.04) and 6‐minute walk distance by 69.3 metres (95% CI 17.0 to 121.7, p=0.009). Benefit was also noted in terms of peak VO2 (+2.29 mL/kg/min, p=0.007), NYHA class (‐0.73, p<0.001), ejection fraction (+5.8%, p<0.001), B‐type natriuretic peptide (‐226.99 pg/mL, p<0.001) and quality‐of‐life indicators, with a mean increase in haemoglobin of 1.98 g/dL (p<0.0001). There was also a significantly lower rate of heart failure related hospitalisations (RR 0.62, 95% CI 0.44 to 0.87) and lower all‐cause mortality (RR 0.61, 95% CI 0.37 to 0.99). No increase in adverse events with ESA therapy was observed, however studies were of small sample sizes and limited duration. 
+Authors' conclusions
+Meta‐analysis of small RCTs suggests that ESA treatment in patients with symptomatic CHF and mild anaemia (haemoglobin more than 10g/dL) can improve anaemia and exercise tolerance, reduce symptoms and have benefits on clinical outcomes. Confirmation requires well‐designed studies with careful attention to dose, haemoglobin treatment target and associated iron therapy. 

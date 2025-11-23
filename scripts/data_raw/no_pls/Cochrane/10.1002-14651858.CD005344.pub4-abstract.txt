@@ -1,0 +1,14 @@
+Background
+This is an updated version of the original review that was first published in the Cochrane Database of Systematic Reviews 2008, Issue 4. Laparoscopy has become an increasingly common approach to surgical staging of apparent early‐stage ovarian tumours. This review was undertaken to assess the available evidence on the benefits and risks of laparoscopy compared with laparotomy for the management of International Federation of Gynaecology and Obstetrics (FIGO) stage I ovarian cancer. 
+Objectives
+To evaluate the benefits and harms of laparoscopy in the surgical treatment of FIGO stage I ovarian cancer (stages Ia, Ib and Ic) when compared with laparotomy. 
+Search methods
+For the original review, we searched the Cochrane Gynaecological Cancer Group Trials (CGCRG) Register, Cochrane Central Register of Controlled Trials (CENTRAL 2007, Issue 2), MEDLINE, Embase, LILACS, Biological Abstracts and CancerLit from 1 January 1990 to 30 November 2007. We also handsearched relevant journals, reference lists of identified studies and conference abstracts. For the first updated review, the search was extended to the CGCRG Specialised Register, CENTRAL, MEDLINE, Embase and LILACS to 6 December 2011. For this update we searched CENTRAL, MEDLINE, and Embase from November 2011 to September 2016. 
+Selection criteria
+Randomised controlled trials (RCTs), quasi‐RCTs and prospective cohort studies comparing laparoscopic staging with open surgery (laparotomy) in women with stage I ovarian cancer according to FIGO. 
+Data collection and analysis
+There were no studies to include, therefore we tabulated data from non‐randomised studies (NRSs) for discussion as well as important data from other meta‐analyses. 
+Main results
+We performed no meta‐analyses.
+Authors' conclusions
+This review has found no good‐quality evidence to help quantify the risks and benefits of laparoscopy for the management of early‐stage ovarian cancer as routine clinical practice. 

@@ -1,0 +1,21 @@
+Stimulant and non‐stimulant drug therapy for people with Attention Deficit Hyperactivity Disorder and epilepsy 
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out if stimulant and non‐stimulant medications are effective and safe in treating people with both Attention Deficit Hyperactivity Disorder (ADHD) and epilepsy. Cochrane Review authors collected and analysed all relevant studies to answer this question. 
+Background 
+Epilepsy is a disease where the brain is predisposed to generating seizures. ADHD is a condition where daily life is affected by inattention, hyperactivity and impulsivity. It is common for a person with epilepsy to also have a diagnosis of ADHD. Both these diagnoses together can have a negative impact on education, occupation and family and social relationships. 
+ADHD can be managed with drug therapy. This consists of stimulant drugs such as methylphenidate and non‐stimulant drugs such as atomoxetine. These drugs act on different neurotransmitters within the brain to improve concentration and impulse control. It is suggested that stimulant drugs, particularly methylphenidate, may aggravate epilepsy or cause seizures. Both stimulant and non‐stimulant drugs continue to be prescribed with a warning that they might worsen seizures. 
+We do not know if stimulant and non‐stimulant drugs are effective and safe in treating people with ADHD and epilepsy. We also do not know if these drugs have intolerable side effects that stop people from taking them daily. 
+What are the main results of the review? 
+We found two relevant studies involving children with both ADHD and epilepsy: one American study looked at osmotic‐release oral system methylphenidate (OROS‐MPH) and was funded by a government grant; one Iranian study looked at omega‐3 and was funded by a university grant. 
+In the first study, children at an American outpatient clinic received either OROS‐MPH of increasingly higher doses or placebo. This study suggests that children receiving OROS‐MPH: 
+• may have an increased risk of seizures with higher doses of OROS‐MPH, although we are not certain of this. 
+• are probably twice as likely to stop taking OROS‐MPH due to side effects (e.g. worsening emotional lability and seizures), although we are only moderately confident in this result. 
+• may improve their ADHD symptoms, although we are not certain of this.
+In the second study, children at an Iranian outpatient clinic received either omega‐3, the anti‐psychotic drug risperidone and usual anti‐seizure medication (ASM) or risperidone and usual ASM only. This study suggests that children receiving omega‐3: 
+• may have fewer seizures (children who received omega‐3 had six or seven fewer seizures per month on average compared to children who did not receive omega‐3), although we are not certain of this. 
+• may be less likely to stop taking omega‐3 due to side effects (sleepiness, diarrhoea and nausea and vomiting), although we are uncertain of this. However, the effects of omega‐3 vary, and it is possible that omega‐3 makes little or no difference. 
+The review authors did not find any studies that looked at the effect of omega‐3 on ADHD symptoms.The review authors did not find any studies that looked at adults with ADHD and epilepsy, and other types of stimulant and non‐stimulant medication. 
+Key messages 
+The stimulant drug OROS‐MPH may improve ADHD symptoms but may also increase the risk of adverse events such as seizures and emotional lability. The non‐stimulant drug omega‐3 may be safe to be used by children with both ADHD and epilepsy; however, we do not know if it is effective in treating the symptoms of ADHD. These conclusions should be interpreted with caution due to study biases, indirect outcome measures, small numbers of events and large confidence intervals. We still need more high‐quality studies including studies involving adults with both ADHD and epilepsy and more types of stimulant and non‐stimulant medications. 
+How up‐to‐date is this review? 
+The review authors searched for studies that had been published up to October 2020.

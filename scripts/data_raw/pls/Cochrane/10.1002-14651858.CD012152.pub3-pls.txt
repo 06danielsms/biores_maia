@@ -1,0 +1,17 @@
+Oral dextrose gel for prevention of low blood glucose levels in newborn babies
+Review question 
+Is oral dextrose gel effective and safe in preventing low blood glucose levels and reducing long‐term disability in newborn babies at risk of low blood glucose levels? 
+Background 
+Low blood sugar (glucose) levels are important because they are common and are associated with brain injury in newborn babies. Up to 15 of every 100 babies will have low blood glucose levels over the first few days after they are born, and as many as half of babies who are at higher risk (those born preterm, or smaller or larger than usual, or whose mothers have diabetes). 
+Low blood glucose levels can cause problems with academic achievement and development during childhood. Some evidence suggests that even one episode of low blood glucose or episodes that are undetected can contribute to these problems. Therefore, it would be useful to prevent low glucose levels from occurring. Additionally, treatments for low glucose levels often include formula milk or admission to the neonatal unit, leading to the separation of mother and baby. The treatments and the separation may both impair breastfeeding. 
+Dextrose (sugar) gel can be rubbed on the inside of a baby's mouth, where the sugar can be absorbed and help raise blood glucose levels, thus potentially helping prevent low glucose levels. 
+Study characteristics 
+We identified two studies in high‐income countries that compared oral dextrose gel with placebo (inactive) gel for preventing low blood glucose levels in 2548 at‐risk infants. The evidence in this Cochrane Review is current to October 2020. 
+Key results 
+Two studies showed that preventative oral dextrose gel reduces the risk of low blood glucose levels in newborn infants at risk. A single study reporting two‐year outcomes in 360 infants found that oral dextrose gel given to at‐risk infants to prevent low blood glucose levels probably reduces the risk of major disability at two years of age, but additional follow‐up studies are needed. 
+Two studies showed that oral dextrose gel probably reduces the chance of receiving any treatment for low blood glucose during initial hospital stay but makes little or no difference to the chance of receiving intravenous treatment for low glucose, or separation from the mother for treatment of low glucose levels. 
+Evidence from two studies suggests that infants given oral dextrose gel are not at a higher risk of adverse events (harms) such as choking or vomiting compared with infants given placebo gel, but there was no information to assess whether oral dextrose gel is safer than no treatment or other therapies. No data were available on exclusive breastfeeding after discharge. 
+We assessed the risk of bias in the included studies as low, meaning it is unlikely that there is a systematic error in estimating the effect of the intervention. 
+Future research should be undertaken in low‐ and middle‐income countries, preterm infants, using other dextrose gel preparations and comparators other than placebo gel. There are three studies awaiting classification and one ongoing study which may alter the conclusions of the review when they are published. 
+Certainty of evidence 
+We graded the certainty of the evidence as moderate for all outcomes except risk of low blood glucose levels (assessed as high certainty) and separation from mother (assessed as low certainty). 

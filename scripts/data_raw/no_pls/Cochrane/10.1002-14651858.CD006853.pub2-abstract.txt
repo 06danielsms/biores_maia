@@ -1,0 +1,14 @@
+Background
+An up‐to‐date overview of the effectiveness and safety of dynamic exercise therapy (exercise therapy with a sufficient intensity, duration, and frequency to establish improvement in aerobic capacity and/or muscle strength) is lacking. 
+Objectives
+To assess the effectiveness and safety of short‐term (< three months) and long‐term (> three months) dynamic exercise therapy programs (aerobic capacity and/or muscle strength training), either land or water‐based, for people with RA. To do this we updated a previous Cochrane review (van den Ende 1998) and made categories for the different forms of dynamic exercise programs. 
+Search methods
+A literature search (to December 2008) within various databases was performed in order to identify randomised controlled trials (RCTs). 
+Selection criteria
+RCTs that included an exercise program fulfilling the following criteria were selected: a) frequency at least twice weekly for > 20 minutes; b) duration > 6 weeks; c) aerobic exercise intensity > 55% of the maximum heart rate and/or muscle strengthening exercises starting at 30% to 50% of one repetition maximum; and d) performed under supervision. Moreover, the RCT included one or more of the following outcome measures: functional ability, aerobic capacity, muscle strength, pain, disease activity or radiological damage. 
+Data collection and analysis
+Two review authors independently selected eligible studies, rated the methodological quality, and extracted data. A qualitative analysis (best‐evidence synthesis) was performed and, where appropriate, a quantitative data analysis (pooled effect sizes). 
+Main results
+In total, eight studies were included in this updated review (two additional studies). Four of the eight studies fulfilled at least 8/10 methodological criteria. In this updated review four different dynamic exercise programs were found: (1) short‐term, land‐based aerobic capacity training, which results show moderate evidence for a positive effect on aerobic capacity (pooled effect size 0.99 (95% CI 0.29 to 1.68). (2) short‐term, land‐based aerobic capacity and muscle strength training, which results show moderate evidence for a positive effect on aerobic capacity and muscle strength (pooled effect size 0.47 (95% CI 0.01 to 0.93). (3) short‐term, water‐based aerobic capacity training, which results show limited evidence for a positive effect on functional ability and aerobic capacity. (4) long‐term, land‐based aerobic capacity and muscle strength training, which results show moderate evidence for a positive effect on aerobic capacity and muscle strength. With respect to safety, no deleterious effects were found in any of the included studies. 
+Authors' conclusions
+Based on the evidence, aerobic capacity training combined with muscle strength training is recommended as routine practice in patients with RA. 

@@ -1,0 +1,34 @@
+Are inhaled corticosteroids an effective treatment for people with mild COVID‐19?
+Key messages 
+Inhaled corticosteroids (anti‐inflammatory medicines) given via the oral inhaled route are evaluated for treatment of coronavirus disease 2019 (COVID‐19). 
+We identified three published studies for people with mild disease. Inhaled corticosteroids probably reduce the risk of people going to hospital or death (admission to hospital or death before hospital admission). Inhaled corticosteroids may lower the number of days people have symptoms of mild COVID‐19 and probably increase resolution of COVID‐19 symptoms at day 14. They may make little to no difference in death from any cause, and we do not have enough evidence to know whether they cause serious harms. 
+There are no data for people with COVID‐19 with no symptoms (asymptomatic) or people with moderate‐to‐severe COVID‐19. 
+We found 10 ongoing and four completed unpublished studies. We will update this review when their results become available. 
+What are inhaled corticosteroids? 
+Inhaled corticosteroids are medicines that are breathed into the lower airways through an inhaler where they reduce inflammation in the lungs. They are commonly used to treat respiratory diseases like asthma and chronic obstructive pulmonary disease. Long‐term use and incorrect inhaler technique may lead to side effects that include a mouth infection called thrush, a change in voice, and an increased risk of lung infections. Good inhaler technique means the medicine does not stay in the mouth and throat. 
+Why are inhaled corticosteroids possible treatments for COVID‐19? 
+COVID‐19 mainly affects the lungs and airways. When the immune system fights the virus, the lungs and airways become inflamed. This inflammation causes breathing difficulties, and the lungs cannot easily move oxygen into the blood and remove carbon dioxide from the blood. 
+What did we want to find out? 
+People need more and better treatment options for asymptomatic SARS‐CoV‐2 infection (the virus that causes COVID‐19) or mild, moderate, or severe COVID‐19. We wanted to know if inhaled corticosteroids are an effective and helpful treatment option for COVID‐19 in any setting (for example, home or hospital) and whether they cause unwanted effects. 
+We were interested in:
+– death from any cause up to day 30, day 60, or longer if reported;
+– admission to hospital or death within 30 days;
+– whether symptoms resolved and how fast;
+– quality of life;
+– unwanted effects.
+What did we do? 
+We looked for studies where the investigators compared inhaled corticosteroids and usual care to usual care only, sometimes in addition to a dummy medicine that did not contain any active ingredients (placebo) but was given in the same way. To make the comparison least skewed and more fair, patients in the studies must all have had the same random chance (like the flip of a coin) to receive the inhaled corticosteroids or the other treatment. The studies could include people of any age, sex, or ethnicity. 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+Three studies compared inhaled corticosteroids plus usual care compared to usual care with or without placebo in people with a confirmed diagnosis of mild COVID‐19. These studies analysed 2171 participants mostly older than 50 years and with other medical problems, 52% of them were female, of whom 1057 received inhaled corticosteroids in our analyses. We found no studies that included people with asymptomatic infection or confirmed diagnosis of moderate‐to‐severe COVID‐19. 
+We also found 10 ongoing studies, and four completed studies without published results.
+Main results 
+All studies compared inhaled corticosteroids with usual care or placebo. The studies included only people with a confirmed diagnosis of SARS‐CoV‐2 infection and mild disease. No studies looked at hospitalised people or people with asymptomatic SARS‐CoV‐2 infection. Inhaled corticosteroids 
+– may make little to no difference in death from any cause up to day 30;
+– probably reduce the risk of admission to hospital or occurrence of death up to day 30; 
+– probably increase resolution of COVID‐19 symptoms at day 14 and may reduce time to symptom resolution. 
+We are very uncertain about a possible difference in serious unwanted effects. Moreover, inhaled corticosteroids may result in little to no difference in the number of any unwanted effects or additional infections. 
+What are the limitations of the evidence? 
+The studies were conducted in populations from wealthy countries, prior to the roll‐out of COVID‐19 vaccination programmes. We have moderate confidence in the evidence for the outcomes of symptom resolution at day 14 and hospital admission. We have low confidence in the evidence for the effects on deaths from any cause for people with mild COVID‐19 and time to symptom resolution. The confidence in the unwanted or serious unwanted effects and infections is low or very low, because of the differences in the way investigators recorded and reported results. There was no evidence for people with asymptomatic infection or moderate‐to‐severe COVID‐19 who were hospitalised. 
+How up to date is this evidence? 
+Our evidence is up‐to‐date to 7 October 2021.

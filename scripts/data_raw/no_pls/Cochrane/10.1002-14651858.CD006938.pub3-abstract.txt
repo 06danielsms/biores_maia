@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 10, 2010, on droperidol for the treatment of nausea and vomiting in palliative care patients. Nausea and vomiting are common symptoms in patients with terminal illness and can be very unpleasant and distressing. There are several different types of antiemetic treatments that can be used to control these symptoms. Droperidol is an antipsychotic drug and has been used and studied as an antiemetic in the management of postoperative and chemotherapy nausea and vomiting. 
+Objectives
+To evaluate the efficacy and adverse events (both minor and serious) associated with the use of droperidol for the treatment of nausea and vomiting in palliative care patients. 
+Search methods
+We searched electronic databases including CENTRAL, MEDLINE (1950‐), EMBASE (1980‐), CINAHL (1981‐) and AMED (1985‐), using relevant search terms and synonyms. The basic search strategy was ("droperidol" OR "butyrophenone") AND ("nausea" OR "vomiting"), modified for each database. We updated the search on 2 December 2009. We performed updated searches of MEDLINE, EMBASE, CENTRAL and AMED 2009 to 2013 on 19 November 2013 and of CINAHL on 20 November 2013. We also searched trial registers (metaRegister of controlled trials (www.controlled‐trials.com/mrct), clinicaltrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (http://apps.who.int/trialsearch/)) on 22 November 2013, using the keyword "droperidol". 
+Selection criteria
+Randomised controlled trials (RCTs) of droperidol for the treatment of nausea or vomiting, or both, in adults receiving palliative care or suffering from an incurable progressive medical condition. 
+Data collection and analysis
+We judged the potential relevance of studies based on their titles and abstracts, and obtained studies that we anticipated might meet the inclusion criteria. Two review authors independently reviewed the abstracts for the initial review and four review authors reviewed the abstracts for the update to assess suitability for inclusion. We discussed discrepancies to achieve consensus. 
+Main results
+The 2010 search strategy identified 1664 abstracts (and 827 duplicates) of which we obtained 23 studies in full as potentially meeting the inclusion criteria. On review of the full papers, we identified no studies that met the inclusion criteria. 
+The updated searches carried out in November 2013 identified 304 abstracts (261 excluding duplicates) of which we obtained 18 references in full as potentially meeting the inclusion criteria. On review of the full papers, we identified no studies that met the inclusion criteria, therefore there were no included studies in this review. 
+We found no registered trials of droperidol for the management of nausea or vomiting in palliative care. 
+Authors' conclusions
+Since first publication of this review, no new studies were found. There is insufficient evidence to advise on the use of droperidol for the management of nausea and vomiting in palliative care. Studies of antiemetics in palliative care settings are needed to identify which agents are most effective, with minimum side effects. 

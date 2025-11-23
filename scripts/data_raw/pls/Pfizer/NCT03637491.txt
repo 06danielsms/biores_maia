@@ -1,0 +1,35 @@
+What is advanced cancer?
+This study looked at participants with different types of advanced cancer, including metastatic pancreatic ductal adenocarcinoma (mPDAC). Pancreatic ductal adenocarcinoma is the most common type of pancreatic cancer. The pancreas is an organ located near the stomach that plays a role in the breakdown of food and helps to regulate blood sugar levels. Cancer occurs when cells in the body divide without control, sometimes these cells form masses called "tumours". Cancer is called "metastatic" when it spreads to other parts of the body. Metastatic cancer is extremely difficult to be cured or controlled with treatment.
+What are avelumab, binimetinib, and talazoparib?
+Avelumab, binimetinib, and talazoparib are all medications made to help patients fight cancer in different ways. All three medications have been approved in the United States and Europe for treating different types of cancer. Avelumab is an intravenous (IV) cancer treatment, received at a clinic. Binimetinib and talazoparib are both taken by mouth. Researchers think that using combinations of these medications may help stop cancers from growing.
+What was the purpose of this study?
+The purpose of this study was to learn if combinations of avelumab, binimetinib, and talazoparib were safe for study participants with advanced cancer. All three drugs together had never been given before as a combination treatment. If the medications were safe, the researchers would then ask if participants with advanced cancer taking only 2 of the study medications or participants taking all 3 study medications saw their cancer get better.
+090177e198ba74f9\Approved\Approved On: 30-Nov-2021 02:39 (GMT)
+Researchers wanted to know:
+- Was there a combination of doses of avelumab and binimetinib or binimetinib and talazoparib that could be given safely for more studies in the future?
+How was the study done?
+This study had 2 phases: a dose-finding and anti-tumor phase. The dose-finding phase also had two parts: different dose combinations of two pairs of the medications and different dose combinations of all 3 medications.
+The combinations of medications for each of the parts of the study were:
+-Dose-finding phase:
+  o2 medications
+   800mg avelumab (1 time every other week) and 45mg binimetinib (2 times every day, every other week)
+   800mg avelumab (1 time every other week) and 30mg binimetinib (2 times every day, every other week)
+   45mg binimetinib (2 times every day, every other week) and 0.75 mg talazoparib (1 time every day, every other week)
+   30mg binimetinib (2 times every day, every other week) and 0.75 mg talazoparib (1 time every day, every other week)
+  o3 medications (planned, but not done)
+-Anti-tumor phase (planned, but not done)
+In the dose-finding phase of the study, researchers tested the combination of avelumab and binimetinib or the combination of binimetinib and talazoparib on a group of study participants to find out if study participants had medical problems that could be the result of taking the medications at the same time. It was planned that groups of participants would take avelumab and binimetinib or binimetinib and talazoparib. When a safe dose was found, new participants would enter the study and take avelumab, binimetinib, and talazoparib together. However, this study was stopped before any participants joined the dose finding part with all 3 drugs taken together. The anti-tumor phase of the study was also not done.
+The study participants and researchers knew who took avelumab and binimetinib and who took talazoparib and binimetinib. This is known as an “open label” study. The sponsor ended this study during the 2-medication part of the dose-finding phase because it was not likely the dose levels the researchers wanted to use would be reached.
+Where did this study take place? 
+The Sponsor ran this study at 10 locations in 3 countries in Asia, Europe, and North America.
+When did this study take place?
+It began on 15 August 2018 and ended on 02 February 2021.
+Who participated in this study?
+The study included participants who were at least 18 years old, had been diagnosed with mPDAC that had worsened following prior treatment, had at least 1 tumor that could be measured by doctor, and did not have other major health concerns.
+-A total of 19 men participated
+-A total of 16 women participated
+-All participants were between the ages of 42 and 83 years old
+Most participants stopped taking the study medications because their disease got worse. All 35 participants stopped being in the study, mostly because they died, by their choice, or they were still in the study when it was ended early by the sponsor.
+How long did the study last?
+Study participants received study treatment until their cancer got worse, they had serious medical problems that did not allow continued treatment with one or both of the study drugs, or by their choice. The entire study ran over 29 months before it was ended early by the sponsor.
+When the study was ended early by the sponsor in February 2021, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

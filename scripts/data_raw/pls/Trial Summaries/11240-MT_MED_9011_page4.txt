@@ -1,0 +1,19 @@
+In this study, the researchers wanted to find out if 3 new smartphone health apps were able to detect early changes in the well-being of participants with severe asthma. All of the participants were starting treatment with benralizumab. 
+
+The new health apps in this study were:
+- PROACT, an app that uses videos and messages from the participants to record their emotions
+- uMotif, an app with a questionnaire for participants to record their health data
+- iSpirometry, an app that captures data from a device that the participants use to measure their lung function
+
+What was the purpose of this study?
+The main questions the researchers wanted to answer in this study were:
+- Did the new apps detect early changes in the participants' well-being after their first dose of benralizumab?
+- How did the new apps compare with existing methods to measure well-being and asthma symptoms?
+- What medical problems did the participants have during this study?
+
+The answers to these questions are important to evaluate before other studies can be done to find out if the new apps help improve health care for people with severe asthma.
+
+What treatments did the participants get?
+In this study, all of the participants got a single dose of benralizumab prescribed by their doctors based on the participants' symptoms. The participants got benralizumab as an injection.
+
+This was an "observational" study. This means the researchers did not change any treatments the participants were already getting or were planned to get as part of their health care.

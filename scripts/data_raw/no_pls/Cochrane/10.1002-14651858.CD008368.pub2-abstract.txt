@@ -1,0 +1,16 @@
+Background
+This review sets out to assess the efficacy of pre‐operative chemoradiation when compared to radiotherapy alone before surgery in the treatment of advanced non metastatic rectal surgery. 
+Objectives
+To determine the efficacy of pre‐operative chemoradiation (CRT) compared with radiation (RT) alone, in locally advanced rectal cancer with respect to overall survival, local recurrence and 30 day mortality, sphincter preservation and toxicity of treatment (both acute and late). 
+Search methods
+In September 2011, we searched clinical trial registers, the Cochrane Central Register of Controlled Trials, Web of Science, EMBASE and MEDLINE and reviewed reference lists. Further hand searches were conducted of relevant journal proceedings. No language constraints were applied. 
+The following search terms were used: colorectal, rectal, rectum, cancer, carcinoma, tumour, radiotherapy, chemotherapy, chemoradiotherapy, chemoradiation, 5‐Fluorouracil, 5‐FU, neo‐adjuvant, preoperative, surgery, anterior resection, abdominoperineal resection, total mesorectal excision. 
+Selection criteria
+Male and female patients aged over 18 years undergoing preoperative chemoradiation or radiotherapy followed by surgery for locally advanced non‐metastatic rectal cancer. There was no upper age limit for participants. Locally advanced non‐metastatic cancer was defined as stage 3 rectal tumours. These are tumours of any T stage with nodal involvement, without evidence of distant metastases. 
+Data collection and analysis
+Primary outcome parameters included overall survival and local recurrence rate. Secondary outcome parameters included 30 day mortality, sphincter preservation, pathological response of tumour, acute and late toxicity of treatment. The outcome parameters were summarized using the odds ratio and 95% confidence intervals (CI). 
+Main results
+There were 6 randomised controlled trials eligible for inclusion. A reduction in local recurrence was seen in the CRT group in comparison to the RT group (OR 0.56, 95% CI 0.42‐0.75, P<0.0001). The results for overall survival were (OR=1.01 95%CI 0.85‐1.20, P=0.88). 
+The 30 day mortality was the same for both groups, CRT vs RT (OR 1.73, 95% CI 0.88‐3.38). Sphincter preservation (stoma rate) was also similar for the two interventions (OR 1.02, 95% CI 0.85‐1.21, P=0.64). An increase in acute grade 3/4 treatment related toxicity was seen in the CRT group versus the RT group (OR 3.96, 95% CI 3.03, 5.17, P<0.00001), although this result did display heterogeneity P=0.0005. Late toxicity events were similar between the two groups (OR 0.88, 95% CI 0.50, 1.54, P=0.65). 
+Authors' conclusions
+RT was compared to the more intensive CRT in the treatment of T3‐4, node positive (locally advanced) rectal cancer. While there was no difference in overall survival between RT and CRT, CRT was associated with less local recurrence. 

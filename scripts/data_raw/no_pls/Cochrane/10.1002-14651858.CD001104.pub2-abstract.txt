@@ -1,0 +1,14 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is characterised by partially reversible airflow limitation. Many patients have little reversibility to short acting bronchodilators, but long acting bronchodilators are frequently advocated. 
+Objectives
+To determine the effectiveness of long acting beta‐2 adrenoceptor agonists (LABAs) in COPD patients demonstrating poor reversibility to short‐acting bronchodilators. 
+Search methods
+The Cochrane Airways Group Specialised Register was searched ('all years' to 2005) along with the reference lists from identified randomised controlled trials (RCTs). 
+Selection criteria
+All RCTs comparing inhaled LABAs (salmeterol or formoterol) with placebo in the treatment of patients with stable, poorly reversible COPD. Studies were a minimum of four weeks in duration. 
+Data collection and analysis
+Two authors independently performed data extraction and study quality assessment. If we required additional data, we contacted authors and pharmaceutical companies sponsoring the identified RCTs. 
+Main results
+Twenty‐three published and unpublished studies (6061 participants) were included in the review. There was a significant change in forced expiratory volume in 1 second (FEV1) in favour of salmeterol 50 mcg twice daily (BID) of 51 mls (95% confidence intervals (CI) 32 to 70), end of study morning peak expiratory flow (PEF) 14.89 L/min (95% CI 10.86 to 18.91). Supplemental short‐acting bronchodilator usage was reduced by just under one puff per day. There were significant differences in the total, activity and impact domain scores of the St George's respiratory questionnaire in favour of salmeterol 50 mcg BID. Findings from other health status measurements and symptom scores were conflicting. There was no significant difference in exercise tolerance. The number of participants experiencing exacerbations was significantly reduced with salmeterol 50 mcg treatment compared with placebo (numbers needed to treat to benefit 24). 
+Authors' conclusions
+This review shows that the treatment of patients with COPD with salmeterol 50 mcg produces modest increases in lung function. There were varying effects for other important outcomes such as health related quality of life or reduction in symptoms. However, there was a consistent reduction in exacerbations which may help people with COPD who suffer frequent deterioration of symptoms prompting healthcare utilisation. The strength of evidence for the use of salmeterol 100 mcg, formoterol 12 mcg, 18 mcg, 24 mcg was insufficient to provide clear indications for practice. 

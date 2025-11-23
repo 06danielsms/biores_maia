@@ -1,0 +1,14 @@
+Background
+Pancreatic resections are associated with high morbidity (30% to 60%) and mortality (5%). Synthetic analogues of somatostatin are advocated by some surgeons to reduce complications following pancreatic surgery; however, their use is controversial. 
+Objectives
+To determine whether prophylactic somatostatin analogues should be used routinely in pancreatic surgery. 
+Search methods
+We searched the Cochrane Upper Gastrointestinal and Pancreatic Diseases Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 1), MEDLINE, EMBASE and Science Citation Index Expanded to February 2013. 
+Selection criteria
+We included randomised controlled trials comparing prophylactic somatostatin or one of its analogues versus no drug or placebo during pancreatic surgery (irrespective of language or publication status). 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and independently extracted data. We analysed data with both the fixed‐effect and random‐effects models using Review Manager (RevMan). We calculated the risk ratio (RR), mean difference (MD) or standardised mean difference (SMD) with 95% confidence intervals (CI) based on an intention‐to‐treat or available case analysis. When it was not possible to perform either of the above, we performed a per protocol analysis. 
+Main results
+We identified 21 trials (19 trials of high risk of bias) involving 2348 people. There was no significant difference in the perioperative mortality (RR 0.80; 95% CI 0.56 to 1.16; n = 2210) or the number of people with drug‐related adverse effects between the two groups (RR 2.09; 95% CI 0.83 to 5.24; n = 1199). Quality of life was not reported in any of the trials. The overall number of participants with postoperative complications was significantly lower in the somatostatin analogue group (RR 0.70; 95% CI 0.61 to 0.80; n = 1903) but there was no significant difference in the re‐operation rate (RR 1.26; 95% CI 0.58 to 2.70; n = 687) or hospital stay (MD ‐1.29 days; 95% CI ‐2.60 to 0.03; n = 1314) between the groups. The incidence of pancreatic fistula was lower in the somatostatin analogue group (RR 0.66; 95% CI 0.55 to 0.79; n = 2206). The proportion of these fistulas that were clinically significant was not mentioned in most trials. On inclusion of trials that clearly distinguished clinically significant fistulas, there was no significant difference between the two groups (RR 0.69; 95% CI 0.38 to 1.28; n = 292). 
+Authors' conclusions
+Somatostatin analogues may reduce perioperative complications but do not reduce perioperative mortality. Further adequately powered trials with low risk of bias are necessary. Based on the current available evidence, somatostatin and its analogues are recommended for routine use in people undergoing pancreatic resection. 

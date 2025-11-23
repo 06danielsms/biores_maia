@@ -1,0 +1,17 @@
+Mefloquine for preventing malaria in pregnant women
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out whether the antimalarial drug mefloquine is efficacious and safe for prevention of malaria in pregnant women living in stable transmission areas. We found six relevant studies to help us answer this question. 
+Key messages 
+The antimalarial drug mefloquine is efficacious for malaria prevention in pregnant women. The drug has been found to be safe in terms of adverse pregnancy outcomes, such as low birth weight, prematurity, stillbirths and abortions, and congenital malformations. However, it is worse tolerated than other antimalarial drugs. 
+What was studied in the review? 
+Pregnant women are vulnerable to malaria infection, especially if they are living with HIV. The consequences of malaria during pregnancy can be severe and include poor health outcomes for both women and their children. For this reason, in malaria‐endemic areas of stable transmission, women are recommended to prevent malaria infection by sleeping under mosquito bed‐nets and by taking effective drugs (such as sulphadoxine‐pyrimethamine or cotrimoxazole in case of HIV infection) as chemoprevention against malaria throughout pregnancy. 
+This Cochrane Review looked at the effects of mefloquine for prevention of malaria in both HIV‐uninfected and HIV‐infected pregnant women. 
+What are the main results of the review? 
+We found five relevant studies conducted in sub‐Saharan Africa and one in Thailand between 1987 and 2013. These studies compared mefloquine with placebo or other antimalarial drugs currently recommended for prevention of malaria in pregnant women. The review shows the following: 
+• Compared with sulfadoxine‐pyrimethamine, mefloquine chemoprevention in HIV‐uninfected women: 
+◦reduces risks of maternal peripheral parasitaemia (presence of malaria parasites in the blood of women) and anaemia at delivery; ◦ makes no difference in the prevalence of adverse maternal outcomes (such as low birth weight, prematurity, stillbirths and abortions, and congenital malformations) and in the incidence of clinical malaria episodes during pregnancy; and ◦ increases risks of drug‐related adverse events including vomiting, fatigue/weakness, and dizziness. 
+• Compared with cotrimoxale prophylaxis alone, mefloquine chemoprevention plus cotrimoxazole in HIV‐infected women: 
+◦ reduces the risk of maternal peripheral parasitaemia at delivery and the risk of placental malaria; ◦ makes no difference in the prevalence of adverse pregnancy outcomes (such as low birth weight, prematurity, stillbirths and abortions, and congenital malformations) and in the incidence of clinical malaria episodes during pregnancy; and ◦ increases the risk of drug‐related adverse events such as vomiting and dizziness. 
+Overall, the high proportion of mefloquine‐related adverse events constitutes an important barrier to its effectiveness for malaria preventive treatment in pregnant women. 
+How up‐to‐date is this review? 
+The review authors searched for studies up to 31 January 2018.

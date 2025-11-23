@@ -1,0 +1,17 @@
+Immunity in vulnerable groups after COVID‐19 vaccination
+What did we want to find out? 
+We wanted to find out which studies on the most commonly used COVID‐19 vaccines in vulnerable subgroups have been published, and which outcomes were reported (e.g. effectiveness outcomes, safety, or immune response), to decide on the most relevant questions and answer these in further effectiveness systematic reviews (syntheses of the medical literature). 
+What did we do? 
+We searched medical databases and trial registries for studies on COVID‐19 vaccines that were authorised for use in the European Union (European Medicines Agency (EMA)‐approved) and those approved in at least 10 countries worldwide at the time of our search. 
+We included studies on additional conditions (comorbidities) that can reduce the immune reaction to vaccination, if they had more than 100 participants; they could include any age, sex, ethnicity, or country of recruitment. 
+We excluded studies looking at the general population and other than preselected COVID‐19 vaccines and subgroups.  
+Once we found the studies, we categorised the vaccines into the following groups: EMA‐approved COVID‐19 vaccines, other COVID‐19 vaccines, and schemes with different COVID‐19 vaccines. We summarised the results in an interactive online map. We mapped the study outcomes, the country in which the study was conducted, the study design, and the vulnerable population. 
+What did we find? 
+We included 318 studies. Most studies came from high‐income countries and included adults. We found that haematological malignancies (cancers that affect the blood, bone marrow, and lymph nodes) and solid tumours were examined in many studies, followed by people receiving dialysis and kidney transplants, rheumatic diseases, and others. Thirty‐one studies included pregnant or breastfeeding women. The majority of studies explored mRNA vaccines (N = 283 and N = 153 for BNT162b2 and mRNA‐1273) at two doses, and EMA‐approved vaccines were more commonly administered than other vaccines and schemes with different COVID‐19 vaccines.  
+Outcomes related to immunogenicity (how well a vaccine works, or the ability to stimulate the development of antibodies), especially the presence or absence of antibodies in the blood of patients or an estimate for the amount of these antibodies, were the most frequently reported outcome in more than 170 studies each. In addition, adverse events were assessed often (N = 126 studies), whilst SARS‐CoV‐2 infection was reported in only 80 studies. 
+What are the limitations of the evidence? 
+Due to the quick development of the pandemic, the research landscape may have changed. The newer Omicron variant has become the dominant variant, and a new vaccine has been approved by the EMA, which is not covered by our search. 
+How up‐to‐date is this evidence? 
+The evidence is up‐to‐date to December 2021.
+What are the next steps? 
+Based on the overview from this review, we have decided to conduct two detailed systematic reviews on haematological malignancies and kidney transplant recipients. 

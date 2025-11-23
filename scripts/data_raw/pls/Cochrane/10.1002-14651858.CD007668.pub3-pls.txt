@@ -1,0 +1,21 @@
+Psychological treatments for people with antisocial personality disorder
+Background 
+People with antisocial personality disorder (AsPD) may behave in a way that is harmful to themselves or others and is against the law. They can be dishonest and act aggressively without thinking. Many also misuse drugs and alcohol. Certain types of psychological treatment, such as talking or thinking therapies, may help people with AsPD. Such treatments aim to change the person’s behaviour, to change the person’s thinking, or to help the person manage feelings of anger, self‐harm, drug and alcohol abuse or negative behaviour. 
+This review updates one published in 2010.
+Review question 
+What are the effects of talking or thinking therapies for adults (aged 18 years and older) with AsPD, compared to treatment‐as‐usual (TAU), waiting list or no treatment? 
+Study characteristics 
+We searched for relevant studies up to 5 September 2019. We found 19 relevant studies for 18 different psychological interventions. Data were reported for 10 studies involving 605 adults (aged 18 years and older) with a diagnosis of AsPD, living in the community, hospital or prison. Eight interventions reported on the main outcomes of the review (aggression, reconviction, general/social functioning and adverse events), but few had data for participants with AsPD. The studies compared a psychological intervention against TAU, which is sometimes referred to as 'standard maintenance' (SM). 
+Most studies were conducted in the UK or North America and were financed by grants from major research councils. They included more male (75%) participants than females (25%), the average age of which was 35.5 years. The length of the studies ranged from 4 weeks to 156 weeks. Most of the studies (10 of the 19) used methods that were flawed, which means we cannot be certain of their findings and, as a result, are unable to draw any firm conclusions.  
+Main results 
+Below, we report the findings for each comparison, where data were available for a primary outcome. 
+Cognitive behaviour therapy (CBT) + TAUversus TAU. There was no difference between CBT + TAU and TAU for physical aggression or social functioning but the evidence is uncertain. 
+Impulsive lifestyle counselling (ILC) + TAU versus TAU. There was no difference between ILC + TAU and TAU for aggression or the adverse events of death or incarceration but the evidence is very uncertain. 
+Contingency management (CM) + SM versus SM. CM + SM, compared to SM, may improve social functioning slightly. 
+‘Driving whilst intoxicated' programme (DWI) + incarcerationversus incarceration. There was no difference between DWI + incarceration and incarceration on reconviction (re‐arrest) rates but the evidence is very uncertain. 
+Schema therapy (ST) versus TAU. The evidence is very uncertain about the effect of ST compared to TAU on reconviction. There is some evidence that, compared to TAU, ST may improve one aspect of social functioning: time to unescorted leave. There was no difference between ST and TAU for overall adverse events classified globally as negative outcomes but the evidence is very uncertain. 
+Social problem‐solving therapy (SPS) + psychoeducation (PE) versus TAU. There was no difference between SPS + PE and TAU for participants’ level of social functioning but the evidence is very uncertain. 
+Dialectical behaviour therapy (DBT) versus TAU. There was a suggestion that, compared to TAU, DBT may reduce for the number of self‐harm days but the evidence is very uncertain. 
+Psychosocial risk management (PSRM 'Resettle' programme) versus TAU. There was no difference between PSRM and TAU for the number of offences reported one year after release from prison, or for the risk of dying during the study, although the evidence is very uncertain. 
+Conclusions 
+The review shows that there is not enough good quality evidence to recommend or reject any psychological treatment for people with a diagnosis of AsPD. 

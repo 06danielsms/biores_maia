@@ -1,0 +1,15 @@
+Background
+Trauma is the leading cause of death in people under the age of 45 years. Over the past 20 years, intraoperative autologous transfusions (obtained by cell salvage, also known as intraoperative blood salvage (IBS)) have been used as an alternative to blood products from other individuals during surgery because of the risk of transfusion‐related infections such as hepatitis and human immunodeficiency virus (HIV). In this review, we sought to assess the effects and cost of cell salvage in individuals undergoing abdominal or thoracic surgery. 
+Objectives
+To compare the effect and cost of cell salvage with those of standard care in individuals undergoing abdominal or thoracic trauma surgery. 
+Search methods
+We ran the search on 25 November 2014. We searched the Cochrane Injuries Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), Ovid MEDLINE, Ovid MEDLINE In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE Daily and Ovid OLDMEDLINE, EMBASE Classic + EMBASE (OvidSP), PubMed, and ISI Web of Science (SCI‐Expanded & CPSI‐SSH). We also screened reference lists and contacted principal investigators. 
+Selection criteria
+Randomised controlled trials comparing cell salvage with no cell salvage (standard care) in individuals undergoing abdominal or thoracic trauma surgery. 
+Data collection and analysis
+Two authors independently extracted data from the trial reports. We used the standard methodological procedures expected by The Cochrane Collaboration. 
+Main results
+Only one small study (n = 44) fulfilled the inclusion criteria. Results suggested that cell salvage did not affect mortality overall (death rates were 67% (14/21 participants) in the cell salvage group and 65% (15/23) in the control group) (odds ratio (OR) 1.07, 95% confidence interval (CI) 0.31 to 3.72). For individuals with abdominal injury, mortality was also similar in both groups (OR 0.48, 95% CI 0.11 to 2.10). 
+Less donor blood was needed for transfusion within the first 24 hours postinjury in the cell salvage group compared with the control group (mean difference (MD) ‐4.70 units, 95% CI ‐8.09 to ‐1.31). Adverse events, notably postoperative sepsis, did not differ between groups (OR 0.54, 95% CI 0.11 to 2.55). Cost did not notably differ between groups (MD ‐177.81, 95% CI ‐452.85 to 97.23, measured in GBP in 2002). 
+Authors' conclusions
+Evidence for the use of cell salvage in individuals undergoing abdominal or thoracic trauma surgery remains equivocal. Large, multicentre, methodologically rigorous trials are needed to assess the relative efficacy, safety and cost‐effectiveness of cell salvage in different surgical procedures in the emergency context. 

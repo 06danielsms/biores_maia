@@ -1,0 +1,14 @@
+Background
+Laryngeal mask airway (LMA) administration is one way of delivering surfactant to the infant lung, with the potential benefit of avoiding endotracheal intubation and ventilation, ventilator induced lung injury and bronchopulmonary dysplasia (BPD). 
+Objectives
+To determine the effect of LMA surfactant administration either as prophylaxis or treatment compared to placebo, no treatment, or intratracheal surfactant administration on morbidity and mortality in preterm infants with, or at risk of, respiratory distress syndrome (RDS). 
+Search methods
+We searched CENTRAL (The Cochrane Library, October 2010), MEDLINE and PREMEDLINE (1950 to October 2010), EMBASE (1980 to October 2010) and CINAHL (1982 to October 2010). We also searched proceedings of scientific meetings, clinical trial registries, Google Scholar and reference lists of identified studies, as well as contacting expert informants and surfactant manufacturers. 
+Selection criteria
+Randomised, cluster‐randomised or quasi‐randomised controlled trials of laryngeal mask surfactant administration compared to placebo, no treatment, or other routes of administration (nebulised, pharyngeal instillation of surfactant before the first breath, thin endotracheal catheter surfactant administration or intratracheal surfactant instillation) on morbidity and mortality in preterm infants at risk of RDS. We considered published, unpublished and ongoing trials. 
+Data collection and analysis
+Two review authors independently assessed studies for eligibility and quality, and extracted data. 
+Main results
+We found no studies of prophylactic or early LMA surfactant administration. A single small study of late rescue LMA surfactant was identified as eligible for inclusion. The study enrolled 26 preterm infants born ≥ 1200 g with RDS on continuous positive airway pressure (nCPAP). LMA surfactant administration compared to no treatment resulted in a reduction in mean FiO2 required to maintain oxygen saturation between 88% and 92% for 12 hours after the intervention. No significant difference was reported in subsequent mechanical ventilation and endotracheal surfactant, pneumothorax, days on intermittent positive airway pressure (IPPV), and days on IPPV or oxygen. 
+Authors' conclusions
+There is evidence from a single small trial that LMA surfactant administration in preterm infants ≥ 1200 g with established RDS may have a short term effect in reducing oxygen requirements although the study is underpowered to detect important clinical effects. Adequately powered trials are required to determine the effect of LMA surfactant administration for prevention or treatment of RDS in preterm infants. LMA surfactant administration should be limited to clinical trials. 

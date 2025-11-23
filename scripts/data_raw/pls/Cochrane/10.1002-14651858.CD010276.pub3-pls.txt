@@ -1,0 +1,24 @@
+What are the most accurate tests for finding cancer of the mouth (oral cancer) and conditions that may lead to oral cancer? 
+Why is it important to improve the detection of oral cancer? 
+Persistent abnormal patches or sores in the mouth may represent mouth cancer or oral potentially malignant disorders (OPMDs). OPMDs can sometimes turn into mouth cancer, but if identified early enough patient outcomes can be improved. 
+What is the aim of this review? 
+Diagnosing mouth cancer involves the surgical removal of a piece of affected tissue (biopsy) that is then sent to a laboratory for examination of the cells using a microscope. This is painful for patients and involves a delay in finding out the results. The aim of this Cochrane Review review was to find out the accuracy of less invasive diagnostic tests that may provide more timely results. Researchers in Cochrane included 63 studies to answer this question. 
+What was studied in the review? 
+Three tests used in addition to a visual examination were evaluated.
+‐ Vital stain: a liquid that can be used as a mouthrinse or applied directly to a suspected abnormal area of the mouth. It is thought that any area that is coloured after applying this liquid has a high chance of being mouth cancer or an OPMD.‐ Oral cytology: a brush is used to remove cells from the suspected abnormal area that are sent to a laboratory for microscopic examination.‐ Light‐based detection: a special light shone in the mouth that is believed to make cancerous areas appear different to healthy areas. 
+A small number of studies evaluated a combination of these tests. No studies evaluated the accuracy of tests of blood or saliva. 
+What are the main results of the review? 
+The review included 63 studies involving 7942 abnormal patches or mouth sores. Each study participant underwent one or more diagnostic tests as well as a surgical biopsy. 
+The proportion of people in the included studies with mouth cancer or OPMDs identified through surgical biopsy ranged widely from 4% to 97%. Based on adults attending general dental practices in the UK, in a sample of 1000 lesions 25 would be mouth cancer or an OPMD, and 975 lesions would not be mouth cancer or an OPMD. 
+‐ Of the 1000 lesions that are tested with vital staining: 22 will be correctly identified as having mouth cancer or an OPMD (true positives), but three lesions that truly are mouth cancer or an OPMD will remain undetected; their 'negative' test results will be incorrect (false negatives). 663 lesions will be correctly identified as not having mouth cancer or an OPMD (true negatives), but 312 people will be incorrectly identified; their 'positive' test results will suggest they have mouth cancer or an OPMD (false positives). 
+‐ For oral cytology: 23 lesions will be correctly identified as having mouth cancer or an OPMD (true positives), but two lesions that truly are mouth cancer or an OPMD will remain undetected (false negatives). 917 lesions will be correctly identified as not having mouth cancer or an OPMD (true negatives), but 58 lesions will be incorrectly identified (false positives). 
+‐ For light‐based tests: 22 lesions will be correctly identified as having mouth cancer or an OPMD (true positives), but three lesions that truly are mouth cancer or an OPMD will remain undetected (false negatives). 488 lesions will be correctly identified as not having mouth cancer or an OPMD (true negatives), but 487 lesions will be incorrectly identified (false positives). 
+There was considerable variability in the accuracy of the vital staining and light‐based tests which meant that the results of a future study could take a broad range of values. 
+How reliable are the results of the studies in this review? 
+There were shortcomings in many of the studies that put them at high risk of bias. We rated the certainty of the evidence as moderate for oral cytology and low or very low for the remaining tests. 
+Who do the results of this review apply to? 
+Studies included in the review were carried out in many different countries but no studies originated in Africa. Most studies were completed in hospitals. Studies were published between 1980 and 2020. 
+What are the implications of this review? 
+Although cytology was the most accurate of all the tests, none can be recommended as a replacement for the currently used standard of a surgical biopsy and pathology assessment. Most studies investigated patients that had been referred to a hospital clinic for further investigation and so we have only limited information on how accurate they would be when used by a general dentist or frontline medical provider. 
+How up‐to‐date is this review? 
+Review authors searched for and used studies published up to 20 October 2020.

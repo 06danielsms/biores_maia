@@ -1,0 +1,14 @@
+Background
+Internal fixation, commonly used for extracapsular hip fractures, may fail particularly in unstable fractures. Replacement of the hip using arthroplasty, often used for intracapsular fractures, has been used as an alternative. 
+Objectives
+To compare replacement arthroplasty with internal fixation for the treatment of extracapsular hip fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (December 2005), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 4, 2005), MEDLINE, EMBASE, the UK National Research Register, several orthopaedic journals, conference proceedings and reference lists of articles. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing replacement arthroplasty with an internal fixation implant for adults with an extracapsular hip fracture. 
+Data collection and analysis
+Both review authors independently assessed 10 aspects of trial quality and extracted data. We requested additional information from trial investigators. Where appropriate, limited pooling of data was performed. 
+Main results
+Two randomised controlled trials including a total of 148 people aged 70 years or over with unstable extracapsular hip fractures in the trochanteric region were identified and included in this review. Both had methodological limitations, including inadequate assessment of longer‐term outcome. One trial compared a cemented arthroplasty with a sliding hip screw. This found no significant differences between the two methods of treatment for operating time, local wound complications, mechanical complications, reoperation, mortality or loss of independence of previously independent patients at one year. There was, however, a higher blood transfusion need in the arthroplasty group. The other trial compared a cementless arthroplasty versus a proximal femoral nail. It also found a higher blood transfusion need in the arthroplasty group, together with a greater operative blood loss, and a longer length of surgery. There were no significant differences between the two interventions for mechanical complications, local wound complications, reoperation, general complications, mortality at one year or long‐term function. None of the pooled outcome data yielded statistically significant differences between the arthroplasty and internal fixation, with the exception of the significantly higher numbers of participants in the arthroplasty group requiring blood transfusion (relative risk 1.71, 95% confidence interval 1.05 to 2.77). 
+Authors' conclusions
+There is insufficient evidence from randomised trials to determine whether replacement arthroplasty has any advantage over internal fixation for extracapsular hip fractures. Further larger well‐designed randomised trials comparing arthroplasty versus internal fixation for the treatment of unstable fractures are required. 

@@ -1,0 +1,19 @@
+What treatments did the participants take?
+In this study, all of the participants took AZD4831 or a placebo. A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure any of the effects they see in the participants who take the drug are actually caused by the drug.
+This was a "single-blind" study. This means the researchers, study doctors, and other study staff knew what the participants were taking but the participants did not.
+A computer program was used to randomly choose whether the participant took AZD4831 or the placebo. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+For the Japanese participants, this study was also a "dose escalation" study. This means that the first participants who took AZD4831 got a low dose. The study doctors looked at the results for these participants. Then they decided whether to increase the dose of AZD4831 in the next group of participants who had been randomly chosen to take AZD4831.
+
+The chart below shows the treatments the participants took. The doses of AZD4831 were measured in milligrams, also called "mg".
+
+Japanese participants: 
+- 2.5 mg of AZD4831 
+- 5 mg of AZD4831
+- 10 mg of AZD4831
+- Placebo
+
+Chinese participants:
+- 5 mg of AZD4831
+- Placebo
+
+In both groups, participants took AZD4831 or the placebo as a liquid by mouth, 1 dose a day for 10 days.

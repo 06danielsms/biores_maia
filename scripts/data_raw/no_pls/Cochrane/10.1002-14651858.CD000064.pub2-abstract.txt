@@ -1,0 +1,14 @@
+Background
+The majority of strokes are due to cerebral infarction. Ischaemic cerebral tissue tends to develop cytotoxic oedema which, if the blood‐brain barrier is disrupted, may be followed by vasogenic oedema. Large infarcts can develop life‐threatening massive oedema. Early treatment with corticosteroids could theoretically help reduce both cytotoxic and vasogenic oedema and so improve the clinical outcome after a stroke. 
+Objectives
+To assess the effect of corticosteroids in acute presumed ischaemic stroke.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched: 17 February 2011). 
+Selection criteria
+Published randomised trials comparing corticosteroids with placebo or a control group in people with acute (presumed or definite) ischaemic stroke. Trials were included if treatment began within 48 hours of stroke onset and if clinical outcomes were assessed. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, assessed trial quality and extracted the data. 
+Main results
+Eight trials involving 466 people were included. Details of trial quality that may relate to bias were not available for most trials. No difference was shown in the odds of death within one year (odds ratio (OR) 0.87, 95% confidence interval (CI) 0.57 to 1.34). Treatment did not appear to improve functional outcome in survivors. Seven trials reported neurological impairment but pooling the data was impossible because no common scale or time interval was used. The results were inconsistent between individual trials. The only adverse effects reported were small numbers of gastrointestinal bleeds, infections and deterioration of hyperglycaemia across both groups. The results are unchanged since the previous update. 
+Authors' conclusions
+There is not enough evidence to evaluate corticosteroid treatment for people with acute presumed ischaemic stroke. The conclusions are unchanged since the previous update. 

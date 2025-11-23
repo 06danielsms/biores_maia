@@ -1,0 +1,14 @@
+Background
+There is conflicting information about the impact of the menopause on glycaemic control amongst women with type 1 diabetes. Some menopausal women with type 1 diabetes are treated with hormone replacement therapy (HRT) but the effects of this treatment have, to date, not been established. 
+Objectives
+To assess the effects of HRT for women with type 1 diabetes mellitus.
+Search methods
+We searched The Cochrane Library, MEDLINE, EMBASE, CINAHL and PsycINFO from their inception to June 2012. The last search was run for all databases on 18 June 2012. 
+Selection criteria
+We selected randomised controlled trials or controlled clinical trials that involved peri‐ or postmenopausal women with type 1 diabetes undergoing HRT as an intervention. 
+Data collection and analysis
+Two researchers independently applied the inclusion criteria to the identified studies and assessed risk of bias. Disagreements were resolved by discussion or by intervention by a third party. Descriptive analysis was conducted for the review. 
+Main results
+Ninety‐two publications were screened. No studies met the inclusion criteria exclusively but one study that included both type 1 and type 2 diabetes participants was considered. This randomised clinical trial (RCT) compared HRT (N = 27) with placebo (N = 29) over 12 months. The outcome measures were cardiovascular risk factors, including lipid profile, glycaemic control, blood pressure and body weight. No significant differences between placebo and HTR were detected. Patient‐important outcomes like all‐cause mortality, cardiovascular disease, diabetic complications or health‐related quality of life were not investigated. 
+Authors' conclusions
+There is a lack of evidence around the use of HRT in women with type 1 diabetes. The one study that has been undertaken in this area is underpowered. More RCTs are required in the area to examine the impact of HRT on glycaemic control and cardiovascular outcomes. 

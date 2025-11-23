@@ -1,0 +1,14 @@
+Background
+Leprosy causes nerve damage which may result in nerve function impairment and disability. Decompressive surgery is used for treating nerve damage, although the effect is uncertain. This is an update of a review first published in 2009 and previously updated in 2010. 
+Objectives
+To assess the effects of decompressive surgery on nerve damage in leprosy.
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (15 October 2012), CENTRAL (2012, Issue 9 in The Cochrane Library), MEDLINE (January 1966 to October 2012), EMBASE (January 1980 to October 2012), AMED (January 1985 to October 2012), CINAHL Plus (January 1937 to October 2012) and LILACS (from January 1982 to October 2012). We checked reference lists of the studies identified, the Current Controlled Trials Register (www.controlled‐trials.com) (1 November 2012), conference proceedings and contacted trial authors. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of decompressive surgery for nerve damage in leprosy. 
+Data collection and analysis
+The primary outcome was improvement in sensory and motor nerve function after one year. Secondary outcomes were improvement in nerve function after two years, change in nerve pain and tenderness, and adverse events. Two authors independently extracted data and assessed trial quality. We contacted trial authors for additional information. We collected adverse effects information from the trials and non‐randomised studies. 
+Main results
+We included two RCTs involving 88 participants. The trials were at high risk of bias. The trials examined the added benefit of surgery over prednisolone for treatment of nerve damage of less than six months duration. After two years' follow‐up there was only very low quality evidence of no significant difference in nerve function improvement between participants treated with surgery plus prednisolone or with prednisolone alone. Adverse effects of decompressive surgery were not adequately described. 
+Authors' conclusions
+Decompressive surgery is used for treating nerve damage in leprosy but the available evidence from RCTs is of very low quality and does not show a significant added benefit of surgery over steroid treatment alone. Well‐designed RCTs are needed to establish the effectiveness of the combination of surgery and medical treatment compared to medical treatment alone. 

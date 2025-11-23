@@ -1,0 +1,14 @@
+Background
+As a result of the essential role of oestrogens in epiphyseal closure, aromatase inhibitors have been trialled as an intervention to improve height outcomes in male children and adolescents by inhibiting the conversion of testosterone to oestradiol. 
+Objectives
+To assess the effects of aromatase inhibitors in male children and adolescents with short stature. 
+Search methods
+To identify relevant trials, we searched the Cochrane Library (2014, Issue 7), MEDLINE, EMBASE, and the World Health Organization (WHO) ICTRP trial register from their inception until August 2014. In addition, we conducted citation searches and screened reference lists of included trials. 
+Selection criteria
+We included randomised controlled trials (RCTs) if they compared use of an aromatase inhibitor with placebo in male children and adolescents with short stature. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for relevance. Both authors carried out screening for inclusion, data extraction, and risk of bias assessment, with any disagreements resolved following discussion. We assessed trials for quality of evidence using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) instrument. We contacted study authors regarding missing information. Primary outcomes were final or near‐final height, adverse events, and health‐related quality of life. Secondary outcomes included all‐cause mortality, cognitive outcomes, socioeconomic effects, laboratory measures, short‐term growth parameters, and assessment of effects on bone health. Meta‐analysis was not appropriate due to the substantial clinical heterogeneity between trials; we presented the findings of the review in narrative format. 
+Main results
+We included four RCTs involving 207 participants (84 on interventions) in the review. Trials included males with constitutional delay of growth and puberty (CDGP), idiopathic short stature (ISS), and growth hormone (GH) deficiency. Three of the trials had an overall low or unclear risk of bias for primary outcomes. Short‐term growth outcomes, such as predicted adult height, improved in all trials. Just one trial reported the primary outcome of final and near‐final height as an extension under non‐randomised conditions. None of the trials assessed health‐related quality of life. One publication provided detailed information regarding the incidence of adverse events. A significant proportion (45%) of prepubertal boys with ISS treated with letrozole developed mild morphological abnormalities of their vertebrae, compared with none in the placebo group. 
+Authors' conclusions
+Available evidence suggested that aromatase inhibitors improved short‐term growth outcomes. There was no evidence to support an increase in final adult height, based on limited data, with only one of four trials publishing final height data under non‐randomised conditions. 

@@ -1,0 +1,13 @@
+Botulinum toxin injections for unilateral involuntary contractions of facial muscles
+The review question 
+We reviewed the evidence about the effect of botulinum toxin type A (BtA) in people with one‐sided, involuntary contractions of facial muscles, or hemifacial spasm. This is an update of a previous Cochrane Review: we assessed the efficacy (reduction in severity and disability) and safety of BtA versus placebo (a pretend medicine) in hemifacial spasm. 
+Background 
+Hemifacial spasm is a condition characterised by involuntary contractions of muscles on one side of the face. Although it is not dangerous, it usually causes cosmetic and functional problems, and may interfere with people's professional and social life, and have important health and economic implications. It is a chronic disorder, and recovery is rarely spontaneous. 
+Botulinum toxin is a powerful, natural chemical that can cause severe paralysis (an inability to move in the part of the body where it is applied) in animals and humans. It can also be used to treat many conditions, in particular those with involuntary muscle contractions, such as hemifacial spasm. Botulinum toxin is delivered by injections into the muscles that contract to produce most of the symptoms. There are different types of botulinum toxin, not all are available for treating health conditions. BtA is typically considered the first treatment option in hemifacial spasm. 
+Study characteristics 
+We performed a systematic search of the medical literature in July 2020 and found no studies that could be included in this review. 
+Key results 
+We found no clinically useful evidence from randomised clinical trials.
+Certainty in the evidence 
+The clinical benefit of BtA treatment for HFS has not been properly addressed in randomised clinical trials. 
+We did not systematically search for data from other sources of evidence, which, by definition, are more prone to bias and carry a higher level of uncertainty. Observational studies suggest that BtA is effective and safe in this setting. Future randomised studies should evaluate the impact on outcomes that are relevant for people with HFS, and help to guide clinical practice in the selection of the BtA formulation, dose, and technique of administration 

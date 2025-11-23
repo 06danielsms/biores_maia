@@ -1,0 +1,14 @@
+Background
+Elevated homocysteine levels have been shown to be an independent risk factor for cardiovascular disease. However studies of homocysteine lowering in general and end‐stage kidney disease (ESKD) populations have not demonstrated a reduction in cardiovascular event rates. Kidney transplant recipients have high homocysteine levels, high cardiovascular event rates and, unlike the ESKD population, may achieve normalisation of homocysteine levels with homocysteine lowering therapies. Thus may benefit from homocysteine lowering therapy. 
+Objectives
+To evaluate the effects of established homocysteine lowering therapy on cardiovascular mortality in patients with functioning kidney transplants. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 16 March 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+Randomised controlled trials of any therapy that has been shown to significantly lower homocysteine levels conducted in people with functioning kidney transplants. Studies were to be included if they compared homocysteine lowering therapy with placebo or usual care, or compare higher versus lower doses of homocysteine lowering therapy. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Results were to be expressed as the risk ratio (RR) for dichotomous outcomes or mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). Data was to be pooled using the random effects model. 
+Main results
+The literature search yielded 359 reports of which only one study was identified that met our inclusion criteria and reported relevant clinical endpoints. This study randomised 4110 adult participants with a functioning kidney transplant and elevated homocysteine levels to folic acid plus high dose B multivitamins or low dose multivitamins who were followed for a mean 4.0 years. Despite effectively lowering homocysteine levels) in homocysteine levels at follow‐up (MD ‐4.40 μmol/L, 95% CI ‐5.98 to ‐2.82) there was no evidence the intervention impacted on any of the outcomes reported including cardiovascular mortality (RR 0.91, 95% CI 0.69 to 1.20), all‐cause mortality (RR 1.04, 95% CI 0.88 to 1.22), myocardial infarction (RR 1.02, 95% CI 0.77 to 1.35), stroke (RR 1.08, 95% CI 0.69 to 1.71), commencement of renal replacement therapy (RR 1.12, 95% CI 0.91 to 1.37) or all reported adverse events (RR 1.02, 95% CI 0.87 to 1.20). There was no evidence the intervention impacted on the primary endpoint of the study, a cardiovascular event composite (RR 0.99, 95% CI 0.85 to 1.15). The study was of high quality. 
+Authors' conclusions
+There is no current evidence to support the use of homocysteine lowering therapy for cardiovascular disease prevention in kidney transplant recipients. 

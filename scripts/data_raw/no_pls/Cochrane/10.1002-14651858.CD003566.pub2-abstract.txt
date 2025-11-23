@@ -1,0 +1,14 @@
+Background
+Beta‐blocker therapy has a proven mortality benefit in patients with hypertension, heart failure and coronary artery disease, as well as during the perioperative period. These drugs have traditionally been considered contraindicated in patients with chronic obstructive pulmonary disease (COPD). 
+Objectives
+To assess the effect of cardioselective beta‐blockers on respiratory function of patients with COPD. 
+Search methods
+A comprehensive search of the Cochrane Airways Group Specialised Register (derived from systematic searches of CENTRAL, MEDLINE, EMBASE and CINAHL) was carried out to identify randomised blinded controlled trials from 1966 to August 2010. We did not exclude trials on the basis of language. 
+Selection criteria
+Randomised, blinded, controlled trials of single dose or longer duration that studied the effects of cardioselective beta‐blockers on the forced expiratory volume in one second (FEV1) or symptoms in patients with COPD. 
+Data collection and analysis
+Two independent reviewers extracted data from the selected articles, reconciling differences by consensus. Two interventions studied were the administration of beta‐blocker, given either as a single dose or for longer duration, and the use of beta2‐agonist given after the study drug. 
+Main results
+Eleven studies of single‐dose treatment and 11 of treatment for longer durations, ranging from 2 days to 16 weeks, met selection criteria. Cardioselective beta‐blockers, given as a single dose or for longer duration, produced no change in FEV1 or respiratory symptoms compared to placebo, and did not affect the FEV1 treatment response to beta2‐agonists. Subgroup analyses revealed no significant change in results for those participants with severe chronic airways obstruction, those with a reversible obstructive component, or those with concomitant cardiovascular disease. 
+Authors' conclusions
+Cardioselective beta‐blockers, given to patients with COPD in the identified studies did not produce adverse respiratory effects. Given their demonstrated benefit in conditions such as heart failure, coronary artery disease and hypertension, cardioselective beta‐blockers should not be routinely withheld from patients with COPD. 

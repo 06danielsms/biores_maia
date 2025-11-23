@@ -1,0 +1,16 @@
+Background
+Lower pole kidney stones typically have poor rates of spontaneous clearance from the body. Some studies have suggested that diuresis, percussion and inversion therapy could be beneficial for people with lower pole kidney stones following shock wave lithotripsy. There is however controversy about the relative benefits, harms, and efficacy of these interventions for the management of lower pole kidney stones. 
+Objectives
+To identify the benefits and harms of percussion, diuresis, and inversion therapy to facilitate the passage of lower pole kidney stones following shock wave lithotripsy. 
+Search methods
+We searched the Cochrane Renal Group's specialised register up to 27 November 2013 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs looking at the benefits and harms of percussion, diuresis, and inversion therapy for aiding passage of lower pole kidney stones following shock wave lithotripsy were sought for assessment. The first phases of randomised cross‐over studies were also eligible for inclusion. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Results were expressed as relative risk (RR) for dichotomous outcomes and mean difference (MD) or standardised mean difference (SMD) for continuous data with 95% confidence intervals (CI). 
+Main results
+We identified two small studies (177 participants) for inclusion and analysis. One study (69 participants) compared percussion, diuresis and inversion therapy following shock wave lithotripsy versus observation‐only after shock wave lithotripsy. This study reported significantly higher stone‐free rates in the intervention group (RR 0.62, 95% CI 0.47 to 0.82) and a significant reduction in stone burden (MD ‐3.30, 95% CI ‐3.58 to ‐3.03) compared to the observation‐only group. They reported no significant differences in complication rates (RR 3.00, 95% CI 0.12 to 76.24). 
+The second study (108 participants) compared percussion, diuresis, and inversion therapy plus shock wave lithotripsy with shock wave lithotripsy therapy alone. This study reported significantly higher stone‐free rates in the intervention group (RR 0.36, 95% CI 0.17 to 0.80) and a significant reduction in stone burden (MD ‐0.30, 95% CI ‐0.04 to ‐0.56) compared to the control group. They reported no significant differences in complication rates (RR 2.54, 95% CI 0.10 to 63.72). 
+For both studies selection bias was unclear; there was high risk of bias for performance bias; and detection, attrition and reporting bias were low. 
+Authors' conclusions
+Limited evidence from two small studies indicated that percussion, diuresis, and inversion therapy may be safe and effective therapies to assist clearance of lower pole kidney stone fragments following shock wave lithotripsy. Methodological quality in both studies was assessed as moderate. Further well‐designed and adequately powered studies are required to inform clinical practice. 

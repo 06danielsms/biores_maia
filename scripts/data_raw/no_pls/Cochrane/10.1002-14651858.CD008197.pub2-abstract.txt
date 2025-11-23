@@ -1,0 +1,14 @@
+Background
+During thoracoabdominal aortic aneurysm (TAAA) surgery, decreased spinal cord perfusion can result in neurological deficits such as paraplegia and paraparesis. Distal aortic perfusion, alone or in combination with other adjuncts, may counter the decrease in spinal cord perfusion and hence reduce the risk of spinal cord injury. 
+Objectives
+To determine the effectiveness of distal aortic perfusion with or without other adjuncts against other adjuncts without use of distal perfusion during TAAA surgery in reducing the risk of developing paraplegia and paraparesis. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group Specialised Register (last searched 5 January 2012) and CENTRAL (Issue 4, 2011) were searched for publications describing randomised controlled trials of distal aortic perfusion during thoracoabdominal aortic aneurysm surgery. Reference lists of relevant studies were checked. 
+Selection criteria
+Randomised or quasi‐randomised controlled clinical trials of distal aortic perfusion during TAAA repair. 
+Data collection and analysis
+Studies identified for potential inclusion were independently assessed for inclusion by at least two authors, with excluded trials arbitrated by the third author. 
+Main results
+There were no randomised controlled trials identified.
+Authors' conclusions
+Currently, there are no randomised controlled trials to support the role of distal aortic perfusion in TAAA surgery for prevention of neurological injury. However, randomised controlled trials are not always feasible based on ethical grounds. Observational studies suggest that distal aortic perfusion alone or in combination with other adjuncts, that is cerebrospinal fluid (CSF) drainage, reduces the rate of neurologic deficit across all types of TAAA; in particular making a striking difference in the rate of neurologic deficit following type II TAAA repair. In the absence of randomised controlled trials, we recommend a standardised approach to reporting through registry studies to strengthen the evidence base for distal aortic perfusion. 

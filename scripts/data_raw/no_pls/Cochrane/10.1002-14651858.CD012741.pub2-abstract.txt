@@ -1,0 +1,14 @@
+Background
+Glaucoma is a leading cause of irreversible blindness. A number of minimally invasive surgical techniques have been introduced as a treatment to prevent glaucoma progressing. Among them, endoscopic cyclophotocoagulation (ECP) is a cyclodestructive procedure developed by Martin Uram in 1992. 
+Objectives
+To evaluate the efficacy and safety of ECP in people with open angle glaucoma (OAG) and primary angle closure whose condition is inadequately controlled with drops. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2018, Issue 6); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov and the WHO ICTRP. The date of the search was 12 July 2018. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) of ECP compared to other surgical treatments (other minimally invasive glaucoma device techniques, trabeculectomy), laser treatment or medical treatment. We also planned to include trials where these devices were combined with phacoemulsification compared to phacoemulsification alone. 
+Data collection and analysis
+Two review authors planned to independently extract data from reports of included studies using a data collection form and analyse data based on methods expected by Cochrane. Our primary outcome was proportion of participants who were drop‐free (not using eye drops). Secondary outcomes included mean change in IOP; proportion of participants who achieved an IOP of 21 mmHg or less, 17 mmHg or less or 14 mmHg or less; and proportion of participants experiencing intra‐ and postoperative complications, We planned to measure all outcomes in the short‐term (six to 18 months), medium‐term (18 to 36 months), and long‐term (36 months onwards). 
+Main results
+We found one ongoing study that met our inclusion criteria (ChiCTR‐TRC‐14004233). The study compares combined phacoemulsification with ECP to phacoemulsification alone in people with primary angle closure glaucoma. The primary outcome is intraocular pressure (IOP) and number of IOP‐lowering drugs. A total of 50 people have been enrolled. The study started in February 2014 and the trialists have completed recruitment and are in the process of collecting data. 
+Authors' conclusions
+There is currently no high‐quality evidence for the effects of ECP for OAG and primary angle closure. Properly designed RCTs are needed to assess the medium and long‐term efficacy and safety of this technique. 

@@ -1,0 +1,17 @@
+Background
+Early neonatal hyperglycemia is common among very low birth weight (VLBW) neonates. Increased risks for death and major morbidities have been observed among VLBW neonates who develop hyperglycemia. It is uncertain whether the hyperglycemia per se is a cause of adverse clinical outcomes or whether the incidence of adverse outcomes can be reduced by treatment. 
+Objectives
+To assess the effects on clinical outcomes of interventions for treating neonatal hyperglycemia in the VLBW neonate receiving total or partial parenteral nutrition. 
+Search methods
+We searched The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 4 of 12, 2011), MEDLINE (1966 to April 2011), EMBASE (1980 to April 2011) and CINAHL (1982 to July 2008). We searched for abstracts submitted for the annual meetings of Pediatric Academic Societies 2000 to 2011 and The European Society for Pediatric Research  2005 to 2010. 
+Selection criteria
+Randomized or quasi‐randomized trials of interventions for the treatment of hyperglycemia in hyperglycemic VLBW neonates were eligible for inclusion in this review. 
+Data collection and analysis
+Two review authors independently selected studies for eligibility and extracted data on study design, methodology, clinical features, and treatment outcomes. Additional information on study design and outcomes was obtained from the lead investigator of each of the two included trials. The included trials were assessed for blinding of randomization, blinding of caretakers to the intervention, completeness of follow‐up, and blinding of outcome measurement. The treatment effect measures for categorical outcomes were relative risk (RR) and risk difference (RD) with their 95% confidence intervals (CI); for continuous outcomes the measure was mean difference and 95% CI. 
+Main results
+Only two eligible trials were found (Collins 1991; Meetze 1998). Both were randomized but of very small size (24 and 23 neonates randomized in each trial, respectively). 
+No trial compared reduction versus no reduction of glucose infusion.
+Collins 1991 compared insulin infusion with standard care. Insulin infusion had no significant effect on death or bacterial sepsis; effects on other major morbidities were not assessed. Insulin infusion resulted in significant increases in non‐protein energy intake, glucose intake, and short‐term weight gain. 
+Meetze 1998 compared insulin infusion with reduction of glucose infusion. Insulin infusion had no significant effects on death, severe intraventricular hemorrhage, retinopathy of prematurity, bacterial sepsis, fungal sepsis, or necrotizing enterocolitis; effects on other major morbidities were not assessed. Insulin infusion resulted in significant increases in glucose intake and total energy intake. 
+Authors' conclusions
+Evidence from randomized trials in hyperglycemic VLBW neonates is insufficient to determine the effects of treatment on death or major morbidities. It remains uncertain whether the hyperglycemia per se is a cause of adverse clinical outcomes or how the hyperglycemia should be treated. Much larger randomized trials in hyperglycemic VLBW neonates that are powered on clinical outcomes are needed in order to determine whether, and how, the hyperglycemia should be treated. 

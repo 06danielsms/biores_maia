@@ -1,0 +1,14 @@
+Background
+Antibiotics are sometimes used to prevent recurrent sore throat, despite concern about resistance. However, there is conflicting primary evidence regarding their effectiveness. 
+Objectives
+To assess the effects of antibiotics in patients with recurrent sore throat.
+Search methods
+The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co‐ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 5); PubMed; EMBASE; CINAHL; Web of Science; Clinicaltrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 25 June 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) of antibiotics in adults and children suffering from pre‐existing recurrent sore throat, defined as three or more sore throats in a year, examining the incidence of sore throat recurrence, with follow‐up of at least 12 months post‐antibiotic therapy. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Multiple attempts to contact the authors of one study yielded no response. 
+Main results
+We identified no trials that met the inclusion criteria for the review. We discarded the majority of the references retrieved from our search following screening of the title and abstract. We formally excluded four studies following review of the full‐text report. 
+Authors' conclusions
+There is insufficient evidence to determine the effectiveness of antibiotics for preventing recurrent sore throat. This finding must be balanced against the known adverse effects and cost of antibiotic therapy, when considering antibiotics for this purpose. There is a need for high quality RCTs that compare the effects of antibiotics versus placebo in adults and children with pre‐existing recurrent sore throat on the following outcomes: incidence of sore throat recurrence, adverse effects, days off work and absence from school, and the incidence of complications. Future studies should be conducted and reported according to the CONSORT statement. 

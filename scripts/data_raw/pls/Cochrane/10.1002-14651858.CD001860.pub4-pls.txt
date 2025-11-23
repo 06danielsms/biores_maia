@@ -1,0 +1,19 @@
+Antibiotics for trachoma
+What is the aim of this review? The aim of this Cochrane Review was to find out if antibiotics work for treating trachoma, either in individuals or communities. Cochrane researchers collected and analysed all relevant studies to answer this question and found 26 studies. 
+Key messages The review shows that antibiotic treatment of people and communities with trachoma leads to less eye infection due to trachoma and less eye disease. Mass treatment of communities with antibiotics is associated with increased antimicrobial resistance. 
+What was studied in the review? Trachoma is caused by a kind of bacterial infection of the outer eye which, if not treated, can lead to blindness. This germ is known as Chlamydia trachomatis, which thrives where water is scarce and hygiene is poor. Trachoma is the most common infectious cause of vision loss and usually affects people living in poor communities. Repeated bouts of conjunctivitis (inflammation of the membrane that covers the surface of the eyeball and inside of the eyelids) known as 'active trachoma' caused by this eye infection can lead to inward turning of the upper eyelid. The eyelashes rub the clear front part of the eye (cornea) leading to pain, scarring, and blindness. 
+The World Health Organization (WHO) has developed the SAFE strategy to eliminate trachoma.
+• Surgery for inward‐turning eyelids • Antibiotics to clear the eye infection • Facial cleanliness to stop the eye infection being passed on • Environmental improvement, in particular clean water and sanitation 
+This review considers the A part of the SAFE strategy. Antibiotics can be used to treat the eye infection and may be given as an ointment or by mouth. The two antibiotics commonly used for the treatment of trachoma are azithromycin (single dose by mouth) and tetracycline (ointment applied to the eye over several weeks). 
+What are the main results of the review? Cochrane researchers found 26 relevant studies. 
+Fourteen studies enrolled people with trachoma. These studies took place in the following WHO regions (one study took place in two regions): African Region (three studies), Eastern Mediterranean Region (five studies), Region of the Americas (four studies), South‐East Asian Region (one study), and Western Pacific Region (two studies). Most of the studies enrolled children and young people with active trachoma. 
+These studies showed that: 
+⇒  people with trachoma treated with antibiotics may have less active trachoma and eye infection at three and 12 months after treatment (low‐certainty evidence); 
+⇒  there may be little or no difference in active trachoma between oral and topical antibiotics at three months and 12 months (low‐certainty evidence) but there was only very low‐certainty evidence on eye infection at three and 12 months; 
+⇒  there were no reports of serious adverse effects. The most common adverse effect reported was nausea with azithromycin.  
+Twelve studies enrolled communities in areas where trachoma is common and treated the whole community ('mass treatment'). These studies took place mainly in the African Region (10 studies), with one study in the Eastern Mediterranean Region (Egypt) and one study in the Western Pacific Region (Vietnam). 
+These studies showed that: 
+⇒  communities treated with azithromycin had less trachoma (active trachoma and eye infection) 12 months after a single dose treatment (moderate‐certainty evidence); 
+⇒  there was no strong evidence to support changing from the currently recommended strategy of mass treatment of affected communities every year; 
+⇒  there was an increased risk of antimicrobial resistance in treated communities (high‐certainty evidence).  
+How up‐to‐date is this review? Cochrane researchers searched for studies that had been published up to 4 January 2019. 

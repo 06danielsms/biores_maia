@@ -1,0 +1,28 @@
+Interventions for bronchiectasis: an overview of Cochrane systematic reviews
+What is bronchiectasis? 
+Bronchiectasis is a long‐term respiratory disease that is commonly associated with a troublesome cough productive of mucous (or chronic wet cough in children) and recurrent flare‐ups (exacerbations) due to lung infections. It significantly impacts upon normal daily activities and quality of life, and can lead to recurrent hospitalisations, loss of lung function and even death. 
+We looked at the available Cochrane reviews on bronchiectasis and found overall that there are relatively few trials and Cochrane reviews available so it is difficult to draw helpful conclusions about how to treat bronchiectasis. 
+Overviews are designed to present the contents from a selection of reviews in a concise and helpful manner. To do this, we made an evidence map of the available information from guidelines, clinical trials and Cochrane reviews, and highlighted the need for new research. We have listed the most important outcomes for measuring benefit and harm in bronchiectasis (particularly exacerbations, quality of life and lung function), and areas of clinical practice that are in most urgent need of evidence‐based support (including long term antibiotics, inhaled corticosteroids and mucolytics) in future studies. 
+The key findings for difference medicines and treatments were:
+‐ Long‐term antibiotics may reduce sputum (a mixture of saliva and mucous that is coughed up from the airways) production, frequency of exacerbations and hospitalisation, but may also be associated with more frequent side effects (wheeze, dyspnoea (difficulty in breathing) and chest pain). 
+‐ Inhaled corticosteroid treatment may improve lung function but the effect is small.
+‐ Bromhexine may reduce cough, but evidence of benefit for hyperosmolar agents and mucolytics is generally unclear. 
+‐ Airway clearance techniques may reduce sputum production and improve quality of life. 
+‐ RhDNase (a medicine used to treat bronchiectasis) is associated with more frequent exacerbations. 
+‐ long‐acting beta2‐agonists/ICS combination therapy may reduce dyspnoea, wheeze and cough. 
+About 70% of trials in the reviews included in the overview were small (40 participants or fewer), which limits interpretation. 
+Side effects were reported in seven reviews:
+‐ Long‐term courses of antibiotics were associated with more cases of wheeze, breathlessness and chest pain, but we could not assess the risks of developing antibiotic resistance. 
+‐ In the review comparing mucolytics (medicines that make the mucous less thick and sticky and easier to cough up) with placebo (a pretend medicine), side effects were not reported for erdosteine comparisons. No significant side effects were reported for bromhexine, though side effects were associated with RhDNase. 
+‐ Side effects were not reported in the single trials included in the inhaled corticosteroid review or the physical therapy review and the impact of adverse events in the single trial included in the inhaled corticosteroid/long‐acting beta2‐agonists combination versus inhaled corticosteroids review were unclear. 
+‐ The reviews of short‐term courses of antibiotics and inhaled hyperosmolar agents reported no significant differences in occurrence of side effects. Fewer admissions to hospital were reported for long‐term antibiotics. 
+‐ No reviews reported significant differences in deaths between treatment and control groups, but only a small number of reviews recorded deaths. 
+The included evidence came from:
+‐ 21 Cochrane reviews, but there was only useable data in nine reviews.
+‐ Forty trials were included in the nine reviews and 28 (70%) of the trials included 40 or fewer participants. Only three trials (nine to 34 participants) included children. 
+‐ Each review included from one to 11 trials.
+‐ The studies ranged from single session to year‐long studies.
+‐ The total number of participants included in reviews ranged from 40 to 1040.
+‐ The age range of adult participants was from 36 to 73 years and children ranged from six to 16 years. 
+‐ The included reviews were judged to be of high quality.
+‐ However, the majority of trials in the bronchiectasis reviews were small and at risk of bias, so confidence in the effects of treatments therefore requires additional evidence from larger and more methodologically robust trials 

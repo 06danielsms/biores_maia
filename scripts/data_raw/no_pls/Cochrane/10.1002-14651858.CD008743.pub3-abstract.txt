@@ -1,0 +1,14 @@
+Background
+Health information systems such as electronic health records (EHR), computerized decision support systems, and electronic prescribing are potentially valuable components to improve the quality and efficiency of clinical interventions for tobacco use. 
+Objectives
+To assess the effectiveness of electronic health record‐facilitated interventions on smoking cessation support actions by clinicians, clinics, and healthcare delivery systems and on patient smoking cessation outcomes. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, CENTRAL, MEDLINE, EMBASE, PsycINFO, CINAHL, and reference lists and bibliographies of included studies. We searched for studies published between January 1990 and July 2014. 
+Selection criteria
+We included both randomized studies and non‐randomized studies that reported interventions targeting tobacco use through an EHR in healthcare settings. The intervention could include any use of an EHR to improve smoking status documentation or cessation assistance for patients who use tobacco, either by direct action or by feedback of clinical performance measures. 
+Data collection and analysis
+Characteristics and content of the interventions, participants, outcomes and methods of the included studies were extracted by one author and checked by a second. Because of wide variation in measurement of outcomes, we were not able to conduct a meta‐analysis. 
+Main results
+We included six group randomized trials, one patient randomized study, and nine non‐randomized observational studies of fair to good quality that tested the use of an existing EHR to improve documentation and/or treatment of tobacco use. None of the studies included a direct assessment of patient quit rates. Overall, these studies found only modest improvements in some of the recommended clinician actions on tobacco use. 
+Authors' conclusions
+Documentation of tobacco status and referral to cessation counselling appears to increase following EHR modifications designed to prompt the recording and treating of tobacco use at healthcare visits. There is a need for additional research to enhance the potential of EHRs to prompt additional tobacco use treatment and cessation outcomes in healthcare settings. 

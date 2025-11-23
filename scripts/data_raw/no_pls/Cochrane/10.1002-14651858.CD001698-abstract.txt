@@ -1,0 +1,14 @@
+Background
+Shoulder pain after stroke is common and disabling. The optimal management is uncertain, but electrical stimulation (ES) is often used to treat and prevent pain. 
+Objectives
+To determine the efficacy of any form of surface ES in the prevention and/or treatment of pain around the shoulder at any time after stroke. 
+Search methods
+We searched the Cochrane Stroke Review Group trials register and undertook further searches of MEDLINE, EMBASE and CINAHL. Contact was established with equipment manufacturers and centres that have published on the topic of ES. 
+Selection criteria
+We considered all randomised trials that assessed any surface ES technique (functional electrical stimulation (FES), transcutaneous electrical nerve stimulation (TENS) or other), applied at any time since stroke for the purpose of prevention or treatment of shoulder pain. 
+Data collection and analysis
+Two reviewers independently selected trials for inclusion, assessed trial quality and extracted the data. 
+Main results
+Four trials (a total of 170 subjects) fitted the inclusion criteria. Study design and ES technique varied considerably, often precluding the combination of studies. Population numbers were small. There was no significant change in pain incidence (Odds Ratio (OR) 0.64; 95% CI 0.19 to 2.14) or change in pain intensity (Standardised Mean Difference (SMD) 0.13; 95% CI ‐1.0 to 1.25) after ES treatment compared to control. There was a significant treatment effect in favour of ES for improvement in pain‐free range of passive humeral lateral rotation (Weighted Mean Difference (WMD) 9.17; 95% CI 1.43 to 16.91). In these studies ES reduced the severity of glenohumeral subluxation (SMD ‐1.13; 95% CI ‐1.66 to ‐0.60), but there was no significant effect on upper limb motor recovery (SMD 0.24; 95% CI ‐0.14 to 0.62) or upper limb spasticity (WMD 0.05; 95% CI ‐0.28 to 0.37). There did not appear to be any negative effects of electrical stimulation at the shoulder. 
+Authors' conclusions
+The evidence from randomised controlled trials so far does not confirm or refute that ES around the shoulder after stroke influences reports of pain, but there do appear to be benefits for passive humeral lateral rotation. A possible mechanism is through the reduction of glenohumeral subluxation. Further studies are required. 

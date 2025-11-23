@@ -1,0 +1,20 @@
+Calcium channel blockers for treatment of patients with Raynaud’s phenomenon
+Raynaud's phenomenon (RP) is a disorder that results in decreased blood flow to the fingers and toes as the result of vasospasm. Symptoms include discoloration (such as a fingertip turning white, then blue and/or red), pain, and, in severe cases, open sores of the digits. Cold, stress, and emotional discomfort are the most common triggers of a Raynaud's attack. No underlying disease is associated with primary RP. Secondary RP is associated with underlying conditions such as systemic sclerosis. 
+This review assessed the benefits and harms of calcium channel blockers (CCBs) compared with placebo (a substance that appears the same as the active drug but has no active ingredient) for treatment of patients with RP, based on studies published up to May 19, 2017. CCBs are drugs that increase blood flow to the digits and usually are used as first‐line treatment for patients with RP. The objective of this review was to determine the benefits and harms of CCBs overall, by dose and type of drug and by type of RP (primary vs secondary). 
+Study characteristics 
+We identified and included 38 studies with 982 people 18 years old and over with disease of various duration and severity. Nine studies included patients with primary RP, five included patients with secondary RP, and the rest examined patients with both types of RP. Trial duration ranged from 2 to 20 weeks. 
+What did this review discover about the use of CCBs versus placebo for RP? 
+Reviewers found that:
+• CCBs probably reduce slightly the frequency, severity, and overall patient assessment of Raynaud's attacks (moderate‐quality evidence downgraded for concerns of imprecision or inconsistency); 
+• CCBs may improve slightly the duration and pain of Raynaud's attacks (low‐quality evidence downgraded for imprecision and inconsistency); 
+• because of lack of data and high dropout rates, effects of CCBs on risk of dropout due to treatment side effects remain uncertain; 
+• the most common side effects were headache, dizziness, nausea, palpitations, and ankle edema; and 
+• serious adverse events (death or hospitalization) were not reported.
+Best estimates of what happens to people with RP who take CCBs for 2 to 20 weeks 
+When investigators considered both primary and secondary RP, they reported that 528 people who took CCBs experienced six fewer attacks per week than those who took placebo. People who took a CCB had an average of 8 attacks per week, compared with 14 attacks per week among those taking placebo. 
+Duration of attacks (in minutes) was about the same for people taking CCBs or placebo. However, this finding was based on a small number of people. 
+Severity of attacks measured on a 10‐cm scale (lower scores indicate less severe attacks) was 0.62 cm lower with CCBs; this was equal to a 6% reduction. People who took a CCB rated the severity of an attack as 6.1 cm, compared with 6.7 cm for those taking placebo. 
+Pain was reduced by 1.5 points on a 0 to 10 scale (15% absolute reduction, lower score means less pain) with CCBs compared with placebo. People who took a CCB reported a pain score of 1.6 points, compared with 3.1 points for those taking placebo. 
+Overall disability was reduced by 0.4 points on a 0 to 10 scale (4% absolute reduction, lower score means less disability) among people who took CCBs compared with placebo. People who took a CCB reported a disability score of 3.5 points, compared with 3.9 points for those taking placebo. 
+Six more people out of 100 who took a CCB withdrew from the study owing to adverse events (6% more withdrawals). Out of 100 people taking a CCB, 25 withdrew from the study, compared with 19 out of 100 taking placebo. 
+This review suggests that CCBs (particularly drugs in the dihydropyridine class such as nifedipine) in higher doses may be beneficial for the management of RP, particularly primary RP. Although slightly more participants taking CCBs withdrew as the result of treatment side effects, no reported side effects were serious. 

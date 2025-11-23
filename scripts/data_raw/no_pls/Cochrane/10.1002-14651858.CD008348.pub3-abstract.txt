@@ -1,0 +1,14 @@
+Background
+Sonothrombolysis is a promising but unproven tool for treating acute ischaemic stroke. There is an ongoing debate about the efficacy, safety, technical aspects of ultrasound administration and the possible potentiating effect of microbubbles. 
+Objectives
+To assess the effectiveness and safety of sonothrombolysis in patients with acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched in November 2011), the Cochrane Controlled Trials Register (The Cochrane Library 2011, Issue 12), MEDLINE (1950 to November 2011), EMBASE (1980 to November 2011), Database of Abstract and Review of Effects (DARE) (The Cochrane Library 2011, Issue 11), Stroke Trials Registry, Clinicaltrials.gov and Current Controlled Trials. We also searched the reference lists from relevant articles and reviews, and contacted colleagues, authors and researchers active in the field. Searching was completed in November 2011. 
+Selection criteria
+Randomised trials of sonothrombolysis (any duration, any frequency of ultrasound, with or without microbubbles administration) started within 12 hours of symptom onset compared with intravenous tissue plasminogen activator (tPA) or conventional treatment.  
+Data collection and analysis
+Two review authors selected trials for inclusion, assessed trial quality and extracted the data independently. We contacted study authors for missing data. 
+Main results
+We identified five eligible studies (233 patients). For the primary outcome (death or dependency at three months), five studies with a total number of 206 patients were available (four defined independence as a modified Rankin score of 0 to 2 and one used 0 to 1). Patients treated with sonothrombolysis were less likely to be dead or disabled at three months (odds ratio (OR) 0.50, 95% confidence interval (CI) 0.27 to 0.91). For the secondary outcomes, failure to recanalise was lower in the sonothrombolysis group (230 patients) (OR 0.28, 95% CI 0.16 to 0.50), no significant difference was found in mortality (206 patients) and in cerebral haemorrhage (233 patients). 
+Authors' conclusions
+Sonothrombolysis appears to reduce death or dependency at three months (although CIs are quite wide), and increases recanalisation without clear hazard. A larger clinical trial is warranted. 

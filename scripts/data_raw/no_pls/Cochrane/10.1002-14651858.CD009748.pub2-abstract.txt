@@ -1,0 +1,14 @@
+Background
+Almost half of all the new HIV infections occur in youth. Motivational interviewing (MI) is a counselling technique that is effective in bringing about positive behavior changes in the general population. It is unclear whether it can be used to improve outcomes in youth living with HIV. 
+Objectives
+To determine whether MI is effective in improving outcomes in youth living with HIV.
+Search methods
+We used a comprehensive and exhaustive strategy in an attempt to identify all relevant studies, regardless of language or publication status, in electronic databases (PubMed, the Cochrane Central Register of Controlled Trials, EMBASE, LILACS, CINAHL, PsycINFO), conference proceedings and specialised databases from January 1980 to March 2012. 
+Selection criteria
+Randomised controlled trials (RCTs) in which youth (aged 10 to 24) living with HIV received MI, singly or in combination with another intervention compared to any other intervention, and reporting on the outcomes of interest (adherence to medication, mortality, quality of life, viral load, CD4‐positive‐T‐lymphocyte count, progression to AIDS, retention in care, substance abuse and condom use). All settings were considered. 
+Data collection and analysis
+We identified 863 references.Two authors independently examined the titles and abstracts of all identified trials, of which 28 full‐text articles were closely screened for eligibility based on criteria established a‐priori. The included studies were appraised for quality in duplicate. Data were extracted using a pre‐tested and standardised form. No meta‐analyses were performed. 
+Main results
+Two trials located in the United States, reported in four papers met our inclusion criteria. They enrolled a total of 237 participants and compared motivational interviewing singly to standard of care. None of these trials reported on adherence to HIV medication, mortality or quality of life. Both trials reported reductions in viral load (in the short term) and unprotected sexual acts. A reduction in alcohol use was identified only in one of two studies that reported on this outcome. One trial reported on retention. Retention rates were not affected by the intervention. 
+Authors' conclusions
+There is moderate quality evidence, coming from two trials which suggests that MI is effective in reducing short term viral load and unprotected sexual acts. There is moderate quality evidence from one trial that MI is effective in reducing alcohol use. There is a need for more trials which report on outcomes such as adherence to medication, mortality and quality of life in youth. 

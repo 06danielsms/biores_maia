@@ -1,0 +1,14 @@
+Background
+Patients with colorectal cancer are frequently anaemic and many receive allogeneic red blood cell transfusions peri and post‐operatively. Transfusions are accompanied by complications and may increase the rate of recurrence in patients who have a colorectal resection. Recombinant erythropoietin was first used in dialysis patients and more recently in orthopedic surgery to facilitate autologous transfusions. Erythropoietin levels are thought to be lower in cancer patients and erythropoietin is widely used in chemotherapy to treat anaemia and improve quality of life. There may be adverse events associated with its use. Several studies have investigated erythropoietin in colorectal cancer surgery. 
+Objectives
+The primary objective of this systematic review was to evaluate the efficacy of erythropoietin pre and peri‐operatively, in reducing allogeneic blood transfusions in patients undergoing colorectal cancer surgery. Secondary objectives were to determine whether pre and peri‐operative erythropoietin improves hematologic parameters (hemoglobin, hematocrit and reticulocyte count), quality of life, recurrence rate, and survival, without increasing the occurrence of thrombotic events and the peri‐operative mortality. 
+Search methods
+A literature search was performed using MEDLINE, EMBASE, abstracts from the annual meetings of the American Society of Clinical Oncology and the American Society of Colon and Rectal Surgeons until May 2008. 
+Selection criteria
+Randomized controlled trials of erythropoietin versus placebo or no treatment/standard of care were eligible for inclusion. The study must have reported one of the primary or secondary outcomes and included anaemic patients undergoing surgery for colorectal cancer. 
+Data collection and analysis
+The methodological quality of the trials was assessed using the information provided. Data were extracted and effect sizes were estimated and reported as relative risks(RR) and mean differences (MD) as appropriate. 
+Main results
+Four eligible studies were identified of ten retrieved in full. There were no statistically significant differences in the proportion of patients transfused between the erythropoietin group and control group. One of the studies showed a small difference in the median number of units transfused per patient favouring treatment. Reporting of hematologic parameters was varied however, there is no evidence for clinically significant changes. There were no significant differences in post‐operative mortality or thrombotic events between groups. No included study evaluated recurrences, survival, or quality of life. Studies were of fair methodologic quality and the overall sample size was small therefore results should be interpreted with caution. 
+Authors' conclusions
+There is no sufficient evidence to date to recommend pre and peri‐operative erythropoietin use in colorectal cancer surgery. 

@@ -1,0 +1,14 @@
+Background
+Hot flushes are common in women with a history of breast cancer. Hormonal therapies are known to reduce these symptoms but are not recommended in women with a history of breast cancer due to their potential adverse effects. The efficacy of non‐hormonal therapies is still uncertain. 
+Objectives
+To assess the efficacy of non‐hormonal therapies in reducing hot flushes in women with a history of breast cancer. 
+Search methods
+We searched the Cochrane Breast Cancer Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE, EMBASE, LILACS, CINAHL, PsycINFO (August 2008) and WHO ICTRP Search Portal. We handsearched reference lists of reviews and included articles, reviewed conference proceedings and contacted experts. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing non‐hormonal therapies with placebo or no therapy for reducing hot flushes in women with a history of breast cancer. 
+Data collection and analysis
+Two authors independently selected potentially relevant studies, decided upon their inclusion and extracted data on participant characteristics, interventions, outcomes and the risk of bias of included studies. 
+Main results
+Sixteen RCTs met our inclusion criteria. We included six studies on selective serotonin (SSRI) and serotonin‐norepinephrine (SNRI) reuptake inhibitors, two on clonidine, one on gabapentin, two each on relaxation therapy and homeopathy, and one each on vitamin E, magnetic devices and acupuncture. The risk of bias of most studies was rated as low or moderate. Data on continuous outcomes were presented inconsistently among studies, which precluded the possibility of pooling the results. Three pharmacological treatments (SSRIs and SNRIs, clonidine and gabapentin) reduced the number and severity of hot flushes. One study assessing vitamin E did not show any beneficial effect. One of two studies on relaxation therapy showed a significant benefit. None of the other non‐pharmacological therapies had a significant benefit. Side‐effects were inconsistently reported. 
+Authors' conclusions
+Clonidine, SSRIs and SNRIs, gabapentin and relaxation therapy showed a mild to moderate effect on reducing hot flushes in women with a history of breast cancer. 

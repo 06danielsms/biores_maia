@@ -1,0 +1,34 @@
+Background
+This living systematic review is one of several Cochrane Reviews evaluating the medical management of patients with chronic rhinosinusitis. 
+Chronic rhinosinusitis is common. It is characterised by inflammation of the nasal and sinus linings, nasal blockage, rhinorrhoea, facial pressure/pain and loss of sense of smell. It occurs with or without nasal polyps.   
+'Biologics' are medicinal products produced by a biological process. Monoclonal antibodies are one type, already evaluated in other inflammatory conditions (e.g. asthma and atopic dermatitis). 
+Objectives
+To assess the effects of biologics for the treatment of chronic rhinosinusitis.
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; CENTRAL (2020, Issue 9); Ovid MEDLINE; Ovid Embase; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished studies. The date of the search was 28 September 2020. 
+Selection criteria
+Randomised controlled trials (RCTs) with at least three months follow‐up comparing biologics (monoclonal antibodies) against placebo/no treatment in patients with chronic rhinosinusitis. 
+Data collection and analysis
+We used standard Cochrane methodological procedures. Our primary outcomes were disease‐specific health‐related quality of life (HRQL), disease severity and serious adverse events (SAEs). The secondary outcomes were avoidance of surgery, extent of disease (measured by endoscopic or computerised tomography (CT) score), generic HRQL and adverse effects (nasopharyngitis, including sore throat). We used GRADE to assess the certainty of the evidence for each outcome. 
+Main results
+We included 10 studies. Of 1262 adult participants, 1260 had severe chronic rhinosinusitis with nasal polyps; 43% to 100% of participants also had asthma. Three biologics, with different targets, were evaluated: dupilumab, mepolizumab and omalizumab. All of the studies were sponsored or supported by industry. For this update (2021) we have included two new studies, including 265 participants, which reported data relating to omalizumab. 
+Anti‐IL‐4Rα mAb (dupilumab) versus placebo/no treatment (all receiving intranasal steroids)  
+Three studies (784 participants) evaluated dupilumab. 
+Disease‐specific HRQL was measured with the SNOT‐22 (a 22‐item questionnaire, with a score range of 0 to 110; minimal clinically important difference (MCID) 8.9 points). At 24 weeks, dupilumab results in a large reduction (improvement) in the SNOT‐22 score (mean difference (MD) ‐19.61, 95% confidence interval (CI) ‐22.54 to ‐16.69; 3 studies; 784 participants; high certainty). 
+At between 16 and 52 weeks of follow‐up, dupilumab probably results in a large reduction in disease severity, as measured by a 0‐ to 10‐point visual analogue scale (VAS) (MD ‐3.00, 95% CI ‐3.47 to ‐2.53; 3 studies; 784 participants; moderate certainty). This is a global symptom score, including all aspects of chronic rhinosinusitis symptoms. 
+At between 16 and 52 weeks of follow‐up, dupilumab may result in a reduction in seriousadverse events compared to placebo (5.9% versus 12.5%, risk ratio (RR) 0.47, 95% CI 0.29 to 0.76; 3 studies, 782 participants; low certainty). 
+Anti‐IL‐5 mAb (mepolizumab) versus placebo/no treatment (all receiving intranasal steroids)  
+Two studies (137 participants) evaluated mepolizumab. 
+Disease‐specific HRQL was measured with the SNOT‐22. At 25 weeks, the SNOT‐22 score may be reduced (improved) in participants receiving mepolizumab (MD ‐13.26 points, 95% CI ‐22.08 to ‐4.44; 1 study; 105 participants; low certainty; MCID 8.9).  
+It is very uncertain whether there is a difference in disease severity at 25 weeks: on a 0‐ to 10‐point VAS, disease severity was ‐2.03 lower in those receiving mepolizumab (95% CI ‐3.65 to ‐0.41; 1 study; 72 participants; very low certainty). 
+It is very uncertain if there is a difference in the number of serious adverse events at between 25 and 40 weeks (1.4% versus 0%; RR 1.57, 95% CI 0.07 to 35.46; 2 studies; 135 participants, very low certainty). 
+Anti‐IgE mAb (omalizumab) versus placebo/no treatment (all receiving intranasal steroids)  
+Five studies (329 participants) evaluated omalizumab. 
+Disease‐specific HRQL was measured with the SNOT‐22. At 24 weeks omalizumab probably results in a large reduction in SNOT‐22 score (MD ‐15.62, 95% CI ‐19.79 to ‐11.45; 2 studies; 265 participants; moderate certainty; MCID 8.9). 
+We did not identify any evidence for overall disease severity. 
+It is very uncertain whether omalizumab affects the number of serious adverse events, with follow‐up between 20 and 26 weeks (0.8% versus 2.5%, RR 0.32, 95% CI 0.05 to 2.00; 5 studies; 329 participants; very low certainty). 
+Authors' conclusions
+Almost all of the participants in the included studies had nasal polyps (99.8%) and all were using topical nasal steroids for their chronic rhinosinusitis symptoms. 
+In these patients, dupilumab improves disease‐specific HRQL compared to placebo. It probably also results in a reduction in disease severity, and may result in a reduction in the number of serious adverse events. 
+Mepolizumab may improve disease‐specific HRQL. It is very uncertain if there is a difference in disease severity or the number of serious adverse events. 
+Omalizumab probably improves disease‐specific HRQL compared to placebo. It is very uncertain if there is a difference in the number of serious adverse events. There was no evidence regarding the effect of omalizumab on disease severity (using global scores that address all symptoms of chronic rhinosinusitis). 

@@ -1,0 +1,14 @@
+Background
+Cervical artery dissection (CeAD) is a pathological bleed or tear, or both, in the wall of the carotid or vertebral arteries as they course through the neck, and is a leading cause of stroke in young people. 
+Objectives
+To assess the effectiveness of surgical and radiological interventions versus best medical treatment alone for treating symptomatic cervical artery dissection. 
+Search methods
+We performed comprehensive searches of the Cochrane Stroke Group Trials Register (last searched March 2020), the Cochrane Central Register of Controlled Trials (CENTRAL), 2020, Issue 4, in the Cochrane Library (searched March 2020), MEDLINE (1946 to March 2020) and Embase (1974 to March 2020). We searched relevant ongoing trials and research registers (searched March 2020), checked references in all relevant papers for additional eligible studies, and contacted authors and researchers in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) and controlled clinical trials (CCTs) of either surgical or endovascular intervention for the management of symptomatic CeAD were eligible for inclusion. Only studies with anticoagulants or antiplatelet treatment as the control group were included. Two review authors planned to independently extract data. 
+Data collection and analysis
+Primary outcomes were ipsilateral stroke and disability. Secondary outcomes were death, any stroke, or transient ischaemic attack, residual stenosis (> 50%), recurrence of cervical dissection, expanding pseudoaneurysm, or major bleeding. We analysed the studies according to the first choice of treatment. We planned to assess for risk of bias and apply GRADE criteria for any included studies. 
+Main results
+We did not find any completed RCTs or CCTs undertaken in this area of research.
+Authors' conclusions
+No RCTs or CCTs compared either surgery or endovascular therapy with control. Thus, there is no available evidence to support their use for the treatment of extracranial cervical artery dissection in addition to antithrombotic therapy in people who continue to have neurological symptoms when treated with antithrombotic therapy alone. 

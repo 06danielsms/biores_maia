@@ -1,0 +1,19 @@
+Are oral homeopathic medicinal products effective and safe to prevent and treat acute respiratory tract infections in children? 
+Review question 
+We investigated whether oral homeopathic medicinal products are effective and safe to prevent or treat acute respiratory tract infections (ARTIs) in children compared with an inactive (placebo) treatment or other medicines. 
+Background 
+Most respiratory infections resolve without treatment, but sometimes symptoms persist after the initial infection has gone. Treatment is therefore aimed at relieving symptoms. Respiratory infections are commonly caused by viruses, especially colds and flu, though some lung and ear infections are caused by bacteria. It may be difficult to distinguish between viral and bacterial infections, and they may coexist. Antibiotics are often prescribed for respiratory infections even though they are ineffective against viruses. 
+Children have on average three to six respiratory tract infections annually. Although most are mild and treatable, they sometimes require hospital treatment, and very rarely result in death. 
+Homeopathy may treat respiratory infections with few side effects, but its effectiveness and safety has not been well researched. 
+We assessed evidence from randomised controlled trials (studies that allocate people by chance to receive treatment), which is the best way to assess the safety and efficacy of medical treatments. 
+Search date 
+Our evidence is current to 27 November 2017.
+Study characteristics 
+We included eight studies involving 1562 children that compared oral homeopathic treatment to either placebo or standard treatment to prevent or treat respiratory infections in children. All studies investigated upper respiratory tract (from the nose to the windpipe (trachea)) infections, but one combined reporting of upper and lower respiratory tract (from the windpipe to the lungs and pleura (membranes covering the lungs)) infections, so the numbers of children with upper or lower infections is unknown. 
+Study funding sources 
+Three studies received funding from homeopathy manufacturers; one reported support from a non‐government organisation; two received government support; one was cosponsored by a university; and one did not report funding support. 
+Key results 
+Studies investigated a range of interventions for various illnesses and populations using different outcome measures, so only a small number could be combined for analysis. All moderate‐quality studies (low risk of bias) showed little or no beneficial effects for homeopathic medicinal products, whether individualised by a trained homeopath or a standard, non‐individualised commercially available therapy. Where results could be combined, there was probably little or no difference in benefit on short‐ or long‐term cure, or in prevention of ARTI. 
+Two low‐quality studies (unclear or high risk of bias) showed some benefit of homeopathic medicinal products for a limited number of outcomes. One study showed a reduction in disease severity for the homeopathy group at some time points. The other study showed a reduction in number of respiratory infections over the following year in the treatment groups, although more than a quarter of participants were not accounted for in the results. There was no difference between homeopathy and placebo groups for parents' time off work, antibiotic use, or adverse effects. Consequently, there is no convincing evidence homeopathic medicinal products are effective in treating ARTIs in children. We are unsure about safety because data on adverse events were poorly reported. 
+Quality of the evidence 
+We rated evidence as moderate or low quality for most outcomes. Three outcomes provided very low‐quality evidence because study populations and results differed significantly among studies; there were significant limitations in study design and reporting; and sample sizes were small. 

@@ -1,0 +1,14 @@
+Background
+There is evidence from experimental animals studies, prospective and retrospective observational studies that nonsteroidal anti‐inflammatory drugs (NSAIDS) may reduce the development of sporadic colorectal adenomas (CRAs) and cancer (CRC) and may induce the regression of adenomas in familial adenomatous polyposis (FAP). 
+Objectives
+To conduct a systematic review to determine the effect of NSAIDS for the prevention or regression of CRAs and CRC. 
+Search methods
+Randomized controlled trials (RCTs) up to September 2003 were identified.
+Selection criteria
+NSAIDS and aspirin (ASA) were the interventions. The primary outcomes were the number of subjects with at least one CRA, the change in polyp burden, and CRC. The secondary outcome was adverse events. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality. Dichotomous outcomes were reported as relative risks (RR) with 95% confidence intervals (CI). The data were combined with the random effects model if clinically and statistically reasonable. 
+Main results
+Nine trials with 150 familial adenomatous polyposis (FAP) and 24,143 population subjects met the inclusion criteria. The interventions included sulindac, celecoxib, or aspirin (ASA). From the combined results of three trials, significantly fewer subjects in the low dose ASA group developed recurrent sporadic CRAs [RR 0.77 (95% CI 0.61, 0.96), (NNT 12.5 (95% CI 7.7, 25)] after one to three years. In another three trials, phenotypic FAP subjects that received sulindac or celecoxib had a greater proportional reduction (range: 11.9% to 44%) in the number of CRAs compared to those in the control group (range: 4.5% to 10%). There was no significant difference for the outcomes of CRC or adverse events in any of the trials. 
+Authors' conclusions
+There was evidence from three pooled RCTs that ASA significantly reduces the recurrence of sporadic adenomatous polyps after one to three years. There is evidence from short‐term studies to support regression, but not elimination or prevention of CRAs in FAP. 

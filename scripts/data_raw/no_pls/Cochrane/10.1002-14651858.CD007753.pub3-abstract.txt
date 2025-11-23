@@ -1,0 +1,14 @@
+Background
+Forty per cent of individuals with early or intermediate stage cancer and 90% with advanced cancer have moderate to severe pain and up to 70% of patients with cancer pain do not receive adequate pain relief. It has been claimed that acupuncture has a role in management of cancer pain and guidelines exist for treatment of cancer pain with acupuncture. This is an updated version of a Cochrane Review published in Issue 1, 2011, on acupuncture for cancer pain in adults. 
+Objectives
+To evaluate efficacy of acupuncture for relief of cancer‐related pain in adults.
+Search methods
+For this update CENTRAL, MEDLINE, EMBASE, PsycINFO, AMED, and SPORTDiscus were searched up to July 2015 including non‐English language papers. 
+Selection criteria
+Randomised controlled trials (RCTs) that evaluated any type of invasive acupuncture for pain directly related to cancer in adults aged 18 years or over. 
+Data collection and analysis
+We planned to pool data to provide an overall measure of effect and to calculate the number needed to treat to benefit, but this was not possible due to heterogeneity. Two review authors (CP, OT) independently extracted data adding it to data extraction sheets. Data sheets were compared and discussed with a third review author (MJ) who acted as arbiter. Data analysis was conducted by CP, OT and MJ. 
+Main results
+We included five RCTs (285 participants). Three studies were included in the original review and two more in the update. The authors of the included studies reported benefits of acupuncture in managing pancreatic cancer pain; no difference between real and sham electroacupuncture for pain associated with ovarian cancer; benefits of acupuncture over conventional medication for late stage unspecified cancer; benefits for auricular (ear) acupuncture over placebo for chronic neuropathic pain related to cancer; and no differences between conventional analgesia and acupuncture within the first 10 days of treatment for stomach carcinoma. All studies had a high risk of bias from inadequate sample size and a low risk of bias associated with random sequence generation. Only three studies had low risk of bias associated with incomplete outcome data, while two studies had low risk of bias associated with allocation concealment and one study had low risk of bias associated with inadequate blinding. The heterogeneity of methodologies, cancer populations and techniques used in the included studies precluded pooling of data and therefore meta‐analysis was not carried out. A subgroup analysis on acupuncture for cancer‐induced bone pain was not conducted because none of the studies made any reference to bone pain. Studies either reported that there were no adverse events as a result of treatment, or did not report adverse events at all. 
+Authors' conclusions
+There is insufficient evidence to judge whether acupuncture is effective in treating cancer pain in adults. 

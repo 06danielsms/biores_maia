@@ -1,0 +1,16 @@
+Background
+Lymphoedema is the accumulation of excess fluid in the body caused by obstruction of the lymphatic drainage mechanisms. Treatment with Benzo‐pyrones is thought to reduce fluid forming in the subcutaneous tissues and reduce pain and discomfort of the affected area. 
+Objectives
+To assess the effectiveness of benzo‐pyrones compared to placebo in the management of lymphoedema. 
+Search methods
+We searched the Cochrane Breast Cancer Group register (September 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 4,2003), MEDLINE, EMBASE, CINAHL, UnCover, PASCAL, SIGLE, reference lists produced by The British Lymphology Society, the National Research Register (NRR) and The International Society of Lymphology congress proceedings. 
+Selection criteria
+Randomised controlled trials comparing Benzo‐pyrones with placebo.
+Data collection and analysis
+Trials were selected for eligibility and tested for quality by two blinded reviewers who independently extracted data. Meta‐analysis was not performed due to the poor quality of the trials. 
+Main results
+Fifteen trials were included. Three oxerutin trials tested the same dose over 6 months against placebo and included a total of 127 participants (data were available for 81). There were insufficient data from these to calculate the per cent reduction or increase in baseline excess limb volume. 
+One trial testing Cyclo 3 Fort (approved name) was found (57 participants) but insufficient data was provided to allow a proper analysis of its findings. A single trial of Daflon (approved name) was found (104 participants) but this also provided insufficient information to reach a conclusion about the effectiveness of the drug. Three trials of coumarin combined with troxerutin were found which tested two different doses of the drug against each other with no placebo, however participant numbers and baseline data were not provided. Eight trials of coumarin were identified. Two of these reported the same trial and the other potentially also referred to the same trial but this could not be confirmed. A further two papers also appeared to refer to the same trial but again this was unconfirmed. 
+Five studies added anti‐filarial drugs to the interventions tested. Participant data could not be extracted and the reporting of outcome measures in most was unclear. Loprinzi's 1999 trial was reported in more detail but its conclusions were very much at odds with other findings. 
+Authors' conclusions
+It is not possible to draw conclusions about the effectiveness of Benzopyrones in the management of lymphoedema from the current available trials. 

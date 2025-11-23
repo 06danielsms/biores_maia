@@ -1,0 +1,26 @@
+Painkillers for relieving pain caused by orthodontic treatment
+Review question 
+Do painkillers, taken before or after orthodontic treatment, help relieve pain? If so, which painkillers work best? 
+Background 
+Pain is a common side effect of orthodontic treatment. The pain resulting from orthodontic treatment may differ depending on the amount of force applied and the type of braces used. It may also change over the first few days following treatment. Pain has been ranked as the worst aspect of treatment and is the most common reason for people wanting to discontinue orthodontic treatment. Painkillers, swallowed or applied directly to the sore areas of the mouth following treatment, are thought to relieve the pain, making brace treatment more comfortable and acceptable. These painkillers are often cheap, readily available, easy to use and do not cause serious side effects. 
+Study characteristics 
+Authors working with Cochrane Oral Health carried out a review of existing studies and the evidence is current up to 19 June 2017. This review includes 32 studies published from 1993 to 2016 in which 3110 participants aged 9 to 34 years (2348 of whom were included in the analyses) were randomly allocated to groups to receive: 
+1) painkillers versus no treatment,
+2) painkillers versus a placebo (pretend or 'dummy' medicine),
+3) one painkiller versus a different painkiller, or
+4) a painkiller taken at different time intervals.
+The severity of pain experienced by the study participants was compared. Nearly all the evidence was from adults who received oral painkillers versus no treatment, or one oral painkiller versus another oral painkiller. This evidence fell into two main groups: 
+1) adults receiving paracetamol; or
+2) adults receiving non‐steroidal anti‐inflammatory drugs (NSAIDs).
+A small amount of evidence also investigated the effect of local anaesthetic and opioids (tramadol). 
+Key results 
+Analgesic versus placebo or no treatment  
+We found evidence that paracetamol, NSAIDs and local anaesthetic were effective at reducing pain intensity at 2 hours, 6 hours and 24 hours following orthodontic treatment when compared with either a placebo or no treatment group. 
+NSAID versus paracetamol  
+We found no clear evidence of a difference between the effect of ibuprofen and paracetamol for reducing pain intensity at 2 hours, 6 hours or 24 hours following either the placement of separators (between teeth) or placement of an initial aligning archwire. 
+Pre‐emptive NSAID versus post‐treatment NSAID  
+We found some very low‐quality evidence that ibuprofen taken 1 hour prior to separator placement significantly reduces pain intensity 2 hours afterwards when compared to ibuprofen taken post‐treatment. However, at 6 hours and 24 hours, we detected no clear difference. 
+NSAID versus local anaesthetic  
+There was no evidence of a difference between the interventions.
+Quality of the evidence 
+The evidence available for the main outcome of pain relief is of moderate to low quality, whilst the quality of the rest of the evidence was very low. We judged only one study to be at low risk of bias. 

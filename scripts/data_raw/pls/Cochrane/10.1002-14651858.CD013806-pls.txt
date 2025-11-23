@@ -1,0 +1,17 @@
+Tests to detect and inform the diagnosis of root caries
+Why is it important to improve root caries detection? 
+Root caries (tooth decay on the root of a tooth) is a well‐recognised disease, that is on the increase as populations grow older and keep more of their natural teeth into later life. Like coronal caries (tooth decay on the crown of the tooth), root caries can be associated with pain, discomfort, and tooth loss, which can contribute to poorer oral health‐related quality of life in the elderly. Detecting caries earlier can mean less invasive treatment is needed, where more tooth tissue can be preserved. It could also mean less cost to the patient and to healthcare services. 
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out whether any diagnostic tools could be used to support the general dentist to correctly identify root caries in adults.Researchers in Cochrane included four studies to answer this question. 
+What was studied in the review? 
+Four studies including 4997 root surfaces were included in the review. The studies took place in Switzerland and Hong Kong, and were published between 2009 and 2016. The accuracy of laser tests was examined in four studies, two studies examined radiographs (x‐rays), one study examined comprehensive visual examination, and one study examined a combined test of radiographs and visual examination. 
+What are the main results of the review? 
+All studies reported case finding (detection) rather than diagnosis that included the consideration of patient risk and history. Two studies evaluated the use of devices within the mouth, and two studies evaluated the use of devices on extracted teeth (in vitro studies). Due to the small number of studies and important differences in the setting of included studies we were unable to combine the results of the studies. 
+How reliable are the results of the studies in this review? 
+We found important study limitations in all included studies, particularly with participant enrolment which was often poorly reported. Applicability of patient selection was also of concern for two in vitro studies. For these reasons, we judged the certainty of the evidence to be very low. 
+Who do the results of this review apply to? 
+Studies included in the review were carried out in Hong Kong and Switzerland and aimed at the general dental practitioner conducting a clinical examination on adults attending a dental setting. 
+What are the implications of this review? 
+Due to the small number of studies and the very low certainty of the evidence we were unable to establish any additional benefit of diagnostic tools for the detection and diagnosis of root caries. 
+How up‐to‐date is this review? 
+The review authors searched for and used studies published up to 31 December 2018.

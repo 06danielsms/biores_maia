@@ -1,0 +1,14 @@
+Background
+Vascular occlusion is used to reduce blood loss during liver resection. There is considerable controversy regarding whether vascular occlusion should be used or not during elective liver resections. 
+Objectives
+To assess the advantages (decreased blood loss and peri‐operative morbidity) and disadvantages (ischaemia‐reperfusion injury related complications like liver dysfunction) of vascular occlusion during elective liver resections. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until August 2008. 
+Selection criteria
+We included randomised clinical trials comparing vascular occlusion versus no vascular occlusion during elective liver resections (irrespective of language or publication status). 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and independently extracted the data. We analysed the data with both the fixed‐effect and the random‐effects models using RevMan Analysis. We calculated the risk ratio (RR), mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CI) based on intention‐to‐treat or available case analysis. 
+Main results
+We identified a total of five trials (of high bias‐risk) which compared vascular occlusion (n = 166) versus no vascular occlusion (n = 165). Three of the five trials comparing vascular occlusion and no vascular occlusion used intermittent vascular occlusion. There was no difference in mortality, liver failure, or other morbidities. The blood loss was significantly lower in vascular occlusion compared with no vascular occlusion. The liver enzymes were significantly elevated in the vascular occlusion group compared with no vascular occlusion. 
+Authors' conclusions
+Intermittent vascular occlusion seems safe in liver resection. However, it does not seem to decrease morbidity. More randomised trials seem to be needed. 

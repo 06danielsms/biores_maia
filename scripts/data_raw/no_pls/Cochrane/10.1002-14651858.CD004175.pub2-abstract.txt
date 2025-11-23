@@ -1,0 +1,14 @@
+Background
+Kawasaki disease is the most common cause of acquired heart disease in children in developed countries. The coronary arteries supplying the heart can be damaged in Kawasaki disease. The principal advantage of timely diagnosis is the potential to prevent this complication with early treatment. Salicylate (acetyl salicylate acid (ASA), aspirin) and intravenous immunoglobulin (IVIG) are widely used for this purpose. Salicylate is largely otherwise avoided in children because of concerns about serious side effects, particularly the risk of Reyes syndrome. 
+Objectives
+The objective of this review was to evaluate the effectiveness of salicylate in treating and preventing cardiac consequences of Kawasaki disease in children. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group searched their trials register (last searched January 2009) and the Cochrane Central Register of Controlled Trials (CENTRAL) (last searched Issue 1, 2009). The authors searched MEDLINE (January 1966 to July 2006), EMBASE (January 1980 to July 2006), and CINAHL (1982 to July 2006), and reference list of articles. In addition, we contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) of salicylate to treat Kawasaki disease in children were eligible for inclusion. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Study authors were contacted for additional information. 
+Main results
+We found one trial involving 102 children which was described as randomised, but it was not possible to confirm the method of treatment allocation. A second comparative study, possibly with a randomised treatment allocation, was also identified. The one randomised trial reported no association between the addition of ASA to IVIG treatment on the rate of coronary artery abnormalities at follow up, but with wide confidence limits. The second, possibly randomised trial did demonstrate a reduction in duration of fever with high dose ASA compared with low dose ASA, but was insufficiently powered to establish the effect on coronary artery abnormalities at follow up. 
+Authors' conclusions
+Until good quality RCTs are carried out, there is insufficient evidence to indicate whether children with Kawasaki disease should continue to receive salicylate as part of their treatment regimen. 

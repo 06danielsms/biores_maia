@@ -1,0 +1,14 @@
+Background
+In neovascular age‐related macular degeneration (AMD) new vessels grow under the retina distorting vision and leading to scarring. This is exacerbated if the blood vessels leak. Photodynamic therapy (PDT) has been investigated as a way to treat the neovascular membranes without affecting the retina. 
+Objectives
+The aim of this review was to examine the effects of PDT in the treatment of neovascular AMD. 
+Search methods
+We searched CENTRAL (Issue 2, 2009), MEDLINE (1966 to April 2009) and EMBASE (1980 to April 2009). We contacted experts in the field and searched the reference lists of relevant studies. 
+Selection criteria
+We included randomised trials of PDT in people with choroidal neovascularisation due to AMD. 
+Data collection and analysis
+Two authors independently extracted the data. Risk ratios were combined using a random‐effects model after testing for heterogeneity. 
+Main results
+Four trials (1429 participants) comparing PDT with verteporfin to PDT with 5% dextrose in water were included in this review. Participants received on average five treatments over two years. The risk ratio of losing 3 or more lines of visual acuity at 24 months comparing the intervention with the control group was 0.80 (95% confidence interval (CI) 0.73 to 0.88). The risk ratio of losing 6 or more lines of visual acuity at 24 months comparing the intervention with the control group was 0.66 (95% CI 0.56 to 0.83). The results at 12 months were similar to those at 24 months. The most serious adverse outcome, severe visual acuity decrease within one week of treatment, occurred in 11 per 1000 patients (95% CI 3 to 48). Infusion related back pain was experienced by 20 per 1000 (95% CI 6 to 70). Two further trials compared different treatment regimens: standard versus delayed light application; retreatment every two months versus every three months. Neither trial demonstrated differences in effectiveness. The overall quality of the evidence included in this review was considered to be high. Five out of the six trials were funded by the manufacturers of verteporfin. 
+Authors' conclusions
+Photodynamic therapy in people with choroidal neovascularisation due to AMD is effective in preventing clinically significant visual loss with a relative risk reduction of approximately 20%. Modified treatment regimens have not convincingly shown increased effectiveness. There was no evidence on quality of life and little on cost. 

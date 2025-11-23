@@ -1,0 +1,14 @@
+Background
+People with depression often experience interpersonal problems. Family therapy for depression is a widely used intervention, but it is unclear whether this is an effective therapy for the treatment of depression. 
+Objectives
+To assess the efficacy of family therapy for depression.
+Search methods
+The following electronic databases were searched using a specific search strategy: CCDANCTR‐Studies and CCDANCTR‐References searched on 21/10/2005, The Cochrane Central Register of Controlled Trials, Medline (1966 to January 2005), EMBASE (1980 to January 2005), Psycinfo (1974 to January 2005). Reference lists of articles were also searched. Handsearches of relevant journals and bibliographies were conducted and first authors of included studies and experts in the field were contacted for further information. 
+Selection criteria
+Included studies were randomised controlled and controlled clinical trials comparing family therapy with no intervention or an alternative intervention in which depression symptomatology was a main outcome measure. 
+Data collection and analysis
+Methodological quality was independently assessed by two review authors using the Maastricht‐Amsterdam Criteria List. The qualitative and quantitative characteristics of the selected trials were independently extracted by three review authors using a standardised data extraction form. Levels of evidence were used to determine the strength of the evidence available. It was not possible to perform meta‐analyses because of the heterogeneity of the selected studies. 
+Main results
+Three high‐quality and three low‐quality studies, involving 519 people with depression, were identified. The studies were very heterogeneous in terms of interventions, participants, and measuring instruments. Despite fairly good methodological quality and positive findings of some studies, evidence for the effectiveness of family therapy for depression did not exceed level 3 (limited or conflicting evidence), except for moderate evidence (level 2), based on the non‐combined findings from three studies, indicating that family therapy is more effective than no treatment or waiting list condition on decreasing depression, and on increasing family functioning. 
+Authors' conclusions
+The current evidence base is too heterogeneous and sparse to draw conclusions on the overall effectiveness of family therapy in the treatment of depression. At this point, use of psychological interventions for the treatment of depression for which there is already an evidence‐base would seem to be preferable to family therapy. Further high quality trials examining the effectiveness and comparative effectiveness of explicitly defined forms of family therapy are required. 

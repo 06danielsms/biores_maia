@@ -1,0 +1,16 @@
+Background
+Hyperbaric oxygen therapy (HBOT) involves the therapeutic administration of 100% oxygen in a pressure chamber at pressures above one atmosphere absolute. This therapy has been used as an adjunct to surgery and antibiotics in the treatment of patients with necrotizing fasciitis with the aim of reducing morbidity and mortality. 
+Objectives
+To review the evidence concerning the use of HBOT as an adjunctive treatment for patients with necrotizing fasciitis (NF). Specifically, we wish to address the following questions. 
+1. Does administration of HBOT reduce mortality or morbidity associated with NF?
+2. What adverse effects are associated with use of HBOT in the treatment of individuals with NF? 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE Ovid (1966 to September 2014); the Cumulative Index to Nursing and Allied Health Literature (CINAHL) Ovid (1982 to September 2014); EMBASE Ovid (1980 to September 2014); and the Database of Randomised Controlled Trials in Hyperbaric Medicine (DORCTHIM, M Bennett) (from inception to September 2014). In addition, we performed a systematic search of specific hyperbaric literature sources. This included handsearching of relevant hyperbaric textbooks; hyperbaric journals (Hyperbaric Medicine Review, South Pacific Underwater Medicine Society Journal, European Journal of Underwater and Hyperbaric Medicine, Aviation Space and Environmental Medicine Journal); and conference proceedings of the major hyperbaric societies (Undersea and Hyperbaric Medical Society, South Pacific Underwater Medicine Society, European Underwater and Baromedical Society, International Congress of Hyperbaric Medicine). 
+Selection criteria
+We included all randomized and pseudo‐randomized trials (trials in which an attempt at randomization has been made but the method was inappropriate, for example, alternate allocation) that compared the effects of HBOT with the effects of no HBOT (no treatment or sham) in the treatment of children and adults with necrotizing fasciitis. 
+Data collection and analysis
+We planned independent data collection by two review authors using standardized forms.
+Main results
+We found no trials that met the inclusion criteria.
+Authors' conclusions
+This systematic review failed to locate relevant clinical evidence to support or refute the effectiveness of HBOT in the management of necrotizing fasciitis. Good quality clinical trials are needed to define the role, if any, of HBOT in the treatment of individuals with necrotizing fasciitis. 

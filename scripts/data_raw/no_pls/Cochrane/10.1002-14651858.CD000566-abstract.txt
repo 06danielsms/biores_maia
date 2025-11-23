@@ -1,0 +1,14 @@
+Background
+Because hyperventilation is often associated with a rapid fall in intracranial pressure, it has been assumed to be effective in the treatment of severe head injury. Hyperventilation reduces raised intracranial pressure by causing cerebral vasoconstriction and a reduction in cerebral blood flow. Whether or not reduced cerebral blood flow improves neurological outcome is, however, unclear. 
+Objectives
+To quantify the effect of hyperventilation on death and neurological disability following head injury. 
+Search methods
+We searched the following electronic databases: the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library 2007, Issue 4), MEDLINE, PubMed, EMBASE, PsycINFO. We searched the Internet, checked reference lists of relevant studies, and contacted the first author of eligible reports to ask for assistance in identifying any further trials. The searches were updated in January 2008. 
+Selection criteria
+All randomised trials of hyperventilation, in which study participants had a clinically defined acute traumatic head injury of any severity. There were no language restrictions. 
+Data collection and analysis
+We collected data on the participants, the timing and duration of the intervention, duration of follow‐up, neurological disability and death. Relative risks (RR) and 95% confidence intervals (CI) were calculated for each trial on an intention‐to‐treat basis. Timing, degree and duration of hyperventilation were identified a‐priori as potential sources of heterogeneity between trials. 
+Main results
+One trial of 113 participants was identified. Hyperventilation alone, as well as in conjunction with a buffer (THAM [tris‐hydroxy‐methyl‐amino methane]), showed a beneficial effect on mortality at one year after injury, although the effect measure was imprecise (RR 0.73; 95% CI 0.36 to 1.49, and RR 0.89; 95% CI 0.47 to 1.72 respectively). This improvement in outcome was not supported by an improvement in neurological recovery. For hyperventilation alone, the RR for death or severe disability was 1.14 (95% CI 0.82 to 1.58). The RR for death or severe disability in the hyperventilation‐plus‐THAM group was 0.87 (95% CI 0.58 to 1.28). 
+Authors' conclusions
+The data available are inadequate to assess any potential benefit or harm that might result from hyperventilation in severe head injury. Randomised controlled trials to assess the effectiveness of hyperventilation therapy following severe head injury are needed. 

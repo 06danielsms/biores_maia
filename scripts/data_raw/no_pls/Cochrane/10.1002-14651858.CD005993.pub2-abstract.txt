@@ -1,0 +1,17 @@
+Background
+Procaine is a controversial substance which has been used for "antiageing" effects including cognitive improvement for more than 50 years. 
+Preparations which contain procaine as a component are claimed to prevent, reverse and interrupt dementia. Several products are widely promoted and can be purchased "over the counter" outside the US and via the Internet. Procaine preparations are said to be readily available in over 70 countries and to be used by more than 100 million people. 
+Objectives
+To assess the efficacy and adverse effects of procaine (and preparations containing procaine as a component) on cognitive function in the treatment of people with dementia as well as healthy elderly people. 
+Search methods
+References regarding trials with people with dementia or cognitive impairment were identified from a search ALOIS: the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 16 April 2010 using the search term: procaine. The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 16 April 2010 to find references to ensure the search was as up‐to‐date and as comprehensive as possible. 
+For more details on what ALOIS contains see About ALOIS. 
+Selection criteria
+All human, unconfounded, randomized double‐blind trials in which treatment with procaine was administered for its effects on cognitive function and behavioural symptoms in demented or healthy elderly participants in parallel group comparison with placebo. 
+Data collection and analysis
+The two review authors independently selected trials, assessed quality, extracted data, and performed the data analysis. 
+Main results
+Pooling data from two studies with a total of 415 participants showed a detrimental effect of procaine in terms of causing side effects (20/208 active versus 3/207 placebo, OR 7.30, 95% CI 2.13 to 25.02, P = 0.002). In patients with dementia, a single small study of 12 participants (all women) also suggested a detrimental effect. Two trials referring to healthy elderly persons suggested a positive effect of procaine preparation on cognitive function.  Meta‐analysis of beneficial outcomes was not appropriate due to the different preparations, durations and poor quality of trials. Most trials were performed before the 1990s and none reported any criteria for cognitive decline and dementia. 
+Authors' conclusions
+This review suggests that the evidence for detrimental effects of procaine and its preparations is stronger than the evidence for benefit in preventing and/or treating dementia or cognitive impairment. 
+There is some evidence from older studies that procaine preparations might improve memory in persons without cognitive impairment. However, the clear evidence of side effects suggests that the risks might outweigh the benefits. In the light of this, the strong marketing claims for procaine preparations should be withdrawn until trials of adequate size, duration and quality have been conducted. 

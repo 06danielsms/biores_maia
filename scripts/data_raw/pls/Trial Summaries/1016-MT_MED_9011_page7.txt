@@ -1,0 +1,18 @@
+Clinical Study Results
+
+Did the participants feel their heart failure symptoms were better after taking dapagliflozin?
+Yes. Overall, the researchers found that after 8 months of study treatment, more participants who took dapagliflozin felt that their heart failure symptoms were better compared to the participants who took the placebo.
+
+To answer this question, the doctors gave the participants the Kansas City Cardiomyopathy Questionnaire, also called the KCCQ. This questionnaire asks about heart failure symptoms. The KCCQ is scored out of 100 and a higher score means better heart failure symptoms.
+
+The researchers compared the results of the questionnaire from the beginning of the study with the results after the participants had taken study treatment for 8 months. They counted how many participants scored at least 5 points higher after 8 months, and how many scored at least 5 points lower or died. They compared the results between the dapagliflozin and placebo groups.
+
+There were 596 participants who did not answer the questionnaire at the beginning of the study and after 8 months. So, the results below include information for 4,148 participants.
+
+The researchers found that the percentage of participants whose total score got higher by at least 5 points was:
+- 57.4% in the dapagliflozin group. This was 1,198 out of 2,086 participants.
+- 50.0% in the placebo group. This was 1,030 out of 2,062 participants.
+
+The percentage of participants whose total score got lower by at least 5 points, or who died, was:
+- 25.1% in the dapagliflozin group. This was 524 out of 2,086 participants.
+- 33.1% in the placebo group. This was 682 out of 2,062 participants.

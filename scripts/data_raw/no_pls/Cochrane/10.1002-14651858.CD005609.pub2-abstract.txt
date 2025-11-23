@@ -1,0 +1,14 @@
+Background
+Reporting of adverse clinical events is thought to be an effective method of improving the safety of healthcare. Underreporting of these adverse events is often said to occur with consequence of missing of opportunities to learn from these incidents. A clinical incident can be defined as any occurrence which is not consistent with the routine care of the patient or the routine operation of the institution. 
+Objectives
+To assess the effects of interventions designed to increase clinical incident reporting in healthcare settings. 
+Search methods
+We searched the the following databases: Cochrane Effective Practice and Organisation of Care Group Specialised Register, the Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OVID), EMBASE (OVID), CINAHL (EBSCO), Social Science Citation Index and Science Citation Index (Web of Knowledge), Healthstar (OVID), INSPEC, DHSS‐DATA, SIGLE, ISI Conference Proceedings, Web of Science Conference Proceedings Citation Index (Science), Database of Abstracts of Reviews of Effectiveness (DARE). 
+Selection criteria
+Randomised controlled trials (RCT), controlled before‐after studies (CBA) and interrupted time series (ITS) of interventions designed to increase clinical incident reporting in healthcare. 
+Data collection and analysis
+At least two review authors assessed the eligibility of potentially relevant studies, extracted the data and assessed the quality of included studies. 
+Main results
+Four studies (one CBA and three ITS studies) met our inclusion criteria and were included in the review. The CBA study showed a significant improvement in incident reporting rates after the introduction of the new reporting system. Just one of the ITS studies showed a statistically significant improved effectiveness of the new reporting system from nine months. The other two studies reported no statistically significant improvements. 
+Authors' conclusions
+Because of the limitations of the studies it is not possible to draw conclusions for clinical practice. Anyone introducing a system into practice should give careful consideration to conducting an evaluation using a robust design. 

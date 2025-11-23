@@ -1,0 +1,22 @@
+Ulcerative Colitis (or "UC") is a long-term inflammatory medical condition that affects the large intestines (also known as the colon). The exact cause of UC is not known. It is thought that UC is caused by an overactive immune system, which is normally responsible for fighting infections. Medicines are available that lower the activity of the immune system, but some patients with UC do not get better when taking these medicines. Some patients who do get better when taking these medicines still have their UC get worse over time. Researchers are looking for new treatments that can help treat patients with UC.
+PF-06480605 is an investigational medicine and is a type of medicine that is called a "monoclonal antibody". Monoclonal antibodies are special proteins made by cells of the immune system that bind to and block the activity of other proteins. PF-06480605 blocks the activity of an inflammatory protein called "TL1A", which is thought to make UC worse. By blocking this protein, researchers hope to lower inflammation in the large intestines and help patients with UC get better.
+Researchers are studying PF-06480605 to see if it can safely treat moderate to severe UC. To test the effectiveness of this medicine, the researchers asked:
+- Do patients treated with PF-06480605 have their UC improve after 14 weeks? To measure improvement, the researchers used a test called the Mayo endoscopic subscore to measure how severe each patient's UC was.
+- What medical problems do patients with UC have when they are treated with PF-06480605?
+090177e192bf3487\Approved\Approved On: 01-Feb-2020 13:22 (GMT)
+All 50 patients who were enrolled in this study received the investigational medicine. The study included men and women with moderate to severe UC who:
+- Were between the ages of 18 and 75
+- Were diagnosed with UC 4 or more months before entering the study
+- Had active disease above the rectum (the lowest part of the large intestines)
+- Were unable to tolerate, did not respond to, or lost response to at least one conventional therapy for UC (such as steroids, medications that suppress the immune system, or anti-TNF/anti-integrin inhibitors)
+- Did not have another medical condition that could be made worse by treatment with the study medication.
+
+This study consisted of a screening period, a treatment period, and a follow-up period. A diagram of the study is shown below. In this study, “improvement” in a patient’s UC was measured using a test called the Mayo endoscopic subscore. This test measures how severe a patient’s UC is on a scale of 0 to 3 (0 being the best and 3 being the worst). Improvement was defined as reaching a Mayo endoscopic subscore of “0” or “1”. 
+
+While patients were only in the study for 8 months, the entire study took 2 years to complete. The Sponsor ran this study at 13 locations in 6 countries in North America, Europe, and Asia. It began on 26 October 2016 and ended 22 August 2018. 28 men and 22 women participated. All patients were between the ages of 20 and 68. 
+
+Patients were to be treated until 14 weeks after their last dose of the investigational medicine, or until 2 or more patients developed the same serious medical problem or an abnormal heartbeat. Of the 50 patients who started the study, 42 finished the follow-up period. 1 patient did not finish the study because the study medication wasn’t working, and 1 patient did not finish the study because of a medical problem. 
+
+6 patients left before the study was over by their choice or a doctor decided it was best for a patient to stop being in the study. 
+
+When the study ended in August 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

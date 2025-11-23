@@ -1,0 +1,17 @@
+Background
+The prevalence of epilepsy among people with intellectual disabilities is much higher than in the general population. Seizures in this population are often complex and refractory to treatment and antiepileptic medication may have a profound effect upon behaviour (Kerr 1997). 
+This is an updated version of a Cochrane Review first published in Issue 3, 2007.
+Objectives
+To assess the data available from randomised controlled trials (RCTs) of the efficacy of antiepileptic drug (AED) interventions in people with epilepsy and intellectual disabilities. 
+Search methods
+For the latest update of this review, we searched the Cochrane Epilepsy Group Specialised Register (2 September 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO) (2 September 2014), MEDLINE (Ovid, 1946 to 3 September 2014) and PsycINFO (EBSCOhost, 1887 to 3 September 2014). 
+Selection criteria
+Randomised and quasi‐randomised controlled trials (RCTs) of pharmacological interventions for people with epilepsy and a learning disability. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We assessed epilepsy/seizure, behavioural and cognitive outcomes, as well as quality of life and adverse effects. 
+Main results
+We included 14 RCTs (1116 participants) in the present review. Data were heterogenous and a descriptive analysis is presented. In the majority of cases where antiepileptic drugs (AEDs) were trialled in this population, we found moderate reductions in seizure frequency in that there was a significantly higher rate of responders (reduction of 50% or more) in the treatment group compared with the placebo group, with some studies reporting a higher incidence of seizure freedom in the treatment group. In general, AEDs that are proven to be effective in the general epilepsy population are also effective for refractory epilepsy in people with intellectual disability. It is not possible to comment on the relative efficacy of medications, making clinical decisions difficult. 
+In trial settings patients continued on treatment in the majority of cases. Placebo groups often experienced fewer adverse events. Where adverse events were experienced they appeared similar to those in the general population. The methods by which adverse events were recorded and reported appeared to be inconsistent, resulting in very large variation between studies. This is problematic as clinically relevant interpretation of these findings is limited. 
+The quality of evidence provided in the present review is low to moderate. Additionally the majority of studies lacked or used non‐reliable measures of behavioural exacerbation. However, where measured, little obvious impact on behaviour was seen in terms of behaviour disorder. 
+Authors' conclusions
+This review broadly supports the use of AEDs to reduce seizure frequency in people with refractory epilepsy and intellectual disability. The evidence suggests that adverse events are similar to those in the general population and that behavioural adverse events leading to discontinuation are rare; however, other adverse effects are under‐researched. 

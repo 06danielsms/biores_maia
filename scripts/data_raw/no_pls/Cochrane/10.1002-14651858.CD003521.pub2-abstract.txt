@@ -1,0 +1,14 @@
+Background
+Many women would like to avoid pharmacological or invasive methods of pain management in labour and this may contribute towards the popularity of complementary methods of pain management. This review examined currently available evidence supporting the use of alternative and complementary therapies for pain management in labour. 
+Objectives
+To examine the effects of complementary and alternative therapies for pain management in labour on maternal and perinatal morbidity. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2006, Issue 1), MEDLINE (1966 to February 2006), EMBASE (1980 to February 2006) and CINAHL (1980 to February 2006). 
+Selection criteria
+The inclusion criteria included published and unpublished randomised controlled trials comparing complementary and alternative therapies (but not biofeedback) with placebo, no treatment or pharmacological forms of pain management in labour. All women whether primiparous or multiparous, and in spontaneous or induced labour, in the first and second stage of labour were included. 
+Data collection and analysis
+Meta‐analysis was performed using relative risks for dichotomous outcomes and mean differences for continuous outcomes. The outcome measures were maternal satisfaction, use of pharmacological pain relief and maternal and neonatal adverse outcomes. 
+Main results
+Fourteen trials were included in the review with data reporting on 1537 women using different modalities of pain management; 1448 women were included in the meta‐analysis. Three trials involved acupuncture (n = 496), one audio‐analgesia (n = 24), two trials acupressure (n = 172), one aromatherapy (n = 22), five trials hypnosis (n = 729), one trial of massage (n = 60), and relaxation (n = 34). The trials of acupuncture showed a decreased need for pain relief (relative risk (RR) 0.70, 95% confidence interval (CI) 0.49 to 1.00, two trials 288 women). Women taught self‐hypnosis had decreased requirements for pharmacological analgesia (RR 0.53, 95% CI 0.36 to 0.79, five trials 749 women) including epidural analgesia (RR 0.30, 95% CI 0.22 to 0.40) and were more satisfied with their pain management in labour compared with controls (RR 2.33, 95% CI 1.15 to 4.71, one trial). No differences were seen for women receiving aromatherapy, or audio analgesia. 
+Authors' conclusions
+Acupuncture and hypnosis may be beneficial for the management of pain during labour; however, the number of women studied has been small. Few other complementary therapies have been subjected to proper scientific study. 

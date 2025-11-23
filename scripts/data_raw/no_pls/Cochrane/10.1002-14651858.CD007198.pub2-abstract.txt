@@ -1,0 +1,17 @@
+Background
+Poor compliance with treatment often means that many people with schizophrenia or other severe mental illness relapse and may need frequent and repeated hospitalisation. Information and communication technology (ICT) is increasingly being used to deliver information, treatment or both for people with severe mental disorders. 
+Objectives
+To evaluate the effects of psychoeducational interventions using ICT as a means of educating and supporting people with schizophrenia or related psychosis. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (2008, 2009 and September 2010), inspected references of identified studies for further trials and contacted authors of trials for additional information. 
+Selection criteria
+All clinical randomised controlled trials (RCTs) comparing ICT as a psychoeducational and supportive tool with any other type of psychoeducation and supportive intervention or standard care. 
+Data collection and analysis
+We selected trials and extracted data independently. For homogenous dichotomous data we calculated fixed‐effect risk ratios (RR) with 95% confidence intervals (CI). For continuous data, we calculated mean differences (MD). We assessed risk of bias using the criteria described in the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+We included six trials with a total of 1063 participants. We found no significant differences in the primary outcomes (patient compliance and global state) between psychoeducational interventions using ICT and standard care. 
+Technology‐mediated psychoeducation improved mental state in the short term (n = 84, 1 RCT, RR 0.75, 95% CI 0.56 to 1.00; n = 30, 1 RCT, MD ‐0.51, 95% CI ‐0.90 to ‐0.12) but not global state (n = 84, 1 RCT, RR 1.07, 95% CI 0.82 to 1.42). Knowledge and insight were not effected (n = 84, 1 RCT, RR 0.89, 95% CI 0.68 to 1.15; n = 84, 1 RCT, RR 0.77, 95% CI 0.58 to 1.03). People allocated to technology‐mediated psychoeducation perceived that they received more social support than people allocated to the standard care group (n = 30, 1 RCT, MD 0.42, 95% CI 0.04 to 0.80). 
+When technology‐mediated psychoeducation was used as an adjunct to standard care it did not improve general compliance in the short term (n = 291, 3 RCTs, RR for leaving the study early 0.81, 95% CI 0.55 to 1.19) or in the long term (n = 434, 2 RCTs, RR for leaving the study early 0.70, 95% CI 0.39 to 1.25). However, it did improve compliance with medication in the long term (n = 71, 1 RCT, RR 0.45, 95% CI 0.27 to 0.77). Adding technology‐mediated psychoeducation on top of standard care did not clearly improve either general mental state, negative or positive symptoms, global state, level of knowledge or quality of life. However, the results were not consistent regarding level of knowledge and satisfaction with treatment. 
+When technology‐mediated psychoeducation plus standard care was compared with patient education not using technology the only outcome reported was satisfaction with treatment. There were no differences between groups. 
+Authors' conclusions
+Using ICT to deliver psychoeducational interventions has no clear effects compared with standard care, other methods of delivering psychoeducation and support, or both. Researchers used a variety of methods of delivery and outcomes, and studies were few and underpowered. ICT remains a promising method of delivering psychoeducation; the equivocal findings of this review should not postpone high‐quality research in this area. 

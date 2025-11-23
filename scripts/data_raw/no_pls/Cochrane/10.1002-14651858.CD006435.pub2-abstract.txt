@@ -1,0 +1,14 @@
+Background
+Acute bronchiolitis is a common respiratory infection and a major cause of morbidity in young children. It is treated with bronchodilators (for example, salbutamol), corticosteroids or humidified air (steam inhalation or cool mist). Steam inhalation is preferred in low‐income countries as it is inexpensive and easily available. It is thought to act as a secretolytic agent to lighten secretions in the respiratory tract and relieve respiratory distress. 
+Objectives
+To evaluate the effect of steam inhalation or humidified oxygen to relieve respiratory distress and to evaluate adverse events in children up to three years old with acute bronchiolitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 1) which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE (1950 to February Week 4, 2010), EMBASE.com (1974 to March 2010), CINAHL (1981 to March 2010), AMED (1985 to March 2010), Web of Science (2000 to March 2010) and LILACS (1982 to March 2010). 
+Selection criteria
+Randomised controlled trials involving children up to three years old with bronchiolitis comparing steam inhalation (or cool mist) or humidified oxygen against bronchodilators, corticosteroids or placebo; alone or in combination. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+Only one study (156 children aged between seven weeks and 24 months with signs and symptoms of bronchiolitis) met the eligibility criteria for inclusion. Participants were randomised into three groups: nebulised salbutamol, nebulised saline and mist in a tent. The results showed a significant decrease in respiratory distress symptom (RDS) score in the nebulised salbutamol group but no significant decrease in the RDS score in the mist in a tent or nebulised saline groups. The study did not report on adverse effects of the interventions. 
+Authors' conclusions
+Steam inhalation (or cool mist therapy) is commonly used to treat acute bronchiolitis in resource‐constrained settings. One study was eligible for inclusion and found that nebulised salbutamol was an effective intervention for young children with bronchiolitis but mist in a tent did not lead to a significant decrease in RDS score. Since only one study was analysed it would be misleading to conclude that mist therapy is ineffective in children with bronchiolitis. We conclude that there is insufficient evidence to inform practice regarding using steam inhalation or mist therapy for acute bronchiolitis in children up to three years old. 

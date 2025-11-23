@@ -1,0 +1,15 @@
+Background
+Alzheimer's dementia (AD) is the most common form of dementia in people with Down Syndrome [DS]. Acetylcholine is a chemical found in the brain that has an important role in memory, attention, reason and language. Donepezil a reversible inhibitor of acetylcholinesterase, which is thought to maintain levels of acetylcholine, and is reported to have some benefits for people with AD in the general population. It is important to note that people with DS tend to present with AD at a much younger age than the normal population as well as having subtle differences in physiology (e.g. metabolism and heart rate) and may therefore have different requirements from the general population. This review was superseded by a new review titled 'Pharmacological interventions for cognitive decline in people with Down syndrome' in the Cochrane Database of Systematic Reviews (CDSR) in 2015. 
+Objectives
+To determine the effectiveness and safety of donepezil for people with DS who develop AD. 
+Search methods
+CENTRAL, MEDLINE, EMBASE, CINAHL, PsycINFO, BIOSIS, SCI, SSCI and the NRR were searched up to October 2008. We contacted the manufacturers of donepezil as well as experts in the field, to ask about reports of unpublished or ongoing trials. 
+Selection criteria
+Randomised controlled trials of participants with DS and AD in which treatment with donepezil was administered compared with a placebo group. 
+Data collection and analysis
+Data were extracted from the published reports of the one relevant study identified.
+Main results
+The one study included in this review is a small (n=30) randomised controlled trial lasting 24 weeks. It was followed‐up by an open label study with a crossover design. 
+No significant differences were found on any four validated outcomes including global functioning and three measures of cognitive abilities and behavioural problems. 6 out of 16 carers (37%) of participants on donepezil and 2 out of 15 (13%) on placebo reported improvement. No data were available for day to day skills, institutionalisation, reduction in carers' stress or economic outcomes. Half the intervention group and 20% of the placebo group reported adverse events; two participants left because of adverse events. 
+Authors' conclusions
+To date there is only one small randomised controlled study on the effect of donepezil. This shows, at best, a modest, non statistically significant trend in favour of people with Down syndrome and Alzheimer's dementia who are able to tolerate donepezil (this drug is currently only dispensed in relatively large doses and is contraindicated for those with cardiac and respiratory problems).This study does not provide good evidence on which to base practice. Findings in an open‐label follow up to this study suggest possible benefit in some individuals. Further, larger randomised controlled studies with longer‐term follow up are required. 

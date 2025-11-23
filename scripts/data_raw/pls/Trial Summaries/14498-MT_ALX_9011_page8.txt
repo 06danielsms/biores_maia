@@ -1,0 +1,19 @@
+What percentage of patients who got ravulizumab did not need a blood transfusion compared to patients who got eculizumab after 26 weeks of treatment?
+
+The researchers wanted to see if ravulizumab worked as well as eculizumab at reducing the need for a blood transfusion during the 26-week treatment period.
+
+RAVULIZUMAB               ECULIZUMAB
+85 out of 97 patients     88%
+81 out of 98 patients     83%
+
+The results showed that 88% of patients who got ravulizumab did not need a blood transfusion compared to 83% of patients who got eculizumab.
+
+What percentage of patients in each treatment group had stable hemoglobin levels after 26 weeks of treatment?
+
+During hemolysis, the destruction of red blood cells causes the release of hemoglobin, which is then free to enter the bloodstream. Free hemoglobin can lead to serious health problems, such as blood clots and damage to organs. The researchers checked each patient's hemoglobin level during the study to see if it remained stable on treatment.
+
+RAVULIZUMAB               ECULIZUMAB
+74 out of 97 patients     76%
+74 out of 98 patients     76%
+
+The results showed that 76% of patients in both treatment groups had stable hemoglobin levels.

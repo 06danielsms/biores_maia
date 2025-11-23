@@ -1,0 +1,14 @@
+Background
+Chronic musculoskeletal pain (CMP) is a major health problem, accounting for approximately one‐quarter of general practice (GP) consultations in the United Kingdom (UK). Exercise and physical activity is beneficial for the most common types of CMP, such as back and knee pain. However, poor adherence to exercise and physical activity may limit long‐term effectiveness. 
+Objectives
+To assess the effects of interventions to improve adherence to exercise and physical activity for people with chronic musculoskeletal pain. 
+Search methods
+We searched the trials registers of relevant Cochrane Review Groups. In addition, we searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, CINAHL, AMED, PsycINFO, Science Citation Index and Social Science Citation Index and reference lists of articles to October 2007. We consulted experts for unpublished trials. 
+Selection criteria
+Randomised or quasi‐randomised trials evaluating interventions that aimed to improve adherence to exercise and physical activity in adults with pain for three months and over in the axial skeleton or large peripheral joints. 
+Data collection and analysis
+Two of the four authors independently assessed the quality of each included trial and extracted data. We contacted study authors for missing information. 
+Main results
+We included 42 trials with 8243 participants, mainly with osteoarthritis and spinal pain. Methods used for improving and measuring adherence in the included trials were inconsistent. Two of the 17 trials that compared different types of exercise showed positive effects, suggesting that the type of exercise is not an important factor in improving exercise adherence. Six trials studied different methods of delivering exercise, such as supervising exercise sessions, refresher sessions and audio or videotapes of the exercises to take home. Of these, five trials found interventions improved exercise adherence. Four trials evaluated specific interventions targeting exercise adherence; three of these showed a positive effect on exercise adherence. In eight trials studying self‐management programmes, six improved adherence measures. One trial found graded activity was more effective than usual care for improving exercise adherence. Cognitive behavioural therapy was effective in a trial in people with whiplash‐associated disorder, but not in trials of people with other CMP. In the trials that showed a positive effect on adherence, association between clinical outcomes and exercise adherence was conflicting. 
+Authors' conclusions
+Interventions such as supervised or individualised exercise therapy and self‐management techniques may enhance exercise adherence. However, high‐quality, randomised trials with long‐term follow up that explicitly address adherence to exercises and physical activity are needed. A standard validated measure of exercise adherence should be used consistently in future studies. 

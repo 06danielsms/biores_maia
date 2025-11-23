@@ -1,0 +1,15 @@
+Background
+Displaced intracapsular fractures may be treated by either reduction and internal fixation, which preserves the femoral head, or by replacement of the femoral head with an arthroplasty. This is an update of a Cochrane review first published in 2003 and previously updated in 2006. 
+Objectives
+To compare the relative effects (benefits and harms) of any type of internal fixation versus any type of arthroplasty for intracapsular femoral fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (August 2010), The Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 3), MEDLINE (1966 to August 2010), EMBASE (1988 to 2010 Week 36), and other sources. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials comparing internal fixation with arthroplasty for intracapsular hip fractures in adults. 
+Data collection and analysis
+Both authors independently assessed trial quality and extracted data. Wherever appropriate, results were pooled. 
+Main results
+Nineteen trials, of which two were newly included in this update, involving 3044 participants, were included. There was considerable variation in the types of implants and techniques used for both internal fixation and arthroplasty in the included trials. The risk of selection bias was low in just three trials, unclear in 13 trials and high in the three quasi‐randomised trials. Just three trials reported assessor blinding of functional outcomes. 
+Length of surgery, operative blood loss, need for blood transfusion and risk of deep wound infection were significantly less for internal fixation compared with arthroplasty. Fixation had a significantly higher re‐operation rate in comparison with arthroplasty (40% versus 11%; risk ratio 3.22, 95% CI 2.31 to 4.47, 19 trials). No definite differences for hospital stay, mortality, or regain of pre‐injury residential state were found. Limited information from some studies suggested pain was less and function was better for a cemented arthroplasty in comparison with fixation. 
+Authors' conclusions
+Internal fixation is associated with less initial operative trauma but has an increased risk of re‐operation on the hip. Definite conclusions cannot be made for differences in pain and residual disability between the two groups. Future studies should concentrate on better reporting of final outcome measures and function. There is still a need for studies to define which patient groups are better served by the different treatment methods. 

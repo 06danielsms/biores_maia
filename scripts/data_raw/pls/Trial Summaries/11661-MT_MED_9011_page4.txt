@@ -1,0 +1,27 @@
+The table below shows the treatments the researchers planned to study.
+Group 1 Group 2
+40 participants 40 participants
+Treatment A Treatment B Treatment C Treatment D
+Single 5 mg Single tablet Single 10 mg Single tablet
+dapagliflozin containing: dapagliflozin containing:
+tablet tablet
+• 5 mg • 10 mg
+and dapagliflozin and dapagliflozin
+Single 500 mg • 500 mg 2 tablets • 1,000 mg
+metformin tablet metformin of 500 mg metformin
+metformin each
+A computer program was used to randomly choose the treatments each
+participant took during each treatment part. This helps make sure the groups
+are chosen fairly. Researchers do this so that comparing the results of each
+treatment is as accurate as possible.
+There were 2 main parts to the study. There was a gap of more than 4 days
+between Part 1 and Part 2. This was for the study treatments to fully leave the
+participants' bodies, also called "washing out".
+In Group 1, 20 participants were chosen to receive Treatment A first while the
+other 20 participants received Treatment B first in Part 1. After the washout
+gap, the treatments were swapped, so the groups then took Treatment B or
+Treatment A in Part 2.
+In Group 2, 20 participants were chosen to receive Treatment C first while the
+other 20 participants received Treatment D first in Part 1. After the washout
+gap, the treatments were swapped, so the groups then took Treatment D or
+Treatment C in Part 2.

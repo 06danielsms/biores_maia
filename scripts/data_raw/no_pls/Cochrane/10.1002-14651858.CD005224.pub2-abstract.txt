@@ -1,0 +1,19 @@
+Background
+The benefits of different immunosuppressants for myasthenia gravis (MG) are unclear.
+Objectives
+Assessment of immunosuppressant drug efficacy in MG.
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Trials Register, MEDLINE (from January 1966 to July 2007), EMBASE (from January 1980 to July 2007), review and trial bibliographies and contacted trial authors. 
+Selection criteria
+Types of studies: Randomised and quasi‐randomised controlled trials.
+Types of participants: Any age, any type or severity of MG regardless of concomitant treatment. 
+Types of interventions: Any immunosuppressive agent.
+Types of outcome measures:
+Primary:  (1) Improvement or not at six months 
+Secondary:  (1) Improvement or not at one year  (2) Need for other treatment, for example corticosteroid dose, at six months  (3) Number of exacerbations during the first year  (4) Acetylcholine receptor antibody titre after at least six months  (5) Occurrence of one or more adverse events at any time after the introduction of treatment. 
+Data collection and analysis
+One author extracted and two checked the data.
+Main results
+Seven trials are included but few reported the outcomes selected for this review. A meta‐analysis of ciclosporin versus placebo from two trials (59 participants) ‐ one as monotherapy (20 participants) and the other with corticosteroids (39 participants) ‐ showed that it resulted in improvement of participants in the ciclosporin group compared with those in the placebo group, with a relative rate of improvement of 2.44 (95% confidence interval (CI) 1.13 to 5.27). In addition the weighted mean difference in QMG score between the ciclosporin and placebo groups was ‐0.34 (95% CI ‐0.52 to ‐0.17). Azathioprine (plus prednisolone for first month) had no significant benefit over prednisolone alone (41 participants). The effects of azathioprine plus prednisolone versus prednisolone plus placebo were similar (34 participants). Cyclophosphamide was reported to be statistically more efficacious than placebo at 12 months in corticosteroid‐dependent participants (23 participants), but no raw data were available. Trials of mycophenolate mofetil and tacrolimus did not provide relevant endpoint data for this review. All trials had low numbers of participants. Adverse event reporting was variable. Trial protocol heterogeneity prevented comparison of the different immunosuppressants. 
+Authors' conclusions
+In generalised MG, limited evidence from small RCTs suggests that ciclosporin, as monotherapy or with corticosteroids, or cyclophosphamide with corticosteroids, significantly improve MG.  Limited evidence from RCTs shows no significant benefit from azathioprine (as monotherapy or with steroids), mycophenolate mofetil (as monotherapy or with either corticosteroids or ciclosporin) or tacrolimus (with corticosteroids or plasma exchange). Bigger, better‐designed, longer trials are needed. 

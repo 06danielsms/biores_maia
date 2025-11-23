@@ -1,0 +1,11 @@
+For a person with a head injury who is in a coma, are there benefits to regularly monitoring the pressure inside the skull? 
+Background 
+The brain is situated in a rigid box (the skull) that cannot expand, so normal swelling from injury cannot occur. When brain swelling does occur, pressure inside the skull rises. This makes it harder for the heart to pump the oxygen‐rich blood into the brain needed for recovery. If treating physicians cannot control swelling, the lack of blood supply to the swollen brain can cause further brain damage. Efforts to avoid this damage can include regular monitoring of the pressure inside the skull (intracranial). There are different ways to monitor pressure. One commonly used method is to insert a small probe into the skull. But whenever something is put into the skull, there is a chance it may cause bleeding or an infection. 
+Search date 
+The evidence in this review was up to date as of May 2015.
+Study characteristics 
+The one randomised controlled trial (RCT) identified included 324 participants, all of whom had sustained severe traumatic brain injury and were receiving care in intensive care units in South America. People in one group had a pressure monitoring device inserted into their skull. People in the control group did not receive the device. All participants had regular monitoring of pressure in the skull through observation by the treating doctors and nurses, and X‐rays. 
+Key results 
+We did not identify any (statistically significant) differences between the two groups at six months in relation to death or survival with severe disability. There were no important complications of ICP monitoring. 
+Future research 
+More research is needed into how routine monitoring of intracranial pressure can inform clinical care. 

@@ -1,0 +1,16 @@
+Background
+Morita therapy was founded in 1919 by Shoma Morita (1874‐1938). The therapy involves a behavioural structured program to encourage an outward perspective on life and increased social functioning. 
+Objectives
+To evaluate the effects of Morita therapy for schizophrenia and schizophrenia‐like psychoses. 
+Search methods
+We searched the Cochrane Schizophrenia Groups Trials Register, the Chongqing VIP Database, and the Wanfang Database (July 2008) for all relevant references. The first author of each included study was also contacted. 
+We updated this search (July 2012) and added the results to the awaiting classification section of the review. 
+Selection criteria
+We included all randomised clinical trials comparing Morita therapy with any other treatment. 
+Data collection and analysis
+We reliably selected studies and extracted data. For homogenous dichotomous data we calculated random‐effects, relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat (NNT) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). 
+Main results
+We found 12 small, studies of medium‐poor quality (total n=1123). The standard care versus Morita therapy comparison (total n=761 people) had very low attrition (<2%, 10 RCTs, RR 1.01 CI 0.4 to 2.8). Mental state did tend to improve with Morita therapy (n=76, 1 RCT, number of >25‐30% decline in BPRS, RR 0.36 CI 0.1 to 0.9, NNT 5 CI 4 to 25). For negative symptoms data were inconsistent, with data from four short‐term trials favouring Morita therapy (n=323, WMD average endpoint SANS ‐12.94 CI ‐21.6 to ‐4.3), but heterogeneity was considerable (I2 =97%). In medium‐term studies, negative symptoms were favoured by Morita therapy (n=44, 1 RCT, RR >25% decline SANS 0.25 CI 0.1 to 0.8, NNT 3 CI 2 to 8). Morita therapy plus standard treatment did significantly improve the activities of daily living compared with standard treatment alone (n=104, 1 RCT, WMD ‐4.1 average endpoint ADL CI ‐7.7 to ‐0.6). Compared with a rehabilitation programme Morita therapy did not promote attrition (n=302, 2 RCTs, RR leaving early 1.00 CI 0.5 to 2.1). In two very similar studies Morita therapy showed better effect on mental state with lower BPRS score (n=278, 2 RCTs, WMD average endpoint BPRS ‐6.95 CI ‐9.3 to ‐4.6, I2 =0%), insight score (n=278, 2 RCTs, WMD average endpoint clinical judgement score ‐1.11 CI ‐1.3 to ‐0.9, I2 = 0%) and social functioning (n=278, WMD average endpoint IPROS ‐18.14 CI ‐21.3 to ‐15.0, I2 =0%). 
+Authors' conclusions
+Morita therapy for schizophrenia remains an experimental intervention. New trials are justified and specific plans for the design of future studies are outlined. 
+[Note: the 10 citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

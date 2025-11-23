@@ -1,0 +1,18 @@
+Background
+Radical surgery has been standard treatment for patients with early vulvar cancer since the mid 1900s. Survival figures are excellent, but complication rates are high. Since 1980, surgery has become more individualised in order to decrease complications in patients with limited disease. 
+Objectives
+To compare the effectiveness and safety of individualised treatment with that of standard extensive surgery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 4), MEDLINE (1966 to April 2007) and EMBASE (to April 2007). We also searched our own publication archives, based on prospective handsearching of six leading relevant journals from December 1986. Reference lists of identified studies, gynaecological cancer handbooks and conference abstracts were also scanned. 
+Selection criteria
+Randomized controlled trials (RCTs), case controlled and observational studies on the effectiveness of surgery (local surgery and regional lymph node dissection) on patients with cT1N0M0 squamous cell carcinoma of the vulva. 
+Outcome measures were overall, disease‐specific, disease‐free survival (DFS), treatment complications, quality of life (QoL). 
+Data collection and analysis
+Three review authors (AA, JVD, MS) independently assessed study quality and extracted data. 
+Main results
+From three studies, we concluded there was no difference in the incidence of: 1. local recurrent vulvar cancer between radical local excision and radical vulvectomy, or 2. groin recurrence between ipsilateral groin node dissection and bilateral groin node dissection in patients with a well lateralised tumour. 
+Furthermore, superficial groin node dissection is not as safe as full femoro‐inguinal lymph node dissection. The triple incision technique is a safe procedure provided tumour free margins are greater than 8 mm and the slight increase in recurrences does not outweigh the reduction in complications. 
+Authors' conclusions
+The available evidence regarding surgery for early vulvar cancer is generally poor. From the studies of sufficient quality we concluded that radical local excision is a safe alternative to radical vulvectomy for patients with early vulva carcinoma. 
+Contralateral groin node dissection can be omitted in patients with a lateralized tumour, and the triple incision technique is as safe as an en bloc dissection. However, omission of femoral lymph node dissection results in a higher incidence of groin recurrences. 
+Further good quality studies are required, though conducting RCTs on vulvar cancer treatment may not be realistic due to the rarity of the disease. However, observational studies of higher quality could provide us with more reliable evidence. 

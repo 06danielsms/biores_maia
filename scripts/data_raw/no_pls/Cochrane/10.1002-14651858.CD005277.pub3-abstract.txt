@@ -1,0 +1,14 @@
+Background
+Decompression illness (DCI) is due to bubble formation in the blood or tissues following the breathing of compressed gas. Clinically, DCI may range from a trivial illness to loss of consciousness, death or paralysis. Recompression is the universally accepted standard treatment of DCI. When recompression is delayed, a number of strategies have been suggested in order to improve the outcome. 
+Objectives
+To examine the effectiveness and safety of both recompression and adjunctive therapies in the treatment of DCI. 
+Search methods
+In our previous update we searched until October 2009. In this version we searched CENTRAL (The Cochrane Library, October 2011); MEDLINE (1966 to October 2011); CINAHL (1982 to October 2011); EMBASE (1980 to October 2011); the Database of Randomised Controlled Trials in Hyperbaric Medicine (October 2011); and handsearched journals and texts. 
+Selection criteria
+We included randomized controlled trials that compared the effect of any recompression schedule or adjunctive therapy with a standard recompression schedule. We did not apply language restrictions. 
+Data collection and analysis
+Three authors extracted the data independently. We assessed each trial for internal validity and resolved differences by discussion. Data were entered into RevMan 5.1. 
+Main results
+Two randomized controlled trials enrolling a total of 268 patients satisfied the inclusion criteria. The risk of bias for Drewry 1994 was unclear as this study was presented as an abstract, while Bennett 2003 was rated as at low risk. Pooling of data was not possible. In one study there was no evidence of improved effectiveness with the addition of a non‐steroidal anti‐inflammatory drug (tenoxicam) to routine recompression therapy (at six weeks: relative risk (RR) 1.04, 95% confidence interval (CI) 0.90 to 1.20, P = 0.58) but there was a reduction in the number of compressions required when tenoxicam was added from three to two (P = 0.01, 95% CI 0 to 1). In the other study, the odds of multiple recompressions were lower with a helium and oxygen (heliox) table compared to an oxygen treatment table (RR 0.56, 95% CI 0.31 to 1.00, P = 0.05). 
+Authors' conclusions
+Recompression therapy is standard for the treatment of DCI, but there is no randomized controlled trial evidence for its use. Both the addition of a non‐steroidal anti‐inflammatory drug (NSAID) and the use of heliox may reduce the number of recompressions required, but neither improve the odds of recovery. The application of either of these strategies may be justified. The modest number of patients studied demands a cautious interpretation. Benefits may be largely economic and an economic analysis should be undertaken. There is a case for large randomized trials of high methodological rigour in order to define any benefit from the use of different breathing gases and pressure profiles during recompression therapy. 

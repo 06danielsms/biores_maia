@@ -1,0 +1,15 @@
+Background
+Uterine fibroids are the most common non‐malignant growths in women of childbearing age. They are associated with heavy menstrual bleeding and subfertility. Herbal preparations are commonly used as alternatives to surgical procedures. 
+Objectives
+To evaluate the effectiveness and safety of Chinese herbal medicine for treatment of uterine fibroids. 
+Search methods
+The authors with the guidance of the Trials Search Coordinator searched the following electronic databases: the Trials Registers of the Cochrane Menstrual Disorders and Subfertility Group and the Cochrane Complementary Medicine Field, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 4), MEDLINE, EMBASE, the Chinese Biomedical Database, the Traditional Chinese Medical Literature Analysis and Retrieval System (TCMLARS), AMED, and LILACS. The searches were up to 11 September 2012. 
+Selection criteria
+Randomised controlled trials comparing herbal preparations with no intervention, placebo, medical treatment, or surgical procedures in women with uterine fibroids. We included trials of herbal preparations with or without conventional therapy. 
+Data collection and analysis
+Two review authors collected data independently. We assessed trial risk of bias according to our methodological criteria. We presented dichotomous data as risk ratios (RR) and continuous outcomes as mean differences (MD), both with 95% confidence intervals (CI). 
+Main results
+We included 21 randomised trials (involving 2222 women) and the majority of them had unclear or high risk of bias. There were several different herbal preparations used within the included trials. The average treatment duration was three to six months. The primary outcome of uterine fibroid related symptoms was not reported in any of the included trials. The majority of the trials reported fibroid volume and size of the uterus. 
+Compared with mifepristone, Tripterygium wilfordii extract was associated with a greater reduction in the fibroid volume (MD ‐23.03 cm3, 95% CI ‐28.39 to ‐17.67; 2 trials) and in uterine size (MD ‐51.25 cm3, 95% CI ‐77.70 to ‐24.80; 2 trials). There was no evidence of a significant difference between Nona Roguy herbal product and gonadotropin‐releasing hormone (GnRH) agonist on the average fibroid volume or the uterine size. The combination of Guizhi Fuling formula and mifepristone was associated with a greater reduction in the fibroid volume (‐1.72 [‐2.42, ‐1.02] 7 trials) and in uterine size (MD ‐31.63 [95% CI ‐54.58, ‐8.68] 3 trials)) compared with mifepristone alone. Only 13/21 trials reported on adverse events and no serious adverse effects from herbal preparations were reported. 
+Authors' conclusions
+Current evidence does not support or refute the use of herbal preparations for treatment of uterine fibroids due to insufficient studies with large sample sizes and of high quality. Further high quality trials evaluating clinically relevant outcomes are warranted. 

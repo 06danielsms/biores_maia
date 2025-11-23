@@ -1,0 +1,14 @@
+Background
+As international healthcare policy has moved away from treating people with severe mental illness in large inpatient psychiatric institutions, beds for people with acute psychiatric disorders are being established in specialised psychiatric units in general hospitals. In developing countries, however, limited resources mean that it is not always possible to provide discrete psychiatric units, either in general hospitals or in the community. An alternative model of admission, used in the Caribbean, is to treat the person with acute psychosis in a general hospital ward. 
+Objectives
+To compare the outcomes for people with acute psychosis who have been admitted to open medical wards with those admitted to conventional psychiatric units. 
+Search methods
+We searched The Cochrane Schizophrenia Group's study‐based register (April 2007). This register is compiled from searches of BIOSIS, CINAHL, The Cochrane Library, EMBASE, LILACS, MEDLINE, PsycINFO, PSYNDEX, Sociofile, and many conference proceedings. 
+Selection criteria
+We would have included all relevant randomised or quasi‐randomised trials, allocating anyone thought to be suffering from an acute psychotic episode to either acute management on general medical wards, or acute management in a specialist psychiatric unit. The primary outcomes of interest were length of stay in hospital and relapse. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we would have calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based using a fixed effects model. 
+Main results
+We didnt identify any relevant randomised trials.
+Authors' conclusions
+The Caribbean practice of treating people with severe mental illness on general medical wards has been influenced by socio‐economic factors rather than evidence from randomised trials. This practice affords an opportunity for a well designed, well conducted and reported randomised trial, now impossible in many other settings. 

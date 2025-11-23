@@ -1,0 +1,39 @@
+Is chloroquine or hydroxychloroquine useful in treating people with COVID‐19, or in preventing infection in people who have been exposed to the virus? 
+What is the aim of this review? 
+COVID‐19 is an infectious respiratory disease caused by a coronavirus called SARS‐CoV‐2. If the infection becomes severe, people may need intensive care and support in hospital, including mechanical ventilation. 
+Drugs used for other diseases were tried out in COVID‐19, and this included chloroquine, used for malaria; and hydroxychloroquine used for rheumatic diseases, such as rheumatoid arthritis or systemic lupus erythematosus. We sought evidence of the effects of these drugs in treating people ill with the disease; in preventing the disease in people at risk of getting the disease, such as health workers; and people exposed to the virus developing the disease. 
+Key messages 
+Hydroxychloroquine does not reduce deaths from COVID‐19, and probably does not reduce the number of people needing mechanical ventilation. 
+Hydroxychloroquine caused more unwanted effects than a placebo treatment, though it did not appear to increase the number of serious unwanted effects. 
+We do not think new studies of hydroxychloroquine should be started for treatment of COVID‐19. 
+What was studied in the review?  
+We searched for studies that looked at giving chloroquine and hydroxychloroquine to people with COVID‐19; people at risk of being exposed to the virus; and people who have been exposed to the virus. 
+We found 14 relevant studies: 12 studies of chloroquine or hydroxychloroquine used to treat COVID‐19 in 8569 adults; two studies of hydroxychloroquine to stop COVID‐19 in 3346 adults who had been exposed to the virus but had no symptoms of infection. We did not find any completed studies of these medicines to stop COVID‐19 in people who were at risk of exposure to the virus; studies are still under way. 
+The studies took place in China, Brazil, Egypt, Iran, Taiwan, North America, and Europe; one study was worldwide. Some studies were partly funded by pharmaceutical companies that manufacture hydroxychloroquine. 
+What are the main results of our review? 
+Treating COVID‐19 
+Compared with usual care or placebo, hydroxychloroquine:
+· clearly did not affect how many people died (of any cause; 9 studies in 8208 people);
+· probably did not affect how many people needed mechanical ventilation (3 studies; 4521 people); 
+· may not affect how many people still tested positive for the virus after 14 days (3 studies; 213 people). 
+We are uncertain whether hydroxychloroquine affected the number of people whose symptoms improved after 28 days. 
+Compared with other antiviral treatment (lopinavir plus ritonavir), chloroquine made little or no difference to the time taken for symptoms to improve (1 study; 22 people). 
+Compared with usual care in one study in 444 people, hydroxychloroquine given with azithromycin (an antibiotic) made no difference to: 
+· how many people died;
+· how many needed mechanical ventilation; or
+· time spent in hospital.
+Compared with febuxostat (a medicine to treat gout), hydroxychloroquine made no difference to how many people were admitted to hospital or to changes seen on scans of people's lungs; no deaths were reported (1 study; 60 people). 
+Preventing COVID‐19 in people exposed to it 
+We are uncertain whether hydroxychloroquine affected how many people developed COVID‐19, or how many people were admitted to hospital with COVID‐19, compared with those receiving a placebo treatment (1 study; 821 people). 
+Compared with usual care, hydroxychloroquine made no difference to the risk of developing COVID‐19, or antibodies to the virus, in people exposed to it (1 study; 2525 people). 
+Unwanted effects 
+When used for treating COVID‐19, compared with usual care or placebo, hydroxychloroquine:
+· probably increases the risk of mild unwanted effects (6 studies; 1394 people);
+· may not increase the risk of serious harmful effects (6 studies; 1004 people).
+When given along with azithromycin, hydroxychloroquine increased the risk of any unwanted effects, but made no difference to the risk of serious unwanted effects (1 study; 444 people). 
+Compared with lopinavir plus ritonavir, chloroquine made little or no difference to the risk of unwanted effects (1 study; 22 people). 
+When used for preventing COVID‐19, hydroxychloroquine probably causes more unwanted effects than placebo, but may not increase the risk of serious, harmful unwanted effects (1 study; 700 people). 
+How confident are we in our results? 
+We are confident about our results for how many people died and moderately confident about how many needed mechanical ventilation. We are moderately confident about the unwanted effects of hydroxychloroquine treatment, but less confident about our results for serious unwanted effects; these results might change with further evidence. 
+How up‐to‐date is this review? 
+We included evidence published up to 15 September 2020.

@@ -1,0 +1,14 @@
+Background
+Among the wide range of therapeutic alternatives proposed for the management of low‐back pain (LBP), a less widely used technique from Spain, called neuroreflexotherapy (NRT) has claimed to show very favourable results, mainly in patients with chronic low‐back pain. 
+Objectives
+To assess the effectiveness of NRT for the treatment of non‐specific LBP in adult patients, aged 16 to 65 years. A secondary objective was to compare NRT with other conventional interventions. 
+Search methods
+In July 2009, we updated the searches in CENTRAL (Issue 3, 2009), MEDLINE and EMBASE. No new trials were identified. 
+Selection criteria
+Only randomised controlled trials (RCTs) of NRT for the treatment of patients with a clinical diagnosis of non‐specific LBP were included. 
+Data collection and analysis
+Two authors independently selected trials and extracted data using pre‐designed forms. Because the outcome variables were not assessed in a homogenous way, it was not possible to pool the results to obtain an estimate of global effect, as initially planned. 
+Main results
+Three RCTs were included, with a total of 125 subjects randomised to the control groups and 148 subjects receiving active NRT. Neuroreflexotherapy was the same in all three trials, while the control groups received sham‐NRT in two trials and standard care in one. Two trials studied patients with chronic LBP, the third studied patients with a mix of chronic and sub‐acute LBP. Clinical outcomes were measured in the short‐term (15 to 60 days) in all three trials; in one trial, resource utilization was measured after one year. Individuals who received active NRT showed statistically significantly better outcomes than the control groups for measures of pain, degree of mobility, disability, medication use, consumption of resources and costs. No significant differences were observed for quality of life measures. Side effects were more frequently reported in the control groups during short‐term follow‐up, with no major side effects reported by those receiving active NRT. 
+Authors' conclusions
+NRT appears to be a safe and effective intervention for the treatment of chronic non‐specific LBP. The efficacy is less clear for sub‐acute LBP. However, these results are limited to three trials conducted by a small number of specifically trained and experienced clinicians, in a limited geographical location. No data are available on the ease and time‐frame needed to achieve that level of expertise. RCTs by other practitioners, in other locations, that replicate the effects reported in this review are needed before recommending a broader practice. 

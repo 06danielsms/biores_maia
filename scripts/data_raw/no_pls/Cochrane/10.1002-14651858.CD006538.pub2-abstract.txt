@@ -1,0 +1,14 @@
+Background
+Fractures of the condylar process account for between 25% and 35% of all mandibular fractures. Treatment options for fractures of the condyles consist of either the closed method or by open reduction with fixation. Complications may be associated with either treatment option; for the closed approach these can include malocclusion, particularly open bites, reduced posterior facial height and facial asymmetry in addition to chronic pain and reduced mobility. A cutaneous scar and temporary paralysis of the facial nerve are not infrequent complications associated with the open approach. There is a lack of consensus currently surrounding the indications for either surgical or non‐surgical treatment of fractures of the mandibular condyle. 
+Objectives
+To evaluate the effectiveness of interventions that can be used in the treatment of fractures of the mandibular condyle. 
+Search methods
+The databases searched were: the Cochrane Oral Health Group's Trials Register (to 12th March 2010), CENTRAL (The Cochrane Library 2010, Issue 2), MEDLINE (from 1950 to 12th March 2010), and EMBASE (from 1980 to 12th March 2010). The reference lists of all trials identified were cross checked for additional trials. Authors were contacted by electronic mail to ask for details of additional published and unpublished trials. There were no language restrictions and several articles were translated. 
+Selection criteria
+Randomised controlled trials (RCTs) which included adults, over 18 years of age, with unilateral or bilateral fractures of the mandibular condyles. Any form of open or closed method of reduction and fixation was considered. 
+Data collection and analysis
+Review authors screened trials for inclusion. Extracted data were to be synthesised using the fixed‐effect model but if substantial clinical diversity was identified between the studies we planned to use the random‐effects model with studies grouped by action and we would explore the heterogeneity between the included studies. Mean differences were to be calculated for continuous outcomes and risk ratios for dichotomous outcomes together with their 95% confidence intervals. 
+Main results
+No high quality evidence matching the inclusion criteria was identified.
+Authors' conclusions
+No high quality evidence is available in relation to this review question and no conclusions could be reached about the effectiveness or otherwise of the two interventions considered in this review. A need for further well designed randomised controlled trials exists. The trialists should account for all losses to follow‐up and assess patient related outcomes. They should also report the direct and indirect costs associated with the interventions. 

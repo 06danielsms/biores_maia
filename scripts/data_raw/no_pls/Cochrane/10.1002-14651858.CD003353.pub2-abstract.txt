@@ -1,0 +1,15 @@
+Background
+Enteral nutrition by feeding tube is a common and efficient method of providing nutritional support to prevent malnutrition in hospitalised patients who have adequate gastrointestinal function but who are unable to eat. Gastric feeding may be associated with higher rates of food aspiration and pneumonia than post‐pyloric naso‐enteral tubes. Thus, enteral feeding tubes are placed directly into the small intestine rather than the stomach, and the use of metoclopramide, a prokinetic agent, has been recommended to achieve post‐pyloric placement, but its efficacy is controversial. Moreover, metoclopramide may include adverse reactions, which with high doses or prolonged use may be serious and irreversible. 
+Objectives
+To determine the effect of intravenous metoclopramide on post‐pyloric placement of the naso‐enteral tube in adults. 
+Search methods
+Trials were identified by searching the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 10) which includes the CUGPD group's specialised register of trials, MEDLINE (1996 to 21 October 2014), EMBASE (1988 to 21 October 2014), LILACS (2005 to 21 October 2014)   We did not confine our search to English language publications. Searches in all databases were updated originally in January 2005, then in November 2008 and again in October 2014. No new studies were found in 2008 or in 2014. 
+Selection criteria
+We selected randomised controlled trials of adults needing enteral nutrition, who received intravenous or intramuscular metoclopramide to aid placement of transpyloric naso‐enteral feeding tubes, compared to placebo or no intervention. 
+Data collection and analysis
+We used standard methodological procedures expected by The Cochrane Collaboration. All analyses were performed according to the intention‐to‐treat method. We present risk ratios (RR) with 95% confidence intervals (CI). 
+Main results
+Four studies, with a total of 204 participants were included and analysed. The trials compared metoclopramide with placebo (two trials) or with no intervention (two trials). Metoclopramide was investigated at doses of 10 mg (two trials) and 20 mg (two trials). There was no statistically significant difference between metoclopramide versus placebo or no intervention administered to promote tube placement (RR 0.82, 95% CI 0.61 to 1.10). Metoclopramide at doses of 10 mg (RR 0.82, 95% CI 0.60 to 1.11) and 20 mg (RR 0.62, 95% CI 0.15 to 2.62) were equally ineffective in facilitating post‐pyloric intubation when compared with placebo or no intervention. 
+Authors' conclusions
+In this review, we found only four studies that fitted our inclusion criteria. These were small, underpowered studies, in which metoclopramide was given at doses of 10 mg and 20 mg. Our analysis showed that metoclopramide did not assist post‐pyloric placement of naso‐enteral feeding tubes. 
+Ideally randomised clinical trials should be performed that have a significant sample size, administering metoclopramide against control, however, given the lack of efficacy revealed by this review it is unlikely that further studies will be performed. 

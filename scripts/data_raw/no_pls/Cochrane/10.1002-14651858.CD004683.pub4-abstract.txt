@@ -1,0 +1,15 @@
+Background
+People with end‐stage kidney disease (ESKD) have high rates of cardiovascular events. Randomised controlled trials (RCTs) of homocysteine‐lowering therapies have not shown reductions in cardiovascular event rates in the general population. However, people with kidney disease have higher levels of homocysteine and may have different mechanisms of cardiovascular disease. We performed a systematic review of the effect of homocysteine‐lowering therapies in people with ESKD. 
+Objectives
+To evaluate the benefits and harms of established homocysteine lowering therapy (folic acid, vitamin B6, vitamin B12) on all‐cause mortality and cardiovascular event rates in patients with ESKD. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register to 25 January 2016 through contact with the Information Specialist using search terms relevant to this review. 
+Selection criteria
+Studies conducted in people with ESKD that reported at least 100 patient‐years of follow‐up and assessed the effect of therapies that are known to have homocysteine‐lowering properties were included. 
+Data collection and analysis
+Two authors independently extracted data using a standardised form. The primary outcome was cardiovascular mortality. Secondary outcomes included all‐cause mortality, incident cardiovascular disease (fatal and nonfatal myocardial infarction and coronary revascularisation), cerebrovascular disease (stroke and cerebrovascular revascularisation), peripheral vascular disease (lower limb amputation), venous thromboembolic disease (deep vein thrombosis and pulmonary embolism), thrombosis of dialysis access, and adverse events. The effects of homocysteine‐lowering therapies on outcomes were assessed with meta‐analyses using random‐effects models. Prespecified subgroup and sensitivity analyses were conducted. 
+Main results
+We included six studies that reported data on 2452 participants with ESKD. Interventions investigated were folic acid with or without other vitamins (vitamin B6, vitamin B12). Participants' mean age was 48 to 65 years, and proportions of male participants ranged from 50% to 98%. 
+Homocysteine‐lowering therapy probably leads to little or no effect on cardiovascular mortality (4 studies, 1186 participants: RR 0.93, 95% CI 0.70 to 1.22). There was no evidence of heterogeneity among the included studies (I² = 0%). Homocysteine‐lowering therapy had little or no effect on all‐cause mortality or any other of this review's secondary outcomes. All prespecified subgroup and sensitivity analyses demonstrated little or no difference. Reported adverse events were mild and there was no increase in the incidence of adverse events from homocysteine‐lowering therapies (3 studies, 1248 participants: RR 1.12, 95% CI 0.51 to 2.47; I2 = 0%). Overall, studies were assessed as being at low risk of bias and there was no evidence of publication bias. 
+Authors' conclusions
+Homocysteine‐lowering therapies were not found to reduce mortality (cardiovascular and all‐cause) or cardiovascular events among people with ESKD. 

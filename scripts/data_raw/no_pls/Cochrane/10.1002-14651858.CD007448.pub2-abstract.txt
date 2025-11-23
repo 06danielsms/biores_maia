@@ -1,0 +1,16 @@
+Background
+Although the exact aetiology of necrotising enterocolitis (NEC) remains unknown, research suggests that it is multifactorial; suspected pathophysiological mechanisms include immaturity, intestinal ischaemia, disruption of intestinal mucosal integrity, formula feeding, hyperosmolar load to the intestine, infection and bacterial translocation. Various antibiotic regimens have been widely used in the treatment of NEC. 
+Objectives
+To compare the efficacy of different antibiotic regimens on mortality and the need for surgery in neonates with NEC. 
+Search methods
+Searches were made of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2012), Oxford Database of Perinatal Trials, MEDLINE (1966 to February 2012), EMBASE (1980 to February 2012) and CINAHL (1982 to February 2012). 
+Selection criteria
+All randomised and quasi‐randomised controlled trials where antibiotic regimens were used for treatment of NEC. 
+Data collection and analysis
+Eligibility of studies for inclusion was assessed independently by each review author. The criteria and standard methods of the Cochrane Neonatal Review Group were used to assess the methodological quality of the included trials. 
+Main results
+Two trials met the inclusion criteria. Faix 1988 randomised 42 premature infants with radiological diagnosis of NEC. Infants were randomised to receive either intravenous ampicillin and gentamicin or ampicillin, gentamicin and clindamycin. Hansen 1980 randomised 20 infants with NEC to receive intravenous ampicillin and gentamicin with or without enteral gentamicin. 
+In the study by Faix 1988, there were no statistical differences in mortality (RR 1.10; 95% CI 0.32 to 3.83) or bowel perforation (RR 2.20; 95% CI 0.45 to 10.74) between the two groups although there was a trend towards higher rate of strictures in the group that received clindamycin (RR 7.20; 95% CI 0.97 to 53.36). 
+The Hansen 1980 study showed no statistically significant difference in death, bowel perforation or development of strictures. 
+Authors' conclusions
+There was insufficient evidence to recommend a particular antibiotic regimen for the treatment of NEC. There were concerns about adverse effects following the usage of clindamycin, related to the development of strictures. To address this issue a large randomised controlled trial needs to be performed. 

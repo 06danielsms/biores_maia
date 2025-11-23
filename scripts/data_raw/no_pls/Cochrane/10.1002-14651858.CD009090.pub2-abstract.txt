@@ -1,0 +1,22 @@
+Background
+Clomiphene citrate (CC) is generally considered first‐line treatment in women with anovulation due to polycystic ovary syndrome (PCOS). Ovulation induction with follicle‐stimulating hormone (FSH; gonadotrophins) is second‐line treatment for women who do not ovulate or conceive while taking CC. Metformin may increase the effectiveness of ovulation induction with gonadotrophins and may promote safety by preventing multiple pregnancy. 
+Objectives
+To determine the effectiveness and safety of metformin co‐treatment during ovulation induction with gonadotrophins with respect to rates of live birth and multiple pregnancy in women with PCOS. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group specialised register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO and the Cumulative Index to Nursing and Allied Health Literature (CINAH) on 8 June 2016, and the reference lists of included and other relevant studies. We searched ongoing trials registries in the World Health Organization (WHO) portal and on clinicaltrials.gov on 4 September 2016. 
+Selection criteria
+We included randomised controlled trials (RCTs) reporting data on comparison of clinical outcomes in women with PCOS undergoing ovulation induction with gonadotrophins plus metformin versus gonadotrophins alone or gonadotrophins plus placebo. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Primary review outcomes were live birth rate and multiple pregnancy rate. Secondary outcomes were ovulation rate, clinical pregnancy rate, ovarian hyperstimulation syndrome (OHSS) rate, miscarriage rate, cycle cancellation rate and adverse effects. 
+Main results
+We included five RCTs (with 264 women) comparing gonadotrophins plus metformin versus gonadotrophins. The gonadotrophin used was recombinant FSH in four studies and highly purified FSH in one study. Evidence was of low quality: The main limitations were serious risk of bias due to poor reporting of study methods and blinding of participants and outcome assessors. 
+Live birth  
+Metformin plus FSH was associated with a higher cumulative live birth rate when compared with FSH (odds ratio (OR) 2.31, 95% confidence interval (CI) 1.23 to 4.34; two RCTs, n = 180; I2 = 0%; low‐quality evidence). This suggests that if the chance of live birth after FSH is assumed to be 27%, then the chance after addition of metformin would be between 32% and 60%. 
+Other pregnancy outcomes  
+Metformin use was associated with a higher ongoing pregnancy rate (OR 2.46, 95% CI 1.36 to 4.46; four RCTs, n = 232; I2 = 0%; low‐quality evidence) and a higher clinical pregnancy rate (OR 2.51, 95% CI 1.46 to 4.31; five RCTs, n = 264; I2 = 0%; low‐quality evidence). 
+Multiple pregnancy  
+Results showed no evidence of a difference in multiple pregnancy rates between metformin plus FSH and FSH (OR 0.55, 95% CI 0.15 to 1.95; four RCTs, n = 232; I2 = 0%; low‐quality evidence) and no evidence of a difference in rates of miscarriage or OHSS. 
+Other adverse effects  
+Evidence was inadequate as the result of limited available data on adverse events after metformin compared with after no metformin (OR 1.78, 95% CI 0.39 to 8.09; two RCTs, n = 91; I2 = 0%; very low‐quality evidence). 
+Authors' conclusions
+Preliminary evidence suggests that metformin may increase the live birth rate among women undergoing ovulation induction with gonadotrophins. At this moment, evidence is insufficient to show an effect of metformin on multiple pregnancy rates and adverse events. Additional trials are necessary before we can provide further conclusions that may affect clinical practice. 

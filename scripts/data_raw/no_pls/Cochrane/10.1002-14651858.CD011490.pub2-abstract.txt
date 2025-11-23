@@ -1,0 +1,20 @@
+Background
+Pancreatic and periampullary adenocarcinomas account for some of the most aggressive malignancies, and the leading causes of cancer‐related mortalities. Partial pancreaticoduodenectomy (PD) with negative resection margins is the only potentially curative therapy. The high prevalence of lymph node metastases has led to the hypothesis that wider excision with the removal of more lymphatic tissue could result in an improvement of survival, and higher rates of negative resection margins. 
+Objectives
+To compare overall survival following standard (SLA) versus extended lymph lymphadenectomy (ELA) for pancreatic head and periampullary adenocarcinoma. We also compared secondary outcomes, such as morbidity, mortality, and tumour involvement of the resection margins between the two procedures. 
+Search methods
+We searched CENTRAL, MEDLINE, PubMed, and Embase from 1973 to September 2020; we applied no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCT) comparing PD with SLA versus PD with ELA, including participants with pancreatic head and periampullary adenocarcinoma. 
+Data collection and analysis
+Two review authors independently screened references and extracted data from study reports. We calculated pooled risk ratios (RR) for most binary outcomes except for postoperative mortality, for which we estimated a Peto odds ratio (Peto OR), and mean differences (MD) for continuous outcomes. We used a fixed‐effect model in the absence of substantial heterogeneity (I² < 25%), and a random‐effects model in cases of substantial heterogeneity (I² > 25%). Two review authors independently assessed risk of bias, and we used GRADE to assess the quality of the evidence for important outcomes. 
+Main results
+We included seven studies with 843 participants (421 ELA and 422 SLA).
+All seven studies included Kaplan‐Meier curves for overall survival. There was little or no difference in survival between groups (log hazard ratio (log HR) 0.12, 95% confidence interval (CI) ‐3.06 to 3.31; P = 0.94; seven studies, 843 participants; very low‐quality evidence). 
+There was little or no difference in postoperative mortality between the groups (Peto odds ratio (OR) 1.20, 95% CI 0.51 to 2.80; seven studies, 843 participants; low‐quality evidence). 
+Operating time was probably longer for ELA (mean difference (MD) 50.13 minutes, 95% CI 19.19 to 81.06 minutes; five studies, 670 participants; moderate‐quality evidence). There was substantial heterogeneity between the studies (I² = 88%; P < 0.00001). 
+There may have been more blood loss during ELA (MD 137.43 mL, 95% CI 11.55 to 263.30 mL; two studies, 463 participants; very low‐quality evidence). There was substantial heterogeneity between the studies (I² = 81%, P = 0.02). 
+There may have been more lymph nodes retrieved during ELA (MD 11.09 nodes, 95% CI 7.16 to 15.02; five studies, 670 participants; moderate‐quality evidence). There was substantial heterogeneity between the studies (I² = 81%, P < 0.00001). 
+There was little or no difference in the incidence of positive resection margins between groups (RR 0.81, 95% CI 0.58 to 1.13; six studies, 783 participants; very low‐quality evidence). 
+Authors' conclusions
+There is no evidence of an impact on survival with extended versus standard lymph node resection. However, the operating time may have been longer and blood loss greater in the extended resection group. In conclusion, current evidence neither supports nor refutes the effect of extended lymph lymphadenectomy in people with adenocarcinoma of the head of the pancreas. 

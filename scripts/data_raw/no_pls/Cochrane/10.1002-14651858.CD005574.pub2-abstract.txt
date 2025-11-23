@@ -1,0 +1,14 @@
+Background
+Malignant pleural mesothelioma (MPM) is a highly aggressive malignancy whose incidence is expected to increase in the United Kingdom, Western Europe, and Australia over the next 20 years as a result of occupational exposure to asbestos fibres. Surgery is feasible in only a small proportion of cases, and radiotherapy and cytotoxic chemotherapy are used in palliation. Pemetrexed is the first and only chemotherapy agent that has been granted a marketing approval for use in combination with cisplatin for the treatment of chemo‐naïve patients with unresectable MPM. 
+Objectives
+To examine evidence on the clinical effectiveness of pemetrexed disodium used in combination with cisplatin for the treatment of unresectable malignant pleural mesothelioma in chemotherapy naïve patients compared with other cytotoxic agents used alone or in combination, or supportive care. 
+Search methods
+CENTRAL (Issue 2, 2005), EMBASE (1980‐2005), MEDLINE (1980‐2005), HTA database (1990‐2005), Web of Knowledge (1990‐2005) and handsearching (including reference lists of retrieved articles and the pharmaceutical company submission to to NICE), up to October 2005. 
+Selection criteria
+Randomised Controlled Trials (RCTs) where the use of pemetrexed disodium in combination with cisplatin is compared with other cytotoxic agents, or supportive care for the treatment of malignant pleural mesothelioma (or non‐RCTs, in the absence of RCT data ). 
+Data collection and analysis
+Outcomes included overall survival, tumour response, progression‐free survival, toxicity and quality of life. Data extraction and quality assessment of included trials was completed independently. Trial data and quality assessment were tabulated and presented narratively. 
+Main results
+One RCT involving 448 patients and comparing pemetrexed plus cisplatin versus cisplatin alone for the treatment of unresectable malignant mesothelioma was included in the review. In the intention‐to‐treat study population, the median survival was statistically significantly longer in the combination arm of pemetrexed plus cisplatin when compared with the cisplatin alone arm. (12.1 and 9.3 months, respectively, p=0.002). The incidence of grade 3/4 toxicities was higher in the combination arm compared with the cisplatin alone arm. 
+Authors' conclusions
+Pemetrexed disodium in combination with cisplatin and with folic acid and vitamin B12 supplementation may improve survival when used in combination with cisplatin in good performance status patients. Further studies including patients with poor performance status are needed in order to generalise the treatment findings. Further studies are also needed into the optimum chemotherapy, and a clear definition of what constitutes best supportive care. 

@@ -1,0 +1,18 @@
+Background
+Many media are commercially available for culturing pre‐implantation human embryos in assisted reproductive technology (ART) cycles. It is unknown which culture medium leads to the best success rates after ART. 
+Objectives
+To evaluate the safety and effectiveness of different human pre‐implantation embryo culture media in used for in vitro fertilisation (IVF) and intracytoplasmic sperm injection (ICSI) cycles. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group's Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the National Research Register, the Medical Research Council's Clinical Trials Register and the NHS Center for Reviews and Dissemination databases from January 1985 to March 2015. We also examined the reference lists of all known primary studies, review articles, citation lists of relevant publications and abstracts of major scientific meetings. 
+Selection criteria
+We included all randomised controlled trials which randomised women, oocytes or embryos and compared any two commercially available culture media for human pre‐implantation embryos in an IVF or ICSI programme. 
+Data collection and analysis
+Two review authors independently selected the studies, assessed their risk of bias and extracted data. We sought additional information from the authors if necessary. We assessed the quality of the evidence using Grades of Recommendation, Assessment, Development and Evaluation (GRADE) methods. The primary review outcome was live birth or ongoing pregnancy. 
+Main results
+We included 32 studies in this review. Seventeen studies randomised women (total 3666), three randomised cycles (total 1018) and twelve randomised oocytes (over 15,230). It was not possible to pool any of the data because each study compared different culture media. 
+Only seven studies reported live birth or ongoing pregnancy. Four of these studies found no evidence of a difference between the media compared, for either day three or day five embryo transfer. The data from the fifth study did not appear reliable. 
+Six studies reported clinical pregnancy rate. One of these found a difference between the media compared, suggesting that for cleavage‐stage embryo transfer, Quinn's Advantage was associated with higher clinical pregnancy rates than G5 (odds ratio (OR) 1.56; 95% confidence interval (CI) 1.12 to 2.16; 692 women). This study was available only as an abstract and the quality of the evidence was low. 
+With regards to adverse effects, three studies reported multiple pregnancies and six studies reported miscarriage. None of them found any evidence of a difference between the culture media used. None of the studies reported on the health of offspring. 
+Most studies (22/32) failed to report their source of funding and none described their methodology in adequate detail. The overall quality of the evidence was rated as very low for nearly all comparisons, the main limitations being imprecision and poor reporting of study methods. 
+Authors' conclusions
+An optimal embryo culture medium is important for embryonic development and subsequently the success of IVF or ICSI treatment. There has been much controversy about the most appropriate embryo culture medium. Numerous studies have been performed, but no two studies compared the same culture media and none of them found any evidence of a difference between the culture media used. We conclude that there is insufficient evidence to support or refute the use of any specific culture medium. Properly designed and executed randomised trials are necessary. 

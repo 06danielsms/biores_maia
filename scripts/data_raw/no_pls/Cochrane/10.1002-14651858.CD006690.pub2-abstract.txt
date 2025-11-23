@@ -1,0 +1,14 @@
+Background
+Around 308 million people worldwide are estimated to have impaired glucose tolerance (IGT); 25% to 75% of these will develop diabetes within a decade of initial diagnosis. At diagnosis, half will have tissue‐related damage and all have an increased risk for coronary heart disease. 
+Objectives
+The objective of this review was to assess the effects and safety of Chinese herbal medicines for the treatment of people with impaired glucose tolerance or impaired fasting glucose (IFG). 
+Search methods
+We searched the following databases: The Cochrane Library, PubMed, EMBASE, AMED, a range of Chinese language databases, SIGLE and databases of ongoing trials. 
+Selection criteria
+Randomised clinical trials comparing Chinese herbal medicines with placebo, no treatment, pharmacological or non‐pharmacological interventions in people with IGT or IFG were considered. 
+Data collection and analysis
+Two authors independently extracted data. Trials were assessed for risk of bias against key criteria: random sequence generation, allocation concealment, blinding of participants, outcome assessors and intervention providers, incomplete outcome data, selective outcome reporting and other sources of bias. 
+Main results
+This review examined 16 trials lasting four weeks to two years involving 1391 participants receiving 15 different Chinese herbal medicines in eight different comparisons. No trial reported on mortality, morbidity or costs. No serious adverse events like severe hypoglycaemia were observed. Meta‐analysis of eight trials showed that those receiving Chinese herbal medicines combined with lifestyle modification were more than twice as likely to have their fasting plasma glucose levels return to normal levels (i.e. fasting plasma glucose <7.8 mmol/L and 2hr blood glucose <11.1 mmol/L) compared to lifestyle modification alone (RR 2.07; 95% confidence intervall (CI) 1.52 to 2.82). Those receiving Chinese herbs were less likely to progress to diabetes over the duration of the trial (RR 0.33; 95% CI 0.19 to 0.58). However, all trials had a considerable risk of bias and none of the specific herbal medicines comparison data was available from more than one study. Moreover, results could have been confounded by rates of natural reversion to normal glucose levels. 
+Authors' conclusions
+The positive evidence in favour of Chinese herbal medicines for the treatment of IGT or IFG is constrained by the following factors: lack of trials that tested the same herbal medicine, lack of details on co‐interventions, unclear methods of randomisation, poor reporting and other risks of bias. 

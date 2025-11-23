@@ -1,0 +1,14 @@
+Background
+Carotid endarterectomy (CEA) is of proven benefit in recently‐symptomatic patients with severe carotid stenosis. Its role in asymptomatic stenosis is still debated. The Asymptomatic Carotid Surgery Trial (ACST) more than doubled the number of patients randomised to CEA trials. This revised review incorporates the recently published ACST results. 
+Objectives
+To determine the effects of CEA for patients with asymptomatic carotid stenosis.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (searched May 2004), MEDLINE (1966 to May 2004), EMBASE (1980 to June 2004), Current Contents (1995 to January 1997), and reference lists of relevant articles. We contacted researchers in the field to identify additional published and unpublished studies. 
+Selection criteria
+All completed randomised trials comparing CEA to medical treatment in patients with asymptomatic carotid stenosis. 
+Data collection and analysis
+Two reviewers extracted data and assessed trial quality. Attempts were made to contact investigators to obtain missing information. 
+Main results
+Three trials with a total of 5223 patients were included. In these trials, the overall net excess of operation‐related perioperative stroke or death was 2.9%. For the primary outcome of perioperative stroke or death or any subsequent stroke, patients undergoing CEA fared better than those treated medically (relative risk (RR) 0.69, 95% confidence interval (CI) 0.57 to 0.83). Similarly, for the outcome of perioperative stroke or death or subsequent ipsilateral stroke, there was benefit for the surgical group (RR 0.71, 95% CI 0.55 to 0.90). For the outcome of any stroke or death, there was a non‐significant trend towards fewer events in the surgical group (RR 0.92, 95% CI 0.83 to 1.02). Subgroup analyses were performed for the outcome of perioperative stroke or death or subsequent carotid stroke. CEA appeared more beneficial in men than in women and more beneficial in younger patients than in older patients although the data for age effect were inconclusive. There was no statistically significant difference between the treatment effect estimates in patients with different grades of stenosis but the data were insufficient. 
+Authors' conclusions
+Despite about a 3% perioperative stroke or death rate, CEA for asymptomatic carotid stenosis reduces the risk of ipsilateral stroke, and any stroke, by approximately 30% over three years. However, the absolute risk reduction is small (approximately 1% per annum over the first few years of follow up in the two largest and most recent trials) but it could be higher with longer follow up. 

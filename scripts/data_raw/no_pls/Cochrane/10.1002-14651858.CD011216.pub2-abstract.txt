@@ -1,0 +1,35 @@
+Background
+Pain after caesarean sections (CS) can affect the well‐being of the mother and her ability with her newborn. Conventional pain‐relieving strategies are often underused because of concerns about the adverse maternal and neonatal effects. Complementary alternative therapies (CAM) may offer an alternative for post‐CS pain. 
+Objectives
+To assess the effects of CAM for post‐caesarean pain.
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, LILACS, PEDro, CAMbase, ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) (6 September 2019), and checked the reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials (RCTs), including quasi‐RCTs and cluster‐RCTs, comparing CAM, alone or associated with other forms of pain relief, versus other treatments or placebo or no treatment, for the treatment of post‐CS pain. 
+Data collection and analysis
+Two review authors independently performed study selection, extracted data, assessed risk of bias and assessed the certainty of evidence using GRADE. 
+Main results
+We included 37 studies (3076 women) which investigated eight different CAM therapies for post‐CS pain relief. There is substantial heterogeneity among the trials. We downgraded the certainty of evidence due to small numbers of women participating in the trials and to risk of bias related to lack of blinding and inadequate reporting of randomisation processes. None of the trials reported pain at six weeks after discharge. 
+Primary outcomes were pain and adverse effects, reported per intervention below. Secondary outcomes included vital signs, rescue analgesic requirement at six weeks after discharge; all of which were poorly reported, not reported, or we are uncertain as to the effect 
+Acupuncture or acupressure 
+We are very uncertain if acupuncture or acupressure (versus no treatment) or acupuncture or acupressure plus analgesia (versus placebo plus analgesia) has any effect on pain because the quality of evidence is very low. Acupuncture or acupressure plus analgesia (versus analgesia) may reduce pain at 12 hours (standardised mean difference (SMD) ‐0.28, 95% confidence interval (CI) ‐0.64 to 0.07; 2 studies; 130 women; low‐certainty evidence) and 24 hours (SMD ‐0.63, 95% CI ‐0.99 to ‐0.26; 2 studies; 130 women; low‐certainty evidence). 
+It is uncertain whether acupuncture or acupressure (versus no treatment) or acupuncture or acupressure plus analgesia (versus analgesia) has any effect on the risk of adverse effects because the quality of evidence is very low. 
+Aromatherapy 
+Aromatherapy plus analgesia may reduce pain when compared with placebo plus analgesia at 12 hours (mean difference (MD) ‐2.63 visual analogue scale (VAS), 95% CI ‐3.48 to ‐1.77; 3 studies; 360 women; low‐certainty evidence) and 24 hours (MD ‐3.38 VAS, 95% CI ‐3.85 to ‐2.91; 1 study; 200 women; low‐certainty evidence). We are uncertain if aromatherapy plus analgesia has any effect on adverse effects (anxiety) compared with placebo plus analgesia. 
+Electromagnetic therapy 
+Electromagnetic therapy may reduce pain compared with placebo plus analgesia at 12 hours (MD ‐8.00, 95% CI ‐11.65 to ‐4.35; 1 study; 72 women; low‐certainty evidence) and 24 hours (MD ‐13.00 VAS, 95% CI ‐17.13 to ‐8.87; 1 study; 72 women; low‐certainty evidence). 
+Massage 
+We identified six studies (651 women), five of which were quasi‐RCTs, comparing massage (foot and hand) plus analgesia versus analgesia. All the evidence relating to pain, adverse effects (anxiety), vital signs and rescue analgesic requirement was very low‐certainty. 
+Music 
+Music plus analgesia may reduce pain when compared with placebo plus analgesia at one hour (SMD ‐0.84, 95% CI ‐1.23 to ‐0.46; 2 studies; 115 women; low‐certainty evidence), 24 hours (MD ‐1.79, 95% CI ‐2.67 to ‐0.91; 1 study; 38 women; low‐certainty evidence), and also when compared with analgesia at one hour (MD ‐2.11, 95% CI ‐3.11 to ‐1.10; 1 study; 38 women; low‐certainty evidence) and at 24 hours (MD ‐2.69, 95% CI ‐3.67 to ‐1.70; 1 study; 38 women; low‐certainty evidence). It is uncertain whether music plus analgesia has any effect on adverse effects (anxiety), when compared with placebo plus analgesia because the quality of evidence is very low. 
+Reiki 
+We are uncertain if Reiki plus analgesia compared with analgesia alone has any effect on pain, adverse effects, vital signs or rescue analgesic requirement because the quality of evidence is very low (one study, 90 women). 
+Relaxation 
+Relaxation may reduce pain compared with standard care at 24 hours (MD ‐0.53 VAS, 95% CI ‐1.05 to ‐0.01; 1 study; 60 women; low‐certainty evidence). 
+Transcutaneous electrical nerve stimulation 
+TENS (versus no treatment) may reduce pain at one hour (MD ‐2.26, 95% CI ‐3.35 to ‐1.17; 1 study; 40 women; low‐certainty evidence). TENS plus analgesia (versus placebo plus analgesia) may reduce pain at one hour (SMD ‐1.10 VAS, 95% CI ‐1.37 to ‐0.82; 3 studies; 238 women; low‐certainty evidence) and at 24 hours (MD ‐0.70 VAS, 95% CI ‐0.87 to ‐0.53; 1 study; 108 women; low‐certainty evidence). 
+TENS plus analgesia (versus placebo plus analgesia) may reduce heart rate (MD ‐7.00 bpm, 95% CI ‐7.63 to ‐6.37; 108 women; 1 study; low‐certainty evidence) and respiratory rate (MD ‐1.10 brpm, 95% CI ‐1.26 to ‐0.94; 108 women; 1 study; low‐certainty evidence). 
+We are uncertain if TENS plus analgesia (versus analgesia) has any effect on pain at six hours or 24 hours, or vital signs because the quality of evidence is very low (two studies, 92 women). 
+Authors' conclusions
+Some CAM therapies may help reduce post‐CS pain for up to 24 hours. The evidence on adverse events is too uncertain to make any judgements on safety and we have no evidence about the longer‐term effects on pain. 
+Since pain control is the most relevant outcome for post‐CS women and their clinicians, it is important that future studies of CAM for post‐CS pain measure pain as a primary outcome, preferably as the proportion of participants with at least moderate (30%) or substantial (50%) pain relief. Measuring pain as a dichotomous variable would improve the certainty of evidence and it is easy to understand for non‐specialists. Future trials also need to be large enough to detect effects on clinical outcomes; measure other important outcomes as listed lin this review, and use validated scales. 

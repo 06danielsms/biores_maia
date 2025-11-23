@@ -1,0 +1,14 @@
+Background
+Yoga is an ancient spiritual practice that originated in India and is currently accepted in the Western world as a form of relaxation and exercise. It has been of interest for people with schizophrenia to determine the efficacy of yoga delivered as a package of care versus standard care. 
+Objectives
+To examine the effects of yoga as a package of care versus standard care.
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (latest 30 March 2017) which is based on regular searches of MEDLINE, PubMed, Embase, CINAHL, BIOSS, AMED, PsychINFO, and registries of clinical trials. We searched the references of all included studies. There are no language, date, document type, or publication status limitations for inclusion of records in the register. 
+Selection criteria
+All randomised controlled trials (RCTs) including people with schizophrenia comparing yoga as a package of care with standard‐care control. 
+Data collection and analysis
+The review authors independently selected studies, quality rated these, and extracted data. For binary outcomes, we calculated risk difference (RD) and its 95% confidence interval (CI), on an intention‐to‐treat (ITT) basis. For continuous data, we estimated the mean difference (MD) between groups and its CI. We employed mixed‐effect and fixed‐effect models for analysis. We examined heterogeneity (I2 technique), assessed risk of bias for included studies, and created a 'Summary of findings' table using GRADE (Grading of Recommendations Assessment, Development and Evaluation). 
+Main results
+Three studies are included in this review. All outcomes were short term (less than eight weeks). Useable data were reported for two outcomes only; leaving the study early and quality of life. There was some evidence in favour of the yoga package for quality of life endpoint scores (1 RCT, n=80, MD 22.93 CI 19.74 to 26.12, low‐quality evidence). Leaving the study early data were equivocal between the treatment groups (3 RCTs, n=193, RD 0.06 CI ‐0.01 to 0.13, medium‐quality evidence, high heterogeneity). Overall, this review has an inordinate number of missing key outcomes, which included mental and global state, social functioning, physical health, adverse effects and costs of care. 
+Authors' conclusions
+A small number of small studies were included in this review and these lacked many key outcomes. The sparse data means we cannot state with any degree of certainty if yoga delivered as a package of care is beneficial in comparison to standard care. 

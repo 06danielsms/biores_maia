@@ -1,0 +1,14 @@
+Background
+Antibodies against hepatitis B surface antigen (HBsAg) wane over time following hepatitis B immunisation; hence, it is unclear whether people vaccinated in three‐dose or four‐dose schedules of the hepatitis B vaccine are still immune when the hepatitis B surface antibody (anti‐HBs) level in their body is undetectable, or lower than the level usually considered protective. This question may potentially be answered indirectly by measuring the anamnestic immune response to a booster dose of vaccine. The term 'booster' (or revaccination) refers to an additional dose of hepatitis B vaccine (HBV) given some time post‐primary vaccination to induce immune memory and improve protection against hepatitis B virus (HBV) infection. 
+Objectives
+To assess the benefits and harms of booster dose hepatitis B vaccination, more than five years after the primary vaccination, for preventing HBV infection in healthy individuals previously vaccinated with the hepatitis B vaccine, and with hepatitis B surface antibody (anti‐HBs) levels below 10 mIU/mL. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Science Citation Index Expanded, conference databases, and reference lists of articles to January 2016. We also contacted authors of articles. In addition, we searched ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform for ongoing trials (May 2016). 
+Selection criteria
+Randomised clinical trials addressing anamnestic immune response to a booster dose of hepatitis B vaccine, more than five years after the primary vaccination, in apparently healthy participants, vaccinated in a three‐dose or four‐dose schedule of the hepatitis B vaccine during the primary vaccination, without receiving an additional dose or immunoglobulin. 
+Data collection and analysis
+Both review authors decided if the identified studies met the inclusion criteria or not. Primary outcomes included the proportion of participants with anamnestic immune response in non‐protected participants and signs of HBV infection. Secondary outcomes were the proportion of participants that developed local and systemic adverse events following a booster dose injection. We planned to report the weighted proportion with 95% confidence intervals (CIs). 
+Main results
+There were no eligible randomised clinical trials fulfilling the inclusion criteria of this review. 
+Authors' conclusions
+We were unable to include any randomised clinical trials on the topic; only randomised clinical trials will be able to provide an answer as to whether a booster dose vaccination is able to protect against hepatitis B infection. 

@@ -1,0 +1,14 @@
+Background
+Psychological and behavioural problems in children and adolescents are common, and improving self‐esteem may help to prevent the development of such problems. There is strong evidence for the positive physical health outcomes of exercise, but the evidence of exercise on mental health is scarce. 
+Objectives
+To determine if exercise alone or exercise as part of a comprehensive intervention can improve self‐esteem among children and young people. 
+Search methods
+Computerised searches in MEDLINE, EMBASE, The Cochrane Controlled Trials Register (CENTRAL), CINAHL, PsycINFO and ERIC were undertaken and reference lists from relevant articles were scanned. Relevant studies were also traced by contacting authors. Dates of most recent searches: May 2003 in (CENTRAL), all others: January 2002. 
+Selection criteria
+Randomised controlled trials where the study population consisted of children and young people aged from 3 to 20 years, in which one intervention arm was gross motor activity for more than four weeks and the outcome measure was self‐esteem. 
+Data collection and analysis
+Two reviewers independently selected trials for inclusion, assessed the validity of included trials and extracted data. Investigators were contacted to collect missing data or for clarification when necessary. 
+Main results
+Twenty‐three trials with a total of 1821 children and young people were included. Generally, the trials were small, and only one was assessed to have a low risk of bias. Thirteen trials compared exercise alone with no intervention. Eight were included in the meta‐analysis, and overall the results were heteregeneous. One study with a low risk of bias showed a standardised mean difference (SMD) of 1.33 (95% CI 0.43 to 2.23), while the SMD's for the three studies with a moderate risk of bias and the four studies with a high risk of bias was 0.21 (95% CI ‐0.17 to 0.59) and 0.57 (95% CI 0.11 to 1.04), respectively. Twelve trials compared exercise as part of a comprehensive programme with no intervention. Only four provided data sufficient to calculate overall effects, and the results indicate a moderate short‐term difference in self‐esteem in favour of the intervention [SMD 0.51 (95% CI 0.15 to 0.88)]. 
+Authors' conclusions
+The results indicate that exercise has positive short‐term effects on self‐esteem in children and young people. Since there are no known negative effects of exercise and many positive effects on physical health, exercise may be an important measure in improving children's self‐esteem.  These conclusions are based on several small low‐quality trials. 

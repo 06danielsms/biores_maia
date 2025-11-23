@@ -1,0 +1,14 @@
+Background
+The main treatment for tuberculosis is antituberculous drugs. Low level laser therapy is used as an adjunct to antituberculous drugs, predominantly in the former Soviet Union and India. 
+Objectives
+To compare low level laser therapy plus antituberculous drugs with antituberculous drugs alone for treating tuberculosis. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (October 2009), CENTRAL (The Cochrane Library 2009, Issue 4), MEDLINE (1966 to October 2009), EMBASE (1974 to October 2009), CINAHL (1982 to October 2009), Science Citation Index (1945 to October 2009), PEDro (1929 to October 2009 ), the Central Medical Library of Moscow catalogue (1988 to April 2009), the Internet, hand search of the journal Probl. Tuberk. Bolezn. Legk. (1980 to April 2009), where most relevant articles were published in previous years, and searched reference lists of articles. We contacted relevant organizations and researchers for the original version. 
+Selection criteria
+Randomized trials comparing low level laser therapy plus antituberculous drugs with antituberculous drugs alone in people with tuberculosis. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data, including adverse events. 
+Main results
+One randomized controlled trial (130 participants) conducted in India met the inclusion criteria. This trial was poorly reported, with no information on the generation of allocation sequence or allocation concealment. The trial report did not provide details on the group that each of the participants were randomized into or which group those participants that left the trial were from. This precluded the use of its data on time to sputum conversion and other outcome measures for analysis. 
+Authors' conclusions
+The use of low level laser therapy for treating tuberculosis is still not supported by reliable evidence. Researchers need to focus on conducting well‐designed randomized controlled trials to justify the continued participation of volunteers for studies of this experimental intervention. 

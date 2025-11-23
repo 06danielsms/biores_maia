@@ -1,0 +1,15 @@
+Background
+Endometrial cancer is a cancer of the lining of the womb and worldwide is the seventh most common cancer in women. Treatment with hormones is thought to be beneficial in patients with endometrial cancer. 
+Objectives
+To assess the indications, effectiveness and safety of hormone therapy for advanced or recurrent epithelial endometrial cancer. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, MEDLINE, EMBASE up to May 2009 and and CENTRAL (Issue 2, 2009). We also searched registers of clinical trials, abstracts of scientific meetings, reference lists of included studies, and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) that studied hormonal therapy in adult women diagnosed with advanced or recurrent endometrial cancer. 
+Data collection and analysis
+Two review authors independently abstracted data and assessed risk of bias. Comparisons were restricted to single‐trial analyses so we did not synthesise data in meta‐analyses. 
+Main results
+We found six trials (542 participants) that met our inclusion criteria. These trials assessed the effectiveness of hormonal therapy in women with advanced or recurrent endometrial cancer as a single agent, as part of combination therapy and as low versus high dose.  
+All comparisons were restricted to single‐trial analyses, where we found no evidence that hormonal therapy as a single agent or as a combination treatment prolonged overall or five‐year disease‐free survival of women with advanced or recurrent endometrial cancer. However, low‐dose hormonal therapy may have had a benefit in terms of overall and progression‐free survival (PFS) compared to high‐dose hormonal therapy (HR 1.31, 95% CI 1.04 to 1.66 and HR 1.35, 95% CI 1.07 to 1.71 for overall and PFS, respectively). 
+Authors' conclusions
+We found insufficient evidence that hormonal treatment in any form, dose or as part of combination therapy improves the survival of patients with advanced or recurrent endometrial cancer. However, a large number of patients would be needed to demonstrate an effect on survival and none of the included RCTs had a sufficient number of patients to demonstrate a significant difference. In the absence of a proven survival advantage and the heterogeneity of patient populations, the decision to use any type of hormonal therapy should be individualised and with the intent to palliate the disease. It is debatable whether outcomes such as quality of life, treatment response or palliative measures such as relieving symptoms should take preference over overall and PFS as the major objectives of future trials. 

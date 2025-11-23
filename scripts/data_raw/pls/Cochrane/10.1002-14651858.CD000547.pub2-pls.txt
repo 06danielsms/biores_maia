@@ -1,0 +1,16 @@
+Preoperative medical therapy before surgery for uterine fibroids
+Review question 
+We investigated if giving drugs before surgery for uterine fibroids improves outcomes.
+Background 
+Uterine fibroids are smooth muscle tumours of the uterus (womb) that can cause fertility problems, heavy menstrual bleeding, repeated pregnancy loss and pelvic pain. Fibroids are usually treated by surgery. Some drugs, particularly gonadotropin‐releasing hormone analogues (GnRHa), have been used to temporarily control bleeding and reduce fibroid and uterine size before surgery. They are unsuitable for long‐term use because they may cause bone loss. Other drugs, including progestins, dopamine agonists, selective progesterone receptor modulators (SPRMs), oestrogen receptor antagonists and selective oestrogen receptor modulators (SERMs), may also provide benefits used short‐term. However, such therapies tend to be expensive. 
+Search date 
+We searched for evidence to June 2017.
+Study characteristics 
+We included 38 studies that involved 3623 women with fibroids that caused symptoms and who were scheduled for surgery to remove the fibroids. Surgeries were either hysterectomy (uterus removal) or myomectomy or resection (removal of fibroids from the uterus wall). Many women were anaemic (had low red blood cell or haemoglobin levels). 
+The studies compared GnRHa with no treatment or sham treatment, GnRHa with other medical treatments, and SPRMs with sham treatment. 
+Study funding sources 
+Fourteen studies were either wholly or partially funded by pharmaceutical companies; three were funded by institutions or hospitals; the source of funding was unclear for 21 trials. It was not possible to determine whether funding source influenced results. 
+Key results 
+GnRHa increased haemoglobin levels before surgery and decreased uterine and fibroid size, compared with no treatment or placebo. Blood loss, need for blood transfusion, operation time during hysterectomy and postoperative complications were reduced. However, women were more likely to experience hot flushes during treatment. An SPRM drug (ulipristal acetate) had similar benefits, particularly reduced bleeding. Future research should focus on cost‐effectiveness and distinguish between groups of women with fibroids who would most benefit. 
+Quality of the evidence 
+The overall quality of evidence for most outcomes was low or very low, meaning there is substantial uncertainty about findings. Quality limitations included lack of reporting of randomisation methods and allocation concealment, lack of blinding (which means that knowledge of treatment could have influenced the findings) and variation in findings among studies. Some findings were imprecise because they were based on only one study. 

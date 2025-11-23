@@ -1,0 +1,14 @@
+Background
+The existing randomized evidence has failed to conclusively demonstrate the benefit or otherwise of preoperative radiotherapy in treating patients with potentially resectable esophageal carcinoma. 
+Objectives
+This meta‐analysis aimed to assess whether there is benefit from adding radiotherapy prior to surgery and whether or not any pre‐defined patient subgroups benefit more or less from preoperative radiotherapy 
+Search methods
+MEDLINE and CancerLit searches were supplemented by information from trial registers and by hand searching relevant meeting proceedings and by discussion with relevant trialists, organisations and industry. The search strategy was run again in MEDLINE, EMBASE and the Cochrane Library on 30th April 2000; in MEDLINE, EMBASE, CancerLit and The Cochrane Library on August 2002 and August 2003; on MEDLINE, EMBASE and the Cochrane Library, on July 2004 and 2005, June 2006 and September 2008. No new relevant trials were identified on any of these occasions. 
+Selection criteria
+Trials were eligible for inclusion in this meta‐analysis provided they randomized patients with potentially resectable carcinoma of the esophagus (of any histological type) to receive radiotherapy or no radiotherapy prior to surgery. Trials must have used a randomization method which precluded prior knowledge of treatment assignment and completed accrual by December 1993, to ensure sufficient follow‐up by the time of the first analysis (September 1995). 
+Data collection and analysis
+A quantitative meta‐analysis using updated data from individual patients from all properly randomized trials (published or unpublished) comprising 1147 patients (971 deaths) from five randomized trials. This approach was used to assess whether preoperative radiotherapy improves overall survival and whether it is differentially effective in patients defined by age, sex and tumour location. 
+Main results
+With a median follow‐up of 9 years, in a group patients with mostly squamous carcinomas, the hazard ratio (HR) of 0.89 (95% CI 0.78‐1.01) suggests an overall reduction in the risk of death of 11% and an absolute survival benefit of 3% at 2 years and 4% at 5 years. This result is not conventionally statistically significant (p=0.062). No clear differences in the size of the effect by sex, age or tumor location were apparent. 
+Authors' conclusions
+Based on existing trials, there was no clear evidence that preoperative radiotherapy improves the survival of patients with potentially resectable esophageal cancer. These results indicate that if such preoperative radiotherapy regimens do improve survival, then the effect is likely to be modest with an absolute improvement in survival of around 3 to 4%. Trials or a meta‐analysis of around 2000 patients (90% power, 5% significance level) would be needed to reliably detect such an improvement (from 15 to 20%). 

@@ -1,0 +1,14 @@
+Background
+Many learning needs arise in the early postpartum period, and it is important to examine interventions used to educate new parents about caring for their newborns during this time. 
+Objectives
+The primary objective was to assess the effects of structured postnatal education delivered to an individual or group related to infant general health or care and parent‐infant relationships. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 March 2013). 
+Selection criteria
+We included randomized controlled trials of any structured postnatal education provided to individual parents or groups of parents within the first two months post‐birth related to the health or care of an infant or parent‐infant relationships. 
+Data collection and analysis
+Two review authors (JB, CTB) assessed trial quality and extracted data from published reports. 
+Main results
+Of the 27 trials (3949 mothers and 579 fathers) that met the inclusion criteria, only 15 (2922 mothers and 388 fathers) reported useable data. Educational interventions included: five on infant sleep enhancement, 12 on infant behaviour, three on general post‐birth health, three on general infant care, and four on infant safety. Details of the randomization procedures, allocation concealment, blinding, and participant loss were often not reported. Of the outcomes analyzed, only 13 were measured similarly enough by more than one study to be combined in meta‐analyses. Of these 13 meta‐analyses, only four were found to have a low enough level of heterogeneity to provide an overall estimate of effect. Education about sleep enhancement resulted in a mean difference of 29 more night‐time minutes of infant sleep in 24 hours at six weeks of age (95% confidence interval (CI) 18.53 to 39.73) than usual care. However, it had no significant effect on the mean difference in minutes of crying time in 24 hours at six weeks and 12 weeks of age. Education related to infant behaviour increased maternal knowledge of infant behaviour by a mean difference of 2.85 points (95% CI 1.78 to 3.91). 
+Authors' conclusions
+The benefits of educational programs to participants and their newborns remain unclear. Education related to sleep enhancement appears to increase infant sleep but appears to have no effect on infant crying time. Education about infant behaviour potentially enhances mothers' knowledge; however more and larger, well‐designed studies are needed to confirm these findings. 

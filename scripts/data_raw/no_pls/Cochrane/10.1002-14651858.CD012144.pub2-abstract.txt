@@ -1,0 +1,14 @@
+Background
+Survivors of stroke due to intracerebral haemorrhage (ICH) are at risk of thromboembolism. Antithrombotic (antiplatelet or anticoagulant) treatments may lower the risk of thromboembolism after ICH, but they may increase the risks of bleeding. 
+Objectives
+To determine the overall effectiveness and safety of antithrombotic drugs for people with ICH. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (24 March 2017). We also searched the Cochrane Central Register of Controlled Trials (CENTRAL: the Cochrane Library 2017, Issue 3), MEDLINE Ovid (from 1948 to March 2017), Embase Ovid (from 1980 to March 2017), and online registries of clinical trials (8 March 2017). We also screened the reference lists of included trials for additional, potentially relevant studies. 
+Selection criteria
+We selected all randomised controlled trials (RCTs) of any antithrombotic treatment after ICH. 
+Data collection and analysis
+Three review authors independently extracted data. We converted categorical estimates of effect to the risk ratio (RR) or odds ratio (OR), as appropriate. We divided our analyses into short‐ and long‐term treatment, and used fixed‐effect modelling for meta‐analyses. Three review authors independently assessed the included RCTs for risks of bias and we created a 'Summary of findings' table using GRADE. 
+Main results
+We included two RCTs with a total of 121 participants. Both RCTs were of short‐term parenteral anticoagulation early after ICH: one tested heparin and the other enoxaparin. The risk of bias in the included RCTs was generally unclear or low, with the exception of blinding of participants and personnel, which was not done. The included RCTs did not report our chosen primary outcome (a composite outcome of all serious vascular events including ischaemic stroke, myocardial infarction, other major ischaemic event, ICH, major extracerebral haemorrhage, and vascular death). Parenteral anticoagulation did not cause a statistically significant difference in case fatality (RR 1.25, 95% confidence interval (CI) 0.38 to 4.07 in one RCT involving 46 participants, low‐quality evidence), ICH, or major extracerebral haemorrhage (no detected events in one RCT involving 75 participants, low‐quality evidence), growth of ICH (RR 1.64, 95% CI 0.51 to 5.29 in two RCTs involving 121 participants, low‐quality evidence), deep vein thrombosis (RR 0.99, 95% CI 0.49 to 1.96 in two RCTs involving 121 participants, low quality evidence), or major ischaemic events (RR 0.54, 95% CI 0.23 to 1.28 in two RCTs involving 121 participants, low quality evidence). 
+Authors' conclusions
+There is insufficient evidence from RCTs to support or discourage the use of antithrombotic treatment after ICH. RCTs comparing starting versus avoiding antiplatelet or anticoagulant drugs after ICH appear justified and are needed in clinical practice. 

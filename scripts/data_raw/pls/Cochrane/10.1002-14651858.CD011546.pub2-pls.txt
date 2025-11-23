@@ -1,0 +1,20 @@
+Medications for cognitive decline in people with Down syndrome
+People with Down syndrome often experience cognitive decline (a deterioration in memory, language, thinking and judgment that are greater than normal age‐related changes) at a younger age and in greater numbers than the general population. Various medicines have been shown to improve, or at least slow down the progression of these symptoms in people without Down syndrome. 
+Review question 
+Do adults (18 years and older) with Down syndrome benefit from treatment with medicine to prevent cognitive decline, compared with other adults with Down syndrome who receive either fake medicine (placebos) or no medicine? 
+Study characteristics 
+In January 2015, we, a team of Cochrane researchers, searched for all medical studies that investigated the effect of any medicine or nutritional supplement on cognitive decline in adults with Down syndrome. We found nine relevant randomised controlled trials (this design produces the most reliable results) that we could include in this overview. These studies tested: 
+‐ donepezil, a medicine used to treat Alzheimer's disease (four studies);
+‐ memantine, a medicine used to treat Alzheimer's disease (two studies);
+‐ simvastatin, a (statin) medicine used to prevent heart disease (one study);
+‐ a mixture of antioxidants, including forms of vitamins C and E, and alpha‐lipoic acid (one study); and 
+‐ acetyl‐L‐carnitine, a dietary supplement that has previously been used to treat dementia (one study). 
+Five of the studies focused on adults aged 45 to 55 years and four focused on adults aged 20 to 29 years. Seven studies were conducted in either the USA or UK, one took place in Norway and the UK, and one study was conducted in Japan. 
+Key results 
+The nine studies we found examined the effects of five medicines that are, or have been, used to prevent cognitive decline. All the studies compared the medicine being tested with a placebo (a tablet or capsule that looked and tasted like the medicine, but which contained no medicine). 
+Generally, those who received the medicine did no better than those who received the placebo in any of the areas assessed in the studies. The areas assessed included general functioning (including memory and thinking, speech, mood and behaviour); cognitive functioning (including memory, following what’s going on around you); adaptive behaviours (being able to do day‐to‐day tasks); or behaviour problems (such as being irritable or aggressive). 
+The only medicine to show any positive effect was the statin, simvastatin. Preliminary findings from a very small study showed that simvastin had some benefit on improving memory compared to placebo. 
+In the four donepezil studies, those participants given donepezil reported more headaches, dizziness, and nausea than participants given placebo. In the two memantine studies, there was no difference between participants given memantine or placebo for reports of headaches, dizziness, and nausea. 
+Quality of the evidence 
+Although the included studies were well conducted, most involved small numbers of participants and for many of the areas assessed we could not combine results from two or more studies. Overall, the quality of this evidence is low. We cannot be certain whether any of these medicines are effective. Running more trials with more people over a longer period of time would allow us answer this question with greater certainty. 
+We could not find any trials that investigated many of the medicines used to prevent cognitive decline, and so research is needed to explore the effectiveness of these medications in the Down syndrome population. 

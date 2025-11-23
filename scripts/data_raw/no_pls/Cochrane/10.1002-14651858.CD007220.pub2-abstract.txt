@@ -1,0 +1,14 @@
+Background
+Mild cognitive impairment (MCI) is an intermediate state between normal cognition and dementia in which daily function is largely intact. This condition may present an opportunity for research into the prevention of dementia. Carbohydrate is an essential and easily accessible macronutrient which influences cognitive performance. A better understanding of carbohydrate‐driven cognitive changes in normal cognition and mild cognitive impairment may suggest ways to prevent or reduce cognitive decline. 
+Objectives
+To assess the effectiveness of carbohydrates in improving cognitive function in older adults with normal cognition or mild cognitive impairment. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group Specialized Register, on 6 April 2012 using the terms: carbohydrates OR carbohydrate OR monosaccharides OR disaccharides OR oligosaccharides OR polysaccharides OR CARBS. ALOIS contains records from all major healthcare databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many trial databases and grey literature sources. 
+Selection criteria
+All randomised controlled trials (RCT) examining the effect of any form of carbohydrates on the cognition or daily functioning of adults aged 55 years or over with normal cognition or MCI. 
+Data collection and analysis
+One review author selected and retrieved relevant articles for further assessment. The remaining authors independently assessed whether any of the retrieved trials should be included. Disagreements were resolved by discussion.  
+Main results
+One study was included. It involved 44 adults aged 60 to 80 years and compared a glucose drink with a saccharin drink, given on only a single occasion. Those receiving the glucose drink were significantly faster in completing the switching condition of the modified Stroop test (F 1, 41 = 10.47; P < 0.01) compared to those receiving the saccharin drink. Participants in the glucose group also showed a significantly smaller dual‐task cost in a computerised test of divided attention compared to the placebo group (F 1, 38 = 8.49; P < 0.01, ƞ2 = 0.18). As a glucose drink was administered only once, safety, global function, behaviour disturbance, and activities of daily living were not investigated in the study. 
+Authors' conclusions
+With only one RCT included, there is insufficient evidence to base any recommendations about the use of any form of carbohydrate for enhancing cognitive performance in older adults with normal cognition or mild cognitive impairment. More studies of many different carbohydrates are needed to tease out complex nutritional issues and to further evaluate memory improvement. 

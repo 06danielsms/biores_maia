@@ -1,0 +1,11 @@
+Adding taxane‐based chemotherapy to androgen deprivation therapy for the treatment of metastatic hormone‐sensitive prostate cancer 
+Review question 
+The aim of this review was to find out if adding taxane‐based chemotherapy to hormone therapy improved outcomes in men with metastatic, hormone‐sensitive prostate cancer. We collected and analysed all relevant studies to answer this question and found three studies. 
+Background 
+Of the men diagnosed with prostate cancer, approximately 16% will present with cancer that has spread at diagnosis. In addition, another 15% to 30% of men will get the disease again after having primary treatment. Hormone therapy (drugs to reduce the level of male hormones) has been the first treatment for advanced cancer but it does not cure it and eventually the cancer comes back. Recently studies have looked at whether chemotherapy (chemicals that kill cancer cells), when given early, improve how patients do. 
+Study characteristics 
+The evidence is current to August 2018. We found three studies (specifically, randomized controlled trials) with a total of 2,261 people. The studies compared docetaxel (an anti‐cancer drug) and hormone therapy to hormone therapy alone. 
+Key results 
+Taxane‐based chemotherapy in addition to hormone therapy likely improves overall and cancer‐specific survival and reduces disease progression. There may also be a small but unimportant improvement in quality of life at 12 months. There may also be an increase in side effects when people are treated with taxane‐based chemotherapy. 
+Certainty of evidence 
+We judged the certainty of the evidence to be moderate for time‐to‐death from any cause, risk of prostate cancer‐specific death and the time to disease progression. This means that our estimates are likely to be close to the truth, but there were limitations in the studies that reduce our confidence in the results. The certainty of the evidence was low for Grade III to V adverse events (side effects), adverse events of all grades, people stopping treatment due to adverse events, and quality of life. This means that the true effect of the treatment may be substantially different from what this review shows, because of limitations in the studies and imprecision (variability in estimates). 

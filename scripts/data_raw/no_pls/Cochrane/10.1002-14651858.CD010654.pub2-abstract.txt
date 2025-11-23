@@ -1,0 +1,14 @@
+Background
+Although plasma transfusions are frequently prescribed for critically ill patients, most clinical uses of plasma are not supported by evidence. Plasma transfusions do not seem to correct mild coagulation abnormalities based on international normalised ratio (INR) testing, but they seem to be independently associated with worse clinical outcomes in non‐massively bleeding patients. Current recommendations on plasma transfusion strategies advocate limiting plasma transfusions to patients who are actively bleeding or who are at risk of bleeding and concomitantly have moderately abnormal coagulation tests. 
+Objectives
+To determine whether use of a restrictive versus a liberal plasma transfusion threshold affects mortality or morbidity in critically ill patients, and to assess the clinical effects of different plasma transfusion thresholds in critically ill patients. 
+Search methods
+A search for studies was run on 15 August 2013. We searched the Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE(R) Ovid, MEDLINE(R) Ovid In‐Process & Other Non‐Indexed Citations, MEDLINE(R) Ovid Daily and OLDMEDLINE(R) Ovid, EMBASE Classic + EMBASE (Ovid SP), reference lists, related websites and trial registries and checked lists of references. 
+Selection criteria
+Randomised clinical trials that assessed the effects of two plasma transfusion strategies, using a restrictive and a liberal threshold of at least one coagulation test, in critically ill participants. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality using the standard methods of the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+Of 843 references identified by our search, none of the trials satisfied our predefined inclusion criteria. No studies are included in this review. 
+Authors' conclusions
+This review highlights the lack of evidence that is available to guide plasma transfusions in critically ill patients. Randomised controlled trials are needed to determine the appropriate plasma transfusion strategy in critically ill patients. 

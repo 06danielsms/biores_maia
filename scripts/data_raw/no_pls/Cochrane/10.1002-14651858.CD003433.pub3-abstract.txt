@@ -1,0 +1,14 @@
+Background
+The outcome of glaucoma surgery can be affected by the rate at which the surgical wound heals. Beta radiation has been proposed as a rapid and simple treatment to slow down the healing response. 
+Objectives
+To assess the effectiveness of beta radiation during glaucoma surgery (trabeculectomy).
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 3), MEDLINE (January 1950 to March 2012), EMBASE (January 1980 to March 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). There were no date or language restrictions in the electronic searches for trials. The electronic databases were last searched on 26 March 2012. 
+Selection criteria
+We included randomised controlled trials comparing trabeculectomy with beta radiation to trabeculectomy without beta radiation. 
+Data collection and analysis
+We collected data on surgical failure (intraocular pressure > 21 mmHg), intraocular pressure and adverse effects of glaucoma surgery. We pooled data using a fixed‐effect model. 
+Main results
+We found four trials that randomised 551 people to trabeculectomy with beta irradiation versus trabeculectomy alone. Two trials were in Caucasian people (126 people), one trial in black African people (320 people) and one trial in Chinese people (105 people). People who had trabeculectomy with beta irradiation had a lower risk of surgical failure compared to people who had trabeculectomy alone (pooled risk ratio (RR) 0.23 (95% CI 0.14 to 0.40). Beta irradiation was associated with an increased risk of cataract (RR 2.89, 95% CI 1.39 to 6.0). 
+Authors' conclusions
+Trabeculectomy with beta irradiation has a lower risk of surgical failure compared to trabeculectomy alone. A trial of beta irradiation versus anti‐metabolite is warranted. 

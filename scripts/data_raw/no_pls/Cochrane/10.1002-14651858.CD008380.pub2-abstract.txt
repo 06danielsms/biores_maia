@@ -1,0 +1,14 @@
+Background
+Acute respiratory failure is a common life‐threatening complication of acute onset neuromuscular diseases, and may exacerbate chronic hypoventilation in patients with neuromuscular disease or chest wall disorders. Standard management includes oxygen supplementation, physiotherapy, cough assistance, and, whenever needed, antibiotics and intermittent positive pressure ventilation. Non‐invasive mechanical ventilation (NIV) via nasal, buccal or full‐face devices has become routine practice in many centres. 
+Objectives
+The primary objective of this review was to compare the efficacy of non‐invasive ventilation with invasive ventilation in improving short‐term survival in acute respiratory failure in people with neuromuscular disease and chest wall disorders. The secondary objectives were to compare the effects of NIV with those of invasive mechanical ventilation on improvement in arterial blood gas after 24 hours and lung function measurements after one month, incidence of barotrauma and ventilator‐associated pneumonia, duration of mechanical ventilation, length of stay in the intensive care unit and length of hospital stay. 
+Search methods
+We searched the following databases on 11 September 2017: the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE and Embase. We also searched conference proceedings and clinical trials registries. 
+Selection criteria
+We planned to include randomised or quasi‐randomised trials with or without blinding. We planned to include trials performed in children or adults with acute onset neuromuscular diseases or chronic neuromuscular disease or chest wall disorders presenting with acute respiratory failure that compared the benefits and risks of invasive ventilation versus NIV. 
+Data collection and analysis
+Two review authors reviewed searches and independently selected studies for assessment. We planned to follow standard Cochrane methodology for data collection and analysis. 
+Main results
+We did not identify any trials eligible for inclusion in the review.
+Authors' conclusions
+Acute respiratory failure is a life‐threatening complication of acute onset neuromuscular disease and of chronic neuromuscular disease and chest wall disorders. We found no randomised trials on which to elaborate evidence‐based practice for the use of non‐invasive versus invasive mechanical ventilation. For researchers, there is a need to design and conduct new randomised trials to compare NIV with invasive ventilation in acute neuromuscular respiratory failure. These trials should anticipate variations in treatment responses according to disease condition (acute onset versus acute exacerbation on chronic neuromuscular diseases) and according to the presence or absence of bulbar dysfunction. 

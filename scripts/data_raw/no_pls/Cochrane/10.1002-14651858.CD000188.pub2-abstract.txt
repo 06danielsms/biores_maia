@@ -1,0 +1,15 @@
+Background
+There is accumulating evidence that steroid sex hormones have a beneficial effect on a number of risk factors for peripheral arterial disease. 
+Objectives
+The objective of this review was to determine whether exogenous steroid sex hormones are an effective treatment for patients with lower limb atherosclerosis. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched August 2012) and CENTRAL 2012, Issue 7. There were no language restrictions. 
+Selection criteria
+We selected randomised or quasi‐randomised controlled trials of steroid sex hormones in patients with lower limb atherosclerosis. 
+Data collection and analysis
+Both authors extracted data and assessed trial quality independently. Whenever possible investigators were contacted to obtain information needed for the review that could not be found in published reports. 
+Main results
+Four trials appeared to meet the inclusion criteria, but one was excluded because of poor methodology. The three remaining trials compared testosterone treatment with placebo in a total of 109 subjects with intermittent claudication or critical leg ischaemia. The most recent trial to meet the inclusion criteria dated from 1971. No trials were available which investigated the potentially beneficial effects of oestrogenic hormones in women with lower limb atherosclerosis. 
+Testosterone therapy produced no significant improvement in tests of walking distance or in a variety of other objective tests for peripheral arterial disease, including venous filling time, muscle blood flow and plethysmography. The relative risk for subjective improvement in symptoms using the combined trial results was also non‐significant (relative risk (RR) 1.10, 95% confidence interval (CI) 0.81 to 1.48). 
+Authors' conclusions
+There is no evidence to date that short‐term testosterone treatment is beneficial in subjects with lower limb atherosclerosis. However, this might reflect limited data rather than the lack of a real effect. 

@@ -1,0 +1,40 @@
+Clinical Study Results
+The chart below shows these results.
+Average highest amount of AZD9977 in the blood
+6,000
+7799DZA
+4,992 nmol/L
+5,000 )L/lomn(
+4,000
+fo
+tnuoma
+doolb
+3,000
+2,244 nmol/L
+2,000 eht
+egarevA
+ni
+1,000
+0
+AZD9977 and itraconazole
+Average total amount of AZD9977 over time
+The average total amount of AZD9977 over time was measured in units called nmol/L per hour, also known as h*nmol/L. The researchers found that the average total amount of AZD9977 over time in the blood was:
+• 9,341 h*nmol/L when AZD9977 was taken alone
+• 28,960 h*nmol/L when AZD9977 was taken with itraconazole
+The chart below shows these results.
+Average total amount of AZD9977 in the blood over time
+28,960 h*nmol/L
+30,000
+7799DZA
+)L/lomn*h(
+25,000
+20,000
+fo
+tnuoma
+15,000 doolb
+9,341 h*nmol/L
+10,000
+egarevA eht
+5,000 ni
+0
+AZD9977 and itraconazole

@@ -1,0 +1,14 @@
+Background
+COPD is a progressive illness and in the later stages, exacerbations may lead to ventilatory failure. The combination of hypoxia and hypercapnia can lead to coma and death. Correction of these blood gas abnormalities is a medical emergency. Doxapram is a respiratory stimulant used to stimulate respiration in this setting. 
+Objectives
+The objective of this review was to assess the effects of doxapram on gas exchange and clinical outcomes in people with ventilatory failure due to acute exacerbations of chronic obstructive pulmonary disease. 
+Search methods
+We searched the Cochrane Airways Group trials register and reference lists of articles. We also contacted experts in the field, study authors and drug companies. An updated electronic search conducted in October 2003 did not yield any further studies. 
+Selection criteria
+Randomised trials comparing doxapram with other treatments or placebo in people with ventilatory failure due to exacerbations of chronic obstructive pulmonary disease. 
+Data collection and analysis
+Two reviewers assessed trial quality and extracted data.
+Main results
+Four trials involving 176 people were included. The trials were of variable quality. Doxapram was marginally superior to placebo in preventing blood gas deterioration. In the two studies comparing doxapram and non‐invasive ventilation the results were conflicting: an early small study suggested non‐invasive ventilation was superior. However, a subsequent larger study in severe participants suggested doxapram was equally effective in terms of blood gases changes, with no differences observed in mortality and frequent treatment failure. 
+Authors' conclusions
+Doxapram can improve blood gas exchange over the first few hours of treatment. Newer techniques such as non‐invasive ventilation may prove to be more effective, although there is no randomised trial evidence to this effect. 

@@ -1,0 +1,20 @@
+The effectiveness of drugs to help blood clot in the prevention and treatment of bleeding in people without haemophilia 
+Review question 
+Do medicines that help in the prevention and treatment of bleeding reduce the risk of death, the risk of experiencing a blood clot and reduce the amount of blood lost in people who do not suffer from haemophilia (a bleeding disorder), who are bleeding, or at risk of bleeding? 
+Background 
+Coagulopathy, defined as a failure of normal blood clotting, is common in severe illness, trauma and major surgery. This can make bleeding worse and may cause death. Medicines are available that are blood clotting factors that can be given into the vein to treat coagulopathy and bleeding. However, we lack enough information about how effective and safe they are. 
+This review combines all the data available on these medicines to assess their effectiveness and safety. 
+Study characteristics 
+We searched the medical literature up to 18 April 2018 for randomised controlled trials (RCTs), as these provide the most reliable evidence. We identified 31 relevant RCTs that contained results from 2392 participants and compared these medicines either against placebo (inactive treatment) or another medicine or blood product. The RCTs focused on three types of factors that may improve blood clotting: fibrinogen (a clotting factor that increases clot strength), clotting factor XIII (important for holding clots together) and prothrombin complex concentrate (a combination of four precursor clotting factors). 
+The trials either gave these medicines before bleeding occurred (prophylactically) or to treat existing bleeding (therapeutically). Most trials focused on surgery, especially heart surgery, trauma, and bleeding after childbirth. 
+Seventeen of the RCTs we identified had industrial support, eight had unclear funding sources and six declared non‐industrial funding. 
+Key results 
+No medicine had any effect on the risk of dying, regardless of clinical setting or how the medicine was used. However, our certainty in the results is low and this finding may change in the future when new studies are published. 
+No medicine increased the risk of harmful clots in the veins or arteries, but our certainty in these findings is low. 
+Prophylactic fibrinogen reduced bleeding after heart and orthopaedic surgery compared to placebo. Prophylactic fibrinogen, compared to placebo, almost halved the need for blood transfusion following heart surgery, and reduced the need by three‐quarters in other surgery. Fibrinogen reduced the need for blood transfusion when used to treat bleeding. 
+Prophylactic factor XIII reduced bleeding after heart surgery.
+Sample sizes in future randomised trials need to be greatly increased in order to show any differences in overall survival and death due to bleeding. 
+Certainty of the evidence 
+Our certainty in the evidence is low, but future research may change the findings of this review. 
+Conclusion 
+The low certainty of the evidence makes it difficult to draw conclusions about how well these medicines work and whether they should be used in current health care. Further research is required in larger‐scale RCTs to determine the benefit and costs of these treatments and whether this outweighs their risks. 

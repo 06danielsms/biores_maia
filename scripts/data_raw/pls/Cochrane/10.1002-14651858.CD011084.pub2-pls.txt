@@ -1,0 +1,27 @@
+Financial arrangements for health systems in low‐income countries
+What is the aim of this overview? 
+The aim of this Cochrane Overview is to provide a broad summary of what is known about the effects of financial arrangements for health systems in low‐income countries. 
+This overview is based on 15 systematic reviews. Each of these systematic reviews searched for studies that evaluated different types of financial arrangements within the scope of the review question. The reviews included a total of 276 studies. 
+This overview is one of a series of four Cochrane Overviews that evaluate different health system arrangements. 
+Main results 
+What are the effects of different ways of collecting funds to pay for health services?  Two reviews looked for studies that addressed this question and found the following. 
+‐ The effects of changes in user fees on utilisation and equity are uncertain (very low‐certainty evidence). 
+‐ It is uncertain whether aid delivered under Paris Principles (ownership, alignment, harmonisation, managing for results, and mutual accountability) improves health compared to aid delivered without conforming to those principles (very low‐certainty evidence). 
+What are the effects of different types of insurance schemes?  One systematic review looked for studies that addressed this question and found the following. 
+‐ Community‐based health insurance may increase people's use of services (low‐certainty evidence), but the effects on people's health are uncertain. It is uncertain whether social health insurance increases people's use of services (very low‐certainty evidence). 
+What are the effects of different ways of paying for health services?  One systematic review looked for studies that addressed this question and found the following. 
+‐ It is uncertain whether increasing salaries of public sector healthcare workers improves the quantity or quality of their work. 
+What are the effects of different types of financial incentives for recipients of care?  Six systematic reviews looked for studies that addressed this question and found the following. 
+‐ Giving healthcare recipients incentives may improve their adherence to long‐term treatments (low‐certainty evidence), but it is uncertain whether they improve people's health. 
+‐ Giving healthcare recipients one‐time incentives probably leads more people to return to start or continue treatment for tuberculosis (moderate‐certainty evidence). The certainty of the evidence for other types of recipient incentives for tuberculosis is low or very low. 
+‐ Conditional cash transfer programmes (giving money to recipients of care on the condition that they take a specified action to improve their health) probably increase people's use of services (moderate‐certainty evidence), but have mixed effect on people's health. 
+‐ Vouchers may improve people's use of health services (low‐certainty evidence) but have mixed effects on people's health (low‐certainty evidence). 
+‐ A combination of a ceiling and co‐insurance probably slightly decreases the overall use of medicines (moderate‐certainty evidence) and may increase health service utilisation (low‐certainty evidence). The certainty of the evidence for the effects of other combinations of caps, co‐insurance, co‐payments, and ceilings is low or very low. 
+‐ Limits on how much insurers pay for different groups of drugs (reference pricing, maximum pricing, and index pricing) have mixed effects on drug expenditures by patients and insurers as well as the use of brand and generic drugs. 
+What are the effects of different types of financial incentives for health workers?  Five systematic reviews looked for studies that addressed this question and found the following. 
+‐ We are uncertain whether pay‐for‐performance improves health worker performance, people's use of services, people's health, or resource use in low‐income countries (very low‐certainty evidence). 
+‐ We are uncertain whether financial incentives for health workers improve the quality of care provided by primary care physicians or outpatient referrals from primary to secondary care (very low‐certainty evidence). 
+‐ There is no rigorous research evaluating incentives (e.g. bursaries or scholarships linked to future practice location, rural allowances) for recruiting health workers to serve in remote areas. It is uncertain whether giving health workers incentives lead more of them to stay in underserved areas (very low‐certainty evidence). 
+‐ No studies assessed the effects of financial interventions on the movement of health workers between public and private organisations in low‐ and middle‐income countries. 
+How up to date is this overview? 
+The overview authors searched for systematic reviews published up to 17 December 2016.

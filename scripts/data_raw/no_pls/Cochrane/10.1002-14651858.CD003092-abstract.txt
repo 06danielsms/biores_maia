@@ -1,0 +1,14 @@
+Background
+This is one of a series of reviews of methods of cervical ripening and labour induction using standardised methodology. 
+Objectives
+To determine the effects of extra‐amniotic prostaglandin for third trimester cervical ripening or induction of labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (June 2009) and bibliographies of relevant papers. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing extra‐amniotic prostaglandin used for third trimester cervical ripening or labour induction with placebo/no treatment or other methods listed above it on a predefined list of labour induction methods. 
+Data collection and analysis
+Two review authors independently assessed eligibility and carried out data extraction for all reports identified by the search strategy. 
+Main results
+Twelve studies are included. Of the primary outcomes, there were significantly fewer women delivered vaginally within 24 hours among those induced with extra‐amniotic prostaglandin (PG) F2 alpha compared to vaginal misoprostol (risk ratio (RR) 2.43; 95% confidence interval (CI) 1.42 to 4.15). No other differences between groups for primary outcomes were found to be statistically significant. Oxytocin was used to initiate or augment labour significantly less frequently with extra‐amniotic prostaglandins when compared to placebo (RR 0.51; 95% CI 0.39 to 0.67) but significantly more frequently when compared to vaginal misoprostol (RR 1.73; 95% CI 1.20 to 2.49). When extra‐amniotic PGE2 was compared to Foley catheter only, the only difference between groups was that there were fewer cases of unfavourable cervix at 12 to 24 hours following treatment (RR 0.59; 95% CI 0.41 to 0.86). Women receiving extra‐amniotic prostaglandin were more likely to be satisfied (mean difference 4.40; 95% CI 3.50 to 5.30) and less likely to be embarrassed by the treatment compared to vaginal PGE2 (RR 8.91; 95% CI 2.26 to 35.02). There were no other significant differences when extra‐amniotic prostaglandins were compared with other methods of cervical ripening or induction of labour. Although this could suggest that extra‐amniotic prostaglandins are as effective as other agents, the findings are difficult to interpret because they are based on very small numbers and may lack the power to show a real difference. 
+Authors' conclusions
+The studies in this review are limited by sample size which are often divided into multiple comparison groups. Most comparisons showed no significant differences, with wide confidence intervals. Although extra‐amniotic prostaglandins may be as effective as other modalities in initiating labour, there is little conclusive information from this review to guide clinical practice. An adequately powered randomised controlled trial would be useful to determine if the use of extra‐amniotic prostaglandins would lower the rate of caesarean section. 

@@ -1,0 +1,14 @@
+Background
+Malignant biliary obstruction, which requires endoscopic stenting as palliative therapy, is often complicated by clogging of the stent with subsequent jaundice and/or cholangitis. Stent clogging may be caused by microbiological adhesion and biliary stasis. Therefore, antibiotics and choleretic agents like ursodeoxycholic acid (UDCA) have been investigated to see whether they prolong stent patency. 
+Objectives
+To evaluate if UDCA and/or antibiotics may prolong stent patency and survival in patients with strictures of the biliary tract and endoscopically inserted stents. 
+Search methods
+The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Library, MEDLINE, Current Contents, EMBASE, and CancerLit were searched until June 2001. Reference lists of the identified articles were checked for further trials. 
+Selection criteria
+All randomised or quasi‐randomised clinical trials investigating UDCA and/or antibiotics in patients with biliary stents were considered for inclusion, regardless of blinding, language, and publication status. 
+Data collection and analysis
+Trial inclusion, quality assessment, and data extraction were performed independently by two reviewers. Principal investigators were contacted for further information. Survival data were combined by using hazard ratios (with 95% confidence interval (95% CI)). 
+Main results
+Five non‐blinded randomised trials with 258 patients with malignant strictures treated with polyethylene stents were included. Three trials, including 152 patients, investigated a combination of UDCA and antibiotics versus no treatment. The meta‐analysis of these three trials does not show a significant treatment effect on the duration of stent patency (hazard ratio (random effects model) 0.58, 95% CI 0.22 to 1.54) or mortality (hazard ratio (fixed effect model) 0.99, 95% CI 0.68 to 1.43). Two trials with 106 patients compared antibiotics with no treatment, one of these trials used a combination of antibiotics and rowachol (an 'alternative' drug of the 'mint' family). The pooled results of these two trials do not show significant effects of antibiotics on the duration of stent patency (hazard ratio (fixed effect model) 0.69 (95% CI 0.37 to 1.30)) or mortality (hazard ratio (fixed effect model) 1.23 (95% CI 0.72 to 2.08). Data concerning duration of hospital stay, frequency of cholangitis, and rate of infectious complications due to selection of antibiotic resistant bacteria strains were not available. 
+Authors' conclusions
+Treatment with UDCA and/or antibiotics to prevent clogging of biliary stents in patients with malignant stricture of the biliary tract cannot be recommended routinely on the basis of the existing randomised clinical trials. Further trials are needed with rigorous methodology and sufficient statistical power. 

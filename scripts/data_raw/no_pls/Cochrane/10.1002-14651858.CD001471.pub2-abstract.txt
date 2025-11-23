@@ -1,0 +1,14 @@
+Background
+In traditional didactic teaching, the learner has a passive role, digesting the knowledge presented by the teacher. Stimulating and active teaching processes may be better at instilling information than more pedestrian approaches. Games involving repetition, reinforcement, association and use of multiple senses have been proposed as part of experiential learning. 
+Objectives
+To assess the effects of educational games on the knowledge attainment and clinical skills of mental health professionals compared to the effects of standard teaching approaches. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (November 2005), AMED (1998 ‐ November 2005), British Nursing Index (November 2005), Cochrane Library (Issue 3, 2005), CINAHL (November 2005) EMBASE (November 2005), Educational Resources Information Centre on CSA (1966 ‐ November 2005), MEDLINE (November 2005) and PsycINFO (November 2005). 
+Selection criteria
+We included randomised controlled trials comparing any educational game aiming at increasing knowledge and/or skills with a standard educational approach for mental health professionals. 
+Data collection and analysis
+We extracted data independently. For individual person data we calculated the Odds Ratio (OR) and their 95% confidence intervals (CI) based on a fixed effects model. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based on a fixed effects model. We calculated numbers needed to treat/harm (NNT/NNH) where appropriate. For continuous data, we calculated weighted mean differences (WMD) again based on a fixed effects model. 
+Main results
+We identified one trial (n=34) of an educational game for mental health nursing students of only a few hours follow up. For an outcome we arbitrarily defined ('no academically important improvement [a 10% improvement in scores]') those allocated to educational games fared considerably better than students in the standard education techniques group (OR 0.06 CI 0.01 to 0.3, NNT 3 CI 2 to 4). On average those in the games group scored six more points than the control students on a test of questions relevant to psychosis set to the standard of the mental health nursing curriculum of the day (WMD 6.00 CI 2.6 to 9.4). 
+Authors' conclusions
+Current limited evidence suggests educational games could help mental health students gain more points in their tests, especially if they have left revision to the last minute. This salient study should be refined and repeated. 

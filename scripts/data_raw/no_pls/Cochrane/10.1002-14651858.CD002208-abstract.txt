@@ -1,0 +1,16 @@
+Background
+Methadone maintenance treatment (MMT) is a long term opiod replacement therapy, effective in the management of opiod dependence. Even if MMT at high dosage is recommended for reducing illicit opioid use and promoting longer retention in treatment, at present day "the organisation and regulation of the methadone maintenance treatment varies widely". 
+Objectives
+To evaluate the efficacy of different dosages of MMT in modifying health and social outcomes and in promoting patients' familiar, occupational and relational functioning. 
+Search methods
+We searched:  ‐ MEDLINE (OVID 1966‐2001)  ‐ EMBASE (1988‐2001)  ‐ ERIC (1988‐2001)  ‐ Psychinfo (1947‐2001)  ‐ Cochrane Controlled Trials Register (CCTR) (1947‐2001)  ‐ Register of the Cochrane Drug and Alcohol Group (CDAG) (1947‐2001)  The CDAG search strategy was applied together with a specific MESH strategy. 
+Further studies were searched through:  · letters to the authors  · check of references. 
+Selection criteria
+Randomised Controlled Trials (RCT) and Controlled Prospective Studies (CPS) evaluating methadone maintenance at different dosages in the management of opioid dependence. Non‐randomised trials were included when proper adjustment for confounding factors was performed at the analysis stage. 
+Data collection and analysis
+Data Extraction was performed separately by two reviewers. Discrepancies were resolved by a third reviewer. Quality assessments of the methodology of studies were carried out using CDAG checklist. 
+Main results
+22 studies were excluded. 21 studies were included: 11 were RCTs (2279 participants) and 10 were CPSs (3715 participants). 
+Outcomes: Retention rate ‐ RCTs: High versus low doses at shorter follow‐ups: RR=1.36 [1.13,1.63], and at longer ones: RR=1.62 [0.95,2.77].  Opioid use (self reported), times/w ‐ RCTs: high versus low doses WMD= ‐2.00 [‐4.77,0.77] high vs middle doses WMD= ‐1.89[‐3.43, ‐0.35]  Opioid abstinence, (urine based) at >3‐4 w ‐ RCTs: high versus low ones: RR=1.59 [1.16,2.18] high vs middle doses RR=1.51[0.63,3.61]  Cocaine abstinence (urine based) at >3‐4 w ‐ RCTs: high versus low doses RR=1.81 [1.15,2.85]  Overdose mortality ‐ CPSs: high dose versus low dose at 6 years follow up: RR=0.29 [0.02‐5.34] high dose vs middle dose at 6 years follow up: RR=0.38 [0.02‐9.34] middle dose vs low dose at 6 years follow up: RR=0.57 [0.06‐5.06] 
+Authors' conclusions
+Methadone dosages ranging from 60 to 100 mg/day are more effective than lower dosages in retaining patients and in reducing use of heroin and cocaine during treatment. To find the optimal dose is a clinical ability, but clinician must consider these conclusions in treatment strategies. 

@@ -1,0 +1,17 @@
+Background
+Research on clinical application of oral naltrexone agrees on several things. From a pharmacological perspective, naltrexone works. From an applied perspective, the medication compliance and the retention rates are poor. 
+Objectives
+To evaluate the effects of naltrexone maintenance treatment versus placebo or other treatments in preventing relapse in opioid addicts after detoxification. 
+Search methods
+We searched: Cochrane Central Register of Controlled Trials (CENTRAL ‐ The Cochrane Library issue 6 2010), PubMed (1973‐ June 2010), CINAHL (1982‐ June 2010). We inspected reference lists of relevant articles and contacted pharmaceutical producers of naltrexone, authors and other Cochrane review groups. 
+Selection criteria
+All randomised controlled clinical trials which focus on the use of naltrexone maintenance treatment versus placebo, or other treatments to reach sustained abstinence from opiate drugs 
+Data collection and analysis
+Three reviewers independently assessed studies for inclusion and extracted data. One reviewer carried out the qualitative assessments of the methodology of eligible studies using validated checklists. 
+Main results
+Thirteen studies, 1158 participants, met the criteria for inclusion in this review.
+Comparing naltrexone versus placebo or no pharmacological treatments, no statistically significant difference were noted for all the primary outcomes considered. The only outcome statistically significant in favour of naltrexone is re incarceration, RR 0.47 (95%CI 0.26‐0.84), but results come only from two studies. Considering only studies were patients were forced to adherence a statistical significant difference in favour of naltrexone was found for retention and abstinence, RR 2.93 (95%CI 1.66‐5.18). 
+Comparing naltrexone versus psychotherapy, in the two considered outcomes, no statistically significant difference was found in the single study considered. 
+Naltrexone was not superior to benzodiazepines and to buprenorphine for retention and abstinence and side effects. Results come from single studies. 
+Authors' conclusions
+The findings of this review suggest that oral naltrexone did not perform better than treatment with placebo or no pharmacological agent with respect to the number of participants re‐incarcerated during the study period. If oral naltrexone is compared with other pharmacological treatments such as benzodiazepine and buprenorphine, no statistically significant difference was found. The percentage of people retained in treatment in the included studies is however low (28%). The conclusion of this review is that the studies conducted have not allowed an adequate evaluation of oral naltrexone treatment in the field of opioid dependence. Consequently, maintenance therapy with naltrexone cannot yet be considered a treatment which has been scientifically proved to be superior to other kinds of treatment. 

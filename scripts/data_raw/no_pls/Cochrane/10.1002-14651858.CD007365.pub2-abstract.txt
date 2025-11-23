@@ -1,0 +1,14 @@
+Background
+Huperzine A, a form of herbal medicine, has been considered as an alternative treatment for vascular dementia (VaD) in China. 
+Objectives
+To assess the efficacy and safety of Huperzine A in patients with vascular dementia.
+Search methods
+We searched ALOIS: the Cochrane Dementia and Cognitive Improvement Group’s Specialized Register on 10 February 2011 using the terms: chinese, plants, huperzine, HUP, ayapin, scoparon. ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS), numerous trial registries and grey literature sources. We also searched the following databases in March 2011 using the terms 'Huperzine A', 'Shishanjianjia', 'Haboyin' and 'Shuangyiping': The Chinese Biomedical Database (CBM) (1977 to March 2011); Chinese Science and Technique Journals Database (VIP) (1989 to March 2011); China National Knowledge Infrastructure (CNKI) (1979 to March 2011); Google (March 2011). In addition, we searched relevant reference lists. We also contacted researchers to request additional information where necessary. 
+Selection criteria
+We considered randomized controlled trials comparing Huperzine A with placebo in people with vascular dementia eligible for inclusion. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, assessed trial quality and extracted the data. We resolved any disagreement by discussion. 
+Main results
+We included only one small trial, involving 14 participants with vascular dementia. No significant effect of Huperzine A on cognitive function measured by MMSE (WMD 2.40; 95% CI ‐4.78 to 9.58) was observed. There was a significant beneficial effect of Huperzine A on performance of activities of daily living (WMD ‐13.00; 95% CI ‐23.24 to ‐2.76) after six months of treatment. No deaths from any cause at the end of treatment were reported. Behaviour, quality of life and caregiver burden were not assessed in the included trial. 
+Authors' conclusions
+There is currently no high quality evidence to support the use of Huperzine A for the treatment of vascular dementia. Further randomized placebo controlled trials are needed to determine whether there is worthwhile benefit. 

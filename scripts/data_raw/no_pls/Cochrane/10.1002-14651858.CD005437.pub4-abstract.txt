@@ -1,0 +1,15 @@
+Background
+Meningococcal disease can lead to death or disability within hours after onset. Pre‐admission antibiotics aim to reduce the risk of serious disease and death by preventing delays in starting therapy before confirmation of the diagnosis. 
+Objectives
+To study the effectiveness and safety of pre‐admission antibiotics versus no pre‐admission antibiotics or placebo, and different pre‐admission antibiotic regimens in decreasing mortality, clinical failure, and morbidity in people suspected of meningococcal disease. 
+Search methods
+We searched CENTRAL (6 January 2017), MEDLINE (1966 to 6 January 2017), Embase (1980 to 6 January 2017), Web of Science (1985 to 6 January 2017), LILACS (1982 to 6 January 2017), and prospective trial registries to January 2017. We previously searched CAB Abstracts from 1985 to June 2015, but did not update this search in January 2017. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing antibiotics versus placebo or no intervention, in people with suspected meningococcal infection, or different antibiotics administered before admission to hospital or confirmation of the diagnosis. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data from the search results. We calculated the risk ratio (RR) and 95% confidence interval (CI) for dichotomous data. We included only one trial and so did not perform data synthesis. We assessed the overall quality of the evidence using the GRADE approach. 
+Main results
+We found no RCTs comparing pre‐admission antibiotics versus no pre‐admission antibiotics or placebo. We included one open‐label, non‐inferiority RCT with 510 participants, conducted during an epidemic in Niger, evaluating a single dose of intramuscular ceftriaxone versus a single dose of intramuscular long‐acting (oily) chloramphenicol. Ceftriaxone was not inferior to chloramphenicol in reducing mortality (RR 1.21, 95% CI 0.57 to 2.56; N = 503; 308 confirmed meningococcal meningitis; 26 deaths; moderate‐quality evidence), clinical failures (RR 0.83, 95% CI 0.32 to 2.15; N = 477; 18 clinical failures; moderate‐quality evidence), or neurological sequelae (RR 1.29, 95% CI 0.63 to 2.62; N = 477; 29 with sequelae; low‐quality evidence). No adverse effects of treatment were reported. Estimated treatment costs were similar. No data were available on disease burden due to sequelae. 
+Authors' conclusions
+We found no reliable evidence to support the use pre‐admission antibiotics for suspected cases of non‐severe meningococcal disease. Moderate‐quality evidence from one RCT indicated that single intramuscular injections of ceftriaxone and long‐acting chloramphenicol were equally effective, safe, and economical in reducing serious outcomes. The choice between these antibiotics should be based on affordability, availability, and patterns of antibiotic resistance. 
+Further RCTs comparing different pre‐admission antibiotics, accompanied by intensive supportive measures, are ethically justified in people with less severe illness, and are needed to provide reliable evidence in different clinical settings. 

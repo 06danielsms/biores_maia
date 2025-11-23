@@ -1,0 +1,14 @@
+Background
+Fish oil supplements, which are rich in n‐3 fatty acids, may reduce inflammation, decrease the need for anti‐inflammatory drugs, and promote normal weight gain in people with ulcerative colitis. 
+Objectives
+This review evaluates the efficacy of fish oil for induction of remission in ulcerative colitis using all available randomised controlled trials. 
+Search methods
+The Cochrane Central Register of Controlled Trials (CENTRAL), PUBMED, EMBASE, CINAHL, the database of ongoing trials and the reference lists of all publications of included or excluded trials were searched. 
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials with active ulcerative colitis patients who were treated with fish oil. 
+Data collection and analysis
+The reviewers performed study selection, assessment of methodological quality by using different approaches: including Cochrane assessment of allocation concealment and Jadad quality assessment score. Data extraction forms were used by the two reviewers to extract the data independently. Authors were contacted for additional information. 
+Main results
+Six studies were included. Three were of cross‐over design and three were of parallel design. No data were pooled for analysis due to differences in outcomes and methodology among the included studies. One small study shows a positive benefit for induction of remission (RR 19.00; 95% CI 1.27 to 284.24). Some of the other included studies show some positive benefits for secondary outcomes. However, these results need to be interpreted with caution due to small study size and poor study quality. 
+Authors' conclusions
+The current data does not allow for a definitive conclusion regarding the efficacy of fish oil. There is no adequate information to make recommendations for clinical practice. More research is required. 

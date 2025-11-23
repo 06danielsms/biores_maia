@@ -1,0 +1,14 @@
+Background
+The effect of psychological interventions in inflammatory bowel diseases (IBD) is controversial. 
+Objectives
+To assess the effects of psychological interventions (psychotherapy, patient education, relaxation techniques) on health related quality of life, coping, emotional state and disease activity in IBD. 
+Search methods
+We searched the specialized register of the IBD/FBD Group, CENTRAL (Issue 5, 2010) and from inception to April 2010: Medline, Embase, LILACS, Psyndex, CINAHL, PsyInfo, CCMed, SOMED and Social SciSearch. Conference abstracts and reference lists were also checked. 
+Selection criteria
+Randomized, quasi‐randomized and non randomized controlled trials of psychological interventions in children or adults with IBD with a minimum follow up time of 2 months. 
+Data collection and analysis
+Data were extracted and study quality was independently assessed by two raters. Pooled standardized mean differences (SMD) and 95% confidence intervals (CI) were calculated using a random effects model. 
+Main results
+Twenty‐one studies were eligible for inclusion (1745 participants; 19 in adults, 2 in adolescents). Most studies used multimodular approaches. The risk of bias was high for all studies. In adults, psychotherapy had no effect on quality of life at around 12 months (3 studies, 235 patients, SMD ‐0.07; 95% CI ‐0.33 to 0.19), emotional status (depression, 4 studies, 266 patients, SMD 0.03; 95% CI ‐0.22 to 0.27) or proportion of patients not in remission (5 studies, 287 patients, OR 0.85; 95% CI 0.48 to 1.48). Results were similar at 3 to 8 months. There was no evidence for statistical heterogeneity or subgroup effects based on type of disease or intensity of the therapy. In adolescents, there were positive short term effects of psychotherapy on most outcomes assessed including quality of life (2 studies, 71 patients, SMD 0.70; 95% CI 0.21 to 1.18) and depression (1 study, 41 patients, SMD ‐0.62; 95% CI ‐1.25 to 0.01). Educational interventions had no effect on quality of life at 12 months (5 studies, 947 patients, SMD 0.11; 95% CI ‐0.02 to 0.24), depression (3 studies, 378 patients, SMD ‐0.08; 95% CI ‐0.29 to 0.12) and proportion of patients not in remission (3 studies, 434 patients, OR 1.00; 95% CI 0.65 to 1.53). No adverse events were reported in any of the included studies. 
+Authors' conclusions
+There is no evidence for efficacy of psychological therapy in adult patients with IBD in general. In adolescents, psychological interventions may be beneficial, but the evidence is limited. Further evidence is needed to assess the efficacy of these therapies in subgroups identified as being in need of psychological interventions, and to identify what type of therapy may be most useful. 

@@ -1,0 +1,13 @@
+Intravenous plasma expanders for preventing ovarian hyperstimulation syndrome (OHSS)
+Review question 
+Researchers in the Cochrane Collaboration reviewed the evidence on different types of volume expanders in women at high risk of OHSS undergoing ovarian hyperstimulation as part of any assisted reproductive technique (ART). Women with very high estradiol levels, high numbers of follicles or oocytes retrieved, and women with polycystic ovary syndrome (PCOS), are at particularly high risk of developing OHSS. 
+Background 
+OHSS is a serious complication of ovarian stimulation, which affects up to 14% of ART cycles. It is characterised by enlarged ovaries following excessive hormonal stimulation resulting in a shift of fluid from the blood vessels to the extracellular space. It can cause abdominal bloating, blood clots (thrombosis) and reduced perfusion of vital organs like the kidneys and liver. Several clinical studies have reported on the use of intravenous fluids such as albumin and hydroxyethyl starch (HES), as a possible way of preventing OHSS. 
+Study characteristics 
+We found nine randomised controlled trials (RCTs) which compared the use of volume expanders (albumin, HES and mannitol) for preventing moderate or severe OHSS. Control groups received no treatment or placebo. The studies included 1867 women at high risk of OHSS. The evidence is current to September 2015. 
+Key results 
+Evidence suggests that plasma expanders (human albumin, HES and mannitol) reduce rates of moderate and severe OHSS in women at high risk. 
+If the rate of OHSS without treatment is 12%, it will be about 9% (6% to 12%) with the use of intravenous albumin. If the rate of OHSS without treatment is 16%, it will be about 5% (2% to 10%) with the use of HES, and if the rate without treatment is 52%, it will be about 29% (19% to 41%) with mannitol. 
+Adverse events appear to be uncommon, but were too poorly reported to reach firm conclusions. No studies reported live birth, but there was evidence that human albumin reduces pregnancy rates. While there was no evidence that HES, or mannitol had any influence on pregnancy rates, the evidence of effectiveness was based on very few trials, and better evidence is needed before they should be considered for routine use in clinical practice. 
+Quality of the evidence 
+The evidence was very low to moderate quality for all comparisons. The main limitations were imprecision, poor reporting of study methods, and failure to blind outcome assessment. 

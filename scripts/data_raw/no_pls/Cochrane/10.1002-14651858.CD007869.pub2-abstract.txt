@@ -1,0 +1,15 @@
+Background
+Squamous cell carcinoma (SCC) is the second most common skin cancer, and is becoming increasingly common around the world. Left untreated, it may spread to other parts of the body, and, although the risk is low, it may ultimately lead to death. Surgical excision is the first line of treatment for most skin SCCs, although other forms of treatment are also used depending upon the nature and site of the tumour and individual participant factors. A multi‐professional approach is therefore required for the management of people with this condition. 
+Objectives
+To assess the effects of treatments for primary non‐metastatic squamous cell carcinoma of the skin. 
+Search methods
+In February 2010 we searched for relevant trials in The Cochrane Skin Group Specialised Register, The Cochrane Library (Issue 1, 2010), MEDLINE, EMBASE, PsycINFO, AMED, LILACS, and the ongoing trials registries. 
+Selection criteria
+We only included randomised controlled trials (RCTs) of interventions for primary SCC of the skin. Inclusion criteria were: adults with one or more histologically proven primary SCCs of the skin which had not metastasised. The primary outcome measures were time to recurrence one to five years after treatment, and quality of life. Secondary outcomes included early treatment failure within six months, number of adverse events by the end of treatment, aesthetic appearance as assessed by the participant and clinician, discomfort to the participant during and after treatment, and death. 
+Data collection and analysis
+Two authors (LL, FB‐H) independently carried out study selection and assessment of methodological quality and data extraction. 
+Main results
+One trial involving 65 people was included. This compared the time to recurrence in participants with aggressive skin SCC who were randomised to receive either adjuvant 13‐cis‐retinoic acid and interferon alpha after surgery with or without radiation treatment, or no adjuvant therapy after their initial treatment. There was no significant difference in time to recurrence of tumour between the two groups (hazard ratio 1.08, 95% confidence intervals 0.43 to 2.72). 
+Most studies identified from the searches were excluded as they were either uncontrolled case series, did not include participants with invasive primary SCC, or included only participants with recurrent or metastatic disease. 
+Authors' conclusions
+Little evidence from RCTs comparing the efficacy of different interventions for primary cutaneous SCCs exists. There is a clear need for well‐designed randomised studies in order to improve the evidence base for the management of this condition. 

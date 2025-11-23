@@ -1,0 +1,14 @@
+Background
+Concerns regarding the safety of transfused blood have prompted reconsideration of the use of allogeneic (from an unrelated donor) red blood cell (RBC) transfusion, and a range of techniques to minimise transfusion requirements. 
+Objectives
+To examine the evidence for the efficacy of cell salvage in reducing allogeneic blood transfusion and the evidence for any effect on clinical outcomes. 
+Search methods
+We identified studies by searching CENTRAL (The Cochrane Library 2009, Issue 2), MEDLINE (1950 to June 2009), EMBASE (1980 to June 2009), the internet (to August 2009) and bibliographies of published articles. 
+Selection criteria
+Randomised controlled trials with a concurrent control group in which adult patients, scheduled for non‐urgent surgery, were randomised to cell salvage (autotransfusion) or to a control group who did not receive the intervention. 
+Data collection and analysis
+Data were independently extracted and the risk of bias assessed. Relative risks (RR) and weighted mean differences (WMD) with 95% confidence intervals (CIs) were calculated. Data were pooled using a random‐effects model. The primary outcomes were the number of patients exposed to allogeneic red cell transfusion and the amount of blood transfused. Other clinical outcomes are detailed in the review. 
+Main results
+A total of 75 trials were included. Overall, the use of cell salvage reduced the rate of exposure to allogeneic RBC transfusion by a relative 38% (RR 0.62; 95% CI 0.55 to 0.70). The absolute reduction in risk (ARR) of receiving an allogeneic RBC transfusion was 21% (95% CI 15% to 26%). In orthopaedic procedures the RR of exposure to RBC transfusion was 0.46 (95% CI 0.37 to 0.57) compared to 0.77 (95% CI 0.69 to 0.86) for cardiac procedures. The use of cell salvage resulted in an average saving of 0.68 units of allogeneic RBC per patient (WMD ‐0.68; 95% CI ‐0.88 to ‐0.49). Cell salvage did not appear to impact adversely on clinical outcomes. 
+Authors' conclusions
+The results suggest cell salvage is efficacious in reducing the need for allogeneic red cell transfusion in adult elective cardiac and orthopaedic surgery. The use of cell salvage did not appear to impact adversely on clinical outcomes. However, the methodological quality of trials was poor. As the trials were unblinded and lacked adequate concealment of treatment allocation, transfusion practices may have been influenced by knowledge of the patients' treatment status potentially biasing the results in favour of cell salvage. 

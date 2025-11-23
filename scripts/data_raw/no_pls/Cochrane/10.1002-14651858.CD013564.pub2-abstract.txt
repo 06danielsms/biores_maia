@@ -1,0 +1,16 @@
+Background
+Brain tumours are recognised as one of the most difficult cancers to diagnose because presenting symptoms, such as headache, cognitive symptoms, and seizures, may be more commonly attributable to other, more benign conditions. Interventions to reduce the time to diagnosis of brain tumours include national awareness initiatives, expedited pathways, and protocols to diagnose brain tumours, based on a person's presenting symptoms and signs; and interventions to reduce waiting times for brain imaging pathways. If such interventions reduce the time to diagnosis, it may make it less likely that people experience clinical deterioration, and different treatment options may be available. 
+Objectives
+To systematically evaluate evidence on the effectiveness of interventions that may influence: symptomatic participants to present early (shortening the patient interval), thresholds for primary care referral (shortening the primary care interval), and time to imaging diagnosis (shortening the secondary care interval and diagnostic interval). 
+To produce a brief economic commentary, summarising the economic evaluations relevant to these interventions. 
+Search methods
+For evidence on effectiveness, we searched CENTRAL, MEDLINE, and Embase from January 2000 to January 2020; Clinicaltrials.gov to May 2020, and conference proceedings from 2014 to 2018. For economic evidence, we searched the UK National Health Services Economic Evaluation Database from 2000 to December 2014. 
+Selection criteria
+We planned to include studies evaluating any active intervention that may influence the diagnostic pathway, e.g. clinical guidelines, direct access imaging, public health campaigns, educational initiatives, and other interventions that might lead to early identification of primary brain tumours. We planned to include randomised and non‐randomised comparative studies. Included studies would include people of any age, with a presentation that might suggest a brain tumour. 
+Data collection and analysis
+Two review authors independently assessed titles identified by the search strategy, and the full texts of potentially eligible studies. We resolved discrepancies through discussion or, if required, by consulting another review author. 
+Main results
+We did not identify any studies for inclusion in this review. We excluded 115 studies. The main reason for exclusion of potentially eligible intervention studies was their study design, due to a lack of control groups. We found no economic evidence to inform a brief economic commentary on this topic. 
+Authors' conclusions
+In this version of the review, we did not identify any studies that met the review inclusion criteria for either effectiveness or cost‐effectiveness. Therefore, there is no evidence from good quality studies on the best strategies to reduce the time to diagnosis of brain tumours, despite the prioritisation of research on early diagnosis by the James Lind Alliance in 2015. 
+This review highlights the need for research in this area.

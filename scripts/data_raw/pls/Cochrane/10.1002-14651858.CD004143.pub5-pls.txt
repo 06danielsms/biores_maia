@@ -1,0 +1,16 @@
+Long‐term hormone therapy for perimenopausal and postmenopausal women
+Review question 
+In perimenopausal and postmenopausal women, what are the clinical effects of using hormone therapy (HT) for a year or longer? 
+Background 
+HT is given for control of menopausal symptoms. It has also been used for the management and prevention of chronic diseases such as cardiovascular disease, osteoporosis and dementia. 
+Study characteristics 
+This review included 22 double‐blinded randomised controlled trials (RCTs) (43,637 women). The evidence is current to September 2016. 
+Key results 
+In relatively healthy postmenopausal women, using combined continuous HT for 1 year increased the risk of a heart attack from about 2 per 1000 to between 3 and 7 per 1000, and increased the risk of venous thrombosis (blood clot) from about 2 per 1000 to between 4 and 11 per 1000. With longer use, HT also increased the risk of stroke, breast cancer, gallbladder disease and death from lung cancer. 
+Oestrogen‐only HT increased the risk of venous thrombosis after 1 to 2 years' use: from 2 per 1000 to 2 to 10 per 1000. With longer use, it also increased the risk of stroke and gallbladder disease, but it reduced the risk of breast cancer (after 7 years' use) from 25 per 1000 to between 15 and 25 per 1000. 
+Among women over 65 years of age taking continuous combined HT, the incidence of dementia was increased. 
+Risk of fracture was the only outcome for which results showed strong evidence of clinical benefit from HT (both types). 
+Women with intolerable menopausal symptoms may wish to weigh the benefits of symptom relief against the small absolute risk of harm arising from short‐term use of low‐dose HT, provided they do not have specific contraindications. HT may be unsuitable for some women, including those at increased risk of cardiovascular disease, increased risk of thromboembolic disease (such as those with obesity or a history of venous thrombosis) or increased risk of some types of cancer (such as breast cancer, in women with a uterus). The risk of endometrial cancer for women with a uterus who take oestrogen‐only HT is well documented. 
+HT is not indicated for primary or secondary prevention of cardiovascular disease or dementia, nor for preventing deterioration of cognitive function in postmenopausal women. Although HT is considered effective for prevention of postmenopausal osteoporosis, it is generally recommended as an option only for women at significant risk, for whom non‐oestrogen therapies are unsuitable. Data are insufficient for assessment of the risk of long‐term HT use in perimenopausal women or postmenopausal women younger than 50 years of age. 
+Quality of the evidence 
+For most studies, risk of bias was low in most domains and the overall quality of the evidence was moderate. The main limitation was that only about 30% of women were 50 to 59 years old at baseline ‐ the age at which women are likely to consider HT for vasomotor symptoms. 

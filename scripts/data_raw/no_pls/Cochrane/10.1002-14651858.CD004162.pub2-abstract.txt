@@ -1,0 +1,16 @@
+Background
+Schizophrenia is usually considered an illness of young adulthood. However, onset after the age of 40 years is reported in 23% of patients hospitalised with schizophrenia. At least 0.1% of the world's elderly population have a diagnosis of late‐onset schizophrenia which seems to differ from earlier onset schizophrenia on a variety of counts including response to antipsychotic drugs. 
+Objectives
+To assess the effects of antipsychotic drugs for elderly people with late‐onset schizophrenia.
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (January 2010) which is based on regular searches of CINAHL, EMBASE, MEDLINE and PsycINFO. We inspected references of all identified studies for further trials. We contacted relevant authors of trials for additional information. 
+We updated this search Janurary 2013 and added 48 new trials to the awaiting classification section. 
+Selection criteria
+All relevant randomised controlled trials that compared antipsychotic drugs with other treatments for elderly people (at least 80% older than 65 years) with a recent (within five years) diagnosis of schizophrenia or schizophrenia like illnesses. 
+Data collection and analysis
+For the 2010 search, two new review authors (AE, AG) inspected all citations to ensure reliable selection. We assessed methodological quality of trials using the criteria recommended in the Cochrane Handbook for Systematic Reviews of Interventions. AE and AG also independently extracted data. For homogenous dichotomous data, we planned to calculate the relative risk (RR) and 95% confidence interval (CI). 
+Main results
+There were no included studies in the original version of this review (2002 search). The 2010 search for the current update produced 211 references, among which we identified 88 studies. Only one study met the inclusion criteria and was of acceptable quality. This was an eight‐week randomised trial of risperidone and olanzapine in 44 inpatients with late‐onset schizophrenia. All participants completed the eight‐week trial, indicating that both drugs were well tolerated. Unfortunately, this study provided little usable data. We excluded a total of 81 studies, 77 studies because they either studied interventions other than antipsychotic medication or because they involved elderly people with chronic ‐ not late‐onset ‐ schizophrenia. We excluded a further four trials of antipsychotics in late‐onset schizophrenia because of flawed design. Five studies are still awaiting classification, and one is on‐going. 
+Authors' conclusions
+There is no trial‐based evidence upon which to base guidelines for the treatment of late‐onset schizophrenia. There is a need for good quality‐controlled clinical trials into the effects of antipsychotics for this group. Such trials are possible. Until they are undertaken, people with late‐onset schizophrenia will be treated by doctors using clinical judgement and habit to guide prescribing. 
+Note: the 48 citations in the awaiting classification section of the review may alter the conclusions of the review once assessed. 

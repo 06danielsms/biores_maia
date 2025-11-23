@@ -1,0 +1,24 @@
+Background
+Carbamazepine (CBZ) is a commonly used drug for epilepsy that is associated with troublesome adverse events including dizziness, double vision, drowsiness, poor co‐ordination and unsteadiness. These adverse events often occur during peaks in drug plasma concentration. These adverse events may limit the daily dose of CBZ that can be tolerated and reduce the chances of seizure control in patients who require high doses. A controlled‐release formulation of CBZ delivers the same dose over a longer period of time when compared to a standard immediate‐release formulation, thereby reducing post‐dose peaks in CBZ plasma concentration and potentially reducing adverse events. 
+This is an updated version of the original Cochrane review published in Issue 12, 2014. 
+Objectives
+To determine the efficacy of immediate‐release CBZ (IR CBZ) versus controlled‐release CBZ (CR CBZ) in patients diagnosed with epilepsy. 
+The following review questions were investigated. (1) For newly diagnosed patients commencing CBZ, how do IR and CR formulations compare for efficacy and tolerability? (2) For patients on established treatment with IR CBZ but experiencing unacceptable adverse events, what is the effect on seizure control and the tolerability of a switch to a CR formulation versus remaining on the IR formulation? 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register, CENTRAL, and MEDLINE (Ovid) from inception to 30 August 2016. 
+Selection criteria
+Randomised controlled trials comparing IR CBZ to CR CBZ in patients commencing monotherapy and patients presently treated with IR CBZ but experiencing unacceptable adverse events. 
+Primary outcome measures included measures of seizure frequency, incidence of adverse events, proportion of patients with treatment failure and quality of life measures. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, extracted the data and recorded relevant information on a standardised data extraction form. We used the Cochrane risk of bias tool to assess the methodological quality of included studies. 
+The heterogeneity of the included trials with respect to the reporting of outcomes resulted in only a narrative, descriptive analysis being possible for both the categorical and time‐to‐event data. 
+Main results
+Ten trials (296 participants) fulfilled the criteria for inclusion in this review. Only one study had a low risk of bias. Two studies had a high risk of bias and the rest of the studies were rated as unclear risk of bias. One trial included patients with newly diagnosed epilepsy and nine included patients on treatment with IR CBZ. 
+Eight trials reported heterogeneous measures of seizure frequency with conflicting results. A statistically significant difference was observed in only one trial, with patients prescribed CR CBZ experiencing fewer seizures than patients prescribed IR CBZ. 
+Nine trials reported measures of adverse events. There was a trend in favour of CR CBZ with four trials reporting a statistically significant reduction in adverse events compared to IR CBZ. A further two trials reported fewer adverse events with CR CBZ but the reduction was not statistically significant. One trial found no difference in adverse events, and another trial reported more adverse events in the CR CBZ group than the IR CBZ group, although the increase was not statistically significant. 
+Authors' conclusions
+For this update no new eligible studies were identified and the conclusions drawn from the initial review remain unchanged. 
+At present, data from trials do not confirm or refute an advantage for CR CBZ over IR CBZ for seizure frequency or adverse events in patients with newly diagnosed epilepsy. 
+For trials involving epilepsy patients already prescribed IR CBZ, no conclusions can be drawn concerning the superiority of CR CBZ with respect to seizure frequency. 
+There is a trend for CR CBZ to be associated with fewer adverse events when compared to IR CBZ. A change to CR CBZ may therefore be a worthwhile strategy in patients with acceptable seizure control on IR CBZ but experiencing unacceptable adverse events. The included trials were of small size and of poor methodological quality limiting the validity of this conclusion. 
+Randomised controlled trials comparing CR CBZ to IR CBZ and using clinically relevant outcomes are required to inform the choice of CBZ preparation for patients with newly diagnosed epilepsy. 

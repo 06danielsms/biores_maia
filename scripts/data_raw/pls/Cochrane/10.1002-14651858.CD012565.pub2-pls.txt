@@ -1,0 +1,9 @@
+Benefits and harms of beta‐blockers versus placebo or no intervention in the non‐acute phase of a myocardial infarction 
+Background 
+According to the World Health Organization, 7.4 million people died from ischaemic heart disease in 2012. This represents 15% of all global deaths. Patients with a heart attack but without heart failure may receive beta‐blockers as non‐acute treatment. Beta‐blockers inhibit beta‐receptors. This can result in a reduction in oxygen needed by the heart and may reduce complications associated with a heart attack. 
+Study characteristics 
+We searched scientific databases from their beginning to February 2021 and found 25 randomised clinical trials. People had the same chance to be allocated to groups receiving beta‐blockers or control. In 21 trials, the control was a placebo. In four trials, the control was no intervention. Trials included 22,423 adults with mean age of 56.9 years (range 50 to 63 years). 
+Key results 
+Patients without heart failure after a heart attack receiving beta‐blockers compared with placebo or no intervention probably have lower risk of death and of a new heart attack and may have reduced risk of major cardiovascular events and death of any heart‐related cause, but likely not of angina pectoris. The effects of beta‐blockers on serious adverse events and on quality of life were uncertain due to lack of data. 
+Certainty of evidence 
+The evidence should be interpreted with caution, as certainty was judged to be moderate to low for all outcomes. Reasons mainly include high risk of bias for all included trials, limitations in design and execution, and risk of random error. This means that results might overestimate the beneficial effects of beta‐blockers and underestimate the harmful effects. Therefore, the above mentioned results may change in the future, after additional well‐designed randomised clinical trials are conducted. 

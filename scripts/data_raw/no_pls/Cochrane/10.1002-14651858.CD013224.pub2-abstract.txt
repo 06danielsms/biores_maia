@@ -1,0 +1,19 @@
+Background
+Chordoma is a rare primary bone tumour with a high propensity for local recurrence. Surgical resection is the mainstay of treatment, but complete resection is often morbid due to tumour location. Similarly, the dose of radiotherapy (RT) that surrounding healthy organs can tolerate is frequently below that required to provide effective tumour control. Therefore, clinicians have investigated different radiation delivery techniques, often in combination with surgery, aimed to improve the therapeutic ratio. 
+Objectives
+To assess the effects and toxicity of proton and photon adjuvant radiotherapy (RT) in people with biopsy‐confirmed chordoma. 
+Search methods
+We searched CENTRAL (2021, Issue 4); MEDLINE Ovid (1946 to April 2021); Embase Ovid (1980 to April 2021) and online registers of clinical trials, and abstracts of scientific meetings up until April 2021. 
+Selection criteria
+We included adults with pathologically confirmed primary chordoma, who were irradiated with curative intent, with protons or photons in the form of fractionated RT, SRS (stereotactic radiosurgery), SBRT (stereotactic body radiotherapy), or IMRT (intensity modulated radiation therapy). We limited analysis to studies that included outcomes of participants treated with both protons and photons. 
+Data collection and analysis
+The primary outcomes were local control, mortality, recurrence, and treatment‐related toxicity. We followed current standard Cochrane methodological procedures for data extraction, management, and analysis. We used the ROBINS‐I tool to assess risk of bias, and GRADE to assess the certainty of the evidence. 
+Main results
+We included six observational studies with 187 adult participants. We judged all studies to be at high risk of bias. Four studies were included in meta‐analysis. 
+We are uncertain if proton compared to photon therapy worsens or has no effect on local control (hazard ratio (HR) 5.34, 95% confidence interval (CI) 0.66 to 43.43; 2 observational studies, 39 participants; very low‐certainty evidence). 
+Median survival time ranged between 45.5 months and 66 months. We are uncertain if proton compared to photon therapy reduces or has no effect on mortality (HR 0.44, 95% CI 0.13 to 1.57; 4 observational studies, 65 participants; very low‐certainty evidence). 
+Median recurrence‐free survival ranged between 3 and 10 years. We are uncertain whether proton compared to photon therapy reduces or has no effect on recurrence (HR 0.34, 95% CI 0.10 to 1.17; 4 observational studies, 94 participants; very low‐certainty evidence). 
+One study assessed treatment‐related toxicity and reported that four participants on proton therapy developed radiation‐induced necrosis in the temporal bone, radiation‐induced damage to the brainstem, and chronic mastoiditis; one participant on photon therapy developed hearing loss, worsening of the seventh cranial nerve paresis, and ulcerative keratitis (risk ratio (RR) 1.28, 95% CI 0.17 to 9.86; 1 observational study, 33 participants; very low‐certainty evidence). There is no evidence that protons led to reduced toxicity. 
+There is very low‐certainty evidence to show an advantage for proton therapy in comparison to photon therapy with respect to local control, mortality, recurrence, and treatment related toxicity. 
+Authors' conclusions
+There is a lack of published evidence to confirm a clinical difference in effect with either proton or photon therapy for the treatment of chordoma. As radiation techniques evolve, multi‐institutional data should be collected prospectively and published, to help identify persons that would most benefit from the available radiation treatment techniques. 

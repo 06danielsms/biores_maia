@@ -1,0 +1,14 @@
+Background
+Wound drains are often used after plastic and reconstructive surgery of the breast, in order to reduce potential complications. It is unclear whether there is any evidence to support this practice and we therefore undertook a systematic review of the best evidence available. 
+Objectives
+To compare the safety and efficacy of the use of wound drains following elective plastic and reconstructive surgery procedures of the breast. 
+Search methods
+For the first update of this review we searched the Cochrane Wounds Group Specialised Register (searched 4 March 2015); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2015, Issue 2); Ovid MEDLINE (2012 to March 3 2015); Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations March 3 2015); Ovid EMBASE (2012 to March 3 2015); and EBSCO CINAHL (2012 to March 4 2015). There were no restrictions on the basis of date or language of publication. 
+Selection criteria
+Three review authors undertook independent screening of the search results. All randomised trials (RCTs) that compared the use of a wound drain with no wound drain following plastic and reconstructive surgery of the breast (breast augmentation, breast reduction and breast reconstruction) in women were eligible. 
+Data collection and analysis
+Two review authors undertook independent data extraction of study characteristics, methodological quality and outcomes (e.g. infection, other wound complications, pain, and length of hospital stay). Risk of bias was assessed independently by two review authors. We calculated the risk ratio (RR) for dichotomous outcomes and mean differences (MD) for continuous outcomes, with 95% confidence intervals. Analysis was on an intention‐to‐treat basis. 
+Main results
+Three randomised trials were identified and included in the review out of 190 studies that were initially screened; all evaluated wound drainage after breast reduction surgery. No new trials were identified for this first update. In total there were 306 women in the three trials, and 505 breasts were studied (254 drained, and 251 who were not drained). Apart from a significantly shorter duration of hospital stay for those participants who did not have drains (MD 0.77; 95% CI 0.40 to 1.14), there was no statistically significant impact of the use of drains on outcomes. 
+Authors' conclusions
+The limited evidence available shows no significant benefit of using post‐operative wound drains in reduction mammoplasty, though hospital stay may be shorter when drains are not used. No data are available for breast augmentation or breast reconstruction, and this requires investigation. 

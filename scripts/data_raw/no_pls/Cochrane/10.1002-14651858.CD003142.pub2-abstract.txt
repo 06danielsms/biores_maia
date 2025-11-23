@@ -1,0 +1,14 @@
+Background
+Although metastatic breast cancer is often responsive to conventional chemotherapy, it remains ultimately incurable. Autologous transplantation of bone marrow or peripheral stem cells (in which the patient is both donor and recipient) has been considered a promising technique because it allows much higher doses of chemotherapy to be used. 
+Objectives
+To compare the effectiveness of high dose chemotherapy and autologous bone marrow or stem cell transplantation (autograft) with conventional chemotherapy for women with metastatic breast cancer. Outcomes were survival rates, treatment‐related toxicity and quality of life. 
+Search methods
+We used the Cochrane Breast Cancer Group search strategy, adding these terms: bone marrow transplantation, stem cell transplantation, autologous stem cell support. The following databases were searched up to August 2010: MEDLINE, EMBASE, The Cochrane Library and ASCO (American Society of Clinical Oncology). We also searched the Cochrane Breast Cancer Group database and trial registries for unpublished trials, and checked the reference lists of articles found. 
+Selection criteria
+Randomised controlled trials comparing the effectiveness of high dose chemotherapy and autograft with conventional chemotherapy for women with metastatic breast cancer. 
+Data collection and analysis
+Six randomised controlled trials met the inclusion criteria. Two independent reviewers extracted data. 
+Main results
+In total 437 eligible women were randomised to receive high dose chemotherapy with autograft and 413 were randomised to receive conventional treatment. There were fifteen treatment‐related deaths among the high dose group and two in the control (conventional dose) group (RR 4.08, 95% CI 1.40 to 11.93). There was no statistically significant difference in overall survival between the high dose and control groups at three years or five years. At five years of follow up, there was a statistically significant difference in event‐free survival, favouring the high dose group (RR 2.84, 95% CI 1.07 to 7.50). Toxicity was more severe in the high dose group. Only one of the trials has followed up all women for five years. 
+Authors' conclusions
+Although there is evidence that high dose chemotherapy and autograft significantly improves event‐free survival compared to conventional chemotherapy in women with metastatic breast cancer there is no significant evidence of benefit in overall survival. High dose chemotherapy with bone marrow or stem cell transplantation should not be given to women with metastatic breast cancer outside of clinical trials. 

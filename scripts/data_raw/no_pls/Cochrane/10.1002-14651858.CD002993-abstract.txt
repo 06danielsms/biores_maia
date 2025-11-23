@@ -1,0 +1,14 @@
+Background
+Patients with chronic severe asthma are often dependent on the long term prescription of oral corticosteroids. The use of steroids is associated with serious side effects. Physicians treating such patients continue to search for alternative therapies that reduce the need for chronic dosing with oral steroids. Cyclosporin is an immunosuppressive agent and has benefits in the treatment of a number of inflammatory disorders. It has therefore been identified as an potentially useful agent in the treatment of chronic severe asthma both in terms of possible efficacy and as a steroid sparing agent. 
+Objectives
+The objective of this review was to assess the effects of adding cyclosporin to oral steroids in the treatment of chronic steroid dependent asthmatics. 
+Search methods
+The Cochrane Airways Group Specialised Register and reference lists of identified articles were searched. The most recent search was conducted in September 2010. 
+Selection criteria
+Randomised trials looking at the addition of cyclosporin compared to placebo in adult steroid dependent asthmatics. 
+Data collection and analysis
+Trial quality was assessed and data extraction was carried out by two reviewers independently. Study authors were contacted for missing information. 
+Main results
+Three trials fulfilled the criteria for inclusion in the review and a total of 106 patients were recruited into these studies. Data from 98 patients could be analysed. There was a small but significant treatment effect for cyclosporin in terms of steroid dose reduction (SMD ‐0.5, 95% CI ‐1.0, ‐0.04). No meta‐analyses could be performed for measures of lung function although one study showed small, but significant improvements in lung spirometry. 
+Authors' conclusions
+The changes with cyclosporin are small and of questionable clinical significance. Given the side effects of cyclosporin, the evidence available does not recommend routine use of this drug in the treatment of oral corticosteroid dependent asthma. 

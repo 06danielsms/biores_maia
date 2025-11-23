@@ -1,0 +1,11 @@
+Using patient questionnaires for improving clinical management and outcomes
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out whether healthcare workers who receive information from questionnaires completed by their patients give better health care and whether their patients have better health. We collected and analysed all relevant studies. 
+Key messages 
+Patient questionnaire responses fed back to health workers and patients may result in moderate benefits for patient‐provider communication and small benefits for patients' quality of life. Healthcare workers probably make and record more diagnoses and take more notes. The intervention probably makes little or no difference for patient's general perceptions of their health, social functioning, and pain. There appears to be no impact on physical and mental functioning, and fatigue. Our confidence in these results is limited by the quality and number of included studies for each outcome. 
+What was studied in the review? 
+When receiving health care, patients are not always asked about how they feel, either about their physical, mental or social health. This can be a problem as knowing how the patient is feeling might help to make decisions about diagnosis and the course of the treatment. One possible solution is to ask the patients to complete questionnaires about their health, and then give that information to the healthcare workers and to patients. 
+What are the main results of the review? 
+We found 116 studies (49,785 participants), all of which were from high‐income countries. We found that feeding back patient questionnaire responses to healthcare workers and patients probably slightly improves quality of life and increases communication between patients and their doctors, but probably does not make a lot of difference to social functioning. We are not sure of the impact on physical and mental functioning or fatigue of feeding back patient questionnaire responses as the certainty of this evidence was assessed as very low. The intervention probably increases diagnosis and note‐taking. We did not find studies reporting on adverse effects defined as distress following or related to Patient‐reported outcomes measures (PROM) completion. 
+How up‐to‐date is this review? 
+The review authors searched for studies that had been published up to October 2020.

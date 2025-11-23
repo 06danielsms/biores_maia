@@ -1,0 +1,14 @@
+Background
+Herpes zoster virus vaccine was recommended for the prevention of herpes zoster and its sequelae by the Advisory Committee on Immunization Practices (ACIP) in 2006. To date the efficacy and safety of vaccination for preventing the most common complication of zoster, postherpetic neuralgia, has not been systematically reviewed. 
+Objectives
+To assess the efficacy and safety of vaccination in preventing postherpetic neuralgia.
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (10 January 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) Issue 4, 2010 in the Cochrane Library), MEDLINE (January 1966 to December 2010), EMBASE (January 1980 to January 2011), LILACS (January 1982 to December 2010), and the Chinese Biomedical Retrieval System (January 1978 to December 2010). We also checked the references of published studies to identify additional trials. 
+Selection criteria
+We included all randomised controlled trials comparing varicella zoster virus vaccination with placebo, no vaccination or another intervention, irrespective of publication status or language. 
+Data collection and analysis
+Two authors independently assessed trial quality, then extracted and analysed data from the trials which met the inclusion criteria. We collected adverse effects information from the trials. 
+Main results
+One trial, which involved 38,546 subjects and compared vaccination with placebo, met our inclusion criteria. This included study was of high quality. However, its participants were all aged 60 years or more and most of them were white, which may mean that its findings are not applicable to all populations. The vaccine was effective in decreasing the incidence of herpes zoster, but there was no evidence that it had efficacy in reducing the incidence of postherpetic neuralgia beyond its effect on the incidence of herpes zoster. Adverse events at the injection site were more common among vaccine recipients than placebo recipients, but they were mild and resolved in a few days. Serious adverse events were rare. 
+Authors' conclusions
+There is insufficient direct evidence from specialised trials to prove the efficacy of vaccine for preventing postherpetic neuralgia beyond its effect on reducing herpes zoster, although vaccination may be efficacious and safe for preventing herpes zoster and thus reduce the incidence of postherpetic neuralgia in adults aged 60 years or older. 

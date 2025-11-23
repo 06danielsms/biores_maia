@@ -1,0 +1,16 @@
+Clinical Study Results
+What was the purpose of this study?
+The main questions the researchers wanted to answer in this study were:
+- How did AZD7594 act in the participants' bodies?
+- What medical problems happened during the study?
+The answers to these questions are important to know before other studies can be done to find out if AZD7594 helps improve the health of people who have asthma.
+What treatments did the participants take?
+This was an "open-label" study. This means the participants, researchers, study doctors, and other study staff knew what each participant was taking.
+In this study, the participants took 3 inhaled treatments of AZD7594, but in a different order. Two of the treatments were taken through a nebulizer, which is used to inhale treatments into the lungs in mist form. The other treatment was taken through a dry powder inhaler, also called a DPI. DPIs are used to inhale treatments into the lungs in powder form.
+The nebulizer doses were measured in milligrams, also called mg. The DPI dose was measured in micrograms, also called μg.
+A computer program was used to randomly choose the order in which the participants took each treatment. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+The chart below shows the treatments the participants took.
+Treatment dose   Type of inhaler
+0.7 mg of AZD7594   Nebulizer
+1.6 mg of AZD7594   Nebulizer
+720 μg of AZD7594   DPI

@@ -1,0 +1,17 @@
+Background
+Chronic infection with Burkholderia cepacia complex species remains a significant problem for clinicians treating people with cystic fibrosis. Colonisation with Burkholderia cepacia complex species is linked to a more rapid decline in lung function and increases morbidity and mortality. There remain no objective guidelines for strategies to eradicate Burkholderia cepacia complex in cystic fibrosis lung disease, as these are inherently resistant to the majority of antibiotics and there has been very little research in this area. This review aims to examine the current treatment options for people with cystic fibrosis with acute infection with Burkholderia cepacia complex and to identify an evidence‐based strategy that is both safe and effective. This is an updated version of the review. 
+Objectives
+To identify whether treatment of Burkholderia cepacia complex infections can achieve eradication, or if treatment can prevent or delay the onset of chronic infection. To establish whether following eradication, clinical outcomes are improved and if there are any adverse effects. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles and reviews. 
+Last search: 12 March 2019.
+We also searched electronic clinical trials registers for the USA and Europe.
+Date of last search: 12 March 2019.
+Selection criteria
+Randomised or quasi‐randomised studies in people with cystic fibrosis of antibiotics or alternative therapeutic agents used alone or in combination, using any method of delivery and any treatment duration, to eradicate Burkholderia cepacia complex infections compared to another antibiotic, placebo or no treatment. 
+Data collection and analysis
+Two authors independently assessed for inclusion in the review the eligibility of 52 studies (79 references) identified by the search of the Group's Trial Register and the other electronic searches. 
+Main results
+No studies looking at the eradication of Burkholderia cepacia complex species were identified. 
+Authors' conclusions
+The authors have concluded that there was an extreme lack of evidence in this area of treatment management for people with cystic fibrosis. Without further comprehensive studies, it is difficult to draw conclusions about a safe and effective management strategy for Burkholderia cepacia complex eradication in cystic fibrosis. Thus, while the review could not offer clinicians evidence of an effective eradication protocol for Burkholderia cepacia complex, it has highlighted an urgent need for exploration and research in this area, specifically the need for well‐designed multi‐centre randomised controlled studies of a variety of (novel) antibiotic agents. 

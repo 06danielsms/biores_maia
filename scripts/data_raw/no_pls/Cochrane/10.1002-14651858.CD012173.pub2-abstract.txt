@@ -1,0 +1,17 @@
+Background
+Ménière's disease or syndrome is a chronic inner ear disorder that results in sporadic attacks of vertigo, sensorineural hearing loss, aural fullness and tinnitus. 
+There is no definitive treatment for Ménière's disease and treatment options range from dietary modification through medication to surgery. 
+Modification of diet, including restriction of salt, caffeine and alcohol intake, is a management option that is widely recommended to patients with Ménière's as a first‐line treatment. There has not previously been a systematic review of this intervention. 
+Objectives
+To assess the effects of dietary restriction of salt, caffeine and alcohol intake in patients with Ménière's disease or syndrome. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Trials Register; Central Register of Controlled Trials (CENTRAL); PubMed; Ovid Embase; CINAHL; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 28 March 2018. 
+Selection criteria
+Randomised controlled trials of dietary modification, specifically salt, caffeine and alcohol restriction or substitution (or both), compared to no modification of these agents or a placebo intervention, in adult patients with Ménière's disease or syndrome. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane. Our primary outcomes were control of vertigo or decrease in vertigo attacks, and adverse effects. Secondary outcomes included hearing (change in hearing loss or its progression), tinnitus (severity), perception of aural fullness, well‐being and quality of life (overall changes), and other adverse effects. We planned to use GRADE to assess the quality of the evidence for each outcome. 
+Main results
+We did not identify any studies that met the inclusion criteria for the review.
+Authors' conclusions
+There is no evidence from randomised controlled trials to support or refute the restriction of salt, caffeine or alcohol intake in patients with Ménière's disease or syndrome. 
+High‐quality research in this field is warranted. The best evidence may come from a randomised controlled trial comparing dietary interventions (e.g. low salt versus general healthy diet advice), using rigorous methodology for patient selection, randomisation and blinding, and strictly adhering to the Bárány Society diagnostic criteria. However, this research question might be more pragmatically addressed by using information from carefully constructed patient registries that include information on dietary intake of substances of interest such as salt, caffeine and alcohol. It will be important to address the question of any possible harms or unwanted effects of dietary modification. 

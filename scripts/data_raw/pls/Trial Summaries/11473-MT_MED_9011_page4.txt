@@ -1,0 +1,20 @@
+What treatments did the participants take?
+All of the participants took verinurad and allopurinol. They took different combinations of these drugs as 5 different treatments. They took some of the treatments after eating breakfast, and some without eating breakfast, which is known as "fasting". All of the participants took 1 dose each of the 5 treatments in different orders. They waited 5 days between taking each treatment.
+
+This was an "open-label" study. This means the participants, researchers, study doctors, and other study staff knew what each participant was taking. A computer program was used to randomly choose the order each participant took their treatments in. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+
+The chart below shows the treatments the researchers planned to study:
+- Treatment 1: 1 capsule of verinurad
+- Treatment 2: 1 combined capsule of verinurad and allopurinol
+- Treatment 3: 1 combined capsule of verinurad and allopurinol
+- Treatment 4: 1 capsule of verinurad
+- Treatment 5: 1 capsule of verinurad
+
+And the administration of the treatments:
+- Treatment 1: After fasting overnight
+- Treatment 2: After fasting overnight
+- Treatment 3: After eating breakfast
+- Treatment 4: After eating breakfast
+- Treatment 5: After fasting overnight
+
+The participants took 1 dose of each treatment and waited 5 days between each treatment.

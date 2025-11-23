@@ -1,0 +1,15 @@
+Background
+People with sickle cell disease are particularly susceptible to pneumococcal infection, which may be fatal. Infants (children aged up to 23 months) are at particularly high risk, but conventional polysaccharide pneumococcal vaccines may be ineffective in this age group. New conjugate pneumococcal vaccines are now available, which may help to reduce the incidence of infection in people with sickle cell disease. 
+Objectives
+To determine the efficacy of pneumococcal vaccines for reducing morbidity and mortality in people with sickle cell disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, comprising of references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. In addition, we contacted relevant pharmaceutical companies and experts in the field. 
+Date of most recent search of Group's Haemoglobinopathies Trials Register: 09 December 2011. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials comparing a polysaccharide or conjugate pneumococcal vaccine regimen with a different regimen or no vaccination in people with sickle cell disease. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, extracted data and assessed trial quality. 
+Main results
+Nine trials were identified in the searches and five trials, with a total of 547 participants, met the inclusion criteria. Only one trial reported incidence of pneumococcal infection, and this demonstrated that the polysaccharide pneumococcal vaccine used (PPV14) failed to reduce significantly the risk of infection in children under three years of age, but was associated with only minor adverse events. Three trials of conjugate pneumococcal vaccines found that antibody responses were increased compared to control groups, including those in infants, although clinical outcomes were not measured in these trials. 
+Authors' conclusions
+Previous trials have shown that conjugate pneumococcal vaccines are safe and effective in normal healthy individuals, including those under the age of two years. The controlled trials included in this review have demonstrated immunogenicity (the ability to induce the body's immune response, without which there is no protection) of these vaccines, and observational studies in people with sickle cell disease support these findings. We therefore recommend that conjugate pneumococcal vaccines are used in people with sickle cell disease. Randomised trials in people with sickle cell disease will be needed to determine the optimal vaccination regimen when further, potentially more effective vaccines become available. Such trials should measure clinical outcomes of effectiveness. The trials included in this review were published between 1983 and 2003. We have not identified any further relevant trials up to December 2011. We therefore do not plan to update this review until new trials are published. 

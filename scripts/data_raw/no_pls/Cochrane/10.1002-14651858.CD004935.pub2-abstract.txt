@@ -1,0 +1,15 @@
+Background
+Lifestyle interventions are often recommended as initial treatment for mild hypertension, but the efficacy of relaxation therapies is unclear. 
+Objectives
+To evaluate the effects of relaxation therapies on cardiovascular outcomes and blood pressure in people with elevated blood pressure. 
+Search methods
+We searched the Cochrane Library, MEDLINE, EMBASE, Science Citation Index, ISI Proceedings, ClinicalTrials.gov, Current Controlled Trials and reference lists of systematic reviews, meta‐analyses and randomised controlled trials (RCTs) included in the review. 
+Selection criteria
+Inclusion criteria: RCTs of a parallel design comparing relaxation therapies with no active treatment, or sham therapy; follow‐up ≥8 weeks; participants over 18 years, with raised systolic blood pressure (SBP) ≥140 mmHg or diastolic blood pressure (DBP) ≥85 mmHg); SBP and DBP reported at end of follow‐up. Exclusion criteria: participants were pregnant; participants received antihypertensive medication which changed during the trial. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality. Disagreements were resolved by discussion or a third reviewer. Random effects meta‐analyses and sensitivity analyses were conducted. 
+Main results
+29 RCTs, with eight weeks to five years follow‐up, met our inclusion criteria; four were excluded from the primary meta‐analysis because of inadequate outcome data. The remaining 25 trials assessed 1,198 participants, but adequate randomisation was confirmed in only seven trials and concealment of allocation in only one. Only one trial reported deaths, heart attacks and strokes (one of each). Meta‐analysis indicated that relaxation resulted in small, statistically significant reductions in SBP (mean difference: ‐5.5 mmHg, 95% CI: ‐8.2 to ‐2.8, I2 =72%) and DBP (mean difference: ‐3.5 mmHg, 95% CI: ‐5.3 to ‐1.6, I2 =75%) compared to control. The substantial heterogeneity between trials was not explained by duration of follow‐up, type of control, type of relaxation therapy or baseline blood pressure. 
+The nine trials that reported blinding of outcome assessors found a non‐significant net reduction in blood pressure (SBP mean difference: ‐3.2 mmHg, 95% CI: ‐7.7 to 1.4, I2 =69%) associated with relaxation. The 15 trials comparing relaxation with sham therapy likewise found a non‐significant reduction in blood pressure (SBP mean difference: ‐3.5 mmHg, 95% CI: ‐7.1 to 0.2, I2 =63%). 
+Authors' conclusions
+In view of the poor quality of included trials and unexplained variation between trials, the evidence in favour of causal association between relaxation and blood pressure reduction is weak. Some of the apparent benefit of relaxation was probably due to aspects of treatment unrelated to relaxation. 

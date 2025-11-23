@@ -1,0 +1,14 @@
+Background
+Many people (up to 50%) with schizophrenia also have co‐morbid depression. It has been suggested that new atypical antipsychotic drugs are beneficial for people with the two diagnoses. 
+Objectives
+To assess the effects of atypical antipsychotic drugs on people who have a diagnosis of both schizophrenia and depression. 
+Search methods
+We searched the Cochrane Schizophrenia's Group Register (to March 2006). We supplemented this by citation searching and personal contact with authors and relevant pharmaceutical companies. 
+Selection criteria
+We included randomised clinical trials of atypical antipsychotic drugs used specifically for the treatment of people with a diagnosis of both schizophrenia and depression. 
+Data collection and analysis
+We extracted data independently. For homogenous dichotomous data we calculated random effects, relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat (NNT) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). 
+Main results
+We found 878 citations but were only able to include three studies (five reports). One trial found no significant difference between quetiapine and haloperidol for the outcome of 'less than 50% reduction in PANSS score' (n=180, RR 0.91 CI 0.8 to 1.0). Those allocated sulpiride had significantly lower depression scores compared with people given chlorpromazine (1 RCT, n=36, WMD CPRS ‐0.70 CI ‐1.2 to ‐0.2). Again, however, in the quetiapine versus haloperidol comparison, the continuous scoring did not highlight differences (1 RCT, n=180, WMD PANSS depression change ‐0.57 CI ‐1.4 to 0.30). When clozapine was compared with any other antipsychotic drug plus an antidepressant or placebo, clozapine constantly scored better on Hamilton scores (1 RCT, n=29, WMD vs antipsychotic + mianserin ‐5.53 CI ‐8.23 to ‐2.8; 1 RCT, n=32, WMD vs antipsychotic + meclobemide ‐4.35 CI ‐6.7 to ‐2.03; 1 RCT, n=33, WMD vs antipsychotic + placebo ‐6.35 CI ‐8.6 to ‐4.1). 
+Authors' conclusions
+There are too few data to guide patients, carers, clinicians or policy makers. Current practice has to be guided by evidence other than that derived from randomised trials and more trials in this important area are indicated. 

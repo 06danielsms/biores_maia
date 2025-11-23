@@ -1,0 +1,23 @@
+A computer program was used to randomly choose the treatment group for each participant, as well as the order in which the participants took their study treatments. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible. The dose of the study treatments was measured in milligrams, also known as "mg". The chart below shows the treatments the researchers planned to study.
+
+Group 1:
+- 28 participants
+- 72 mg of AZD9567 as a liquid by mouth, together with placebo as a capsule by mouth
+
+Group 2:
+- 9 participants
+- 40 mg of AZD9567 as a liquid by mouth, together with placebo as a capsule by mouth
+
+Group 3:
+- 9 participants
+- 5 mg of prednisolone as a capsule by mouth, together with placebo as a liquid by mouth
+
+During Part 1:
+- Treatment 1 for 3 days
+
+During Part 2, 3 weeks later:
+- Treatment 2 for 3 days
+
+What happened during this study?
+The participants were in the study for up to 11 weeks. But, the entire study took over 6 months to finish.
+The study started in November 2020 and ended in June 2021.

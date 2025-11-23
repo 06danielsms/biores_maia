@@ -1,0 +1,14 @@
+Background
+Anticoagulant treatment for intermittent claudication might improve functional capacity and prevent acute cardiovascular complications caused by peripheral obstructive arterial disease. This is an update of the review first published in 2001. 
+Objectives
+To assess the effects of anticoagulant drugs (heparin, low molecular weight heparin (LMWH) and oral anticoagulants) in patients with intermittent claudication (Fontaine stage II) in terms of improving walking capacity (pain‐free walking distance or absolute walking distance), mortality, cardiovascular events, ankle/brachial pressure index, progression to surgery, amputation‐free survival and side effects of these drugs. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched May 2013) and CENTRAL (2013, Issue 4). 
+Selection criteria
+All randomised trials of anticoagulants used to treat patients with intermittent claudication.
+Data collection and analysis
+Seven studies were included. Only three studies (two evaluating oral anticoagulants, one evaluating heparin) met the high quality methodological inclusion criteria and were included in the primary analysis. Four other studies were included in the sensitivity analysis. The authors extracted the data independently. 
+Main results
+No new studies were included for this update. Seven studies with a combined total of 802 participants were included in this review. No significant difference was observed between heparin treatment and control groups for pain‐free walking distance or maximum walking distance at the end of treatment. There were no data to indicate that LMWHs benefit walking distance. Revascularisation or amputation‐free survival rates were reported in one study only with a five year follow‐up. No study reported a significant effect on overall mortality or cardiovascular events and the pooled odds ratios were not significant for these outcomes either. Major and minor bleeding events were significantly more frequent in the group treated with oral anticoagulants compared to control, with a non‐significant increase in fatal bleeding events. No major bleeding events were reported in the study evaluating heparin, while a non‐significant increase in minor bleeding events was reported. 
+Authors' conclusions
+The benefit of heparin, LMWHs and oral anticoagulants for treatment of intermittent claudication has not been established while an increased risk of major bleeding events has been observed, especially with oral anticoagulants. There is no clear evidence to support the use of anticoagulants for intermittent claudication at this stage. 

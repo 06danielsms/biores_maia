@@ -1,0 +1,15 @@
+Background
+Rotaviruses cause viral gastroenteritis and result in more deaths from diarrhoea in children under 5 years of age than any other single agent, particularly in low‐ and middle‐income countries. 
+Objectives
+To assess rotavirus vaccines in relation to preventing rotavirus diarrhoea, death, and adverse events. 
+Search methods
+We searched the Cochrane Infectious Diseases Group's trial register (October 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2003), MEDLINE (1966 to October 2003), EMBASE (January 1980 to October 2003), LILACS (1982 to October 2003), Biological Abstracts (January 1982 to October 2003), reference lists of articles, and contacted researchers and rotavirus vaccine manufacturers. 
+Selection criteria
+Randomized controlled trials comparing rotavirus vaccines to placebo, no intervention, or other rotavirus vaccines in children and adults. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial methodological quality, and contacted trial authors for additional information. 
+Main results
+Sixty‐four trials provided information on efficacy and safety of three main types of rotavirus vaccine (bovine, human, and rhesus) for 21,070 children. Different levels of efficacy were demonstrated with different vaccines varying from 22 to 89% to prevent one episode of rotavirus diarrhoea, 11 to 44% to prevent one episode of all‐cause diarrhoea, and 43 to 90% to prevent one episode of severe rotavirus diarrhoea. Rhesus vaccine demonstrated a similar efficacy against one episode of rotavirus diarrhoea (37 and 44% respectively), and one episode of all‐cause diarrhoea (around 15%) for trials performed in high and middle‐income countries. Results on mortality and safety of the vaccines were scarce and incomplete. We noticed important heterogeneity among the pooled studies and were unable to discard a biased estimation of effect. 
+Authors' conclusions
+Current evidence shows that rhesus rotavirus vaccines (particularly RRV‐TV) and the human rotavirus vaccine 89‐12 are efficacious in preventing diarrhoea caused by rotavirus and all‐cause diarrhoea. Evidence about safety, and about mortality or prevention of severe outcomes, is scarce and inconclusive. Bovine rotavirus vaccines were also efficacious, but safety data are not available. Trials of new rotavirus vaccines will hopefully improve the evidence base. Randomized controlled trials should be performed simultaneously in high‐, middle‐, and low‐income countries. 
+2010 Editor's Note: Several of the vaccines investigated in this review are no longer in routine clinical use (for example, live attenuated rhesus‐human reassortant tetravalent vaccine) and further new vaccines have been tested and approved for use since this review was written in 2004. For an up‐to‐date assessment of rotavirus vaccines currently approved for use, please see : Soares‐Weiser K, MacLehose H, Ben‐Aharon I, Goldberg E, Pitan F, Cunliffe N. Vaccines for preventing rotavirus diarrhoea: vaccines in use. Cochrane Database of Systematic Reviews 2010, Issue 5. Art. No.: CD008521. DOI: 10.1002/14651858.CD008521. 

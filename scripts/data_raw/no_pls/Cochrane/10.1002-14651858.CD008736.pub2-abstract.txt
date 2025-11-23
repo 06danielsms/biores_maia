@@ -1,0 +1,21 @@
+Background
+Leishmaniasis is caused by the Leishmania parasite, and transmitted by infected phlebotomine sandflies. Of the two distinct clinical syndromes, cutaneous leishmaniasis (CL) affects the skin and mucous membranes, and visceral leishmaniasis (VL) affects internal organs. Approaches to prevent transmission include vector control by reducing human contact with infected sandflies, and reservoir control, by reducing the number of infected animals. 
+Objectives
+To assess the effects of vector and reservoir control interventions for cutaneous and for visceral leishmaniasis. 
+Search methods
+We searched the following databases to 13 January 2015: Cochrane Infectious Diseases Group Specialized Register, CENTRAL, MEDLINE, EMBASE, LILACS and WHOLIS, Web of Science, and RePORTER. We also searched trials registers for ongoing trials. 
+Selection criteria
+Randomized controlled trials (RCTs) evaluating the effects of vector and reservoir control interventions in leishmaniasis‐endemic regions. 
+Data collection and analysis
+Two review authors independently searched for trials and extracted data from included RCTs. We resolved any disagreements by discussion with a third review author. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included 14 RCTs that evaluated a range of interventions across different settings. The study methods were generally poorly described, and consequently all included trials were judged to be at high or unclear risk of selection and reporting bias. Only seven trials reported clinical outcome data which limits our ability to make broad generalizations to different epidemiological settings and cultures. 
+Cutaneous leishmaniasis 
+One four‐arm RCT from Afghanistan compared indoor residual spraying (IRS), insecticide‐treated bednets (ITNs), and insecticide‐treated bedsheets, with no intervention. Over 15 months follow‐up, all three insecticide‐based interventions had a lower incidence of CL than the control area (IRS: risk ratio (RR) 0.61, 95% confidence interval (CI) 0.38 to 0.97, 2892 participants, moderate quality evidence; ITNs: RR 0.32, 95% CI 0.18 to 0.56, 2954 participants, low quality evidence; ITS: RR 0.34, 95% CI 0.20 to 0.57, 2784 participants, low quality evidence). No difference was detected between the three interventions (low quality evidence). One additional trial of ITNs from Iran was underpowered to show a difference. 
+Insecticide treated curtains were compared with no intervention in one RCT from Venezuela, where there were no CL episodes in the intervention areas over 12 months follow‐up compared to 142 in control areas (RR 0.00, 95% CI 0.00 to 0.49, one trial, 2938 participants, low quality evidence). 
+Personal protection using insecticide treated clothing was evaluated by two RCTs in soldiers, but the trials were underpowered to reliably detect effects on the incidence of CL (RR 0.40, 95% CI 0.13 to 1.20, two trials, 558 participants, low quality evidence). 
+Visceral leishmaniasis 
+In a single RCT of ITNs versus no intervention from India and Nepal, the incidence of VL was low in both groups and no difference was detected (RR 0.99, 95% CI 0.46 to 2.15, one trial, 19,810 participants, moderate quality evidence). 
+Two trials from Brazil evaluated the effects of culling infected dogs compared to no intervention or IRS. Although they report a reduction in seroconversion over 18 months follow‐up, they did not measure or report effects on clinical disease. 
+Authors' conclusions
+Using insecticides to reduce phlebotomine sandfly numbers may be effective at reducing the incidence of CL, but there is insufficient evidence from trials to know whether it is better to spray the internal walls of houses or to treat bednets, curtains, bedsheets or clothing. 

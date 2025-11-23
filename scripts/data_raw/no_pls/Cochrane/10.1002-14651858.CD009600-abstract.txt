@@ -1,0 +1,14 @@
+Background
+Non‐surgical treatment, including ergonomic positioning or equipment, are sometimes offered to people experiencing mild to moderate symptoms from carpal tunnel syndrome (CTS). The effectiveness and duration of benefit from ergonomic positioning or equipment interventions for treating CTS are unknown. 
+Objectives
+To assess the effects of ergonomic positioning or equipment compared with no treatment, a placebo or another non‐surgical intervention in people with CTS. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (14 June 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (2011, Issue 2, in The Cochrane Library), MEDLINE (1966 to June 2011), EMBASE (1980 to June 2011), CINAHL Plus (1937 to June 2011), and AMED (1985 to June 2011). We also reviewed the reference lists of randomised or quasi‐randomised trials identified from the electronic search. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing ergonomic positioning or equipment with no treatment, placebo or another non‐surgical intervention in people with CTS. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, extracted data and assessed risk of bias of included studies. We calculated risk ratios (RR) and mean differences (MD) with 95% confidence intervals (CI) for the primary and secondary outcomes. We pooled results of clinically and statistically homogeneous trials, where possible, to provide estimates of the effect of ergonomic positioning or equipment. 
+Main results
+We included two trials (105 participants) comparing ergonomic versus placebo keyboards. Neither trial assessed the primary outcome (short‐term overall improvement) or adverse effects of interventions. In one small trial (25 participants) an ergonomic keyboard significantly reduced pain after 12 weeks (MD ‐2.40; 95% CI ‐4.45 to ‐0.35) but not six weeks (MD ‐0.20; 95% CI ‐1.51 to 1.11). In this same study, there was no difference between ergonomic and standard keyboards in hand function at six or 12 weeks or palm‐wrist sensory latency at 12 weeks. The second trial (80 participants) reported no significant difference in pain severity after six months when using either of the three ergonomic keyboards versus a standard keyboard. No trials comparing (i) ergonomic positioning or equipment with no treatment, (ii) ergonomic positioning or equipment with another non‐surgical treatment, or (iii) different ergonomic positioning or equipment regimes, were found. 
+Authors' conclusions
+There is insufficient evidence from randomised controlled trials to determine whether ergonomic positioning or equipment is beneficial or harmful for treating carpal tunnel syndrome. 

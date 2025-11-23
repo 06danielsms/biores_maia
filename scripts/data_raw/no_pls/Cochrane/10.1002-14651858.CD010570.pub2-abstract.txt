@@ -1,0 +1,14 @@
+Background
+Targeted temperature management (also known under 'therapeutic hypothermia', 'induced hypothermia'", or 'cooling') has been shown to be beneficial for neurological outcome in patients who have had successful resuscitation from sudden cardiac arrest, but it remains unclear when this intervention should be initiated. 
+Objectives
+To assess the effects of pre‐hospital initiation of cooling on survival and neurological outcome in comparison to in‐hospital initiation of cooling for adults with pre‐hospital cardiac arrest. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, CINAHL, BIOSIS, and three trials registers from inception to 5 March 2015, and carried out reference checking, citation searching, and contact with study authors to identify additional studies. 
+Selection criteria
+We searched for randomized controlled trials (RCTs) in adults with out‐of‐hospital cardiac arrest comparing cooling in the pre‐hospital setting to in‐hospital cooling. Our primary outcomes were survival and neurological outcome; our secondary outcomes were adverse events, quality of life, and length of stay in the intensive care unit (ICU) and in the hospital. 
+Data collection and analysis
+We used Cochrane's standard methodological procedures.
+Main results
+We included seven RCTs (2369 participants randomized) on the induction of pre‐hospital cooling in comparison to in‐hospital cooling. There was considerable methodological heterogeneity and risk of bias mainly due to deficits in the administration of cooling, therefore we refrained from pooling the results for survival and neurological outcome and we presented the results for each study separately. Adverse events were rare: based on four studies with 1713 adults pre‐hospital induction of cooling may increase the risk of cardiac re‐arrests. Risk of bias within the seven individual studies was generally moderate. Overall the quality of the evidence was very low. This was mainly driven by inconsistency and low precision. 
+Authors' conclusions
+Currently, there is no convincing evidence to clearly delineate beneficial or harmful effects of pre‐hospital induction of cooling in comparison to in‐hospital induction of cooling. This conclusion is based on very low quality evidence. 

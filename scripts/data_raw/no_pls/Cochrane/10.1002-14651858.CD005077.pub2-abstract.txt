@@ -1,0 +1,15 @@
+Background
+The shoulder is the most common joint to develop recurrent instability. Repair of labral tears of the joint and reconstruction of damaged capsule and torn ligaments either by open or arthroscopic methods remain the cornerstone of current management. 
+Objectives
+To compare the effectiveness of various surgical interventions performed to treat recurrent anterior instability of the shoulder in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (December 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2008, Issue 1), MEDLINE (1950 to March 2008), EMBASE and other databases. We searched conference proceedings and the reference lists of papers. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing different surgical interventions for treating anterior shoulder instability in adults. 
+Data collection and analysis
+The authors independently selected trials, assessed methodological quality and extracted data. Only limited pooling was done. 
+Main results
+Included are three randomised controlled trials involving 184 people (predominantly active young men) with unidirectional anterior shoulder instability generally following a traumatic event. All three trials compared arthroscopic versus open surgery, generally involving the repair of Bankart lesions. The three trials were inadequately reported but appeared well‐conducted with minimum follow‐ups of two years. 
+Pooled results showed no statistically significant difference between the two groups in recurrent instability or re‐injury (7/92 versus 5/85, risk ratio (RR) 0.89, 95% confidence interval (CI) 0.09 to 8.72; random‐effects model), in subsequent instability‐related surgery (RR 0.66, 95% CI 0.05 to 8.97; random‐effects model) or surgery for all reasons (RR 0.55, 95% CI 0.04 to 7.18; random‐effects model). For other outcomes, including shoulder function, there were either no statistically significant differences between the two groups or the differences were clinically insignificant where statistically significant differences occurred. 
+Authors' conclusions
+There is insufficient evidence from randomised trials comparing arthroscopic with open surgery for treating anterior shoulder instability. Further research is needed on this subject and for other surgical interventions. Sufficiently powered, good quality, well reported randomised controlled trials with validated outcome measures and long‐term follow up are required. 

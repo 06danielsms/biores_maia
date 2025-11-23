@@ -1,0 +1,15 @@
+Background
+Identification of pregnancies that are higher risk than average is important to allow the possibility of interventions aimed at preventing adverse outcomes like preterm birth. Many scoring systems designed to classify the risk of a number of poor pregnancy outcomes (e.g. perinatal mortality, low birthweight, and preterm birth) have been developed, but they have usually been introduced without evaluation of their utility and validity. 
+Objectives
+To determine whether the use of a risk‐screening tool designed to predict preterm birth (in combination with appropriate consequent interventions) reduces the incidence of preterm birth and very preterm birth, and associated adverse outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 June 2015). 
+Selection criteria
+All randomised or quasi‐randomised (including cluster‐randomised) or controlled clinical trials that compared the incidence of preterm birth between groups that used a risk‐scoring instrument to predict preterm birth with those who used an alternative instrument, or no instrument; or that compared the use of the same instrument at different gestations.  The reports may have been published in peer reviewed or non‐peer reviewed publications, or not published, and written in any language. 
+Data collection and analysis
+All review authors planned to independently assess for inclusion all the potential studies we identified as a result of the search strategy. However, we did not identify any eligible studies. 
+Main results
+Searching revealed no trials of the use of risk‐scoring systems for preventing preterm birth. 
+Authors' conclusions
+The role of risk‐scoring systems in the prevention of preterm birth is unknown.
+There is a need for prospective studies that evaluate the use of a risk‐screening tool designed to predict preterm birth (in combination with appropriate consequent interventions) to prevent preterm birth, including qualitative and/or quantitative evaluation of their impact on women's well‐being. If these prove promising, they should be followed by an adequately powered, well‐designed randomised controlled trial. 

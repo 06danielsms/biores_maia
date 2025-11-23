@@ -1,0 +1,14 @@
+Background
+Transcutaneous electrical nerve stimulation (TENS) was introduced more than 30 years ago as a therapeutic adjunct to the pharmacological management of pain. However, despite widespread use, its effectiveness in chronic low‐back pain (LBP) is still controversial. 
+Objectives
+To determine whether TENS is more effective than placebo for the management of chronic LBP. 
+Search methods
+The Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, PEDro and CINAHL were searched up to July 19, 2007. 
+Selection criteria
+Only randomized controlled clinical trials (RCTs) comparing TENS to placebo in patients with chronic LBP were included. 
+Data collection and analysis
+Two review authors independently selected the trials, assessed their methodological quality and extracted relevant data. If quantitative meta‐analysis was not possible, a qualitative synthesis was performed, taking into consideration 5 levels of evidence as recommended by the Cochrane Collaboration Back Review Group. 
+Main results
+Four high‐quality RCTs (585 patients) met the selection criteria. Clinical heterogeneity prevented the use of meta‐analysis. Therefore, a qualitative synthesis was completed. There was conflicting evidence about whether TENS was beneficial in reducing back pain intensity and consistent evidence in two trials (410 patients) that it did not improve back‐specific functional status. There was moderate evidence that work status and the use of medical services did not change with treatment. Conflicting results were obtained from two studies regarding generic health status, with one study showing no improvement on the modified Sickness Impact Profile and another study showing significant improvements on several, but not all subsections of the SF‐36 questionnaire. Multiple physical outcome measures lacked statistically significant improvement relative to placebo. In general, patients treated with acupuncture‐like TENS responded similarly to those treated with conventional TENS. However, in two of the trials, an inadequate stimulation intensity was used for acupuncture‐like TENS, given that muscle twitching was not induced. Optimal treatment schedules could not be reliably determined based on the available data. Adverse effects included minor skin irritation at the site of electrode placement. 
+Authors' conclusions
+At this time, the evidence from the small number of placebo‐controlled trials does not support the use of TENS in the routine management of chronic LBP. Further research is encouraged. 

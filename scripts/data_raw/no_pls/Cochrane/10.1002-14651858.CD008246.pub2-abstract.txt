@@ -1,0 +1,14 @@
+Background
+Synchronized ventilation of neonates is standard care in industrialized countries. Both flow‐cycled and time‐cycled modes of synchronized ventilation are in widespread use for assisted ventilation of neonates. 
+Objectives
+To determine the effect of flow‐cycled versus time‐cycled synchronized ventilation on the risk of bronchopulmonary dysplasia (BPD) at 36 weeks postmenstrual age (PMA) in neonates requiring assisted ventilation. 
+Search methods
+We used the standard methods of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library Issue 4, 2009, PubMed (January 1966 to October 2009), EMBASE (January 1974 to October 2009) and CINAHL (January 1982 to October 2009). We checked references and cross‐references from identified studies. Abstracts from the proceedings of the Pediatric Academic Societies Meetings (from January 1990 to October 2009) were handsearched. We placed no restrictions on language. 
+Selection criteria
+Randomized or quasi‐randomized clinical trials comparing flow‐cycled with time‐cycled synchronized endotracheal ventilation in neonates, reporting on at least one outcome of interest were eligible for inclusion in the review. 
+Data collection and analysis
+One author (SMS) searched the literature as described above. Selection of studies and data extraction were done separately by two authors (SMS and SKP). Any disagreements were resolved by discussion involving all authors. 
+Main results
+Only two small, short‐term, randomized, individual cross‐over trials involving a total of 19 preterm neonates met the inclusion criteria of this review. Both trials reported on lung mechanics and short‐term respiratory physiology outcomes but not on clinical morbidities or mortality. 
+Authors' conclusions
+There is insufficient evidence to determine the safety and efficacy of flow‐cycled compared to time‐cycled synchronized ventilation in neonates. Large randomized clinical trials using a parallel‐group design and reporting on clinically important outcomes are warranted. 

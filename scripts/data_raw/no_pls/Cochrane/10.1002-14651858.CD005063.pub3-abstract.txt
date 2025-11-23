@@ -1,0 +1,19 @@
+Background
+Alcohol abuse and dependence represents a serious health problem worldwide with social, interpersonal and legal interpolations. Benzodiazepines have been widely used for the treatment of alcohol withdrawal symptoms. Moreover it is unknown whether different benzodiazepines and different regimens of administration may have the same merits. 
+Objectives
+To evaluate the effectiveness and safety of benzodiazepines in the treatment of alcohol withdrawal. 
+Search methods
+Cochrane Drugs and Alcohol Group' Register of Trials (December 2009), PubMed,  EMBASE,  CINAHL (January 1966 to December 2009), EconLIT (1969 to December 2009). Parallel searches on web sites of health technology assessment and related agencies, and their databases. 
+Selection criteria
+Randomized controlled trials examining effectiveness, safety and risk‐benefit of benzodiazepines in comparison with placebo or other pharmacological treatment and between themselves. All patients were included regardless of age, gender, nationality, and outpatient or inpatient therapy. 
+Data collection and analysis
+Two authors independently screened and extracted data from studies.
+Main results
+Sixty four studies, 4309 participants, met the inclusion criteria.
+‐ Comparing benzodiazepines versus placebo, benzodiazepines performed better for seizures, 3 studies, 324 participants, RR 0.16 (0.04 to 0.69), no statistically significant difference for the other outcomes considered. 
+‐ Comparing benzodiazepines versus other drugs, there is a trend in favour of benzodiazepines for seizure and delirium control, severe life threatening side effect, dropouts, dropouts due to side effects and patient's global assessment score.  A trend in favour of control group was observed for CIWA‐Ar scores at 48 hours and at the end of treatment. The results reach statistical significance only in one study, with 61 participants, results on Hamilton anxiety rating scale favour control MD ‐1.60 (‐2.59 to ‐0.61) 
+‐ Comparing different benzodiazepines among themselves,results never reached statistical significance but chlordiazepoxide performed better 
+‐ Comparing benzodiazepine plus other drug versus other drug, results never reached statistical significance. 
+‐ In the comparison of fixed‐schedule versus symptom‐triggered regimens, results from a single study, with 159 participants, favour  symptom‐triggered regimens MD ‐1.10 [‐3.27, 1.07] for CIWA‐Ar scores at the end of treatment. Differences in isolated trials should be interpreted very cautiously. 
+Authors' conclusions
+Benzodiazepines showed a protective benefit against alcohol withdrawal symptoms, in particular seizures, when compared to placebo and a potentially protective benefit for many outcomes when compared with other drugs. Nevertheless, no definite conclusions about the effectiveness and safety of benzodiazepines was possible, because of the heterogeneity of the trials both in interventions and the assessment of outcomes. 

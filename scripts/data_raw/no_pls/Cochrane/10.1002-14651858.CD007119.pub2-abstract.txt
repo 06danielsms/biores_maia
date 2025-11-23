@@ -1,0 +1,17 @@
+Background
+Central venous catheters (CVCs) facilitate the administration of intravenous drugs, fluids, blood products and parenteral nutrition to patients with either chronic disease or critical illness. Despite a pivotal role within medical management, a common complication associated with CVC use is occlusion of the CVC lumen(s). CVC occlusion can interrupt and cause serious delays in administration of treatment interventions. 
+Objectives
+The primary objective of this review was to assess the efficacy and safety of different interventions used to restore patency of occluded CVC lumens, in adults and children. 
+Search methods
+We identified trials by searching the Cochrane Central Register of Clinical Trials (CENTRAL) (The Cochrane Library 2011, Issue 9); OvidSP MEDLINE (1950 to September 2011); OvidSP EMBASE (1980 to September 2011) and NHS Evidence CINAHL (1982 to September 2011). We also searched clinical trial registers, handsearched reference lists, contacted pharmaceutical companies and authors of publications that met the inclusion criteria to identify trials. 
+Selection criteria
+We selected randomized controlled trials which investigated the efficacy of an intervention (chemical, surgical or drug) used to restore patency to an occluded CVC lumen, in either adults or children. 
+Data collection and analysis
+Three authors independently assessed those studies that met the inclusion criteria for quality and extracted the relevant data using a standardized form. 
+Main results
+No studies were found that investigated the efficacy and safety of either chemical or surgical interventions. 
+Seven studies (eight papers) with a total of 632 participants were identified from the search. They investigated different comparisons, strengths of thrombolytic or anticoagulant drug interventions for treating CVC lumen occlusion thought to be caused by a thrombus. 
+There was low quality evidence from a meta‐analysis of two studies suggesting that urokinase (various strengths) was more effective than placebo for restoring patency to occluded CVC lumens in adults and children with underlying medical conditions (relative risk (RR) 2.09, 95% confidence interval (CI) 1.47 to 2.95), with a number needed to treat of 4 (95% CI 2 to 8). There was insufficient evidence to draw conclusions on the safety of urokinase. 
+The overall quality of the evidence provided by these studies was low to very low due to one or more domains being assessed as either at 'unclear risk of bias' or 'high risk of bias'. Furthermore, the total number of participants in these studies was small and consequently may lead to spurious results. 
+Authors' conclusions
+There is inadequate evidence to draw strong conclusions on the efficacy or safety of the drug interventions included in this review. There is some low quality evidence from a meta‐analysis of two studies investigating urokinase (various strengths) and some very low evidence from two single studies investigating alteplase 2 mg/2 mL that suggest that these two drug interventions may be effective in treating withdrawal or total occlusion of CVC lumens caused by thrombosis. Further high quality, sufficiently powered research is still required to look at the efficacy and safety of urokinase, alteplase and other chemical, surgical and drug interventions for treating CVC lumen occlusion. Research studies which exclusively include child participants are especially warranted. 

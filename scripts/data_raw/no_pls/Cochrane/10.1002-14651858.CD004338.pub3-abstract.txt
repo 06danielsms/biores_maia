@@ -1,0 +1,14 @@
+Background
+Intubation is associated with bacterial colonisation of the respiratory tract and therefore may increase the risk of acquiring an infection. The infection may prolong the need for mechanical ventilation and increase the risk of chronic lung disease. The use of prophylactic antibiotics has been advocated for all mechanically ventilated newborns in order to reduce the risk of colonisation and the acquisition of infection. However, there is the possibility that the harm this may cause might outweigh the benefit. 
+Objectives
+To assess the effects of prophylactic antibiotics on mortality and morbidity in intubated, ventilated newborn infants who are not known to have infection. In separate comparisons, two different policies regarding the prophylactic use of antibiotics in intubated, ventilated infants were reviewed:  1) among infants who have been intubated for mechanical ventilation, a policy of prophylactic antibiotics for the duration of intubation versus placebo or no treatment  2) among intubated, ventilated infants who have been started on antibiotics at the time of intubation but whose initial cultures to rule out sepsis were negative, a policy of continuing versus discontinuing prophylactic antibiotics 
+Search methods
+MEDLINE (January 1950 to March 2007), CINAHL (1982 to March 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 1, 2007), the Cochrane Neonatal Group Specialised Register and reference lists of articles were searched. This search was updated in November 2010. 
+Selection criteria
+Randomised controlled trials of sufficient quality in which mechanically ventilated newborn infants are randomised to receive prophylactic antibiotics versus placebo or no treatment. 
+Data collection and analysis
+Two reviewers independently assessed trial quality.
+Main results
+Two studies met the criteria for inclusion in this review. One was of insufficient quality to draw any meaningful conclusions. The other was of fair quality and found no significant differences between treatment and control groups in any of the reported outcomes, however, the rates of septicaemia were not reported. 
+Authors' conclusions
+There is insufficient evidence from randomised trials to support or refute the use of prophylactic antibiotics when starting mechanical ventilation in newborn infants, or to support or refute continuing antibiotics once initial cultures have ruled out infection in mechanically ventilated newborn infants. 

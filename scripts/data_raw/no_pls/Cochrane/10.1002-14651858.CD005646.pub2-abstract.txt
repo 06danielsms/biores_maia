@@ -1,0 +1,14 @@
+Background
+Opportunistic infections continue to cause a significant amount of morbidity and mortality worldwide in patients infected with HIV. Trimethoprim‐sulfamethoxazole (cotrimoxazole) is used in the treatment and prophylaxis of several opportunistic infections. In patients with HIV/AIDS, cotrimoxazole use can cause a higher rate of adverse drug reactions than in the general population. Given the cost‐effectiveness of cotrimoxazole, the management of these adverse reactions has included continuing the drug (treating‐through) and reintroducing the drug at a later date, either using dose‐escalation (desensitization), or rechallenge at full dose. This systematic review is the first to examine the differences in patient outcomes between these strategies. 
+Objectives
+To compare the rate of discontinuation of cotrimoxazole and adverse reactions among the three strategies of treating‐through, desensitization, and rechallenge in patients living with HIV who previously had an adverse reaction to cotrimoxazole. 
+Search methods
+We searched MEDLINE, EMBASE, LILACS, The Cochrane Library, Meeting Abstracts, AIDSTRIALS, ACTIS, Current Controlled Trials, The National Institutes of Health Clinical Trials Registry, and CenterWatch (search date May 2006). 
+Selection criteria
+Randomised trials comparing treating‐through, rechallenge, or desensitization of cotrimoxazole treatment or prophylaxis in adults (age 18 years or over) and/or children (age 17 years or under). 
+Data collection and analysis
+Two reviewers independently assessed trial eligibility and quality, and extracted data. Where data were incomplete or unclear, a third reviewer resolved conflicts and/or trial authors were contacted for further details. 
+Main results
+Three trials that examined cotrimoxazole prophylaxis and involving 268 adults were included. Meta‐analysis of these studies found a beneficial effect of using a desensitization protocol over a rechallenge protocol at six months of follow‐up for preventing discontinuation of cotrimoxazole (number needed to treat (NNT) 7.14, 95% confidence interval (CI) 4.0‐33.0), and for lower incidence of overall hypersensitivity (NNT 4.55, 95% CI 3.03‐9.09). No severe hypersensitivity reactions occurred for either protocol in the three studies. 
+Authors' conclusions
+In the small trials included in this review, when compared to cotrimoxazole rechallenge for prophylaxis of opportunistic infections, cotrimoxazole desensitization resulted in fewer treatment discontinuations and overall adverse reactions in HIV‐infected patients with a previous history of mild or moderate hypersensitivity to cotrimoxazole. Paediatric data and trials in resource‐poor settings are urgently required. Further randomised controlled trials are also needed for the treatment of opportunistic infections, treating‐through, adjunctive medications, and different desensitization‐dosing schedules. 

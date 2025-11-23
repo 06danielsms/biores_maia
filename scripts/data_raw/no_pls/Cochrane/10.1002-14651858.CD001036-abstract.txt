@@ -1,0 +1,15 @@
+Background
+This review is no longer appropriate for update as liquid based cytology has superceded smear technology. 
+The large variation in disease detection rated with cervical smears may be partly due to differences in the sampling devices and the techniques of sampling. 
+Objectives
+To assess whether the design of the cervical smear device affects rates of inadequate smears and the detection of disease; and whether the presence of endocervical cells in the smear affects disease detection. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group trials register and MEDLINE up to July 1997. We also handsearched 16 journals. 
+Selection criteria
+Randomised and quasi‐randomised trials and non‐randomised comparative studies comparing cervical smear collection devices in women attending for primary screening, colposcopy following an abnormal smear or colposcopy after treatment. 
+Data collection and analysis
+Two reviewers independently abstracted data. Study quality was assessed.
+Main results
+Thirty‐six trials and six observational comparative studies were included. The Ayre spatula was shown to be less effective compared with extended tip spatulas for collecting endocervical cells in eight trials (odds ratio 2.25, 95% confidence interval 2.06 to 2.44). Use of a spatula with the cytobrush was more effective than spatula alone at collecting endocervical cells (odds ratio 3.33, 95% confidence interval 3.05 to 3.63) and the same effect was present for adequate smear rates (odds ratio 1.51 95% confidence interval 1.19‐1.92). Extended tip spatulas were also superior for the detection of dyskaryosis in seven trials (odds ratio 1.21, 95% confidence interval 1.10 to 1.33). Based on data from two trials and three observational studies, smears that contained endocervical cells were more likely to detect dyskaryosis, particularly in severe disease. The proportion of smears with endocervical cells present increased with increasing severity of the disease. 
+Authors' conclusions
+Extended tip spatulas of various designs appear to be better for collecting endocervical cells than the commonly used Ayre spatula. The most effective combination appears to be the cytobrush with an extended tip spatula. The rate of detection of endocervical cells appears to be a valid and convenient surrogate for the ability to detect dyskaryosis and for adequate smear rates. The ability of the extended tip spatula with the cytobrush compared with the extended tip spatula alone to detect disease, needs to be evaluated in a trial. 

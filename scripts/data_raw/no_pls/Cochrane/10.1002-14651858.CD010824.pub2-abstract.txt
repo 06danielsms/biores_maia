@@ -1,0 +1,19 @@
+Background
+Electrical cardioversion is an effective procedure for restoring normal sinus rhythm in the hearts of patients with irregular heart rhythms. It is important that the patient is not fully conscious during the procedure, as it can be painful and distressing. The drug used to make patients unaware of the procedure should rapidly achieve the desired level of sedation, should wear off quickly and should not cause cardiovascular or respiratory side effects. 
+Objectives
+We aimed to compare the safety, effectiveness and adverse events associated with various anaesthetic or sedative agents used in direct current cardioversion for cardiac arrhythmia in both elective and emergency settings. 
+We sought answers to the following specific questions.
+• Which drugs deliver the best outcomes for patients undergoing electrical cardioversion?
+• Does using a particular agent confer advantages or disadvantages?
+• Is additional analgesic necessary to prevent pain?
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) on 27 March 2014. Our search terms were relevant to the review question and were not limited by outcomes. We also carried out searches of clinical trials registers and forward and backward citation tracking. 
+Selection criteria
+We considered all randomized controlled trials and quasi‐randomized and cluster‐randomized studies with adult participants undergoing electrical cardioversion procedures in the elective or emergency setting. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data, consulting with a third review author for disagreements. We used standard Cochrane methodological procedures, including assessment of risk of bias for all studies. 
+Main results
+We included 23 studies with 1250 participants that compared one drug with one or more other drugs. Of these comparisons, 19 studies compared propofol with another drug. Seven of these compared propofol with etomidate (four of which combined the drugs with remifentanil or fentanyl), five midazolam, six thiopentone and two sevoflurane. Three studies compared etomidate with thiopentone, and three etomidate with midazolam. Two studies compared thiopentone with midazolam, one thiopentone with diazepam and one midazolam with diazepam. Drug doses and the time over which the drugs were given varied between studies. Although all studies were described as randomized, limited information was provided about the methods used for selection and group allocation. A high level of performance bias was observed across studies, as study authors had not attempted to blind the anaesthetist to group allocation. Similarly, study authors had rarely provided sufficient information on whether outcome assessors had been blinded. 
+Included studies presented outcome data for hypotension, apnoea, participant recall, success of cardioversion, minor adverse events of nausea and vomiting, pain at injection site and myoclonus, additional analgesia and participant satisfaction. We did not pool the data from different studies in view of the multiple drug comparisons, differences in definitions and reporting of outcomes, variability of endpoints and high or unclear risk of bias across studies. 
+Authors' conclusions
+Few studies reported statistically significant results for our relevant outcomes, and most study authors concluded that both, or all, agents compared in individual studies were adequate for cardioversion procedures. It is our opinion that at present, there is no evidence to suggest that current anaesthetic practice for cardioversion should change. 

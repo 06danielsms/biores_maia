@@ -1,0 +1,22 @@
+Corticosteroids for treating sepsis
+Review question 
+We reviewed the evidence on the effect on death of using corticosteroids in children and adults with sepsis. 
+Background 
+Sepsis is present when an infection is complicated by organ failure. People develop rapid breathing, hypotension (low blood pressure), and mental confusion. Sepsis can interfere with the effectiveness of the body’s corticosteroids, which serve as a key defence against infection. Corticosteroids have been given for decades to people with infection resulting from various causes. 
+Search date 
+The evidence provided in this review is current to July 2019.
+Study characteristics 
+This review included 61 trials (12,192 participants). Fifty‐eight trials compared corticosteroids to no corticosteroids (placebo or usual care in 48 and nine trials, respectively); three trials also compared continuous versus bolus administration of corticosteroids. 
+Study funding sources 
+Three trials were funded by a drug company, 27 by public organizations or through charitable funding, and six by both a drug company and public organizations or charitable funding; 25 did not declare the source of funding. 
+Key results 
+We have analysed the following two comparisons.
+• Corticosteroids versus placebo/usual care.
+Corticosteroids probably reduce the risk of death at 28 days by 9% (50 trials; 11,233 participants), with consistent treatment effects between children and adults. They also probably slightly reduce the risk of dying in hospital. There may be little or no effect of corticosteroids on risk of dying over the long term (longer than three months), but these results are less certain. Corticosteroids result in a large reduction in length of stay in the intensive care unit (ICU) and in hospital. Corticosteroids increase the risk of muscle weakness and hypernatraemia. They probably increase the risk of hyperglycaemia. They probably do not increase the risk of superinfection. There may be little or no effect of corticosteroids on risk of gastroduodenal bleeding, neuropsychiatric events, stroke, or cardiac events. 
+• Continuous infusion versus intermittent boluses of corticosteroids.
+We are uncertain about the effects of continuous infusion of corticosteroids compared with intermittent bolus administration. Three studies reported data for this comparison, and the certainty of evidence for all outcomes was very low. 
+Certainty of evidence 
+• Corticosteroids versus placebo/usual care
+We judged the certainty of evidence for 28‐day mortality as moderate due to some inconsistency related to differences among study populations, types of corticosteroids and how they were given, and use of additional interventions. 
+• Continuous infusion versus intermittent boluses of corticosteroids
+We judged the certainty of evidence for 28‐day mortality as very low due to inconsistency and imprecision. 

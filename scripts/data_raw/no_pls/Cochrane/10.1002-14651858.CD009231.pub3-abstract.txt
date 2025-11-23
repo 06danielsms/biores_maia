@@ -1,0 +1,14 @@
+Background
+The policy several countries is to provide people with a terminal illness the choice of dying at home; this is supported by surveys that indicate that the general public and people with a terminal illness would prefer to receive end‐of‐life care at home. This is the fifth update of the original review. 
+Objectives
+To determine if providing home‐based end‐of‐life care reduces the likelihood of dying in hospital and what effect this has on patients' symptoms, quality of life, health service costs and caregivers compared with inpatient hospital or hospice care. 
+Search methods
+We searched CENTRAL, Ovid MEDLINE(R), Embase, CINAHL, and clinical trials registries to 18 March 2020. We checked the reference lists of systematic reviews. For included studies, we checked the reference lists and performed a forward search using ISI Web of Science. We handsearched palliative care journals indexed by ISI Web of Science for online first references. 
+Selection criteria
+Randomised controlled trials evaluating the effectiveness of home‐based end‐of‐life care with inpatient hospital or hospice care for people aged 18 years and older. 
+Data collection and analysis
+Two review authors independently extracted data and assessed study quality. When appropriate, we combined published data for dichotomous outcomes using a fixed‐effect Mantel‐Haenszel meta‐analysis to calculate risk ratios (RR) with 95% confidence intervals (CI). When combining outcome data was not possible, we reported the results from individual studies. 
+Main results
+We included four randomised trials and found no new studies from the search in March 2020. Home‐based end‐of‐life care increased the likelihood of dying at home compared with usual care (RR 1.31, 95% CI 1.12 to 1.52; 2 trials, 539 participants; I2 = 25%; high‐certainty evidence). Admission to hospital varied among the trials (range of RR 0.62, 95% CI 0.48 to 0.79, to RR 2.61, 95% CI 1.50 to 4.55). The effect on patient outcomes and control of symptoms was uncertain. Home‐based end‐of‐life care may slightly improve patient satisfaction at one‐month follow‐up, with little or no difference at six‐month follow‐up (2 trials; low‐certainty evidence). The effect on caregivers (2 trials; very low‐certainty evidence), staff (1 trial; very low‐certainty evidence) and health service costs was uncertain (2 trials, very low‐certainty evidence). 
+Authors' conclusions
+The evidence included in this review supports the use of home‐based end‐of‐life care programmes for increasing the number of people who will die at home. Research that assesses the impact of home‐based end‐of‐life care on caregivers and admissions to hospital would be a useful addition to the evidence base, and might inform the delivery of these services. 

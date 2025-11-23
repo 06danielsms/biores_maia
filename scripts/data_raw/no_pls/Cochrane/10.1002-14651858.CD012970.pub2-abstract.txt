@@ -1,0 +1,31 @@
+Background
+Gestational diabetes mellitus (GDM) is carbohydrate intolerance first recognised during pregnancy and associated with complications for mothers and babies. Probiotics are naturally occurring micro‐organisms, which when ingested in adequate amounts, may confer health benefits. Evidence of the role of probiotics as treatment for GDM is limited. 
+Objectives
+To evaluate the safety and effectiveness of probiotics in treating women with GDM on maternal and infant outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth’s Trials Register ClinicalTrials.gov, WHO International Clinical Trials Registry Platform (ICTRP) (24 July 2019), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing the use of probiotics versus placebo/standard care for the treatment of GDM. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data, checked data accuracy, and assessed risk of bias of included trials. The certainty of evidence for selected maternal and infant/child outcomes was assessed using GRADE. 
+Main results
+Nine RCTs (695 pregnant women with GDM) comparing probiotics versus placebo were identified. The overall risk of bias in the nine RCTs was low to unclear and the evidence was downgraded for imprecision due to the small numbers of women participating in the trials. The trials were carried out in hospitals and universities in Iran (seven trials), Thailand (one trial) and Ireland (one trial). All trials compared probiotics with placebo. 
+Maternal outcomes 
+We are uncertain if probiotics have any effect compared with placebo on hypertensive disorders of pregnancy, (risk ratio (RR) 1.50, 95% confidence interval (CI) 0.64 to 3.53; participants = 256; studies = 3; low‐certainty evidence) and mode of birth as caesareans (average RR 0.64, 95% CI 0.30 to 1.35; participants = 267; studies = 3; low‐certainty evidence) because the certainty of evidence is low and the 95% CIs span possible benefit and possible harm. 
+No trials reported primary outcomes of: mode of birth as vaginal/assisted and subsequent development of type 2 diabetes. 
+We are uncertain if probiotics have any effect compared with placebo on induction of labour (RR 1.33, 95% CI 0.74 to 2.37; participants = 127; studies = 1; very low‐certainty evidence). 
+For other secondary maternal outcomes, we are uncertain if there are differences between probiotics and placebo for: postpartum haemorrhage; weight gain during pregnancy intervention and total gestational weight gain; fasting plasma glucose and need for extra pharmacotherapy (insulin). Probiotics may be associated with a slight reduction in triglycerides and total cholesterol. 
+In probiotics compared with placebo, there was evidence of reduction in markers for insulin resistance (HOMA‐IR) and HOMA‐B; and insulin secretion. There was also an increase in quantitative insulin sensitivity check index (QUICKI). 
+Probiotics were associated with minor benefits in relevant bio‐markers with evidence of a reduction in inflammatory markers high‐sensitivity C‐reactive protein (hs‐CRP), interleukin 6 (IL‐6), and marker of oxidative stress malondialdehyde; and an increase in antioxidant total glutathione, but we are uncertain if there is any difference in total antioxidant capacity. 
+No trials reported secondary outcomes: perineal trauma, postnatal weight retention or return to pre‐pregnancy weight and postnatal depression. 
+Infant/child/adult outcomes 
+We are uncertain if probiotics have any effect, compared with placebo, on the risk of large‐for‐gestational‐age babies (RR 0.73, 95% CI 0.35 to 1.52; participants = 174; studies = 2; low‐certainty evidence) or infant hypoglycaemia (RR 0.85, 95% CI 0.39 to 1.84; participants = 177; studies = 3; low‐certainty evidence) because the certainty of evidence is low and the 95% CIs span possible benefit and possible harm. 
+No trials reported primary outcomes of: perinatal (fetal/neonatal) mortality; or neurosensory disability. 
+For other secondary outcomes, we are uncertain if there is any difference between probiotics and placebo in gestational age at birth, preterm birth, macrosomia, birthweight, head circumference, length, infant hypoglycaemia, and neonatal intensive care unit (NICU) admissions. 
+There was evidence of a reduction in infant hyperbilirubinaemia with probiotics compared with placebo. 
+No trials reported secondary outcomes: infant adiposity, and later childhood adiposity.
+There were no adverse events reported by any of the trials.
+Authors' conclusions
+Low‐certainty evidence means we are not certain if there is any difference between probiotic and placebo groups in maternal hypertensive disorders of pregnancy, caesareans; and large‐for‐gestational‐age babies. 
+There were no adverse events reported by the trials.
+Due to the variability of probiotics used and small sample sizes of trials, evidence from this review has limited ability to inform practice. Well‐designed adequately‐powered trials are needed to identify whether probiotics may improve maternal blood glucose levels and/or infant/child/adult outcomes; and whether they can be used to treat GDM. 

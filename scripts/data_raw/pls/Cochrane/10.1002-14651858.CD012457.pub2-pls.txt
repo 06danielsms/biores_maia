@@ -1,0 +1,16 @@
+Antibiotics for preventing infection following surgery to treat stress urinary incontinence in women 
+Review question 
+Are antibiotics safe and effective for preventing infection in women with stress urinary incontinence who are undergoing continence surgery? 
+Background 
+Stress urinary incontinence (SUI) is defined as uncontrolled leakage of urine when the pressure inside the abdomen increases suddenly, such as during coughing, sneezing or laughing. Continence surgery is one treatment for SUI. There are two types of procedures: open surgery, such as colposuspension (an incision in the abdomen to place stitches in the vagina on either side of the urethra, the tube by which urine is drained from your bladder), or less invasive procedures, such as laparoscopic colposuspension (using small incisions to insert the stitches), a sling procedure (using tape or mesh to form a sling around the urethra to lift it back into a normal position and attach to the abdominal wall), or an injection of bulking agent (e.g. collagen) into the bladder neck. Infections of the surgery site or urinary tract are common complications following all continence surgeries. Preventive antibiotics have the potential to prevent postoperative wound infection, but the supporting evidence is still limited. 
+How up to date is this review? 
+We searched for randomised controlled trials (RCTs; everyone has the same chance of receiving the treatment being tested), and quasi‐RCTs (a treatment is being tested but not everyone has the same chance of receiving it) up to 18 March 2021. 
+Study characteristics 
+We included three studies (in seven reports) involving a total of 390 women who underwent one of two different continence surgeries and were given one of three different doses of antibiotics (cefazolin) or placebo or no treatment. The sample sizes in the trials ranged from 26 to 305 women. None of the included studies clearly indicated the timing of the outcome assessment. The average age of the women ranged from 45 to 54 years. 
+Study funding sources 
+Two studies received no funding; the third study did not provide funding information.
+Key results 
+Preventive antibiotics may have little to no effect on surgical site infections, urinary tract infections or bacteriuria (presence of bacteria in the urine), fever after surgery or the appearance of the artificial tape or mesh used in the surgery through the skin beneath the urethra, but we are very uncertain about the results.  
+None of the included studies reported data on adverse effects, sepsis or bacteraemia related to taking antibiotics, or bacterial antibiotic resistance. 
+Certainty of the evidence 
+We are uncertain about our findings as they are based on only three small studies. Each study assessed the effectiveness of preventive antibiotics in different surgical procedures, antibiotic dosages and outcomes. In addition, each included study had a small sample size and some were conducted in ways that might incorporate flaws into their results. Our findings may alter when results from better quality and large RCTs become available. 

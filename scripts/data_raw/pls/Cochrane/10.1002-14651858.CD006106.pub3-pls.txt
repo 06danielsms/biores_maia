@@ -1,0 +1,18 @@
+Drug treatments for pain relief in hysterosalpingography
+Review question: 
+Which pain‐killers are effective at reducing the discomfort experienced with hysterosalpingography?
+Background: 
+Hysterosalpingography (HSG) is a test used in investigating infertility in women. HSG involves a dye being introduced into the uterus and the connecting tubes, which enables them to be visualised using an x‐ray, allowing the clinician to assess how open the connecting tubes are. This can be a painful procedure. There is disagreement regarding the best form of pain relief during the procedure. 
+Study characteristics: 
+We identified 19 randomised controlled trials that compared a specific drug treatment to a placebo/no treatment. Four trials compared two different drug treatments to establish if one was better. All studies took place in a clinical setting. Age of participants ranged from 18 to 42 years. Studies took place in India, Australia, United Kingdom, United States of America, Turkey, Israel, Netherlands, Italy, Iran, Nigeria, Spain, Brazil, and Belgium (1272 women in total). 
+We included 15 of these trials in a meta‐analysis. The remaining eight trials, while eligible for inclusion, did not have data in a format that could be entered into meta‐analysis (seven compared a specific drug to a placebo/no treatment, one compared two different drug treatments). The evidence is current to April 2015. 
+Key results: 
+Topical anaesthetic was associated with a mild reduction in the pain experienced during HSG (low quality evidence). However, it has no effect on the discomfort experienced by participants following the procedure (very low quality evidence). 
+Locally injected anaesthetics, on the other hand, were not associated with any benefit. Only one study investigated this (moderate quality evidence). 
+One study directly compared locally injected anaesthetics to topical anaesthetics. This study found that topical anaesthesia was associated with improved pain relief during the procedure (moderate quality evidence) 
+No oral drug was found to be effective in reducing pain experienced during the procedure. This was true for both opioid (low quality evidence) and non‐opioid (low quality evidence) analgesia. One trial however reported that tramadol may be of benefit in reducing the pain experienced more than 30 minutes after the procedure (moderate quality evidence). 
+Quality of the evidence: 
+The quality of the combined results was mainly downgraded for two reasons: 1) studies having methods that may be at risk of bias/inaccuracy; 2) substantially different conclusions between studies that investigate the same drug. 
+The included studies did not report side effects in large enough numbers to make definitive conclusions regarding the side effects of particular drugs during the procedure. 
+Conclusions: 
+Only topical anaesthetics and intravenous opioids were found to be of benefit in reducing pain during the procedure, though the quality of this evidence is low to moderate, and there is no evidence that these are effective at relieving pain following the procedure. There is insufficient evidence for other drug treatments in reducing pain during HSG. There was insufficient evidence to reach any conclusions regarding adverse effects. 

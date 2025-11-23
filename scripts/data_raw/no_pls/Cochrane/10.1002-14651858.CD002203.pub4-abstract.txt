@@ -1,0 +1,16 @@
+Background
+Macrolide antibiotics may have a modifying role in diseases which involve airway infection and inflammation, like cystic fibrosis. 
+Objectives
+To test the hypotheses that, in people with cystic fibrosis, macrolide antibiotics:  1. improve clinical status compared to placebo or another antibiotic;  2. do not have unacceptable adverse effects.  If benefit was demonstrated, we aimed to assess the optimal type, dose and duration of macrolide therapy. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches, handsearching relevant journals and abstract books of conference proceedings. 
+We contacted investigators known to work in the field, previous authors and pharmaceutical companies manufacturing macrolide antibiotics for unpublished or follow‐up data (May 2010). 
+Latest search of the Group's Cystic Fibrosis Trials Register: 29 February 2012.
+Selection criteria
+Randomised controlled trials of macrolide antibiotics compared to: placebo; another class of antibiotic; another macrolide antibiotic; or the same macrolide antibiotic at a different dose. 
+Data collection and analysis
+Two authors independently extracted data and assessed risk of bias. Seven groups were contacted and provided additional data which were incorporated into the review. 
+Main results
+Ten of 31 studies identified were included (959 patients). Five studies with a low risk of bias examined azithromycin versus placebo and demonstrated consistent improvement in forced expiratory volume in one second over six months (mean difference at six months 3.97% (95% confidence interval 1.74% to 6.19%; n = 549, from four studies)). Patients treated with azithromycin were approximately twice as likely to be free of pulmonary exacerbation at six months, odds ratio 1.96 (95% confidence interval 1.15 to 3.33). With respect to secondary outcomes, there was a significant reduction in need for oral antibiotics and greater weight gain in those taking azithromycin. Adverse events were uncommon and not obviously associated with azithromycin, although a once‐weekly high dose regimen was associated with more frequent gastrointestinal adverse events. Treatment with azithromycin was associated with reduced identification of Staphylococcus aureus on respiratory culture, but also a significant increase in macrolide resistance. 
+Authors' conclusions
+This review provides evidence of improved respiratory function after six months of azithromycin. Data beyond six months were less clear, although reduction in pulmonary exacerbation was sustained. Treatment appeared safe over a six‐month period; however, emergence of macrolide resistance was a concern. A multi‐centre trial examining long‐term effects of this antibiotic treatment is needed, especially for infants recognised through newborn screening. 

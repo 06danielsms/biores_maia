@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is a common surgical procedure. In the open cholecystectomy area, antibiotic prophylaxis showed beneficial effects, but it is not known if its benefits and harms are similar in laparoscopic cholecystectomy. Some clinical trials suggest that antibiotic prophylaxis may not be necessary in laparoscopic cholecystectomy. 
+Objectives
+To assess the beneficial and harmful effects of antibiotic prophylaxis versus placebo or no prophylaxis for patients undergoing elective laparoscopic cholecystectomy. 
+Search methods
+We searched the The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 3, 2010), MEDLINE (1985 to August 2010), EMBASE (1985 to August 2010), SCI‐EXPANDED (1985 to August 2010), LILACS (1988 to August 2010) as well as reference lists of relevant articles. 
+Selection criteria
+Randomised clinical trials comparing antibiotic prophylaxis versus placebo or no prophylaxis in patients undergoing elective laparoscopic cholecystectomy. 
+Data collection and analysis
+Our outcome measures were all‐cause mortality, surgical site infections, extra‐abdominal infections, adverse events, and quality of life. All outcome measures were confined to within hospitalisation or 30 days after discharge. We summarised the outcome measures by reporting odds ratios and 95% confidence intervals (CI), using both the fixed‐effect and the random‐effects models. 
+Main results
+We included eleven randomised clinical trials with 1664 participants who were mostly at low anaesthetic risk, low frequency of co‐morbidities, low risk of conversion to open surgery, and low risk of infectious complications. None of the trials had low risk of bias. We found no statistically significant differences between antibiotic prophylaxis and no prophylaxis in the proportion of surgical site infections (odds ratio (OR) 0.87, 95% CI 0.49 to 1.54) or extra‐abdominal infections (OR 0.77, 95% CI 0.41 to 1.46). Heterogeneity was not statistically significant. 
+Authors' conclusions
+This systematic review shows that there is not sufficient evidence to support or refute the use of antibiotic prophylaxis to reduce surgical site infection and global infections in patients with low risk of anaesthetic complications, co‐morbidities, conversion to open surgery, and infectious complications, and undergoing elective laparoscopic cholecystectomy. Larger randomised clinical trials with intention‐to‐treat analysis and patients also at high risk of conversion to open surgery are needed. 

@@ -1,0 +1,14 @@
+Background
+After lung cancer, prostate cancer is the most common cause of death among males. The aim of treatment is to prevent disease‐related morbidity and mortality while minimizing intervention‐related adverse events. Androgen suppression therapy (AST) to reduce circulating serum testosterone and disease progression is considered a mainstay of treatment for men with advanced prostate cancer. It has been increasingly utilized for early stage disease despite a lack of evidence of effectiveness. 
+Objectives
+Evaluate the effectiveness and safety of intermittent androgen suppression (IAS) compared to continuous androgen suppression for treating prostatic cancer. 
+Search methods
+The following databases were searched to identify randomised or quasi‐randomised, controlled trials comparing intermittent and continuous androgen suppression in the treatment of any stage of prostate cancer: the Cochrane Central Register of Controlled Trials; EMBASE and LILACS. 
+Selection criteria
+Studies were included if they were randomised or quasi‐randomized, and compare the effects of IAS versus CAS. 
+Data collection and analysis
+Two reviewers selected relevant trials, assessed methodological quality and extracted data. 
+Main results
+Five randomized studies involving 1382 patients were included in this review. All the included studies involved advanced (T3 or T4) prostate cancer, had relatively small populations, and were of short duration. Few events were reported and did not assess disease‐specific survival or metastatic disease. Only one study (N = 77) evaluated biochemical outcomes. A subgroup analysis found no significant differences in biochemical progression (defined by the authors as PSA ≥ 10 ng/mL) between IAS and CAS for Gleason scores 4 ‐ 6, 7, and 8 ‐ 10. For patients with a Gleason score > 6, reduction in biochemical progression favoured the IAS group (RR 0.10, 95% CI 0.01 to 0.67, P = 0.02). Studies primarily reported on adverse events. One trial (N = 43) found no difference in adverse effects (gastrointestinal, gynecomastia and asthenia) between IAS ( two events) and CAS (five events), with the exception of impotence, which was significantly lower in the IAS group (RR 0.72, 95% CI 0.56 to 0.92, P = 0.008). 
+Authors' conclusions
+Data from RCTs comparing IAS to CAS are limited by small sample size and short duration. There are no data for the relative effectiveness of IAS versus CAS for overall survival, prostate cancer‐specific survival, or disease progression. Limited information suggests IAS may have slightly reduced adverse events. Overall, IAS was also as effective as CAS for potency, but was superior during the interval of cycles (96%). 

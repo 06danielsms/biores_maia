@@ -1,0 +1,14 @@
+Background
+Human papillomavirus‐associated oropharyngeal squamous cell carcinomas are a distinct subgroup of tumours that may have a better prognosis than traditional tobacco/alcohol‐related disease. Iatrogenic complications, associated with conventional practice, are estimated to cause mortality of approximately 2% and high morbidity. As a result, clinicians are actively investigating the de‐escalation of treatment protocols for disease with a proven viral aetiology. 
+Objectives
+To summarise the available evidence regarding de‐escalation treatment protocols for human papillomavirus‐associated, locally advanced oropharyngeal squamous cell carcinoma. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials; PubMed; EMBASE; CINAHL; Web of Science; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 25 June 2013. 
+Selection criteria
+Randomised controlled trials investigating de‐escalation treatment protocols for human papillomavirus‐associated, locally advanced oropharyngeal carcinoma. Specific de‐escalation categories were: 1) bioradiotherapy (experimental) versus chemoradiotherapy (control); 2) radiotherapy (experimental) versus chemoradiotherapy (control); and 3) low‐dose (experimental) versus standard‐dose radiotherapy (control). The outcomes of interest were overall and disease‐specific survival, treatment‐related morbidity, quality of life and cost. 
+Data collection and analysis
+Three authors independently selected studies from the search results and extracted data. We planned to use the Cochrane 'Risk of bias' tool to assess study quality. 
+Main results
+We did not identify any completed randomised controlled trials that could be included in the current version of this systematic review. We did, however, identify seven ongoing trials that will meet our inclusion criteria. These studies will report from 2014 onwards. We excluded 30 studies on methodological grounds (seven randomised trials with post hoc analysis by human papillomavirus status, 11 prospective trials and 12 ongoing studies). 
+Authors' conclusions
+There is currently insufficient high‐quality evidence for, or against, de‐escalation of treatment for human papillomavirus‐associated oropharyngeal carcinoma. Future trials should be multicentre to ensure adequate power. Adverse events, morbidity associated with treatment, quality of life outcomes and cost analyses should be reported in a standard format to facilitate comparison with other studies. 

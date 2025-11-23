@@ -1,0 +1,17 @@
+Background
+Prostaglandins have been used for cervical ripening and induction of labour since the 1970s. The goal of the administration of prostaglandins in the process of induction of labour is to achieve cervical ripening before the onset of contractions. One of the routes of administration that was proposed is intracervical. Using this route, prostaglandins are less easy to administer and the need for exposing the cervix may cause discomfort to the woman. 
+Objectives
+To determine the effects of intracervical prostaglandins for third trimester cervical ripening or induction of labour compared with placebo/no treatment and with vaginal prostaglandins (except misoprostol). 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (August 2007) and bibliographies of relevant papers. 
+Selection criteria
+Clinical trials comparing intracervical prostaglandins used for third trimester cervical ripening or labour induction with placebo/no treatment or other methods listed above it on a predefined list of labour induction methods (vaginal prostaglandins, except misoprostol). 
+Data collection and analysis
+A strategy was developed to deal with the large volume and complexity of trial data relating to labour induction. This involved a two‐stage method of data extraction. 
+Main results
+Fifty‐six trials (7738 women) are included.
+Intracervical PGE2 with placebo/no treatment: 28 trials, 3764 women   Four studies reported the number of women who did not achieve vaginal delivery within 24 hours, showing a decreased risk with PGE2 (relative risk (RR) 0.61; 95% confidence interval (CI) 0.47 to 0.79). There was a small, and statistically non‐significant, reduction of the risk of caesarean section when PGE2 was used (RR 0.88; 95% CI 0.77 to 1.00). The finding was statistically significant in a subgroup of women with intact membranes and unfavourable cervix only (RR 0.82; 95% CI 0.68 to 0.98). The risk of hyperstimulation with fetal heart rate (FHR) changes was not significantly increased (RR 1.21; 95% CI 0.72 to 2.05). However, the risk of hyperstimulation without FHR changes was significantly increased (RR 1.59; 95% CI 1.09 to 2.33. 
+Intracervical PGE2 with intravaginal PGE2: 29 trials, 3881 women   The risk of not achieving vaginal delivery within 24 hours was increased with intracervical PGE2 (RR 1.26; 95% CI 1.12 to 1.41). There was no change in the risk of caesarean section (RR 1.07; 95% CI 0.93 to 1.22). The risks of hyperstimulation with FHR changes (RR 0.76; 95% CI 0.39 to 1.49) and without FHR changes (RR 0.80; 95% CI 0.56 to 1.15) were non‐significantly different with the two methods of PGE2 administration. Only one trial with small sample size reported on women's views, with no difference between groups. 
+Intracervical PGE2 low dose with intracervical PGE2 high dose: two trials, 102 women   The trials are too small to provide any useful information. 
+Authors' conclusions
+Intracervical prostaglandins are effective compared to placebo, but appear inferior when compared to intravaginal prostaglandins. 

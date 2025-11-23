@@ -1,0 +1,17 @@
+Background
+Very high blood pressure during pregnancy poses a serious threat to women and their babies. The aim of antihypertensive therapy is to lower blood pressure quickly but safety, to avoid complications. Antihypertensive drugs lower blood pressure but their comparative effectiveness and safety, and impact on other substantive outcomes is uncertain. 
+Objectives
+To compare different antihypertensive drugs for very high blood pressure during pregnancy.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group Trials Register (9 January 2013). 
+Selection criteria
+Studies were randomised trials. Participants were women with severe hypertension during pregnancy. Interventions were comparisons of one antihypertensive drug with another. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and assessed trial quality. Two review authors extracted data and checked them for accuracy. 
+Main results
+Thirty‐five trials (3573 women) with 15 comparisons were included. Women allocated calcium channel blockers were less likely to have persistent high blood pressure compared to those allocated hydralazine (six trials, 313 women; 8% versus 22%; risk ratio (RR) 0.37, 95% confidence interval (CI) 0.21 to 0.66). Ketanserin was associated with more persistent high blood pressure than hydralazine (three trials, 180 women; 27% versus 6%; RR 4.79, 95% CI 1.95 to 11.73), but fewer side‐effects (three trials, 120 women; RR 0.32, 95% CI 0.19 to 0.53) and a lower risk of HELLP (haemolysis, elevated liver enzymes and lowered platelets) syndrome (one trial, 44 women; RR 0.20, 95% CI 0.05 to 0.81). 
+Labetalol was associated with a lower risk of hypotension compared to diazoxide (one trial 90 women; RR 0.06, 95% CI 0.00 to 0.99) and a lower risk of caesarean section (RR 0.43, 95% CI 0.18 to 1.02), although both were borderline for statistical significance. 
+Both nimodipine and magnesium sulphate were associated with a high incidence of persistent high blood pressure, but this risk was lower for nimodipine compared to magnesium sulphate (one trial, 1650 women; 47% versus 65%; RR 0.84, 95% CI 0.76 to 0.93). Nimodipine was associated with a lower risk of respiratory difficulties (RR 0.28, 95% CI 0.08 to 0.99), fewer side‐effects (RR 0.68, 95% CI 0.55 to 0.85) and less postpartum haemorrhage (RR 0.41, 95% CI 0.18 to 0.92) than magnesium sulphate. Stillbirths and neonatal deaths were not reported. 
+There are insufficient data for reliable conclusions about the comparative effects of any other drugs. 
+Authors' conclusions
+Until better evidence is available the choice of antihypertensive should depend on the clinician's experience and familiarity with a particular drug; on what is known about adverse effects; and on women's preferences. Exceptions are nimodipine, magnesium sulphate (although this is indicated for women who require an anticonvulsant for prevention or treatment of eclampsia), diazoxide and ketanserin, which are probably best avoided. 

@@ -1,0 +1,15 @@
+Background
+Upper tract transitional cell carcinomas (TCC) are uncommon and aggressive tumours. There are a number of surgical approaches to manage this condition including open radical nephroureterectomy and laparoscopic procedures. 
+Objectives
+To determine the best surgical management option for upper tract transitional cell carcinoma. 
+Search methods
+A sensitive search strategy was developed to identify relevant studies for inclusion in this review. The following databases were searched for randomised trials evaluating surgical approaches to the management of upper tract TCC: Medline EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), CINAHL, British Nursing Index, AMED, LILACS, Web of Science®, Scopus, Biosis, TRIP, Biomed Central, Dissertation Abstracts, and ISI Proceedings. 
+Selection criteria
+The following criteria that were considered for this review.
+Types of studies ‐ All randomised or quasi‐randomised controlled trials comparing the various surgical methods and approaches for the management of localised upper tract transitional cell carcinoma.   Types of participants ‐ All adult patients with localised transitional cell carcinoma. Localised disease was defined as limited to the kidney or ureter with no gross regional lymph nodal enlargement on imaging.   Types of interventions ‐ Any surgical method or approach for managing localised upper tract transitional cell carcinoma.   Types of outcome measures ‐ Overall and cancer‐specific survival were primary outcomes. Surgery‐related morbidity. Quality of life and health economics outcomes were secondary outcomes. 
+Data collection and analysis
+Two review authors examined the search results independently to identify trials for inclusion. 
+Main results
+We identified one randomised controlled trial that met our inclusion criteria. The trial showed that the laparoscopic approach had superior peri‐operative outcomes compared to open approach. Laparoscopic was superior and statistically significant for blood loss (104 mL (millilitres) versus 430 mL, P < 0.001) and mean time to discharge (2.3 days versus 3.7, P < 0.001). Oncological outcomes (bladder tumour‐free survival, metastasis‐free survival, cancer‐specific survival curves), at a median follow up of 44 months and in organ‐confined disease, were comparable for both groups. 
+Authors' conclusions
+There is no high quality evidence available from adequately controlled trials to determine the best surgical management of upper tract transitional cell carcinoma. However, one small randomised trial and observational data suggests that laparoscopic approach is associated with less blood loss and early recovery from surgery with similar cancer outcomes when compared to open approach. 

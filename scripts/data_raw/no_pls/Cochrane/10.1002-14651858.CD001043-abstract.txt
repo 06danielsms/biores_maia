@@ -1,0 +1,14 @@
+Background
+Benign prostatic hyperplasia (BPH), nonmalignant enlargement of the prostate, can lead to obstructive and irritative lower urinary tract symptoms (LUTS). The pharmacologic use of plants and herbs (phytotherapy) for the treatment of LUTS associated with BPH has been growing steadily. Phytotherapeutic preparations containing beta‐sitosterols, derived from the South African star grass, Hypoxis rooperi, or from species of Pinus and Picea, are available for the treatment of BPH. 
+Objectives
+This systematic review aimed to assess the effects of beta‐sitosterols (B‐sitosterol) on urinary symptoms and flow measures in men with of benign prostatic hyperplasia (BPH). 
+Search methods
+Trials were searched in computerized general and specialized databases (MEDLINE, EMBASE, Cochrane Library, Phytodok), by checking bibliographies, and by contacting manufacturers and researchers. 
+Selection criteria
+Trials were eligible for inclusion provided they (1) randomized men with BPH to receive B‐sitosterol preparations in comparison to placebo or other BPH medications, and (2) included clinical outcomes such as urologic symptom scales, symptoms, or urodynamic measurements. 
+Data collection and analysis
+Information on patients, interventions, and outcomes was extracted by at least two independent reviewers using a standard form. Main outcome measure for comparing the effectiveness of B‐sitosterols with placebo and standard BPH medications was the change in urologic symptom scale scores. Secondary outcomes included changes in nocturia as well as urodynamic measures (peak and mean urine flow, residual volume, prostate size). Main outcome measure for side effects was the number of men reporting side effects. 
+Main results
+Five hundred nineteen men from four randomized, placebo‐controlled, double‐blind trials, (lasting 4 to 26 weeks) were assessed. Three trials used non‐glucosidic B‐sitosterols and one utilized a preparation that contained 100% B‐sitosteryl‐B‐D‐glucoside. B‐Sitosterols improved urinary symptom scores and flow measures. The weighted mean difference (WMD) for the IPSS was ‐4.9 IPSS points (95% CI = ‐6.3 to ‐3.5, n = 2 studies). The WMD for peak urine flow was 3.91 mL/s (95% CI = 0.91 to 6.90, n = 4 studies) and the WMD for residual volume was ‐28.62 mL (95% CI = ‐41.42 to ‐15.83, n = 4 studies). The trial using 100% B‐sitosteryl‐B‐D‐glucoside (WA184) show improvement in urinary flow measures. B‐sitosterols did not significantly reduce prostate size compared to placebo. Withdrawal rates for men assigned to B‐sitosterol and placebo were 7.8% and 8.0%, respectively. 
+Authors' conclusions
+The evidence suggests non‐glucosidic B‐sitosterols improve urinary symptoms and flow measures. Their long term effectiveness, safety and ability to prevent BPH complications are not known. 

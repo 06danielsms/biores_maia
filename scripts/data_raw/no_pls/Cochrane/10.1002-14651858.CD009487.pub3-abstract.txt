@@ -1,0 +1,21 @@
+Background
+A parastomal hernia is defined as an incisional hernia related to a stoma, and belongs to the most common stoma‐related complications. Many factors, which are considered to influence the incidence of parastomal herniation, have been investigated. However, it remains unclear whether the enterostomy should be placed through, or lateral to the rectus abdominis muscle, in order to prevent parastomal herniation and other important stoma complications. 
+Objectives
+To assess if there is a difference regarding the incidence of parastomal herniation and other stoma complications, such as ileus and stenosis, in lateral pararectal versus transrectal stoma placement in people undergoing elective or emergency abdominal wall enterostomy. 
+Search methods
+For this update, we searched for all types of published and unpublished randomized and non‐randomized studies in four medical databases: CENTRAL, PubMed, LILACS, Science Ciation Index, and two trials registers: ICTRP Search Portal and ClinicalTrials.gov to 9 November 2018. We applied no language restrictions. 
+Selection criteria
+Randomized and non‐randomized studies comparing lateral pararectal versus transrectal stoma placement with regard to parastomal herniation and other stoma‐related complications. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. We conducted data analyses according to the recommendations of Cochrane and the Cochrane Colorectal Cancer Group (CCCG). We rated quality of evidence according to the GRADE approach. 
+Main results
+Randomized controlled trials (RCT) 
+Only one RCT met the inclusion criteria. The participants underwent enterostomy placement in the frame of an operation for: rectal cancer (37/60), ulcerative colitis (14/60), familial adenomatous polyposis (7/60), and other (2/60). 
+The results between the lateral pararectal and the transrectal approach groups were inconclusive for the incidence of parastomal herniation (risk ratio (RR) 1.34, 95% confidence interval (CI) 0.40 to 4.48; low‐quality evidence); development of ileus or stenosis (RR 2.0, 95% CI 0.19 to 20.9; low‐quality evidence); or skin irritation (RR 0.67, 95% CI 0.21 to 2.13; moderate‐quality evidence). The results were also inconclusive for the subgroup analysis in which we compared the effect of ileostomy versus colostomy on parastomal herniation. The study did not measured other stoma‐related morbidities, or stoma‐related mortality, but did measure quality of life, which was not one of our outcomes of interest. 
+Non‐randomized studies (NRS) 
+Ten retrospective cohort studies, with a total of 864 participants, met the inclusion criteria. The indications for enterostomy placement and the baseline characteristics of the participants (age, co‐morbidities, disease‐severity) varied between studies. All included studies reported results for the primary outcome (parastomal herniation) and one study also reported data on one of the secondary outcomes (stomal prolapse). 
+The effects of different surgical approaches on parastomal herniation (RR 1.22, 95% CI 0.84 to 1.75; 10 studies, 864 participants; very low‐quality evidence) and the occurrence of stomal prolapse (RR 1.23, 95% CI 0.39 to 3.85; 1 study, 145 participants; very low‐quality evidence) are uncertain. 
+None of the included studies measured other stoma‐related morbidity or stoma‐related mortality. 
+Authors' conclusions
+The present systematic review of randomized and non‐randomized studies found inconsistent results between the two compared interventions regarding their potential to prevent parastomal herniation. 
+In conclusion, there is still a lack of high‐quality evidence to support the ideal surgical technique of stoma formation. The available moderate‐, low‐, and very low‐quality evidence, does not support or refute the superiority of one of the studied stoma formation techniques over the other. 

@@ -1,0 +1,15 @@
+Background
+Diabetes and vascular disease are the leading causes of lower limb amputation. Currently, 463 million adults are living with diabetes, and 202 million with peripheral vascular disease, worldwide. When a lower limb amputation is considered, preservation of the knee in a below‐knee amputation allows for superior functional recovery when compared with amputation at a higher level. When a below‐knee amputation is not feasible, the most common alternative performed is an above‐knee amputation. Another possible option, which is less commonly performed, is a through‐knee amputation which may offer some potential functional benefits over an above‐knee amputation. 
+Objectives
+To assess the effects of through‐knee amputation compared to above‐knee amputation on clinical and rehabilitation outcomes and complication rates for all patients undergoing vascular and non‐vascular major lower limb amputation. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase, and CINAHL databases; the World Health Organization International Clinical Trials Registry Platform; and the ClinicalTrials.gov trials register to 17 February 2021. 
+We undertook reference checking, citation searching, and contact with study authors to identify additional studies. 
+Selection criteria
+Published and unpublished randomised controlled trials (RCTs) comparing through‐knee amputation and above‐knee amputation were eligible for inclusion in this study. Primary outcomes were uncomplicated primary wound healing and prosthetic limb fitting. Secondary outcomes included time taken to achieve independent mobility with a prosthesis, health‐related quality of life, walking speed, pain, and 30‐day survival. 
+Data collection and analysis
+Two review authors independently reviewed all records identified by the search. Data collection and extraction were planned in line with recommendations outlined in the Cochrane Handbook for Systematic Reviews of Interventions. We planned to assess the certainty of evidence using the GRADE approach. 
+Main results
+We did not identify RCTs that met the inclusion criteria for this review.
+Authors' conclusions
+No RCTs have been conducted to determine comparative clinical or rehabilitation outcomes of through‐knee amputation and above‐knee amputation, or complication rates. It is unknown whether either of these approaches offers improved outcomes for patients. RCTs are needed to guide practice and to ensure the best outcomes for this patient group. 

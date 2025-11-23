@@ -1,0 +1,9 @@
+An adverse event is any sign or symptom that participants have during a study. Doctors keep track of all the adverse events that happen in studies, even if they do not think the adverse events might be related to the study treatment. Later in this document, there will be a summary of the adverse events that the study doctors thought might be related to the study treatment. This section is a summary of all the adverse events, whether they might be related to the study treatment or not. An adverse event is considered "serious" when it is life-threatening, causes lasting problems, or the participant needs hospital care. Adverse events may or may not be caused by the treatments in the study. A lot of research is needed to know whether a treatment causes an adverse event.
+
+Parts 1 and 2 (out of 27 participants):
+
+- How many participants had adverse events? 100.0% (27)
+- How many participants had serious adverse events? 37.0% (10)
+- How many participants stopped taking study treatment due to adverse events? 40.7% (11)
+
+There were 3.7% of participants who died because of adverse events. This was 1 out of 27 participants. This adverse event was not thought to be related to the study drug.

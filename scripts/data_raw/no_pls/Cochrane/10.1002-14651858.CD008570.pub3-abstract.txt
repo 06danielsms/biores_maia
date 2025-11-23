@@ -1,0 +1,24 @@
+Background
+Work‐related upper limb and neck musculoskeletal disorders (MSDs) are one of the most common occupational disorders worldwide. Studies have shown that the percentage of office workers that suffer from MSDs ranges from 20 to 60 per cent. The direct and indirect costs of work‐related upper limb MSDs have been reported to be high in Europe, Australia, and the United States. Although ergonomic interventions are likely to reduce the risk of office workers developing work‐related upper limb and neck MSDs, the evidence is unclear. This is an update of a Cochrane Review which was last published in 2012. 
+Objectives
+To assess the effects of physical, cognitive and organisational ergonomic interventions, or combinations of those interventions for the prevention of work‐related upper limb and neck MSDs among office workers. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, CINAHL, Web of Science (Science Citation Index), SPORTDiscus, Embase, the US Centers for Disease Control and Prevention, the National Institute for Occupational Safety and Health database, and the World Health Organization's International Clinical Trials Registry Platform, to 10 October 2018. 
+Selection criteria
+We included randomised controlled trials (RCTs) of ergonomic interventions for preventing work‐related upper limb or neck MSDs (or both) among office workers. We only included studies where the baseline prevalence of MSDs of the upper limb or neck, or both, was less than 25%. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. We included studies with relevant data that we judged to be sufficiently homogeneous regarding the interventions and outcomes in the meta‐analysis. We assessed the overall quality of the evidence for each comparison using the GRADE approach. 
+Main results
+We included 15 RCTs (2165 workers). We judged one study to have a low risk of bias and the remaining 14 studies to have a high risk of bias due to small numbers of participants and the potential for selection bias. 
+Physical ergonomic interventions 
+There is inconsistent evidence for arm supports and alternative computer mouse designs. There is moderate‐quality evidence that an arm support with an alternative computer mouse (two studies) reduced the incidence of neck or shoulder MSDs (risk ratio (RR) 0.52; 95% confidence interval (CI) 0.27 to 0.99), but not the incidence of right upper limb MSDs (RR 0.73; 95% CI 0.32 to 1.66); and low‐quality evidence that this intervention reduced neck or shoulder discomfort (standardised mean difference (SMD) −0.41; 95% CI −0.69 to −0.12) and right upper limb discomfort (SMD −0.34; 95% CI −0.63 to −0.06). 
+There is moderate‐quality evidence that the incidence of neck or shoulder and right upper limb disorders were not considerably reduced when comparing an alternative computer mouse and a conventional mouse (two studies; neck or shoulder: RR 0.62; 95% CI 0.19 to 2.00; right upper limb: RR 0.91; 95% CI 0.48 to 1.72), and also when comparing an arm support with a conventional mouse and a conventional mouse alone (two studies) (neck or shoulder: RR 0.91; 95% CI 0.12 to 6.98; right upper limb: RR 1.07; 95% CI 0.58 to 1.96). 
+Workstation adjustment (one study) and sit‐stand desks (one study) did not have an effect on upper limb pain or discomfort, compared to no intervention. 
+Organisational ergonomic interventions 
+There is very low‐quality evidence that supplementary breaks (two studies) reduce discomfort of the neck (MD −0.25; 95% CI −0.40 to −0.11), right shoulder or upper arm (MD −0.33; 95% CI −0.46 to −0.19), and right forearm or wrist or hand (MD ‐0.18; 95% CI ‐0.29 to ‐0.08) among data entry workers. 
+Training in ergonomic interventions 
+There is low to very low‐quality evidence in five studies that participatory and active training interventions may or may not prevent work‐related MSDs of the upper limb or neck or both. 
+Multifaceted ergonomic interventions 
+For multifaceted interventions there is one study (very low‐quality evidence) that showed no effect on any of the six upper limb pain outcomes measured in that study. 
+Authors' conclusions
+We found inconsistent evidence that the use of an arm support or an alternative mouse may or may not reduce the incidence of neck or shoulder MSDs. For other physical ergonomic interventions there is no evidence of an effect. For organisational interventions, in the form of supplementary breaks, there is very low‐quality evidence of an effect on upper limb discomfort. For training and multifaceted interventions there is no evidence of an effect on upper limb pain or discomfort. Further high‐quality studies are needed to determine the effectiveness of these interventions among office workers. 

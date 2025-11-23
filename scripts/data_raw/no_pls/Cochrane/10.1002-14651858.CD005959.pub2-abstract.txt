@@ -1,0 +1,15 @@
+Background
+Surgical fixation of fractures of the shaft of the humerus generally involves plating or nailing. It is unclear whether one method is more effective than the other. 
+Objectives
+To compare compression plating and locked intramedullary nailing for primary surgical fixation (surgical fixation of an acute fracture or early fixation following failure of conservative treatment) of humeral shaft fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (February 2011), The Cochrane Library 2011, Issue 1, MEDLINE and EMBASE (both to February 2011) and trial registries for ongoing trials. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing compression plates and locked intramedullary nail fixation for humeral shaft fractures in adults. 
+Data collection and analysis
+Two authors independently assessed trial methodology and extracted data. Disagreement was resolved by discussion, or third party adjudication. Treatment effects were assessed using risk ratios for dichotomous data and mean differences for continuous data, together with 95% confidence intervals. Where appropriate, data were pooled using a fixed‐effect model. 
+Main results
+Five small trials comparing dynamic compression plates with locked intramedullary nailing were included in this review. These involved a total of 260 participants undergoing surgery for either acute fractures or after early failure of conservative treatment. All five trials had methodological flaws, such as the lack of assessor blinding, that could have influenced their findings. There was no significant difference in fracture union between plating and nailing (five trials, RR 1.05; 95% CI 0.97 to 1.13). There was a statistically significant increase in shoulder impingement following nailing when compared with plating (five trials, RR 0.12; 95% CI 0.04 to 0.38). Intramedullary nails were removed significantly more frequently than plates (three trials, RR 0.17; 95% CI 0.04 to 0.76). There was no statistically significant difference between plating and nailing in operating time, blood loss during surgery, iatrogenic radial nerve injury, return to pre‐injury occupation by six months or American Shoulder and Elbow Surgeons (ASES) scores. 
+Two further small trials are awaiting classification.
+Authors' conclusions
+The available evidence shows that intramedullary nailing is associated with an increased risk of shoulder impingement, with a related increase in restriction of shoulder movement and need for removal of metalwork. There was insufficient evidence to determine if there were any other important differences, including in functional outcome, between dynamic compression plating and locked intramedullary nailing for humeral shaft fractures. 

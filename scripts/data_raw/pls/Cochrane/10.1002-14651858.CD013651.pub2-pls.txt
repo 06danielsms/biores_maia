@@ -1,0 +1,17 @@
+Interventions available during pandemics for heavy menstrual bleeding: an overview of Cochrane Reviews 
+Review question 
+What is the effectiveness and safety of treatments commonly available during pandemics for heavy menstrual bleeding? 
+Background 
+Heavy menstrual bleeding is a common gynaecological condition. Treatments that can continue during pandemics include: 
+1. Non‐steroidal anti‐inflammatory drugs (NSAIDs), for example mefenamic acid or naproxen: these work by reducing prostaglandin levels, which reduces bleeding from the lining of the womb. NSAIDs can be taken as tablets. 
+2. Antifibrinolytics, for example tranexamic acid: these work in reducing bleeding by inhibiting clot‐dissolving enzymes in the lining of the womb. Antifibrinolytics can be taken as tablets. 
+3. Combined hormonal contraceptives, for example the combined oral contraceptive pill: these work by thinning the lining of the womb that is shed during menstrual periods. Combined hormonal contraceptives can be taken as tablets, or can be administered vaginally, using a vaginal ring. 
+4. Progestogens, for example norethisterone: these work by thinning the lining of the womb that is shed during menstrual periods. Progestogens are tablets, which can be taken for 10 days of the menstrual cycle (short‐cycle), or for three to four weeks of the menstrual cycle (long‐cycle). 
+We aimed to summarise the best evidence regarding their effectiveness and safety.
+Study characteristics 
+We included four Cochrane Reviews (44 randomised controlled trials, 3196 women), to June 2020. We identified 11 different comparisons, including NSAIDs compared with placebo (control tablet that has no effect), antifibrinolytics compared with placebo, and combined hormonal oral contraceptives compared with placebo. All reviews reported menstrual bleeding, quality of life, patient satisfaction, side effects, and serious adverse events. We rated all the reviews as high quality. 
+Key results 
+Antifibrinolytics and combined hormonal contraceptives are probably effective in reducing heavy menstrual bleeding when compared to placebo. Of 1000 women with heavy menstrual bleeding, 109 will report improvement with placebo, and 363 (range 200 to 662) with antifibrinolytics. Of 1000 women with heavy menstrual bleeding, 29 will perceive their menstrual bleeding is back to normal with placebo, and 401 (range 118 to 771) with combined oral contraceptive. NSAIDs may be effective in reducing heavy menstrual bleeding when compared to placebo. Of 1000 women with heavy menstrual bleeding, 200 will report improvement with placebo, and 766 (range 578 to 887) with NSAIDs. Antifibrinolytics may be more effective in reducing heavy menstrual bleeding when compared with NSAIDs and short‐cycle progestogens, but we are unable to draw conclusions about the effects of antifibrinolytics compared to long‐cycle progestogens. 
+There was poor reporting of secondary outcomes, including quality of life, and the women's satisfaction with treatment. These studies did not have enough women participating to detect serious adverse events. There is well known evidence that even though the risk of thromboembolic events is very low in the general population, it increases with oral contraceptives. 
+Certainty of the evidence 
+The certainty of the evidence for different comparisons and outcomes ranged from very low to moderate. There were significant limitations in the primary research studies, inconsistency in results between primary research studies, and imprecision in the reviews' findings. 

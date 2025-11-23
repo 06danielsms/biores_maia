@@ -1,0 +1,14 @@
+Background
+Artificial formula can be manipulated to contain higher amounts of macro‐nutrients than maternal breast milk but breast milk confers important immuno‐nutritional advantages for preterm or low birth weight (LBW) infants. 
+Objectives
+To determine the effect of feeding preterm or LBW infants with formula compared with maternal breast milk on growth and developmental outcomes. 
+Search methods
+We used the standard strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 9), and Ovid MEDLINE, Ovid Embase, Ovid Maternity & Infant Care Database, and CINAHL to October 2018. We searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that compared feeding preterm or low birth weight infants with formula versus maternal breast milk. 
+Data collection and analysis
+Two review authors planned independently to assess trial eligibility and risk of bias, and extract data. We planned to analyse treatment effects as described in the individual trials and report risk ratios and risk differences for dichotomous data, and mean differences for continuous data, with 95% confidence intervals. We planned to use a fixed‐effect model in meta‐analyses and to explore potential causes of heterogeneity in subgroup analyses. We planned to use the GRADE approach to assess the certainty of evidence. 
+Main results
+We did not identify any eligible trials.
+Authors' conclusions
+There are no trials of formula versus maternal breast milk for feeding preterm or low birth weight infants. Such trials are unlikely to be conducted because of the difficulty of allocating an alternative form of nutrition to an infant whose mother wishes to feed with her own breast milk. Maternal breast milk remains the default choice of enteral nutrition because observational studies, and meta‐analyses of trials comparing feeding with formula versus donor breast milk, suggest that feeding with breast milk has major immuno‐nutritional advantages for preterm or low birth weight infants. 

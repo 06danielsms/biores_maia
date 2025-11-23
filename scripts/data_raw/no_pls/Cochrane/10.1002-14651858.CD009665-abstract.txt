@@ -1,0 +1,16 @@
+Background
+Migraine is a highly disabling condition for the individual and also has wide‐reaching implications for society, healthcare services, and the economy. Sumatriptan is an abortive medication for migraine attacks, belonging to the triptan family. Subcutaneous administration may be preferable to oral for individuals experiencing nausea and/or vomiting 
+Objectives
+To determine the efficacy and tolerability of subcutaneous sumatriptan compared to placebo and other active interventions in the treatment of acute migraine attacks in adults. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, online databases, and reference lists for studies through 13 October 2011. 
+Selection criteria
+We included randomised, double‐blind, placebo‐ and/or active‐controlled studies using subcutaneous sumatriptan to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We used numbers of participants achieving each outcome to calculate relative risk (or 'risk ratio') and numbers needed to treat to benefit (NNT) or harm (NNH) compared to placebo or a different active treatment. 
+Main results
+Thirty‐five studies (9365 participants) compared subcutaneous sumatriptan with placebo or an active comparator. Most of the data were for the 6 mg dose. Sumatriptan surpassed placebo for all efficacy outcomes. For sumatriptan 6 mg versus placebo the NNTs were 2.9, 2.3, 2.2, and 2.1 for pain‐free at one and two hours, and headache relief at one and two hours, respectively, and 6.1 for sustained pain‐free at 24 hours. Results for the 4 mg and 8 mg doses were similar to the 6 mg dose, with 6 mg significantly better than 4 mg only for pain‐free at one hour, and 8 mg significantly better than 6 mg only for headache relief at one hour. There was no evidence of increased migraine relief if a second dose of sumatriptan 6 mg was given after an inadequate response to the first. 
+Relief of headache‐associated symptoms, including nausea, photophobia, and phonophobia, was greater with sumatriptan than with placebo, and use of rescue medication was lower with sumatriptan than placebo. For the most part, adverse events were transient and mild and were more common with sumatriptan than placebo. 
+Sumatriptan was compared directly with a number of active treatments, including other triptans, acetylsalicylic acid plus metoclopramide, and dihydroergotamine, but there were insufficient data for any pooled analyses. 
+Authors' conclusions
+Subcutaneous sumatriptan is effective as an abortive treatment for acute migraine attacks, quickly relieving pain, nausea, photophobia, phonophobia, and functional disability, but is associated with increased adverse events. 

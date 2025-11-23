@@ -1,0 +1,28 @@
+Background
+Loss of olfactory function is well recognised as a symptom of COVID‐19 infection, and the pandemic has resulted in a large number of individuals with abnormalities in their sense of smell. For many, the condition is temporary and resolves within two to four weeks. However, in a significant minority the symptoms persist. At present, it is not known whether early intervention with any form of treatment (such as medication or olfactory training) can promote recovery and prevent persisting olfactory disturbance. This is an update of the 2021 review with four studies added. 
+Objectives
+1) To evaluate the benefits and harms of any intervention versus no treatment for people with acute olfactory dysfunction due to COVID‐19 infection.  
+2) To keep the evidence up‐to‐date, using a living systematic review approach. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the latest search was 20 October 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) in people with COVID‐19 related olfactory disturbance, which had been present for less than four weeks. We included any intervention compared to no treatment or placebo.  
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were the presence of normal olfactory function, serious adverse effects and change in sense of smell. Secondary outcomes were the prevalence of parosmia, change in sense of taste, disease‐related quality of life and other adverse effects (including nosebleeds/bloody discharge). We used GRADE to assess the certainty of the evidence for each outcome.  
+Main results
+We included five studies with 691 participants. The studies evaluated the following interventions: intranasal corticosteroid sprays, intranasal corticosteroid drops, intranasal hypertonic saline and zinc sulphate.  
+Intranasal corticosteroid spray compared to no intervention/placebo  
+We included three studies with 288 participants who had olfactory dysfunction for less than four weeks following COVID‐19. 
+Presence of normal olfactory function 
+The evidence is very uncertain about the effect of intranasal corticosteroid spray on both self‐rated recovery of olfactory function and recovery of olfactory function using psychophysical tests at up to four weeks follow‐up (self‐rated: risk ratio (RR) 1.19, 95% confidence interval (CI) 0.85 to 1.68; 1 study; 100 participants; psychophysical testing: RR 2.3, 95% CI 1.16 to 4.63; 1 study; 77 participants; very low‐certainty evidence).  
+Change in sense of smell 
+The evidence is also very uncertain about the effect of intranasal corticosteroid spray on self‐rated change in the sense of smell (at less than 4 weeks: mean difference (MD) 0.5 points lower, 95% CI 1.38 lower to 0.38 higher; 1 study; 77 participants; at > 4 weeks to 3 months: MD 2.4 points higher, 95% CI 1.32 higher to 3.48 higher; 1 study; 100 participants; very low‐certainty evidence, rated on a scale of 1 to 10, higher scores mean better olfactory function). Intranasal corticosteroids may make little or no difference to the change in sense of smell when assessed with psychophysical testing (MD 0.2 points, 95% CI 2.06 points lower to 2.06 points higher; 1 study; 77 participants; low‐certainty evidence, 0‐ to 24‐point scale, higher scores mean better olfactory function).  
+Serious adverse effects 
+The authors of one study reported no adverse effects, but their intention to collect these data was not pre‐specified so we are uncertain if these were systematically sought and identified. The remaining two studies did not report on adverse effects.  
+Intranasal corticosteroid drops compared to no intervention/placebo  
+We included one study with 248 participants who had olfactory dysfunction for ≤ 15 days following COVID‐19. 
+Presence of normal olfactory function 
+Intranasal corticosteroid drops may make little or no difference to self‐rated recovery at > 4 weeks to 3 months (RR 1.00, 95% CI 0.89 to 1.11; 1 study; 248 participants; low‐certainty evidence). No other outcomes were assessed by this study.  
+Data on the use of hypertonic saline nasal irrigation and the use of zinc sulphate to prevent persistent olfactory dysfunction are included in the full text of the review. 
+Authors' conclusions
+There is very limited evidence available on the efficacy and harms of treatments for preventing persistent olfactory dysfunction following COVID‐19 infection. However, we have identified a number of ongoing trials in this area. As this is a living systematic review we will update the data regularly, as new results become available. 

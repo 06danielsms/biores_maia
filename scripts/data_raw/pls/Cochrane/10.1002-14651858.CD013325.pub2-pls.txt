@@ -1,0 +1,23 @@
+Treatments for people with bladder pain syndrome
+What is bladder pain syndrome? 
+Bladder pain syndrome (BPS; also called painful bladder syndrome or interstitial cystitis) is a long‐term painful condition that affects the bladder. ‘Syndrome’ refers to a collection of symptoms. In BPS, these symptoms include: intense pain in the pelvis (felt below the bellybutton); sudden strong urges to urinate; needing to urinate more often than usual; and waking up several times during the night to urinate. 
+BPS is more common in women. We do not know what causes it or how to cure it. Symptoms sometimes come and go in phases. BPS can significantly affect lifestyle, work, emotional health and relationships. 
+Treatments for BPS 
+Lifestyle changes are usually tried first, then medicines and supportive therapies. Surgery may be needed as a last resort. 
+Medicines used include pentosan polysulfate sodium – which may help to restore the inner surface of the bladder – anti‐inflammatories, antidepressants and antihistamines. Medicines that block the connection between nerves and muscles can be injected into the bladder muscle to try to relax it (‘neuromuscular blockade’). Supportive therapies and treatments include behavioural therapy, physiotherapy, bladder re‐training, psychological therapy and transcutaneous electrical nerve stimulation (TENS). 
+Review question 
+In this Cochrane Review, we wanted to find out which treatments work best to treat BPS. 
+What did we do? 
+We searched for studies that looked at any type of treatment for BPS. We looked for randomised controlled studies, in which the treatment people receive is randomly decided, because these studies usually give the most reliable evidence about treatments. 
+Search date 
+We included evidence published up to 11 May 2018. We conducted a further search on 5 June 2019, which yielded four small studies that were screened for eligibility but were not incorporated into the review. 
+What we found 
+We found 81 studies involving 4674 people with BPS. The biggest study included 369 people, and the smallest study included 10 people. Most studies lasted around three months; only six studies lasted 12 months or longer. Twenty‐four studies were funded by pharmaceutical companies. 
+We found 65 treatments for BPS, which we grouped into 31 categories based on how the treatments worked. In most studies, a treatment for BPS was compared with a placebo (or dummy) treatment. We compared all treatments with each other using a mathematical method called network meta‐analysis. 
+What are the results of our review? 
+After 12 months, antidepressants or neuromuscular blockade (and some other treatments) may improve symptoms of BPS more than placebo, but we are not certain about this result. We did not find enough evidence to know if pentosan polysulfate sodium improves symptoms. 
+We are uncertain whether 12 months of treatment with antidepressants, neuromuscular blockade or pentosan polysulfate sodium reduced pain (as measured on a scale); the number of times people had to urinate during the day; or the number of times people had to get up to urinate during the night. 
+Our confidence in the results 
+We are uncertain about our results because we did not find enough reliable evidence. Although we obtained results from 81 studies, most of these studies were small and did not include enough people for us to be certain of their results. Some of the studies (30%) were conducted by pharmaceutical companies, and this may have affected how the studies were designed, conducted and reported. Our results may change when results from more, and larger, studies become available. 
+Conclusions 
+We did not find enough reliable evidence about how well medicines, behavioural therapy, physiotherapy and neuromuscular blockade worked to treat all, or any, of the symptoms of BPS. 

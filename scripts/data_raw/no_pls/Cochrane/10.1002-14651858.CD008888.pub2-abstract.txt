@@ -1,0 +1,14 @@
+Background
+Cough is the most common symptom presenting to primary healthcare services. Cough in children is associated with significant morbidity for both children and their parents. While inhaled corticosteroids (ICS) can potentially reduce cough associated with airway inflammation and airway hyper‐reactivity, use of ICS in children is not without potential adverse effects. Therefore, it would be beneficial to clinical practice to evaluate the evidence for the efficacy of ICS in reducing the severity of cough in children with subacute cough (defined as cough duration of two to four weeks) systematically. 
+Objectives
+To evaluate the efficacy of ICS in reducing the severity of cough in children with subacute cough. 
+Search methods
+The Cochrane Register of Controlled Trials (CENTRAL), the Cochrane Airways Group Specialised Register, MEDLINE, EMBASE, review articles and reference lists of relevant articles were searched. The latest searches were performed in November 2011. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing ICS with a control group in children with subacute cough were considered for inclusion. 
+Data collection and analysis
+Search results were reviewed against pre‐determined criteria for inclusion. Two sets of review authors independently selected, extracted and assessed the data for inclusion. Study authors were contacted for further information where required. Data were analysed as 'intention to treat'. 
+Main results
+The search identified 1178 potentially relevant titles; however, there were no published studies that were specifically designed to answer this question. Two studies met criteria for inclusion in the review and 98 children were included in the meta‐analysis. There was no significant difference between groups in the proportion of children 'not cured' at follow‐up (primary outcome measure), with a pooled odds ratio (OR) of 0.61 (95% confidence interval (CI) 0.24 to 1.55). However, the included studies were limited in their ability to answer the review question by the fact that all participants were infants, post acute bronchiolitis illness, and cough duration at the start of study medication was ill‐defined. 
+Authors' conclusions
+There is currently no evidence to support the use of ICS for treatment of subacute cough in children. However, this systematic review is limited by the small number of studies available for analysis and the size, quality and design of these studies. Further well‐designed RCTs are required to support or refute the efficacy of treatment with ICS in children with subacute cough. 

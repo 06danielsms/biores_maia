@@ -1,0 +1,18 @@
+Background
+This is one of a series of reviews of methods of cervical ripening and labour induction using standardized methodology. 
+Objectives
+To determine the effects of oral prostaglandin E2 for third trimester induction of labour. 
+Search methods
+The Cochrane Pregnancy and Childbirth Group's Trials Register (January 2007) and bibliographies of relevant papers. We updated this search on 8 June 2012 and added the results to the awaiting classification section of the review. 
+Selection criteria
+Clinical trials comparing oral prostaglandin E2 used for third trimester cervical ripening or labour induction with placebo or no treatment or other methods listed above it on a predefined list of labour induction methods. 
+Data collection and analysis
+A strategy was developed to deal with the large volume and complexity of trial data relating to labour induction. This involved a two‐stage method of data extraction. 
+Main results
+There were 19 studies included in the review. Of these 15 included a comparison using either oral or intravenous oxytocin with or without amniotomy. The quality of studies reviewed was not high. Only seven studies had clearly described allocation concealment. Only two studies stated that providers or participants, or both, were blinded to treatment group. 
+For the outcome of vaginal delivery not achieved within 24 hours, in the composite comparison of oral PGE2 versus all oxytocin treatments (oral and intravenous, with and without amniotomy), there was a trend favoring oxytocin treatments (relative risk (RR) 1.97, 95% confidence interval (CI) 0.86 to 4.48). 
+For the outcome of cesarean section, in the comparison of PGE2 versus no treatment or placebo, PGE2 was favored (RR 0.54, 95% CI 0.29 to 0.98). Otherwise, there were no significant differences between groups for this outcome. 
+Oral prostaglandin was associated with vomiting across all comparison groups.
+Authors' conclusions
+Oral prostaglandin consistently resulted in more frequent gastrointestinal side‐effects, in particular vomiting, compared with the other treatments included in this review. There were no clear advantages to oral prostaglandin over other methods of induction of labour. 
+[Note: The six citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

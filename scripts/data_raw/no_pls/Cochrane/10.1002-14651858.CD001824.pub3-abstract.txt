@@ -1,0 +1,14 @@
+Background
+The effectiveness of injection therapy for low‐back pain is still debatable. Heterogeneity of target tissue, pharmacological agent and dosage generally found in randomized controlled trials (RCTs) points to the need for clinically valid comparisons in a literature synthesis. 
+Objectives
+To determine if injection therapy is more effective than placebo or other treatments for patients with subacute or chronic low‐back pain. 
+Search methods
+We updated the search of the earlier systematic review and searched the Cochrane Central Register of Controlled Trials, MEDLINE and EMBASE databases from January 1999 to March 2007 for relevant trials reported in English, French, German, Dutch and Nordic languages. We also screened references from trials identified. 
+Selection criteria
+RCTs on the effects of injection therapy involving epidural, facet or local sites for subacute or chronic low‐back pain were included. Studies which compared the effects of intradiscal injections, prolotherapy or Ozone therapy with other treatments, were excluded unless injection therapy with another pharmaceutical agent (no placebo treatment) was part of one of the treatment arms. Studies about injections in sacroiliac joints and studies evaluating the effects of epidural steroids for radicular pain were also excluded. 
+Data collection and analysis
+Two review authors independently assessed the quality of the trials. If study data were clinically and statistically too heterogeneous to perform a meta‐analysis, we used a best evidence synthesis to summarize the results. The evidence was classified into five levels (strong, moderate, limited, conflicting or no evidence), taking into account the methodological quality of the studies. 
+Main results
+18 trials (1179 participants) were included in this updated review. The injection sites varied from epidural sites and facet joints (i.e. intra‐articular injections, peri‐articular injections and nerve blocks) to local sites (i.e. tender‐ and trigger points). The drugs that were studied consisted of corticosteroids, local anesthetics and a variety of other drugs. The methodological quality of the trials was limited with 10 out of 18 trials rated as having a high methodological quality. Statistical pooling was not possible due to clinical heterogeneity in the trials. Overall, the results indicated that there is no strong evidence for or against the use of any type of injection therapy. 
+Authors' conclusions
+There is insufficient evidence to support the use of injection therapy in subacute and chronic low‐back pain. However, it cannot be ruled out that specific subgroups of patients may respond to a specific type of injection therapy. 

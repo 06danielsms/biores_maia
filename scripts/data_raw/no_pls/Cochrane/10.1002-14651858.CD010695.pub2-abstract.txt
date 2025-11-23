@@ -1,0 +1,16 @@
+Background
+Elevation of pulmonary pressure is no longer a rare disease, given its multifactorial etiology. However data on the actual incidence of this condition are still limited, and controversies regarding its management are ongoing. Use of anticoagulation in the management of pulmonary hypertension is based on the presence of in situ thrombosis in the patient with pulmonary arterial hypertension (PAH) and on retrospective evidence of clinical benefit. Current practice is dependent mostly on expert opinion and individualised experience. The real benefit of its use in different types of pulmonary hypertension is still debatable, and the therapeutic target of the international normalised ratio (INR) among treated patients remains inconclusive. Adverse outcomes associated with anticoagulants are significant and can include fatal haemorrhage. Justification for the use of this intervention requires critical evaluation of randomised controlled trials. 
+Objectives
+1. To evaluate the effectiveness of, and potential adverse events associated with, anticoagulation in the management of pulmonary hypertension (PH). 
+2. To evaluate the effective therapeutic INR in pulmonary hypertensive patients receiving anticoagulants (North American centres 1.5 to 2.5, European centres 2.0 to 3.0). 
+Search methods
+We identified trials through searches of the following databases.
+Cochrane Airways Group Trials Register; Cochrane Central Register of Controlled Trials (CENTRAL), part of The Cochrane Library; MEDLINE (Ovid); EMBASE (Ovid); CINAHL (EBSCOhost); Clinical trials.gov and the World Health Organization (WHO) trials portal. The trial search date was 28 March 2014. 
+Selection criteria
+We planned to include only randomised controlled trials. Participants with PH with co‐morbidities including medical conditions requiring long‐term anticoagulation were to be included. We also planned to include trials comparing any anticoagulant with placebo. 
+Data collection and analysis
+Review authors (IE and HE) independently appraised all identified citations to establish their relevance for inclusion in the review. IE and HE independently screened the titles and abstracts of all identified potential studies for inclusion. 
+Main results
+No eligible trials were identified for inclusion in this review.
+Authors' conclusions
+No eligible studies were identified for inclusion in this review. Although our review of available non‐randomised studies shows beneficial effect, this finding should be interpreted with caution since there are likely to be biases associated with their design and our methods were not designed to identify, appraise and summarise evidence from them. So that better decisions can be made regarding the effectiveness of this intervention, well‐designed randomised controlled trials are needed. 

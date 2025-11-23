@@ -1,0 +1,14 @@
+Background
+Community pharmacists could provide effective smoking cessation treatment because they offer easy access to members of the community. They are well placed to provide both advice on the correct use of smoking cessation products and behavioural support to aid smoking cessation. 
+Objectives
+To assess the effectiveness of interventions delivered by community pharmacy personnel to assist people to stop smoking, with or without concurrent use of pharmacotherapy. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialised Register, along with clinicaltrials.gov and the ICTRP, for smoking cessation studies conducted in a community pharmacy setting, using the search terms pharmacist* or pharmacy or pharmacies. Date of the most recent search: January 2019. 
+Selection criteria
+Randomised controlled trials of interventions delivered by community pharmacy personnel to promote smoking cessation amongst their clients who were smokers, compared with usual pharmacy support or any less intensive programme. The main outcome measure was smoking cessation rates at six months or more after the start of the intervention. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane for study screening, data extraction and management. We conducted a meta‐analysis using a Mantel‐Haenszel random‐effects model to generate risk ratios (RRs) and 95% confidence intervals (CIs). 
+Main results
+We identified seven studies including 1774 participants. We judged three studies to be at high risk of bias and four to be at unclear risk. Each study provided face‐to‐face behavioural support delivered by pharmacy staff, and required pharmacy personnel training. Typically such programmes comprised support starting before quit day and continuing with weekly appointments for several weeks afterwards. Comparators were either minimal or less intensive behavioural support for smoking cessation, typically comprising a few minutes of one‐off advice on how to quit. Participants in both intervention and control arms received equivalent smoking cessation pharmacotherapy in all but one study. All studies took place in high‐income countries, and recruited participants visiting pharmacies. We pooled six studies of 1614 participants and detected a benefit of more intensive behavioural smoking cessation interventions delivered by community pharmacy personnel compared with less intensive cessation interventions at longest follow‐up (RR 2.30, 95% CI 1.33 to 3.97; I2 = 54%; low‐certainty evidence). 
+Authors' conclusions
+Community pharmacists can provide effective behavioural support to people trying to stop smoking. However, this conclusion is based on low‐certainty evidence, limited by risk of bias and imprecision. Further research could change this conclusion. 

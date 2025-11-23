@@ -1,0 +1,23 @@
+When trying to have a baby through assisted conception, is it better to transfer the embryo to the womb on day 3 or day 5? 
+Background 
+Many women and couples are unlikely to get pregnant and have a baby without medical treatment, due to infertility. Doctors have developed a variety of assisted reproductive technologies (ARTs), such as in vitro fertilisation (IVF), which involve the manipulation of eggs and sperm outside a woman's body, to try to increase her chances of getting pregnant. 
+Typically, in assisted conception, doctors collect eggs from a woman and fertilise them in a laboratory, leading to the formation of embryos. An embryo is the early stage of human development. Doctors commonly transfer one or several embryos into a woman’s womb (uterus) at one of two stages of embryo development: either the cleavage stage, which is 2 or 3 days after egg collection when an embryo typically consists of between 2 and 128 cells; or the blastocyst stage, which is 5 or 6 days after egg collection when an embryo consists of between 70 and 100 cells. 
+Until recently, doctors usually transferred embryos at the earlier, cleavage, stage. However, there has been a trend to transferring embryos at the later, blastocyst, stage. Researchers believe that only those embryos capable of surviving make it to the blastocyst stage; in other words, viable embryos will self‐select. So, it is thought that transferring embryos at the later stage may improve a woman's chances of becoming pregnant and having a healthy baby. 
+Review question 
+We wanted to find out if transferring embryos into a woman's womb at cleavage stage (day 2 to 3) or blastocyst stage (day 5 to 6) is better, in terms of: 
+– number of babies born alive (live birth rate) following embryo transfers using only 'fresh' embryos; that is, embryos that have not been frozen and subsequently thawed; 
+– total number of pregnancies achieved following embryo transfers using both 'fresh' and frozen then thawed embryos, collected from a single egg collection procedure (cumulative clinical pregnancy rate); 
+– multiple pregnancy rate (when a woman is carrying more than one baby at a time);
+‐ miscarriage rate (the loss of a pregnancy before the 20th week of development in the womb). 
+Study characteristics 
+We included 32 randomised controlled trials (studies in which participants are assigned randomly to 2 or more treatment groups), which included 5821 women or couples. The evidence is current to October 2021. 
+Key results 
+– Transferring 'fresh' embryos at the blastocyst stage (day 5 to 6) may lead to more live births than when 'fresh' embryos are transferred at the cleavage stage (day 2 to 3). This suggests that if 31% of women achieve live birth after 'fresh' cleavage‐stage embryo transfer, between 32% and 41% would do so after 'fresh' blastocyst‐stage transfer. 
+– Transferring 'fresh' embryos at the blastocyst stage probably leads to more clinical pregnancies – defined as evidence of fetal heart activity on an ultrasound scan – than when 'fresh' embryos are transferred at the cleavage stage. This suggests that if 39% of women achieve a clinical pregnancy after 'fresh' cleavage‐stage transfer, between 42% and 47% will probably do so after 'fresh' blastocyst‐stage transfer. 
+– We are uncertain whether blastocyst‐stage transfer favors cumulative clinical pregnancy rates (i.e. pregnancies from both fresh and thawed cycles deriving from a single egg collection procedure). 
+– We are uncertain whether blastocyst‐stage transfer increases multiple pregnancy rates compared to cleavage‐stage transfer, when we consider all the studies that reported information on this. 
+– When we consider evidence only from higher‐quality studies and studies that transferred the same number of embryos in both embryo stages, we found that multiple pregnancy rate is probably higher in the blastocyst‐stage transfer group. 
+– We are uncertain whether blastocyst‐stage transfer increases miscarriage rates compared to cleavage‐stage transfer. 
+Future studies should report rates of live birth, cumulative live birth, and miscarriage, to enable women, couples and their doctors to make well‐informed decisions on the best treatment option available. 
+Quality of the evidence 
+We have low to moderate confidence in the quality of the evidence for most outcomes. The main limitation was the failure of some studies to describe acceptable methods of assigning women or couples at random to treatment groups. 

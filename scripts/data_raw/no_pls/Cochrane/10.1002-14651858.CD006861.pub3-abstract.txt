@@ -1,0 +1,14 @@
+Background
+People living with end‐stage kidney disease (ESKD) often develop anaemia. Erythropoiesis‐simulating agents (ESAs) are often given to people living with ESKD to maintain haemoglobin at a level to minimise need for transfusion. However, about 5% to 10% of patients with ESKD exhibit resistance to ESAs, and observational studies have shown that patients requiring high doses of ESA are at increased risk of mortality. 
+Objectives
+This review aimed to study the effects of interventions for the treatment of ESA‐resistant anaemia in people with ESKD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE for randomised controlled trials (RCT) that involved participants with ESKD on dialysis or who were pre‐dialysis patients with chronic kidney disease (stage 5). Date of last search: April 2013. 
+Selection criteria
+ESA resistance was defined as failure to achieve or maintain haemoglobin/haematocrit levels within the desired target range despite appropriate ESA doses (erythropoietin ≥ 450 U/kg/wk intravenously or ≥ 300 U/kg/wk subcutaneously; darbepoetin ≥ 1.5 µg/kg/wk) in people who were not nutritionally deficient, or who had haematological or bleeding disorders. Extended inclusion criteria for ESA hyporesponsive state were: erythropoietin dose ≥ 300 U/kg/wk and ≥ 150 U/kg/wk for intravenous administration; or ≥ 200 U/kg/wk and ≥ 100 U/kg/wk for subcutaneous administration; or darbepoetin dose ≥ 1.0 µg/kg/wk). 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using a random effects model and results expressed as risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+Titles and abstracts of 521 records were screened, of which we reviewed 99 from the full text. Only two studies matched our inclusion criteria. One study compared intravenous vitamin C versus no study medication for six months in 42 ESKD patients on haemodialysis who required intravenous erythropoietin (dose ≥ 450 U/kg/wk). The other included study compared high‐flux dialyser versus low‐flux dialyser for six months in 48 haemodialysis patients who required subcutaneous erythropoietin (dose ≥ 200 U/kg/wk). Because interventions differed, data could not be combined for quantitative meta‐analysis. 
+Authors' conclusions
+There was inadequate evidence identified to inform recommendation of any intervention to ameliorate ESA hyporesponsiveness. Adequately powered RCTs are required to establish the safety and efficacy of interventions to improve responsiveness to ESA therapy. 

@@ -1,0 +1,36 @@
+Background
+Adhesions are fibrin bands that are a common consequence of gynaecological surgery. They are caused by conditions that include pelvic inflammatory disease and endometriosis. Adhesions are associated with comorbidities, including pelvic pain, subfertility, and small bowel obstruction. Adhesions also increase the likelihood of further surgery, causing distress and unnecessary expenses. Strategies to prevent adhesion formation include the use of fluid (also called hydroflotation) and gel agents, which aim to prevent healing tissues from touching one another, or drugs, aimed to change an aspect of the healing process, to make adhesions less likely to form. 
+Objectives
+To evaluate the effectiveness and safety of fluid and pharmacological agents on rates of pain, live births, and adhesion prevention in women undergoing gynaecological surgery. 
+Search methods
+We searched: the Cochrane Gynaecology and Fertility Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, and Epistemonikos to 22 August 2019. We also checked the reference lists of relevant papers and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials investigating the use of fluid (including gel) and pharmacological agents to prevent adhesions after gynaecological surgery. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. We assessed the overall quality of the evidence using GRADE methods. Outcomes of interest were pelvic pain; live birth rates; incidence of, mean, and changes in adhesion scores at second look‐laparoscopy (SLL); clinical pregnancy, miscarriage, and ectopic pregnancy rates; quality of life at SLL; and adverse events. 
+Main results
+We included 32 trials (3492 women), and excluded 11.
+We were unable to include data from nine studies in the statistical analyses, but the findings of these studies were broadly in keeping with the findings of the meta‐analyses. 
+Hydroflotation agents versus no hydroflotation agents (10 RCTs) 
+We are uncertain whether hydroflotation agents affected pelvic pain (odds ratio (OR) 1.05, 95% confidence interval (CI) 0.52 to 2.09; one study, 226 women; very low‐quality evidence). 
+It is unclear whether hydroflotation agents affected live birth rates (OR 0.67, 95% CI 0.29 to 1.58; two studies, 208 women; low‐quality evidence) compared with no treatment. 
+Hydroflotation agents reduced the incidence of adhesions at SLL when compared with no treatment (OR 0.34, 95% CI 0.22 to 0.55, four studies, 566 women; high‐quality evidence). The evidence suggests that in women with an 84% chance of having adhesions at SLL with no treatment, using hydroflotation agents would result in 54% to 75% having adhesions. 
+Hydroflotation agents probably made little or no difference to mean adhesion score at SLL (standardised mean difference (SMD) ‐0.06, 95% CI ‐0.20 to 0.09; four studies, 722 women; moderate‐quality evidence). 
+It is unclear whether hydroflotation agents affected clinical pregnancy rate (OR 0.64, 95% CI 0.36 to 1.14; three studies, 310 women; moderate‐quality evidence) compared with no treatment. This suggests that in women with a 26% chance of clinical pregnancy with no treatment, using hydroflotation agents would result in a clinical pregnancy rate of 11% to 28%. 
+No studies reported any adverse events attributable to the intervention.
+Gel agents versus no treatment (12 RCTs) 
+No studies in this comparison reported pelvic pain or live birth rate. (SMD ‐0.24, 95% CI ‐0.55 to 0.08) 
+Gel agents reduced the incidence of adhesions at SLL compared with no treatment (OR 0.26, 95% CI 0.12 to 0.57; five studies, 147 women; high‐quality evidence). This suggests that in women with an 84% chance of having adhesions at SLL with no treatment, the use of gel agents would result in 39% to 75% having adhesions. 
+It is unclear whether gel agents affected mean adhesion scores at SLL (SMD ‐0.24, 95% CI ‐0.55 to 0.08; four studies, 159 women; moderate‐quality evidence), or clinical pregnancy rate (OR 0.20, 95% CI 0.02 to 2.02; one study, 30 women; low‐quality evidence). 
+No studies in this comparison reported on adverse events attributable to the intervention.
+Gel agents versus hydroflotation agents when used as an instillant (3 RCTs) 
+No studies in this comparison reported pelvic pain, live birth rate or clinical pregnancy rate. 
+Gel agents probably reduce the incidence of adhesions at SLL when compared with hydroflotation agents (OR 0.50, 95% CI 0.31 to 0.83; three studies, 538 women; moderate‐quality evidence). This suggests that in women with a 46% chance of having adhesions at SLL with a hydroflotation agent, the use of gel agents would result in 21% to 41% having adhesions. 
+We are uncertain whether gel agents improved mean adhesion scores at SLL when compared with hydroflotation agents (MD ‐0.79, 95% CI ‐0.82 to ‐0.76; one study, 77 women; very low‐quality evidence). 
+No studies in this comparison reported on adverse events attributable to the intervention.
+Steroids (any route) versus no steroids (4 RCTs) 
+No studies in this comparison reported pelvic pain, incidence of adhesions at SLL or mean adhesion score at SLL. 
+It is unclear whether steroids affected live birth rates compared with no steroids (OR 0.65, 95% CI 0.26 to 1.62; two studies, 223 women; low‐quality evidence), or clinical pregnancy rates (OR 1.01, 95% CI 0.66 to 1.55; three studies, 410 women; low‐quality evidence). 
+No studies in this comparison reported on adverse events attributable to the intervention.
+Authors' conclusions
+Gels and hydroflotation agents appear to be effective adhesion prevention agents for use during gynaecological surgery, but we found no evidence indicating that they improve fertility outcomes or pelvic pain, and further research is required in this area. It is also worth noting that for some comparisons, wide confidence intervals crossing the line of no effect meant that clinical harm as a result of interventions could not be excluded. Future studies should measure outcomes in a uniform manner, using the modified American Fertility Society score. Statistical findings should be reported in full. No studies reported any adverse events attributable to intervention. 

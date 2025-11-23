@@ -1,0 +1,38 @@
+Clinical Study Results
+What serious adverse events did the participants have?
+The table below shows the serious adverse events that the participants had during this study.
+Serious adverse events
+Part A Part B
+Serious Group 1 Group 2 Group 3 Group 4 Group 5 Group 6 Group 7
+adverse (out of 6 (out of 6 (out of 6 (out of 6 (out of 6 (out of 7 (out of 17
+events participants) participants) participants) participants) participants) participants) participants)
+Sepsis 0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+Urinary tract
+0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+infection
+Fever and low white blood
+16.7% (1) 16.7% (1) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+cell count, neutrophils
+Stroke 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 5.9% (1)
+Disease of
+0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+heart valve
+Blockage in a
+0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+blood vessel
+Build-up of protein-rich
+16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+fluid in the abdomen
+Inflammation
+0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+of the colon
+Difficulty
+16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+swallowing
+Rash 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+Chest
+0.0% (0) 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+discomfort
+Chest pain 0.0% (0) 16.7% (1) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0) 0.0% (0)
+11 participants died during the study. All the deaths were due to the worsening of
+participants’ disease. There were no treatment-related deaths during this study.

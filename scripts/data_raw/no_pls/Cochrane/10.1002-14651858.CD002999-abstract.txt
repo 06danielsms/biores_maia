@@ -1,0 +1,14 @@
+Background
+Smoking cessation is the most important treatment for smokers with chronic obstructive pulmonary disease (COPD), but little is known about the effectiveness of different smoking cessation interventions for this particular group of patients. 
+Objectives
+To determine the effectiveness of smoking cessation interventions in people with COPD.
+Search methods
+Electronic searches were undertaken on MEDLINE (from 1966 to March 2002), EMBASE (from 1989 to March 2002) and Psyclit (from 1971 to March 2002), and CENTRAL (Issue 1, 2002). Searches were current as of October 2003. 
+Selection criteria
+Randomised controlled trials in which smoking cessation was assessed in participants with confirmed COPD. 
+Data collection and analysis
+Two authors extracted the data and performed the methodological quality assessment independently for each study, with disagreements resolved by consensus. High‐quality was defined, based on pre‐set criteria according to the DelphiList. 
+Main results
+Five studies were included in this systematic review, two of which were of high‐quality. The high‐quality studies show the effectiveness of psychosocial interventions combined with pharmacological intervention compared to no treatment: psychosocial interventions combined with nicotine replacement therapy (NRT) and a bronchodilator versus no treatment at a 5 year follow‐up (RD = 0.16, 95% CI 0.14 to 0.18), (RR = 4.0, 95% CI 3.25 to 4.93), psychosocial interventions combined with NRT and placebo versus no treatment at a 5 year follow‐up (RD = 0.17, 95% CI 0.14 to 0.19), (RR = 4.19, 95% CI 3.41 to 5.15). Furthermore the results show the effectiveness of various combinations of psychosocial and pharmacological interventions at a 6 months follow‐up (RD = 0.07, 95% CI 0.0 to 0.13), (RR = 1.74, 95% CI 1.01 to 3.0). Unfortunately, none of the included studies compared psychosocial interventions with no treatment. Therefore we found no evidence with regard to the effectiveness of these interventions. An update search in October 2003 did not identify any new studies for inclusion in the review. 
+Authors' conclusions
+Based on this systematic review, the authors found evidence that a combination of psychosocial interventions and pharmacological interventions is superior to no treatment or to psychosocial interventions alone. Furthermore we conclude that there is no clear or convincing evidence for the effectiveness of any psychosocial intervention for patients with COPD due to lack of a sufficient number of high‐quality studies. 

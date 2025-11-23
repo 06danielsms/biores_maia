@@ -1,0 +1,14 @@
+Background
+Hospital at home schemes are a recently adopted method of service delivery for the management of acute exacerbations of chronic obstructive pulmonary disease (COPD) aimed at reducing demand for acute hospital inpatient beds and promoting a patient‐centred approach through admission avoidance. However, evidence in support of such a service is contradictory. 
+Objectives
+To evaluate the efficacy of hospital at home compared to hospital inpatient care in acute exacerbations of COPD. 
+Search methods
+Trials were identified from searches of electronic databases, including CENTRAL, MEDLINE, EMBASE, and the Cochrane Airways Group Register (CAGR). The review authors checked the reference lists of included trials. The CAGR was searched up to February 2012. The additional databases were searched up to October 2010. 
+Selection criteria
+We considered randomised controlled trials where patients presented to the emergency department with an exacerbation of their COPD. Studies must not have recruited patients for whom treatment at home is usually not viewed as an responsible option (e.g. patients with an impaired level of consciousness, acute confusion, acute changes on the radiograph or electrocardiogram, arterial pH less than 7.35, concomitant medical conditions). 
+Data collection and analysis
+Two review authors independently selected articles for inclusion, assessed the risk of bias and extracted data for each of the included trials. 
+Main results
+Eight trials with 870 patients were included in the review and showed a significant reduction in readmission rates for hospital at home compared with hospital inpatient care of acute exacerbations of COPD (risk ratio (RR)0.76; 95% confidence interval (CI) from 0.59 to 0.99; P=0.04). Moreover, we observed a trend towards lower mortality in the hospital at home group, but the pooled effect estimate did not reach statistical significance (RR 0.65, 95% CI 0.40 to 1.04, P = 0.07). For health‐related quality of life, lung function (FEV1) and direct costs, the quality of the available evidence is in general too weak to make firm conclusions. 
+Authors' conclusions
+Selected patients presenting to hospital emergency departments with acute exacerbations of COPD can be safely and successfully treated at home with support from respiratory nurses. We found evidence of moderate quality that hospital at home may be advantageous with respect to readmission rates in these patients. Treatment of acute exacerbation of COPD in hospital at home also show a trend towards reduced mortality rate when compared with conventional inpatient treatment, but these results did not reach statistical significance (moderate quality evidence). For other outcomes than readmission and mortality rate, we assessed the evidence to be of low or very low quality. 

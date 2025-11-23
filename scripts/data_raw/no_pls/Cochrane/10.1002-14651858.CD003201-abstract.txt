@@ -1,0 +1,15 @@
+Background
+In the UK, drivers aged 17 to 21 years make up 7% of licence holders but 13% of drivers involved in road traffic crashes resulting in injury. As in many countries, the UK government has proposed to tackle this problem with driver education programmes in schools and colleges. However, there is a concern that if driver education leads to earlier licensing this could increase the number of teenagers involved in road traffic crashes. 
+Objectives
+To quantify the effect of school‐based driver education on licensing and road traffic crashes. 
+Search methods
+We searched CENTRAL, CIG's specialised register, MEDLINE, National Research Register, and the Science & Social Science Citation Index. We also checked reference lists of identified papers and contacted authors and experts in the field. 
+Selection criteria
+Randomised controlled trials comparing school‐based driver education to no driver education and assessing the effect on licensing and road traffic crash involvement. 
+Data collection and analysis
+Two authors independently screened search results, extracted data and assessed trial quality. 
+Main results
+Three trials, conducted between 1982 and 1984, met the inclusion criteria (n=17,965). Two trials examined the effect of driver education on licensing. In the trial by Stock (USA) 87% of students in the driver education group obtained their driving licence as compared to 84.3% in the control group (RR 1.04; 95% CI 1.02 to 1.05). In the trial by Wynne‐Jones (New Zealand) the time from trial enrolment to licensing was 111 days in males receiving driver education compared with 300 days in males who did not receive driver education, and 105 days in females receiving driver education compared with 415 days in females who did not receive driver education. 
+All three trials examined the effect of driver education on road traffic crashes. In the trial by Strang (Australia), 42% of students in each group had one or more crashes since being licensed (RR 1.01, 95% CI 0.83 to 1.23). In the trial by Stock, the number of students involved in one or more crashes as a driver was 27.5% in the driver education group compared to 26.7% in the control group (RR 1.03; 95% CI 0.98 to 1.09). In the trial by Wynne‐Jones, the number of students who experienced crashes was 16% in the driver education group as compared to 14.5% in the control group (RR 1.10; 95% CI 0.76 to 1.59). 
+Authors' conclusions
+The results show that driver education leads to early licensing. They provide no evidence that driver education reduces road crash involvement, and suggest that it may lead to a modest but potentially important increase in the proportion of teenagers involved in traffic crashes. 

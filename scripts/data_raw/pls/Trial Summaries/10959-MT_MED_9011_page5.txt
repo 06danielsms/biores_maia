@@ -1,0 +1,25 @@
+Clinical Study Results
+Adverse events
+There were 27.8% of participants who had adverse events during the study. This was 10 out of 36 participants.
+
+The table below shows how many participants had adverse events during the study.
+
+Adverse events during the study
+10 mg of benralizumab (out of 12 participants)
+30 mg of benralizumab (out of 12 participants)
+100 mg of benralizumab (out of 12 participants)
+
+How many participants had adverse events?
+25.0% (3)
+41.7% (5)
+16.7% (2)
+
+How many participants had serious adverse events?
+0.0% (0)
+0.0% (0)
+8.3% (1)
+
+How many participants left the study due to adverse events?
+0.0% (0)
+0.0% (0)
+0.0% (0)

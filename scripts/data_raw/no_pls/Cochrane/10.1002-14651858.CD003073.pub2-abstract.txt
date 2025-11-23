@@ -1,0 +1,18 @@
+Background
+Arterial reconstructions with prosthetic graft materials or vein are susceptible to infection with a resultant high patient mortality and risk of limb loss. To reduce the risk of infection effective perioperative measures are essential. 
+Objectives
+To determine the effectiveness of perioperative strategies to prevent infection in patients undergoing peripheral arterial reconstruction. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group trials register was searched (last searched September 2010) and the Cochrane Central Register of Controlled Trials (CENTRAL) (last searched 2010, Issue 3), and reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating measures intended to reduce or prevent infection in arterial surgery. 
+Data collection and analysis
+Two authors independently selected and assessed the quality of included trials. Relative risk (RR) was used as a measure of effect for each dichotomous outcome. 
+Main results
+Thirty‐five RCTs were included. Of these, 23 were trials of prophylactic systemic antibiotics, three of rifampicin‐bonded grafts, three of preoperative skin antisepsis, two of suction wound drainage, two of minimally invasive in situ bypass techniques, and individual trials of intraoperative glove change and wound closure techniques. Wound infection or early graft infection outcomes were recorded in all trials. Only two trials, both of rifampicin bonding, followed up graft infection outcomes to two years. 
+Trials of antibiotics versus placebo were of highest quality with six double‐blind studies of the ten included. 
+Prophylactic systemic antibiotics reduced the risk of wound infection (RR) 0.25, 95% Confidence Interval (CI) 0.17 to 0.38) and early graft infection in a fixed‐effect model (RR 0.31, 95% CI 0.11 to 0.85, P = 0.02). Antibiotic prophylaxis for greater than 24 hours appears to be of no added benefit (RR 1.28, 95% CI 0.82 to 1.98). 
+There was no evidence that prophylactic rifampicin bonding to dacron grafts reduced graft infection at either one month (RR 0.63, 95% CI 0.27 to 1.49) or two years (RR 1.05, 95% CI 0.46 to 2.40). 
+There was no evidence of a beneficial or detrimental effect on rates of wound infection with suction groin‐wound drainage (RR 0.96 95% CI 0.50 to 1.86) or of any benefit from a preoperative bathing or shower regimen with antiseptic agents over unmedicated bathing (RR 0.97, 95% CI 0.70 to 1.36). 
+Authors' conclusions
+There is clear evidence of the benefits of prophylactic broad spectrum antibiotics. Many other interventions intended to reduce the risk of infection in arterial reconstruction lack evidence of effectiveness. 

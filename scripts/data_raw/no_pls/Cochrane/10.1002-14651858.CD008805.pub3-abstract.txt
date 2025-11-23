@@ -1,0 +1,14 @@
+Background
+Phosphorus burns are rarely encountered in usual clinical practice and occur mostly in military and industrial settings. However, these burns can be fatal, even with minimal burn area, and are often associated with prolonged hospitalisation. 
+Objectives
+To summarise the evidence of effects (beneficial and harmful) of all interventions for treating people with phosphorus burns. 
+Search methods
+In October 2013 for this first update we searched the Cochrane Wounds Group Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library);Ovid OLDMEDLINE; Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; EBSCO CINAHL and Conference Proceedings Citation Index ‐ Science (CPCI‐S). We did not apply any methodological filters or restrictions on the basis of study design, language, date of publication or publication status. 
+Selection criteria
+Any comparisons of different ways of managing phosphorus burns including, but not restricted, to randomised trials. 
+Data collection and analysis
+We found two non‐randomised comparative studies, both comparing patients treated with and without copper sulphate. 
+Main results
+These two comparative studies provide no evidence to support the use of copper sulphate in managing phosphorus burns. Indeed the small amount of available evidence suggests that it may be harmful. 
+Authors' conclusions
+First aid for phosphorus burns involves the common sense measures of acting promptly to remove the patient's clothes, irrigating the wound(s) with water or saline continuously, and removing phosphorus particles. There is no evidence that using copper sulphate to assist visualisation of phosphorus particles for removal is associated with better outcome, and some evidence that systemic absorption of copper sulphate may be harmful. We have so far been unable to identify any other comparisons relevant to informing other aspects of the care of patients with phosphorus burns. Future versions of this review will take account of information in articles published in languages other than English, which may contain additional evidence based on treatment comparisons. 

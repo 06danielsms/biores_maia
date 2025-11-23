@@ -1,0 +1,35 @@
+Non-small-cell lung cancer (NSCLC) is the most common type of lung cancer. In some patients with NSCLC, their cancer cells have changes in their DNA (genes) where 2 genes combine to create a new gene. When this happens with the gene that makes the protein "ALK", the new gene is called an "ALK gene fusion". This ALK gene fusion can cause tumors to form or can help existing cancer cells grow faster. Researchers are looking for better treatments for patients with NSCLC whose cancer cells have an ALK gene fusion.
+Crizotinib (also known as XALKORI®) is a drug that is now approved for use in many countries including East Asian countries to treat NSCLC with ALK gene fusions. Crizotinib works by blocking the activity of ALK, which is thought to slow or stop the growth of cancer cells with an ALK gene fusion. This study compared crizotinib treatment to "platinum-based chemotherapy", which is a medicine combination that was used as a first-line treatment for patients with NSCLC. Platinum-based chemotherapy is made up of the combination of the drug pemetrexed with either cisplatin or carboplatin.
+The main purpose of this study was to see whether crizotinib treatment would keep patients' cancer from growing for a longer period of time compared to patients treated with platinum-based chemotherapy. To do this the researchers asked,
+Do patients treated with crizotinib have more time before their cancer begins to grow, or before they pass away from any cause, compared to patients treated with platinum-based chemotherapy?
+The researchers measured the "progression-free survival time" which was defined as the time between starting the study and the patients' NSCLC getting worse, or the patient passing away from any cause (such as from disease or an accident). The researchers then calculated the "median" progression-free survival time, which was the time point where half (50%) of the patients in a study group had their NSCLC start to grow, or had passed away from any cause.
+Researchers were also interested in learning more about the safety of crizotinib. They monitored the patients for any medical problems that happened while they were taking crizotinib or after they stopped taking crizotinib.
+This study compared two groups of patients to find out if patients treated with crizotinib would have more time before their cancer began to grow, or before they passed away from any cause, compared to patients treated with platinum-based chemotherapy. The study included men and women who were 18 to 70 years of age who met the following criteria:
+
+-Diagnosed with NSCLC that also had the following:
+
+-Positive test for ALK fusion gene
+
+-Locally advanced NSCLC and not suitable for local treatment, or
+
+-Metastatic NSCLC (cancer had spread outside of the lungs)
+
+-Had not been treated for their NSCLC before using “systemic” medicines (taken by mouth or intravenously)
+
+-Had not been treated before with medicines that block ALK activity
+
+-Had any major surgeries completed at least 4 weeks before entering the study
+
+-Had any radiation procedures completed at least 2 weeks before entering the study, and had mostly recovered from radiation side effects
+
+-Were able to at least walk around and care for themselves, and were out of bed at least 50% of the day.
+
+The patients were assigned to either take 250mg of crizotinib twice daily by mouth, or to receive platinum-based chemotherapy. If the patient was assigned to receive platinum-based chemotherapy, they received standard doses of pemetrexed and either cisplatin or carboplatin, with the patient’s doctor deciding whether cisplatin or carboplatin was best for the patient. The patients were assigned to either group by chance alone. This is known as a “randomized” study. This is done to reduce the differences between groups (like age or the number of men and women), which makes the groups more even to compare. Patients who were assigned to receive platinum-based chemotherapy and had their NSCLC get worse were allowed to switch, or ‘cross over’, into the crizotinib treatment group.
+
+The diagram below shows what happened during the study.
+
+While patients taking crizotinib were treated for an average of 106 weeks, the entire study took over 7 years to complete. The sponsor ran this study at 35 locations in 5 countries in East Asia. It began 29 September 2012 and ended 08 January 2020. A total of 114 women and 93 men participated. All patients were between the ages of 23 and 69.
+
+Patients were to be treated until their NSCLC got worse, they had too many medical problems or couldn’t tolerate the medicines, their overall health declined, or they passed away. Of the 205 patients who started treatment in the study, 55 finished the study. A total of 123 patients passed away before the study was completed, and 3 patients did not finish the study because of other reasons. Twenty-one (21) patients left before the study was over by their choice or a doctor decided it was best for a patient to stop being in the study. In addition, 3 patients were lost to follow-up.
+
+When the study ended in January 2020, the sponsor reviewed the information collected. The sponsor then created a report of the results. This is a summary of that report.

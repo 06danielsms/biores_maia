@@ -1,0 +1,15 @@
+Background
+The use of immunosuppressive drugs for the treatment of RA has been advocated for decades. Cyclophosphamide is an antineoplastic agent widely used in the treatment of cancer patients. It is an alkylating drug, with a marked cytotoxic effect on mononuclear cells and other leukocytes. 
+Objectives
+To assess the short‐term effects of cyclophosphamide for the treatment of rheumatoid arthritis. 
+Search methods
+We searched the Cochrane Musculoskeletal Group's Register, the Cochrane Controlled Trials Register (issue 3, 2000), MEDLINE and Embase up to and including August 2000. We also carried out a handsearch of the reference lists of the trials retrieved from the electronic search. 
+Selection criteria
+All randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing oral cyclophosphamide against placebo (or an active drug at a dosage considered to be ineffective) in patients with rheumatoid arthritis. 
+Data collection and analysis
+Data abstraction was carried out independently by two reviewers. The same two reviewers using a validated checklist (Jadad 1996) assessed the methodological quality of the RCTs and CCTs. Rheumatoid arthritis outcome measures were extracted from the publications for baseline and end‐of‐study. The pooled analysis was performed using standardized mean differences (SMDs) for joint counts. Weighted mean differences (WMDs) were used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios for withdrawals. A chi‐square test was used to assess heterogeneity among trials. Fixed effects models were used throughout. 
+Main results
+A total of 70 patients were included in the pooled analysis of two trials, 31 receiving cyclophosphamide. A statistically significant benefit was observed for cyclophosphamide when compared to placebo for tender and swollen joint scores: SMDs were ‐0.57 and ‐0.59 respectively. The difference in ESR also favoured the active drug but did not reach statistical significance (‐12 mm, 95%CI: ‐26 to 2.5). One trial reported the number of patients developing new or worse erosions: the OR for cyclophosphamide compared to placebo was 0.17 (95% CI: 0.05 to 0.57). 
+Patients receiving placebo were six times more likely to discontinue treatment because of lack of efficacy than patients receiving cyclophosphamide. Withdrawals from adverse reactions were higher in the cyclophosphamide group (Odds ratio=2.9), although this difference was not statistically significant. Side effects from cyclophosphamide included hemorrhagic cystitis, nausea, vomiting, leucopenia, thrombocytopenia, alopecia, amenorrhea and herpes zoster infections. 
+Authors' conclusions
+Cyclophosphamide appears to have a clinically and statistically significant benefit on the disease activity of patients with RA, similar to some disease modifying antirheumatic drugs (DMARDs) such as antimalarials or sulfasalazine, but lower than methotrexate. Toxicity however is severe, limiting its use given the low benefit‐risk ratio compared to other antirheumatic agents. 

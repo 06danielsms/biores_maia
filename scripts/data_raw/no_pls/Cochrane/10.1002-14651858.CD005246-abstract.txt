@@ -1,0 +1,14 @@
+Background
+Controversy exists as to whether neoadjuvant chemotherapy improves survival in patients with invasive bladder cancer, despite randomised controlled trials (RCTs) involving over 3000 patients. 
+Objectives
+To conduct a systematic review and meta‐analysis of individual patient data to evaluate the effect of neoadjuvant chemotherapy on survival in patients with this invasive bladder cancer. 
+Search methods
+MEDLINE and Cancerlit searches were supplemented with information from registers and by hand searching meeting proceedings and also by discussion with relevant trialists and organisations. These have been regularly updated until June 2003. 
+Selection criteria
+Trials that aimed to randomise patients with biopsy proven invasive (i.e. clinical stage T2 to T4a) transitional cell carcinoma of the bladder to receive local definitive treatment with or without neoadjuvant chemotherapy were eligible for inclusion. 
+Data collection and analysis
+We collected, validated and re‐analysed updated data on all randomised patients from all available randomised trials, including 3005 patients from 11 RCTs. For all outcomes, we obtained overall pooled hazard ratios using the fixed effects model. To explore the potential impact of trial design we pre‐planned analyses that grouped trials by important aspects of their design that might influence the treatment effect. To investigate any differences in effect by pre‐defined patient subgroups we used a stratified logrank analysis on the primary endpoint of survival. 
+Main results
+These results include data from one extra trial and so update those in the original publication ABC 2003. Platinum based combination chemotherapy showed a significant benefit on overall survival with a combined hazard ratio (HR) 0.86 (95% CI 0.77 to 0.95, P = 0.003); 14% reduction in the risk of death; 5% absolute benefit at 5 years (95% CI 1% to 7%); overall survival increased from 45% to 50%. This effect was observed irrespective of the type of local treatment and did not vary between subgroups of patients. The HR for all trials, including those that used single‐agent cisplatin, tended to favour neoadjuvant chemotherapy (HR= 0.89, 95% CI 0.81 to 0.98, P = 0.022). Although platinum based combination chemotherapy was beneficial, there was no clear evidence to support the use of single‐agent platinum, indeed there was significant difference in the effect between these groups of trials (P = 0.029). 
+Authors' conclusions
+This improvement in survival encourages the use of platinum based combination chemotherapy for patients with invasive bladder cancer. 

@@ -1,0 +1,14 @@
+Background
+The treatment of brain metastasis is generally palliative since most patients have uncontrollable systemic cancer. Historically, whole brain radiation therapy (WBRT) has been the treatment of choice, although more recently focused radiation therapy e.g. stereotactic radiosurgery (SRS) has developed a role in selected patients. In certain circumstances, such as single brain metastasis, death may be more likely from brain involvement than systemic disease. In this group surgical resection has been proposed to relieve symptoms and prolong survival. 
+Objectives
+To assess the clinical effectiveness of surgical resection plus WBRT versus WBRT alone in the treatment of patients with single brain metastasis. 
+Search methods
+The following databases were part of a systematic literature search: Cochrane Central Register of Controlled Trials (CENTRAL Issue 2, 2010), MEDLINE, EMBASE, CancerLit, Biosis and the Science Citation Index. References of identified studies were hand searched, as were the Journal of Neuro‐Oncology and Neuro‐Oncology, including all conference abstracts. Specialists in neuro‐oncology were contacted for further information. The searches for MEDLINE and EMBASE were updated in October 2007 and December 2010. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing surgery and WBRT with WBRT alone in patients of all ages with proven or suspected single brain metastasis. 
+Data collection and analysis
+Two review authors independently assessed the search results for relevance, undertook critical appraisal according to known guidelines and extracted data using a pre‐specified pro‐forma. 
+Main results
+Three RCTs were identified enrolling 195 patients in total. No significant difference in survival was found (hazard ratio (HR) 0.72, 95% CI 0.34 to 1.55, P = 0.40) although there was heterogeneity between trials (I2 = 83%). One trial found surgery and WBRT increased the duration of Functionally Independent Survival (FIS) (HR 0.42, 95% CI 0.22 to 0.82, P = 0.01). There was some indication that surgery and WBRT might reduce the risk of deaths due to neurological cause (relative risk (RR) 0.68, 95% CI 0.43 to 1.09, P = 0.11). The risk of adverse events was not statistically proven to be different between arms although actual event numbers were higher in the surgery arm. 
+Authors' conclusions
+Surgery and WBRT may improve FIS but not overall survival. It may also reduce the proportion of deaths due to neurological cause. All these results were in a highly selected group of patients. Patients undergoing surgery were not reported to have any higher risk of adverse events than patients who only had WBRT. 

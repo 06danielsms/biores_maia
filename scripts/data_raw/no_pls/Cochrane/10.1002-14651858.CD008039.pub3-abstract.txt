@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original review published in Issue 10, 2010 (Rabbie 2010). Migraine is a common, disabling condition and a burden for the individual, health services and society. Many sufferers do not seek professional help, relying instead on over‐the‐counter analgesics. Co‐therapy with an antiemetic should help to reduce symptoms commonly associated with migraine headaches. 
+Objectives
+To determine efficacy and tolerability of ibuprofen, alone or in combination with an antiemetic, compared to placebo and other active interventions in the treatment of acute migraine headaches in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Relief Database, ClinicalTrials.gov, and reference lists for studies through 22 April 2010 for the original review and to 14 February 2013 for the update. 
+Selection criteria
+We included randomised, double‐blind, placebo‐ or active‐controlled studies using self‐administered ibuprofen to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Numbers of participants achieving each outcome were used to calculate relative risk and number needed to treat (NNT) or harm (NNH) compared to placebo or other active treatment. 
+Main results
+No new studies were found for this update. Nine included studies (4373 participants, 5223 attacks) compared ibuprofen with placebo or other active comparators; none combined ibuprofen with a self‐administered antiemetic. All studies treated attacks with single doses of medication. For ibuprofen 400 mg versus placebo, NNTs for 2‐hour pain‐free (26% versus 12% with placebo), 2‐hour headache relief (57% versus 25%) and 24‐hour sustained headache relief (45% versus 19%) were 7.2, 3.2 and 4.0, respectively. For ibuprofen 200 mg versus placebo, NNTs for 2‐hour pain‐free (20% versus 10%) and 2‐hour headache relief (52% versus 37%) were 9.7 and 6.3, respectively. The higher dose was significantly better than the lower dose for 2‐hour headache relief. Soluble formulations of ibuprofen 400 mg were better than standard tablets for 1‐hour, but not 2‐hour headache relief. 
+Similar numbers of participants experienced adverse events, which were mostly mild and transient, with ibuprofen and placebo. 
+Ibuprofen 400 mg did not differ from rofecoxib 25 mg for 2‐hour headache relief or 24‐hour headache relief. 
+Authors' conclusions
+We found no new studies since the last version of this review. Ibuprofen is an effective treatment for acute migraine headaches, providing pain relief in about half of sufferers, but complete relief from pain and associated symptoms for only a minority. NNTs for all efficacy outcomes were better with 400 mg than 200 mg in comparisons with placebo, and soluble formulations provided more rapid relief. Adverse events were mostly mild and transient, occurring at the same rate as with placebo. 

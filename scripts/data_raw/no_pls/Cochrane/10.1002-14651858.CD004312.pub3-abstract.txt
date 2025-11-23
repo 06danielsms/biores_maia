@@ -1,0 +1,16 @@
+Background
+This is an update of a Cochrane Review first published in 2005. Cervical dystonia is the most common form of focal dystonia and is a highly disabling movement disorder, characterised by involuntary, usually painful, head posturing. Currently, botulinum toxin type A (BtA) is considered the first line therapy for this condition. Before BtA, anticholinergics were the most widely accepted treatment. 
+Objectives
+To compare the efficacy, safety, and tolerability of BtA versus anticholinergic drugs in adults with cervical dystonia. 
+Search methods
+We searched the Cochrane Movement Disorders' Trials Register to June 2003, screened reference lists of articles and conference proceedings to September 2018, and searched CENTRAL, MEDLINE, and Embase, with no language restrictions, to July 2020. 
+Selection criteria
+Double‐blind, parallel, randomised trials (RCTs) of BtA versus anticholinergic drugs in adults with cervical dystonia. 
+Data collection and analysis
+Two review authors independently assessed records, selected included studies, extracted data using a paper pro forma, and evaluated the risk of bias and quality of the evidence. We resolved disagreements by consensus or by consulting a third review author. If enough data had been available, we were to perform meta‐analyses using a random‐effects model for the comparison of BtA versus anticholinergic drugs to estimate pooled effects and corresponding 95% confidence intervals (95% CI). The primary efficacy outcome was improvement in cervical dystonia‐specific impairment. The primary safety outcome was the proportion of participants with any adverse event. 
+Main results
+We included one RCT of moderate overall risk of bias (as multiple domains were at unclear risk of bias), which included 66 BtA‐naive participants with cervical dystonia. Two doses of BtA (Dysport; week 0 and 8; mean dose 262 to 292 U) were compared with daily trihexyphenidyl (up to 24 mg daily). The trial was sponsored by the BtA producer. 
+BtA reduced cervical dystonia severity by an average of 2.5 points (95% CI 0.68 to 4.32) on the Toronto Western Spasmodic Torticollis Rating Scale (TWSTRS) severity subscale 12 weeks after injection, compared to trihexyphenidyl. More participants reported adverse events in the trihexyphenidyl treatment group (76 events), compared with the BtA group (31 events); however, the difference in dropouts due to adverse events was inconclusive between groups. There was a decreased risk of dry mouth, and memory problems with BtA, but the differences were inconclusive between groups for the other reported side effects (blurred vision, dizziness, depression, fatigue, pain at injection site, dysphagia, and neck weakness). 
+Authors' conclusions
+We found very low‐certainty evidence that BtA is more effective, better tolerated, and safer than trihexyphenidyl. 
+We found no information on a dose‐response relationship with BtA, differences between BtA formulations or different anticholinergics, the utility of electromyography‐guided injections, or the duration of treatment effect. 

@@ -1,0 +1,25 @@
+Interventions to prevent hearing loss caused by noise at work
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out if hearing loss caused by noise at work can be prevented. Cochrane researchers collected and analysed all relevant studies to answer this question. They found 29 studies that studied the effect of preventive measures. 
+Key messages 
+Stricter legislation might reduce noise levels. At the personal level, earmuffs and earplugs can reduce noise exposure to safe levels. However, instruction on how to put plugs into the ears is needed. Without instruction earplugs probably do not protect enough. Providing feedback to workers on noise exposure probably does not decrease noise. Engineering solutions such as better maintenance might lead to similar noise reduction as hearing protection. Better evaluation of these engineering solutions is needed. 
+The effects of hearing loss prevention programmes (HLPP) are unclear. Better use of hearing protection as part of a programme probably helps but does not fully protect against hearing loss. Improved implementation might provide better protection. 
+What was studied in the review? 
+Millions of workers are exposed to noise that can lead to hearing loss. The review authors were interested in the effect of any intervention to reduce noise or hearing loss at workplaces, such as engineering solutions, hearing protection or hearing loss prevention programmes. 
+What are the results of the review? 
+Effects on noise exposure  
+Engineering solutions 
+We found one study that showed that noise levels decreased by about 5 decibels (dB) after the implementation of stricter legislation in the mining industry. Even though many case studies show that technical improvements can reduce noise levels at workplaces by as much as 20 dB, there were no controlled studies outside the laboratory that would show this with more confidence. 
+Hearing protection 
+In eight studies with 358 workers, hearing protection reduced noise exposure of workers by about 20 dB(A). However, for earplugs there was moderate‐quality evidence in two randomised studies that if workers lack proper instructions in the use of earplugs, the attenuation offered is reduced by on average 9 dB.  
+Feedback on noise exposure 
+Providing feedback on noise exposure did not change noise levels in the construction industry in one study. 
+Effects on hearing loss  
+We found 16 studies with 81,220 participants on the long‐term effects of hearing protection on hearing loss. 
+Hearing protection 
+The use of hearing protection devices in a well‐implemented HLPP was associated with less hearing loss. For other elements of programmes such as worker training, audiometry alone, noise monitoring, or providing feedback on personal noise exposure, there was no clear effect. Two studies with 3242 workers found that there was no difference in the long‐term effect of earmuffs versus earplugs on hearing loss. 
+Hearing loss prevention programmes 
+Four studies provided very low‐quality evidence that, compared to non‐exposed workers, average HLPPs do not reduce the risk of hearing loss to below a level at least equivalent to that of workers who are exposed to 85 dB(A). Two comparable additional studies showed that the risk of hearing loss is still substantial despite being covered by a HLPP. However, one low‐quality study showed that a stricter HLPP can protect workers from hearing loss. 
+The absence of conclusive evidence should not be interpreted as evidence of lack of effectiveness. Rather, it means that further research is very likely to affect the conclusions we reached. Higher‐quality prevention programmes, better quality of studies, especially in the field of engineering controls, and better implementation of legislation are needed to prevent noise‐induced hearing loss. 
+How up to date is this review? 
+The review authors searched for studies that had been published up to October 2016

@@ -1,0 +1,14 @@
+Background
+Appendicitis is the most common cause of acute abdominal pain requiring surgical intervention. The cause of appendicitis is unclear and the mechanism of pathogenesis continues to be debated. Despite improved asepsis and surgical techniques, postoperative complications, such as wound infection and intraabdominal abscess, still account for a significant morbidity. Several studies implicate that postoperative infections are reduced by administration of antimicrobial regimes. 
+Objectives
+This review evaluated the use of antibiotics compared to placebo or no treatment in patients undergoing appendectomy. Will these patients benefit from antimicrobial prophylaxis? The outcomes were described according to the nature of the appendix, as either simple appendicitis (including the non‐infectious stage) and complicated appendicitis. The efficacy of different antibiotic regimens were not evaluated. 
+Search methods
+We searched The Cochrane Central Register of Controlled Trials (Cochrane Library 2005 issue 1); Pubmed ; EMBASE; and the Cochrane Colorectal Cancer Group Specialised Register (April 2005). In addition, we manually searched the reference lists of the primary identified trials. 
+Selection criteria
+We evaluated Randomised Controlled Trials (RCTs) and Controlled Clinical Trials (CCTs) in which any antibiotic regime were compared to placebo in patients suspected of having appendicitis, and undergoing appendectomy. Both studies on children and adults were reviewed. The outcome measures of the studies were: Wound infection, intra abdominal abscess, length of stay in hospital, and mortality. 
+Data collection and analysis
+Eligibility and trial quality were assessed, recorded and cross‐checked by two reviewers.
+Main results
+Forty‐five studies including 9576 patients were included in this review. The overall result is that the use of antibiotics is superior to placebo for preventing wound infection and intraabdominal abscess, with no apparant difference in the nature of the removed appendix. Studies exclusively on children and studies examining topical application reported results in favour to the above, although the results were not significant. 
+Authors' conclusions
+Antibiotic prophylaxis is effective in the prevention of postoperative complications in appendectomised patients, whether the administration is given pre‐, peri‐ or post‐operatively, and could be considered for routine in emergency appendectomies. 

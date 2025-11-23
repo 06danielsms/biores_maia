@@ -1,0 +1,14 @@
+Background
+Provision of assistive technology is a widely used intervention for people with rheumatoid arthritis. Assistive technology is any item used to increase or maintain functional ability in individuals with disabilities. It includes a wide range of products, from low‐technology devices to technologically complex equipment. Yet, there are few systematic reviews on the effectiveness of assistive technology in this population. 
+Objectives
+To assess the benefits of assistive technology for adults with rheumatoid arthritis in terms of improving functional ability and reducing pain, and to assess potential adverse effects in terms of psychological discomfort, personal injury or material damage related to device use. 
+Search methods
+We searched the following databases: CENTRAL (The Cochrane Library), MEDLINE, EMBASE, CINAHL, AMED, ISI Web of Science, PEDro, and OTseeker (to October 2008). In addition, we scanned reference lists, sought grey literature, and had personally communicated with authors. We updated the literature searches in January 2009. 
+Selection criteria
+Included study designs were randomised controlled trials, clinical controlled trials, controlled before and after studies, and interrupted time series where the effectiveness of assistive technology was evaluated. In addition, comparative observational studies were included if addressing adverse effects. 
+Data collection and analysis
+Two authors independently selected trials, extracted data, and assessed study quality. Investigators were contacted to obtain missing information. 
+Main results
+Only one randomised controlled trial with 29 participants was included. The study compared the use of an eye drop device to a standard bottle in people with rheumatoid arthritis suffering from persistent dry eyes. The study was considered to have low quality of evidence. The proportions with observed difficulties when using the device to squeeze out drops and getting the drops in the eyes were 10% and 14%, respectively. This compared to 52% and 52% when using the standard bottle (P = 0.001; P = 0.003, respectively). The proportions of participants reporting difficulties with squeezing the bottle, controlling the number of drops, and aiming the drops when using the device were 40%, 44%, and 46% respectively, while using the standard bottle the proportions with difficulties were 72%, 84%, and 76% (P = 0.001; P = 0.003; P = 0.031, respectively). 
+Authors' conclusions
+Only one trial met the inclusion criteria for this review. Thus, there is very limited evidence for the effect of assistive technology for adults with rheumatoid arthritis and, therefore, an urgent need for high‐quality research addressing the effectiveness of commonly used interventions. 

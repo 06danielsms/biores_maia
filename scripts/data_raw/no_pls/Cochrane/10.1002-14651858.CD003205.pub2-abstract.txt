@@ -1,0 +1,14 @@
+Background
+People with type 2 diabetes mellitus are at increased risk from cardiovascular disease. Dietary omega‐3 polyunsaturated fatty acids (PUFAs) are known to reduce triglyceride levels, but their impact on cholesterol levels, glycemic control and vascular outcomes are not well known. 
+Objectives
+To determine the effects of omega‐3 PUFA supplementation on cardiovascular outcomes, cholesterol levels and glycemic control in people with type 2 diabetes mellitus. 
+Search methods
+We carried out a comprehensive search of The Cochrane Library, MEDLINE, EMBASE, bibliographies of relevant papers and contacted experts for identifying additional trials. 
+Selection criteria
+All randomised controlled trials were included where omega‐3 PUFA supplementation or dietary intake was randomly allocated and unconfounded in people with type 2 diabetes. Authors of large trials were contacted for missing information. 
+Data collection and analysis
+Trials were assessed for inclusion. Authors were contacted for missing information. Data was extracted and quality assessed independently in duplicate. Fixed‐effect meta‐analysis was carried out. 
+Main results
+Twenty three randomised controlled trials (1075 participants) were included with a mean treatment duration of 8.9 weeks. The mean dose of omega‐3 PUFA used in the trials was 3.5 g/d. No trials with vascular events or mortality endpoints were identified. Among those taking omega‐3 PUFA triglyceride levels were significantly lowered by 0.45 mmol/L (95% confidence interval (CI) ‐0.58 to ‐0.32, P < 0.00001) and VLDL cholesterol lowered by ‐0.07 mmol/L (95% CI ‐0.13 to 0.00, P = 0.04). LDL cholesterol levels were raised by 0.11 mmol/L (95% CI 0.00 to 0.22, P = 0.05). No significant change in or total or HDL cholesterol, HbA1c, fasting glucose, fasting insulin or body weight was observed. The increase in VLDL remained significant only in trials of longer duration and in hypertriglyceridemic patients. The elevation in LDL cholesterol was non‐significant in subgroup analyses. No adverse effects of the intervention were reported. 
+Authors' conclusions
+Omega‐3 PUFA supplementation in type 2 diabetes lowers triglycerides and VLDL cholesterol, but may raise LDL cholesterol (although results were non‐significant in subgroups) and has no statistically significant effect on glycemic control or fasting insulin. Trials with vascular events or mortality defined endpoints are needed. 

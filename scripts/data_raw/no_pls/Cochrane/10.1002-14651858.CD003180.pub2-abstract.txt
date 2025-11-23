@@ -1,0 +1,14 @@
+Background
+Little is known about the effectiveness of strategies to enable people to achieve and maintain recommended levels of physical activity. 
+Objectives
+To assess the effectiveness of interventions designed to promote physical activity in adults aged 16 years and older, not living in an institution. 
+Search methods
+We searched The Cochrane Library (issue 1 2005), MEDLINE, EMBASE, CINAHL, PsycLIT, BIDS ISI, SPORTDISCUS, SIGLE, SCISEARCH (from earliest dates available to December 2004). Reference lists of relevant articles were checked. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials that compared different interventions to encourage sedentary adults not living in an institution to become physically active. Studies required a minimum of six months follow up from the start of the intervention to the collection of final data and either used an intention‐to‐treat analysis or, failing that, had no more than 20% loss to follow up. 
+Data collection and analysis
+At least two reviewers independently assessed each study quality and extracted data. Study authors were contacted for additional information where necessary. Standardised mean differences and 95% confidence intervals were calculated for continuous measures of self‐reported physical activity and cardio‐respiratory fitness. For studies with dichotomous outcomes, odds ratios and 95% confidence intervals were calculated. 
+Main results
+The effect of interventions on self‐reported physical activity (19 studies; 7598 participants) was positive and moderate (pooled SMD random effects model 0.28 95% CI 0.15 to 0.41) as was the effect of interventions (11 studies; 2195 participants) on cardio‐respiratory fitness (pooled SMD random effects model 0.52 95% CI 0.14 to 0.90). There was significant heterogeneity in the reported effects as well as heterogeneity in characteristics of the interventions. The heterogeneity in reported effects was reduced in higher quality studies, when physical activity was self‐directed with some professional guidance and when there was on‐going professional support. 
+Authors' conclusions
+Our review suggests that physical activity interventions have a moderate effect on self‐reported physical activity, on achieving a predetermined level of physical activity and cardio‐respiratory fitness. Due to the clinical and statistical heterogeneity of the studies, only limited conclusions can be drawn about the effectiveness of individual components of the interventions. Future studies should provide greater detail of the components of interventions. 

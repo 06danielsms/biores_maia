@@ -1,0 +1,14 @@
+Background
+Prayer is amongst the oldest and most widespread interventions used with the intention of alleviating illness and promoting good health. Given the significance of this response to illness for a large proportion of the world's population, there has been considerable interest in recent years in measuring the efficacy of intercessory prayer for the alleviation of ill health in a scientifically rigorous fashion. The question of whether this may contribute towards proving or disproving the existence of God is a philosophical question lying outside the scope of this review of the effects of prayer. This revised version of the review has been prepared in response to feedback and to reflect new methods in the conduct and presentation of Cochrane reviews. 
+Objectives
+To review the effects of intercessory prayer as an additional intervention for people with health problems already receiving routine health care. 
+Search methods
+We systematically searched ten relevant databases including MEDLINE and EMBASE (June 2007). 
+Selection criteria
+We included any randomised trial comparing personal, focused, committed and organised intercessory prayer with those interceding holding some belief that they are praying to God or a god versus any other intervention. This prayer could be offered on behalf of anyone with health problems. 
+Data collection and analysis
+We extracted data independently and analysed it on an intention to treat basis, where possible. We calculated, for binary data, the fixed‐effect relative risk (RR), their 95% confidence intervals (CI). 
+Main results
+Ten studies are included in this review (7646 patients). For the comparison of intercessory prayer plus standard care versus standard care alone, overall there was no clear effect of intercessory prayer on death (5 RCTs, n=3389, random‐effects RR 1.00 CI 0.74 to1.36). For general clinical state there was also no significant difference between groups (5 RCTs, n=2705, RR intermediate or bad outcome 0.98 CI 0.86 to 1.11). Four studies found no effect for re‐admission to Coronary Care Unit (4 RCTs, n=2644, RR 1.00 CI 0.77 to 1.30).Two other trials found intercessory prayer had no effect on re‐hospitalisation (2 RCTs, n=1155, RR 0.93 CI 0.71 to 1.22). 
+Authors' conclusions
+These findings are equivocal and, although some of the results of individual studies suggest a positive effect of intercessory prayer, the majority do not and the evidence does not support a recommendation either in favour or against the use of intercessory prayer. We are not convinced that further trials of this intervention should be undertaken and would prefer to see any resources available for such a trial used to investigate other questions in health care. 

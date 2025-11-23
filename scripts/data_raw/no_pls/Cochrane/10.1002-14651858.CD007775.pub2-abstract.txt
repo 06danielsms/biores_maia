@@ -1,0 +1,14 @@
+Background
+Pharmacologic therapies for maintenance treatment of heroin dependence have been used and studied widely. Systematic reviews have demonstrated the effectiveness of such therapies. Opium dependence is associated with less problems and impairments and is less likely to be used by injecting, with consequent reductions in risk of overdose and blood‐borne diseases. Although it is a common substance use disorder in many countries, a systematic review of the literature is lacking on the maintenance treatment for opium dependence. 
+Objectives
+To evaluate the effectiveness and safety of various pharmacological therapies on maintenance of opium dependence (alone or in combination with psychosocial interventions) compared to no intervention, detoxification, different doses of the same intervention, other pharmacologic interventions and any psychosocial interventions. 
+Search methods
+We searched the following sources up to February 2012: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, PsycINFO, regional databases (IMEMR and ASCI), national databases (Iranmedex and Iranpsych), main electronic sources of ongoing trials and reference lists of all relevant papers. Also, we contacted known investigators from some Asian countries to obtain details about unpublished trials. 
+Selection criteria
+Randomised controlled clinical trials (RCTs) comparing any maintenance pharmacologic intervention versus no intervention, other pharmacologic or non‐pharmacologic intervention for opium dependence. 
+Data collection and analysis
+Two reviewers assessed the risks of biases and extracted data, independently.
+Main results
+Three RCTs recruiting 870 opium dependents were included. The studies made different comparisons so it was not possible to pool data. Only retention rate was assessed by the studies. Two studies compared different doses of buprenorphine: in one study, 4 mg/day of buprenorphine was compared with doses of 2 mg/day and 1 mg/day and in another study, 8 mg/day of buprenorphine was compared with doses of 3 mg/day and 1 mg/day. Comparisons showed a statistically significant difference between groups; higher doses of buprenorphine increased the probability of retention in treatment. The studies had high risks of biases. In the third study, after a process of detoxification, baclofen (60 mg/day) was compared with placebo for maintenance treatment. The difference in retention rate between groups was high, but it was not statistically significant. 
+Authors' conclusions
+It is not possible to conclude about the use of any kind of pharmacologic therapies for maintenance treatment of opium dependence. 

@@ -1,0 +1,14 @@
+Background
+Surgery used to be the treatment of choice in cases of blunt hepatic injury, but this approach gradually changed over the last two decades as increasing non‐operative management (NOM) of splenic injury led to its use for hepatic injury. The improvement in critical care monitoring and computed tomographic scanning, as well as the more frequent use of interventional radiology techniques, has helped to bring about this change to non‐operative management. Liver trauma ranges from a small capsular tear, without parenchymal laceration, to massive parenchymal injury with major hepatic vein/retrohepatic vena cava lesions. In 1994, the Organ Injury Scaling Committee of the American Association for the Surgery of Trauma (AAST) revised the Hepatic Injury Scale to have a range from grade I to VI. Minor injuries (grade I or II) are the most frequent liver injuries (80% to 90% of all cases); severe injuries are grade III‐V lesions; grade VI lesions are frequently incompatible with survival. In the medical literature, the majority of patients who have undergone NOM have low‐grade liver injuries. The safety of NOM in high‐grade liver lesions, AAST grade IV and V, remains a subject of debate as a high incidence of liver and collateral extra‐abdominal complications are still described. 
+Objectives
+To assess the effects of non‐operative management compared to operative management in high‐grade (grade III‐V) blunt hepatic injury. 
+Search methods
+The search for studies was run on 14 April 2014. We searched the Cochrane Injuries Group's Specialised Register, The Cochrane Library, Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic+Embase (Ovid), PubMed, ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S & CPSI‐SSH), clinical trials registries, conference proceedings, and we screened reference lists. 
+Selection criteria
+All randomised trials that compare non‐operative management versus operative management in high‐grade blunt hepatic injury. 
+Data collection and analysis
+Two authors independently applied the selection criteria to relevant study reports. We used standard methodological procedures as defined by the Cochrane Collaboration. 
+Main results
+We were unable to find any randomised controlled trials of non‐operative management versus operative management in high‐grade blunt hepatic injury. 
+Authors' conclusions
+In order to further explore the preliminary findings provided by animal models and observational clinical studies that suggests there may be a beneficial effect of non‐operative management versus operative management in high‐grade blunt hepatic injury, large, high quality randomised trials are needed. 

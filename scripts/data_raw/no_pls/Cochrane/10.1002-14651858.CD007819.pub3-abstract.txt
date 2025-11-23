@@ -1,0 +1,14 @@
+Background
+Dental caries is a multifactorial disease in which the fermentation of food sugars by bacteria from the biofilm (dental plaque) leads to localised demineralisation of tooth surfaces, which may ultimately result in cavity formation. Resin composites are widely used in dentistry to restore teeth. These restorations can fail for a number of reasons, such as secondary caries, and restorative material fracture and other minor reasons. From these, secondary caries, which are caries lesions developed adjacent to restorations, is the main cause for restorations replacement. The presence of antibacterials in both the filling material and the bonding systems would theoretically be able to affect the initiation and progression of caries adjacent to restorations. This is an update of the Cochrane review published in 2009. 
+Objectives
+To assess the effects of antibacterial agents incorporated into composite restorations for the prevention of dental caries. 
+Search methods
+We searched the following electronic databases: the Cochrane Oral Health Group's Trials Register (to 23 July 2013), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 6), MEDLINE via OVID (1946 to 23 July 2013) and EMBASE via OVID (1980 to 23 July 2013). We searched the US National Institutes of Health Trials Register (http://clinicaltrials.gov), the metaRegister of Controlled Trials (www.controlled‐trials.com) and the World Health Organization International Clinical Trials Registry platform (www.who.int/trialsearch) for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+Randomised controlled trials comparing resin composite restorations containing antibacterial agents with composite restorations not containing antibacterial agents. 
+Data collection and analysis
+Two review authors conducted screening of studies in duplicate and independently, and although no eligible trials were identified, the two authors had planned to extract data independently and assess trial quality using standard Cochrane Collaboration methodologies. 
+Main results
+We retrieved 308 references to studies, none of which matched the inclusion criteria for this review and all of which were excluded. 
+Authors' conclusions
+We were unable to identify any randomised controlled trials on the effects of antibacterial agents incorporated into composite restorations for the prevention of dental caries. The absence of high level evidence for the effectiveness of this intervention emphasises the need for well designed, adequately powered, randomised controlled clinical trials. Thus, conclusions remain the same as the previously published review, with no included clinical trials. 

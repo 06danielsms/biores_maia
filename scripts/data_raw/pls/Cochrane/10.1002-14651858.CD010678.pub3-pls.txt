@@ -1,0 +1,16 @@
+Artemether injection for treating people with severe malaria
+What is the aim of this review? 
+Injection of artesunate is recommended by the World Health Organization (WHO) for treating adults and children that have severe malaria as studies have shown that it results in fewer deaths compared to quinine treatment. 
+Artemether is an alternative artemisinin‐based medicine but is only available as a pre‐mixed oil‐based solution for intramuscular injection. Artemether is now widely available and is used in many African countries, although it is not specifically recommended by the WHO. The aim of this review was to examine the effects of treating people that have severe malaria with artemether injected intramuscularly compared to treatment with other antimalarial medicines given intramuscularly or intravenously. 
+Key messages 
+Artemether may not be more effective than quinine at preventing deaths from severe malaria in children. However, in adults artemether is probably more effective than quinine at preventing deaths. With respect to other patient‐oriented outcomes such as fever and parasite clearance time, artemether seems to be more effective than quinine in children and adults. For adults, artemether had a large effect on death compared to quinine but other outcomes were largely not reported or showed no significant difference. Artemether has not been compared to artesunate in children. Although there is a paucity of direct evidence comparing artemether with artesunate in adults, artemether probably increases the risk of death compared to artesunate. In settings where artesunate is not available, artemether remains a better alternative to quinine for the treatment of severe malaria. 
+What was studied in the review? 
+The review authors examined the available research that evaluated the effects of treating people that have severe malaria with artemether injected intramuscularly compared to treatment with other antimalarial medicines given intramuscularly or intravenously. Nineteen studies looked at the effects of treatment with intramuscular artemether on people with severe malaria compared to treatment with other antimalarial medicines given intramuscularly or intravenously. These studies were undertaken in Africa (12 studies) and Asia (seven studies). This is an update of a 2014 Cochrane Review and includes a new trial from Central African Republic. 
+What are the main results of the review? 
+Artemether versus quinine 
+For children, intramuscular artemether is probably as good as quinine at preventing deaths from severe malaria (moderate‐certainty evidence). Artemether may shorten time to coma resolution by about five hours (low‐certainty evidence), and may reduce the number of children with signs of brain damage at the time of hospital discharge (low‐certainty evidence). 
+In older children (> 15 years) and adults, treatment with artemether probably results in fewer deaths than quinine (moderate‐certainty evidence). 
+Artemether versus artesunate 
+In adults, artemether performs worse than artesunate in terms of mortality (moderate‐certainty evidence), but no trials have been conducted in young children. 
+How up to date is this review? 
+The review authors searched for studies up to 7 September 2018.

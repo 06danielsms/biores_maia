@@ -1,0 +1,30 @@
+How accurate are contrast‐enhanced ultrasound scans for detecting hepatocellular carcinoma?
+Key messages 
+In adults with chronic liver disease, contrast‐enhanced ultrasound (CEUS) can miss diagnosing hepatocellular carcinoma in around 22.2% of people who would not then receive timely or appropriate treatment, and would fail to diagnose hepatocellular carcinoma in 6.2% of people who could receive unnecessary further testing or treatment. 
+In the subset of people who are able have the hepatocellular carcinoma removed by surgery, CEUS probably misses hepatocellular carcinoma in 22.5% of people who could undergo surgery to remove part of their liver while it would erroneously find cancer in 7.3% of people who would undergo unnecessary further test or surgery. 
+As there were some problems with the way the studies were conducted, CEUS to detect hepatocellular carcinoma may appear more accurate than it actually is. 
+Why is improving the diagnosis of hepatocellular carcinoma important? 
+Hepatocellular carcinoma is cancer originating in the liver. It is sixth in terms of occurrences of cancer and fourth in terms of cancer‐related deaths worldwide. It occurs mostly in people with chronic liver disease regardless of the exact cause. People with blood test or ultrasound results that suggest they may have hepatocellular carcinoma may go on to have further tests, such as imaging or a biopsy (where a small piece of the liver is removed and examined). If the cancer is detected early, people may have part of the liver removed or have a liver transplant. In advanced hepatocellular carcinoma, they may need chemotherapy. If hepatocellular carcinoma is missed at diagnostic testing, people will not receive appropriate treatment. However, incorrectly diagnosing hepatocellular carcinoma when it is not present means that people may undergo unnecessary testing or treatment. 
+What is contrast‐enhanced ultrasound and how can it diagnose hepatocellular carcinoma? 
+CEUS can detect abnormalities in the liver that might be due to cancer and, using contrast agents, confirm the diagnosis of hepatocellular carcinoma. These contrast agents are safe. CEUS is used in clinical practice to confirm the presence of hepatocellular carcinoma in people in whom suspicion was raised by prior performed abdominal ultrasound or a blood test to measure alpha‐foetoprotein. 
+The role of CEUS in the diagnosis of hepatocellular carcinoma remains controversial between guidelines. Previous systematic reviews have assessed the performance of CEUS in detecting hepatocellular carcinoma but they have included different studies and found different results. 
+What did we want to find out? 
+We wanted to find out if CEUS is accurate enough to diagnose hepatocellular carcinoma in adults with chronic liver disease (a progressive deterioration of liver functions for more than six months). We were interested first in hepatocellular carcinoma of any size and severity and, second, in hepatocellular carcinomas that were suitable for surgical removal (resection). 
+What did we do? 
+We searched for studies that assessed the accuracy of diagnostic tests of CEUS scans compared to the best available tests to confirm hepatocellular carcinoma in adults with chronic liver disease. The best available test is examination of the liver, or part of it, under a microscope. 
+What did we find? 
+We found 23 studies with 6546 adults.
+Around 690 (69%) out of 1000 adults with chronic liver disease had a confirmed hepatocellular carcinoma of any size and severity. Considering these 1000 people, CEUS: 
+– correctly detected liver cancer in 537 people;
+– missed liver cancer in 153 people;
+– incorrectly detected cancer in 19 people;
+– correctly detected no cancer in 291 people.
+Around 690 (69%) out of 1000 adults with chronic liver disease had a confirmed hepatocellular carcinoma that could be removed by surgery. Considering these 1000 people, CEUS: 
+– correctly detected liver cancer in 535 people;
+– missed liver cancer in 155 people;
+– incorrectly detected cancer in 23 people;
+– correctly detected no cancer in 287 people.
+What are the limitations of the evidence? 
+Our confidence in the evidence is limited as the studies used different methods to select study participants and used different reference standards. This means that CEUS scans may be more or less accurate than what the evidence suggests. 
+How up to date is this evidence? 
+The evidence is up to date to 5 November 2021.

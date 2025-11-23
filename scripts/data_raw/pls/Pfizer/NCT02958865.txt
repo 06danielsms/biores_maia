@@ -1,0 +1,48 @@
+What is ulcerative colitis?
+Ulcerative Colitis (or "UC") is a long-term inflammatory medical condition that affects the large intestines (also known as the colon). Symptoms include cramping, constipation, diarrhea, rectal bleeding, and fatigue (feeling very tired).
+The exact cause of UC is not known. It is thought that UC is caused by an overactive immune system, which is normally responsible for fighting infections. Medicines are available that lower the activity of the immune system, but some people with UC do not get better when taking these medicines. Some people who do get better when taking these medicines still have worse UC over time.
+Researchers are looking for new treatments that can help treat patients with UC.
+What are Ritlecitinib and Brepocitinib?
+Ritlecitinib is a "small molecule" oral medication (swallowed). Small molecules can move easily through the cell membrane to interact with other molecules, such as enzymes, inside a cell.
+Ritlecitinib prevents (inhibits) certain enzymes from working. Enzymes are protein molecules in cells which speed up chemical reactions in the body. The enzymes that ritlecitinib inhibits are known as janus kinase 3 (JAK3) and the tyrosine-protein (TEC) kinase family.
+Both of these enzymes help control inflammatory pathways in the cell. They also cause molecules known as cytokines to be released. Cytokines cause inflammation. This inflammation is usually used by the immune system to fight infections that may be caused by viruses or bacteria. In people with UC, the body's immune system causes inflammation even although they are healthy. Brepocitinib is another small molecule oral medication. It inhibits enzymes known as janus kinase 1 (JAK1) and tyrosine kinase 2 (TYK2). These enzymes control signals to the immune system cells that produce cytokines. By stopping the function of JAK1 and TYK2, brepocitinib may prevent the abnormal immune system response and inflammation in people with UC.
+What was the purpose of this study?
+The main purpose of the study was to find out if ritlecitinib or brepocitinib was more effective at relieving UC symptoms. In addition, both study medications were compared to placebo. A placebo does not have any medicine in it, but it looks just like the study medication.
+Researchers wanted to know:
+Did the participants taking Ritlecitinib or Brepocitinib have more relief from their UC symptoms?
+How was the study done? 
+
+Researchers tested various doses of ritlecitinib or brepocitinib on groups of study participants to find out if study participants taking these study medicines experienced relief from their UC symptoms. 
+
+- Ritlecitinib (total of 150 participants): 51 participants received 20 mg, 49 participants received 70 mg, 50 participants received 200 mg
+- Brepocitinib (total of 142 participants): 48 participants received 10 mg, 47 participants received 30 mg, 47 participants received 60 mg
+- Placebo (total of 25 participants) 
+
+The study participants and researchers did not know who took ritlecitinib or brepocitinib and who took the placebo. This is known as a “double -blinded” study. Study participants were assigned to each group by chance alone. Researchers measured the symptom relief of UC for each treatment group by using a Mayo score. This is a scoring system that measures how many stools were passed each day, amount of rectal bleeding (if any), mucosal appearance (doctors use a camera on the end of a tube to look at the inside lining of the colon), and a rating of the disease by a doctor (normal, mild, moderate or severe).
+
+The Mayo score ranges from 0 to 12:
+
+- Mayo score 0 to 2: Participant is in remission (no disease activity)
+- Mayo score 3 to 5: Participant has mild disease
+- Mayo score 6 to 10: Participant has moderate disease
+- Mayo score 10 and higher: Participant has severe disease 
+
+All participants in the study started with moderate to severe UC according to their Mayo score. The difference in their score after the induction period would indicate how effective the study treatment was.
+
+Where did this study take place? 
+
+The Sponsor ran this study at 154 locations in 19 countries (United States, Australia, Bulgaria, Czech Republic, Denmark, Georgia, Germany, Hungary, Israel, Italy, Republic of Korea, Romania, Russian Federation, Serbia, Slovakia, Spain, Poland, Turkey and Ukraine).
+
+When did this study take place?
+
+It began 03 February 2017 and ended 10 May 2021.
+
+Who participated in this study?
+
+The study included participants who had moderate to severe UC, even although they had tried other treatments. A total of 182 men participated and a total of 135 women participated. All participants were between the ages of 18 and 73. Participants were to be treated in the induction period for 8 weeks. Of the 317 participants who started the study, 281 finished the induction phase. Ten (10) participants in the ritlecitinib group, 4 participants in the brepocitinib group, and zero participants in the placebo group, did not finish the induction phase because of medical problems.
+
+Overall, 36 participants left before the study was over by their choice or a doctor decided it was best for a participant to stop being in the study.
+
+How long did the study last?
+
+Study participants were in the induction phase of the study for 8 weeks. The entire study took 51 months to complete. The study was completed as planned. When the study ended in May 2021, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

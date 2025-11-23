@@ -1,0 +1,14 @@
+Background
+An increase in serious adverse events with both regular formoterol and regular salmeterol in chronic asthma has been demonstrated in previous Cochrane reviews. 
+Objectives
+We set out to compare the risks of mortality and non‐fatal serious adverse events in trials which have randomised patients with chronic asthma to regular formoterol versus regular salmeterol. 
+Search methods
+We identified trials using the Cochrane Airways Group Specialised Register of trials. We checked manufacturers' websites of clinical trial registers for unpublished trial data and also checked Food and Drug Administration (FDA) submissions in relation to formoterol and salmeterol. The date of the most recent search was January 2012. 
+Selection criteria
+We included controlled, parallel‐design clinical trials on patients of any age and with any severity of asthma if they randomised patients to treatment with regular formoterol versus regular salmeterol (without randomised inhaled corticosteroids), and were of at least 12 weeks' duration. 
+Data collection and analysis
+Two authors independently selected trials for inclusion in the review and extracted outcome data. We sought unpublished data on mortality and serious adverse events from the sponsors and authors. 
+Main results
+The review included four studies (involving 1116 adults and 156 children). All studies were open label and recruited patients who were already taking inhaled corticosteroids for their asthma, and all studies contributed data on serious adverse events. All studies compared formoterol 12 μg versus salmeterol 50 μg twice daily. The adult studies were all comparing Foradil Aerolizer with Serevent Diskus, and the children's study compared Oxis Turbohaler to Serevent Accuhaler. There was only one death in an adult (which was unrelated to asthma) and none in children, and there were no significant differences in non‐fatal serious adverse events comparing formoterol to salmeterol in adults (Peto odds ratio (OR) 0.77; 95% confidence interval (CI) 0.46 to 1.28), or children (Peto OR 0.95; 95% CI 0.06 to 15.33). Over a six‐month period, in studies involving adults that contributed to this analysis, the percentages with serious adverse events were 5.1% for formoterol and 6.4% for salmeterol; and over a three‐month period the percentages of children with serious adverse events were 1.3% for formoterol and 1.3% for salmeterol. 
+Authors' conclusions
+We identified four studies comparing regular formoterol to regular salmeterol (without randomised inhaled corticosteroids, but all participants were on regular background inhaled corticosteroids). The events were infrequent and consequently too few patients have been studied to allow any firm conclusions to be drawn about the relative safety of formoterol and salmeterol. Asthma‐related serious adverse events were rare and there were no reported asthma‐related deaths. 

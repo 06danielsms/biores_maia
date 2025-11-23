@@ -1,0 +1,14 @@
+Background
+Ayurvedic medicine has been used to treat mental health problems since1000 BC.
+Objectives
+To review effects of Ayurvedic medicine or treatments for schizophrenia.
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (March 2007) and AMED (March 2007), inspected references of all identified studies and contacted the first author of each included study. 
+Selection criteria
+We included all clinical randomised trials comparing Ayurvedic medicine or treatments with placebo, typical or atypical antipsychotic drugs for schizophrenia and schizophrenia‐like psychoses. 
+Data collection and analysis
+We independently extracted data and calculated random effects, relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat/harm (NNT/H) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). 
+Main results
+From the three small (total n=250) short included studies, we were unable to extract any data on many broad clinically important outcomes such as global state, use of services, and satisfaction with treatment. When Ayurvedic herbs were compared with placebo, about 20% of people left the studies early (n=120, 2 RCTs, RR 0.77 CI 0.37 to 1.62). Mental state ratings were mostly equivocal with the exception of the brahmyadiyoga group using Ayurvedic assessment (n=68, 1 RCT, RR not improved 0.56 CI 0.36 to 0.88, NNT 4 CI 3 to 12). Behaviour seemed unchanged (n=43, 1 RCT, WMD Fergus Falls Behaviour Rating 1.14 CI ‐1.63 to 3.91). Nausea and vomiting were common in the brahmyadiyoga group (n=43, RR 13.13 CI 0.80 to 216.30). When the Ayurvedic herbs were compared with antipsychotic drugs (chlorpromazine), again, equal numbers left the study early (n=120, 2 RCTs, RR for brahmyadiyoga 0.91 CI 0.42 to 1.97) but people allocated herbs were at greater risk of no improvement in mental state compared to those allocated chlorpromazine (n=45, RR 1.82 CI 1.11 to 2.98). Again, nausea and vomiting were found with use of brahmyadiyoga (n=45, 1 RCT, RR 20.45 CI 1.09 to 383.97, NNH 2 CI 2 to 38). Finally, when Ayurvedic treatment, in this case a complex mixture of many herbs, is compared with chlorpromazine in acutely ill people with schizophrenia, it is equally (˜10% attrition, n=36, RR 0.67 CI 0.13 to 3.53), but skewed data does seem to favour the chlorpromazine group. 
+Authors' conclusions
+Ayurvedic medication may have some effects for treatment of schizophrenia, but has been evaluated only in a few small pioneering trials. 

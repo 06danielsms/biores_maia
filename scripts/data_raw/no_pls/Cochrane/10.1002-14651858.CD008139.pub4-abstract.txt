@@ -1,0 +1,16 @@
+Background
+Cystic fibrosis is the most common, life‐threatening, recessively inherited disease of Caucasian populations. It is a multisystem disorder caused by a mutation in the gene encoding the cystic fibrosis transmembrane conductance regulator protein which is important in producing sweat, digestive juices and mucus.The impaired or absent function of this protein results in the production of viscous mucus within the lungs and an environment that is susceptible to chronic airway obstruction and pulmonary colonization by a range of pathogenic bacteria. Morbidity and mortality of cystic fibrosis is related to chronic pulmonary sepsis and its complications by these bacteria. 
+Influenza can worsen the course of the disease in cystic fibrosis by increasing the risk of pneumonia and secondary respiratory complications. Antiviral agents form an important part of influenza management and include the neuraminidase inhibitors zanamivir and oseltamivir. These inhibitors can limit the infection and prevent the spread of the virus. 
+Objectives
+To assess the effects of neuraminidase inhibitors for the treatment of influenza infection in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search: 02 November 2015.
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials comparing neuraminidase inhibitors with placebo or other antiviral drugs. 
+Data collection and analysis
+Two review authors had planned to independently screen studies, extract data and assess risk of bias using standard Cochrane methodologies. No studies were identified for inclusion. 
+Main results
+No relevant studies were retrieved after a comprehensive search of the literature.
+Authors' conclusions
+We were unable to identify any randomised controlled studies or quasi‐randomised controlled studies on the efficacy of neuraminidase inhibitors for the treatment of influenza infection in people with cystic fibrosis. The absence of high level evidence for the effectiveness of these interventions emphasises the need for well‐designed, adequately powered, randomised controlled clinical studies. 

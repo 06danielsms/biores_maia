@@ -1,0 +1,14 @@
+Background
+Traumatic brain injury (TBI) is a leading cause of death and disability worldwide. Cerebral oedema, the accumulation of fluid within the brain, is believed to be an important contributor to the secondary brain damage that occurs following injury. The release of kinins is thought to be an important factor in the development of cerebral vasogenic oedema and the use of bradykinin beta‐2 receptor antagonists, which prevent the release of these kinins, has been proposed as a potential therapeutic intervention. 
+Objectives
+The objective was to assess the safety and effectiveness of bradykinin beta‐2 receptor antagonists for TBI. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, Cochrane Central Register of Controlled Trials (The Cochrane Library 2010 Issue 2), MEDLINE (Ovid SP), EMBASE (Ovid SP), ISI Web of Science: Science Citation Index Expanded (SCI‐EXPANDED), ISI Web of Science: Conference Proceedings Citation Index‐Science (CPCI‐S), Zetoc: British Library's table of contents of journal articles and conference proceedings, PubMed, and Current Controlled Trials covering all available years up to 20th May 2010. We also searched the Internet and checked the reference lists of relevant papers and other reviews to identify any further studies. 
+Selection criteria
+Randomised controlled trials of beta‐2 receptor antagonists versus placebo for TBI.
+Data collection and analysis
+Two authors independently screened search results and assessed the full texts of potentially relevant studies for inclusion. Data were extracted and the risks of bias assessed. Relative risks (RR) and 95% confidence intervals (CIs) were calculated and data were pooled using a fixed‐effect model. 
+Main results
+Four studies involving 406 participants were included. All four studies reported the effects of beta‐2 receptor antagonists on mortality. The pooled RR for mortality was 0.84 (95% CI 0.55 to 1.29). Two studies measured disability and the RR of death or severe disability with beta‐2 receptor antagonists was 0.81 (95% CI 0.59 to 1.09). One trial reported data on adverse events, the RR of at least one serious adverse event was 1.37 (95% CI 0.76 to 2.46) and the RR of local skin reactions was 13.79 (95% CI 0.85 to 224.81). Two studies measured the effect on intracranial pressure (ICP), only in one study did this finding reach statistical significance. There was no evidence for the presence of heterogeneity. 
+Authors' conclusions
+There is no reliable evidence that bradykinin beta‐2 receptor antagonists are safe or effective for use in TBI patients, and they should not be used outside the context of well conducted trials. Further adequately powered and well conducted randomised controlled trials are required. 

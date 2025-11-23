@@ -1,0 +1,18 @@
+Xpert Ultra compared to Xpert MTB/RIF for diagnosing pulmonary tuberculosis and rifampicin resistance in adults 
+Why is improving the diagnosis of pulmonary tuberculosis important? 
+Tuberculosis is one of the leading causes of death worldwide. While tuberculosis is largely curable when detected early and effectively treated, around 1.2 million people died of tuberculosis in 2019. Xpert MTB/RIF and Xpert Ultra (the newest version) are World Health Organization‐recommended rapid tests that simultaneously detect tuberculosis and rifampicin resistance in people with tuberculosis symptoms. Rifampicin is an important antituberculosis drug. Not recognizing tuberculosis when it is present (false negative) may result in severe illness and death, and an increased risk of infecting others. An incorrect diagnosis of tuberculosis (false positive) may result in anxiety, additional testing, unnecessary treatment, and medication side effects. 
+What is the aim of this review? 
+To determine how accurate Xpert Ultra is compared with Xpert MTB/RIF for diagnosing pulmonary tuberculosis and rifampicin resistance in adults. An extensive review of Xpert MTB/RIF accuracy was recently published as a Cochrane Review. 
+What was studied in this review? 
+We compared the diagnostic accuracy of Xpert Ultra and Xpert MTB/RIF with results primarily measured against culture (detection of pulmonary tuberculosis) and drug susceptibility testing and line probe assays (detection of rifampicin resistance). 
+What are the main results in this review? 
+Nine studies (3500 participants) compared Xpert Ultra to Xpert MTB/RIF for diagnosing pulmonary tuberculosis, and five studies (930 participants) compared Xpert Ultra to Xpert MTB/RIF for rifampicin resistance. 
+How confident are we in the results of this review? 
+Confident. The review included sufficient studies and participants and used optimum reference standards. In the comparison between Xpert Ultra and Xpert MTB/RIF, most studies were at low risk of bias. 
+Who do the results of this review apply to? 
+People considered to have pulmonary tuberculosis.
+What are the implications of this review? 
+The results of these studies indicate that, in theory, for a population of 1000 people where 100 of those presenting with symptoms have pulmonary tuberculosis, Xpert Ultra will miss 9 cases, and Xpert MTB/RIF will miss 15 cases. The number of people wrongly diagnosed with pulmonary tuberculosis would be 40 with Xpert Ultra, and 14 with Xpert MTB/RIF. 
+The results of these studies indicate that, in theory, for a population of 1000 people where 100 of those have rifampicin resistance, Xpert Ultra will miss 5 cases, and Xpert MTB/RIF will miss 5 cases. The number of people wrongly diagnosed with rifampicin resistance would be 8 with Xpert Ultra, and 11 with Xpert MTB/RIF. 
+How up‐to‐date is this review? 
+28 January 2020.

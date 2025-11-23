@@ -1,0 +1,15 @@
+Background
+Hemophilia A and B are inherited coagulation disorders characterized by a reduced or absent level of factor VIII or factor IX respectively. The severe form is characterized by a factor level less than 0.01 international units (IU) per milliliter. The development of inhibitors in hemophilia is the main complication of treatment, because the presence of these antibodies, reduces or even nullifies the efficacy of replacement therapy, making it very difficult to control the bleeding. People with inhibitors continue to have significantly higher risks of morbidity and mortality, with considerable treatment costs. Given the wide 'off‐label' use of rituximab for treating people with hemophilia and inhibitors, its efficacy and safety need to be evaluated. This is an update of a previously published Cochrane Review. 
+Objectives
+To assess the efficacy and safety of rituximab for treating inhibitors in people with inherited severe hemophilia A or B. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coagulopathies Trials Register, complied from electronic database searches and handsearching of journals and conference abstract books. We searched the reference lists of relevant articles and reviews and also searched for ongoing or unpublished studies. We also undertook further searches of other bibliographic databases and trial registries. 
+Date of last search of the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coagulopathies Trials Register: 19 March 2020. 
+Selection criteria
+Randomized controlled trials and controlled clinical trials investigating the efficacy and safety of rituximab for treating inhibitors in people with hemophilia. 
+Data collection and analysis
+No randomized controlled trials matching the selection criteria were eligible for inclusion. 
+Main results
+No randomized controlled trials on rituximab for treating inhibitors in people with hemophilia were identified. 
+Authors' conclusions
+We were unable to identify any relevant trials on the efficacy and safety of rituximab for treating inhibitors in people with hemophilia. The research evidence available is from case reports and case series. Randomized controlled trials are needed to evaluate the efficacy and safety of rituximab for this condition. However, prior to the publication of any possible future randomized controlled trials, meta‐analysis of case reports and case series may provide some evidence. 

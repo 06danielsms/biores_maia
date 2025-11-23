@@ -1,0 +1,16 @@
+Background
+Inguinal hernia repair is the most frequent operation in general surgery. Until recently the standard procedure has been open musculo‐aponeurotic repair using sutures under tension to close the defect but 'tension‐free' repair using prosthetic mesh is becoming increasingly common in many countries. 
+Objectives
+The purpose of this review is to evaluate open mesh techniques in comparison with open non‐mesh techniques for the surgical repair of groin hernia. 
+Search methods
+Electronic databases were searched and further trials were sought from the reference lists of reports of known trials. Through the EU Hernia Trialists Collaboration authors of identified randomised controlled trials were asked for information on any other trials known to them. There was no language restriction. 
+Selection criteria
+Studies were eligible for inclusion if they were randomised or quasi‐randomised trials comparing either a) open mesh with open non‐mesh repair of groin hernia or b) open flat mesh repair with plug and mesh repair of groin hernia. 
+Data collection and analysis
+For each outcome the results were derived using data from the best available source. The majority of data for this review came from individual patient data (IPD) supplied by the trialists. When these were unavailable data came from additional aggregated information or from published trial reports. All trials were analysed using the 'intention to treat' principle. 
+Main results
+Twenty trials comparing open mesh with open non‐mesh repair were identified. Open mesh methods, on average, took 7‐10 minutes less to perform than Shouldice procedures, but took 1‐4 minutes longer than other non‐mesh methods. There were no clear differences between mesh and non‐mesh groups for haematomas, seromas or wound/superficial infections. Three serious operative compications were reported after open mesh repair and three following non‐mesh repair. Overall, those in the mesh groups had a shorter length of hospital stay and quicker return to usual activities, but this pattern was not observed for all trials. There was a suggestion that persisting pain was less frequent after mesh repair than after non‐mesh repair but this result was dependent on one trial and data were not available for 11 trials. There was no evidence of a difference between the groups with respect to persisting numbness. Fewer hernia recurrences were reported after mesh repair (Peto OR: 0.37, 95% CI: 0.26 to 0.51). 
+There were too few data to reliably address differential effects for patients with recurrent, bilateral or femoral hernias. 
+Two trials comparing flat mesh with plug and mesh were identified. There was no clear evidence of differences between the groups. 
+Authors' conclusions
+There is evidence that the use of open mesh repair is associated with a reduction in the risk of recurrence of between 50% and 75%. Although the trials were heterogenous there is also some evidence of quicker return to work and of lower rates of persisting pain following mesh repair. 

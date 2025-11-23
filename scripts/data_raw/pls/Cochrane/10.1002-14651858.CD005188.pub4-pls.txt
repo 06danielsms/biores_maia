@@ -1,0 +1,23 @@
+Interventions to increase influenza vaccination rates of those 60 years and older living in the community 
+Review question 
+Does increasing demand, vaccination access, and provider activity increase influenza vaccination rates in people aged 60 years and older living in the community? 
+Background 
+Vaccination rates vary across countries and socioeconomic and health risk groups.
+Search date 
+The evidence is current to 7 December 2017.
+Study characteristics 
+We included three new trials (15,993 participants) for this update; the review now includes a total of 61 trials with 1,055,337 participants. All participants were aged 60 years or older, living in the community. 
+Study funding sources 
+Government health organisations funded 33 studies; foundations funded 9 studies; organisations that provided healthcare services in the studies funded 3 studies; and a pharmaceutical company offering free vaccines funded 1 study. Fifteen studies did not report any funding source. 
+Key results 
+Increasing community demand for vaccination (12 strategies, 41 trials, 767,460 participants) 
+Effective interventions consisted of reminders/recalls using letters and leaflets, and nurses or pharmacists educating and nurses vaccinating patients. Individual effective studies consisted of client outreach by retired teachers, receptionists, nurses, and medical students. 
+It was not possible to combine some interventions for analysis as they were too varied: 17 studies of simple reminders (11 with significant results); 16 studies of personalised reminders (12 with significant results); two studies of customised letters versus form letters (both with significant results); and four studies of health risk appraisals plus vaccination recommendations (all with significant results). 
+Improving vaccination access (6 strategies, 8 trials, 9353 participants) 
+Effective interventions consisted of home visits, client group clinic visits, and free vaccine offers. 
+Improving provision by providers or the healthcare system (11 strategies, 15 trials, 278,524 participants) 
+Effective interventions that could be combined for analysis included physician payment, physician reminders, clinic posters encouraging physician competition, and chart reviews plus benchmarking to rates of the top 10% of physicians. We could not analyse some groups of interventions: physician reminders (four studies, two of which were effective) and facilitator vaccination encouragement (three studies, two of which were effective). 
+Individual studies that were not effective consisted of posters plus postcards versus posters alone, educational reminders to physicians compared to mailed educational materials, educational outreach plus feedback to teams versus written feedback, and increasing staff vaccination rates. 
+No studies measured if interventions reduced illness or hospital admissions or reported societal‐level interventions. 
+Quality of the evidence 
+Overall, we assessed the included studies as at moderate risk of bias. The overall GRADE assessment of the evidence was high to moderate quality. 

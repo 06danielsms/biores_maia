@@ -1,0 +1,21 @@
+Background
+Alcohol use in young people is a risk factor for a range of short‐ and long‐term harms and is a cause of concern for health services, policy‐makers, youth workers, teachers, and parents. 
+Objectives
+To assess the effectiveness of universal, selective, and indicated family‐based prevention programmes in preventing alcohol use or problem drinking in school‐aged children (up to 18 years of age). 
+Specifically, on these outcomes, the review aimed:
+• to assess the effectiveness of universal family‐based prevention programmes for all children up to 18 years (‘universal interventions’); 
+• to assess the effectiveness of selective family‐based prevention programmes for children up to 18 years at elevated risk of alcohol use or problem drinking (‘selective interventions’); and 
+• to assess the effectiveness of indicated family‐based prevention programmes for children up to 18 years who are currently consuming alcohol, or who have initiated use or regular use (‘indicated interventions’). 
+Search methods
+We identified relevant evidence from the Cochrane Central Register of Controlled Trials (CENTRAL), in the Cochrane Library, MEDLINE (Ovid 1966 to June 2018), Embase (1988 to June 2018), Education Resource Information Center (ERIC; EBSCOhost; 1966 to June 2018), PsycINFO (Ovid 1806 to June 2018), and Google Scholar. We also searched clinical trial registers and handsearched references of topic‐related systematic reviews and the included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster RCTs (C‐RCTs) involving the parents of school‐aged children who were part of the general population with no known risk factors (universal interventions), were at elevated risk of alcohol use or problem drinking (selective interventions), or were already consuming alcohol (indicated interventions). Psychosocial or educational interventions involving parents with or without involvement of children were compared with no intervention, or with alternate (e.g. child only) interventions, allowing experimental isolation of parent components. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 46 studies (39,822 participants), with 27 classified as universal, 12 as selective, and seven as indicated. We performed meta‐analyses according to outcome, including studies reporting on the prevalence, frequency, or volume of alcohol use. The overall quality of evidence was low or very low, and there was high, unexplained heterogeneity. 
+Upon comparing any family intervention to no intervention/standard care, we found no intervention effect on the prevalence (standardised mean difference (SMD) 0.00, 95% confidence interval (CI) ‐0.08 to 0.08; studies = 12; participants = 7490; I² = 57%; low‐quality evidence) or frequency (SMD ‐0.31, 95% CI ‐0.83 to 0.21; studies = 8; participants = 1835; I² = 96%; very low‐quality evidence) of alcohol use in comparison with no intervention/standard care. The effect of any parent/family interventions on alcohol consumption volume compared with no intervention/standard care was very small (SMD ‐0.14, 95% CI ‐0.27 to 0.00; studies = 5; participants = 1825; I² = 42%; low‐quality evidence). 
+When comparing parent/family and adolescent interventions versus interventions with young people alone, we found no difference in alcohol use prevalence (SMD ‐0.39, 95% CI ‐0.91 to 0.14; studies = 4; participants = 5640; I² = 99%; very low‐quality evidence) or frequency (SMD ‐0.16, 95% CI ‐0.42 to 0.09; studies = 4; participants = 915; I² = 73%; very low‐quality evidence). For this comparison, no trials reporting on the volume of alcohol use could be pooled in meta‐analysis. 
+In general, the results remained consistent in separate subgroup analyses of universal, selective, and indicated interventions. No adverse effects were reported. 
+Authors' conclusions
+The results of this review indicate that there are no clear benefits of family‐based programmes for alcohol use among young people. Patterns differ slightly across outcomes, but overall, the variation, heterogeneity, and number of analyses performed preclude any conclusions about intervention effects. Additional independent studies are required to strengthen the evidence and clarify the marginal effects observed. 

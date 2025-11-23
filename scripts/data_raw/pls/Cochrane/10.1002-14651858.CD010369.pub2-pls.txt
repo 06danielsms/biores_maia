@@ -1,0 +1,21 @@
+Overview of all systematic review of all treatments for chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) 
+Review question 
+What can we learn from summarising the evidence from systematic reviews on treatments for Chronic Inflammatory Demyelinating Polyradiculoneuropathy (CIDP)? Is any treatment more or less effective and safe than another? 
+Background 
+CIDP is a long‐term condition, in which symptoms can steadily worsen over time or show periods of improvement and relapse. People usually have weakness and numbness due to inflammation of nerves (nerves affected are outside the spinal cord and brain). CIDP affects about 2 to 3 per 100,000 of the population and can be disabling. More than half of affected people cannot walk unaided when symptoms are at their worst. Treatments directed at reducing the inflammation usually help but there is no clear evidence favouring one commonly used treatment over another. 
+Methods 
+We searched five databases for all systematic reviews and randomised controlled trials (RCTs) until October 2016. We judged that five Cochrane systematic reviews (CSRs) provided the best evidence and identified 23 randomised trials, of which 16 have so far been included in CSRs. We assessed the quality of their included evidence. 
+Key results and quality of the evidence 
+The evidence from randomised trials is as follows.
+1. It is uncertain whether daily oral prednisone (an anti‐inflammatory corticosteroid) improved weakness and sensation (numbness) compared to no treatment, as the evidence is of very low quality. We know that corticosteroids have a significant risk of serious side effects during prolonged use. 
+2. High‐dose monthly oral dexamethasone (a more powerful corticosteroid) for six months was probably no more or less effective than daily oral prednisolone. 
+3. Plasma exchange probably produced significantly more short‐term improvement in disability than dummy exchange. In the largest observational study, 3.9% of plasma exchange procedures had complications. 
+4. IVIg produced significantly more short‐term improvement in disability than placebo. Adverse events were more common with IVIg than placebo but serious adverse events were probably no more common than with placebo. Other, lower‐quality studies, not eligible for inclusion here, report that serious adverse effects can occur with IVIg. 
+5. There was no clear difference in short‐term improvement of impairment with plasma exchange as compared to IVIg. 
+6. There was probably little or no difference in short‐term improvement of disability with IVIg in comparison to oral prednisolone and there was little or no difference in comparison to intravenous methylprednisolone. Corticosteroids are much more widely available than IVIg, and are cheaper and easier to use. 
+7. It is uncertain whether low‐dose azathioprine added to prednisone improved impairment over prednisone alone, because the quality of evidence is very low. Adverse events were not reported but observational studies show that side effects prevent 10% of people from continuing treatment. 
+8. Methotrexate may have no benefit over placebo in number of participants able to reduce their corticosteroid or IVIg dose by 20%. Serious adverse events were probably no more common with methotrexate than with placebo. We know from other types of study that methotrexate has serious side‐effects, including damage to fetuses, liver function abnormalities and scarring of the lung. 
+9. Interferon beta‐1a (IFN beta‐1a), compared to placebo, probably does not allow more people to withdraw from IVIg. Serious adverse events were probably no more common with IFN beta‐1a than with placebo in the two studies of this intervention. 
+10. There have been no other completed trials of medicines that suppress or change immune responses or that treat fatigue or pain in CIDP. 
+We need further research on predictors of response to different treatments, on long‐term benefits, and of cost‐effectiveness. We need more RCTs of medicines that suppress or change immune responses and treat symptoms of pain and fatigue in CIDP, and better ways to collect information on adverse events. 
+This review is up to date to October 2016.

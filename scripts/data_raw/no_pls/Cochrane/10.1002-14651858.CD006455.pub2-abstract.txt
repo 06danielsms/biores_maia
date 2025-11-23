@@ -1,0 +1,14 @@
+Background
+Huntington's disease (HD) is an autosomal dominant neurodegenerative disease with an average onset between the fourth and fifth decade of life; it leads to death 15 to 20 years after the onset of symptoms. Although several drugs seem effective in controlling the incapacitating manifestations of HD, no specific therapy is known. The present review aims at analysing the best available data on therapeutic interventions investigated with the goal of modifying the progression of the disease as measured in terms of survival, disability or progression of HD core symptoms. 
+Objectives
+Evaluate the effectiveness of therapeutic interventions aimed at modifying disease progression in HD. 
+Search methods
+The search strategy developed for the Movement Disorders Group was undertaken. The Cochrane Controlled Trials Register, Medline, EMBASE and Clinical Trials Database of the United States National Institute of Health were thoroughly searched until December 2007. 
+Selection criteria
+All randomised, double‐blinded, placebo‐controlled clinical trials of therapeutics investigated with the goal of modifying disease progression in HD were included. Participants should have genetically confirmed diagnosis of HD or compatible symptoms and a family history. Trials had a follow‐up duration of more than three months and at least ten participants. All pharmacological and non‐pharmacological interventions were included. 
+Data collection and analysis
+Two reviewers independently assessed the eligibility of identified trials. The methodological quality was assessed and eligible data were registered onto standardised forms. An intention‐to‐treat analysis was conducted, when feasible. If data were not available in the original publication, the principal investigator of the trial was contacted for further information. A meta‐analysis was to be conducted when possible; otherwise, a descriptive summary of the results was provided. The software Revman 5.0.15 was used for statistical analysis. 
+Main results
+Eight trials were included involving a total of 1366 HD patients. The duration of the studies ranged between 30 and 144 weeks (median: 52 weeks). The following interventions were selected: vitamin E, Idebenone, Baclofen, Lamotrigine, creatine, coenzyme Q10 + Remacemide, ethyl‐eicosapentanoic acid and Riluzole. No trials produced positive results for the selected efficacy outcome measures. A descriptive summary of the trials is provided. The selected interventions were found to be generally safe and well tolerated. 
+Authors' conclusions
+Only pharmacological interventions were included and none proved to be effective as a disease‐modifying therapy for HD. Further trials with greater methodological quality should be conducted using more sensitive biological markers. Pre‐symptomatic mutation carriers should be included in future studies. 

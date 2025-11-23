@@ -1,0 +1,14 @@
+Background
+Indomethacin therapy for closure of patent ductus arteriosus (PDA) frequently causes oliguria and occasionally more serious renal dysfunction. Low dose dopamine has been suggested as a means for preventing this side effect. 
+Objectives
+To determine whether dopamine therapy prevents indomethacin‐mediated deterioration in renal function in the preterm newborn infant without serious adverse effects. Subgroup analyses were planned to assess the effects of dopamine on patients given indomethacin as prophylaxis of intraventricular hemorrhage, and patients given indomethacin as treatment of PDA. 
+Search methods
+Standard methods of the Cochrane Neonatal Review Group (CNRG) were used. We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 3, 2009), MEDLINE (1966 to 2009), EMBASE (1974 to 2009) and CINAHL (2001 to 2009). In addition, we contacted the principal investigators if necessary to ascertain required information. 
+Selection criteria
+Randomized or quasi‐randomized studies of the effects of dopamine on urine output, glomerular filtration rate, fluid balance or incidence of renal failure, in preterm newborn infants receiving indomethacin. The comparison group should have received no dopamine. 
+Data collection and analysis
+We used the standard methods of the Cochrane Collaboration and those of the CNRG. For categorical outcomes, we calculated typical estimates for relative risk and risk difference. For continuous outcomes the weighted mean difference (WMD) was calculated. Fixed effect models were assumed for meta‐analysis. 
+Main results
+Three studies were found (total number randomized patients 75) that fulfilled the entry criteria for this review. All were single center trials that enrolled NICU patients receiving indomethacin for symptomatic PDA. There are no (or only partial) results for effects of dopamine on several of the primary outcomes, including death before discharge, serious intraventricular hemorrhage, cystic periventricular leukomalacia, or renal failure. There has been inadequate investigation of the effects of dopamine on cerebral perfusion or cardiac output, or GI complications, or endocrine toxicity. Dopamine improved urine output [WMD 0.68 ml/kg/hour (95% CI 0.22, 1.44)], but there was no evidence of effect on serum creatinine (WMD 2.04 micromoles/liter, CI ‐17.90, 21.97) or the incidence of oliguria (urine output < 1 ml/kg/hour) (RR 0.73, CI 0.35, 1.54). There was no evidence of effect of dopamine on the frequency of failure to close the ductus arteriosus (RR 1.11, CI 0.56, 2.19). 
+Authors' conclusions
+There is no evidence from randomized trials to support the use of dopamine to prevent renal dysfunction in indomethacin‐treated preterm infants. 

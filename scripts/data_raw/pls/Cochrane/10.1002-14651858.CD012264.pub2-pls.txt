@@ -1,0 +1,18 @@
+Exercise‐based cardiac rehabilitation for patients following a heart transplantation
+Review question 
+We wanted to find out if exercise training versus no exercise training following heart transplant effects numbers of deaths, hospital admissions, harms, exercise capacity, health‐related quality of life, return to work and costs. 
+Background 
+Heart transplantation is considered to be the best treatment for some people with heart disease whose medical therapy cannot stop progression of their illness. Clinical practice guidelines recommend exercise training for people who receive heart transplants, despite limited information on the long‐term benefits or harms. 
+Search date 
+We searched up to June 2016.
+Study characteristics 
+We searched for randomised controlled trials (experiments that randomly allocate participants to one of two or more treatment groups) looking at the effectiveness of exercise‐based rehabilitation programmes compared with no exercise, or a different type or intensity of exercise, in people aged 18 years or over, who were heart transplant recipients. 
+Key results 
+We included 10 trials that studied 300 people who were heart transplant recipients. Nine studies compared exercise with no exercise; one study compared high‐intensity interval training with continuous moderate‐intensity exercise. 
+We found that exercise‐based cardiac rehabilitation led to an increase in the exercise capacity of heart transplant recipients compared to not undertaking exercise. There was evidence of better exercise capacity following high‐intensity interval training compared to continuous moderate‐intensity exercise. Four studies reported health‐related quality of life, but there was no evidence of differences between exercise training and no exercise training in most (18/21) aspects reported, or between high‐ and moderate‐intensity exercise. 
+One adverse event was reported in one study.
+Risk of bias in the included studies was assessed as low or unclear; lack of reporting made assessment for more than half of included studies challenging. 
+Study funding sources 
+Six (of 10) trials reported sources of funding. None reported funding from agencies with commercial interests in the results. 
+Quality of the evidence 
+Poor reporting or few participants in the analyses led to evidence quality being judged as moderate for both exercise capacity and health‐related quality of life. Evidence suggested that exercise‐based cardiac rehabilitation improves exercise capacity, and that exercise has no impact on health‐related quality of life in the short‐term (median 12 weeks follow‐up), in heart transplant recipients whose health is stable. Further research is needed to establish long‐term impacts of exercise‐based rehabilitation on important aspects such as risk of death and hospital admission. 

@@ -1,0 +1,14 @@
+Background
+Feeding intolerance is a common clinical problem among preterm infants. It may be an early sign of necrotising enterocolitis, sepsis or other serious gastrointestinal conditions, or it may result from gut immaturity with delayed passage of meconium. Glycerin laxatives stimulate passage of meconium by acting as an osmotic dehydrating agent and increasing osmotic pressure in the gut; they stimulate rectal contraction, potentially reducing the incidence of feeding intolerance. 
+Objectives
+To assess the effectiveness and safety of glycerin laxatives (enemas/suppositories) for prevention or treatment of feeding intolerance in very low birth weight (VLBW) infants. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 4), MEDLINE, EMBASE and the Cumulative Index to Nursing and Allied Health Literature (CINAHL). We restricted our search to all randomised controlled trials and applied no language restrictions. We searched the references of identified studies and reviews on this topic and handsearched for additional articles. We searched the database maintained by the US National Institutes of Health (www.clinicaltrials.gov) and European trial registries to identify ongoing trials. 
+Selection criteria
+We considered only randomised or quasi‐randomised controlled trials that enrolled preterm infants < 32 weeks' gestational age (GA) and/or < 1500 g birth weight. We included trials if they administered glycerin laxatives and measured at least one prespecified clinical outcome. 
+Data collection and analysis
+We used standard methods of The Cochrane Collaboration and its Neonatal Group to assess methodological quality of trials, to collect data and to perform analyses. 
+Main results
+We identified three trials that evaluated use of prophylactic glycerin laxatives in preterm infants. We identified no trials that evaluated therapeutic use of glycerin laxatives for feeding intolerance. Our review showed that prophylactic administration of glycerin laxatives did not reduce the time required to achieve full enteral feeds and did not influence secondary outcomes, including duration of hospital stay, mortality and weight at discharge. Prophylactic administration of glycerin laxatives resulted in failure of fewer infants to pass stool over the first 48 hours. Included trials reported no adverse events. 
+Authors' conclusions
+Our review of available evidence for glycerin laxatives does not support the routine use of prophylactic glycerin laxatives in clinical practice. Additional studies are needed to confirm or refute the effectiveness and safety of glycerin laxatives for prevention or treatment of feeding intolerance in VLBW infants. 

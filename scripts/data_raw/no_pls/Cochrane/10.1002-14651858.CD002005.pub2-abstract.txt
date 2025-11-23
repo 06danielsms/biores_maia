@@ -1,0 +1,14 @@
+Background
+Treatment of cerebral venous sinus thrombosis with anticoagulants has been controversial. Anticoagulants may prevent new venous infarcts, neurologic deterioration and pulmonary embolism but may also promote haemorrhages. 
+Objectives
+To assess the effectiveness and safety of anticoagulant therapy in patients with confirmed cerebral venous sinus thrombosis. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched August 2010), MEDLINE (1950 to August 2010), EMBASE (1980 to August 2010) and the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2011 Issue 1). In an effort to identify further published, unpublished and ongoing trials we searched ongoing trials registers and reference lists of relevant articles, and contacted authors. 
+Selection criteria
+Unconfounded randomised controlled trials in which anticoagulant therapy was compared with placebo or open control in patients with cerebral venous sinus thrombosis (confirmed by intra‐arterial contrast, or venography with magnetic resonance, or venography with computed tomography imaging). 
+Data collection and analysis
+Two review authors independently extracted outcomes for each of the two treatment groups (anticoagulant treatment and control). The outcome data for each patient were analysed in the treatment group to which the patient was originally allocated (intention‐to‐treat analysis). We calculated a weighted estimate of the treatment effects across trials (relative risk, absolute risk reduction). 
+Main results
+We included two small trials involving 79 patients. One trial (20 patients) examined the efficacy of intravenous, adjusted dose unfractionated heparin. The other trial (59 patients) examined high dose, body weight adjusted, subcutaneous, low‐molecular weight heparin (nadroparin). Anticoagulant therapy was associated with a pooled relative risk of death of 0.33 (95% confidence interval (CI) 0.08 to 1.21) and of death or dependency of 0.46 (95% CI 0.16 to 1.31). The absolute reduction in the risk of death or dependency was 13% (95% CI 30% to ‐3%). No new symptomatic intracerebral haemorrhages were observed. One major gastro‐intestinal haemorrhage occurred after anticoagulant treatment. Two control patients (placebo) had a diagnosis of probable pulmonary embolism (one fatal). 
+Authors' conclusions
+Based upon the limited evidence available, anticoagulant treatment for cerebral venous sinus thrombosis appeared to be safe and was associated with a potentially important reduction in the risk of death or dependency which did not reach statistical significance. 

@@ -1,0 +1,15 @@
+Background
+Macular holes cause significant loss of central vision. With the aim of improving the outcome of surgery, a variable period of face‐down positioning may be advised. 
+Objectives
+To evaluate the evidence of the impact of postoperative face‐down positioning on the outcome of surgery for macular hole. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2011, Issue 8), MEDLINE (January 1950 to August 2011), EMBASE (January 1980 to August 2011), the International Standard Randomised Controlled Trial Number Register (ISRCTN Register) (http://www.controlled‐trials.com), the WHO International Clinical Trials Registry Platform (ICTRP) (http://www.who.int/ictrp/search/en) and ClinicalTrials.gov (http://clinicaltrials.gov). There were no date or language restrictions in the electronic searches for trials. The electronic databases were last searched on 29 August 2011. 
+Selection criteria
+We included randomised controlled trials (RCTs) in which postoperative face‐down positioning was compared to no face‐down positioning following surgery for macular holes. 
+Data collection and analysis
+Data were collected and analysed independently by two authors.
+Main results
+Three RCTs were identified, A, B and C; one of which was unpublished data. We were unable to conduct a meta‐analysis due to study heterogeneity regarding duration of face‐down positioning and surgical methods (use of inner limiting peel).  All three studies suggested an overall beneficial effect of posturing in terms of closure of holes: (A: risk ratio (RR) 1.10; 95% confidence interval (CI) 1.00 to 1.20, P = 0.05); B: RR 1.58, CI 1.0 to 2.5, P = 0.01; C: RR 1.03, CI 0.9 to 1.17, P = 0.67).  For holes which were smaller than 400 microns in size, all three studies reported that there was no significant effect of face‐down positioning on successful hole closure (A: RR 1.03, CI 0.95 to 1.12; B: RR 1.0, CI 0.68 to 1.46; C: RR 1.03, CI 0.9 to 1.17). However, for holes which were larger than 400 microns in size, both of the studies which examined macular holes of this size agreed on the effectiveness of face‐down positioning on hole closure following surgery (A: RR 1.2, CI 1.01 to 1.42, P = 0.04; B: RR 2.27, CI 1.04 to 4.97, P = 0.04). 
+Authors' conclusions
+There is currently insufficient evidence from which to draw firm conclusions about the impact of postoperative face‐down positioning on the outcome of surgery for macular hole. Of three RCTs, two suggested a benefit in larger holes but none demonstrated evidence of a benefit in smaller holes. 
+CONSORT adherent RCTs and large scale, well designed non‐randomised observational studies are needed to determine with confidence the value of this intervention. 

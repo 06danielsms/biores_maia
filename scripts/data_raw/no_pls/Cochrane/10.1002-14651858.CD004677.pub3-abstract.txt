@@ -1,0 +1,14 @@
+Background
+Autism spectrum disorders (ASD) are characterised by abnormalities in social interaction and communication skills, as well as stereotypic behaviours and restricted activities and interests. Selective serotonin reuptake inhibitors (SSRIs) are prescribed for the treatment of conditions often comorbid with ASD such as depression, anxiety and obsessive‐compulsive behaviours. 
+Objectives
+To determine if treatment with an SSRI: 1. improves the core features of autism (social interaction, communication and behavioural problems); 2. improves other non‐core aspects of behaviour or function such as self‐injurious behaviour; 3. improves the quality of life of adults or children and their carers; 4. has short‐ and long‐term effects on outcome; 5. causes harm. 
+Search methods
+We searched the following databases up until March 2013: CENTRAL, Ovid MEDLINE, Embase, CINAHL, PsycINFO, ERIC and Sociological Abstracts. We also searched ClinicalTrials.gov and the International Clinical Trials Registry Platform (ICTRP). This was supplemented by searching reference lists and contacting known experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) of any dose of oral SSRI compared with placebo, in people with ASD. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, extracted data and appraised each study's risk of bias. 
+Main results
+Nine RCTs with a total of 320 participants were included. Four SSRIs were evaluated: fluoxetine (three studies), fluvoxamine (two studies), fenfluramine (two studies) and citalopram (two studies). Five studies included only children and four studies included only adults. Varying inclusion criteria were used with regard to diagnostic criteria and intelligence quotient of participants. Eighteen different outcome measures were reported. Although more than one study reported data for Clinical Global Impression (CGI) and obsessive‐compulsive behaviour (OCB), different tool types or components of these outcomes were used in each study. As such, data were unsuitable for meta‐analysis, except for one outcome (proportion improvement). One large, high‐quality study in children showed no evidence of positive effect of citalopram. Three small studies in adults showed positive outcomes for CGI and OCB; one study showed improvements in aggression, and another in anxiety. 
+Authors' conclusions
+There is no evidence of effect of SSRIs in children and emerging evidence of harm. There is limited evidence of the effectiveness of SSRIs in adults from small studies in which risk of bias is unclear. 

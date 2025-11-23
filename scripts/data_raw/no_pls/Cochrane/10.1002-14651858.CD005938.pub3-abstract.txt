@@ -1,0 +1,14 @@
+Background
+In some women, an episode of preterm labour settles and does not result in immediate preterm birth. Subsequent treatment with tocolytic agents such as oxytocin receptor antagonists may then have the potential to prevent the recurrence of preterm labour, prolonging gestation, and preventing the adverse consequences of prematurity for the infant. 
+Objectives
+To assess the effects of maintenance therapy with oxytocin antagonists administered by any route after an episode of preterm labour in order to delay or prevent preterm birth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2013), sought ongoing and unpublished trials by contacting experts in the field and searched the reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials comparing oxytocin antagonists with any alternative tocolytic agent, placebo or no treatment, used for maintenance therapy after an episode of preterm labour. 
+Data collection and analysis
+We used the standard methods of The Cochrane Collaboration and the Cochrane Pregnancy and Childbirth Group. Two review authors independently undertook evaluation of methodological quality and extracted trial data. 
+Main results
+This review includes one trial of 513 women. When compared with placebo, atosiban did not reduce preterm birth before 37 weeks (risk ratio (RR) 0.89; 95% confidence intervals (CI) 0.71 to 1.12), 32 weeks (RR 0.85; 95% CI 0.47 to 1.55), or 28 weeks (RR 0.75; 95% CI 0.28 to 2.01). No difference was shown in neonatal morbidity, or perinatal mortality. 
+Authors' conclusions
+There is insufficient evidence to support the use of oxytocin receptor antagonists to inhibit preterm birth after a period of threatened or actual preterm labour. Any future trials using oxytocin antagonists or other drugs as maintenance therapy for preventing preterm birth should examine a variety of important infant outcome measures, including reduction of neonatal morbidity and mortality, and long‐term infant follow‐up. Future research should also focus on the pathophysiological pathways that precede preterm labour. 

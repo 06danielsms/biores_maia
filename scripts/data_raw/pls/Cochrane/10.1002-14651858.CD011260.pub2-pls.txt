@@ -1,0 +1,15 @@
+Sequential inactivated (IPV) and live oral (OPV) poliovirus vaccines for preventing poliomyelitis 
+Background to the question 
+Poliomyelitis (most commonly called Polio) mainly affects children under the age of five who have not been vaccinated against it. Polio causes permanent paralysis and even death. Polio can be prevented by vaccines, which provide defence against the disease (antibodies) in body fluids (also called humoral immunity) and also gut mucosal immunity. Polio‐related paralysis is caused by wild polio virus (WPV) and also in rare cases by the weakened live vaccine virus in the oral polio vaccine (OPV). The number of wild polio cases has gone down dramatically since the introduction and widespread use of the OPV and inactivated polio vaccine (IPV). However, the cases of paralysis linked to the OPV are currently more frequent than those related to the WPV. Since 2016 the World Health Organization has started to recommend that before a child is given the OPV immunisation they must have had at least one dose of the IPV mainly to limit the incidence of cases of paralysis linked to the OPV until polio is wiped out worldwide. 
+Review question 
+Are polio vaccine schedules that include both IPV and OPV as effective and safe as either OPV or IPV alone? 
+Study characteristics 
+We searched databases of scientific studies and found 21 studies to include in this review. Studies included 16 randomised trials with 6407 infants, one additional study followed 28330 infants over time and another four were nationwide studies. 
+Certainty of the evidence 
+We assessed the included evidence for how certain we are that the effects are true and would not be altered with the addition of more evidence. In general, the certainty of the evidence was judged to be low to moderate but it was very low for some outcomes. 
+Key results 
+IPV‐OPV compared to OPV may reduce the cases of paralysis linked to OPV by 54% to 100% without affecting vaccination coverage, the number of serious adverse events, and humoral immunity. However, it may worsen mucosal immunity for some types of polio. 
+IPV‐OPV compared to IPV may make little or no difference on serious adverse events, probably makes little or no difference in the number of persons with protective humoral immunity, may increase neutralising antibodies and probably improves intestinal mucosal immunity of vaccinated people. 
+Three doses of IPV followed by OPV appears to be no different than two IPV doses followed by OPV on the number of people with protective humoral and gut immunity. 
+Authors' conclusions 
+The main potential benefit of IPV‐OPV, compared to OPV, is that may reduce cases of paralysis linked to OPV. It could be a more affordable option to IPV during the final stages of polio eradication, hence reducing inequities between countries. 

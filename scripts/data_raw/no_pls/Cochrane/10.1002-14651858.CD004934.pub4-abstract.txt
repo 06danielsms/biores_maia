@@ -1,0 +1,14 @@
+Background
+Hypertension is associated with an increased risk of stroke, myocardial infarction and congestive heart failure. Hydralazine is a direct‐acting vasodilator which has been used for the treatment of hypertension since the 1950's. Although it has largely been replaced by newer antihypertensive drugs with more acceptable tolerability profiles, hydralazine is still widely used in developing countries due to its lower cost. A review of its relative effectiveness compared to placebo on surrogate and clinical outcomes is justified. 
+Objectives
+To quantify the effect of hydralazine compared to placebo in randomized controlled trials (RCTs) on all cause mortality, cardiovascular mortality, serious adverse events, myocardial infarctions, strokes, withdrawals due to adverse effects and blood pressure in patients with primary hypertension. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (2011, Issue 3), MEDLINE (1948‐August 2011), International Pharmaceutical Abstracts (1970‐June 2009) and EMBASE (1980‐August 2011). Bibliographic citations from retrieved studies were also reviewed. No language restrictions were applied. 
+Selection criteria
+We selected RCTs studying the effect of oral hydralazine compared to oral placebo in patients with primary hypertension. We excluded studies of patients with secondary hypertension or gestational hypertension. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality using the risk of bias tool. Data synthesis and analysis was performed using RevMan 5. 
+Main results
+The search strategy did not yield any randomized controlled trials comparing hydralazine to placebo for inclusion in this review. There is insufficient evidence to conclude on the effects of hydralazine versus placebo on mortality, morbidity, withdrawals due to adverse effects, serious adverse events, or systolic and diastolic blood pressure. Some of the adverse effects related to hydralazine that have been reported in the literature include reflex tachycardia, hemolytic anemia, vasculitis, glomerulonephritis, and a lupus‐like syndrome. 
+Authors' conclusions
+Hydralazine may reduce blood pressure when compared to placebo in patients with primary hypertension, however this data is based on before and after studies, not RCTs. Furthermore, its effect on clinical outcomes remains uncertain. 

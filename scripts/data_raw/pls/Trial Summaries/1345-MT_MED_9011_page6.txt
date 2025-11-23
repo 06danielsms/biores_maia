@@ -1,0 +1,23 @@
+Clinical Trial Results
+Overall, researchers found:
+- Participants had a higher total amount of AZD7594 in their blood when they took the small- and medium-sized particle treatments compared to the large-sized particle treatment. The small- and medium-sized particle treatment had similar total amounts to each other.
+- Participants had the highest amount of AZD7594 in their blood when they took the small-sized particle treatment. The highest amount was similar with the medium- and large-sized particle treatments.
+- It took an average of 25 to 49 minutes for AZD7594 to reach its highest amount in the blood.
+
+What medical problems did participants have after they took AZD7594?
+A lot of research is needed to know whether a drug causes a medical problem. So, when new drugs are being studied, researchers keep track of all medical problems that participants have during the study. These medical problems are called "adverse events". They may or may not be caused by the study drug.
+
+How many participants developed medical problems in the study?
+The table below shows how many participants in each treatment group developed medical problems.
+
+AZD7594 large particles (Out of 18 participants)
+3 (16.7%)
+
+AZD7594 medium particles (Out of 18 participants)
+6 (33.3%)
+
+AZD7594 small particles (Out of 18 participants)
+5 (27.8%)
+
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting problems, or needs hospitalization. No participants developed serious medical problems during this study. No participants died during this study.

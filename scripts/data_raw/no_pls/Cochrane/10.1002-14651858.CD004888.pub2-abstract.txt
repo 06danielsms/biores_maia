@@ -1,0 +1,14 @@
+Background
+Antiviral treatment for chronic hepatitis C may be less effective if patients are co‐infected with human immunodeficiency virus (HIV). 
+Objectives
+To assess the benefits and harms of antiviral treatment for chronic hepatitis C in patients with HIV. 
+Search methods
+Trials were identified through manual and electronic searches in The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded. The last search was May 2009. 
+Selection criteria
+Randomised trials comparing at least 12 weeks of any anti‐HCV treatment versus another treatment regimen or no treatment. Included patients had chronic hepatitis C and stable HIV irrespective of previous antiviral therapy. 
+Data collection and analysis
+Data extraction and assessment of risk of bias were done in duplicate. Analysis was by intention‐to‐treat. 
+Main results
+Fourteen trials were included. None of the included 2269 patients were previously treated for chronic hepatitis C. Peginterferon (either 2a, 180 microgram, or 2b, 1.5 microgram/kg, once weekly) plus ribavirin was more effective in achieving end of treatment and sustained virological response compared with interferon plus ribavirin (5 trials, 1340 patients) or peginterferon (2 trials, 714 patients). The benefit of peginterferon plus ribavirin was seen irrespective of HCV genotype although patients with genotype 1 or 4 had lower response rates (27%) than patients with genotype 2 or 3 (56%). The remaining trials compared different treatment regimens in patients who were treatment naive or had no virological response after three months of treatment, but overall they had not enough power to show any effect of increasing the dose of interferon or adding both amantadine or ribavirin. The overall mortality was 23/2111 patients with no significant differences between treatment regimens. Treatment increased the risk of adverse events including anaemia and flu‐like symptoms, and several serious adverse events occurred including fatal lactic acidosis, liver failure, and suicide due to depression. 
+Authors' conclusions
+Peginterferon plus ribavirin may be considered a treatment for patients with chronic hepatitis C and stable HIV who have not received treatment for hepatitis C as the intervention may clear the blood of HCV RNA. Supporting evidence comes mainly from the analysis of this non‐validated surrogate outcome assessed in comparisons against other antiviral treatments. There is no evidence on treatment of patients who have relapsed or did not respond to previous therapy. Careful monitoring of adverse events is warranted. 

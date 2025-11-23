@@ -1,0 +1,14 @@
+Background
+Dysphagia after acute stroke is associated with poor prognosis, particularly if prolonged. Acupuncture has been widely used for this complication in China. However, its therapeutic effect is unclear. 
+Objectives
+To determine the therapeutic effect of acupuncture for dysphagia after acute stroke compared with placebo, sham or no acupuncture intervention. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched September 2007), the Chinese Stroke Trials Register and the Trials Register of the Cochrane Complementary Medicine Field (last searched January 2007) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 2, 2007). In January 2007 we searched the following databases from the first available date; MEDLINE, EMBASE, CINAHL, AMED, CISCOM, BIOSIS Previews, ProQuest Digital Dissertations, Science Citation Index, ISI Proceedings, ACUBRIEFS, ACP Journal Club, Books@Ovid and Journals@Ovid, Chinese Biological Medicine Database, Chinese scientific periodical database of VIP INFORMATION, China periodical in China National Knowledge Infrastructure, Chinese Evidence‐Based Medicine Database, Science China, Chinese Social Science Citation Index, and the Chinese Science and Technology Document Databases. We also searched databases of ongoing trials, conference proceedings, and grey literature, handsearched three Chinese journals and contacted authors and researchers. 
+Selection criteria
+We included all truly randomised controlled trials that evaluated the effect of acupuncture, irrespective of type, in patients with dysphagia within 30 day after the onset of ischaemic or haemorrhagic stroke. All types of acupuncture interventions were eligible. The control intervention could be placebo acupuncture, sham acupuncture, or no acupuncture. The primary outcome was recovery of normal feeding. The secondary outcomes were case fatality, deterioration, late disability, length of hospital stay, quality of life, feeding tube removal, aspiration pneumonia and nutritional measures. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality, and extracted data. Disagreements were resolved by a third review author. 
+Main results
+Only one trial of 66 participants was included. In the acupuncture group, 12 out of 34 participants recovered to normal feeding (35.3%). In the control group, seven out of 32 participants recovered to normal feeding (21.9%). The relative risk of recovery was 1.61 with a 95% confidence interval of 0.73 to 3.58. No statistical significance was detected. 
+Authors' conclusions
+There is not enough evidence to make any conclusion about the therapeutic effect of acupuncture for dysphagia after acute stroke. High quality and large scale randomised controlled trials are needed. 

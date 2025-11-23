@@ -1,0 +1,24 @@
+How effective is radiotherapy for treating wet age‐related macular degeneration (AMD) (a degenerative eye condition)? 
+Why this question is importantAMD is a common condition of the eyes that may develop in people aged over 50. It affects the central area (macula) of the back of the eye (retina). First, yellow spots (drusen) develop under the retina. These can been seen by health professionals during examinations of the eyes. As AMD progresses, new blood vessels can grow in the macula. These vessels may bleed or cause scarring; this is called ‘neovascular’ or ‘wet’ AMD. Wet AMD can cause people to lose the central part of their vision. 
+There is no cure for wet AMD. However, there are treatments designed to stop vision from worsening. One such treatment is radiotherapy (using radiation to kill harmful cells). To find out how effective radiotherapy is for treating wet AMD and whether it causes unwanted effects, we reviewed the evidence from research studies. 
+How we identified and assessed the evidenceFirst, we searched for all relevant studies in the medical literature. We then compared the results, and summarized the evidence from all the studies. Finally, we assessed how certain the evidence was. We considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorized the evidence as being of very low‐, low‐, moderate‐ or high‐certainty. 
+What we foundWe identified 18 relevant studies on a total of 2340 people with wet AMD. These studies mainly took place in Europe and North America, though two studies were from Japan and one study included sites in South America. Fifteen studies investigated external beam radiotherapy and three studies investigated internal radiotherapy (brachytherapy), where radioactive materials are placed on the surface of the eye. 
+Studies compared:
+➩ radiotherapy alone with no radiotherapy or a sham treatment (14 studies,1223 people); or 
+➩ radiotherapy plus eye injections (of a medicine called anti‐vascular endothelial growth factor (VEGF)) with eye injections only (four studies,1117 people); or 
+The studies showed that:
+When radiotherapy was compared with no radiotherapy or a sham treatment, at 12‐month follow‐up 
+➩ There may be little difference in how likely people’s vision is to worsen by 3 lines or more on a vision chart (low‐certainty). 
+➩ There may be a small difference in average visual sharpness (in the order of 1 line of a vision chart) favouring radiotherapy (low‐certainty). 
+➩ People’s ability to distinguish between bright and dim parts of an image may be slightly better with radiotherapy (low‐certainty). 
+➩ The evidence on growth of new blood vessels in the back of the eye was inconsistent (very low‐certainty). 
+➩ There may be little difference in quality of life (low‐certainty).
+➩ Studies that recorded unwanted effects generally reported no radiation‐associated damage to the retina or optical nerve. Other unwanted effects, such as cataracts, were uncommon. There was no consistent evidence that unwanted effects were more likely in the radiation group (low‐certainty). 
+When radiotherapy combined with anti‐VEGF was compared with anti‐VEGF alone, 12 months follow‐up 
+➩ People treated with radiotherapy plus anti‐VEGF are probably twice as likely to lose 3 lines or more on a vision chart than people treated with anti‐VEGF alone (moderate‐certainty). 
+➩ Studies reported inconsistent results on average vision sharpness (low‐certainty) and new vessel growth (very low‐certainty evidence). Average vision sharpness may be worse with brachytherapy. 
+➩ No studies investigated the impact on people’s ability to distinguish between bright and dim parts of an image, or quality of life. 
+➩ Three out of four studies reported few unwanted effects and no radiation‐associated damage to the retina or optical nerve. In one study, half of the people treated with brachytherapy reported unwanted effects (particularly cataracts) and there were some instances of damage to the retina caused by the brachytherapy (low‐certainty). 
+➩ In three out of four studies, people treated with radiotherapy received fewer anti‐VEGF injections (moderate‐certainty). 
+ConclusionIt is uncertain whether radiotherapy on its own or with eye injections of anti‐VEGF is effective for treating wet AMD. 
+How up‐to‐date is this review?Cochrane researchers searched for studies that had been published up to 4 May 2020.   

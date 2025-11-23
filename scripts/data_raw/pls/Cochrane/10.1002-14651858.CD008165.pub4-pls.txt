@@ -1,0 +1,11 @@
+A review of the ways that healthcare professionals can improve the use of suitable medicines for older people 
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out which types of approaches can improve the use of suitable medicines in older people. Researchers collected and analysed all relevant studies to answer this question and included 32 trials in the review. 
+Key messages 
+Taking medicine to treat symptoms of chronic illness and to prevent worsening of disease is common in older people. However, taking too many medicines can cause harm. 
+What was studied in the review? 
+This review examines studies in which healthcare professionals have taken action to make sure that older people are receiving the most effective and safest medicines for their illness. Actions taken included providing a service, known as pharmaceutical care, which involves promoting the correct use of medicines by identifying, preventing and resolving medication‐related problems. Another strategy which we were interested in was using computerised decision support, which involves a programme on the doctor’s computer that aids the selection of appropriate treatment(s). 
+What are the main results of the review? 
+Review authors found 32 relevant trials from 12 countries that involved 28,672 older people. These studies compared interventions aiming to improve the appropriate use of medicines with usual care. It is uncertain whether the interventions improved the appropriateness of medicines (based on scores assigned by expert professional judgement), reduced the number of potentially inappropriate medicines (medicines in which the harms outweigh the benefits), reduced the proportion of patients with one or more potentially inappropriate medications, or reduced the proportion of patients with one or more potential prescribing omissions (cases where a useful medicine has not prescribed) because the certainty of the evidence is very low. The interventions may lead to little or no difference in hospital admissions or quality of life, however, the interventions may slightly decrease the number of potential prescribing omissions. 
+How up‐to‐date is this review? 
+Review authors searched for studies that had been published up to February 2018.

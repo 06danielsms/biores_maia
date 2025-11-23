@@ -1,0 +1,14 @@
+Background
+Rebleeding is an important cause of death and disability in patients with aneurysmal subarachnoid haemorrhage (SAH). In order to prevent rebleeding, the preferred strategy is aneurysm ablation (removal) as early as possible. However, in clinical practice some patients are not suitable for surgical treatment, or prefer conservative treatments. In some countries, therefore, total bedrest for four to six weeks has been considered one of the basic interventions to avoid rebleeding. However, the influence of bedrest on outcome in patients with SAH is not well known. 
+Objectives
+To establish whether early mobilisation (less than four weeks after symptom onset) compared with delayed mobilisation (defined as patients staying in bed for at least four weeks after symptom onset) in patients with aneurysmal subarachnoid haemorrhage (SAH), who have not had or could not have any surgical treatment for the aneurysm, will increase the proportion of deaths from rebleeding. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (May 2012), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 6), the Chinese Stroke Trials Register (May 2012), MEDLINE (1950 to June 2012), EMBASE (1980 to June 2012), Web of Science Conference Proceedings (1990 to May 2012), CINAHL (1982 to June 2012), AMED (1985 to June 2012), PEDro (May 2012), REHABDATA (May 2012) and CIRRIE Database of International Rehabilitation Research (May 2012). In addition, we searched five Chinese databases, ongoing trials registers and relevant reference lists. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) comparing early mobilisation (within four weeks after symptom onset) with delayed mobilisation (after four weeks). 
+Data collection and analysis
+Two review authors independently selected trials for inclusion and exclusion. We resolved disagreements by discussion. 
+Main results
+In the absence of any suitable RCTs addressing this topic, we were unable to perform a meta‐analysis. Data from recent observational studies suggested the period of greatest risk for rebleeding occurs more frequently in the early period, especially within 24 hours of the initial SAH. The impact of bedrest on aneurysm care should be clarified. 
+Authors' conclusions
+There are no RCTs or controlled trials that provide evidence for, or against, staying in bed for at least four weeks after symptom onset in patients with aneurysmal SAH, who have not had, or could not have, surgical treatment for the aneurysm. Treatment strategies to reduce the risk of rebleeding in SAH patients before aneurysm ablation, or in those not suitable for surgical treatment, or who prefer conservative treatments, deserve attention. 

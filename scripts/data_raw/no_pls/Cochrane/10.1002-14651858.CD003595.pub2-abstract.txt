@@ -1,0 +1,14 @@
+Background
+Haemolytic uraemic syndrome (HUS) and thrombotic thrombocytopenic purpura (TTP) are related conditions with similar clinical features of variable severity. Survival of patients with HUS and TTP has improved greatly over the past two decades with improved supportive care for patients with HUS and by the use of plasma exchange (PE) with fresh frozen plasma (FFP) for patients with TTP. Separate pathogenesis of these two disorders has become more evident, but management overlaps. 
+Objectives
+To evaluate the benefits and harms of different interventions for HUS and TTP separately, in patients of all ages. 
+Search methods
+We searched MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), conference proceedings, reference lists of articles and text books and contact with investigators were used to identify relevant studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating any interventions for HUS or TTP in patients of all ages. 
+Data collection and analysis
+Three authors independently extracted data and evaluated study reporting quality using standard Cochrane criteria. Analysis was undertaken using a random effects model and results expressed as risk ratio (RR) and 95% confidence intervals (CI). 
+Main results
+For TTP, we found six RCTs (331 participants) evaluating PE with FFP as the control. Interventions tested included antiplatelet therapy (APT) plus PE with FFP, FFP transfusion and PE with cryosupernatant plasma (CSP). Two studies compared plasma infusion (PI) to PE with FFP and showed a significant increase in failure of remission at two weeks (RR 1.48, 95% 1.12 to 1.96) and all‐cause mortality (RR 1.91, 95% 1.09 to 3.33) in the PI group. Seven RCTs were undertaken in children with HUS. None of the assessed interventions used (FFP transfusion, heparin with or without urokinase or dipyridamole, shiga toxin binding protein and steroids) were superior to supportive therapy alone, for all‐cause mortality, neurological/extrarenal events, renal biopsy changes, proteinuria or hypertension at the last follow‐up visit. Bleeding was significantly higher in those receiving anticoagulation therapy compared to supportive therapy alone (RR 25.89, 95% CI 3.67 to 182.83). 
+Authors' conclusions
+PE with FFP is still the most effective treatment available for TTP. For patients with HUS, supportive therapy including dialysis is still the most effective treatment. All studies in HUS have been conducted in the diarrhoeal form of the disease. There were no RCTs evaluating the effectiveness of any interventions on patients with atypical HUS who have a more chronic and relapsing course. 

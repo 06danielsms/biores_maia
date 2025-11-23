@@ -1,0 +1,14 @@
+Background
+The severe and long‐lasting symptoms of schizophrenia are often the cause of severe disability. Environmental stress such as life events and the practical problems people face in their daily can worsen the symptoms of schizophrenia. Deficits in problem solving skills in people with schizophrenia affect their independent and interpersonal functioning and impair their quality of life. As a result, therapies such as problem solving therapy have been developed to improve problem solving skills for people with schizophrenia. 
+Objectives
+To review the effectiveness of problem solving therapy compared with other comparable therapies or routine care for those with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (September 2006), which is based on regular searches of BIOSIS, CENTRAL, CINAHL, EMBASE, MEDLINE and PsycINFO. We inspected references of all identified studies for further trials. 
+Selection criteria
+We included all clinical randomised trials comparing problem solving therapy with other comparable therapies or routine care. 
+Data collection and analysis
+We extracted data independently. For homogenous dichotomous data we calculated random effects, relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat (NNT) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD) using a random effects statistical model. 
+Main results
+We included only three small trials (n=52) that evaluated problem solving versus routine care, coping skills training or non‐specific interaction. Inadequate reporting of data rendered many outcomes unusable. We were unable to undertake meta‐analysis. Overall results were limited and inconclusive with no significant differences between treatment groups for hospital admission, mental state, behaviour, social skills or leaving the study early. No data were presented for global state, quality of life or satisfaction. 
+Authors' conclusions
+We found insufficient evidence to confirm or refute the benefits of problem solving therapy as an additional treatment for those with schizophrenia. The small number of participants, the quality of reporting of methods and results were of concern. More trials with adequate reporting of methods to minimize bias, adequately powered, with validated, reliable and clinically meaningful outcomes are needed to provide robust evidence to guide policy and practice. 

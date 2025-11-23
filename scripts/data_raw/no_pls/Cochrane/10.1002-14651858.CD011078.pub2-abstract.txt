@@ -1,0 +1,14 @@
+Background
+Central venous catheter‐related bloodstream infection is an important cause of mortality and morbidity in newborn infants cared for in neonatal units. Potential strategies to prevent these infections include the use of central venous catheters impregnated with antimicrobial agents. 
+Objectives
+To determine the effect of antimicrobial‐impregnated central venous catheters in preventing catheter‐related bloodstream infection in newborn infants. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 8), MEDLINE (1966 to September 2015), EMBASE (1980 to September 2015), CINAHL (1982 to September 2015), conference proceedings and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing central venous catheters impregnated or coated with any antibiotic or antiseptic versus central venous catheters without antibiotic or antiseptic coating or impregnation in newborn infants. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Group, with independent evaluation of risk of bias and data extraction by two review authors. 
+Main results
+We found only one small trial (N = 98). This trial found that silver zeolite‐impregnated umbilical venous catheters reduced the incidence of bloodstream infection in very preterm infants (risk ratio 0.11, 95% confidence interval 0.01 to 0.87; risk difference ‐0.17, 95% CI ‐0.30 to ‐0.04; number needed to treat for benefit 6, 95% CI 3 to 25]. 
+Authors' conclusions
+Although the data from one small trial indicates that antimicrobial‐impregnated central venous catheters might prevent catheter‐related bloodstream infection in newborn infants, the available evidence is insufficient to guide clinical practice. A large, simple and pragmatic randomised controlled trial is needed to resolve on‐going uncertainty. 

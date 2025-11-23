@@ -1,0 +1,19 @@
+Does pioglitazone prevent or delay type 2 diabetes and its complications in people at risk of developing type 2 diabetes mellitus? 
+What is type 2 diabetes? 
+Type 2 diabetes, also known as adult‐onset diabetes, is the most common type of diabetes. It prevents the body from using insulin properly ‐ insulin is a hormone that helps the body to regulate blood sugar levels. People with type 2 diabetes may suffer long‐term effects (diabetic complications), such as eye or kidney disease, or develop foot ulcers. People with moderately elevated blood sugar levels (often referred to as 'prediabetes') are said to have an increased risk of developing diabetes. Pioglitazone is a blood sugar‐lowering medicine, which is used to treat people with type 2 diabetes. 
+What did we want to find out? 
+We wanted to know whether pioglitazone can also be used to prevent or delay type 2 diabetes in people at increased risk of developing the condition. We examined the effects of pioglitazone on important outcomes for patients, such as complications of diabetes, death from any cause, health‐related quality of life and unwanted effects of the treatment. 
+What did we do? 
+We searched for studies that investigated pioglitazone used to prevent or delay the onset of type 2 diabetes. Participants had to have elevated blood sugar levels, but lower than diagnostic levels for diabetes, and they needed to be free from other diseases. Studies had to apply the intervention (pioglitazone) for at least 24 weeks. 
+What we found 
+We found 27 randomised controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) with a total of 4186 participants. The studies compared pioglitazone with other antidiabetic drugs, diet and exercise, placebo (a 'sham' treatment), or no intervention. Twenty‐three out of 27 studies were conducted in China. The studies lasted between 24 weeks and three years. 
+This evidence is up to date as of November 2019.
+Key results 
+Five studies compared pioglitazone with other antidiabetic drugs (metformin, acarbose or repaglinide) and one study compared pioglitazone with diet and exercise. There were no clear beneficial or harmful effects on the risk of developing diabetes comparing the drugs. 
+Six studies compared pioglitazone with placebo. There was a reduction or delay in the development of type 2 diabetes: 188 out of 1000 people treated with placebo developed type 2 diabetes compared with 75 per 1000 people treated with pioglitazone (possible spread: 32 per 1000 to 179 per 1000). 
+Twenty‐three studies compared pioglitazone with no intervention. There was a reduction or delay in the development of type 2 diabetes: 193 out of 1000 people with no intervention developed type 2 diabetes compared with 60 per 1000 treated with pioglitazone (possible spread: 44 per 1000 to 77 per 1000). 
+Only a few studies reported death from any cause, serious unwanted effects, non‐fatal heart‐attacks or strokes. We were not able to detect any clear benefits or harms of pioglitazone for these outcomes. None of the included studies reported health‐related quality of life or socioeconomic effects (such as costs of the intervention, absence from work, medication consumption). 
+We found two ongoing studies that we could potentially include in this review. These studies may contribute data from around 2694 participants to future updates of our review. 
+Future research should focus on whether the effect of pioglitazone is sustained after people stop taking it. Furthermore, research should focus on patient‐important outcomes such as unwanted effects and complications of diabetes. 
+Quality of the evidence 
+All studies had problems in their methods or the way they reported results. Moreover, many outcomes were reported by no or just a few studies. We are therefore uncertain whether pioglitazone prevents or delays type 2 diabetes in people at risk of developing the condition. 

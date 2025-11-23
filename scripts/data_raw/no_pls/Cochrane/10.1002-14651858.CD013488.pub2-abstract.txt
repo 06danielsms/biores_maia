@@ -1,0 +1,17 @@
+Background
+Cystic fibrosis (CF) is an autosomal recessive, life‐limiting, multisystem disease affecting over 70,000 individuals worldwide. Between 80% and 90% of people with CF suffer with pancreatic exocrine insufficiency, which if left untreated, leads to a poor nutritional status. Pancreatic enzyme replacement therapy (PERT) has been shown to be effective in improving nutritional status and subsequently associated with improved lung function. However, the timings of PERT administration in relation to a meal are subjective and not standardised, meaning that variations in the timing of PERT dosing persist. 
+Objectives
+The primary objective of the review is to compare the efficacy (fat absorption) and effectiveness (nutritional status, lung function and quality of life) of different PERT dosing strategies in terms of timing of administration for treating dietary malabsorption in all individuals with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles and reviews. 
+Date of last search: 24 June 2021.
+We also searched ongoing trials registers on 09 July 2021.
+Selection criteria
+Randomised controlled trials (RCTs), including cross‐over RCTs with a minimum washout period of two weeks, and quasi‐RCTs of PERT dosing regimens in people (of any age) with CF. 
+Data collection and analysis
+Two authors independently assessed and screened the studies identified from the searches. We planned to use GRADE to assess the certainty of evidence for our pre‐specified critical outcomes, but we did not identify any eligible studies. 
+Main results
+No studies met the eligibility criteria and therefore we did not include any in this review. The excluded studies were either cross‐over in design (but lacking a sufficient washout period between treatments) or did not assess the timing of PERT. One study which was terminated early is awaiting assessment pending further information. 
+Authors' conclusions
+We were unable to determine whether one dosing schedule for PERT is better than another since we identified no eligible RCTs. While the introduction of PERT to people with CF can improve their nutritional status, there are a limited number of studies which address this review question, and none met our eligibility criteria. Since malnutrition and adverse gastrointestinal symptoms remain a common feature in CF, the assessment of the relative performance of dosing schedules may provide evidence to improve outcomes in people with CF who are pancreatic insufficient. 
+Further research is needed to fully evaluate the role of dosing schedules for PERT in fat absorption. Research should also establish reliable outcome measures and minimal clinically important differences. While RCTs with a cross‐over design may have advantages over a parallel group design, an adequate washout period between intervention periods is essential. 

@@ -1,0 +1,9 @@
+STUDY RESULTS
+Answer to the main question:
+How did hemolysis compare between patients who got ravulizumab and patients who got eculizumab after 26 weeks of treatment?
+During hemolysis, the destruction of red blood cells causes the release of an enzyme called lactate dehydrogenase or LDH into the blood. LDH levels show how much hemolysis is happening in the body. Both ravulizumab and eculizumab aim to block hemolysis. If the treatment is working and blocking hemolysis, then the patient's LDH level should decrease.
+The researchers wanted to know the average amount the LDH levels changed in patients getting ravulizumab and eculizumab after 26 weeks of treatment. If the difference in the change in LDH levels between patients who got ravulizumab and patients who got eculizumab was less than 15%, then that meant that ravulizumab worked as well as eculizumab in decreasing LDH levels.
+RAVULIZUMAB           ECULIZUMAB
+The patients who received ravulizumab had an average decrease in their LDH levels of 1%.
+The patients who received eculizumab had an average increase in their LDH levels of 8%.
+The difference in the change in LDH levels between the patients who got ravulizumab and the patients who got eculizumab was 9%.

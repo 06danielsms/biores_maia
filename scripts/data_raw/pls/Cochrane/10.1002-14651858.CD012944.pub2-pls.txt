@@ -1,0 +1,17 @@
+Effect of decision‐support tools on mobile phones on primary health care
+What was the aim of this review? 
+In this Cochrane Review, we aimed to find out if primary (community) healthcare workers using decision‐support tools on mobile phones or other mobile devices give better quality care. We looked for studies where researchers compared a decision‐support tool used on mobile phones to routine practice where there may be no guidance or some guidance in a paper format. We searched for studies conducted from 1 January 2000 to 9 October 2020. We found eight studies. 
+Key messages 
+We do not know if decision‐support tools used on mobile devices make primary healthcare workers better at following recommended practice. The evidence is not clear about the effects of these tools on patients' and clients' behaviour and on their health. We need more and better research to assess these issues. 
+What was studied in the review? 
+In many settings, patients receive low‐quality care. This is often because they live in poor or rural settings with few healthcare workers, or because healthcare workers do not have enough supplies, equipment, or proper training. Healthcare workers may struggle to stay up‐to‐date or may not have enough time to make the right decisions, which can result in poor quality of care for patients. 
+Decision‐support tools may help address some of these problems. A decision‐support tool helps the healthcare worker think through what he or she knows about the patient. The tool then helps guide the healthcare worker to the right decision for that patient. Designing decision‐support tools that can be used on mobile phones or other mobile devices such as tablets and personal digital assistants (PDAs) can make these tools easier to use and keep up‐to‐date. 
+The main aim of our review was to find out if healthcare workers using decision‐support tools on mobile phones give better healthcare than healthcare workers using decision‐support tools that are not on mobile phones or that use no decision‐support tools. We looked at the use of these tools in primary healthcare settings only. 
+What were the main results of the review? 
+We found eight relevant studies. Three studies were carried out in the USA and five studies in India, China, Guatemala, Ghana, and Kenya. These studies showed that when primary healthcare workers use decision‐support tools on mobile phones: 
+– we do not know if they are better at following recommended clinical practice, because the quality of this evidence was very low; 
+– there was no clear pattern of a positive or negative effect on patients' or clients' behaviour and on their health; 
+– this may slightly improve patients’ satisfaction with medical information;
+– we do not know if this approach led primary healthcare workers to manage people’s health issues more quickly because we found no studies that measured this. We also found no studies that explored the effect on healthcare worker satisfaction, resource use, or whether this approach had any unintended consequences (e.g. harms). 
+How up‐to‐date is this review? 
+We searched for studies published up to October 2020.

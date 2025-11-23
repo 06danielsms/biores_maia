@@ -1,0 +1,14 @@
+Background
+Trauma is one of the leading causes of death in any age group. The 'lethal triad' of acidosis, hypothermia, and coagulopathy has been recognized as a significant cause of death in patients with traumatic injuries. In order to prevent the lethal triad two factors are essential, early control of bleeding and prevention of further heat loss. In patients with major abdominal trauma, damage control surgery (DCS) avoids extensive procedures on unstable patients, stabilizes potentially fatal problems at initial operation, and applies staged surgery after successful initial resuscitation. It is not currently known whether DCS is superior to immediate surgery for patients with major abdominal trauma. 
+Objectives
+To assess the effects of damage control surgery compared to traditional immediate definitive surgical treatment for patients with major abdominal trauma. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, CENTRAL (The Cochrane Library 2012, Issue 12 of 12), MEDLINE, EMBASE, Web of Science: Science Citation Index & ISI Proceedings, Current Controlled Trials MetaRegister, Clinicaltrials.gov, Zetoc, and CINAHL for all published and unpublished randomised controlled trials. We did not restrict the searches by language, date, or publication status. The search was through December 2012. 
+Selection criteria
+Randomised controlled trials of damage control surgery versus immediate traditional surgical repair were included in this review. We included patients with major abdominal trauma (Abbreviated Injury Scale > 3) who were undergoing surgery. Patient selection was crucial as patients with relatively simple abdominal injuries should not undergo unnecessary procedures. 
+Data collection and analysis
+Two authors independently evaluated the search results.
+Main results
+A total of 2551 studies were identified by our search. No randomised controlled trials comparing DCS with immediate and definitive repair in patients with major abdominal trauma were found. A total of 2551 studies were excluded because they were not relevant to the review topic and two studies were excluded with reasons after examining the full‐text. 
+Authors' conclusions
+Evidence that supports the efficacy of damage control surgery with respect to traditional laparotomy in patients with major abdominal trauma is limited. 

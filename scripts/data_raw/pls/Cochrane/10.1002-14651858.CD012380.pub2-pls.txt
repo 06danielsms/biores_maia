@@ -1,0 +1,17 @@
+Interventions to prevent or reduce kidney complications in people with sickle cell disease 
+Review question 
+We wanted to determine if there were any safe and effective interventions that prevent or reduce kidney complications in people with sickle cell disease (SCD). 
+Background 
+SCD is a serious inherited blood disorder where the red blood cells, which carry oxygen around the body, develop abnormally. Normal red blood cells are flexible and disc‐shaped, but in SCD they can become rigid and crescent shaped. Sickled cells are not only less flexible than healthy red blood cells, they are also stickier. This can lead to blockage of blood vessels, resulting in tissue and organ damage and episodes of severe pain. The abnormal blood cells are more fragile and break apart, which leads to a decreased number of red blood cells, known as anaemia. 
+Kidney complications can start at an early age in children with SCD and are common in adults with the condition. Kidney complications leading to kidney protein leak and chronic kidney disease can be severe with serious effects on health (such as the need for dialysis or a kidney transplant). Identifying therapies, which can prevent or slow down the decline in kidney function in people with SCD, will be critical in improving health outcomes. 
+Search date 
+The evidence is current to: 13 April 2017.
+Study characteristics 
+We found two randomised controlled trials which enrolled a total of 215 participants. One trial, published in 2011, was conducted in 193 infants aged 9 months to 18 months and compared the drug hydroxyurea to placebo. The second trial, published in 1998, was conducted in 22 adults with normal blood pressure and microalbuminuria (an increase of protein in the urine) and compared captopril (a drug used to treat high blood pressure) to placebo. 
+Both trials received government funding.
+Key Results 
+In infants aged 9 months to 18 months, hydroxyurea may increase the ability to produce normal urine, but we are very uncertain if it has any effect on the glomerular filtration rate (network of filters in the kidney that filter waste from the blood). Hydroxyurea may make little or no difference on the incidence of SCD‐related serious complications (including acute chest syndrome, painful crises and hospitalisations). 
+We are very uncertain if giving captopril to adults with SCD who have normal blood pressure and early signs of kidney damage (microalbuminuria) reduces progression of kidney damage. 
+Quality of life was not reported in either trial.
+Quality of the evidence 
+The evidence for all outcomes was rated as low‐ to very low‐quality due to trials being at high risk of bias and because there were a small number of trials and a small number of participants included in the trials. 

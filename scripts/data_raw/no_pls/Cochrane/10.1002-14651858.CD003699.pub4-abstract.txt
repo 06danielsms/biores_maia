@@ -1,0 +1,14 @@
+Background
+Acute hypoxaemic respiratory failure (AHRF) is an important cause of mortality and morbidity in children. Positive pressure ventilation is currently the standard care, however, it does have complications. Continuous negative extrathoracic pressure (CNEP) ventilation or continuous positive airway pressure (CPAP) ventilation delivered via non‐invasive approaches (Ni‐CPAP) have shown certain beneficial effects in animal and uncontrolled human studies. 
+Objectives
+To assess the effectiveness of CNEP or Ni‐CPAP compared to conventional ventilation in children (at least one month old and less than 18 years of age) with AHRF due to non‐cardiogenic causes for improving the mortality or morbidity associated with AHRF. 
+Search methods
+We searched CENTRAL 2013, Issue 6, MEDLINE (January 1966 to June week 3, 2013), EMBASE (1980 to July 2013) and CINAHL (1982 to July 2013). 
+Selection criteria
+Randomised or quasi‐randomised clinical trials of CNEP or Ni‐CPAP versus standard therapy (including positive pressure ventilation) involving children (from one month old to less than 18 years at time of randomisation) who met the criteria for diagnosis of AHRF with at least one of the outcomes reported. 
+Data collection and analysis
+We assessed risk of bias of the included studies using allocation concealment, blinding of intervention, completeness of follow‐up and blinding of outcome measurements. We abstracted data on relevant outcomes and estimated the effect size by calculating risk ratio (RR) and risk difference (RD) with 95% confidence intervals (CI). 
+Main results
+We identified two eligible studies: one of CPAP and one of CNEP (published as an abstract). Both were unblinded studies with mainly unclear risk of bias due to lack of adequate information to assess this. The CPAP study enrolled 37 children to oxygen mask and CPAP and reported improvement in respiratory rate and oxygen saturation in both arms after 30 minutes of application. The CNEP study was published as an abstract and included 33 infants with bronchiolitis. In the CNEP study there was a reduction in the fraction of inspired oxygen (FiO2) (less than 30% within one hour of initiation of therapy) in four participants in the CNEP group compared to none in the control group (RR 10.7, 95% CI 0.6 to 183.9). One infant required CPAP and mechanical ventilation in the control group while all infants in the CNEP group were managed without intubation (RR for both outcomes 0.40, 95% CI 0.02 to 9.06). None of the trials reported on mortality. No adverse events were reported in ether of the included trials. 
+Authors' conclusions
+There is a lack of well‐designed, controlled trials of non‐invasive modes of respiratory support in children with AHRF. Studies assessing the outcomes mortality, avoidance of intubation and its associated complications, hospital stay and patient comfort are needed. 

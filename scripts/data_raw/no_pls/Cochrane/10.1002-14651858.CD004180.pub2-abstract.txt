@@ -1,0 +1,14 @@
+Background
+Telephone consultation is the process where calls are received, assessed and managed by giving advice or by referral to a more appropriate service. In recent years there has been a growth in telephone consultation developed, in part, as a response to increased demand for general practitioner (GP) and accident and emergency (A&E) department care. 
+Objectives
+To assess the effects of telephone consultation on safety, service usage and patient satisfaction and to compare telephone consultation by different health care professionals. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, the specialised register of the Cochrane Effective Practice and Organisation of Care (EPOC) group, PubMed, EMBASE, CINAHL, SIGLE, and the National Research Register. We checked reference lists of identified studies and review articles and contacted experts in the field. The search was not restricted by language or publication status. The searches were updated in 2007 and no new studies were found. 
+Selection criteria
+Randomised controlled trials (RCTs), controlled studies, controlled before/after studies (CBAs) and interrupted time series (ITSs) of telephone consultation or triage in a general health care setting. Disease specific phone lines were excluded. 
+Data collection and analysis
+Two review authors independently screened studies for inclusion in the review, extracted data and assessed study quality. Data were collected on adverse events, service usage, cost and patient satisfaction. Due to heterogeneity we did not pool studies in a meta‐analysis and instead present a narrative summary of the findings. 
+Main results
+Nine studies met our inclusion criteria, five RCTs, one CCT and three ITSs. Six studies compared telephone consultation versus normal care; four by a doctor, one by a nurse and one by a clinic clerk. Three studies compared telephone consultation by different types of health care workers; two compared nurses with doctors and one compared health assistants with doctors or nurses. Three of five studies found a decrease in visits to GP's but two found a significant increase in return consultations. In general at least 50% of calls were handled by telephone advice alone. Seven studies looked at accident and emergency department visits, six showed no difference between the groups and one, of nurse telephone consultation, found an increase in visits. Two studies reported deaths and found no difference between nurse telephone triage and normal care. 
+Authors' conclusions
+Telephone consultation appears to reduce the number of surgery contacts and out‐of‐hours visits by general practitioners. However, questions remain about its affect on service use and further rigorous evaluation is needed with emphasis on service use, safety, cost and patient satisfaction. 

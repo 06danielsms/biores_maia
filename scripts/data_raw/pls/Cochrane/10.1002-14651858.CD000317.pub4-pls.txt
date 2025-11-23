@@ -1,0 +1,15 @@
+Intrauterine insemination versus intracervical insemination in donor sperm treatment
+Review question 
+We reviewed the evidence on the effectiveness and safety of intrauterine insemination (IUI) compared to intracervical insemination (ICI) in women who started donor sperm treatment. 
+Background 
+The first‐line treatment in donor sperm treatment consists of inseminations that can be done by placing sperm inside a woman's uterus to facilitate fertilisation (IUI) or by inserting sperm into the vagina using a small, needleless syringe or a cervical cap (ICI). Both IUI and ICI can be performed in natural cycles or following ovarian stimulation. 
+Ovarian stimulation can be performed with gonadotrophins, which are injected, or clomiphene citrate, which is available as a tablet. One of the risks of ovarian stimulation is multiple pregnancies. Therefore, the first few cycles of IUI and ICI are usually performed without ovarian stimulation. 
+It is important that IUI and ICI are performed at a specific time in the woman's menstrual cycle (as close to ovulation as possible). Various techniques of determining the best timing for IUI and ICI in natural cycles are available, such as keeping basal temperature charts, checking cervical mucus scores, testing blood or urine levels of luteinising hormone (LH), or monitoring with ultrasounds. 
+We compared IUI and ICI with each other, and also compared different types of each technique. 
+Study characteristics 
+We found six randomised controlled trials, including 708 women. Two studies compared IUI and ICI in natural cycles. Two studies compared IUI and ICI in gonadotrophin‐stimulated cycles. Two studies compared the timing of IUI and ICI. The evidence is current to December 2017. 
+Key results 
+There was insufficient evidence to determine whether there was any clear difference between IUI and ICI in live birth rates, in either natural cycles or in gonadotrophin‐stimulated cycles. As there was only one live birth in the small study using natural cycles, we could not make any meaningful comparison between the groups. The evidence on gonadotrophin‐stimulated cycles suggested that if the live birth rate following ICI was assumed to be 30%, the chance of live birth rate following IUI in gonadotrophin‐stimulated cycles would be between 24% and 80%. For IUI and ICI in natural cycles, no multiple pregnancies were reported. In gonadotrophin‐stimulated cycles, IUI was associated with higher multiple pregnancy rates than ICI. The evidence suggested that if the risk of multiple pregnancy following ICI in gonadotrophin‐stimulated cycles was assumed to be 10%, the risk of multiple pregnancy following IUI would be between 10% and 46%. 
+We concluded that the evidence was too limited to encourage or discourage either IUI or ICI, in natural cycles or with ovarian stimulation in donor sperm treatment. 
+Quality of the evidence 
+Following GRADE assessment, we found that the evidence for all outcomes was of very low quality. The main limitations were risk of bias, due to poor reporting of study methods, and serious imprecision, due to the limited number of studies and small study sizes. 

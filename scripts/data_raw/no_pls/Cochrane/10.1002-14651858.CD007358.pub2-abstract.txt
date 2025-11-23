@@ -1,0 +1,16 @@
+Background
+Flurbiprofen is a non‐selective non‐steroidal anti‐inflammatory drug (NSAID), related to ibuprofen and naproxen, used to treat acute and chronic painful conditions. There is no systematic review of its use in acute postoperative pain. 
+Objectives
+To assess efficacy, duration of action, and associated adverse events of single dose oral flurbiprofen in acute postoperative pain in adults. 
+Search methods
+We searched Cochrane CENTRAL, MEDLINE, EMBASE and the Oxford Pain Relief Database for studies to January 2009. 
+Selection criteria
+Randomised, double blind, placebo‐controlled trials of single dose orally administered flurbiprofen in adults with moderate to severe acute postoperative pain. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Pain relief or pain intensity data were extracted and converted into the dichotomous outcome of number of participants with at least 50% pain relief over 4 to 6 hours, from which relative risk (RR) and number needed to treat to benefit (NNT) were calculated. Numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. Information on adverse events and withdrawals were collected. 
+Main results
+Eleven studies compared flurbiprofen (699 participants) with placebo (362 participants) in studies lasting 6 to 12 hours. Studies were of adequate reporting quality, and most participants had pain following dental extractions. 
+The dose of flurbiprofen used was 25 mg to 100 mg, with most information for 50 mg and 100 mg. The NNT for at least 50% pain relief over 4 to 6 hours for flurbiprofen 50 mg compared with placebo (692 participants) was 2.7 (2.3 to 3.3) and for 100 mg (416 participants) it was 2.5 (2.0 to 3.1). With flurbiprofen 50 mg and 100 mg 65% to 70% of participants experienced at least 50% pain relief, compared with 25% to 30% with placebo. Rescue medication was used by 25% and 16% of participants with flurbiprofen 50 mg and 100 mg over 6 hours, compared with almost 70% with placebo. 
+Adverse events were uncommon, and not significantly different from placebo.
+Authors' conclusions
+Flurbiprofen at doses of 50 mg and 100 mg is an effective analgesic in moderate to severe acute postoperative pain. The NNT for at least 50% pain relief is similar to that of commonly used NSAIDs such as ibuprofen and naproxen at usual doses. Use of rescue medication indicates a duration of action exceeding 6 hours. 

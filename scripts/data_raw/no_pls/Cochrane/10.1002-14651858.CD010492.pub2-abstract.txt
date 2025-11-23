@@ -1,0 +1,14 @@
+Background
+A thyroid nodule is a discrete lesion within the thyroid gland that might be palpable and is ultrasonographically distinct from the surrounding thyroid parenchyma. Thyroid nodules are more common as age increases and occur more frequently in women. Benign thyroid nodules often cause pressure symptoms and cosmetic complaints. In China and many other countries, doctors use Chinese herbal medicines (CHM) to treat thyroid nodules. 
+Objectives
+To assess the effects of Chinese herbal medicines in the treatment of benign thyroid nodules in adults. 
+Search methods
+Review authors searched the following electronic databases: The Cochrane Library, MEDLINE, EMBASE, the Chinese Biomedical Literature Database (CBM), the China National Knowledge Infrastructure (CNKI), VIP information (a Chinese database), WANFANG Data (a Chinese database), the Chinese Conference Papers Database and the Chinese Dissertation Database (all searched up to April 2013). 
+Selection criteria
+Randomised controlled trials comparing CHM or CHM plus levothyroxine versus levothyroxine, placebo or no treatment in adults with benign thyroid nodules. 
+Data collection and analysis
+Two review authors independently extracted data, assessed studies for risk of bias and evaluated overall study quality according to GRADE (Grading of Recommendations Assessment, Development and Evaluation), with differences resolved by consensus. 
+Main results
+We included one randomised trial involving 152 participants with a randomisation ratio of 2:1 (CHM vs no treatment). The trial applied adequate sequence generation; however, allocation concealment was unclear. Duration of treatment was three months, and follow‐up six months. Our a priori defined outcomes of interest (i.e. nodule volume reduction ≥ 50%; pressure symptoms, cosmetic complaints or both; health‐related quality of life; all‐cause mortality; cancer occurrence; changes in number and size of thyroid nodules; changes in thyroid volume; and socioeconomic effects) were not investigated in the included study. Thyrotropin (TSH), thyroxine (T4) and tri‐iodothyronine (T3) serum levels were normal in both groups before and after the trial was conducted. No adverse events were reported (low quality evidence). 
+Authors' conclusions
+Firm evidence cannot be found to support or refute the use of Chinese herbal medicines for benign thyroid nodules in adults. 

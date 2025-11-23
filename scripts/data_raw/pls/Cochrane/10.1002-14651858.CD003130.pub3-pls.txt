@@ -1,0 +1,31 @@
+Implants in knee replacement surgery for patients with osteoarthritis and rheumatoid arthritis 
+Review question 
+We reviewed the evidence on benefits and harms of mobile bearing compared with fixed bearing implants for cruciate retaining total knee replacement in patients with osteoarthritis (OA) or rheumatoid arthritis (RA). We found 19 relevant studies. 
+Background 
+In some people, damage and pain in the knee from arthritis are so severe that surgery is required. In these people, the joint can be replaced by a knee implant. In total knee replacement surgery, the ends of the long bones of the leg are usually replaced with metal ends, and a plastic insert is placed between them. Like fixed‐bearing implants, mobile‐bearing implants use three components to provide a relatively natural joint. In a mobile‐bearing knee, however, the polyethylene insert can rotate short distances inside the metal tibial tray. This design allows patients a few degrees of greater rotation to the medial and lateral sides of their knee. Compared with fixed bearing designs, mobile bearing knee implants require greater support from soft tissues, such as the ligaments surrounding the knee. If the soft tissues are not strong enough, mobile bearing knees are more likely to dislocate. They also may cost more than fixed bearing implants. 
+Study characteristics 
+On 27 February 2014, we found 19 studies that tested 1641 people with OA or RA. After surgery, these people were followed for at least six months. Most (98.5%) of the patients had OA. Seven out of 19 studies were funded by the prosthesis manufacturer; eight studies did not report their sources of funding. 
+Key results: at least six months after surgery 
+Knee pain (higher score means less pain) 
+• People in the fixed bearing group rated their pain as 0.09 points higher on the KSS scale of 0 to 50 than people in the mobile bearing group (absolute difference 2.4%). 
+• People in the mobile bearing group rated their pain at 41.4 points compared with 41.49 points in the fixed bearing group. 
+Clinical and functional scores (higher score means better function) 
+• People in the fixed bearing group rated their function as 0.10 points lower on the KSS scale of 0 to 100 than people in the mobile bearing group (absolute difference 0.1%). 
+• People in the mobile bearing group rated their function at 84.5 points compared with 84.4 points in the fixed bearing group. 
+Health‐related quality of life (higher score means better quality of life) 
+• People in the fixed bearing group rated their physical quality of life as 1.96 points lower on the Short Form (SF)‐12 scale of 0 to 100 than people in the mobile bearing group (absolute difference 1.96%). 
+• People in the mobile bearing group rated their physical quality of life to be 42.3 points compared with 40.34 points in the fixed bearing group. 
+Revision surgery 
+• 3 more knees per 1000 in the mobile bearing group needed further surgery than in the fixed bearing group. This may have happened by chance. 
+• 11 per 1000 knees in the fixed bearing group and 14 per 1000 knees in the mobile group needed further surgery to the knee (a revision). 
+Mortality 
+• 11 more people per 1000 in the mobile bearing group died than in the fixed bearing group. This may have happened by chance. 
+• 22 per 1000 people in the fixed bearing group and 33 per 1000 people in the mobile bearing group died. 
+Reoperation rate 
+• 12 per 1000 knees in both fixed bearing and mobile bearing groups needed a reoperation.
+Other serious adverse events 
+• 1 more knee per 1000 in the fixed bearing group had another serious adverse event than in the mobile bearing group. This may have happened by chance. 
+• 7 per 1000 knees in the fixed bearing group and 6 per 1000 knees in the mobile bearing group had another serious adverse event. 
+Quality of the evidence 
+Mobile bearing implants probably cause little or no difference in pain compared with fixed bearing implants (moderate quality). 
+Mobile bearing implants may cause little or no difference in function, health‐related quality of life, revision surgery, mortality, reoperation rates and serious adverse events compared with fixed bearing implants (low quality). 

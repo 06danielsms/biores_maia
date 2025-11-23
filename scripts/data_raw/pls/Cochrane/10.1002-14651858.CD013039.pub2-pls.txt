@@ -1,0 +1,35 @@
+Comparing treatments for advanced tooth decay
+Key messages 
+For decayed baby (primary) teeth, putting an off‐the‐shelf metal crown over the tooth or only partially removing decay before placing a filling may be better than the conventional treatment of removing all decay before filling. 
+For decayed adult (permanent) teeth, partial removal of decay before filling the tooth, or adding a second stage to this treatment where more decay is removed after several months, may be better than conventional treatment. 
+What is the condition?  
+Dental caries (tooth decay) is very common and can cause pain, eating and speaking difficulties, and self‐consciousness. Teeth are made up of three layers: enamel (hard outer layer), dentine (hard inner layer), and pulp (nerves and blood vessels). Our mouths contain bacteria, which grow in a sticky film over our teeth known as dental plaque. The bacteria live on sugar from our diet and turn it into acid that dissolves the teeth. Saliva can reverse this process, but if there is too much sugar in the diet or bacteria are not removed often enough by toothbrushing then the acids continue to erode the teeth. This can progress into the dentine, eventually causing a hole in the tooth (known as a cavitated carious lesion). If it reaches the pulp, it can cause infection.  
+How is the condition treated? 
+Dentine/cavitated carious lesions can be treated by complete removal of decayed parts of the tooth and placement of a filling. Dentists call this non‐selective carious tissue removal and conventional restoration (CR). Although effective, this risks weakening the tooth or causing problems if the pulp of the tooth is exposed. Newer alternatives involve removing less or none of the carious tissue: 
+1. Selective carious tissue removal (or selective excavation (SE)): decay around the edges of the cavity is fully removed, but close to the pulp, some softened dentine is left. A filling is then put in. 
+2. Stepwise carious tissue removal (SW): as with SE, most of the decayed parts are removed, but soft dentine is left in areas close to the pulp and the cavity is filled using materials such as composite. After a gap of several months, more of the softened dentine is removed. 
+3. Sealing carious lesions using sealant materials: a thin coating made from resin or glass ionomer is painted over the decayed tooth, hardens in a few minutes and makes the caries inactive by stopping bacteria reaching it. 
+4. Sealing using preformed metal crowns (Hall Technique, HT): a preformed metal crown (i.e. chosen from a selection of sizes to closely fit the tooth, but not moulded for the particular tooth) is pushed over the decayed tooth to seal in the carious lesion.  
+5. Non‐restorative cavity control (NRCC): cavities are made easier to clean, and patients helped to develop good tooth care and eating habits to reduce the risk of the decay progressing. 
+What did we want to find out? 
+We wanted to know the best way for dentists to manage decay that has extended into dentine or cavitated.  
+What did we do? 
+An information specialist searched databases to find relevant studies. We included studies known as randomised clinical trials that compared one treatment versus another treatment, fake (placebo) treatment or no treatment. 
+We combined study results when possible used a statistical procedure called network meta‐analysis to assess the relative effectiveness of the treatments. 
+We assessed whether the studies might be biased and judged the reliability of the evidence using established criteria. 
+What did we find? 
+We included 27 studies with 3350 participants (4195 teeth/lesions), mostly children. Treatment success or failure was usually evaluated at 12 to 24 months. 
+Sealing using sealants versus other interventions for non‐cavitated or cavitated but not deep lesions 
+The evidence is very uncertain, so we do not know whether sealing with sealants is better, worse or the same as conventional treatment, SE or no treatment. 
+HT, CR, SE, NRCC for cavitated, but not deep lesions in baby teeth 
+The results showed HT may be more likely to be successful than conventional treatment or NRCC.   
+The evidence is very uncertain for SE versus HT and CR versus NRCC. 
+CR, SE, SW for deep lesions 
+SW is probably better than conventional treatment for permanent teeth. The evidence is very uncertain for primary teeth.  
+SE may be better than conventional treatment for permanent teeth and possibly primary teeth (but the evidence is very uncertain for lesions that are cavitated but not deep).    
+SE is probably better than SW for permanent teeth. The evidence is very uncertain for primary teeth. 
+For deep lesions, network meta‐analysis showed failure was most likely with conventional treatment compared with SE, SW and HT. 
+What are the limitations of the evidence? 
+Most studies  did not involve many people, and most people had no problems with their fillings regardless of which treatment they received. All studies were at high risk of being biased in some way. Currently, we only have low to very low certainty in most findings. This means future research could lead to different conclusions. 
+How up‐to‐date is this evidence? 
+We found studies up to 21 July 2020.

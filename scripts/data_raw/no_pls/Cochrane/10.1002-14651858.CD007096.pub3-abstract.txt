@@ -1,0 +1,14 @@
+Background
+Red‐cell alloimmunisation can occur when there are incompatibilities between a woman's blood type and that of her unborn baby. This can cause the baby to become anaemic (low red blood cell count), which may require treatment during the pregnancy by blood transfusion while the baby remains within the uterus (called an intrauterine blood transfusion). 
+Objectives
+To compare, using the best available evidence, the benefits and harms of different techniques of intrauterine fetal blood transfusion for women with red‐cell alloimmunisation. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (13 June 2012). 
+Selection criteria
+We considered randomised controlled trials comparing different techniques of intrauterine fetal blood transfusion (either alone or in combination with another technique) for inclusion. 
+Data collection and analysis
+Two authors evaluated trials under consideration for appropriateness for inclusion and methodological quality, without consideration of their results according to the prestated eligibility criteria. We planned to use a fixed‐effect meta‐analysis for combining study data if we judged the trials to be sufficiently similar. We planned to investigate statistical heterogeneity using the I² statistic; if this indicated a high degree of statistical heterogeneity, we planned to use a random‐effects model. 
+Main results
+Our search strategy identified four reports of three studies for consideration, of which two met the inclusion criteria, involving 44 women. We identified a single trial comparing the use of intrauterine fetal blood transfusion and intravenous immunoglobulin versus intrauterine fetal blood transfusion alone, and a single trial comparing the use of atracurium and pancuronium. There were no statistically significant differences identified for any of the reported outcomes. 
+Authors' conclusions
+There is little available high quality information from randomised controlled trials to inform the optimal procedural technique when performing fetal intrauterine fetal blood transfusions for women with an anaemic fetus due to red cell alloimmunisation. Further research evaluating the benefits and harms associated with different techniques is required. 

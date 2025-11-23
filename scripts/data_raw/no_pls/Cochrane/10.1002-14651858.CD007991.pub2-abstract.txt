@@ -1,0 +1,17 @@
+Background
+Zinc deficiency is a significant public health problem in low‐ and middle‐income countries. Zinc is essential for the formation and migration of neurons along with the formation of neuronal synapses. Its deficiency could interfere with the formation of neural pathways and with neurotransmission, thus affecting behavior (for example, attention, activity, engagement, temperament) and development (for example, gross and fine motor skills, social skills). Zinc supplementation provided to infants and children is a possible strategy to improve the mental and motor development of infants and children at high risk of zinc deficiency. 
+Objectives
+To assess the effects of zinc supplementation compared to placebo on measures of psychomotor development or cognitive function in children. 
+Search methods
+We searched MEDLINE, PsycINFO, CINAHL and Latin American Database (LILACS) on 1 December 2011. We searched EMBASE and CENTRAL 2011 Issue 12 on 19 January 2012. We searched Dissertation Abstracts International and the metaRegister of Controlled Trials on 30 November 2011. 
+Selection criteria
+Randomized or quasi‐randomized placebo‐controlled trials involving synthetic zinc supplementation provided to infants or children (less than five years of age) were eligible. 
+Data collection and analysis
+Two review authors screened search results, selected studies, assessed the studies for their risk of bias and extracted data. 
+Main results
+We included 13 trials in this review.
+Eight studies reported data on the Bayley Scales of Infant Development (BSID) in 2134 participants. We combined the data in a meta‐analysis to assess the effect on development as measured by the Mental Development Index (MDI) and Psychomotor Development Index (PDI). There was no significant effect of zinc supplementation: the mean difference between the zinc supplementation and placebo groups on the MDI was ‐0.50 (95% confidence interval (CI) ‐2.06 to 1.06; P = 0.53; I2 = 70%) and the mean difference between the groups for the PDI was 1.54 (95% CI ‐2.26 to 5.34; P = 0.43; I2 = 93%). Most studies had low or unclear risk of bias but there was significant heterogeneity, which was not adequately explained by our subgroup analyses. The overall quality of evidence was considered 'moderate'. 
+Two trials provided data on motor milestone attainment. There was no significant difference in the time to attainment of milestones between the placebo group and the zinc supplementation group in either of the studies. 
+No study provided data on cognition score or intelligence quotient (IQ) or on adverse effects of zinc supplementation. 
+Authors' conclusions
+There is no convincing evidence that zinc supplementation to infants or children results in improved motor or mental development. 

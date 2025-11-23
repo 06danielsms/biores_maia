@@ -1,0 +1,37 @@
+This study included 3 groups of patients taking platinum-based chemotherapy with no maintenance treatment, platinum-based chemotherapy followed by avelumab maintenance treatment, or platinum-based chemotherapy given together with avelumab then followed by avelumab maintenance treatment. Maintenance treatment means a treatment that is given to stop cancer from coming back after it has disappeared following an initial treatment.
+
+The study included adult women with advanced epithelial ovarian cancer that had spread beyond the pelvis or throughout the body who had not yet received treatment for their advanced cancer. Patients in this study must have had surgery to remove as much cancer as possible. This was an “open-label” study, which means that both the patients and researchers knew which medicines were being given. 
+
+Potential patients were evaluated by the study doctor to make sure they met the criteria to participate in the study. This was known as the “screening period”, which lasted up to 28 days. Next, eligible patients were assigned to 1 of 3 treatment groups:
+
+- Group A (335 patients): Platinum-based chemotherapy with no maintenance treatment
+- Group B (332 patients): Platinum-based chemotherapy followed by avelumab maintenance treatment
+- Group C (331 patients): Platinum-based chemotherapy given together with avelumab, then followed by avelumab maintenance treatment
+
+Patients were assigned to each group by chance. Putting people into groups by chance is called randomization. This helps make it more likely that the groups will be more even to compare.
+ 
+The chemotherapy combination of medicines used in this study was paclitaxel and carboplatin. All study treatments were given by intravenous (IV) infusion (a needle into a vein). During the chemotherapy phase, patients received carboplatin every 3 weeks and paclitaxel either every 1 week or every 3 weeks (patient’s doctor allowed to choose). Patients in Group C also received avelumab every 3 weeks during the chemotherapy phase. 
+
+During the maintenance phase, patients in Groups B and C received avelumab every 2 weeks, and patients in Group A received observation only (no study treatments) during this time.
+
+The main goal of this study was to determine if adding a new drug (avelumab) both during and/or after standard chemotherapy treatment would increase the amount of time it takes for ovarian cancer to worsen (progress). The study also evaluated the overall safety of avelumab alone or in combination with standard chemotherapy.
+
+After the last dose of study treatment, there was a 90-day follow-up period that included a monthly safety follow-up. There was a long-term follow-up period, which lasted until patients left the study or the study ended.
+
+The amount of time that patients were in the study varied, but the entire study lasted about 3 years. The sponsor ran this study at 182 locations in 25 countries in Asia, Europe, and North America. It began on 19 May 2016. 998 women joined the study, and 991 women received study treatment. Patients in the study were between the ages of 26 and 86.
+
+Patients were expected to complete study treatment and a 90-day follow-up period, then enter the long-term follow-up period. The tables below show how many patients completed study treatment, and how many patients did not complete study treatment either by their choice or because a doctor decided it was best for a patient to stop being in the study.
+
+Chemotherapy Phase 
+
+- Group A: Out of 335 patients, 279 (83%) completed paclitaxel and 290 patients (87%) completed carboplatin. 56 patients (17%) stopped taking paclitaxel early and 45 patients (13%) stopped taking carboplatin early. The most common reasons for stopping study treatment were medical problems, worsening ovarian cancer, or patient choice.
+- Group B: Out of 332 patients, 275 (83%) completed paclitaxel and 280 patients (84%) completed carboplatin. 57 patients (17%) stopped taking paclitaxel early and 52 patients (16%) stopped taking carboplatin early. The most common reasons for stopping study treatment were medical problems, worsening cancer, or patient choice.
+- Group C: Out of 331 patients, 284 (86%) completed avelumab, 281 (85%) completed paclitaxel, and 290 patients (88%) completed carboplatin. 47 patients (14%) stopped taking avelumab early, 50 patients (15%) stopped taking paclitaxel early, and 41 patients (12%) stopped taking carboplatin early. The most common reasons for stopping study treatment were medical problems, worsening cancer, or patient choice.
+
+Maintenance Phase 
+
+- Group A: Out of 335 patients, 114 patients (34%) stopped the observation early, and 172 patients (51%) were still under observation at the time of the data cutoff. The most common reasons for stopping the observation were medical problems, worsening cancer, or patient choice.
+- Group B: Out of 332 patients, 112 patients (34%) stopped the maintenance therapy early, and 155 patients (47%) were continuing maintenance therapy at the time of the data cutoff. The most common reasons for stopping maintenance therapy were medical problems, worsening cancer, or patient choice.
+- Group C: Out of 331 patients, 107 patients (32%) stopped the maintenance therapy early, and 180 patients (54%) were continuing maintenance therapy at the time of the data cutoff. The most common reasons for stopping maintenance therapy were medical problems, worsening cancer, or patient choice.
+
+In September 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

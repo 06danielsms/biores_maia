@@ -1,0 +1,17 @@
+Background
+Spina bifida is a fetal neural tube defect (NTD), which may be diagnosed in utero and is compatible with life postnatally, albeit often with significant disability and morbidity. Although postnatal repair is possible, with increasing in utero diagnosis with ultrasound, the condition has been treated during pregnancy (prenatal repair) with the aim of decreased morbidity for the child. The procedure that is performed during pregnancy does have potential morbidities for the mother, as it involves maternal surgery to access the fetus. 
+Objectives
+To compare the effects of prenatal versus postnatal repair and different types of repair of spina bifida on perinatal mortality and morbidity, longer term infant outcomes and maternal morbidity. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2014). 
+Selection criteria
+All published, unpublished, and ongoing randomised controlled trials comparing prenatal and postnatal repair of meningomyelocele for fetuses with spina bifida and different types of prenatal repair. 
+Data collection and analysis
+Two review authors independently evaluated trials for inclusion and methodological quality without consideration of their results according to the stated eligibility criteria and extracted data. 
+Main results
+Our search strategy identified six reports for potential inclusion. Of those, we included one trial (four reports) involving 158 women, which was at low risk of bias. 
+The one included trial examined the effect of prenatal repair versus postnatal repair. For the primary infant outcome of neonatal mortality, there was no clear evidence of a difference identified for prenatal versus postnatal repair (one study, 158 infants, risk ratio (RR) 0.51, 95% confidence interval (CI) 0.05 to 5.54), however event rates were uncommon and so the analysis is likely to be underpowered to detect differences. 
+Prenatal repair was associated with an earlier gestational age at birth (one study, 158 infants, mean difference (MD) ‐3.20 weeks, 95% CI ‐3.93 to ‐2.47) and a corresponding increase in both the risk of preterm birth before 37 weeks (one study, 158 infants, RR 5.30, 95% CI 3.11 to 9.04) and preterm birth before 34 weeks (one study, 158 infants, RR 9.23, 95% CI 3.45 to 24.71). Prenatal repair was associated with a reduction in shunt dependent hydrocephalus and moderate to severe hindbrain herniation. For women, prenatal repair was associated with increased preterm ruptured membranes (one study, 158 women, RR 6.15, 95% CI 2.75 to 13.78), although there was no clear evidence of difference in the risk of chorioamnionitis or blood transfusion, although again, event rates were uncommon. 
+A number of this review's secondary infant and maternal outcomes were not reported. For the infant: days of hospital admission; survival to discharge; stillbirth; need for further surgery (e.g. skin grafting); neurogenic bladder dysfunction; childhood/infant quality of life. For the mother: admission to intensive care; women's emotional wellbeing and satisfaction with care. 
+Authors' conclusions
+This review is based one small well‐conducted study. There is insufficient evidence to recommend drawing firm conclusions on the benefits or harms of prenatal repair as an intervention for fetuses with spina bifida. Current evidence is limited by the small number of pregnancies that have been included in the single conducted randomised trial to date. 

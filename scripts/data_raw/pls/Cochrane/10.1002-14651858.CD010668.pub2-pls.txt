@@ -1,0 +1,35 @@
+What are the benefits and risks of belimumab for treating systemic lupus erythematosus (an autoimmune disease that affects the whole body)? 
+Why is this question important? 
+Systemic lupus erythematosus (SLE; or ‘lupus’) is a disease in which the body's immune (defense) system mistakenly attacks healthy tissue in many parts of the body. It is a long‐term disease (one that lasts longer than six weeks and is usually life‐long). Often, SLE causes pain in joints and muscles, and extreme tiredness. Symptoms can improve temporarily, or worsen suddenly (flares). 
+There is no cure for SLE. However, treatments can improve symptoms. Inflammation caused by lupus can affect the joints, skin, kidneys, blood cells, brain, heart, and lungs. Most people are treated with glucocorticoids (anti‐inflammation medicines; also called "steroids/prednisone/medrol/solumedrol") at some point in their disease course. These medicines reduce the swelling and pain associated with inflammation, but they can have serious adverse (unwanted) effects, such as kidney damage. This is why it is important to study other treatment options, such as belimumab. 
+Belimumab is a human protein (antibody) that is given as an injection to decrease inflammation. In people with SLE, belimumab prevents the development and survival of the cells that attack the body’s healthy tissues (B cells). The aim of belimumab is to reduce the number of B cells, so that people’s symptoms improve. 
+To find out about the benefits and risks of belimumab, we reviewed the evidence from research studies. In particular, we wanted to know how belimumab affects: 
+‐ disease intensity;
+‐ health‐related quality of life;
+‐ use of glucocorticoids; and
+‐ adverse effects, including: serious effects (for example, diseases that affect kidneys or the nervous system), serious infections (since anti‐inflammation medicines reduce the body’s ability to fight infections), adverse effects that led people to withdraw from studies, and death. 
+How did we identify and evaluate the evidence? 
+First, we searched the medical literature for studies that compared belimumab against a placebo (dummy) treatment or another SLE treatment. We then compared the results and summarized the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find? 
+We found six studies that involved a total of 2917 people (mostly women) aged between 22 and 80 years. People were followed for a minimum of 84 days and a maximum of 76 weeks. All studies compared belimumab against placebo. 
+Intensity of disease 
+Belimumab is better than placebo at reducing SLE intensity (4 studies, 2666 people). SLE became less intense in 52% of people treated with belimumab, compared to 39% of people treated with placebo. 
+Health‐related quality of life 
+The evidence suggests that there is probably little to no difference between belimumab and placebo for changes in health‐related quality of life (2 studies, 801 people). The quality of life scores reported by people treated with belimumab were only 1.6 points higher on average than those of people treated with placebo (scale: 0 to 100, higher scores = better quality of life). 
+Need for glucocorticoids (anti‐inflammation medicines) 
+Belimumab is more likely than placebo to reduce the amount of glucocorticoids required. Glucocorticoid doses were lowered by at least 50% in 30% of people treated with belimumab, compared to 19% of people treated with placebo (2 studies, 537 people). 
+Serious adverse events 
+The evidence suggests that there may be little to no difference in the numbers of serious adverse events attributable to belimumab or placebo (5 studies, 2890 people). We have little confidence in this finding, because it is based on relatively small numbers of adverse events and studies reported conflicting findings. 
+Serious infection 
+The evidence suggests that there is probably little to no difference in the numbers of serious infections attributable to belimumab or placebo (4 studies, 2185 people). We are only moderately confident about this finding, because it is based on small numbers of infections. 
+Adverse events causing people to withdraw from studies 
+The evidence suggests that there is probably little to no difference between belimumab and placebo in the numbers of adverse events that caused people to withdraw from studies (5 studies, 2890 people). We are only moderately confident about this finding, because it is based on relatively small numbers of adverse events. 
+Death 
+Few deaths (less than 1%) were reported in association with either belimumab or placebo. This suggests that there may be little to no difference in numbers of deaths between the two treatments, though, because death occurs rarely, it is difficult to be confident about this finding. 
+What does this mean? 
+When compared against placebo:
+‐ belimumab is more likely to reduce SLE disease activity, and to reduce the amount of glucocorticoids needed; 
+‐ belimumab probably makes little to no difference to: health‐related quality of life improvement; numbers of serious adverse events; and deaths; and 
+‐ belimumab may make little to no difference to numbers of serious infections, and numbers of adverse events that cause people to withdraw from studies. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to September 2019.

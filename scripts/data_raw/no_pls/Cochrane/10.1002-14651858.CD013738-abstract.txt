@@ -1,0 +1,14 @@
+Background
+Road traffic suicides are common. However, due to the difficulty in distinguishing between motor vehicle crash fatalities and actual suicides, no official figures exist for this method of suicide. Restricting access to means is an important universal or population‐based approach to suicide prevention with clear evidence of its effectiveness. However, the evidence with respect to means restriction for the prevention of suicide on roads is not well established. We conducted a systematic review to assess the impact of restrictions on the availability of, or access to, means of suicide on roads. 
+Objectives
+To evaluate the effectiveness of interventions to restrict the availability of, or access to, means of suicide on roads. 
+Search methods
+We searched the Cochrane Library, MEDLINE, Embase, PsycINFO, and the Transport Research International Documentation (TRID) Database from the date of database inception to March 2020. We conducted searches of the World Health Organization International Clinical Trials Registry Platform (ICTRP) and ClinicalTrials.gov to identify unpublished and ongoing studies. We applied no date, language, or publication status restrictions to these searches. 
+Selection criteria
+Eligible studies were randomised or quasi‐randomised controlled trials, controlled intervention studies without randomisation, before‐after studies, or studies using interrupted time series designs, which evaluated interventions to restrict the availability of, or access to, means of suicide on roads. 
+Data collection and analysis
+Two review authors screened abstracts and full‐text publications against the inclusion criteria. Two review authors planned to independently extract data and assess risk of bias of included studies. However, we identified no studies eligible for inclusion. 
+Main results
+We identified no studies that met the inclusion criteria for this review.
+Authors' conclusions
+This systematic review highlights the paucity of research around road traffic suicides and the need for future robust studies that aim to investigate the effectiveness of interventions to prevent suicide on roads. Suicide ascertainment is a key issue; therefore, clear objective criteria are necessary in order to scale up and study this method more accurately. In the absence of any substantial evidence, we advocate for more awareness on road traffic suicides and its inclusion in future government suicide prevention policies. Further research exploring effective measures, particularly those that do not require driver compliance, are also needed. 

@@ -1,0 +1,14 @@
+Background
+Hepatitis C virus (HCV) infection is a serious health problem world‐wide. Medicinal herbs are increasingly being used for hepatitis C. 
+Objectives
+To assess the efficacy and safety of medicinal herbs for hepatitis C virus infection.
+Search methods
+Searches were applied to The Controlled Trial Registers of The Cochrane Hepato‐Biliary Group, The Cochrane Complementary Medicine Field, and The Cochrane Library as well as MEDLINE, EMBASE, BIOSIS, Chinese and Japanese databases (February 2001). Five Chinese and one Japanese journals were handsearched. No language restriction was used. 
+Selection criteria
+Randomised clinical trials comparing medicinal herbs versus placebo, no intervention, general non‐specific treatment, other herbal medicine, or interferon and/or ribavirin treatment. Trials of medicinal herbs plus interferon and/or ribavirin versus interferon and/or ribavirin alone were also included. 
+Data collection and analysis
+Two authors extracted data independently. The methodological quality of the trials was evaluated using the generation of allocation sequence, allocation concealment, double blinding, and the Jadad‐scale. The outcomes were presented as relative risk or weighted mean difference, both with 95% confidence interval. 
+Main results
+Ten randomised trials, including 517 patients with mainly chronic hepatitis C, evaluated ten different medicinal herbs versus various control interventions (four placebo, four interferon, two other herbs). The methodological quality was considered adequate in four trials and inadequate in six trials. Compared with placebo in four trials, none of the medicinal herbs showed positive effects on clearance of serum HCV RNA or anti‐HCV antibody or on serum liver enzymes, except one short‐term trial in which a silybin preparation showed a significant effect on reducing serum aspartate aminotransferase and gamma‐glutamyltranspeptidase activities. The herbal compound Bing Gan Tang combined with interferon‐alpha showed significantly better effects on clearance of serum HCV RNA (relative risk 2.54; 95% confidence interval 1.43 to 4.49) and on normalisation of serum alanine aminotransferase activity (relative risk 2.54; 95% confidence interval 1.43 to 4.49) than interferon‐alpha monotherapy. The herbal compound Yi Zhu decoction showed a significant effect on clearance of serum HCV RNA and normalisation of ALT levels compared to glycyrrhizin plus ribavirin. Yi Er Gan Tang showed a significant effect on normalising serum alanine aminotransferase compared to silymarin plus glucurolactone. There was no significant efficacy of the other examined herbs. The herbs were associated with adverse events. 
+Authors' conclusions
+There is no firm evidence of efficacy of any medicinal herbs for HCV infection. Medicinal herbs for HCV infection should not be used outside randomised clinical trials. 

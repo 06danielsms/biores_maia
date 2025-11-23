@@ -1,0 +1,24 @@
+Using mobile technologies to promote communication and management of care between healthcare professionals 
+What is the aim of this review? 
+We aimed to find out if healthcare workers using mHealth services through their mobile phones or other mobile devices to communicate with other healthcare workers provide quicker access to healthcare, and improve patient health outcomes. We collected and analysed all relevant research and found 19 studies. 
+Key messages 
+Mobile technologies probably slightly decrease the time to deliver health care, as well as the number of face‐to‐face appointments, when compared with usual care, and probably increase the number of people receiving clinical examinations for some conditions, including an eye exam for people with diabetes. Mobile technologies may have little or no impact on healthcare workers' and participants' satisfaction, health status or well‐being. 
+What was studied in the review? 
+Many healthcare workers work alone or have little access to colleagues and specialists. This is a common problem for healthcare workers in rural areas or low‐income countries. 
+One possible solution to this problem is to offer healthcare workers advice and support through mobile technologies that allow healthcare workers to get help from colleagues who are not in the same place. For instance, healthcare workers can contact specialists or colleagues with more experience through a phone or the Internet. Healthcare workers can also use their mobile phones or other mobile devices such as tablets. As more healthcare workers use mobile phones and other devices as part of their work, this could make it particularly easy for them to use mHealth services. 
+What are the main results of the review? 
+We found 19 relevant studies, which included more than 5766 people who needed health care. Sixteen studies were from high‐income countries. Two studies reported on technical problems, reporting few difficulties. 
+When primary healthcare workers use mobile technologies to consult with hospital specialists, they: 
+‐ probably make little or no difference to whether guidelines are followed for people with chronic kidney disease, or to health status or quality of life of people with psoriasis. 
+‐ may increase the likelihood of retinopathy screening for people with diabetes, or receiving an ultrasound if referred with symptoms, and may reduce referrals or a visit to the clinic for people with a skin condition or referred for clinic follow‐up for different health problems. 
+‐ may make little or no difference to healthcare worker or patient satisfaction, or to how much it costs to deliver health care. 
+When emergency doctors use mobile technologies to consult with hospital specialists: 
+‐ patients are probably managed slightly more quickly.
+We did not find any studies that looked at the effect of mobile technologies on emergency doctors following guidelines, patients’ health and well‐being, healthcare worker or patient satisfaction, or costs. 
+When community health workers or home‐care workers use mobile technologies to consult with clinic staff, they: 
+‐ probably make little or no difference to the number of times people with a new diabetes‐related foot ulcer have to see a nurse, or elderly people using tube feeding have to see a nurse or go into hospital. 
+‐ may make no difference to the number of people living with HIV or diabetes who die; and may make little or no difference to the health status or quality of life of people with rheumatoid arthritis. 
+‐ probably make little or no difference to the satisfaction of people with diabetes or rheumatoid arthritis. 
+We did not find any studies that looked at the effect of mobile technologies on whether community health workers follow guidelines, how quickly people receive care, healthcare worker satisfaction, costs, or technical difficulties. 
+How up‐to‐date is this review? 
+We searched for studies up to 22 July 2019.

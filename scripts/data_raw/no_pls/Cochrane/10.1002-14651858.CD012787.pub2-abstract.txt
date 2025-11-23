@@ -1,0 +1,24 @@
+Background
+Alcohol is consumed by over 2 billion people worldwide. It is a common substance of abuse and its use can lead to more than 200 disorders including hypertension. Alcohol has both acute and chronic effects on blood pressure. This review aimed to quantify the acute effects of different doses of alcohol over time on blood pressure and heart rate in an adult population. 
+Objectives
+Primary objective  
+To determine short‐term dose‐related effects of alcohol versus placebo on systolic blood pressure and diastolic blood pressure in healthy and hypertensive adults over 18 years of age. 
+Secondary objective  
+To determine short‐term dose‐related effects of alcohol versus placebo on heart rate in healthy and hypertensive adults over 18 years of age. 
+Search methods
+The Cochrane Hypertension Information Specialist searched the following databases for randomised controlled trials up to March 2019: the Cochrane Hypertension Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 2), in the Cochrane Library; MEDLINE (from 1946); Embase (from 1974); the World Health Organization International Clinical Trials Registry Platform; and ClinicalTrials.gov. We also contacted authors of relevant articles regarding further published and unpublished work. These searches had no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing effects of a single dose of alcohol versus placebo on blood pressure (BP) or heart rate (HR) in adults (≥ 18 years of age). 
+Data collection and analysis
+Two review authors (ST and CT) independently extracted data and assessed the quality of included studies. We also contacted trial authors for missing or unclear information. Mean difference (MD) from placebo with 95% confidence interval (CI) was the outcome measure, and a fixed‐effect model was used to combine effect sizes across studies.  
+Main results
+We included 32 RCTs involving 767 participants. Most of the study participants were male (N = 642) and were healthy. The mean age of participants was 33 years, and mean body weight was 78 kilograms. 
+Low‐dose alcohol (< 14 g) within six hours (2 RCTs, N = 28) did not affect BP but did increase HR by 5.1 bpm (95% CI 1.9 to 8.2) (moderate‐certainty evidence). 
+Medium‐dose alcohol (14 to 28 g) within six hours (10 RCTs, N = 149) decreased systolic blood pressure (SBP) by 5.6 mmHg (95% CI ‐8.3 to ‐3.0) and diastolic blood pressure (DBP) by 4.0 mmHg (95% CI ‐6.0 to ‐2.0) and increased HR by 4.6 bpm (95% CI 3.1 to 6.1) (moderate‐certainty evidence for all).  
+Medium‐dose alcohol within 7 to 12 hours (4 RCTs, N = 54) did not affect BP or HR.
+Medium‐dose alcohol > 13 hours after consumption (4 RCTs, N = 66) did not affect BP or HR. 
+High‐dose alcohol (> 30 g) within six hours (16 RCTs, N = 418) decreased SBP by 3.5 mmHg (95% CI ‐6.0 to ‐1.0), decreased DBP by 1.9 mmHg (95% CI‐3.9 to 0.04), and increased HR by 5.8 bpm (95% CI 4.0 to 7.5). The certainty of evidence was moderate for SBP and HR, and was low for DBP. 
+High‐dose alcohol within 7 to 12 hours of consumption (3 RCTs, N = 54) decreased SBP by 3.7 mmHg (95% CI ‐7.0 to ‐0.5) and DBP by 1.7 mmHg (95% CI –4.6 to 1.8) and increased HR by 6.2 bpm (95% CI 3.0 to 9.3). The certainty of evidence was moderate for SBP and HR, and low for DBP. 
+High‐dose alcohol ≥ 13 hours after consumption (4 RCTs, N = 154) increased SBP by 3.7 mmHg (95% CI 2.3 to 5.1), DBP by 2.4 mmHg (95% CI 0.2 to 4.5), and HR by 2.7 bpm (95% CI 0.8 to 4.6) (moderate‐certainty evidence for all).  
+Authors' conclusions
+High‐dose alcohol has a biphasic effect on BP; it decreases BP up to 12 hours after consumption and increases BP > 13 hours after consumption. High‐dose alcohol increases HR at all times up to 24 hours. Findings of this review are relevant mainly to healthy males, as only small numbers of women were included in the included trials. 

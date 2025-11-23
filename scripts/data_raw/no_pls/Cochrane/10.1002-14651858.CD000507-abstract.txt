@@ -1,0 +1,14 @@
+Background
+Umbilical arterial catheters (UACs) are among the most commonly used monitoring methodologies in neonatal intensive care. There seems to be significant variance between neonatal intensive care units in exactly how these catheters are used. This variance involves heparin dosing, catheter materials and catheter design and positioning of the catheter. 
+Objectives
+To determine whether the use of heparin in fluids infused through an umbilical arterial catheter in newborn infants influences the frequency of clinical ischemic events, catheter occlusion, aortic thrombosis, intraventricular hemorrhage, hypertension, death, or the duration of catheter usability. 
+Search methods
+Randomized and quasi‐randomized controlled trials of umbilical catheterization use were obtained using the search methods of the Cochrane Neonatal Review Group. The Cochrane Library, MEDLINE (search via PubMed), CINAHL and EMBASE were searched from 1999 to 2009. 
+Selection criteria
+Randomized trials in newborn infants of any birthweight or gestation.  Comparison of heparinised to non heparinised infusion fluids, including comparison of heparin in the infusate to heparin just in the flush solution.  Clinically important end points such as catheter occlusion or aortic thrombosis. 
+Data collection and analysis
+There were five randomized controlled trials retrieved. All gave details of the incidence of catheter occlusion. Two also reported the incidence of aortic thrombosis. The intervention was reasonably consistent: heparin in the infusate at a concentration of 1 unit/mL was investigated in all trials except one which used a concentration of 0.25 units/mL. Studies generally included both term and preterm infants. 
+Main results
+Heparinization of the infusate decreases the incidence of catheter occlusion but does not affect the frequency of aortic thrombosis. Heparinization of the flush solution is not an adequate alternative.  There does not appear to be an effect on frequency of intraventricular hemorrhage, death or clinical ischemic phenomena. 
+Authors' conclusions
+Heparinization of the fluid infused through an umbilical arterial catheter decreases the likelihood of umbilical arterial catheters occluding. The lowest concentration tested so far (0.25 units/mL) has been shown to be effective. Heparinization of flushes without heparinizing the infusate is ineffective. The frequency of aortic thrombosis has not been shown to be affected; however, the confidence intervals for this effect are very wide. The frequency of intraventricular hemorrhage has not been shown to be affected by heparinization of the infusate, but again the confidence intervals are very wide and even a major increase in the incidence of grade 3 and 4 intraventricular hemorrhage would not have been detected. 

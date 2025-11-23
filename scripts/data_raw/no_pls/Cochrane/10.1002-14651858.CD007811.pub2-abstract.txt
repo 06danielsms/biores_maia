@@ -1,0 +1,14 @@
+Background
+Sulpiride is a relatively old antipsychotic drug reputed to have a low incidence of adverse effects and an effect on the negative symptoms of schizophrenia. This relatively inexpensive antipsychotic drug has a similar neuropharmacological profile to several novel atypical drugs. 
+Objectives
+To evaluate the effects of sulpiride for schizophrenia and other similar serious mental illnesses in comparison with placebo. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (September 2008) and references of all identified studies for further trial citations. We contacted pharmaceutical companies and authors of trials for additional information. We updated this search 7th November 2012. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing sulpiride with placebo for people with schizophrenia and other types of schizophrenia‐like psychoses. The primary outcome of interest was clinically significant response in global state. 
+Data collection and analysis
+We independently inspected citations and abstracts, ordered papers, re‐inspected and quality‐assessed these. IMO and JW extracted data. We analysed dichotomous data using a random‐effects risk ratio (RR) and estimated the 95% confidence interval (CI) around this. Where continuous data were included, we analysed these data using random‐effects mean difference (MD) with a 95% CI. 
+Main results
+No new trials were included from the 2012 search. The review still includes two trials of short duration comparing sulpiride with placebo (total n = 113). No study reported our primary outcome of interest of 'global state: clinically significant response', nor our secondary outcomes of interest of 'quality of life', 'severe adverse effects', and 'safety assessments'. As regards mental state, there were no clear differences between groups for either positive or negative symptoms; measured positive symptoms using the Manchester scale were skewed and therefore not included in meta‐analysis (n = 18, 1 RCT, very low quality evidence). Measured negative symptoms using the Manchester scale also demonstrated no clear difference (n = 18, 1 RCT, MD ‐3.0 CI ‐1.66 to 1.06, very low quality evidence). Few people left these studies by three months (n = 113, 2 RCTs, RR 1.00 CI 0.25 to 4.00). One subscore finding demonstrated a significant improvement in social behaviour using the Current Behaviour Schedule (CBS) when receiving placebo (n = 18, 1 RCT, MD ‐2.90 CI ‐5.60 to ‐0.20). There were no data for many important outcomes such as global outcomes, service use or adverse effects. 
+Authors' conclusions
+Sulpiride may be an effective antipsychotic drug but evidence of its superiority over placebo from randomised trials is very limited. Practice will have to use evidence from sources other than trials until better evidence is generated. 

@@ -1,0 +1,13 @@
+Comparing narrow band imaging to regular cystoscopy for treatment of bladder cancer
+Review question 
+How does a resection of bladder tissues guided by a special visualization method called narrow band imaging compare to a resection of bladder tissues guided by the standard visualization method (using white light) in people with tumors in their inner bladder wall? 
+Background 
+When people are suspected to have bladder cancer or have been diagnosed with bladder cancer, their doctors need to inspect the bladder closely and remove tissues for further examination. The removal of tumorous tissues also serves as treatment. The procedure to remove tumors in the bladder is called transurethral resection of bladder tumor, or TURBT. TURBT is done by passing a special instrument through the urethra and into the bladder. Sometimes, it is difficult to distinguish healthy normal bladder tissue from tumorous tissue. Some doctors use a special visualization method known as narrow band imaging to help visualize the tumorous tissues. 
+Study characteristics 
+We analyzed data from published studies called randomized controlled trials to understand if narrow band imaging reduces the risk of bladder cancer getting worse, and to see if there are any side effects. We only included randomized controlled trials because this study type is the most reliable. 
+Key results 
+We identified eight randomized controlled trials that addressed our review question. Participants included in these studies were suspected to have bladder cancer or were diagnosed with bladder cancer that was limited to the inner wall, meaning that the cancer did not invade the underlying muscle layers. Based on limited available data, the use of narrow band imaging may lower the risk of disease recurrence over time. 
+None of the randomized controlled trials examined whether the choice of visualization method made any difference to the risk of bladder cancer becoming worse or the risk of the person dying from bladder cancer, so we do not know if the use of narrow band imaging is effective in improving these two outcomes.  
+We found that the use of narrow band imaging may have little or no increased risk of complications, compared to the standard visualization method. 
+Quality of the evidence 
+Due to certain flaws in the design of these clinical trials and some contradictory findings between trials, our confidence in these findings was low. With more research in the future, more reliable data may likely change these findings. The evidence is up to date to December 2021. 

@@ -1,0 +1,19 @@
+Background
+Single‐dose, postoperative intravesical chemotherapy reduces the risk of bladder cancer recurrence after transurethral resection of bladder tumours. However, there is limited evidence whether single‐dose intravesical chemotherapy is similarly effective at preventing bladder cancer recurrence after nephroureterectomy. 
+Objectives
+To assess the effects of single‐dose intravesical chemotherapy instillation after nephroureterectomy for upper tract urothelial carcinoma. 
+Search methods
+We performed a comprehensive literature search using multiple databases (MEDLINE, Cochrane Library, Embase, Scopus, Web of Science, and LILACS), trials registries, other sources of grey literature, and conference proceedings published up to April 15 2019, with no restrictions on language or status of publication. 
+Selection criteria
+We included randomised controlled trials in which participants either received or did not receive single‐dose intravesical chemotherapy instillation after nephroureterectomy. 
+Data collection and analysis
+Two review authors screened and independently assessed studies and extracted data from included studies. We performed statistical analyses using a random‐effects model. We rated the certainty of evidence according to the GRADE approach. 
+Main results
+The search identified two studies (a multicenter study from Japan and the United Kingdom) with 361 participants. 
+Primary outcomes  
+Our results indicate that single‐dose intravesical chemotherapy instillation may reduce the risk of bladder cancer recurrence over time compared to no instillation (hazard ratio [HR]: 0.51, 95% confidence interval [CI]: 0.32 to 0.82, low‐certainty evidence). After 12 months follow‐up, this would result in 127 fewer bladder cancer recurrences (95% CI: 182 to 44 fewer bladder cancer recurrences) per 1000 participants. We downgraded the certainty of evidence by two levels due to study limitations and imprecision. 
+We found no trials that reported on the outcomes of time to death from upper tract urothelial carcinoma. The effect of single‐dose intravesical chemotherapy instillation on serious adverse events is uncertain (risk ratio [RR]: not estimable, 95% CI: not estimable, there were no events, very low‐certainty evidence). We downgraded the certainty of evidence by one level due to study limitations and by two levels due to imprecision. 
+Secondary outcomes  
+We found no trials that reported on the outcomes of time to death from any cause and participants’ disease‐specific quality of life. The effect of single‐dose intravesical chemotherapy instillation on minor adverse events is uncertain (risk ratio [RR]: not estimable, 95% CI: not estimable, there were no events, very low‐certainty evidence). We downgraded the certainty of evidence by one level due to study limitations and by two levels due to imprecision. 
+Authors' conclusions
+For patients who have undergone nephroureterectomy for upper tract urothelial carcinoma, single‐dose intravesical chemotherapy instillation may reduce bladder cancer recurrence after nephroureterectomy. However, we are uncertain as to the risk of serious (and minor) adverse events. We found no evidence for the outcome of time to death from upper tract urothelial carcinoma. We were unable to conduct any of the preplanned subgroup analyses, particularly those based on operative approach, pathologic stage, and method of bladder cuff excision. 

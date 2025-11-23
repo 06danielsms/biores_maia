@@ -1,0 +1,21 @@
+Stopping long‐term antidepressants in people with depression or anxiety
+Review question 
+We aimed to find out if it is effective and safe to stop antidepressants for people with depression or anxiety who have been taking them for six months or longer. 
+We compared different approaches for stopping long‐term antidepressants versus continuation. We looked at benefits (e.g. successful discontinuation rate) and harms, such as return of the depressive or anxiety episode (relapse), side effects, and withdrawal symptoms (i.e. symptoms people experience when stopping an antidepressant). 
+Background 
+Antidepressants are widely used for depression and anxiety. Guidelines recommend that an antidepressant should be continued for at least six months after people start to feel better, and for at least two years if they have had two or more periods of depression. Many people take antidepressants for much longer, and as they can cause unpleasant side effects, long‐term use puts people at risk of harm that may outweigh the benefits. 
+Study characteristics 
+Our search up until January 2020 found 33 studies, which included 4995 adult participants. Most people in these studies had recurrent depression (two or more episodes of depression before stopping antidepressants), and most were recruited from specialist mental healthcare services. In 13 studies, the antidepressant was stopped abruptly; in 18 studies, the antidepressant was stopped gradually over several weeks ("tapering"); in four studies, psychological therapy support was also offered; and in one study, stopping was prompted by a letter to the GP with guidance on tapering. Most tapering schemes lasted four weeks or less. 
+Key results 
+We found very low‐certainty evidence suggesting that abrupt stopping may lead to higher risk of relapse and there was insufficient evidence of its effect on occurrence of side effects compared to continuation of the antidepressant. 
+We found very low‐certainty evidence suggesting that "tapering" over a few weeks may lead to higher risk of a return and again may have little or no effect on side effects compared to continuation. 
+We found evidence of very low to low certainty to suggest that stopping the antidepressant in combination with providing preventive cognitive therapy (PCT), or MBCT, was possible for 40% to 75% of participants in the group tapering the antidepressant and may show no difference in effects on relapse. 
+We found low‐certainty evidence suggesting that a prompt letter and guidance on tapering sent to the GP may have no effect on the number of people who stop their antidepressant. 
+We were unable to draw conclusions about withdrawal symptoms after abrupt or gradual stopping of an antidepressant, as this generally was not assessed. 
+None of the studies used very slow tapering schemes beyond a few weeks, tapered liquid forms of antidepressants, or used tapering strips (to allow tapering with very low doses). 
+None of the identified studies investigated stopping combined with providing supportive therapy such as online support or self‐help therapy. 
+Certainty of evidence 
+Overall, the certainty of evidence was low to very low. This means we have limited or little confidence in the results, and new research is likely to change our conclusions. The main reasons for this assessment of evidence certainty were that trials did not distinguish between symptoms of relapse of depression and symptoms of withdrawal. Also, most studies used no tapering or very "rapid" tapering schedules (four weeks or less), and nearly all studies included people with recurrent depression (more than two episodes). 
+Conclusions 
+We found few studies that examined stopping long‐term antidepressants. We are uncertain if the approaches for stopping long‐term antidepressants studied to date are effective and safe in people with recurrent depression. People should discuss with their doctor when they want to stop their antidepressant. 
+Future studies should include people in primary care with only one or no earlier episodes of depression, older people, and people taking antidepressants for anxiety. Studies should taper antidepressants slowly while taking care to distinguish withdrawal symptoms from relapse. 

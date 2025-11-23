@@ -1,0 +1,14 @@
+Background
+Low‐molecular‐weight heparins (LMWHs) and heparinoids are anticoagulants that may have more powerful antithrombotic effects than standard unfractionated heparin (UFH) but a lower risk of bleeding complications. This is an update of the original Cochrane Review of these agents, first published in 2001 and last updated in 2008. 
+Objectives
+To determine whether antithrombotic therapy with LMWHs or heparinoids is associated with a reduction in the proportion of people who are dead or dependent for activities in daily living compared with UFH. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched February 2017), the Cochrane Central Register of Controlled Trials (CENTRAL: the Cochrane Library Issue 1, 2017), MEDLINE (1966 to February 2017), and Embase (1980 to February 2017). We also searched trials registers to February 2017: ClinicalTrials.gov, EU Clinical Trials Register, Stroke Trials Registry, ISRCTN Registry and the World Health Organization (WHO) International Clinical Trials Registry Platform. 
+Selection criteria
+Unconfounded randomised trials comparing LMWH or heparinoids with standard UFH in people with acute ischaemic stroke, in which participants were recruited within 14 days of stroke onset. 
+Data collection and analysis
+Two review authors independently chose studies for inclusion, assessed risk of bias and trial quality, extracted and analysed the data. Differences were resolved by discussion. 
+Main results
+We included nine trials involving 3137 participants. We did not identify any new trials for inclusion in this updated review. None of the studies reported data on the primary outcome in sufficient detail to enable analysis for the review. Overall, there was a moderate risk of bias in the included studies. Compared with UFH, there was no evidence of an effect of LMWH or heparinoids on death from all causes during the treatment period (96/1616 allocated LMWH/heparinoid versus 78/1486 allocated UFH; odds ratio (OR) 1.06, 95% CI 0.78 to 1.47; 8 trials, 3102 participants, low quality evidence). LMWH or heparinoid were associated with a significant reduction in deep vein thrombosis (DVT) compared with UFH (OR 0.55, 95% CI 0.44 to 0.70, 7 trials, 2585 participants, low quality evidence). However, the number of the major clinical events such as pulmonary embolism (PE) and intracranial haemorrhage was too small to provide a reliable estimate of the effects. 
+Authors' conclusions
+Treatment with a LMWH or heparinoid after acute ischaemic stroke appears to decrease the occurrence of DVT compared with standard UFH, but there are too few data to provide reliable information on their effects on other important outcomes, including functional outcome, death and intracranial haemorrhage. 

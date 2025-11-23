@@ -1,0 +1,14 @@
+Background
+Many people find it difficult to remember information provided during medical consultations. One way of improving this may be to provide a record of the conversation. 
+Objectives
+This review examined the effects of providing recordings or summaries of their consultations to people with cancer and their families. 
+Search methods
+We searched the following sources: The Cochrane Library (issue 2 2007); MEDLINE (1966 to 29 May 2007); CINAHL (1982 to 29 May 2007); Dissertation Abstracts (1861 to 29 May 2007; Index to Theses 29 May 2007; EMBASE (1985 to 29 May 2007); PsycINFO (1967 to 29 May 2007); AMED (1985 to 29 May 2007); British Nursing Index (1985 to May 2007); SCI‐EXPANDED, SSCI (1986 to 3 June 2007); and Sociological Abstracts (1998 to 29 May 2007). For the initial (1999) publication of this review we also searched the following databases: Sociofile; Cancerlit; IAC Health & Wellness; JICST; Pascal; ERIC; ASSIA; Linguistics and Language Behavior Abstracts; Mental Health Abstracts; CAB Health; DHSS‐Data; MANTIS. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that evaluate the effects of providing recordings (for example, audiotapes) or summaries (for example, a letter with reminders of key points) of consultations to people with cancer or their families. 
+Data collection and analysis
+Two authors assessed studies for inclusion. Data were extracted by one author and checked by another author. We assessed study quality on seven criteria. We used a systematic approach to data extraction to produce a descriptive summary of studies, and present a narrative synthesis of the results. 
+Main results
+We included sixteen controlled trials involving 2318 adult participants. The studies measured diverse outcomes. Many of the participants found recordings or summaries of their consultations valuable, with between 60% and 100% of participants (across twelve studies) reading the summary or listening to the recording at least once. The recordings were used to help inform family and friends (range 41.5% to 94.4% of participants in nine studies). Five out of nine studies reported better recall of information for those receiving recordings or summaries. Three out of ten studies found that participants provided with a recording or summary were more satisfied. No studies (out of ten) found any statistically significant difference between groups in terms of anxiety or depression. Three studies evaluated the effects on quality of life, but found no main effects. No study evaluated the intervention's effects on survival. 
+Authors' conclusions
+The provision of recordings or summaries of key consultations may benefit most adults with cancer. Although more research is needed to improve our understanding of these interventions, most patients find them very useful. Practitioners should consider offering people recordings or written summaries of their consultations 

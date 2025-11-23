@@ -1,0 +1,14 @@
+Background
+Brief interventions involve a time‐limited intervention focusing on changing behaviour. They are often motivational in nature using counselling skills to encourage a reduction in alcohol consumption. 
+Objectives
+To determine whether brief interventions reduce alcohol consumption and improve outcomes for heavy alcohol users admitted to general hospital inpatient units. 
+Search methods
+We searched the Cochrane Drug and Alcohol Group Register of Trials (March 2011) the Cochrane Central Register of Controlled Trials (The Cochrane Library March 2011), MEDLINE January 1966‐March 2011, CINAHL 1982‐March 2011, EMBASE 1980‐March 2011 and www.clinicaltrials.gov to April 2011 and performed some relevant handsearching. 
+Selection criteria
+All prospective randomised controlled trials and controlled clinical trials were eligible for inclusion. Participants were adults and adolescents (16 years or older) admitted to general inpatient hospital care for any reason other than specifically for alcohol treatment and received brief interventions (of up to 3 sessions) compared to no or usual care. 
+Data collection and analysis
+Three reviewers independently selected the studies and extracted data. Where appropriate random effects meta‐analysis and sensitivity analysis were performed. 
+Main results
+Forteen studies involving 4041 mainly male participants were included. Our results demonstrate that patients receiving brief interventions have a greater reduction in alcohol consumption compared to those in control groups at six month, MD ‐69.43 (95% CI ‐128.14 to ‐10.72) and nine months follow up, MD ‐182.88 (95% CI ‐360.00 to ‐5.76) but this is not maintained at one year. Self reports of reduction of alcohol consumption at 1 year were found in favour of brief interventions, SMD ‐0.26 (95% CI ‐0.50 to ‐0.03). In addition there were significantly fewer deaths in the groups receiving brief interventions than in control groups at 6 months, RR 0.42 (95% CI 0.19 to 0.94) and one year follow up, RR 0.60 (95% CI 0.40 to 0.91). Furthermore screening, asking participants about their drinking patterns, may also have a positive impact on alcohol consumption levels and changes in drinking behaviour. 
+Authors' conclusions
+The main results of this review indicate that there are benefits to delivering brief interventions to heavy alcohol users admitted to general hospital wards in terms of reduction in alcohol consumption and death rates. However, these findings are based on studies involving mainly male participants. Further research is required determine the optimal content and treatment exposure of brief interventions within general hospital settings and whether they are likely to be more successful in patients with certain characteristics. 

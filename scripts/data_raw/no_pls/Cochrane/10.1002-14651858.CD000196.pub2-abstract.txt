@@ -1,0 +1,14 @@
+Background
+Traumatic brain injury is a leading cause of death and disability. Corticosteroids have been widely used in treating people with traumatic brain injury. 
+Objectives
+To quantify the effectiveness and safety of corticosteroids in the treatment of acute traumatic brain injury. 
+Search methods
+We searched: CENTRAL (The Cochrane Library 2007, Issue 4), MEDLINE (Ovid SP), PubMed [www.ncbi.nlm.nih.gov/sites/entrez/], EMBASE (Ovid SP) and PsycINFO (Ovid SP). The searches were last updated in January 2008. 
+Selection criteria
+All randomised controlled trials of corticosteroid use in acute traumatic brain injury with adequate or unclear allocation concealment. 
+Data collection and analysis
+Both authors independently scored quality of allocation concealment. Study authors were contacted for additional information. One author independently extracted data on numbers of participants randomised, numbers lost to follow up, length of follow up, case fatality rates, disablement, infections and gastrointestinal bleeds and this was checked by the other author. 
+Main results
+We identified 20 trials with 12,303 randomised participants. The effect of corticosteroids on the risk of death was reported in 17 included trials. Due to significant heterogeneity we did not calculate a pooled estimate of the risk of death. The largest trial, with about 80% of all randomised participants, found a significant increase in the risk ratio of death with steroids 1.15 (95% CI 1.07 to 1.24) and a relative risk of death or severe disability of 1.05 (95% CI 0.99 to 1.10). For infections the pooled risk ratio from five trials was 1.03 (95% CI 0.99 to 1.07) and for the ten trials reporting gastrointestinal bleeding 1.23 (95% CI 0.91 to 1.67). 
+Authors' conclusions
+In the absence of a meta‐analysis, we feel most weight should be placed on the result of the largest trial. The increase in mortality with steroids in this trial suggest that steroids should no longer be routinely used in people with traumatic head injury. 

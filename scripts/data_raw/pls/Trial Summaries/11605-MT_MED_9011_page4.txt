@@ -1,0 +1,15 @@
+What treatments did the participants receive?
+In this trial, the participants were assigned to 1 of 4 treatment groups. The participants who had already had treatment for their cancer were in different groups to the participants who had not had treatment for their cancer. This helps the researchers to understand if this had any effect on the participants' response to the trial treatments.
+
+- Group 1 received acalabrutinib with obinutuzumab and had already had treatment for their cancer
+- Group 2 received acalabrutinib with obinutuzumab and had not already had treatment for their cancer
+- Group 3 received acalabrutinib with rituximab and venetoclax and had already had treatment for their cancer
+- Group 4 received acalabrutinib with obinutuzumab and venetoclax and had not already had treatment for their cancer
+
+In this summary, "trial treatment" means anything the participants received as a part of the trial. This includes acalabrutinib, when given with obinutuzumab, rituximab, or venetoclax. Acalabrutinib is the treatment that the researchers wanted to learn more about.
+
+This was an "open-label" trial. This means the participants, researchers, trial doctors, and other trial staff knew what each participant was receiving.
+
+The researchers first started the treatments in Group 1 and Group 2 to learn about the safety of the trial treatments. Then, they started treatments for Group 3 and Group 4.
+
+Treatment was given in "cycles" lasting 4 weeks. In the first cycle, participants took only acalabrutinib. Then, the participants also had their other trial drugs in combination. So, participants in all 4 groups were having 2 drugs in combination beginning in the second cycle. Then, beginning in the third cycle, Group 3 and Group 4 were having 3 drugs in combination.

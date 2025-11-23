@@ -1,0 +1,14 @@
+Background
+Intensive care unit (ICU) acquired or generalised weakness due to critical illness myopathy (CIM) and polyneuropathy (CIP) are major causes of chronically impaired motor function that can affect activities of daily living and quality of life. Physical rehabilitation of those affected might help to improve activities of daily living. 
+Objectives
+Our primary objective was to assess the effects of physical rehabilitation therapies and interventions for people with CIP and CIM in improving activities of daily living such as walking, bathing, dressing and eating. Secondary objectives were to assess effects on muscle strength and quality of life, and to assess adverse effects of physical rehabilitation. 
+Search methods
+On 16 July 2014 we searched the Cochrane Neuromuscular Disease Group Specialized Register and on 14 July 2014 we searched CENTRAL, MEDLINE, EMBASE and CINAHL Plus. In July 2014, we searched the Physiotherapy Evidence Database (PEDro, http://www.pedro.org.au/) and three trials registries for ongoing trials and further data about included studies. There were no language restrictions. We also handsearched relevant conference proceedings and screened reference lists to identify further trials. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs), quasi‐RCTs and randomised controlled cross‐over trials of any rehabilitation intervention in people with acquired weakness syndrome due to CIP/CIM. 
+Data collection and analysis
+We would have extracted data, assessed the risk of bias and classified the quality of evidence for outcomes in duplicate, according to the standard procedures of The Cochrane Collaboration. Outcome data collection would have been for activities of daily living (for example, mobility, walking, transfers and self care). Secondary outcomes included muscle strength, quality of life and adverse events. 
+Main results
+The search strategy retrieved 3587 references. After examination of titles and abstracts, we retrieved the full text of 24 potentially relevant studies. None of these studies met the inclusion criteria of our review. No data were suitable to be included in a meta‐analysis. 
+Authors' conclusions
+There are no published RCTs or quasi‐RCTs that examine whether physical rehabilitation interventions improve activities of daily living for people with CIP and CIM. Large RCTs, which are feasible, need to be conducted to explore the role of physical rehabilitation interventions for people with CIP and CIM. 

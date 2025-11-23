@@ -1,0 +1,14 @@
+Background
+Vaginitis due to Trichomonas vaginalis is one of the most common of sexually transmitted diseases. Trichomoniasis affects women during pregnancy as well but it is not clearly established whether it causes preterm birth and other pregnancy complications. 
+Objectives
+The objective of this review was to assess the effects of various treatments for trichomoniasis during pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (14 January 2011). 
+Selection criteria
+Randomized trials comparing anti‐trichomonas agents during pregnancy. Trials including symptomatic or asymptomatic women with trichomoniasis were eligible. 
+Data collection and analysis
+Two review authors assessed eligibility and trial quality.
+Main results
+We included two trials with 842 pregnant women. In both trials around 90% of women were cleared of trichomonas in the vagina after treatment. In the US trial, women with asymptomatic trichomoniasis between 16 and 23 weeks were treated with metronidazole on two occasions at least two weeks apart. The trial was stopped before reaching its target recruitment because metronidazole was not effective in reducing preterm birth and there was a likelihood of harm (risk ratio 1.78; 95% confidence interval 1.19 to 2.66). The South African trial recruited women later in pregnancy and did not have the design and power to address adverse clinical outcomes. We excluded two recent studies, identified for the current update, because they did not address the primary question. 
+Authors' conclusions
+Metronidazole, given as a single dose, is likely to provide parasitological cure for trichomoniasis, but it is not known whether this treatment will have any effect on pregnancy outcomes. The cure rate could probably be higher if more partners used the treatment. 

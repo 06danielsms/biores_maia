@@ -1,0 +1,20 @@
+Background
+Despite conflicting evidence, chest physiotherapy has been widely used as an adjunctive treatment for adults with pneumonia. 
+Objectives
+To assess the effectiveness and safety of chest physiotherapy for pneumonia in adults.
+Search methods
+We searched CENTRAL 2012, Issue 11, MEDLINE (1966 to November week 2, 2012), EMBASE (1974 to November 2012), Physiotherapy Evidence Database (PEDro) (1929 to November 2012), CINAHL (2009 to November 2012) and CBM (1978 to November 2012). 
+Selection criteria
+Randomised controlled trials (RCTs) assessing the efficacy of chest physiotherapy for treating pneumonia in adults. 
+Data collection and analysis
+Two authors independently assessed trial eligibility, extracted data and appraised trial quality. Primary outcomes were mortality and cure rate. We used risk ratios (RR) and mean difference (MD) for individual trial results in the data analysis. We performed meta‐analysis and measured all outcomes with 95% confidence intervals (CI). 
+Main results
+Six RCTs (434 participants) appraised four types of chest physiotherapy (conventional chest physiotherapy; osteopathic manipulative treatment (which includes paraspinal inhibition, rib raising and myofascial release); active cycle of breathing techniques (which include active breathing control, thoracic expansion exercises and forced expiration techniques); and positive expiratory pressure). 
+None of the physiotherapies (versus no physiotherapy or placebo) improved mortality rates of adults with pneumonia. 
+Conventional chest physiotherapy (versus no physiotherapy), active cycle of breathing techniques (versus no physiotherapy) and osteopathic manipulative treatment (versus placebo) did not increase the cure rate or chest X‐ray improvement rate. 
+Osteopathic manipulative treatment (versus placebo) and positive expiratory pressure (versus no physiotherapy) reduced the mean duration of hospital stay by 2.0 days (mean difference (MD) ‐2.0 days, 95% CI ‐3.5 to ‐0.6) and 1.4 days (MD ‐1.4 days, 95% CI ‐2.8 to ‐0.0), respectively. Conventional chest physiotherapy and active cycle of breathing techniques did not. 
+Positive expiratory pressure (versus no physiotherapy) reduced fever duration (MD ‐0.7 day, 95% CI ‐1.4 to ‐0.0). Osteopathic manipulative treatment did not. 
+Osteopathic manipulative treatment (versus placebo) reduced the duration of intravenous (MD ‐2.1 days, 95% CI ‐3.4 to ‐0.9) and total antibiotic treatment (MD ‐1.9 days, 95% CI ‐3.1 to ‐0.7). 
+Limitations of this review are that the studies addressing osteopathic manipulative treatment were small, and that six published studies which appear to meet the inclusion criteria are awaiting classification. 
+Authors' conclusions
+Based on current limited evidence, chest physiotherapy might not be recommended as routine additional treatment for pneumonia in adults. 

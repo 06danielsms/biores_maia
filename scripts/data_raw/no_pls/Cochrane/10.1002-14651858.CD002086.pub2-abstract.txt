@@ -1,0 +1,18 @@
+Background
+Minocycline is an oral antibiotic used for acne vulgaris. Its use has lessened due to safety concerns (including potentially irreversible pigmentation), a relatively high cost, and no evidence of any greater benefit than other acne treatments. A modified‐release version of minocycline is being promoted as having fewer side‐effects. 
+Objectives
+To assess new evidence on the effects of minocycline for acne vulgaris.
+Search methods
+Searches were updated in the following databases to November 2011: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library, MEDLINE (from 1946), EMBASE (from 1974), and LILACS (from 1982). We also searched trials registers and checked reference lists for further references to relevant randomised controlled trials (RCTs). 
+The Cochrane Skin Group's Trials Search Co‐ordinator undertook searches exploring minocycline's adverse effects in EMBASE and MEDLINE in February 2012. 
+Selection criteria
+We selected randomised controlled trials (RCTs) comparing minocycline, at any dose, to an active or a placebo control, in participants with inflammatory acne vulgaris. For adverse effects, we selected additional studies that reported the number of adverse effects and the number of participants treated. 
+Data collection and analysis
+Outcome measures used in the trials included lesion counts, acne grades/severity scores, doctors' and participants' global assessments, adverse effects, and dropout rates. Two authors independently assessed the quality of each study. Effect sizes were calculated, and meta‐analyses were undertaken where possible. 
+Sixteen studies met the inclusion criteria for the review of adverse effects.
+Main results
+We included 12 new RCTs for this update, giving a total of 39 RCTs (6013 participants). These additional 12 RCTs have not changed the original conclusions about the clinical efficacy of minocycline. 
+The identified RCTs were generally small and poor quality. Meta‐analysis was rarely possible because of the lack of data and different outcome measures and trial durations. Although minocycline was shown to be an effective treatment for moderate to moderately‐severe acne vulgaris, there was no evidence that it is better than any of the other commonly‐used acne treatments. One company‐sponsored RCT found minocycline to be less effective than combination treatment with topical erythromycin and zinc. No trials have been conducted using minocycline in those participants whose acne is resistant to other therapies. Also, there is no evidence to guide what dose should be used. 
+The adverse effects studies must be interpreted with caution. The evidence suggests that minocycline is associated with more severe adverse effects than doxycycline. Minocycline, but not other tetracyclines, is associated with lupus erythematosus, but the risk is small: 8.8 cases per 100,000 person‐years. The risk of autoimmune reactions increases with duration of use. The evidence does not support the conclusion that the more expensive extended‐release preparation is safer than standard minocycline preparations. 
+Authors' conclusions
+Minocycline is an effective treatment for moderate to moderately‐severe inflammatory acne vulgaris, but there is still no evidence that it is superior to other commonly‐used therapies. This review found no reliable evidence to justify the reinstatement of its first‐line use, even though the price‐differential is less than it was 10 years ago. Concerns remain about its safety compared to other tetracyclines. 

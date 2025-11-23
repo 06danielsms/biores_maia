@@ -1,0 +1,15 @@
+Background
+Propofol is increasingly used for sedation during colonoscopy, with many recent reports of randomised controlled trials (RCTs) and large non‐randomized case series. 
+Objectives
+The primary objective was to identify, analyze and summarize RCTs comparing the relative effectiveness, patient acceptance and safety of propofol for colonoscopy, to traditional sedatives (narcotics and/or benzodiazepines).  The secondary objective was to synthesize the studies comparing propofol administration by anaesthesiologists to that by non‐anaesthesiologists for sedation during colonoscopy. 
+Search methods
+We searched Pubmed, Cancerlit, EMBASE, CINAHL, LILACS, Biological Abstracts, Web of Science and the Cochrane Controlled Trials Registry database between January 1980 and June 2007; and conference proceeding abstracts for DDW, EUGW and ACG between 1990 and June 2007. There were no language restrictions. For this update, searches were repeated for articles and abstracts published between July 2007 and December 2010. 
+Selection criteria
+Randomized controlled trials comparing use of propofol and traditional agents or administration of propofol by anaesthesiologists to that by non‐anesthesiologists for sedation during colonoscopy. 
+Data collection and analysis
+Two reviewers independently extracted the data. The data were pooled using the Cochrane Collaborations' methodology and statistical software RevMan 5.1. 
+Main results
+Twenty two studies met the inclusion criteria for the primary objective in this updated review, in which we have included results from three additional publications. Many of the studies had a potential of moderate to high risk of bias and combing data for some of the outcomes was problematic. Most studies included only healthy out‐patients. Recovery (11 studies; 776 patients) and discharge times (7 studies; 542 patients) were shorter with use of propofol. There was higher patient satisfaction with use of propofol (10 studies, 819 patients; OR for dissatisfaction 0.35, 95% CI 0.23, 0.53). There was no difference in procedure time (9 studies; 736 patients) or complication rates. There was no difference in pain control with non‐ patient controlled sedation (PCS) use of propofol as compared to the traditional agents (5 studies, 396 patients; OR 0.90; 95% CI 0.58, 1.39). 
+There was only one study (94 patients) comparing administration of propofol by anaesthesiologists to that by non‐anesthesiologists for sedation during colonoscopy, with no difference in procedure time or patient satisfaction. 
+Authors' conclusions
+Propofol for sedation during colonoscopy for generally healthy individuals can lead to faster recovery and discharge times, increased patient satisfaction without an increase in side‐effects. For the comparison of propofol administration by anaesthesiologists to that by non‐anesthesiologists, we found insufficient high quality evidence. There is a need for better quality studies, with double blind randomizations, reporting of allocation concealment and more standardized reporting of outcomes. 

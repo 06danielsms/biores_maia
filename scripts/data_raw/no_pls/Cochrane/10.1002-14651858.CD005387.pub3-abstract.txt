@@ -1,0 +1,22 @@
+Background
+Lack of physical stimulation may contribute to metabolic bone disease of preterm infants, resulting in poor bone mineralization and growth. Physical activity programs combined with adequate nutrition might help to promote bone mineralization and growth. 
+Objectives
+The primary objective was to assess whether physical activity programs in preterm infants improve bone mineralization and growth and reduce the risk of fracture. 
+The secondary objectives included other potential benefits in terms of length of hospital stay, skeletal deformities and neurodevelopmental outcomes, and adverse events. 
+Subgroup analysis:
+• Given that the smallest infants are most vulnerable for developing osteopenia (Bishop 1999), a subgroup analysis was planned for infants with birth weight < 1000 g. 
+• Calcium and phosphorus intake may affect an infant's ability to increase bone mineral content (Kuschel 2004). Therefore, an additional subgroup analysis was planned for infants receiving different amounts of calcium and phosphorus, along with full enteral feeds as follows. 
+ ∘ Below 100 mg/60 mg calcium/phosphorus or equal to/above 100 mg/60 mg calcium/phosphorus per 100 mL milk. 
+ ∘ Supplementation of calcium without phosphorus.
+ ∘ Supplementation of phosphorus without calcium.
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group (CNRG) was used. The search included the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 9), MEDLINE, EMBASE, CINAHL (1966 to March 2013), and cross‐references, as well as handsearching of abstracts of the Society for Pediatric Research and the International Journal of Sports Medicine. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing physical activity programs (extension and flexion, range‐of‐motion exercises) versus no organized physical activity programs in preterm infants. 
+Data collection and analysis
+Data collection, study selection, and data analysis were performed according to the methods of the CNRG. 
+Main results
+Eleven trials enrolling 324 preterm infants (gestational age 26 to 34 weeks) were included in this review. All were small (N = 16 to 50) single‐center studies that evaluated daily physical activity for three and one‐half to eight weeks during initial hospitalization. Methodological quality and reporting of included trials were variable. 
+Four trials demonstrated moderate short‐term benefits of physical activity for bone mineralization at completion of the physical activity program. The only trial assessing long‐term effects on bone mineralization showed no effect of physical activity administered during initial hospitalization on bone mineralization at 12 months corrected age. Meta‐analysis from four trials demonstrated a positive effect of physical activity on daily weight gain (weighted mean difference (WMD) 2.21 g/kg/d, 95% confidence interval (CI) 1.23 to 3.19). Data from four trials showed a positive effect on linear growth (WMD 0.12 cm/wk, 95% CI 0.01 to 0.24) but not on head growth (WMD ‐0.03 cm/wk, 95% CI ‐0.14 to 0.08) during the study period. Only one trial reported on fractures (this outcome did not occur in intervention and control groups) and complications of preterm birth (no significant differences between intervention and control groups). None of the trials assessed other outcomes relevant to this review. 
+Authors' conclusions
+Some evidence suggests that physical activity programs might promote short‐term weight gain and bone mineralization in preterm infants. Data are inadequate to allow assessment of harm or long‐term effects. Current evidence does not support the routine use of physical activity programs in preterm infants. Further trials incorporating infants with a high baseline risk of osteopenia are required. These trials should address adverse events, long‐term outcomes, and the effects of nutritional intake (calories, protein, calcium, phosphorus). 

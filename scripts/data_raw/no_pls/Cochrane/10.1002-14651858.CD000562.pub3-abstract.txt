@@ -1,0 +1,16 @@
+Background
+A specific manual‐based form of cognitive behavioural therapy (CBT) has been developed for the treatment of bulimia nervosa (CBT‐BN) and other common related syndromes such as binge eating disorder. Other psychotherapies and modifications of CBT are also used. 
+Objectives
+To evaluate the efficacy of CBT, CBT‐BN and other psychotherapies in the treatment of adults with bulimia nervosa or related syndromes of recurrent binge eating. 
+Search methods
+Handsearch of The International Journal of Eating Disorders since first issue; database searches of MEDLINE, EXTRAMED, EMBASE, PsycInfo, CURRENT CONTENTS, LILACS, SCISEARCH, CENTRAL and the The Cochrane Collaboration Depression, Anxiety & Neurosis Controlled Trials Register; citation list searching and personal approaches to authors were used. Search date June 2007. 
+Selection criteria
+Randomised controlled trials of psychotherapy for adults with bulimia nervosa, binge eating disorder and/or eating disorder not otherwise specified (EDNOS) of a bulimic type which applied a standardised outcome methodology and had less than 50% drop‐out rate. 
+Data collection and analysis
+Data were analysed using the Review Manager software program. Relative risks were calculated for binary outcome data. Standardised mean differences were calculated for continuous variable outcome data. A random effects model was applied. 
+Main results
+48 studies (n = 3054 participants) were included. The review supported the efficacy of CBT and particularly CBT‐BN in the treatment of people with bulimia nervosa and also (but less strongly due to the small number of trials) related eating disorder syndromes. 
+Other psychotherapies were also efficacious, particularly interpersonal psychotherapy in the longer‐term. Self‐help approaches that used highly structured CBT treatment manuals were promising. Exposure and Response Prevention did not enhance the efficacy of CBT. 
+Psychotherapy alone is unlikely to reduce or change body weight in people with bulimia nervosa or similar eating disorders. 
+Authors' conclusions
+There is a small body of evidence for the efficacy of CBT in bulimia nervosa and similar syndromes, but the quality of trials is very variable and sample sizes are often small. More and larger trials are needed, particularly for binge eating disorder and other EDNOS syndromes. There is a need to develop more efficacious therapies for those with both a weight and an eating disorder. 

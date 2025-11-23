@@ -1,0 +1,18 @@
+Background
+Striae gravidarum (stretch marks developing during pregnancy) occur in 50% to 90% of women. They appear as red or purple lines or streaks that fade slowly to leave pale lines or marks on the skin. The abdomen, breasts and thighs are commonly affected. The exact cause of stretch marks is unclear and no preparation has yet been shown to be effective in preventing the development of stretch marks. They are a source of significant anxiety for women, impacting on their quality of life. 
+Objectives
+To assess the effects of topical preparations on the prevention of stretch marks in pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 October 2011) and reference lists of retrieved reports. 
+Selection criteria
+We included randomised controlled trials and quasi‐randomised controlled trials comparing topical preparations (with active ingredients) with other topical preparations (with active ingredients), with a placebo (that is, preparations without active ingredients) or with no treatment for the prevention of stretch marks in pregnant women. 
+Data collection and analysis
+Three review authors independently assessed trial eligibility and trial quality, and extracted data. Data were checked for accuracy. The primary outcome was the presence of stretch marks and the secondary outcome was the severity of stretch marks. 
+Main results
+We included six trials involving 800 women. Of the six trials, we judged the risk of bias for three as 'low risk' for random sequence generation, blinding of participants and personnel, blinding of outcome assessment, completeness of outcome data and selective reporting. 
+There was no statistically significant average difference in the development of stretch marks in women who received topical preparations with active ingredients compared to women who received a placebo or no treatment (average risk ratio (RR) 0.74; 95% confidence interval (CI) 0.53 to 1.03; five trials, 474 women; random‐effects model, Tau² = 0.09, I² = 65%) (Analysis 1.1). 
+Results were consistent with the main effects when we performed a sensitivity analysis excluding studies judged to be at high risk of bias for random sequence generation, allocation concealment or more than 20% missing data for a given outcome (average RR 0.81; 95% CI 0.60 to 1.10; four trials, 424 women; random‐effects model, Tau² = 0.05, I² = 57%). 
+The was no statistically significant average mean difference in the severity of stretch marks (standardised mean difference (SMD) ‐0.31; 95% CI ‐1.06 to 0.44; two trials, 255 women; Tau² = 0.26, I² = 87%). 
+There was no statistically significant difference in the development of stretch marks in women who received topical preparations with active ingredients compared to women who received other topical preparations with active ingredients (average RR 0.51; 95% CI 0.16 to 1.60; two trials, 305 women; Tau² = 0.53, I² = 74%). There was no statistically significant difference in the severity of stretch marks (mean difference (MD) ‐0.20; 95% CI ‐0.53 to 0.13; one trial, 206 women; heterogeneity not applicable). 
+Authors' conclusions
+We found no high‐quality evidence to support the use of any of the topical preparations in the prevention of stretch marks during pregnancy. There is a clear need for robust, methodologically rigorous randomised trials involving larger sample sizes to evaluate the effects of topical preparations on the development of stretch marks in pregnancy. In addition, it is important that preparations commonly used by women to prevent and treat stretch marks are evaluated within the context of robust, methodologically rigorous and adequately powered randomised trials. 

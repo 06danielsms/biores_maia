@@ -1,0 +1,32 @@
+Stem cell transplantation for the treatment of systemic sclerosis
+We conducted a review of the medical literature in February 2022to study the benefits and harms of hematopoietic stem cell transplantation (HSCT) in people with systemic sclerosis (SSc). 
+What is systemic sclerosis and hematopoietic stem cell transplantation? 
+SSc is an autoimmune disease (where the body's natural defense system attacks normal cells) that affects the skin and internal organs (lungs, digestive system, etc.). Symptoms associated with SSc include thickening of the skin, shortness of breath, digestive symptoms, and difficulties with function or mobility that can affect quality of life. There is also an increased risk of death (mortality) with SSc. 
+Autologous HSCT is a procedure in which people receive their own healthy stem cells (special cells produced by bone marrow that can turn into different types of blood cell) to replace damaged immune cells that might be causing the disease. 
+There are two HSCT regimens studied for SSc: myeloablative regimens use either radiation therapy or high doses of chemotherapy that do not allow the bone marrow to recover on its own and non‐myeloablative regimens use a lower amount of chemotherapy without radiation therapy, but there are residual cells in the bone marrow afterwards. 
+There are also two different ways to collect stem cells. Selective HSCT involves a process in which specific stem cells (called CD34+ cells) are chosen for re‐infusion. The non‐selective process does not include this step. 
+Is autologous hematopoietic stem cell transplantation a safe and effective treatment for people with systemic sclerosis? 
+Our review includes three research studies. Each study compared a different type (modality) of stem cell transplantation versus cyclophosphamide (a type of chemotherapy): non‐myeloablative non‐selective HSCT, non‐myeloablative selective HSCT, and myeloablative selective HSCT. 
+The risk of bias was high for all outcomes with non‐myeloablative non‐selective HSCT, but mostly low for myeloablative and non‐myeloablative selective HSCT. Performance bias (participants knowing which treatment they had) was unclear and detection bias (assessors knowing which treatment the participants had) was high for functional ability as the assessors and participants were not blinded. All participants had early and severe SSc with either skin or lung involvement. The average age of participants was 43 to 47 years, and most were white females. The average duration of disease ranged from 1.5 years to 2 years. 
+The non‐myeloablative selective HSCT trial received CD34+ selection columns from the manufacturer. 
+Key results 
+We completed our search in February 2022. Outcomes are at two years for non‐myeloablative selective HSCT, 4.5 years for myeloablative selective HSCT, and one year for non‐myeloablative non‐selective HSCT unless otherwise specified. All comparisons are of stem cell transplantation to cyclophosphamide. 
+Overall mortality 
+– There was no difference in mortality between any modality of HSCT and cyclophosphamide.
+Event‐free survival 
+– The non‐myeloablative selective HSCT group had decreased event‐free survival (34% lower risk) at four years and 930 per 1000 people will have been event‐free with HSCT at four years. 
+– There was no change in event‐free survival with myeloablative selective HSCT.
+Functional ability 
+– People who received non‐myeloablative HSCT had a 13% improvement.
+– 53 people out of 100 who receive myeloablative selective HSCT may have meaningful improvement compared to 15 out of 100 who receive cyclophosphamide (37% absolute improvement). 
+Skin thickening 
+– People who received non‐myeloablative selective HSCT had greater improvement in skin scores (−22% absolute improvement). 
+– 80 people out of 100 who receive myeloablative selective HSCT may have an improvement in skin scores (25% or greater or 5 points or greater improvement) compared to 53 out of 100 who received cyclophosphamide (27% absolute improvement). 
+– People who received non‐myeloablative non‐selective HSCT had greater improvement in their skin scores (−31% absolute improvement). 
+Serious side effects 
+– 65 people out of 100 who received non‐myeloablative selective HSCT had serious side effects compared to 39 out of 100 who received cyclophosphamide (26% increased absolute risk). 
+– 73 people out of 100 who received myeloablative selective HSCT had serious adverse events compared to 51 out of 100 who received cyclophosphamide (22% increased absolute risk). 
+– There were no serious side effects reported with non‐myeloablative non‐selective HSCT or cyclophosphamide. 
+Certainty of the evidence 
+We rated the certainty of the evidence from trials using four levels: very low, low, moderate, or high. Very low‐certainty evidence means that we are uncertain about the results. High‐certainty evidence means that we are very confident in the results.  
+For non‐myeloablative selective HSCT and myeloablative selective HSCT we have moderate certainty in the evidence assessing overall mortality, event‐free survival, functional ability, skin thickening, lung function, and serious side effects. The certainty of evidence was downgraded to moderate because of the small number of participants enrolled in the studies and the nature of the studies being unblinded for participant‐reported outcomes. For non‐selective non‐myeloablative HSCT, the certainty of evidence was low for all outcomes. This is because of differences between the cyclophosphamide and HSCT groups before treatment along with the small number of participants enrolled in the study. 

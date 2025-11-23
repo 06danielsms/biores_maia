@@ -1,0 +1,36 @@
+Background
+To minimise the rate of recurrent prolapse after traditional native tissue repair (anterior colporrhaphy), clinicians have utilised a variety of surgical techniques. 
+Objectives
+To determine the safety and effectiveness of surgery for anterior compartment prolapse.
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In Process (23 August 2016), handsearched journals and conference proceedings (15 February 2016) and searched trial registers (1 August 2016). 
+Selection criteria
+Randomised controlled trials (RCTs) that examined surgical operations for anterior compartment prolapse. 
+Data collection and analysis
+Two review authors independently selected trials, assessed risk of bias and extracted data. Primary outcomes were awareness of prolapse, repeat surgery and recurrent prolapse on examination. 
+Main results
+We included 33 trials (3332 women). The quality of evidence ranged from very low to moderate. Limitations were risk of bias and imprecision. We have summarised results for the main comparisons. 
+Native tissue versus biological graft  
+Awareness of prolapse: Evidence suggested few or no differences between groups (risk ratio (RR) 0.98, 95% confidence interval (CI) 0.52 to 1.82; five RCTs; 552 women; I2 = 39%; low‐quality evidence), indicating that if 12% of women were aware of prolapse after biological graft, 7% to 23% would be aware after native tissue repair. 
+Repeat surgery for prolapse: Results showed no probable differences between groups (RR 1.02, 95% CI 0.53 to 1.97; seven RCTs; 650 women; I2 = 0%; moderate‐quality evidence), indicating that if 4% of women required repeat surgery after biological graft, 2% to 9% would do so after native tissue repair. 
+Recurrent anterior compartment prolapse: Native tissue repair probably increased the risk of recurrence (RR 1.32, 95% CI 1.06 to 1.65; eight RCTs; 701 women; I2 = 26%; moderate‐quality evidence), indicating that if 26% of women had recurrent prolapse after biological graft, 27% to 42% would have recurrence after native tissue repair. 
+Stress urinary incontinence (SUI): Results showed no probable differences between groups (RR 1.44, 95% CI 0.79 to 2.64; two RCTs; 218 women; I2 = 0%; moderate‐quality evidence). 
+Dyspareunia: Evidence suggested few or no differences between groups (RR 0.87, 95% CI 0.39 to 1.93; two RCTs; 151 women; I2 = 0%; low‐quality evidence). 
+Native tissue versus polypropylene mesh  
+Awareness of prolapse: This was probably more likely after native tissue repair (RR 1.77, 95% CI 1.37 to 2.28; nine RCTs; 1133 women; I2 = 0%; moderate‐quality evidence), suggesting that if 13% of women were aware of prolapse after mesh repair, 18% to 30% would be aware of prolapse after native tissue repair. 
+Repeat surgery for prolapse: This was probably more likely after native tissue repair (RR 2.03, 95% CI 1.15 to 3.58; 12 RCTs; 1629 women; I2 = 39%; moderate‐quality evidence), suggesting that if 2% of women needed repeat surgery after mesh repair, 2% to 7% would do so after native tissue repair. 
+Recurrent anterior compartment prolapse: This was probably more likely after native tissue repair (RR 3.01, 95% CI 2.52 to 3.60; 16 RCTs; 1976 women; I2 = 39%; moderate‐quality evidence), suggesting that if recurrent prolapse occurred in 13% of women after mesh repair, 32% to 45% would have recurrence after native tissue repair. 
+Repeat surgery for prolapse, stress urinary incontinence or mesh exposure (composite outcome): This was probably less likely after native tissue repair (RR 0.59, 95% CI 0.41 to 0.83; 12 RCTs; 1527 women; I2 = 45%; moderate‐quality evidence), suggesting that if 10% of women require repeat surgery after polypropylene mesh repair, 4% to 8% would do so after native tissue repair. 
+De novo SUI: Evidence suggested few or no differences between groups (RR 0.67, 95% CI 0.44 to 1.01; six RCTs; 957 women; I2 = 26%; low‐quality evidence). No evidence suggested a difference in rates of repeat surgery for SUI. 
+Dyspareunia (de novo): Evidence suggested few or no differences between groups (RR 0.54, 95% CI 0.27 to 1.06; eight RCTs; n = 583; I2 = 0%; low‐quality evidence). 
+Native tissue versus absorbable mesh  
+Awareness of prolapse: It is unclear whether results showed any differences between groups (RR 0.95, 95% CI 0.70 to 1.31; one RCT; n = 54; very low‐quality evidence), 
+Repeat surgery for prolapse: It is unclear whether results showed any differences between groups (RR 2.13, 95% CI 0.42 to 10.82; one RCT; n = 66; very low‐quality evidence). 
+Recurrent anterior compartment prolapse: This is probably more likely after native tissue repair (RR 1.50, 95% CI 1.09 to 2.06; three RCTs; n = 268; I2 = 0%; moderate‐quality evidence), suggesting that if 27% have recurrent prolapse after mesh repair, 29% to 55% would have recurrent prolapse after native tissue repair. 
+SUI: It is unclear whether results showed any differences between groups (RR 0.72, 95% CI 0.50 to 1.05; one RCT; n = 49; very low‐quality evidence). 
+Dyspareunia: No data were reported. 
+Authors' conclusions
+Biological graft repair or absorbable mesh provides minimal advantage compared with native tissue repair. 
+Native tissue repair was associated with increased awareness of prolapse and increased risk of repeat surgery for prolapse and recurrence of anterior compartment prolapse compared with polypropylene mesh repair. However, native tissue repair was associated with reduced risk of de novo SUI, reduced bladder injury, and reduced rates of repeat surgery for prolapse, stress urinary incontinence and mesh exposure (composite outcome). 
+Current evidence does not support the use of mesh repair compared with native tissue repair for anterior compartment prolapse owing to increased morbidity. 
+Many transvaginal polypropylene meshes have been voluntarily removed from the market, and newer light‐weight transvaginal meshes that are available have not been assessed by RCTs. Clinicans and women should be cautious when utilising these products, as their safety and efficacy have not been established. 

@@ -1,0 +1,14 @@
+Background
+Public health and traffic safety agencies recommend use of booster seats in motor vehicles for children aged four to eight years, and various interventions have been implemented to increase their use by individuals who transport children in motor vehicles. There is little evidence regarding the effectiveness of these interventions, hence the need to examine what works and what does not. 
+Objectives
+To assess the effectiveness of interventions intended to increase acquisition and use of booster seats in motor vehicles among four to eight year olds. 
+Search methods
+We searched the Cochrane Injuries Group's Specialized Register, the Cochrane Central Register of Controlled Trials, MEDLINE (January 1966 to April 2005), EMBASE (1980 to April 2005), LILACS, Transport Research Databases (1988 to April 2005), Australian Transport Index (1976 to April 2005), additional databases and reference lists of relevant articles. We also contacted experts in the field. 
+Selection criteria
+We included randomized and controlled before‐and‐after trials that investigated the effects of interventions to promote booster seat use. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Study authors were contacted for additional information. 
+Main results
+Five studies involving 3,070 individuals met the criteria for inclusion in the meta‐analysis. All interventions for promoting use of booster seats among 4 to 8 year olds demonstrated a positive effect (relative risk (RR) 1.43; 95% confidence intervals (CI) 1.05 to 1.96). Incentives combined with education demonstrated a beneficial effect (RR 1.32, 95% CI 1.12 to 1.55; n = 1,898). Distribution of free booster seats combined with education also had a beneficial effect (RR 2.34; 95% CI 1.50 to 3.63; n = 380) as did education‐only interventions (RR 1.32; 95% CI 1.16 to 1.49; n = 563). One study which evaluated enforcement of booster seat law met the criteria for inclusion in the meta‐analysis, but demonstrated no marked beneficial effect. 
+Authors' conclusions
+Available evidence suggests that interventions to increase use of booster seats among children age four to eight years are effective. Combining incentives (booster seat discount coupons or gift certificates) or distribution of free booster seats with education demonstrated marked beneficial outcomes for acquisition and use of booster seats for four to eight year olds. There is some evidence of beneficial effect of legislation on acquisition and use of booster seats but this was mainly from uncontrolled before‐and‐after studies, which did not meet the criteria for inclusion in the meta‐analysis. 

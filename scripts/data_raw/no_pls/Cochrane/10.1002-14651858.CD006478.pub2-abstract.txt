@@ -1,0 +1,20 @@
+Background
+Silver‐containing treatments are popular and used in wound treatments to combat a broad spectrum of pathogens, but evidence of their effectiveness in preventing wound infection or promoting healing is lacking. 
+Objectives
+To establish the effects of silver‐containing wound dressings and topical agents in preventing wound infection and healing of wounds. 
+Search methods
+We searched the Cochrane Wounds Group Specialised Register (6 May 2009); The Cochrane Central Register of Controlled Trials (CENTRAL) (2009 Issue 2); Ovid MEDLINE (1950 to April Week 4 2009); Ovid EMBASE (1980 to 2009 Week 18); EBSCO CINAHL (1982 to April Week 4 2009) and Digital Dissertations (to May 2009) for relevant trials. We contacted manufacturers and distributors. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing silver‐containing wound dressings and topical agents with silver‐containing and non silver‐containing comparators on uninfected wounds. 
+Data collection and analysis
+Two authors independently selected trials, assessed risk of bias, and extracted data.
+Main results
+We identified 26 RCTs (2066 patients). Heterogeneity of treatments and outcomes precluded meta‐analysis. We grouped results according to wound type, and silver preparation. 
+Burns 
+Thirteen trials compared topical silver (in a variety of formulations ‐ including silver sulphadiazine (SSD) cream) with non‐silver dressings. One trial showed fewer infections with silver nitrate when compared with a non‐silver dressing, but three trials showed significantly more infection with SSD than with the non‐silver dressing. 
+Six trials compared SSD cream with silver‐containing dressings. One showed significantly fewer infections with the silver‐containing dressing (Hydron AgSD) compared with SSD, the remaining five found no evidence of a difference. 
+One trial compared two silver‐containing dressings, and showed a significantly lower infection rate with silver‐coated gauze (Acticoat®) than with silver nitrate gauze. 
+Other wounds 
+Six trials compared SSD/silver‐containing dressings with non‐silver dressings (nine dressings in total). Most comparisons (seven) found no significant differences in infection rates; one trial in a variety of wounds exhibited significantly fewer infections with SSD/hydrocolloid, but another, in acute wounds, found significantly more infections with SSD. Only one comparison showed a significant reduction in healing time associated with a silver‐containing hydrofibre dressing in diabetic foot ulcers.  
+Authors' conclusions
+There is insufficient evidence to establish whether silver‐containing dressings or topical agents promote wound healing or prevent wound infection; some poor quality evidence for SSD suggests the opposite. 

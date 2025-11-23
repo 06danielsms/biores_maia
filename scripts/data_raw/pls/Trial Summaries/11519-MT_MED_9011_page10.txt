@@ -1,0 +1,9 @@
+To answer this question, the study doctors measured many different things to assess the participants' leukemia throughout the study, including:
+
+- Size of the lymph nodes, spleen, and liver
+- Amounts of certain types of cells and proteins in the blood, such as lymphocytes, platelets, hemoglobin, and neutrophils
+- Health of bone marrow
+
+The study doctors analyzed these different measurements using a set of rules called the International Workshop on Chronic Lymphocytic Leukemia guidelines, also called the "IWCLL" guidelines.
+
+Then, the study doctors determined if each participant had a response to treatment with acalabrutinib. A "response" means that the participant's leukemia symptoms decreased after treatment. According to the IWCLL guidelines, a participant's response to treatment can be either complete or partial. The researchers calculated the percentage of participants who had either a complete or partial response to acalabrutinib.

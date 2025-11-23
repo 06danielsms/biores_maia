@@ -1,0 +1,14 @@
+Background
+Multiple Sclerosis (MS) is a chronic, recurrent and progressive illness with no cure. On the basis of speculative pathophysiology, it has been suggested that Hyperbaric Oxygen Therapy (HBOT) may slow or reverse the progress of the disease. 
+Objectives
+The object of this review was to evaluate the efficacy and safety of HBOT in the treatment of MS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis Group's Trials Register (25 February 2011).
+Selection criteria
+All randomised, controlled trials involving a comparison between HBOT and a sham therapy in MS were evaluated. 
+Data collection and analysis
+Two reviewers independently appraised all comparative trials identified, extracted data and scored them for methodological quality. 
+Main results
+We identified ten reports of nine trials that satisfied selection criteria (504 participants in total). Two trials produced generally positive results, while the remaining seven reported generally no evidence of a treatment effect. None of our three a priori subgroup analyses placed these two trials in the same group and were therefore unable to account for this difference. Three analyses (of 21) did indicate some benefit. For example, the mean Expanded Disability Status Scale (EDSS) at 12 months was improved in the HBOT group (group mean reduction in EDSS compared to sham ‐0.85 of a point, 95% confidence interval ‐1.28 to ‐0.42, P = 0.0001). Only the two generally positive trials reported on this outcome at this time (16% of the total participants in this review). 
+Authors' conclusions
+We found no consistent evidence to confirm a beneficial effect of hyperbaric oxygen therapy for the treatment of multiple sclerosis and do not believe routine use is justified. The small number of analyses suggestive of benefit are isolated, difficult to ascribe with biological plausibility and would need to be confirmed in future well‐designed trials. Such trials are not, in our view, justified by this review. 

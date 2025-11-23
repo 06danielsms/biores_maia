@@ -1,0 +1,14 @@
+Background
+Acute kidney injury (AKI) is a common, serious, but potentially treatable condition. Because AKI is often associated with acidosis, it has become common practice to recommend administration of sodium bicarbonate to correct acid imbalance. 
+Objectives
+To assess the benefits and harms of the use of sodium bicarbonate for people with AKI. The primary outcome measure was all‐cause mortality, and secondary outcome measures were patients' need for renal replacement therapy; return to baseline kidney function; and overall survival. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register up to 12 May 2017 through contact with the Information Specialist using search terms relevant to this review. 
+Selection criteria
+All randomised controlled trials (RCTs) that investigated the use of sodium bicarbonate supplements, administered by any route, for the treatment of adults with AKI were to be included. The search strategy did not restrict inclusion based on an upper age limit or publication language. We did not consider inclusion of studies that investigated use of sodium bicarbonate for AKI prevention. 
+Data collection and analysis
+All authors planned to independently assess and extracted information. Information was to be collected on methods, participants, interventions and outcomes. Results were to be expressed as risk ratios (RR) for dichotomous outcomes or as mean differences (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+Although our literature search identified four studies, none of these met our predetermined selection criteria. Hence, no suitable studies were identified for inclusion in this review. 
+Authors' conclusions
+We found no RCT evidence ‐ supportive or otherwise ‐ for the use of sodium bicarbonate for people with AKI. We concluded that there is an urgent need for well conducted RCTs in this area. 

@@ -1,0 +1,14 @@
+Background
+Breath‐holding attacks are common during childhood. Iron supplementation has been claimed to reduce the frequency or severity, or both, of breath‐holding attacks in children. 
+Objectives
+To assess the effect of iron supplementation on the frequency and severity of breath‐holding attacks in children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, PsycINFO, CINAHL and the metaRegister of Controlled Trials (up to April 2009). We scanned references of included trials. Pharmaceutical companies manufacturing oral iron supplements and some trial authors were contacted for any unpublished data or trials. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing iron supplementation with placebo or no therapy in children < 18 years with recurrent (more than three) breath‐holding episodes. These were reported by an observer. 
+Data collection and analysis
+The primary outcome was reduction in the frequency (number over time) or severity (leading to cessation of loss of consciousness or convulsive movements), or both, of breath‐holding attacks. Two authors (AZ and NO) independently selected studies and extracted data. Study authors were contacted for missing data, where necessary. Risk of bias was assessed using domain‐based evaluation. In the presence of low heterogeneity, a fixed‐effect meta‐analysis was performed with pooled results presented as odds ratios (OR) and 95% confidence intervals (CIs). 
+Main results
+Two trials (87 children) fulfilled the inclusion criteria. In these trials, iron supplementation significantly reduced the frequency of breath‐holding attacks in children (OR 76.48; 95% CI 15.65 to 373.72; P < 0.00001). A meta‐analysis that solely examined iron supplementation causing complete resolution of breath‐holding attacks maintained this significance (OR 53.43; 95% CI 6.57 to 434.57; P = 0.0002). 
+Authors' conclusions
+Iron supplementation (at 5 mg/kg/day of elemental iron for 16 weeks) appears to be useful in reducing the frequency and severity of breath‐holding attacks. Supplementation is of particular benefit in children with iron deficiency anaemia, responses correlating with the improvements in haemoglobin values. Iron may still be of assistance in children who are not anaemic or who have low, normal haemoglobin levels. Further high‐quality randomised control trials of iron supplementation to treat breath‐holding attacks in children are required.  

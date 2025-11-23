@@ -1,0 +1,16 @@
+Background
+Children with neurological impairments frequently experience feeding difficulties, which can lead to malnutrition and growth failure. Gastrostomy feeding is now the preferred method of providing nutritional support to children with neurological impairments who are unable to feed adequately by mouth. Complications may arise as a result of gastrostomy placement, and the development or worsening of gastro‐oesophageal reflux (GOR) has been widely reported. This has led to the frequent use of surgical antireflux treatment in the form of a fundoplication, or other antireflux procedures. Fundoplication is associated with a high recurrence rate, surgical failure, and significant morbidity and mortality. 
+Since proton pump inhibitors (PPIs) were introduced in the 1990s, they have come to play a larger part in the medical management of GOR in children with neurological impairments. Uncontrolled studies suggest that PPIs may be a safe, appropriate treatment for GOR. Other agents currently used include milk thickeners, acid suppression drugs, acid buffering agents, gut motility stimulants and sodium alginate preparations. 
+There are risks and benefits associated with both surgical and medical interventions and further comparison is necessary to determine the optimal treatment choice. 
+Objectives
+To compare the effectiveness of antireflux surgery and antireflux medications for children with neurological impairments and GOR who are undergoing placement of a gastrostomy feeding tube. 
+Search methods
+We searched the following databases on 23 March 2012: the Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, EMBASE, CINAHL, LILACS and ISI Web of Science. Previously, we searched the Child Health Library in June 2009. We also performed online searches of trial registries, medical journals, conference proceedings, dissertations and theses. We contacted specialists in the medical and industry setting for knowledge of completed or ongoing trials. 
+Selection criteria
+We sought to include randomised controlled trials that recruited children up to the age of 18 years with neurological impairments and GOR who were undergoing gastrostomy tube insertion. 
+Data collection and analysis
+The review authors worked independently to select trials; none were identified.
+Main results
+We identified no trials that satisfied the criteria for this review.
+Authors' conclusions
+There remains considerable uncertainty regarding the optimal treatment when faced with the decision of fundoplication surgery versus antireflux medications for children with GOR and neurological impairment who are undergoing gastrostomy insertion. There is a need for robust scientific evidence in order to provide data on the comparable risks or benefits of the two interventions. 

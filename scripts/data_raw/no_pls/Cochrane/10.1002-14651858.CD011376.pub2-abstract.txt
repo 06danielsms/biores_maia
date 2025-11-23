@@ -1,0 +1,14 @@
+Background
+Fatigue is a common and disabling symptom in people with a primary brain tumour (PBT). The effectiveness of interventions for treating clinically significant levels of fatigue in this population is unclear. 
+Objectives
+To assess the effectiveness and safety of pharmacological and non‐pharmacological interventions for adults with PBT and high levels of fatigue. 
+Search methods
+In March 2016, we searched the Cochrane Register of Controlled Trials (CENTRAL), MEDLINE, PsycINFO and CINAHL and checked the reference lists of included studies. We also searched relevant conference proceedings, searched for ongoing trials via ClinicalTrials.gov and contacted major co‐operative groups with trials in this area. 
+Selection criteria
+We included randomised controlled trials (RCTs) that investigated any pharmacological or non‐pharmacological intervention in adults with PBT and fatigue, where fatigue was the primary outcome measure. We restricted inclusion specifically to studies that enrolled only participants with clinically significant levels of fatigue. 
+Data collection and analysis
+Three review authors (JD, SYK, DC) independently evaluated search results, extracted data from selected studies and carried out a bias risk assessment. We extracted data on fatigue, cognition, mood, quality of life and adverse events outcomes. 
+Main results
+We identified nine studies. We excluded eight of these as they did not restrict participation to people with high fatigue. The single eligible trial investigated the use of modafinil compared to placebo. Although this study found a significant improvement over time in the primary outcome of fatigue, the improvement occurred after both modafinil and placebo with no significant difference in response between the two groups. The included trial did not reach its planned recruitment target and therefore may not, in practice, have been adequately powered to detect a difference. The trial was at a low risk of bias across most areas. There was an unclear risk of bias related to the use of mean imputation because the investigators did not analyse the impact of imputation on the results. 
+Authors' conclusions
+There was insufficient evidence to draw reliable and generalisable conclusions regarding potential effectiveness or harm of any pharmacological or non‐pharmacological treatments for fatigue in people with PBT. More research is needed on how best to treat people with brain tumours with high fatigue. 

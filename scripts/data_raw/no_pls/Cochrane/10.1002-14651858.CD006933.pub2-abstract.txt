@@ -1,0 +1,14 @@
+Background
+Infections cause both morbidity and mortality in patients undergoing liver resection. Various methods have been advocated to decrease the infectious complications after liver resection. We do not know if they are of any benefit to the patient or the health‐care funder. 
+Objectives
+To determine the benefits and harms of different interventions in decreasing the infectious complications and improving the outcomes after liver resection. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until August 2011. 
+Selection criteria
+We included all randomised clinical trials that were performed to compare interventions aimed at decreasing the infectious complications after liver resection. 
+Data collection and analysis
+Two authors independently identified the trials and extracted the data. We analysed the data with both the fixed‐effect and the random‐effects model using RevMan Analysis. For each outcome we calculated the risk ratio (RR), rate ratio, or mean difference (MD) with 95% confidence intervals (CI) based on available patient data analysis. 
+Main results
+We included seven trials including 521 patients for this review. The sample size in the trials varied from 12 to 180 patients. All the trials were of high risks of systematic errors and of random errors. Four trials included patients who underwent liver resection only. In the remaining three trials, patients underwent combined liver resection with extrahepatic biliary resection resulting in a biliary enteric anastomosis. Four trials included only major liver resection. The remaining three trials included a mixture of major and minor liver resections. It appears that the proportion of cirrhotic patients in the trials was very low. The comparisons performed included whether antibiotics are necessary routinely during the peri‐operative period of liver resection, the duration of antibiotics, the use of prebiotics and probiotics in the perioperative period, use of recombinant bactericidal‐permeability increasing protein 21 (rBPI21), and the use of topical povidone iodine gel at the time of wound closure. Only one or two trials were included under each comparison. There was no significant differences in mortality or severe morbidity in any of the comparisons. Quality of life was not reported in any of the trials. 
+Authors' conclusions
+There is currently no evidence to support or refute the use of any treatment to reduce infectious complications after liver resections. Further well designed trials with low risk of systematic error and low risk of random errors are necessary. 

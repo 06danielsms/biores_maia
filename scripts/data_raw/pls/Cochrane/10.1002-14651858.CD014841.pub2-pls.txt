@@ -1,0 +1,26 @@
+Xpert MTB/XDR, a rapid test for resistance to tuberculosis drugs
+Why is improving the diagnosis of tuberculosis drug resistance important? 
+Tuberculosis tests, like Xpert MTB/RIF, Xpert MTB/RIF Ultra, and Truenat, only diagnose rifampicin resistance, but do not provide information about resistance to other drugs used to treat tuberculosis. This information is needed to allow for effective treatment to be started quickly. 
+Not recognizing tuberculosis drug resistance when present (false negative, FN) may result in severe illness and death. An incorrect diagnosis of tuberculosis drug resistance (false positive, FP) may result in stigma and prolonged and unnecessary treatment with less effective drugs that have more side effects. 
+What is the aim of this review? 
+How accurate is Xpert MTB/XDR for detecting pulmonary tuberculosis and resistance to tuberculosis drugs (i.e. isoniazid, fluoroquinolones, ethionamide, and amikacin) in adults? 
+What was studied in the review? 
+Xpert MTB/XDR is a rapid test for detecting tuberculosis and drug resistance in one test, suitable for laboratories that do not require advanced skills and infrastructure. We assessed Xpert MTB/XDR accuracy against three reference standards. 
+What are the main results of the review? 
+We identified two multicentre studies reporting on six separate cohorts (groups of study participants), 1228 participants for pulmonary tuberculosis detection and 1141 participants for drug resistance detection. 
+For pulmonary tuberculosis detection, we included two studies (one reporting on two separate cohorts). We did not determine an overall summary of Xpert MTB/XDR accuracy. 
+If Xpert MTB/XDR were to be used in 1000 people with suspected tuberculosis of whom 100 have tuberculosis: 
+‐ an estimated 98 to 99 people would have an Xpert MTB/XDR result indicating tuberculosis: of these 1 to 2 (1%) would not have tuberculosis (FP); and 203 to 900 people would have a result indicating the absence of tuberculosis: of these 0 to 697 (0% to 77%) would have tuberculosis (FN). 
+Drug resistance detection 
+Of 1000 people detected as tuberculosis positive by Xpert MTB/XDR:
+‐ where 50 have isoniazid resistance, an estimated 61 would have an Xpert MTB/XDR result indicating isoniazid resistance: of these, 14/61 (23%) would not have isoniazid resistance (FP); and 939 (of the 1000 people) would have an Xpert MTB/XDR result indicating the absence of isoniazid resistance: of these, 3/939 (0%) would have isoniazid resistance (FN); 
+‐ where 50 have isoniazid resistance, 61 (of 1000 people) would have an Xpert MTB/XDR result indicating isoniazid resistance: of these, 14/61 (23%) would not have isoniazid resistance (FP); and 939 (of 1000 people) would have a result indicating the absence of isoniazid resistance: of these, 3/939 (0%) would have isoniazid resistance (FN); 
+‐ where 50 have fluoroquinolone resistance, 66 would have an Xpert MTB/XDR result indicating fluoroquinolone resistance: of these, 19/66 (29%) would not have fluoroquinolone resistance (FP); and 934 would have a result indicating the absence of fluoroquinolone resistance: of these, 3/934 (0%) would have fluoroquinolone resistance (FN); 
+‐ where 300 have ethionamide resistance, 296 would have an Xpert MTB/XDR result indicating ethionamide resistance: of these, 2/296 (1%) would not have ethionamide resistance (FP); and 704 would have a result indicating the absence of ethionamide resistance: of these, 6/704 (1%) would have ethionamide resistance (FN); 
+‐ where 135 have amikacin resistance, 126 would have an Xpert MTB/XDR result indicating amikacin resistance: of these, 10/126 (8%) would not have amikacin resistance (FP); and 874 would have a result indicating the absence of amikacin resistance: of these, 19/874 (2%) would have amikacin resistance (FN). 
+How reliable are the results of the studies in this review? 
+For pulmonary tuberculosis detection, we did not consider the results reliable because around 90% of the participants had Xpert‐detected pulmonary tuberculosis to begin with due to the way people were chosen to participate in the studies. For drug resistance detection, we were confident in the results, except for results for ethionamide resistance detection, where the reference standards were not ideal. 
+Who do the results of this review apply to? 
+People with suspected pulmonary tuberculosis and tuberculosis drug resistance living in countries with a high burden of tuberculosis drug resistance. 
+How up‐to‐date is this review? 
+We searched for studies up to 23 September 2021. Searches were limited to 2015 onwards as Xpert MTB/XDR was launched in July 2020. 

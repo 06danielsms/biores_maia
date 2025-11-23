@@ -1,0 +1,14 @@
+Background
+Traumatic eye complaints account for 3% of all hospital emergency department visits. The most common traumatic injury to the eye is blunt trauma, which accounts for 30% of these visits. Blunt trauma frequently leads to traumatic iridocyclitis, thus causing anterior uveitis. Iridocyclitis frequently causes tearing, photophobia, eye pain, and vision loss. These symptoms are a result of the inflammatory processes and ciliary spasms to iris muscles and sphincter. The inflammatory process is usually managed with topical corticosteroids, while the ciliary spasm is blunted by dilating the pupils with topical mydriatic agents, an adjuvant therapy. However, the effectiveness of mydriatic agents has not been quantified in terms of reduction of ocular pain and visual acuity loss. 
+Objectives
+To evaluate the effectiveness and safety of topical mydriatics as adjunctive therapy to topical corticosteroids for traumatic iridocyclitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) which contains the Cochrane Eyes and Vision Trials Register (2019, issue 6); Ovid MEDLINE; Embase.com; Cumulative Index to Nursing and Allied Health Literature (CINAHL) Plus; PubMed; ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 12 June 2019. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) that compared topical mydriatic agents in conjunction with topical corticosteroid therapy versus topical corticosteroids alone, in participants with traumatic iridocyclitis. 
+Data collection and analysis
+Two review authors (JH, MK) independently screened titles and abstracts, then full‐text reports, against eligibility criteria. We planned to have two authors independently extract data from included studies. We resolved differences in opinion by discussion. 
+Main results
+There were no eligible RCTs that compared the interventions of interest in people with traumatic iridocyclitis. 
+Authors' conclusions
+We did not find any evidence from RCTs about the efficacy of topical mydriatic agents as an adjunctive therapy with topical corticosteroids for treating traumatic iridocyclitis. In the absence of these types of studies, we cannot draw any firm conclusions. Controlled trials that compare the combined use of topical mydriatic agents and corticosteroid drops against standard corticosteroid drops alone, in people with traumatic iridocyclitis are required. These may provide evidence about the efficacy and risk of topical mydriatic drops as adjuvant therapy for traumatic iridocyclitis. 

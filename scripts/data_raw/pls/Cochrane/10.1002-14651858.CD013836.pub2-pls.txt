@@ -1,0 +1,12 @@
+Antibiotic regimens for late‐onset neonatal sepsis
+Review question 
+We reviewed the available evidence on different antibiotic regimens for newborns (from 72 hours of life to one month of life) with late‐onset sepsis. 
+Background 
+Sepsis in newborns is a severe and potential lethal condition, caused by the body's response to an infection. Neonatal sepsis is the third leading cause of neonatal death globally. Despite this high burden of sepsis in newborns, high‐quality evidence in diagnosis and treatment is scarce. This Cochrane Review was originally published in 2005. To identify the most appropriate antibiotic policies for neonatal sepsis, there is a need to base these policies on an updated well‐conducted review. Therefore, there is a need for such a review assessing the effects of different antibiotic regimens for late‐onset neonatal sepsis. 
+Study characteristics 
+The evidence is current to March 2021. We included five trials randomising 580 participants. The five trials compared five different antibiotic regimens. 
+Key results 
+We included five trials: one trial compared cefazolin plus amikacin with vancomycin plus amikacin; one trial compared ticarcillin plus clavulanic acid with flucloxacillin plus gentamicin; one trial compared cloxacillin plus amikacin with cefotaxime plus gentamicin; one trial compared meropenem with standard care (ampicillin plus gentamicin or cefotaxime plus gentamicin); and one trial compared vancomycin plus gentamicin with vancomycin plus aztreonam. 
+None of the five antibiotic comparisons showed that the choice of antibiotics influenced the effects on death from all‐causes, serious adverse events (i.e. major complications), circulatory support, nephrotoxicity (toxicity in the kidneys), neurological developmental impairment (disabilities in the functioning of the brain that affect a child's behaviour, memory, or ability to learn), or necrotising enterocolitis (tissues in the gut become inflamed and start to die). Current evidence cannot confirm or reject, one antibiotic regimen being superior to another due to scarce data. 
+Quality of the evidence 
+Our conclusions are based on very low‐quality evidence. The five trials were at high risk of bias (i.e. the trials were conducted in a way that may have skewed results to the positive side). In addition, the five trials included few participants, making the results of this review imprecise. 

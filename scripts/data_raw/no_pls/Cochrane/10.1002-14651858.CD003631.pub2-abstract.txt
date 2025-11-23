@@ -1,0 +1,14 @@
+Background
+Acute pancreatitis is a relatively common acute abdominal emergency but there is no specific therapy for it. Traditional Chinese medicinal herbs have been used widely for many years in China to treat acute pancreatitis, and several controlled trials have been carried out to investigate their efficacy. 
+Objectives
+To assess the efficacy and safety of traditional Chinese medicinal herbs for acute pancreatitis. 
+Search methods
+The following electronic databases were searched, in September 2002: the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library Issue 3, 2002, MEDLINE, EMBASE, AHMED (Allied and Complementary Medicine Database) and SIGLE (System for Information on Grey Literature). Four Chinese journals and conference proceedings were handsearched. No language restriction was used. The searches were updated in October 2003, October 2004 and October 2005 but nothing new was found. The updated search in July 2008 found four new included studies. 
+Selection criteria
+All randomized controlled trials involving traditional Chinese medicinal herbs in the treatment of acute pancreatitis and published in any language, regardless of whether they were single‐blinded, double‐blinded, or not blinded. 
+Data collection and analysis
+Data were extracted independently by two reviewers. The methodological quality of trials was evaluated using the Jadad scale plus allocation concealment. 
+Main results
+Fifteen randomized clinical trials (including a total of 845 participants) were identified in which Chinese medicinal herbs or Chinese medicinal herbs plus routine treatment were compared with routine treatment. All of these trials were published in Chinese and all included inpatients. Only three of the articles described the method of randomisation. According to the analysis result, there appeared to be benefit from Chinese medicinal herbs over control for mortality rates, operative intervention, multiple organ failure and systemic infection. But for local septic complications, there was no difference between the treatment and control. But the trials were of low quality. 
+Authors' conclusions
+Some Chinese medicinal herbs may work in acute pancreatitis. However, because the trials were of low quality, the evidence is too weak to recommend any single herb. Rigorously designed, randomized, double‐blind, placebo‐controlled trials are required. 

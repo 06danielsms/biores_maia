@@ -1,0 +1,18 @@
+Background
+Cholera is a cause of acute watery diarrhoea which can cause dehydration and death if not adequately treated. It usually occurs in epidemics, and is associated with poverty and poor sanitation. Effective, cheap, and easy to administer vaccines could help prevent epidemics. 
+Objectives
+To assess the effectiveness and safety of oral cholera vaccines in preventing cases of cholera and deaths from cholera. 
+Search methods
+In October 2010, we searched the Cochrane Infectious Disease Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; the metaRegister of Controlled Trials (mRCT), and the WHO International Clinical Trials Registry Platform (ICTRP) for relevant published and ongoing trials. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials of oral cholera vaccines in healthy adults and children. 
+Data collection and analysis
+Each trial was assessed for eligibility and risk of bias by two authors working independently. Data was extracted by two independent reviewers and analysed using the Review Manager 5 software. Outcomes are reported as vaccine protective efficacy (VE) with 95% confidence intervals (CIs). 
+Main results
+Seven large efficacy trials, four small artificial challenge studies, and 29 safety trials contributed data to this review. 
+Five variations of a killed whole cell vaccine have been evaluated in large scale efficacy trials (four trials, 249,935 participants). The overall vaccine efficacy during the first year was 52% (95% CI 35% to 65%), and during the second year was 62% (95% CI 51% to 62%). Protective efficacy was lower in children aged less than 5 years; 38% (95% CI 20% to 53%) compared to older children and adults; 66% (95% CI 57% to 73%). 
+One trial of a killed whole cell vaccine amongst military recruits demonstrated 86% protective efficacy (95% CI 37% to 97%) in a small epidemic occurring within 4 weeks of the 2‐dose schedule (one trial, 1426 participants). Efficacy data is not available beyond two years for the currently available vaccine formulations, but based on data from older trials is unlikely to last beyond three years. 
+The safety data available on killed whole cell vaccines have not demonstrated any clinically significant increase in adverse events compared to placebo. 
+Only one live attenuated vaccine has reached Phase III clinical evaluation and was not effective (one trial, 67,508 participants). Two new candidate live attenuated vaccines have demonstrated clinical effectiveness in small artificial challenge studies, but are still in development. 
+Authors' conclusions
+The currently available oral killed whole cell vaccines can prevent 50 to 60% of cholera episodes during the first two years after the primary vaccination schedule. The impact and cost‐effectiveness of adopting oral cholera vaccines into the routine vaccination schedule of endemic countries will depend on the prevalence of cholera, the frequency of epidemics, and access to basic services providing rapid rehydration therapy. 

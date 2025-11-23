@@ -1,0 +1,16 @@
+Background
+Sexual health promotion is a major public health challenge; there is huge potential for health promotion via technology such as the Internet. 
+Objectives
+To determine effects of interactive computer‐based interventions (ICBI) for sexual health promotion, considering cognitive, behavioural, biological and economic outcomes. 
+Search methods
+We searched more than thirty databases for randomised controlled trials (RCTs) on ICBI and sexual health, including CENTRAL, DARE, MEDLINE, EMBASE, CINAHL, British Nursing Index, and PsycINFO. We also searched reference lists of published studies and contacted authors. All databases were searched from start date to November 2007, with no language restriction. 
+Selection criteria
+RCTs of interactive computer‐based interventions for sexual health promotion, involving participants of any age, gender, sexual orientation, ethnicity or nationality. 'Interactive' was defined as packages that require contributions from users to produce tailored material and feedback that is personally relevant. 
+Data collection and analysis
+Two review authors screened abstracts, applied eligibility and quality criteria and extracted data. Results of RCTs were pooled using a random‐effects model with standardised mean differences (SMDs) for continuous outcomes and odds ratios (ORs) for binary outcomes. We assessed heterogeneity using the I2 statistic. Separate meta‐analyses were conducted by type of comparator: 1) minimal intervention such as usual practice or leaflet, 2) face‐to‐face intervention or 3) a different design of ICBI; and by type of outcome (cognitive, behavioural, biological outcomes). 
+Main results
+We identified 15 RCTs of ICBI conducted in various settings and populations (3917 participants). Comparing ICBI to 'minimal interventions' such as usual practice, meta‐analyses showed statistically significant effects as follows: moderate effect on sexual health knowledge (SMD 0.72, 95% CI 0.27 to 1.18); small effect on safer sex self‐efficacy (SMD 0.17, 95% CI 0.05 to 0.29); small effect on safer‐sex intentions (SMD 0.16, 95% CI 0.02 to 0.30); and also an effect on sexual behaviour (OR 1.75, 95% CI 1.18 to 2.59). Data were insufficient for meta‐analysis of biological outcomes and analysis of cost‐effectiveness. 
+In comparison with face‐to‐face sexual health interventions, meta‐analysis was only possible for sexual health knowledge, showing that ICBI were more effective (SMD 0.36, 95% CI 0.13 to 0.58). Two further trials reported no difference in knowledge between ICBI and face‐to‐face intervention, but data were not available for pooling. There were insufficient data to analyse other types of outcome. 
+No studies measured potential harms (apart from reporting any deterioration in measured outcomes). 
+Authors' conclusions
+ICBI are effective tools for learning about sexual health, and they also show positive effects on self‐efficacy, intention and sexual behaviour. More research is needed to establish whether ICBI can impact on biological outcomes, to understand how interventions might work, and whether they are cost‐effective. 

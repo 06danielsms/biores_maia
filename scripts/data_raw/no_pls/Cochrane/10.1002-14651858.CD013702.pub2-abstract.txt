@@ -1,0 +1,14 @@
+Background
+Bypass surgery using a large saphenous vein graft, or another autologous venous graft, is a well‐recognised treatment option for managing peripheral arterial disease of the lower limb, including chronic limb‐threatening ischaemia (CLTI) and intermittent claudication, peripheral limb aneurysms, and major limb arterial trauma. Bypass surgery has good results in terms of limb preservation rates and long‐term graft patency but is limited by the possibility of vein graft failure due to stenoses of the graft. Detection of stenoses through clinical and ultrasonographic surveillance, followed by treatment, is used to avoid graft occlusion. The conventional approach to treatment of patients with graft stenosis following infrainguinal bypass consists of open surgical repair, which usually is performed under general anaesthesia. Endoluminal treatment with angioplasty is less invasive and uses local anaesthesia. Both methods aim to improve blood flow to the limb. 
+Objectives
+To assess the effectiveness of endoluminal interventions versus surgical intervention for people with vein graft stenosis following infrainguinal bypass. 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, the World Health Organization International Clinical Trials Registry Platform, and ClinicalTrials.gov to 25 August 2020. 
+Selection criteria
+We aimed to include all published and unpublished randomised controlled trials (RCTs) that compared endoluminal interventions versus surgical intervention for people with vein graft stenosis following infrainguinal bypass. 
+Data collection and analysis
+Two review authors independently assessed all identified studies for potential inclusion in the review. We aimed to use standard methodological procedures in accordance with the Cochrane Handbook for Systematic Reviews of Interventions. The main outcomes of interest were primary patency, primary assisted patency, and all‐cause mortality. 
+Main results
+We identified no RCTs that met the inclusion criteria for this review.
+Authors' conclusions
+We found no RCTs that compared endoluminal interventions versus surgical intervention for stenosis in vein grafts following infrainguinal bypass. Currently, there is no high‐certainty evidence to support the use of one type of intervention over another. High‐quality studies are needed to provide evidence on managing vein graft stenosis following infrainguinal bypass. 

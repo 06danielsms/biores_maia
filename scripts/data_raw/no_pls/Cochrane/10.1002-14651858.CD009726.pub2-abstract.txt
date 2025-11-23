@@ -1,0 +1,14 @@
+Background
+Methicillin‐resistant Staphylococcus aureus (MRSA) infection after surgery is usually rare, but incidence can be up to 33% in certain types of surgery. Postoperative MRSA infection can occur as surgical site infections (SSI), chest infections, or bloodstream infections (bacteraemia). The incidence of MRSA SSIs varies from 1% to 33% depending upon the type of surgery performed and the carrier status of the individuals concerned. The optimal antibiotic regimen for the treatment of MRSA in surgical wounds is not known. 
+Objectives
+To compare the benefits and harms of various antibiotic treatments in people with established surgical site infections (SSIs) caused by MRSA . 
+Search methods
+In February 2013 we searched the following databases: The Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL); Database of Abstracts of Reviews of Effects (DARE); NHS Economic Evaluation Database; Health Technology Assessment (HTA) Database; Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. 
+Selection criteria
+We included only randomised controlled trials (RCTs) comparing one antibiotic regimen with another antibiotic regimen for the treatment of SSIs due to MRSA. All RCTs irrespective of language, publication status, publication year, or sample size were included in the analysis. 
+Data collection and analysis
+Two review authors independently decided on inclusion and exclusion of trials, and extracted data. We planned to calculate the risk ratio (RR) with 95% confidence intervals (CI) for comparing the binary outcomes between the groups and mean difference (MD) with 95% CI for comparing the continuous outcomes. We planned to perform the meta‐analysis using both a fixed‐effect and a random‐effects model. We performed intention‐to‐treat analysis whenever possible. 
+Main results
+We included one trial involving 59 people hospitalised because of MRSA SSIs. Thirty participants were randomised to linezolid (600 mg either intravenously or orally every 12 hours for seven to 14 days) and 29 to vancomycin (1 g intravenously every 12 hours for seven to 14 days). The type of surgical procedures that were performed were not reported. The trial reported one outcome, which was the eradication of MRSA. The proportion of people in whom MRSA was eradicated was statistically significantly higher in the linezolid group than in the vancomycin group (RR 1.80; 95% CI 1.20 to 2.68). 
+Authors' conclusions
+There is currently no evidence to recommend any specific antibiotic in the treatment of MRSA SSIs. Linezolid is superior to vancomycin in the eradication of MRSA SSIs on the basis of evidence from one small trial that was at high risk of bias, but the overall clinical implications of using linezolid instead of vancomycin are not known. Further well‐designed randomised clinical trials are necessary in this area. 

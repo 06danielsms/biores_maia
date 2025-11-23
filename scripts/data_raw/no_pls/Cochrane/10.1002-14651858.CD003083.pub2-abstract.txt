@@ -1,0 +1,14 @@
+Background
+Benperidol is a relatively old antipsychotic drug that has been marketed since 1966. It has been used in Germany for 30 years but is also available in Belgium, Greece, Italy, the Netherlands and the UK. Benperidol is a butyrophenone antipsychotic, with the highest neuroleptic potency in terms of D2 receptor blockade. Those taking it are therefore reputed to be at high risk of extrapyramidal side‐effects, but benperidol's unusual profile may render it valuable to certain subgroups of people with schizophrenia. 
+Objectives
+To examine the clinical effects and safety of benperidol for those with schizophrenia and schizophrenia‐like psychoses. 
+Search methods
+We searched the Cochrane Schizophrenia Group's register (March 2009) for this update.
+Selection criteria
+We included all randomised controlled trials that compared benperidol with other treatments for people with schizophrenia, or schizophrenia‐like psychoses. 
+Data collection and analysis
+We reliably selected studies, quality rated them and extracted data. We independently extracted data but excluded data if loss to follow up was greater than 50%. For dichotomous data, we estimated relative risks (RR), with the 95% confidence intervals (CI). Where possible, we calculated the number needed to treat/harm statistic (NNT/H) and used intention‐to‐treat analysis. 
+Main results
+The update yielded no further studies for inclusion in the review. We identified only one unpublished poorly randomised controlled trial (N=40, duration 30 days, comparison perphenazine). Although benperidol was inferior to perphenazine (1 RCT, N=40, global state no better or worse RR 8.0 CI 2.1 to 30, NNH 1.4 CI 1 to 2) poor reporting suggests that an overestimate of effect is likely. It was not possible to report other outcomes. 
+Authors' conclusions
+Currently, there are insufficient data from randomised trials to assess the clinical effects of benperidol. This compound merits further research interest. 

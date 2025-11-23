@@ -1,0 +1,14 @@
+Background
+Spinal cord injury (SCI) results in loss of feeling and movement. The consequences can be devastating for the patient and his or her carers. Global estimates of the number of new cases annually range from 15 to 40 per million. Leading causes of acute SCI are road traffic injury, violence, and injuries sustained in sports and other recreational activities. Care for people with SCI has improved, leading to an increase in survival rates. Attempts to improve patients' feeling and movement have involved the use of a wide range of treatments. Gangliosides are compounds that occur naturally in cell membranes. Laboratory studies have suggested they may have protective effects on nerves and even help them to re‐grow. Clinical trials have taken place using gangliosides (usually GM1 ganglioside) for a number of neurological conditions. 
+Objectives
+To quantify the evidence for the effectiveness and safety of gangliosides when used to treat acute SCI. 
+Search methods
+We searched the following databases to identify trials for inclusion: Cochrane Injuries Group's Specialised Register (searched 4 June 2008), CENTRAL (The Cochrane Library issue 2, 2008), MEDLINE to May (week 3) 2008, PUBMED (searched on 5 June 2008 (Limit: added to database in last 90 days), EMBASE to June 2008, Current Controlled Trials metaRegister (searched 5 June 2008), Web of Knowledge; Science Citation Index (searched 5 June 2008). We also searched web‐based sources using the search engine Google.com. We approached the manufacturers of the most widely used ganglioside and researchers in this field to try to locate any unpublished data. 
+Selection criteria
+Randomised controlled trials of any ganglioside versus controls, in patients with SCI. Outcome measures specified were: mortality, recovery of motor function, improvement in sensory measures, measures of functional activity, infections and any other adverse events. 
+Data collection and analysis
+Data were extracted from published studies and authors were contacted for further information. All data found was dichotomous and odds ratios (with 95% CIs) were calculated. A fixed‐effects model was assumed. 
+Main results
+Two studies met the inclusion criteria. There were no deaths in one (n=37). In the other (n=760), there were slightly more deaths in the treatment group than in the control group; odds ratio 1.07 (0.57, 2.00 95%CI) ‐ a result that can be explained by the play of chance. Methodological weaknesses regarding the collection and presentation of data from the two studies made it impossible to reach any conclusions regarding the effect of gangliosides on the other specified outcomes. 
+Authors' conclusions
+The evidence available does not support the use of ganglioside treatment to reduce the death rate in SCI patients. No evidence has yet emerged that ganglioside treatment improves recovery or quality of life in survivors. 

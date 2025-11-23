@@ -1,0 +1,14 @@
+Background
+Intravenous albumin infusion is used to treat hypoalbuminaemia in critically ill infants. Hypoalbuminaemia occurs in a number of clinical situations including prematurity, respiratory distress syndrome (RDS), chronic lung disease (CLD), necrotising enterocolitis (NEC), intracranial haemorrhage, hydrops fetalis and oedema. Fluid overload is a potential side effect of albumin administration. Albumin is a blood product and therefore carries the potential risk of infection and adverse reactions. Albumin is also a scarce and expensive resource. 
+Objectives
+To assess the effect of albumin infusions on morbidity, mortality, and other significant side effects in preterm neonates with low serum albumin. 
+Search methods
+Searches were made of MEDLINE from 1966 to July 2009, CINAHL from 1982 to July 2009 and the current Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2009). Previous reviews (including cross references) and abstracts were also searched. 
+Selection criteria
+All randomised and quasi randomised controlled trials in which individual patients were allocated to albumin infusion versus control were included. Cross‐over studies were excluded. Participants were preterm infants who had hypoalbuminaemia. Types of interventions included albumin infusion versus placebo (e.g. crystalloid) or no treatment. 
+Data collection and analysis
+The reviewers worked independently to search for trials for inclusion and to assess methodological quality. Studies were assessed using the following key criteria: blinding of randomisation, blinding of intervention, completeness of follow‐up and blinding of outcome measurement. 
+Main results
+Only two small studies were found for inclusion in this review and only one reported clinically relevant outcomes. This study found no significant differences for the primary outcome measure of death (relative risk 1.5, 95% confidence interval 0.3 ‐ 7.43) or secondary outcome measures of intraventricular haemorrhage, patent ductus arteriosus, necrotising enterocolitis, bronchopulmonary dysplasia, duration of mechanical ventilation and duration of oxygen therapy. 
+Authors' conclusions
+There is a lack of evidence from randomised trials to determine whether the routine use of albumin infusion in preterm neonates with low serum albumin reduces mortality or morbidity and no evidence to assess whether albumin infusion is associated with significant side effects. There is a need for good quality, double‐blind randomised controlled trials to assess the safety and efficacy of albumin infusions in preterm neonates with low serum albumin. 

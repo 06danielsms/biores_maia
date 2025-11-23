@@ -1,0 +1,17 @@
+Supplementary feeding for children aged three months to five years: does it work to improve their health and well‐being? 
+Background 
+Undernutrition is a cause of child mortality; it contributed to the deaths of more than three million children in 2011. Furthermore, it can lead to higher risk of infection, poorer child development and school performance, and to chronic disease in adulthood. Evidence about the effectiveness of nutrition interventions for young children, therefore, is fundamentally important; not only for governments, funding agencies and nongovernmental organisations, but also for the children themselves. 
+Review question 
+How effective are supplementary food programmes for improving the health of disadvantaged children? What factors contribute to the effectiveness of such programmes? 
+Methods 
+We included studies that compared children who were given supplementary feeding (food, drink) to those who did not receive any feeding. 
+We followed careful systematic review methodology, including the use of broad searches. At least two people were involved in every stage of the review. Where possible, we performed analyses to combine results of several studies and get an average effect. We looked carefully for factors that may have impacted on the results (child age, sex and disadvantage, family sharing food, amount of energy given, etc.). 
+The evidence is current to January 2014.
+Study characteristics 
+We included 32 studies; 21 randomised controlled trials (in which children were randomly assigned to receive either supplementary feeding (intervention group) or not (a control group), and 11 controlled before‐and‐after studies (in which outcomes were observed before and after treatment in a group of children who were not randomly assigned to an intervention and a control group). The number of children in them ranged from 30 to 3166. Most studies were from low‐ and middle‐income countries; three were from high‐income countries. 
+Key findings 
+We found that, in low‐ and middle‐income countries, providing additional food to children aged three months to five years led to small gains in weight (0.24 kg a year in both RCTs and CBAs) and height (0.54 cm a year in RCTs only; no evidence of an effect in other study designs),and moderate increases in haemoglobin. We also found positive impacts on psychomotor development (skills that involve mental and muscular activity). We found mixed evidence on effects of supplementary feeding on mental development. 
+In high‐income countries, two studies found no benefits for growth. The one effective study involved Aboriginal children. 
+We found that food was often redistributed ('leakage') within the family; when feeding was home‐delivered, children benefited from only 36% of the energy given in the supplement. However, when the supplementary food was given in day care centres or feeding centres, there was much less leakage; children took in 85% of the energy provided in the supplement. When we looked at different groups supplementary food was more effective for younger children (under two years old) and for those who were poorer or less well‐nourished. Results for sex were mixed. Feeding programmes that were well‐supervised and those that provided a greater proportion of required daily food for energy were generally more effective. 
+Quality of the evidence 
+We judged evidence from the RCTs to be of moderate quality and evidence from the CBAs to be of low quality. 

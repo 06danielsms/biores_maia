@@ -1,0 +1,75 @@
+Streptococcus pneumoniae is a bacteria that can cause serious diseases, including infections 
+of the lung (pneumonia), brain lining (meningitis), blood (bacteremia), or ear (otitis).  
+These infections may be very serious in young children and older adults. Streptococcus 
+pneumoniae is also known as S. pneumoniae. There are 100 types of S. pneumoniae.
+This study is about a vaccine called the “20-valent pneumococcal conjugate vaccine”, 
+or 20vPnC. A vaccine is used to help prevent infection by helping the body to fight 
+off germs. 20vPnC may help to prevent infections caused by S. pneumoniae. It is called 
+"20-valent" because 20vPnC is intended to prevent 20 of the most common types of 
+S. pneumoniae.
+20vPnC is an investigational vaccine, which means that it has not been approved for 
+general use and it is not yet known if it will protect against disease caused by 
+S. pneumoniae, although studies are ongoing to assess how well 20vPnC works.
+After a vaccine is injected into a person’s body, the body responds to help fight 
+infections and prevent diseases. The response to vaccines includes making 
+“antibodies”, which are proteins that fight infections and help to prevent diseases.  
+In the United States, 2 vaccines are currently approved for preventing S. pneumoniae 
+diseases. Pneumovax 23 vaccine, or PPSV23, is an older vaccine made up of 
+components to prevent diseases caused by 23 types of S. pneumoniae. It has some 
+limitations. The “13-valent pneumococcal conjugate vaccine”, or 13vPnC, is made up 
+of similar, but more active, components to prevent diseases caused by 13 types of 
+S. pneumoniae. 20vPnC has the same components found in 13vPnC, plus 7 additional 
+active components that may widen protection.
+It is currently recommended that upon consultation with their health practitioner, 
+adults 65 years and above in the United States receive 1 dose of 13vPnC, followed by 
+1 dose of PPSV23 1 year later.
+090177e195a822cb\Approved\Approved On: 02-Dec-2020 05:53 (GMT)
+The purpose of this study was to learn about the safety and about the antibody 
+response to 20vPnC.  
+To learn about the antibody response, researchers asked this question:
+- One month after receiving 20vPnC, did participants aged 65 or older who had 
+previously received 13vPnC and/or PPSV23 have antibody responses against 
+the 20 types of S. pneumoniae contained in the vaccine?
+To learn about the safety of 20vPnC in adults aged 65 or older who previously 
+received 13vPnC and/or PPSV23, researchers asked these questions:
+- What percentage of participants had significant medical problems within 
+1 month after being vaccinated?
+- What percentage of participants had redness, swelling, or pain at the injection 
+site within 10 days after being vaccinated?
+- What percentage of participants had fever, headache, tiredness, muscle pain, or 
+joint pain within 7 days after being vaccinated?
+- What percentage of participants had newly diagnosed chronic medical 
+problems or serious medical problems within 6 months after being vaccinated?
+This study was done to learn about the safety and the antibody response to 20vPnC in participants 65 years old and older. The vaccines used in this study included 20vPnC, 13vPnC, and PPSV23. This study included adult men and women who: 
+
+- Were at least 65 years old 
+- Were considered to be healthy or with stable chronic disease by the study doctors 
+- Did not have a disease or take medicine that would be associated with a weakened immune system 
+- Never had a disease caused by S.pneumoniae 
+- Never had a severe medical problem caused by a vaccine or an allergic reaction to any of the components in the vaccines used in this study 
+- Had previously been vaccinated with 13vPnC and/or PPSV23 
+
+Participants were placed into 3 categories based on which vaccines they had previously received: 
+
+- Category 1: Received PPSV23 between 1 and 5 years before the study started, but had never received 13vPnC (375 participants) 
+- Category 2: Received 13vPnC at least 6 months before the study started, but had never received PPSV23 (375 participants) 
+- Category 3: Received 13vPnC followed by PPSV23 1 year later, and the PPSV23 dose had been received at least 1 year before the study started (125 participants) 
+
+Next, participants in Category 1 and Category 2 were assigned by chance alone to receive the following study vaccines: 
+
+- Category 1: 1 dose of either 20vPnC (253 participants) or 13vPnC (122 participants) 
+- Category 2: 1 dose of either 20vPnC (248 participants) or PPSV23 (127 participants) 
+
+A control group is a group of participants who do not receive the vaccine being studied. In this study, 13vPnC and PPSV23 were used as the controls to look at safety of 20vPnC because they are commonly used in this age group. This was a “randomized” study, which means that participants were assigned to groups based on chance alone. Randomization is done to make the groups similar so that differences in antibody response or safety are most likely due to the different vaccines participants received. 
+
+The participants who had been vaccinated with both 13vPnC and PPSV23 in the past (Category 3, 125 participants) received 20vPnC only. This study was also “open-label”. This means that participants and study staff members who administered the vaccine knew who was given which vaccine. 
+
+However, the researchers who did the antibody testing did not know this information until after the antibody testing was completed. Participants were expected to participate in 3 study visits. At the first visit, participants were checked (screened) to make sure they were a good fit for the study, blood samples were collected, and then participants received study vaccine. The second visit was done about 1 month after the first visit. Participants were checked for medical problems and blood samples were collected. In the participants who received 20vPnC, the researchers measured the amount of antibodies in the blood. 
+
+The third visit (follow-up) was done over the phone about 6 months after the first visit. The participants were asked about medical problems and whether they had received any other vaccines besides the study vaccines. 
+
+The figure below shows what happened during the study. While participants were in this study for about 6 months, the entire study took 1 year to complete as participants entered the study at different times. The Sponsor ran this study at 33 locations in the United States and 8 locations in Sweden. It began 12 February 2019 and ended 12 February 2020. 398 men (46%) and 475 women (54%) received the study vaccines. All participants were between the ages of 65 and 92 years. 
+
+Of the 875 participants who joined the study, 865 (99%) completed it. A total of 10 participants (1%) left the study early. The most common reasons for leaving early were the participant's choice or because a doctor decided it was best for them to leave the study. 
+
+Throughout the course of the study, the Sponsor reviewed the data. When the study ended in February 2020 and after antibody testing was completed on the participants who received 20vPnC, the Sponsor then created a report of the results. This is a summary of that report.

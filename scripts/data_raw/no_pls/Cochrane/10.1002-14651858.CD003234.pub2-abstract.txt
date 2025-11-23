@@ -1,0 +1,14 @@
+Background
+When the kidney fails the blood‐borne metabolites of protein breakdown and water cannot be excreted. The principle of haemodialysis is that such substances can be removed when blood is passed over a semipermeable membrane. Natural membrane materials include cellulose or modified cellulose, more recently various synthetic membranes have been developed. Synthetic membranes are regarded as being more "biocompatible" in that they incite less of an immune response than cellulose‐based membranes. 
+Objectives
+To assess the effects of different haemodialysis membrane material in patients with end‐stage renal disease (ESRD). 
+Search methods
+We searched MEDLINE, EMBASE, PreMEDLINE, HealthStar CINAHL, the Cochrane Central Register of Controlled Trials (CENTRAL), Biosis, SIGLE, CRIB, UK National Research Register and reference lists of relevant articles. We contacted biomedical companies, known investigators and handsearched selected journals and conference proceedings.  Date of most recent search: June 2004. 
+Selection criteria
+All randomised controlled trials (RCTs) or quasi‐RCTs comparing different haemodialysis membrane material in patients with ESRD. 
+Data collection and analysis
+Two reviewers independently assessed the methodological quality of studies. Data was abstracted onto a standard form by one reviewer and checked by another. Risk ratio (RR) and mean difference (MD) with 95% confidence intervals (CI)) 
+Main results
+Thirty two studies were identified. Pre‐dialysis ß2 microglobulin concentrations were not significantly lower in patients treated with synthetic membranes (MD ‐14.67, 95% CI ‐33.10 to 4.05). When analysed for change in ß2 microglobulin, a fall was only noted with high‐flux membranes. The incidence of amyloid was less in patients who were dialysed for six years with high‐flux synthetic membranes (one study, RR 0.03, 95% CI 0.00 to 0.54). There was a significant difference in favour of the synthetic (high‐flux) membrane in comparison to cellulose membranes for triglycerides (MD ‐0.66; 95% CI ‐1.18 to ‐0.14) but not for modified cellulose membranes. Dialysis adequacy measured by Kt/V was marginally higher when cellulose membranes were used (MD ‐0.10; 95% CI ‐0.16 to 0.04), whereas synthetic membranes achieved significantly higher Kt/V values when compared with modified cellulose membranes (MD 0.20, 95% 0.11 to 0.29) . There were no data on quality of life measures. 
+Authors' conclusions
+We found no evidence of benefit when synthetic membranes were compared with cellulose/modified cellulose membranes in terms of reduced mortality no reduction in dialysis‐related adverse symptoms. Despite the relatively large number of RCTs undertaken in this area none of the included studies reported any measures of quality of life. 

@@ -1,0 +1,14 @@
+Background
+Febrile seizures can be classified as simple or complex. Complex febrile seizures are associated with fever that lasts longer than 15 minutes, occur more than once within 24 hours, and are confined to one side of the child's body. It is common in some countries for doctors to recommend an electroencephalograph (EEG) for children with complex febrile seizures. A limited evidence base is available to support the use of EEG and its timing after complex febrile seizures among children. 
+Objectives
+To assess the use of EEG and its timing after complex febrile seizures in children younger than five years of age. 
+Search methods
+For the latest update of this review, we searched the following databases on 12 March 2019: Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE (Ovid, 1946 to 11 March 2019); and ClinicalTrials.gov. We applied no language restrictions. 
+Selection criteria
+All randomised controlled trials (RCTs) that examined the utility of an EEG and its timing after complex febrile seizures in children. 
+Data collection and analysis
+The review authors selected and retrieved the articles and independently assessed which articles should be included. Any disagreements were resolved by discussion and by consultation with the Cochrane Epilepsy Group. We applied standard methodological procedures expected by Cochrane. 
+Main results
+Of 48 potentially eligible studies, no RCTs met the inclusion criteria.
+Authors' conclusions
+We found no RCTs as evidence to support or refute the use of EEG and its timing after complex febrile seizures among children under the age of five. An RCT can be planned in such a way that participants are randomly assigned to the EEG group and to the non‐EEG group with sufficient sample size. Since the last version of this review, we have found no new studies. 

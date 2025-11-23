@@ -1,0 +1,19 @@
+Background
+Post‐dural (post‐lumbar or post‐spinal) puncture headache (PDPH) is one of the most common complications of diagnostic, therapeutic or inadvertent lumbar punctures. Many drug options have been used to prevent headache in clinical practice and have also been tested in some clinical studies, but there are still some uncertainties about their clinical effectiveness. 
+Objectives
+To assess the effectiveness and safety of drugs for preventing PDPH in adults and children. 
+Search methods
+The search strategy included the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2012, Issue 5), MEDLINE (from 1950 to May 2012), EMBASE (from 1980 to May 2012) and CINAHL (from 1982 to June 2012). There was no language restriction. 
+Selection criteria
+We considered randomised controlled trials (RCTs) that assessed the effectiveness of any drug used for preventing PDPH. 
+Data collection and analysis
+Review authors independently selected studies, assessed risks of bias and extracted data. We estimated risk ratios (RR) for dichotomous data and mean differences (MD) for continuous outcomes. We calculated a 95% confidence interval (CI) for each RR and MD. We did not undertake meta‐analysis because participants' characteristics or assessed doses of drugs were too different in the included studies. We performed an intention‐to‐treat (ITT) analysis. 
+Main results
+We included 10 RCTs (1611 participants) in this review with a majority of women (72%), mostly parturients (women in labour) (913), after a lumbar puncture for regional anaesthesia. Drugs assessed were epidural and spinal morphine, spinal fentanyl, oral caffeine, rectal indomethacin, intravenous cosyntropin, intravenous aminophylline and intravenous dexamethasone. 
+All the included RCTs reported data on the primary outcome, i.e. the number of participants affected by PDPH of any severity after a lumbar puncture. Epidural morphine and intravenous cosyntropin reduced the number of participants affected by PDPH of any severity after a lumbar puncture when compared to placebo. Also, intravenous aminophylline reduced the number of participants affected by PDPH of any severity after a lumbar puncture when compared to no intervention, while intravenous dexamethasone increased it. Spinal morphine increased the number of participants affected by pruritus when compared to placebo, and epidural morphine increased the number of participants affected by nausea and vomiting when compared to placebo. Oral caffeine increased the number of participants affected by insomnia when compared to placebo. 
+The remainder of the interventions analysed did not show any relevant effect for any of the outcomes. 
+None of the included RCTs reported the number of days that patients stayed in hospital.
+Authors' conclusions
+Morphine and cosyntropin have shown effectiveness for reducing the number of participants affected by PDPH of any severity after a lumbar puncture, when compared to placebo, especially in patients with high risk of PDPH, such as obstetric patients who have had an inadvertent dural puncture. Aminophylline also reduced the number of participants affected by PDPH of any severity after a lumbar puncture when compared to no intervention in patients undergoing elective caesarean section. Dexamethasone increased the risk of PDPH, after spinal anaesthesia for caesarean section, when compared to placebo. Morphine also increased the number of participants affected by adverse events (pruritus and nausea and vomiting) 
+There is a lack of conclusive evidence for the other drugs assessed (fentanyl, caffeine, indomethacin and dexamethasone). 
+These conclusions should be interpreted with caution, owing to the lack of information, to allow correct appraisal of risk of bias and the small sample sizes of studies. 

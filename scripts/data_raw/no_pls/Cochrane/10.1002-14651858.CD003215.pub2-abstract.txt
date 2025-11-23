@@ -1,0 +1,14 @@
+Background
+Metabolic acidosis in the early newborn period is associated with adverse outcomes in preterm infants. The most commonly used strategies to correct metabolic acidosis are intravascular infusion of base, for example sodium bicarbonate, and intravascular infusion of a fluid bolus, usually a crystalloid or colloid solution. 
+Objectives
+To determine the effect of either infusion of base or of a fluid bolus on mortality and adverse neurodevelopmental outcomes in preterm infants with metabolic acidosis. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2005), MEDLINE (1966 to January 2005), EMBASE (1980 to January 2005), CINAHL (1982 to January 2005).  The search was updated in 2010. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that evaluated the following treatments for preterm infants with metabolic acidosis:  1. Infusion of base versus no treatment;  2. Infusion of fluid bolus versus no treatment;  3. Infusion of base versus fluid bolus. 
+Data collection and analysis
+We extracted the data using the standard methods of the Cochrane Neonatal Review Group with separate evaluation of trial quality and data extraction by two review authors, and synthesis of data using relative risk and risk difference. 
+Main results
+We found two small randomised controlled trails that fulfilled the eligibility criteria (Corbet 1977; Dixon 1999) and one unpublished pilot trial (Lawn 2005). Corbet 1977 compared treating infants with sodium bicarbonate infusion (N = 30) versus no treatment (N = 32) and did not find evidence of an effect on mortality [relative risk (RR) 1.39 (95% confidence interval 0.72 to 2.67)] or in the incidence of intra/periventricular haemorrhage [RR 1.24 (95% confidence interval 0.47 to 3.28)]. Addition of the unpublished data of Lawn 2005 does not change the overall estimate of effect on mortality [typical RR 1.45 (95%CI 0.82 to 2.56)]. Dixon 1999 compared treatment with sodium bicarbonate (N = 16) versus fluid bolus (N = 20). The primary outcome assessed was arterial blood pH/base excess two hours after the intervention. Other clinical outcomes were not reported. Neither trial assessed longer term neurodevelopmental outcomes. 
+Authors' conclusions
+There is insufficient evidence from randomised controlled trials to determine whether infusion of base or fluid bolus reduces morbidity and mortality in preterm infants with metabolic acidosis. Further large randomised trials are needed. 

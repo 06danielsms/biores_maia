@@ -1,0 +1,14 @@
+Background
+Osteoarthritis affecting of the big toe joint of the foot (hallux limitus or rigidus) is a common and painful condition. Although several treatments have been proposed, few have been adequately evaluated. 
+Objectives
+To identify controlled trials evaluating interventions for osteoarthritis of the big toe joint and to determine the optimum intervention(s). 
+Search methods
+Literature searches were conducted across the following electronic databases: CENTRAL; MEDLINE; EMBASE; CINAHL; and PEDro (to 14th January 2010). No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised trials, or controlled clinical trials that assessed treatment outcomes for osteoarthritis of the big toe joint. Participants of any age or gender with osteoarthritis of the big toe joint (defined either radiographically or clinically) were included. 
+Data collection and analysis
+Two authors examined the list of titles and abstracts identified by the literature searches. One content area expert and one methodologist independently applied the pre‐determined inclusion and exclusion criteria to the full text of identified trials. To minimise error and reduce potential bias, data were extracted independently by two content experts. 
+Main results
+Only one trial satisfactorily fulfilled the inclusion criteria and was included in this review. This trial evaluated the effectiveness of two physical therapy programs in 20 individuals with osteoarthritis of the big toe joint. Assessment outcomes included pain levels, big toe joint range of motion and plantar flexion strength of the hallux. Mean differences at four weeks follow up were 3.80 points (95% CI 2.74 to 4.86) for self reported pain, 28.30 ° (95% CI 21.37 to 35.23) for big toe joint range of motion, and 2.80 kg (95% CI 2.13 to 3.47) for muscle strength. Although differences in outcomes between treatment and control groups were reported, the risk of bias was high. The trial failed to employ appropriate randomisation or adequate allocation concealment, used a relatively small sample and incorporated a short follow up (four weeks). No adverse reactions were reported. 
+Authors' conclusions
+The reviewed trial presented a high risk of bias, which limited conclusions that could be drawn from the presented data. The inclusion of only one trial indicates the need for more robust randomised controlled trials to determine the efficacy of interventions for this condition. 

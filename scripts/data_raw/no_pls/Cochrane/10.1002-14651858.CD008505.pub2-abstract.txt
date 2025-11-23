@@ -1,0 +1,15 @@
+Background
+Guillain‐Barré syndrome is a significant cause of new long‐term disability, which is thought to be amenable to multidisciplinary care, but the evidence base for its effectiveness is unclear. 
+Objectives
+To assess the effectiveness of multidisciplinary care in adults with Guillain‐Barré syndrome, especially the types of approaches that are effective (settings, intensity) and the outcomes that are affected. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (20 May 2010), The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2010, Issue 2), MEDLINE (1966 to May 2010), EMBASE (1980 to May 2010), CINAHL (1982 to May 2010), AMED (1985 to May 2010), PEDro (1982 to May 2010) and LILACS (1982 to May 2010). We checked the bibliographies of papers identified and contacted their authors and known experts in the field seeking published and unpublished trials. 
+Selection criteria
+Randomised and controlled clinical trials that compared multidisciplinary care in Guillain‐Barré syndrome with either routinely available local services or lower levels of intervention, or studies that compared multidisciplinary care in different settings or at different levels of intensity. 
+Studies of ‘other designs’ (such as observational studies) were included only in the Discussion since such studies could only be of limited contribution to the best evidence synthesis. 
+Data collection and analysis
+We performed a 'best evidence' synthesis based on methodological quality.
+Main results
+No randomised controlled trials or controlled clinical trials were identified. We summarised the results of three observational studies in the Discussion section of this review. 
+Authors' conclusions
+In the absence of randomised controlled trials or controlled clinical trials, the 'best' evidence to date comes from three 'very low quality' observational studies. These provide some support for improved disability in the short term (less than 6 months) with high intensity inpatient multidisciplinary rehabilitation; and for improved quality of life, as measured by a reduction in handicap (participation). These conclusions are tentative and the gap in current research should not be interpreted as proof that multidisciplinary care is ineffective. Further research is needed into appropriate study designs; outcome measurement; caregiver needs; and the evaluation of optimal settings, type, intensity or frequency and cost‐effectiveness of multidisciplinary care in the Guillain‐Barré syndrome population. 

@@ -1,0 +1,14 @@
+Background
+Depression is common, disabling, costly and under‐treated. There are problems in the current first‐line drug treatment, antidepressants, for moderate or severe depression. There is a body of research that has evaluated the effect of psychostimulants (PS) in the treatment of depression. This has not been reviewed systematically. 
+Objectives
+To determine the effectiveness of PS in the treatment of depression and to assess adverse events associated with PS. 
+Search methods
+Databases CCDANCTR‐Studies and CCDANCTR‐References were searched on 21/6/2006. Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, PsycInfo, AMED, CINAHL, Dissertation Abstracts and the National Health Service Research Register were searched. 
+Selection criteria
+Randomised controlled trials (RCTs) assessing the effectiveness of PS were included. The trial population comprised adults of either sex with a diagnosis of depression. 
+Data collection and analysis
+Two review authors extracted the data independently and assessed trial quality. Meta‐analysis was considered for trials with comparable key characteristics. The primary outcome was depression symptoms, based on a continuous outcome, using the standardised mean difference (SMD), or a dichotomous measure of clinical response, using odds ratios (OR), with 95% confidence intervals (CI). 
+Main results
+Twenty‐four RCTs were identified. The overall quality of the trials was low. Five drugs were evaluated; dexamphetamine, methylphenidate, methylamphetamine, pemoline and modafinil. Modafinil was evaluated separately as its pharmacology is different to that of the other PS. PS were administered as a monotherapy, adjunct therapy, in oral or intravenous preparation and in comparison with a placebo or an active therapy. Most effects were measured in the short term (up to four weeks). Thirteen trials had some usable data for meta‐analyses. Three trials (62 participants) demonstrated that oral PS, as a monotherapy, significantly reduced short term depressive symptoms in comparison with placebo (SMD ‐0.87, 95% CI ‐1.40, ‐0.33, with non‐significant heterogeneity. A similar effect was found for fatigue. In the short term PS were acceptable and well tolerated. Tolerance and dependence were under evaluated. No statistically significant difference in depression symptoms was found between modafinil and placebo. 
+Authors' conclusions
+There is some evidence that in the short‐term, PS reduce symptoms of depression. Whilst this reduction is statistically significant, the clinical significance is less clear. Larger high quality trials with longer follow‐up and evaluation of tolerance and dependence are needed to test the robustness of these findings and, furthermore, to explore which PS may be more beneficial and in which clinical situations they are optimal. 

@@ -1,0 +1,24 @@
+Long‐term blood transfusions to prevent a stroke in people with sickle cell disease
+Review question 
+We wanted to determine if long‐term blood transfusions given to people with sickle cell disease who are at a higher risk of stroke (primary prevention) or have had a previous stroke (secondary prevention) decreases their risk of a subsequent stroke without causing severe side effects. We compared long‐term blood transfusions to standard treatment or other ways of preventing a stroke. This is an update of a previously published Cochrane Review. 
+Interventions for silent stroke are addressed in a separate Cochrane Review.
+Background 
+Sickle cell disease is a serious inherited blood disorder where the red blood cells, which carry oxygen around the body, develop abnormally. 
+Normal red blood cells are flexible and disc‐shaped, but in sickle cell disease they can become rigid, crescent shaped and also stickier. This can lead to blockage of blood vessels, resulting in tissue and organ damage and episodes of severe pain. The abnormal blood cells are more fragile and break apart, which leads to a decreased number of red blood cells, known as anaemia. 
+Sickled red blood cells can block flow in blood vessels in the brain, leading to strokes.
+Strokes occur in up to 10% of children with sickle cell anaemia (HbSS) and can cause limb weakness, slurred speech, seizures, and cognitive impairment. 
+Two tests have been used in trials to identify children at higher risk of having a first stroke. One (transcranial Doppler ultrasonography) measures the speed of blood flowing through arteries in the brain, and those children with high blood flow are at increased risk of a stroke. The other (magnetic resonance imaging) takes images of the brain to see if there are any small areas of damage (silent strokes), those children with evidence of damage are at increased risk of stroke. 
+Blood transfusions may help prevent a stroke by reducing the level of anaemia, diluting the sickled red blood cells, and increasing the level of oxygen in the blood. 
+Blood transfusions can be linked to adverse events, e.g. the development of antibodies to proteins on donor red blood cells (alloimmunisation), accumulation of too much iron in the body from repeated transfusions, increased risk of infection, and extended length of stay in hospital. 
+Search date 
+The evidence is current to: 8 October 2019.
+Study characteristics 
+We found five randomised controlled trials which enrolled a total of 660 participants. Three trials compared blood transfusions to no blood transfusions and two trials compared blood transfusion to the drug hydroxyurea. Trials were published between 1998 and 2016 and included children and sometimes adolescents; the majority had one form of sickle cell disease (HbSS). 
+All trials received government funding.
+Key Results 
+In children who are at a higher risk of having a stroke who have not had previous blood transfusions, a long‐term blood transfusion regime probably reduces clinical strokes, and may also reduce other sickle cell disease‐related complications. 
+We are very uncertain if stopping blood transfusions in children and adolescents receiving transfusions for a long time (greater than 12 months) increases the risk of stroke. 
+We are very uncertain whether switching from long‐term transfusions with iron chelation to hydroxyurea with phlebotomy has any effect on stroke, mortality, or sickle cell disease‐related complications in children who have not had a stroke. Hydroxyurea may have little or no effect on iron levels in the liver. 
+We are very uncertain if switching from long‐term transfusions with iron chelation to hydroxyurea with phlebotomy increases the risk of stroke or mortality in children and adolescents who have had a stroke and were previously receiving regular transfusions. Switching from long‐term transfusions to hydroxyurea may increase some sickle cell disease‐related serious adverse events such as painful crises. 
+Quality of the evidence 
+In children at higher risk of stroke who have not had previous long‐term transfusions, there is moderate quality evidence that long‐term red cell transfusions reduce the risk of stroke. The quality of evidence was rated as low to very low for the rest of the outcomes due to trials being at high risk of bias and because there were a small number of trials and a small number of participants included in the trials. 

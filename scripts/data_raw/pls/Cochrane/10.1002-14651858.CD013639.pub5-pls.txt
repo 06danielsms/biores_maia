@@ -1,0 +1,30 @@
+How accurate is chest imaging for diagnosing COVID‐19?
+Why is this question important? 
+People with suspected COVID‐19 need to know quickly whether they are infected, so they can receive appropriate treatment, self‐isolate, and inform close contacts. 
+Currently, a formal diagnosis of COVID‐19 requires a laboratory test (RT‐PCR) of nose and throat samples. RT‐PCR requires specialist equipment and takes at least 24 hours to produce a result. It is not completely accurate, and may require a second RT‐PCR or a different test to confirm diagnosis. 
+Clinicians may use chest imaging to diagnose people who have COVID‐19 symptoms, while awaiting RT‐PCR results or when RT‐PCR results are negative, and the person has COVID‐19 symptoms. 
+This is the fourth version of this review.
+What did we want to find out? 
+We wanted to know whether chest imaging is accurate enough to diagnose COVID‐19 in people with suspected infection; we included studies in people with suspected COVID‐19 only and excluded studies in people with confirmed COVID‐19. We also wanted to assess the accuracy of chest imaging for screening asymptomatic people. 
+The evidence is up to date to 17 February 2021.
+What are chest imaging tests? 
+X‐rays or scans produce an image of the organs and structures in the chest.
+‐ X‐rays (radiography) use radiation to produce a 2‐D image. Usually done in hospitals, using fixed equipment by a radiographer; they can also be done on portable machines. 
+‐ Computed tomography (CT) scans use a computer to merge 2‐D X‐ray images and convert them to a 3‐D image. They require highly‐specialized equipment and are done in hospital by a specialist radiographer. 
+‐ Ultrasound scans use high‐frequency sound waves to produce an image. They can be done in hospitals or other healthcare settings, such as a doctor’s office. 
+What did we do? 
+We searched for studies that assessed the accuracy of chest imaging to diagnose COVID‐19 in people of any age with suspected COVID‐19. We included studies with ‘symptomatic' or 'mixed populations'. 
+What did we find? 
+We found 94 studies with 37,631 participants (of whom 19,768 (53%) had a final diagnosis of COVID‐19) for evaluating the diagnostic accuracy of thoracic imaging in the evaluation of people with suspected COVID‐19. Eighty‐seven studies evaluated one imaging modality, and seven studies evaluated two imaging modalities. All 94 studies used RT‐PCR either alone or in combination with other criteria (such as clinical signs and symptoms, or positive contacts) as the reference standard for the diagnosis of COVID‐19. 
+Chest CT: suspected people  
+Pooled results showed that chest CT (69 studies) correctly diagnosed COVID‐19 in 87% of people who had COVID‐19. However, it incorrectly identified COVID‐19 in 21% of people who did not have COVID‐19. 
+Chest X‐ray: suspected people  
+Pooled results showed that chest X‐ray (17 studies) correctly diagnosed COVID‐19 in 73 % of people who had COVID‐19. However, it incorrectly identified COVID‐19 in 27% of people who did not have COVID‐19. 
+Lung ultrasound: suspected people  
+Pooled results showed that lung ultrasound (15 studies) correctly diagnosed COVID‐19 in 87% of people with COVID‐19. However, it incorrectly diagnosed COVID‐19 in 24% of people who did not have COVID‐19. 
+Screening asymptomatic people 
+We included 10 studies (7 CT, 1 X‐ray, 2 ultrasound) with 3548 asymptomatic participants, of whom 364 (10%) had a final diagnosis of COVID‐19. Pooled results of seven studies, showed that CT correctly diagnosed COVID‐19 in 56% of people who had COVID‐19, and incorrectly identified COVID‐19 in 8% of people who did not have COVID‐19. 
+How reliable are the results? 
+The studies differed from each other and used different methods to report their results. Very few studies directly compared one type of imaging test with another. Also, the risk of bias was high or unclear in about half of all included studies. Therefore, it is difficult to draw confident conclusions. 
+What does this mean? 
+The evidence suggests that chest CT and ultrasound are better at ruling out COVID‐19 infection than distinguishing it from other respiratory problems. So, their usefulness may be limited to excluding COVID‐19 infection rather than differentiating it from other causes of lung infection. In addition, chest CT imaging had poor sensitivity and high specificity for detecting asymptomatic individuals. 

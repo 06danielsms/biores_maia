@@ -1,0 +1,17 @@
+Background
+Garlic is widely used by patients for its blood pressure lowering effects. A meta‐analysis published in 2008 concluded that garlic consumption lowers blood pressure in hypertensive and normotensive patients. Therefore, it is important to review the currently available evidence to determine whether garlic may also have a beneficial role in the reduction of cardiovascular events and mortality rates in patients with hypertension. 
+Objectives
+To determine whether the use of garlic as monotherapy, in hypertensive patients, lowers the risk of cardiovascular morbidity and mortality compared to placebo. 
+Search methods
+A systematic search for trials was conducted in the Cochrane Hypertension Group Specialised Register, CENTRAL, MEDLINE, EMBASE, AGRICOLA, AMED, and CINAHL up to November 2011. A hand search of reference lists of identified reviews was conducted. Experts in the area were also contacted to identify trials not found in the electronic search. Clinicaltrials.gov was searched for ongoing trials. 
+Selection criteria
+Randomized, placebo‐controlled trials of any garlic preparation versus placebo for the treatment of hypertension were included. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed trial quality using the risk of bias tool. Data synthesis and analysis was performed using RevMan 5. 
+Main results
+The search identified two randomized controlled trials for inclusion. One trial included 47 hypertensive patients and showed that garlic significantly reduces mean supine systolic blood pressure by 12 mmHg (95% CI 0.56 to 23.44 mmHg, p=0.04) and mean supine diastolic blood pressure by 9 mmHg (95% CI 2.49 to 15.51 mmHg, p=0.007) versus placebo. The authors state that garlic was "free from side effects" and that no serious side effects were reported. There were 3 cases "where a slight smell of garlic was noted." 
+The second trial could not be meta‐analysed as they did not report the number of people randomized to each treatment group. They did report that 200 mg of garlic powder given three times daily, in addition to hydrochlorothiazide‐triamterene baseline therapy, produced a mean reduction of systolic blood pressure by 10‐11 mmHg and of diastolic blood pressure by 6‐8 mmHg versus placebo. 
+Neither trial reported clinical outcomes and insufficient data was provided on adverse events. 
+Authors' conclusions
+There is insufficient evidence to determine if garlic provides a therapeutic advantage versus placebo in terms of reducing the risk of mortality and cardiovascular morbidity in patients diagnosed with hypertension. There is also insufficient evidence to determine the difference in withdrawals due to adverse events between patients treated with garlic or placebo. 
+Based on 2 trials in 87 hypertensive patients, it appears that garlic reduces mean supine systolic and diastolic blood pressure by approximately 10‐12 mmHg and 6‐9 mmHg, respectively, over and above the effect of placebo but the confidence intervals for these effect estimates are not precise and this difference in blood pressure reduction falls within the known variability in blood pressure measurements. This makes it difficult to determine the true impact of garlic on lowering blood pressure. 

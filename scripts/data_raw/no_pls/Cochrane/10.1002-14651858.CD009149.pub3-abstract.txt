@@ -1,0 +1,91 @@
+Background
+Community‐based primary‐level workers (PWs) are an important strategy for addressing gaps in mental health service delivery in low‐ and middle‐income countries.  
+Objectives
+To evaluate the effectiveness of PW‐led treatments for persons with mental health symptoms in LMICs, compared to usual care.  
+Search methods
+MEDLINE, Embase, CENTRAL, ClinicalTrials.gov, ICTRP, reference lists (to 20 June 2019).  
+Selection criteria
+Randomised trials of PW‐led or collaborative‐care interventions treating people with mental health symptoms or their carers in LMICs.  
+PWs included: primary health professionals (PHPs), lay health workers (LHWs), community non‐health professionals (CPs).  
+Data collection and analysis
+Seven conditions were identified apriori and analysed by disorder and PW examining recovery, prevalence, symptom change, quality‐of‐life (QOL), functioning, service use (SU), and adverse events (AEs).  
+Risk ratios (RRs) were used for dichotomous outcomes; mean difference (MDs), standardised mean differences (SMDs), or mean change differences (MCDs) for continuous outcomes.  
+For SMDs, 0.20 to 0.49 represented small, 0.50 to 0.79 moderate, and ≥0.80 large clinical effects.  
+Analysis timepoints: T1 (<1 month), T2 (1‐6 months), T3 ( >6 months) post‐intervention. 
+Main results
+Description of studies  
+95 trials (72 new since 2013) from 30 LMICs (25 trials from 13 LICs). 
+Risk of bias  
+Most common: detection bias, attrition bias (efficacy), insufficient protection against contamination.  
+Intervention effects  
+*Unless indicated, comparisons were usual care at T2. 
+“Probably”, “may”, or “uncertain” indicates "moderate", "low," or "very low" certainty evidence.   
+Adults with common mental disorders (CMDs)  
+LHW‐led interventions 
+a. may increase recovery (2 trials, 308 participants; RR 1.29, 95%CI 1.06 to 1.56);
+b. may reduce prevalence (2 trials, 479 participants; RR 0.42, 95%CI 0.18 to 0.96);
+c. may reduce symptoms (4 trials, 798 participants; SMD ‐0.59, 95%CI ‐1.01 to ‐0.16);
+d. may improve QOL (1 trial, 521 participants; SMD 0.51, 95%CI 0.34 to 0.69);
+e. may slightly reduce functional impairment (3 trials, 1399 participants; SMD ‐0.47, 95%CI ‐0.8 to ‐0.15); 
+f. may reduce AEs (risk of suicide ideation/attempts);
+g. may have uncertain effects on SU.
+Collaborative‐care 
+a. may increase recovery (5 trials, 804 participants; RR 2.26, 95%CI 1.50 to 3.43);
+b. may reduce prevalence although the actual effect range indicates it may have little‐or‐no effect (2 trials, 2820 participants; RR 0.57, 95%CI 0.32 to 1.01); 
+c. may slightly reduce symptoms (6 trials, 4419 participants; SMD ‐0.35, 95%CI ‐0.63 to ‐0.08); 
+d. may slightly improve QOL (6 trials, 2199 participants; SMD 0.34, 95%CI 0.16 to 0.53); 
+e. probably has little‐to‐no effect on functional impairment (5 trials, 4216 participants; SMD ‐0.13, 95%CI ‐0.28 to 0.03); 
+f. may reduce SU (referral to MH specialists); 
+g. may have uncertain effects on AEs (death).
+Women with perinatal depression (PND)  
+LHW‐led interventions 
+a. may increase recovery (4 trials, 1243 participants; RR 1.29, 95%CI 1.08 to 1.54);
+b. probably slightly reduce symptoms (5 trials, 1989 participants; SMD ‐0.26, 95%CI ‐0.37 to ‐0.14); 
+c. may slightly reduce functional impairment (4 trials, 1856 participants; SMD ‐0.23, 95%CI ‐0.41 to ‐0.04); 
+d. may have little‐to‐no effect on AEs (death); 
+e. may have uncertain effects on SU.
+Collaborative‐care 
+a. has uncertain effects on symptoms/QOL/SU/AEs.
+Adults with post‐traumatic stress (PTS) or CMDs in humanitarian settings  
+LHW‐led interventions 
+a. may slightly reduce depression symptoms (5 trials, 1986 participants; SMD ‐0.36, 95%CI ‐0.56 to ‐0.15); 
+b. probably slightly improve QOL (4 trials, 1918 participants; SMD ‐0.27, 95%CI ‐0.39 to ‐0.15); 
+c. may have uncertain effects on symptoms (PTS)/functioning/SU/AEs.
+PHP‐led interventions 
+a. may reduce PTS symptom prevalence (1 trial, 313 participants; RR 5.50, 95%CI 2.50 to 12.10) and depression prevalence (1 trial, 313 participants; RR 4.60, 95%CI 2.10 to 10.08);  
+b. may have uncertain effects on symptoms/functioning/SU/AEs.  
+Adults with harmful/hazardous alcohol or substance use  
+LHW‐led interventions 
+a. may increase recovery from harmful/hazardous alcohol use although the actual effect range indicates it may have little‐or‐no effect (4 trials, 872 participants; RR 1.28, 95%CI 0.94 to 1.74); 
+b. may have little‐to‐no effect on the prevalence of methamphetamine use (1 trial, 882 participants; RR 1.01, 95%CI 0.91 to 1.13) and  functional impairment (2 trials, 498 participants; SMD ‐0.14, 95%CI ‐0.32 to 0.03); 
+c. probably slightly reduce risk of harmful/hazardous alcohol use (3 trials, 667 participants; SMD ‐0.22, 95%CI ‐0.32 to ‐0.11);  
+d. may have uncertain effects on SU/AEs.
+PHP/CP‐led interventions 
+a. probably have little‐to‐no effect on recovery from harmful/hazardous alcohol use (3 trials, 1075 participants; RR 0.93, 95%CI 0.77 to 1.12) or QOL (1 trial, 560 participants; MD 0.00, 95%CI ‐0.10 to 0.10); 
+b. probably slightly reduce risk of harmful/hazardous alcohol and substance use (2 trials, 705 participants; SMD ‐0.20, 95%CI ‐0.35 to ‐0.05; moderate‐certainty evidence); 
+c. may have uncertain effects on prevalence (cannabis use)/SU/AEs.
+PW‐led interventions for alcohol/substance dependence 
+a. may have uncertain effects. 
+Adults with severe mental disorders  
+*Comparisons were specialist‐led care at T1.
+LHW‐led interventions 
+a. may have little‐to‐no effect on caregiver burden (1 trial, 253 participants; MD ‐0.04, 95%CI ‐0.18 to 0.11);  
+b. may have uncertain effects on symptoms/functioning/SU/AEs. 
+PHP‐led or collaborative‐care 
+a. may reduce functional impairment (7 trials, 874 participants; SMD ‐1.13, 95%CI ‐1.78 to ‐0.47); 
+b. may have uncertain effects on recovery/relapse/symptoms/QOL/SU. 
+Adults with dementia and carers  
+PHP/LHW‐led carer interventions 
+a. may have little‐to‐no effect on the severity of behavioural symptoms in dementia patients (2 trials, 134 participants; SMD ‐0.26, 95%CI ‐0.60 to 0.08); 
+b. may reduce carers' mental distress (2 trials, 134 participants; SMD ‐0.47, 95%CI ‐0.82 to ‐0.13);  
+c. may have uncertain effects on QOL/functioning/SU/AEs.
+Children with PTS or CMDs  
+LHW‐led interventions 
+a. may have little‐to‐no effect on PTS symptoms (3 trials, 1090 participants; MCD ‐1.34, 95%CI ‐2.83 to 0.14); 
+b. probably have little‐to‐no effect on depression symptoms (3 trials, 1092 participants; MCD ‐0.61, 95%CI ‐1.23 to 0.02) or on functional impairment (3 trials, 1092 participants; MCD ‐0.81, 95%CI ‐1.48 to ‐0.13);  
+c. may have little‐or‐no effect on AEs.
+CP‐led interventions 
+a. may have little‐to‐no effect on depression symptoms (2 trials, 602 participants; SMD ‐0.19, 95%CI ‐0.57 to 0.19) or on AEs;  
+b. may have uncertain effects on recovery/symptoms(PTS)/functioning.
+Authors' conclusions
+PW‐led interventions show promising benefits in improving outcomes for CMDs, PND, PTS, harmful alcohol/substance use, and dementia carers in LMICs. 

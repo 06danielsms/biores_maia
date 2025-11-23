@@ -1,0 +1,14 @@
+Background
+The benefits and harms of hepatitis B vaccination in persons not previously exposed to hepatitis B infection or with unknown exposure status have not been established. 
+Objectives
+To assess the benefits and harms of hepatitis B vaccination in people not previously exposed to hepatitis B infection or with unknown exposure status. 
+Search methods
+Trials were identified from The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, LILACS, Science Citation Index Expanded (last search, March 2007). Additionally, we contacted experts and vaccine manufacturers, and read through reference lists for eligible trials. 
+Selection criteria
+Randomised clinical trials comparing hepatitis B vaccine versus placebo, no intervention, or another vaccine in persons not previously exposed to hepatitis B (HBsAg negative) or with unknown exposure status. 
+Data collection and analysis
+The primary outcome was hepatitis B infection (detecting HBsAg, HBeAg, HBV DNA, or anti‐HBc). Secondary outcomes were lack of sero‐protection, antibody titre, clinical complications, adverse events, lack of compliance, and cost‐effectiveness. Dichotomous outcomes were reported as relative risk (RR) with 95% confidence interval (CI), using intention‐to‐treat analysis assuming an unfavourable event for missing data. Sensitivity analyses based on methodological quality (risk of bias), available data analysis, intention‐to‐treat analysis assuming a favourable event for missing data, best‐case scenario, and worst‐case scenario were conducted. 
+Main results
+Twelve trials were eligible. All had high risk of bias and reporting was inconsistent. Hepatitis B vaccine did not show a clear effect on the risk of developing HBsAg (RR 0.96, 95% CI 0.89 to 1.03, 4 trials, 1230 participants) and anti‐HBc (RR 0.81, 95% CI 0.61 to 1.07; 4 trials, 1230 participants, random‐effects) when data were analysed using intention‐to‐treat analysis assuming an unfavourable event for missing data. Analysis based on data of available participants showed reduced risk of developing HBsAg (RR 0.12, 95% CI 0.03 to 0.44, 4 trials, 576 participants) and anti‐HBc (RR 0.36, 95% CI 0.17 to 0.76, 4 trials, 576 participants, random‐effects). Intention‐to‐treat analysis assuming favourable outcome for missing data showed similar reduction in risk. Hepatitis B vaccination had an unclear effect on the risk of lacking protective antibody levels (RR 0.57, 95% CI 0.26 to 1.27, 3 trials, 1210 participants, random‐effects). Development of adverse events was sparsely reported. 
+Authors' conclusions
+In people not previously exposed to hepatitis B, vaccination has unclear effect on the risk of developing infection, as compared to no vaccination. The risk of lacking protective antibody levels as well as serious and non‐serious adverse events appear comparable among recipients and non‐recipients of hepatitis B vaccine. 

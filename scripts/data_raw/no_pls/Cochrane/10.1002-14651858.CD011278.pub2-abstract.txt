@@ -1,0 +1,14 @@
+Background
+Following surgery, incisions are usually closed by fixing the edges together with sutures (stitches), staples, adhesive glue or clips. This process helps the cut edges heal together and is called 'healing by primary intention'. However, not all incised wounds are closed in this way: where there is high risk of infection, or when there has been significant tissue loss, wounds may be left open to heal from the 'bottom up'. This delayed healing is known as 'healing by secondary intention'. Negative pressure wound therapy (NPWT) is one treatment option for surgical wounds that are healing by secondary intention. 
+Objectives
+To assess the effects of negative pressure wound therapy (NPWT) on the healing of surgical wounds healing by secondary intention (SWHSI) in any care setting. 
+Search methods
+For this review, in May 2015 we searched the following databases: the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials; Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations; Ovid EMBASE; and EBSCO CINAHL. There were no restrictions based on language or date of publication. 
+Selection criteria
+Published or unpublished randomised controlled trials (RCTs) comparing the effects of NPWT with alternative treatments or different types of NPWT in the treatment of SWHSI. We excluded open abdominal wounds from this review as they are the subject of a separate Cochrane review that is in draft. 
+Data collection and analysis
+Two review authors independently performed study selection, risk of bias assessment and data extraction. 
+Main results
+We located two studies (69 participants) for inclusion in this review. One study compared NPWT with an alginate dressing in the treatment of open, infected groin wounds. and one study compared NPWT with a silicone dressing in the treatment of excised pilonidal sinus. The trials reported limited outcome data on healing, adverse events and resource use. 
+Authors' conclusions
+There is currently no rigorous RCT evidence available regarding the clinical effectiveness of NPWT in the treatment of surgical wounds healing by secondary intention as defined in this review. The potential benefits and harms of using this treatment for this wound type remain largely uncertain. 

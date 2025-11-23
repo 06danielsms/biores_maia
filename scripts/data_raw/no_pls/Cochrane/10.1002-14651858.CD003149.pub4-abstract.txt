@@ -1,0 +1,35 @@
+Background
+Sickle cell disease (SCD) is one of the commonest severe monogenic disorders in the world, due to the inheritance of two abnormal haemoglobin (beta globin) genes. SCD can cause severe pain, significant end‐organ damage, pulmonary complications, and premature death. Surgical interventions are more common in people with SCD, and occur at much younger ages than in the general population. Blood transfusions are frequently used prior to surgery and several regimens are used but there is no consensus over the best method or the necessity of transfusion in specific surgical cases. This is an update of a Cochrane Review. 
+Objectives
+To determine whether there is evidence that preoperative blood transfusion in people with SCD undergoing elective or emergency surgery reduces mortality and perioperative or sickle cell‐related serious adverse events. 
+To compare the effectiveness of different transfusion regimens (aggressive or conservative) if preoperative transfusions are indicated in people with SCD. 
+Search methods
+We searched for relevant trials in the Cochrane Library, MEDLINE (from 1946), Embase (from 1974), the Transfusion Evidence Library (from 1980), and ongoing trial databases; all searches current to 28 January 2020 
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register: 19 September 2019. 
+Selection criteria
+All randomised controlled trials and quasi‐randomised controlled trials comparing preoperative blood transfusion regimens to different regimens or no transfusion in people with SCD undergoing elective or emergency surgery. There was no restriction by outcomes examined, language or publication status. 
+Data collection and analysis
+Two authors independently assessed trial eligibility and the risk of bias and extracted data. 
+Main results
+Three trials with 990 participants were eligible for inclusion in the review. There were no ongoing trials identified. These trials were conducted between 1988 and 2011. The majority of people included had haemoglobin (Hb) SS SCD. The majority of surgical procedures were considered low or intermediate risk for developing sickle cell‐related complications. 
+Aggressive versus simple red blood cell transfusions 
+One trial (551 participants) compared an aggressive transfusion regimen (decreasing sickle haemoglobin to less than 30%) to a simple transfusion regimen (increasing haemoglobin to 100 g/L). This trial re‐randomised participants and therefore quantitative analysis was only possible on two subsets of data: participants undergoing cholecystectomy (230 participants); and participants undergoing tonsillectomy or adenoidectomy surgeries (107 participants). Data were not combined as we do not know if any participant received both surgeries. Overall, the quality of the evidence was very low across different outcomes according to GRADE methodology. This was due to the trial being at high risk of bias primarily due to lack of blinding, indirectness and the outcome estimates being imprecise. Cholecystectomy subgroup results are reported in the abstract. Results for both subgroups were similar. 
+There was no difference in all‐cause mortality between people receiving aggressive transfusions and those receiving conservative transfusions. No deaths occurred in either subgroup. 
+There were no differences between the aggressive transfusion group and conservative transfusion group in the number of people developing: 
+• an acute chest syndrome, risk ratio (RR) 0.84 (95% confidence interval (CI) 0.38 to 1.84) (one trial, 230 participants, very low‐quality evidence); 
+• vaso‐occlusive crisis, risk ratio 0.30 (95% CI 0.09 to 1.04) (one trial, 230 participants, very low quality evidence); 
+• serious infection, risk ratio 1.75 (95% CI 0.59 to 5.18) (one trial, 230 participants, very low‐quality evidence); 
+• any perioperative complications, RR 0.75 (95% CI 0.36 to 1.55) (one trial, 230 participants, very low‐quality evidence); 
+• a transfusion‐related complication, RR 1.85 (95% CI 0.89 to 3.88) (one trial, 230 participants, very low‐quality evidence). 
+Preoperative transfusion versus no preoperative transfusion 
+Two trials (434 participants) compared a preoperative transfusion plus standard care to a group receiving standard care. Overall, the quality of the evidence was low to very low across different outcomes according to GRADE methodology. This was due to the trials being at high risk of bias due to lack of blinding, and outcome estimates being imprecise. One trial was stopped early because more people in the no transfusion arm developed an acute chest syndrome. 
+There was no difference in all‐cause mortality between people receiving preoperative transfusions and those receiving no preoperative transfusions (two trials, 434 participants, no deaths occurred). 
+There was significant heterogeneity between the two trials in the number of people developing an acute chest syndrome, a meta‐analysis was therefore not performed. One trial showed a reduced number of people developing acute chest syndrome between people receiving preoperative transfusions and those receiving no preoperative transfusions, risk ratio 0.11 (95% confidence interval 0.01 to 0.80) (65 participants), whereas the other trial did not, RR 4.81 (95% CI 0.23 to 99.61) (369 participants). 
+There were no differences between the preoperative transfusion groups and the groups without preoperative transfusion in the number of people developing: 
+• a vaso‐occlusive crisis, Peto odds ratio (OR) 1.91 (95% confidence interval 0.61 to 6.04) (two trials, 434 participants, very low‐quality evidence). 
+• a serious infection, Peto OR 1.29 (95% CI 0.29 to 5.71) (two trials, 434 participants, very low‐quality evidence); 
+• any perioperative complications, RR 0.24 (95% CI 0.03 to 2.05) (one trial, 65 participants, low‐quality evidence). 
+There was an increase in the number of people developing circulatory overload in those receiving preoperative transfusions compared to those not receiving preoperative transfusions in one of the two trials, and no events were seen in the other trial (no meta‐analysis performed). 
+Authors' conclusions
+There is insufficient evidence from randomised trials to determine whether conservative preoperative blood transfusion is as effective as aggressive preoperative blood transfusion in preventing sickle‐related or surgery‐related complications in people with HbSS disease. There is very low quality evidence that preoperative blood transfusion may prevent development of acute chest syndrome. 
+Due to lack of evidence this review cannot comment on management for people with HbSC or HbSβ+ disease or for those with high baseline haemoglobin concentrations. 

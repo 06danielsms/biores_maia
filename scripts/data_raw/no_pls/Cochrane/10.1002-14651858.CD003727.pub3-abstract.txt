@@ -1,0 +1,14 @@
+Background
+Neuroleptic‐induced akathisia is one of the most common and distressing early‐onset adverse effects of first generation 'typical' antipsychotic drugs. It is associated with poor compliance with treatment, and thus, ultimately, with an increased risk of relapse. We assessed the role of anticholinergic drugs as an adjunct therapy to standard antipsychotic medication in the pharmacological treatment of this adverse effect. 
+Objectives
+To review anticholinergic drugs for neuroleptic‐induced acute akathisia.
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (October 1999), Biological Abstracts (1982‐1999), CINAHL (1982‐1999), Cochrane Library (Issue 4 1999), EMBASE (1980‐1999), LILACS (1982‐1999), MEDLINE (1966‐1999) and PsycLIT (1974‐1999). References of all identified studies were inspected for more trials and we contacted first authors. Each included study was sought as a citation on the Science Citation Index database. For this 2005‐6 update, we searched the Cochrane Schizophrenia Group's Register (July 2005). 
+Selection criteria
+We included all randomised clinical trials of adjunctive anticholinergic drugs in addition to antipsychotic medication compared with placebo, for people with neuroleptic‐induced acute akathisia. 
+Data collection and analysis
+We quality assessed and extracted data independently. We calculated the fixed effects relative risk (RR), the 95% confidence intervals (CI) and, where appropriate, the number needed to treat (NNT) for homogeneous dichotomous data on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). 
+Main results
+We identified no relevant randomised controlled trials.
+Authors' conclusions
+At present, there is no reliable evidence to support or refute the use of anticholinergics for people suffering from neuroleptic‐induced acute akathisia. Akathisia is a distressing movement disorder that remains highly prevalent in people with schizophrenia, both in the developed and developing world. This review highlights the need for well designed, conducted and reported clinical trials to address the claims of open studies as regards the effects of the anticholinergic group of drugs for akathisia. 

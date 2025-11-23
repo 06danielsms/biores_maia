@@ -1,0 +1,14 @@
+Background
+Access to combination antiretroviral therapy has turned HIV into a chronic and manageable disease for many. This increased chronicity has been mirrored by increased prevalence of health‐related challenges experienced by people living with HIV (Rusch 2004). Exercise is a key strategy for people living with HIV and by rehabilitation professionals to address these disablements; however, knowledge about the effects of exercise among adults living with HIV still is emerging. 
+Objectives
+To examine the safety and effectiveness of aerobic exercise interventions on immunologic and virologic, cardiopulmonary, psychologic outcomes and strength, weight, and body composition in adults living with HIV. 
+Search methods
+Searches of MEDLINE, EMBASE, SCIENCE CITATION INDEX, CINAHL, HEALTHSTAR, PsycINFO, SPORTDISCUS and Cochrane Review Group Databases were conducted between 1980 and June 2009. Searches of published and unpublished abstracts and proceedings from major international and national HIV/AIDS conferences were conducted, as well as a handsearch of reference lists and tables of contents of relevant journals and books. 
+Selection criteria
+We included studies of randomised controlled trials (RCTs) comparing aerobic exercise interventions with no aerobic exercise interventions or another exercise or treatment modality, performed at least three times per week for at least four weeks among adults (18 years of age or older) living with HIV. 
+Data collection and analysis
+Data on study design, participants, interventions, outcomes, and methodological quality were abstracted from included studies by two reviewers. Meta‐analyses, using RevMan 5 computer software, were performed on outcomes when possible. 
+Main results
+A total of 14 studies met inclusion criteria for this review and 30 meta‐analyses over several updates were performed. Main results indicated that performing constant or interval aerobic exercise, or a combination of constant aerobic exercise and progressive resistive exercise for at least 20 minutes at least three times per week for at least five weeks appears to be safe and may lead to significant improvements in selected outcomes of cardiopulmonary fitness (maximum oxygen consumption), body composition (leg muscle area, percent body fat), and psychological status (depression‐dejection symptoms). These findings are limited to participants who continued to exercise and for whom there were adequate follow‐up data. 
+Authors' conclusions
+Aerobic exercise appears to be safe and may be beneficial for adults living with HIV. These findings are limited by the small sample sizes and large withdrawal rates described in the studies. Future research would benefit from participant follow‐up and intention‐to‐treat analysis. Further research is required to determine the optimal parameters in which aerobic exercise may be most beneficial for adults living with HIV. 

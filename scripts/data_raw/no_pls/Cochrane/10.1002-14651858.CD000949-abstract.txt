@@ -1,0 +1,14 @@
+Background
+Umbilical arterial catheters (UACs) are among the most commonly used monitoring methodologies in neonatal intensive care. There seems to be significant variance between neonatal intensive care units in exactly how these catheters are used. This variance involves heparin dosing, catheter materials and catheter design, and positioning of the catheter. 
+Objectives
+To determine whether the material used for construction of an umbilical arterial catheter influences the frequency of ischemic events, aortic thrombosis, mortality or necrotising enterocolitis in newborn infants. 
+Search methods
+Randomized and quasi‐randomized controlled trials of umbilical catheterization use were obtained using the search methods of the Cochrane Neonatal Review Group. The Cochrane Library, MEDLINE (search via PubMed), CINAHL and EMBASE were searched from 1999 to 2009. 
+Selection criteria
+Randomized studies in newborn infants of any birthweight or gestation.  Comparison of different catheter materials.  Clinically important end points such as ischemic events, aortic thrombosis, or catheter occlusion. 
+Data collection and analysis
+One non‐randomized and one randomized study were retrieved.
+Main results
+There were no significant effects of substituting a heparin bonded polyurethane catheter for the standard PVC catheter. The non‐randomized study suggested that there may possibly be a benefit of using a catheter constructed from Silastic, with a reduction in aortic thrombosis. 
+Authors' conclusions
+There are no demonstrated clinically relevant differences in outcomes between the use of PVC catheters and other materials. Therefore, other considerations such as price and ease of availability may dictate the catheter chosen. An adequately powered randomized comparison of silastic to PVC should be performed. 

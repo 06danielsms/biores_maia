@@ -1,0 +1,14 @@
+Background
+Magnetic resonance imaging (MRI) is increasingly used for the diagnosis of acute ischaemic stroke but its sensitivity for the early detection of intracerebral haemorrhage has been debated. Computed tomography (CT) is extensively used in the clinical management of acute stroke, especially for the rapid exclusion of intracerebral haemorrhage. 
+Objectives
+To compare the diagnostic accuracy of diffusion‐weighted MRI (DWI) and CT for acute ischaemic stroke, and to estimate the diagnostic accuracy of MRI for acute haemorrhagic stroke. 
+Search methods
+We searched MEDLINE and EMBASE (January 1995 to March 2009) and perused bibliographies of relevant studies for additional references. 
+Selection criteria
+We selected studies that either compared DWI and CT in the same patients for detection of ischaemic stroke or examined the utility of MRI for detection of haemorrhagic stroke, had imaging performed within 12 hours of stroke onset, and presented sufficient data to allow construction of contingency tables. 
+Data collection and analysis
+Three authors independently extracted data on study characteristics and measures of accuracy. We assessed data on ischaemic stroke using random‐effects and fixed‐effect meta‐analyses. 
+Main results
+Eight studies with a total of 308 participants met our inclusion criteria. Seven studies contributed to the assessment of ischaemic stroke and two studies to the assessment of haemorrhagic stroke. The spectrum of patients was relatively narrow in all studies, sample sizes were small, there was substantial incorporation bias, and blinding procedures were often incomplete. Amongst the patients subsequently confirmed to have acute ischaemic stroke (161/226), the summary estimates for DWI were: sensitivity 0.99 (95% CI 0.23 to 1.00), specificity 0.92 (95% CI 0.83 to 0.97). The summary estimates for CT were: sensitivity 0.39 (95% CI 0.16 to 0.69), specificity 1.00 (95% CI 0.94 to 1.00). The two studies on haemorrhagic stroke reported high estimates for diffusion‐weighted and gradient‐echo sequences but had inconsistent reference standards. We did not calculate overall estimates for these two studies. We were not able to assess practicality or cost‐effectiveness issues. 
+Authors' conclusions
+DWI appears to be more sensitive than CT for the early detection of ischaemic stroke in highly selected patients. However, the variability in the quality of included studies and the presence of spectrum and incorporation biases render the reliability and generalisability of observed results questionable. Further well‐designed studies without methodological biases, in more representative patient samples, with practicality and cost estimates are now needed to determine which patients should undergo MRI and which CT in suspected acute stroke. 

@@ -1,0 +1,19 @@
+Background
+Cervical spondylosis causes pain and disability by compressing the spinal cord or roots. Surgery to relieve the compression may reduce the pain and disability, but is associated with a small but definite risk. . 
+Objectives
+To determine whether: 1) surgical treatment of cervical radiculopathy or myelopathy is associated with improved outcome, compared with conservative management and 2) timing of surgery (immediate or delayed pending persistence/progression of relevant symptoms and signs) has an impact on outcome. 
+Search methods
+We searched CENTRAL, MEDLINE, and EMBASE to 1998 for the original review. A revised search was run in CENTRAL (The Cochrane Library 2008, Issue 2), MEDLINE, EMBASE, and CINAHL (January 1998 to June 2008) to update the review. 
+Authors of the identified randomised controlled trials were contacted for additional published or unpublished data. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials allocating patients with cervical radiculopathy or myelopathy to 1) "medical management" or "decompressive surgery (with or without fusion) plus medical management" 2) "early decompressive surgery" or "delayed decompressive surgery". 
+Data collection and analysis
+Two authors independently selected trials, assessed risk of bias and extracted data.
+Main results
+Two trials (N = 149) were included. In both trials, allocation concealment was inadequate and arrangements for blinding of outcome assessment were unclear. 
+One trial (81 patients with cervical radiculopathy) found that surgical decompression was superior to physiotherapy or cervical collar immobilization in the short‐term for pain, weakness or sensory loss; at one year, there were no significant differences between groups. 
+One trial (68 patients with mild functional deficit associated with cervical myelopathy) found no significant differences between surgery and conservative treatment in three years following treatment. A substantial proportion of cases were lost to follow‐up. 
+Authors' conclusions
+Both small trials had significant risks of bias and do not provide reliable evidence on the effects of surgery for cervical spondylotic radiculopathy or myelopathy. It is unclear whether the short‐term risks of surgery are offset by long‐term benefits. Further research is very likely to have an impact on the estimate of effect and our confidence in it. 
+There is low quality evidence that surgery may provide pain relief faster than physiotherapy or hard collar immobilization in patients with cervical radiculopathy; but there is little or no difference in the long‐term. 
+There is very low quality evidence that patients with mild myelopathy feel subjectively better shortly after surgery, but there is little or no difference in the long‐term. 

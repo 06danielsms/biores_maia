@@ -1,0 +1,11 @@
+Clinical Trial RESULTS
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting problems, or needs hospital care. No participants developed serious medical problems in this study, and no participants died during this study.
+What were the most common medical problems in the study?
+- Dizziness: 0 (0.0%)
+- Redness in the outer layer of the eye: 0 (0.0%)
+- Pain at the site of the injection: 1 (4.2%)
+- Viral infection of the nose, throat, and upper airways: 0 (0.0%)
+- Pooling of blood under the skin: 1 (4.2%)
+- Muscle pain: 1 (4.2%)
+- Nasal congestion

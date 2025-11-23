@@ -1,0 +1,15 @@
+Background
+Acute sinusitis is a common reason for primary care encounters. It causes significant symptoms including facial pain, congested nose, headache, thick nasal mucus, fever, and cough and often results in time off work or school. Sinusitis treatment focuses on eliminating causative factors and controlling the inflammatory and infectious components. The frozen, dried, natural fluid extract of the Cyclamen europaeum plant delivered intranasally is thought to have beneficial effects in relieving congestion by facilitating nasal drainage, and has an anti‐inflammatory effect. 
+Objectives
+To assess the effectiveness of topical intranasal Cyclamen europaeum extract on clinical response in adults and children with acute sinusitis. 
+Search methods
+We searched CENTRAL, which includes the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE, Embase, and trials registers (ClinicalTrials.gov; WHO ICTRP) in January 2018. We also searched the reference lists of included studies and review literature for further relevant studies and contacted trial authors for additional information. 
+Selection criteria
+Randomised controlled trials comparing Cyclamen europaeum extract administered intranasally to placebo, antibiotics, intranasal corticosteroids, or no treatment in adults or children, or both, with acute sinusitis. Acute sinusitis was defined by clinical diagnosis and confirmed by nasal endoscopy or by radiological evidence. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality. We used standard methodological procedures expected by Cochrane. 
+Main results
+We included two randomised controlled trials that involved a total of 147 adult outpatients with acute sinusitis confirmed by radiology or nasal endoscopy who were assigned to Cyclamen europaeum nasal spray or placebo study arms for up to 15 days. The risk of selection and detection bias was unclear, as allocation concealment and blinding of outcome assessors were not reported in either study. Attrition was high (60%) in one study, although dropouts were balanced between study arms. 
+Neither study reported our two primary outcomes: proportion of participants whose symptoms resolved or improved at 14 days and 30 days. No serious adverse events or complications related to treatment were reported; however, more mild adverse events such as nasal and throat irritation, mild epistaxis, and sneezing occurred in Cyclamen europaeum group participants (50%) compared to placebo group participants (24%) (risk ratio 2.11, 95% confidence interval 1.35 to 3.29); moderate‐quality evidence. 
+Authors' conclusions
+The effectiveness of Cyclamen europaeum for people with acute sinusitis is unknown. Although no serious side effects were observed, 50% of participants who received Cyclamen europaeum reported adverse events compared with 24% of those who received placebo. 

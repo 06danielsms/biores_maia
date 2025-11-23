@@ -1,0 +1,32 @@
+Surgery on both eyes on the same day or on different days: which works better to treat cataract in both eyes? 
+Key messages 
+‐ Current evidence supports there may be no important difference between surgery on both eyes on the same day (ISBCS) and surgery on different days (DSBCS) for the following clinical outcomes: eye (ocular) infection (endophthalmitis, a severe, sight‐threatening but rare complication), spectacle correction after surgery (refraction), complications, vision with spectacle correction (if needed), and patient‐reported outcomes (PROMs; questionnaires on vision). 
+‐ Current evidence supports the costs for ISBCS are lower compared to DSBCS, but evidence on the balance between the costs and how well it works (cost‐effectiveness) was lacking. 
+‐ Overall, the amount and quality of the evidence was limited.
+What is cataract and how is it treated? 
+Age‐related cataract is a natural ageing process of the lens of the eye, in which the lens becomes cloudy and vision decreases. The only way to treat cataract is by surgery. During surgery, the clouded lens is removed and replaced by an artificial lens, implanted in the eye. Currently, most people undergo cataract surgery on both eyes on different days, with a period of days, weeks, or even months between surgeries, called delayed sequential bilateral cataract surgery (DSBCS). However, it is also possible to have cataract surgery on both eyes on the same day, called immediate sequential bilateral cataract surgery (ISBCS). 
+Potential advantages to ISBCS include fewer visits to the hospital, faster visual recovery, and lower healthcare costs. However, there are also potential disadvantages, such as developing complications in both eyes. Also, in ISBCS, outcomes of the first eye cannot be used when performing second‐eye surgery, which may result in worse refractive outcomes (increased spectacle dependence). 
+What did we want to find out? 
+We wanted to find out if cataract surgery on both eyes on the same day is as safe, effective, and cost‐effective as having surgery on both eyes on different days. 
+What did we do?  
+We searched for studies that looked at outcomes of ISBCS compared to DSBCS. We also searched for studies that looked at the balance between costs and outcomes for ISBCS compared to DSBCS (cost‐effectiveness). We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find?  
+We found 14 studies that involved 276,260 people (7384 who had ISBCS and 268,876 who had DSBCS). The studies were conducted in Canada, the Czech Republic, Finland, Iran, (South) Korea, Spain (Canary Islands), Sweden, the UK, and the USA. Most studies lasted for around three months. 
+Main results  
+‐ Endophthalmitis: the type of surgery (ISBCS or DSBCS) may make little to no difference in the occurrence of endophthalmitis in one eye (up to six weeks after surgery). None of the studies reported endophthalmitis in both eyes, but this event is most likely too rare to be detected by these studies. 
+‐ Refractive outcomes: there is probably little to no difference in refractive outcomes at one to three months after surgery with ISBCS compared to DSBCS. 
+‐ Other complications: there may be little to no difference in other complications up to three months after surgery with ISBCS compared to DSBCS, but we are very uncertain about the results. 
+‐ Costs: the economic studies in this review reported lower costs for ISBCS compared to DSBCS. One study reported that ISBCS is cost‐effective compared to DSBCS, but we are very uncertain about the results. 
+‐ Best‐corrected distance visual acuity (BCDVA; vision with spectacle correction if needed): the type of surgery (ISBCS or DSBCS) may have little to no effect on BCDVA at one to three months after surgery, but we are very uncertain about the results. 
+‐ PROMs (measured in questionnaires): the type of surgery (ISBCS or DSBCS) probably makes little to no difference in PROMs at one to three months after surgery. 
+What are the limitations of the evidence? 
+Overall, we had moderate to very little confidence in the evidence (endophthalmitis: little confidence, refractive outcomes: little to moderate confidence, complications: not confident, costs: little to no confidence, BCDVA: not confident, and PROMs: moderate confidence).  
+Our confidence is limited because:
+‐ the evidence on endophthalmitis was based on few cases of endophthalmitis;
+‐ the studies assessed complications in different ways;
+‐ there were not enough studies to be certain about refractive outcomes and complications;
+‐ studies on costs reported costs for only one hospital and included different funding sources; 
+‐ the studies assessed BCDVA in different ways and there were not enough studies to be certain about the results; 
+‐ there were concerns regarding the possibility that people in the studies were aware of what treatment they were getting, and not all studies provided data about everything that we were interested in (most outcomes).  
+How up to date is this evidence? 
+The evidence is up‐to‐date to 11 May 2021.

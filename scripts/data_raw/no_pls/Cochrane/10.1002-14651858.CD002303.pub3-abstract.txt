@@ -1,0 +1,18 @@
+Background
+Up to 1% of adults will have a leg ulcer at some time. The majority of leg ulcers are venous in origin and are caused by high pressure in the veins due to blockage or weakness of the valves in the veins of the leg. Prevention and treatment of venous ulcers is aimed at reducing the pressure either by removing/repairing the veins, or by applying compression bandages/stockings to reduce the pressure in the veins. 
+The majority of venous ulcers heal with compression bandages, however ulcers frequently recur. Clinical guidelines therefore recommend that people continue to wear compression, usually in the form of hosiery (tights, stockings, socks) after their ulcer heals, to prevent recurrence. 
+Objectives
+To assess the effects of compression (socks, stockings, tights, bandages) in preventing the recurrence of venous ulcers. If compression does prevent ulceration compared with no compression, then to identify whether there is evidence to recommend particular levels of compression (high, medium or low, for example), types of compression, or brands of compression to prevent ulcer recurrence after healing. 
+Search methods
+For this second update we searched The Cochrane Wounds Group Specialised Register (searched 4 September 2014) which includes the results of regular searches of MEDLINE, EMBASE and CINAHL; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 8). 
+Selection criteria
+Randomised controlled trials (RCTs)evaluating compression bandages or hosiery for preventing the recurrence of venous ulcers. 
+Data collection and analysis
+Two review authors undertook data extraction and risk of bias assessment independently.
+Main results
+Four trials (979 participants) were eligible for inclusion in this review. One trial in patients with recently healed venous ulcers (n = 153) compared recurrence rates with and without compression and found that compression significantly reduced ulcer recurrence at six months (Risk ratio (RR) 0.46, 95% CI 0.27 to 0.76). 
+Two trials compared high‐compression hosiery (equivalent to UK class 3) with moderate‐compression hosiery (equivalent to UK class 2). The first study (n=300) found no significant reduction in recurrence at five years follow up with high‐compression hosiery compared with moderate‐compression (RR 0.82, 95% CI 0.61 to 1.12). The second study (n = 338) assessed ulcer recurrence at three years follow up and found that high‐compression hosiery reduced recurrence compared with moderate‐compression (RR 0.57, 95% CI 0.39 to 0.81). Statistically significant heterogeneity precluded meta‐analysis of the results from these studies. Patient‐reported compliance rates were reported in both trials;,there was significantly higher compliance with medium‐compression than with high‐compression hosiery in one and no significant difference in the second. 
+A fourth trial (166 patients) found no statistically significant difference in recurrence between two types of medium (UK class 2) compression hosiery (Medi versus Scholl: RR 0.74, 95% CI 0.45 to 1.2). 
+No trials of compression bandages for preventing ulcer recurrence were identified.
+Authors' conclusions
+There is evidence from one trial that compression hosiery reduces rates of reulceration of venous ulcers compared with no compression. Results from one trial suggest that recurrence is lower in high‐compression hosiery than in medium‐compression hosiery at three years whilst another trial found no difference at 5 years. Rates of patient intolerance of compression hosiery were high. There is insufficient evidence to aid selection of different types, brands, or lengths of compression hosiery. 

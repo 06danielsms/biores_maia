@@ -1,0 +1,14 @@
+Background
+Controversy exists as to whether revascularisation of the left subclavian artery (LSA) confers improved outcomes in patients undergoing thoracic endovascular aortic repair (TEVAR). Even though preemptive revascularisation of the LSA has theoretical advantages, including a reduced risk of ischaemic damage to vital organs, such as the brain and the spinal cord, it is not without risks. Current practice guidelines recommend routine revascularisation of the LSA in patients undergoing elective TEVAR where achievement of a proximal seal necessitates coverage of the LSA, and in patients who have an anatomy that compromises perfusion to critical organs. However, this recommendation was based on very low‐quality evidence. 
+Objectives
+To assess the comparative efficacy of routine LSA revascularisation versus either selective or no revascularisation in patients with descending thoracic aortic disease undergoing TEVAR with coverage of the LSA origin. 
+Search methods
+The Cochrane Vascular Trials Search Co‐ordinator (TSC) searched the Specialised Register (June 2015). In addition, the TSC searched the Cochrane Register of Studies (CENTRAL (2015, Issue 5)).Trials databases were also searched (June 2015). 
+Selection criteria
+We had planned to consider all randomised controlled trials (RCTs) that compared routine revascularisation of the LSA with selective or no revascularisation, in patients undergoing TEVAR. 
+Data collection and analysis
+Two review authors independently assessed the title and abstract of articles identified through literature searches. An independent third review author was consulted in the event of disagreement. We had planned for two review authors to independently extract data and assess the risk of bias of identified trials using the criteria recommended in the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+We did not identify any RCTs relevant to our review topic. Therefore, no quantitative analysis was conducted. 
+Authors' conclusions
+High quality RCT evidence for or against routine or selective revascularisation of the LSA in TEVAR is not currently available. It is not possible to draw conclusions with regard to the optimal management of LSA coverage in TEVAR, and whether routine revascularisation, which was defined as the intervention of interest in our review, confers beneficial effects, as indicated by reduced mortality, cerebrovascular events, and spinal cord ischaemia. This review highlights the need for continued research to provide RCT evidence and define the role of LSA revascularisation in the context of TEVAR with coverage of the LSA. 

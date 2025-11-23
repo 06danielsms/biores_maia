@@ -1,0 +1,15 @@
+Background
+Interactive Health Communication Applications (IHCAs) are computer‐based, usually web‐based, information packages for patients that combine health information with at least one of social support, decision support, or behaviour change support. These are innovations in health care and their effects on health are uncertain. 
+Objectives
+To assess the effects of IHCAs for people with chronic disease.
+Search methods
+We designed a four‐part search strategy. First, we searched electronic bibliographic databases for published work; second, we searched the grey literature; and third, we searched for ongoing and recently completed clinical trials in the appropriate databases. Finally, researchers of included studies were contacted, and reference lists from relevant primary and review articles were followed up. As IHCAs require relatively new technology, the search time period commenced at 1990, where possible, and ran until 31 December 2003. 
+Selection criteria
+Randomised controlled trials (RCTs) of IHCAs for adults and children with chronic disease. 
+Data collection and analysis
+One review author screened abstracts for relevance. Two review authors screened all candidate studies to determine eligibility, apply quality criteria, and extract data from included studies. Authors of included RCTs were contacted for missing data. Results of RCTs were pooled using random‐effects model with standardised mean differences (SMDs) for continuous outcomes and odds ratios for binary outcomes; heterogeneity was assessed using the I2 statistic. 
+Main results
+We identified 24 RCTs involving 3739 participants which were included in the review.
+IHCAs had a significant positive effect on knowledge (SMD 0.46; 95% confidence interval (CI) 0.22 to 0.69), social support (SMD 0.35; 95% CI 0.18 to 0.52) and clinical outcomes (SMD 0.18; 95% CI 0.01 to 0.35). Results suggest it is more likely than not that IHCAs have a positive effect on self‐efficacy (a person's belief in their capacity to carry out a specific action) (SMD 0.24; 95% CI 0.00 to 0.48). IHCAs had a significant positive effect on continuous behavioural outcomes (SMD 0.20; 95% CI 0.01 to 0.40). Binary behavioural outcomes also showed a positive effect for IHCAs, although this result was not statistically significant (OR 1.66; 95% CI 0.71 to 3.87). It was not possible to determine the effects of IHCAs on emotional or economic outcomes. 
+Authors' conclusions
+IHCAs appear to have largely positive effects on users, in that users tend to become more knowledgeable, feel better socially supported, and may have improved behavioural and clinical outcomes compared to non‐users. There is a need for more high quality studies with large sample sizes to confirm these preliminary findings, to determine the best type and best way to deliver IHCAs, and to establish how IHCAs have their effects for different groups of people with chronic illness. 

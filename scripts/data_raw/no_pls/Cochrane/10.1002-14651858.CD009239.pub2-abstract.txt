@@ -1,0 +1,14 @@
+Background
+Patients with unilateral vocal fold paralysis (UVFP) usually present with dysphonia, but can also be breathless and have problems with their swallowing. Speech and language therapy forms the initial mainstay of management in cases of UVFP, since up to 60% of cases will resolve spontaneously. If vocal fold paralysis persists surgery, in the form of injection medialisation, has been shown to be an effective intervention. What is currently unclear is which is the most effective material available for injection. 
+Objectives
+To assess the effectiveness of alternative injection materials in the treatment of UVFP. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 23 March 2012. 
+Selection criteria
+Randomised controlled trials (RCTs) of injectable materials in patients with UVFP. The outcomes of interest were patient and clinician‐reported improvement, and adverse events. 
+Data collection and analysis
+Two authors independently selected studies from the search results and extracted data. We used the Cochrane 'Risk of bias' tool to assess study quality. 
+Main results
+We identified no RCTs which met the inclusion criteria for this review. We excluded 18 studies on methodological grounds: 16 non‐randomised studies; one RCT due to inadequate randomisation and inclusion of non‐UVFP patients; and one RCT which compared two different particle sizes of the same injectable material. 
+Authors' conclusions
+There is currently insufficient high‐quality evidence for, or against, specific injectable materials for patients with UVFP. Future RCTs should aim to provide a direct comparison of the alternative materials currently available for injection medialisation. 

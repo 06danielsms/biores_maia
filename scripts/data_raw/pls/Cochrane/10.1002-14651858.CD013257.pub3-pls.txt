@@ -1,0 +1,16 @@
+Immunotherapy versus chemotherapy for people with advanced non‐small cell lung cancer who have not been not previously been treated 
+Review question 
+Is immunotherapy more effective and less toxic than chemotherapy for people diagnosed with non‐small cell lung cancer (a subtype of lung cancer) who have not previously been treated and who are not suitable for curative treatment? 
+Background 
+Lung cancer is the leading cause of cancer deaths and non‐small cell lung cancer represent more than 85% of all lung cancer cases. Curative surgery and radiotherapy are not treatment options when the disease is at an advanced stage and until recently these people were offered chemotherapy. Since 2016, immunotherapies (antibodies able to stimulate the immune system against cancer cells) have been shown to improve survival for these patients. 
+Side effects of immunotherapies are mainly inflammation of the tissues caused by the activation of the immune system against different organs, while chemotherapy usually causes a reduction in the white blood cells and red blood cells, hair loss, nausea and vomiting.In this Cochrane Review, we tried to find out how effective and safe immunotherapies (given alone or as combinations) are compared to standard chemotherapy for people with non‐small cell lung cancer who are not suitable for possibly curative treatment. 
+Study characteristics 
+We searched the main databases and records of conference meetings up to 31st December 2020. We included seven studies (5893 participants) comparing immunotherapies (antibodies that interact with specific proteins called immune checkpoints) with chemotherapy for people with non‐small cell lung cancer not previously treated. 
+Key results 
+We reported the results by PD‐L1 levels (a protein produced by the tumour or immune cells and bound by immune checkpoint inhibitors) 
+In people with more than 50% of tumour/immune cells expressing PD‐L1 protein, single immunotherapy might improve survival with fewer side effects. In addition, treatment with combined immunotherapies may improve survival in both people with high expression of PD‐L1 protein.The rate of toxic effects may be the same for people treated with combined immunotherapies or chemotherapy. 
+Certainty of evidence 
+Overall, the certainty of the evidence ranged from moderate to low.
+Conclusions 
+For people with advanced non‐small cell lung cancer with a high expression of PD‐L1 protein, immunotherapies alone or combinations of immunotherapies prolonged life compared to chemotherapy. The frequency of side effects may be lower with the use of immunotherapies alone compared to chemotherapy. The frequency of side effects may not differ between combinations of immunotherapies and chemotherapy. 
+ 

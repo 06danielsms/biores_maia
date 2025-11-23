@@ -1,0 +1,18 @@
+The effects of financial incentives for prescribers
+This review is the first update of the Cochrane review of the effects of different financial policies seeking to influence prescriber behaviour. Researchers at The Cochrane Collaboration searched for all studies that could answer this question and found 18 studies. Their findings are summarised below. 
+What are financial incentives for prescribers? 
+Large amounts of healthcare funds are spent on medicines, and these amounts are increasing. Increased spending on medicines could mean less money for other healthcare or non‐healthcare services. Health insurers and policy‐makers are therefore looking for ways to ensure better use of medicines and to control the costs of medicines while still ensuring that patients get the medicines they need. 
+One way to try to control medicine spending is to influence the people who prescribe medicines, for instance, through financial incentives. One way of doing this involves introducing a budget cap or a budget target. Here, doctors and healthcare organisations are given a budget and the responsibility of staying within this budget. Another approach is to enforce a pay for performance policy, whereby doctors or their organisations are financially rewarded or punished for their prescribing behaviour. A third approach is to apply a reimbursement rate policy. Here, the amount of money doctors are reimbursed for medicine prescriptions is reduced, making the prescription of medicines less financially attractive to doctors. 
+These policies may lead doctors to prescribe fewer or cheaper medicines. This may reduce the use of unnecessary medicines but may also lead to poorer health outcomes. 
+What happens when financial incentives for prescribers are introduced? 
+Pharmaceutical budget caps or targets: 
+‐ This policy may lead to a modest reduction in overall drug use per patient (low‐certainty evidence). 
+‐ We are uncertain of the effects of this policy on drug costs or on healthcare utilisation, as the certainty of the evidence has been assessed as very low. 
+‐ The effects of this policy on health outcomes have not been measured.
+Pay for performance policies: 
+‐ We are uncertain of the effects of these policies on drug use or health outcomes, as the certainty of the evidence has been assessed as very low. 
+‐ The effects of this policy on drug costs or on healthcare utilisation have not been measured. 
+Reimbursement rate policies: 
+‐ We are uncertain about the effects of reimbursement rate policies because the quality of the evidence has been assessed as very low. 
+How up‐to‐date is this review? 
+The review authors searched for studies that had been published up to January 2015.

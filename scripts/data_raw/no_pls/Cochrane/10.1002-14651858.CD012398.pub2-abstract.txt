@@ -1,0 +1,15 @@
+Background
+Schizophrenia is a severe mental health condition that is characterised by positive symptoms, such as hallucinations and delusions; negative symptoms, such as flattened affect, thought disorder (disrupted speech), and lack of motivation; and cognitive symptoms, such as problems with memory and attention. Schizophrenia can occur as an isolated episode, or as a recurring cycle of remission and relapse, and is associated with impairment in psychosocial and occupational functioning. 
+Although antipsychotic drugs are the main treatment for people with schizophrenia, in most countries mental health services usually provide a range of add‐on interventions, including occupational therapy. This is a complex intervention designed to support and enable continued participation in daily life through engagement in activities and occupations meaningful to the individual. Occupational therapists are professionals trained to deliver therapy where the emphasis is on improving occupational function and participation rather than treating symptoms, and uses a wide range of methods based on the needs of individuals. However, similar interventions may also be delivered by staff not trained as occupational therapists. 
+Objectives
+To examine the effects of occupational therapy delivered by occupational therapists compared to occupational therapy delivered by any other person for people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials (including trial registers) on 4 November 2016 and 26 July 2018. 
+Selection criteria
+All randomised controlled trials evaluating the functional or clinical outcomes of occupational therapy, or both, for people with schizophrenia delivered by occupational therapists compared with occupational therapy for people with schizophrenia delivered by anyone other than occupational therapists. 
+Data collection and analysis
+Review authors independently inspected citations, selected studies, extracted data, and appraised study quality. 
+Main results
+The search yielded 1633 records. Of these, we retrieved 17 full‐text reports (14 studies) for further scrutiny, which we subsequently excluded as they did not meet our inclusion criteria. 
+Authors' conclusions
+Currently there are no randomised controlled trials comparing delivery of occupational therapy for people diagnosed with schizophrenia by occupational therapists with delivery of similar interventions by anyone other than occupational therapists. Research studies employing methodologically robust trial designs are needed to establish whether or not there are better outcomes for people with a diagnosis of schizophrenia with occupational therapy that is delivered by trained occupational therapists. 

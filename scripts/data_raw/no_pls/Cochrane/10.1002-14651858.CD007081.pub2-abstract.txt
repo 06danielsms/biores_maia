@@ -1,0 +1,14 @@
+Background
+Severe sepsis and septic shock have recently emerged as particularly acute and lethal challenges amongst critically ill patients presenting to the emergency department (ED). There are no existing data on the current practices of management of patients with severe sepsis comparing early versus late administration of appropriate broad spectrum antibiotics as part of the early goal‐directed therapy that is commenced in the first few hours of presentation. 
+Objectives
+To assess the difference in outcomes with early compared to late administration of antibiotics in patients with severe sepsis in the pre‐intensive care unit (ICU) admission period. We defined early as within one hour of presentation to the ED. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2009); MEDLINE (1990 to February 2010); EMBASE (1990 to February 2010); and ISI web of Science (February 2010). We also searched for relevant ongoing trials in specific websites such as www.controlled‐trials.com; www.clinicalstudyresults.org; and www.update‐software.com. We searched the reference lists of articles. There were no constraints based on language or publication status. 
+Selection criteria
+We planned to include randomized controlled trials of early versus late broad spectrum antibiotics in adult patients with severe sepsis in the ED, prior to admission to the intensive care unit. 
+Data collection and analysis
+Two authors independently assessed articles for inclusion.
+Main results
+We found no studies that satisfied the inclusion criteria.
+Authors' conclusions
+Based on this review we are unable to make a recommendation on the early or late use of broad spectrum antibiotics in adult patients with severe sepsis in the ED pre‐ICU admission. There is a need to do large prospective double blinded randomized controlled trials on the efficacy of early (within one hour) versus late broad spectrum antibiotics in adult severe sepsis patients. Since it makes sense to start antibiotics as soon as possible in this group of seriously ill patients, administering such antibiotics earlier as opposed to later is based on anecdotal suboptimal evidence. 

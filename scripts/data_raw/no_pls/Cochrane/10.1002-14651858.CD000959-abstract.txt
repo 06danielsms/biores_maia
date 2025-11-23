@@ -1,0 +1,14 @@
+Background
+Antimalarials have been used for the treatment of rheumatoid arthritis (RA) for several decades. Recently several trials have been published with larger sample sizes, and better design than previous studies. These newer trials have evaluated the efficacy and toxicity of hydroxychloroquine. 
+Objectives
+To assess the short‐term efficacy and toxicity of antimalarials for the treatment of rheumatoid arthritis (RA). 
+Search methods
+We searched the Cochrane Musculoskeletal Group's trials register, the Cochrane Controlled Trials Register, MEDLINE and EMBASE up to and including August 2000. We also carried out a handsearch of the reference lists of the trials retrieved from the electronic search. 
+Selection criteria
+All randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing antimalarials against placebo in patients with RA 
+Data collection and analysis
+Data abstraction was carried out independently by two reviewers. The same two reviewers using a validated checklist (Jadad 1996) assessed the methodological quality of the RCTs and CCTs. Rheumatoid arthritis outcome measures were extracted from the publications for the 6‐month endpoint. The pooled analysis was performed using standardized mean differences for joint counts, pain and global assessments. Weighted mean differences were used for erythrocyte sedimentation rate (ESR). Toxicity was evaluated with pooled odds ratios for withdrawals. A chi‐square test was used to assess heterogeneity among trials. Fixed effects models were used throughout. 
+Main results
+We found four trials, with 300 patients randomized to hydrochloroquine and 292 to placebo. Only trials evaluating hydroxychloroquine could be pooled in the analysis. A statistically significant benefit was observed when hydroxychloroquine was compared to placebo. The standardized mean differences for the various outcome measures ranged from ‐0.33 to ‐0.52, and were statistically significant. Statistically significant differences were also observed for ESR. Overall withdrawals and withdrawals due to lack of efficacy were significantly more frequent in the placebo group. No differences were observed in withdrawals due to toxicity. 
+Authors' conclusions
+Hydroxychloroquine appears to be efficacious for the treatment of RA. Its overall effect appears to be moderate, but its low toxicity profile should be considered when treating patients with RA. 

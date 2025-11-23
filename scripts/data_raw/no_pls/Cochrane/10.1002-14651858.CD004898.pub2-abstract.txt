@@ -1,0 +1,14 @@
+Background
+Monoamine oxidase B (MAO‐B) inhibitors slow disease progression in Parkinson's disease (PD) but clinical trials have produced conflicting results. 
+Objectives
+To assess the evidence from randomised controlled trials for the effectiveness and safety of long‐term use of MAO‐B inhibitors in early PD. 
+Search methods
+We searched the following electronic databases: Cochrane Central Register of Controlled trials (CENTRAL) (The Cochrane Library Issue 11, 2011), MEDLINE (last searched 8th November 2011) and EMBASE (last searched 8th November 2011); and handsearched neurology and movement disorders conference proceedings, checked reference lists of relevant studies and contacted other researchers. 
+Selection criteria
+We included all unconfounded randomised controlled trials that compared a MAO‐B inhibitor with control, in the presence or absence of levodopa or dopamine agonists, in patients with early PD where treatment and follow up lasted at least one year. 
+Data collection and analysis
+Two reviewers independently selected trials for inclusion, assessed the methodological quality, and extracted the data. Some additional data were provided by the original authors. Random‐effects models were used to analyse results, where appropriate. 
+Main results
+Twelve trials were included (2514 patients, average follow‐up six years), 11 using selegiline. The methodological quality was reasonable although concealment of allocation was definitely adequate in only five trials. MAO‐B inhibitors were not associated with a significant increase in deaths (odds ratio (OR) 1.12; 95% confidence interval (CI) 0.90 to 1.41). They provided small benefits over control in impairment (weighted mean difference (WMD) for change in motor UPDRS score 3.79 points less with MAO‐B inhibitors; 95% CI 2.27 to 5.30) and disability (WMD for change in UPDRS ADL score 1.49 less; 95% CI 0.49 to 2.49) at one year which may not be clinically significant. There was a levodopa‐sparing effect with MAO‐B inhibitors, which was associated with a significant reduction in motor fluctuations (OR 0.73; 95% CI 0.58 to 0.91) but not dyskinesia (OR 0.96; 95% CI 0.76 to 1.22). The reduction in motor fluctuations was, however, not robust in sensitivity analyses. There was a trend to more withdrawals due to adverse events with MAO‐B inhibitors (OR 1.72; 95% CI 0.98 to 3.01). 
+Authors' conclusions
+MAO‐B inhibitors (more specifically selegiline which contributes most of the data) do not appear to delay disease progression in terms of improved survival but may reduce later motor fluctuations. At present, we do not feel these drugs can be recommended for routine use in the treatment of early Parkinson's disease. 

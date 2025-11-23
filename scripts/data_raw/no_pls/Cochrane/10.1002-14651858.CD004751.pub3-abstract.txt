@@ -1,0 +1,16 @@
+Background
+Over the last 10 years laparoscopy and minilaparotomy have become increasingly common approaches for the surgical removal of benign ovarian tumours. However, in the event that a tumour is found to be malignant, laparotomy is the appropriate procedure. Careful preoperative assessment including transvaginal ultrasound with morphological scoring, colour doppler assessment of vascular quality, and serum cancer antigen 125 (CA 125) level is desirable. 
+Objectives
+To determine the benefits, harms, and cost of laparoscopy or minilaparotomy compared with laparotomy in women with benign ovarian tumours. 
+Search methods
+We searched electronic databases, trial registers, and reference lists of published trial reports. Reference lists from trials and review articles were searched. 
+Selection criteria
+All randomised controlled trials comparing either laparoscopy or minilaparotomy with laparotomy for benign ovarian tumours. 
+Data collection and analysis
+Eight review authors independently assessed the eligibility and quality of each study and extracted the data. 
+Main results
+The results of nine randomised controlled trials (N = 482 women) showed that laparoscopic surgery was associated with fewer adverse events of surgery (surgical injury or postoperative complications including fever or infection) (OR 0.3, 95% CI 0.2 to 0.5), less postoperative pain (VAS score WMD ‐2.4, 95% CI ‐2.7 to ‐2.0), greater likelihood of being pain free after two days (OR 7.42, 95% CI 4.86 to 11.33), and fewer days in hospital (WMD ‐2.88, 95% CI ‐3.1 to ‐2.7) than with laparotomy. 
+In one study that reported costs, laparoscopy was associated with a significant reduction in costs compared to laparotomy (WMD ‐ USD 1045, 95% CI ‐1348 to ‐742) in 1993. Very high levels of heterogeneity made it inappropriate to pool data on duration of surgery. 
+Three RCTs compared laparoscopy versus minilaparotomy and found that laparoscopy was associated with reduced odds of any adverse event (surgical injury or postoperative complications) (OR 0.10, 95% CI 0 to 0.8) and lower VAS scores for pain (WMD ‐1.0, 95% CI ‐1.6 to ‐0.45). Duration of hospital stay ranged between 1 and 2.2 days, with substantial heterogeneity. 
+Authors' conclusions
+In women undergoing surgery for benign ovarian tumours, laparoscopy was associated with a reduction in fever, urinary tract infection, postoperative complications, postoperative pain, number of days in hospital, and total cost. These findings should be interpreted with caution since only a small number of studies were identified. These included a total of only 769 women and not all of the important outcomes were reported in each study. 

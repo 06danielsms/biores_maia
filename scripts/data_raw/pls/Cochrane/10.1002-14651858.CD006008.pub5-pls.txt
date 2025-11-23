@@ -1,0 +1,33 @@
+Intermittent catheter techniques, strategies and catheter designs for managing long‐term bladder conditions 
+Review question 
+There are different catheterisation techniques, strategies and catheter designs which may affect symptomatic urinary tract infection (UTI; a bladder infection detected through urine testing where the person has symptoms of infection), other complications and user preference.  
+In this review, we focussed on these outcomes in people who used aseptic or clean catheterisation techniques, single or multiple‐use catheters and different designs of catheter (e.g. coated or uncoated, standard or compact length) to determine if one approach or design is better than another. 
+Background 
+Intermittent catheterisation is a common strategy used by people who have bladder emptying problems. A hollow tube (catheter) is passed through the channel to the bladder (urethra) or through a surgically made channel to the skin surface. The catheter is emptied regularly, usually several times every day. Intermittent catheterisation can be done by a healthcare professional or by the person (or carer) themselves. There are various approaches to intermittent catheterisation which could impact on infection, other complications and user experience. 
+There are four main types of intervention considered in this review which might make a difference to users or to costs. 
+Techniques: Aseptic versus clean   
+An ‘aseptic technique’ is used in healthcare settings, with specially packaged sterile equipment (gloves, lubricant and catheter) and a technique that avoids the catheter coming into contact with anything non‐sterile (including hands, equipment and surfaces) before it is inserted. 
+People inserting their own catheters use a ‘clean’ technique, where the environment is kept as clean as possible and a sterile or clean (multiple‐use) catheter is used without the need for gloves. 
+Strategies: Single‐use versus multiple‐use    
+There are two types of catheter use: single‐use and multiple‐use. Re‐use of catheters means that the catheter is cleaned and re‐used a varying number of times (e.g. for up to 24 hours or for one week/month). 
+Design: Uncoated versus hydrophilic‐coated  
+Uncoated catheters are typically clear PVC and packed individually in sterile packaging. They may be supplied pre‐lubricated, or used with a separate lubricant or water to aid insertion. 
+Hydrophilic‐coated catheters have a slippery coating and either are supplied ready to use, or require the addition of water. 
+Design: Shorter versus standard length   
+Catheters come in varying sizes and lengths to suit men, women and children, and people's different needs.  
+How up‐to‐date is this review? 
+We searched for evidence that had been published up to 12 April 2021.
+Study characteristics 
+We found 23 trials (involving a total of 1339 children and adults using intermittent catheterisation for bladder emptying) comparing different catheterisation techniques and catheter designs. 
+Key results 
+Aseptic versus clean techniques  
+We are uncertain if there is any difference between aseptic and clean techniques in the risk of symptomatic UTI. We identified no data relating to the risk of adverse events. 
+Single‐use (sterile) catheter versus multiple‐use (clean)  
+We are uncertain if there is any difference between single‐use and multiple‐use catheters in the risk of symptomatic UTI because the certainty of evidence is low. One study comparing these interventions reported zero adverse events in either group and no other adverse event data were reported. 
+Hydrophilic‐coated catheters versus uncoated catheters  
+We are uncertain if there is any difference between hydrophilic and uncoated catheters in the number of people with symptomatic UTI. Uncoated catheters probably slightly reduce the risk of urethral trauma and bleeding compared to hydrophilic‐coated catheters. We are uncertain if there is any difference in patient satisfaction or preference. 
+One catheter length versus another catheter length  
+We are uncertain if there is any difference between one catheter length versus another catheter length for all included outcomes.  
+We identified no useable evidence relating to cost‐effectiveness for any of the comparisons.
+Certainty of the evidence 
+The current research evidence is uncertain and design and reporting issues are significant. There are many factors that could limit the generalisability of findings, for example, the study setting (e.g. hospital or home), sex of participants, variability in adherence to user instructions and whether catheterisation is undertaken by the user or another person. More well‐designed trials are needed. Such trials should include analysis of cost‐effectiveness because there are likely to be substantial differences associated with the use of different catheter designs, catheterisation techniques and strategies. 

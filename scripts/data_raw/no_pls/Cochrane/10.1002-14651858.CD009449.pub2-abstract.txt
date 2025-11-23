@@ -1,0 +1,14 @@
+Background
+Most deaths of infants with chronic lung disease (CLD) are caused by respiratory failure, unremitting pulmonary artery hypertension (PAH) with cor pulmonale, or infection. Although the exact prevalence of PAH in infants with CLD is unknown, infants with CLD and severe PAH have a high mortality rate. Except for oxygen supplementation, no specific interventions have been established as effective in the treatment for PAH in premature infants with CLD. Little has been proven regarding the clinical efficacy of vasodilators and concerns remain regarding adverse effects. 
+Objectives
+To review current evidence for the benefits and harms of hydralazine therapy to infants with persistent hypoxemic respiratory failure. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE via PubMed and EMBASE, and other clinical trials registries through November 2011 using the standard search strategy of the Cochrane Neonatal Review Group. We searched these databases using a strategy combining a variation of the Cochrane highly sensitive search strategy for identifying randomised trials in MEDLINE; sensitivity‐maximising version with selected MeSH and free‐text terms: hydralazine, vasodilator agent, antihypertensive agent, heart diseases, lung diseases, respiratory tract diseases, infant, and randomised controlled trial. 
+Selection criteria
+We considered only randomised controlled trials and quasi‐randomised trials for inclusion. We included low birth weight (LBW) infants with persistent hypoxemic respiratory failure who were treated with any type of hydralazine therapy. 
+Data collection and analysis
+Two review authors independently assessed trial quality according to pre‐specified criteria. 
+Main results
+We found no studies meeting the criteria for inclusion in this review.
+Authors' conclusions
+There was insufficient evidence to determine the safety and efficacy of hydralazine in LBW infants with persistent hypoxemic respiratory failure. Since hydralazine is inexpensive and potentially beneficial, randomised controlled trials are recommended. Such trials are particularly needed in settings where other medications such as sildenafil, inhaled nitric oxide (iNO), or extracorporeal membrane oxygenation (ECMO) are not available. 

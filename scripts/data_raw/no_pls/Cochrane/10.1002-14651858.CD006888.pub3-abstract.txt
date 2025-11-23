@@ -1,0 +1,14 @@
+Background
+People with intermittent claudication (IC) suffer from pain in the muscles of the leg occurring during exercise which is relieved by a short period of rest. Symptomatic relief can be achieved by (supervised) exercise therapy and pharmacological treatments. Ginkgo biloba is a vasoactive agent and is used to treat IC. 
+Objectives
+To assess the effect of Ginkgo biloba on walking distance in people with intermittent claudication. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (March 2013) and CENTRAL (2013, Issue 2). 
+Selection criteria
+Randomised controlled trials of Ginkgo biloba extract, irrespective of dosage, versus placebo in people with IC. 
+Data collection and analysis
+Two authors independently assessed trials for selection, assessed study quality and extracted data. We extracted number of patients, mean walking distances or times and standard deviations. To standardise walking distance or time, caloric expenditures were used to express the difference between the different treadmill protocols, which were calculated from the speed and incline of the treadmill. 
+Main results
+Fourteen trials with a total of 739 participants were included. Eleven trials involving 477 participants compared Ginkgo biloba with placebo and assessed the absolute claudication distance (ACD). Following treatment with Ginkgo biloba at the end of the study the ACD increased with an overall effect size of 3.57 kilocalories (confidence interval (CI) ‐0.10 to 7.23, P = 0.06), compared with placebo. This translates to an increase of just 64.5 ( CI ‐1.8 to 130.7) metres on a flat treadmill with an average speed of 3.2 km/h. Publication bias leading to missing data or "negative" trials is likely to have inflated the effect size. 
+Authors' conclusions
+Overall, there is no evidence that Ginkgo biloba has a clinically significant benefit for patients with peripheral arterial disease. 

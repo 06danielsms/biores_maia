@@ -1,0 +1,25 @@
+Clinical Study Results
+
+Average increase in airway volume:
+- GP MDI: 50.0
+- FF MDI: 40.0
+- egatnecreP: 30.0
+- 23.0%
+- Increase: 11.0%
+- in airway volume: 10.0
+
+Airway resistance:
+
+The researchers found that:
+- When participants took GP MDI, the airway resistance decreased by 25.0%.
+- When participants took FF MDI, the airway resistance decreased by 44.0%.
+
+Average decrease in airway resistance:
+- GP MDI: 50.0
+- 44.0%
+- egatnecreP: 30.0
+- 25.0%
+- Decrease: 10.0
+- in airway resistance: 0
+
+6

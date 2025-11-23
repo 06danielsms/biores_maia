@@ -1,0 +1,23 @@
+Can a first dose of whole‐cell whooping cough vaccine given before six months old prevent allergic diseases in childhood? 
+What are allergic diseases? 
+Allergic diseases are among the most common persistent illnesses in children. They are caused by the immune system reacting abnormally to otherwise harmless substances such as foods and pollens. Food allergies are of increasing concern as the number of cases reported in a number of high‐income countries over the past 30 years appears to have increased. 
+Why we did this Cochrane Review? 
+The only proven preventive strategy against food allergies is early introduction of peanut and egg into the infant diet. However, a recent study found that food allergies appeared less common in children who had received one or more doses of whole‐cell (wP) whooping cough vaccine in early infancy than in those who had received acellular (aP) whooping cough vaccines only. That study could not determine whether the apparently lower risk of allergy was because of the wP vaccine, or whether it was because of other potential differences between wP and aP‐vaccinated children, as the vaccines were not randomly assigned. Therefore, a Cochrane Review was required to identify any evidence of wP as a food allergy prevention strategy. 
+What did we do? 
+We searched for studies that compared wP versus aP vaccination in babies younger than six months. We were interested in comparing babies vaccinated with wP vaccines and those vaccinated with aP vaccines, with respect to: 
+1. how many went on to develop food allergy, asthma or serious (and potentially life‐threatening) allergic reactions; 
+2. how many had serious unwanted events following vaccination; and,
+3. how many had encephalopathy, a serious yet uncommon condition affecting the brain.
+To compare rates of encephalopathy and other serious unwanted events, we looked for studies in which babies were given wP or aP vaccines at random (randomised controlled trials (RCTs)). To compare rates of allergic diseases, we also looked for studies where wP or aP vaccines were not given at random (non‐randomised studies of interventions (NRSIs)). In either case, studies lasted for at least six months. 
+Search date 
+We included evidence published up to September 2020.
+What we found 
+Investigation 1 
+We found four studies (7333 children) carried out in Sweden (one), Australia (two) and the UK (one) that looked at the effect of whooping cough vaccines on allergic diseases. As we found little reliable data about the risk of food allergy after whooping cough vaccine, we decided to look at the risk of any allergic disease. Within 2.5 years of receiving a whooping cough vaccine (one RCT), 37/137 children vaccinated with wP, and 114/360 vaccinated with aP were diagnosed with at least one allergic disease. During the same period 15/137 vaccinated with wP and 38/360 vaccinated with aP were diagnosed with asthma specifically. No studies assessed serious or potentially life‐threatening allergic reactions. 
+Investigations 2 & 3 
+Low numbers of serious unwanted effects were reported for all groups (15 studies, 38,072 children). For every 1000 babies vaccinated with a first dose of wP, 11 had at least one serious unwanted effect. The risk for those who received aP vaccines was 12 children. No cases of encephalopathy were identified in either group (seven studies, 115,271 children). 
+How reliable are these findings? 
+One RCT reporting on whooping cough vaccines and allergic diseases included few children, and was carried out in a country with low levels of allergic disease. Therefore, it remains very uncertain whether a first dose of wP does or does not decrease the risk of allergic diseases. 
+Very few children experienced serious unwanted effects. We are uncertain whether there is a difference in the risk of serious unwanted effects in children vaccinated with a first dose of wP, compared with aP, but any difference is likely to be small. No cases of encephalopathy following vaccination were reported. Because this is a serious outcome, the certainty of the evidence was judged to be low. 
+Key messages 
+Ongoing and future studies may change our conclusions and provide more definitive evidence. The data reviewed suggest that wP is safe and support its continued use in countries where it is still recommended for preventing whooping cough. 

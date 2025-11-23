@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is one of the most frequently performed operations. Open cholecystectomy has been the gold standard for over 100 years. Small‐incision cholecystectomy is a less frequently used alternative. Laparoscopic cholecystectomy was introduced in the 1980s. 
+Objectives
+To compare the beneficial and harmful effects of laparoscopic versus small‐incision cholecystectomy for patients with symptomatic cholecystolithiasis. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (6 April 2004), The Cochrane Library (Issue 1, 2004), MEDLINE (1966 to January 2004), EMBASE (1980 to January 2004), Web of Science (1988 to January 2004), and CINAHL (1982 to January 2004) for randomised trials. 
+Selection criteria
+All published and unpublished randomised trials in patients with symptomatic cholecystolithiasis comparing any kind of laparoscopic cholecystectomy versus small‐incision or other kind of minimal incision open cholecystectomy. No language limitations were applied. 
+Data collection and analysis
+Two authors independently performed selection of trials and data extraction. The methodological quality of the generation of the allocation sequence, allocation concealment, blinding, and follow‐up was evaluated to assess bias risk. Analyses were based on the intention‐to‐treat principle. Authors were requested additional information in case of missing data. Sensitivity and subgroup analyses were performed if appropriate. 
+Main results
+Thirteen trials randomised 2337 patients. Methodological quality was relatively high considering the four quality criteria. Total complications of laparoscopic and small‐incision cholecystectomy are high: 26.6% versus 22.9%. Total complications (risk difference, random‐effects ‐0.01, 95% confidence interval (CI) ‐0.07 to 0.05), hospital stay (weighted mean difference (WMD), random‐effects ‐0.72 days, 95% CI ‐1.48 to 0.04), and convalescence were not significantly different. High‐quality trials show a quicker operative time for small‐incision cholecystectomy (WMD, high‐quality trials 'blinding', random‐effects 16.4 minutes, 95% CI 8.9 to 23.8) while low‐quality trials show no significant difference. 
+Authors' conclusions
+Laparoscopic and small‐incision cholecystectomy seem to be equivalent. No differences could be observed in mortality, complications, and postoperative recovery. Small‐incision cholecystectomy has a significantly shorter operative time. Complications in elective cholecystectomy are prevalent. 

@@ -1,0 +1,18 @@
+Background
+The World Health Organization (WHO) recommends artemisinin‐based combination therapy (ACT) for treating people with Plasmodium falciparum malaria. Five combinations are currently recommended, all administered over three days. Artemisinin‐naphthoquine is a new combination developed in China, which is being marketed as a one‐day treatment. Although shorter treatment courses may improve adherence, the WHO recommends at least three days of the short‐acting artemisinin component to eliminate 90% P. falciparum parasites in the bloodstream, before leaving the longer‐acting partner drug to clear the remaining parasites. 
+Objectives
+To evaluate the efficacy and safety of the artemisinin‐naphthoquine combination for treating adults and children with uncomplicated P. falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL) published in The Cochrane Library; MEDLINE; EMBASE; and LILACS up to January 2015. We also searched the metaRegister of Controlled Trials (mRCT) using 'malaria' and 'arte* OR dihydroarte*' as search terms. 
+Selection criteria
+Randomized controlled trials comparing artemisinin‐naphthoquine combinations with established WHO‐recommended ACTs for the treatment of adults and children with uncomplicated malaria due to P. falciparum. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility and risk of bias, and extracted data. We analysed primary outcomes in line with the WHO 'Protocol for assessing and monitoring antimalarial drug efficacy’ and compared drugs using risk ratios (RR) and 95% confidence intervals (CI). Secondary outcomes were effects on gametocytes, haemoglobin, and adverse events. We assessed the quality of evidence using the GRADE approach. 
+Main results
+Four trials, enrolling 740 adults and children, met the inclusion criteria. Artemisinin‐naphthoquine was administered as a single dose (two trials), as two doses given eight hours apart (one trial), and once daily for three days (one trial), and compared to three‐day regimens of established ACTs. Three additional small pharmaceutical company trials have been carried out. We have requested the data but have not received a response from the company. 
+Artemisinin‐naphthoquine versus artemether‐lumefantrine 
+In three small trials from Benin, Côte d'Ivoire, and Papua New Guinea, both combinations had a very low incidence of treatment failure at Day 28, and there were no differences demonstrated in PCR‐unadjusted, or PCR‐adjusted treatment failure (three trials, 487 participants, low quality evidence). Only the single study from Papua New Guinea followed participants up to Day 42, and the number of treatment failures remained very low with both combinations (one trial, 186 participants, very low quality evidence). 
+Artemisinin‐naphthoquine versus dihydroartemisinin‐piperaquine 
+In a single small trial from Indonesia, treatment failure at Day 28 and Day 42 was very low in both groups with no differences demonstrated (one trial, 144 participants, very low quality evidence). 
+Authors' conclusions
+The results of these few trials of artemisinin‐naphthoquine are promising, but further trials from multiple settings are required to reliably demonstrate the relative efficacy and safety compared to established ACTs. Future trials should be adequately powered to demonstrate non‐inferiority, and regimens incorporating three days of the artemisinin component are probably preferable to the one‐day regimens. 

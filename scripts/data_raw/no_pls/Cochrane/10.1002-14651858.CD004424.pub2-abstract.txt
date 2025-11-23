@@ -1,0 +1,14 @@
+Background
+Seizures can present at any time before or after diagnosis of a brain tumor. The risk of seizures varies by tumor type and its location in the brain. For a long time we believed that preventing seizures with antiepileptic drugs (seizure prophylaxis) was effective and necessary, but the supporting evidence was little and mixed. Such evidence was the basis for previous reviews to conclude that seizure prophylaxis was ineffective in people with brain tumors. 
+Objectives
+To estimate the effectiveness of seizure prophylaxis in people with brain tumors, and to estimate the adverse event rates in the identified clinical trials. 
+Search methods
+A search strategy that included free‐text and MeSH terms in LILACS, EMBASE, PubMed, CENTRAL, and The Cochrane Library (1966 to 2007). 
+Selection criteria
+Controlled clinical trials with random allocation, blinded or unblinded, and placebo or observation in the control groups. 
+Data collection and analysis
+We screened the articles, extracted the data, and rated the validity of each trial to assess the risk of bias. Our primary outcome was the occurrence of a first seizure. The secondary outcome was adverse events. We pooled the aggregate data for each outcome into a random‐effects model meta‐analysis using the relative risk (RR). For adverse events, we also included the number needed to harm (NNH) using the absolute risk increase to compute the NNH. 
+Main results
+There was no difference between the treatment interventions and the control groups in preventing a first seizure in participants with brain tumors. The risk of an adverse event was higher for those on antiepileptic drugs than for participants not on antiepileptic drugs (NNH 3; RR 6.10, 95% CI 1.10 to 34.63; P = 0.046). 
+Authors' conclusions
+The evidence is neutral, neither for nor against seizure prophylaxis, in people with brain tumors. These conclusions apply only for the antiepileptic drugs phenytoin, phenobarbital, and divalproex sodium. The decision to start an antiepileptic drug for seizure prophylaxis is ultimately guided by assessment of individual risk factors and careful discussion with patients. 

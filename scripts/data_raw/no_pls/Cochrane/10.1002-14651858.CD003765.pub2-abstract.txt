@@ -1,0 +1,14 @@
+Background
+Regional anaesthesia (spinal or epidural anaesthesia) for caesarean section is the preferred option when balancing risks and benefits to the mother and her fetus. Spinal anaesthesia for caesarean section is thought to be advantageous due to simplicity of technique, rapid administration and onset of anaesthesia, reduced risk of systemic toxicity and increased density of spinal anaesthetic block. 
+Objectives
+To assess the relative efficacy and side‐effects of spinal versus epidural anaesthesia in women having caesarean section. 
+Search methods
+The Cochrane Pregnancy and Childbirth Group Trials Register (February 2003) and the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 1, 2003). 
+Selection criteria
+Types of studies considered for review include all published randomised controlled trials involving a comparison of spinal with epidural anaesthesia for caesarean section. 
+Data collection and analysis
+Two reviewers independently assessed trials for inclusion. Review Manager software was used for calculation of the treatment effect represented by relative risk (RR) and weighted mean difference (WMD) using a random effects model with 95% confidence intervals (CI). 
+Main results
+Ten trials (751 women) met our inclusion criteria. No difference was found between spinal and epidural techniques with regards to failure rate (RR 0.98, 95% CI 0.23 to 4.24; four studies), need for additional intraoperative analgesia (RR 0.88, 95% CI 0.59 to 1.32; five studies), need for conversion to general anaesthesia intraoperatively, maternal satisfaction, need for postoperative pain relief and neonatal intervention. Women receiving spinal anaesthesia for caesarean section showed reduced time from start of the anaesthetic to start of the operation (WMD 7.91 minutes less (95% CI ‐11.59 to ‐4.23; four studies), but increased need for treatment of hypotension RR 1.23 (95% CI 1.00 to 1.51; six studies). 
+Authors' conclusions
+Both spinal and epidural techniques are shown to provide effective anaesthesia for caesarean section. Both techniques are associated with moderate degrees of maternal satisfaction. Spinal anaesthesia has a shorter onset time, but treatment for hypotension is more likely if spinal anaesthesia is used. No conclusions can be drawn about intraoperative side‐effects and postoperative complications because they were of low incidence and/or not reported. 

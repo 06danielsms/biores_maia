@@ -1,0 +1,14 @@
+Background
+Acute ischaemic stroke is a common cause of death and disability. A number of studies published in China have shown that acanthopanax is beneficial for acute ischaemic stroke. 
+Objectives
+To assess the efficacy and safety of acanthopanax in patients with acute ischaemic stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched January 2008), the Chinese Stroke Trials Register (last searched March 2008), and the Trials Register of the Cochrane Complementary Medicine Field (last searched January 2008). In addition, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2008), MEDLINE (1966 to March 2008), EMBASE (1980 to March 2008), CINAHL (1982 to March 2008), AMED (1985 to March 2008), and nine Chinese databases, including the China Biological Medicine Database (CBM‐disc) (1979 to March 2008). We handsearched three Chinese journals and searched reference lists, relevant clinical trials registers and research databases. In an attempt to identify further published, unpublished, and ongoing trials, we contacted a pharmaceutical company, researchers and study authors. 
+Selection criteria
+We included randomised controlled trials comparing acanthopanax with placebo or open control (no placebo) in patients with acute ischaemic stroke. 
+Data collection and analysis
+Two review authors selected trials for inclusion, assessed trial quality and extracted the data independently. 
+Main results
+We included 13 trials (962 participants); the period of follow up in all included trials ranged from 10 to 30 days. None of the trials reported the pre‐specified primary outcome death or dependency during the follow‐up period. The outcome measure in all included trials was the improvement of neurological deficit after treatment; acanthopanax was associated with a significant increase in the number of participants whose neurological impairment improved (risk ratio (RR) 1.22, 95% confidence interval (CI) 1.15 to 1.29). Two trials reported adverse events; five trials reported no adverse events. 
+Authors' conclusions
+The risk of bias in all the included trials was high, and hence the data were not adequate to draw reliable conclusions about the efficacy of acanthopanax in acute stroke. Much larger trials of greater methodological quality are needed. 

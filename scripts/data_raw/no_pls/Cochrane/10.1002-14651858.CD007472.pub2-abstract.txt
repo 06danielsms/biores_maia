@@ -1,0 +1,14 @@
+Background
+Vascular occlusion to reduce blood loss is used during elective liver resection but results in significant ischaemia reperfusion injury. This, in turn, might lead to significant postoperative liver dysfunction and morbidity. Various pharmacological drugs have been used with an intention to ameliorate the ischaemia reperfusion injury in liver resections. 
+Objectives
+To assess the benefits and harms of different pharmacological agents versus no pharmacological interventions to decrease ischaemia reperfusion injury during liver resections where vascular occlusion was performed during the surgery. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until January 2009. 
+Selection criteria
+We included randomised clinical trials, irrespective of language or publication status, comparing any pharmacological agent versus placebo or no pharmacological agent during elective liver resections with vascular occlusion. 
+Data collection and analysis
+Two authors independently identified trials for inclusion and independently extracted the data. We analysed the data with both the fixed‐effect and the random‐effects models using RevMan Analysis. We calculated the risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI) based on intention‐to‐treat analysis or available case analysis. 
+Main results
+We identified a total of 15 randomised trials evaluating 11 different pharmacological interventions (methylprednisolone, multivitamin antioxidant infusion, vitamin E infusion, amrinone, prostaglandin E1, pentoxifylline, mannitol, trimetazidine, dextrose, allopurinol, and OKY 046 (a thromboxane A2 synthetase inhibitor)). All trials had high risk of bias. There were no significant differences between the groups in mortality, liver failure, or perioperative morbidity. The trimetazidine group had a significantly shorter hospital stay than control (MD ‐3.00 days; 95% CI ‐3.57 to ‐2.43). There were no significant differences in any of the clinically relevant outcomes in the remaining comparisons. Methylprednisolone improved the enzyme markers of liver function and trimetazidine, methylprednisolone, and dextrose reduced the enzyme markers of liver injury compared with controls. However, there is a high risk of type I and type II errors because of the few trials included, the small sample size in each trial, and the risk of bias. 
+Authors' conclusions
+Trimetazidine, methylprednisolone, and dextrose may protect against ischaemia reperfusion injury in elective liver resections performed under vascular occlusion, but this is shown in trials with small sample sizes and high risk of bias. The use of these drugs should be restricted to well‐designed randomised clinical trials before implementing them in clinical practice. 

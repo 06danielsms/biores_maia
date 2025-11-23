@@ -1,0 +1,11 @@
+Vaccines for preventing severe Haemophilus influenzae type b (Hib) infections in people with sickle cell disease 
+Review question 
+We reviewed the available evidence from randomised controlled trials about how effective and safe Haemophilus influenzae type b (Hib) conjugate vaccines are for people with sickle cell disease (SCD). This is an update of a previously published Cochrane Review. 
+Background 
+People with SCD are at high risk of infection from Hib, which was responsible for a high death rate in children under five years of age before Hib conjugate vaccination was introduced in high‐income countries. In African countries, where coverage for this vaccination is extremely low, Hib remains one of the most common causes of bacteraemias (bacteria in the blood) in children with SCD. Another Cochrane Review on conjugate vaccines for preventing Hib infections in children under five years of age has shown that Hib conjugate vaccines were safe and effective but it did not specifically look at children with SCD, who have a high risk of this infection. 
+Search date 
+The evidence is current to: 18 December 2017.
+Study characteristics 
+We did not find any randomised controlled trials comparing Hib conjugate vaccines with placebo ('dummy' treatment) or no treatment in people with SCD. 
+Key results and quality of the evidence 
+There are no randomised controlled trials of this vaccine in people with SCD. However, there has been a dramatic decrease in the occurrence of severe Hib infections in children with SCD living in high‐income countries since the vaccination has been included in childhood immunisation schedules. Therefore, including universal Hib conjugate vaccination in low‐income countries may improve the survival of children with SCD. There is not enough data to allow us to assess the potential effect of Hib vaccination in unvaccinated adults with SCD. Future trials should assess the ideal Hib immunisation schedule in children and adults with SCD. 

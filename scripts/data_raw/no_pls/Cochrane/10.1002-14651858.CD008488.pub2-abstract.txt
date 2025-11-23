@@ -1,0 +1,14 @@
+Background
+Diabetes is a chronic illness characterised by insulin resistance or deficiency, resulting in elevated glycosylated haemoglobin A1c (HbA1c) levels. Diet and adherence to dietary advice is associated with lower HbA1c levels and control of disease. Dietary history may be an effective clinical tool for diabetes management and has traditionally been taken by oral‐and‐written methods, although it can also be collected using computer‐assisted history taking systems (CAHTS). Although CAHTS were first described in the 1960s, there remains uncertainty about the impact of these methods on dietary history collection, clinical care and patient outcomes such as quality of life.  
+Objectives
+To assess the effects of computer‐assisted versus oral‐and‐written dietary history taking on patient outcomes for diabetes mellitus. 
+Search methods
+We searched The Cochrane Library (issue 6, 2011), MEDLINE (January 1985 to June 2011), EMBASE (January 1980 to June 2011) and CINAHL (January 1981 to June 2011). Reference lists of obtained articles were also pursued further and no limits were imposed on languages and publication status. 
+Selection criteria
+Randomised controlled trials of computer‐assisted versus oral‐and‐written history taking in patients with diabetes mellitus. 
+Data collection and analysis
+Two authors independently scanned the title and abstract of retrieved articles. Potentially relevant articles were investigated as full text. Studies that met the inclusion criteria were abstracted for relevant population and intervention characteristics with any disagreements resolved by discussion, or by a third party. Risk of bias was similarly assessed independently. 
+Main results
+Of the 2991 studies retrieved, only one study with 38 study participants compared the two methods of history taking over a total of eight weeks. The authors found that as patients became increasingly familiar with using CAHTS, the correlation between patients' food records and computer assessments improved. Reported fat intake decreased in the control group and increased when queried by the computer. The effect of the intervention on the management of diabetes mellitus and blood glucose levels was not reported. Risk of bias was considered moderate for this study. 
+Authors' conclusions
+Based on one small study judged to be of moderate risk of bias, we tentatively conclude that CAHTS may be well received by study participants and potentially offer time saving in practice. However, more robust studies with larger sample sizes are needed to confirm these. We cannot draw on any conclusions in relation to any other clinical outcomes at this stage. 

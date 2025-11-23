@@ -1,0 +1,14 @@
+Background
+Levodopa plus dopamine decarboxylase inhibitor is a common treatment for restless legs syndrome (RLS). 
+Objectives
+To evaluate efficacy and safety of levodopa for RLS compared to placebo and other active agents. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2008, Issue 4), MEDLINE, EMBASE, PsycINFO and CINAHL, from January 1985 to December 2008, reference lists of articles, and contacted pharmaceutical companies. 
+Selection criteria
+We included double‐blind randomised controlled trials (RCT) investigating levodopa treatment versus placebo or other treatment for at least seven days in patients with RLS (age ≥ 18 years). Outcomes included symptom severity, CGI‐I, objective as well as self rated sleep parameters, quality of life, and safety parameters. 
+Data collection and analysis
+Two authors extracted data, assessed risk of bias, and contacted pharmaceutical companies and authors for additional information. We collected dropouts due to adverse events and patients experiencing adverse events. 
+Main results
+Six placebo controlled and three active controlled RCTs were included (521 participants). Symptom severity (11 point rating scale, 0 points indicating no symptoms, 10 points indicating maximally severe symptoms) was more reduced with levodopa than placebo in two studies (mean difference (MD) ‐1.34, 95% confidence interval (CI) ‐2.18 to ‐0.5, P = 0.002). Periodic limb movements in sleep per hour of sleep (PLMS‐Index; PLMSI) improved by ‐26.28/h compared to placebo (95% CI ‐30.53 to ‐22.02, P < 0.00001).The CGI‐I changed more with levodopa than placebo in two studies (MD ‐1.25, 95% CI ‐1.89 to ‐0.62, P = 0.0001). In two studies, sleep quality (sleep questionnaire, visual analogue scale) showed a large effect (standardised mean difference (SMD) 0.92, 95% CI 0.52 to 1.33, P < 0.00001) whereas quality of life (50 mm Visual Analogue Scales) improved by 3.23 compared to placebo (95% CI 1.64 to 4.82, P < 0.0001). Few patients dropped out of treatment (3 of 218 patients) but more levodopa treated patients experienced adverse events than with placebo (odds ratio 2.61, 95% CI 1.35 to 5.04, P = 0.004). Two dopamine agonist controlled studies showed smaller effects with levodopa than cabergoline and pramipexole on the IRLS (MD 5.25, 95% CI 2.10 to 8.40, P =0.001), CGI‐I (MD 0.62, 95% CI 0.37 to 0.87, P < 0.00001), and quality of life (MD 5.54, 95% CI 2.65 to 8.43, P = 0.0002). 
+Authors' conclusions
+Levodopa is efficacious for the short‐term treatment of RLS. Augmentation, the clinically most relevant adverse event, was not investigated sufficiently. 

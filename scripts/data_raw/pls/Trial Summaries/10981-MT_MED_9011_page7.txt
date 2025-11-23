@@ -1,0 +1,9 @@
+Clinical Study Results
+
+Number of participants who had adverse events
+There were 38.1% of participants who had adverse events during the study. This was 8 out of 21 participants.
+- 22.2% of participants had adverse events after taking verinurad with allopurinol in Group 1 of the study. This was 2 out of 9 participants.
+- 33.3% of participants had adverse events after taking a placebo in Group 1 of the study. This was 1 out of 3 participants.
+- 55.6% of participants had adverse events after taking verinurad with allopurinol in Group 2 of the study. This was 5 out of 9 participants.
+
+None of the participants had serious adverse events during the study. There were no deaths and none of the participants stopped taking study treatment because of adverse events.

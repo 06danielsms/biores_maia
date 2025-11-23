@@ -1,0 +1,14 @@
+Background
+Non‐alcoholic fatty liver disease (NAFLD) is becoming a wide spread liver disease. The present recommendations for treatment are not evidence‐based. Some of them are various weight reduction measures with diet, exercise, drug, or surgical therapy. 
+Objectives
+To assess the benefits and harms of intended weight reduction for patients with NAFLD.
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, PubMed, EMBASE, Science Citation Index Expanded, Chinese Biomedicine Database, and ClinicalTrials.gov until February 2011. 
+Selection criteria
+We included randomised clinical trials evaluating weight reduction with different measures versus no intervention or placebo in NAFLD patients. 
+Data collection and analysis
+We extracted data independently. We calculated the odds ratio (OR) for dichotomous data and calculated the mean difference (MD) for continuous data, both with 95% confidence intervals (CI). 
+Main results
+The review includes seven trials; five on aspects of lifestyle changes (eg, diet, physical exercise) and two on treatment with a weight reduction drug 'orlistat'. In total, 373 participants were enrolled, and the duration of the trials ranged from 1 month to 1 year. Only one trial on lifestyle programme was judged to be of low risk of bias. We could not perform meta‐analyses for the main outcomes as they were either not reported or there were insufficient number of trials for each outcome to be meta‐analysed. We could meta‐analyse the available data for body weight and body mass index only. Adverse events were poorly reported. 
+Authors' conclusions
+The sparse data and high risk of bias preclude us from drawing any definite conclusion on lifestyle programme or orlistat for treatment of NAFLD. Further randomised clinical trials with low risk of bias are needed to test the beneficial and harmful effects of weight reduction for NAFLD patients. The long‐term prognosis of development of fibrosis, mortality, and quality of life should be studied. 

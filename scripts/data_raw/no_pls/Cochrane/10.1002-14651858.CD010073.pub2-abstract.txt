@@ -1,0 +1,15 @@
+Background
+Preterm birth is a leading cause of perinatal morbidity and mortality. Early animal and clinical studies have provided some evidence to support an inhibitory effect of relaxin on preterm birth for women in preterm labour. 
+Objectives
+To assess the effects of relaxin for women in preterm labour on preterm birth and associated maternal and neonatal/infant health outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (30 June 2013), and the reference lists of relevant papers. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials assessing the effects of relaxin compared with no treatment, a placebo, or an alternative tocolytic, for preventing preterm birth for women in preterm labour. Primary review outcomes included birth within 28 hours of treatment, birth within seven days of treatment, perinatal mortality, and a serious neonatal adverse outcome composite. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data and assessed the risk of bias of included studies. 
+Main results
+We included three quasi‐randomised controlled trials, with a total of 149 women and their babies. All three trials were at a high risk of bias. When comparing women receiving relaxin with those who did not receive relaxin, there was a significant reduction in birth within seven days of treatment in one trial of 30 women (risk ratio (RR) 0.50, 95% confidence interval (CI) 0.29 to 0.87), yet no significant difference was seen for perinatal mortality in this trial (RR 0.83, 95% CI 0.32 to 2.15). The second and third included trials did not report on any of the primary outcomes pre‐specified in the review, including birth within 48 hours of treatment, birth within seven days of treatment, perinatal mortality, and serious neonatal adverse outcomes. 
+One trial found a significant increase in pregnancy prolongation for women receiving relaxin (RR 8.00, 95% CI 1.14 to 56.33; 30 women). None of the three included trials found significant differences in the outcomes of fetal death, neonatal death, birthweight or preterm birth, and no trial reported on longer‐term outcomes for the babies. 
+Authors' conclusions
+There is limited randomised controlled trial evidence available on the effect of relaxin during pregnancy for preventing preterm birth for women in preterm labour. Evidence from one quasi‐randomised trial suggested a reduction in birth within seven days of treatment for women receiving relaxin, compared with women in a control group, however this trial was at a high risk of bias and included only 30 women. There is thus insufficient evidence to support or refute the use of relaxin in women in preterm labour for preventing preterm birth. 

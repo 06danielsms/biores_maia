@@ -1,0 +1,22 @@
+Clinical Study Results
+
+The results of these measurements are listed below.
+
+Amount of budesonide in the blood during treatment
+
+Overall, the researchers found that:
+- The amount of budesonide in the blood when the participants took budesonide combined with albuterol sulfate was 969 pg*h/mL.
+- The amount of budesonide in the blood when the participants took Pulmicort, which contained only budesonide, was 1,279 pg*h/mL.
+
+Amount of budesonide in the blood during treatment
+
+2,000
+1,500
+1,279 pg*h/mL
+969 pg*h/mL
+1,000
+500
+0
+Budesonide combined Pulmicort
+with albuterol sulfate (budesonide only)
+5

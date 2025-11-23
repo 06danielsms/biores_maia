@@ -1,0 +1,14 @@
+Background
+Helium and oxygen mixtures (heliox), have been used sporadically in respiratory medicine for decades. Their use in acute respiratory emergencies such as asthma has been the subject of considerable debate. Despite the lapse of more than 60 years since it was first proposed, the role of heliox in treating patients with severe acute asthma remains unclear. 
+Objectives
+To determine the effect of the addition of heliox to standard medical care on the course of acute asthma, as measured by pulmonary function testing and clinical endpoints. 
+Search methods
+Randomised controlled trials were identified from the Cochrane Airways Group Specialised Register. In addition, we contacted primary authors and experts and searched reference lists of articles. Searches are current to August 2010. 
+Selection criteria
+1) Randomised, single or double blind, controlled trials; 2) children or adults with a clinical diagnosis of acute asthma seen in emergency departments or equivalent acute care settings; and 3) compared treatment with inhaled heliox to placebo (oxygen or air). 
+Data collection and analysis
+Two review authors independently assessed the studies for inclusion and quality assessment; disagreement was resolved by a third review author and consensus. 
+Main results
+This review includes a total of ten trials involving 544 acute asthma patients. Seven studies involved adults and three studies dealt solely with children. Three were assessed as high quality (Jadad score > 3). Pulmonary function tests were recorded during heliox administration (15 to 60 min). Pooling of the eight trials contributing data to this review showed no significant group differences (standardised mean differences ‐0.28; 95% confidence interval (CI) ‐0.56 to 0.01). There was significant heterogeneity among the studies. Heliox use did improve pulmonary function only in the subgroup of patients with the most severe baseline pulmonary function impairment; however, this conclusion is based on a small number of studies. There were no significant differences between groups when adults versus children, and high versus low heliox dose studies were compared. Finally, at the end of treatment, participants treated with heliox showed no significant different risk of admission to hospital (RR 0.83 (95%CI 0.66 to 1.08, P = 0.17, I2 = 0%). 
+Authors' conclusions
+The existing evidence does not provide support for the administration of helium‐oxygen mixtures to all ED patients with acute asthma. At this time, heliox treatment does not have a role to play in the initial treatment of patients with acute asthma. Nevertheless, new evidence suggests certain beneficial effects in patients with more severe obstruction. Since these conclusions are based upon between‐group comparisons and small studies, they should be interpreted with caution. 

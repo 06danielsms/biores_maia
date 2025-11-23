@@ -1,0 +1,46 @@
+How accurate are tests (Xpert Ultra and Xpert MTB/RIF) for diagnosing tuberculosis outside the lungs (extrapulmonary tuberculosis) and rifampicin resistance? 
+Why is using Xpert tests for extrapulmonary tuberculosis important? 
+Tuberculosis is one of the top 10 causes of death worldwide. Tuberculosis mainly affects the lungs (pulmonary) but may occur in other parts of the body (extrapulmonary). When people receive proper and timely treatment, tuberculosis is usually curable. One problem involved in managing tuberculosis is that the bacteria become resistant to antibiotics. Not recognizing tuberculosis early may result in delayed diagnosis and treatment and increased illness and death. An incorrect tuberculosis diagnosis may result in increased anxiety and unnecessary treatment. 
+What is the aim of this review? 
+To update the evidence on accuracy of Xpert tests for diagnosing extrapulmonary tuberculosis and rifampicin resistance in adults. Rifampicin is an important tuberculosis drug. We included tuberculous meningitis and pleural, lymph node, bone or joint, genitourinary, peritoneal, pericardial, and disseminated tuberculosis. 
+What was studied in this review? 
+Xpert Ultra and Xpert MTB/RIF are rapid tests for simultaneously diagnosing tuberculosis and rifampicin resistance. We combined study results to determine:‐ sensitivity: people with tuberculosis (rifampicin resistance) correctly diagnosed as having the condition.‐ specificity: people without tuberculosis (rifampicin resistance) correctly identified as not having the condition.The closer sensitivity and specificity are to 100%, the better the test. We measured Xpert results against culture and a composite reference standard (neither is a perfect reference standard because extrapulmonary tuberculosis is paucibacillary (few bacteria)). 
+What are the main results in this review? 
+69 studies tested lymph node, pleural, and cerebrospinal fluid, and other specimens from people with presumptive extrapulmonary tuberculosis. Studies were conducted in 28 different countries. 
+For every 1000 people tested, if 100 had tuberculosis according to the reference standards:
+cerebrospinal fluid 
+‐Xpert Ultra (6 studies): 
+· 89% sensitivity: 168 people would test positive, including 79 without tuberculosis
+· 91% specificity: 832 people would test negative, including 11 with tuberculosis
+‐ Xpert MTB/RIF (30 studies): 
+· 71% sensitivity: 99 people would test positive, including 28 without tuberculosis
+· 97% specificity: 901 people would test negative, including 29 with tuberculosis
+pleural fluid 
+‐ Xpert Ultra (4 studies): 
+· 75% sensitivity: 192 people would test positive, including 117 without tuberculosis
+· 87% specificity: 808 people would test negative, including 25 with tuberculosis
+‐ Xpert MTB/RIF (25 studies): 
+· 50% sensitivity: 60 people would test positive, including 10 without tuberculosis
+· 99% specificity: 940 would test negative, including 50 with tuberculosis
+lymph node fluid 
+‐ Xpert Ultra (1 study): 
+· 70% sensitivity: 70 people would test positive (all have tuberculosis)
+· 100% specificity: 930 people would test negative, including 30 with tuberculosis
+‐Xpert MTB/RIF (4 studies): 
+· 82% sensitivity:118 people would test positive, including 37 without tuberculosis
+· 96% specificity: 882 people would test negative, including 19 with tuberculosis
+rifampicin resistance 
+‐Xpert Ultra (4 studies): 
+· 100% sensitivity: 100 people would test positive (all have rifampicin resistance)
+· 100% specificity: 900 people would test negative (none have rifampicin resistance)
+‐ MTB/RIF test (19 studies): 
+· 97% sensitivity: 105 people would test positive, including eight without rifampicin resistance 
+· 99% specificity: 895 people would test negative, including three with rifampicin resistance 
+Who do the results of this review apply to? 
+People thought to have extrapulmonary tuberculosis.
+How confident are we in our results? 
+Fairly confident for Xpert MTB/RIF in cerebrospinal fluid and less so in lymph node fluid. Less confident for Xpert Ultra, as there were few studies and few people tested. Both reference standards are imperfect, which may affect accuracy estimates. 
+What are the implications of this review? 
+The Xpert tests may be helpful in diagnosing extrapulmonary tuberculosis. Sensitivity varies across different extrapulmonary specimens, while for most specimens, specificity is high, the test rarely yielding a positive result for people without tuberculosis (verified by culture). For tuberculous meningitis, Xpert Ultra had higher sensitivity than Xpert MTB/RIF and lower specificity than Xpert MTB/RIF. The tests had similar accuracy for diagnosing rifampicin resistance. 
+How up‐to‐date is this review? 
+28 January 2020.

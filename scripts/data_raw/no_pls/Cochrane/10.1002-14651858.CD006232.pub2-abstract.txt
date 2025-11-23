@@ -1,0 +1,15 @@
+Background
+The main reasons for inserting a drain after elective liver resections are (i) prevention of sub‐phrenic or sub‐hepatic fluid collection; (ii) identification and monitoring of post‐operative bleeding; (iii) identification and drainage of any bile leak; and (iv) prevent the accumulation of ascitic fluid in cirrhotics. However, there are reports that drain use increases the complication rates. 
+Objectives
+To assess the benefits and harms of routine abdominal drainage in elective liver resections.
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until March 2007. 
+Selection criteria
+We included all randomised trials comparing abdominal drainage and no drainage in adults undergoing elective liver resection. We also included randomised trials comparing different types of drain in adults undergoing elective liver resection. 
+Data collection and analysis
+We collected the data on the characteristics of the trial, methodological quality of the trials, mortality, morbidity, conversion rate, operating time, and hospital stay from each trial. We analysed the data with both the fixed‐effect and the random‐effects models using the Cochrane Collaboration statistical software RevMan Analysis. For each outcome we calculated the odds ratio (OR) with 95% confidence intervals (CI) (based on intention‐to‐treat analysis) by combining the trial data sets using fixed‐effect model or random‐effects model, as appropriate. 
+Main results
+Drain versus no drain  We included five trials with 465 patients randomised: 234 to the drain group and 231 to the no drain group. Three of the five trials were of high methodological quality. There was no statistically significant difference between the two groups for any of the outcomes (mortality, intra‐abdominal collections requiring re‐operation, infected intra‐abdominal collections, wound infection, ascitic leak, and hospital stay, when the random‐effects model was adopted. 
+Open drain versus closed drain  One randomised clinical trial of low methodological quality comparing open with closed drainage (186 patients) showed a lower incidence of infected intra‐abdominal collections, chest complications, and hospital stay in the closed drain group. 
+Authors' conclusions
+There is no evidence to support routine drain use after uncomplicated liver resections.

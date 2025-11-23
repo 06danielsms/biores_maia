@@ -1,0 +1,17 @@
+Background
+Viral encephalitis is characterised by diverse clinical and epidemiological features. Seizures are an important clinical manifestation and are associated with increased mortality and morbidity. Patients may have seizures during the acute illness or they may develop after recovery. There are no recommendations regarding the use of antiepileptic drugs for the primary or secondary prevention of seizures in patients with viral encephalitis. 
+This is an updated version of the original Cochrane review published in The Cochrane Library 2014, Issue 10. 
+Objectives
+To assess the efficacy and tolerability of antiepileptic drugs for the primary and secondary prophylaxis of seizures in viral encephalitis. We had intended to answer the following questions. 
+1. Do antiepileptic drugs used routinely as primary prophylaxis for all patients with suspected or proven viral encephalitis reduce the risk of seizures during the acute illness and reduce neurological morbidity and mortality? 
+2. Do antiepileptic drugs used routinely as secondary prophylaxis for all patients who have had at least one seizure due to suspected or proven viral encephalitis reduce the risk of further seizures during the acute illness and reduce neurological morbidity and mortality? 
+Search methods
+For the latest version of this review, we searched the Cochrane Epilepsy Group Specialized Register (11 April 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO, 11 April 2016), MEDLINE (Ovid 1946 to 11 April 2016), the WHO International Clinical Trials Registry Platform (ICTRP, 11 April 2016), and ClinicalTrials.gov (11 April 2016). We did not impose any language restrictions. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials in which patients were assigned to a treatment or control group (placebo or no drug). 
+Data collection and analysis
+One review author (SP) searched the publications by title, abstract and keywords, and decided on their suitability for the review. For any studies where their suitability was unclear, the co‐authors (CR, BM) were consulted. The co‐authors (CR, BM) independently evaluated the selected studies. Since there were no included studies, we carried out no data analysis. 
+Main results
+We did not find any randomised or quasi‐randomised controlled trials that compared the effects of antiepileptic drugs with placebo (or no drug) for the primary or secondary prevention of seizures in viral encephalitis. We identified two studies from the literature search where different antiepileptic drugs were used in patients with viral encephalitis, however both failed to meet the inclusion criteria. 
+Authors' conclusions
+There is insufficient evidence to support or refute the routine use of antiepileptic drugs for the primary or secondary prevention of seizures in viral encephalitis. There is a need for adequately powered randomised controlled trials in patients with viral encephalitis to assess the efficacy and tolerability of antiepileptic drugs for the primary and secondary prophylaxis of seizures, which is an important clinical problem. 

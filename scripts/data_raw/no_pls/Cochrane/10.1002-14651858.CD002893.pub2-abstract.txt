@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 2, 2003. 
+Allergic rhinitis is a common condition which can significantly impair quality of life. Immunotherapy by injection can significantly reduce symptoms and medication use but its use is limited by the possibility of severe systemic adverse reactions. Immunotherapy by the sublingual route is therefore of considerable interest. 
+Objectives
+To evaluate the efficacy and safety of sublingual immunotherapy for allergic rhinitis in adults and children. 
+Search methods
+We searched the Cochrane ENT Group Trials Register; CENTRAL (2010, Issue 3); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 14 August 2009. 
+Selection criteria
+Randomised, double‐blind, placebo‐controlled trials of sublingual immunotherapy in adults or children. Primary outcome measures were symptom and medication scores. We also collected adverse event data. 
+Data collection and analysis
+Two independent authors selected studies and assessed risk of bias. One author extracted data which was rechecked by two other authors. We used the standardised mean difference (SMD) with a random‐effects model to combine data. 
+Main results
+We included a total of 60 randomised controlled trials in the review. Forty‐nine were suitable for pooling in meta‐analyses (2333 SLIT, 2256 placebo participants). Overall, we found a significant reduction in symptoms (SMD ‐0.49; 95% confidence interval (CI) ‐0.64 to ‐0.34, P < 0.00001) and medication requirements (SMD ‐0.32; 95% CI ‐0.43 to ‐0.21, P < 0.00001) in participants receiving sublingual immunotherapy compared to placebo. None of the trials included in this review reported severe systemic reactions or anaphylaxis, and none of the systemic reactions reported required the use of adrenaline. 
+Authors' conclusions
+This updated review reinforces the conclusion of the original 2003 Cochrane Review that sublingual immunotherapy is effective for allergic rhinitis and has been proven to be a safe route of administration. 

@@ -1,0 +1,16 @@
+Background
+Worldwide, each year over a million people are killed and some ten million people are permanently disabled in road traffic crashes. Post‐licence driver education is used by many as a strategy to reduce traffic crashes. However, the effectiveness of post‐licence driver education has yet to be ascertained. 
+Objectives
+To quantify the effectiveness of post‐licence driver education in reducing road traffic crashes. 
+Search methods
+We searched the following electronic databases: the Cochrane Injuries Group's Specialised Register, Cochrane CENTRAL Register of Controlled Trials, MEDLINE, EMBASE, TRANSPORT (NTIS, TRIS, TRANSDOC, IRRD), Road Res (ARRB), ATRI, National Research Register, PsycInfo, ERIC, C2‐SPECTR, Zetoc, SIGLE, Science (and Social Science) Citation Index. We searched the Internet, checked reference lists of relevant papers and contacted appropriate organisations. The search was not restricted by language or publication status. The search was last updated in October 2005. 
+Selection criteria
+Randomised controlled trials comparing post‐licence driver education versus no education, or one form of post‐licence driver education versus another. 
+Data collection and analysis
+Two reviewers independently screened search results, extracted data and assessed methodological trial quality. 
+Main results
+We found 24 trials of driver education, 23 conducted in the USA and one in Sweden.
+Twenty trials studied remedial driver education. The methodological quality of the trials was poor and three reported data unsuitable for meta‐analysis.  Nineteen trials reported traffic offences: pooled relative risk (RR) = 0.96, 95% confidence interval (95% CI) = 0.94, 0.98); trial heterogeneity was significant (p=<0.00001).  Fifteen trials reported traffic crashes: pooled RR = 0.98 (95% CI 0.96, 1.01), trial heterogeneity was not significant (p=0.75).  Four trials reported injury crashes: pooled RR = 1.12 (95% CI 0.88, 1.41), trial heterogeneity was significant (p=<0.00001). 
+No one form of education (correspondence, group or individual) was found to be substantially more effective than another, nor was a significant difference found between advanced driver education and remedial driver education. Funnel plots indicated the presence of publication bias affecting the traffic offence and crash outcomes. 
+Authors' conclusions
+This systematic review provides no evidence that post‐licence driver education is effective in preventing road traffic injuries or crashes. Although the results are compatible with a small reduction in the occurrence of traffic offences, this may be due to selection biases or bias in the included trials. Because of the large number of participants included in the meta‐analysis (close to 300,000 for some outcomes) we can exclude, with reasonable precision, the possibility of even modest benefits. 

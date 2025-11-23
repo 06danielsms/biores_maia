@@ -1,0 +1,15 @@
+Background
+Physical restraints (PR) are commonly used in geriatric long‐term care. Restraint‐free care should be the aim of high quality nursing care. 
+Objectives
+To evaluate the effectiveness of interventions to prevent and reduce the use of physical restraints in older people who require long‐term nursing care (either in community nursing care or in residential care facilities). 
+Search methods
+The Cochrane Dementia and Cognitive Improvement Group’s Specialized Register, MEDLINE, EMBASE, CINAHL, PsycINFO, LILACS, a number of trial registers and grey literature sources were searched on 7 September 2009. The following search terms were used: "physical restraint*", bedrail*, bedchair*, "containment measure*, elderly, "old people", geriatric*, aged, "nursing home*", "care home*", "geriatric care", "residential facilit*". 
+Selection criteria
+Individual or cluster‐randomised controlled trials comparing an intervention aimed at reducing the use of physical restraints with usual care in long‐term geriatric care settings. 
+Data collection and analysis
+Two reviewers independently assessed the retrieved articles for relevance and methodological quality and extracted data. Critical appraisal of studies addressed risk of bias through selection bias, performance bias, attrition bias, and detection bias, as well as critera related to cluster designa. We contacted study authors for additional information where necessary. PR were defined heterogeneously throughout the studies. Not all studies offered sufficient data for aggregated data meta‐analysis, and therefore study results are presented in a narrative form. 
+Main results
+Five cluster‐randomised controlled studies met the inclusion criteria. All of them investigated educational approaches. Two studies offered consultation in addition and two other studies offered guidance for nursing staff in addition. Four studies examined nursing home residents and one study residents in group dwelling units. No studies in community settings were included. Three studies included only one or two nursing homes per study condition. Overall, methodological quality of studies was low. 
+The studies revealed inconsistent results. One study in the nursing home setting documented an increase of PR use in both groups after eight months, while the other three studies found reduced use of PR in the intervention groups after seven and 12 months of follow up respectively. The single study examining residents in group dwelling units found no change in PR use in the intervention group after six months whereas PR use increased significantly in the control group. 
+Authors' conclusions
+There is insufficient evidence supporting the effectiveness of educational interventions targeting nursing staff for preventing or reducing the use of physical restraints in geriatric long‐term care. 

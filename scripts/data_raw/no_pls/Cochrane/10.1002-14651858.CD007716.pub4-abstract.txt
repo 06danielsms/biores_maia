@@ -1,0 +1,14 @@
+Background
+Diffuse panbronchiolitis (DPB) is a chronic airways disease predominantly affecting East Asians. Macrolides, a class of antibiotics, have been used as the main treatment for DPB, based on evidence from retrospective and non‐randomised studies. 
+Objectives
+To assess the efficacy and safety of macrolides for DPB.
+Search methods
+We searched CENTRAL (2014, Issue 6), MEDLINE (1966 to July week 1, 2014), EMBASE (1974 to July 2014), Chinese Biomedical Literature Database (CBM) (1978 to July 2014), China National Knowledge Infrastructure (CNKI) (1974 to July 2014), KoreaMed (1997 to July 2014) and Database of Japana Centra Revuo Medicina (1983 to July 2014). 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs assessing the effect of macrolides for DPB. 
+Data collection and analysis
+Two review authors independently assessed study quality and subsequent risk of bias according to The Cochrane Collaboration's tool for assessing risk of bias. The primary outcomes were five‐year survival rate, lung function and clinical response. We used risk ratios (RR) for individual trial results in the data analysis and measured all outcomes with 95% confidence intervals (CI). 
+Main results
+Only one RCT (19 participants) with significant methodological limitations was included in this review. It found that the computerised tomography images of all participants treated with a long‐term, low‐dose macrolide (erythromycin) improved from baseline, while the images of 71.4% of participants in the control group (with no treatment) worsened and 28.6% remained unchanged. Adverse effects were not reported. This review was previously published in 2010 and 2013. For this 2014 update, we identified no new trials for inclusion or exclusion. 
+Authors' conclusions
+There is little evidence for macrolides in the treatment of DPB. We are therefore unable to make any new recommendations. It may be reasonable to use low‐dose macrolides soon after diagnosis is made and to continue this treatment for at least six months, according to current guidelines. 

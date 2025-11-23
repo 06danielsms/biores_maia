@@ -1,0 +1,16 @@
+Background
+Pressure ulcers affect approximately 10% of people in hospitals and older people are at highest risk. A correlation between inadequate nutritional intake and the development of pressure ulcers has been suggested by several studies, but the results have been inconsistent. 
+Objectives
+To evaluate the effects of enteral and parenteral nutrition on the prevention and treatment of pressure ulcers. 
+Search methods
+In March 2014, for this first update, we searched The Cochrane Wounds Group Specialised Trials Register, the Cochrane Central register of Controlled Trials (The Cochrane Library), the Database of Abstracts of Reviews of Effects (DARE) (The Cochrane Library), the Health Technology Assessment Database (HTA) (The Cochrane Library), the Cochrane Methodology Register (The Cochrane Library), NHS Economic Evaluation Database (The Cochrane Library), Ovid Medline, Ovid Embase and EBSCO CINAHL. No date, language or publication status limits were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the effects of enteral or parenteral nutrition on the prevention and treatment of pressure ulcers, which measured the incidence of new ulcers, ulcer healing or changes in pressure ulcer severity. There were no restrictions on types of patient, setting, date, publication status or language. 
+Data collection and analysis
+Two review authors independently screened for inclusion, and disagreement was resolved by discussion. Two review authors independently extracted data and assessed quality using the Cochrane Collaboration tool for assessing risk of bias. 
+Main results
+We included 23 RCTs, many were small (between 9 and 4023 participants, median 88) and at high risk of bias. 
+Eleven trials compared a combination of nutritional supplements, consisting of a minimum of energy and protein in different dosages, for the prevention of pressure ulcers. A meta‐analysis of eight trials (6062 participants) that compared the effects of mixed nutritional supplements with standard hospital diet found no clear evidence of an effect of supplementation on pressure ulcer development (pooled RR 0.86; 95% CI 0.73 to 1.00; P value 0.05; I2 = 13%, random effects). This outcome is at unclear or high risk of bias. 
+Fourteen trials evaluated the effects of nutritional supplements on the healing of existing pressure ulcers: seven trials examined mixed nutritional supplements, three the effects of proteins, two trials examined zinc, and two studies examined ascorbic acid. The included trials were heterogeneous with regard to participants, interventions, comparisons and outcomes and meta‐analysis was not appropriate. There was no clear evidence of an improvement in pressure ulcer healing from the nutritional supplements evaluated in any of these individual studies. 
+Authors' conclusions
+There is currently no clear evidence of a benefit associated with nutritional interventions for either the prevention or treatment of pressure ulcers. Further trials of high methodological quality are necessary. 

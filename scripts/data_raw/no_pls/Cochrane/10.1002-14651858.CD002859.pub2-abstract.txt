@@ -1,0 +1,17 @@
+Background
+A range of treatments have been proposed to improve pregnancy outcome in recurrent pregnancy loss associated with antiphospholipid antibody (APL). Small studies have not resolved uncertainty about benefits and risks. 
+Objectives
+To examine outcomes of all treatments given to maintain pregnancy in women with prior miscarriage and APL. 
+Search methods
+We searched the Pregnancy and Childbirth Group's Trials Register (30 May 2004), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2003, Issue 2), MEDLINE (1966 to June 2003), EMBASE (1988 to June 2003), handsearched Lupus (volume one to eight, 1991 to 1999) and conference proceedings from the International Symposium on APL up to 1999. We also scanned bibliographies of all located articles and contacted experts in the field. 
+We updated the search of the Pregnancy and Childbirth Group's Trials Register on 10 September 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised or quasi‐randomised, controlled trials of interventions in pregnant women with a history of pregnancy loss and APL. 
+Data collection and analysis
+Two review authors independently assessed quality and extracted data for studies up to December 1999. One review author performed this for studies after 1999. 
+Main results
+Thirteen studies were found (849 participants). The quality was not high; 50% had clear evidence of allocation concealment. Participant characteristics varied between trials. 
+Unfractionated heparin combined with aspirin (two trials; n = 140) significantly reduced pregnancy loss compared to aspirin alone (relative risk (RR) 0.46, 95% confidence interval (CI) 0.29 to 0.71). Low molecular weight heparin (LMWH) combined with aspirin compared to aspirin (one trial; n = 98) did not significantly reduce pregnancy loss (RR 0.78, 95% CI 0.39 to 1.57). There was no advantage in high‐dose, over low‐dose, unfractionated heparin (one trial; n = 50). Three trials of aspirin alone (n = 135) showed no significant reduction in pregnancy loss (RR 1.05, 95% CI 0.66 to 1.68). Prednisone and aspirin (three trials; n = 286) resulted in a significant increase in prematurity when compared to placebo, aspirin, and heparin combined with aspirin, and an increase in gestational diabetes, but no significant benefit. Intravenous immunoglobulin +/‐ unfractionated heparin and aspirin (two trials; n = 58) was associated with an increased risk of pregnancy loss or premature birth when compared to unfractionated heparin or LMWH combined with aspirin (RR 2.51, 95% CI 1.27 to 4.95). When compared to prednisone and aspirin, intravenous immunoglobulin (one trial; n = 82) was not significantly different in outcomes. 
+Authors' conclusions
+Combined unfractionated heparin and aspirin may reduce pregnancy loss by 54%. Large, randomised controlled trials with adequate allocation concealment are needed to explore potential differences between unfractionated heparin and LMWH. 
+[Note: The 15 citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

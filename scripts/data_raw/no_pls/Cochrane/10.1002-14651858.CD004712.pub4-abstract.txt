@@ -1,0 +1,14 @@
+Background
+Hyperbaric oxygen therapy (HBOT) consists of intermittently administering 100% oxygen at pressures greater than one atmosphere absolute (ATA) in a pressure vessel. This technology has been used to treat a variety of diseases and has been described as helping patients who have delayed healing or established non‐union of bony fractures. This is an update of a Cochrane Review first published in 2005, and previously updated in 2008. 
+Objectives
+The aim of this review is to assess the evidence for the benefit of hyperbaric oxygen treatment (HBOT) for the treatment of delayed bony healing and established non‐union of bony fractures. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (July 2012), the Cochrane Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 7), MEDLINE (1946 to July Week 1 2012), EMBASE (1974 to 2012 July 16), CINAHL (1937 to 17 July 2012), the Database of Randomised Controlled Trials in Hyperbaric Medicine (accessed July 2012), the WHO International Clinical Trials Registry Platform (17 July 2012) and reference lists of articles. 
+Selection criteria
+We aimed to include all randomised controlled trials comparing the clinical effects of HBOT with no HBOT (no treatment or sham) for healing of bony fractures and fracture non‐unions. 
+Data collection and analysis
+Two review authors independently screened electronic search results, and all three authors independently performed study selection. We planned independent data collection and risk of bias assessment by two authors using standardised forms. 
+Main results
+No trials met the inclusion criteria. In this update, we identified three ongoing randomised controlled trials. Among the eight excluded studies were three randomised trials comparing HBOT with no treatment that included patients with fractures. One of these trials had been abandoned and the other two did not report on fracture healing outcomes. 
+Authors' conclusions
+This systematic review failed to locate any relevant clinical evidence to support or refute the effectiveness of HBOT for the management of delayed union or established non‐union of bony fractures. Good quality clinical trials are needed to define the role, if any, of HBOT in the treatment of these injuries. There are three randomised controlled trials underway and we anticipate these will help provide some relevant clinical evidence to address this issue in the future. 

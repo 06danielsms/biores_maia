@@ -1,0 +1,14 @@
+Background
+Vestibular schwannomas (acoustic neuromas) are common benign tumours that arise from the Schwann cells of the vestibular nerve. Management options include observation with neuroradiological follow‐up, microsurgical resection and stereotactic radiotherapy. 
+Objectives
+To assess the effect of stereotactic radiotherapy compared to observation, microsurgical resection, any other treatment modality, or a combination of two or more of the above approaches for vestibular schwannoma. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials; PubMed; EMBASE; CINAHL; Web of Science; CAB Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the search was 24 July 2014. 
+Selection criteria
+Randomised controlled trials (RCTs) exploring the efficacy of stereotactic radiotherapy compared with observation alone, microsurgical resection or any other possible treatment or combination of treatments in patients with a cerebellopontine angle tumour up to 3 cm in diameter, presumed to be a vestibular schwannoma. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+No studies met the inclusion criteria for this review.
+Authors' conclusions
+There is no high quality evidence in the literature from RCTs to determine whether stereotactic radiotherapy is better than microsurgical resection or observation alone for patients with a vestibular schwannoma. In the absence of such evidence, the treatment method should be chosen on an individual basis, taking into consideration the patient's preferences, clinician experience and the availability of radiotherapeutic equipment. With the growing availability of radiotherapeutic equipment, randomised controlled trials should be undertaken to evaluate the role of stereotactic radiotherapy in comparison with other treatment options. 

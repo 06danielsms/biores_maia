@@ -1,0 +1,23 @@
+Clinical Study Results
+Most common adverse events during the study
+
+Group 1      Group 2
+MEDI0382     Placebo     MEDI0382     Placebo     Total
+Constipation 66.7% (4)   0.0% (0)     22.2% (2)   33.3% (1)   35.0% (7)
+Injection site reactions
+50.0% (3)   0.0% (0)     44.4% (4)   0.0% (0)     35.0% (7)
+Common cold 33.3% (2)   50.0% (1)   11.1% (1)   66.7% (2)     30.0% (6)
+Bloated stomach 16.7% (1)   50.0% (1)   22.2% (2)   33.3% (1)   25.0% (5)
+Diarrhea 33.3% (2)   0.0% (0)     33.3% (3)   0.0% (0)     25.0% (5)
+Indigestion 0.0% (0)     0.0% (0)     44.4% (4)   33.3% (1)     25.0% (5)
+Feeling of fullness 0.0% (0)     0.0% (0)     44.4% (4)   0.0% (0)     20.0% (4)
+Loss of appetite 66.7% (4)    0.0% (0)     0.0% (0)     0.0% (0)     20.0% (4)
+Skin redness at the injection site
+33.3% (2)   0.0% (0)     22.2% (2)    0.0% (0)    20.0% (4)
+Nausea 33.3% (2)    0.0% (0)    11.1% (1)    0.0% (0)    15.0% (3)
+Feeling of spinning surroundings
+16.7% (1)    0.0% (0)    11.1% (1)    0.0% (0)    10.0% (2)
+Light-headedness or feeling of fainting
+16.7% (1)    0.0% (0)    11.1% (1)    0.0% (0)    10.0% (2)
+Stomach pain 0.0% (0)     0.0% (0)     22.2% (2)     0.0% (0)    10.0% (2)
+Tiredness 0.0% (0)    0.0% (0)    22.2% (2)    0.0% (0)    10.0% (2)

@@ -1,0 +1,14 @@
+Background
+Primary spontaneous pneumothorax is widely managed according to size with interventional techniques based on practice guidelines. Interventional management is not without complications and observational data suggest conservative management works. The current guidelines are based on expert consensus rather than evidence, and a systematic review may help in identifying evidence for this practice. 
+Objectives
+The objective of the review is to compare conservative and interventional treatments of adult primary spontaneous pneumothorax for outcomes of clinical efficacy, tolerability and safety. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), (The Cochrane Library, Issue 6, 2014); MEDLINE via Ovid SP (1920 to 26th June 2014); EMBASE via Ovid SP (1947 to 26th June 2014); CINAHL via EBSCO host (1980 to 26th June 2014); and ISI Web of Science (1945 to 26th June 2014). We searched ongoing trials via the relevant databases and contacted authors. We also searched the 'grey literature'. 
+Selection criteria
+We included randomized controlled trials (RCTs) and we accepted quasi‐RCTs if a systematic method of allocation was used. Participants were limited to adults aged 18 to 50 years, with their first symptomatic primary spontaneous pneumothorax with radiological evidence and no underlying lung disease. 
+Data collection and analysis
+Two of five authors independently reviewed all studies in the search criteria and made inclusions and exclusions according to the selection criteria. No statistical methods were necessary as there were no included trials. 
+Main results
+We identified 358 studies with duplicates removed. There were three potentially relevant studies that we excluded as they were not randomized controlled trials. There was one ongoing trial that was relevant and we contacted the authors and confirmed the study is ongoing at June 2014. We will update this review when this ongoing study is completed. 
+Authors' conclusions
+There are no completed randomized controlled trials comparing conservative and interventional management for primary spontaneous pneumothorax in adults. There is a lack of high‐quality evidence for current guidelines in management and a need for randomized controlled trials comparing conservative and interventional management for this condition. 

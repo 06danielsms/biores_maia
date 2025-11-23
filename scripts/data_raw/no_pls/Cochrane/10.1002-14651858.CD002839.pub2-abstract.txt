@@ -1,0 +1,14 @@
+Background
+It is unclear whether blood pressure (BP) should be altered actively during the acute phase of stroke. 
+Objectives
+To assess the effect of lowering or elevating BP in people with acute stroke, and the effect of different vasoactive drugs on BP in acute stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched June 2009), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2009), MEDLINE (1966 to October 2009), EMBASE (1980 to October 2009), and Science Citation Index (1981 to October 2009). 
+Selection criteria
+Randomised trials of interventions that would be expected, on pharmacological grounds, to alter BP in patients within one week of the onset of acute stroke. 
+Data collection and analysis
+Two review authors independently applied the trial inclusion criteria, assessed trial quality, and extracted data. 
+Main results
+We identified 131 trials involving in excess of 18,000 patients; a further 13 trials are ongoing. We obtained data for 43 trials (7649 patients). Among BP‐lowering trials, beta receptor antagonists lowered BP (early systolic BP (SBP) mean difference (MD) ‐6.1 mmHg, 95% CI ‐11.4 to ‐0.9; late SBP MD ‐4.9 mmHg, 95% CI ‐10.2 to 0.4; late diastolic BP (DBP) MD ‐4.5 mmHg, 95% CI ‐7.8 to ‐1.2). Oral calcium channel blockers (CCB) lowered BP (late SBP MD ‐3.2 mmHg, 95% CI ‐5.4 to ‐1.1; early DBP MD ‐2.5, 95% CI ‐5.6 to 0.7; late DBP MD ‐2.1, 95% CI ‐3.5 to ‐0.7). Nitric oxide donors lowered BP (early SBP MD ‐10.3 mmHg, 95% CI ‐17.6 to ‐3.0). Prostacyclin lowered BP (late SBP MD, ‐7.7 mmHg, 95% CI ‐15.6 to 0.2; late DBP MD ‐3.9 mmHg, 95% CI ‐8.1 to 0.4). Among BP‐increasing trials, diaspirin cross‐linked haemoglobin (DCLHb) increased BP (early SBP MD 15.3 mmHg, 95% CI 4.0 to 26.6; late SBP MD 15.9 mmHg, 95% CI 1.8 to 30.0). None of the drug classes significantly altered outcome apart from DCLHb which increased combined death or dependency (odds ratio (OR) 5.41, 95% CI 1.87 to 15.64). 
+Authors' conclusions
+There is not enough evidence to evaluate reliably the effect of altering BP on outcome after acute stroke. However, treatment with DCLHb was associated with poor clinical outcomes. Beta receptor antagonists, CCBs, nitric oxide, and prostacyclin each lowered BP during the acute phase of stroke. In contrast, DCLHb increased BP. 

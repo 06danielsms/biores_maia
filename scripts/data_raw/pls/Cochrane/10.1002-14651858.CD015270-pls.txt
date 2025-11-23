@@ -1,0 +1,14 @@
+Interventions to increase COVID‐19 vaccine uptake 
+Background 
+Vaccines are effective in preventing death or severe illness from COVID‐19, a disease for which few treatments are available. Widespread vaccination against COVID‐19 may help protect those not yet able to get vaccinated. However, many people do not want to get vaccinated against COVID‐19. This can put them at increased risk of severe disease and death. 
+What was our aim? 
+We wanted to find out which interventions to increase COVID‐19 vaccine uptake have been or are currently evaluated.  
+Methods 
+We searched medical databases and trial registries until the 11 of October 2021. We included all studies investigating interventions to increase COVID‐19 vaccine uptake. We excluded studies looking at other vaccines, for example, measles. We included all forms of studies as long as they had more than 100 participants.  
+Once we found the studies, we categorised the interventions into the following groups: communication interventions, policy interventions, interventions to improve access, educational interventions, incentives, and multidimensional interventions. We summarised the results in an interactive scoping map. Furthermore, we mapped the study outcomes, the country in which the study was conducted, the study population, and the study design. 
+Results 
+We included 96 studies in evidence mapping, 35 of which are ongoing and 61 studies with published results. The interventions tested in these studies are very diverse. Many studies used communication strategies to convince people to get vaccinated against COVID‐19.  Interventions that included information on vaccination or a mixture of different strategies were also often used.  
+A majority of studies were conducted in English‐speaking countries of the global north, for example, the USA. Moreover, most studies investigated digital interventions in an online setting. The populations addressed varied across the studies. For example, studies addressed healthcare workers, ethnic minorities in the USA, students, soldiers, villagers, at‐risk patients, or the general population.  
+For an overview, please see the interactive scoping map (https://tinyurl.com/2p9jmx24).   
+Conclusion 
+We identified a large number of studies that investigate how COVID‐19 vaccine uptake might be increased. However, more studies are needed focusing on lower‐middle‐income countries and on children. Future research should compare the effectiveness of different interventions to improve COVID‐19 vaccine uptake.  

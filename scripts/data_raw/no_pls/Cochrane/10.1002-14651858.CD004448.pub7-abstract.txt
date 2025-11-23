@@ -1,0 +1,18 @@
+Background
+Sickle cell disease, a common recessively inherited haemoglobin disorder, affects people from sub‐Saharan Africa, the Middle East, Mediterranean basin, Indian subcontinent, Caribbean and South America. It is associated with complications and a reduced life expectancy. Phytomedicines (medicine derived from plants in their original state) encompass many of the plant remedies from traditional healers which the populations most affected would encounter. Laboratory research and limited clinical trials have suggested positive effects of phytomedicines both in vivo and in vitro. However, there has been little systematic appraisal of their benefits. This is an updated version of a previously published Cochrane Review. 
+Objectives
+To assess the benefits and risks of phytomedicines in people with sickle cell disease of all types, of any age, in any setting. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register, the International Standard Randomised Controlled Trial Number Register (ISRCTN), the Allied and Complimentary Medicine Database (AMED), ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). 
+Dates of most recent searches: Cochrane Cystic Fibrosis and Genetic Disorders Haemoglobinopathies Trials Register: 17 March 2020; ISRCTN: 19 April 2020; AMED: 18 May 2020; ClinicalTrials.gov: 24 April 2020; and the WHO ICTRP: 27 July 2017. 
+Selection criteria
+Randomised or quasi‐randomised trials with participants of all ages with sickle cell disease, in all settings, comparing the administration of phytomedicines, by any mode to placebo or conventional treatment, including blood transfusion and hydroxyurea. 
+Data collection and analysis
+Both authors independently assessed trial quality and extracted data.
+Main results
+Three trials (212 participants) of three phytomedicines: Niprisan® (also known as Nicosan®), Ciklavit® and a powdered extract of Pfaffia paniculata were included. The Phase IIB (pivotal) trial suggests that Niprisan® may be effective in reducing episodes of severe painful sickle cell disease crisis over a six‐month period (low‐quality evidence). It did not appear to affect the risk of severe complications or the level of anaemia (low‐quality evidence). 
+The single trial of Cajanus cajan (Ciklavit®) reported a possible benefit to individuals with painful crises, and a possible adverse effect (non‐significant) on the level of anaemia (low‐quality evidence). 
+We are uncertain of the effect of Pfaffia paniculata on the laboratory parameters and symptoms of SCD (very low‐quality of evidence). 
+No adverse effects were reported with Niprisan® and Pfaffia paniculata (low‐ to very low‐quality evidence). 
+Authors' conclusions
+While Niprisan® appeared to be safe and effective in reducing severe painful crises over a six‐month follow‐up period, further trials are required to assess its role in managing people with SCD and the results of its multicentre trials are awaited. Currently, no conclusions can be made regarding the efficacy of Ciklavit® and the powdered root extract of Pfaffia paniculata in managing SCD. Based on the published results for Niprisan® and in view of the limitations in data collection and analysis of the three trials, phytomedicines may have a potential beneficial effect in reducing painful crises in SCD. This needs to be further validated in future trials. More trials with improved study design and data collection are required on the safety and efficacy of phytomedicines used in managing SCD. 

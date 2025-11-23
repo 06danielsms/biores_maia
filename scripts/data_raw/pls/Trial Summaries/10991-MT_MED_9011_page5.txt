@@ -1,0 +1,15 @@
+Clinical Study Results
+
+This time period was chosen so that the amount of the drug in the blood was still high enough for the researchers to accurately measure. After the participants took their treatment, the researchers studied the following measurements:
+
+- the average amount of AZD1402 in the blood over the course of the study
+- the average amount of AZD1402 in the blood over the course of the study, divided by the AZD1402 dose amount in each treatment
+- the average amount of AZD1402 in the blood at the end of the first 48 hours
+- the average amount of AZD1402 in the blood at the end of the first 48 hours, divided by the AZD1402 dose amount in each treatment
+- the highest amount of AZD1402 in the blood over the course of the first 48 hours
+- the highest amount of AZD1402 in the blood over the course of the first 48 hours, divided by the AZD1402 dose amount in each treatment
+
+Overall after treatment, the researchers found that these amounts were highest when the participants took the high dose of AZD1402 as a powder through an inhaler. The researchers also found that these amounts were similar when the participants took the liquid dose of AZD1402 through a nebulizer and the low dose of AZD1402 as a powder through an inhaler.
+
+Did the AZD1402 treatments have a taste or smell?
+No. Overall, the participants did not think that the AZD1402 treatments had a taste or smell. To answer this question, the study doctors gave the participants surveys throughout the study that asked them to rate the taste and smell of the AZD1402 treatments. Overall, the participants did not report a taste or smell for the AZD1402 treatments.

@@ -1,0 +1,16 @@
+Alpha‐blockers for ureteral stones in adult patients with symptoms of stone disease
+Review question 
+Does medical treatment with alpha‐blockers improve the outcomes of patients with stones stuck in their ureter? 
+Background 
+Stones stuck in the ureter, which is the tube that transports urine from the kidney to the bladder, often cause pain and make people see a doctor. Depending on which part of the ureter the stone is stuck in and the size of the stone, it will often pass into the bladder on its own over the course of weeks. If the stone does not come out by itself, people often need to have procedures done to remove the stone. 
+Alpha‐blockers are medications that relax muscles in the urinary tract and may make the stone pass into the bladder faster. However, they can cause unwanted effects. We updated an existing Cochrane Review from 2014 to look into the effects of alpha‐blockers. 
+Study characteristics 
+Based on our latest search of the literature from November 2017, we included 64 studies with 10,509 participants. Of these, 15 studies compared alpha‐blockers with placebo with 5787 participants. A placebo is a pill that looks and tastes exactly like the real medication, so participants did not know what they were getting. These were the higher‐quality studies, which we trusted more. 
+Key results 
+Based on the subset of higher‐quality studies that used a placebo, alpha‐blockers likely resulted in more people passing their stones. However, these patients are likely to experience slightly more serious unwanted effects of this medication. 
+People taking alpha‐blockers may pass their stones in a shorter time, may use less diclofenac (which is a type of pain medication), and are likely to be admitted to the hospital less often. Meanwhile, the need for surgery for their stones was similar. 
+Upon completing additional analyses, we found that effects of alpha‐blockers may be different in people with small (5 mm or smaller) versus larger (larger than 5 mm) stones. It appears that this medication works better in people with larger stones. We could find no difference in how well alpha‐blockers work, no matter where in the ureter the stone is stuck or what type of alpha‐blocker is used. 
+Authors' conclusions 
+For patients with stones stuck in the ureter, alpha‐blockers likely make passing the stone easier but cause slightly more unwanted effects. It appears that alpha‐blockers work better in people with larger (greater than 5 mm) rather than smaller (5 mm or smaller) stones. 
+Quality of the evidence 
+The quality of the evidence for most outcomes was moderate or low, meaning that we have moderate or low confidence in most of the reported results. 

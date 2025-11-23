@@ -1,0 +1,31 @@
+Background
+Leg cramps are a common problem in pregnancy. Various interventions have been used to treat them, including drug, electrolyte and vitamin therapies, and non‐drug therapies. This Cochrane Review is an update of a review first published in 2015. 
+Objectives
+To assess the effectiveness and safety of different interventions for treating leg cramps in pregnancy. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (25 September 2019), and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of any intervention for the treatment of leg cramps in pregnancy compared with placebo, no treatment or other treatments. Quinine was excluded for its known adverse effects. Cluster‐RCTS were eligible for inclusion. Quasi‐RCTs and cross‐over studies were excluded. 
+Data collection and analysis
+Three review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. The certainty of the evidence was assessed using the GRADE approach. 
+Main results
+We included eight small studies (576 women). Frequency of leg cramps was our primary outcome and secondary outcomes included intensity and duration of leg cramps, adverse outcomes for mother and baby and health‐related quality of life. Overall, the studies were at low or unclear risk of bias. Outcomes were reported in different ways, precluding the use of meta‐analysis and thus data were limited to single trials. Certainty of evidence was assessed as either low or very‐low due to serious limitations in study design and imprecision. 
+Oral magnesium versus placebo/no treatment 
+The results for frequency of leg cramps were inconsistent. In one study, results indicated that women may be more likely to report never having any leg cramps after treatment (risk ratio (RR) 5.66, 95% confidence interval (CI) 1.35 to 23.68, 1 trial, 69 women, low‐certainty evidence); whilst fewer women may report having twice‐weekly leg cramps (RR 0.29, 95% CI 0.11 to 0.80, 1 trial, 69 women); and more women may report a 50% reduction in number of leg cramps after treatment (RR 1.42, 95% CI 1.09 to 1.86, 1 trial, 86 women, low‐certainty evidence). However, other findings indicated that magnesium may make little to no difference in the frequency of leg cramps during differing periods of treatment. 
+For pain intensity, again results were inconsistent. Findings indicated that magnesium may make little or no difference: mean total pain score (MD 1.80, 95% CI ‐3.10 to 6.70, 1 trial, 38 women, low‐certainty evidence). In another study the evidence was very uncertain about the effects of magnesium on pain intensity as measured in terms of a 50% reduction in pain. Findings from another study indicated that magnesium may reduce pain intensity according to a visual analogue scale (MD ‐17.50, 95% CI ‐34.68 to ‐0.32,1 trial, 69 women, low‐certainty evidence). For all other outcomes examined there may be little or no difference: duration of leg cramps (low to very‐low certainty); composite outcome ‐ symptoms of leg cramps (very‐low certainty); and for any side effects, including nausea and diarrhoea (low certainty). 
+Oral calcium versus placebo/no treatment 
+The evidence is unclear about the effect of calcium supplements on frequency of leg cramps because the certainty was found to be very low: no leg cramps after treatment (RR 8.59, 95% CI 1.19 to 62.07, 1 study, 43 women, very low‐certainty evidence). In another small study, the findings indicated that the mean frequency of leg cramps may be slightly lower with oral calcium (MD ‐0.53, 95% CI ‐0.72 to ‐0.34; 1 study, 60 women; low certainty). 
+Oral vitamin B versus no treatment 
+One small trial, did not report on frequency of leg cramps individually, but showed that oral vitamin B supplements may reduce the frequency and intensity (composite outcome) of leg cramps (RR 0.29, 95% CI 0.11 to 0.73; 1 study, 42 women). There were no data on side effects. 
+Oral calcium versus oral vitamin C 
+The evidence is very uncertain about the effect of calcium on frequency of leg cramps after treatment compared with vitamin C (RR 1.33, 95% CI 0.53 to 3.38, 1 study, 60 women, very low‐certainty evidence). 
+Oral vitamin D versus placebo 
+One trial (84 women) found vitamin D may make little or no difference to frequency of leg cramps compared with placebo at three weeks (MD 2.06, 95% CI 0.58 to 3.54); or six weeks after treatment (MD 1.53, 95% CI 0.12 to 2.94). 
+Oral calcium‐vitamin D versus placebo 
+One trial (84 women) found oral calcium‐vitamin D may make little or no difference to frequency of leg cramps compared with placebo after treatment at three weeks (MD ‐0.30, 95% CI ‐1.55 to 0.95); and six weeks (MD 0.03, 95% CI ‐1.3 to 1.36). 
+Oral calcium‐vitamin D versus vitamin D 
+One trial (84 women) found oral calcium‐vitamin D may make little or no difference to frequency of leg cramps compared with vitamin D after treatment at three weeks (MD ‐1.35, 95% CI ‐2.84 to 0.14); and six weeks after treatment (MD ‐1.10, 95% CI ‐2.69 to 0.49). 
+Authors' conclusions
+It is unclear from the evidence reviewed whether any of the interventions provide an effective treatment for leg cramps. This is primarily due to outcomes being measured and reported in different, incomparable ways so that data could not be pooled. The certainty of evidence was found to be low or very‐low due to design limitations and trials being too small to address the question satisfactorily. 
+Adverse outcomes were not reported, other than side effects for magnesium versus placebo/no treatment. It is therefore not possible to assess the safety of these interventions. 
+The inconsistency in the measurement and reporting of outcomes meant that meta‐analyses could not be carried out. The development of a core outcome set for measuring the frequency, intensity and duration of leg cramps would address these inconsistencies and mean these outcomes could be investigated effectively in the future. 

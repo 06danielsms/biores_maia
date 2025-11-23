@@ -1,0 +1,14 @@
+Background
+Trauma is the fifth leading cause of death worldwide, and in people younger than 40 years of age, it is the leading cause of death. During the resuscitation of trauma patients at the emergency department, there are two different commonly used diagnostic strategies. Conventionally, there is the use of physical examination and conventional diagnostic imaging, potentially followed by selective use of computed tomography (CT). Alternatively, there is the use of physical examination and conventional diagnostics, followed by a routine (instead of selective) use of thoracoabdominal CT. It is currently unknown which of the two strategies is the better diagnostic strategy for patients with blunt high‐energy trauma. 
+Objectives
+To assess the effects of routine thoracoabdominal CT compared with selective thoracoabdominal CT on mortality in blunt high‐energy trauma patients. 
+Search methods
+We searched the Cochrane Injuries Group's Specialised Register, Cochrane Central Register of Controlled Trials (Issue 4, 2013); MEDLINE (OvidSP), EMBASE (OvidSP) and CINAHL for all published randomised controlled trials (RCTs). We did not restrict the searches by language, date or publication status. We conducted the search on the 9 May 2013. 
+Selection criteria
+We included RCTs of trauma resuscitation algorithms using routine thoracoabdominal CT versus algorithms using selective CT in this review. We included all blunt high‐energy trauma patients (including blast or barotrauma). 
+Data collection and analysis
+Two authors independently evaluated the search results.
+Main results
+The systematic search identified 481 references; after removal of duplicates, 396 remained. We found no RCTs comparing routine versus selective thoracoabdominal CT in blunt high‐energy trauma patients. We excluded 381 studies based on the abstracts of the publications because of irrelevance to the review topic, and a further 15 studies after full‐text evaluation. 
+Authors' conclusions
+We found no RCTs of routine versus selective thoracoabdominal CT in patients with blunt high‐energy trauma. Based on the lack of evidence from RCTs, it is not possible to say which approach is better in reducing deaths. 

@@ -1,0 +1,11 @@
+Increasing antipsychotic dose versus switching to a different antipsychotic for people with schizophrenia who do not respond to initial treatment 
+Review question 
+If a person with schizophrenia does not initially respond to an antipsychotic, is increasing the dose of this antipsychotic more effective, and safer, compared with switching to another antipsychotic? 
+Background 
+Many people with the serious mental illness schizophrenia do not respond fully (i.e. symptoms such as delusions and hallucinations still remain) with a standard dose of an initially prescribed antipsychotic drug. In such cases, clinicians can consider increasing the antipsychotic dose beyond regular thresholds or switching to a different antipsychotic drug in order to enhance antipsychotic efficacy. The evidence surrounding the optimal treatment strategy is scarce. 
+Searching for evidence 
+The Information Specialist of Cochrane Schizophrenia ran an electronic search (up to 30 March 2017) for trials that randomised people with schizophrenia who were not responding to their initial antipsychotic treatment to receive either an increased antipsychotic dose or switch to a different antipsychotic drug. Nine hundred and two records were found and checked by the review authors. 
+Evidence found 
+Only one trial met the review requirements and provided usable data. Data were reported for the number of participants who responded to treatment, the general mental state of participants at endpoint of the trial and the presence of negative symptoms at endpoint. There were no data available for any other outcome. No clear difference between increasing the dose of the antipsychotic drug and switching to a different antipsychotic was shown. The available evidence was extremely limited and of very low quality. 
+Conclusions 
+The results of the present review show that there is no good‐quality evidence to help clinicians decide between increasing the antipsychotic dose or switching to a different antipsychotic drug for people not responding to their initial antipsychotic treatment. Therefore, no clear conclusions can be drawn. Larger, well‐designed trials are needed. 

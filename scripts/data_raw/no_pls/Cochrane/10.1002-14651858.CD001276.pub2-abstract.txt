@@ -1,0 +1,14 @@
+Background
+Since the advent of inhaled ß2 ‐agonists, anticholinergic agents and glucocorticoids, the role of aminophylline in paediatric acute asthma has become less clear. There remains some consensus that it is beneficial in children with acute severe asthma, receiving maximised therapy (oxygen, inhaled bronchodilators, and glucocorticoids). 
+Objectives
+To determine if the addition of intravenous aminophylline produces a beneficial effect in children with acute severe asthma receiving conventional therapy. 
+Search methods
+The Cochrane Airways Group register of trials was used to identify relevant studies. The latest search was carried out in February 2007. 
+Selection criteria
+Randomised‐controlled trials comparing intravenous aminophylline with placebo in addition to usual care in children met the inclusion criteria. 
+Data collection and analysis
+Two reviewers independently assessed studies and extracted data. Disagreement in the selection of trials was resolved by consensus. Attempts were made to contact authors to verify accuracy of data. 
+Main results
+Seven trials met the inclusion criteria (380 participants). Methodological quality was high. All studies recruited children with acute severe asthma and requiring hospital admission. Six studies sought participants who were unresponsive to nebulised short‐acting beta‐agonist and administered systemic steroids to study participants. In two studies where some children were able to perform spirometry, baseline FEV1 was between 35 and 45% predicted. The addition of aminophylline to steroids and ß2‐agonist significantly improved FEV1% predicted over placebo at 6‐8 hours, 12‐18 hours and 24 hours. Aminophylline led to a greater improvement in PEF% predicted over placebo at 12‐18 hours. There was no significant difference in length of hospital stay, symptoms, frequency of nebulisations and mechanical ventilation rates. There were insufficient data to permit aggregation for oxygenation and duration of supplemental oxygen therapy. Aminophylline led to a three‐fold increase in the risk of vomiting. There was no significant difference between treatment groups with regard to hypokalaemia, headaches, tremor, seizures, arrhythmias and deaths. 
+Authors' conclusions
+In children with a severe asthma exacerbation, the addition of intravenous aminophylline to ß2‐agonists and glucocorticoids (with or without anticholinergics) improves lung function within 6 hours of treatment. However there is no apparent reduction in symptoms, number of nebulised treatment and length of hospital stay. There is insufficient evidence to assess the impact on oxygenation, PICU admission and mechanical ventilation. Aminophylline is associated with a significant increased risk of vomiting. 

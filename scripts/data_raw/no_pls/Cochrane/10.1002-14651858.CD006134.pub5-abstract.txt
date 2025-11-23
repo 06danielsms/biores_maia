@@ -1,0 +1,14 @@
+Background
+Functional ovarian cysts are a common gynecological problem among women of reproductive age worldwide. When large, persistent, or painful, these cysts may require operations, sometimes resulting in removal of the ovary. Since early oral contraceptives were associated with a reduced incidence of functional ovarian cysts, many clinicians inferred that birth control pills could be used to treat cysts as well. This became a common clinical practice in the early 1970s. 
+Objectives
+This review examined all randomized controlled trials that studied oral contraceptives as therapy for functional ovarian cysts. 
+Search methods
+In March 2014, we searched the databases of CENTRAL, PubMed, EMBASE, and POPLINE, as well as clinical trials databases (ClinicalTrials.gov and ICTRP). We also examined the reference lists of articles. For the initial review, we wrote to authors of identified trials to seek articles we had missed. 
+Selection criteria
+We included randomized controlled trials in any language that included oral contraceptives used for treatment and not prevention of functional ovarian cysts. Criteria for diagnosis of cysts were those used by authors of trials. 
+Data collection and analysis
+Two authors independently abstracted data from the articles. One entered the data into RevMan and a second verified accuracy of data entry. For dichotomous outcomes, we computed the Mantel‐Haenszel odds ratio with 95% confidence interval (CI). For continuous outcomes, we calculated the mean difference with 95% CI. 
+Main results
+We identified eight randomized controlled trials from four countries; the studies included a total of 686 women. Treatment with combined oral contraceptives did not hasten resolution of functional ovarian cysts in any trial. This held true for cysts that occurred spontaneously as well as those that developed after ovulation induction. Most cysts resolved without treatment within a few cycles; persistent cysts tended to be pathological (e.g., endometrioma or para‐ovarian cyst) and not physiological. 
+Authors' conclusions
+Although widely used for treating functional ovarian cysts, combined oral contraceptives appear to be of no benefit. Watchful waiting for two or three cycles is appropriate. Should cysts persist, surgical management is often indicated. 

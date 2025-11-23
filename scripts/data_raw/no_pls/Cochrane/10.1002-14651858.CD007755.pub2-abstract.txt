@@ -1,0 +1,14 @@
+Background
+Intracerebral haemorrhage (ICH) causes significant morbidity and mortality. Prognosis for ICH patients is poor. Edaravone may be safe and effective in reducing the risk of early death and improving long‐term functional outcomes in survivors. 
+Objectives
+To assess the safety and efficacy of edaravone for acute ICH.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (March 2010), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, Issue 2 2010), the Chinese Stroke Trials Register (August 2010), MEDLINE (1950 to August 2010), EMBASE (1980 to March 2010) and 12 Chinese databases (August 2010). We also searched ongoing trials registers, reference lists, relevant conference proceedings and contacted companies manufacturing edaravone. 
+Selection criteria
+Randomised controlled trials (RCTs) in which edaravone was compared with placebo, or edaravone plus routine treatment was compared with routine treatment alone, in patients with acute ICH. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data, collected adverse events data and contacted trialists for missing information. 
+Main results
+We included 10 RCTs involving 768 participants; quality was generally poor. For all trials, the control group was usual care/routine therapy (not placebo), treatment allocation and outcome evaluations were not blinded or not described, and the primary outcome (death or dependency at the end of long‐term follow‐up) was not reported. Only one trial reported deaths, indicating that edaravone treatment did not decrease the number of deaths significantly either during the scheduled treatment (RR 0.62, 95% CI 0.11 to 3.50) or at three month follow‐up (RR 0.93, 95% CI 0.20 to 4.32). Four studies assessed activities of daily living (ADL) but ADL score was not improved significantly (MD 21.65, 95% CI ‐6.98 to 50.28) at the end of long‐term follow‐up. Combining data from all studies, edaravone treatment did increase the rate of improvement of neurological impairment (RR 1.48, 95% CI 1.29 to 1.69) until the end of the scheduled treatment, but it is not clear that this translates to any longer‐term beneﬁt of clinical importance. Reported adverse events with edaravone were mild and were common (9%), but there was no significant difference in adverse effect between the two groups (RR 2.09, 95% CI 0.71 to 6.19). 
+Authors' conclusions
+All 10 studies were inconclusive in finding a beneficial or deleterious effect provided by edaravone for the treatment of ICH. Further high quality, large scale RCTs are required. 

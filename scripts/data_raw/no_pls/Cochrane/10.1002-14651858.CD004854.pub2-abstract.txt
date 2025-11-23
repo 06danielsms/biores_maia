@@ -1,0 +1,14 @@
+Background
+Recurrence rates for bipolar disorder are high despite effective treatments with mood stabiliser drugs. Self‐help treatments and psychological treatments that teach patients to recognise and manage early warning symptoms and signs (EWS) of impending manic or depressive episodes are popular with patients. The main aim of such interventions is to intervene early and prevent bipolar episodes, thereby increasing the time to the next recurrence and preventing hospitalisation. 
+Objectives
+To compare the effectiveness of an EWS intervention plus treatment as usual (TAU ) versus TAU (involving and not involving a psychological therapy) on time to manic, depressive and all bipolar episodes (the primary outcome), hospitalisation, functioning, depressive and manic symptoms. 
+Search methods
+Relevant studies identified by searching Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Registers (CCDANCTR‐Studies and CCDANCTR‐References ‐ searched on 20/10/2005), supplemented with hand searching the journal Bipolar Disorders, searching the UK National Research Register, checking reference lists of included studies and contacting authors. 
+Selection criteria
+Only randomised controlled trials (RCTs) were included. Participants were adults with a diagnosis of bipolar disorder based on standardised psychiatric criteria. 
+Data collection and analysis
+Two reviewers independently rated trials for inclusion. Data were extracted from included trials by reviewers using a data extraction sheet. Authors of all the included studies were contacted for any additional information required. Time to recurrence data was summarised as log hazard ratios, dichotomous data as relative risk and continuous data as weighted mean difference, using random effects models to calculate effect size only when there was heterogeneity in the data. 
+Main results
+Eleven RCTs were identified, but only six provided primary outcome data. All six RCTs were of high quality. Time to first recurrence of any type (RE, hazards ratio 0.57, 95% CI 0.39 to 0.82), time to manic/hypomanic episode, time to depressive episode, and percentage of people hospitalised and functioning favoured the intervention group. Neither depressive nor hypomanic symptoms differed between intervention and control groups. 
+Authors' conclusions
+This review shows a beneficial effect of EWS in time to recurrence, percentage of people hospitalised and functioning in people with bipolar disorder. However, the absence of data on the primary outcome measure in so many included studies is a source of concern and a potential source of bias. Mental health services should consider routinely providing EWS interventions to adults with bipolar disorder, as they appear to reduce hospitalisation and therefore may be cost‐effective. 

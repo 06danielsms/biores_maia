@@ -1,0 +1,14 @@
+Background
+Combined oral contraceptive (COC) use has been associated with venous thrombosis (VT) (i.e., deep venous thrombosis and pulmonary embolism). The VT risk has been evaluated for many estrogen doses and progestagen types contained in COC but no comprehensive comparison involving commonly used COC is available. 
+Objectives
+To provide a comprehensive overview of the risk of venous thrombosis in women using different combined oral contraceptives. 
+Search methods
+Electronic databases (Pubmed, Embase, Web of Science, Cochrane, CINAHL, Academic Search Premier and ScienceDirect) were searched in 22 April 2013 for eligible studies, without language restrictions. 
+Selection criteria
+We selected studies including healthy women taking COC with VT as outcome.
+Data collection and analysis
+The primary outcome of interest was a fatal or non‐fatal first event of venous thrombosis with the main focus on deep venous thrombosis or pulmonary embolism. Publications with at least 10 events in total were eligible. The network meta‐analysis was performed using an extension of frequentist random effects models for mixed multiple treatment comparisons. Unadjusted relative risks with 95% confidence intervals were reported.Two independent reviewers extracted data from selected studies. 
+Main results
+3110 publications were retrieved through a search strategy; 25 publications reporting on 26 studies were included. Incidence of venous thrombosis in non‐users from two included cohorts was 0.19 and 0.37 per 1 000 person years, in line with previously reported incidences of 0,16 per 1 000 person years. Use of combined oral contraceptives increased the risk of venous thrombosis compared with non‐use (relative risk 3.5, 95% confidence interval 2.9 to 4.3). The relative risk of venous thrombosis for combined oral contraceptives with 30‐35 μg ethinylestradiol and gestodene, desogestrel, cyproterone acetate, or drospirenone were similar and about 50‐80% higher than for combined oral contraceptives with levonorgestrel. A dose related effect of ethinylestradiol was observed for gestodene, desogestrel, and levonorgestrel, with higher doses being associated with higher thrombosis risk. 
+Authors' conclusions
+All combined oral contraceptives investigated in this analysis were associated with an increased risk of venous thrombosis. The effect size depended both on the progestogen used and the dose of ethinylestradiol. Risk of venous thrombosis for combined oral contraceptives with 30‐35 μg ethinylestradiol and gestodene, desogestrel, cyproterone acetate and drospirenone were similar, and about 50‐80% higher than with levonorgestrel. The combined oral contraceptive with the lowest possible dose of ethinylestradiol and good compliance should be prescribed—that is, 30 μg ethinylestradiol with levonorgestrel. 

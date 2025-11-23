@@ -1,0 +1,12 @@
+A modified formulation of doxorubicin for the treatment of newly diagnosed ovarian cancer 
+Background 
+PLD is an improved formulation of an anticancer drug that has been around since the 1960s. When used with carboplatin (carbo), it has been shown to improve survival in women with epithelial ovarian cancer (EOC) that has come back (relapsed) six months or longer after the last platinum (carbo)‐based treatment. 
+Methods 
+We wanted to find out whether PLD was also useful for the treatment of newly diagnosed EOC. We searched the literature from 1990 to January 2013 for relevant studies and included two studies in this review. 
+Study characteristics 
+One study compared PLD plus carbo given to women every three weeks versus the standard treatment (paclitaxel (PAC)/carbo every three weeks), and the other added PLD to the standard treatment and compared it with standard treatment only (the latter study also included other treatments not relevant to this review). These studies spanned three years and included 820 and 4100 women, respectively. Most women in these studies had advanced cancer and had undergone surgery to remove as much of the cancer as possible. 
+Key findings 
+Women receiving the PLD/carbo treatment and those given the standard treatment survived for a similar period, but PLD/carbo caused more women to experience low blood counts (anaemia and low platelets) that often led to a delay in treatment or the need to stop treatment. However, PLD/carbo caused far fewer women to experience hair loss and neuropathy (nerve damage causing symptoms such as tingling, numbness, pain, loss of sensation and/or coordination), and so it might help women who find these side effects unacceptable or intolerable. We concluded that three‐weekly PLD/carbo is a reasonable alternative to standard platinum‐based treatment for newly diagnosed EOC, but more research is needed to establish the safest and most effective dosage and dose frequency. 
+Adding PLD to standard treatment (PAC/carbo) every six weeks did not help women with newly diagnosed ovarian cancer survive longer and was associated with worse effects on blood counts that increased the chance of infection; therefore this triple drug treatment cannot be recommended. 
+Quality of the evidence 
+We considered the evidence related to survival of women after they are treated with PLD/carbo or PAC/carbo, and the evidence related to adverse drug effects to be of high quality. 

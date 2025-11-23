@@ -1,0 +1,15 @@
+Background
+Mechanical ventilation is a potentially painful and discomforting intervention widely used in neonatal intensive care units. Newborn babies (neonates) demonstrate increased sensitivity to pain, which may affect clinical and neurodevelopmental outcomes. The use of drugs that reduce pain might be important in improving survival and neurodevelopmental outcomes. 
+Objectives
+To determine the effect of opioid analgesics (pain‐killing drugs derived from opium e.g. morphine), compared to placebo, no drug, or other non‐opioid analgesics or sedatives, on pain, duration of mechanical ventilation, mortality, growth and neurodevelopmental outcomes in newborn infants on mechanical ventilation. 
+Search methods
+Electronic searches included: the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2007); MEDLINE (1966 to June 2007); EMBASE (1974 to June 2007); and CINAHL (1982 to 2007). Previous reviews and lists of relevant articles were cross‐referenced. 
+Selection criteria
+Randomised controlled trials or quasi‐randomised controlled trials comparing opioids to a control, or to other analgesics or sedatives in newborn infants on mechanical ventilation. 
+Data collection and analysis
+Data were extracted independently by two review authors. Categorical outcomes were analysed using relative risk and risk difference; and continuous outcomes with weighted mean difference or standardised mean difference. A fixed effect model was used for meta‐analysis except where heterogeneity existed, in which case a random effects model was used. 
+Main results
+Thirteen studies on 1505 infants were included. Infants given opioids showed reduced premature infant pain profile (PIPP) scores compared to the control group (weighted mean difference ‐1.71; 95% confidence interval ‐3.18 to ‐0.24). Differences in execution and reporting of trials mean that this meta‐analysis should be interpreted with caution. Heterogeneity was significantly high in all analyses of pain, even when lower quality studies were excluded and analysis limited to very preterm newborns. Meta‐analyses of mortality, duration of mechanical ventilation, and long and short‐term neurodevelopmental outcomes showed no statistically significant differences. Very preterm infants given morphine took significantly longer to reach full enteral feeding than those in control groups (weighted mean difference 2.10 days; 95% confidence interval 0.35 to 3.85). One study compared morphine with a sedative: the treatments showed similar pain scores, but morphine had fewer adverse effects. 
+Authors' conclusions
+There is insufficient evidence to recommend routine use of opioids in mechanically ventilated newborns. Opioids should be used selectively, when indicated by clinical judgment and evaluation of pain indicators. If sedation is required, morphine is safer than midazolam. Further research is needed. 
+This review has been superseded by a new Cochrane review (Bellù 2021).

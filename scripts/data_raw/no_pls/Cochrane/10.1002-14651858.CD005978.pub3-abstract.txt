@@ -1,0 +1,15 @@
+Background
+Pneumonia is a leading cause of morbidity and mortality in children younger than five years of age. Most deaths occur during infancy and in low‐income countries. Daily zinc supplements have been reported to prevent acute lower respiratory tract infection (LRTI) and reduce child mortality. This is an update of a review first published in 2010. 
+Objectives
+To evaluate the effectiveness of zinc supplementation in the prevention of pneumonia in children aged two to 59 months. 
+Search methods
+We searched CENTRAL (Issue 21 October 2016), MEDLINE (1966 to October 2016), Embase (1974 to October 2016), LILACS (1982 to October 2016), CINAHL (1981 to October 2016), Web of Science (1985 to October 2016) and IMSEAR (1980 to October 2016). 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating zinc supplementation for the prevention of pneumonia in children aged from 2 months to 59 months. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+We did not identify any new studies for inclusion in this update. We included six studies that involved 5193 participants. 
+Analysis showed that zinc supplementation reduced the incidence of pneumonia by 13% (fixed‐effect risk ratio (RR) 0.87; 95% confidence interval (CI) 0.81 to 0.94, six studies, low‐quality evidence) and prevalence of pneumonia by 41% (random‐effects RR 0.59; 95% CI 0.35 to 0.99, one study, n = 609, low‐quality evidence). On subgroup analysis, we found that zinc reduced the incidence of pneumonia defined by specific clinical criteria by 21% (i.e. confirmation by chest examination or chest radiograph) (fixed‐effect RR 0.79; 95% CI 0.71 to 0.88, four studies, n = 3261), but had no effect on lower specificity pneumonia case definition (i.e. age‐specific fast breathing with or without lower chest indrawing) (fixed‐effect RR 0.95; 95% CI 0.86 to 1.06, four studies, n = 1932). 
+Authors' conclusions
+Zinc supplementation in children is associated with a reduction in the incidence and prevalence of pneumonia. 

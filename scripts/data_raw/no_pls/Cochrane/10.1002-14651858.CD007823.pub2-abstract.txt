@@ -1,0 +1,14 @@
+Background
+Although locoregional treatments such as hepatic arterial infusion (HAI) claim the advantage of delivering higher doses of anticancer agents directly into the metastatic organ as compared to systemic chemotherapy (SCT), the benefit in terms of overall survival (OS) is unclear. We quantitatively summarized the results of randomised controlled trials (RCT) comparing HAI to SCT for the treatment of unresectable liver metastatic disease from colorectal cancer (CRC). 
+Objectives
+The aim of this work is to quantitatively summarize the results of RCT comparing HAI to SCT for the treatment of unresectable hepatic metastases from CRC. 
+Search methods
+A systematic review of reports published until January 2011 on the findings of RCT that compared HAI to SCT for the treatment of unresectable CRC liver metastases was performed by searching the MEDLINE, Embase, Cancerlit, Cochrane and GoogleScholar electronic databases as well as other databanks collecting information on clinical trials. 
+Selection criteria
+Inclusion criteria were patients with unresectable CRC liver metastases enrolled in RCT comparing HAI to SCT. The outcome measures were tumor response rate and overall survival. 
+Data collection and analysis
+Two authors independently carried out study selection and assessment of methodological quality. A third author performed a concordance analysis in order to unravel potential systematic biases. 
+Main results
+Ten RCT were identified that met the eligibility criteria. HAI regimens were based on floxuridine (FUDR), 5‐fluorouracil or either one of these two fluoropyrimidines in eight and one RCT, respectively. SCT consisted of FUDR or 5‐fluorouracil in three and seven RCT, respectively. By pooling the summary data, tumor response rate resulted 42.9% and 18.4% for HAI and SCT, respectively (RR = 2.26; 95% CI, 1.80 to 2.84; P < 0.0001). Mean weighted median OS times were 15.9 and 12.4 months for HAI and SCT, respectively: the meta‐risk of death was not statistically different between the two treatment groups (HR = 0.90; 95% CI, 0.76 to 1.07; P = 0.24). 
+Authors' conclusions
+Currently available evidence does not support the clinical or investigational use of fluoropyrimidine‐based HAI alone for the treatment of patients with unresectable CRC liver metastases: in fact, the greater tumor response rate obtained with this HAI regimen does not translate into a survival advantage over fluoropyrimidine alone SCT. 

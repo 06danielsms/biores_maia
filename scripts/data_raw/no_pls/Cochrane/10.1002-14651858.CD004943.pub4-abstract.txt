@@ -1,0 +1,15 @@
+Background
+Aspiration pneumonitis is a syndrome resulting from the inhalation of gastric contents. The incidence in obstetric anaesthesia has fallen, largely due to improved anaesthetic techniques and the increased use of regional anaesthesia at caesarean section. However, aspiration pneumonitis is still a cause of maternal morbidity and mortality, and it is important to use effective prophylaxis. 
+Objectives
+To determine whether interventions given prior to caesarean section reduce the risk of aspiration pneumonitis in women with an uncomplicated pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2013). 
+Selection criteria
+Randomised controlled trials were included. Quasi‐randomised trials were excluded.
+Data collection and analysis
+Review authors independently assessed the studies for inclusion, assessed risk of bias and carried out data extraction. Data entry was checked. Fixed‐effect meta‐analysis was used to combine data where it was reasonable to assume that studies were estimating the same underlying treatment effect. If substantial clinical or statistical heterogeneity was detected, we used random‐effects analysis to produce an overall summary. 
+Main results
+Thirty‐two studies were included in this review. However, only 22 studies, involving 2658 women, provided data for analysis. All the women in the included studies had a caesarean section under general anaesthesia. The studies covered a number of comparisons, but were mostly small and of unclear or poor quality. 
+When compared with no treatment or placebo, there was a significant reduction in the risk of intragastric pH < 2.5 with antacids (risk ratio (RR) 0.17, 95% confidence interval (CI) 0.09 to 0.32, two studies, 108 women), H2 antagonists (RR 0.09, 95% CI 0.05 to 0.18, two studies, 170 women) and proton pump antagonists (RR 0.26, 95% CI 0.14 to 0.46, one study 80 women). H2 antagonists were associated with a reduced the risk of intragastric pH < 2.5 at intubation when compared with proton pump antagonists (RR 0.39, 95% CI 0.16 to 0.97, one study, 120 women), but compared with antacids the findings were unclear. The combined use of 'antacids plus H2 antagonists' was associated with a significant reduction in the risk of intragastric pH < 2.5 at intubation when compared with placebo (RR 0.02, 95% CI 0.00 to 0.15, one study, 89 women) or compared with antacids alone (RR 0.12, 95% CI 0.02 to 0.92, one study, 119 women). 
+Authors' conclusions
+The quality of the evidence was poor, but the findings suggest that the combination of antacids plus H2 antagonists was more effective than no intervention, and superior to antacids alone in preventing low gastric pH. However, none of the studies assessed potential adverse effects or substantive clinical outcomes. These findings are relevant for all women undergoing caesarean section under general anaesthesia.  

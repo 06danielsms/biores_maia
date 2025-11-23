@@ -1,0 +1,12 @@
+Adverse effects on the liver after treatment for childhood cancer
+Review question 
+We reviewed the evidence for the effects of treatment for childhood cancer on the risk of adverse effects on the liver. 
+Background 
+Advances in the treatment of childhood cancer over the last decades have greatly improved the survival rates. Unfortunately, the improved prognosis has been accompanied by the occurrence of late, treatment‐related complications. One of the adverse effects that can occur due to treatment of childhood cancer is damage to the liver. Liver adverse effects are common both during and soon after treatment. However, the evidence on adverse effects on the liver many years after treatment is still inconclusive. Adverse effect on the liver as a result of childhood cancer treatment is most often subclinical (asymptomatic). If liver disease becomes symptomatic, a person's complaints may include fatigue, jaundice, nausea, weight loss, and abdominal pain. The development of future treatment and follow‐up policies should be based on high‐quality evidence on the risk of, and associated risk factors for, adverse effects on the liver. 
+Study characteristics 
+The evidence is current to January 2018.
+We found 33 cohort studies examining liver adverse effects after treatment for childhood cancer. There were 7876 cancer patients included that were treated for different types of childhood cancer, especially with chemotherapy, radiotherapy, and bone marrow transplantation. The average follow‐up duration in the studies that reported this varied from two years after the end of treatment to 25 years since primary cancer diagnosis. 
+Key results 
+We found that 1% to 53% of the childhood cancer survivors developed adverse effects on the liver after cancer treatment, measured by liver enzymes in the blood. Radiotherapy to the liver increases the risk of liver late adverse effects. In addition, busulfan, thioguanine, or liver surgery may increase the risk as well. Also, survivors with chronic viral hepatitis, metabolic syndrome, higher body mass index, higher alcohol intake, statin use, non‐Hispanic white ethnicity, longer time since cancer diagnosis, and older age at cancer diagnosis seemed to have an increased risk of liver adverse effects. 
+Quality of the evidence 
+All studies had problems related to the quality of the evidence.

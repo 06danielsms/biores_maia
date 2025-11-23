@@ -1,0 +1,14 @@
+Background
+Several beta‐lactams are recommended as single agents for the treatment of febrile neutropenia. 
+Objectives
+To compare the effectiveness of different anti‐pseudomonal beta‐lactams as single agents in the treatment of febrile neutropenia. To compare the development of bacterial resistance, bacterial and fungal superinfections during or following treatment with the different beta‐lactams. 
+Search methods
+We searched the Cochane Register of Controlled Trials (CENTRAL), Issue 3, 2010. MEDLINE, EMBASE, LILACS, FDA drug applications, conference proceedings and ongoing clinical trial databases up to August 2010. References of included studies were scanned. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing an antipseudomonal beta‐lactam to another antipseudomonal beta‐lactam antibiotic, both given alone or with the addition of the same glycopeptide to both study arms, for the initial treatment of fever and neutropenia among cancer patients. 
+Data collection and analysis
+Two review authors applied inclusion criteria and extracted the data independently. Missing data were sought. Risk ratios (RR) were calculated with 95% confidence intervals (CI), and pooled using the fixed effect model. The primary outcome was all‐cause mortality. Risk of bias was assessed using a domain‐based evaluation and its effect of results was assessed through sensitivity analyses. 
+Main results
+Forty‐four trials were included. The antibiotics assessed were cefepime, ceftazidime, piperacillin‐tazobactam, imipenem and meropenem. Adequate allocation concealment and generation were reported in about half of the trials and only two trials were double‐blinded. The risk for all‐cause mortality was significantly higher with cefepime compared to other beta‐lactams (RR 1.39, 95% CI 1.04 to 1.86, 21 trials, 3471 participants), without heterogeneity and with higher RRs in trials at low risk for bias. There were no differences in secondary outcomes but for a non‐significantly higher rate of bacterial superinfections with cefepime. Mortality was significantly lower with piperacillin‐tazobactam compared to other antibiotics (RR 0.56, 95% CI 0.34 to 0.92, 8 trials, 1314 participants), without heterogeneity. Carbapenems resulted in similar all‐cause mortality and a lower rate of clinical failure and antibiotic modifications as compared to other antibiotics, but a higher rate of diarrhea caused by Clostridium difficile. 
+Authors' conclusions
+Current evidence supports the use of piperacillin‐tazobactam in locations where antibiotic resistance profiles do not mandate empirical use of carbapenems. Carbapenems result in a higher rate of antibiotic‐associated and Clostridium difficile‐associated diarrhea. There is a high level of evidence that all‐cause mortality is higher with cefepime compared to other beta‐lactams and it should not be used as monotherapy for patients with febrile neutropenia. 

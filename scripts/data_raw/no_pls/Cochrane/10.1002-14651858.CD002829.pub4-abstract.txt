@@ -1,0 +1,14 @@
+Background
+Free radical accumulation and oxidative stress have been proposed as contributing to the progression of amyotrophic lateral sclerosis (or motor neuron disease). A range of antioxidant medications have been studied. This is an updated review. 
+Objectives
+To examine the effects of antioxidant medication in the treatment of people with amyotrophic lateral sclerosis. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (11 May 2010), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 2), MEDLINE (January 1966 to April 2010), EMBASE (January 1980 to May 2010). 
+Selection criteria
+All randomized or quasi‐randomized controlled trials of antioxidant treatment for amyotrophic lateral sclerosis. 
+Data collection and analysis
+The authors independently applied the selection criteria and assessed study quality; two authors performed independent data extraction. 
+Main results
+The search identified 25 studies for consideration but only 10 studies met the inclusion criteria. These included a total of 1015 participants. Generally the studies were poorly designed and underpowered, with low numbers of participants and short durations. Only two studies used our predetermined primary outcome measure (survival at 12 months treatment). However, sufficient data were available from four studies to allow meta‐analysis.  In the individual studies, no significant effect was observed for vitamin E 500 mg twice daily; vitamin E 1 g five times daily; acetylcysteine 50 mg/kg daily by subcutaneous infusion; a combination of L‐methionine 2 g, vitamin E 400 international units, and selenium (Alsemet) 0.03 mg three times daily; or coenzyme Q10 1800 mg/day and 2700 mg/day. No significant effect was observed on the primary outcome measure in a meta‐analysis of all antioxidants combined. No significant differences were demonstrated in any of the secondary outcome measures. The antioxidants were generally well tolerated, without serious side effects. 
+Authors' conclusions
+There is insufficient evidence of efficacy of individual antioxidants, or antioxidants in general, in the treatment of people with amyotrophic lateral sclerosis. One study reported a mild positive effect but this was not supported in our analysis. If future trials of antioxidant medications are performed, careful attention should be given to sample size, outcome measures, and duration of the trials. The high tolerance and safety, and relatively low cost of vitamins C and E, explain the continuing use of these vitamins by physicians and people with amyotrophic lateral sclerosis. While there is no substantial clinical trial evidence to support their clinical use, there is no clear contraindication. 

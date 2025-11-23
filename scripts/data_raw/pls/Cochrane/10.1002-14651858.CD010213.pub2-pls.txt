@@ -1,0 +1,20 @@
+Accuracy of different imaging techniques for determining whether a pancreatic tumour is cancerous 
+Background 
+The pancreas is an organ in the abdomen that secretes pancreatic juice, which aids digestion and contains cells that produce important hormones such as insulin. Increasingly, abnormalities in the pancreas are noted in people undergoing routine scans, such as ultrasound or computed tomography (CT) scans, in the form of what are known as 'shadows', which may be described as focal pancreatic lesion, pancreatic mass, pancreatic tumour, pancreatic cyst, or pancreatic nodule. A significant proportion of focal pancreatic lesions are benign (non‐cancerous) lesions requiring no treatment. Surgical removal of the tumour is the main method of treatment for precancerous (i.e. focal pancreatic lesions that are not full‐blown cancer and do not have the ability to spread like cancer, but can turn into cancer) and cancerous focal pancreatic lesions. New methods are being developed for treating precancerous lesions, such as using heat to destroy the tumour. Surgical removal remains the only potentially curative treatment for people with limited pancreatic cancer. It is thus important to characterise whether a focal pancreatic lesion is non‐cancerous, precancerous, or cancerous. A number of scans are available for characterising the nature of the focal pancreatic lesion, which include the following. 
+• Computed tomography (CT) scan: a series of X‐rays taken from different angles, which are then reconstructed using a computer. 
+• Magnetic resonance imaging (MRI): the use of a powerful magnet to produce images of different tissues of the body. 
+• Positron emission tomography (PET): the use of a small amount of radioactive glucose (sugar) to differentiate between different tissues. It takes advantage of the tendency of cancer cells to use more glucose than normal cells. 
+• Endoscopic ultrasound (also known as endosonography or EUS): the use of an endoscope, a camera introduced into a body cavity to view the inside of the body. An ultrasound (high‐energy sound waves) probe at the end of the endoscope is used to differentiate tissues. 
+• EUS elastography: this measures the stiffness of the lesion, which is used to identify whether the lesion is cancerous. 
+• EUS‐guided biopsy: the removal of cells or tissues for examination under a microscope or to perform other tests on the cells or tissue. 
+At present it is unclear how effective different scans are in characterising focal pancreatic lesions. 
+Study characteristics 
+We performed a thorough literature search for studies reporting the accuracy of different scans until 19 July 2016. We identified 54 studies reporting information on 3196 people with focal pancreatic lesions. These studies evaluated one or more of the above tests and compared these test results with the eventual diagnosis provided by surgical removal of the lesion and examination under microscope. There were no diagnostic test accuracy studies of EUS elastography or studies that looked at multiple scans rather than single scans. 
+Key results 
+Variations in how studies defined precancerous and cancerous lesions meant that we were not able to combine the data to provide the overall results for many tests. We were unable to arrive at any firm conclusions for the following reasons. 
+• The way that study authors classified focal pancreatic lesions into cancerous, precancerous, and benign lesions was not consistent in different studies. 
+• The studies included few participants, leading to significant uncertainty in the results. 
+• The studies were of poor methodological quality, which introduced additional uncertainty in the results. 
+• Even among the studies that classified focal pancreatic lesions into cancerous, precancerous, and benign lesions in a similar manner, the results were not consistent. 
+Quality of evidence 
+All of the studies were of low methodological quality, which may result in arriving at false conclusions. 

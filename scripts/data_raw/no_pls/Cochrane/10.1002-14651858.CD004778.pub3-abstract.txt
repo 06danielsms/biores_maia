@@ -1,0 +1,14 @@
+Background
+Perforated peptic ulcer is a common abdominal disease that is treated by surgery. The development of laparoscopic surgery has changed the way to treat such abdominal surgical emergencies. The results of some clinical trials suggest that laparoscopic surgery could be a better strategy than open surgery in the correction of perforated peptic ulcer but the evidence is not strongly in favour for or against this intervention. 
+Objectives
+To measure the effect of laparoscopic surgical treatment versus open surgical treatment in patients with a diagnosis of perforated peptic ulcer in relation to abdominal septic complications, surgical wound infection, extra‐abdominal complications, hospital length of stay and direct costs. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (2004, Issue 2), PubMed/MEDLINE (1966 to July 2004), EMBASE (1985 to November 2004) and LILACS (1988 to November 2004) as well as the reference lists of relevant articles. Searches in all databases were updated in December 2009 and January 2012. We did not confine our search to English language publications. 
+Selection criteria
+Randomized clinical trials comparing laparoscopic surgery versus open surgery for the repair of perforated peptic ulcer using any mechanical method of closure (suture, omental patch or fibrin sealant). 
+Data collection and analysis
+Primary outcome measures included proportion of septic and other abdominal complications (surgical site infection, suture leakage, intra‐abdominal abscess, postoperative ileus) and extra‐abdominal complications (pulmonary). Secondary outcomes included mortality, time to return to normal diet, time of nasogastric aspiration, hospital length‐of‐stay and costs. Outcomes were summarized by reporting odds ratios (ORs) and 95% confidence intervals (CIs), using the fixed‐effect model. 
+Main results
+We included three randomized clinical trials of acceptable quality. We found no statistically significant differences between laparoscopic and open surgery in the proportion of abdominal septic complications (OR 0.66; 95% CI 0.30 to 1.47), pulmonary complications (OR 0.52; 95% CI 0.08 to 3.55) or number of septic abdominal complications (OR 0.60; 95% CI 0.32 to 1.15). Heterogeneity was significant for pulmonary complications and operating time. 
+Authors' conclusions
+This review suggests that a decrease in septic abdominal complications may exist when laparoscopic surgery is used to correct perforated peptic ulcer. However, it is necessary to perform more randomized controlled trials with a greater number of patients to confirm such an assumption, guaranteeing a long learning curve for participating surgeons. With the information provided it could be said that laparoscopic surgery results are not clinically different from those of open surgery. 

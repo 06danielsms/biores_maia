@@ -1,0 +1,39 @@
+Clinical Study Results
+
+What were the most common adverse events?
+
+The most common adverse event was low amount of neutrophils, which is a type of white
+blood cell.
+
+Adverse events that occurred in 15% or more of all the study participants are listed in the
+table below. Some participants may have had more than 1 adverse event. There were
+other adverse events, but these happened in fewer participants.
+
+Most common adverse events
+- Part A Part B
+- Group 1 Group 2 Group 3 Group 4 Group 5 Group 6 Group 7
+- Low
+- neutrophil
+- 66.7% (4) 50.0% (3) 83.3% (5) 50.0% (3) 83.3% (5) 71.4% (5) 58.8% (10)
+- white blood
+- cell count
+- Tiredness 83.3% (5) 83.3% (5) 33.3% (2) 16.7% (1) 83.3% (5) 85.7% (6) 52.9% (9)
+- Nausea 33.3% (2) 66.7% (4) 33.3% (2) 50.0% (3) 66.7% (4) 71.4% (5) 29.4% (5)
+- Diarrhea 16.7% (1) 66.7% (4) 50.0% (3) 16.7% (1) 50.0% (3) 42.9% (3) 47.1% (8)
+- Rash 0.0% (0) 66.7% (4) 50.0% (3) 50.0% (3) 33.3% (2) 28.6% (2) 17.6% (3)
+- Low iron
+- levels in the 33.3% (2) 33.3% (2) 16.7% (1) 33.3% (2) 66.7% (4) 14.3% (1) 17.6% (3)
+- blood
+- Cough 33.3% (2) 50.0% (3) 50.0% (3) 16.7% (1) 0.0% (0) 28.6% (2) 11.8% (2)
+- Vomiting 16.7% (1) 16.7% (1) 50.0% (3) 0.0% (0) 16.7% (1) 57.1% (4) 17.6% (3)
+- Back pain 16.7% (1) 16.7% (1) 16.7% (1) 16.7% (1) 16.7% (1) 14.3% (1) 29.4% (5)
+- Inflammation
+- of mucus
+- layer in the
+- bowel
+- Urinary tract
+- 0.0% (0) 16.7% (1) 33.3% (2) 16.7% (1) 33.3% (2) 42.9% (3) 11.8% (2)
+- infection
+- Headache 16.7% (1) 16.7% (1) 33.3% (2) 0.0% (0) 16.7% (1) 42.9% (3) 11.8% (2)
+- Constipation 16.7% (1) 16.7% (1) 16.7% (1) 16.7% (1) 16.7% (1) 42.9% (3) 5.9% (1)
+- Blurred vision 16.7% (1) 33.3% (2) 33.3% (2) 16.7% (1) 0.0% (0) 14.3% (1) 11.8% (2)

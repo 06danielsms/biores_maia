@@ -1,0 +1,14 @@
+Background
+Because immunological aberrations might be the cause of miscarriage in some women, several immunotherapies have been used to treat women with otherwise unexplained recurrent pregnancy loss. 
+Objectives
+The objective of this review was to assess the effects of any immunotherapy, including paternal leukocyte immunization and intravenous immunoglobulin on the live birth rate in women with previous unexplained recurrent miscarriages. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (11 February 2014) and reference lists of retrieved studies. 
+Selection criteria
+Randomized trials of immunotherapies used to treat women with three or more prior miscarriages and no more than one live birth after, in whom all recognized non‐immunologic causes of recurrent miscarriage had been ruled out and no simultaneous treatment was given. 
+Data collection and analysis
+The review author and the two co‐authors independently extracted data and assessed study quality for all studies considered for this review. 
+Main results
+Twenty trials of high quality were included. The various forms of immunotherapy did not show significant differences between treatment and control groups in terms of subsequent live births: paternal cell immunization (12 trials, 641 women), Peto odds ratio (Peto OR) 1.23, 95% confidence interval (CI) 0.89 to 1.70; third‐party donor cell immunization (three trials, 156 women), Peto OR 1.39, 95% CI 0.68 to 2.82; trophoblast membrane infusion (one trial, 37 women), Peto OR 0.40, 95% CI 0.11 to 1.45; or intravenous immunoglobulin, (eight trials, 303 women), Peto OR 0.98, 95% CI 0.61 to 1.58. 
+Authors' conclusions
+Paternal cell immunization, third‐party donor leukocytes, trophoblast membranes, and intravenous immunoglobulin provide no significant beneficial effect over placebo in improving the live birth rate. 

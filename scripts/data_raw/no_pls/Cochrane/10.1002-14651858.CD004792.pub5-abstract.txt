@@ -1,0 +1,14 @@
+Background
+Upper gastrointestinal bleeding is one of the most frequent causes of morbidity and mortality in the course of liver cirrhosis. Several treatments are used for upper gastrointestinal bleeding in people with liver diseases. One of them is vitamin K administration, but it is not known whether it benefits or harms people with acute or chronic liver disease and upper gastrointestinal bleeding. This is an update of this Cochrane review. 
+Objectives
+To assess the beneficial and harmful effects of vitamin K for people with acute or chronic liver disease and upper gastrointestinal bleeding. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Controlled Trials Register (February 2015), the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 2 of 12, 2015), MEDLINE (Ovid SP) (1946 to February 2015), EMBASE (Ovid SP) (1974 to February 2015), Science Citation Index EXPANDED (1900 to February 2015), and LILACS (1982 to 25 February 2015). We sought additional randomised trials from two registries of clinical trials: the World Health Organization Clinical Trials Search Portal and the metaRegister of Controlled Trials. We looked through the reference lists of the retrieved publications and review articles. 
+Selection criteria
+Randomised clinical trials irrespective of blinding, language, or publication status for assessment of benefits and harms. We considered observational studies for assessment of harms only. 
+Data collection and analysis
+\We aimed to summarise data from randomised clinical trials using Standard Cochrane methodology and assess them according to the GRADE approach. 
+Main results
+We found no randomised trials on vitamin K for upper gastrointestinal bleeding in people with liver diseases assessing benefits and harms of the intervention. We identified no quasi‐randomised studies, historically controlled studies, or observational studies assessing harms. 
+Authors' conclusions
+This updated review found no randomised clinical trials of vitamin K for upper gastrointestinal bleeding in people with liver diseases. The benefits and harms of vitamin K need to be tested in randomised clinical trials. Until randomised clinical trials are conducted to assess the trade‐off between benefits and harms, we cannot recommend or refute the use of vitamin K for upper gastrointestinal bleeding in people with liver diseases. 

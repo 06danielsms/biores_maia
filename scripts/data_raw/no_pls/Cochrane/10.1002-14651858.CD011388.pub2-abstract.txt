@@ -1,0 +1,14 @@
+Background
+Collaborative writing applications (CWAs), such as wikis and Google Documents, hold the potential to improve the use of evidence in both public health and healthcare. Although a growing body of literature indicates that CWAs could have positive effects on healthcare, such as improved collaboration, behavioural change, learning, knowledge management, and adaptation of knowledge to local context, this has never been assessed systematically. Moreover, several questions regarding safety, reliability, and legal aspects exist. 
+Objectives
+The objectives of this review were to (1) assess the effects of the use of CWAs on process (including the behaviour of healthcare professionals) and patient outcomes, (2) critically appraise and summarise current evidence on the use of resources, costs, and cost‐effectiveness associated with CWAs to improve professional practices and patient outcomes, and (3) explore the effects of different CWA features (e.g. open versus closed) and different implementation factors (e.g. the presence of a moderator) on process and patient outcomes. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, and 11 other electronic databases. We searched the grey literature, two trial registries, CWA websites, individual journals, and conference proceedings. We also contacted authors and experts in the field. We did not apply date or language limits. We searched for published literature to August 2016, and grey literature to September 2015. 
+Selection criteria
+We included randomised controlled trials (RCTs), non‐randomised controlled trials (NRCTs), controlled before‐and‐after (CBA) studies, interrupted time series (ITS) studies, and repeated measures studies (RMS), in which CWAs were used as an intervention to improve the process of care, patient outcomes, or healthcare costs. 
+Data collection and analysis
+Teams of two review authors independently assessed the eligibility of studies. Disagreements were resolved by discussion, and when consensus was not reached, a third review author was consulted. 
+Main results
+We screened 11,993 studies identified from the electronic database searches and 346 studies from grey literature sources. We analysed the full text of 99 studies. None of the studies met the eligibility criteria; two potentially relevant studies are ongoing. 
+Authors' conclusions
+While there is a high number of published studies about CWAs, indicating that this is an active field of research, additional studies using rigorous experimental designs are needed to assess their impact and cost‐effectiveness on process and patient outcomes. 

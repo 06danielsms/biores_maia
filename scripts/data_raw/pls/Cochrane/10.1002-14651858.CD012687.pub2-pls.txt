@@ -1,0 +1,26 @@
+What are the benefits and risks of wave‐front excimer laser refractive surgery for common eye disorders? 
+Why is this question important?Refractive errors are the most common cause of poor vision worldwide. People with refractive errors have trouble focusing, because of irregularities in the shape of their eyes. This causes: 
+‐ Nearsightedness (myopia), which makes far‐away objects look blurry;‐ Farsightedness (hyperopia), which makes nearby objects look blurry; and‐ Astigmatism, which can make far‐away and nearby objects look blurry or distorted. 
+Refractive errors can be corrected with glasses or contact lenses, or treated with surgery. Conventionally, surgeons use a computer‐controlled laser that emits ultraviolet light (excimer laser refractive surgery) to correct irregularities. Newer surgical procedures use three‐dimensional imaging technology to identify irregularities (wave‐front modified techniques); this allows the correction of much smaller irregularities than the conventional procedure. 
+We reviewed the evidence from research studies to compare the benefits and risks of:
+‐ conventional excimer laser refractive surgery versus wavefront‐modified techniques; and‐ different wavefront‐modified techniques. 
+How did we identify and evaluate the evidence?First, we searched for randomized controlled studies (clinical studies where people are randomly put into one of two or more treatment groups), because these studies provide the most robust evidence about the effects of a treatment. We then compared the results, and summarized the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find?We found 33 studies that involved a total of 1499 people aged 18 years or older. These studies were conducted in Asia, Europe and the USA, and followed people for between one month and one year. Most people in the studies were women, and most people were near‐sighted. 
+Twelve studies reported their source of funding: two studies were funded by the US government, three studies were industry‐funded and seven studies did not receive any specific funding. 
+Few studies provided information about the main effects that interested us:
+‐ improvement in vision one year after surgery; and‐ the occurrence of unwanted (adverse) effects such as significant vision loss, halos (seeing bright circles around light sources) or glare (discomfort caused by intense light). 
+We have little to very little confidence in the evidence from the studies we found, mainly because the studies: 
+‐ produced imprecise and inconsistent results; and‐ were designed or conducted in ways that could introduce error into their results. 
+Conventional excimer laser refractive surgery versus wavefront‐modified techniques 
+In procedures where the surgeon removes the outer layer of the front of the eye to access the treatment area (photorefractive keratectomy, PRK), there may be little to no difference between conventional and wavefront‐modified techniques in vision improvement one year after surgery (one study). 
+No studies investigated conventional surgery versus wavefront‐modified techniques in procedures where the surgeon creates a small flap in the front of the eye to access the treatment area (laser‐assisted in‐situ keratomileusis, LASIK). 
+Comparisons between different wavefront‐modified techniques 
+There may be little to no difference between wavefront‐optimized and wavefront‐guided procedures (two different types of wavefront‐modified technique) in vision improvement one year after surgery (six studies). 
+Our confidence in the evidence is too low to determine whether there is any difference in effect between wavefront‐guided PRK and wavefront‐guided LASIK (one study). 
+Adverse effects 
+Fewer studies that reported information on unwanted effects suggest that there may be little or no differences between the procedures that were compared in terms of unwanted effects. 
+What does this mean?There may be little to no difference in improvement of vision between: 
+‐ conventional excimer laser refractive surgery and wavefront‐modified techniques when using PRK;‐ wavefront‐optimized and wavefront‐guided procedures. 
+We do not know which procedures are associated with fewer unwanted effects, because of limited evidence. 
+More, large and well‐conducted studies are needed to improve the evidence and provide information about unwanted effects. 
+How‐up‐to date is this review? The evidence in this Cochrane Review is current to August 2019. 

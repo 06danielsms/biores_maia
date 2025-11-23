@@ -1,0 +1,14 @@
+Background
+A respiratory function monitor is routinely used in neonatal intensive care units to continuously measure and display airway pressures, tidal volume and leak during ventilation. During positive pressure ventilation in the delivery room, clinical signs are used to monitor the effectiveness of ventilation. The additional use of a respiratory function monitor during positive pressure ventilation in the delivery room might help to improve the effectiveness of ventilation. 
+Objectives
+To determine whether the use of a respiratory function monitor in addition to clinical assessment compared to clinical assessment alone in newborn infants resuscitated with positive pressure ventilation reduces mortality and morbidity. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2010), MEDLINE (January 1996 to March 2010), EMBASE (January 1980 to March 2010) and CINAHL (January 1982 to March 2010). Clinical trials registers and the abstracts of the Society for Pediatric Research and the European Society for Pediatric Research were searched from 2004 to 2009. No language restrictions were applied. 
+Selection criteria
+We planned to include randomised and quasi‐randomised controlled trials and cluster trials that compared the use of a respiratory function monitor in addition to clinical assessment, compared to clinical assessment alone, in newborn infants resuscitated with positive pressure ventilation. 
+Data collection and analysis
+Two review authors independently evaluated the search results against the selection criteria. Data extraction and risk of bias assessment were not performed because there were no studies that met our inclusion criteria. 
+Main results
+No studies were found meeting the criteria for inclusion in this review
+Authors' conclusions
+There is insufficient evidence to determine the efficacy and safety of a respiratory function monitor in addition to clinical assessment during positive pressure ventilation at neonatal resuscitation. Randomised clinical trials comparing positive pressure ventilation with and without a respiratory function monitor in addition to clinical assessment at neonatal resuscitation are warranted. 

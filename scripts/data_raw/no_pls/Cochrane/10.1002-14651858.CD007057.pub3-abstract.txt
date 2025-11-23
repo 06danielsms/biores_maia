@@ -1,0 +1,14 @@
+Background
+Wegener's granulomatosis (WG) is a necrotizing small‐vessel vasculitis that can affect any organ in the body but mainly affects the upper and lower respiratory tract, the kidneys, joints, skin and eyes. The current mainstay of remission induction therapy is systemic corticosteroids in combination with oral daily cyclophosphamide (CYC) which induces remission in 75% to 100% of cases. Although standard therapy is effective in inducing partial or complete remission, 50% of complete remissions are followed by at least one relapse. This is an update of a review first published in 2009. 
+Objectives
+To determine if intravenous immunoglobulin (IVIg) adjuvant therapy provides a therapeutic advantage over and above treatment with systemic corticosteroids in combination with immunosuppressants for the treatment of WG. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator (TSC) searched the Specialised Register (last searched November 2012) and CENTRAL (2012, Issue 11). Trial databases were searched by the TSC for details of ongoing and unpublished studies. No date or language restrictions were applied. 
+Selection criteria
+Randomized controlled trials (RCTs), or quasi RCTs, or randomized cross‐over trials. Participants had to be adults with a confirmed diagnosis of WG. 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality. Relative risk was used to analyze dichotomous variables, and mean difference (MD) was used to analyze continuous variables. 
+Main results
+We included one RCT with 34 participants who were randomly assigned to receive IVIg or placebo once daily in addition to azathioprine and prednisolone for remission maintenance. There were no significant differences between adjuvant IVIg and adjuvant placebo in mortality, serious adverse events, time to relapse, open‐label rescue therapy, and infection rates. The fall in disease activity score, derived from patient‐reported symptoms, was slightly greater in the IVIg group than in the placebo group at one month (MD 2.30; 95% Confidence interval (CI) 1.12 to 3.48, P < 0.01) and three months (MD 1.80; 95% CI 0.35 to 3.25, P = 0.01). There was a significant increase in total adverse events in the IVIg group (relative risk (RR) 3.50; 95% CI 1.44 to 8.48, P < 0.01). 
+Authors' conclusions
+There is insufficient evidence from one RCT that IVIg adjuvant therapy provides a therapeutic advantage compared with the combination of steroids and immunosuppressants for patients with WG. Given the high cost of IVIg (one dose at 2 g/kg for a 70 kg patient = $8,400), it should be limited to treat WG in the context of a well conducted RCT powered to detect patient‐relevant outcomes. 

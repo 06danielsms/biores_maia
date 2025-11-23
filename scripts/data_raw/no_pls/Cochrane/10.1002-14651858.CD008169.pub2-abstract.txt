@@ -1,0 +1,15 @@
+Background
+Spironolactone is an aldosterone antagonist, considered fourth line therapy for hypertension in patients already treated with multiple medications. 
+Objectives
+Primary: to determine the effect of spironolactone on patient mortality, morbidity, and to quantify the magnitude of blood pressure lowering effect of spironolactone monotherapy. 
+Secondary: to determine the prevalence of adverse reactions observed with spironolactone monotherapy and to determine if there is a blood‐pressure lowering dose response with spironolactone. 
+Search methods
+We searched the following databases: Cochrane Central Register of Controlled Trials (3rd Quarter 2009), MEDLINE (2005 ‐ Sept. 2009), and EMBASE (2007 ‐ Sept. 2009). References from retrieved studies were reviewed to identify any studies missed in the initial search. No language restrictions were applied. 
+Selection criteria
+We selected RCTs studying patients with primary hypertension. We excluded studies of patients with secondary or gestational hypertension, and studies where patients were receiving multiple antihypertensives. 
+Data collection and analysis
+Two reviewers independently reviewed the search results for studies meeting our criteria. Three reviewers extracted data and assessed trial quality using a standardized data extraction form. Data synthesis and analysis was performed using RevMan 5. 
+Main results
+Meta‐analysis of the 5 cross‐over studies found a reduction in SBP of 20.09 mmHg (95%CI:16.58‐23.06,p<0.00001) and a 6.75 mmHg (95%CI:4.8‐8.69,p<0.00001) reduction in DBP. These results were statistically significant and there was no evidence of heterogeneity between the studies. There may be a dose response effect with spironolactone up to 50 mg/day, but the confidence intervals around the mean end‐of‐study blood pressure for doses ranging 25‐500 mg/day all overlapped. In other words, it appears that doses >50mg/day do not produce further reductions in either SBP or DBP. One cross‐over study found that spironolactone 25 mg/day did not statistically significantly change SBP or DBP compared to placebo, SBP: ‐9.9 (95%CI:‐21.15,1.35); DBP ‐2.34 (95%CI:‐7.92,3.06). 
+Authors' conclusions
+From the limited available evidence, spironolactone appears to lower blood pressure compared to placebo to a similar degree in patients with primary (essential) hypertension when doses of 100‐500 mg/day are given. A dose of 25 mg/day did not statistically significantly reduce systolic or diastolic blood pressure, compared to placebo. Given the lack of a dose‐response, coupled with a possible increased risk in adverse events with higher doses, doses of 25 to 100 mg/day are reasonable. There is no evidence of the effect of spironolactone on clinical outcomes in hypertensive patients. 

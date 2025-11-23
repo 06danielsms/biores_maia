@@ -1,0 +1,14 @@
+Background
+It has been suggested that a time‐lag bias exists whereby research studies with striking results are more likely to be stopped earlier than originally planned, published quicker, or both. If time‐lag bias exists, new interventions might be mistakenly assumed to be effective. 
+Objectives
+To study the extent to which time to publication of a clinical trial is influenced by the significance of its result. 
+Search methods
+Studies were identified by searching the Cochrane Methodology Register (The Cochrane Library, Issue 3, 2005), MEDLINE (1966 to May 2005), EMBASE (1980 to May 2005), Science Citation Index (June 2005) and by handsearching journals and conference abstracts. 
+Selection criteria
+Studies were eligible if they contained analyses of any aspect of the time to publication of clinical trials and tracked the publication of a cohort of clinical trials. 
+Data collection and analysis
+Data extraction was performed independently by two authors. Data were extracted on the median time from the date the trial started to the date of publication. Data were also extracted on source of trials under investigation; source of funding; area of health care; means by which the publication status of these trials were sought; and methodological quality of the empirical study. 
+Main results
+Two studies with a total of 196 trials met the inclusion criteria. In both studies just over half of all trials had been published in full. Trials with positive results (i.e. statistically significant in favour of the experimental arm) were published in approximately 4 to 5 years. Trials with null or negative results (i.e. not statistically significant or statistically significant in favour of the control arm) were published after about 6 to 8 years. One study suggested that this difference could, in part, be attributed to the length of time taken to publish the results of a trial once follow up has been completed. This study showed that trials with null or negative findings took, on average, just over a year longer to be published than those with positive results. 
+Authors' conclusions
+Our review shows that trials with positive results are published sooner than other trials. This has important implications for the timing of the initiation and updating of a review, especially if there is an association between the inclusion of a trial in a review and its publication status. It is of particular concern when one considers reviews containing only a small number of studies. 

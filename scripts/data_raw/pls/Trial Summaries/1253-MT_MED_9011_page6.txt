@@ -1,0 +1,19 @@
+Clinical Study Results
+
+These measurements were not done for Groups 3 and 4, since the participants in these groups did not get anifrolumab.
+
+Median highest amount of anifrolumab in participants' blood after first dose:
+
+- Group 1: 25.9 µg/mL
+- Group 2: 16.6 µg/mL
+
+What was the amount of anifrolumab in the participants' blood before the dose at week 12?
+
+The researchers wanted to know how much anifrolumab stayed in the participants' blood after getting several doses. To answer this question, the researchers took blood samples from the participants just before they received their dose of anifrolumab at week 12 of the study. They measured the amount of anifrolumab in the blood in Groups 1 and 2. This was measured in micrograms per milliliter, also called µg/mL.
+
+The researchers looked at these measurements using the median. They found that at week 12, the median amount of anifrolumab was higher in the participants who had been getting 300 mg of anifrolumab than in the participants who had been getting 150 mg of anifrolumab.
+
+The median amount of anifrolumab in the participants' blood before getting the dose at week 12 was:
+
+- Group 1: 14.6 µg/mL
+- Group 2: 72.9 µg/mL

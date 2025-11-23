@@ -1,0 +1,14 @@
+Background
+Women are more vulnerable to malaria during pregnancy, and malaria infection may have adverse consequences for the fetus. Identifying safe and effective treatments is important. 
+Objectives
+To compare the effects of drug regimens for treating uncomplicated falciparum malaria in pregnant women. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (February 2008), CENTRAL (The Cochrane Library 2008, Issue 1), MEDLINE (1966 to February 2008), EMBASE (1974 to February 2008), LILACS (February 2008), mRCT (February 2008), reference lists, and conference abstracts. We also contacted researchers in the field, organizations, and pharmaceutical companies. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials of antimalarial drugs for treating uncomplicated malaria in pregnant women. 
+Data collection and analysis
+Two authors assessed trial eligibility and risk of bias, and extracted data. We performed a quantitative analysis only where we could combine the data. We combined dichotomous data using the risk ratio (RR) and presented each result with a 95% confidence interval (CI). 
+Main results
+Ten trials (1805 participants) met the inclusion criteria. Two were quasi‐randomized, seven did not describe allocation concealment, and all adjusted treatment failure to exclude new infections. One trial reported fewer treatment failures at day 63 with artesunate plus mefloquine compared with quinine (RR 0.09, 95% CI 0.02 to 0.38; 106 participants). One trial reported fewer treatment failures at day 63 with artesunate plus atovaquone‐proguanil compared with quinine (RR 0.14, 95% CI 0.03 to 0.57; 80 participants). One trial reported fewer treatment failures at day 28 when amodiaquine was compared with chloroquine (RR 0.20, 95% CI 0.08 to 0.46; 420 participants) and when amodiaquine plus sulfadoxine‐pyrimethamine was compared with chloroquine (RR 0.02, 95% CI 0.00 to 0.26; 418 participants). Compared with sulfadoxine‐pyrimethamine given alone, one trial reported fewer treatment failures at delivery (or day 40) with artesunate plus sulfadoxine‐pyrimethamine (RR 0.15, 95% CI 0.04 to 0.59; 79 participants) and azithromycin plus sulfadoxine‐pyrimethamine (RR 0.27, 95% CI 0.10 to 0.76; 82 participants). 
+Authors' conclusions
+Data are scant. Some combination treatments appear to be effective at treating malaria in pregnancy; however, safety data are limited. 

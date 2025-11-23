@@ -1,0 +1,14 @@
+Background
+Fenbufen is a non‐selective non‐steroidal anti‐inflammatory drug (NSAID), used to treat acute and chronic painful conditions. There is no known systematic review of its use in acute postoperative pain. 
+Objectives
+To assess efficacy, duration of action, and associated adverse events of single dose oral fenbufen in acute postoperative pain in adults. 
+Search methods
+We searched Cochrane CENTRAL, MEDLINE, EMBASE and the Oxford Pain Relief database for studies to June 2009. 
+Selection criteria
+Randomised, double blind, placebo‐controlled trials of single dose orally administered fenbufen in adults with moderate to severe acute postoperative pain. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Pain relief or pain intensity data were extracted and converted into the dichotomous outcome of number of participants with at least 50% pain relief over 4 to 6 hours, from which relative risk and number needed to treat to benefit (NNT) were calculated. Numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. Information on adverse events and withdrawals were collected. 
+Main results
+Searches identified only one study with (90 participants in total, 31 taking fenbufen). The study compared oral fenbufen 800 mg, fenbufen 400 mg, and placebo in participants with established postoperative pain. Fenbufen at both doses had apparent analgesic efficacy, but the numbers of participants was too small to allow sensible analysis. Gastrointestinal adverse events were noted in 4 of 15 participants taking fenbufen 800 mg. 
+Authors' conclusions
+In the absence of evidence of efficacy for oral fenbufen in acute postoperative pain, its use in this indication is not justified at present. Because trials clearly demonstrating analgesic efficacy in the most basic of acute pain studies is lacking, use in other indications should be evaluated carefully. Given the large number of available drugs of this and similar classes which are effective, there is no urgent research agenda for this particular drug. 

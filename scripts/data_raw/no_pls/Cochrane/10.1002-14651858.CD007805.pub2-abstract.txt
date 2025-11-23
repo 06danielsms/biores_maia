@@ -1,0 +1,14 @@
+Background
+Securing the endotracheal tube is a common procedure in the neonatal intensive care unit. Adequate fixation of the tube is essential to ensure effective ventilation of the infant whilst minimising potential complications secondary to the intervention. Methods used to secure the endotracheal tube often vary between units and sometimes even between healthcare providers in the same nursery. 
+Objectives
+To compare the different methods of securing the endotracheal tube in the ventilated neonate and their effects on the risk of accidental extubation and other potential complications that can result from an unstable endotracheal tube. 
+Search methods
+A literature search of MEDLINE (from 1966 to June 2013), CINAHL (from 1982 to June 2013) and CENTRAL in The Cochrane Library was conducted to identify relevant trials to be analysed. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials of infants who were intubated for mechanical ventilation in a neonatal intensive care nursery where methods of stabilising the endotracheal tube were being compared. 
+Data collection and analysis
+Data were collected from individual studies to determine the methods being compared, the methodology of the trial, and whether there were areas of bias that could significantly affect the results of the studies. In particular, studies were assessed for blinding of randomisation and allocation, blinding of the intervention, completeness of follow up, blinding of outcome assessments and selective reporting. 
+Main results
+Five randomised controlled trials were identified and included for review. Accidental extubation was the most common outcome measured (five studies). None of the studies reported on the need for re‐intubation or the rate of tube malposition, however one study did report on endotracheal tube slippage. A variety of other adverse effects were reported including mortality, incidence of perioral skin trauma and tube re‐taping. All five studies were of poor methodological quality, small size, contained significant risks of bias and compared methods of securing the endotracheal tube that were too dissimilar for the data to be collated or included in a meta‐analysis. We have not reported these further. 
+Authors' conclusions
+This review highlighted the need for further well designed and completed studies to be conducted for this common neonatal procedure. Evidence is lacking to determine the most effective and safe method to stabilise the endotracheal tube in the ventilated neonate. 

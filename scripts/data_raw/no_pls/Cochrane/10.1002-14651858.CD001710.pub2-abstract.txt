@@ -1,0 +1,14 @@
+Background
+The number of people with severe mental illness who receive treatment whilst living at home has increased greatly over the last 30 years. Day centres and day hospitals frequently supplement this treatment. 
+Objectives
+To determine the effects of non‐medical day centre care for people with severe mental illness. 
+Search methods
+We updated our search in September 2005. All databases and searches are detailed in the body of the text. 
+Selection criteria
+We would have included all randomised controlled trials where seriously mentally ill people were allocated to non‐medical day centre care. 
+Data collection and analysis
+We reliably selected studies, quality rated them and extracted data. For dichotomous data, it had been hoped to estimate the fixed effects Relative Risk (OR) with 95% confidence intervals (CI) and the number needed to treat statistic (NNT). Analysis was to have been by intention‐to‐treat. Normal continuous data were to have been summated using the weighted mean difference (WMD) and scale data presented only for those tools that had attained pre‐specified levels of quality. 
+Main results
+Electronic searches identified over 300 citations but none were relevant to this review. We found no trials of non‐medical day centres. 
+Authors' conclusions
+We feel that the inclusion of any studies less rigorous than randomised trials would result in misleading findings and that it is not unreasonable to expect well designed, conducted and reported randomised controlled trials of day centre care. More precise nomenclature would greatly help identify relevant work. At present non‐randomised comparative studies give conflicting messages about the roles provided by day centres and the clinical and social needs they are able to meet. It is therefore probably best that people with serious mental illness and their carers, if given the choice, take a pragmatic decision on which type of unit best meets their needs. There is a clear need for randomised controlled trials of day centre care compared to other forms of day care, and when resources are limited, day centre care within the context of a pragmatic randomised trial may be the only way of ensuring equity of provision. 

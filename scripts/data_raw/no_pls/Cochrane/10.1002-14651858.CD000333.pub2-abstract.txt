@@ -1,0 +1,14 @@
+Background
+Osteoporosis is a condition resulting in an increased risk of skeletal fractures due to a reduction in the density of bone tissue. Treatment of osteoporosis typically involves the use of pharmacological agents. In general it is thought that disuse (prolonged periods of inactivity) and unloading of the skeleton promotes reduced bone mass, whereas mechanical loading through exercise increases bone mass. 
+Objectives
+To examine the effectiveness of exercise interventions in preventing bone loss and fractures in postmenopausal women. 
+Search methods
+During the update of this review we updated the original search strategy by searching up to December 2010 the following electronic databases: the Cochrane Musculoskeletal Group's Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2010 Issue 12); MEDLINE; EMBASE; HealthSTAR; Sports Discus; CINAHL; PEDro; Web of Science; Controlled Clinical Trials; and AMED. We attempted to identify other studies by contacting experts, searching reference lists and searching trial registers. 
+Selection criteria
+All randomised controlled trials (RCTs) that met our predetermined inclusion criteria.
+Data collection and analysis
+Pairs of members of the review team extracted the data and assessed trial quality using predetermined forms. For dichotomous outcomes (fractures), we calculated risk ratios (RRs) using a fixed‐effect model. For continuous data, we calculated mean differences (MDs) of the percentage change from baseline. Where heterogeneity existed (determined by the I2 statistic), we used a random‐effects model. 
+Main results
+Forty‐three RCTs (27 new in this update) with 4320 participants met the inclusion criteria. The most effective type of exercise intervention on bone mineral density (BMD) for the neck of femur appears to be non‐weight bearing high force exercise such as progressive resistance strength training for the lower limbs (MD 1.03; 95% confidence interval (CI) 0.24 to 1.82). The most effective intervention for BMD at the spine was combination exercise programmes (MD 3.22; 95% CI 1.80 to 4.64) compared with control groups. Fractures and falls were reported as adverse events in some studies. There was no effect on numbers of fractures (odds ratio (OR) 0.61; 95% CI 0.23 to 1.64). Overall, the quality of the reporting of studies in the meta‐analyses was low, in particular in the areas of sequence generation, allocation concealment, blinding and loss to follow‐up. 
+Authors' conclusions
+Our results suggest a relatively small statistically significant, but possibly important, effect of exercise on bone density compared with control groups. Exercise has the potential to be a safe and effective way to avert bone loss in postmenopausal women. 

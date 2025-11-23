@@ -1,0 +1,14 @@
+Background
+Many patients visit their general practitioner (GP) because of problems that are psychosocial in origin. However, for many of these problems there is no evidence‐based treatment available in primary care, and these patients place time‐consuming demands on their GP. Therefore, GPs could benefit from tools to help these patients more effectively and efficiently. In this light, it is important to assess whether structured psychosocial interventions might be an appropriate tool for GPs. Previous reviews have shown that psychosocial interventions in primary care seem more effective than usual care. However, these interventions were mostly performed by health professionals other than the GP. 
+Objectives
+To examine the effectiveness of psychosocial interventions by general practitioners by assessing the clinical outcomes and the methodological quality of selected studies. 
+Search methods
+The search was conducted using the CCDANCTR‐Studies and CCDANCTR‐References on 20/10/2005, The Cochrane Library, reference lists of relevant studies for citation tracking and personal communication with experts. 
+Selection criteria
+Randomised controlled trials, controlled clinical trials and controlled patient preference trials addressing the effectiveness of psychosocial interventions by GPs for any problem or disorder. Studies published before November 2005 were eligible for entry. 
+Data collection and analysis
+Methodological quality was independently assessed by two review authors using the Maastricht‐Amsterdam Criteria List. The qualitative and quantitative characteristics of selected trials were independently extracted by two review authors using a standardised data extraction form. Levels of evidence were used to determine the strength of the evidence available. Results from studies that reported similar interventions and outcome measures were meta‐analysed. 
+Main results
+Ten studies were included in the review. Selected studies addressed different psychosocial interventions for five distinct disorders or health complaints. There is good evidence that problem‐solving treatment by general practitioners is effective for major depression. The evidence concerning the remaining interventions for other health complaints (reattribution or cognitive behavioural group therapy for somatisation, cognitive behavioural therapy for unexplained fatigue, counselling for smoking cessation, behavioural interventions to reduce alcohol reduction) is either limited or conflicting. 
+Authors' conclusions
+In general, there is little available evidence on the use of psychosocial interventions by general practitioners. Of the psychosocial interventions reviewed, problem‐solving treatment for depression may offer promise, although a stronger evidence‐base is required and the effectiveness in routine practice remains to be demonstrated. More research is required to improve the evidence‐base on this subject. 

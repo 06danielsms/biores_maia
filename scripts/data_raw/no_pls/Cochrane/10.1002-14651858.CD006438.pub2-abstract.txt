@@ -1,0 +1,15 @@
+Background
+Incisional hernias occur frequently after abdominal surgery and can cause serious complications. The choice of a type of open operative repair is controversial. Determining the type of open operative repair is controversial, as the recurrence rate may be as high as 54%. This a update of an earlier version. 
+Objectives
+To identify the best available open operative techniques for incisional hernias.
+Search methods
+Electronic databases MEDLINE, EMBASE and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from 1990 to 14 September 2010 and trials were identified from the known trial reference lists. 
+Selection criteria
+Studies were eligible for inclusion if they were randomized trials comparing different techniques for open operative techniques for incisional hernias. 
+Data collection and analysis
+Statistical analyses were performed using the fixed effects model. Results were expressed as relative risk for dichotomous outcomes and weighted mean difference for continuous outcomes with 95% confidence intervals. 
+Main results
+Eight trials comparing different open repairs for incisional hernias were identified; one trial was excluded. The included studies enrolled 1,141 patients. The results of three trials comparing suture repair versus mesh repair were pooled. Hernia recurrence was more frequent, wound infection less frequent in the direct suture group compared to the onlay or sublay mesh groups. The recurrence rates of two trials comparing onlay and sublay positions were pooled. This comparison yielded no difference in recurrences (two studies pooled), although operation time was shorter in the onlay group (one study). No difference was found in recurrence, satisfaction with cosmetics, or infection between the onlay standard mesh and skin autograft groups, following analysis pooling the two treatment arms. However, the analysis demonstrated less pain in the skin autograft group. Other trials comparing different mesh materials or different positions of the mesh, or comparing mesh with the components separation technique are described individually. The comparison between lightweight and standard mesh showed a trend for more recurrences in the lightweight group. The comparison between onlay and intraperitoneal mesh positions resulted in non significant fewer hernia recurrences, less seroma formation and more postoperative pain in the intraperitoneal group. No differences in the recurrence rates between the components separation and the intraperitoneal mesh technique. 
+An update in October 2010 did not yield any further studies.
+Authors' conclusions
+There is good evidence from three trials that open mesh repair is superior to suture repair in terms of recurrences, but inferior when considering wound infection. Six trials yielded insufficient evidence as to which type of mesh or which mesh position (on‐ or sublay) should be used. There was also insufficient evidence to advocate the use of the components separation technique. 

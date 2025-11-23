@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane review first published in The Cochrane Library in Issue 1, 2010. 
+Ménière's disease is characterised by three major symptoms: vertigo, deafness, and tinnitus or aural fullness, all of which are discontinuous and variable in intensity. A number of surgical modalities, of varying levels of invasiveness, have been developed to reduce the symptoms of Ménière's disease, but it is not clear whether or not these are effective. 
+Objectives
+To assess the effectiveness of surgical options for the treatment of Ménière's disease. All surgical interventions used in the treatment of Ménière's disease, either to alter the natural history of the disease or to abolish vestibular function, were considered for this review. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 7 November 2012. 
+Selection criteria
+Randomised or quasi‐randomised controlled studies of a surgical modality versus a placebo therapy in Ménière's disease. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for further information. 
+Main results
+The only surgical intervention which has been evaluated in randomised controlled trials and met the inclusion criteria was endolymphatic sac surgery. We identified two randomised trials, involving a total of 59 patients; one comparing endolymphatic sac surgery with ventilation tubes and one with simple mastoidectomy. Neither study reported any beneficial effect of surgery either in comparison to placebo surgery or grommet insertion. 
+Authors' conclusions
+The two trials included in this review provide insufficient evidence of the beneficial effect of endolymphatic sac surgery in Ménière's disease. 

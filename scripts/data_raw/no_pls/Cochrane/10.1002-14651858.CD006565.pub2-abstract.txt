@@ -1,0 +1,14 @@
+Background
+Gilles de la Tourette Syndrome (GTS) is a developmental neuropsychiatric disorder characterised by the presence of chronic motor and phonic tics. Drugs currently used in the treatment of GTS either lack efficacy or are associated with intolerable side effects. There is some anecdotal and experimental evidence that cannabinoids may be effective in treating tics and compulsive behaviour in patients with GTS. There are currently no systematic Cochrane reviews of treatments used in GTS. There is one other Cochrane review being undertaken at present, on the use of fluoxetine for tics in GTS. 
+Objectives
+To evaluate the efficacy and safety of cannabinoids as compared to placebo or other drugs in treating tics, premonitory urges and obsessive compulsive symptoms (OCS), in patients with GTS. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (in The Cochrane Library Issue 4 2008) , MEDLINE (January 1996 to date), EMBASE (January 1974 to date), PsycINFO (January 1887 to date), CINAHL (January 1982 to date), AMED (January 1985 to date), British Nursing Index (January 1994 to date) and DH DATA (January 1994 to date).   We also searched the reference lists of located trials and review articles for further information. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing any cannabinoid preparation with placebo or other drugs used in the treatment of tics and OCS in patients with GTS. 
+Data collection and analysis
+Two authors abstracted data independently and settled any differences by discussion.
+Main results
+Only two trials were found that met the inclusion criteria. Both compared a cannabinoid, delta‐9‐Tetrahydrocannabinol (Δ9THC), either as monotherapy or as adjuvant therapy, with placebo. One was a double blind, single dose crossover trial and the other was a double blind, parallel group study. A total of 28 different patients were studied. Although both trials reported a positive effect from Δ9THC, the improvements in tic frequency and severity were small and were only detected by some of the outcome measures. 
+Authors' conclusions
+Not enough evidence to support the use of cannabinoids in treating tics and obsessive compulsive behaviour in people with Tourette's syndrome. 

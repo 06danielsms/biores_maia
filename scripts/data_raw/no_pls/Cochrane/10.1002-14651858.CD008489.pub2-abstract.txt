@@ -1,0 +1,14 @@
+Background
+Diabetes is a chronic illness characterised by insulin resistance or deficiency, resulting in elevated glycosylated haemoglobin A1c (HbA1c) levels. Because diabetes tends to run in families, the collection of data is an important tool for identifying people with elevated risk of type2 diabetes. Traditionally, oral‐and‐written data collection methods are employed but computer‐assisted history taking systems (CAHTS) are increasingly used. Although CAHTS were first described in the 1960s, there remains uncertainty about the impact of these methods on family history taking, clinical care and patient outcomes such as health‐related quality of life.  
+Objectives
+To assess the effectiveness of computer‐assisted versus oral‐and‐written family history taking for identifying people with elevated risk of developing type 2 diabetes mellitus. 
+Search methods
+We searched The Cochrane Library (issue 6, 2011), MEDLINE (January 1985 to June 2011), EMBASE (January 1980 to June 2011) and CINAHL (January 1981 to June 2011). Reference lists of obtained articles were also pursued further and no limits were imposed on languages and publication status. 
+Selection criteria
+Randomised controlled trials of computer‐assisted versus oral‐and‐written history taking in adult participants (16 years and older). 
+Data collection and analysis
+Two authors independently scanned the title and abstract of retrieved articles. Potentially relevant articles were investigated as full text. Studies that met the inclusion criteria were abstracted for relevant population and intervention characteristics with any disagreements resolved by discussion, or by a third party. Risk of bias was similarly assessed independently. 
+Main results
+We found no controlled trials on computer‐assisted versus oral‐and‐written family history taking for identifying people with elevated risk of type 2 diabetes mellitus. 
+Authors' conclusions
+There is a need to develop an evidence base to support the effective development and use of computer‐assisted history taking systems in this area of practice. In the absence of evidence on effectiveness, the implementation of computer‐assisted family history taking for identifying people with elevated risk of type 2 diabetes may only rely on the clinicians' tacit knowledge, published monographs and viewpoint articles. 

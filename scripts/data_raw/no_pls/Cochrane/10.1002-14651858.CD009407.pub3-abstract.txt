@@ -1,0 +1,17 @@
+Background
+Surgery is a common treatment modality for stress urinary incontinence (SUI), usually offered to women for whom conservative treatments have failed. Midurethral tapes have superseded colposuspension because cure rates are comparable and recovery time is reduced. However, some women will not be cured after midurethral tape surgery. Currently, there is no consensus on how to manage the condition in these women. 
+This is an update of a Cochrane Review first published in 2013.
+Objectives
+To assess the effects of interventions for treating recurrent stress urinary incontinence after failed minimally invasive synthetic midurethral tape surgery in women; and to summarise the principal findings of economic evaluations of these interventions. 
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, ClinicalTrials.gov, WHO ICTRP and handsearching of journals and conference proceedings (searched 9 November 2018). We also searched the reference lists of relevant articles. 
+Selection criteria
+We included randomised and quasi‐randomised controlled trials in women who had recurrent stress urinary incontinence after previous minimally invasive midurethral tape surgery. We included conservative, pharmacological and surgical treatments. 
+Data collection and analysis
+Two review authors checked the abstracts of identified studies to confirm their eligibility. We obtained full‐text reports of relevant studies and contacted study authors directly for additional information where necessary. We extracted outcome data onto a standard proforma and processed them according to the guidance in the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+We included one study in this review. This study was later reported in an originally unplanned secondary analysis of 46 women who underwent transobturator tape for recurrent SUI after one or more previous failed operations. We were unable to use the data, as they were not presented according to the nature of the first operation. 
+We excluded 12 studies, five because they were not randomised controlled trials (RCTs) and four because previous incontinence surgery was not performed using midurethral tape. We considered a further three to be ineligible because neither the trial report nor personal communication with the trialists could confirm whether any of the participants had previously undergone surgery with tape. 
+We had also planned to develop a brief economic commentary summarising the principal findings of relevant economic evaluations but supplementary systematic searches did not identify any such studies. 
+Authors' conclusions
+There were insufficient data to assess the effects of any of the different management strategies for recurrent or persistent stress incontinence after failed midurethral tape surgery. No published papers have reported exclusively on women whose first operation was a midurethral tape. Evidence from further RCTs and economic evaluations is required to address uncertainties about the effects and costs of these treatments. 

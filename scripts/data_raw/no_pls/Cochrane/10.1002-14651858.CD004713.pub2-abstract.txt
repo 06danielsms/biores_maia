@@ -1,0 +1,17 @@
+Background
+Soft tissue injuries (including muscle damage after unaccustomed exercise) are common and are often associated with athletic activity. Hyperbaric oxygen therapy (HBOT) is the therapeutic administration of 100% oxygen at environmental pressures greater than one atmosphere. 
+Objectives
+To assess the benefits and harms of HBOT for treating soft tissue injury, including delayed onset muscle soreness (DOMS). 
+Search methods
+We searched The Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (to February 2010), the Cochrane Central Register of Controlled Trials (The Cochrane Library (2010, Issue 1), MEDLINE (1950 to February 2010), EMBASE (1980 to 2010 Week 07), CINAHL (1982 to October 2008), an additional database developed in our hyperbaric facility and reference lists of articles. Relevant journals were handsearched and researchers in the field contacted. 
+Selection criteria
+Randomised trials comparing the effect on closed soft tissue injury (including DOMS) of therapeutic regimens which include HBOT with those that exclude HBOT (with or without sham therapy). 
+Data collection and analysis
+Four authors independently evaluated study quality and extracted data. Most of the data presented in the review were extracted from graphs in the trial reports. 
+Main results
+Nine small trials involving 219 participants were included. Two trials compared HBOT versus sham therapy on acute closed soft tissue injuries (ankle sprain and medial collateral knee ligament injury respectively). The other seven trials examined the effect of HBOT on DOMS following eccentric exercise in unconditioned volunteers. 
+All 32 participants of the ankle sprain trial returned to their normal activities. There were no significant differences between the two groups in time to recovery, functional outcomes, pain, or swelling. There was no difference between the two groups in knee function scores in the second acute injury trial; however, intention‐to‐treat analysis was not possible for this trial. 
+Pooling of data from the seven DOMS trials showed significantly and consistently higher pain at 48 and 72 hours in the HBOT group (mean difference in pain score at 48 hours [0 to 10 worst pain] 0.88, 95% CI 0.09 to 1.67, P = 0.03) in trials where HBOT was started immediately. There were no differences between the two groups in longer‐term pain scores or in any measures of swelling or muscle strength. 
+No trial reported complications of HBOT but careful selection of participants was evident in most trials. 
+Authors' conclusions
+There was insufficient evidence from comparisons tested within randomised controlled trials to establish the effects of HBOT on ankle sprain or acute knee ligament injury, or on experimentally induced DOMS. There was some evidence that HBOT may increase interim pain in DOMS. Any future use of HBOT for these injuries would need to have been preceded by carefully conducted randomised controlled trials which have demonstrated effectiveness. 

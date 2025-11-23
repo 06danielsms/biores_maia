@@ -1,0 +1,14 @@
+Background
+Obesity is closely related to type 2 diabetes and long‐term weight reduction is an important part of the care delivered to obese persons with diabetes. 
+Objectives
+To assess the efficacy of pharmacotherapy for weight loss in adults with type 2 diabetes.
+Search methods
+Computerized searches were performed of MEDLINE, EMBASE, Web of Science and other electronic bibliographic databases, supplemented with hand searches of reference lists and selected journals. 
+Selection criteria
+Randomized, controlled trials were included where pharmacotherapy was used as the primary strategy for weight loss among adults with type 2 diabetes. Published and unpublished literature in any language and with any study design was included. 
+Data collection and analysis
+Two reviewers abstracted data and the quality of included studies was evaluated by assessing potential attrition, as well as selection and measurement bias, and a Jadad score was obtained. Effects were combined using a random effects model. 
+Main results
+A sufficient number of studies were available for a quantitative synthesis for fluoxetine, orlistat, and sibutramine. Twenty two randomized controlled trials were included in the review, with a total of 296 participants for fluoxitine, 2036 for orlistat, and 1047 for sibutramine. Pharmacotherapy produced modest reductions in weight for fluoxetine (5.1 kg (95% confidence interval [CI], 3.3 ‐ 6.9) at 24 to 26 weeks follow up; orlistat 2.0 kg (CI, 1.3 ‐ 2.8) at 12 to 57 weeks follow‐up, and sibutramine 5.1 kg (CI, 3.2 ‐ 7.0) at 12 to 52 weeks follow‐up. Glycated hemoglobin also modestly and significantly reduced for fluoxetine and orlistat. Gastrointestinal side effects were common with orlistat; tremor, somnolence and sweating with fluoxetine; and palpitations with sibutramine. Some studies, using a variety of study designs, were available on other drugs and a significant decrease in weight was noted in three studies of mazindol, one of phenmetrazine, two of phentermine. No studies were identified that fit inclusion criteria for pseudoephedrine, ephedra, sertraline, yohimbine, amphetamine or its derivatives, bupropion, topiramate, benzocaine, threachlorocitric acid, sertraline, and bromocriptine. 
+Authors' conclusions
+Fluoxetine, orlistat, and sibutramine can achieve statistically significant weight loss over 12 to 57 weeks. The magnitude of weight loss is modest, however, and the long‐term health benefits remain unclear. The safety of sibutramine is uncertain. There is a paucity of data on other drugs for weight loss or control in persons with type 2 diabetes. 

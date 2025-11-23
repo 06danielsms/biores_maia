@@ -1,0 +1,14 @@
+Background
+The term 'acquired brain injury' (ABI) incorporates a range of aetiologies including cerebrovascular accident, brain tumour and traumatic brain injury. ABI is a common cause of disability in the paediatric population, and dysarthria is a common and often persistent sequelae associated with ABI in children. 
+Objectives
+To assess the efficacy of intervention delivered by Speech and Language Pathologists/Therapists targeting dysarthric speech in children resulting from acquired brain injury. 
+Search methods
+We searched CENTRAL (Issue 4, 2006), MEDLINE (1966 to 02/2007), CINAHL (1982 to 02/2007), EMBASE (1980 to 02/2007), ERIC (1965 to 02/2007), Linguistics Abstracts Online (1985 to 02/07), PsycINFO (1872 to 02/2007). Additional references were also sought from reference lists studies.  
+Selection criteria
+The review considered randomised controlled trials (RCTs) and quasi‐experimental design studies of children aged 3‐16 years with acquired dysarthria grouped by aetiology (e.g., brain tumour, traumatic brain injury, cerebrovascular accident). 
+Data collection and analysis
+Each author independently assessed the titles and abstracts for relevance (100% inter‐rater reliability) and the full text version of all potentially relevant articles was obtained. No studies met inclusion criteria. 
+Main results
+Of 2091 titles and abstracts identified, full text versions of only three  (Morgan 2007; Murdoch 1999; Netsell 2001) were obtained. 2088 were excluded, largely on the basis of not including dysarthria, being diagnostic or descriptive papers, and for concerning adults rather than children. Morgan 2007 and Murdoch 1999 were excluded for not employing RCT or quasi‐randomised methodology; Netsell 2001 on the basis of being a theoretical review paper, rather than an intervention study. Five references were identified and obtained from the bibliography of the Murdoch 1999 paper. All were excluded due to including populations without ABI, adults with dysarthria, or inappropriate design. Thus, no studies met inclusion criteria. 
+Authors' conclusions
+The review demonstrates a critical lack of studies, let alone RCTs, addressing treatment efficacy for dysarthria in children with ABI. Possible reasons to explain this lack of data include i) a lack of understanding of the characteristics or natural history of dysarthria associated with this population; ii) the lack of a diagnostic classification system for children precluding the development of well targeted intervention programs; and iii) the heterogeneity of both the aetiologies and resultant possible dysarthria types of paediatric ABI. Efforts should first be directed at modest well‐controlled studies to identify likely efficacious treatments that may then be trialed in multi‐centre collaborations using quasi‐randomised or RCT methodology. 

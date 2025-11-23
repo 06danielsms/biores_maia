@@ -1,0 +1,18 @@
+Platinum‐containing regimens for triple‐negative metastatic breast cancer
+What is the issue? 
+Metastatic breast cancer occurs when the cancer has spread to areas of the body beyond the breast and nearby lymph nodes. Although metastatic breast cancer is generally not curable, it is widely accepted that women with metastatic disease should receive some form of chemotherapy to help ease the severity of disease symptoms, slow cancer progression and improve survival, when compared to no treatment. Chemotherapy containing platinum is known to be effective for treating a number of cancer types including lung, testicular, head and neck, bladder and ovarian cancers. However, it is also known to cause more adverse effects (such as nausea and vomiting, hair loss, anaemia, kidney damage and low white blood cells) than other chemotherapy options. The two platinum agents most used for treating metastatic breast cancer are carboplatin and cisplatin. 
+In a previous Cochrane Review, we found that for women with metastatic breast cancer, there is little or no survival benefit, and more side effects related to toxicity, from platinum‐based regimens. In analysing different groups of women with metastatic disease, however, we found preliminary evidence of a survival benefit from platinum‐based regimens for women with the triple‐negative subtype of metastatic breast cancer. The term 'triple‐negative' relates to the fact that this subtype of breast cancer tests negative for oestrogen receptors (ERs) and progesterone receptors (PgRs), and have low levels of a protein called human epidermal growth factor receptor 2 (HER2). 
+The current review updates the evidence on platinum‐containing regimens for women with a specific breast cancer subtype of triple‐negative metastatic breast cancer (mTNBC). 
+Why does it matter? 
+mTNBC makes up approximately 12% to 17% of breast cancers and is associated with shorter survival and higher chance that the cancer returns. In recent years, some researchers have hypothesised that chemotherapy containing platinum might be more effective in treating mTNBC than other chemotherapy options. Randomised controlled trials (RCTs) have been designed and conducted to test this hypothesis. 
+We asked: 
+Are chemotherapy treatments containing a platinum agent more or less effective for treating women with mTNBC than chemotherapy treatments not containing a platinum agent? 
+We found: 
+10 studies involving 1349 women. The evidence is current to September 2019. This review found that for women with mTNBC, a chemotherapy containing platinum: 
+‐ may increase survival time over chemotherapy without platinum;
+‐ reduces the number of breast cancer recurrences compared to chemotherapy that did not contain platinum but we are uncertain about these results; 
+‐ appears to cause tumours to shrink more than chemotherapy without platinum;
+‐ may increase the chance of severe nausea and vomiting compared to treatment without platinum; and 
+‐ may increase the chance of anaemia compared to chemotherapy without platinum.
+What does this mean? 
+Chemotherapy containing platinum may provide a small survival benefit to mTNBC participants, but still large enough to justify its use. This potential benefit needs to be weighed against the higher risks of toxic side effects from platinum‐based regimens compared to non‐platinum regimens. Further studies are required before a more definitive conclusion can be made. 

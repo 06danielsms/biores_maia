@@ -1,0 +1,15 @@
+Background
+Some women who have threatened to give birth prematurely, subsequently settle. They may then take oral tocolytic maintenance therapy to prevent preterm birth and to prolong gestation. 
+Objectives
+To assess the effects of oral betamimetic maintenance therapy after threatened preterm labour for preventing preterm birth. 
+Search methods
+We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 9 November 2012. 
+Selection criteria
+Randomised controlled trials comparing oral betamimetic with alternative tocolytic therapy, placebo or no therapy, for maintenance following treatment of threatened preterm labour. 
+Data collection and analysis
+Two review authors independently applied the selection criteria and carried out data extraction and quality assessment of studies. 
+Main results
+We did not identify any new trials from the updated search so the results remain unchanged as follows. 
+We included 13 randomised controlled trials (RCTs) with a total of 1551 women. We found no differences for admission to the neonatal intensive care unit when betamimetics were compared with placebo (risk ratio (RR) 1.28, 95% confidence interval (CI) 0.68 to 2.41; two RCTs of terbutaline with 2600 women) or with magnesium (RR 0.80, 95% CI 0.43 to 1.46; one RCT of 137 women). The rate of preterm birth (less than 37 weeks) showed no significant difference in six RCTs, four comparing ritodrine with placebo/no treatment and two comparing terbutaline with placebo/no treatment (RR 1.11, 95% CI 0.91 to 1.35; 644 women). We observed no differences between betamimetics and placebo, no treatment or other tocolytics for perinatal mortality and morbidity outcomes. Some adverse effects such as tachycardia were more frequent in the betamimetics groups than the groups allocated to placebo, no treatment or another type of tocolytic. 
+Authors' conclusions
+Available evidence does not support the use of oral betamimetics for maintenance therapy after threatened preterm labour. 

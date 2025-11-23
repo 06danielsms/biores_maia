@@ -1,0 +1,20 @@
+Background
+Randomized controlled trials have demonstrated the efficacy of surfactant therapy in the treatment of infants at risk for or having respiratory distress syndrome (RDS). Due to surfactant inactivation, multiple doses of surfactant may lead to improved outcome. 
+Objectives
+To determine the effect of multiple doses of exogenous surfactant compared to single doses of exogenous surfactant on mortality and complications of prematurity in premature infants at risk for or having respiratory distress syndrome. 
+Search methods
+For the initial search in 1999, searches were made of the Oxford Database of Perinatal Trials, Medline (MeSH terms: pulmonary surfactant; limits: age groups, newborn infant; publication type, clinical trials), previous reviews including cross references, abstracts, conference and symposia proceedings, expert informants, and journal hand searching in the English language. 
+In June 2008, the searches were updated including Medline, Cinhal and Embase using similar terms as the original search. 
+Selection criteria
+Randomized controlled trials comparing a policy of multiple doses of surfactant to a policy of single doses of surfactant extract in premature infants at risk for or having respiratory distress syndrome were considered for this review. 
+Data collection and analysis
+Data on clinical outcomes including pneumothorax, patent ductus arteriosus, necrotizing enterocolitis, intraventricular hemorrhage (all intraventricular hemorrhage and severe intraventricular hemorrhage), bronchopulmonary dysplasia, retinopathy of prematurity, and mortality were excerpted by the both reviewers (R. Soll; E. Özek). For this update additional data were sought on pulmonary hemorrhage, periventricular leukomalacia, neurodevelopmental follow‐up, rehospitalization for pulmonary reasons,and reactive airway disease. Data were analyzed according to the standards of the Cochrane Neonatal Review Group. 
+Main results
+Three trials were identified that met study criteria. Two studies were randomized controlled trials of multiple vs. single dose animal derived surfactant extract in infants with established respiratory distress syndrome. Meta‐analysis of these trials suggests a reduction in the risk of pneumothorax (typical relative risk 0.51, 95% CI 0.30, 0.88; typical risk difference‐0.09, 95% CI ‐0.15, ‐0.02) and a trend towards a reduction in the risk of mortality (typical relative risk 0.63, 95% CI 0.39, 1.02; typical risk difference ‐0.07, 95% CI ‐0.14, 00.00). 
+One study of multiple vs. single dose synthetic surfactant in infants at high risk of respiratory distress syndrome was identified. This study reported a decrease in NEC (relative risk 0.20, 95% CI 0.08, 0.51; risk difference‐0.05, 95% CI ‐0.07, ‐0.02) and mortality (relative risk 0.56, 95% CI 0.39, 0.81; risk difference‐0.07, 95% CI ‐0.12, ‐0.03) 
+No data on long‐term neurological or pulmonary outcome were reported.
+No complications associated with multiple dose treatment were reported in the identified trials. 
+Authors' conclusions
+In infants with established respiratory distress, a policy of multiple doses of animal derived surfactant extract resulted in greater improvements regarding oxygenation and ventilatory requirements, a decreased risk of pneumothorax and a trend toward improved survival. 
+In infants at high risk of respiratory distress, a policy of multiple doses of synthetic surfactant resulted in greater improvements regarding oxygenation and ventilatory requirements, a decreased risk of NEC and decreased mortality. 
+The ability to give multiple doses of surfactant to infants with ongoing respiratory insufficiency leads to improved clinical outcome and appears to be the most effective treatment policy. 

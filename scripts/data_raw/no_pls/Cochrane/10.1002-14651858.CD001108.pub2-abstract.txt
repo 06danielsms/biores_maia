@@ -1,0 +1,14 @@
+Background
+Allergic bronchopulmonary aspergillosis is hypersensitivity to the fungus Aspergillus fumigatus that complicates patients with asthma and cystic fibrosis. The mainstay of treatment for allergic bronchopulmonary aspergillosis remains oral corticosteroids, though this does not completely prevent exacerbations and may not prevent the decline in lung function. 
+Objectives
+The purpose of this review was to determine the efficacy of azoles in the treatment of allergic bronchopulmonary aspergillosis. 
+Search methods
+We searched the Cochrane Airways Group Asthma trials register, CENTRAL, MEDLINE and EMBASE. Searches are current as of May 2008. 
+Selection criteria
+All controlled trials that assessed the effect of azole antifungal agents compared to placebo or other standard therapy for allergic bronchopulmonary aspergillosis were reviewed. Patients with cystic fibrosis were not included. 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted data. Study authors were contacted for additional information. Adverse effects information was collected from the trials. 
+Main results
+Twelve trials were identified, but only three were prospective, randomised and controlled. A total of 94 participants were included. One demonstrated a reduction in immunological markers of disease activity and symptom scores using ketoconazole 400 mg daily for 12 months. There was no significant improvement in lung function. The other two examined the use of itraconazole for 16 weeks. In one there was a reduction in sputum eosinophils by 35% compared to 19% with placebo (p < 0.01). In the same trial, the number of exacerbations requiring oral corticosteroids was 0.4 per patient with itraconazole compared with 1.3 per patient with placebo (p < 0.03). Meta‐analysis of data from both trials showed that itraconazole treated patients were more likely to have decline in serum IgE over 25% or more (Peto OR 3.30; 95% confidence intervals 1.30 to 8.15). 
+Authors' conclusions
+Itraconazole modifies the immunologic activation associated with allergic bronchopulmonary aspergillosis and improves clinical outcome, at least over the period of 16 weeks. Adrenal suppression with inhaled corticosteroids and itraconazole is a potential concern. 

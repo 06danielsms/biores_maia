@@ -1,0 +1,30 @@
+Background
+Heavy menstrual bleeding (HMB) impacts the quality of life of otherwise healthy women. The perception of HMB is subjective and management depends upon, among other factors, the severity of the symptoms, a woman's age, her wish to get pregnant, and the presence of other pathologies. Heavy menstrual bleeding was classically defined as greater than or equal to 80 mL of blood loss per menstrual cycle. Currently the definition is based on the woman's perception of excessive bleeding which is affecting her quality of life. 
+The intrauterine device was originally developed as a contraceptive but the addition of progestogens to these devices resulted in a large reduction in menstrual blood loss: users of the levonorgestrel‐releasing intrauterine system (LNG‐IUS) reported reductions of up to 90%. Insertion may, however, be regarded as invasive by some women, which affects its acceptability. 
+Objectives
+To determine the effectiveness, acceptability and safety of progestogen‐releasing intrauterine devices in reducing heavy menstrual bleeding. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL (from inception to June 2019); and we searched grey literature and for unpublished trials in trial registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) in women of reproductive age treated with LNG‐IUS devices versus no treatment, placebo, or other medical or surgical therapy for heavy menstrual bleeding. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias and conducted GRADE assessments of the certainty of evidence. 
+Main results
+We included 25 RCTs (2511 women). Limitations in the evidence included risk of attrition bias and low numbers of participants. 
+The studies compared the following interventions.
+LNG‐IUS versus other medical therapy 
+The other medical therapies were norethisterone acetate, medroxyprogesterone acetate, oral contraceptive pill, mefenamic acid, tranexamic acid or usual medical treatment (where participants could choose the oral treatment that was most suitable). 
+The LNG‐IUS may improve HMB, lowering menstrual blood loss according to the alkaline haematin method (mean difference (MD) 66.91 mL, 95% confidence interval (CI) 42.61 to 91.20; 2 studies, 170 women; low‐certainty evidence); and the Pictorial Bleeding Assessment Chart (MD 55.05, 95% CI 27.83 to 82.28; 3 studies, 335 women; low‐certainty evidence). 
+We are uncertain whether the LNG‐IUS may have any effect on women's satisfaction up to one year (RR 1.28, 95% CI 1.01 to 1.63; 3 studies, 141 women; I² = 0%, very low‐certainty evidence). The LNG‐IUS probably leads to slightly higher quality of life measured with the SF‐36 compared with other medical therapy (MD 2.90, 95% CI 0.06 to 5.74; 1 study: 571 women; moderate‐certainty evidence) or with the Menorrhagia Multi‐Attribute Scale (MD 13.40, 95% CI 9.89 to 16.91; 1 trial, 571 women; moderate‐certainty evidence). 
+The LNG‐IUS and other medical therapies probably give rise to similar numbers of women with serious adverse events (RR 0.91, 95% CI 0.63 to 1.30; 1 study, 571 women; moderate‐certainty evidence). Women using other medical therapy are probably more likely to withdraw from treatment for any reason (RR 0.49, 95% CI 0.39 to 0.60; 1 study, 571 women, moderate‐certainty evidence) and to experience treatment failure than women with LNG‐IUS (RR 0.34, 95% CI 0.26 to 0.44; 6 studies, 535 women; moderate‐certainty evidence). 
+LNG‐IUS versus endometrial resection or ablation (EA) 
+Bleeding outcome results are inconsistent. We are uncertain of the effect of the LNG‐IUS compared to EA on rates of amenorrhoea (RR 1.21, 95% CI 0.85 to 1.72; 8 studies, 431 women; I² = 21%; low‐certainty evidence) and hypomenorrhoea (RR 0.98, 95% CI 0.73 to 1.33; 4 studies, 200 women; low‐certainty evidence) and eumenorrhoea (RR 0.55, 95% CI 0.30 to 1.00; 3 studies, 160 women; very low‐certainty evidence). We are uncertain whether both treatments may have similar rates of satisfaction with treatment at 12 months (RR 0.95, 95% CI 0.85 to 1.07; 5 studies, 317 women; low‐certainty evidence). 
+We are uncertain if the LNG‐IUS compared to EA has any effect on quality of life, measured with SF‐36 (MD −14.40, 95% CI −22.63 to ‐6.17; 1 study, 33 women; very low‐certainty evidence). Women with the LNG‐IUS compared with EA are probably more likely to have any adverse event (RR 2.06, 95% CI 1.44 to 2.94; 3 studies, 201 women; moderate‐certainty evidence). Women with the LNG‐IUS may experience more treatment failure compared to EA at one year follow up (persistent HMB or requirement of additional treatment) (RR 1.78, 95% CI 1.09 to 2.90; 5 studies, 320 women; low‐certainty evidence); or requirement of hysterectomy may be higher at one year follow up (RR 2.56, 95% CI 1.48 to 4.42; 3 studies, 400 women; low‐certainty evidence). 
+LNG‐IUS versus hysterectomy 
+We are uncertain whether the LNG‐IUS has any effect on HMB compared with hysterectomy (RR for amenorrhoea 0.52, 95% CI 0.39 to 0.70; 1 study, 75 women; very low‐certainty evidence). 
+We are uncertain whether there is difference between LNG‐IUS and hysterectomy in satisfaction at five years (RR 1.01, 95% CI 0.94 to 1.08; 1 study, 232 women; low‐certainty evidence) and quality of life (SF‐36 MD 2.20, 95% CI −2.93 to 7.33; 1 study, 221 women; low‐certainty evidence). 
+Women in the LNG‐IUS group may be more likely to have treatment failure requiring hysterectomy for HMB at 1‐year follow‐up compared to the hysterectomy group (RR 48.18, 95% CI 2.96 to 783.22; 1 study, 236 women; low‐certainty evidence). 
+None of the studies reported cost data suitable for meta‐analysis.
+Authors' conclusions
+The LNG‐IUS may improve HMB and quality of life compared to other medical therapy; the LNG‐IUS is probably similar for HMB compared to endometrial destruction techniques; and we are uncertain if it is better or worse than hysterectomy. 
+The LNG‐IUS probably has similar serious adverse events to other medical therapy and it is more likely to have any adverse events than EA. 

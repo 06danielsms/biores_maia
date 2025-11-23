@@ -1,0 +1,14 @@
+Background
+A number of different inhaler devices are available to deliver beta2‐agonist bronchodilators in asthma. These include hydrofluoroalkane (HFA) or chlorofluorocarbon (CFC)‐free propelled pressurised metered dose inhalers (pMDIs) and dry powder devices. 
+Objectives
+To determine the clinical effectiveness of pMDI compared with any other available handheld inhaler device for the delivery of short‐acting beta‐2 agonist bronchodilators in non‐acute asthma in children and adults. 
+Search methods
+The Cochrane Collaboration Clinical Trials register was searched for studies as well as separate additional searches carried out on MEDLINE, EMBASE, CINAHL and also on the Current Contents Index as well as the Science Citation Index. In addition, 17 individual online respiratory journals and 12 electronically available clinical trial databases were also searched. The UK pharmaceutical companies who manufacture inhaled asthma medication were contacted in order to obtain details of any published or unpublished studies. 
+Selection criteria
+The full texts of all potentially relevant articles were reviewed independently by two reviewers. 
+Data collection and analysis
+Fixed and random effect models were used. Dichotomous outcomes were assessed using Odds Ratios or Relative Risks (RR) with 95% Confidence Intervals (95% CI). 
+Main results
+Eighty‐four randomised controlled trials were included in this review, but few could be combined to assess a specific outcome for a given delivery device comparison. Only two studies required demonstration of adequate pMDI technique as an entry requirement. There were no difference between a standard CFC containing pMDI and any other device for most outcomes. Regular use of HFA‐pMDI containing salbutamol reduced the requirement for short courses of oral corticosteroids (3 trials, 519 patients: RR 0.67; 95% CI 0.49, 0.91); however the total number of exacerbations were unchanged (3 trials, 1271 patients: RR 1.0; 95% CI 0.75, 1.33). 
+Authors' conclusions
+In patients with stable asthma, short‐acting beta‐2 bronchodilators in standard CFC‐pMDI's are as effective as any other devices. The effect of HFA‐pMDI on requirement for oral corticosteroid courses to treat acute exacerbations should be confirmed. Effectiveness studies that use an intention‐to‐treat analysis are required. 

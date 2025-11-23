@@ -1,0 +1,14 @@
+Background
+Chorioamnionitis is more likely to occur when meconium‐stained amniotic fluid (MSAF) is present. Meconium may enhance the growth of bacteria in amniotic fluid by serving as a growth factor, inhibiting bacteriostatic properties of amniotic fluid. Many adverse neonatal outcomes related to MSAF result from meconium aspiration syndrome (MAS). MSAF is associated with both maternal and newborn infections. Antibiotics may be an effective option to reduce such morbidity. 
+Objectives
+The objective of this review is to assess the efficacy and side effects of prophylactic antibiotics for MSAF during labour in preventing maternal and neonatal infections. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (30 September 2014).  
+Selection criteria
+Randomised controlled trials (RCTs) comparing prophylactic antibiotics with placebo or no treatment during labour for women with MSAF. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+We included two studies with 362 pregnant women. Both studies compared ampicillin‐sulbactam (N = 183) versus normal saline (N = 179) in pregnant women with MSAF. Prophylactic antibiotics appeared to have no statistically significant reduction in the incidence of neonatal sepsis (risk ratio (RR) 1.00, 95% CI 0.21 to 4.76), neonatal intensive care unit (NICU) admission (RR 0.83, 95% CI 0.39 to 1.78) and postpartum endometritis (RR 0.50, 95% CI 0.18 to 1.38). However, there was a significant decrease in the risk of chorioamnionitis (RR 0.36, 95% CI 0.21 to 0.62). No serious adverse effects were reported. Drug resistance, duration of mechanical ventilation and duration of admission to NICU/hospital were not reported. Most of the domains for risk of bias were at low risk of bias for one study and at unclear risk of bias for the other study. The quality of the evidence using GRADE was low for neonatal sepsis, postpartum endometritis, and neonatal mortality and morbidity prior to discharge (Neonatal intensive care admissions) and of moderate quality for chorioamnionitis. 
+Authors' conclusions
+Current evidence indicates that compared to placebo, antibiotics for MSAF in labour may reduce chorioamnionitis. There was no evidence that antibiotics could reduce postpartum endometritis, neonatal sepsis and NICU admission. This systematic review identifies the need for more well‐designed, adequately powered RCTs to assess the effect of prophylactic antibiotics in the incidence of maternal and neonatal complications. 

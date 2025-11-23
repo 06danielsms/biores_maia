@@ -1,0 +1,22 @@
+Interventions for the treatment of persistent smell disorders (olfactory dysfunction) after COVID‐19 infection 
+Why this is important 
+The sense of smell is critical to one's enjoyment of odours and tastes, and is important for safety. During the COVID‐19 pandemic there has been an increasing focus on change in sense of smell as one of the early symptoms associated with infection. This can be a reduction, change or complete loss of the sense of smell. For most people this is temporary, however for some this lasts weeks or even months. If a person has lost their sense of smell for a long time (over four weeks after having COVID‐19), we do not know if there are any treatments that might help it to recover.  
+How we identified and assessed the evidence 
+We searched the medical literature, identifying relevant studies and summarising the results. We assessed the quality of the studies as well as the certainty of the evidence. Factors influencing this included the size of the studies, the methods used to perform them and how results were reported by researchers. Based on this, we classed the evidence as being of very low, low, moderate or high certainty. 
+What we found 
+We found two small studies to include in the review, including a total of 30 people. All participants had problems with their sense of smell that had lasted for at least four weeks, and started after a COVID‐19 infection. Problems with the sense of smell were identified using special smell identification tests carried out by the research team. The patients were randomly divided into two groups: those who would receive treatment and those who would not.  
+The treatment in one study was a course of corticosteroid tablets ('systemic') and nasal irrigation (with a wash consisting of a mix of corticosteroids, decongestant and an agent that breaks down mucus). The second study used a course of a supplement known as palmitoylethanolamide and luteolin.  
+Systemic corticosteroids and nasal irrigation (intranasal corticosteroids/decongestant/mucolytic) compared to no treatment 
+We do not know whether corticosteroid tablets with nasal irrigation is better or worse than no treatment at: 
+ ‐ restoring the sense of smell back to normal after 40 days; ‐ changing the sense of smell after 40 days; ‐ causing any unwanted side effects. 
+This is because the evidence that we found was of very low certainty, mainly due to the fact that only one study was identified and it included a small number of patients. 
+Palmitoylethanolamide and luteolin compared to no treatment 
+We do not know whether palmitoylethanolamide and luteolin is better or worse than no treatment at: 
+ ‐ restoring the sense of smell back to normal after 30 days; ‐ changing the sense of smell after 30 days; ‐ causing any unwanted side effects. 
+This is because the evidence that we found was of very low certainty, mainly due to the fact that only one study was identified and it included a small number of patients. 
+We did find a number of other studies that are being carried out, but no results from these studies are yet available to be included in this review. 
+What this means 
+It is unclear whether using corticosteroids with nasal irrigation, or using a palmitoylethanolamide and luteolin supplement, might treat problems with the sense of smell after COVID‐19, or whether these treatments can potentially cause harm. 
+Other treatments are under investigation. This review is a 'living systematic review', meaning that we will keep checking for new studies that might be relevant, and the review will be continually updated when any extra results are available. 
+How up‐to‐date is this review? 
+The evidence in this Cochrane Review is current to October 2021.

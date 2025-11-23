@@ -1,0 +1,9 @@
+Histologic measurement tools for evaluating disease in ulcerative colitis patients
+What is ulcerative colitis? 
+Ulcerative colitis is a life‐long (chronic) inflammatory bowel disease that causes inflammation and ulceration (sores) in the large intestine (colon). Patients with ulcerative colitis often experience diarrhoea, bloody stools, weight loss and abdominal pain. When patients experience symptoms, the disease is considered "active", whereas when symptoms are not present the disease is considered to be "in remission". 
+What is a histologic scoring index? 
+A histologic tissue sample (biopsy) can be taken from a patient's colon during colonoscopy. A colonoscopy is a non‐surgical procedure used to view the large intestine. Once the tissue sample is taken, it is placed (mounted) on a glass slide and looked at using a microscope. A histologic scoring index is a system used to assess the patient's disease severity using the tissue sample. 
+What did the researchers investigate? 
+It is important that histologic scoring indices are valid (i.e. they accurately measure what they are supposed to measure). The researchers identified histologic scoring indices that have been validated. 
+What did the researchers find? 
+The researchers found that 11 out of the 30 histologic scoring indices that exist have been partially validated. The Nancy Index and the Robarts Histopathology Index have undergone the most validation compared to the other nine indices. However, none of the currently available histologic scoring indices have been fully validated. In order to determine the ideal index to measure histologic healing in UC, more research is required. The ideal index would need to be fully validated. 

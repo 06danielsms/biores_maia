@@ -1,0 +1,14 @@
+Background
+Labour is often associated with pain and discomfort caused by a complex and subjective interaction of multiple factors, and should be understood within a multi‐dimensional and multi‐disciplinary framework. Within the non‐pharmacological approach, biofeedback has focused on the acquisition of control over some physiological responses with the aid of electronic devices, allowing individuals to regulate some physical processes (such as pain) which are not usually under conscious control. The role of this behavioural approach for the management of pain during labour, as an addition to the standard prenatal care, has been never assessed systematically. This review is one in a series of Cochrane reviews examining pain relief in labour, which will contribute to an overview of systematic reviews of pain relief for women in labour (in preparation). 
+Objectives
+To examine the effectiveness of the use of biofeedback in prenatal lessons for managing pain during labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 March 2011), CENTRAL (The Cochrane Library 2011, Issue 1), PubMed (1950 to 20 March 2011), EMBASE (via OVID) (1980 to 24 March 2011), CINAHL (EBSCOhost) (1982 to 24 March 2011), and PsycINFO (via Ovid) (1806 to 24 March 2011). We searched for further studies in the reference lists of identified articles. 
+Selection criteria
+Randomised controlled trials of any form of prenatal classes which included biofeedback, in any modality, in women with low‐risk pregnancies. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data.
+Main results
+The review included four trials (186 women) that hugely differed in terms of the diversity of the intervention modalities and outcomes measured. Most trials assessed the effects of electromyographic biofeedback in women who were pregnant for the first time. The trials were judged to be at a high risk of bias due to the lack of data describing the sources of bias assessed. There was no significant evidence of a difference between biofeedback and control groups in terms of assisted vaginal birth, caesarean section, augmentation of labour and the use of pharmacological pain relief. The results of the included trials showed that the use of biofeedback to reduce the pain in women during labour is unproven. Electromyographic biofeedback may have some positive effects early in labour, but as labour progresses there is a need for additional pharmacological analgesia. 
+Authors' conclusions
+Despite some positive results shown in the included trials, there is insufficient evidence that biofeedback is effective for the management of pain during labour. 

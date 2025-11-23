@@ -1,0 +1,17 @@
+Background
+Inflammation of the pulmonary parenchyma is one of the important mechanisms implicated in development of chronic lung disease (CLD) in preterm neonates. 
+Objectives
+To evaluate the effect of alpha 1 proteinase inhibitor (a1PI) for the prevention of chronic lung disease (CLD) in preterm neonates. 
+Search methods
+We searched the following databases: MEDLINE (1966 to February 2005), EMBASE (1980 to February 2005), CINAHL (1982 to February 2005), Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2005) and abstracts from the annual meetings of the Society of Pediatric Research, American Pediatric Society and Pediatric Academic Societies published in Pediatric Research (1991 to 2004). No language restrictions were applied. 
+The electronic search was updated in 2010.
+Selection criteria
+Randomised or quasi‐randomised trials of administration of a1PI compared to placebo or no treatment within the first week of life in preterm neonates. 
+Data collection and analysis
+Data collection and analysis was performed in accordance with the methods of the Cochrane Neonatal Review Group. 
+Main results
+Two eligible studies were identified. The methodological qualities of identified studies were good. One study randomised infants to either placebo or a1PI 60 mg/kg/dose for four doses while in the second study the same investigators explored the efficacy of different dose regimens of a1PI compared to placebo. There was no statistically significant difference in the risk of developing CLD at 36 weeks postmenstrual age among all randomised infants at any dose of a1PI (pooled RR 0.79, 95% CI 0.44 to 1.41) or when given 60 mg/kg/dose for four doses compared to placebo (pooled RR 0.64, 95% CI 0.35 to 1.18). 
+There was a trend towards reduced risk of development of oxygen dependency at 28 days postnatal age for 60 mg/kg/dose for four doses of a1PI compared to placebo. When any doses of a1PI were combined, the pooled RR was statistically significant [RR 0.80 (95% CI 0.65 to 0.98); RD ‐0.15 (95 % CI ‐0.29 to ‐0.01)]. 
+Treatment with a1PI did not reduce the risk of CLD and/or death at 36 weeks postmenstrual age or the risk of long term neurodevelopmental abnormalities. In addition, no statistically significant difference was noted in other respiratory parameters such as duration of oxygen requirement or respiratory support. 
+Authors' conclusions
+Prophylactic administration of a1PI did not reduce the risk of CLD at 36 weeks or long term adverse developmental outcomes in preterm neonates. 

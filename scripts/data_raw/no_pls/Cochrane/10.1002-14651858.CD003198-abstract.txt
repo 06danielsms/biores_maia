@@ -1,0 +1,14 @@
+Background
+5 Hydroxytryptophan (5‐HTP) and tryptophan are so‐called natural alternatives to traditional antidepressants, used to treat unipolar depression and dysthymia. 
+Objectives
+To determine whether 5‐HTP and tryptophan are more effective than placebo, and whether they are safe to use to treat depressive disorders in adults. 
+Search methods
+CCDANCTR‐Studies and CCDANCTR‐References were searched on 12/2/2008). Reference lists, book chapters and conference proceedings were checked. Experts and trialists were contacted for unpublished studies. 
+Selection criteria
+Trials were included if they were randomized, included patients with unipolar depression or dysthymia, compared preparations of 5‐HTP or tryptophan with placebo, and included clinical outcomes assessed by scales assessing depressive symptoms. 
+Data collection and analysis
+Data was extracted independently by the three reviewers, onto data collection forms. Inclusion criteria were applied to all potential studies independently and a coefficient of agreement (Kappa) was calculated for them. Disagreement was resolved by reaching consensus. Trial quality was scored according to risk of bias. Analysis for 5‐HTP and tryptophan were combined due to the small number of included trials. 
+Main results
+108 trials were located using the specified search strategy in 2001. An additional three trials were located when the search strategy was repeated in 2004. Of the total number of trials located in both searches, only two trials, involving a total of 64 patients, were of sufficient quality to meet inclusion criteria. The available evidence suggests these substances were better than placebo at alleviating depression (Peto Odds Ratio 4.10; 95% confidence interval 1.28‐13.15; RD 0.36; NNT 2.78). However, the evidence was of insufficient quality to be conclusive. 
+Authors' conclusions
+A large number of studies appear to address the research questions, but few are of sufficient quality to be reliable. Available evidence does suggest these substances are better than placebo at alleviating depression. Further studies are needed to evaluate the efficacy and safety of 5‐HTP and tryptophan before their widespread use can be recommended. The possible association between these substances and the potentially fatal Eosinophilia‐Myalgia Syndrome has not been elucidated. Because alternative antidepressants exist which have been proven to be effective and safe the clinical usefulness of 5‐HTP and tryptophan is limited at present. 

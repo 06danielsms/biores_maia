@@ -1,0 +1,19 @@
+Background
+Unemployment is associated with decreased health which may be a reason or a consequence of becoming unemployed. Decreased health can inhibit re‐employment. 
+Objectives
+To assess the effectiveness of health‐improving interventions for obtaining employment in unemployed job seekers. 
+Search methods
+We searched (3 May 2018, updated 13 August 2019) the Cochrane Central Register of Controlled Trials, MEDLINE, Scopus, PsycINFO, CINAHL, SocINDEX, OSH Update, ClinicalTrials.gov, the WHO trials portal, and also reference lists of included studies and selected reviews. 
+Selection criteria
+We included randomised controlled trials (RCTs) of the effectiveness of health‐improving interventions for obtaining employment in unemployed job seekers. The primary outcome was re‐employment reported as the number or percentage of participants who obtained employment. Our secondary outcomes were health and work ability. 
+Data collection and analysis
+Two authors independently screened studies, extracted outcome data, and assessed risk of bias. We pooled study results with random‐effect models and reported risk ratios (RRs) with 95% confidence intervals (CIs) and assessed the overall quality of the evidence for each comparison using the GRADE approach. 
+Main results
+We included 15 randomised controlled trials (16 interventions) with a total of 6397 unemployed participants. Eight studies evaluated therapeutic interventions such as cognitive behavioural therapy, physical exercise, and health‐related advice and counselling and, in seven studies, interventions were combined using therapeutic methods and job‐search training. 
+Therapeutic interventions 
+Therapeutic interventions compared to no intervention may increase employment at an average of 11 months follow‐up but the evidence is very uncertain (RR = 1.41, 95% CI 1.07 to 1.87, n = 1142, 8 studies with 9 interventions, I² = 52%, very low‐quality evidence). There is probably no difference in the effects of therapeutic interventions compared to no intervention on mental health (SMD 0.12, 95% CI ‐0.06 to 0.29, n = 530, 2 studies, low‐quality evidence) and on general health (SMD 0.19, 95% CI ‐0.04 to 0.41, n = 318, 1 study, moderate‐quality evidence). 
+Combined interventions 
+Combined interventions probably increase employment slightly compared to no intervention at an average of 10 months follow‐up (RR 1.12, 95% CI 1.06 to 1.20, n = 4101, 6 studies, I² = 7%). 
+There were no studies that measured work‐ability, adverse events, or cost‐effectiveness.
+Authors' conclusions
+Interventions combining therapeutic methods and job‐search training probably have a small beneficial effect in increasing employment. Therapeutic interventions may have an effect on re‐employment, but we are very uncertain. Therapeutic interventions may not improve health in unemployed job seekers. Large high‐quality RCTs targeting short‐term or long‐term unemployed people are needed to increase the quality of the evidence. A cost‐effectiveness assessment is needed of the small beneficial effects. 

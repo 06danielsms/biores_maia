@@ -1,0 +1,14 @@
+Background
+Corticosteroids, particularly dexamethasone, are commonly used for treatments in patients with subarachnoid haemorrhage (SAH) and primary intracerebral haemorrhage (PICH) despite the lack of evidence. 
+Objectives
+To determine: (1) whether corticosteroid therapy reduces the proportion of patients who die or have a poor outcome at one to six months after the onset of SAH or PICH; (2) whether corticosteroid therapy reduces the frequency of delayed cerebral ischaemia in patients with SAH; (3) the frequency of adverse effects of corticosteroid therapy in patients with SAH or PICH within six months of the onset of the event. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched November 2003). In addition, we searched MEDLINE (1966 to March 2004) and EMBASE (1980 to March 2004), and searched reference lists of relevant studies identified. We attempted to identify any relevant ongoing and published or unpublished studies by contacting trialists and pharmaceutical companies. 
+Selection criteria
+We sought to identify all randomised or quasi‐randomised clinical trials of corticosteroid therapy, in patients with SAH or PICH, that have a placebo or standard strategy arm as control. Data were analysed both separately and combined for computed tomography (CT)/magnetic resonance imaging (MRI)/autopsy/angiography verified patients. 
+Data collection and analysis
+Data extracted from eligible clinical trials included: (1) death and poor outcome (death, severe disability, or vegetative state) within the first one to six months of the event onset (primary outcomes); (2) development of delayed cerebral ischaemia in patients with SAH; and (3) adverse effects of the treatment during the scheduled treatment or follow‐up period (secondary outcomes). A pooled estimate of the effect size was computed, and the test for heterogeneity between trial results was carried out. Intention‐to‐treat analysis was carried out whenever possible. 
+Main results
+Eight trials, with 256 randomised patients in three SAH trials and 206 patients in five PICH trials, were included. The studies differed substantially with regard to the study populations and drugs, and methodological quality. The number of patients allocated to either hydrocortisone or fludrocortisone acetate treatment in patients with SAH, or to dexamethasone treatment in patients with PICH, was too small to make any definitive conclusions. 
+Authors' conclusions
+Overall, there is no evidence of a beneficial or adverse effect of corticosteroids in patients with either SAH or PICH. Confidence intervals are wide and include clinically significant effects in both directions. 

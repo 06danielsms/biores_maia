@@ -1,0 +1,17 @@
+Background
+Anaemia is a global public health problem. Children under five years of age living in developing countries (mostly Africa and South‐East Asia) are highly affected. Although the causes for anaemia are multifactorial, malaria has been linked to anaemia in children living in malaria‐endemic areas. Administering intermittent preventive antimalarial treatment (IPT) to children might reduce anaemia, since it could protect children from new Plasmodium parasite infection (the parasites that cause malaria) and allow their haemoglobin levels to recover. 
+Objectives
+To assess the effect of IPT for children with anaemia living in malaria‐endemic areas.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, Cochrane Central of Controlled Trials (CENTRAL), published in The Cochrane Library; MEDLINE; EMBASE; and LILACS. We also searched the World Health Organization (WHO) International Clinical Trial Registry Platform and metaRegister of Controlled Trials (mRCT) for ongoing trials up to 4 December 2014. 
+Selection criteria
+Randomized controlled trials (RCTs) evaluating the effect of IPT on children with anaemia. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. We analysed data by conducting meta‐analyses, stratifying data according to whether participants received iron supplements or not. We used GRADE to assess the quality of evidence. 
+Main results
+Six trials with 3847 participants met our inclusion criteria. Trials were conducted in areas of low malaria endemicity (three trials), and moderate to high endemicity (three trials). Four trials were in areas of seasonal malaria transmission. Iron was given to all children in two trials, and evaluated in a factorial design in a further two trials. 
+IPT for children with anaemia probably has little or no effect on the proportion anaemic at 12 weeks follow‐up (four trials, 2237 participants, (moderate quality evidence). 
+IPT in anaemic children probably increases the mean change in haemoglobin levels from baseline to follow‐up at 12 weeks on average by 0.32 g/dL (MD 0.32, 95% CI 0.19 to 0.45; four trials, 1672 participants, moderate quality evidence); and may improve haemoglobin levels at 12 weeks (MD 0.35, 95% CI 0.06 to 0.64; four trials, 1672 participants, low quality evidence). For both of these outcomes, subgroup analysis did not demonstrate a difference between children receiving iron and those that did not. 
+IPT for children with anaemia probably has little or no effect on mortality or hospital admissions at six months (three trials, 3160 participants moderate quality evidence). Subgroup analysis did not show a difference between those children receiving iron supplements and those that did not. 
+Authors' conclusions
+Trials did show a small effect on average haemoglobin levels but this did not appear to translate into an effect on mortality and hospital admissions. Three of the six trials were conducted in low endemicity areas where transmission is low and thus any protective effect is likely to be modest. 

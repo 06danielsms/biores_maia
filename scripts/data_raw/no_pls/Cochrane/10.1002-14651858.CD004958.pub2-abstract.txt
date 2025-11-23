@@ -1,0 +1,14 @@
+Background
+The number of surgical techniques for decompression and solid interbody fusion as treatment for cervical spondylosis has increased rapidly, but the rationale for the choice between different techniques remains unclear. 
+Objectives
+To determine which technique of anterior interbody fusion gives the best clinical and radiological outcomes in patients with single‐ or double‐level degenerative disc disease of the cervical spine. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2009, issue 1), MEDLINE (1966 to May 2009), EMBASE (1980 to May 2009), BIOSIS (2004 to May 2009), and references of selected articles. 
+Selection criteria
+Randomised comparative studies that compared anterior cervical decompression and interbody fusion techniques for participants with chronic degenerative disc disease. 
+Data collection and analysis
+Two review authors independently assessed risk of bias using the Cochrane Back Review Group criteria. Data on demographics, intervention details and outcome measures were extracted onto a pre‐tested data extraction form. 
+Main results
+Thirty‐three small studies ( 2267 patients) compared different fusion techniques. The major treatments were discectomy alone, addition of an interbody fusion procedure (autograft, allograft, cement, or cage), and addition of anterior plates. Eight studies had a low risk of bias. Few studies reported on pain, therefore, at best, there was very low quality evidence of little or no difference in pain relief between the different techniques. We found moderate quality evidence for these secondary outcomes: no statistically significant difference in Odom's criteria between iliac crest autograft and a metal cage (6 studies, RR 1.11 (95% CI 0.99 to1.24)); bone graft produced more effective fusion than discectomy alone (5 studies, RR 0.22 (95% CI 0.17 to 0.48)); no statistically significant difference in complication rates between discectomy alone and iliac crest autograft (7 studies, RR 1.56 (95% CI 0.71 to 3.43)); and low quality evidence that iliac crest autograft results in better fusion than a cage (5 studies, RR 1.87 (95% CI 1.10 to 3.17)); but more complications (7 studies, RR 0.33 (95% CI 0.12 to 0.92)). 
+Authors' conclusions
+When the working mechanism for pain relief and functional improvement is fusion of the motion segment, there is low quality evidence that iliac crest autograft appears to be the better technique. When ignoring fusion rates and looking at complication rates, a cage has a weak evidence base over iliac crest autograft, but not over discectomy alone. Future research should compare additional instrumentation such as screws, plates, and cages against discectomy with or without autograft. 

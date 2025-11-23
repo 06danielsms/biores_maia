@@ -1,0 +1,10 @@
+Clinical Study Results
+Participants were considered to have experienced a worsening of their asthma if any of the below events happened before the end of the study:
+- A general worsening of asthma symptoms
+- Increased difficulty breathing
+- Increased need for asthma rescue treatment
+- Other asthma treatments were needed to help control asthma
+
+The participants in both groups experienced a similar worsening of their asthma during the study, which meant that the AZD1419 treatment did not help control asthma compared to the placebo treatment. By the end of the study, the researchers found that:
+- 60.0% of participants in the AZD1419 treatment group experienced a worsening of their asthma. This was 24 out of 40 participants.
+- 58.5% of participants in the placebo treatment group experienced a worsening of their asthma. This was 24 out of 41 participants.

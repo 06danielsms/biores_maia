@@ -1,0 +1,29 @@
+Do measures that aim to reduce aerosol production during dental procedures prevent the transmission of infectious diseases? 
+Why is this question important? 
+Most dental care procedures create tiny drops of liquid that float in the air, called aerosols. For example, to remove the film of bacteria (plaque) that builds on teeth, dentists use scaling machines (scalers). Scalers vibrate at high speed and use a flow of water to wash away the plaque. This produces aerosols that are made of air, water, and the patient’s saliva, which may also contain micro‐organisms such as bacteria, fungi and viruses. 
+Aerosols that contain bacteria, fungi or viruses can spread infectious diseases. Limiting the production of these aerosols could help to prevent disease transmission in a dental setting. 
+A range of approaches can be used to reduce production of potentially infectious aerosols during dental procedures. These include: 
+‐ ways to decontaminate the mouth before aerosols are produced, for example by using anti‐microbial mouthwash; 
+‐ ways to prevent aerosols from leaving the mouth (for example, placing a rubber sheet – known as a ‘dam’ – around the tooth that is to be treated, to isolate the treatment zone from saliva; or using a straw‐like suction tube known as a saliva ejector); 
+‐ local ventilation using a suction device (known as a high‐volume evacuator) that draws up a large volume of air and evacuates aerosols from the treatment zone; 
+‐ general ventilation, to reduce the concentration of aerosols in the air, for example by keeping windows open; 
+‐ decontamination of air‐borne aerosols, for example using ultraviolet light to sterilize the air. 
+These can be used alone, or in combination.
+We analysed the evidence from research studies to find out whether interventions that aim to reduce aerosol production during dental procedures can prevent the transmission of infectious diseases. We also wanted to find out about the cost of the interventions, whether patients and dentists found them acceptable, and whether the interventions were easy to implement. 
+How did we identify and evaluate the evidence? 
+First, we searched for all relevant studies in the medical literature that compared interventions to reduce aerosol production during dental procedures against other interventions or no intervention. We then compared the results, and summarized the evidence from all the studies. Finally, we assessed how certain the evidence was. To do this, we considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorized the evidence as being of very low, low, moderate or high certainty. 
+What did we find? 
+We found 16 studies that involved a total of 425 people. Studies involved between one and 80 participants, who were aged between 5 and 69 years. Six studies were conducted in the USA, five in India, two in the UK and one each in Egypt, the Netherlands and the United Arab Emirates. 
+The studies evaluated one or more of the following devices:
+‐ high‐volume evacuator (7 studies);
+‐ hands‐free suction device (2 studies);
+‐ saliva ejector (1 study);
+‐ rubber dam (3 studies);
+‐ rubber dam with a high‐volume evacuator (1 study); or
+‐ air cleaning system (1 study).
+None of the studies evaluated the risk infectious disease transmission. Nor did they evaluate cost, acceptability or ease of implementation. 
+All 16 studies measured changes in the levels of bacterial contamination in aerosols, but we assessed the evidence as being of very low certainty. This means that we have very little confidence in the evidence, and that we expect further research to change the findings of our review. We therefore cannot deduce from this evidence whether there is an effect on levels of bacterial contamination. No studies investigated viral or fungal contamination. 
+What does this mean? 
+We do not know whether interventions that aim to reduce aerosol production during dental procedures prevent the transmission of infectious diseases. This review highlights the need for more and better‐quality studies in this area. 
+How up to date is this review? 
+The evidence in this Cochrane Review is current to September 2020.

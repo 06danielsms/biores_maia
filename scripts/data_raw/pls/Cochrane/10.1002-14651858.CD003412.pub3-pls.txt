@@ -1,0 +1,26 @@
+Interventions for basal cell carcinoma of the skin
+Why is this question important? 
+Basal cell carcinoma (BCC) is the most common form of skin cancer among people with white skin. 
+BCC is not usually life‐threatening but if left untreated, it can cause important disfigurement, especially on the face. 
+Surgical removal of the affected area and surrounding skin is usually the first option for treating BCC. Several different surgical approaches exist as well as non‐surgical treatments, such as radiotherapy (high doses of radiation that kill cancer cells), and anti‐cancer creams, gels and ointments. 
+We reviewed the evidence from research studies, to find out which treatments work best for BCC. 
+How did we identify and evaluate the evidence? 
+We searched for randomised controlled studies (studies where people are randomly put into one of two or more treatment groups), because these provide the most robust evidence about the effects of a treatment. We compared and summarised the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find? 
+We found 52 studies that involved a total of 6690 adults with BCC. Most studies (48 out of 52) included hospital outpatients with small, superficial or nodular BCC. Studies lasted for between six weeks and 10 years (average duration: 13 months). Twenty‐two studies were funded by pharmaceutical companies. 
+Our confidence in the evidence presented here is low to moderate, mainly because many studies were small. 
+Comparison between different surgical treatments 
+‐ Mohs micrographic surgery (a specialised surgical approach that removes less skin) may slightly decrease recurrence rates at three and five years compared to surgical excision (one of the most common surgical treatments for BCC). 
+‐There may be little to no difference in how well scars heal between these two surgical treatments according to patients and observers (one study). 
+Surgery versus non‐surgical treatments 
+Compared against surgical excision:
+‐ Imiquimod (an anti‐cancer cream) probably increases BCC recurrence rates at three and five years. There may be little to no difference in scar healing according to patients, although imiquimod may increase chances of scars healing well when healing is rated by an observer (one study).‐ Radiotherapy may increase BCC recurrence rates at three and four years, and probably decreases chances of scars healing well (one study).‐ MAL‐PDT, a type of photodynamic therapy (that uses a light source and light‐sensitive medicine to kill cancer cells), may increase BCC recurrence rates at three years. MAL‐PDT probably increases chances of scars healing well (two studies). 
+Comparison of different non‐surgical treatments 
+Compared against imiquimod:
+‐ MAL‐PDT probably increases BCC recurrence rates at three and five years. There is probably little to no difference in scar healing (one study); 
+What does this mean? 
+Overall, the evidence suggests that:
+‐ surgery could reduce chances of BCC recurrence;‐ non‐surgical treatments such as anti‐cancer creams or photodynamic therapy carry an increased chance of BCC recurrence, but could increase chances of scars healing well compared with surgery. 
+Complications with surgical treatments include wound infections, skin graft failure and bleeding after the procedure. Non‐surgical treatments frequently lead to localised itching, weeping, pain and redness. Treatment‐related side effects that caused modifications to the study or the withdrawal of participants occurred with imiquimod and MAL‐PDT. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to November 2019.

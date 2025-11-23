@@ -1,0 +1,18 @@
+How accurate is the ABeta42 test for distinguishing Alzheimer's disease from other types of dementia in patients seen in a specialist clinic? 
+Why is improving dementia diagnosis important? 
+Dementia is a condition characterised by progressive problems with memory and thinking. Dementia can be caused be a number of different conditions (for example, by Alzheimer's disease), and the best treatments depend on the underlying cause. Levels of the protein ABeta42 in blood or spinal fluid may determine the underlying cause of dementia. This could help clinicians choose the best treatments. 
+What is the aim of this review? 
+The aim of this review was to find out how accurate are the levels of ABeta42 in blood or spinal fluid for determining the cause of dementia. 
+What was studied in the review? 
+We included studies that examined the levels of ABeta42 taken from samples of blood or spinal fluid. At present, this test is only used in specialist clinics. Levels of ABeta42 may be lower in persons with Alzheimer's dementia compared to those with other types of dementia. 
+What are the main results of this review? 
+We included 39 studies with a total of 5000 participants. All studies used spinal fluid tests of ABeta42. None of the included studies used a blood test of ABeta42. 
+In theory, the results of these studies indicate that if ABeta42 were to be used in a specialist clinic in a group of 1000 people, where 520 (52%) have Alzheimer's dementia, an estimated 602 would have an ABeta42 result. This would indicate that Alzheimer's dementia is present. Of these, 192 (32%) would be incorrectly classified as having Alzheimer's disease. Of the 398 people with a result indicating that Alzheimer's disease is not present, 110 (28%) would be incorrectly classified as not having Alzheimer's disease. The included studies used different levels of ABeta42 to make the diagnosis of Alzheimer's disease, and the accuracy of the test depended on the level of ABeta42 used. 
+How reliable are the results of the studies in this review? 
+In most of the included studies, the diagnosis of Alzheimer's dementia was made by assessing all participants with standard diagnostic criteria.This is likely to have been a reliable method for deciding whether patients really had Alzheimer's disease. However, there were some problems with how the studies were conducted. This may result in ABeta42 appearing more accurate than it really is. 
+To whom do the results of this review apply? 
+The results apply to patients undergoing dementia assessment in a specialist setting.
+What are the implications of this review? 
+Measuring levels of ABeta42 in spinal fluid may help distinguish Alzheimer’s disease from other types of dementia, but the test is not perfect. ABeta42 is unlikely to be used in isolation for making a diagnosis, and may have greatest value when used in addition to the other assessments and tests that are undertaken to make a diagnosis of dementia. 
+How up‐to‐date is the review? 
+The review authors searched for and included studies published up to February 2020.

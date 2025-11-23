@@ -1,0 +1,14 @@
+Background
+Routine use of nasogastric tubes after abdominal operations is intended to hasten the return of bowel function, prevent pulmonary complications, diminish the risk of anastomotic leakage, increase patient comfort and shorten hospital stay. 
+Objectives
+To investigate the efficacy of routine nasogastric decompression after abdominal surgery in achieving each of the above goals. 
+Search methods
+Search terms were nasogastric, tubes, randomised, using MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials (Central) and references of included studies, from 1966 through Sep 2009. 
+Selection criteria
+Patients having abdominal operations of any type, emergency or elective, who were randomised prior to the completion of the operation to receive a nasogastric tube and keep it in place until intestinal function had returned, versus those receiving either no tube or early tube removal, in surgery, in recovery or within 24 hours of surgery. Excluded will be randomised studies involving laparoscopic abdominal surgery and patient groups having gastric decompression through gastrostomy. 
+Data collection and analysis
+Data were abstracted onto a form that assessed study eligibility, as defined above, quality related to randomizations, allocation concealment, study size and dropouts, interventions, including timing and duration of intubation, outcomes that included time to flatus, pulmonary complications, wound infection, anastomotic leak, length of stay, death, nausea, vomit ting, tube reinsertion, subsequent ventral hernia. 
+Main results
+37 studies fulfilled eligibility criteria, encompassing 5711 patients, 2866 randomised to routine tube use, and 2845 randomised to selective or No Tube use. Patients not having routine tube use had an earlier return of bowel function (p<0.00001), a decrease in pulmonary complications (p=0.09) and an insignificant trend toward increase in risk of wound infection (p=0.39) and ventral hernia (0.09). Anastomotic leak was no different between groups (p=0.70). Vomiting seemed to favour routine tube use, but with increased patient discomfort. Length of stay was shorter when no tube was used but the heterogeneity encountered in these analyses make rigorous conclusion difficult to draw for this outcome. No adverse events specifically related to tube insertion (direct tube trauma) were reported. Other outcomes were reported with insufficient frequency to be informative. 
+Authors' conclusions
+Routine nasogastric decompression does not accomplish any of its intended goals and so should be abandoned in favour of selective use of the nasogastric tube. 

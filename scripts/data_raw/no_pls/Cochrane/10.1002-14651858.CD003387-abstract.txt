@@ -1,0 +1,15 @@
+Background
+Transcranial magnetic stimulation (TMS) was introduced as a neurophysiological technique in 1985 when Anthony Barker and his team developed a compact machine that permitted non‐invasive stimulation of the cerebral cortex (Barker 1985). Since its introduction, TMS has been used to evaluate the motor system, to study the function of several cerebral regions, and for the pathophysiology of several neuropsychiatric illnesses. In addition, it has been suggested that TMS might have therapeutic potential. 
+Some controlled studies have evaluated the effects of repetitive TMS (rTMS) in patients with obsessive‐compulsive disorder (OCD). Greenberg (Greenberg 1997) observed that a single session of right prefrontal cortex stimulation produced a significant decrease in compulsive urges in OCD patients lasting over eight hours. Other studies have reported transitory improvements in mood but there are no observations for changes in anxiety or obsessions. 
+Objectives
+To develop a systematic review on the clinical efficacy and safety of transcranial magnetic stimulation from randomised controlled trials in the treatment of obsessive‐compulsive disorder. 
+Search methods
+An electronic search was performed including the Cochrane Collaboration Depression, Anxiety and Neurosis Review Group trials register (last searched June, 2002), the Cochrane Controlled Trials Register (Issue 2, 2002), MEDLINE (1966‐2002), EMBASE (1974‐2002), PsycLIT (1980‐2002), and bibliographies from reviewed articles. 
+Selection criteria
+Randomised controlled trials assessing the therapeutic efficacy and safety of transcranial magnetic stimulation for obsessive‐compulsive disorder. 
+Data collection and analysis
+All reviewers independently extracted the information and verified it by cross‐checking. Disagreements were resolved through discussion. 
+Main results
+Three trials were included in the review and only two contained data in a suitable form for quantitative analysis. It was not possible to pool any results for a meta‐analysis. No difference was seen between rTMS and sham TMS using the Yale‐Brown Obsessive‐Compulsive Scale or the Hamilton Depression Rating Scale for all time periods analysed. 
+Authors' conclusions
+There are currently insufficient data from randomised controlled trials to draw any conclusions about the efficacy of transcranial magnetic stimulation in the treatment of obsessive‐compulsive disorder. 

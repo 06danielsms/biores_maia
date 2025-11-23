@@ -1,0 +1,14 @@
+Background
+The intra aortic balloon pump (IABP) is a mechanical assist device which improves cardiac function. The device has a well‐established place in algorithms for managing low cardiac output following cardiac surgery. There is increasing evidence that certain cardiac surgery patients benefit from a period of preoperative augmentation with the intra aortic balloon pump. 
+Objectives
+To determine the effect of the preoperative intra aortic balloon pump on mortality and morbidity in a number of different patients groups undergoing coronary artery bypass grafting. 
+Search methods
+The Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 3, 2009), MEDLINE (2000 to August 2009), EMBASE (1998 to August 2009), BIOSIS previews (1969 to August 2009) and ISI Proceedings (1990 to August 2009) were searched. References and ongoing registers of studies were checked. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) of any size or length were included.
+Data collection and analysis
+Papers were assessed for inclusion by two authors independently and differences were settled by consensus with a third author. Date are presented in the form of odds ratios (OR) and 95% confidence intervals (CI). 
+Main results
+Six trials were included (five on‐pump and one off‐pump). This update adds the results of one further trial. Data from a total of 255 patients were included in the meta‐analysis of mortality outcomes; all on‐pump. Generally, the patients were considered as "high risk" and 132 were treated preoperatively with IABP and 123 served as controls. There were four hospital deaths in the intervention arm and 23 in the non‐intervention arm (OR 0.18, 95% CI 0.08 to 0.41; P<0.0001). In a subgroup analysis, low cardiac index (<2.0 L/min/m2) was noted in 21 out of 105 patients in the treatment arm and 59 patients out of 88 in the non‐treatment arm (OR 0.14, 95% CI: 0.08 to 0.25; P<0.00001). An off‐pump versus on‐pump analysis was not possible due to the limited number of off‐pump studies. However a single well‐conducted RCT suggested favourable effect of the preoperative IABP in off‐pump patients. 
+Authors' conclusions
+Evidence suggests that preoperative IABP may have a beneficial effect on mortality and morbidity in specific high risk patient groups undergoing coronary artery bypass grafting, however there are many problems with the quality, validity and generalisability of the trials. However, the available evidence is not robust enough to extend the use of IABP to truly elective, high risk patients. Defining more precisely which patient groups may benefit would be the challenge for the future. 

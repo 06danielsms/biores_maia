@@ -1,0 +1,11 @@
+Use of shorter radiation treatments for prostate cancer
+Review question 
+We asked if giving radiation therapy (cancer treatment with high energy x‐rays) for localized prostate cancer in fewer fractions (treatment visits for radiation) and shorter overall treatment time with a larger dose (more than 2 Gray) given each day, works as well as the usual (conventional) number of fractions (1.8 Gray per day to 2 Gray per day) for cancer control and had similar side effects. 
+Background 
+Using fewer fractions, with a larger dose given at each visit is possibly better for treating prostate cancer with radiation. Radiation therapy for prostate cancer can cause bladder and bowel side effects, and affect sexual function. If using larger doses for each treatment, with fewer treatments overall (called hypofractionation), works as well for cancer control, and the side effects and effects on certainty of life are about the same, then hypofractionation may benefit men with prostate cancer contained within the prostate (localized) who are treated with radiation therapy. If cancer control is as good, and the side effects about the same, then using fewer (but larger dose) radiation treatments may be more convenient for men with prostate cancer, use fewer resources and save money. 
+Study characteristics 
+This evidence is current to 15 March 2019. The men studied were ages 64 years and over and had prostate cancer limited to the pelvis. 
+Key results 
+We studied the use of fewer, but larger doses of radiation to treat 8278 men with prostate cancer. We found 10 studies. 
+We found that using hypofractionation may result in similar risk of dying from prostate cancer (low‐certainty evidence) but are uncertain how it affects late bowel side effects (very low‐certainty evidence). It probably results in similar rates of late bladder side effects (moderate‐certainty evidence). 
+Using hypofractionation results in similar overall survival (high‐certainty evidence) and may be similar for metastasis‐free survival (low‐certainty evidence). Acute bladder side effects may be similar (moderate‐certainty evidence). 

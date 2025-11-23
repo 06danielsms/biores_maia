@@ -1,0 +1,14 @@
+Clinical Study Results
+
+Lung function at 24 weeks:
+Researchers measured the participants' lung function at the end of treatment.
+
+- The participants who took 320 µg of budesonide and 9.6 µg of formoterol fumarate together using MDI had more increased lung function before taking a treatment dose compared with participants who took formoterol fumarate by itself using MDI. They were able to exhale an average of 39 mL more air than participants who took formoterol fumarate by itself using MDI.
+- The participants who took 320 µg of budesonide and 9.6 µg of formoterol fumarate together using MDI had more increased lung function over the 4 hours after taking a treatment dose compared with participants who took budesonide by itself using MDI. They were able to exhale an average of 173 mL more air than participants who took budesonide by itself using MDI.
+
+Change in lung function at 24 weeks for participants who took 320 µg of budesonide and 9.6 µg of formoterol fumarate together using MDI:
+
+- Compared to formoterol fumarate only using MDI: before taking a treatment dose, over the 4 hours after taking a treatment dose
+- Compared to budesonide only using MDI: before taking a treatment dose, over the 4 hours after taking a treatment dose
+
+The participants who took 160 µg of budesonide and 9.6 µg of formoterol fumarate together using MDI had more increased lung function over the 4 hours after taking a treatment dose compared with participants who took budesonide by itself using MDI. They were able to exhale an average of 157 mL more air than participants who took budesonide by itself.

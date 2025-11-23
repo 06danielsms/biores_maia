@@ -1,0 +1,14 @@
+Background
+The composition of the intestinal microflora may be different in individuals with atopic eczema from those without this condition, and such differences may precede the development of eczema. Probiotics are live bacteria that colonize the gastrointestinal tract and provide a health benefit to the host. Probiotics added to infant feeds have the potential to prevent sensitisation of infants to dietary allergens. 
+Objectives
+To determine the effect of probiotics given to infants for the prevention of allergic disease or food hypersensitivity. 
+Search methods
+This included searches of the Cochrane Central Register of Controlled Trials (Issue 1, 2007), MEDLINE (1966 ‐ February 2007), EMBASE, PREMEDLINE, abstracts of conference proceedings and citations of published articles, and expert informants. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that compare the use of a probiotic to no probiotic; or the use a specific probiotic compared to a different probiotic; or a probiotic with added prebiotic to control. 
+Data collection and analysis
+Assessment of trial quality, data extraction and synthesis of data were performed using standard methods of the Cochrane Neonatal Review Group. 
+Main results
+Twelve studies were eligible for inclusion. Allergic disease and / or food hypersensitivity outcomes were assessed by 6 studies enrolling 2080 infants, but outcomes for only 1549 infants were reported. Studies generally had adequate randomisation, allocation concealment and blinding of treatment. However, the findings of this review should be treated with caution due to excess losses in patient follow‐up (17% to 61%). Meta‐analysis of five studies reporting the outcomes of 1477 infants found a significant reduction in infant eczema (typical RR 0.82, 95% CI 0.70, 0.95). However, there was significant and substantial heterogeneity between studies. One study reported that the difference in eczema between groups persisted to 4 years age. When the analysis was restricted to studies reporting atopic eczema (confirmed by skin prick test or specific IgE), the findings were no longer significant (typical RR 0.80, 95% CI 0.62, 1.02). All studies reporting significant benefits used probiotic supplements containing L. rhamnosus and enrolled infants at high risk of allergy. No other benefits were reported for any other allergic disease or food hypersensitivity outcome. 
+Authors' conclusions
+There is insufficient evidence to recommend the addition of probiotics to infant feeds for prevention of allergic disease or food hypersensitivity. Although there was a reduction in clinical eczema in infants, this effect was not consistent between studies and caution is advised in view of methodological concerns regarding included studies. Further studies are required to determine whether the findings are reproducible. 

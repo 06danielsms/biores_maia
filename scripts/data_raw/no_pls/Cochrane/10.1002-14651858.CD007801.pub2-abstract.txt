@@ -1,0 +1,15 @@
+Background
+Thromboembolic complications are much higher in pregnancy due to procoagulant changes. Heparin does not cross the placenta and the use of unfractionated heparin (UFH) is the current established practice in prophylaxis and treatment for thromboembolism in pregnancy. 
+Objectives
+To compare the effectiveness of anticoagulant therapies for the treatment of deep vein thrombosis in pregnancy. The anticoagulant drugs included are UFH, low molecular weight heparin (LMWH) and warfarin. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials comparing any combination of warfarin, UFH, LMWH and placebo in pregnant women. 
+Data collection and analysis
+We used methods described in the Cochrane Handbooks for Systemic Reviews of Interventions for assessing the eligibility of studies identified by the search strategy. A minimum of two review authors independently assessed each study. 
+Main results
+We did not identify any eligible studies for inclusion in the review.
+We identified three potential studies; after assessing eligibility, we excluded all three as they did not meet the prespecified inclusion criteria. One study compared LMWH and UFH in pregnant women with previous thromboembolic events and, for most of these women, anticoagulants were used as thromboprophylaxis. There were only three women who had a thromboembolic event during the current pregnancy and it was unclear whether the anticoagulant was used as therapy or prophylaxis. We excluded one study because it included only women undergoing caesarean birth. The third study was not a randomised trial. 
+Authors' conclusions
+There is no evidence from randomised controlled trials on the effectiveness of anticoagulation for deep vein thrombosis in pregnancy. Further studies are required. 

@@ -1,0 +1,15 @@
+Background
+Chlorpromazine and haloperidol are benchmark antipsychotic drugs. Both are said to be equally effective when used at equivalent doses, but have different side‐effect profiles. 
+Objectives
+To compare the effects of haloperidol and chlorpromazine for people with schizophrenia and schizophrenia‐like psychoses. 
+Search methods
+We searched the Cochrane Schizophrenia Group's register (August 2006). We searched references of all included studies for further trials. We contacted pharmaceutical companies and authors of relevant trials. 
+Selection criteria
+We included all randomised controlled trials that compared haloperidol with chlorpromazine for people with schizophrenia and/or schizophrenia‐like psychoses. 
+Data collection and analysis
+Citations and, where possible, abstracts were independently inspected by at least two reviewers, papers ordered, re‐inspected and quality assessed. We independently extracted data. For dichotomous data we calculated the relative risk (RR), 95% confidence interval (CI) and, where appropriate, the number needed to treat (NNT) on an intention‐to‐treat basis using a random‐effects model. For continuous data, we calculated weighted mean differences (WMD). 
+Main results
+We found 14 relevant studies, mostly of short duration, poorly reported and conducted in the 1970s (total n=794 participants). Nine of these compared oral formulations of both compounds, and five compared intramuscular formulations. 
+Haloperidol was associated with significantly fewer people leaving the studies early (13 RCTs, n=476, RR 0.26 CI 0.08 to 0.82). The efficacy outcome 'no significant improvement' tended to favour haloperidol, but this difference was not statistically significant (9 RCTs, n=400, RR 0.81 CI 0.64 to 1.04). Movement disorders were more frequent in the haloperidol groups ('at least one extrapyramidal side effect': 6 RCTs, n=37, RR 2.2 CI 1.1 to 4.4, NNH 5 CI 3 to 33), while chlorpromazine was associated with more frequent hypotension (5 RCTs, n=175, RR 0.31 CI 0.11 to 0.88, NNH 7 CI 4 to 25). Similar trends were found when studies comparing intramuscular formulations and studies comparing oral formulations were analysed separately. 
+Authors' conclusions
+Given that haloperidol and chlorpromazine are global standard antipsychotic treatments for schizophrenia, it is surprising that less than 800 people have been randomised to a comparison and that incomplete reporting still makes it difficult for anyone to draw clear conclusions on the comparative effects of these drugs. However, it seems that haloperidol causes more movement disorders than chlorpromazine, while chlorpromazine is significantly more likely to lead to hypotonia. We are surprised to have to say that we feel further, large, well designed, conducted and reported studies are required. 

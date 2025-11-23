@@ -1,0 +1,14 @@
+Background
+Traditionally Chinese herbal medicine (CHM) has been used widely in Chinese hospitals to treat ectopic pregnancy. Many studies have been published supporting its use but the evidence has not been systematically reviewed. This is and update of the review published in 2007. 
+Objectives
+To determine the effectiveness and safety of CHM in the treatment of ectopic pregnancy.
+Search methods
+Computerised databases (CENTRAL (The Cochrane Library), MEDLINE, EMBASE, Chinese Biomedical Database, China National Knowledge Infrastructure, VIP, Traditional Chinese Medicine Database System) were searched from their inception to November 2010 for relevant trials. 
+Selection criteria
+Randomised controlled trials (RCT) on the use of CHM for the treatment of ectopic pregnancy. 
+Data collection and analysis
+Original authors of the identified studies were contacted to determine the trial design and identify authentic RCTs. Two review authors extracted and analysed the data. 
+Main results
+The search identified 281 trials. Only two studies involving a total of 157 participants were confirmed to be authentic RCTs (Li 2004c; Zhao 2000). Both were of poor methodological quality with a high risk of conflicted interest and potential for bias in favour of the intervention. We could not reach a definitive conclusion from the results. The pooled result showed that adding a Western medicine to CHM resulted in a significantly higher treatment success rate than with CHM alone (RR 1.33, 95% CI 1.08 to 1.63). When CHM plus Western medicine was compared to CHM alone for the time to disappearance of abdominal pain, again the results favoured the arm that included Western medicine (RR ‐2.09, 95% CI ‐4.14 to ‐0.04). Results were inconsistent for the time required for human chorionic gonadotropin (beta‐hCG) to return to normal. One study favoured CHM plus Western medicine over Western medicine (with or without placebo) (MD ‐6.68, 95% CI ‐11.49 to ‐1.87); when CHM plus Western medicine was compared to CHM alone the results favoured the arm that included Western medicine (MD ‐8.12, 95% CI ‐10.89 to ‐5.53). 
+Authors' conclusions
+We have not found any well‐designed trials investigating Chinese herbal medicines in the treatment of ectopic pregnancy. We cannot support or refute any CHM preparation for clinical use on the basis of evidence from randomised controlled trials. 

@@ -1,0 +1,15 @@
+Background
+Mecamylamine is a nicotine antagonist (that is, it blocks the effect of nicotine). The rationale for its use in smoking cessation is that it may block the rewarding effect of nicotine and thus reduce the urge to smoke. 
+Objectives
+The objective of this review was to determine the effectiveness of mecamylamine in promoting smoking cessation, either alone or in combination with nicotine replacement therapy. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group trials register for trials using mecamylamine in October 2010. 
+Selection criteria
+Randomized trials of mecamylamine, either alone or in combination with nicotine replacement therapy, which reported smoking cessation rates at least six months after intervention. 
+Data collection and analysis
+The main outcome measure was sustained abstinence from smoking (biochemically validated) after at least six months follow up in patients smoking at baseline. Smokers lost to follow up were regarded as being continuing smokers. Because of the preliminary nature of available data, we did not perform meta‐analysis but report the results narratively. 
+Main results
+We identified two studies, both from the same investigators. In a study of 48 volunteers, a combination of mecamylamine plus nicotine patch was more effective than nicotine patch alone (abstinence rate at one year 37.5% vs 4.2%). In a second study, 80 volunteers were treated for four weeks prior to cessation with one of four treatments: 1. Nicotine patch plus mecamylamine capsules 2. Nicotine alone 3. Mecamylamine alone 4. No active drug. All four groups received combination treatment with nicotine and mecamylamine after the scheduled quit date. The abstinence rates in these four groups were respectively 40%, 20%, 15% and 15%. The higher abstinence rate in the group treated with combination therapy was not statistically significant. The authors reported a statistically significant benefit of mecamylamine using Kaplan‐Meier survival analysis. 
+In the doses used, mecamylamine was well tolerated, although up to 40% of subjects required reductions in dose, usually because of constipation. 
+Authors' conclusions
+Data from two small studies suggest that the combination of nicotine and mecamylamine may be superior to nicotine alone in promoting smoking cessation. However, these results require confirmation in larger studies before the treatment can be recommended clinically. 

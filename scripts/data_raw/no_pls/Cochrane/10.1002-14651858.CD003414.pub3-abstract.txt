@@ -1,0 +1,35 @@
+Background
+Among subfertile couples undergoing assisted reproductive technology (ART), pregnancy rates following frozen‐thawed embryo transfer (FET) treatment cycles have historically been found to be lower than following embryo transfer undertaken two to five days following oocyte retrieval. Nevertheless, FET increases the cumulative pregnancy rate, reduces cost, is relatively simple to undertake and can be accomplished in a shorter time period than repeated in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI) cycles with fresh embryo transfer. FET is performed using different cycle regimens: spontaneous ovulatory (natural) cycles; cycles in which the endometrium is artificially prepared by oestrogen and progesterone hormones, commonly known as hormone therapy (HT) FET cycles; and cycles in which ovulation is induced by drugs (ovulation induction FET cycles). HT can be used with or without a gonadotrophin releasing hormone agonist (GnRHa). This is an update of a Cochrane review; the first version was published in 2008. 
+Objectives
+To compare the effectiveness and safety of natural cycle FET, HT cycle FET and ovulation induction cycle FET, and compare subtypes of these regimens. 
+Search methods
+On 13 December 2016 we searched databases including Cochrane Gynaecology and Fertility's Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL. Other search sources were trials registers and reference lists of included studies. 
+Selection criteria
+We included randomized controlled trials (RCTs) comparing the various cycle regimens and different methods used to prepare the endometrium during FET. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Our primary outcomes were live birth rates and miscarriage. 
+Main results
+We included 18 RCTs comparing different cycle regimens for FET in 3815 women. The quality of the evidence was low or very low. The main limitations were failure to report important clinical outcomes, poor reporting of study methods and imprecision due to low event rates. We found no data specific to non‐ovulatory women. 
+1. Natural cycle FET comparisons 
+Natural cycle FET versus HT FET 
+No study reported live birth rates, miscarriage or ongoing pregnancy.
+There was no evidence of a difference in multiple pregnancy rates between women in natural cycles and those in HT FET cycle (odds ratio (OR) 2.48, 95% confidence interval (CI) 0.09 to 68.14, 1 RCT, n = 21, very low‐quality evidence). 
+Natural cycle FET versus HT plus GnRHa suppression 
+There was no evidence of a difference in rates of live birth (OR 0.77, 95% CI 0.39 to 1.53, 1 RCT, n = 159, low‐quality evidence) or multiple pregnancy (OR 0.58, 95% CI 0.13 to 2.50, 1 RCT, n = 159, low‐quality evidence) between women who had natural cycle FET and those who had HT FET cycles with GnRHa suppression. No study reported miscarriage or ongoing pregnancy. 
+Natural cycle FET versus modified natural cycle FET (human chorionic gonadotrophin (HCG) trigger) 
+There was no evidence of a difference in rates of live birth (OR 0.55, 95% CI 0.16 to 1.93, 1 RCT, n = 60, very low‐quality evidence) or miscarriage (OR 0.20, 95% CI 0.01 to 4.13, 1 RCT, n = 168, very low‐quality evidence) between women in natural cycles and women in natural cycles with HCG trigger. However, very low‐quality evidence suggested that women in natural cycles (without HCG trigger) may have higher ongoing pregnancy rates (OR 2.44, 95% CI 1.03 to 5.76, 1 RCT, n = 168). There were no data on multiple pregnancy. 
+2. Modified natural cycle FET comparisons 
+Modified natural cycle FET (HCG trigger) versus HT FET 
+There was no evidence of a difference in rates of live birth (OR 1.34, 95% CI 0.88 to 2.05, 1 RCT, n = 959, low‐quality evidence) or ongoing pregnancy (OR 1.21, 95% CI 0.80 to 1.83, 1 RCT, n = 959, low‐quality evidence) between women in modified natural cycles and those who received HT. There were no data on miscarriage or multiple pregnancy. 
+Modified natural cycle FET (HCG trigger) versus HT plus GnRHa suppression 
+There was no evidence of a difference between the two groups in rates of live birth (OR 1.11, 95% CI 0.66 to 1.87, 1 RCT, n = 236, low‐quality evidence) or miscarriage (OR 0.74, 95% CI 0.25 to 2.19, 1 RCT, n = 236, low‐quality evidence) rates. There were no data on ongoing pregnancy or multiple pregnancy. 
+3. HT FET comparisons 
+HT FET versus HT plus GnRHa suppression 
+HT alone was associated with a lower live birth rate than HT with GnRHa suppression (OR 0.10, 95% CI 0.04 to 0.30, 1 RCT, n = 75, low‐quality evidence). There was no evidence of a difference between the groups in either miscarriage (OR 0.64, 95% CI 0.37 to 1.12, 6 RCTs, n = 991, I2 = 0%, low‐quality evidence) or ongoing pregnancy (OR 1.72, 95% CI 0.61 to 4.85, 1 RCT, n = 106, very low‐quality evidence). 
+There were no data on multiple pregnancy.
+4. Comparison of subtypes of ovulation induction FET 
+Human menopausal gonadotrophin(HMG) versus clomiphene plus HMG 
+HMG alone was associated with a higher live birth rate than clomiphene combined with HMG (OR 2.49, 95% CI 1.07 to 5.80, 1 RCT, n = 209, very low‐quality evidence). There was no evidence of a difference between the groups in either miscarriage (OR 1.33, 95% CI 0.35 to 5.09,1 RCT, n = 209, very low‐quality evidence) or multiple pregnancy (OR 1.41, 95% CI 0.31 to 6.48, 1 RCT, n = 209, very low‐quality evidence). 
+There were no data on ongoing pregnancy.
+Authors' conclusions
+This review did not find sufficient evidence to support the use of one cycle regimen in preference to another in preparation for FET in subfertile women with regular ovulatory cycles. The most common modalities for FET are natural cycle with or without HCG trigger or endometrial preparation with HT, with or without GnRHa suppression. We identified only four direct comparisons of these two modalities and there was insufficient evidence to support the use of either one in preference to the other. 

@@ -1,0 +1,11 @@
+Clinical Study Results
+The most common adverse event during the study was having a cold. The table below shows each adverse event that happened during the study.
+Adverse events during the study:
+- Having a cold: 16.7% (2), 25.0% (3), 8.3% (1)
+- Bronchitis: 8.3% (1), 0.0% (0), 0.0% (0)
+- Formation of red, itchy patches on the skin: 8.3% (1), 0.0% (0), 0.0% (0)
+- Lip injury: 0.0% (0), 8.3% (1), 0.0% (0)
+- Nausea: 0.0% (0), 8.3% (1), 0.0% (0)
+- Swelling of the skin at the injection site: 0.0% (0), 8.3% (1), 0.0% (0)
+- Bone fracture in the neck: 0.0% (0), 0.0% (0), 8.3% (1)
+- Rash: 0.0% (0), 0.0% (0), 8.3% (1)

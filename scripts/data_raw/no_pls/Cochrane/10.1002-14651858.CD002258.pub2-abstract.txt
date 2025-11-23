@@ -1,0 +1,14 @@
+Background
+Drugs that mimic dopamine as bromocriptine were introduced as monotherapy or in combination with LD in the hope that this approach would prevent or delay the onset of motor complications in patients with Parkinson's disease (PD). However, hitherto, the role of bromocriptine (BR) in this issue has remained controversial. 
+Objectives
+To assess the efficacy and safety of bromocriptine (BR) monotherapy for delaying the onset of motor complications associated with levodopa (LD) therapy in patients with PD. 
+Search methods
+We searched the Movement Disorders Group trials register which includes MEDLINE and EMBASE; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); handsearched appropriate neurology journals and reference lists of reviews found by the search‐strategy. We also contacted Sandoz ‐now Novartis‐ (manufacturer of BR) and contacted colleagues who had co‐ordinated trials on BR. 
+Selection criteria
+Randomised trials evaluating the efficacy of BR monotherapy for delaying the onset of motor complications compared to LD therapy alone in PD patients. 
+Data collection and analysis
+Two review authors independently evaluated the methodological quality of identified trials and extracted the data from the trials. 
+Main results
+Six trials with 850 participants were included. The trials were of low methodological quality and were heterogeneous so we were unable to perform a meta‐analysis. The occurrence of dyskinesias in three short trials was too low to draw any conclusion. The results of the longer trials indicate a lower occurrence of dyskinesias in the BR tier. In five trials that evaluated dystonia, this motor complication occurred less frequently in the BR tier. However, for both dyskinesias and dystonia a statistically significant difference in favour of BR emerged only in the largest trial. There was a trend for wearing‐off and on‐off fluctuations to occur less frequently in the BR group. Although all trials evaluated participants at the impairment level, only the largest trial reported a significantly larger improvement for the LD tier during the first year of therapy. Concerning disability, which was evaluated by five trials no statistically significant differences were found. Overall, a statistically larger number of dropouts occurred in the BR group because of an inadequate therapeutic response or intolerable side effects. 
+Authors' conclusions
+Based on a qualitative review of the available data we conclude that in the treatment of early Parkinson's disease, bromocriptine may be beneficial in delaying motor complications and dyskinesias with comparable effects on impairment and disability in those patients that tolerate the drug. 

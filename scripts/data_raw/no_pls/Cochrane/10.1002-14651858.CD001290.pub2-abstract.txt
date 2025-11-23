@@ -1,0 +1,14 @@
+Background
+Asthma is the most common chronic childhood illness and is a leading cause for paediatric admission to hospital. Asthma management for children results in substantial costs. There is evidence to suggest that hospital admissions could be reduced with effective education for parents and children about asthma and its management. 
+Objectives
+To conduct a systematic review of the literature and update the previous review as to whether asthma education leads to improved health outcomes in children who have attended the emergency room for asthma. 
+Search methods
+We searched the Cochrane Airways Group Trials Register, including the MEDLINE, EMBASE and CINAHL databases, and reference lists of trials and review articles (last search May 2008). 
+Selection criteria
+We included randomised controlled trials of asthma education for children who had attended the emergency department for asthma, with or without hospitalisation, within the previous 12 months. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We pooled dichotomous data with a fixed‐effect risk ratio. We used a random‐effects risk ratio for sensitivity analysis of heterogenous data. 
+Main results
+A total of 38 studies involving 7843 children were included. Following educational intervention delivered to children, their parents or both, there was a significantly reduced risk of subsequent emergency department visits (RR 0.73, 95% CI 0.65 to 0.81, N = 3008) and hospital admissions (RR 0.79, 95% CI 0.69 to 0.92, N = 4019) compared with control. There were also fewer unscheduled doctor visits (RR 0.68, 95% CI 0.57 to 0.81, N = 1009). Very few data were available for other outcomes (FEV1, PEF, rescue medication use, quality of life or symptoms) and there was no statistically significant difference between education and control. 
+Authors' conclusions
+Asthma education aimed at children and their carers who present to the emergency department for acute exacerbations can result in lower risk of future emergency department presentation and hospital admission. There remains uncertainty as to the long‐term effect of education on other markers of asthma morbidity such as quality of life, symptoms and lung function. It remains unclear as to what type, duration and intensity of educational packages are the most effective in reducing acute care utilisation. 

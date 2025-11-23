@@ -1,0 +1,14 @@
+Background
+Primary sclerosing cholangitis is a progressive chronic cholestatic liver disease that usually leads to the development of cirrhosis. Studies evaluating bile acids in the treatment of primary sclerosing cholangitis have shown a potential benefit of their use. However, no influence on patients survival and disease outcome has yet been proven. 
+Objectives
+To assess the beneficial and harmful effects of bile acids for patients with primary sclerosing cholangitis. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Library, MEDLINE, EMBASE and Science Citation Index Expanded generally from inception through to October 2010. 
+Selection criteria
+Randomised clinical trials comparing any dose of bile acids or duration of treatment versus placebo, no intervention, or another intervention were included irrespective of blinding, language, or publication status. 
+Data collection and analysis
+Two authors extracted data independently. We evaluated the risk of bias of the trials using prespecified domains. We performed the meta‐analysis according to the intention‐to‐treat principle. We presented outcomes as relative risks (RR) or mean differences (MD), both with 95% confidence intervals (CI). 
+Main results
+Eight trials evaluated ursodeoxycholic acid versus placebo or no intervention (592 patients). The eight randomised clinical trials have a high risk of bias. Patients were treated for three months to six years (median three years). The dosage of ursodeoxycholic acid used in the trials ranged from low (10 mg/kg body weight/day) to high (28 to 30 mg/kg body weight/day). Ursodeoxycholic acid did not significantly reduce the risk of death (RR 1.00; 95% CI 0.46 to 2.20); treatment failure including liver transplantation, varices, ascites, and encephalopathy (RR 1.22; 95% CI 0.91 to 1.64); liver histological deterioration (RR 0.89; 95% CI 0.45 to 1.74); or liver cholangiographic deterioration (RR 0.60; 95% CI 0.23 to 1.57). Ursodeoxycholic acid significantly improved serum bilirubin (MD ‐14.6 µmol/litre; 95% CI ‐18.7 to ‐10.6), alkaline phosphatases (MD ‐506 IU/litre; 95% CI ‐583 to ‐430), aspartate aminotransferase (MD ‐46 IU/litre; 95% CI ‐77 to ‐16), and gamma‐glutamyltranspeptidase (MD ‐260 IU/litre; 95% CI ‐315 to ‐205), but not albumin (MD ‐0.20 g/litre; 95% CI ‐1.91 to 1.50). Ursodeoxycholic acid was safe and well tolerated by patients with primary sclerosing cholangitis. 
+Authors' conclusions
+We did not find enough evidence to support or refute the use of bile acids in the treatment of primary sclerosing cholangitis. However, bile acids seem to lead to a significant improvement in liver biochemistry. Therefore, more randomised trials are needed before any of the bile acids can be recommended for this indication. 

@@ -1,0 +1,14 @@
+Background
+Rhabdomyosarcoma is the most common soft tissue sarcoma of childhood. Prognosis for patients with metastatic disease has not improved significantly in the past decades. High‐dose chemotherapy (HDC) seems to be an attractive option to treat minimal residual disease in metastatic rhabdomyosarcoma patients. 
+Objectives
+The objective of the review was to assess the effectiveness of HDC with stem cell rescue (SRC) versus standard‐dose chemotherapy in improving event‐free survival (EFS) and overall survival (OS) of children and young adults with metastatic rhabdomyosarcoma. 
+Search methods
+We searched the databases of MEDLINE (1966 to December 2009), EMBASE (1980 to December 2009) and CENTRAL (The Cochrane Library Issue 1, 2009). In addition, we handsearched the reference lists of selected papers and conference proceedings of the SIOP, ASPHO and ASCO meetings (all 2000 to 2009). 
+Selection criteria
+Randomised controlled trials (RCT), prospective or historical controlled clinical trials (CCT), in which HDC with SCR was compared to conventional chemotherapy and prospective case series (non‐controlled clinical trials) including at least 20 naive metastatic rhabdomyosarcoma patients 
+Data collection and analysis
+Two review authors independently performed the study selection, quality assessment and data extraction. 
+Main results
+No RCTs could be identified. We identified one prospective CCT, one retrospective CCT and one non‐controlled clinical trial. Another CCT has been published as an abstract. All studies have severe methodological limitations, in particular selection bias could not be excluded. One CCT reported a significantly worse OS compared to oral maintenance therapy, however in a subgroup of high‐risk patients no difference could be found. The retrospective CCT reported a similar survival for HDC compared to conventional chemotherapy. The non‐controlled clinical trial and the CCT reported as a conference proceeding reported survival outcomes comparable to previous studies. Data on toxicity showed more grade 3‐4 toxicity in the HDC group. However, there was no difference in the number of toxic deaths. 
+Authors' conclusions
+Overall, the results of this review do not justify the use of HDC with SCR as a standard therapy for children with metastatic rhabdomyosarcoma. However, all reported studies were possibly subject to significant bias, especially selection bias. This might have underestimated the measured effect of HDC. As a result, a clinically important excess of adverse risk patients in the HDC arms may explain the non‐beneficial effect of HDC. Only a large prospective RCT will be able to answer the question of whether HDC with SCR adds to survival or not definitively. 

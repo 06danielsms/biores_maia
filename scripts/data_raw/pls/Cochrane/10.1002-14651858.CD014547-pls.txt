@@ -1,0 +1,17 @@
+Electrical conductance for the detection of early tooth decay
+Why is it important to improve dental caries (tooth decay) detection? 
+Dentists often aim to identify tooth decay that has already advanced to a level which needs a filling. If dentists were able to find tooth decay when it has only affected the outer layer of the tooth (enamel) then it is possible to stop the decay from spreading any further and prevent the need for fillings. It is also important to avoid a false‐positive result, when treatment may be provided when caries is absent. 
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out how accurate electrical conductance devices (non‐invasive devices that send an electrical current to the surface of the tooth) are for detecting and diagnosing early tooth decay as part of the dental 'check‐up' for children and adults who visit their general dentist. Researchers in Cochrane included seven studies published between 1997 and 2018 to answer this question. 
+What was studied in the review? 
+There are two electrical conductance devices that were included in this review: electronic caries monitor (ECM) (four studies) and CarieScan Pro (three studies). Both place a probe on the tooth which measures the electrical conductance of that point on the tooth. We studied decay on the occlusal surfaces (biting surfaces of the back teeth), the proximal surfaces (tooth surfaces that are next to each other), and the smooth surfaces next to the tongue, cheeks, and lips. 
+What are the main results of the review? 
+Researchers in Cochrane included seven studies with a total of 719 tooth sites or surfaces to answer this question. Due to the small number of tooth sites or surfaces studies, the results are very imprecise. We did not find any meaningful difference in accuracy according to type of device or the teeth of children/adolescents and adults. 
+How reliable are the results of the studies in this review? 
+We only included studies that assessed healthy teeth or those that were thought to have early tooth decay. This is because teeth with deep tooth decay would be easier to identify. However, there were some problems with how the studies were carried out. This may result in the electrical conductance devices appearing to be more accurate than they really are, increasing the number of correct test results from the electrical conductance devices. We judged the certainty of the evidence as very low due to how the studies selected their participants, the relatively small number of surfaces studied, and the variability of results. 
+Who do the results of this review apply to? 
+Studies included in the review were carried out in Brazil, UK, Denmark, and Turkey. Three studies performed the tests on extracted teeth and four studies were completed in a dental hospital. 
+What are the implications of this review? 
+The lack of eligible studies and the variation in the results of the studies means that at present, we are very uncertain of how electrical conductance devices are in detecting and diagnosing early tooth decay. 
+How up‐to‐date is this review? 
+The review authors searched for and used studies published up to 26 April 2019.

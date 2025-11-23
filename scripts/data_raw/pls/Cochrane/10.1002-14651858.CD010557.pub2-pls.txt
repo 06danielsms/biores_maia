@@ -1,0 +1,27 @@
+Are there effective medications for treating depression that does not improve with the first medication used? 
+Background 
+Depression is a common problem often treated with antidepressant medication. However, many people do not get better with antidepressant treatment and have 'treatment‐resistant depression' (TRD). Several different treatment approaches can be tried ‐ such as increasing the dose of the current medication, adding another medication, or switching to a different antidepressant. 
+Cochrane reviewers looked at the available evidence to see which of these options may be the best treatment for people with TRD. 
+Search date 
+In December 2018, we searched eight medical databases for suitable clinical trials.
+Study characteristics 
+We included 10 randomised controlled trials (RCTs) with 2731 participants (RCTs produce the most robust evidence). These trials investigated three different treatment strategies: 
+1. changing to a different antidepressant,
+2. adding a second antidepressant to the current antidepressant treatment, or
+3. adding a different type of medication to current antidepressant treatment ‐ an anti‐anxiety medication or an antipsychotic 
+We found no trials of increasing the dose of current antidepressant medication. Nine of the 10 studies included in this review were sponsored by pharmaceutical companies. 
+Key results 
+One small study investigated changing current antidepressant treatment to a different antidepressant (mianserin) or adding mianserin to current treatment. We are uncertain about the effect changing treatment to mianserin has on depressive symptoms or the likelihood of dropping out of treatment. People who added mianserin to their current antidepressant treatment showed fewer depressive symptoms, but the likelihood of dropping out was not clear. 
+Adding the antidepressant mirtazapine to current antidepressant treatment had little or no effect on depressive symptoms or on the likelihood of dropping out of treatment. 
+The effect of adding an anti‐anxiety medication (buspirone) to ongoing antidepressant treatment on depressive symptoms or dropping out is currently uncertain. These findings were based on one small study. 
+Most studies looked at the effects of adding an antipsychotic medication (cariprazine, quetiapine, ziprasidone or olanzapine) to current antidepressant treatment. These suggested that adding cariprazine results in a small reduction in depressive symptoms; adding quetiapine reduces depressive symptoms; and adding ziprasidone probably results in a small reduction in depressive symptoms. However, our results also suggest that adding these medicines to current treatment probably increases the likelihood of dropping out of treatment. The most common reasons for dropping out were side effects or adverse events. Adding olanzapine to ongoing treatment may reduce depressive symptoms, but the effects on dropping out are uncertain (findings based on one small study). 
+Nearly all (9/10) of the studies assessed the effects of treatment in the short‐term – six or eight weeks after beginning the new treatment – so the longer term effects of most treatments are unknown. 
+Quality of the evidence 
+We judged the quality of the evidence as high, moderate, or low for different outcomes. The main limitation we identified was that the evidence for many of the treatment options investigated came from only one study, and some of these studies also had few participants. 
+We rated the evidence to be low quality for:
+1. switching from the current antidepressant treatment to another antidepressant (mianserin);
+2. supplementing current antidepressant treatment with a second antidepressant (mianserin), or with an anti‐anxiety medication (buspirone), or with the antipsychotic olanzapine. 
+This means we are uncertain about the effects of these treatments on depression symptoms or the likelihood of dropping out of treatment. 
+We rated the quality of the evidence for adding mirtazapine (an antidepressant), cariprazine (an antipsychotic) or quetiapine (an antipsychotic) to ongoing antidepressant treatment on depressive symptoms as high, meaning we are very confident in the effect of these treatment strategies. 
+We rated the quality of the evidence for adding the antipsychotic ziprasidone to ongoing antidepressant treatment on the effect on depressive symptoms as moderate, which means the true effect may be different from what we found, although findings are likely to be close. 
+We rated the quality of the evidence for adding mirtazapine (an antidepressant) to ongoing antidepressant treatment on the likelihood of dropping out of treatment as high. We rated the quality of the evidence for adding cariprazine, olanzapine or ziprasidone (all antipsychotics) on the likelihood of dropping out as moderate. 

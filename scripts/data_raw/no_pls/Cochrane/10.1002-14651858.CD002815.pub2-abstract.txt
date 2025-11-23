@@ -1,0 +1,16 @@
+Background
+Despite medical therapies and surgical interventions for Parkinson's disease (PD), patients develop progressive disability. The role of physiotherapy is to maximise functional ability and minimise secondary complications through movement rehabilitation within a context of education and support for the whole person. The overall aim is to optimise independence, safety and wellbeing, thereby enhancing quality of life. Trials have shown that physiotherapy has short‐term benefits in PD. However, which physiotherapy intervention is most effective remains unclear. 
+Objectives
+To assess the effectiveness of one physiotherapy intervention compared with a second approach in patients with PD. 
+Search methods
+Relevant trials were identified by electronic searches of numerous literature databases (for example MEDLINE, EMBASE) and trial registers, plus handsearching of major journals, abstract books, conference proceedings and reference lists of retrieved publications. The literature search included trials published up to the end of January 2012. 
+Selection criteria
+Randomised controlled trials of one physiotherapy intervention versus another physiotherapy intervention in patients with PD. 
+Data collection and analysis
+Data were abstracted independently from each paper by two authors. Trials were classified into the following intervention comparisons: general physiotherapy, exercise, treadmill training, cueing, dance and martial arts. 
+Main results
+A total of 43 trials were identified with 1673 participants. All trials used small patient numbers (average trial size of 39 participants); the methods of randomisation and concealment of allocation were poor or not stated in most trials. Blinded assessors were used in just over half of the trials and only 10 stated that they used intention‐to‐treat analysis. 
+A wide variety of validated and customised outcome measures were used to assess the effectiveness of physiotherapy interventions. The most frequently reported physiotherapy outcomes were gait speed and timed up and go, in 19 and 15 trials respectively. Only five of the 43 trials reported data on falls (12%). The motor subscales of the Unified Parkinson’s Disease Rating Scale and Parkinson’s Disease Questionnaire‐39 were the most commonly reported clinician‐rated disability and patient‐rated quality of life outcome measures, used in 22 and 13 trials respectively. The content and delivery of the physiotherapy interventions varied widely in the trials included within this review, so no quantitative meta‐analysis could be performed. 
+Authors' conclusions
+Considering the small number of participants examined, the methodological flaws in many of the studies, the possibility of publication bias, and the variety of interventions, formal comparison of the different physiotherapy techniques could not be performed. There is insufficient evidence to support or refute the effectiveness of one physiotherapy intervention over another in PD. 
+This review shows that a wide range of physiotherapy interventions to treat PD have been tested . There is a need for more specific trials with improved treatment strategies to underpin the most appropriate choice of physiotherapy intervention and the outcomes measured. 

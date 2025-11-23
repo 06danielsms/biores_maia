@@ -1,0 +1,36 @@
+Background
+Pelvic organ prolapse (POP) is common in women and is frequently associated with stress urinary incontinence (SUI). In many cases however, SUI is present only with the prolapse reduced (occult SUI) or may develop after surgical treatment for prolapse (de novo SUI). 
+Objectives
+To determine the impact on postoperative bladder function of surgery for symptomatic pelvic organ prolapse with or without concomitant or delayed two‐stage continence procedures to treat or prevent stress urinary incontinence. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, MEDLINE‐In‐Process, ClinicalTrials.gov, WHO ICTRP, handsearching journals and conference proceedings (searched 11 November 2017) and reference lists of relevant articles. We also contacted researchers in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) including surgical operations for POP with or without continence procedures in continent or incontinent women. Our primary outcome was subjective postoperative SUI. Secondary outcomes included recurrent POP on examination, overactive bladder (OAB) symptoms, and voiding dysfunction. 
+Data collection and analysis
+We used standard methodological procedures as expected by Cochrane.
+Main results
+We included 19 RCTs (2717 women). The quality of the evidence ranged from low to moderate. The main limitations were risk of bias (especially blinding of outcome assessors), indirectness and imprecision associated with low event rates and small samples. 
+POP surgery in women with SUI  
+Vaginal repair with vs without concomitant mid‐urethral sling (MUS) 
+A concomitant MUS probably improves postoperative rates of subjective SUI, as the evaluated clinical effect appears large (risk ratio (RR) 0.30, 95% confidence interval (CI) 0.19 to 0.48; 319 participants, two studies; I² = 28%; moderate‐quality evidence), and probably decreases the need for further continence surgery (RR 0.04, 95% CI 0.00 to 0.74; 134 participants, one study; moderate‐quality evidence). This suggests that if the risk of SUI with POP surgery alone is 39%, the risk with an MUS is between 8% and 19%. 
+Rates of recurrent POP on examination, OAB, and voiding dysfunction were not reported.
+Vaginal repair with concomitant vs delayed MUS 
+Evidence suggested little or no difference between groups in reporting postoperative SUI (RR 0.41, 95% CI 0.12 to 1.37; 140 participants, one study; moderate‐quality evidence). 
+Rates of recurrent POP on examination, OAB, and voiding dysfunction and the need for further surgery were not reported. 
+Abdominal sacrocolpopexy with vs without Burch colposuspension 
+An additional Burch colposuspension probably has little or no effect on postoperative SUI at one year (RR 1.38, 95% CI 0.74 to 2.60; 47 participants, one study; moderate‐quality evidence), OAB symptoms (RR 0.85, 95% CI 0.61 to 1.18; 33 participants, one study; moderate‐quality evidence), or voiding dysfunction (RR 0.96, 95% CI 0.06 to 14.43; 47 participants, one study; moderate‐quality evidence). Rates of recurrent POP and the need for further surgery were not reported. 
+POP surgery in women with occult SUI  
+Vaginal repair with vs without concomitant MUS 
+MUS probably improves rates of subjective postoperative SUI (RR 0.38, 95% CI 0.26 to 0.55; 369 participants, five studies; I² = 44%; moderate‐quality evidence). This suggests that if the risk with surgery alone is 34%, the risk with a concomitant MUS is between 10% and 22%. Evidence suggests little or no difference between groups in rates of recurrent POP (RR 0.86, 95% CI 0.34 to 2.19; 50 participants, one study; moderate‐quality evidence), OAB symptoms (RR 0.75, 95% CI 0.52 to 1.07; 43 participants, one study; low‐quality evidence), or voiding dysfunction (RR 1.00, 95% CI 0.15 to 6.55; 50 participants, one study; low‐quality evidence). The need for further surgery was not reported. 
+POP surgery in continent women  
+Vaginal repair with vs without concomitant MUS 
+Researchers provided no conclusive evidence of a difference between groups in rates of subjective postoperative SUI (RR 0.69, 95% CI 0.47 to 1.00; 220 participants, one study; moderate‐quality evidence). This suggests that if the risk with surgery alone is 40%, the risk with a concomitant MUS is between 19% and 40%. Rates of recurrent POP, OAB, and voiding dysfunction and the need for further surgery were not reported. 
+Abdominal sacrocolpopexy with vs without Burch colposuspension 
+We are uncertain whether there is a difference between groups in rates of subjective postoperative SUI (RR 1.31, 95% CI 0.19 to 9.01; 379 participants, two studies; I² = 90%; low‐quality evidence), as RCTs produced results in different directions with a very wide confidence interval. We are also uncertain whether there is a difference between groups in rates of voiding dysfunction (RR 8.49, 95% CI 0.48 to 151.59; 66 participants, one study; low‐quality evidence) or recurrent POP (RR 0.98, 95% CI 0.74 to 1.30; 250 participants, one study; moderate‐quality evidence. No study reported OAB symptoms and need for further surgery. 
+Vaginal repair with armed anterior vaginal mesh repair vs anterior native tissue 
+Anterior armed mesh repair may slightly increase postoperative de novo SUI (RR 1.58, 95% CI 1.05 to 2.37; 905 participants, seven studies; I² = 0%; low‐quality evidence) but may decrease recurrent POP (RR 0.29, 95% CI 0.22 to 0.38; 848 participants, five studies; I² = 0%; low‐quality evidence). There may be little or no difference in rates of voiding dysfunction (RR 1.65, 95% CI 0.22 to 12.10; 125 participants, two studies; I² = 0%; low‐quality evidence). Rates of OAB and the need for further surgery were not reported. 
+Adverse events were infrequently reported in all studies; cost was not studied in any trial. 
+Authors' conclusions
+In women with POP and SUI (symptomatic or occult), a concurrent MUS probably reduces postoperative SUI and should be discussed in counselling. It might be feasible to postpone the MUS and perform a delayed (two‐stage) continence procedure, if required. 
+Although an abdominal continence procedure (Burch colposuspension) during abdominal POP surgery in continent women reduced de novo SUI rates in one underpowered trial, another RCT reported conflicting results. Adding an MUS during vaginal POP repair might reduce postoperative development of SUI. 
+An anterior native tissue repair might be better than use of transobturator mesh for preventing postoperative SUI; however, prolapse recurrence is more common with native tissue repair. 

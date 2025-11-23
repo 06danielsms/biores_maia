@@ -1,0 +1,28 @@
+How effective are supervised exercise programmes compared to supervised walking programmes for treating intermittent claudication? 
+Why this question is important 
+Intermittent claudication is the medical term for pain in the lower leg (or both legs) that develops during exercise (for example, walking) and usually goes away after a few minutes’ rest. This pain is produced by a restriction of blood flow to the leg muscles. This restriction in blood flow is caused by the partial blockage of arteries (vessels that deliver oxygen‐rich blood around the body) by a build‐up of fatty deposits (atherosclerosis). This results in a reduced oxygen supply reaching the leg muscles. 
+International guidelines recommend that people with intermittent claudication should exercise by walking (for example, on a treadmill) while supervised by a physical or exercise therapist. The goal of these exercises is to increase the distance people can walk, and to limit the impact of intermittent claudication on their quality of life. 
+Supervised walking programmes are not the only type of supervised exercise available. There are other options, such as strength training, Nordic walking (walking with specially designed poles to exercise the upper as well as the lower body) or cycling. To find out how effective other types of supervised exercise programmes are compared to supervised walking programmes, we reviewed the evidence from research studies. 
+How we identified and assessed the evidence 
+First, we searched for all relevant studies in the medical literature. We then compared the results, and summarised the evidence from all the studies. Finally, we assessed how certain the evidence was. We considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorised the evidence as being of very low, low, moderate or high certainty. 
+What we found 
+We found ten studies on a total of 527 people with intermittent claudication. The studies compared supervised walking programmes against: 
+* exercises to strengthen the leg muscles (four studies);
+* Nordic walking (three studies);
+* cycling (one study);
+* arm ergometry (pedalling with the arms on an exercise machine – one study);
+* a combination of different types of exercise (four studies).
+The programmes lasted between six and 24 weeks.
+The evidence suggests that there may be little to no difference between supervised walking and other types of supervised exercise in terms of: 
+* the average maximum distance that people can walk after 12 weeks of exercise, or once they have completed the exercise programme; 
+* the average distance that people can walk without feeling pain after 12 weeks of exercise, or once they have completed the exercise programme; or 
+* disability (after 12 to 24 weeks of exercise).
+We do not know if there is a difference in quality of life, since the studies that investigated this used different measurement tools to assess it, and we could not compare the results. 
+What this means 
+This review suggests that supervised walking and other types of supervised exercise programmes may have similar effects on how far people with intermittent claudication can walk, and how far they can walk without pain. However, our confidence in this finding is limited, mainly because: 
+* the studies we reviewed were small;
+* the types of supervised walking exercises that were evaluated varied across studies; and 
+* concerns about how some studies were conducted.
+Future studies that use robust methods and include large numbers of people are needed to provide stronger evidence for comparing different types of supervised exercise programmes for intermittent claudication. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to March 2019.

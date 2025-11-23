@@ -1,0 +1,15 @@
+Background
+Glaucoma is a leading cause of irreversible blindness. Subconjunctival draining minimally‐invasive glaucoma devices such as the Xen gelatin implant and InnFocus stent have been introduced as a treatment to prevent glaucoma progressing. 
+These implants provide a channel to allow aqueous humour from the anterior chamber of the eye to drain into the subconjunctival space on the surface of the eye thus reducing intraocular pressure (IOP) and mimicking the mechanism of the most commonly undertaken glaucoma surgery, trabeculectomy. 
+Objectives
+To evaluate the efficacy and safety of subconjunctival draining minimally‐invasive glaucoma devices in treating people with open angle glaucoma and ocular hypertension whose condition is inadequately controlled with drops. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; which contains the Cochrane Eyes and Vision Trials Register; 2018, Issue 6); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov and the WHO ICTRP. The date of the search was 10 July 2018. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) of Xen gelatin implant or InnFocus MicroShunt to other surgical treatments (other minimally‐invasive glaucoma device techniques, trabeculectomy), laser treatment or medical treatment. We also planned to include trials where these devices were combined with phacoemulsification compared to phacoemulsification alone. 
+Data collection and analysis
+We planned to have two review authors independently extract data from reports of included studies using a data collection form and analyse data based on methods expected by Cochrane. Our primary outcome was mean change in IOP. Secondary outcomes included proportion of participants who were drop‐free; proportion of participants who achieved an IOP of 21 mmHg or less, 17 mmHg or less or 14 mmHg or less; and proportion of participants experiencing intra‐ and postoperative complications. We planned to measure all outcomes in the short‐term (six to 18 months), medium‐term (18 to 36 months), and long‐term (36 months onwards). 
+Main results
+We found no completed RCTs that met our inclusion criteria. We found one ongoing study (NCT01881425). The study compares InnFocus MicroShunt to trabeculectomy in people with primary open angle glaucoma. The primary outcome is greater than 20% IOP reduction from baseline to 12 months' follow‐up. A total of 889 people aged between 40 and 85 years have been enrolled. The estimated study completion date is November 2019. 
+Authors' conclusions
+There is currently no high‐quality evidence for the effects of subconjunctival draining minimally‐invasive glaucoma devices for medically uncontrolled open angle glaucoma. Properly designed RCTs are needed to assess the medium‐ and long‐term efficacy and safety of this technique. 

@@ -1,0 +1,15 @@
+Background
+We became aware through talking with people with asthma that some are using pulse oximeters to monitor their own blood oxygen levels during an asthma attack. Pulse oximeters are marketed by some suppliers as essential equipment for the home medicine cabinet. We wanted to find out if reliable evidence is available on use of pulse oximeters to self monitor asthma exacerbations at home. We decided to include only trials that used pulse oximeters as part of a personalised asthma action plan because it is important that decisions are made on the basis of symptoms as well as oxygen saturation, and that patients have a clear protocol to follow when their asthma worsens. 
+Objectives
+To determine whether pulse oximeters used as part of a personalised asthma action plan for people with asthma are safer and more effective than a personalised asthma action plan alone. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (CAGR), which includes reports identified through systematic searches of bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Allied and Complementary Medicine Database (AMED) and PsycINFO, and by handsearching. We also searched ClinicalTrials.gov and the World Health Organization (WHO) trials portal. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs). Participants would have included adults, children or both with a diagnosis of asthma. We planned to include trials in which investigators compared participants who used pulse oximeters to monitor oxygen levels at home during an asthma exacerbation as part of a personalised asthma action plan (PAAP) versus those who used a PAAP without a pulse oximeter. We planned to include studies involving people receiving any treatment regimen provided that no medicine was included as part of the randomisation schedule. 
+Data collection and analysis
+We planned to use standard methods as recommended by The Cochrane Collaboration.
+Main results
+We found no studies and no evidence to support or refute the use of home pulse oximetry in self management of asthma; therefore, we can make no recommendations about use of a pulse oximeter as part of a PAAP. 
+Authors' conclusions
+We found no reliable data to support or refute patient use of pulse oximeters to monitor oxygen saturation levels when experiencing an asthma attack. People should not use a pulse oximeter without seeking advice from a qualified healthcare professional. 
+We identified no compelling rationale for home monitoring of oxygen levels in isolation for most people with asthma. Some people have a reduced perception of the severity of their own breathlessness when exposed to hypoxia. If trials on self monitoring of oxygen levels in the blood by pulse oximeter at home by people with asthma are conducted, the pulse oximeter must be given as part of a personalised asthma action plan. 

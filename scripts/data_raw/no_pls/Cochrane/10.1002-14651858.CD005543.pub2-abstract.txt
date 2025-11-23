@@ -1,0 +1,15 @@
+Background
+The early management of shoulder dystocia involves the administration of various manoeuvres which aim to relieve the dystocia by manipulating the fetal shoulders and increasing the functional size of the maternal pelvis. 
+Objectives
+To assess the effects of prophylactic manoeuvres in preventing shoulder dystocia.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (May 2009).
+Selection criteria
+Randomised controlled trials comparing the prophylactic implementation of manoeuvres and maternal positioning with routine or standard care. 
+Data collection and analysis
+Two review authors independently applied exclusion criteria, assessed trial quality and extracted data. 
+Main results
+Two trials were included; one comparing the McRobert's manoeuvre and suprapubic pressure with no prophylactic manoeuvres in 185 women likely to give birth to a large baby and one trial comparing the use of the McRobert's manoeuvre versus lithotomy positioning in 40 women. We decided not to pool the results of the two trials. One study reported 15 cases of shoulder dystocia in the therapeutic (control) group compared to five in the prophylactic group (risk ratio (RR) 0.44, 95% confidence interval (CI) 0.17 to 1.14) and the other study reported one episode of shoulder dystocia in both prophylactic and lithotomy groups. In the first study, there were significantly more caesarean sections in the prophylactic group and when these were included in the results, significantly fewer instances of shoulder dystocia were seen in the prophylactic group (RR 0.33, 95% CI 0.12 to 0.86). In this study, 13 women in the control group required therapeutic manoeuvres after delivery of the fetal head compared to three in the treatment group (RR 0.31, 95% CI 0.09 to 1.02). 
+One study reported no birth injuries or low Apgar scores recorded. In the other study, one infant in the control group had a brachial plexus injury (RR 0.44, 95% CI 0.02 to 10.61), and one infant had a five‐minute Apgar score less than seven (RR 0.44, 95% CI 0.02 to 10.61). 
+Authors' conclusions
+There are no clear findings to support or refute the use of prophylactic manoeuvres to prevent shoulder dystocia, although one study showed an increased rate of caesareans in the prophylactic group. Both included studies failed to address important maternal outcomes such as maternal injury, psychological outcomes and satisfaction with birth. Due to the low incidence of shoulder dystocia, trials with larger sample sizes investigating the use of such manoeuvres are required. 

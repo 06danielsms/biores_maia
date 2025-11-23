@@ -1,0 +1,47 @@
+Background
+Various methods of conscious sedation and analgesia (CSA) have been used during oocyte retrieval for assisted reproduction. The choice of agent has been influenced by the quality of sedation and analgesia and by concerns about possible detrimental effects on reproductive outcomes. 
+Objectives
+To assess the effectiveness and safety of different methods of conscious sedation and analgesia for pain relief and pregnancy outcomes in women undergoing transvaginal oocyte retrieval. 
+Search methods
+We searched; the Cochrane Gynaecology and Fertility specialised register, CENTRAL, MEDLINE, Embase, PsycINFO and CINAHL, and trials registers in November 2017. We also checked references, and contacted study authors for additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing different methods and administrative protocols for conscious sedation and analgesia during oocyte retrieval. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcomes were intraoperative and postoperative pain. Secondary outcomes included clinical pregnancy, patient satisfaction, analgesic side effects, and postoperative complications. 
+Main results
+We included 24 RCTs (3160 women) in five comparisons. We report the main comparisons below. Evidence quality was generally low or very low, mainly owing to poor reporting and imprecision. 
+1. CSA versus other active interventions.
+All evidence for this comparison was of very low quality.
+CSA versus CSA plus acupuncture or electroacupuncture 
+Data show more effective intraoperative pain relief on a 0 to 10 visual analogue scale (VAS) with CSA plus acupuncture (mean difference (MD) 1.00, 95% confidence interval (CI) 0.18 to 1.82, 62 women) or electroacupuncture (MD 3.00, 95% CI 2.23 to 3.77, 62 women). 
+Data also show more effective postoperative pain relief (0 to 10 VAS) with CSA plus acupuncture (MD 0.60, 95% CI ‐0.10 to 1.30, 61 women) or electroacupuncture (MD 2.10, 95% CI 1.40 to 2.80, 61 women). 
+Evidence was insufficient to show whether clinical pregnancy rates were different between CSA and CSA plus acupuncture (odds ratio (OR) 0.61, 95% CI 0.20 to 1.86, 61 women). CSA alone may be associated with fewer pregnancies than CSA plus electroacupuncture (OR 0.22, 95% CI 0.07 to 0.66, 61 women). 
+Evidence was insufficient to show whether rates of vomiting were different between CSA and CSA plus acupuncture (OR 1.64, 95% CI 0.46 to 5.88, 62 women) or electroacupuncture (OR 1.09, 95% CI 0.33 to 3.58, 62 women). 
+Trialists provided no usable data for other outcomes of interest.
+CSA versus general anaesthesia 
+Postoperative pain relief was greater in the CSA group (0 to 3 Likert: mean difference (MD) 1.9, 95% CI 2.24 to 1.56, one RCT, 50 women). 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 1.00, 95% CI 0.43 to 2.35, two RCTs, 108 women, I2 = 0%). 
+Evidence was insufficient to show whether groups differed in rates of vomiting (OR 0.46, 95% CI 0.08 to 2.75, one RCT, 50 women) or airway obstruction (OR 0.14, 95% CI 0.02 to 1.22, one RCT, 58 women). Fewer women needed mask ventilation in the CSA group (OR 0.05, 95% CI 0.01 to 0.20, one RCT, 58 women). 
+Evidence was also insufficient to show whether groups differed in satisfaction rates (OR 0.66, 95% CI 0.11 to 4.04, two RCTs, 108 women, I2 = 34%; very low‐quality evidence). 
+Trialists provided no usable data for outcomes of interest.
+2. CSA + paracervical block (PCB) versus other interventions.
+CSA + PCB versus electroacupuncture + PCB 
+Intraoperative pain scores were lower in the CSA + PCB group (0 to 10 VAS: MD ‐0.66, 95% CI ‐0.93 to ‐0.39, 781 women, I2 = 76%; low‐quality evidence). 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 0.96, 95% CI 0.72 to 1.29, 783 women, I2 = 9%; low‐quality evidence). 
+Trialists provided no usable data for other outcomes of interest.
+CSA + PCB versus general anaesthesia 
+Evidence was insufficient to show whether groups differed in postoperative pain scores (0 to 10 VAS: MD 0.49, 95% CI ‐0.13 to 1.11, 50 women; very low‐quality evidence). 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 0.70, 95% CI 0.22 to 2.26, 51 women; very low‐quality evidence). 
+Trialists provided no usable data for other outcomes of interest.
+CSA + PCB versus spinal anaesthesia 
+Postoperative pain scores were higher in the CSA + PCB group (0 to 10 VAS: MD 1.02, 95% CI 0.48 to 1.56, 36 women; very low‐quality evidence). 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 0.93, 95% CI 0.24 to 3.65, 38 women; very low‐quality evidence). 
+Trialists provided no usable data for other outcomes of interest.
+CSA + PCB versus PCB 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 0.93, 95% CI 0.44 to 1.96, 150 women; low‐quality evidence) or satisfaction (OR 1.63, 95% CI 0.68 to 3.89, 150 women, low‐quality evidence). 
+Trialists provided no usable data for other outcomes of interest.
+CSA + PCB versus CSA only 
+Evidence was insufficient to show whether groups differed in clinical pregnancy rates (OR 0.62, 95% CI 0.28 to 1.36, one RCT, 100 women; very low‐quality evidence). Rates of postoperative nausea and vomiting were lower in the CS + PCB group (OR 0.42, 95% CI 0.18 to 0.97, two RCTs, 140 women, I2 = 40%; very low‐quality evidence). 
+Trialists provided no usable data for other outcomes of interest.
+Authors' conclusions
+The evidence does not support one particular method or technique over another in providing effective conscious sedation and analgesia for pain relief during and after oocyte retrieval. Simultaneous use of sedation combined with analgesia such as the opiates, further enhanced by paracervical block or acupuncture techniques, resulted in better pain relief than occurred with one modality alone. Evidence was insufficient to show conclusively whether any of the interventions influenced pregnancy rates. All techniques reviewed were associated with a high degree of patient satisfaction. Women’s preferences and resource availability for choice of pain relief merit consideration in practice. 

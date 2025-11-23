@@ -1,0 +1,33 @@
+Background
+Drug addiction is a chronic, relapsing disease. Primary interventions should aim to reduce first use or to prevent the transition from experimental use to addiction. School is the appropriate setting for preventive interventions. 
+Objectives
+To evaluate the effectiveness of universal school‐based interventions in reducing drug use compared to usual curricular activities or no intervention. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group's Trials Register (September 2013), the Cochrane Central Register of Controlled Trials (2013, Issue 9), PubMed (1966 to September 2013), EMBASE (1988 to September 2013) and other databases. We also contacted researchers in the field and checked reference lists of articles. 
+Selection criteria
+Randomised controlled trials (RCT) evaluating school‐based interventions designed to prevent illicit drugs use. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We included 51 studies, with 127,146 participants. Programmes were mainly delivered in sixth and seventh grade pupils. Most of the trials were conducted in the USA. 
+Social competence approach versus usual curricula or no intervention 
+Marijuana use at < 12 months follow‐up: the results favoured the social competence intervention (risk ratio (RR) 0.90; 95% confidence interval (CI) 0.81 to 1.01, four studies, 9456 participants, moderate quality evidence). Seven studies assessed this outcome (no data for meta‐analysis): two showed a positive significant effect of intervention, three showed a non‐significant effect, one found a significant effect in favour of the control group and one found a trend in favour of the control group. 
+Marijuana use at 12+ months: the results favoured the social competence intervention (RR 0.86; 95% CI 0.74 to 1.00, one study, 2678 participants, high quality evidence). Seven studies assessed this outcome (no data for meta‐analysis): two showed a significant positive effect of intervention, three showed a non‐significant effect, one found a significant effect in favour of the control group and one a trend in favour of the control group. 
+Hard drug use at < 12 months: we found no difference (RR 0.69; 95% CI 0.40 to 1.18, one study, 2090 participants, moderate quality evidence). Two studies assessed this outcome (no data for meta‐analysis): one showed comparable results for the intervention and control group; one found a statistically non‐significant trend in favour of the social competence approach. 
+Hard drug use at 12+ months: we found no difference (mean difference (MD) ‐0.01; 95% CI ‐0.06 to 0.04), one study, 1075 participants, high quality evidence). One study with no data for meta‐analysis showed comparable results for the intervention and control group. 
+Any drug use at < 12 months: the results favoured social competence interventions (RR 0.27; 95% CI 0.14 to 0.51, two studies, 2512 participants, moderate quality evidence). One study with 1566 participants provided continuous data showing no difference (MD 0.02; 95% CI ‐0.05 to 0.09, moderate quality evidence). 
+Social influence approach versus usual curricula or no intervention 
+Marijuana use at < 12 months: we found a nearly statistically significant effect in favour of the social influence approach (RR 0.88; 95% CI 0.72 to 1.07, three studies, 10,716 participants, moderate quality evidence). One study with 764 participants provided continuous data showing results that favoured the social influence intervention (MD ‐0.26; 95% CI ‐0.48 to ‐0.04). 
+Marijuana use at 12+ months: we found no difference (RR 0.95; 95% CI 0.81 to 1.13, one study, 5862 participants, moderate quality evidence). One study with 764 participants provided continuous data and showed nearly statistically significant results in favour of the social influence intervention (MD ‐0.22; 95% CI ‐0.46 to 0.02). Of the four studies not providing data for meta‐analysis a statistically significant protective effect was only found by one study. 
+Hard drug use at 12+ months: one study not providing data for meta‐analysis found a significant protective effect of the social influence approach. 
+Any drug use: no studies assessed this outcome.
+Combined approach versus usual curricula or no intervention 
+Marijuana use at < 12 months: there was a trend in favour of intervention (RR 0.79; 95% CI 0.59 to 1.05, three studies, 8701 participants, moderate quality evidence). One study with 693 participants provided continuous data and showed no difference (MD ‐1.90; 95% CI ‐5.83 to 2.03). 
+Marijuana use at 12+ months: the results favoured combined intervention (RR 0.83; 95% CI 0.69 to 0.99, six studies, 26,910 participants, moderate quality evidence). One study with 690 participants provided continuous data and showed no difference (MD ‐0.80; 95% CI ‐4.39 to 2.79). Two studies not providing data for meta‐analysis did not find a significant effect. 
+Hard drug use at < 12 months: one study with 693 participants provided both dichotomous and continuous data and showed conflicting results: no difference for dichotomous outcomes (RR 0.85; 95% CI 0.63 to 1.14), but results in favour of the combined intervention for the continuous outcome (MD ‐3.10; 95% CI ‐5.90 to ‐0.30). The quality of evidence was high. 
+Hard drug use at 12+ months: we found no difference (RR 0.86; 95% CI 0.39 to 1.90, two studies, 1066 participants, high quality evidence). One study with 690 participants provided continuous data and showed no difference (MD 0.30; 95% CI ‐1.36 to 1.96). Two studies not providing data for meta‐analysis showed a significant effect of treatment. 
+Any drug use at < 12 months: the results favoured combined intervention (RR 0.76; 95% CI 0.64 to 0.89, one study, 6362 participants). 
+Only one study assessed the effect of a knowledge‐focused intervention on drug use and found no effect. The types of comparisons and the programmes assessed in the other two groups of studies were very heterogeneous and difficult to synthesise. 
+Authors' conclusions
+School programmes based on a combination of social competence and social influence approaches showed, on average, small but consistent protective effects in preventing drug use, even if some outcomes did not show statistical significance. Some programmes based on the social competence approach also showed protective effects for some outcomes. 
+Since the effects of school‐based programmes are small, they should form part of more comprehensive strategies for drug use prevention in order to achieve a population‐level impact. 

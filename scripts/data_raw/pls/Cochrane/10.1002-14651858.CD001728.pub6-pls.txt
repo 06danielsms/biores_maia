@@ -1,0 +1,15 @@
+Heated, humidified air for the common cold
+Review question 
+We examined the effects of inhaling heated, humidified air delivered by a device (RhinoTherm) for people with common cold. 
+Background 
+Common cold is the most common infection in humans. It does not usually cause complications, but can lead to days off work or school due to discomfort caused by symptoms. The diagnosis is based on symptoms, and the treatments are mainly symptomatic. Symptoms include fever, loss of appetite, feeling unwell, feeling chilled, with headache, muscle aches, and pains. Many signs and symptoms are caused by congestion from swelling of membranes and thickened mucus inside the nose. The common cold has been treated for decades with inhaled steam to help the mucus drain more easily. There is laboratory evidence that the cold virus may be sensitive to heat, but no large scale clinical trials have tested its effectiveness. Steam inhalation continues to be used because it provides subjective relief of common cold symptoms. 
+Search date 
+The search is current to 24 February 2017.
+Study characteristics 
+We included six randomised, double‐blind trials from five publications involving a total of 387 participants published between 1987 and 1995 in the English language. All included trials used the RhinoTherm device, which delivered heated, humidified air for different lengths of time and at different flow rates to treat common cold symptoms. Three trials were conducted in the USA, two in the UK, and one in Israel. Most studies recruited people with naturally occurring colds, but one study induced colds by infecting participants. 
+Study funding sources 
+The RhinoTherm devices were provided by Netzer Sereni in four studies and A Beacham in two studies. One study was funded by Cleveland Clinic internal funding, and another was supported by authors' discretionary funds. The remaining studies did not mention funding sources. 
+Key results 
+None of the included studies reported any worsening in clinical symptom scores after inhaling heated, humidified air. Participants in two trials showed a lack of persistent symptoms, however the results were inconsistent. Two studies reported minor adverse events. There was no effect of treatment on rhinovirus shedding. 
+Quality of evidence 
+Using GRADE criteria, we assessed the quality of the evidence as low for the outcomes reduction in the clinical severity of the common cold (measured by decrease in the symptom score index); number of participants with the subjective response: therapy did not help; and number of participants with a positive viral culture in the nasal washings, due to risk of bias and inconsistency of the study results. 

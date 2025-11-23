@@ -1,0 +1,14 @@
+Background
+The average level of blood cholesterol is an important determinant of the risk of coronary heart disease. Blood cholesterol can be reduced by dietary means. Although dietitians are trained to provide dietary advice, for practical reasons it may be given by other health professionals or using self‐help resources. 
+Objectives
+To assess the effects of dietary advice given by a dietitian compared with another health professional, or the use of self‐help resources, in reducing blood cholesterol in adults. 
+Search methods
+We searched The Cochrane Library (to Issue 3 2002), the EPOC trial register (October 2002), MEDLINE (1966 to September 2002), EMBASE (1980 to September 2002), Cinahl (1982 to August 2002), Human Nutrition (1991 to 1998), Science Citation Index, Social Sciences Citation Index, hand searched conference proceedings on nutrition and heart disease, and contacted experts in the field. 
+Selection criteria
+Randomised trials of dietary advice given by a dietitian compared with another health professional or self‐help resources. The main outcome was difference in blood cholesterol between dietitian groups compared with other intervention groups. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed study quality.
+Main results
+Twelve studies with 13 comparisons were included. Four studies compared dietitian with doctor, seven with self‐help resources, and only one study was found for dietitian versus nurse and dietitian versus counsellor comparisons. Participants receiving advice from dietitians experienced a greater reduction in blood cholesterol than those receiving advice only from doctors (‐0.25 mmol/L (95% CI ‐0.37, ‐0.12 mmol/L)). There was no statistically significant difference in change in blood cholesterol between dietitians and self‐help resources (‐0.10 mmol/L (95% CI ‐0.22, 0.03 mmol/L)). No statistically significant differences were detected for secondary outcome measures between any of the comparisons with the exception of dietitian versus nurse for HDLc, where the dietitian group showed a greater reduction (‐0.06 mmol/L (95% CI ‐0.11, ‐0.01)) and dietitian versus counsellor for body weight, where the dietitian group showed a greater reduction (‐5.80 kg (95% CI ‐8.91, ‐2.69 kg)). 
+Authors' conclusions
+Dietitians were better than doctors at lowering blood cholesterol in the short to medium term, but there was no evidence that they were better than self‐help resources. There was no evidence that dietitians provided better outcomes than nurses.  The results should be interpreted with caution as the studies were not of good quality and the analysis was based on a limited number of trials. 

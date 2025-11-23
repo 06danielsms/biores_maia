@@ -1,0 +1,20 @@
+Transfusion of red blood cells stored for a shorter duration versus red blood cells stored for a longer duration for all conditions 
+Review question 
+In people needing a blood transfusion, is it better to give blood that has been stored for a shorter time compared to a longer time? 
+Background 
+After donation, red blood cells (blood) can be stored for up to 42 days before being transfused to a person in need of a blood transfusion. It is not known whether blood stored for this long might be harmful, particularly in vulnerable patient groups, such as those needing intensive care. 
+Study characteristics 
+We investigated the consequences of giving transfusions of:
+‐ blood stored for a shorter duration versus blood stored for a longer duration, and
+‐ blood stored for a shorter duration versus blood stored for a standard length of time ('standard practice storage duration'; this period varies between hospitals) 
+to anyone needing a blood transfusion.
+We searched the medical literature to 20 November 2017. We identified 22 studies, which included a range of 42,835 participants (newborn babies less than 4 weeks old (neonates), children, and adults). Eleven studies (2249 participants) compared transfusion of blood stored for a shorter duration versus transfusion of blood stored for a longer duration, and the other 11 studies (40,588 participants) compared transfusion of blood stored for a shorter duration versus transfusion of standard practice storage duration blood. 
+Quality of evidence 
+We assessed the quality of evidence for our results, which ranged from very low to moderate quality. These judgements are based on the number of trials and participants contributing data to each result, how similar the results were between trials, and the reliability of the trial methods used. Future research is highly likely to change the findings of results judged to be of very low quality, but is less likely to change the findings of other results, such as risk of death, for which we rated the evidence as moderate. 
+Key results Transfusion of blood stored for a shorter duration versus blood stored for a longer duration 
+Eight studies focused on adults, two on children with severe anaemia (low blood count) and two on low birth weight neonates. In adults undergoing major surgery, transfusion of blood stored for a shorter duration versus blood stored for a longer duration probably leads to little or no difference in risk of death up to 30 days but the quality of evidence is moderate. In children we were uncertain whether transfusion of blood stored for a shorter duration increases or decreases risk of death, because the quality of the evidence is very low. 
+Transfusion of blood stored for a shorter duration versus standard practice storage duration blood 
+Eight studies focused on adults, most of whom were in hospital. Three studies enrolled critically ill neonates. Transfusion of blood of shorter storage duration versus blood of standard practice storage duration probably leads to little or no difference in risk of death in adults in the 30 days after transfusion. Whether transfusion of blood of shorter storage duration increases or decreases risk of death in critically ill neonates up to 30 days after transfusion is uncertain because the quality of evidence is very low. 
+Two studies in critically ill adults provided information on adverse reactions to transfusion, but had conflicting results. While one study found more transfusions associated with fever in the participants who received blood stored for a shorter duration than those who received standard practice storage duration blood, another study found no differences between the two groups. 
+Conclusion 
+We observed no clear difference in the risk of death at different time points between transfusion of blood stored for a shorter duration versus blood stored for a longer duration or versus blood stored for the standard practice storage duration. 

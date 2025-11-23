@@ -1,0 +1,15 @@
+Clinical Study Results
+• 47.8% of participants who got anifrolumab were BICLA responders. This was 86 out of 180 participants.
+• 31.5% of the participants who got the placebo were BICLA responders. This was 57 out of 182 participants.
+The chart below shows the results.
+Percentage of BICLA responders after 52 weeks
+60
+47.8%
+50
+40
+31.5%
+30
+20
+10
+0
+Anifrolumab Placebo

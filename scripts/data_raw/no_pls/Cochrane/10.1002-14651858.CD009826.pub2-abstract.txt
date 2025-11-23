@@ -1,0 +1,17 @@
+Background
+Kaposi sarcoma (KS) remains the second most frequently diagnosed HIV‐related malignancy (HRM) worldwide and most common HRM in sub‐Saharan Africa where HIV is most prevalent and human herpesvirus 8 (HHV‐8), the precipitating agent for the development of KS, is endemic. The majority of KS patients would likely benefit from systemic chemotherapy in addition to the initiation of antiretroviral therapy (ART). However, as paediatric staging and treatment criteria are not readily available, there are no uniform treatment criteria. 
+Objectives
+To describe the efficacy and effectiveness of current treatment options for HIV‐associated KS in ART‐treated paediatric populations. 
+Search methods
+We used standard Cochrane methods to search electronic databases and conference proceedings with relevant search terms without limits to language. 
+Selection criteria
+Randomised controlled trials, cohort studies, and case‐control studies of HIV‐infected infants and children <18 years old treated with ART and diagnosed with KS. 
+Data collection and analysis
+Abstracts of all studies identified by electronic or bibliographic scanning were examined independently by two authors. We initially identified 920 references and examined 15 in detail for study eligibility. Data were abstracted independently using a standardised abstraction form. 
+Main results
+After initially screening 920 titles, 15 full‐text articles were closely examined by two authors. We identified four cohort studies that met our inclusion criteria for data extraction, coding, and potential meta‐analysis. 
+Using the Newcastle‐Ottawa Scale and Cochrane risk of bias assessments, all observational studies had cohorts that were representative of average (treated and untreated) HIV‐infected children with Kaposi sarcoma. For all outcomes of interest, no study adjusted for any other potential confounders. Two of four observational studies either explicitly described complete follow up of the study participants and/or described the characteristics of the participants lost to follow up. 
+The use of ART together with a chemotherapeutic regimen versus ART alone appears to increase the likelihood of KS remission in HIV‐infected children diagnosed with KS, although data are sparse and not adequately adjusted for staging of disease and comorbidities. Additionally, though data are sparse, the use of ART together with a chemotherapeutic regimen versus chemotherapy alone in some analyses appears to increase the likelihood of KS remission and reduce the risk of death in HIV‐infected children diagnosed with KS. 
+In this analysis, we found that the quality of evidence was very low due to small sample sizes and a paucity of paediatric literature. 
+Authors' conclusions
+Data describing the efficacy of different treatment options for pediatric KS, to include chemotherapy and ART, are sparse. However, the use of ART together with a chemotherapy regimen may be superior to the use of ART alone or of chemotherapy alone. 

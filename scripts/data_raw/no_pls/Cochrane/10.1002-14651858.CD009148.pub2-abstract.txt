@@ -1,0 +1,15 @@
+Background
+Clinical observations indicate that mothers commonly perceive a reduction in, or absence of, the baby's movements for some days preceding a baby's death. For this reason, fetal movement monitoring is advised by caregivers and used spontaneously by mothers to assess the baby's well‐being. However, it is possible that the harmful effects of interventions may outweigh the benefits of such testing. Evidence of effectiveness of fetal movement screening to improve outcomes is limited, though indirect evidence suggests a potential benefit. A secondary question is whether any specific management response to perceived decreased fetal movements (DFM) improves clinical outcome. 
+Objectives
+To determine, from the best available evidence, the effectiveness of various management strategies for DFM. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (28 February 2012) and bibliographies of included studies. 
+Selection criteria
+Randomised clinical trials comparing various management strategies for DFM, including delivery, expectant management, cardiotocography (visual and computerised), ultrasound examination including Doppler ultrasound, and fetal arousal tests (cardiotocographic or clinical). 
+Data collection and analysis
+Two assessors evaluated potentially eligible trials for inclusion, and extracted data onto a purpose‐designed form. Where DFM was one among a number of inclusion criteria for the trial, we contacted trial authors for information on outcomes specific to the DFM subgroups. 
+Main results
+No randomised trials of management of DFM were found. Of 13 randomised trials of management strategies for pregnancies with risk factors for fetal compromise including DFM, data on the DFM subgroups could only be provided by the authors of one trial. The numbers were too small for meaningful analysis (there were 28 cases of DFM). 
+Authors' conclusions
+There are insufficient data from randomised trials to guide practice regarding the management of DFM. Based on the results of other systematic reviews of management strategies for women whose babies are thought to be at risk of compromise for various reasons, the following strategies show promise and may be prioritised for further research: Doppler ultrasound studies, computerised cardiotocography, and fetal arousal to facilitate cardiotocography. 
+For settings where electronic fetal assessment methods are not available, clinical fetal arousal tests should be investigated. 

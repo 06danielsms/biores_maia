@@ -1,0 +1,15 @@
+Background
+Osteoarthritis (OA) is the most common form of arthritis of the temporomandibular joint (TMJ), and can often lead to severe pain in the orofacial region. Management options for TMJ OA include reassurance, occlusal appliances, physical therapy, medication in addition to several surgical modalities. 
+Objectives
+To investigate the effects of different surgical and non‐surgical therapeutic options for the management of TMJ OA in adult patients. 
+Search methods
+We searched the following databases: Cochrane Oral Health's Trials Register (to 26 September 2011); CENTRAL (The Cochrane Library 2011, Issue 3); MEDLINE via Ovid (1950 to 26 September 2011); Embase via Ovid (1980 to 26 September 2011); and PEDro (1929 to 26 September 2011). There were no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing any form of non‐surgical or surgical therapy for TMJ OA in adults over the age of 18 with clinical and/or radiological diagnosis of TMJ OA according to the Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) guideline or compatible criteria. 
+Primary outcomes considered were pain/tenderness/discomfort in the TMJs or jaw muscles, self assessed range of mandibular movement and TMJ sounds. Secondary outcomes included the measurement of quality of life or patient satisfaction evaluated with a validated questionnaire, morphological changes of the TMJs assessed by imaging, TMJ sounds assessed by auscultation and any adverse effects. 
+Data collection and analysis
+Two review authors screened and extracted information and data from, and independently assessed the risk of bias in the included trials. 
+Main results
+Although three RCTs were included in this review, pooling of data in a meta‐analysis was not possible due to wide clinical diversity between the studies. The reports indicate a not dissimilar degree of effectiveness with intra‐articular injections consisting of either sodium hyaluronate or corticosteroid preparations, and an equivalent pain reduction with diclofenac sodium as compared with occlusal splints. Glucosamine appeared to be just as effective as ibuprofen for the management of TMJ OA. 
+Authors' conclusions
+In view of the paucity of high level evidence for the effectiveness of interventions for the management of TMJ OA, small parallel group RCTs which include participants with a clear diagnosis of TMJ OA should be encouraged and especially studies evaluating some of the possible surgical interventions. 

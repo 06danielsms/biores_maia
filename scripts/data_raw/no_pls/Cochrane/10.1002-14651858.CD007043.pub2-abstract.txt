@@ -1,0 +1,15 @@
+Background
+Highly effective contraception is essential to reduce unintended pregnancies and the effect these have on individuals, society and public health resources. Intrauterine devices (IUDs) and depot progestogens are two commonly used long‐acting, reversible contraceptive methods with different risk and benefit profiles. 
+Objectives
+To compare the contraceptive and non‐contraceptive benefits and risks of using the copper‐containing IUD versus depot progestogens for contraception. 
+Search methods
+In June 2009 we searched the Cochrane Pregnancy and Childbirth Group Trials Register, the Cochrane Central Register of Controlled Trials, Pubmed, Popline, Clinical Trials.gov, the Current Controlled Trials metaRegister, EMBASE and LILACS, and contacted study authors. 
+Selection criteria
+Randomized trials comparing women using copper‐containing IUDs with women using depot progestogens. 
+Data collection and analysis
+We assessed eligibility and trial quality, extracted and double‐entered data.
+Main results
+Two studies were included in the review. In the one study in HIV infected women, the IUD was compared with depot progestogen or the oral contraceptive, according to the women's choice. As the majority of women chose depot progestogen, we have included this study in the review, within a mixed hormonal contraception sub‐group. 
+Overall, the copper IUD was more effective than depot progestogens/hormonal contraception at preventing pregnancy (risk ratio (RR) 0.47; 95% confidence interval (CI) 0.26 to 0.85). HIV disease progression was reduced in the IUD group (RR 0.66; 95% CI 0.46 to 0.96). There was no significant difference in pelvic inflammatory disease rates between the two groups. Discontinuation of the allocated method was less frequent with the IUD in one study, and less frequent with hormonal contraception in the other study (in which women were allowed to switch between various hormonal methods). 
+Authors' conclusions
+In the populations studied, the IUD was more effective than hormonal contraception with respect to pregnancy prevention. High quality research is urgently needed to compare the effects, if any, of these two commonly used contraception methods on HIV acquisition/seroconversion and HIV/AIDS disease progression. 

@@ -1,0 +1,15 @@
+Background
+The rate of operative deliveries (both caesarean sections, vacuum extractions and forceps), continues to rise throughout the world. These are associated with significant maternal and neonatal morbidity. The most common reasons for operative births in nulliparous women are labour dystocia (failure to progress), and non‐reassuring fetal status. Epidural analgesia has been shown to slow the progress of labour, as well as increase the rate of instrumental deliveries. However, it is unclear whether the use of oxytocin in women with epidural analgesia results in a reduction in operative deliveries, and thereby reduces both maternal and fetal morbidity. 
+Objectives
+To determine whether augmentation of women using epidural analgesia with oxytocin will decrease the incidence of operative deliveries and thereby reduce fetal and maternal morbidity. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 June 2013). 
+Selection criteria
+All published and unpublished randomised and quasi‐randomised trials that compared augmentation with oxytocin of women in spontaneous labour with epidural analgesia versus intent to manage expectantly were included. Cluster‐randomised trials were eligible for inclusion but none were identified. 
+Cross‐over study designs were unlikely to be relevant for this intervention, and we planned to exclude them if any were identified. We did not include results that were only available in published abstracts. 
+Data collection and analysis
+The two review authors independently assessed for inclusion the 16 studies identified as a result of the search strategy. Both review authors independently assessed the risk of bias for each included study. Both review authors independently extracted data. Data were checked for accuracy. 
+Main results
+We included two studies, involving 319 women. There was no statistically significant difference between the two groups in either of the primary outcomes of caesarean section (risk ratio (RR) 0.95, 95% confidence interval (CI) 0.42 to 2.12) or instrumental delivery (RR 0.88, 95% CI 0.72 to 1.08). Similarly, there were no statistically significant differences between the two groups in any of the secondary outcomes for which data were available. This included Apgar score less than seven at five minutes (RR 3.06, 0.13 to 73.33), admission to neonatal intensive care unit (RR 1.07, 95% CI 0.29 to 3.93), uterine hyperstimulation (RR 1.32, 95% CI 0.97 to 1.80) and postpartum haemorrhage (RR 0.96, 95% CI 0.58, 1.59). 
+Authors' conclusions
+There was no statistically significant difference identified between women in spontaneous labour with epidural analgesia who were augmented with oxytocin, compared with those who received placebo. However, due to the limited number of women included in the studies, further research in the form of randomised controlled trials are required. 

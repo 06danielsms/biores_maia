@@ -1,0 +1,14 @@
+Methods of emergency contraception
+Review question 
+The aim of this Cochrane Review was to evaluate the effectiveness and safety of different methods of emergency contraception to prevent pregnancy following unprotected intercourse. 
+Background 
+Emergency contraception (EC) is using a drug or copper intrauterine device (Cu‐IUD) to prevent pregnancy shortly after unprotected intercourse. Several interventions are available for EC. Information on the comparative effectiveness, safety and convenience of these methods is crucial for reproductive healthcare providers and the women they serve. Researchers in Cochrane collected and analyzed all relevant studies to answer this question. 
+Study characteristics 
+We searched 10 English‐language and three Chinese‐language databases for published studies in any language, in February 2017. We also searched grey literature databases and websites and contacted experts and authors for eligible studies. Studies had to report information on interventions to prevent pregnancy after a single act of unprotected intercourse. We included 115 randomized controlled trials with 60,479 women in this review. Ninety‐two trials were conducted in China. The evidence is up‐to‐date to February 2017. 
+Key results 
+The studies compared 25 different interventions of different types of emergency contraception. The studies showed the following. 
+Levonorgestrel and mifepristone were more effective than Yuzpe regimen (estradiol‐levonorgestrel combination). Our findings suggest that if 29 women per 1000 become pregnant with Yuzpe, between 11 and 24 women per 1000 will do so with the levonorgestrel, and that if 25 women per 1000 become pregnant with Yuzpe, between one and 10 women per 1000 will do so with mifepristone. 
+Mid‐dose mifepristone (25 mg to 50 mg) was probably more effective than levonorgestrel. Low‐dose mifepristone (less than 25 mg) was probably less effective than mid‐dose mifepristone, but both were more effective than levonorgestrel (two doses of 0.75 mg). Ulipristal acetate (UPA) was also more effective than levonorgestrel. 
+Levonorgestrel users had fewer side effects than Yuzpe users, and might be more likely to resume menstruation before the expected date. UPA users were probably more likely to resume menstruation after the expected date. Menstrual delay was probably the main adverse effect of mifepristone and seemed to be dose‐related. Cu‐IUD may be associated with higher risks of abdominal pain than mifepristone. 
+Quality of the evidence 
+The quality of the evidence for the primary outcome (observed number of pregnancies) ranged from moderate to high, and for other outcomes ranged from very low to high. The main limitations were risk of bias (associated with poor reporting of methods), imprecision and inconsistency. 

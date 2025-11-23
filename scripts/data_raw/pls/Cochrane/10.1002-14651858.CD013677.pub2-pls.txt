@@ -1,0 +1,11 @@
+Should we perform posterior reconstruction RALP or standard RALP for clinically localized prostate cancer? 
+Review question 
+In men with prostate cancer who are having their prostate removed using surgery assisted by a robotic device (called robotic‐assisted laparoscopic prostatectomy, or RALP), how does connecting the tissue behind the urethra (so‐called posterior reconstruction) compare to surgery where these connections are not made (standard RALP)? 
+Background 
+Urologists often use a robot to remove the prostate in men with prostate cancer. After surgery, most men leak urine for some time. This problem is called incontinence and usually improves six to 12 months after surgery in most men. However, it can be very bothersome during this time. 
+Study characteristics 
+We included eight studies in which chance determined whether men had posterior reconstruction RALP or standard RALP. These studies included 1085 men with an average age ranging from 60 to 67 years. The average prostate‐specific antigen (PSA) level in the men was 8.15 ng/mL. Higher levels of PSA may indicate worse prostate cancer. 
+Key results 
+We found that posterior reconstruction RALP may result in better continence one week after the catheter comes out compared to standard RALP (although it is also possible that it is no better), but it may make little to no difference at either three or 12 months after surgery. Posterior reconstruction RALP probably results in little to no difference in serious unwanted effects compared with the standard way of doing the surgery. There may also be little to no difference in positive surgical margins, meaning the risk of there being cancer cells right at the cut edge of the prostate when viewed under the microscope. There may also be no difference between the two techniques in terms of the risk of a PSA level that goes up within 12 months of surgery, which often signals that there is cancer left behind. We are very uncertain how posterior reconstruction RALP effects the ability to achieve an erection, compared to standard RALP. 
+Certainty of the evidence 
+The certainty of the evidence ranged from moderate to very low depending on the outcome, meaning that we have moderate to very little confidence in the results. 

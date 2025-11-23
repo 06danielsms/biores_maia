@@ -1,0 +1,14 @@
+Background
+The treatment of early gastric cancer (EGC) using endoscopy, namely endoscopic mucosal resection (EMR), has been adopted for about 20 years, but the effectiveness and safety of the modality are still controversial. Furthermore, the risk of bias of trials of this technique has not been assessed systematically. 
+Objectives
+The purpose of this review was to compare the effectiveness and safety of endoscopic mucosal resection with gastrectomy for the treatment of early gastric cancer. 
+Search methods
+Searches were conducted on the Cochrane Central Register of Controlled Trials (CENTRAL) which includes the Cochrane Upper Gastrointestinal and Pancreatic Diseases Group (UGPD) Trials Register (The Cochrane Library 2005, Issue 1), MEDLINE (1966 to March 2005), EMBASE (1980 to March 2005), CINAHL (1985 to March 2005) and CBM (Chinese BioMedical Database 1982 to 2002). The searches of CENTRAL, MEDLINE and EMBASE were updated in February 2006, January 2009 and January 2011. Reference lists from trials selected by electronic searching were handsearched to identify further relevant trials. Published abstracts from conference proceedings from the United European Gastroenterology Week (published in Gut) and Digestive Disease Week (published in Gastroenterology) were handsearched. Members of the Cochrane UGPD Group, and experts in the field were contacted and asked to provide details of outstanding clinical trials and any relevant unpublished materials. 
+Selection criteria
+All randomised controlled trials of early gastric cancer patients involving a treatment arm of EMR and a comparison arm of gastrectomy were to be included, but no RCTs were found. 
+Data collection and analysis
+The review authors independently assessed the eligibility of potential trials and extracted the data. 
+Main results
+There were no randomised controlled trials identified for systematic review. Available evidence derived from non‐randomised controlled trials is discussed in the main text of this review. 
+Authors' conclusions
+There is a lack of randomised controlled trials in which endoscopic mucosal resection (EMR) is compared with gastrectomy for early gastric cancer. There is, therefore, a need for well‐designed randomised controlled trials to determine the effects of EMR compared to gastrectomy. 

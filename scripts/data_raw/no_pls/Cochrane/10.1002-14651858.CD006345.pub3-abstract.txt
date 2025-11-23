@@ -1,0 +1,14 @@
+Background
+Chronic venous insufficiency (CVI) is a common problem, affecting up to 50% of the population in industrialised countries. It is a chronic condition which, if untreated, can progress to serious complications that in turn can interfere with working ability. Standing at work is a known risk factor for CVI, yet the true effect of non‐pharmacological preventive strategies remains unknown. This is an update of a review first published in 2012. 
+Objectives
+To assess the efficacy of non‐pharmacological strategies and devices to prevent CVI in a standing worker population. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched September 2013) and CENTRAL (2013, Issue 8). We also handsearched reference lists of relevant studies. 
+Selection criteria
+Randomised and non‐randomised controlled trials that recruited standing workers to evaluate non‐pharmacological devices or strategies used to prevent CVI were eligible for inclusion. Trials had to report an objective measure of clinical features of CVI or complaints associated with this condition in order to be included. 
+Data collection and analysis
+Selection of the trials, quality assessment and data abstraction were completed independently by two review authors. We resolved disagreements by discussion. Only one trial was eligible for inclusion in the review so we did not perform meta‐analyses. 
+Main results
+The primary outcomes of this review were clinical features of CVI and its associated symptoms. No new included studies were identified for this update. One prospective cross‐over trial was included in this review. It measured the effect of no compression followed by two phases with different gradients of compression stockings on symptoms in 19 female flight attendants who were required to stand, almost continuously, for long periods of time. The included study provided some evidence that compression stockings improved symptoms of leg fatigue in standing workers. However, the strength of the evidence in this review is weak as it is based on only one very small trial which was at high risk of bias. The included study did not address any of the secondary outcomes including quality of life or economic impact of the interventions. Nor did the study report the length of time that the population were required to stand at work. Furthermore, no trials were found which measured the effectiveness of other non‐pharmacological interventions or strategies aimed at preventing CVI in standing workers. 
+Authors' conclusions
+Due to the extremely limited number of trials, there is insufficient evidence to draw any conclusions about the effectiveness of non‐pharmacological interventions for preventing CVI in standing workers. Further large‐scale studies examining all possible non‐pharmacological interventions and outcomes are required. 

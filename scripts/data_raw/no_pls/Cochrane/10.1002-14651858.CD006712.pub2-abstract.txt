@@ -1,0 +1,22 @@
+Background
+First trimester abortions especially cervical dilation and suction aspiration are associated with pain, despite various methods of pain control. 
+Objectives
+Compare different methods of pain control during first trimester surgical abortion.
+Search methods
+We searched multiple electronic databases with the appropriate key words, as well as reference lists of articles, and contacted professionals to seek other trials. 
+Selection criteria
+Randomized controlled trials comparing methods of pain control in first trimester surgical abortion at less than 14 weeks gestational age using electric or manual suction aspiration. Outcomes included intra‐ and postoperative pain, side effects, recovery measures and satisfaction. 
+Data collection and analysis
+Two reviewers independently extracted data. Meta‐analysis results are expressed as weighted mean difference (WMD) or Peto Odds ratio with 95% confidence interval (CI). 
+Main results
+We included forty studies with 5131 participants. Due to heterogeneity we divided studies into 7 groups: 
+Local anesthesia: Data was insufficient to show a clear benefit of a paracervical block (PCB) compared to no PCB or a PCB with bacteriostatic saline. Pain scores during dilation and aspiration were improved with deep injection (WMD ‐1.64 95% CI ‐3.21 to ‐0.08; WMD 1.00 95% CI 1.09 to 0.91), and with adding a 4% intrauterine lidocaine infusion (WMD ‐2.0 95% CI ‐3.29 to ‐0.71, WMD ‐2.8 95% CI ‐3.95 to ‐1.65 with dilation and aspiration respectively). 
+PCB with premedication: Ibuprofen and naproxen resulted in small reduction of intra‐ and post‐operative pain. 
+Analgesia: Diclofenac‐sodium did not reduce pain. 
+Conscious sedation: The addition of conscious intravenous sedation using diazepam and fentanyl to PCB decreased procedural pain. 
+General anesthesia (GA): Conscious sedation increased intraoperative but decreased postoperative pain compared to GA (Peto OR 14.77 95% CI 4.91 to 44.38, and Peto OR 7.47 95% CI 2.2 to 25.36 for dilation and aspiration respectively, and WMD 1.00 95% CI 1.77 to 0.23 postoperatively). Inhalation anesthetics are associated with increased blood loss (p<0.001). 
+GA with premedication: The COX 2 inhibitor etoricoxib, the non‐selective COX inhibitors lornoxicam, diclofenac and ketorolac IM, and the opioid nalbuphine were improved postoperative pain. 
+Non‐pharmacological intervention: Listening to music decreased procedural pain. 
+No major complication was observed.
+Authors' conclusions
+Conscious sedation, GA and some non‐pharmacological interventions decreased procedural and postoperative pain, while being safe and satisfactory to patients. Data on the widely used PCB is inadequate to support its use, and it needs to be further studied to determine any benefit. 

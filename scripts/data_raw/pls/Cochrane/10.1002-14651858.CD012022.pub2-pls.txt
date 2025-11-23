@@ -1,0 +1,17 @@
+How well do tools predict what happens with adults with newly‐diagnosed chronic lymphocytic leukaemia (CLL) over time? 
+What was the aim of this review? 
+There are many types of blood cancers called leukaemia. Chronic lymphocytic leukaemia (CLL) is the most common type. Twenty‐five per cent of people who have leukaemia have CLL. It is natural for people with newly‐diagnosed CLL and their families to want to know what will happen with their health in the future. They may be wondering if or when they will need treatment, if or when their disease will get worse or how long people live with CLL. 
+Researchers identified several characteristics that are associated with these outcomes. From these characteristics, they have tried to design tools that help predict what may happen to groups of people with newly‐diagnosed CLL. 
+The aim of this Cochrane Review is to evaluate and summarise those tools and studies that test the tools with other patient data. 
+What are the key messages from this review? 
+Reviewers found that there is no reliable way to predict what might happen over time to people who have (untreated) CLL. One reason is because the prediction tools have not been tested enough times with enough different people to know how well they really work. 
+Another reason is because researchers continue to develop more effective CLL treatment options that have better results, and the prediction tools have not kept up with advances in treatment. 
+What are the main results of the review?  
+We identified 52 tools that were designed to predict what may happen to people newly‐diagnosed with CLL. To find the best tools, we had to select the studies carefully. To apply these tools in clinical practice: 
+‐ a tool has to be tested by different researchers to predict what may happen with individuals with CLL in different geographic locations using different groups of people (i.e. age, gender, stage) with CLL. In other words, we would not include a tool if it was only tested on the people who provided their data to create it; 
+‐ the results of the tool should be consistent to prove that it works;
+‐ the tests of the tool have to provide enough information to show how well the tool works. For example, the tests have to include large groups of people and enough information about the type of CLL they have. 
+We found three tools that met these requirements: the CLL International Prognostic Index (CLL‐IPI), the Barcelona‐Brno score, and the MDACC 2007 index score. 
+The CLL‐IPI did the best job at identifying people who would survive longer with CLL and people who would survive less long. However, we rated the quality of the CLL‐IPI studies as low because they did not provide all the information necessary to know how accurate the tool was. The Barcelona‐Brno score and the MDACC 2007 index score, tested on a smaller overall number of patients, showed lower discrimination between persons with a good as compared to a worse prognosis, and showed a similarly low quality of the studies. 
+Conclusion 
+More and better research is needed to develop and test the tools to help predict how CLL will behave for different groups of people over time. The tools must also adapt to accurately predict the performance of new treatments. 

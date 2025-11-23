@@ -1,0 +1,18 @@
+Background
+Sickle cell disease encompasses a group of genetic disorders characterized by the presence of at least one hemoglobin S (Hb S) allele, and a second abnormal allele that could allow abnormal haemoglobin polymerisation leading to a symptomatic disorder. 
+Autosomal recessive disorders (such as sickle cell disease) are good candidates for gene therapy because a normal phenotype can be restored in diseased cells with only a single normal copy of the mutant gene. This is an update of a previously published Cochrane Review. 
+Objectives
+The objectives of this review are:
+‐ to determine whether gene therapy can improve survival and prevent symptoms and complications associated with sickle cell disease; 
+‐ to examine the risks of gene therapy against the potential long‐term gain for people with sickle cell disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register, which comprises of references identified from comprehensive electronic database searches and searching relevant journals and abstract books of conference proceedings. We also searched online trial registries, 
+Date of the most recent search of the Group's Haemoglobinopathies Trials Register: 21 September 2020. 
+Selection criteria
+All randomised or quasi‐randomised clinical trials (including any relevant phase 1, 2 or 3 trials) of gene therapy for all individuals with sickle cell disease, regardless of age or setting. 
+Data collection and analysis
+No trials of gene therapy for sickle cell disease were found.
+Main results
+No trials of gene therapy for sickle cell disease were reported.
+Authors' conclusions
+No randomised or quasi‐randomised clinical trials of gene therapy for sickle cell disease were reported. Thus, no objective conclusions or recommendations in practice can be made on gene therapy for sickle cell disease. This systematic review has identified the need for well‐designed, randomised controlled trials to assess the benefits and risks of gene therapy for sickle cell disease. 

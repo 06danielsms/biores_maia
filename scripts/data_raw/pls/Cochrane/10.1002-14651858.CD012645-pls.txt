@@ -1,0 +1,12 @@
+Blood tests for the diagnosis of pancreatic necrosis (pancreatic destruction due to inflammation of pancreas) 
+Background 
+The pancreas is an organ in the abdomen (tummy) that secretes several digestive enzymes (substances that break down the food that we eat) into the pancreatic ductal system, which empties into the small bowel. The pancreas also contains the islets of Langerhans, which secrete several hormones including insulin (which helps regulate blood sugar). Acute pancreatitis is a sudden inflammation of the pancreas that can lead to destruction of the pancreas (pancreatic necrosis). The treatment of people with pancreatic necrosis differs from that of people without pancreatic necrosis. Blood tests such as C‐reactive protein (CRP), procalcitonin, and lactate dehydrogenase (LDH) may be used to find out whether a person with acute pancreatitis has pancreatic necrosis. This is usually followed by CT scan to confirm that the person has pancreatic necrosis. If the person is found to have pancreatic necrosis, the intensity of care is increased and additional treatments are performed as required. At present it is unclear whether measuring the levels of CRP, procalcitonin, or LDH is useful in identifying pancreatic necrosis. 
+Study characteristics 
+We performed a thorough literature search for studies reporting the accuracy of CRP, procalcitonin, or LDH in identifying pancreatic necrosis. We included studies reported until 20 March 2017. We identified three studies reporting information on 242 people with pancreatitis. The studies included pancreatitis due to all causes. 
+Key results 
+Variations in when the studies carried out the blood tests and what level was considered abnormal meant that we were unable to combine the data to provide the overall results. It was not possible to arrive at any firm conclusions about how accurate the tests are for the following reasons. 
+• The studies included few participants. As a result, there was significant uncertainty in the results. 
+• The studies were of poor methodological quality, which introduced additional uncertainty in the results. 
+• For the results to be trusted, they must be reproduced in another group of participants. Since this was not done, there was uncertainty in the results. 
+Quality of evidence 
+All of the studies were of unclear or low methodological quality, which may result in arriving at false conclusions. 

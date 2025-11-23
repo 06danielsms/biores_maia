@@ -1,0 +1,14 @@
+Background
+Bipolar disorder is a complex psychiatric disorder and is amongst the top thirty causes of worldwide disability. Mood stabilisers are the primary pharmacological intervention, both in the treatment of acute episodes and in prophylaxis. There is, however, mounting evidence that dietary supplementation with omega‐3 fatty acids may be beneficial in psychiatric conditions, particularly those involving disturbances of mood. 
+Objectives
+To review the efficacy of omega‐3 fatty acids as either a monotherapy or an adjunctive treatment for bipolar disorder. 
+Search methods
+Electronic searches of the following databases were performed: CCDANCTR‐Studies and CCDANCTR‐References were searched on 12/2/2008, Supplementary searches were carried out on Biological Abstracts, CINAHL, The Cochrane Library, CCDAN Register, EMBASE, MEDLINE, and PsycINFO. The search strategy also included cited reference searching, personal contact with all authors of studies initially included and contact with the omega‐3 producing pharmaceutical companies. 
+Selection criteria
+All relevant randomised controlled trials were included in the review. Studies involving males and females of all ages with a diagnosis of bipolar disorder qualified for inclusion. Studies using any type or dose of omega‐3 fatty acid treatment as monotherapy or in addition to standard pharmacotherapy were eligible. The primary outcome was symptom severity; and secondary outcomes were adverse effects, dropout and satisfaction with treatment. 
+Data collection and analysis
+Two review authors independently inspected the citations identified from the search. Potentially relevant abstracts were identified and full papers ordered and reassessed for inclusion and methodological quality. All relevant data were extracted. The weighted mean difference (WMD) was used for continuous outcome data, with 95% confidence intervals (CI). 
+Main results
+Five studies met inclusion criteria for the review, however, methodological quality was highly variable. Only one study, involving 75 participants, provided data for analysis, and showed a benefit of active treatment over control for depression symptom levels (WMD ‐3.93, 95% CI ‐7.00 to ‐0.86)and Clinical Global Impression scores (WMD ‐0.75, 95% CI ‐1.33 to ‐0.17) but not for mania (WMD ‐2.81, 95% CI ‐7.68 to 1.90). No serious adverse effects were reported in the five studies. The pattern of dropout was highly variable between studies. 
+Authors' conclusions
+Results from one study showed positive effects of omega‐3 as an adjunctive treatment for depressive but not manic symptoms in bipolar disorder. These findings must be regarded with caution owing to the limited data available. There is an acute need for well‐designed and executed randomised controlled trials in this field. 

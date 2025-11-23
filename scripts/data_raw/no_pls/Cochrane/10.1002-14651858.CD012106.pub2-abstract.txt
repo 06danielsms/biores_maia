@@ -1,0 +1,14 @@
+Background
+Sodium‐glucose cotransporter (SGLT) 2 inhibitors were recently approved as glucose‐lowering interventions in people with type 2 diabetes mellitus (T2DM). Potential beneficial or harmful effects of SGLT 2 inhibitors in people at risk for the development of T2DM are unknown. 
+Objectives
+To assess the effects of SGLT 2 inhibitors focusing on the prevention or delay of T2DM and its associated complications in people with impaired glucose tolerance, impaired fasting blood glucose or moderately elevated glycosylated haemoglobin A1c (HbA1c) or any combination of these. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PubMed, EMBASE, ClinicalTrials.gov, the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and reference lists of systematic reviews, articles and health technology assessment reports. We asked investigators of ongoing for information about additional trials. The date of the last search of all databases was January 2016. 
+Selection criteria
+Randomised controlled trials (RCTs) of any duration comparing SGLT 2 inhibitors with any glucose‐lowering intervention, behaviour‐changing intervention, placebo or no intervention in people with impaired fasting glucose, impaired glucose tolerance, moderately elevated HbA1c or combinations of these. 
+Data collection and analysis
+Two review authors read all abstracts, assessed quality and extracted data independently. We resolved discrepancies by consensus or the involvement of a third author. 
+Main results
+We could not include any RCT in this systematic review. One trial was published in two abstracts, but did not provide separate information of the participants with impaired glucose tolerance, impaired fasting glucose or both. We identified two ongoing trials, both evaluating the effects of dapagliflozin (and metformin) in people at risk for the development of type 2 diabetes and a follow‐up of 24 to 26 weeks. Both trials will mainly report on surrogate outcome measures with some data on adverse effects and health‐related quality of life. 
+Authors' conclusions
+Due to lack of data it is not possible to conclude whether SGLT 2 inhibitors prevent or delay the diagnosis of T2DM and its associated complications. 

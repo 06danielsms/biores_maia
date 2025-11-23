@@ -1,0 +1,14 @@
+Background
+The aim of diabetes management is to normalise blood glucose levels, since improved blood glucose control is associated with reduction in development, and progression, of complications. Nutritional factors affect blood glucose levels, however there is currently no universal approach to the optimal dietary treatment for diabetes. There is controversy about how useful the glycaemic index (GI) is in diabetic meal planning. Improved glycaemic control through diet could minimise medications, lessen risk of diabetic complications, improve quality of life and increase life expectancy. 
+Objectives
+To assess the effects of low glycaemic index, or low glycaemic load, diets on glycaemic control in people with diabetes. 
+Search methods
+We performed electronic searches of The Cochrane Library, MEDLINE, EMBASE and CINAHL with no language restriction. 
+Selection criteria
+We assessed randomised controlled trials of four weeks or longer that compared a low glycaemic index, or low glycaemic load, diet with a higher glycaemic index, or load, or other diet for people with either type 1 or 2 diabetes mellitus, whose diabetes was not already optimally controlled. 
+Data collection and analysis
+Two reviewers independently extracted data on study population, intervention and outcomes for each included study, using standardised data extraction forms. 
+Main results
+Eleven relevant randomised controlled trials involving 402 participants were identified. There was a significant decrease in the glycated haemoglobin A1c (HbA1c) parallel group of trials, the weighted mean difference (WMD) was  ‐0.5% with a 95% confidence interval (CI) of ‐ 0.9 to ‐0.1, P = 0.02; and in the cross‐over group of trials the WMD was ‐0.5% with a 95% CI of ‐1.0 to ‐0.1, P = 0.03. Episodes of hypoglycaemia were significantly fewer with low compared to high GI diet in one trial (difference of ‐0.8 episodes per patient per month, P < 0.01), and proportion of participants reporting more than 15 hyperglycaemic episodes per month was lower for low‐GI diet compared to measured carbohydrate exchange diet in another study (35% versus 66%, P = 0.006). No study reported on mortality, morbidity or costs. 
+Authors' conclusions
+A low‐GI diet can improve glycaemic control in diabetes without compromising hypoglycaemic events. 

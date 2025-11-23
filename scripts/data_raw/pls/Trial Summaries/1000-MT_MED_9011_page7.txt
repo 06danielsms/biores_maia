@@ -1,0 +1,54 @@
+Clinical Trial Results
+
+How many participants had medical problems?
+In Part 1 of your study, 14 of the 40 participants (35.0%) had medical problems. The table below shows how many participants in each treatment group had medical problems in Part 1.
+
+How Many Participants had Medical Problems in Part 1?
+Treatment A Treatment B Treatment C Treatment D
+(Out of 40 participants) (Out of 38 participants) (Out of 37 participants) (Out of 36 participants)
+How many participants 5 participants 7 participants 4 participants 5 participants
+had medical problems? (12.5%) (18.4%) (10.8%) (13.9%)
+
+In Part 2 of your study, 13 of the 40 participants (32.5%) had medical problems. The table below shows how many participants in each treatment group had medical problems in Part 2.
+
+How Many Participants had Medical Problems in Part 2?
+Treatment A Treatment B Treatment C Treatment D
+(Out of 39 participants) (Out of 40 participants) (Out of 39 participants) (Out of 39 participants)
+How many participants 4 participants 5 participants 7 participants 4 participants
+had medical problems? (10.3%) (12.5%) (17.9%) (10.3%)
+
+In Part 1, 1 participant out of 40 (2.5%) stopped taking the study drugs because of medical problems. No participants stopped taking the study drugs because of medical problems in Part 2.
+
+How many participants had serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes you lasting problems, or if you need hospital care. No participants had serious medical problems in this study, and no participants died.
+
+What were the most common medical problems in the study?
+The table below shows the most common medical problems that happened to more than 1 participant in Part 1.
+
+What were the most common medical problems in Part 1 of the Study?
+Treatment A Treatment B Treatment C Treatment D
+Medical Problem (Out of 40 participants) (Out of 38 participants) (Out of 37 participants) (Out of 36 participants)
+1 participant 3 participants 0 participants 1 participant
+Headache
+(2.5%) (7.9%) (0.0%) (2.8%)
+0 participants 2 participants 1 participant 1 participant
+Diarrhea
+(0.0%) (5.3%) (2.7%) (2.8%)
+
+The table below shows the most common medical problems that happened to more than 1 participant in Part 2.
+
+What were the most common medical problems in Part 2 of the Study?
+Treatment A Treatment B Treatment C Treatment D
+Medical Problem (Out of 39 participants) (Out of 40 participants) (Out of 39 participants) (Out of 39 participants)
+0 participants 2 participants 3 participants 2 participants
+Diarrhea
+(0.0%) (5.0%) (7.7%) (5.1%)
+2 participants 0 participants 0 participants 1 participant
+Headache
+(5.1%) (0.0%) (0.0%) (2.6%)
+0 participants 0 participants 1 participant 1 participant
+Abdominal pain
+(0.0%) (0.0%) (2.6%) (2.6%)
+0 participants 2 participants 1 participant 0 participants
+Tiredness
+(0.0%) (5.0%) (2.6%) (0.0%)

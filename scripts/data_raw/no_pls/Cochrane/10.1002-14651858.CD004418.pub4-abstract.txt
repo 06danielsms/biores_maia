@@ -1,0 +1,14 @@
+Background
+Community‐acquired pneumonia (CAP) is caused by various pathogens, traditionally divided into 'typical' and 'atypical'. Initial antibiotic treatment of CAP is usually empirical, customarily covering both typical and atypical pathogens. To date, no sufficient evidence exists to support this broad coverage, while limiting coverage is bound to reduce toxicity, resistance and expense. 
+Objectives
+The main objective was to estimate the mortality and proportion with treatment failure using regimens containing atypical antibiotic coverage compared to those that had typical coverage only. Secondary objectives included the assessment of adverse events. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) Issue 3, 2012 which includes the Acute Respiratory Infection Group's Specialized Register, MEDLINE (January 1966 to April week 1, 2012) and EMBASE (January 1980 to April 2012). 
+Selection criteria
+Randomized controlled trials (RCTs) of adult patients hospitalized due to CAP, comparing antibiotic regimens with atypical coverage (quinolones, macrolides, tetracyclines, chloramphenicol, streptogramins or ketolides) to a regimen without atypical antibiotic coverage. 
+Data collection and analysis
+Two review authors independently assessed the risk of bias and extracted data from included trials. We estimated risk ratios (RRs) with 95% confidence intervals (CIs). We assessed heterogeneity using a Chi2 test. 
+Main results
+We included 28 trials, encompassing 5939 randomized patients. The atypical antibiotic was administered as monotherapy in all but three studies. Only one study assessed a beta‐lactam combined with a macrolide compared to the same beta‐lactam. There was no difference in mortality between the atypical arm and the non‐atypical arm (RR 1.14; 95% CI 0.84 to 1.55), RR < 1 favors the atypical arm. The atypical arm showed an insignificant trend toward clinical success and a significant advantage to bacteriological eradication, which disappeared when evaluating methodologically high quality studies alone. Clinical success for the atypical arm was significantly higher for Legionella pneumophilae (L. pneumophilae) and non‐significantly lower for pneumococcal pneumonia. There was no significant difference between the groups in the frequency of (total) adverse events, or those requiring discontinuation of treatment. However, gastrointestinal events were less common in the atypical arm (RR 0.70; 95% CI 0.53 to 0.92). Although the trials assessed different antibiotics, no significant heterogeneity was detected in the analyses. 
+Authors' conclusions
+No benefit of survival or clinical efficacy was shown with empirical atypical coverage in hospitalized patients with CAP. This conclusion relates mostly to the comparison of quinolone monotherapy to beta‐lactams. Further trials, comparing beta‐lactam monotherapy to the same combined with a macrolide, should be performed. 

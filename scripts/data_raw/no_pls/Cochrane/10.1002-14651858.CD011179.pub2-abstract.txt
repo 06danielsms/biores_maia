@@ -1,0 +1,22 @@
+Background
+Invasive urodynamic tests are used to investigate men with lower urinary tract symptoms (LUTS) and voiding dysfunction to determine a definitive objective diagnosis. The aim is to help clinicians select the treatment that is most likely to be successful. These investigations are invasive and time‐consuming. 
+Objectives
+To determine whether performing invasive urodynamic investigation, as opposed to other methods of diagnosis such as non‐invasive urodynamics or clinical history and examination alone, reduces the number of men with continuing symptoms of voiding dysfunction. This goal will be achieved by critically appraising and summarising current evidence from randomised controlled trials related to clinical outcomes and cost‐effectiveness. This review is not intended to consider whether urodynamic tests are reliable for making clinical diagnoses, nor whether one type of urodynamic test is better than another for this purpose. 
+The following comparisons were made.
+• Urodynamics versus clinical management.
+• One type of urodynamics versus another.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2014, issue 10), MEDLINE (1 January 1946 to Week 4 October 2014), MEDLINE In‐Process and other non‐indexed citations (covering 27 November 2014; all searched on 28 November 2014), EMBASE Classic and EMBASE (1 January 2010 to Week 47 2014, searched on 28 November 2014), ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform (WHO ICTRP) (searched on 1 December 2014 and 3 December 2014, respectively), as well as the reference lists of relevant articles. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing clinical outcomes in men who were and were not investigated with the use of invasive urodynamics, or comparing one type of urodynamics against another, were included. Trials were excluded if they did not report clinical outcomes. 
+Data collection and analysis
+Three review authors independently assessed trial quality and extracted data.
+Main results
+We included two trials, but data were available for only 339 men in one trial, of whom 188 underwent invasive urodynamic studies. We found evidence of risk of bias, such as lack of outcome information for 24 men in one arm of the trial. 
+Statistically significant evidence suggests that the tests did change clinical decision making. Men in the invasive urodynamics arm were more likely to have their management changed than men in the control arm (proportion with change in management 24/188 (13%) vs 0/151 (0%), risk ratio (RR) 39.41, 95% confidence interval (CI) 2.42 to 642.74). However, the quality of the evidence was low. 
+Low‐quality evidence indicates that men in the invasive urodynamics group were less likely to undergo surgery as treatment for voiding LUTS (164/188 (87%) vs 151/151 (100%), RR 0.87, 95% CI 0.83 to 0.92). 
+Investigators observed no difference in urine flow rates before and after surgery for LUTS (mean percentage increase in urine flow rate, 140% in invasive urodynamic group vs 149% in immediate surgery group, P value = 0.13). Similarly, they found no differences between groups with regards to International Prostate Symptom Score (IPSS) (mean percentage decrease in IPSS score, 58% in invasive urodynamics group vs 59% in immediate surgery group, P value = 0.22). 
+No evidence was available to demonstrate whether differences in management equated to improved health outcomes, such as relief of symptoms of voiding dysfunction or improved quality of life. 
+No evidence from randomised trials revealed the adverse effects associated with invasive urodynamic studies. 
+Authors' conclusions
+Although invasive urodynamic testing did change clinical decision making, we found no evidence to demonstrate whether this led to reduced symptoms of voiding dysfunction after treatment. Larger definitive trials of better quality are needed, in which men are randomly allocated to management based on invasive urodynamic findings or to management based on findings obtained by other diagnostic means. This research will show whether performance of invasive urodynamics results in reduced symptoms of voiding dysfunction after treatment. 

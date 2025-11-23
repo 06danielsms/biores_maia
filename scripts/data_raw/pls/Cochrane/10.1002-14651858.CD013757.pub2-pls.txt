@@ -1,0 +1,16 @@
+Palivizumab for respiratory syncytial virus infection prevention in children
+Review question 
+What are the effects (benefits and harms) of palivizumab for preventing severe respiratory syncytial virus (RSV) infection in children? 
+Background 
+RSV is the main cause of acute respiratory infections in children, mainly during the first year of life, accounting for 33.1 million infections a year with an estimated 90.6% of these episodes occurring in low‐ and middle‐income countries. These infections may present with a runny nose, fever, cough, shortness of breath, wheezing, or difficulty feeding. They may result in hospitalisation, admission to an intensive care unit, and even death, in particular amongst infants aged less than two months, with an estimated hospitalisation rate of 1970 per 100,000 population and 59,600 deaths annually worldwide in children younger than five years old. They may also lead to long‐term complications such as recurrent wheezing and chronic lung problems.  
+Palivizumab, sold under the brand name Synagis, is a drug administered with an intramuscular injection every month up to five doses to prevent serious infections in children at high risk for severe disease. 
+Search date 
+The evidence is current to 14 October 2021.
+Study characteristics 
+We included five studies with 3343 participants. All studies included a small number of participants, including children with a high risk of adverse outcomes if infected with RSV due to underlying health issues, such as premature birth or heart or pulmonary problems.    
+Study funding sources 
+Most studies did not specify their funding sources. One study was funded by Abbott Laboratories and by the Netherlands Organisation for Health Research and Development.  
+Key results 
+Palivizumab reduces hospitalisation due to RSV infection by 56%; based on 98 cases per 1000 participants in the placebo group, this corresponds to 43 per 1000 participants in the palivizumab group. Palivizumab probably results in little to no difference in mortality, and little to no difference in adverse events; based on 23 deaths per 1000 participants and 84 adverse events per 1000 participants in the placebo group, this corresponds to 16 deaths per 1000 participants and 81  adverse events per 1000 participants in the palivizumab group. Palivizumab probably results in a slight reduction in hospitalisation due to respiratory illness by 22% but may result in little to no difference in length of hospital stay. It may reduce RSV infection rate by 67% at two years’ follow‐up. Palivizumab also reduces the number of wheezing days by 61% but may result in little to no difference in days using oxygen, length of stay in the intensive care unit, or mechanical ventilation days.  
+Certainty of the evidence 
+The overall certainty of the evidence was moderate to high. 

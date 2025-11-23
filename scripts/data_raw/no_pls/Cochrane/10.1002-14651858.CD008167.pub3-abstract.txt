@@ -1,0 +1,14 @@
+Background
+Potassium‐sparing diuretics, which block the epithelial sodium channel (ENaC), are widely prescribed for hypertension as a second‐line drug in patients taking other diuretics (e.g. thiazide diuretics) and much less commonly prescribed as monotherapy. Therefore, it is essential to determine the effects of ENaC blockers on blood pressure (BP), heart rate and withdrawals due to adverse effects (WDAEs) when given as a first‐line or second‐line therapy. 
+Objectives
+To quantify the dose‐related reduction in systolic blood pressure (SBP) and diastolic blood pressure (DBP) of ENaC blocker therapy as a first‐line or second‐line drug in patients with primary hypertension. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2012), MEDLINE (1950 to August 2012), EMBASE (1980 to August 2012) and reference lists of articles. 
+Selection criteria
+Double‐blind, randomized, controlled trials in patients with primary hypertension that evaluate, for a duration of 3 to 12 weeks, the BP lowering efficacy of: 1) fixed‐dose monotherapy with an ENaC blocker compared with placebo; or 2) an ENaC blocker in combination with another class of anti‐hypertensive drugs compared with the respective monotherapy (without an ENaC blocker). 
+Data collection and analysis
+Two authors independently assessed the risk of bias and extracted data. Study authors were contacted for additional information. WDAE information was also collected from the trials. 
+Main results
+No trials evaluating the BP lowering efficacy of ENaC blockers as monotherapy in patients with primary hypertension were identified. Only 6 trials evaluated the BP lowering efficacy of low doses of amiloride and triamterene as a second drug in 496 participants with a baseline BP of 151/102 mm Hg. The additional BP reduction caused by the ENaC blocker as a second drug was estimated by comparing the difference in BP reduction between the combination and monotherapy groups. The addition of low doses of amiloride and triamterene in these trials did not reduce BP. An estimate of the dose‐related BP lowering efficacy for ENaC blockers was not possible because of a lack of trial data at higher doses. 
+Authors' conclusions
+ENaC blockers do not have a statistically or clinically significant BP lowering effect at low doses but trials at higher doses are not available. The review did not provide a good estimate of the incidence of harms associated with ENaC blockers. 

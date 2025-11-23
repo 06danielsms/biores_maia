@@ -1,0 +1,37 @@
+Background
+The widespread use of mobile technologies can potentially expand the use of telemedicine approaches to facilitate communication between healthcare providers, this might increase access to specialist advice and improve patient health outcomes. 
+Objectives
+To assess the effects of mobile technologies versus usual care for supporting communication and consultations between healthcare providers on healthcare providers' performance, acceptability and satisfaction, healthcare use, patient health outcomes, acceptability and satisfaction, costs, and technical difficulties. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and three other databases from 1 January 2000 to 22 July 2019. We searched clinical trials registries, checked references of relevant systematic reviews and included studies, and contacted topic experts. 
+Selection criteria
+Randomised trials comparing mobile technologies to support healthcare provider to healthcare provider communication and consultations compared with usual care. 
+Data collection and analysis
+We followed standard methodological procedures expected by Cochrane and EPOC. We used the GRADE approach to assess the certainty of the evidence. 
+Main results
+We included 19 trials (5766 participants when reported), most were conducted in high‐income countries. The most frequently used mobile technology was a mobile phone, often accompanied by training if it was used to transfer digital images. Trials recruited participants with different conditions, and interventions varied in delivery, components, and frequency of contact. We judged most trials to have high risk of performance bias, and approximately half had a high risk of detection, attrition, and reporting biases. Two studies reported data on technical problems, reporting few difficulties. 
+Mobile technologies used by primary care providers to consult with hospital specialists 
+We assessed the certainty of evidence for this group of trials as moderate to low.
+Mobile technologies:
+‐ probably make little or no difference to primary care providers following guidelines for people with chronic kidney disease (CKD; 1 trial, 47 general practices, 3004 participants); 
+‐ probably reduce the time between presentation and management of individuals with skin conditions, people with symptoms requiring an ultrasound, or being referred for an appointment with a specialist after attending primary care (4 trials, 656 participants); 
+‐ may reduce referrals and clinic visits among people with some skin conditions, and increase the likelihood of receiving retinopathy screening among people with diabetes, or an ultrasound in those referred with symptoms (9 trials, 4810 participants when reported); 
+‐ probably make little or no difference to patient‐reported quality of life and health‐related quality of life (2 trials, 622 participants) or to clinician‐assessed clinical recovery (2 trials, 769 participants) among individuals with skin conditions; 
+‐ may make little or no difference to healthcare provider (2 trials, 378 participants) or participant acceptability and satisfaction (4 trials, 972 participants) when primary care providers consult with dermatologists; 
+‐ may make little or no difference for total or expected costs per participant for adults with some skin conditions or CKD (6 trials, 5423 participants). 
+Mobile technologies used by emergency physicians to consult with hospital specialists about people attending the emergency department 
+We assessed the certainty of evidence for this group of trials as moderate.
+Mobile technologies:
+‐ probably slightly reduce the consultation time between emergency physicians and hospital specialists (median difference −12 minutes, 95% CI −19 to −7; 1 trial, 345 participants); 
+‐ probably reduce participants’ length of stay in the emergency department by a few minutes (median difference −30 minutes, 95% CI −37 to −25; 1 trial, 345 participants). 
+We did not identify trials that reported on providers' adherence, participants’ health status and well‐being, healthcare provider and participant acceptability and satisfaction, or costs. 
+Mobile technologies used by community health workers or home‐care workers to consult with clinic staff 
+We assessed the certainty of evidence for this group of trials as moderate to low.
+Mobile technologies:
+‐ probably make little or no difference in the number of outpatient clinic and community nurse consultations for participants with diabetes or older individuals treated with home enteral nutrition (2 trials, 370 participants) or hospitalisation of older individuals treated with home enteral nutrition (1 trial, 188 participants); 
+‐ may lead to little or no difference in mortality among people living with HIV (RR 0.82, 95% CI 0.55 to 1.22) or diabetes (RR 0.94, 95% CI 0.28 to 3.12) (2 trials, 1152 participants); 
+‐ may make little or no difference to participants' disease activity or health‐related quality of life in participants with rheumatoid arthritis (1 trial, 85 participants); 
+‐ probably make little or no difference for participant acceptability and satisfaction for participants with diabetes and participants with rheumatoid arthritis (2 trials, 178 participants). 
+We did not identify any trials that reported on providers' adherence, time between presentation and management, healthcare provider acceptability and satisfaction, or costs. 
+Authors' conclusions
+Our confidence in the effect estimates is limited. Interventions including a mobile technology component to support healthcare provider to healthcare provider communication and management of care may reduce the time between presentation and management of the health condition when primary care providers or emergency physicians use them to consult with specialists, and may increase the likelihood of receiving a clinical examination among participants with diabetes and those who required an ultrasound. They may decrease the number of people attending primary care who are referred to secondary or tertiary care in some conditions, such as some skin conditions and CKD. There was little evidence of effects on participants' health status and well‐being, satisfaction, or costs. 

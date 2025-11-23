@@ -1,0 +1,14 @@
+Background
+Patent ductus arteriosus (PDA) is associated with increased mortality and morbidity in preterm infants. Prophylactic indomethacin results in the reduction in significant PDA, need for surgical ligation, severe intraventricular hemorrhage and serious pulmonary hemorrhage without modifying long‐term neurosensory outcomes. Little is known about the effectiveness and safety of prophylactic surgical closure of the PDA in extremely low birth weight (ELBW) infants. 
+Objectives
+To determine the effect of prophylactic surgical ligation of the PDA on mortality and morbidities of preterm infants less than 1000 g at birth as compared to no prophylaxis or prophylaxis with cyclooxygenase inhibitors. 
+Search methods
+We searched MEDLINE (1966 to December 2006), EMBASE (1980 to December 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 4, 2006), and abstracts of annual meetings of the Society for Pediatric Research (1995 to 2006).  This search was updated in March 2010. 
+Selection criteria
+Randomized or quazi‐randomised controlled trials that enrolled infants ≤ 28 weeks gestation or ≤ 1000 g at birth who were on assisted ventilation and/or supplemental oxygen without clinical signs of hemodynamic significant PDA were considered. Trials addressing prophylactic surgical ligation of the PDA (i.e. procedure done during the first 72 hours of life) versus no intervention or cyclooxygenase inhibitor prophylaxis were included. 
+Data collection and analysis
+We used the standard methods of the Cochrane Neonatal Review Group. For dichotomous outcomes, relative risk (RR) and its associated confidence interval were calculated. For continuous outcomes, treatment effect was expressed as mean difference and its calculated standard deviation. 
+Main results
+Only one eligible study that enrolled 84 ELBW infants was identified. Prophylactic surgical ligation of the PDA resulted in a statistically significant reduction of severe stage II or III necrotizing enterocolitis (NEC) [RR 0.25, 95% CI (0.08,0.83), p value 0.02, NNT 5]. The study found no statistically significant difference in mortality, severe grade III and IV intraventricular hemorrhage (IVH), BPD, and retinopathy of prematurity (ROP). 
+Authors' conclusions
+Prophylactic surgical ligation of the PDA did not decrease mortality or BPD in ELBW infants. A significant reduction of stage II or III NEC was noted. Based on the current evidence, the high rate of spontaneous closure, availability of effective safe medical therapies, and the potential short and long‐term complications of surgical ligation, the use such prophylactic surgical therapy is not indicated in the management of the preterm infants. 

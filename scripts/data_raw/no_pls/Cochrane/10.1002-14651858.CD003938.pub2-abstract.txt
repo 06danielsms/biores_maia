@@ -1,0 +1,14 @@
+Background
+The complexity of HIV/AIDS raises challenges for the effective delivery of care. It is important to ensure that the expertise and experience of care providers is of high quality. Training and experience of HIV/AIDS providers may impact not only individual patient outcomes but increasingly on health care costs as well. 
+Objectives
+The objective of this review is to assess the effects of provider training and experience on people living with HIV/AIDS on the following outcomes: immunological (ie. viral load, CD4 count), medical (ie. mortality, proportion on antiretrovirals), psychosocial (ie. quality of life measures) and economic outcomes (ie health care costs). 
+Search methods
+We searched MEDLINE, EMBASE, Dissertation Abstracts International (DAI), CINAHL, HealthStar, PsycInfo, PsycLit, Social Sciences Abstracts, and Sociological Abstracts from January 1, 1980 through May 29, 2009.  Electronic searches were performed for abstracts from major international AIDS conferences. Reference lists from pertinent articles, books and review articles were retrieved and reviewed. 
+Selection criteria
+Randomized controlled trials (RCTs), controlled clinical trials, cohort, case control, cross‐sectional studies and controlled before and after designs that examined the qualifications/training and patient volume of HIV/AIDS care of providers caring for persons known to be infected with HIV/AIDS were included. 
+Data collection and analysis
+At least two authors independently assessed trial quality and extracted data. Study authors were contacted for further information as required. Assessment of confounding factors was undertaken independently by two reviewers. 
+Main results
+A total of four studies (one randomized controlled trial, three non‐ randomized studies) involving 8488 people living with HIV/AIDS were included. The main findings of this review demonstrated a trend to improved outcomes when treated by a provider with more training/expertise in HIV/AIDS care in the outpatient (clinic) setting. Due to the heterogeneity of the included studies, we could not perform a meta‐analysis. We present a descriptive review of the results. 
+Authors' conclusions
+The results demonstrate improved medical outcomes when treated by a provider with more training/expertise in HIV/AIDS care in the outpatient (clinic) setting. Since all of these studies were conducted in North America, this does not address any issues regarding the level of training/expertise required by providers working in countries with more limited resources. Practitioners who do not consider themselves 'experts' in HIV/AIDS care and care for few of these patients need to seriously consider this review which demonstrates a trend towards worse patient outcomes when receiving care by those with low caseloads/training in HIV/AIDS care. 

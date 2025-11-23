@@ -1,0 +1,15 @@
+Background
+Sickle cell disease is a genetic disorder involving a defect in the red blood cells due to its sickled hemoglobin. The main therapeutic interventions include preventive and supportive measures. Hematopoietic stem cell transplantations are carried out with the aim of replacing the defective cells and their progenitors (hematopoietic (i.e. blood forming) stem cells) in order to correct the disorder. This is an update of a previously published review. 
+Objectives
+To determine whether stem cell transplantation can improve survival and prevent symptoms and complications associated with sickle cell disease. To examine the risks of stem cell transplantation against the potential long‐term gain for people with sickle cell disease. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Group's Haemoglobinopathies Trials Register complied from electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (updated each new issue of the Cochrane Library) and quarterly searches of MEDLINE. We also searched trial registries for ongoing trials up to April 2020. 
+Date of the most recent search of the Group's Haemoglobinopathies Trials Register: 09 December 2019. 
+Selection criteria
+Randomized controlled and quasi‐randomized trials that compared any method of stem cell transplantation with either each other or with any of the preventive or supportive interventions (e.g. periodic blood transfusion, use of hydroxyurea, antibiotics, pain relievers, supplemental oxygen) in people with sickle cell disease irrespective of the type of sickle cell disease, gender and setting. 
+Data collection and analysis
+No trials were eligible for inclusion in the review.
+Main results
+We identified 12 potentially‐eligible trials by the searches; we excluded 11 of these and the remaining trial is an ongoing trial that may be eligible for inclusion in a future version of the review. 
+Authors' conclusions
+Reports on the use of hematopoietic stem cell transplantation improving survival and preventing symptoms and complications associated with sickle cell disease are currently limited to observational and other less robust studies. We did not find any eligible randomized controlled trials assessing the benefit or risk of hematopoietic stem cell transplantations. However, there is an ongoing quasi‐randomized trial comparing hematopoietic stem cell transplantation with standard care, Thus, this systematic review identifies the need for a multicentre randomized controlled trial assessing the benefits and possible risks of hematopoietic stem cell transplantations comparing sickle status and severity of disease in people with sickle cell disease. 

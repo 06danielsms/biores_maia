@@ -1,0 +1,20 @@
+Dornase alfa, an inhaled drug, for treating lung disease in cystic fibrosis
+Review question 
+We reviewed the evidence about the effect of using inhaled dornase alfa for treating lung disease in people with cystic fibrosis. 
+Background 
+Cystic fibrosis is an inherited condition which affects the movement of salt across cells in the body and affects, for example, the sweat glands, airways, pancreas and male reproductive system. Lung disease is the most common cause of death in people with cystic fibrosis and although the average life expectancy has increased over the last 30 years, it is still only 48.5 years in high‐income countries. People with cystic fibrosis develop chronic lung disease because of thick mucus that builds up in the lungs which causes infections and inflammation. Dornase alfa was developed to thin out this mucus, so it is easier for people to cough it up from their lungs; this in turn should decrease the number of infections and amount of inflammation and prevent chronic lung disease. 
+Search date 
+The evidence is current to: 12 October 2020.
+Study characteristics 
+We included 19 trials with 2565 people with cystic fibrosis; 15 trials (2447 people) compared dornase alfa to placebo (a dummy treatment with no active medication) or no dornase alfa treatment; two trials (32 people) compared daily dornase to hypertonic saline; one trial (48 people) compared daily dornase alfa with hypertonic saline and alternate day dornase alfa; and one trial (38 people) compared dornase alfa to mannitol and the combination of both drugs. People from all age groups (infants through to adults) took part in the trials which lasted from six days to three years. 
+Key results 
+Dornase alfa compared to placebo or no treatment 
+We found that dornase alfa probably improves lung function within one month when compared to a placebo or no treatment and this improvement was also seen in longer trials lasting from six months to two years (eight trials; 1708 participants). There were also fewer pulmonary exacerbations (flare up of lung inflammation) in these longer trials. One trial found that the cost savings from dornase alfa offset 18% to 38% of the medication costs. 
+Dornase alfa ‐ daily versus alternate day 
+One trial (43 children) found no differences between treatment schedules for lung function, quality of life or pulmonary exacerbations. 
+Dornase alfa compared to other medications that improve airway clearance 
+The results from trials comparing dornase alfa to hypertonic saline or mannitol were mixed. One trial (43 children) showed a greater improvement in lung function with dornase alfa compared to hypertonic saline and one trial (23 participants) reported no difference in lung function between dornase alfa and mannitol or dornase alfa and dornase alfa plus mannitol. In one trial (23 participants) quality of life scores were better with dornase alfa alone than with dornase alfa plus mannitol; other drug comparisons found no difference between treatments for quality of life. No trials in any comparison of treatments reported any difference between groups in the number of pulmonary exacerbations. 
+Overall, no serious side effects were reported, with only rash and a change in voice seen more frequently in those people taking dornase alfa. However, it is not definitively clear from the current evidence if dornase alfa is better than other medications such as hypertonic saline or mannitol. 
+Quality of the evidence 
+The quality of evidence from the trials comparing dornase alfa to placebo or no treatment was moderate to high for lung function results, but only one trial reported any changes in quality of life so the evidence for this outcome is limited. 
+Also, there were few trials comparing different treatment schedules of dornase alfa (e.g. once a day versus twice a day) or comparing dornase alfa to other medications which help with clearing secretions, so current evidence from these trials is limited and of low quality. 

@@ -1,0 +1,14 @@
+Background
+Atopic keratoconjunctivitis (AKC) and vernal keratoconjunctivitis (VKC) are severe and potentially sight‐threatening allergic eye diseases characterised by chronic inflammation of the ocular surface. Both topical and systemic treatments are used. This Cochrane Review focuses on systemic treatments. 
+Objectives
+To assess the effects of systemic treatments (including corticosteroids, NSAIDS, immunomodulators, and monoclonal antibodies), alone or in combination, compared to placebo or other systemic or topical treatment, for severe AKC and VKC in children and young people up to the age of 16 years. 
+Search methods
+We searched CENTRAL, Ovid MEDLINE, Ovid Embase, the ISRCTN registry, ClinicalTrials.gov and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). There were no restrictions to language or year of publication. We last searched the electronic databases on 17 February 2020. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) that involved systemic treatments in children aged up to 16 years with a clinical diagnosis of AKC or VKC. We planned to include studies that evaluated a single systemic medication versus placebo, and studies that compared two or multiple active treatments. 
+Data collection and analysis
+We used standard methods expected by Cochrane.
+Main results
+No trial met the inclusion criteria of this Cochrane Review. No RCTs have been carried out on this topic. 
+Authors' conclusions
+There is currently no evidence from randomised controlled trials regarding the safety and efficacy of systemic treatments for VKC and AKC. Trials are required to test efficacy and safety of current and future treatments. Outcome measures need to be developed which can capture both objective clinical and patient‐reported aspects of the condition and treatments. 

@@ -1,0 +1,26 @@
+Clinical Study Results
+The doctors also kept track of the "adverse events" that the participants had during the study. An adverse event is any sign or symptom that participants have during a study. Doctors keep track of all of the adverse events that happen in studies, even if they do not think the adverse events might be related to the study treatment. An adverse event is considered "serious" when it is life-threatening, causes lasting problems, or the participant needs hospital care. Adverse events may or may not be caused by the treatments in the study.
+The websites listed at the end of this summary may have more information about the adverse events that happened during this study.
+Serious adverse events
+None of the participants had serious adverse events during the study.
+None of the participants died during the study.
+Adverse events
+There were 31.6% of participants who had adverse events after taking AZD9977 during the study. This was 6 out of 19 participants.
+There were 55.6% of participants who had adverse events after taking the placebo during the study. This was 5 out of 9 participants.
+The table below shows how many participants had adverse events during the study.
+Adverse events during the study
+| AZD9977 (50 mg) | AZD9977 (150 mg) | AZD9977 (300 mg) | Placebo |
+|-----------------|------------------|------------------|---------|
+| 28.6% (2)       | 16.7% (1)        | 50.0% (3)        | 55.6% (5)|
+How many participants had adverse events during the study?
+| AZD9977 (50 mg) | AZD9977 (150 mg) | AZD9977 (300 mg) | Placebo |
+|-----------------|------------------|------------------|---------|
+| 28.6% (2)       | 16.7% (1)        | 50.0% (3)        | 55.6% (5)|
+How many participants had serious adverse events during the study?
+| AZD9977 (50 mg) | AZD9977 (150 mg) | AZD9977 (300 mg) | Placebo |
+|-----------------|------------------|------------------|---------|
+| 0.0% (0)        | 0.0% (0)         | 0.0% (0)         | 0.0% (0)|
+How many participants stopped treatment due to adverse events?
+| AZD9977 (50 mg) | AZD9977 (150 mg) | AZD9977 (300 mg) | Placebo |
+|-----------------|------------------|------------------|---------|
+| 14.3% (1)       | 0.0% (0)         | 0.0% (0)         | 0.0% (0)|

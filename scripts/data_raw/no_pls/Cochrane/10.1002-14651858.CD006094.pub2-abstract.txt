@@ -1,0 +1,14 @@
+Background
+Imaging is commonly performed for musculoskeletal conditions. Identifying interventions to improve the appropriate use of imaging for musculoskeletal conditions could potentially result in improved health outcomes for patients and reduced health care costs. 
+Objectives
+To determine the effects of interventions that aim to improve the appropriate use of imaging for people with musculoskeletal conditions. 
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care Group Specialised Register (June 2007), The Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 2), MEDLINE (January 1966 to June 2007), EMBASE (January 1980 to June 2007) and CINAHL (January 1982 to June 2007). We also searched reference lists of included studies and relevant reviews. We undertook citation searches of all included studies, contacted authors of included studies, and contacted other experts in the field of effective professional practice. 
+Selection criteria
+Randomised controlled trials, non‐randomised controlled clinical trials and interrupted time‐series analyses that evaluated interventions designed to improve the use of imaging for musculoskeletal symptoms. 
+Data collection and analysis
+Two review authors independently assessed risk of bias and extracted data. We contacted study authors for additional information. 
+Main results
+Twenty eight studies met our inclusion criteria. The majority of the studies were for the management of osteoporosis or low back pain, and most evaluated interventions aimed at health professionals. To improve the use of imaging in the management of osteoporosis, the effect of any type of intervention compared to no‐intervention controls was modest (absolute improvement in bone mineral density test ordering +10%, IQR 0.0 to +27.7). Patient mediated, reminder, and organisational interventions appeared to have most potential for improving imaging use in osteoporosis. For low back pain studies, the most common intervention evaluated was distribution of educational materials and this showed varying effects. Other interventions in low back pain studies also showed variable effects. For other musculoskeletal conditions, distribution of educational materials, educational meetings and audit and feedback were not shown to be effective for changing imaging ordering behaviour. Across all conditions, increasing the number of intervention components did not increase effect. 
+Authors' conclusions
+For improving the use of imaging in osteoporosis, most professional interventions demonstrated benefit, and patient mediated, reminder, and organisational interventions appeared to have most potential for benefit. For low back pain studies interventions showed varying effects. For other musculoskeletal conditions, no firm conclusions can be drawn. 

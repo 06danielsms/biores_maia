@@ -1,0 +1,14 @@
+The study doctors also kept track of the "adverse events" that the participants had. An adverse event is any sign or symptom that participants have during a study. Doctors keep track of all the adverse events that happen in studies, even if they do not think the adverse events might be related to the study treatment. Later in this document, there will be a summary of the adverse events that the study doctors thought might be related to the study treatment. This section is a summary of all the adverse events, whether they might be related to the study treatment or not. An adverse event is considered "serious" when it is life-threatening, causes lasting problems, or the participant needs hospital care.
+
+Adverse events may or may not be caused by the treatments in the study. A lot of research is needed to know whether a treatment causes an adverse event.
+
+Acalabrutinib
+(out of 21 participants)
+How many participants had adverse events?
+95.2% (20)
+How many participants had serious adverse events?
+42.9% (9)
+How many participants stopped taking study treatment due to adverse events?
+9.5% (2)
+
+-

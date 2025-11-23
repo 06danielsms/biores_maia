@@ -1,0 +1,14 @@
+Background
+Wound and bone infections are frequently associated with open fractures of the extremities and may add significantly to the resulting morbidity. The administration of antibiotics is routinely practised in developed countries as an adjunct to a comprehensive management protocol that also includes irrigation, surgical debridement and stabilisation when indicated, and is thought to reduce the frequency of infections. 
+Objectives
+To review the evidence for the effectiveness of antibiotics in the initial treatment of open fractures of the limbs. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (26 July 2009), Clinical Trials (The Cochrane Library 2009, Issue 3), MEDLINE (1950 to July 2009), EMBASE (1980 to 2009 Week 30), LILACS (1992 to July 2009), International Pharmaceutical Abstracts (1970 to July 2009), and reference lists of articles. We handsearched proceedings of the American Academy of Orthopaedic Surgeons (1980 to 2001), the Orthopaedic Trauma Association (1990 to 2001) and the Société Internationale de Chirurgie Orthopedique et Traumatologique (1980 to 2001). We also contacted published researchers in the field. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials involving: participants ‐ people of any age with open fractures of the limbs; intervention ‐ antibiotic administered before or at the time of primary treatment of the open fracture compared with placebo or no antibiotic; outcome measures ‐ early wound infection, chronic drainage, acute or chronic osteomyelitis, delayed unions or non‐unions, amputations and deaths. 
+Data collection and analysis
+Two review authors independently screened papers for inclusion, assessed trial quality using an eight item scale, and extracted data. Additional information was sought from three trialists. Pooled data are presented graphically. 
+Main results
+Data from 1106 participants in eight studies were analysed. The use of antibiotics had a protective effect against early infection compared with no antibiotics or placebo (risk ratio 0.43 (95% confidence interval (CI) 0.29 to 0.65); absolute risk reduction 0.07 (95% CI 0.03 to 0.10). There were insufficient data in the included studies to evaluate other outcomes. 
+Authors' conclusions
+Antibiotics reduce the incidence of early infections in open fractures of the limbs. Further placebo controlled randomised trials are unlikely to be justified in middle and high income countries, except for open fractures of the fingers. Further research is necessary to the determine the avoidable burden of morbidity in countries where antibiotics are not used routinely in the management of open fractures. 

@@ -1,0 +1,14 @@
+Background
+Human immunodeficiency virus‐associated nephropathy (HIVAN) is the most common cause of end stage kidney disease (ESKD) in human immunodeficiency virus‐1 (HIV‐1) serotype patients and it mostly affects patients of African descent. It rapidly progresses to ESKD if untreated. The goal of treatment is directed toward reducing HIV‐1 replication and/or slowing the progression of chronic kidney disease. The following pharmacological agents have been used for the treatment of HIVAN: antiretroviral therapy, angiotensin‐converting enzyme inhibitors (ACEi), steroids and recently cyclosporin. Despite this, the effect of each intervention is yet to be evaluated. 
+Objectives
+To evaluate the benefits and harms of adjunctive therapies in the management of HIVAN and its effects on symptom severity and all‐cause mortality. 
+Search methods
+In January 2012 we searched the Cochrane Renal Group's Specialised Register, AIDS Education Global Information System (AEGIS database), ClinicalTrial.gov, the WHO International Clinical Trials Registry Portal, and reference lists of retrieved articles without language restrictions. In our original review we searched CENTRAL, MEDLINE, EMBASE, and AIDSearch, in addition to contacting individual researchers, research organisations and pharmaceutical companies. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of any therapy used in the treatment of HIVAN. 
+Data collection and analysis
+We independently screened the search outputs for relevant studies and to retrieve full articles when necessary. For dichotomous outcomes results were to be expressed as risk ratios with 95% confidence intervals, and for continuous scales of measurement the mean difference was to be used. 
+Main results
+We identified four relevant ongoing studies: one is still ongoing; two have completed recruitment but are yet to be published; and the fourth study was suspended for unspecified reasons. No completed RCTs or quasi‐RCTs were identified. We summarised and tabulated the data from the observational studies, however no formal analyses were performed. 
+Authors' conclusions
+There is currently no RCT‐based evidence upon which to base guidelines for the treatment of HIVAN, however three ongoing studies have been identified. Data from observational studies suggest steroids and angiotensin‐converting enzyme inhibitors appear to improve kidney function in patients with HIVAN, however no formal analyses were performed in this review. This review highlights the need for good quality RCTs to address the effects of interventions for treating this group. 

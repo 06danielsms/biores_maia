@@ -1,0 +1,14 @@
+Background
+Chinese medicinal herbs are frequently used to treat the common cold in China. Until now, their efficacy has not been systematically reviewed. 
+Objectives
+To assess the effectiveness and safety of Chinese medicinal herbs for the common cold.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2008, issue 2), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register; MEDLINE (1966 to May 2008); EMBASE (1980 to May 2008); AMED (1985 to May 2008); the Chinese Biomedical Database (CBMdisc) (1978 to May 2008); and China National Knowledge Infrastructure (CNKI) (1994 to May 2008). 
+Selection criteria
+Randomised controlled trials (RCTs) studying the efficacy of Chinese medicinal herb(s) for the treatment of the common cold. 
+Data collection and analysis
+Four review authors telephoned the original trial authors of the RCTs identified by our searches to verify the randomisation procedure. Two review authors extracted and analysed data from trials which met the inclusion criteria. 
+Main results
+We found17 studies involving 3212 patients. The methods of 15 studies were at high risk of bias. In only two studies was the risk of bias low. Trials used "positive drugs", of which the efficacy was not known, as controls. Different Chinese herbal preparations were tested in nearly all trials. In only one trial was a Chinese herbal preparation tested twice. In seven trials, six herbal preparations were found to be more effective at enhancing recovery than the control preparations. In the other 10 studies, seven herbal preparations were not shown to be significantly different from the control. One study did not describe the difference between the intervention and control groups. 
+Authors' conclusions
+Chinese herbal medicines may shorten the symptomatic phase in patients with the common cold. However, the lack of trials of low enough risk of bias, or using a placebo or a drug clearly identified as a control, means that we are uncertain enough to be unable to recommend any kind of Chinese medicinal herbs for the common cold. 

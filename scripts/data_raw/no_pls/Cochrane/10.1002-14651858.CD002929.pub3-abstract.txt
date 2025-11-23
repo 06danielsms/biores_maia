@@ -1,0 +1,14 @@
+Background
+Surgical face masks were originally developed to contain and filter droplets containing microorganisms expelled from the mouth and nasopharynx of healthcare workers during surgery, thereby providing protection for the patient. However, there are several ways in which surgical face masks could potentially contribute to contamination of the surgical wound, e.g. by incorrect wear or by leaking air from the side of the mask due to poor string tension. 
+Objectives
+To determine whether the wearing of disposable surgical face masks by the surgical team during clean surgery reduces postoperative surgical wound infection. 
+Search methods
+In December 2015, for this seventh update, we searched: The Cochrane Wounds Specialised Register; The Cochrane Central Register of Controlled Trials; Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. We also searched the bibliographies of all retrieved and relevant publications. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised controlled trials comparing the use of disposable surgical masks with the use of no mask. 
+Data collection and analysis
+Two review authors extracted data independently.
+Main results
+We included three trials, involving a total of 2106 participants. There was no statistically significant difference in infection rates between the masked and unmasked group in any of the trials. We identified no new trials for this latest update. 
+Authors' conclusions
+From the limited results it is unclear whether the wearing of surgical face masks by members of the surgical team has any impact on surgical wound infection rates for patients undergoing clean surgery. 

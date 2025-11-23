@@ -1,0 +1,32 @@
+Background
+Establishing the subgroup analysis of the fallopian tubes (tubes) is a commonly undertaken diagnostic investigation for women with subfertility. This is usually achieved by flushing contrast medium through the tubes and visualising patency on radiographs, ultrasonography or laparoscopy. Many women were noted to conceive in the first three to six months after tubal flushing, raising the possibility that tubal flushing could also be a treatment for infertility. There has been debate about which contrast medium should be used (water‐soluble or oil‐soluble media) as this may influence pregnancy rates. An important adverse event during tubal flushing is intravasation (backflow of contrast medium into the blood or lymphatic vessels),which could lead to embolism although it is asymptomatic in most cases. 
+Objectives
+To evaluate the effectiveness and safety of tubal flushing with oil‐soluble contrast media (OSCM) and water‐soluble contrast media (WSCM) on subsequent fertility outcomes in women with subfertility. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register of controlled trials, MEDLINE, Embase, CENTRAL, PsycINFO, reference lists of identified articles and trial registries. The most recent search was conducted in April 2020. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing tubal flushing with OSCM, WSCM with each other or with no treatment, in women with subfertility. 
+Data collection and analysis
+Two review authors independently selected the trials, assessed risk of bias and extracted data. We contacted study authors for additional information. The overall quality of the evidence was assessed using GRADE methods. 
+Main results
+Fifteen trials involving 3864 women were included in this systematic review. Overall, the quality of evidence varied from very low to moderate: the main limitations were risk of bias, heterogeneity and imprecision. 
+OSCM versus no treatment 
+Four studies (506 women) were included in this comparison.
+Tubal flushing with OSCM may increase the odds of live birth (odds ratio (OR) 3.27, 95% confidence interval (CI) 1.57 to 6.85, 3 RCTs, 204 women, I2 = 0, low‐quality evidence). This suggests that if the chance of live birth following no treatment is assumed to be 11%, the chance following tubal flushing with OSCM would be between 16% and 46%. 
+Tubal flushing with OSCM may increase in the odds of clinical pregnancy (OR 3.54, 95% CI 2.08 to 6.02, 4 RCTs, 506 women, I2 = 18%, low‐quality evidence). This suggests that if the chance of clinical pregnancy following no treatment is assumed to be 9%, the chance following tubal flushing with OSCM would be between 17% and 37%. 
+No study measured intravasation or other adverse events such as infection, haemorrhage and congenital abnormalities. 
+WSCM versus no treatment 
+Only one study (334 women) was included in this comparison.
+We are uncertain whether tubal flushing with WSCM increase live birth compared to no treatment (OR 1.13, 95% CI 0.67 to 1.91, 1 RCT, 334 women, low‐quality evidence). This suggests that if the chance of live birth following no treatment is assumed to be 21%, the chance following tubal flushing with WSCM would be between 15% and 33%. 
+We are uncertain whether tubal flushing with WSCM increases clinical pregnancy compared to no treatment (OR 1.14, 95% CI 0.71 to 1.84, 1 RCT, 334 women, low‐quality evidence). This suggests that if the chance of clinical pregnancy following no treatment is assumed to be 27%, the chance following tubal flushing with WSCM would be between 29% and 40%. 
+One case with pelvic infection was reported in the WSCM group and no case with infection in the no treatment group in a one study (334 women). Meta‐analysis was not performed due to the rare events. 
+No study measured intravasation or other adverse events such as infection, haemorrhage and congenital abnormalities. 
+OSCM versus WSCM 
+Six studies (2598 women) were included in this comparison.
+Three studies reported live birth, including two with higher live birth in the OSCM group (OR 1.64, 95% CI 1.27 to 2.11, 1119 women; OR 3.45, 95% CI 1.97 to 6.03, 398 women); and one with insufficient evidence of a difference between groups (OR 0.92, 95% CI 0.60 to 1.40, 533 women). Given the substantial heterogeneity observed (I2 = 86%), meta‐analysis was not performed. 
+Tubal flushing with OSCM probably increased in the odds of intravasation (asymptomatic) compared to tubal flushing with WSCM (OR 5.00, 95% CI 2.25 to 11.12, 4 RCTs, 1912 women, I2 = 0, moderate‐quality evidence). This suggests that if the chance of intravasation following tubal flushing with WSCM is assumed to be 1%, the chance following tubal flushing with OSCM would be between 2% and 9%. 
+Tubal flushing with OSCM may increase the odds of clinical pregnancy (OR 1.42, 95% CI 1.10 to 1.85, 6 RCTs, 2598 women, I2 = 41%, low‐quality evidence). This suggests that if the chance of clinical pregnancy following tubal flushing with WSCM is assumed to be 26%, the chance following tubal flushing with OSCM would be between 28% and 39%. 
+We are uncertain whether tubal flushing with OSCM decreases the odds of infection (OR 0.22, 95% CI 0.04 to 1.22, 2 RCTs, 662 women, I2 = 0, very low‐quality evidence) or haemorrhage (OR 0.65, 95% CI 0.40 to 1.06, 2 RCTs, 662 women, I2 = 0, very low‐quality evidence). 
+Three neonates with congenital abnormalities were reported in the OSCM group while no congenital abnormality was reported in the WSCM group in one study (1119 women). No meta‐analysis was performed due to the rare events. 
+Authors' conclusions
+The evidence suggests that compared to no treatment, tubal flushing with OSCM may increase the chance of live birth and clinical pregnancy, while it is uncertain whether tubal flushing with WSCM improves those outcomes. Compared to tubal flushing with WSCM, OSCM may improve clinical pregnancy while meta‐analysis was impossible for live birth due to heterogeneity. Evidence also suggests that OSCM is associated with an increased risk of asymptomatic intravasation. Overall, adverse events, especially long‐term adverse events, are poorly reported across studies. 

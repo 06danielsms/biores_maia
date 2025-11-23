@@ -1,0 +1,14 @@
+Background
+Non‐steroidal anti‐inflammatory drugs (NSAIDs) are the most frequently prescribed medications worldwide and are widely used for patients with low‐back pain. Selective COX‐2 inhibitors are currently available and used for patients with low‐back pain. 
+Objectives
+The objective was to assess the effects of NSAIDs and COX‐2 inhibitors in the treatment of non‐specific low‐back pain and to assess which type of NSAID is most effective. 
+Search methods
+We searched the MEDLINE and EMBASE databases and the Cochrane Central Register of Controlled Trials up to and including June 2007 if reported in English, Dutch or German. We also screened references given in relevant reviews and identified trials. 
+Selection criteria
+Randomised trials and double‐blind controlled trials of NSAIDs in non‐specific low‐back pain with or without sciatica were included. 
+Data collection and analysis
+Two review authors independently extracted data and assessed methodological quality. All studies were also assessed on clinical relevance, from which no further interpretations or conclusions were drawn. If data were considered clinically homogeneous, a meta‐analysis was performed. If data were lacking for clinically homogeneous trials, a qualitative analysis was performed using a rating system with four levels of evidence (strong, moderate, limited, no evidence). 
+Main results
+In total, 65 trials (total number of patients = 11,237) were included in this review. Twenty‐eight trials (42%) were considered high quality. Statistically significant effects were found in favour of NSAIDs compared to placebo, but at the cost of statistically significant more side effects. There is moderate evidence that NSAIDs are not more effective than paracetamol for acute low‐back pain, but paracetamol had fewer side effects. There is moderate evidence that NSAIDs are not more effective than other drugs for acute low‐back pain. There is strong evidence that various types of NSAIDs, including COX‐2 NSAIDs, are equally effective for acute low‐back pain. COX‐2 NSAIDs had statistically significantly fewer side‐effects than traditional NSAIDs. 
+Authors' conclusions
+The evidence from the 65 trials included in this review suggests that NSAIDs are effective for short‐term symptomatic relief in patients with acute and chronic low‐back pain without sciatica. However, effect sizes are small. Furthermore, there does not seem to be a specific type of NSAID which is clearly more effective than others. The selective COX‐2 inhibitors showed fewer side effects compared to traditional NSAIDs in the RCTs included in this review. However, recent studies have shown that COX‐2 inhibitors are associated with increased cardiovascular risks in specific patient populations. 

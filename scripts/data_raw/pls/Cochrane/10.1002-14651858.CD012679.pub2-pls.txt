@@ -1,0 +1,14 @@
+Screening for aspiration risk associated with dysphagia in acute stroke
+Question 
+How accurate are swallow screening tools for detecting when food and drink enter the airway in people with acute stroke? 
+Background 
+Stroke often affects a person’s ability to swallow, allowing food and drink into the airway. This can cause choking, chest infection, malnutrition, dehydration, and reduced rehabilitation, with increased risk of anxiety, depression, discharge to a care home, and death. Early identification and management of disordered swallowing through the most accurate testing reduces these risks. If the test fails to identify swallowing difficulties, the person will continue oral intake and may experience the difficulties identified above. If the test incorrectly identifies swallowing difficulties, the person may not be given anything to eat or drink, significantly impacting quality of life, until a more detailed assessment is undertaken (usually the next day). 
+Study characteristics 
+We identified 25 studies that used a total of 37 tools. Seven tools did not use water or other consistencies, 24 used only water, and six considered water and other consistencies. 
+Key results 
+We were unable to identify a tool that could accurately identify everyone with food and drink entering their airway, as well as detect all those who definitely did not. Many studies involved different healthcare professionals, food and fluid testing consistencies, and time between stroke onset and the screening test, so it is unclear which tool is best. We were unable to directly compare the different tools because most studies used different methods. 
+We were able to identify the tools most able to detect people with and without risk of swallowing difficulties from studies with good quality evidence. The best combined water swallow and instrumental test was the Bedside Aspiration test, the best water plus other consistencies tool was the Gugging Swallowing Screen, and the best water only tool was the Toronto Bedside Swallowing Screening Test. However, clinicians should be cautious in their interpretation of these findings, as these tests are based on single studies with small sample sizes. 
+Quality of the evidence 
+Most included studies were poorly conducted or were unclear in reporting what they did (i.e. unclear or high risk of bias). 
+Conclusion 
+We were unable to identify a single tool with combined high levels of accuracy and good quality evidence. However, we are able to offer recommendations for further high‐quality studies that are needed to improve the accuracy and clinical utility of swallow screening tools. 

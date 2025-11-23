@@ -1,0 +1,15 @@
+Background
+Lung disease in preterm infants is often complicated with lung edema.
+Objectives
+To assess the risks and benefits of diuretics acting on distal segments of the renal tubule (distal diuretics) in preterm infants with or developing chronic lung disease (CLD). 
+Search methods
+The standard method of the Cochrane Neonatal Review Group were used. Initially, MEDLINE (1966 to November 2001), EMBASE (1974 to November 2001) and the Cochrane Controlled Trials Register (CENTRAL,The Cochrane Library, Issue 4, 2001) were searched. In addition, several abstract books of national and international American and European Societies were hand searched. Updated searches in April 2003, April 2007, and December 2010 did not yield any additional trials. 
+Selection criteria
+Included in this analysis are trials in which preterm infants with or developing CLD and at least five days of age were randomly allocated to receive a diuretic acting on the distal renal tubule. Eligible studies needed to assess at least one of the outcome variables defined a priori for this systematic review. 
+Data collection and analysis
+The standard method for the Cochrane Collaboration described in the Cochrane Collaboration Handbook were used. Two investigators extracted, assessed and coded separately all data for each study. Any disagreement was resolved by discussion. Parallel and cross‐over trials were combined. Whenever possible, baseline and final outcome data measured on a continuous scale was transformed into change scores using Follmann's formula. 
+Main results
+Of the six studies fulfilling entry criteria, most focused on pathophysiological parameters and did not assess effects on important clinical outcomes defined in this review, or the potential complications of diuretic therapy. 
+In preterm infants > 3 weeks of age with CLD, a four week treatment with thiazide and spironolactone improved lung compliance and reduced the need for furosemide. A single study showed thiazide and spironolactone decreased the risk of death and tended to decrease the risk for remaining intubated after eight weeks in infants who did not have access to corticosteroids, bronchodilators or aminophylline. 
+Authors' conclusions
+In preterm infants > 3 weeks of age with CLD, acute and chronic administration of distal diuretics improve pulmonary mechanics. However, positive effects should be interpreted with caution as the numbers of patients studied are small in surprisingly few randomized controlled trials. 

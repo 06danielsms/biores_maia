@@ -1,0 +1,15 @@
+Background
+Among very low birth weight (VLBW) infants, early neonatal hyperglycemia is common and is associated with increased risks for death and major morbidities. It is uncertain whether hyperglycemia per se is a cause of adverse clinical outcomes or whether outcomes can be improved by preventing hyperglycemia. 
+Objectives
+To assess effects on clinical outcomes of interventions for preventing hyperglycemia in VLBW neonates receiving full or partial parenteral nutrition. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, issue 4 of 12, 2011; MEDLINE (1966 to April 2011); EMBASE (1980 to April 2011); CINAHL (1982 to Nov 2008); abstracts of Pediatric Academic Societies 2000 to 2011 and European Society for Pediatric Research 2005 to 2010. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials of interventions for prevention of hyperglycemia in neonates with birth weight < 1500 g or gestational age < 32 wk. 
+Data collection and analysis
+Two review authors independently selected studies for eligibility and extracted data on study design, methods, clinical features, and treatment outcomes. Included trials were assessed for blinding of randomization, intervention and outcome measurement, and completeness of follow‐up. Treatment effect measures for categorical outcomes were relative risk and risk difference, and for continuous outcomes, mean difference, each with their 95% confidence intervals. 
+Main results
+We detected four eligible trials. Two trials compared lower versus higher rates of glucose infusion in the early postnatal period. These trials were too small to assess effects on mortality or major morbidities. Two trials, one a moderately large multicentre trial (NIRTURE, Beardsall 2008), compared insulin infusion with standard care. Insulin infusion reduced hyperglycemia but increased death before 28 days and hypoglycemia. Reduction in hyperglycemia was not accompanied by significant effects on major morbidities; effects on neurodevelopment are awaited. 
+Authors' conclusions
+Glucose infusion rate: There is insufficient evidence from trials comparing lower with higher glucose infusion rates to inform clinical practice. Large randomized trials are needed, powered on clinical outcomes including death, major morbidities and adverse neurodevelopment. 
+Insulin infusion: The evidence reviewed does not support the routine use of insulin infusions to prevent hyperglycemia in VLBW neonates. Further randomized trials of insulin infusion may be justified. They should enrol extremely low birth weight neonates at very high risk for hyperglycemia and neonatal death. They might use real time glucose monitors if these are validated for clinical use. Refinement of algorithms to guide insulin infusion is needed to enable tight control of glucose concentrations within the target range. 

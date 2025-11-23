@@ -1,0 +1,14 @@
+Background
+Thymic carcinoma or advanced thymoma is a rare cancer of the thymus gland that tends to be aggressive and infiltrate neighbouring organs, making total resection very difficult. Induction or adjuvant chemotherapy, or both, are often used in a multimodality approach to treat people affected by this condition, but the effectiveness of chemotherapy for thymic carcinoma or advanced thymoma remains uncertain. 
+Objectives
+To assess the role of chemotherapy in adults with thymic carcinoma or advanced thymoma.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2012, Issue 7), MEDLINE (accessed via Ovid from 1966 to July 2012), EMBASE (accessed via Ovid, from 1980 to July 2012), Latin American and Caribbean Literature on Health Sciences (LILACS), the Chinese Biological Medicine Database (CBM, 1978 to July 2012), China National Knowledge Infrastructure (CNKI, 1980 to July 2012) and the Chinese scientific periodical database VIP Information (VIP, 1989 to July 2012). There was no language restriction in searching for studies. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) of  trials using chemotherapy (either single‐agent or combination chemotherapy plus surgery, radiotherapy or not) for thymic carcinoma and/or advanced thymoma. We planned to include all adults (aged 18 years and over) diagnosed with thymic carcinoma and/or with Masaoka stage III or IV thymic tumours. The intended primary outcomes were overall survival (OS) and progression‐free survival (PFS). 
+Data collection and analysis
+Two review authors independently evaluated the search results according to the inclusion and exclusion criteria. There were no studies identified for inclusion and therefore no data extraction was completed. 
+Main results
+No RCTs were eligible for inclusion in this review. We report details of excluded prospective studies in an additional table and try to provide some useful evidence regarding current practice. 
+Authors' conclusions
+There were no RCTs eligible for inclusion in this review. In current practice the most common regimen for adult patients with thymic carcinoma or advanced thymoma is cisplatin‐based chemotherapy. Considering the condition is rare, it is suggested that an international group is set up to organise and evaluate prospective collection of data from cohorts of patients to inform current clinical practice. 

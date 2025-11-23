@@ -1,0 +1,14 @@
+Background
+Management of chronic obstructive pulmonary disease (COPD) commonly involves long‐acting bronchodilators including beta‐agonists (LABA) and muscarinic antagonists (LAMA). In individuals with persistent symptoms or frequent exacerbations, inhaled corticosteroids (ICS) are also used. LABA and LAMA bronchodilators are now available in single combination inhalers. However, the benefits and risks of adding ICS to combination LABA/LAMA inhalers remains unclear. 
+Objectives
+To assess the effect of adding an inhaled corticosteroid (ICS) to combination long‐acting beta₂‐agonist (LABA)/long‐acting muscarinic antagonist (LAMA) inhalers for the treatment of stable COPD. 
+Search methods
+We carried out searches using the Cochrane Airways Group Specialised Register of Trials (searched 20 September 2016), Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 12) in the Cochrane Library (searched 15 December 2015) and MEDLINE (searched 15 December 2015). We also searched ClinicalTrials.gov, World Health Organisation (WHO) trials portal and pharmaceutical company clinical trials' databases up to 7 Janurary 2016. 
+Selection criteria
+We included parallel‐group, randomised controlled trials (RCTs) of three weeks' duration or longer which compared treatment of stable COPD with ICS in addition to combination LABA/LAMA inhalers against combination LABA/LAMA inhalers alone. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We identified a total of 586 records in our search. Following removal of duplicates, 386 abstracts were assessed for inclusion. Six studies were identified as potentially relevant; however, all failed to meet the inclusion criteria on full‐text assessment or after contacting the corresponding author to clarify study characteristics. 
+Authors' conclusions
+There are currently no studies published assessing the effect of ICS in addition to combination LABA/LAMA inhalers for the treatment of stable COPD. As combination LABA/LAMA inhalers are now widely available, there is a need for well‐designed RCTs to investigate whether ICS provides any added therapeutic benefit. 

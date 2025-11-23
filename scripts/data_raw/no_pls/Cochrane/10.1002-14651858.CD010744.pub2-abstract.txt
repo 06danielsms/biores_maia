@@ -1,0 +1,14 @@
+Background
+Smoking cessation is the most important treatment for smokers with chronic obstructive pulmonary disease (COPD), but little is known about the effectiveness of different smoking cessation interventions for this particular group of smokers. 
+Objectives
+To evaluate the effectiveness of behavioural or pharmacological smoking cessation interventions, or both, in smokers with COPD. 
+Search methods
+We searched all records in the Cochrane Airways Group Specialised Register of Trials. In addition to this electronic search, we searched clinical trial registries for planned, ongoing, and unpublished trials. We searched all databases from their inception. We checked the reference lists of all included studies and of other systematic reviews in relevant topic areas. We searched for errata or retractions from eligible trials on PubMed. We conducted our most recent search in March 2016. 
+Selection criteria
+We included randomised controlled trials assessing the effectiveness of any behavioural or pharmacological treatment, or both, in smokers with COPD reporting at least six months of follow‐up abstinence rates. 
+Data collection and analysis
+Two review authors independently extracted the data and performed the methodological quality assessment for each study. We resolved any disagreements by consensus. 
+Main results
+We included 16 studies (involving 13,123 participants) in this systematic review, two of which were of high quality. These two studies showed that nicotine sublingual tablet and varenicline increased the quit rate over placebo (risk ratio (RR) 2.60 (95% confidence interval (CI) 1.29 to 5.24) and RR 3.34 (95% CI 1.88 to 5.92)). Pooled results of two studies also showed a positive effect of bupropion compared with placebo (RR 2.03 (95% CI 1.26 to 3.28)). When pooling these four studies, we found high‐quality evidence for the effectiveness of pharmacotherapy plus high‐intensity behavioural treatment compared with placebo plus high‐intensity behavioural treatment (RR 2.53 (95% CI 1.83 to 3.50)). Furthermore, we found some evidence that high‐intensity behavioural treatment increased abstinence rates when compared with usual care (RR 25.38 (95% CI 8.03 to 80.22)) or low‐intensity behavioural treatment (RR 2.18 (95% CI 1.05 to 4.49)). Finally, the results showed effectiveness of various combinations of psychosocial and pharmacological interventions. 
+Authors' conclusions
+We found high‐quality evidence in a meta‐analysis including four (1,540 participants) of the 16 included studies that a combination of behavioural treatment and pharmacotherapy is effective in helping smokers with COPD to quit smoking. Furthermore, we conclude that there is no convincing evidence for preferring any particular form of behavioural or pharmacological treatment. 

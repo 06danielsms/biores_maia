@@ -1,0 +1,14 @@
+Background
+Ventilator‐associated pneumonia (VAP) is a common infectious disease in intensive care units (ICUs). The best diagnostic approach to resolve this condition remains uncertain. 
+Objectives
+To evaluate whether quantitative cultures of respiratory secretions and invasive strategies are effective in reducing mortality in immunocompetent patients with VAP, compared with qualitative cultures and non‐invasive strategies. We also considered changes in antibiotic use, length of ICU stay and mechanical ventilation. 
+Search methods
+We searched CENTRAL (2014, Issue 9), MEDLINE (1966 to October week 2, 2014), EMBASE (1974 to October 2014) and LILACS (1982 to October 2014). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing respiratory samples processed quantitatively or qualitatively, obtained by invasive or non‐invasive methods from immunocompetent patients with VAP and which analysed the impact of these methods on antibiotic use and mortality rates. 
+Data collection and analysis
+Two review authors independently reviewed the trials identified in the search results and assessed studies for suitability, methodology and quality. We analysed data using Review Manager software. We pooled the included studies to yield the risk ratio (RR) for mortality and antibiotic change with 95% confidence intervals (CI). 
+Main results
+Of the 5064 references identified from the electronic databases (605 from the updated search in October 2014), five RCTs (1367 patients) met the inclusion criteria. Three studies compared invasive methods using quantitative cultures versus non‐invasive methods using qualitative cultures, and we used them to answer the main objective of this review. The other two studies compared invasive versus non‐invasive methods, both using quantitative cultures. We combined all five studies to compare invasive versus non‐invasive interventions for diagnosing VAP. The studies that compared quantitative and qualitative cultures (1240 patients) showed no statistically significant differences in mortality rates (RR 0.91; 95% CI 0.75 to 1.11). The analysis of all five RCTs showed there was no evidence of reduction in mortality in the invasive group versus the non‐invasive group (RR 0.93; 95% CI 0.78 to 1.11). There were no significant differences between the interventions with respect to the number of days on mechanical ventilation, length of ICU stay or antibiotic change. 
+Authors' conclusions
+There is no evidence that the use of quantitative cultures of respiratory secretions results in reduced mortality, reduced time in ICU and on mechanical ventilation, or higher rates of antibiotic change when compared to qualitative cultures in patients with VAP. We observed similar results when invasive strategies were compared with non‐invasive strategies. 

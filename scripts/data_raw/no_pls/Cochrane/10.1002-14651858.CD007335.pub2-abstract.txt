@@ -1,0 +1,14 @@
+Background
+Formulating questions is fundamental to the daily life of a healthcare worker and is a defining characteristic of professional competence and meaningful learning. With high expectations for healthcare providers to remain up‐to‐date with current evidence and the movement towards formalizing reflective practice as part of physician revalidation, it is important that curricula developed for improving the ability to formulate well‐constructed questions are based on the best evidence. 
+Objectives
+To assess the effectiveness of interventions for increasing the frequency and quality of questions formulated by healthcare providers in practice and the context of self‐directed learning. 
+Search methods
+We obtained studies from searches of electronic bibliographic databases, and supplemented these with handsearching, checking reference lists, and consultation with experts. 
+Selection criteria
+We considered published and unpublished randomized controlled trials (RCTs), controlled clinical trials (CCTs), interrupted time‐series (ITS), and controlled before‐after (CBA) studies of any language examining interventions for increasing the quality and frequency of questions formulated by health professionals involved with direct patient care. 
+Data collection and analysis
+Two review authors independently undertook all relevancy screening and 'Risk of bias' assessment in duplicate. Intervention characteristics, follow‐up intervals, and measurement outcomes were diverse and precluded quantitative analysis. We have summarized data descriptively. 
+Main results
+Searches identified four studies examining interventions to improve question formulation in healthcare professionals. Interventions were mostly multi‐component, limited within the context of EBM and primarily in physician and resident populations. We did not identify studies examining changes in frequency of questions formulated or those within the context of reflection. Risk of bias was generally rated to be ‘high risk’. Three of the four studies showed improvements in question formulation in physicians, residents, or mixed allied health populations in the short‐ to moderate term follow up. Only one study examined sustainability of effects at one year and reported that skills had eroded over time. 
+Authors' conclusions
+Evidence from our review suggests that interventions to increase the quality of questions formulated in practice produce mixed results at both short‐ (immediately following intervention), and moderate‐term follow up (up to nine months), comparatively. Although three studies reported effectiveness estimates of an educational intervention for increasing the quality of question formulation within the short term, only one study examined the effectiveness in the longer term (one year) and revealed that search skills had eroded over time. Data suggests that sustainability of effects from educational interventions for question formulation are unknown. 

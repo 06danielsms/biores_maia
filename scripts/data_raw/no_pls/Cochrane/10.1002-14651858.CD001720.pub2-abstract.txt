@@ -1,0 +1,14 @@
+Background
+Antipsychotic drugs are usually given orally but compliance may be problematic. The development of depot injections in the 1960s gave rise to their extensive use as a means of long‐term maintenance treatment. Pipotiazine palmitate is a depot from the phenothiazine family of antipsychotic drugs. 
+Objectives
+To assess the clinical, social and economic effects of depot pipotiazine palmitate and undecylenate compared with placebo, oral antipsychotics and other depot antipsychotic preparations for people with schizophrenia. 
+Search methods
+For this update we searched the Cochrane Schizophrenia Group's Register (June 2003). We also inspected references of all identified trials for more studies and contacted relevant industries. 
+Selection criteria
+We included all randomised clinical trials comparing depot pipotiazine palmitate and undecylenate to oral antipsychotics or other depot preparations for people with schizophrenia. 
+Data collection and analysis
+We reliably selected, quality rated and independently extracted data from relevant studies. We calculated the random effects relative risk (RR), the 95% confidence intervals (CI) and, where possible the number needed to treat (NNT) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). We only presented scale data for those tools that had attained pre‐specified levels of quality. 
+Main results
+When pipotiazine palmitate was compared with 'standard' oral antipsychotic no differences were found for outcomes of global impression (n=53, 1 RCT, RR 2.57, CI 0.8 to 8.6), relapse (n=124, 1 RCT, RR 1.55 CI 0.76 to 3.2), study attrition (n=219, 3 RCTs, RR 1.37 CI 0.8 to 2.4) and behaviour (n=124, 1 RCT, WMD 4.65, CI ‐1.1 to 10.4). There was also no reported difference in adverse effects such as tardive dyskinesia or the need for anticholinergic drugs.   Sixteen studies compared pipotiazine palmitate with other depot preparations (n=1123). Pipotiazine palmitate was consistently equivalent to other depots in terms of a range of outcomes, including global impression (n=217, 4 RCTs, RR not improved 0.99 CI 0.91 to 1.07), relapse (n=239, 5 RCTs, RR relapse by 1 year 0.98 CI 0.55 to 1.75), and adverse effects (n=337, 5 RCTs, RR needing anticholinergic medication 0.98 CI 0.84 to 1.15). 
+Authors' conclusions
+Although well‐conducted and reported randomised trials are still needed to fully inform practice (no trial data exists reporting hospital and services outcomes, satisfaction with care and economics) pipotiazine palmitate is a viable choice for both clinician and recipient of care. 

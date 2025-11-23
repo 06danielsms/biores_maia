@@ -1,0 +1,14 @@
+Background
+Five‐alpha‐reductase inhibitors (5ARI) are frequently used to treat bothersome lower urinary tract symptoms associated with benign prostatic hyperplasia and male androgenic alopecia. They have potential as chemopreventive agents. 
+Objectives
+We sought to estimate the effectiveness and harms of 5ARI in preventing prostate cancer.
+Search methods
+MEDLINE, PreMEDLINE, and the Cochrane Collaboration Library were searched through April 2007 to identify randomized trials. 
+Selection criteria
+For prostate cancer outcomes we included randomized controlled trials of at least 1 year in duration published after 1984. For non‐prostate cancer outcomes, randomized trials were included if: they were at least 6 months in duration published after 1999. 
+Data collection and analysis
+The primary outcome was prostate cancer period‐prevalence "for‐cause." "For‐cause" was defined as prostate cancer clinically detected based on symptoms, an abnormal digital rectal exam, or detected as a result of an abnormal prostate specific antigen value. Trials were categorized as long (> 2 year), mid (1 to 2 years) and short (< 1 year) term. 
+Main results
+Nine trials reported prostate cancer period‐prevalence. Three trials using finasteride lasted four years or longer but only one (the Prostate Cancer Prevention Trial) was specifically designed to assess the impact of 5ARI on prostate cancer period‐prevalence. The mean age of enrollees was 64.6 years, 91% were white, mean PSA was 2.1 ng/mL. For‐cause prostate cancers comprised 54% of all cancers detected. Finasteride was associated with a 26% relative risk reduction in prostate cancers detected for‐cause among all randomized subjects (relative risk 0.74 (95% CI 0.67 to 0.83); absolute risk reduction = 1.4% (3.5% versus 4.9%). Six trials assessed prostate cancers detected overall with a pooled 26% relative reduction favoring 5ARI (relative risk 0.74 (95% CI 0.55 to1.00); 2.9% absolute reduction (6.3% versus 9.2%). Reductions were observed regardless of age, race or family history of prostate cancer but not among men with baseline PSA > 4.0 ng/mL. A greater number of high Gleason score tumors (7 to 10 or 8 to 10) occurred in men on finasteride in the PCPT. Impaired sexual or erectile function or endocrine effects were more common with finasteride than placebo. 
+Authors' conclusions
+Five‐alpha‐reductase inhibitors reduce prostate cancer risk but may increase the risk of high‐grade disease in men who are undergoing regular screening for prostate cancer using prostate specific antigen and digital rectal examination. Effects are consistent across race, family history and age and possibly 5ARI but were limited to men with baseline PSA values < 4.0 ng/mL. The impact of 5ARI on absolute or relative rates of prostate cancer in men who are not being regularly screened is not clear. Information is inadequate to assess the impact of 5ARI on mortality. 

@@ -1,0 +1,14 @@
+Background
+Observational studies have shown differences in process and outcome between the consultations of primary care physicians whose average consultation lengths differ. These differences may be due to self selection. This is the first update of the original review. 
+Objectives
+To assess the effects of interventions to alter the length of primary care physicians' consultations. 
+Search methods
+We searched the following electronic databases until 4 January 2016: the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, ClinicalTrials.gov, and World Health Organization International Clinical Trials Registry Platform (WHO ICTRP). 
+Selection criteria
+Randomised controlled trials and non‐randomised controlled trials of interventions to alter the length of primary care physicians' consultations. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias of included studies using agreed criteria and resolved disagreements by discussion. We attempted to contact authors of primary studies with missing data. Given the heterogeneity of studies, we did not conduct a meta‐analysis. We assessed the certainty of the evidence for the most important outcomes using the GRADE approach and have presented the results in a narrative summary. 
+Main results
+Five studies met the inclusion criteria. All were conducted in the UK, and tested short‐term changes in the consultation time allocated to each patient. Overall, our confidence in the results was very low; most studies had a high risk of bias, particularly due to non‐random allocation of participants and the absence of data on participants' characteristics and small sample sizes. We are uncertain whether altering appointment length increases primary care consultation length, number of referrals and investigations, prescriptions, or patient satisfaction based on very low‐certainty evidence. None of the studies reported on the effects of altering the length of consultation on resources used. 
+Authors' conclusions
+We did not find sufficient evidence to support or refute a policy of altering the lengths of primary care physicians' consultations. It is possible that these findings may change if high‐quality trials are reported in the future. Further trials are needed that focus on health outcomes and cost‐effectiveness. 

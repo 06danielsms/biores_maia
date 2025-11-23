@@ -1,0 +1,40 @@
+Background
+The setting in which induction of labour takes place (home or inpatient) is likely to have implications for safety, women's experiences and costs. 
+Home induction may be started at home with the subsequent active phase of labour happening either at home or in a healthcare facility (hospital, birth centre, midwifery‐led unit). More commonly, home induction starts in a healthcare facility, then the woman goes home to await the start of labour. Inpatient induction takes place in a healthcare facility where the woman stays while awaiting the start of labour. 
+Objectives
+To assess the effects on neonatal and maternal outcomes of third trimester home induction of labour compared with inpatient induction using the same method of induction. 
+Search methods
+For this update, we searched the Cochrane Pregnancy and Childbirth Group's Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP) (31 January 2020)), and reference lists of retrieved studies. 
+Selection criteria
+Published and unpublished randomised controlled trials (RCTs) in which home and inpatient settings for induction have been compared. We included conference abstracts but excluded quasi‐randomised trials and cross‐over studies. 
+Data collection and analysis
+Two review authors independently assessed study reports for inclusion. Two review authors carried out data extraction and assessment of risk of bias independently. GRADE assessments were checked by a third review author. 
+Main results
+We included seven RCTs, six of which provided data on 1610 women and their babies. Studies were undertaken between 1998 and 2015, and all were in high‐ or upper‐middle income countries. Most women were induced for post dates. Three studies reported government funding, one reported no funding and three did not report on their funding source. Most GRADE assessments gave very low‐certainty evidence, downgrading mostly for high risk of bias and serious imprecision. 
+1. Home compared to inpatient induction with vaginal prostaglandin E (PGE) (two RCTs, 1028 women and babies; 1022 providing data). 
+Although women's satisfaction may be slightly better in home settings, the evidence is very uncertain (mean difference (MD) 0.16, 95% confidence interval (CI) ‐0.02 to 0.34, 1 study, 399 women), very low‐certainty evidence. 
+There may be little or no difference between home and inpatient induction for other primary outcomes, with all evidence being very low certainty: 
+‐ spontaneous vaginal birth (average risk ratio (RR) [aRR] 0.91, 95% CI 0.69 to 1.21, 2 studies, 1022 women, random‐effects method); 
+‐ uterine hyperstimulation (RR 1.19, 95% CI 0.40 to 3.50, 1 study, 821 women);
+‐ caesarean birth (RR 1.01, 95% CI 0.81 to 1.28, 2 studies, 1022 women);
+‐ neonatal infection (RR 1.29, 95% CI 0.59 to 2.82, 1 study, 821 babies);
+‐ admission to neonatal intensive care unit (NICU) (RR 1.20, 95% CI 0.50 to 2.90, 2 studies, 1022 babies). 
+Studies did not report serious neonatal morbidity or mortality.
+2. Home compared to inpatient induction with controlled release PGE (one RCT, 299 women and babies providing data). 
+There was no information on whether the questionnaire on women's satisfaction with care used a validated instrument, but the findings presented showed no overall difference in scores. 
+We found little or no difference between the groups for other primary outcomes, all also being very low‐certainty evidence: 
+‐ spontaneous vaginal birth (RR 0.94, 95% CI 0.77 to 1.14, 1 study, 299 women);
+‐ uterine hyperstimulation (RR 1.01, 95% CI 0.51 to 1.98, 1 study, 299 women);
+‐ caesarean births (RR 0.95, 95% CI 0.64 to 1.42, 1 study, 299 women);
+‐ admission to NICU (RR 1.38, 0.57 to 3.34, 1 study, 299 babies).
+The study did not report on neonatal infection nor serious neonatal morbidity or mortality.
+3. Home compared to inpatient induction with balloon or Foley catheter (four RCTs; three studies, 289 women and babies providing data). 
+It was again unclear whether questionnaires reporting women's experiences/satisfaction with care were validated instruments, with one study (48 women, 69% response rate) finding women were similarly satisfied. 
+Home inductions may reduce the number of caesarean births, but the data are also compatible with a slight increase and are of very low‐certainty (RR 0.64, 95% CI 0.41 to 1.01, 2 studies, 159 women). 
+There was little or no difference between the groups for other primary outcomes with all being very low‐certainty evidence: 
+‐ spontaneous vaginal birth (RR 1.04, 95% CI 0.54 to 1.98, 1 study, 48 women):
+‐ uterine hyperstimulation (RR 0.45, 95% CI 0.03 to 6.79, 1 study, 48 women);
+‐ admission to NICU (RR 0.37, 95% CI 0.07 to 1.86, 2 studies, 159 babies).
+There were no serious neonatal infections nor serious neonatal morbidity or mortality in the one study (involving 48 babies) assessing these outcomes. 
+Authors' conclusions
+Data on the effectiveness, safety and women's experiences of home versus inpatient induction of labour are limited and of very low‐certainty. Given that serious adverse events are likely to be extremely rare, the safety data are more likely to come from very large observational cohort studies rather than relatively small RCTs. 

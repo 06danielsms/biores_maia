@@ -1,0 +1,14 @@
+Background
+Medicines are the most common intervention in most health services. As with all treatments, those taking medicines need sufficient information: to enable them to take and use the medicines effectively, to understand the potential harms and benefits, and to allow them to make an informed decision about taking them. Written medicines information, such as a leaflet or provided via the Internet, is an intervention that may meet these purposes. 
+Objectives
+To assess the effects of providing written information about individual medicines on relevant patient outcomes (knowledge, attitudes, behaviours and health outcomes) in relation to prescribed and over‐the‐counter medicines. 
+Search methods
+We searched MEDLINE, EMBASE, CINAHL, The Cochrane Library, PsycINFO and other databases to March 2007. We handsearched five journals' tables of contents, and the reference lists of included studies, and contacted experts in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) of medicine users, comparing written medicines information with no written medicines information; or trials that compared two or more styles of written medicines information. We only included trials that measured a knowledge, attitudinal or behavioural outcome. There were no language restrictions. 
+Data collection and analysis
+Two review authors independently extracted data relating to the interventions, methods of the trials, and outcome measures; and reconciled differences by discussion. Heterogeneity of interventions and outcomes measured meant that data synthesis was not possible. The results are presented in narrative and tabular format. 
+Main results
+We included 25 RCTs involving 4788 participants. Six of twelve trials showed that written information significantly improved knowledge about a medicine, compared with no written information. The inability to combine results means we cannot conclude whether written information was effective for increasing knowledge. The results for attitudinal and behavioural outcomes were mixed. No studies showed an adverse effect of medicines information. 
+Authors' conclusions
+The combined evidence was not strong enough to say whether written medicines information is effective in changing knowledge, attitudes and behaviours related to medicine taking. There is some evidence that written information can improve knowledge. The trials were generally of poor quality, which reduces confidence in the results. Trials examining the effects of written information need to be better designed and use consistent and validated outcome measures. Trials should evaluate internet‐based medicines information. It is imperative that written medicines information be based on best practice for its information design and content, which could improve its effectiveness in helping people to use medicines appropriately. 

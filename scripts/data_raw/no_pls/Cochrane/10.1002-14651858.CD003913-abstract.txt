@@ -1,0 +1,14 @@
+Background
+Trials on the effect of systemic chemotherapy on survival and recurrence in adults with high‐grade glioma have had inconclusive results. We undertook a systematic review and meta‐analysis to assess the effects of such treatment on survival and recurrence. 
+Objectives
+To compare radiotherapy plus chemotherapy with radiotherapy alone in completely resected adults with high‐grade glioma. To investigate whether or not pre‐defined patient subgroups benefit more or less from chemotherapy. 
+Search methods
+MEDLINE and CancerLit searches were supplemented with information from trial registers and by hand searching relevant meeting proceedings and by discussion with relevant trialists and organisations. These searches were carried out in June 1997, June 1999, December 2000 and August 2003. 
+Selection criteria
+Trials comparing radiotherapy versus radiotherapy + chemotherapy were eligible for inclusion provided that they randomized adult patients using a method which precluded prior knowledge of treatment assignment. 
+Data collection and analysis
+A quantitative meta‐analysis using updated information from individual patients from all available randomized trials was carried out. Data from all patients randomized in all eligible trials were sought directly from those responsible. Updated information on survival and date of follow‐up were obtained, as were details of treatment allocation, date of randomization, age, sex, histological cell type, stage and performance status. To avoid potential bias, information was requested for all randomized patients including those who had been excluded from the investigators' original analyses. All analyses were done on an intention to treat basis on the endpoint of survival. For trials using cisplatin‐based regimens, subgroup analyses by age, sex, histological cell type, tumour stage and performance status were also done. 
+Main results
+Data from 12 randomized trials and 3004 patients were included. The results show a significant prolongation of survival associated with chemotherapy, with a hazard ratio of 0.85 (95% CI 0.78‐0.91, p=0.00004) or 15% relative decrease in the risk of death. This is equivalent to an absolute increase in one year survival rate of 6% (95% confidence interval 3% to 9%) from 40% to 46% and a two‐month increase in median survival time (95% confidence interval one month to three months). There was no evidence that the effect of chemotherapy was different in any group of patients defined by age, sex, histology, performance status or extent of resection. 
+Authors' conclusions
+This small but clear improvement in survival from chemotherapy encourages further study of drug treatment of these tumours 

@@ -1,0 +1,26 @@
+Integrated management of childhood illness (IMCI) strategy for children younger than five years of age 
+What is the aim of this review? 
+The aim of this Cochrane review is to assess the effects of programs that use the World Health Organization integrated management of childhood illness (IMCI) strategy. Cochrane researchers searched for all potentially relevant studies and found four studies that met review criteria. 
+Key messages 
+This review shows that use of the World Health Organization IMCI strategy may led to fewer deaths among children from birth to five years of age. Effects of IMCI on other issues, such as illness or quality of care, were mixed, and some evidence of this was of very low certainty. In the future, researchers should explore how the IMCI strategy can best be delivered. 
+What was studied in the review? 
+More than 7.5 million children globally die each year before reaching the age of five. Most are from poor communities and live in the poorest countries. These children are more likely than others to suffer from malnutrition and from infections such as neonatal sepsis, measles, diarrhoea, malaria, and pneumonia. 
+Effective strategies to prevent and treat sick children are available but do not reach them. One reason for this is that health care services are often too far away or too expensive. Health facilities in these settings often lack supplies and well‐trained health care workers. In addition, ill children may have several health problems at the same time, and this can make diagnosis and treatment difficult for health care workers. 
+In the 1990s, the World Health Organization (WHO) developed a strategy called integrated management of childhood illness (IMCI) to address these problems. This strategy aims to prevent death and disease while improving the quality of care for ill children up to the age of five. It consists of three parts. 
+• Improving the skills of health care workers by providing training and guidelines.
+• Improving how health care systems are organized and managed, including access to supplies. 
+• Visiting homes and communities to promote good child rearing practices and good nutrition, while encouraging parents to bring their children to a clinic when the children are ill. 
+The WHO encourages countries to adapt the IMCI strategy to their own national settings. Types of childhood illnesses prioritised and ways in which services are delivered may vary from country to country. 
+What are the main results of the review? 
+This Cochrane review included four studies assessing the effectiveness of the IMCI strategy. These studies were conducted in Tanzania, Bangladesh, and India. The IMCI strategy was used very differently across studies. For instance, the study from Tanzania implemented health care worker training and improved drug supply but did not include home visits or community activities; the study from Bangladesh added new health care workers while training existing health care workers; and the two Indian studies specifically targeted newborns as well as older children. 
+This review showed that use of IMCI:
+• may lead to fewer deaths among children from birth to five years of age (low‐certainty evidence); 
+• may have little or no effect on the number of children suffering from stunting (low‐certainty evidence); 
+• probably has little or no effect on the number of children suffering from wasting (moderate‐certainty evidence); 
+• probably has little or no effect on the number of children who receive measles vaccines; and 
+• may lead to mixed results on the number of parents seeking care for their child when he or she is ill. 
+We do not know whether IMCI has any effect on the way health care workers treat common illnesses because certainty of the evidence was assessed as very low. 
+We do not know whether IMCI has any effect on the number of mothers who exclusively breast feed their child, because certainty of the evidence was assessed as very low. 
+None of the included studies assessed the satisfaction of mothers and service users by using an IMCI strategy. 
+How up‐to‐date is this review? 
+Review authors searched for studies that had been published up to 30 June 2015.

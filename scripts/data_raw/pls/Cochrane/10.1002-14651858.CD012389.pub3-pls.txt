@@ -1,0 +1,21 @@
+Interventions to prevent silent strokes in people with sickle cell disease
+Review question 
+We wanted to determine if there were any safe and effective interventions that prevent silent strokes (also known as silent cerebral infarcts) in people with sickle cell disease (SCD). 
+Background 
+SCD is a serious inherited blood disorder where the red blood cells, which carry oxygen around the body, develop abnormally. Normal red blood cells are flexible and disc‐shaped, but in sickle cell disease they can become rigid and crescent shaped. Sickled cells are not only less flexible than healthy red blood cells, they are also stickier. This can lead to the blockage of blood vessels, resulting in tissue and organ damage and episodes of severe pain. The abnormal blood cells are more fragile and break apart, which leads to fewer red blood cells, known as anaemia. Sickled red blood cells can block blood flow in vessels in the brain, leading to a silent stroke. 
+Silent strokes are common, occurring in up to 39% of people with SCD by 18 years of age. Two tests have been used to identify children at higher risk of having a first stroke. Transcranial doppler ultrasonography (TCD) measures the speed of blood flowing through arteries in the brain. Children with a high blood flow have an increased risk of stroke. Whereas magnetic resonance imaging (MRI) takes images of the brain to see if there are any small areas of damage called silent strokes. Children with silent strokes have an increased risk of clinical stroke. 
+Treatments that have been considered for preventing silent strokes include long‐term red blood cell transfusions, the drug hydroxyurea and stem cell transplantation. 
+Search date 
+The evidence is current to: 14 November 2019.
+Study characteristics 
+We found five randomised controlled trials which enrolled a total of 660 participants. Three trials compared blood transfusions to no blood transfusions and two trials compared blood transfusion to hydroxyurea. Trials were published between 1998 and 2016 and included children and sometimes adolescents; the majority had one form of SCD (HbSS). No trials included stem cell transplantation. 
+All trials received government funding.
+Key results 
+In children with abnormal TCD velocities, red blood cell transfusions may decrease the risk of silent strokes, but have little or no effect in children with normal TCD velocities. 
+In children at higher risk of stroke (abnormal TCD velocities or previous silent stroke), red blood cell transfusions probably reduce the risk of clinical stroke; may reduce the risk of acute chest syndrome and painful crisis; but we are very uncertain whether they have any effect on the risk of death. 
+In children with normal TCD velocities and previous silent stroke, red blood cell transfusions may improve quality of life, but make little or no difference to IQ. 
+In children and adolescents who have had at least 12 months of regular red blood cell transfusions to prevent a stroke, continuing red blood cell transfusions may reduce the risk of silent stroke, but we are very uncertain whether they have any effect on the risk of death or clinical stroke. 
+For children on long‐term red blood cell transfusions with iron chelation (treatment to remove excess iron) who have not had a stroke, we are very uncertain whether switching to hydroxyurea with phlebotomy (withdrawing blood to reduce excess iron) has any effect on the risk of a silent stroke, clinical stroke, death, or SCD‐related complications. 
+For children and adolescents on long‐term red blood cell transfusions and iron chelation who have had a clinical stroke, we are very uncertain whether switching to hydroxyurea and phlebotomy has any effect on the risk of silent stroke or death. Switching to hydroxyurea and phlebotomy may increase the risk of SCD‐related complications. 
+Quality of the evidence 
+In children at higher risk of stroke who have not had previous long‐term transfusions, there is moderate‐quality evidence that long‐term red blood cell transfusions reduce the risk of stroke. The quality of evidence was rated as low to very‐low for the rest of the outcomes including risk of silent cerebral infarcts due to trials being at high risk of bias and because there were a small number of trials and a small number of participants included in the trials. 

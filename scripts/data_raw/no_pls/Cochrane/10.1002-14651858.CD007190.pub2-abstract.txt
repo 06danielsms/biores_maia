@@ -1,0 +1,14 @@
+Background
+For the treatment of HIV/AIDS, individuals may consult traditional healers because they possess a shared sociocultural background, meet the needs and expectations of the patients, and pay special attention to social and spiritual matters. Various intervention strategies have been adopted to educate traditional healers in various aspects of Western medicine, with a particular focus on HIV/AIDS. 
+Objectives
+To evaluate the effectiveness of interventions for educating traditional healers in the fundamentals of sexually transmitted infection (STI) and HIV medicine. 
+Search methods
+We searched the Cochrane Register of Controlled Trials, Pubmed, Embase, Gatway and AIDSearch from the period of 1980 to 2008. We also handsearched the reference lists of the retrieved articles, located conference proceedings of international conferences related to AIDS  studies and contacted key personnel and organizations working in HIV/AIDS intervention programs in developing countries. 
+Selection criteria
+All intervention studies using a controlled design that have evaluated the effect of educational interventions on any one of the outcome measures specified were included. 
+Data collection and analysis
+Two reviewers independently assessed the eligibility of potentially relevant studies and extracted data from and assessed study quality of included studies. A meta‐analysis of study outcomes was not possible given the small number of included studies and the heterogeneity in methodological designs and outcome measures. 
+Main results
+We included two studies (one RCT and one CBA study) in this review (n = 311). Both of these studies indicated that a training workshop increased the knowledge about HIV/AIDS of traditional healers. With regards to behaviour change, Peltzer 2006 detected a significant difference in traditional healers' reports of managing their patients; however, there was no evidence of a reduction of HIV/STI risk behaviours and referral practices, as assessed by self‐report. The study by Poudyal 2003 did not assess this outcome. 
+Authors' conclusions
+Two studies met the inclusion criteria for this review. Although these studies reported some positive outcomes, the few studies and methodological heterogeneity limits the conclusions that can be drawn about the effectiveness of HIV training programs aimed at traditional healers. More rigorous studies (i.e. those employing rigorous randomisation procedures, reliable outcome measures and larger sample sizes) are needed to provide better evidence of the impact of HIV training programs aimed at traditional healers. 

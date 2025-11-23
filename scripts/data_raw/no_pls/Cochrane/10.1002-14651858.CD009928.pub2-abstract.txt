@@ -1,0 +1,14 @@
+Background
+Virtual reality (VR) is computerised real‐time technology, which can be used an alternative assessment and treatment tool in the mental health field. Virtual reality may take different forms to simulate real‐life activities and support treatment. 
+Objectives
+To investigate the effects of virtual reality to support treatment compliance in people with serious mental illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (most recent, 17th September 2013) and relevant reference lists. 
+Selection criteria
+All relevant randomised studies comparing virtual reality with standard care for those with serious mental illnesses. We defined virtual reality as a computerised real‐time technology using graphics, sound and other sensory input, which creates the interactive computer‐mediated world as a therapeutic tool. 
+Data collection and analysis
+All review authors independently selected studies and extracted data. For homogeneous dichotomous data the risk difference (RD) and the 95% confidence intervals (CI) were calculated on an intention‐to‐treat basis. For continuous data, we calculated mean differences (MD). We assessed risk of bias and created a 'Summary of findings' table using the GRADE approach. 
+Main results
+We identified three short‐term trials (total of 156 participants, duration five to 12 weeks). Outcomes were prone to at least a moderate risk of overestimating positive effects. We found that virtual reality had little effects regarding compliance (3 RCTs, n = 156, RD loss to follow‐up 0.02 CI ‐0.08 to 0.12, low quality evidence), cognitive functioning (1 RCT, n = 27, MD average score on Cognistat 4.67 CI ‐1.76 to 11.10, low quality evidence), social skills (1 RCT, n = 64, MD average score on social problem solving SPSI‐R (Social Problem Solving Inventory ‐ Revised) ‐2.30 CI ‐8.13 to 3.53, low quality evidence), or acceptability of intervention (2 RCTs, n = 92, RD 0.05 CI ‐0.09 to 0.19, low quality evidence). There were no data reported on mental state, insight, behaviour, quality of life, costs, service utilisation, or adverse effects. Satisfaction with treatment ‐ measured using an un‐referenced scale ‐ and reported as "interest in training" was better for the virtual reality group (1 RCT, n = 64, MD 6.00 CI 1.39 to 10.61,low quality evidence). 
+Authors' conclusions
+There is no clear good quality evidence for or against using virtual reality for treatment compliance among people with serious mental illness. If virtual reality is used, the experimental nature of the intervention should be clearly explained. High‐quality studies should be undertaken in this area to explore any effects of this novel intervention and variations of approach. 

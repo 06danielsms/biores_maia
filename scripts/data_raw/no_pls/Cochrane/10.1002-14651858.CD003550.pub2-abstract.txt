@@ -1,0 +1,14 @@
+Background
+The male condom, which consists of a thin sheath placed over the glans and shaft of the penis, is designed to prevent pregnancy by providing a physical barrier against the deposition of semen into the vagina during intercourse. Beginning in the 1990s, nonlatex male condoms made of polyurethane film or synthetic elastomers were developed as alternative male barrier methods for individuals with allergies, sensitivities or preferences that prevented the consistent use of condoms made of latex. 
+Objectives
+The review sought to evaluate nonlatex male condoms in comparison with latex condoms in terms of contraceptive efficacy, breakage and slippage, safety, and user preferences. 
+Search methods
+In December 2012, we searched computerized databases for randomized controlled trials (RCTS) of nonlatex condoms (MEDLINE, CENTRAL, POPLINE, LILACS, ClinicalTrials.gov, ICTRP). Previous searches also included EMBASE. For the initial review, we wrote to the manufacturers of nonlatex condoms and known investigators to locate other trials not identified in our search. 
+Selection criteria
+The review included RCTs that evaluated a male nonlatex condom made of polyurethane film or synthetic elastomers in comparison with a latex condom. 
+Data collection and analysis
+We evaluated all titles and abstracts located in the literature searches for inclusion. Two authors independently extracted data from the identified studies. We analyzed data with RevMan. The Peto odds ratio (Peto OR) with 95% confidence interval (CI) was calculated for each outcome of contraceptive efficacy, condom breakage and slippage, discontinuation of use, safety, and user preference. Contraceptive efficacy, early discontinuation, and safety outcomes were also measured with survival analysis techniques. 
+Main results
+While the eZ·on condom did not protect against pregnancy as well as its latex comparison condom, no differences were found in the typical‐use efficacy between the Avanti and the Standard Tactylon and their latex counterparts. The nonlatex condoms had higher rates of clinical breakage than their latex comparison condoms: the Peto OR for clinical breakage ranged from 2.64 (95% CI 1.63 to 4.28) to 4.95 (95% CI 3.63 to 6.75). Few adverse events were reported. Substantial proportions of participants preferred the nonlatex condom or reported that they would recommend its use to others. 
+Authors' conclusions
+Although the nonlatex condoms were associated with higher rates of clinical breakage than their latex comparison condoms, the new condoms still provide an acceptable alternative for those with allergies, sensitivities, or preferences that might prevent the consistent use of latex condoms. The contraceptive efficacy of the nonlatex condoms requires more research. 

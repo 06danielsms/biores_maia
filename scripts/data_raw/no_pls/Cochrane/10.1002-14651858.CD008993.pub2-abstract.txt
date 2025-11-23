@@ -1,0 +1,14 @@
+Background
+Congenital choanal atresia is a rare abnormality characterized by unilateral or bilateral lack of patency of the posterior end of the nasal cavity. With an incidence of 1:5000 to 1:8000 births, it is twice as prevalent in females as it is in males. Surgical procedures aim to provide adequate functional choanal patency and a low rate of restenosis, avoid harm to any structure in development, enable shorter surgery and hospitalization times, and minimize morbidity and mortality. 
+Objectives
+To evaluate the effectiveness and safety of the available surgical techniques for the treatment of congenital choanal atresia in patients with unilateral and bilateral atresia. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the search was 31 January 2011. 
+Selection criteria
+We planned to include parallel randomized or quasi‐randomized controlled trials testing surgical approaches for the treatment of congenital atresia (irrespective of gender and age) that evaluated normal/adequate respiratory function (self reported or preserved nasal airway) and restenosis as the main primary outcomes. We did not consider reoperation and non‐congenital atresia (e.g. traumatic, iatrogenic atresias) for inclusion. 
+Data collection and analysis
+Three review authors independently assessed the titles and abstracts of the identified articles to determine potential relevance. For dichotomous and continuous variables, we planned to calculate risk ratios (relative risks; RR) and mean differences (MD) with 95% confidence intervals (CI), respectively. We planned to use the random‐effects model since we were expecting substantial clinical and methodological heterogeneity. 
+Main results
+No randomized controlled trials were identified. From the 120 reports retrieved using our search strategy, 46 primary studies had the potential to be included since they had tested surgical approaches for choanal atresia. However, we excluded all of them during the final selection process because their study designs did not meet our inclusion criteria. 
+Authors' conclusions
+There is no definitive evidence, based on randomized controlled trials, to demonstrate the potential advantages and disadvantages of any specific surgical technique for patients with choanal atresia. Specialists should unify their efforts in multicenter randomized controlled trials that test the effectiveness and safety of different surgical techniques in patients with choanal atresia. 

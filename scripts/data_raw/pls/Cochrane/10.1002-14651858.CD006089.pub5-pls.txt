@@ -1,0 +1,16 @@
+Antibiotics for sinus infection of short duration in adults
+Review question 
+Do antibiotics cure sinus infection faster than no antibiotics in adults?
+Background 
+A sinus is a cavity situated in the head. Adults with short‐duration sinus infection experience stuffy nose and thick, yellow discharge from the nose. People with sinus infection can feel slime in the back of the throat, facial pain, pain when bending forward, and pain in the upper teeth or when chewing. A short‐duration sinus infection may be suspected following physical examination and questions about symptoms. Blood examination or images of the sinuses can support diagnosis, but are not routinely recommended in most countries. Short‐duration sinus infections are mostly caused by viruses. Nevertheless, physicians tend to prescribe antibiotics, which should only be used to treat bacterial infections. Taking antibiotics unnecessarily results in antibiotic resistance against bacterial infections. We investigated whether antibiotics cure adults with short‐duration sinus infection faster than a dummy drug (placebo) or no treatment. 
+Search date 
+18 January 2018.
+Study characteristics 
+We included 15 studies in which adults with short‐duration sinus infection, whether or not confirmed by imaging, randomly received antibiotics, or a dummy drug or no treatment, in ambulatory care settings. The studies included a total of 3057 adults whose average age was 36 years; about 60% were female. Participants were followed until they were cured. Trial duration ranged from 8 to 28 days. 
+Study funding sources 
+Seven studies received financial support from government or academic institutions; six received grants from the pharmaceutical industry; and five did not state sources of support. 
+Key results 
+Without antibiotics, almost half of all participants were cured after one week, and two out of three were cured after 14 days. Five (diagnosis based on symptoms described to a doctor) to 11 (diagnosis confirmed by x‐ray) more people per 100 were cured faster with antibiotics. A computed tomography (CT) scan could better predict who would benefit from antibiotics, but routine use would cause health problems related to radiation exposure. Ten more people per 100 were relieved faster of thick, yellow discharge from the nose with antibiotics compared to a dummy drug or no treatment. Thirteen more people per 100 experienced side effects (mostly concerning stomach or intestines) with antibiotics compared to a dummy drug or no treatment. Compared with people who initially started antibiotics, five more people per 100 in the dummy drug or no treatment group had to start antibiotics because their condition worsened. Serious complications (e.g. brain abscess) were rare. 
+We found that antibiotics are not a first‐choice treatment for adults with short‐duration sinus infection. We found no evidence relating to adults with severe sinusitis or with reduced immunity, or to children. 
+Quality of evidence 
+We found high‐quality evidence when the diagnosis was based on symptoms described to a doctor. We downgraded evidence quality to moderate when diagnosis was confirmed by x‐ray or CT scan because the number of participants was small, which makes the estimates less reliable. 

@@ -1,0 +1,18 @@
+Background
+Chronically elevated blood glucose levels are associated with significant morbidity and mortality. Many diabetes patients will eventually require insulin treatment to maintain good glycaemic control. There are still uncertainties about the optimal insulin treatment regimens for type 2 diabetes, but the long‐acting insulin analogues seem beneficial. Several reviews have compared either insulin detemir or insulin glargine to NPH insulin, but research directly comparing both insulin analogues is limited. 
+Objectives
+To assess the effects of insulin detemir and insulin glargine compared with each other in the treatment of type 2 diabetes mellitus. 
+Search methods
+We searched MEDLINE, EMBASE, The Cochrane Library, online registries of ongoing trials and abstract books. Date of last search was January 2011. 
+Selection criteria
+All randomised controlled trials comparing insulin detemir with insulin glargine with a duration of 12 weeks or longer were included. 
+Data collection and analysis
+Two authors independently selected the studies and extracted the data. Pooling of studies by means of random‐effects meta‐analysis was performed. 
+Main results
+This review examined four trials lasting 24 to 52 weeks involving 2250 people randomised to either insulin detemir or glargine. Overall, risk of bias of the evaluated studies was high. Insulin glargine was dosed once‐daily in the evening. Insulin detemir was initiated once‐daily in the evening with the option of an additional dose in the morning in three studies and initiated twice‐daily in one study. Of randomised patients 13.6% to 57.2% were injecting insulin detemir twice‐daily at the end of trial. 
+Glycaemic control, measured by glycosylated haemoglobin A1c (HbA1c) and HbA1c equal to or less than 7% with or without hypoglycaemia, did not differ statistically significantly between treatment groups. 
+The results showed no significant differences in overall, nocturnal and severe hypoglycaemia between treatment groups. 
+Insulin detemir was associated with less weight gain. Treatment with insulin glargine resulted in a lower daily basal insulin dose and a lower number of injection site reactions. 
+There was no significant difference in the variability of FPG or glucose values in 24‐hour profiles between treatment groups. It was not possible to draw conclusions on quality of life, costs or mortality. Only one trial reported results on health‐related quality of life and showed no significant differences between treatment groups. 
+Authors' conclusions
+Our analyses suggest that there is no clinically relevant difference in efficacy or safety between insulin detemir and insulin glargine for targeting hyperglycaemia. However, to achieve the same glycaemic control insulin detemir was often injected twice‐daily in a higher dose but with less weight gain, while insulin glargine was injected once‐daily, with somewhat fewer injection site reactions. 

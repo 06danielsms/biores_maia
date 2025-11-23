@@ -1,0 +1,14 @@
+Background
+: Colon cancer is potentially curable by surgery. Although adjuvant chemotherapy benefits patients with stage III disease, there is uncertainty of such benefit in stage II colon cancer. A systematic review of the literature was performed to better define the potential benefits of adjuvant therapy for patients with stage II colon cancer. 
+Objectives
+: To determine the effects of adjuvant therapy on overall survival and disease‐free survival in patients with stage II colon cancer. 
+Search methods
+: Ovid MEDLINE(R) (1986‐2007), EMBASE (1980‐2007), and EBM Reviews ‐ Cochrane Central Register of Controlled Trials ( to 2007) were searched using the medical headings "colonic neoplasms", "colorectal neoplasms", "adjuvant chemotherapy", "adjuvant radiotherapy" and "immunotherapy", and the text words "colon cancer" and "colonic neoplasms". In addition, proceedings from the annual meetings of the American Society of Clinical Oncology and the European Society of Medical Oncology (1996 to 2004) as well as personal files were searched for additional information. 
+Selection criteria
+: Randomized trials or meta‐analyses containing data on stage II colon cancer patients undergoing adjuvant therapy versus surgery alone. 
+Data collection and analysis
+: Three reviewers summarized the results of selected studies. The main outcomes of interest were overall and disease‐free survival, however, data on toxicity and treatment delivery were also recorded. 
+Main results
+: With regards to the effect of adjuvant therapy on stage II colon cancer, the pooled relative risk ratio for overall survival was 0.96 (95% confidence interval 0.88, 1.05). With regards to disease‐free survival, the pooled relative risk ratio was 0.83 (95% confidence interval 0.75, 0.92). 
+Authors' conclusions
+: Although there was no improvement in overall survival in the pooled analysis, we did find that disease‐free survival in patients with stage II colon cancer was signficantly better with the use of adjuvant therapy. It seems reasonable to discuss the benefits of adjuvant systemic chemotherapy with those stage II patients who have high risk features, including obstruction, perforation, inadequate lymph node sampling or T4 disease. The co‐morbidities and likelihood of tolerating adjuvant systemic chemotherapy should be considered as well. There exists a need to further define which high‐risk features in stage II colon cancer patients should be used to select patients for adjuvant therapy. Also, researchers must continue to search for other therapies which might be more effective, shorter in duration and less toxic than those available today. 

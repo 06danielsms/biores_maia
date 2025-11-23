@@ -1,0 +1,14 @@
+Background
+Suxiao jiuxin wan is widely used in China for angina pectoris.
+Objectives
+The objective of this review is to determine the effects (benefits and harms) of suxiao jiuxin wan in the treatment of angina pectoris. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials on The Cochrane Library (issue 4 2005), Medline (1995 to 2005), EMBASE (1995 to 2005), the Register of Chinese trials developed by the Chinese Cochrane Centre (to 2006), and the Chinese Biomedical Database (1995 to 2005), and handsearched 83 Chinese journals. We also searched reference lists, databases of ongoing trials and the Internet. Date of last search: November 2005. 
+Selection criteria
+Randomised controlled trials of suxiao jiuxin wan compared to standard treatment in people with angina. Studies with a treatment duration > 4 weeks were included. 
+Data collection and analysis
+Two reviewers independently applied the inclusion criteria, assessed trial quality and extracted the data. 
+Main results
+Fifteen trials involving 1776 people were included. There was weak evidence that suxiao jiuxin wan compared with nitroglyerin (xiaoxintong) improved ECG measurements (RR 1.16, 95% CI 1.05 to 1.27), reduced symptoms (RR 1.09, 95% CI 1.04 to 1.13), reduced the frequency of acute attacks of angina (difference in means ‐0.70, 95% CI ‐0.90 to ‐0.50), reduced diastolic pressure (difference in means ‐3mmHg, 95% CI ‐5.73 to ‐0.27) and reduced the need for supplementary nitroglycerin (difference in means of ‐0.60, 95% CI ‐0.94 to ‐0.26). There was also weak evidence that suxiao jiuxin wan compared with Salvia miltiorrhiza (danshen) reduced symptoms (RR 1.21, 95% CI 1.11 to 1.31) and improved ECG measurements (RR 1.55, 95% CI 1.30 to 1.84). There was no significant difference when comparing suxiao jiuxin wan with isosorbide dinitrate (xiaosuanyishanlizhi) both for ECG improvement (RR 1.34, 95% CI 0.91 to 1.98) and for symptom improvement (RR 1.11, 95% CI 0.86 to 1.43). 
+Authors' conclusions
+Suxiao jiuxin wan appears to be effective in the treatment of angina pectoris and no serious side effects were identified. However, the evidence remains weak due to poor methodological quality of including studies. 

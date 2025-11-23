@@ -1,0 +1,14 @@
+Why was the research needed?
+Researchers are looking for more environmentally friendly ways to treat people who have chronic obstructive pulmonary disease, also called "COPD". Before a treatment can be approved for people to take, researchers do clinical studies to find out how safe it is and how it works.
+
+COPD is a long-term condition caused by damage to the airways and narrowing of the airways. This can lead to symptoms such as feeling short of breath, coughing, and phlegm.
+
+Budesonide, glycopyrronium, and formoterol fumarate are all inhaled drugs that doctors currently use to help people who have COPD manage their symptoms. Budesonide, glycopyrronium, and formoterol fumarate can be given in combination through different types of inhaler devices. The combination of these drugs is called "BGF". One type of inhaler device used to give BGF is a metered-dose inhaler, also called a "BGF MDI".
+
+Drugs given through an MDI are carried to the lungs with the help of liquified gases called "propellants". These propellants are greenhouse gases that can contribute to global warming. Researchers are looking for propellants that can be used to deliver drugs to the lungs without contributing to global warming.
+
+One way of taking budesonide, glycopyrronium, and formoterol fumarate is using an MDI containing a propellant called "HFA". In this study, the researchers wanted to compare how much budesonide, glycopyrronium, and formoterol fumarate got into the participants' blood when taken through BGF MDIs that have HFA or 2 new propellants called "HFC" and "HFO".
+
+HFA is an approved propellant that is currently used by people with COPD, but it contributes to global warming. HFC and HFO do not contribute to global warming as much as HFA. These new propellants would allow people with COPD to continue taking inhaled treatments, while helping to reduce global warming.
+
+- Clinical Study Results

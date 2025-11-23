@@ -1,0 +1,15 @@
+Background
+Preterm birth is a significant perinatal problem contributing to perinatal morbidity and mortality. Heavy vaginal ureaplasma colonisation is suspected of playing a role in preterm birth and preterm rupture of the membranes. Antibiotics are used to treat infections and have been used to treat pregnant women with preterm prelabour rupture of the membranes, resulting in some short‐term improvements. However, the benefit of using antibiotics in early pregnancy to treat heavy vaginal colonisation is unclear. 
+Objectives
+To assess whether antibiotic treatment of pregnant women with heavy vaginal ureaplasma colonisation reduces the incidence of preterm birth and other adverse pregnancy outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2011). 
+Selection criteria
+Randomised controlled trials comparing any antibiotic regimen with placebo or no treatment in pregnant women with ureaplasma detected in the vagina. 
+Data collection and analysis
+Three review authors independently assessed eligibility and trial quality and extracted data. 
+Main results
+We included one trial, involving 1071 women. Of these, 644 women between 22 weeks and 32 weeks' gestation were randomly assigned to one of three groups of antibiotic treatment (n = 174 erythromycin estolate, n = 224 erythromycin stearate, and n = 246 clindamycin hydrochloride) or a placebo (n = 427). Preterm birth data was not reported in this trial. Incidence of low birthweight less than 2500 grams was only evaluated for erythromycin (combined, n = 398) compared to placebo (n = 427) and there was no statistically significant difference between the two groups (risk ratio (RR) 0.70, 95% confidence interval (CI) 0.46 to 1.07). There were no statistically significant differences in side effects sufficient to stop treatment between either group (RR 1.25, 95% CI 0.85 to 1.85). 
+Authors' conclusions
+There is insufficient evidence to assess whether pregnant women who have vaginal colonisation with ureaplasma should be treated with antibiotics to prevent preterm birth. 
+Preterm birth is a significant perinatal problem. Upper genital tract infections, including ureaplasmas, are suspected of playing a role in preterm birth and preterm rupture of the membranes. Antibiotics are used to treat women with preterm prelabour rupture of the membranes; this may result in prolongation of pregnancy and lowers the risks of maternal and neonatal infection. However, antibiotics may be beneficial earlier in pregnancy to eradicate potentially causative agents. 

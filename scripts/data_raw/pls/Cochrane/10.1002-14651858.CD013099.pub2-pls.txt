@@ -1,0 +1,53 @@
+What are the benefits and risks of different treatments for bacterial folliculitis and boils (inflammation of the skin around hairs)? 
+Why is this question important? 
+Bacterial folliculitis is an inflammation of the tiny pockets in our skin from which hairs grow (hair follicles). It occurs when bacteria (tiny organisms not visible with the naked eye) infect hair follicles. Bacterial folliculitis typically causes red swelling, with or without a small blister that contains pus. 
+Without treatment, bacterial folliculitis may progress to hard and painful lumps filled with pus, known as boils. These cover several hair follicles, and affect the skin around them. 
+Bacterial folliculitis and boils affect people worldwide, and have an important negative impact on quality of life. Infections typically: 
+‐ cause unsightly infections on parts of the body visible to others (such as the face and neck); or 
+‐ develop where skin rubs, causing discomfort and pain (such as armpits and buttocks).
+A range of treatment options for bacterial folliculitis and boils is available. These include: 
+‐ antibiotics (medicines that fight bacterial infections). These can be applied to part of the body (locally) in the form of creams (topical antibiotics); or they can be taken by mouth (orally) or given as injections, to treat the whole body (systemic antibiotics); 
+‐ antiseptics (chemicals applied to the skin to fight infections caused by micro‐organisms, such as bacteria); 
+‐ light therapy; and
+‐ surgery, for example, doctors may make a small cut (incision) in the skin to allow pus to drain out. 
+To find out which treatments work best for bacterial folliculitis and boils, we reviewed the evidence from research studies. 
+How did we identify and evaluate the evidence? 
+First, we searched for randomised controlled studies, in which people were randomly put into one of two or more treatment groups. This makes it less likely that any differences between treatments were actually due to differences in the people who received them (rather than the treatments themselves, which is what we wanted to find out). 
+We then compared the results, and summarised the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find? 
+We found 18 studies that involved a total of 1300 people. People were followed‐up for between one week and three months. Studies were set in Asia, Europe and America. Only three studies reported information about funding: non‐profit organisations funded one study, and pharmaceutical companies funded two studies. 
+The studies compared:
+‐ different oral antibiotics (11 studies);
+‐ different topical antibiotics (2 studies);
+‐ different treatments for wound care after boil incision (2 studies);
+‐ different traditional Chinese medicines (1 study);
+‐ co‐trimoxazole (antibiotics) with, and without, 8‐methoxypsoralen (a light‐sensitising treatment) followed by exposure to sunlight (1 study); and 
+‐ penicillin (an antibiotic) with, and without, fire cupping (a form of traditional Chinese medicine) after surgery (1 study). 
+We found no studies that evaluated antiseptics or investigated quality of life or recurrence of bacterial folliculitis or boils. 
+Here we report the findings from four comparisons of different oral antibiotics.
+Cure 
+The evidence from studies that investigated how successfully different oral antibiotics cured bacterial folliculitis and boils suggests that: 
+‐ there is probably little to no difference between cefditoren pivoxil and cefaclor (1 study, 93 people); 
+‐ there may be little to no difference between cefdinir and cephalexin (1 study, 74 people). 
+The few studies available did not provide sufficiently robust information to determine if: 
+‐ cefadroxil is better or worse than flucloxacillin (1 study, 41 people); or
+‐ azithromycin is better or worse than cefaclor (2 studies, 31 people).
+Severe adverse events (such as fever or vomiting) 
+The evidence from studies that compared frequencies of severe adverse events suggests there may be little to no difference between: 
+‐ cefadroxil and flucloxacillin (1 study, 651 people);
+‐ cefdinir and cephalexin (1 study, 391 people); and
+‐ cefditoren pivoxil and cefaclor (1 study, 150 people).
+We do not know if azithromycin is associated with more, or fewer, severe adverse events than cefaclor. This is because studies provided insufficiently robust information (2 studies, 274 people). 
+Minor adverse events (such as feeling thirsty or dizzy) 
+The evidence from studies that compared frequencies of minor adverse events suggests there is probably little to no difference between: 
+‐ cefadroxil and flucloxacillin (1 study, 651 people); and
+‐ cefditoren pivoxil and cefaclor (1 study, 150 people).
+We do not know whether there are more, or fewer, minor adverse events associated with:
+‐ cefdinir or cephalexin (1 study, 391 people); or
+‐ azithromycin or cefaclor (2 studies, 274 people).
+This is because studies reported insufficiently robust information.
+What does this mean? 
+The limited evidence available does not suggest that any one oral antibiotic is better than another for treating bacterial folliculitis and boils. 
+The comparative benefits and risks of other treatments such as antiseptics or light therapy are unclear, because too few studies have investigated this. 
+How up‐to‐date is this review? 
+The evidence in this Cochrane Review is current to June 2020.

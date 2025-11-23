@@ -1,0 +1,15 @@
+Background
+Acyclovir has the potential to shorten the course of illness which may result in reduced costs and morbidity associated with chickenpox. 
+Objectives
+To examine the evidence evaluating the efficacy of acyclovir in alleviating symptoms of chickenpox and shortening the duration of illness.  To examine complications of chickenpox and adverse effects associated with acyclovir as reported in the relevant trials. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2008, issue 3) which contains the Acute Respiratory Infections Group's Specialized Register, MEDLINE (1950 to Septemer Week 3, 2008), and EMBASE (1974 to September 2008). The reference lists of all relevant articles were reviewed. 
+Selection criteria
+Randomized controlled trials that evaluated otherwise healthy children zero to 18 years of age, with chickenpox. 
+Data collection and analysis
+Two review authors independently reviewed the studies for eligibility. Two review authors independently assessed methodological quality of the relevant studies using the Jadad scale and allocation concealment. Differences were resolved by consensus. Data were extracted by one review author using a structured form and checked by a second. 
+Continuous data were converted to the weighted mean difference (WMD). Weighted mean differences were combined into an overall estimate using random effects. There were too few studies to consider exploring statistical heterogeneity between studies (i.e., differences in reported effects), formally, or to assess for publication bias. 
+Main results
+Three studies were included. Study quality was three (n = 2) and four (n = 1) on the Jadad scale. Acyclovir was associated with a reduction in the number of days with fever (‐1.1 days, 95% CI ‐1.3 to ‐0.9) and in reducing the maximum number of lesions (‐76 lesions, ‐145 to ‐8). Results were less supportive with respect to the number of days to no new lesions and the number of days to the relief of itching. There were no clinically important differences between acyclovir and placebo with respect to complications associated with chickenpox or adverse effects associated with the treatment. 
+Authors' conclusions
+Acyclovir appears to be effective in reducing the number of days with fever and the maximum number of lesions among otherwise healthy children with chickenpox. The results were less convincing with respect to the number of days to no new lesions and relief of itchiness. The clinical importance of acyclovir treatment in otherwise healthy children remains uncertain. 

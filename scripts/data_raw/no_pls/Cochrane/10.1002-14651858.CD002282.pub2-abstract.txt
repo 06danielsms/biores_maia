@@ -1,0 +1,14 @@
+Background
+Bonding of orthodontic brackets to teeth is important to enable effective and efficient treatment with fixed appliances. The problem is bracket failure during treatment which increases operator chairside time and lengthens treatment time. A prolonged treatment is likely to increase the oral health risks of orthodontic treatment with fixed appliances one of which is irreversible enamel decalcification. This is an update of the Cochrane Review first published in 2003. A new full search was conducted on 26 September 2017 but no new studies were identified. We have only updated the search methods section in this new version. The conclusions of this Cochrane Review remain the same. 
+Objectives
+To evaluate the effects of different orthodontic adhesives for bonding.
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 26 September 2017), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 8) in the Cochrane Library (searched 26 September 2017), MEDLINE Ovid (1946 to 26 September 2017), and Embase Ovid (1980 to 26 September 2017). The US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. 
+Selection criteria
+Trials were selected if they met the following criteria: randomised controlled trials (RCTs) and controlled clinical trials (CCTs) comparing two different adhesive groups. Participants were patients with fixed orthodontic appliances. The interventions were adhesives that bonded stainless steel brackets to all teeth except the molars. The primary outcome was debond or bracket failure. 
+Data collection and analysis
+Data were recorded on decalcification as a secondary outcome, if present. Information regarding methods, participants, interventions, outcome measures and results were extracted in duplicate by pairs of review authors. Since the data were not presented in a form that was amenable to meta‐analysis, the results of the review are presented in narrative form only. 
+Main results
+Three trials satisfied the inclusion criteria. A chemical cured composite was compared with a light cured composite (one trial), a conventional glass ionomer cement (one trial) and a polyacid‐modified resin composite (compomer) (one trial). The quality of the trial reports was generally poor. 
+Authors' conclusions
+There is no clear evidence on which to make a clinical decision of the type of orthodontic adhesive to use. 

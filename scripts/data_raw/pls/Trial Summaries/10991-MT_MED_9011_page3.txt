@@ -1,0 +1,18 @@
+Clinical Study Results                                                                                                        
+What kind of study was this?
+This was an "open-label" study. This means the researchers and the participant knew which treatment the participant was taking.
+There were 3 inhaled treatments in this study. Each treatment included AZD1402. The participants took all 3 treatments, but in a different order.
+There were 2 forms of AZD1402: a powder and a liquid. The forms were taken in 2 ways: through an inhaler and through a nebulizer.
+The powder form of AZD1402 was inhaled. The liquid form was inhaled through a nebulizer, which is a type of inhaler used to turn a liquid into a mist that enters the lungs.
+A computer program was used to randomly choose the order in which the participants took each treatment. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+What happened during the study?
+Before the participants took study treatment, they visited their study site 1 time over the course of about 4 weeks. At this visit, the study doctors checked to make sure the participants could join the study. The study doctors:
+- did a physical examination
+- took blood and urine samples
+- checked the participants' heart health using an electrocardiogram, also called an ECG
+- asked the participants about their medical history, how they were feeling, and what medicines they were taking
+- explained how to take the inhaled treatments during the study
+During the study, the participants visited their study site 3 times over the course of about 3 weeks. During each visit, the participants stayed at their study site for 3 days and took 1 of 3 AZD1402 treatments:
+- a liquid dose of AZD1402 taken through a nebulizer
+- a low dose of AZD1402 taken as a powder through an inhaler
+- a high dose of AZD1402 taken as a powder through an inhaler

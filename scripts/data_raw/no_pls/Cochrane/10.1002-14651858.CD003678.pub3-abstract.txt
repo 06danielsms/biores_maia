@@ -1,0 +1,35 @@
+Background
+Endometriosis is a common gynaecological condition affecting 10% to 15% of reproductive‐age women and may cause dyspareunia, dysmenorrhoea, and infertility. One treatment strategy is combining surgery and medical therapy to reduce the recurrence of endometriosis. Though the combination of surgery and medical therapy appears to be beneficial, there is a lack of clarity about the appropriate timing of when medical therapy should be used in relation with surgery, that is, before, after, or both before and after surgery, to maximize treatment response. 
+Objectives
+To determine the effectiveness of medical therapies for hormonal suppression before, after, or both before and after surgery for endometriosis for improving painful symptoms, reducing disease recurrence, and increasing pregnancy rates. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility (CGF) Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and two trials registers in November 2019 together with reference checking and contact with study authors and experts in the field to identify additional studies. 
+Selection criteria
+We included randomized controlled trials (RCTs) which compared medical therapies for hormonal suppression before, after, or before and after, therapeutic surgery for endometriosis. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. Where possible, we combined data using risk ratio (RR), standardized mean difference or mean difference (MD) and 95% confidence intervals (CI). Primary outcomes were: painful symptoms of endometriosis as measured by a visual analogue scale (VAS) of pain, other validated scales or dichotomous outcomes; and recurrence of disease as evidenced by EEC (Endoscopic Endometriosis Classification), rAFS (revised American Fertility Society), or rASRM (revised American Society for Reproductive Medicine) scores at second‐look laparoscopy. 
+Main results
+We included 25 trials with 3378 women with endometriosis. We used the term "surgery alone" to refer to placebo or no medical therapy. 
+Presurgical medical therapy compared with placebo or no medical therapy 
+Compared to surgery alone, we are uncertain if presurgical medical hormonal suppression reduces pain recurrence at 12 months or less (dichotomous) (RR 1.10, 95% CI 0.72 to 1.66; 1 RCT, n = 262; very low‐quality evidence) or whether it reduces disease recurrence at 12 months – total (AFS score) (MD –9.6, 95% CI –11.42 to –7.78; 1 RCT, n = 80; very low‐quality evidence). 
+We are uncertain if presurgical medical hormonal suppression decreases disease recurrence at 12 months or less (EEC stage) compared to surgery alone (RR 1.11, 95% CI 0.86 to 1.43; 1 RCT, n = 262; very low‐quality evidence). We are uncertain if presurgical medical hormonal suppression improves pregnancy rates compared to surgery alone (RR 1.18, 95% CI 0.97 to 1.45; 1 RCT, n = 262; very low‐quality evidence). No trials reported pelvic pain at 12 months or less (continuous) or disease recurrence at 12 months or less. 
+Postsurgical medical therapy compared with placebo or no medical therapy 
+We are uncertain about the improvement observed in pelvic pain at 12 months or less (continuous) between postsurgical medical hormonal suppression and surgery alone (SMD ‐0.79, 95% CI ‐1.02 to ‐0.56; 3 RCTs, n = 340; I2 = 91%; very low‐quality evidence). 
+Compared to surgery alone, postsurgical medical therapy may decrease pain recurrence at 12 months or less (dichotomous) (RR 0.70, 95% CI 0.52 to 0.94; 5 RCTs, n = 657; I2 = 0%; low‐quality evidence). 
+We are uncertain if postsurgical medical hormonal suppression improves disease recurrence at 12 months – total (AFS score) compared to surgery alone (MD –2.29, 95% CI –4.01 to –0.57; 1 RCT, n = 51; very low‐quality evidence). 
+Disease recurrence at 12 months or less may be reduced with postsurgical medical hormonal suppression compared to surgery alone (RR 0.30, 95% CI 0.17 to 0.54; 4 RCTs, n = 433; I2 = 58%; low‐quality evidence). 
+We are uncertain if postsurgical medical hormonal suppression improves disease recurrence at 12 months or less (EEC stage) (RR 0.88, 95% CI 0.67 to 1.15; 1 RCT, n = 285; very low‐quality evidence). 
+Pregnancy rate is probably increased with postsurgical medical hormonal suppression compared to surgery alone (RR 1.19, 95% CI 1.02 to 1.38; 11 RCTs, n = 955; I2 = 27%; moderate‐quality evidence). 
+Pre‐ and postsurgical medical therapy compared with surgery alone or surgery and placebo 
+There were no trials identified in the search for this comparison.
+Presurgical medical therapy compared with postsurgical medical therapy 
+We are uncertain about the difference in pain recurrence at 12 months or less (dichotomous) between postsurgical and presurgical medical hormonal suppression therapy (RR 1.40, 95% CI 0.95 to 2.07; 2 RCTs, n = 326; I2 = 2%; low‐quality evidence). 
+We are uncertain about the difference in disease recurrence at 12 months or less (EEC stage) between postsurgical and presurgical medical hormonal suppression therapy (RR 1.26, 95% CI 0.97 to 1.65; 1 RCT, n = 273; very low‐quality evidence). 
+We are uncertain about the difference in pregnancy rate between postsurgical and presurgical medical hormonal suppression therapy (RR 1.08, 95% CI 0.90 to 1.30; 1 RCT, n = 273; very low‐quality evidence). 
+No trials reported pelvic pain at 12 months or less (continuous), disease recurrence at 12 months – total (AFS score) or disease recurrence at 12 months or less (dichotomous). 
+Postsurgical medical therapy compared with pre‐ and postsurgical medical therapy 
+There were no trials identified in the search for this comparison.
+Serious adverse effects for medical therapies reviewed 
+There was insufficient evidence to reach a conclusion regarding serious adverse effects, as no studies reported data suitable for analysis. 
+Authors' conclusions
+Our results indicate that the data about the efficacy of medical therapy for endometriosis are inconclusive, related to the timing of hormonal suppression therapy relative to surgery for endometriosis. In our various comparisons of the timing of hormonal suppression therapy, women who receive postsurgical medical therapy compared with no medical therapy or placebo may experience benefit in terms of pain recurrence, disease recurrence, and pregnancy. There is insufficient evidence regarding hormonal suppression therapy at other time points in relation to surgery for women with endometriosis. 

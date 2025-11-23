@@ -1,0 +1,15 @@
+Background
+Proponents of therapeutic ultrasound suggest it can decrease pain by resolution of inflammation processes and reducing the pressure on pain sensitive structures by haematoma and oedema. 
+Objectives
+The objective of this review was to assess the effects of therapeutic ultrasound for treating acute perineal pain, persistent perineal pain or dyspareunia, or both, following childbirth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (January 2008). 
+Selection criteria
+Randomised and quasi‐randomised trials comparing active therapeutic ultrasound with no treatment, placebo ultrasound, or any other 'standard' or active treatment for women with acute or persistent perineal pain or dyspareunia, or both, following childbirth. 
+Data collection and analysis
+One review author assessed trial quality and extracted data.
+Main results
+Four trials involving 659 women were included. The trials were of variable quality.
+Based on two placebo controlled trials, women treated with active ultrasound for acute perineal pain were more likely to report improvement in pain with treatment (odds ratio (OR) 0.37, 95% confidence interval (CI) 0.19 to 0.69). No other outcome reached significance. In one trial comparing pulsed electromagnetic energy with ultrasound for acute perineal pain, women treated with ultrasound were more likely to have bruising post‐treatment (OR 1.64, 95% CI 1.04 to 2.60). However, those treated with ultrasound were less likely to have experienced perineal pain within the last 24 hours at 10 days (OR 0.56, 95% CI 0.34 to 0.92) and pain within the last week at three months (OR 0.43, 95% CI 0.22 to 0.84). No other outcome reached significance. Based on one trial, women treated with ultrasound for persistent perineal pain or dyspareunia, or both, were less likely to report pain with sexual intercourse compared with the placebo group (OR 0.31, 95% CI 0.11 to 0.84). None of the other outcomes measured reached significance. 
+Authors' conclusions
+There is not enough evidence to evaluate the use of ultrasound in treating perineal pain or dyspareunia, or both, following childbirth. 

@@ -1,0 +1,14 @@
+Background
+Foot ulcers in people with diabetes are a prevalent and serious global health issue. Dressings form a key part of ulcer treatment, with clinicians and patients having many different types to choose from. A clear and current overview of current evidence is required to facilitate decision‐making regarding dressing use. 
+Objectives
+The review aimed to evaluate the effects of foam wound dressings on the healing of foot ulcers in people with diabetes. 
+Search methods
+For this first update we searched the following databases the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL in April 2013. There were no restrictions based on language or date of publication. 
+Selection criteria
+Published or unpublished randomised controlled trials (RCTs) that evaluated the effects on ulcer healing of one or more foam wound dressings in the treatment of foot ulcers in people with diabetes. 
+Data collection and analysis
+Two review authors independently performed study selection, risk of bias assessment and data extraction. 
+Main results
+We included six studies (157 participants) in this review. Meta analysis of two studies indicated that foam dressings do not promote the healing of diabetic foot ulcers compared with basic wound contact dressings (RR 2.03, 95%CI 0.91 to 4.55). Pooled data from two studies comparing foam and alginate dressing found no statistically significant difference in ulcer healing (RR 1.50, 95% CI 0.92 to 2.44). There was no statistically significant difference in the number of diabetic foot ulcers healed when foam dressings were compared with hydrocolloid (matrix) dressings. All included studies were small and/or had limited follow‐up times. 
+Authors' conclusions
+Currently there is no research evidence to suggest that foam wound dressings are more effective in healing foot ulcers in people with diabetes than other types of dressing however all trials in this field are very small. Decision makers may wish to consider aspects such as dressing cost and the wound management properties offered by each dressing type e.g. exudate management. 

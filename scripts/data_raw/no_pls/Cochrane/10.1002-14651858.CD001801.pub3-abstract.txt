@@ -1,0 +1,18 @@
+Background
+Otitis media with effusion (OME; 'glue ear') is common in childhood and surgical treatment with grommets (ventilation tubes) is widespread but controversial. 
+Objectives
+To assess the effectiveness of grommet insertion compared with myringotomy or non‐surgical treatment in children with OME. 
+Search methods
+We searched the Cochrane ENT Disorders Group Trials Register, other electronic databases and additional sources for published and unpublished trials (most recent search: 22 March 2010). 
+Selection criteria
+Randomised controlled trials evaluating the effect of grommets. Outcomes studied included hearing level, duration of middle ear effusion, language and speech development, cognitive development, behaviour and adverse effects. 
+Data collection and analysis
+Data from studies were extracted by two authors and checked by the other authors.
+Main results
+We included 10 trials (1728 participants). Some trials randomised children (grommets versus no grommets), others ears (grommet one ear only). The severity of OME in children varied between trials. Only one 'by child' study (MRC: TARGET) had particularly stringent audiometric entry criteria. No trial was identified that used long‐term grommets. 
+Grommets were mainly beneficial in the first six months by which time natural resolution lead to improved hearing in the non‐surgically treated children also. Only one high quality trial that randomised children (N = 211) reported results at three months; the mean hearing level was 12 dB better (95% CI 10 to 14 dB) in those treated with grommets as compared to the controls. Meta‐analyses of three high quality trials (N = 523) showed a benefit of 4 dB (95% CI 2 to 6 dB) at six to nine months. At 12 and 18 months follow up no differences in mean hearing levels were found. 
+Data from three trials that randomised ears (N = 230 ears) showed similar effects to the trials that randomised children. At four to six months mean hearing level was 10 dB better in the grommet ear (95% CI 5 to 16 dB), and at 7 to 12 months and 18 to 24 months was 6 dB (95% CI 2 to 10 dB) and 5 dB (95% CI 3 to 8 dB) dB better. 
+No effect was found on language or speech development or for behaviour, cognitive or quality of life outcomes. 
+Tympanosclerosis was seen in about a third of ears that received grommets. Otorrhoea was common in infants, but in older children (three to seven years) occurred in < 2% of grommet ears over two years of follow up. 
+Authors' conclusions
+In children with OME the effect of grommets on hearing, as measured by standard tests, appears small and diminishes after six to nine months by which time natural resolution also leads to improved hearing in the non‐surgically treated children. No effect was found on other child outcomes but data on these were sparse. No study has been performed in children with established speech, language, learning or developmental problems so no conclusions can be made regarding treatment of such children. 

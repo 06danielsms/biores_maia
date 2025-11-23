@@ -1,0 +1,16 @@
+Background
+Progressive muscle weakness is a main symptom of most hereditary and acquired muscle diseases. Creatine improves muscle performance in healthy individuals. This is an update of our 2007 Cochrane review that evaluated creatine treatment in muscle disorders. Previous updates were in 2009 and 2011. 
+Objectives
+To evaluate the efficacy of creatine compared to placebo for the treatment of muscle weakness in muscle diseases. 
+Search methods
+On 11 September 2012, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL (2012, Issue 9 in The Cochrane Library), MEDLINE (January 1966 to September 2012) and EMBASE (January 1980 to September 2012) for randomised controlled trials (RCTs) of creatine used to treat muscle diseases. 
+Selection criteria
+RCTs or quasi‐RCTs of creatine treatment compared to placebo in hereditary muscle diseases or idiopathic inflammatory myopathies. 
+Data collection and analysis
+Two authors independently applied the selection criteria, assessed trial quality and extracted data. We obtained missing data from investigators. 
+Main results
+A total of 14 trials, including 364 randomised participants, met the selection criteria. The risk of bias was low in most studies. Only one trial had a high risk of selection, performance and detection bias. No new studies were identified at this update. 
+Meta‐analysis of six trials in muscular dystrophies including 192 participants revealed a significant increase in muscle strength in the creatine group compared to placebo, with a mean difference of 8.47%; (95% confidence intervals (CI) 3.55 to 13.38). Pooled data of four trials including 115 participants showed that a significantly higher number of participants felt better during creatine treatment compared to placebo with a risk ratio of 4.51 (95% CI 2.33 to 8.74). One trial in 37 participants with idiopathic inflammatory myopathies also showed a significant improvement in functional performance. No trial reported any clinically relevant adverse event. 
+In metabolic myopathies, meta‐analyses of three cross‐over trials including 33 participants revealed no significant difference in muscle strength. One trial reported a significant deterioration of activities of daily living (mean difference 0.54 on a 1 to 10 scale; 95% CI 0.14 to 0.93) and an increase in muscle pain during high‐dose creatine treatment in McArdle disease. 
+Authors' conclusions
+High quality evidence from RCTs shows that short‐ and medium‐term creatine treatment increases muscle strength in muscular dystrophies. There is also evidence that creatine improves functional performance in muscular dystrophy and idiopathic inflammatory myopathy. Creatine is well tolerated in these people. High quality but limited evidence from RCTs does not show significant improvement in muscle strength in metabolic myopathies. High‐dose creatine treatment impaired activities of daily living and increased muscle pain in McArdle disease. 

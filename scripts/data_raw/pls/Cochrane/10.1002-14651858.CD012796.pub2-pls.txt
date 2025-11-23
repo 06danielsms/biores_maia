@@ -1,0 +1,19 @@
+Targeted drug treatment for kidney cancer which has spread
+Review question 
+How effective is targeted drug treatment for patients with kidney cancer which has spread compared with other targeted drug treatments? 
+Background 
+Kidney cancer which has spread was treated over the last decade with a group of drugs called targeted therapy which act specifically on molecular pathways. However, the last few years have seen the emergence of a promising, newer group of drugs called immune checkpoint inhibitors which exploit the immune system (hence called immunotherapy). Some of these drugs are currently used in combinations. This review assesses how effective targeted therapies are in comparison with different targeted therapies, immune checkpoint inhibitors or different combinations of these drugs. 
+Study characteristics 
+We included only studies in which chance determined whether people got a targeted drug or other targeted drug, and which were reported in medical literature up to 18 June 2020. Most of the studies examined the effects on kidney cancer growth (called progression), survival (life expectancy) and serious unwanted effects. 
+Key results 
+We found 18 studies that answered our review question. Participants included in these trials had metastatic (cancer that has spread to other parts of the body) or advanced cancer that could not be removed by surgery. We reported up‐to‐date comparisons that are most important to doctors and participants. 
+1. Pazopanib versus sunitinib (targeted therapy versus targeted therapy) 
+Pazopanib may make little to no difference in progression, survival, and serious unwanted effects compared to sunitinib. 
+2. Sunitinib versus avelumab and axitinib (targeted agent versus immunotherapy + targeted agent) 
+Sunitinib probably results in more progression but may make little to no difference on death and serious unwanted effects compared to avelumab and axitinib. 
+3. Sunitinib versus pembrolizumab and axitinib (targeted agent versus immunotherapy + targeted agent) 
+Sunitinib probably results in more progression and death but may slightly reduce serious unwanted effects compared to pembrolizumab and axitinib. 
+4. Sunitinib versus nivolumab and ipilimumab (targeted therapy versus combinations of immunotherapy) 
+Sunitinib may result in more progression and serious unwanted effects compared to nivolumab and ipilimumab. Sunitinib results in more deaths compared to combinations. 
+Certainty of the evidence 
+The certainty of the evidence for most outcomes was low to high, meaning that there is some uncertainty regarding the findings. Nevertheless, there is sufficient data for us to make definitive conclusions regarding how these drugs should be used in the management of patients with kidney cancer which has spread. 

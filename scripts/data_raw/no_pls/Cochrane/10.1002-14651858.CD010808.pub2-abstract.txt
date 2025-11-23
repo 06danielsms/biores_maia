@@ -1,0 +1,18 @@
+Background
+Penetrating abdominal trauma (PAT) is a common type of trauma leading to admission to hospital, which often progresses to septic complications. Antibiotics are commonly administered as prophylaxis prior to laparotomy for PAT. However, an earlier Cochrane Review intending to compare antibiotics with placebo identified no relevant randomised controlled trials (RCTs). Despite this, many RCTs have been carried out that compare different agents and durations of antibiotic therapy. To date, no systematic review of these trials has been performed. 
+Objectives
+To assess the effects of antibiotics in penetrating abdominal trauma, with respect to the type of agent administered and the duration of therapy. 
+Search methods
+We searched the following electronic databases for relevant randomised controlled trials, from database inception to 23 July 2019; Cochrane Injuries Group's Specialised Register, CENTRAL, MEDLINE Ovid, MEDLINE Ovid In‐Process & Other Non‐Indexed Citations, MEDLINE Ovid Daily and Ovid OLDMEDLINE, Embase Classic + Embase Ovid, ISI Web of Science (SCI‐EXPANDED, SSCI, CPCI‐S & CPSI‐SSH), and two clinical trials registers. We also searched reference lists from included studies. We applied no restrictions on language or date of publication. 
+Selection criteria
+We included RCTs only. We included studies involving participants of all ages, which were conducted in secondary care hospitals only. We included studies of participants who had an isolated penetrating abdominal wound that breached the peritoneum, who were not already taking antibiotics. 
+Data collection and analysis
+Two study authors independently extracted data and assessed risk of bias. We used standard Cochrane methods. We aggregated study results using a random‐effects model. We also conducted trial sequential analysis (TSA) to help reduce type I and II errors in our analyses. 
+Main results
+We included 29 RCTs, involving a total of 4458 participants. We deemed 23 trials to be at high risk of bias in at least one domain. 
+We are uncertain of the effect of a long course of antibiotic prophylaxis (> 24 hours) compared to a short course (≤ 24 hours) on abdominal surgical site infection (RR 1.00, 95% CI 0.81 to 1.23; I² = 0%; 7 studies, 1261 participants; very low‐quality evidence), mortality (Peto OR 1.67, 95% CI 0.73 to 3.82; I² = 8%; 7 studies, 1261 participants; very low‐quality evidence), or intra‐abdominal infection (RR 1.23, 95% CI 0.84 to 1.80; I² = 0%; 6 studies, 111 participants; very‐low quality evidence). 
+Based on very low‐quality evidence from fifteen studies, involving 2020 participants, which compared different drug regimens with activity against three classes of gastrointestinal flora (gram positive, gram negative, anaerobic), we are uncertain whether there is a benefit of one regimen over another. 
+TSA showed the majority of comparisons did not cross the alpha adjusted boundary for benefit or harm, or reached the required information size, indicating that further studies are required for these analyses. However, in the three analyses which crossed the boundary for futility, further studies are unlikely to show benefit or harm. 
+Authors' conclusions
+Very low‐quality evidence means that we are uncertain about the effect of either the duration of antibiotic prophylaxis, or the superiority of one drug regimen over another for penetrating abdominal trauma on abdominal surgical site infection rates, mortality, or intra‐abdominal infections. 
+Future RCTs should be adequately powered, test currently used antibiotics, known to be effective against gut flora, use methodology to minimise the risk of bias, and adequately report the level of peritoneal contamination encountered at laparotomy. 

@@ -1,0 +1,14 @@
+Background
+Alpha blockers are occasionally prescribed for hypertension so it is important to determine and compare their effects on blood pressure (BP), heart rate and withdrawals due to adverse effects (WDAE). 
+Objectives
+To quantify the dose‐related systolic and/or diastolic BP lowering efficacy of alpha blockers versus placebo in the treatment of primary hypertension. 
+Search methods
+For the updated review, we searched CENTRAL (The Cochrane Library 2012, Issue 4), MEDLINE (1946 to May 2012), EMBASE (1980 to May 2012) and reference lists of articles. 
+Selection criteria
+Double‐blind, randomized, controlled trials evaluating the BP lowering efficacy of fixed‐dose monotherapy with an alpha blocker compared with placebo for a duration of 3 to 12 weeks in patients with primary hypertension. 
+Data collection and analysis
+Two authors independently assessed the risk of bias and extracted data. Study authors were contacted for additional information. WDAE information was collected from the trials. 
+Main results
+Only 10 trials evaluated the dose‐related trough BP lowering efficacy of 4 different alpha blockers in 1175 participants with a baseline BP of 155/101 mm Hg. The data do not suggest that any one alpha blocker is better or worse at lowering BP. The best but unsatisfactory estimate of the trough BP lowering efficacy for alpha blockers is ‐8/‐5 mmHg. 
+Authors' conclusions
+Based on the limited number of published RCTs, the BP lowering effect of alpha blockers is modest; the estimate of the magnitude of trough BP lowering of ‐8/‐5 mmHg is likely an overestimate. There are no clinically meaningful BP lowering differences between different alpha blockers. The review did not provide a good estimate of the incidence of harms associated with alpha blockers because of the short duration of the trials and the lack of reporting of adverse effects in many of the trials. 

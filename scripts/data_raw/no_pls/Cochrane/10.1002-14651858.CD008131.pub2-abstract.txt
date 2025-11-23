@@ -1,0 +1,14 @@
+Background
+Social disadvantage can have a significant impact on early child development, health and wellbeing. What happens during this critical period is important for all aspects of development. Caregiving competence and the quality of the environment play an important role in supporting development in young children and parents have an important role to play in optimising child development and mitigating the negative effects of social disadvantage. Home‐based child development programmes aim to optimise children's developmental outcomes through educating, training and supporting parents in their own home to provide a more nurturing and stimulating environment for their child. 
+Objectives
+To determine the effects of home‐based programmes aimed specifically at improving developmental outcomes for preschool children from socially disadvantaged families. 
+Search methods
+We searched the following databases between 7 October and 12 October 2010: Cochrane Central Register of Controlled Trials (CENTRAL) (2010, Issue 4), MEDLINE (1950 to week 4, September 2010), EMBASE (1980 to Week 39, 2010), CINAHL (1937 to current), PsycINFO (1887 to current), ERIC (1966 to current), ASSIA (1987 to current), Sociological Abstracts (1952 to current), Social Science Citation Index (1970 to current). We also searched reference lists of articles. 
+Selection criteria
+Randomised controlled trials comparing home‐based preschool child development interventions with a 'standard care' control. Participants were parents with children up to the age of school entry who were socially disadvantaged in respect of poverty, lone parenthood or ethnic minority status. 
+Data collection and analysis
+Two authors independently selected studies, assessed the trials' risk of bias and extracted data. 
+Main results
+We included seven studies, which involved 723 participants. We assessed four of the seven studies as being at high risk of bias and three had an unclear risk of bias; the quality of the evidence was difficult to assess as there was often insufficient detail reported to enable any conclusions to be drawn about the methodological rigour of the studies. Four trials involving 285 participants measured cognitive development and we synthesised these data in a meta‐analysis. Compared to the control group, there was no statistically significant impact of the intervention on cognitive development (standardised mean difference (SMD) 0.30; 95% confidence interval ‐0.18 to 0.78). Only three studies reported socioemotional outcomes and there was insufficient data to combine into a meta‐analysis. No study reported on adverse effects. 
+Authors' conclusions
+This review does not provide evidence of the effectiveness of home‐based interventions that are specifically targeted at improving developmental outcomes for preschool children from socially disadvantaged families. Future studies should endeavour to better document and report their methodological processes. 

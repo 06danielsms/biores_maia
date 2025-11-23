@@ -1,0 +1,15 @@
+Platelet transfusions to treat bleeding compared with platelet transfusions to prevent bleeding in people with blood cancers receiving intensive treatment 
+Review question 
+We evaluated the evidence regarding whether giving platelet transfusions to patients with low platelets who are bleeding (therapeutically) is as effective and safe as giving platelet transfusions regularly to prevent bleeding (prophylactically). Our target population was people with blood cancers who were receiving intensive myelosuppressive (causing decreased blood cell production) chemotherapy treatments or stem cell transplantation. 
+Background 
+People with blood cancers may have low platelet counts because of their underlying cancer. Blood cancers may be treated with chemotherapy and stem cell transplantation, which can cause low platelet counts. Platelet transfusions may be given when the platelet count falls below a prespecified platelet count (for example 10 x 109/L) to prevent bleeding, or they may be given to treat bleeding (such as a prolonged nosebleed or multiple bruises). The routine use of platelet transfusions to prevent bleeding in these patients has not previously been supported by high‐quality evidence. 
+Study characteristics 
+The evidence is current to July 2015. In this update, we identified seven randomised controlled trials that compared only giving platelet transfusions to treat bleeding versus giving platelet transfusions to prevent and treat bleeding. One trial is still recruiting participants and has not been completed. We reviewed six randomised controlled trials with a total of 1195 participants. These trials were conducted between 1978 and 2013. Five of the trials included adults who were receiving chemotherapy or a stem cell transplantation as treatment for blood cancers. One of the trials included children receiving chemotherapy for leukaemia. 
+Four of the six studies reported funding sources; these were charitable foundations or government funds. 
+Key results 
+Giving platelet transfusions to prevent and treat bleeding in patients with low platelet counts due to blood cancers or their treatments may result in a reduction in bleeding when compared with giving platelet transfusions only to treat bleeding. 
+There may not be an increased risk of death or adverse events if platelet transfusions are only given to treat bleeding versus giving platelet transfusions to prevent and treat bleeding, but there was not enough evidence to be certain about this. 
+Giving platelet transfusions only when bleeding occurs probably reduces the number of platelets given. 
+None of the six studies reported any quality‐of‐life outcomes.
+Quality of the evidence 
+The evidence for most of the findings was of low or moderate quality, as patients and their doctors knew which study arm the patient had been put in; outcomes reported in the studies were difficult to compare because bleeding was measured and reported differently; and some outcomes were imprecise, because the outcome did not happen very often (such as death). 

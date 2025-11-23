@@ -1,0 +1,14 @@
+Background
+Subcutaneous and sub rectus sheath wound drains are sometimes used in women who have undergone caesarean section. The indications for using drains vary by clinician. 
+Objectives
+To compare the effects of using a wound drain with not using a wound drain at caesarean section, and of different types of drain, on maternal health and healthcare resource use. 
+Search methods
+In November 2013, for this second update, we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid Medline; Ovid Medline ‐ In‐Process & Other Non‐Indexed Citations; Ovid Embase; and EBSCO CINAHL. No date, language or publication status limits were applied 
+Selection criteria
+Studies were included if they allocated women to groups at random and they compared any type of wound drain with no wound drainage, or with any other type of drain, in women undergoing caesarean section. 
+Data collection and analysis
+Trials were evaluated for appropriateness for inclusion and methodological quality without consideration of their results. This was done by two reviewers according to pre‐stated eligibility criteria. 
+Main results
+Ten trials that recruited 5248 women were included in the review. Meta‐analysis found no evidence of a difference in the risk of wound infection, other wound complications, febrile morbidity or pain in women who had wound drains compared with those who did not. There was some evidence from one trial that a subcutaneous drain may increase wound infection compared to a sub‐sheath drain (RR 5.42, 95% CI 1.28 to 22.98). No differences in outcomes were found between subcutaneous drainage and subcutaneous suturing in the three trials that made this comparison. 
+Authors' conclusions
+Existing evidence suggests that the routine use of wound drains at caesarean section does not confer any substantial benefit to the women involved. However, neither moderate benefit nor harm are excluded. 

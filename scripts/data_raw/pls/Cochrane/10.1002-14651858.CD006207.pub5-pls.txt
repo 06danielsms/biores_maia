@@ -1,0 +1,40 @@
+Do physical measures such as hand‐washing or wearing masks stop or slow down the spread of respiratory viruses? 
+What are respiratory viruses? 
+Respiratory viruses are viruses that infect the cells in your airways: nose, throat, and lungs. These infections can cause serious problems and affect normal breathing. They can cause flu (influenza), severe acute respiratory syndrome (SARS), and COVID‐19. 
+How do respiratory viruses spread? 
+People infected with a respiratory virus spread virus particles into the air when they cough or sneeze. Other people become infected if they come into contact with these virus particles in the air or on surfaces on which they have landed. Respiratory viruses can spread quickly through a community, through populations and countries (causing epidemics), and around the world (causing pandemics). 
+How can we stop the spread of respiratory viruses? 
+Physical measures to try to stop respiratory viruses spreading between people include:
+· washing hands often;
+· not touching your eyes, nose, or mouth;
+· sneezing or coughing into your elbow;
+· wiping surfaces with disinfectant;
+· wearing masks, eye protection, gloves, and protective gowns;
+· avoiding contact with other people (isolation or quarantine);
+· keeping a certain distance away from other people (distancing); and
+· examining people entering a country for signs of infection (screening).
+Why we did this Cochrane Review 
+We wanted to find out whether physical measures stop or slow the spread of respiratory viruses. 
+What did we do? 
+We searched for studies that looked at physical measures to stop people catching a respiratory virus infection. 
+We were interested in how many people in the studies caught a respiratory virus infection, and whether the physical measures had any unwanted effects. 
+Search date: This is an update of a review first published in 2007. We included evidence published up to 1 April 2020. 
+What we found 
+We identified 67 relevant studies. They took place in low‐, middle‐, and high‐income countries worldwide: in hospitals, schools, homes, offices, childcare centres, and communities during non‐epidemic influenza periods, the global H1N1 influenza pandemic in 2009, and epidemic influenza seasons up to 2016. No studies were conducted during the COVID‐19 pandemic. We identified six ongoing, unpublished studies; three of them evaluate masks in COVID‐19. 
+One study looked at quarantine, and none eye protection, gowns and gloves, or screening people when they entered a country. 
+We assessed the effects of:
+· medical or surgical masks;
+· N95/P2 respirators (close‐fitting masks that filter the air breathed in, more commonly used by healthcare workers than the general public); and 
+· hand hygiene (hand‐washing and using hand sanitiser).
+What are the results of the review? 
+Medical or surgical masks 
+Seven studies took place in the community, and two studies in healthcare workers. Compared with wearing no mask, wearing a mask may make little to no difference in how many people caught a flu‐like illness (9 studies; 3507 people); and probably makes no difference in how many people have flu confirmed by a laboratory test (6 studies; 3005 people). Unwanted effects were rarely reported, but included discomfort. 
+N95/P2 respirators 
+Four studies were in healthcare workers, and one small study was in the community. Compared with wearing medical or surgical masks, wearing N95/P2 respirators probably makes little to no difference in how many people have confirmed flu (5 studies; 8407 people); and may make little to no difference in how many people catch a flu‐like illness (5 studies; 8407 people) or respiratory illness (3 studies; 7799 people). Unwanted effects were not well reported; discomfort was mentioned. 
+Hand hygiene 
+Following a hand hygiene programme may reduce the number of people who catch a respiratory or flu‐like illness, or have confirmed flu, compared with people not following such a programme (16 studies; 61,372 people). Few studies measured unwanted effects; skin irritation in people using hand sanitiser was mentioned. 
+How reliable are these results? 
+Our confidence in these results is generally low for the subjective outcomes related to respiratory illness, but moderate for the more precisely defined laboratory‐confirmed respiratory virus infection, related to  masks and N95/P2 respirators. The results might change when further evidence becomes available. Relatively low numbers of people followed the guidance about wearing masks or about hand hygiene, which may have affected the results of the studies. 
+Key messages 
+We are uncertain whether wearing masks or N95/P2 respirators helps to slow the spread of respiratory viruses. 
+Hand hygiene programmes may help to slow the spread of respiratory viruses.

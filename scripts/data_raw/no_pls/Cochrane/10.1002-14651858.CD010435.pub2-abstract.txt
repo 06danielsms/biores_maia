@@ -1,0 +1,15 @@
+Background
+Bacterial meningitis remains a significant cause of neonatal and childhood morbidity and mortality in many countries of the world, particularly in developing countries. In some instances, children recover but remain impaired as a result of neurological sequelae such as hearing loss, developmental delay and cognitive impairment. 
+Objectives
+To assess the effectiveness and safety of adjunctive corticosteroids in reducing death and neurological sequelae in neonates with bacterial meningitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 7), MEDLINE via PubMed (1966 to July 2015), African Index Medicus (up to January 2015), the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (up to July 2015), EMBASE (up to July 2015) and the metaRegister of Controlled Trials (mRCT) for ongoing trials. 
+Selection criteria
+All randomised controlled trials (RCTs) or quasi‐RCTs of adjunctive corticosteroids for treatment of neonates with bacterial meningitis. 
+Data collection and analysis
+Two review authors independently assessed and extracted data on methods, participants, interventions and outcomes (all‐cause death until hospital discharge, presence of sensorineural deafness at one year and presence of neurological deficits or developmental delay at two years, adverse events). Risk ratio (RR), risk difference (RD) and number needed to treat for an additional beneficial outcome (NNTB) or number needed to treat for an additional harmful outcome (NNTH) were calculated when appropriate. We assessed quality using the Cochrane risk of bias assessment tool and the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) system. 
+Main results
+We found two trials with 132 participants that met our inclusion criteria. One of the included trials was a quasi‐randomised trial. 
+Adjunctive corticosteroids reduced the risk of death (typical RR 0.46, 95% confidence interval (CI) 0.24 to 0.88; typical RD ‐0.19, 95% CI ‐0.33 to ‐0.04; NNTB = 6; two studies, 132 participants, very low‐quality evidence) but did not have a significant effect on the number of infants with sensorineural deafness at two years (RR 1.80, 95% CI 0.18 to 18.21; RD 0.04, 95% CI ‐0.12 to 0.21; one study, 38 participants, low‐quality evidence). In one trial, dexamethasone reduced the likelihood of hearing loss at four to 10 weeks post discharge (RR 0.41, 95% CI 0.17 to 0.98; RD ‐0.25, 95% CI ‐0.48 to ‐0.01; one study, 59 participants, low‐quality evidence). Data reported on the other outcomes of interest were insufficient. 
+Authors' conclusions
+Very low‐quality data from two randomised controlled trials suggest that some reduction in death and hearing loss may result from use of adjunctive steroids alongside standard antibiotic therapy for treatment of patients with neonatal meningitis. Benefit is not yet seen with regards to reduction in neurological sequelae. Researchers who wish to clarify these findings must conduct more robustly designed trials with greater numbers of participants, evaluating more relevant outcomes and providing adequate follow‐up. 

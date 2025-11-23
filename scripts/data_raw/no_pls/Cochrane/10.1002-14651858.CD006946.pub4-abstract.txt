@@ -1,0 +1,38 @@
+Background
+Engorgement is the overfilling of breasts with milk, often occurring in the early days postpartum. It results in swollen, hard, painful breasts and may lead to premature cessation of breastfeeding, decreased milk production, cracked nipples and mastitis. Various treatments have been studied but little consistent evidence has been found on effective interventions. 
+Objectives
+To determine the effectiveness and safety of different treatments for engorgement in breastfeeding women. 
+Search methods
+On 2 October 2019, we searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, the WHO International Clinical Trials Registry Platform (ICTRP), and reference lists of retrieved studies. 
+Selection criteria
+All types of randomised controlled trials and all forms of treatment for breast engorgement were eligible. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility, extracted data, conducted 'Risk of bias' assessment and assessed the certainty of evidence using GRADE. 
+Main results
+For this udpate, we included 21 studies (2170 women randomised) conducted in a variety of settings. Six studies used individual breasts as the unit of analysis. 
+Trials examined a range of interventions: cabbage leaves, various herbal compresses (ginger, cactus and aloe, hollyhock), massage (manual, electromechanical, Oketani), acupuncture, ultrasound, acupressure, scraping therapy, cold packs, and medical treatments (serrapeptase, protease, oxytocin). Due to heterogeneity, meta‐analysis was not possible and data were reported from single trials. Certainty of evidence was downgraded for limitations in study design, imprecision and for inconsistency of effects. We report here findings from key comparisons. 
+Cabbage leaf treatments compared to control 
+For breast pain, cold cabbage leaves may be more effective than routine care (mean difference (MD) ‐1.03 points on 0‐10 visual analogue scale (VAS), 95% confidence intervals (CI) ‐1.53 to ‐0.53; 152 women; very low‐certainty evidence) or cold gel packs (‐0.63 VAS points, 95% CI ‐1.09 to ‐0.17; 152 women; very low‐certainty evidence), although the evidence is very uncertain. We are uncertain about cold cabbage leaves compared to room temperature cabbage leaves, room temperature cabbage leaves compared to hot water bag, and cabbage leaf extract cream compared to placebo cream because the CIs were wide and included no effect. 
+For breast hardness, cold cabbage leaves may be more effective than routine care (MD ‐0.58 VAS points, 95% CI ‐0.82 to ‐0.34; 152 women; low‐certainty evidence). We are uncertain about cold cabbage leaves compared to cold gel packs because the CIs were wide and included no effect. 
+For breast engorgement, room temperature cabbage leaves may be more effective than a hot water bag (MD ‐1.16 points on 1‐6 scale, 95% CI ‐1.36 to ‐0.96; 63 women; very low‐certainty evidence). We are uncertain about cabbage leaf extract cream compared to placebo cream because the CIs were wide and included no effect. 
+More women were satisfied with cold cabbage leaves than with routine care (risk ratio (RR) 1.42, 95% CI 1.22 to 1.64; 152 women; low certainty), or with cold gel packs (RR 1.23, 95% CI 1.10 to 1.38; 152 women; low‐certainty evidence). 
+We are uncertain if women breastfeed longer following treatment with cold cabbage leaves than routine care because CIs were wide and included no effect. 
+Breast swelling and adverse events were not reported.
+Compress treatments compared to control 
+For breast pain, herbal compress may be more effective than hot compress (MD ‐1.80 VAS points, 95% CI ‐2.07 to ‐1.53; 500 women; low‐certainty evidence). Massage therapy plus cactus and aloe compress may be more effective than massage therapy alone (MD ‐1.27 VAS points, 95% CI ‐1.75 to ‐0.79; 100 women; low‐certainty evidence). In a comparison of cactus and aloe compress to massage therapy, the CIs were wide and included no effect. 
+For breast hardness, cactus and aloe cold compress may be more effective than massage (RR 0.66, 95% CI 0.51 to 0.87; 102 women; low‐certainty evidence). Massage plus cactus and aloe cold compress may reduce the risk of breast hardness compared to massage alone (RR 0.38, 95% CI 0.25 to 0.58; 100 women; low‐certainty evidence). 
+We are uncertain about the effects of compress treatments on breast engorgement and cessation of breastfeeding because the certainty of evidence was very low. 
+Among women receiving herbal compress treatment, 2/250 experienced skin irritation compared to 0/250 in the hot compress group (moderate‐certainty evidence). 
+Breast swelling and women's opinion of treatment were not reported.
+Medical treatments compared to placebo 
+Protease may reduce breast pain (RR 0.17, 95% CI 0.04, 0.74; low‐certainty evidence; 59 women) and breast swelling (RR 0.34, 95% CI 0.15 to 0.79; 59 women; low‐certainty evidence), whereas serrapeptase may reduce the risk of engorgement compared to placebo (RR 0.36, 95% CI 0.14 to 0.88; 59 women; low‐certainty evidence). 
+We are uncertain if serrapeptase reduces breast pain or swelling, or if oxytocin reduces breast engorgement compared to placebo, because the CIs were wide and included no effect. 
+No women experienced adverse events in any of the groups receiving serrapeptase, protease or placebo (low‐certainty evidence). 
+Breast induration/hardness, women's opinion of treatment and breastfeeding cessation were not reported. 
+Cold gel packs compared to control 
+For breast pain, we are uncertain about the effectiveness of cold gel packs compared to control treatments because the certainty of evidence was very low. 
+For breast hardness, cold gel packs may be more effective than routine care (MD ‐0.34 points on 1‐6 scale, 95% CI ‐0.60 to ‐0.08; 151 women; low‐certainty evidence). It is uncertain if women breastfeed longer following cold gel pack treatment compared to routine care because the CIs were wide and included no effect. 
+There may be little difference in women’s satisfaction with cold gel packs compared to routine care (RR 1.17, 95% CI 0.97 to 1.40; 151 women; low‐certainty evidence). 
+Breast swelling, engorgement and adverse events were not reported.
+Authors' conclusions
+Although some interventions may be promising for the treatment of breast engorgement, such as cabbage leaves, cold gel packs, herbal compresses, and massage, the certainty of evidence is low and we cannot draw robust conclusions about their true effects. Future trials should aim to include larger sample sizes, using women ‐ not individual breasts ‐ as units of analysis. 

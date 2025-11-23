@@ -1,0 +1,14 @@
+Background
+Primary cutaneous T‐cell lymphomas (CTCL) belong to the group of non‐Hodgkin lymphomas and usually run an indolent course. However, some patients progress to advanced tumour or leukaemic stages. To date, there is no cure for those cases. In the last few years, several publications reported durable responses in some patients following allogeneic stem cell transplantation (alloSCT). This is an update of a Cochrane review first published in 2011 and updated in 2013. 
+Objectives
+To compare the efficacy and safety of conventional therapies with allogeneic stem cell transplantation in patients with advanced primary cutaneous T‐cell lymphomas. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 1), MEDLINE (1950 to January 2013), Internet‐databases of ongoing trials, conference proceedings of the American Society of Clinical Oncology (ASCO, 2009 to July 2013) and the American Society of Hematology (ASH, 2009 to July 2013). We also contacted members of the European Organisation for Research and Treatment of Cancer (EORTC) Cutaneous Lymphoma Task Force to check for ongoing study activities. We handsearched citations from identified trials and relevant review articles. In addition, we handsearched randomised controlled trials from the European Group for Blood and Marrow Transplantation (EBMT) and International Conference on Cutaneous T‐cell Lymphoma, ASCO and ASH up to July 2013. 
+Selection criteria
+Trials eligible for inclusion were genetically randomised controlled trials (RCTs) comparing alloSCT plus conditioning therapy (regardless of agents) with conventional therapy as treatment for advanced CTCL. 
+Data collection and analysis
+Two review authors would have extracted data from eligible studies and assessed their quality. The primary outcome measure was overall survival; secondary outcomes were time to progression, response rate, treatment‐related mortality, adverse events and quality of life. 
+Main results
+We did not identify any randomised controlled trials from the updated search in January 2013. In 2011, we found 2077 citations but none were relevant genetically or non‐genetically randomised controlled trials. All 41 studies that were thought to be potentially suitable were excluded after full text screening for being non‐randomised, not including CTCL or being review articles. 
+Authors' conclusions
+We planned to report evidence from genetically or non‐genetically randomised controlled trials comparing conventional therapy and allogeneic stem cell transplantation. However, we did not identify any randomised controlled trials addressing this question. Nevertheless, prospective genetically randomised controlled trials need to be initiated to evaluate the precise role of alloSCT in advanced CTCL. 

@@ -1,0 +1,15 @@
+Background
+Most premature infants are physiologically not sufficiently mature to orally ingest all of their required water and nutrients. Therefore, premature infants rely on their caregivers to regulate their volume of water intake. Thus, the caregiver must determine the amount of water to be given each day to such infants. 
+Objectives
+To determine the effect of water intake on postnatal weight loss and the risks of dehydration, patent ductus arteriosus, necrotizing enterocolitis, bronchopulmonary dysplasia, intracranial hemorrhage, and death in premature infants. 
+Search methods
+Randomized clinical trials (RCTs) identified in previous versions of this review were re‐examined and, in each case, retained. Additional trials were sought that compared the outcomes of interest in groups of premature infants who were given different levels of water intake according to an experimental protocol. Such trials were sought in a list of trials provided by the Cochrane Neonatal Review Group, with a PubMed search and in the authors' personal files. 
+This search was updated in 2014.
+Selection criteria
+Only RCTs of varying water intake in premature infants were included. The review was limited to trials that included infants whose water intake was provided mainly or entirely by intravascular infusion. 
+Data collection and analysis
+The standard methods of The Cochrane Collaboration were used. Study selection and data abstraction were performed independently by each review author. The adverse event rates were calculated for the restricted and liberal water intake groups for each dichotomous outcome, and the relative risk and risk difference were computed. In addition, the maximal weight loss results were recorded and the weighted mean difference was computed. 
+Main results
+The analysis of the five studies taken together indicated that restricted water intake significantly increased postnatal weight loss and significantly reduced the risks of patent ductus arteriosus and necrotizing enterocolitis. With restricted water intake, there were trends toward increased risk of dehydration and reduced risks of bronchopulmonary dysplasia, intracranial hemorrhage, and death but these trends were not statistically significant. 
+Authors' conclusions
+Based on this analysis, the most prudent prescription for water intake to premature infants would seem to be careful restriction of water intake so that physiological needs are met without allowing significant dehydration. This practice could be expected to decrease the risks of patent ductus arteriosus and necrotizing enterocolitis without significantly increasing the risk of adverse consequences. 

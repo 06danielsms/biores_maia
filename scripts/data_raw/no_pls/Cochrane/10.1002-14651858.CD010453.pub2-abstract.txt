@@ -1,0 +1,14 @@
+Background
+Giant cell arteritis (GCA) is a common inflammatory condition that affects medium and large‐sized arteries and can cause sudden, permanent blindness. At present there is no alternative to early treatment with high‐dose corticosteroids as the recommended standard management. Corticosteroid‐induced side effects can develop and further disease‐related ischaemic complications can still occur. Alternative and adjunctive therapies are sought. Aspirin has been shown to have effects on the immune‐mediated inflammation in GCA, hence it may reduce damage caused in the arterial wall. 
+Objectives
+To assess the safety and effectiveness of low‐dose aspirin, as an adjunctive, in the treatment of giant cell arteritis (GCA). 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2013, Issue 12), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to January 2014), EMBASE (January 1980 to January 2014), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2014), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov), the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en) and the US Food and Drugs Administration (FDA) web site (www.fda.gov). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 24 January 2014. 
+Selection criteria
+We planned to include only randomised controlled trials (RCTs) comparing outcomes of GCA with and without concurrent adjunctive use of low‐dose aspirin. 
+Data collection and analysis
+Two authors independently assessed the search results for trials identified by the electronic searches. No trials met our inclusion criteria, therefore we undertook no assessment of risk of bias or meta‐analysis. 
+Main results
+We found no RCTs that met the inclusion criteria.
+Authors' conclusions
+There is currently no evidence from RCTs to determine the safety and efficacy of low‐dose aspirin as an adjunctive treatment in GCA. Clinicians who are considering the use of low‐dose aspirin as an adjunctive treatment in GCA must also recognise the established haemorraghic risks associated with aspirin, especially in the context of concurrent treatment with corticosteroids. There is a clear need for effectiveness trials to guide the management of this life‐threatening condition. 

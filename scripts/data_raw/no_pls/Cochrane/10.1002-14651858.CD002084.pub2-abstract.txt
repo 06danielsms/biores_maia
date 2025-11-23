@@ -1,0 +1,14 @@
+Background
+The management of acutely disturbed people during periods of psychiatric crisis poses a particular challenge for mental health professionals. The challenge is to maintain safety while providing a safe and therapeutic environment. Non‐pharmaceutical methods currently used to accomplish this include special observations, de‐escalation, behavioural contracts and locking doors. 
+Objectives
+To compare the effects of various strategies used to contain acutely disturbed people during periods of psychiatric crisis (excluding seclusion and restraint and the use of 'as prescribed medication). 
+Search methods
+For the 2006 update of this review, we searched the Ovid interface of CINAHL, CENTRAL and The Schizophrenia Groups register, EMBASE, MEDLINE, PsycINFO. 
+Selection criteria
+Relevant randomised controlled trials involving people hospitalised with serious mental illness, comparing any non‐pharmacological interventions aimed at containing people who were at risk of harming themselves or others, (such as those approaches that change observation levels, lock wards, manage staff patient ratios, use de‐escalation techniques or behavioural contracts). 
+Data collection and analysis
+Trials would have been reliably quality assessed and data extracted. Relative risks (RR) and 95% confidence intervals (CI) would have been calculated with a random effects model. Where possible, numbers needed to treat and harm (NNT, NNH) would have been estimated. 
+Main results
+The initial 1999 search identified over 2000 reports and the update search of 2006, an additional 2808 reports. Of these, only six seemed to have the potential to be relevant, but once they were obtained it was clear they could not be included. None focused upon non‐pharmacological methods for containment of violence or self harm in people with serious mental illness. 
+Authors' conclusions
+Current non‐pharmacological approaches to containment of disturbed or violent behaviour are not supported by evidence from controlled studies. Clinical practice is based on evidence that is not derived from trials and continued practice entirely outside of well designed, conducted and reported randomised studies is difficult to justify. 

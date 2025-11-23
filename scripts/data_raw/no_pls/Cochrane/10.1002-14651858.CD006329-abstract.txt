@@ -1,0 +1,14 @@
+Background
+Chlorpromazine, one of the first generation of antipsychotic drugs, is effective in the treatment of schizophrenia. For most people schizophrenia is a life‐long disorder but about a quarter of those who have a first psychotic breakdown do not go on to experience further breakdowns. Most people with schizophrenia are prescribed antipsychotic drugs, although use is often intermittent. The effects of stopping medication are not well researched in the context of systematic reviews. 
+Objectives
+To quantify the effects of stopping chlorpromazine for people with schizophrenia stable on this drug. 
+Search methods
+We supplemented an electronic search of the Cochrane Schizophrenia Group Trials Register (March 2006 and July 2012) with reference searching of all identified studies. 
+Selection criteria
+We included all relevant randomised clinical trials.
+Data collection and analysis
+We independently inspected citations and abstracts, ordered papers and re‐inspected and quality assessed these. We independently extracted data and resolved disputes during regular meetings. We analysed dichotomous data using fixed effects relative risk (RR) and the 95% confidence interval (CI). For continuous data, where possible, we calculated the weighted mean difference (WMD). We excluded the data where more than 40% of people were lost to follow up. 
+Main results
+We included ten trials involving 1042 people with schizophrenia stable on chlorpromazine. Even in the short term, those who remained on chlorpromazine were less likely to experience a relapse compared to people who stopped taking chlorpromazine (n=376, 3 RCTs, RR 6.76 CI 3.37 to 13.54, NNH NNH 4 CI 2 to 8). Medium term (n=850, 6 RCTs, RR 4.04 CI 2.81 to 5.8, NNH 4 CI 3 to 7) and long term data were similar (n=510, 3 RCTs, RR 1.70 CI 1.44 to 2.01, NNH 4 CI 3 to 6). People allocated to chlorpromazine withdrawal were not significantly more likely to stay in the study compared with those continuing chlorpromazine treatment (n=374, 1 RCT, RR 1.14 CI 0.55 to 2.35). In sensitivity analyses, there was a significant difference in the 'relapse' outcome between trials for those diagnosed according to checklist criteria compared to those with a clinical diagnosis. 
+Authors' conclusions
+This review confirms clinical experience and quantifies the risks of stopping chlorpromazine medication for a group of people with schizophrenia who are stable on this drug. With its moderate adverse effects, chlorpromazine is likely to remain one of the most widely prescribed treatments for schizophrenia. 

@@ -1,0 +1,12 @@
+Background
+The biologic disease‐modifying anti‐rheumatic drugs (DMARDs) are very effective in treating rheumatoid arthritis (RA), however there is a lack of head‐to‐head comparison studies. 
+Objectives
+To compare the efficacy and safety of abatacept, adalimumab, anakinra, etanercept, infliximab, and rituximab in patients with RA. 
+Methods
+This ‘Overview of Reviews’ was done by including all Cochrane Reviews on Biologics for RA available in The Cochrane Library. We included only data on standard dosing regimens for these biologic DMARDs from placebo‐controlled trials. The primary efficacy and safety outcomes were ACR50 and withdrawals due to adverse events. We calculated Odds Ratios (OR) for efficacy and safety outcomes and combined estimates of events across the placebo groups as the expected Control Event Rate (CER). Indirect comparisons of biologics were performed for efficacy and safety using a hierarchical generalized linear mixed model (GLMM) incorporating the most important study‐level characteristic (i.e. type of biologic) as a fixed factor and study and study*drug interaction as random factors. 
+Main results
+From the six available Cochrane reviews, we obtained data from seven studies on abatacept, eight on adalimumab, five on anakinra, four on etanercept, four on infliximab, and three on rituximab. 
+The indirect comparison estimates showed similar efficacy for the primary efficacy outcome for all biologics with three exceptions. Anakinra was less efficacious than etanercept with a ratio of ORs (95% CI; P value) of 0.34 (0.14, 0.81; P=0.015); and likewise adalimumab was more efficacious than anakinra, 2.20 (1.01, 4.75; P=0.046). 
+In terms of safety, adalimumab was more likely to lead to withdrawals compared to etanercept, with a ratio of ORs of 1.89 (1.18 to 3.04; P = 0.009); anakinra more likely than etanercept, 2.05 (1.27 to 3.29; P = 0.003); and likewise etanercept less likely than infliximab, 0.37 (0.19 to 0.70; P = 0.002).  
+Authors' conclusions
+Based upon indirect comparisons, anakinra seemed less efficacious than etanercept and adalimumab. Etanercept seemed to cause fewer withdrawals due to adverse events than adalimumab, anakinra and infliximab. Significant heterogeneity in characteristics of trial populations imply that these finding must be interpreted with caution. These findings can inform physicians and patients regarding their choice of biologic for treatment of RA. 

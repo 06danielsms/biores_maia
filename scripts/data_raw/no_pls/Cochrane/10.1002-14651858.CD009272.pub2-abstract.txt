@@ -1,0 +1,14 @@
+Background
+Normal visual development occurs when the brain is able to integrate the visual input from each of the two eyes to form a single three‐dimensional image. The process of development of complete three‐dimensional vision begins at birth and is almost complete by 24 months of age. The development of this binocular vision is hindered by any abnormality that prevents the brain from receiving a clear, similar image from each eye, due to decreased vision (e.g. amblyopia), or due to misalignment of the two eyes (strabismus or squint) in infancy and early childhood. Currently, practice patterns for management of a child with both strabismus and amblyopia are not standardized. 
+Objectives
+To study the functional and anatomic (ocular alignment) outcomes of strabismus surgery before completion of amblyopia therapy as compared with surgery after completion of amblyopia therapy in children under seven years of age. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2014, Issue 6), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to July 2014), EMBASE (January 1980 to July 2014), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to July 2014), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 24 July 2014. A manual search for articles from a review of the references of the selected publications and conference abstracts was completed to identify any additional relevant studies. 
+Selection criteria
+We searched for randomized controlled trials (RCTs) that provided data on strabismus surgery in children less than seven years of age, performed after initiation of, but before completion of amblyopia therapy, as compared with strabismus surgery after completion of amblyopia therapy. 
+Data collection and analysis
+Two authors independently assessed studies identified from the electronic and manual searches. 
+Main results
+There were no RCTs that fit our inclusion criteria and so no analysis was possible.
+Authors' conclusions
+As there are no RCTs currently available and the best existing evidence is only from non‐randomized studies, there is a need for prospective RCTs to investigate strabismus surgery in the presence of strabismic amblyopia. The optimal timing of when to perform strabismus surgery in children with amblyopia is unknown. 

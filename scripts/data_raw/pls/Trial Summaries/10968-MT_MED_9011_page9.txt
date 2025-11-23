@@ -1,0 +1,41 @@
+Did any adverse reactions happen during this study?
+There were 45.8% of participants who had adverse reactions. This was 38 out of
+83 participants.
+
+Durvalumab alone - 34.6% (9) 
+Durvalumab and oleclumab - 57.1% (12) 
+Durvalumab and monalizumab - 50.0% (10) 
+Durvalumab and danvatirsen - 43.8% (7) 
+
+How many participants had adverse reactions?
+Durvalumab alone - 34.6% (9) 
+Durvalumab and oleclumab - 57.1% (12) 
+Durvalumab and monalizumab - 50.0% (10) 
+Durvalumab and danvatirsen - 43.8% (7) 
+
+How many participants had serious adverse reactions?
+Durvalumab alone - 3.8% (1) 
+Durvalumab and oleclumab - 4.8% (1) 
+Durvalumab and monalizumab - 0.0% (0) 
+Durvalumab and danvatirsen - 6.3% (1) 
+
+How many participants stopped getting study treatment due to adverse reactions?
+Durvalumab alone - 0.0% (0) 
+Durvalumab and oleclumab - 4.8% (1) 
+Durvalumab and monalizumab - 0.0% (0) 
+Durvalumab and danvatirsen - 0.0% (0) 
+
+What serious adverse reactions happened during this study?
+The table below shows the serious adverse reactions that happened during the
+study. There was a total of 3 serious adverse reactions that happened in this study.
+
+Increase of ketones in a person with diabetes:
+Durvalumab and oleclumab - 4.8% (1) 
+
+A disorder of the immune system leading to pain and inflammation in the joints:
+Durvalumab alone - 3.8% (1) 
+
+Blood loss due to a procedure:
+Durvalumab and danvatirsen - 6.3% (1) 
+
+No participants died because of adverse reactions.

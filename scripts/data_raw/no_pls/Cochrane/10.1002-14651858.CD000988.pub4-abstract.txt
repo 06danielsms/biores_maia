@@ -1,0 +1,15 @@
+Background
+Intermittent claudication (IC) is pain caused by chronic occlusive arterial disease, that develops in a limb during exercise and is relieved with rest. Buflomedil is a vasoactive agent used to treat peripheral vascular disease. However, its clinical efficacy for IC has not yet been critically examined. This is an update of a Cochrane review first published in 2000, and previously updated in 2007 and 2008. 
+Objectives
+To evaluate the available evidence on the efficacy of buflomedil for IC.
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched January 2013) and CENTRAL (2012, Issue 12). 
+Selection criteria
+Double‐blinded, randomized controlled trials (RCTs) in patients with IC (Fontaine stage II) receiving oral buflomedil compared with placebo. Pain‐free walking distance (PFWD) and maximum walking distance (MWD) were analysed by standardized exercise test. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. 
+Main results
+We included two RCTs with 127 participants. Both RCTs showed moderate improvements in PFWD for patients on buflomedil. This improvement was statistically significant for both trials (WMD 75.1 m, 95% confidence interval (CI) 20.6 to 129.6; WMD 80.6 m, 95% CI 3.0 to 158.2), the latter being a wholly diabetic population. For both RCTs, MWD gains were statistically significant with wide confidence intervals (WMD 80.7 m, 95% CI 9.4 to 152; WMD 171.4 m, 95% CI 51.3 to 291.5), respectively. 
+Authors' conclusions
+There is little evidence available to evaluate the efficacy of buflomedil for IC. Most trials were excluded due to poor quality. The two included trials showed moderately positive results; these are undermined by publication bias since we know of at least another four unpublished, irretrievable, and inconclusive studies. 
+Buflomedil's benefit is small in relation to safety issues and its narrow therapeutic range. 

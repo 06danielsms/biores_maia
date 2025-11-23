@@ -1,0 +1,14 @@
+Background
+The recognition of an inherited component to breast cancer has led to an increase in demand for information, reassurance, and genetic testing, which has resulted in the creation of genetic clinics for familial cancer. The first step for patients referred to a cancer genetic clinic is a risk assessment. 
+Objectives
+To evaluate the impact of cancer genetic risk‐assessment services on patients at risk of familial breast cancer. 
+Search methods
+The specialised register maintained by the Cochrane Breast Cancer Group was searched on 16th February 2005. We also searched MEDLINE, EMBASE, CINAHL, PsycLIT, CENTRAL, DARE, ASSIA, Web of Science, SIGLE and LILACS. The original searches covered the period 1985 to February 2005. We also handsearched relevant journals. For this review update the search was repeated through to April 2011. 
+Selection criteria
+We considered trials looking at interventions for cancer genetic risk‐assessment services for familial breast cancer for inclusion. Trials assessed outcomes such as understanding of risk, satisfaction and psychological well‐being. We excluded studies if they concerned cancers other than breast cancer or if participants were not at risk of inherited breast cancer. We also excluded trials concerning the provision of general cancer genetic information or education as this review was concerned with the delivery of genetic risk assessment. Participants could be individuals of any age or gender, with or without a known BRCA mutation, but without a previous history of breast cancer or any other serious illness. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Additional information was sought from investigators as necessary. Due to the heterogeneity of both the interventions and outcomes, we reported data descriptively. 
+Main results
+In this review update, we included five new trials, bringing the total number of included studies to eight. The included trials (pertaining to 10 papers), provided data on 1973 participants and assessed the impact of cancer genetic risk assessment on outcomes including perceived risk of inherited cancer, and psychological distress. This review suggests that cancer genetic risk‐assessment services help to reduce distress, improve the accuracy of the perceived risk of breast cancer, and increase knowledge about breast cancer and genetics. The health professional delivering the risk assessment does not appear to have a significant impact on these outcomes. 
+Authors' conclusions
+This review found favourable outcomes for patients after risk assessment for familial breast cancer. However, there were too few papers to make any significant conclusions about how best to deliver cancer genetic risk‐assessment services. Further research is needed assessing the best means of delivering cancer risk assessment, by different health professionals, in different ways and in alternative locations. 

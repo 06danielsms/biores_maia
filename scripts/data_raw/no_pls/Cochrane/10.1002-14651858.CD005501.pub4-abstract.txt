@@ -1,0 +1,14 @@
+Background
+Intracranial venous thrombosis (ICVT) commonly presents with seizures in the acute period, and some people may develop recurrent seizures in the long term. The prophylactic use of antiepileptic drugs (AEDs) for the management of post‐ICVT seizures is controversial, and there is currently no consensus on the optimal management of post‐ICVT seizures. This is an updated version of the Cochrane review first published in theCochrane Database of Systematic Reviews 2006, Issue 3. 
+Objectives
+To assess the effects of AEDs for the primary and secondary prevention of seizures related to ICVT. (1) For the question of primary prevention, we aimed to examine whether AEDs reduce the likelihood of seizures in people who have had an ICVT but have not had a seizure. (2) For the question of secondary prevention, we aimed to examine whether AEDs reduce the likelihood of further seizures in people who have had an ICVT and at least one seizure. 
+Search methods
+For the latest update, we searched the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (CRSO), and MEDLINE (Ovid 1946 onwards) to 20 April 2015, and we checked the reference lists of articles retrieved from the searches. 
+Selection criteria
+We planned to include all randomised and quasi‐randomised controlled trials in which participants with a diagnosis of ICVT were assigned to a treatment group (that is, receiving at least one AED) or control group (receiving placebo or no drug). 
+Data collection and analysis
+Both review authors independently screened and assessed the methodological quality of the studies. If studies had been included in the review, one review author would have extracted the data and another would have checked the extracted data. 
+Main results
+No relevant studies were found.
+Authors' conclusions
+There is no evidence to support or refute the use of antiepileptic drugs for the primary or secondary prevention of seizures related to intracranial venous thrombosis. Well‐designed randomised controlled trials are urgently needed to inform practice. Since the last version of this review no new studies have been found. 

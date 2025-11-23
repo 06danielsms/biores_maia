@@ -1,0 +1,14 @@
+Background
+Although isoniazid (INH) is commonly used for treating tuberculosis (TB), it is also effective as preventive therapy. 
+Objectives
+The objective of this review was to estimate the effect of six and 12 month courses of INH for preventing TB in HIV‐negative people at increased risk of developing active TB. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (May 2003), CENTRAL (The Cochrane Library 2003, Issue 2), Science Citation Index (1955 to 1993), Cumulated Index Medicus (1960 to 1970), MEDLINE (1966 to May 2003), EMBASE (1974 to May 2003), and reference lists of articles. 
+Selection criteria
+Randomized controlled trials of INH preventive therapy for six months or more compared with placebo. Follow up for a minimum of two years. Trials enrolling patients with current or previously treated active TB or with known HIV infection were excluded. Criteria were applied by two reviewers independently. 
+Data collection and analysis
+Trial quality was assessed by two reviewers independently, and data extracted by one reviewer using a standardized extraction form. 
+Main results
+Eleven trials involving 73,375 patients were included. Trials were generally of high quality. Treatment with INH resulted in a risk ratio (RR) of developing active TB of 0.40, (95% confidence interval (CI) 0.31 to 0.52), over two years or longer. There was no significant difference between six and 12 month courses (RR 0.44, 95% CI 0.27 to 0.73 for six months, and 0.38, 95% CI 0.28 to 0.50 for 12 months). Preventive therapy reduced deaths from TB, but this effect was not seen for all‐cause mortality. INH was associated with hepatotoxicity in 0.36% of people on six months of treatment and in 0.52% of people treated for 12 months. 
+Authors' conclusions
+Isoniazid prevents active TB in diverse at‐risk patients, and six‐ and 12‐month regimens have a similar effect. The most recent trial included in the review was published in 1994, and we have not identified any relevant trials up to 2003. We therefore do not plan to update this review. 

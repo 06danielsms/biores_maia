@@ -1,0 +1,15 @@
+Background
+Venous leg ulcers are a major health burden: annually, in the UK alone, they contribute an estimated cost to the NHS of GBP 400 million. Flavonoids are a diverse group of naturally‐occurring venotonic compounds that address certain microcirculatory parameters involved in venous leg ulcer pathophysiology. 
+Objectives
+To evaluate the clinical effects of flavonoids on the healing of venous leg ulcers.
+Search methods
+In February 2013 we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 1); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. No date or language restrictions were applied. We checked reference lists of included trials, and contacted pharmaceutical companies. 
+Selection criteria
+Randomised controlled trials (RCTs) that investigated the efficacy of any flavonoid‐containing compound on venous leg ulcer healing in adults. 
+Data collection and analysis
+Two review authors independently assessed trials for the review and disagreements were referred to a third author. All rejected articles were double‐checked by a third author. Assessment of risk of bias and data extraction were performed independently by two authors, discrepancies were resolved by referring to the third author. 
+Main results
+Of the nine studies (1075 participants): five investigated Micronised Purified Flavonoid Fraction (MPFF), and four investigated hydroxyethylrutosides (HR). 
+Meta‐analysis involving 723 participants from five trials ‐ four of which were characterised by poor reporting ‐ showed more venous leg ulcers were healed in the MPFF groups than in the control groups (RR 1.36; 95% CI 1.07 to 1.74). However, the most rigorously conducted trial, which was at low risk of bias, did not show any additional benefit of MPFF (RR 0.94; 95% CI 0.73 to 1.22). Since this trial was unpublished, the possibility of publication bias in trials involving flavonoids must be acknowledged. Overall, the quality of reporting of trials on HR was also poor. Pooling three trials, all at unclear risk of bias, involving 279 participants showed a statistically significant effect in favour of HR with respect to number of ulcers healed (RR 1.70; 95% CI 1.24 to 2.34). 
+Authors' conclusions
+Although the overall estimate of the number of healed ulcers appeared to show a significant effect in favour of flavonoids (both MPFF and HR), this result needs to be interpreted cautiously, as most of these trials were poorly reported, and so had an unclear risk of bias for randomisation, allocation concealment, blinding and methods for addressing incomplete outcome data. There was also a possibility of publication bias. 

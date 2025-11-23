@@ -1,0 +1,28 @@
+Background
+The use of a mesh in primary ventral or incisional hernia repair lowers the recurrence rate  and is the accepted standard of care for larger defects. In laparoscopic primary ventral or incisional hernia repair the insertion of a mesh is indispensable. Different mesh fixation techniques have been used and refined over the years. The type of fixation technique is claimed to have a major impact on recurrence rates, chronic pain, health‐related quality of life (HRQOL) and complication rates. 
+Objectives
+To determine the impact of different mesh fixation techniques for primary and incisional ventral hernia repair on hernia recurrence, chronic pain, HRQOL and complications. 
+Search methods
+On 2 October 2020 we searched CENTRAL, MEDLINE (Ovid MEDLINE(R)) Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid MEDLINE(R)), Ovid Embase, and two trials registries. We also performed handsearches, and contacted experts from the European Hernia Society (EHS). 
+Selection criteria
+We included randomised controlled trials (RCTs) including adults with primary ventral or incisional hernia that compared different types of mesh fixation techniques (absorbable/nonabsorbable sutures, absorbable/nonabsorbable tacks, fibrin glue, and combinations of these techniques). 
+Data collection and analysis
+We extracted data in standardised piloted tables, or if necessary, directly into Review Manager 5. We assessed risks of bias with the Cochrane 'Risk of bias' tool. Two review authors independently selected the publications, and extracted data on results. We calculated risk ratios (RRs) for binary outcomes and mean differences (MDs) for continuous outcomes. For pooling we used an inverse‐variance random‐effects meta‐analysis or the Peto method in the case of rare events. We prepared GRADE 'Summary of findings' tables. 
+For laparoscopic repair we considered absorbable tacks compared to nonabsorbable tacks, and nonabsorbable tacks compared to nonabsorbable sutures as key comparisons. 
+Main results
+We included 10 trials with a total of 787 participants. The number of randomised participants ranged from 40 to 199 per comparison. Eight studies included participants with both primary and incisional ventral hernia. One study included only participants with umbilical hernia, and another only participants with incisional hernia. Hernia size varied between studies. 
+We judged the risk of bias as moderate to high.
+Absorbable tacks compared to nonabsorbable tacks 
+Recurrence rates in the groups were similar (RR 0.74, 95% confidence interval (CI) 0.17 to 3.22; 2 studies, 101 participants). It is uncertain whether there is a difference between absorbable tacks and nonabsorbable tacks in recurrence because the certainty of evidence was very low. Evidence suggests that the difference between groups in early postoperative, late follow‐up, chronic pain and HRQOL is negligible. 
+Nonabsorbable tacks compared to nonabsorbablesutures 
+At six months there was one recurrence in each group (RR 1.00, 95% CI 0.07 to 14.79; 1 study, 36 participants). It is uncertain whether there is a difference between nonabsorbable tacks and nonabsorbable sutures in recurrence because the certainty of evidence was very low. Evidence suggests that the difference between groups in early postoperative, late follow‐up and chronic pain is negligible. We found no study that assessed HRQOL. 
+Absorbable tacks compared toabsorbable sutures 
+No recurrence was observed at one year (very low certainty of evidence). Early postoperative pain was higher in the tacks group (VAS 0 ‐ 10: MD −2.70, 95% CI −6.67 to 1.27; 1 study, 48 participants). It is uncertain whether there is a difference between absorbable tacks compared to absorbable sutures in early postoperative pain because the certainty of evidence was very low. The MD for late follow‐up pain was −0.30 (95% CI −0.74 to 0.14; 1 study, 48 participants). We found no study that assessed HRQOL. 
+Combination of different fixation types (tacks and sutures) or materials (absorbable and nonabsorbable) 
+There were mostly negligible or only small differences between combinations (e.g. tacks plus sutures) compared to a single technique (e.g. sutures only), as well as combinations compared to other combinations (e.g. absorbable sutures combined with nonabsorbable sutures compared to absorbable tacks combined with nonabsorbable tacks) in all outcomes. It is uncertain whether there is an advantage for combining different fixation types or materials for recurrence, chronic pain, HRQOL and complications, because the evidence certainty was very low or low, or we found no study on important outcomes. 
+Nonabsorbable tacks compared to fibrin sealant 
+The two studies showed different directions of effects: one showed higher rates for nonabsorbable tacks, and the other showed higher rates for fibrin sealant. Low‐certainty evidence suggests that the difference between groups in early postoperative, late follow‐up, chronic pain and HRQOL is negligible. 
+Absorbable tacks compared to fibrin sealant 
+One recurrence in the tacks group and none in the fibrin sealant group were noted after one year (low certainty of evidence). Early postoperative pain might be slightly lower using tacks (VAS 0 ‐ 100; MD −12.40, 95% CI −27.60 to, 2.80;1 study, 50 participants; low‐certainty evidence). The pattern of pain and HRQOL course over time (up to 1 year) was similar in the groups (low certainty of evidence). 
+Authors' conclusions
+Currently none of the techniques can be considered superior to any other, because the certainty of evidence was low or very low for all outcomes. 

@@ -1,0 +1,14 @@
+Background
+Clara cell secretory protein (CCSP) is an immune‐modulating and anti‐inflammatory agent. CCSP is available synthetically as recombinant human Clara cell protein (rhCC10). It has been shown in animal models to reduce lung injury, improve pulmonary compliance and oxygenation, decrease systemic inflammation and up‐regulate surfactant protein and vascular endothelial growth factor expression. These properties makes intratracheally administered CCSP a potential agent in prevention of chronic lung disease (CLD). 
+Objectives
+To determine the effect of intratracheal CCSP administration compared to placebo or no treatment on morbidity and mortality in preterm infants with or at risk of respiratory distress syndrome (RDS). 
+Search methods
+We searched CENTRAL (The Cochrane Library, October 2010), MEDLINE and PREMEDLINE (1950 to October 2010), EMBASE (1980 to October 2010) and CINAHL (1982 to October 2010). We searched proceedings of scientific meetings, Google Scholar and reference lists of identified studies, and contacted expert informants and surfactant manufacturers. 
+Selection criteria
+Published, unpublished and ongoing randomised controlled, cluster‐randomised or quasi‐randomised trials of intratracheal CCSP administration, compared to placebo or no treatment on morbidity and mortality in preterm infants at risk of RDS. 
+Data collection and analysis
+Two authors independently assessed studies for eligibility and quality, and extracted data. 
+Main results
+One pilot study was identified and included. This study enrolled 22 preterm infants 700 to 1300g with established RDS who required ventilation for surfactant administration. Infants received one intratracheal dose of placebo (n = 7), 1.5 mg/kg (n = 8) or 5 mg/kg (n = 7) rhCC10 within four hours of surfactant treatment. At either dose of rhCC10, no significant difference was reported in CLD (36 weeks postmenstrual age or 28 days), mortality, intraventricular haemorrhage, periventricular leukomalacia, patent ductus arteriosus, necrotising enterocolitis, sepsis or days supplemental oxygen compared to placebo. A significant increase in days mechanical ventilation was reported for infants receiving rhCC10 5mg/kg (mean difference 12.00, 95% confidence interval 0.39 to 23.61) but not at the lower dose. The study reported that a single intratracheal dose of rhCC10 was well tolerated and resulted in a significant reduction in tracheal aspirate neutrophil and total cell count, and lung protein concentration. There was no significant difference reported in tracheal aspirate cytokine levels between groups. 
+Authors' conclusions
+There are insufficient data to determine the role of rhCC10 in clinical practice. Further studies are required to determine if rhCC10 reduces lung inflammation in infants at risk of CLD, and to determine dose and dosing strategy. 

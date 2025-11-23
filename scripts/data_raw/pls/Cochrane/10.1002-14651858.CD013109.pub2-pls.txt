@@ -1,0 +1,9 @@
+Aldosterone antagonists for people with chronic kidney disease requiring dialysis
+What is the issue? 
+People with chronic kidney disease (CKD) requiring dialysis are at an increased risk of death and other illnesses. One particular cause of this is an increased risk of heart disease. Aldosterone antagonists (e.g. spironolactone or eplerenone) are one kind of drug for treating high blood pressure that may be a promising treatment option for these people, but which can be associated with adverse effects such as high potassium concentration in the blood (also called hyperkalaemia). This high potassium concentration in the blood may be potentially harmful in people undergoing dialysis. 
+What did we do? 
+We searched the literature up until 5 August 2020 and identified 16 studies enrolling 1446 patients with kidney failure undergoing dialysis. These studies compared aldosterone antagonists to placebo (inactive treatment) or usual care. 
+What did we find? 
+Based on moderate certainty of the evidence, this review showed that people with CKD taking aldosterone antagonists probably had a reduced risk of death from any cause and a reduced risk of death specifically arising from heart disease. Aldosterone antagonists did not appear to increase potassium concentrations in the blood. However, there is moderate evidence that some men with CKD undergoing dialysis may have an increase development of breast tissue (also called gynaecomastia) as a result of taking aldosterone antagonists. 
+Conclusions 
+We concluded that aldosterone antagonists probably reduce the risk of death and heart disease but could increase the risk of gynaecomastia for people on dialysis. More studies are needed to clarify how effective and safe aldosterone antagonists are in people with CKD requiring dialysis. 

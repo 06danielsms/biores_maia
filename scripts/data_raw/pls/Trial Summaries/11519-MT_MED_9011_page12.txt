@@ -1,0 +1,18 @@
+What serious adverse reactions happened during this study? The most common serious adverse reaction was a type of lung infection called pneumonia. Most common serious adverse reactions:
+
+- Relapsed/Refractory Treatment-Naïve:
+    - Serious adverse reaction (out of 32 participants) (out of 16 participants):
+        - A type of lung infection called pneumonia: 6.3% (2) 0.0% (0)
+        - Fever with low numbers of a type of white blood cell called neutrophils: 3.1% (1) 0.0% (0)
+        - Bad bruising: 3.1% (1) 0.0% (0)
+        - Headache: 3.1% (1) 0.0% (0)
+        - Liver failure: 3.1% (1) 0.0% (0)
+        - Sudden increase in hepatitis B virus: 3.1% (1) 0.0% (0)
+        - Fungal infection in the lungs: 3.1% (1) 0.0% (0)
+        - A type of cancer called adenocarcinoma in the lungs: 3.1% (1) 0.0% (0)
+        - A type of cancer called myeloma in a type of white blood cell called plasma cells: 3.1% (1) 0.0% (0)
+        - A type of cancer called carcinoma in kidney cells: 3.1% (1) 0.0% (0)
+        - A type of cancer called carcinoma in a type of skin cell called squamous cells: 3.1% (1) 0.0% (0)
+        - Bleeding in the upper part of the stomach and gut: 0.0% (0) 6.3% (1)
+    
+There was 1 participant who had relapsed/refractory leukemia who died because of a serious adverse reaction. This serious adverse reaction was liver failure.

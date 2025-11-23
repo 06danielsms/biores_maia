@@ -1,0 +1,14 @@
+Comparing treatment of non‐severe pneumonia, in children aged 2 to 59 months, with and without antibiotics 
+Review questionWe tried to identify whether there was a difference in the outcomes for children aged 2 to 59 months with non‐severe pneumonia and wheeze, treated with or without antibiotics. 
+BackgroundPneumonia is an infection of the lungs. In children, it is one of the leading causes of deaths globally. Pneumonia can be classified according to the World Health Organization (WHO) guidelines. Classification includes assessment of certain clinical signs and symptoms, severity of the disease and its treatment according to the severity. For non‐severe pneumonia, the WHO recommends treatment with oral antibiotics. We used the 2014 WHO definition of non‐severe pneumonia for this review: an acute episode of cough, or difficulty in breathing, combined with fast breathing and chest indrawing. 
+More commonly, pneumonia is caused by viruses that require supportive care rather than antibiotic treatment; however, pneumonia caused by bacteria should be treated with antibiotics to avoid complications. Since there is no clear way to quickly distinguish which organism actually caused the pneumonia, it is considered safe to give antibiotics. However, this may lead to the development of antibiotic resistance, and limit their use in future infections. The question is whether the use of antibiotics is justified in non‐severe pneumonia. 
+Search date 
+Our evidence is current to 23 December 2020.
+Study characteristics 
+We included three trials (3256 children). They were conducted in four hospitals in three cities in Pakistan (Islamabad, Lahore and Rawalpindi), and in hospital outpatient departments in India and Malawi. The children were treated with a three‐day course of amoxicillin (antibiotic) or placebo, and followed up for two weeks. One trial is awaiting classification. 
+Study funding source 
+The included trials were supported by the USAID through INCLEN and IndiaClen; ARI Research Cell, Children Hospital, Pakistan Institute of Medical Sciences, Islamabad, Pakistan, and by a grant from the Bill & Melinda Gates Foundation. 
+Key results 
+Limited data showed a 20% reduction in treatment failure, however, no impact was observed on clinical cure, relapse, and treatment harms. No deaths were reported in either group. Our review did not have enough evidence to support or challenge the continued use of antibiotics for the treatment of non‐severe pneumonia. 
+Certainty of the evidence 
+The certainty of evidence for clinical cure was moderate. The certainty of evidence for treatment failure, relapse, and treatments harms was low, due to downgrading for imprecision and risk of bias. 

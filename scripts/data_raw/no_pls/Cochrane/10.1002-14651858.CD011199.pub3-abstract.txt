@@ -1,0 +1,16 @@
+Background
+People affected with sickle cell disease (SCD) are at high risk of infection from Haemophilus influenzae type b (Hib). Before the implementation of Haemophilus influenzae type b conjugate vaccination in high‐income countries, this was responsible for a high mortality rate in children under five years of age. In African countries, where coverage of this vaccination is still extremely low, Hib remains one of the most common causes of bacteraemias in children with SCD. The increased uptake of this conjugate vaccination may substantially improve the survival of children with SCD. This is an update of a previously published Cochrane Review. 
+Objectives
+The primary objective was to determine whether Hib conjugate vaccines reduce mortality and morbidity in children and adults with SCD. 
+The secondary objectives were to assess the following in children and adults with SCD: the immunogenicity of Hib conjugate vaccines; the safety of these vaccines; and any variation in effect according to type of vaccine, mode of administration (separately or in combination with other vaccines), number of doses, and age at first dose. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Haemoglobinopathies Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched trial registries (04 July 2018) and contacted relevant pharmaceutical companies to identify unpublished trials. 
+Date of last search of the Cochrane Cystic Fibrosis and Genetic Disorders Group's Haemoglobinoapthies Trials Register: 18 December 2017. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs comparing Hib conjugate vaccines with placebo or no treatment, or comparing different types of Hib conjugate vaccines in people with SCD. 
+Data collection and analysis
+No trials of Hib conjugate vaccines in people with SCD were found.
+Main results
+There is an absence of evidence from RCTs relating to the subject of this review.
+Authors' conclusions
+There has been a dramatic decrease in the incidence of invasive Hib infections observed in the post‐vaccination era in people with SCD living in high‐income countries. Therefore, despite the absence of evidence from RCTs, it is expected that Hib conjugate vaccines may be useful in children affected with SCD, especially in African countries where there is a high prevalence of the disease. The implementation of childhood immunisation schedules, including universal Hib conjugate vaccination, may substantially improve the survival of children with SCD living in low‐income countries. We currently lack data to evaluate the potential effect of Hib vaccination among unvaccinated adults with SCD. Further research should assess the optimal Hib immunisation schedule in children and adults with SCD. 

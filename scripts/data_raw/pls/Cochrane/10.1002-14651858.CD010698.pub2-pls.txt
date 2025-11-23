@@ -1,0 +1,14 @@
+Use of capnography in emergency department patients being sedated for procedures
+Review question 
+Will carbon dioxide detection monitoring help reduce heart, lung, and airway complications for emergency department patients being sedated for painful procedures? 
+Background 
+Medications are often used in order to reduce pain or awareness (or both) for patients having painful procedures. Sometimes, complications involving a patient's heart, lungs, or airway (breathing tubes) can occur due to these medicines (e.g. vomit inhaled by the lungs). Healthcare workers monitor heart rate, blood pressure, breathing rate, and blood oxygen content to help prevent complications. 
+Capnography (measuring carbon dioxide gas as a patient breathes out) use has been proposed to further increase the safety of sedating patients in the emergency department. This study was performed to determine if capnography makes a difference when added to standard monitoring. 
+Study characteristics 
+We searched for studies using multiple research databases, conference research abstracts, and by contacting experts in the field. The evidence is current to August 2016. We only considered studies with participants being sedated for procedures in the emergency department. We only included studies that compared capnography and standard monitoring to standard monitoring only. 
+The main outcomes involved events of low blood oxygen content, low blood pressure, and vomiting. We also recorded how many times the healthcare providers had to help the patient breathe easier. This could mean simple actions such as opening of the mouth to more serious manoeuvres such as mechanically breathing for the patient. 
+Three studies with 1272 people, containing moderate evidence, were included in our study. 
+Key results 
+There was no difference in heart, lung, or airway complications with the addition of capnography. When only adults were studied, healthcare providers performed more manoeuvres to help the patient breathe when capnography was used. This could be due to false alarms. 
+Quality of evidence 
+The level of evidence was determined to be moderate.

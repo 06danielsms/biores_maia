@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 4, 2010 (Law 2010). Cluster headache is an uncommon, severely painful, and disabling condition, with rapid onset. Validated treatment options are limited; first‐line therapy includes inhaled oxygen. Other therapies such as intranasal lignocaine and ergotamine are not as commonly used and are less well studied. Triptans are successfully used to treat migraine attacks and they may also be useful for cluster headache. 
+Objectives
+To assess the efficacy and tolerability of the triptan class of drugs compared to placebo and other active interventions in the acute treatment of episodic and chronic cluster headache in adult patients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, ClinicalTrials.gov, and reference lists for studies from inception to 22 January 2010 for the original review, and from 2009 to 4 April 2013 for this update. 
+Selection criteria
+Randomised, double‐blind, placebo‐controlled studies of triptans for acute treatment of cluster headache episodes. 
+Data collection and analysis
+Two review authors independently assessed study quality and extracted data. Numbers of participants with different levels of pain relief, requiring rescue medication, and experiencing adverse events and headache‐associated symptoms in treatment and control groups were used to calculate relative risk and numbers needed to treat for benefit (NNT) and harm (NNH). 
+Main results
+New searches in 2013 did not identify any relevant new studies.
+All six included studies used a single dose of triptan to treat an attack of moderate to severe pain intensity. Subcutaneous sumatriptan was given to 131 participants at a 6 mg dose, and 88 at a 12 mg dose. Oral or intranasal zolmitriptan was given to 231 participants at a 5 mg dose, and 223 at a 10 mg dose. Placebo was given to 326 participants. 
+Triptans were more effective than placebo for headache relief and pain‐free responses. By 15 minutes after treatment with subcutaneous sumatriptan 6 mg, 48% of participants were pain‐free and 75% had no pain or mild pain (17% and 32% respectively with placebo). NNTs for subcutaneous sumatriptan 6 mg were 3.3 (95% CI 2.4 to 5.0) and 2.4 (1.9 to 3.2) respectively. Intranasal zolmitriptan 10 mg was of less benefit, with 12% of participants pain‐free and 28% with no or mild pain (3% and 7% respectively with placebo). NNTs for intranasal zolmitriptan 10 mg were 11 (6.4 to 49) and 4.9 (3.3 to 9.2) respectively. 
+Authors' conclusions
+Based on limited data, subcutaneous sumatriptan 6 mg was superior to intranasal zolmitriptan 5 mg or 10 mg for rapid (15 minute) responses, which are important in this condition. Oral routes of administration are not appropriate. 

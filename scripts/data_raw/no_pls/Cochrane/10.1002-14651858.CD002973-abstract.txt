@@ -1,0 +1,15 @@
+Background
+Tracheal gas insufflation (TGI) is a technique where a continuous flow of gas is instilled into the lower trachea during conventional mechanical ventilation. TGI can improve carbon dioxide removal with lower ventilation pressures and smaller tidal volumes, potentially decreasing secondary lung injury and chronic lung disease (CLD). 
+Objectives
+To assess whether, in mechanically ventilated neonates, the use of tracheal gas insufflation reduces mortality, CLD and other adverse clinical outcomes without significant side effects. 
+Search methods
+Searches were made of MEDLINE 1966 to December 2001, CINAHL 1982 to December 2001, the Cochrane Controlled Trials Register (Cochrane Library, Issue 4, 2001) and conference and symposia proceedings. 
+This search was updated in December 2009.
+Selection criteria
+Randomised controlled trials (RCT) that include newborn infants who are mechanically ventilated, and compare TGI during conventional mechanical ventilation (CMV) with CMV alone. Primary outcomes ‐ mortality, CLD and neurodevelopmental outcome; secondary outcomes ‐ air leak, intraventricular haemorrhage, periventricular leukomalacia, duration of mechanical ventilation, duration of respiratory support, duration of oxygen therapy, duration of hospital stay, retinopathy of prematurity, immediate adverse effects. 
+Data collection and analysis
+Each reviewer assessed eligibility, trial quality and extracted data separately. Study authors were contacted for additional information if necessary. 
+Main results
+Only one small study was found to be eligible. This study found no evidence of effect on mortality, CLD or age at first extubation. The total duration of ventilation was 9.3 days shorter in the TGI group (95% CI from 15.7 to 2.9 days shorter). The age at complete weaning from ventilation was 26 days shorter in the TGI group (95% CI from 46 to 6 days shorter). There was no evidence of effect on the total duration of respiratory support, oxygen therapy or hospital stay. 
+Authors' conclusions
+There is evidence from a single RCT that TGI may reduce the duration of mechanical ventilation in preterm infants ‐ although the data from this small study do not give sufficient evidence to support the introduction of TGI into clinical practice. The technical requirements for performing TGI (as performed in the single included study) are great. There is no statistically significant reduction in the total duration of respiratory support or hospital stay. TGI cannot be recommended for general use at this time. 

@@ -1,0 +1,15 @@
+Background
+Because placenta praevia is implanted unusually low in the uterus, it may cause major, and/or repeated, antepartum haemorrhage. The traditional policy of care of women with symptomatic placenta praevia includes prolonged stay in hospital and delivery by caesarean section. 
+Objectives
+To assess the impact of any clinical intervention applied specifically because of a perceived likelihood that a pregnant woman might have placenta praevia. 
+Search methods
+A comprehensive electronic search was performed to identify relevant literature. We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (August 2002), and the Cochrane Controlled Trials Register (The Cochrane Library, Issue 2, 2002). We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 1 October 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Any controlled clinical trial that has assessed the impact of an intervention in women diagnosed as having, or being likely to have, placenta praevia. 
+Data collection and analysis
+Data were extracted, unblinded, by the author without consideration of results.
+Main results
+Three trials were included, involving a total of 114 women. Both tested interventions (home versus hospitalisation and cervical cerclage versus no cerclage) were associated with reduced lengths of stay in hospital antenatally: weighted mean difference (WMD) respectively ‐18.50 days (95% confidence interval (CI) ‐26.83 to ‐10.17), ‐4.80 days (95% CI ‐6.37 to ‐3.23). Otherwise, there was little evidence of any clear advantage or disadvantage to a policy of home versus hospital care. The one woman who had a haemorrhage severe enough to require immediate transfusion and delivery was in the home care group. Cervical cerclage may reduce the risk of delivery before 34 weeks: relative risk (RR) 0.45 (95% CI 0.23 to 0.87), or the birth of a baby weighing less than two kilograms RR 0.34 (0.14 to 0.83) or having a low five minute Apgar score RR 0.19 (0.04 to 1.00). In general, these possible benefits were more evident in the trial of lower methodological quality. 
+Authors' conclusions
+There are insufficient data from trials to recommend any change in clinical practice. Available data should, however, encourage further work to address the safety of more conservative policies of hospitalisation for women with suspected placenta praevia, and the possible value of insertion of a cervical suture. 
+[Note: The six citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

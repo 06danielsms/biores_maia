@@ -1,0 +1,14 @@
+Background
+People with diabetes mellitus (DM) sometimes present with acute or subacute, progressive, asymmetrical pain and weakness of the proximal lower limb muscles. The various names for the condition include diabetic amyotrophy, diabetic lumbosacral radiculoplexus neuropathies, diabetic femoral neuropathy or Bruns‐Garland syndrome. Some studies suggest that diabetic amyotrophy may be an immune‐mediated inflammatory microvasculitis causing ischaemic damage of the nerves. Immunotherapies would therefore be expected to be beneficial. This is the second update of a review first published in 2009. 
+Objectives
+To review the evidence from randomised trials for the efficacy of any form of immunotherapy in the treatment of diabetic amyotrophy. 
+Search methods
+On 5 September 2016 we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE and Embase. We also contacted authors of relevant publications and other experts to obtain additional references, unpublished trials, and ongoing trials. 
+Selection criteria
+We intended to include all randomised and quasi‐randomised trials of any immunotherapy in participants with the condition fulfilling all the following: diabetes mellitus as defined by internationally recognised criteria; acute or subacute onset of pain and lower motor neuron weakness involving predominantly the proximal muscles of the lower limbs; weakness that is not confined to one nerve or nerve root distribution; and exclusion of other causes of lumbosacral radiculopathies and plexopathy. 
+Data collection and analysis
+Two authors independently examined all references retrieved by the search to select those meeting the inclusion criteria. 
+Main results
+We found only one completed placebo‐controlled trial (N = 75) using intravenous methylprednisolone in diabetic amyotrophy (Dyck 2006). The results have not been fully published and were not available for analysis. The risk of bias was unclear because there was too little information to make a judgement, but we considered the trial at high risk of selective reporting. The published abstract did not report adverse events. We found no additional trials when the searches were updated in September 2016. 
+Authors' conclusions
+There is presently no evidence from randomised trials to support a positive or negative effect of any immunotherapy in the treatment in diabetic amyotrophy. 

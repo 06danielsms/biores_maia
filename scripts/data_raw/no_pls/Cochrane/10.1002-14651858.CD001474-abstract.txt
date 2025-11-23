@@ -1,0 +1,15 @@
+Background
+It is still unclear whether iron‐chelating agents, such as intravenous desferrioxamine (DFO) and oral deferiprone, given alone or added to standard antimalarial treatment would reduce malaria deaths. 
+Objectives
+To evaluate iron‐chelating agents alone or combined with standard antimalarial drugs for treating P. falciparum malaria. 
+Search methods
+In May 2007, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2007, Issue 2), MEDLINE, EMBASE, LILACS, mRCT, and reference lists. We also contacted researchers in the field. 
+Selection criteria
+Randomized controlled trials comparing iron‐chelating agents with placebo, or comparing iron‐chelating agents plus standard antimalarial drugs with antimalarial drugs alone in adults or children with P. falciparum malaria. 
+Data collection and analysis
+We independently applied inclusion criteria and assessed trial methodological quality, and one author extracted data. We contacted trial authors for additional data. We combined dichotomous data using risk ratios (RR) and continuous data with weighted mean differences (MD), and presented both with 95% confidence intervals (CI). 
+Main results
+Seven trials involving 570 participants met the inclusion criteria. Two small trials compared DFO with placebo (plus standard antimalarial drugs in both groups). No evidence of benefit or harm was shown in relation to death, but the trials were small (435 participants). The risk of experiencing persistent seizures was lower with DFO compared with placebo (RR 0.80, 95% CI 0.67 to 0.95; 334 participants, 1 trial), but adverse effects were more common with DFO. One small trial involving 45 adults and children compared deferiprone with placebo (plus standard antimalarial drugs in both groups). Participants in the deferiprone group had significantly faster coma recovery (MD ‐27 h, 95% CI ‐34.20 to ‐19.80) and parasite clearance (MD ‐24 h, 95% CI ‐35.27 to ‐12.73). No adverse effects were reported for this trial. 
+Authors' conclusions
+There are insufficient data to draw any conclusions for DFO and deferiprone. There are nonsignificant trends towards fewer seizures but overall harm (death) with DFO, and results from one small trial of deferiprone suggest shorter coma recovery and parasite clearance. 
+2008: We do not plan to update this review given the paucity of recent trials in this area and other priorities in malaria treatment research. 

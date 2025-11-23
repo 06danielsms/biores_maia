@@ -1,0 +1,15 @@
+Background
+Levodopa is the mainstay of treatment for alleviating the motor symptoms associated with Parkinson's disease. However, patients often experience fluctuations in their symptoms over time and 'wearing off' which may be partly related to variable absorption of the drug. There is some evidence that treatment of the common gastrointestinal infection Helicobacter pylori (H pylori) with antibiotics may improve levodopa absorption in the gut and hence improve symptoms. 
+Objectives
+1)  What is the prevalence of H pylori in Parkinson’s disease patients?  2)  Does treatment of H pylori infection with antibiotics improve symptoms in Parkinson’s disease patients? Is this effect dependent on improvements in the absorption of levodopa? 
+Search methods
+We searched electronic databases (including CENTRAL, MEDLINE, EMBASE, PsycINFO and CINAHL) and trial registers, handsearched conference proceedings and carried out citation searching on key articles. All searching was updated in August 2009. We contacted authors to provide additional information where necessary. 
+Selection criteria
+Clinical trials in patients with a well‐defined definition of Parkinson's disease and who were H pylori‐positive. Two people independently selected studies for inclusion using predetermined criteria. We used recruitment figures from clinical trials and other studies identified from the searching to determine the prevalence of H pylori in Parkinson's disease. 
+Data collection and analysis
+Two authors abstracted data from the source papers and assessed methodological quality independently. We presented results descriptively. 
+Main results
+Two completed and one ongoing clinical trial met the inclusion criteria. One trial (34 patients randomised) examined the effects of H pylori eradication on levodopa absorption and motor symptoms and found significant improvements in both. The ongoing trial has similar objectives and aims to recruit 100 patients. The other completed trial (20 patients analysed) sought to find a causal link between infection with H pylori and Parkinsonism and was non‐contributory. A worsening of symptoms was noted with eradication failure. 
+The prevalence of H pylori in Parkinson's disease was reported in four studies and ranged from 37% to 59% which is similar to that of the general population. 
+Authors' conclusions
+There is currently a lack of evidence on the effects of screening and treating H pylori in patients with Parkinson's disease. There is limited evidence to suggest that H Pylori eradication improves the absorption of levodopa and improves motor symptoms. Results from an ongoing trial will inform the evidence base and will be incorporated in an update of this review. There is a need for well‐conducted randomised controlled trials with standard outcome measures for motor symptoms and incorporating the costs of screening and treatment. 

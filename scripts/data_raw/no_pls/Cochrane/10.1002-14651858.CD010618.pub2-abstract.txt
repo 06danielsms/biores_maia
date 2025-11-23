@@ -1,0 +1,35 @@
+Background
+Parents and family carers of children with complex needs experience a high level of pressure to meet children's needs while maintaining family functioning and, as a consequence, often experience reduced well‐being and elevated psychological distress. Peer support interventions are intended to improve parent and carer well‐being by enhancing the social support available to them. Support may be delivered via peer mentoring or through support groups (peer or facilitator led). 
+Peer support interventions are widely available, but the potential benefits and risks of such interventions are not well established. 
+Objectives
+To assess the effects of peer support interventions (compared to usual care or alternate interventions) on psychological and psychosocial outcomes, including adverse outcomes, for parents and other family carers of children with complex needs in any setting. 
+Search methods
+We searched the following resources.
+• Cochrane Central Register of Controlled Trials (CENTRAL; latest issue: April 2014), in the Cochrane Library. 
+• MEDLINE (OvidSP) (1966 to 19 March 2014).
+• Embase (OvidSP) (1974 to 18 March 2014).
+• Journals@OVID (22 April 2014).
+• PsycINFO (OvidSP) (1887 to 19 March 2014).
+• BiblioMap (EPPI‐Centre, Health Promotion Research database) (22 April 2014).
+• ProQuest Dissertations and Theses (26 May 2014).
+• metaRegister of Controlled Trials (13 May 2014).
+We conducted a search update of the following databases.
+• MEDLINE (OvidSP) (2013 to 20 February 2018) (search overlapped to 2013).
+• PsycINFO (ProQuest) (2013 to 20 February 2018).
+• Embase (Elsevier) (2013 to 21 February 2018).
+We handsearched the reference lists of included studies and four key journals (European Child and Adolescent Psychiatry: 31 March 2015; Journal of Autism and Developmental Disorders: 30 March 2015; Diabetes Educator: 7 April 2015; Journal of Intellectual Disability Research: 13 April 2015). We contacted key investigators and consulted key advocacy groups for advice on identifying unpublished data. 
+We ran updated searches on 14 August 2019 and on 25 May 2021. Studies identified in these searches as eligible for full‐text review are listed as "Studies awaiting classification" and will be assessed in a future update. 
+Selection criteria
+Randomised and cluster randomised controlled trials (RCTs and cluster RCTs) and quasi‐RCTs were eligible for inclusion. Controlled before‐and‐after and interrupted time series studies were eligible for inclusion if they met criteria set by the Cochrane Effective Practice and Organisation of Care Review Group. The comparator could be usual care or an alternative intervention. The population eligible for inclusion consisted of parents and other family carers of children with any complex needs. We applied no restriction on setting. 
+Data collection and analysis
+Inclusion decisions were made independently by two  authors, with differences resolved by a third  author. Extraction to data extraction templates was conducted independently by two authors and cross‐checked. Risk of bias assessments were made independently by two authors and were reported according to Cochrane guidelines. All measures of treatment effect were continuous and were analysed in Review Manager version 5.3. GRADE assessments were undertaken independently by two review authors, with differences resolved by discussion. 
+Main results
+We included 22 studies (21 RCTs, 1 quasi‐RCT) of 2404 participants. Sixteen studies compared peer support to usual care; three studies compared peer support to an alternative intervention and to usual care but only data from the usual care arm contributed to results; and three studies compared peer support to an alternative intervention only. 
+We judged risk of bias as moderate to high across all studies, particularly for selection, performance, and detection bias. 
+Included studies contributed data to seven effect estimates compared to usual care: psychological distress (standardised mean difference (SMD) ‐0.10, 95% confidence interval (CI) ‐0.32 to 0.11; 8 studies, 864 participants), confidence and self‐efficacy (SMD 0.04, 95% CI ‐0.14 to 0.21; 8 studies, 542 participants), perception of coping (SMD ‐0.08, 95% CI ‐0.38 to 0.21; 3 studies, 293 participants), quality of life and life satisfaction (SMD 0.03, 95% CI ‐0.32 to 0.38; 2 studies, 143 participants), family functioning (SMD 0.15, 95% CI ‐0.09 to 0.38; 4 studies, 272 participants), perceived social support (SMD 0.31, 95% CI ‐0.15 to 0.77; 4 studies, 191 participants), and confidence and skill in navigating medical services (SMD 0.05, 95% CI ‐0.17 to 0.28; 4 studies, 304 participants). In comparisons to alternative interventions, one pooled effect estimate was possible: psychological distress (SMD 0.2, 95% CI ‐0.38 to 0.79; 2 studies, 95 participants). No studies reported on adverse outcomes. 
+All narratively synthesised data for psychological distress (compared to usual care ‐ 2 studies), family functioning (compared to usual care ‐ 1 study; compared to an alternative intervention ‐ 1 study), perceived social support (compared to usual care ‐ 2 studies), and self‐efficacy (compared to alternative interventions ‐ 1 study) were equivocal. Comparisons with usual care showed no difference between intervention and control groups (perceived social support), some effect over time for both groups but more effect for intervention (distress), or mixed effects for intervention (family function). Comparisons with alternative interventions showed no difference between the intervention of interest and the alternative. This may indicate similar effects to the intervention of interest or lack of effect of both, and we are  uncertain which option is likely. 
+We found no clear evidence of effects of peer support interventions on any parent outcome, for any comparator; however, the certainty of evidence for each outcome was low to very low, and true effects may differ substantially from those reported here. 
+We found no evidence of adverse events such as mood contagion,  negative group interactions, or worsened psychological health. 
+Qualitative data suggest that parents and carers value peer support interventions and appreciate emotional support. 
+Authors' conclusions
+Parents and carers of children with complex needs perceive peer support interventions as valuable, but this review found no evidence of either benefit or harm. Currently, there is uncertainty about the effects of peer support interventions for parents and carers of children with complex needs. However, given the overall low to very low certainty of available evidence, our estimates showing no effects of interventions may very well change with further research of higher quality. 

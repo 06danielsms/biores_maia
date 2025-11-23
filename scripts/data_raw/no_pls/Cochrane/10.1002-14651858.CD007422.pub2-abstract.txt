@@ -1,0 +1,14 @@
+Background
+Miscarriage is a common occurrence in early pregnancy. Human chorionic gonadotrophin (hCG) is secreted by the syncytiotrophoblast. It promotes the corpus luteum to secrete progesterone and helps in maintaining the pregnancy. Hence, there has been much interest in the use of hCG to treat threatened miscarriage. 
+Objectives
+To assess the efficacy and safety of human chorionic gonadotropins in the treatment of threatened miscarriage. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2010), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2010, Issue 1), MEDLINE (1966 to 12 February 2010), EMBASE (1980 to 12 February 2010) and CINAHL (1989 to 12 February 2010). We also scanned the bibliographies of all located articles for any unidentified articles and attempted to contact authors where necessary. 
+Selection criteria
+All randomised controlled trials (RCTs) that assess the effectiveness of hCG in the treatment of threatened miscarriage compared to placebo, no treatment of any other intervention, provided viability of the fetus has been confirmed by ultrasound before the commencement of treatment. 
+Data collection and analysis
+At least two authors assessed the trials for inclusion in the review and extracted the data. 
+Main results
+Three studies (312 participants) were included in the review, one of which was of poor methodological quality. The meta‐analysis showed that there was no statistically significant difference in the incidence of miscarriage between hCG and 'no hCG' (placebo or no treatment) groups (Risk ratio (RR) 0.66; 95% confidence interval (CI) 0.42 to 1.05). When hCG and bed rest alone were compared, there was a significant reduction in the risk of miscarriage (RR 0.47; 95% CI 0.27 to 0.82). This result should be interpreted with caution, as one of the two trials from which this result is derived was of poor methodological quality. There was no report of adverse effects of hCG on mother or baby. More good quality RCTs are urgently needed to assess the effects of hCG in threatened miscarriage. 
+Authors' conclusions
+The current evidence does not support the routine use of hCG in the treatment of threatened miscarriage. 

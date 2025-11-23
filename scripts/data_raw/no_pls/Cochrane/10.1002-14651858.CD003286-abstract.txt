@@ -1,0 +1,14 @@
+Background
+The patient with diabetes has many different learning needs relating to diet, monitoring, and treatments. In many health care systems specialist nurses provide much of these needs, usually aiming to empower patients to self‐manage their diabetes. The present review aims to assess the effects of the involvement of specialist nurse care on outcomes for people with diabetes, compared to usual care in hospital clinics or primary care with no input from specialist nurses. 
+Objectives
+To assess the effects of diabetes specialist nurses / nurse case manager in diabetes on the metabolic control of patients with type 1 and type 2 diabetes mellitus. 
+Search methods
+We carried out a comprehensive search of databases including the Cochrane Library, MEDLINE and EMBASE to identify trials. Bibliographies of relevant papers were searched, and hand searching of relevant publications was undertaken to identify additional trials. 
+Selection criteria
+Randomised controlled trials and controlled clinical trials of the effects of a specialist nurse practitioner on short and long term diabetic outcomes were included in the review. 
+Data collection and analysis
+Three investigators performed data extraction and quality scoring independently; any discrepancies were resolved by consensus. 
+Main results
+Six trials including 1382 participants followed for six to 12 months were included. Two trials were in adolescents. Due to substantial heterogeneity between trials a meta‐analysis was not performed. Glycated haemoglobin (HbA1c) in the intervention groups was not found to be significantly different from the control groups over a 12 month follow up period. One study demonstrated a significant reduction in HbA1c in the presence of the diabetes specialist nurse/nurse case manager at 6 months. Significant differences in episodes of hypoglycaemia and hyperglycaemia between intervention and control groups were found in one trial. Where reported, emergency admissions and quality of life were not found to be significantly different between groups. No information was found regarding BMI, mortality, long term diabetic complications, adverse effects, or costs. 
+Authors' conclusions
+The presence of a diabetes specialist nurse / nurse case manager may improve patients' diabetic control over short time periods, but from currently available trials the effects over longer periods of time are not evident. There were no significant differences overall in hypoglycaemic episodes, hyperglycaemic incidents, or hospital admissions. Quality of life was not shown to be affected by input from a diabetes specialist nurse/nurse case manager. 

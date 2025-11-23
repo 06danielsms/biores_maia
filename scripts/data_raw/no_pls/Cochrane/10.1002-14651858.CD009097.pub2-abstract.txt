@@ -1,0 +1,15 @@
+Background
+Whole‐body vibration (WBV) may be a complementary training to standard physical rehabilitation programmes and appears to have potential benefits in the sensorimotor system performance of patients with neurodegenerative diseases. 
+Objectives
+The aim of this review was to examine the efficacy of WBV to improve functional performance according to basic activities of daily living (ADL) in neurodegenerative diseases. Additionally, we wanted to assess the possible effect on signs and symptoms of the disease, body balance, gait, muscle performance, quality of life and adverse events. 
+Search methods
+We searched the following electronic databases: the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library, 2011 Issue 4), MEDLINE (1964 to 6 May 2011; via PubMed), EMBASE (1980 to 6 May 2011; via Ovid), PeDro (1929 to May 2011; via website), CINAHL (to September 2011; via Ovid) and PsycINFO (1806 to 6 May 2011; via Ovid). 
+Selection criteria
+We included randomised controlled trials comparing single or multiple sessions of WBV to a passive intervention, any other active physical therapy or WBV with different vibration parameters. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed trial quality and extracted data. Disagreement was resolved by discussion or, if necessary, referred to a third review author. 
+Main results
+We included 10 trials, of which six focused on Parkinson's disease and four on multiple sclerosis. None of the studies reported data on the primary outcome (functional performance). In Parkinson's disease, after pooling two studies, a single session of WBV caused a significant improvement of gait measured using the Timed Up and Go test (TUG) in comparison to standing exercises (mean difference ‐3.09, 95% confidence interval ‐5.60 to ‐0.59; P = 0.02; I2 = 0%). Nevertheless, longer duration of WBV did not show significant results in comparison with physical therapy in body balance or signs and symptoms measured with the Unified Parkinson's Disease Rating Scale (UPDRS). In multiple sclerosis there was no evidence of a short‐term or long‐term effect of WBV on body balance, gait, muscle performance or quality of life. 
+Adverse events were reported in few trials. In those trials that reported them, the intervention appeared to be safe. 
+Authors' conclusions
+There is insufficient evidence of the effect of WBV training on functional performance of neurodegenerative disease patients. Also, there is insufficient evidence regarding its beneficial effects on signs and symptoms of the disease, body balance, gait, muscle strength and quality of life compared to other active physical therapy or passive interventions in Parkinson's disease or multiple sclerosis. More studies assessing other functional tests and accurately assessing safety are needed before a definitive recommendation is established. 

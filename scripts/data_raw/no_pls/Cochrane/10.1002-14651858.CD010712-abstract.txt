@@ -1,0 +1,14 @@
+Background
+Lumbar spinal stenosis with neurogenic claudication is one of the most commonly diagnosed and treated pathological spinal conditions. It frequently afflicts the elderly population. 
+Objectives
+To systematically review the evidence for the effectiveness of nonoperative treatment of lumbar spinal stenosis with neurogenic claudication. 
+Search methods
+CENTRAL, MEDLINE, CINAHL, and Index to Chiropractic Literature (ICL) databases were searched up to June 2012. 
+Selection criteria
+Randomized controlled trials published in English, in which at least one arm provided data on nonoperative treatments 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration. Risk of bias in each study was independently assessed by two review authors using the 12 criteria recommended by the Cochrane Back Review Group (Furlan 2009). Dichotomous outcomes were expressed as relative risk, continuous outcomes as mean difference or standardized mean difference; uncertainty was expressed with 95% confidence intervals. If possible a meta‐analysis was performed, otherwise results were described qualitatively. GRADE was used to assess the quality of the evidence. 
+Main results
+From the 8635 citations screened, 56 full‐text articles were assessed and 21 trials (1851 participants) were included. There was very low‐quality evidence from six trials that calcitonin is no better than placebo or paracetamol, regardless of mode of administration or outcome assessed. From single small trials, there was low‐quality evidence for prostaglandins, and very low‐quality evidence for gabapentin or methylcobalamin that they improved walking distance. There was very low‐quality evidence from a single trial that epidural steroid injections improved pain, function, and quality of life, up to two weeks, compared with home exercise or inpatient physical therapy. There was low‐quality evidence from a single trial that exercise is of short‐term benefit for leg pain and function compared with no treatment. There was low and very low‐quality evidence from six trials that multimodal nonoperative treatment is less effective than indirect or direct surgical decompression with or without fusion. A meta‐analysis of two trials comparing direct decompression with or without fusion to multimodal nonoperative care found no significant difference in function at six months (mean difference (MD) ‐3.66, 95% CI ‐10.12 to 2.80) and one year (MD ‐6.18, 95% CI ‐15.03 to 2.66), but at 24 months a significant difference was found favouring decompression (MD ‐4.43, 95% CI ‐7.91 to ‐0.96). 
+Authors' conclusions
+Moderate and high‐quality evidence for nonoperative treatment is lacking and thus prohibits recommendations for guiding clinical practice. Given the expected exponential rise in the prevalence of lumbar spinal stenosis with neurogenic claudication, large high‐quality trials are urgently needed. 

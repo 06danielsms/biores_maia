@@ -1,0 +1,14 @@
+Background
+Effective ventilation is the key to successful neonatal resuscitation. Positive pressure ventilation is initiated with manual ventilation devices which may or not deliver positive end‐expiratory pressure (PEEP). PEEP is known to have beneficial effects in preterm animal models and its use is ubiquitous in mechanical ventilation in neonatal intensive care. 
+Objectives
+To determine whether the use of PEEP during positive pressure ventilation at neonatal resuscitation reduces mortality or morbidity. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. Pub Med (1966 to May 2004) was searched using the MeSH headings Infant, Newborn, Resuscitation, Positive Pressure Respiration and the text words Positive End‐Expiratory Pressure or PEEP. The Cochrane Central Register of Controlled Trials (The Cochrane Library, Issue 1, 2004) was searched using text words Newborn and Resuscitation. No language restrictions were applied. The abstracts of the Society for Pediatric Research and the European Society for Pediatric Research, were searched from 1995‐May 2004. Abstracts were also searched in Anaesthesiology, Canadian Journal of Anaesthesia, British Journal of Anaesthesia, Anaesthesia and Intensive Care and Anaesthesia and Analgesia. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing ventilation devices providing PEEP with those not providing PEEP in the resuscitation of infants at birth. 
+Data collection and analysis
+Assessment of methodology regarding blinding of randomisation, intervention and outcome measurements as well as completeness of follow‐up was planned. We planned to evaluate the treatment effect using a fixed effects model using relative risk (RR), relative risk reduction, risk difference (RD) and number needed to treat (NNT) for categorical data and using mean, standard deviation and weighted mean difference (WMD) for continuous data. We planned an evaluation of heterogeneity to help determine the suitability of pooling results. 
+Main results
+No studies were found meeting the criteria for inclusion in this review.
+Authors' conclusions
+There is insufficient evidence to determine the efficacy and safety of PEEP during positive pressure ventilation at neonatal resuscitation. Randomised clinical trials comparing positive pressure ventilation with and without PEEP at neonatal resuscitation are warranted. 

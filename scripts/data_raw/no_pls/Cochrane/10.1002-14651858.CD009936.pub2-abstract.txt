@@ -1,0 +1,15 @@
+Background
+Vitrectomy surgery is one of the commonest ophthalmic procedures performed across the world. It may be performed using general or local anaesthesia encompassing regional or topical anaesthesia depending on a number of factors, including patient suitability, and patient, surgeon or anaesthetist preference. There have so far been no evidence‐based recommendations on the best form of anaesthesia for this intervention. There is no clear collated evidence base as to the best type of anaesthesia to reduce harm, and provide best surgical conditions and optimal outcome for patients. 
+Objectives
+To compare local with general anaesthesia for adults undergoing pars plana vitrectomy.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library and the reference lists of updated studies on the 25th of July 2016; MEDLINE via Ovid SP (1972 to July 2016) and Embase via Ovid SP (1972 to July 2016). In addition we searched the metaRegister of Controlled Trials (mRCT), ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) in July 2016. We searched the proceedings of the Annual Meeting of the Association for Research in Vision and Ophthalmology (ARVO) up to July 2016 for information about other relevant studies. 
+We also searched appropriate databases for ongoing reviews. We did not apply any language restriction. We assessed the search as up‐to‐date on the 25th of July 2016. 
+Selection criteria
+We planned to include all published randomized controlled trials (RCTs) involving comparison of different modalities of local anaesthesia with general anaesthesia for pars plana vitrectomy. We considered the following different modalities of local anaesthesia: sub‐Tenon's anaesthesia, retrobulbar anaesthesia, topical anaesthesia, peribulbar anaesthesia. We planned to include cluster‐randomized controlled trials. We excluded quasi‐RCT trials. 
+Data collection and analysis
+Two review authors conducted independent searches and assessed identified studies for inclusion according to the prespecified selection criteria. Two review authors assessed trial quality and planned to extract the data. 
+Main results
+We found no eligible studies that met our inclusion criteria and were therefore unable to perform a meta‐analysis or conduct a methodological quality assessment. 
+Authors' conclusions
+This systematic review failed to locate relevant clinical evidence to support or refute a pars plana vitrectomy performed with various modalities of local anaesthesia versus general anaesthesia. Good‐quality clinical trials are needed to define the role of local versus general anaesthesia for pars plana vitrectomy. 

@@ -1,0 +1,14 @@
+Background
+Standard surgical management of infants with perforated necrotizing enterocolitis (NEC) or spontaneous intestinal perforation (SIP) is laparotomy with the resection of the necrotic or perforated segments of the intestine. Peritoneal drainage is an alternative approach to the management of such infants. 
+Objectives
+To evaluate the benefits and risks of peritoneal drainage compared to laparotomy as the initial surgical treatment for perforated NEC or SIP in preterm infants. 
+Search methods
+Cochrane Central Register of Controlled Trials (CENTRAL), (The Cochrane Library 2010, Issue 3), MEDLINE (1966 to July 2010), EMBASE (1980 to July 2010), CINAHL (1982 to July 2010), previous reviews and cross‐references were searched. Abstracts of paediatric academic society meetings were also searched (online: 2000 to 2009; handsearching Pediatric Research: 1995 to 2000). 
+Selection criteria
+All randomised or quasi‐randomised controlled trials in preterm (< 37 weeks gestation), low birth weight (< 2500 g) infants with perforated NEC or SIP allocated to peritoneal drainage or laparotomy as initial surgical treatment. 
+Data collection and analysis
+Data were excerpted from the trial reports and analysed according to the standards of the Cochrane Neonatal Review Group. 
+Main results
+Only two randomised controlled trials (RCT) met the eligibility criteria. Overall, no significant differences were seen between the peritoneal drainage and laparotomy groups regarding the incidence of mortality within 28 days of the primary procedure (28/90 versus 30/95; typical relative risk (RR) 0.99, 95% CI 0.64 to 1.52; N = 185, two trials); mortality by 90 days after the primary procedure (typical RR 1.05, 95% CI 0.71 to 1.55; N = 185, two trials) and the number of infants needing total parenteral nutrition for more than 90 days (typical RR 1.18, 95% CI 0.72 to 1.95; N = 116, two trials). Nearly 50% of the infants in the peritoneal drainage group could avoid the need for laparotomy during the study period (44/90 versus 95/96; typical RR 0.49, 95% CI 0.39 to 0.61; N = 186, two trials). One study found that the time to attain full enteral feeds in infants ≤ 1000 g was prolonged in the peritoneal drainage group (mean difference (MD) 20.77, 95% CI 3.62 to 37.92). 
+Authors' conclusions
+Evidence from two RCTs suggests no significant benefits or harms of peritoneal drainage over laparotomy. However, due to the very small sample size, clinically significant differences may have easily been missed. No firm recommendations can be made for clinicians. Large multicentre randomised controlled trials are needed to address this question definitively. 

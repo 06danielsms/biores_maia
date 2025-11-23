@@ -1,0 +1,17 @@
+Comparing different methods of determining whether gliomas are missing arms 1p and 19q of the chromosomes 
+Why is improving the detection of 1p/19q codeletion in glioma important? 
+Gliomas are a type of brain tumour (cancer). There are different types of glioma, with different changes in their genetic material. One of the possible genetic changes is the loss of parts of two of our 23 chromosomes. When both a specific part of chromosome 1 and a specific part of chromosome 19 are missing, it is known as '1p/19q codeletion'. 1p/19q codeletion is used to diagnose a glioma known as an oligodendroglioma. Presence of 1p/19q codeletion can also tell us how long a patient with a glioma may survive and which is the best medicine to treat that patient. 
+What is the aim of this review? 
+We wanted to find out which is the most accurate and cost‐effective way to identify 1p/19q codeletion in gliomas. 
+What is studied in the review? 
+The review examined and compared all methods to detect 1p/19q codeletion that are based on the deoxyribonucleic acid (DNA, which contains the information for an organism to develop, survive and reproduce) of the tumour. These include tests known as FISH and CISH, which are performed directly on tumour tissue and a number of other tests that are based on DNA extracted from the tumour tissue including: PCR‐based LOH, real‐time PCR, MLPA, SNP array, CGH array and NGS. None of these tests is perfect, so there is no 'gold standard' against which to compare them. The two most commonly used tests (FISH and PCR‐based LOH) were used as the best available reference tests against which to examine the others. 
+What are the main results of the review? 
+We found 53 studies. Most tests were good at identifying instances of 1p/19q codeletion (meaning they were tests with good 'sensitivity') that had been identified by either of the two common tests. However, there were some differences in how well the tests were able to rule out 1p/19q codeletion when it did not seem to be present (the 'specificity' of the test). NGS and SNP arrays were better at this (i.e. having fewer 'false‐positives' results) when considered against FISH as the reference test. The cost per correct diagnosis was lowest for MLPA, although this was not a firm finding because the amount of evidence was small. 
+How reliable are results of the studies in this review? 
+Our certainty in the evidence was low or very low, because there were few studies for most of the tests and there were limitations to almost all the studies. Similarly, the economic analysis must be interpreted with caution due to the relatively small number of studies. 
+To whom do the results of this review apply? 
+The ways in which the tests were performed were thought to be representative of how they would be performed in practice. However, many of the studies included people with specific types of gliomas, so the results might not be representative of all people with gliomas. 
+What are the implications of this review? 
+The limited evidence suggests that currently used techniques show good sensitivity for detection of 1p/19q codeletion. NGS and SNP arrays may have higher specificity when FISH is the reference standard, but this comes at greater cost per test. 
+How up‐to‐date is this review? 
+The latest search for studies took place in August 2019.

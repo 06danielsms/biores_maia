@@ -1,0 +1,14 @@
+Background
+The number, type and roles of specialist nurses dedicated to the care and management of patients with inflammatory bowel disease is increasing. Despite this increase, there has been little evidence to date to demonstrate the effectiveness of specialist nursing interventions. This review aims to identify and evaluate the impact of specialist nursing interventions on management of inflammatory bowel disease, access to treatment, remission, morbidity and quality of life. 
+Objectives
+To identify and evaluate the impact of specialist nursing interventions for improving the care and management of patients with inflammatory bowel disease (IBD). 
+Search methods
+A comprehensive search of databases including the Cochrane Library, MEDLINE, and British Nursing Index was carried out to identify trials. References from relevant papers were searched and hand searching was undertaken of relevant publications including gastroenterology conference proceedings to identify additional trials (date of last search 30 September 2008). 
+Selection criteria
+Randomised controlled trials, controlled before and after studies and interrupted time series studies of gastroenterology and IBD specialist nurses intending to improve access and outcomes for patients with ulcerative colitis and Crohn's disease were considered for inclusion. 
+Data collection and analysis
+Two investigators independently extracted data and assessed trial quality. Any discrepancies were resolved by consensus. 
+Main results
+One randomised controlled trial of 100 IBD patients receiving a specialist nurse delivered counselling package (n = 50) or routine outpatient clinic follow‐up (n = 50), with assessments at entry and six and 12 months, was included in this review. This study was of low methodological quality. Disease remission, patient compliance, clinical improvement, utilisation of nurse‐led services, patient satisfaction, hospital admission, outpatient attendance, progression to surgery, length of hospital stay and cost effectiveness data were not reported. Pooled mean mental health scores at 6 months were higher in patients who received nurse‐led counselling compared to patients who received routine follow‐up. However, this difference was not statistically significant (WMD 3.67; 95% CI ‐0.44 to 7.77; P = 0.08). Other pooled assessments of physical and psychological well‐being showed no statistically significant differences. 
+Authors' conclusions
+Although specialist nurse counselling interventions might provide benefit for IBD patients the one included study was of low quality and the results of this study should be interpreted with caution. Higher quality trials of gastroenterology and IBD specialist nursing interventions are needed to assess the impact of specialist nursing interventions on the care and management of patients with inflammatory bowel disease. 

@@ -1,0 +1,15 @@
+Background
+Many people stretch before or after engaging in athletic activity. Usually the purpose is to reduce risk of injury, reduce soreness after exercise, or enhance athletic performance. This is an update of a Cochrane review first published in 2007. 
+Objectives
+The aim of this review was to determine effects of stretching before or after exercise on the development of delayed‐onset muscle soreness. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (to 10 August 2009), the Cochrane Central Register of Controlled Trials (2010, Issue 1), MEDLINE (1966 to 8th February 2010), EMBASE (1988 to 8th February 2010), CINAHL (1982 to 23rd February 2010), SPORTDiscus (1949 to 8th February 2010), PEDro (to 15th February 2010) and reference lists of articles. 
+Selection criteria
+Eligible studies were randomised or quasi‐randomised studies of any pre‐exercise or post‐exercise stretching technique designed to prevent or treat delayed‐onset muscle soreness (DOMS). For the studies to be included, the stretching had to be conducted soon before or soon after exercise and muscle soreness had to be assessed. 
+Data collection and analysis
+Risk of bias was assessed using The Cochrane Collaboration's 'Risk of bias' tool and quality of evidence was assessed using GRADE. Estimates of effects of stretching were converted to a common 100‐point scale. Outcomes were pooled in fixed‐effect meta‐analyses. 
+Main results
+Twelve studies were included in the review. This update incorporated two new studies. One of the new trials was a large field‐based trial that included 2377 participants, 1220 of whom were allocated stretching. All other 11 studies were small, with between 10 and 30 participants receiving the stretch condition. Ten studies were laboratory‐based and other two were field‐based. All studies were exposed to either a moderate or high risk of bias. The quality of evidence was low to moderate. 
+There was a high degree of consistency of results across studies. The pooled estimate showed that pre‐exercise stretching reduced soreness at one day after exercise by, on average, half a point on a 100‐point scale (mean difference ‐0.52, 95% CI ‐11.30 to 10.26; 3 studies). Post‐exercise stretching reduced soreness at one day after exercise by, on average, one point on a 100‐point scale (mean difference ‐1.04, 95% CI ‐6.88 to 4.79; 4 studies). Similar effects were evident between half a day and three days after exercise. One large study showed that stretching before and after exercise reduced peak soreness over a one week period by, on average, four points on a 100‐point scale (mean difference ‐3.80, 95% CI ‐5.17 to ‐2.43). This effect, though statistically significant, is very small. 
+Authors' conclusions
+The evidence from randomised studies suggests that muscle stretching, whether conducted before, after, or before and after exercise, does not produce clinically important reductions in delayed‐onset muscle soreness in healthy adults. 

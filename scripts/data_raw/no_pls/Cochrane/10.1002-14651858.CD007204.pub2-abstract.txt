@@ -1,0 +1,14 @@
+Background
+Following the discovery of an endogenous cannabinoid system and the identification of specific cannabinoid receptors in the central nervous system, much work has been done to investigate the main effects of these compounds. There is increasing evidence that the cannabinoid system may regulate neurodegenerative processes such as excessive glutamate production, oxidative stress and neuroinflammation. Neurodegeneration is a feature common to the various types of dementia and this has led to interest in whether cannabinoids may be clinically useful in the treatment of people with dementia. Recent studies have also shown that cannabinoids may have more specific effects in interrupting the pathological process in Alzheimer's disease. 
+Objectives
+To determine from available research whether cannabinoids are clinically effective in the treatment of dementia. 
+Search methods
+The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 11 April 2008 using the terms: cannabis or cannabinoid* or endocannabinoid*  or cannabidiol or THC or CBD or dronabinol or delta‐9‐tetrahydrocannabinol or marijuana  or marihuana or hashish. The CDCIG Specialized Register contains records from all major health care databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many clinical trials registries and grey literature sources. 
+Selection criteria
+All double‐blind and single (rater)‐blind randomized placebo controlled trials assessing the efficacy of cannabinoids at any dose in the treatment of people with dementia. 
+Data collection and analysis
+Two reviewers independently examined the retrieved studies for inclusion according to the selection criteria. They then independently assessed the methodological quality of selected trials and extracted data where possible. 
+Main results
+Only one study met the inclusion criteria. The data in the study report were presented in such a way that they could not be extracted for further analysis and there was insufficient quantitative data to validate the results. 
+Authors' conclusions
+This review finds no evidence that cannabinoids are effective in the improvement of disturbed behaviour in dementia or in the treatment of other symptoms of dementia. More randomized double‐blind placebo controlled trials are needed to determine whether cannabinoids are clinically effective in the treatment of dementia. 

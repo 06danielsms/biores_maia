@@ -1,0 +1,14 @@
+Background
+Quinine and artemisinin drugs are used in severe malaria, but quinine resistance is increasing. Arteether is a recently developed artemisinin derivative that is oil soluble, has a long elimination half life, and is more stable than other derivatives. 
+Objectives
+To compare intramuscular arteether with other antimalarial drugs to treat severe malaria.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (October 2010), CENTRAL (The Cochrane Library Issue 3, 2010), MEDLINE (1966 to October 2010), EMBASE (1980 to October 2010), U.S. National Library of Medicine (NLM) Gateway (1953 to 1965), Web Science Citation (1981 to October 2010), LILACS (October 2010), Google search engine (October 2010), conference proceedings, and reference lists. We also contacted researchers, organizations, and pharmaceutical companies to help identify trials. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials of intramuscular arteether in adults and children with severe malaria. 
+Data collection and analysis
+We independently assessed the risk of bias in the trials and extracted data, and analysed data using Review Manager 5. 
+Main results
+Two small trials (n = 194) met the inclusion criteria. Both trials compared arteether with quinine in children with cerebral malaria and reported on similar outcomes. There was no statistically significant difference in the number of deaths (risk ratio 0.75, 95% confidence interval 0.43 to 1.30; n = 194, 2 trials), neurological complications (risk ratio 1.18, 95% confidence interval 0.31 to 4.46; n = 58, 1 trial), or other outcomes including time to regain consciousness, parasite clearance time, and fever clearance time. The meta‐analyses lack statistical power to detect important differences. 
+Authors' conclusions
+More trials with a larger number of participants are needed before a firm conclusion about the efficacy and safety of arteether can be reached. 

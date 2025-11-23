@@ -1,0 +1,14 @@
+Background
+Microbial cultures for diagnosis of neonatal sepsis have low sensitivity and reporting delay. Advances in molecular microbiology have fostered new molecular assays that are rapid and may improve neonatal outcomes. 
+Objectives
+To assess the diagnostic accuracy of various molecular methods for the diagnosis of culture‐positive bacterial and fungal sepsis in neonates and to explore heterogeneity among studies by analyzing subgroups classified by gestational age and type of sepsis onset and compare molecular tests with one another. 
+Search methods
+We performed the systematic review as recommended by the Cochrane Diagnostic Test Accuracy Working Group. On 19 January 2016, we searched electronic bibliographic databases (the Cochrane Library, PubMed (from 1966), Embase (from 1982), and CINAHL (from 1982)), conference proceedings of the Pediatric Academic Societies annual conference (from 1990), clinical trial registries (ClinicalTrials.gov, International Standard Randomised Controlled Trial Number (ISRCTN) registry, and World Health Organization (WHO) International Clinical Trials Platform (ICTRP) Search portal), and Science Citation Index. We contacted experts in the field for studies. 
+Selection criteria
+We included studies that were prospective or retrospective, cohort or cross‐sectional design, which evaluated molecular assays (index test) in neonates with suspected sepsis (participants) in comparison with microbial cultures (reference standard). 
+Data collection and analysis
+Two review authors independently assessed the methodologic quality of the studies and extracted data. We performed meta‐analyses using the bivariate and hierarchical summary receiver operating characteristic (HSROC) models and entered data into Review Manager 5. 
+Main results
+Thirty‐five studies were eligible for inclusion and the summary estimate of sensitivity was 0.90 (95% confidence interval (CI) 0.82 to 0.95) and of specificity was 0.93 (95% CI 0.89 to 0.96) (moderate quality evidence). We explored heterogeneity by subgroup analyses of type of test, gestational age, type of sepsis onset, and prevalence of sepsis and we did not find sufficient explanations for the heterogeneity (moderate to very low quality evidence). Sensitivity analyses by including studies that analyzed blood samples and by good methodology revealed similar results (moderate quality evidence). 
+Authors' conclusions
+Molecular assays have the advantage of producing rapid results and may perform well as 'add‐on' tests. 

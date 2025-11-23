@@ -1,0 +1,14 @@
+Background
+Severe acute respiratory syndrome (SARS) is an acute respiratory disease caused by a novel coronavirus, which first appeared in Foshan City, China on 22 December 2002. Chinese herbs were used in its treatment. 
+Objectives
+To evaluate the possible effectiveness and safety of Chinese herbs combined with Western medicines versus Western medicines alone for SARS patients. 
+Search methods
+We searched CENTRAL 2012, Issue 3, MEDLINE (1966 to February Week 4, 2012), EMBASE (1990 to March 2012) and the Chinese Biomedical Literature (Issue 3, 2012). 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of Chinese herbs combined with Western medicines versus Western medicines alone for patients diagnosed with SARS. 
+Data collection and analysis
+Two review authors (XL, MZ) independently extracted trial data. We extracted dichotomous and continuous data with 95% confidence intervals (CI). For dichotomous data, we used risk ratio (RR). For continuous data, we calculated mean differences (MD). We calculated overall results based on the random‐effects model if heterogeneity existed between studies. If no heterogeneity was detected between the studies, we used the fixed‐effect model. We used the Z score and the Chi2 test with significance being set at P < 0.05 to test heterogeneity. No severe adverse events were reported. 
+Main results
+We included 12 RCTs and one quasi‐RCT. A total of 640 SARS patients and 12 Chinese herbs were identified. We did not find Chinese herbs combined with Western medicines decreased mortality versus Western medicines alone. Two herbs may improve symptoms. Five herbs may improve lung infiltrate absorption. Four herbs may decrease the dosage of corticosteroids. Three herbs may improve the quality of life of SARS patients. One herb may shorten the length of hospital stay. 
+Authors' conclusions
+Chinese herbs combined with Western medicines made no difference in decreasing mortality versus Western medicines alone. It is possible that Chinese herbs combined with Western medicines may improve symptoms, quality of life and absorption of pulmonary infiltration, and decrease the corticosteroid dosage for SARS patients. The evidence is weak because of the poor quality of the included trials. Long‐term follow‐up of these included trials is needed. 

@@ -1,0 +1,15 @@
+Background
+Stenotrophomonas maltophilia is one of the most common emerging multi‐drug resistant organisms found in the lungs of people with cystic fibrosis and its prevalence is increasing. Chronic infection with Stenotrophomonas maltophilia has recently been shown to be an independent predictor of pulmonary exacerbation requiring hospitalization and antibiotics. However, the role of antibiotic treatment of Stenotrophomonas maltophilia infection in people with cystic fibrosis is still unclear. This is an update of a previously published review. 
+Objectives
+The objective of our review is to assess the effectiveness of antibiotic treatment for Stenotrophomonas maltophilia in people with cystic fibrosis. The primary objective is to assess this in relation to lung function and pulmonary exacerbations in the setting of acute pulmonary exacerbations. The secondary objective is to assess this in relation to the eradication of Stenotrophomonas maltophilia. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched a registry of ongoing trials and the reference lists of relevant articles and reviews. 
+Date of latest search: 03 March 2020.
+Selection criteria
+Randomized controlled trials of Stenotrophomonas maltophilia mono‐infection or Stenotrophomonas maltophilia co‐infection with Pseudomonas aeruginosa in either the setting of an acute pulmonary exacerbation or a chronic infection treated with suppressive antibiotic therapy. 
+Data collection and analysis
+Both authors independently assessed the trials identified by the search for potential inclusion in the review. 
+Main results
+We identified only one trial of antibiotic treatment of pulmonary exacerbations that included people with cystic fibrosis with Stenotrophomonas maltophilia. However, this trial had to be excluded because data was not available per pathogen. 
+Authors' conclusions
+This review did not identify any evidence regarding the effectiveness of antibiotic treatment for Stenotrophomonas maltophilia in people with cystic fibrosis. Until such evidence becomes available, clinicians need to use their clinical judgement as to whether or not to treat Stenotrophomonas maltophilia infection in people with cystic fibrosis. Randomized clinical trials are needed to address these unanswered clinical questions. 

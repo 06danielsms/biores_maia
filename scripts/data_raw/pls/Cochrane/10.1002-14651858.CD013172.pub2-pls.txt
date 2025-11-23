@@ -1,0 +1,23 @@
+How accurate is duplex ultrasound (DUS) imaging for diagnosing carotid artery stenosis in symptomatic patients? 
+Carotid artery stenosis (CAS) is a narrowing of the lumen (the inside space) of the carotid artery (usually due to cholesterol deposits called plaque). CAS is responsible for 8% of all strokes due to a blocked blood vessel (ischemic strokes) and is associated with a high chance of recurrence. In such circumstances, the treatment is to re‐establish adequate blood flow (by surgery or other approaches to open the artery) to prevent further neurologic episodes. Duplex ultrasound (DUS) can help identify the appropriate patients who will benefit from a more invasive treatment and those who should be with drugs alone. 
+What is the aim of this review? 
+To determine how accurate DUS is for diagnosing different grades of CAS in individuals with neurologic symptoms. 
+What was studied in the review? 
+DUS is used in clinical practice as the first test to detect carotid artery stenosis, usually with the result confirmed by other more expensive and invasive tests, such as computed tomography angiography (CTA), magnetic resonance angiography (MRA), or digital subtraction angiography (DSA). The advantage of DUS is that it is less expensive and helps to reduce the time required to select patients for treatment. We included studies assessing the accuracy of DUS compared with DSA, MRA, or CTA in patients with recent stroke symptoms. We grouped the results from studies that used approximately the same method and threshold to assess accuracy in the following categories of carotid artery stenosis: < 50%, 50% to 99%, 50% to 69%, 70% to 99%, and occlusion (blockage of the vessel). 
+What are the main results of this review? 
+This review included 22 studies (4957 carotid arteries tested). The searches were performed up to 15 February 2021. The results indicate the following: If DUS were to be used in a standardized cohort of 1000 patients: 
+For DUS versus DSA  
+< 50% CAS (4 studies, 1495 carotid arteries): Estimated 299 patients would have a DUS result indicating the presence of non‐significant CAS, of whom eight (2.7%) would be incorrectly classified. Of the 701 people with a result indicating that < 50% carotid stenosis is not present, 169 (24.1%) would be incorrectly classified. 
+50% to 99% CAS (5 studies, 1536 carotid arteries): Estimated 642 patients would have a DUS result indicating the presence of 50% to 99% CAS; of these, 147 (22.8%) would be incorrectly classified. Of the 358 people with a result indicating that 50% to 99% carotid stenosis is not present, 15 (4.2%) would be incorrectly classified. 
+70% to 99% CAS (9 studies, 2770 carotid arteries): Estimated 390 patients would have a DUS result indicating the presence of 70% to 99% CAS; of these, eight (2%) would be incorrectly classified. Of the 610 people with a result indicating that 70% to 99% carotid stenosis is not present, 68 (11.1%) would be incorrectly classified. 
+Occlusion (7 studies, 1212 carotid arteries): Estimated 205 patients would have a DUS result indicating carotid artery occlusion; of these, 41 (20%) would be incorrectly classified. Of the 795 people with a result indicating that carotid occlusion is not present, 16 (2%) would be incorrectly classified. 
+For DUS versus CTA  
+Occlusion (3 studies, 833 carotid arteries): An estimated 606 patients would have a DUS result indicating carotid artery occlusion; of these, 36 (6%) would be incorrectly classified. 394 people with a result indicating that carotid occlusion is not present, 30 (8%) would be incorrectly classified. 
+For DUS versus MRA  
+Meta‐analysis was not performed.
+How reliable are the results of the studies in this review? 
+There were some problems with how the studies were conducted that could impair the correct estimates of the diagnostic accuracy. Many of the studies were of poor or unclear quality. 
+Who do the results of this review apply to? 
+The results are relevant for patients with neurologic symptoms who are suspected of having carotid artery stenosis. 
+What are the implications of this review? 
+The diagnostic accuracy of DUS is high, especially at discriminating between the presence or absence of significant carotid artery stenosis. This evidence, plus its less invasive nature, supports the early use of DUS for the detection of carotid artery stenosis. 

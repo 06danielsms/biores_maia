@@ -1,0 +1,14 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 2, 2000. Piroxicam is a non‐steroidal anti‐inflammatory drug (NSAID) with analgesic properties, and is used mainly for treating rheumatic disorders. Some drugs have been directly compared against each other within a trial setting to determine their relative efficacies, whereas other have not. It is possible, however, to compare analgesics indirectly by examining the effectiveness of each drug against placebo when used in similar clinical situations. 
+Objectives
+To determine the analgesic efficacy and adverse effects of single‐dose piroxicam compared with placebo in moderate to severe postoperative pain. To compare the effects of piroxicam with other analgesics. 
+Search methods
+Published studies were identified from systematic searching of MEDLINE, Biological Abstracts, EMBASE, CENTRAL and the Oxford Pain Relief Database in December 2007. Additional studies were identified from the reference lists of retrieved reports. 
+Selection criteria
+The following inclusion criteria were used: full journal publication, randomised placebo controlled trial, double‐blind design, adult participants, postoperative pain of moderate to severe intensity at the baseline assessment, postoperative administration of oral or intramuscular piroxicam. 
+Data collection and analysis
+Summed pain intensity and pain relief data were extracted and converted into dichotomous information to yield the number of participants obtaining at least 50% pain relief. This was used to calculate estimates of relative benefit and number‐needed‐to‐treat‐to‐benefit (NNT) for one participant to obtain at least 50% pain relief. Information was collected on adverse effects and estimates of relative risk and number‐needed‐to‐treat‐to‐harm (NNH) were calculated. 
+Main results
+In this update no further studies were found. The original search identified three studies (141 participants) which compared oral piroxicam 20 mg with placebo and one (15 participants) compared oral piroxicam 40 mg with placebo. For single doses of piroxicam 20 mg and 40 mg the respective NNT for at least 50% pain relief were 2.7 (2.1 to 3.8) [95% confidence interval (CI)] and 1.9 (1.2 to 4.3) [95% CI] compared with placebo over four to six hours in moderate to severe postoperative pain. The reported incidence of adverse effects was no higher with piroxicam (20 mg or 40 mg) than with placebo. No further additional studies were found in the updated search. 
+Authors' conclusions
+Piroxicam appears to be of similar efficacy to other NSAIDs and intramuscular morphine 10 mg when used as a single oral dose in the treatment of moderate to severe postoperative pain. 

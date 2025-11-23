@@ -1,0 +1,14 @@
+Background
+Surgery on the abdominal aorta to treat aneurysms or occlusive disease is a major undertaking which requires intensive physiological support and fluid management. Blood products are often used but the main fluid replacement is with crystalloids or colloids. For years there has been controversy over which fluid is optimal and a number of studies have examined the subject. This is an update of a Cochrane review first published in 2000 and previously updated in 2002. 
+Objectives
+To determine the effectiveness of different non‐blood replacement fluids used in abdominal aorta procedures with a view to identifying the optimal fluid for use. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group searched their Specialised Register (August 2009) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 3) for publications describing randomised controlled trials of non‐blood replacement fluids in abdominal aortic surgery. In addition, the reference lists from retrieved trials were screened for further information about trials. 
+Selection criteria
+Randomised controlled trials assessing the effects of at least one specific non‐blood fluid used for replacement therapy in operations on, and confined to, the abdominal aorta. 
+Data collection and analysis
+Data were extracted and then entered into the Review Manager software where statistical analyses were performed. 
+Main results
+Thirty‐eight trials involving 1589 patients were included. Patients undergoing aortic surgery had various physiological parameters measured before and after their operation (these were cardiac, respiratory, haematological, and biochemical). Patients were randomised to a fluid type. This review demonstrated that no single fluid affects any outcome measure significantly more than another fluid across a range of outcomes. The death rate in these studies was 2.45% (39 patients). 
+Authors' conclusions
+Despite the confirmed beneficial effects of colloids in this review, further studies are still required. There are no studies examining the effects of combination fluid therapy. The primary research outcome was death, for which results were limited; therefore, future studies should pay more attention to short‐term outcomes such as minimising the need for allogenic blood transfusion, complications (organ failure), and length of stay in both the intensive care unit and hospital. 

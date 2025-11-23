@@ -1,0 +1,14 @@
+Background
+Treatment of cancer is increasingly more effective but is associated with short and long term side effects. Oral side effects remain a major source of illness despite the use of a variety of agents to prevent them. One of these side effects is oral mucositis (mouth ulcers). 
+Objectives
+To evaluate the effectiveness of prophylactic agents for oral mucositis in patients with cancer receiving treatment, compared with other potentially active interventions, placebo or no treatment. 
+Search methods
+Electronic searches of Cochrane Oral Health Group and PaPaS Trials Registers (to 16 February 2011), CENTRAL (The Cochrane Library 2011, Issue 1), MEDLINE via OVID (1950 to 16 February 2011), EMBASE via OVID (1980 to 16 February 2011), CINAHL via EBSCO (1980 to 16 February 2011), CANCERLIT via PubMed (1950 to 16 February 2011), OpenSIGLE (1980 to 2005) and LILACS via the Virtual Health Library (1980 to 16 February 2011) were undertaken. Reference lists from relevant articles were searched and the authors of eligible trials were contacted to identify trials and obtain additional information. 
+Selection criteria
+Randomised controlled trials of interventions to prevent oral mucositis in patients receiving treatment for cancer. 
+Data collection and analysis
+Information regarding methods, participants, interventions, outcome measures, results and risk of bias were independently extracted, in duplicate, by two review authors. Authors were contacted for further details where these were unclear. The Cochrane Collaboration statistical guidelines were followed and risk ratios calculated using random‐effects models. 
+Main results
+A total of 131 studies with 10,514 randomised participants are now included. Overall only 8% of these studies were assessed as being at low risk of bias. Ten interventions, where there was more than one trial in the meta‐analysis, showed some statistically significant evidence of a benefit (albeit sometimes weak) for either preventing or reducing the severity of mucositis, compared to either a placebo or no treatment. These ten interventions were: aloe vera, amifostine, cryotherapy, granulocyte‐colony stimulating factor (G‐CSF), intravenous glutamine, honey, keratinocyte growth factor, laser, polymixin/tobramycin/amphotericin (PTA) antibiotic pastille/paste and sucralfate. 
+Authors' conclusions
+Ten interventions were found to have some benefit with regard to preventing or reducing the severity of mucositis associated with cancer treatment. The strength of the evidence was variable and implications for practice include consideration that benefits may be specific for certain cancer types and treatment. There is a need for further well designed, and conducted trials with sufficient numbers of participants to perform subgroup analyses by type of disease and chemotherapeutic agent. 

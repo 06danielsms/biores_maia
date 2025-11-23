@@ -1,0 +1,12 @@
+Proton pump inhibitor treatment started before endoscopy in upper gastrointestinal bleeding 
+Background 
+Bleeding from the oesophagus (the canal that connects the throat to the stomach), stomach or duodenum (the first part of the small intestine) is a common medical emergency. Research has suggested that reducing the amount of acid in the stomach may help to control the bleeding, but it is unknown if it is beneficial to start such treatment early; that is, before endoscopy (the examination of the oesophagus, stomach and duodenum with a fibreoptic camera). 
+Review question 
+We reviewed the evidence about the effect of one type of anti‐acid drug (proton pump inhibitors) compared to either no treatment (placebo) or another type of anti‐acid drug (histamine‐2 receptor antagonists) started before endoscopy in people with upper gastrointestinal bleeding. 
+Study characteristics 
+The evidence is current to June 2021. We included six studies involving 2223 participants. All studies were conducted in a hospital setting, and included participants with clinical signs of upper gastrointestinal bleeding. 
+These studies reported data for the following outcomes: death (5 studies, 2143 participants); recurrence of upper gastrointestinal bleeding (5 studies, 2121 participants); surgery (6 studies, 2223 participants); the proportion of participants with active bleeding or signs of recent serious bleeding at first endoscopy (4 studies, 1332 participants); and the need for endoscopic therapy (such as injecting medicines or cauterising blood vessels) for bleeding (3 studies, 1983 participants). One study reported data for time to discharge, and two studies reported data for blood transfusion requirement. 
+Key results 
+It remains uncertain whether treatment with a proton pump inhibitor before endoscopy affected the risk of death, recurrent bleeding, need for surgery, the proportion of participants with findings of active or recent serious bleeding at first endoscopy, time to discharge or blood transfusion requirements. However, treatment with a proton pump inhibitor before endoscopy probably reduced the need for endoscopic treatment of bleeding. 
+Certainty of the evidence 
+The certainty (quality) of the evidence was low to moderate, due mainly to limitations in the design and execution of some studies, and the inability to get a precise estimate of the effect (due to inadequate numbers of participants and events in the included studies). 

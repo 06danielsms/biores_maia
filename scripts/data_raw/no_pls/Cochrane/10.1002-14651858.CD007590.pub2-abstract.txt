@@ -1,0 +1,14 @@
+Background
+Traumatic injuries represent a considerable public health burden with significant personal and societal costs. The care of the severely injured patient in a trauma system progresses along a continuum that includes numerous interventions being provided by a multidisciplinary group of healthcare personnel. Despite the recent emphasis on quality of care in medicine, there has been little research to direct trauma clinicians and administrators on how optimally to monitor and improve upon the quality of care delivered within a trauma system. Audit filters are one mechanism for improving quality of care and are defined as specific clinical processes or outcomes of care that, when they occur, represent unfavorable deviations from an established norm and which prompt review and feedback. Although audit filters are widely utilized for performance improvement in trauma systems they have not been subjected to systematic review of their effectiveness. 
+Objectives
+To determine the effectiveness of using audit filters for improving processes of care and clinical outcomes in trauma systems. 
+Search methods
+Our search strategy included an electronic search of the Cochrane Injuries Group Specialized Register, the Cochrane EPOC Group Specialized Register, CENTRAL (The Cochrane Library 2008, Issue 4), MEDLINE, PubMed, EMBASE, CINAHL, and ISI Web of Science: (SCI‐EXPANDED and CPCI‐S). We handsearched the Journal of Trauma, Injury, Annals of Emergency Medicine, Academic Emergency Medicine, and Injury Prevention. We searched two clinical trial registries: 1) The World Health Organization International Clinical Trials Registry Platform and, 2) Clinical Trials.gov. We also contacted content experts for further articles. The most recent electronic search was completed in December 2008 and the handsearch was completed up to February 2009. 
+Selection criteria
+We searched for randomized controlled trials, controlled clinical trials, controlled before‐and‐after studies, and interrupted time series studies that used audit filters as an intervention for improving processes of care, morbidity, or mortality for severely injured patients. 
+Data collection and analysis
+Two authors independently screened the search results, applied inclusion criteria, and extracted data. 
+Main results
+There were no studies identified that met the inclusion criteria for this review.
+Authors' conclusions
+We were unable to identify any studies of sufficient methodological quality to draw conclusions regarding the effectiveness of audit filters as a performance improvement intervention in trauma systems. Future research using rigorous study designs should focus on the relative effectiveness of audit filters in comparison to alternative quality improvement strategies at improving processes of care, functional outcomes, and mortality for injured patients. 

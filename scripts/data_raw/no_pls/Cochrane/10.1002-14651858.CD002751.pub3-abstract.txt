@@ -1,0 +1,16 @@
+Background
+Active compression‐decompression cardiopulmonary resuscitation (ACDR CPR) uses a hand‐held suction device, applied mid‐sternum, to compress the chest then actively decompress the chest after each compression. Randomised controlled trials testing this device have shown discordant results. 
+Objectives
+To determine the effect of active chest compression‐decompression CPR compared to standard chest compression CPR on mortality and neurological function in adults with cardiac arrest treated either in‐hospital or out‐of‐hospital. 
+Search methods
+We updated the searches of CENTRAL in The Cochrane Library (Issue 12 of 12, 2012), MEDLINE (OVID, 1946 to January week 1 2013), and EMBASE (OVID, 1980 to week 1 2013) on 14 January 2013. We checked the reference list of retrieved articles, contacted experts in the field, and searched ClinicalTrials.gov. 
+Selection criteria
+All randomised or quasi‐randomised studies comparing active compression‐decompression with standard manual chest compression in adults with a cardiac arrest who received cardiopulmonary resuscitation by a trained medical or paramedical team. 
+Data collection and analysis
+We independently extracted data on an intention‐to‐treat basis. When needed, we contacted the authors of the primary studies. If appropriate, we cumulated studies and pooled relative risk (RR) estimates. We predefined subgroup analyses according to setting (out‐of‐hospital or in‐hospital) and attending team composition (with physician or paramedic only). 
+Main results
+In this update, 27 new related publications were found, but they did not all fulfil inclusion criteria or concerned participants already reported in previous publications. In the end, we included 10 trials in this review: Eight were in out‐of‐hospital settings; one was set in‐hospital only; and one had both in‐hospital and out‐of‐hospital components. Allocation concealment was adequate in four studies. The two in‐hospital studies were different in quality and size (773 and 53 participants). Both found no differences between ACDR CPR and STR in any outcome. 
+Out‐of‐hospital trials cumulated 4162 participants. There were no differences between ACDR CPR and STR for mortality either immediately (RR 0.98, 95% confidence interval (CI) 0.94 to 1.03) or at hospital discharge (RR 0.99, 95% CI 0.98 to 1.01). The pooled RR of neurological impairment of any severity was 1.71 (95% CI 0.90 to 3.25), with a non‐significant trend to more frequent severe neurological damage in survivors of ACDR CPR (RR 3.11, 95% CI 0.98 to 9.83). However, assessment of neurological outcome was limited, and few participants had neurological damage. 
+There was no difference between ACDR CPR and STR with regard to complications such as rib or sternal fractures, pneumothorax, or haemothorax (RR 1.09, 95% CI 0.86 to 1.38). Skin trauma and ecchymosis were more frequent with ACDR CPR. 
+Authors' conclusions
+Active chest compression‐decompression in people with cardiac arrest is not associated with any clear benefit. 

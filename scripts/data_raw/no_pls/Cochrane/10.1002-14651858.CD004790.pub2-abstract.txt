@@ -1,0 +1,14 @@
+Background
+Hepatitis B vaccine and hepatitis B immunoglobulin are considered for newborn infants of HBsAg‐positive mothers to prevent hepatitis B infection. 
+Objectives
+To assess the beneficial and harmful effects of hepatitis B vaccines and hepatitis B immunoglobulin in newborn infants of HBsAg‐positive mothers. 
+Search methods
+Trials were identified through The Cochrane Neonatal Group Controlled Trials Register, The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Central Register of Controlled Trials in The Cochrane Library, MEDLINE, and EMBASE (until February 2004), authors of trials, and pharmaceutical companies. 
+Selection criteria
+Randomised clinical trials comparing: plasma‐derived vaccine (PDV) or recombinant vaccine (RV) versus no intervention, placebo, or other active vaccines; hepatitis B immunoglobulin versus no intervention, placebo, or other control immunoglobulin; as well as PDV or RV plus hepatitis B immunoglobulin versus no intervention, placebo, or other control vaccines or immunoglobulin. 
+Data collection and analysis
+Outcomes are assessed at maximal follow‐up. The primary outcome measure was hepatitis B occurrence, based on a blood specimen positive for HBsAg, HBeAg, or antibody to hepatitis B core antigen (anti‐HBc). Binary outcomes are reported as relative risks (RR) with 95% confidence interval (CI). Subgroup analyses were performed with regard to methodological quality of the trial, mother's HBe‐Ag status, and time of immunisation after birth. 
+Main results
+We identified 29 randomised clinical trials, five of which were considered high quality. Only three trials reported inclusion of hepatitis B e‐antigen negative mothers. Compared with placebo/no intervention, vaccine reduced hepatitis B occurrence (RR 0.28, 95% confidence interval (CI) 0.20 to 0.40, 4 trials). No significant differences of hepatitis B occurrence were found comparing recombinant vaccine (RV) versus plasma‐derived vaccine (PDV) (RR 1.00, 95% CI 0.71 to 1.42, 4 trials) and high‐dose versus low‐dose vaccine (PDV: RR 0.97, 95% CI 0.55 to 1.68, 3 trials; RV: RR 0.78, 95% CI 0.31 to 1.94, 1 trial). Compared with placebo/no intervention, hepatitis B immunoglobulin or the combination of vaccine plus hepatitis B immunoglobulin reduced hepatitis B occurrence (hepatitis B immunoglobulin: RR 0.50, 95% CI 0.41 to 0.60, 1 trial; PDV plus hepatitis B immunoglobulin: RR 0.08, 95% CI 0.03 to 0.17, 3 trials). Compared with vaccine, vaccine plus hepatitis B immunoglobulin reduced hepatitis B occurrence (RR 0.54, 95% CI 0.41 to 0.73, 10 trials). Hepatitis B vaccine and hepatitis B immunoglobulin seem safe, but few trials reported on adverse events. 
+Authors' conclusions
+Vaccine, hepatitis B immunoglobulin, and vaccine plus hepatitis B immunoglobulin prevent hepatitis B occurrence in newborn infants of HBsAg positive mothers. 

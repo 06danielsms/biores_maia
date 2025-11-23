@@ -1,0 +1,29 @@
+Is vitamin D an effective and safe treatment for COVID‐19?
+Key messages 
+‐ We did not find enough, good‐quality evidence to judge whether vitamin D is an effective or safe treatment for adults with COVID‐19. 
+‐ We need more research on this topic. Future research should focus on well‐designed studies with robust methods. 
+‐ We identified 21 studies on this topic that are ongoing. We will update this review when more evidence becomes available. 
+What is the link between vitamin D and COVID‐19? 
+Some studies have shown that people who are in hospital with severe COVID‐19 also have low levels of  vitamin D (vitamin D deficiency). However, the risk factors for developing severe COVID‐19 are the same as those for developing vitamin D deficiency, so it is difficult to tell if vitamin D deficiency itself is a risk factor for severe COVID‐19. Risk factors include general ill‐health, a poor diet, and pre‐existing health conditions, such as diabetes, and liver and kidney disease. 
+Vitamin D is important for healthy bones, teeth and muscles. It helps to regulate blood sugar, the heart and blood vessels, and the lungs and airways. It also has a role in boosting the body’s immune system. These are areas affected by COVID‐19, so giving vitamin D to people with COVID‐19 might help them to recover more quickly or have the disease less severely. 
+What did we want to find out? 
+We wanted to find out the effects of giving vitamin D to adults with confirmed COVID‐19 on the following: 
+‐ death from any cause;
+‐ improvement or worsening of the patient’s condition;
+‐ unwanted effects; and
+‐ quality of life.
+What did we do? 
+We searched for studies that assessed the use of vitamin D as a treatment for adults with confirmed COVID‐19 compared with a placebo (sham treatment) or another treatment. Vitamin D could be given in any form and in any dose. 
+We compared and summarised their results, and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We found three studies with 356 participants. One study took place in Brazil, and the other two in Spain. Two studies had participants with severe COVID‐19 and one had participants with mild COVID‐19 or with no symptoms. All the participants tested positive for COVID‐19 with a laboratory test called ‘PCR’, which is currently the most accurate test available. 
+The studies gave their participants different doses of vitamin D. They used different timings from each other, from one large dose in one study to several smaller doses over 14 days in another study. Only two studies said that their participants were vitamin D‐deficient. The other study did not say anything about their participants’ vitamin D status. 
+Deaths from any causeWe do not know whether vitamin D helps to prevent death from COVID‐19. Two studies (in participants with severe COVID‐19) provided evidence about deaths from any cause. One reported no deaths in the 50 participants who had received vitamin D, but two  deaths in the 26 participants who received the hospital’s usual COVID‐19 treatment. The other study reported nine deaths in 119 participants who had been given vitamin D and six deaths in the 118 participants given placebo. These studies were too different from each other to allow us to draw any conclusions. 
+Patient’s conditionVitamin D may reduce the need for patients to be put on a ventilator to help them breathe, but the evidence is uncertain. One study (in participants with severe COVID‐19) reported that nine out of 119 participants given vitamin D had to be put on a ventilator and 17 out of 118 given a placebo needed a ventilator. 
+Unwanted effectsWe do not know whether vitamin D causes unwanted effects. Only one study (in participants with severe COVID‐19) reported data on unwanted effects in a way that we could use. It found that one participant out of 119 vomited shortly after being given vitamin D. 
+Quality of lifeNone of the studies reported quality of life. 
+What are the limitations of the evidence? 
+Our confidence in the evidence is very limited because the studies gave different doses of vitamin D at different times from each other, did not all report participants’ vitamin D status, and did not measure and record their results using consistent methods. 
+We found little evidence on unwanted effects and none on quality of life.  
+How up to date is this evidence? 
+The evidence is up to date to 11 March 2021.

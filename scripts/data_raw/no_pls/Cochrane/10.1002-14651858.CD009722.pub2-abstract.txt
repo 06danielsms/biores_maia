@@ -1,0 +1,14 @@
+Background
+Idiopathic lumbosacral plexopathy (ILSP), also called lumbosacral plexitis or non‐diabetic lumbosacral (radiculo)plexus neuropathy is a rare clinical entity. The core features are (sub)acute, severe, asymmetrical leg pain, followed by asymmetrical multifocal weakness and atrophy in the subsequent weeks or months. Sensory symptoms include paresthesias, hypesthesia, allodynia, and autonomic dysfunction. ILSP generally runs a monophasic and self limiting course. Recovery starts slowly over months to several years and is nearly always incomplete. Some studies suggest that the condition has an immune‐mediated etiology. Biopsies of distal cutaneous nerve segments have shown features suggestive of an inflammatory microvasculitis causing ischemic damage of the nerves. The clinical and pathological findings are similar to those found in diabetic lumbosacral plexus neuropathy and suggest that inflammation may form part of the final common pathway in both conditions. 
+Objectives
+To assess the effects of any form of immunotherapy in the treatment of ILSP.
+Search methods
+On 15 October 2013, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE, EMBASE, LILACS, and Index to Theses. We scanned conference abstracts, and searched trials databases for ongoing trials. We checked all references in the identified trials and contacted authors to identify any additional published or unpublished data. 
+Selection criteria
+We intended to include all randomized controlled trials (RCTs) or quasi‐RCTs of any immunotherapy given within six weeks of disease onset, in participants with conditions fulfilling all the following: acute or subacute onset of pain and lower motor neuron weakness involving predominantly the proximal muscles of the lower limbs, weakness that is not confined to one nerve or nerve root distribution, electrophysiological tests showing predominantly axonal neuropathies, exclusion of other causes of lumbosacral radiculopathy and plexopathy as well as patients with plasma sugar in the diabetic range (fasting greater than 7.0 mmol/L, random greater than 11.1 mmol/L). 
+Data collection and analysis
+Two authors independently examined all references retrieved by the search to select those meeting the inclusion criteria, according to standard Cochrane methodology. 
+Main results
+We identified no RCTs of any immunotherapy for ILSP.
+Authors' conclusions
+There is at present no evidence from randomized trials to support any recommendation on the use of any immunotherapy treatment in ILSP. 

@@ -1,0 +1,14 @@
+In‐bag manual versus uncontained power morcellation for laparoscopic myomectomy
+Review question 
+Cochrane authors reviewed the effectiveness and safety of in‐bag manual morcellation compared to uncontained power morcellation during laparoscopic myomectomy. The primary outcome of the review was a composite of intraoperative (during surgery) complications. 
+Background 
+Myomectomy is a surgical procedure to remove uterine fibroids — also called leiomyomas. These common, non‐cancerous growths usually develop in the uterus during childbearing years, but they can occur at any age. In laparoscopic myomectomy, which is a minimally invasive procedure, the surgeon accesses and removes the fibroids through several small abdominal incisions. 
+Laparoscopic myomectomy is the gold standard for women with uterine leiomyomas, but it is difficult to remove large fibroids through the small incisions and tubes (laparoscopes). To overcome this challenge, surgeons developed a technique to break the large fibroids into smaller pieces (morcellation). 
+However, power morcellation (using a drill‐like instrument to cut up the fibroids) inside the abdomen may lead to the scattering of the tissues. These tissues may be benign (such as fibroids or endometriosis), but they may also be tissues from an undiagnosed cancer. A strategy to optimise women's safety is to cut up larger fibroids with a scalpel or scissors, inside a bag. 
+Study Characteristics 
+We included two randomised controlled trials, which enrolled 176 premenopausal women undergoing laparoscopic myomectomy; they were randomised to receive either in‐bag manual morcellation (87 women) or uncontained power morcellation (89 women). The literature was searched to 1 July 2019. 
+Key results 
+Neither study reported complications during or after surgery, including no diagnoses of leiomyosarcoma, for women in either group. 
+We are very uncertain whether in‐bag morcellation reduces the total time of the operation, or improves the ease of morcellation. The evidence suggests that the morcellation operative time was slightly longer when the surgeon used in‐bag morcellation. However, the quality of the evidence is very low and we cannot be certain of any of these results. 
+Quality of the evidence 
+The evidence was of very low quality. The main limitations were indirectness (both trials took place in high‐income settings and countries, therefore, our findings are limited to this type of setting), and imprecision (both trials had small sample sizes and wide confidence intervals). 

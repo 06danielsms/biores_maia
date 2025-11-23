@@ -1,0 +1,14 @@
+Background
+Ocular injury is a preventable cause of blindness, yet it remains a significant disabling health problem that affects all age groups. Injuries may occur in the home, in the workplace, during recreational activities or as a result of road crashes. Types of injuries vary from closed globe (contusion or lamellar laceration) to an open globe injury, which includes penetration and even perforation of the globe. To date, the main strategy to prevent these injuries has been to educate people to identify high‐risk situations and to take correct action to avoid danger. 
+Objectives
+To assess the evidence for the effectiveness of educational interventions for the prevention of eye injuries. 
+Search methods
+We searched the Cochrane Injuries and the Cochrane Eyes & Vision Group Specialised Registers, CENTRAL (The Cochrane Library 2008, Issue 3), MEDLINE, EMBASE, Current Controlled Trials metaRegister (now includes National Research Register), AgeInfo, HMIC Health Management Information Consortium, WHOLIS (World Health Organization Library Information System), LILACS (Latin American and Caribbean Health Sciences), MEDCARIB (Caribbean Health Sciences Literature), ISI Web of Science: (Science Citation Index Expanded (SCI‐EXPANDED), Social Sciences Citation Index (SSCI) Conference Proceedings Citation Index‐Science (CPCI‐S)), ERIC, ZETOC and SPORTdiscus. We also checked reference lists of relevant papers and contacted study authors in an effort to identify published, unpublished and ongoing trials. Searches were last updated in August 2008. 
+Selection criteria
+We included any randomised controlled trials (RCTs) and controlled before‐and‐after studies which evaluated any educational intervention aimed at preventing eye injuries. 
+Data collection and analysis
+Four authors independently screened the electronic search results and data extracted. Three authors entered data into RevMan 5. As we judged there to be substantial heterogeneity between participants and interventions, we did not pool the studies' results, but have reviewed the results narratively. 
+Main results
+We included two RCTs and three controlled before‐and‐after studies in this review. One study reported eye injuries as an outcome and four studies reported change in behaviour or knowledge. 
+Authors' conclusions
+The included studies do not provide reliable evidence that educational interventions are effective in preventing eye injuries. There is a need for well‐conducted RCTs with adequate allocation concealment and masking (blinding). Studies should have a longer follow‐up time and more studies need to be conducted in low and middle‐income countries. 

@@ -1,0 +1,15 @@
+Background
+Among pediatric patients, newborns are at highest risk of developing thromboembolism. Neonatal thromboembolic (TE) events may consist of both venous and arterial thromboses and often iatrogenic complications (eg, central catheterization). Treatment guidelines for pediatric patients with TE events most often are extrapolated from the literature regarding adults. Options for the management of neonatal TE events include expectant management; nitroglycerin ointment; thrombolytic therapy or anticoagulant therapy, or a combination of the two; and surgery. Since the 1990s, low molecular weight heparin (LMWH) has become the neonatal anticoagulant of choice. Reasons for its appeal include predictable dose response, no need for venous access, and limited monitoring requirements. The overall major complication rate is around 5%. Whether preterm infants are at increased risk is unclear. No data are available on the frequency of osteoporosis, heparin‐induced thrombocytopenia (HIT), or other hypersensitivity reactions in children and neonates exposed to LMWH. 
+Objectives
+To assess whether heparin treatment (both unfractionated heparin [UFH] and LMWH) reduces mortality and morbidity rates in preterm and term newborn infants with diagnosed thrombosis. The intervention is compared with placebo or no treatment. Also, to assess the safety of heparin therapy (both UFH and LMWH) for potential harms. 
+Subgroup analyses were planned to examine gestational age, birth weight, mode of thrombus diagnosis, presence of a central line, positive family history for genetic disorders (thrombophilia, deficiency of protein S and protein C, methylenetetrahydrofolate reductase [MTHFR] mutation), route of heparin administration, type of heparin used, and location of thrombus (see "Subgroup analysis and investigation of heterogeneity"). 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 4), MEDLINE via PubMed (1966 to May 9, 2016), Embase (1980 to May 9, 2016), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to May 9, 2016). We searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomized controlled trials and quasi‐randomized trials. 
+Selection criteria
+Randomized, quasi‐randomized, and cluster‐randomized controlled trials comparing heparin versus placebo or no treatment in preterm and term neonates with a diagnosis of thrombosis. 
+Data collection and analysis
+We used the standard methods of the Cochrane Neonatal Review Group. Two review authors independently assessed studies identified by the search strategy for inclusion. 
+Main results
+Our search strategy yielded 1160 references. Two review authors independently assessed all references for inclusion. We found no completed studies and no ongoing trials for inclusion. 
+Authors' conclusions
+We found no studies that met our inclusion criteria and no evidence from randomized controlled trials to recommend or refute the use of heparin for treatment of neonates with thrombosis. 

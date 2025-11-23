@@ -1,0 +1,26 @@
+Payment methods for outpatient care facilities
+Review aim 
+The aim of this Cochrane review was to assess the effect of different payment systems for outpatient care facilities. We collected and analysed all relevant studies to answer this question and included 21 studies. 
+Key messages 
+Pay‐for‐performance systems probably have only small benefits or make little or no difference to healthcare provider behaviour or patients' use of healthcare services. We are uncertain whether they cause harm. We are uncertain about the benefits and harms of other payments systems because the research is lacking or of very low certainty. 
+What was studied in the review? 
+Many healthcare services are offered to patients through outpatient facilities rather than to inpatients in hospitals. Outpatient facilities are also known as ambulatory care facilities, and include primary healthcare centres, outpatient clinics, urgent care centres, family planning centres, mental health centres, and dental clinics. 
+Different systems to reimburse outpatient (ambulatory) care facilities for their services are available to governments and health insurers. These systems include: 
+• budget systems, where the facility is given a fixed amount of money in advance to cover expenses for a fixed period; 
+• capitation payment systems, where the facility is paid a fixed amount of money in advance to provide specific services to each enrolled patient for a fixed period; 
+• fee‐for‐service systems, where payment is based on the specific services that the healthcare facility provides; 
+• pay‐for‐performance systems, where payment is partly based on the performance of the facility's healthcare providers. 
+Different payment systems can have different effects on how healthcare facilities deliver care. These changes can be intentional or unintentional and can lead to both benefits and harms. At best, a payment system can encourage healthcare providers to offer the right healthcare services to the right patients in the best and most cost‐efficient way. However, payment systems can also lead providers to offer poor‐quality, expensive, and unnecessary care, which can ultimately have a negative impact on patients' health. 
+This Cochrane review assessed the effect of different payment systems for outpatient care facilities. Other Cochrane reviews have assessed the effect of different payment systems for individual healthcare professionals and for inpatient facilities. 
+Main results 
+We found 21 relevant studies from the United Kingdom, the United States, Rwanda, Burundi, Tanzania, Afghanistan, China, and Democratic Republic of Congo. Most of the studies were from primary healthcare facilities. The studies assessed capitation systems, fee‐for‐service systems, and different types of pay‐for‐performance systems. 
+Pay‐for‐performance systems:
+• probably slightly improve providers' use of some tests and treatments;
+• probably lead to little or no difference in providers' compliance with quality assurance criteria; 
+• may lead to little or no difference in patients' use of health services;
+• may lead to little or no difference in patients' health status.
+Capitation combined with a pay‐for‐performance system targeted at reducing antibiotic use probably slightly reduces antibiotic prescriptions when compared to a fee‐for‐service system. 
+Two studies compared capitation with fee‐for‐service systems, however, we assessed the certainty of the evidence as very low. 
+We did not find any relevant studies that assessed budget systems.
+How up‐to‐date is this review? 
+We searched for studies that had been published up to March 2016.

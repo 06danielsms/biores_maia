@@ -1,0 +1,14 @@
+Background
+Nonalcoholic fatty liver disease (NAFLD) is increasingly recognised as a condition associated with overweight or obesity that may progress to end‐stage liver disease. NAFLD histology resembles alcohol‐induced liver injury, but occurs in patients with no history of alcohol abuse. NAFLD has a broad spectrum of clinical and histological manifestations, ranging from simple fatty liver to hepatic steatosis with inflammation, advanced fibrosis, and cirrhosis. The inflammatory stage is known as non‐alcoholic steatohepatitis (NASH). Recent reports indicate that weight loss induced by bariatric procedures could be beneficial for NASH treatment. 
+Objectives
+To assess the benefits and harms of bariatric surgery for NASH in obese patients.
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded to October 2009. 
+Selection criteria
+All randomised clinical trials evaluating any bariatric procedure versus no intervention, placebo (sham procedure), or other interventions in patients with NASH regardless of publication status, number of patients randomised, language, or blinding. Quasi‐randomised clinical studies were to be considered for the review if no randomised clinical trials were identified. If included, their bias towards positive findings was to be considered. 
+Data collection and analysis
+We extracted data in duplicate, and we planned to analyse the data by intention‐to‐treat.
+Main results
+We could not find any randomised clinical trials or quasi‐randomised clinical studies that fulfilled the inclusion criteria. Our search resulted in twenty‐one prospective or retrospective cohort studies, in which improvement on steatosis or inflammation scores was reported. However, four studies also described some deterioration in the degree of fibrosis. 
+Authors' conclusions
+The lack of randomised clinical trials and quasi‐randomised clinical studies precludes us to assess the benefits and harms of bariatric surgery as a therapeutic approach for patients with NASH. Limitations of all other studies with inferior design did not allow us to draw any unbiased conclusion on bariatric surgery for treatment of NASH. 

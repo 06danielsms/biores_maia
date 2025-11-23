@@ -1,0 +1,14 @@
+Background
+Specialist paediatric home‐based nursing services have been proposed as a cost‐effective means of reducing distress resulting from hospital admissions, while enhancing primary care and reducing length of hospital stay. This review is an update of our original review, which was published in 2006. 
+Objectives
+To evaluate specialist home‐based nursing services for children with acute and chronic illnesses. 
+Search methods
+We searched the following databases in February 2012: the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library 2012 Issue 2, Ovid MEDLINE, EMBASE, PsycINFO, CINAHL and Sociological Abstracts. We also searched ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials (RCTs) of children from birth to age 18 years with acute or chronic illnesses allocated to specialist home‐based nursing services compared with conventional health care. Outcomes included utilisation of health care, physical and mental health, satisfaction, adverse health outcomes and costs. 
+Data collection and analysis
+Two review authors extracted data from the studies independently and resolved any discrepancies by recourse to a third author. Meta‐analysis was not appropriate because of the clinical diversity of the studies and the lack of common outcome measures. 
+Main results
+We screened 4226 titles to yield seven RCTs with a total of 840 participants. Participants, interventions and outcomes were diverse. No significant differences were reported in health outcomes; two studies reported a reduction in the hospital stay with no difference in the hospital readmission rates. Three studies reported a reduction in parental anxiety and improvement in child behaviours was reported in three studies. Overall increased parental satisfaction was reported in three studies. Also, better parental coping and family functioning was reported in one study. By contrast, one study each reported no impact on parental burden of care or on functional status of children. Home care was reported as more costly for service providers with substantial cost savings for the family in two studies, while one study revealed no significant cost benefits for the family. 
+Authors' conclusions
+Current research does not provide supporting evidence for a reduction in access to hospital services or a reduction in hospital readmission rate for children with acute and chronic illnesses using specialist home‐based nursing services; however, the only summary finding across a few studies was that there is a significant decrease in length of hospitalisation. The preliminary results show no adverse impact on physical health outcomes and a number of papers reported improved satisfaction with home‐based care. Further trials are required, measuring health, satisfaction, service utilisation and long‐term costs. 

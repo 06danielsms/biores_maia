@@ -1,0 +1,14 @@
+Background
+The optimal treatment for patients with suspected biliary dyskinesia is controversial. Some studies found that cholecystectomy produced symptomatic improvement in patients with gallbladder dyskinesia (diagnosed by low gallbladder ejection fraction) while others found no significant benefit. Some studies have shown that gallbladder ejection fraction can discriminate patients who would benefit from cholecystectomy. Other studies have not confirmed this. 
+Objectives
+The aim of this review was to compare the benefits and harms of cholecystectomy for patients with suspected gallbladder dyskinesia. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until March 2008. 
+Selection criteria
+We considered for inclusion all randomised clinical trials comparing cholecystectomy versus no cholecystectomy on patients with gallbladder dyskinesia. 
+Data collection and analysis
+We collected the data on the characteristics, methodological quality, mortality, number of patients in whom symptoms were improved or cured from the one identified trial. We planned to analyse the data using the fixed‐effect and the random‐effects models using RevMan Analysis. For each outcome we planned to calculate the risk ratio (RR) with 95% confidence intervals based on intention‐to‐treat analysis. 
+Main results
+We included one trial with 21 patients randomised: 11 to cholecystectomy and 10 to control (no cholecystectomy). This trial was considered to be of high risk of bias as patients were not blinded and the procedure‐related morbidity was not reported. There was no mortality in either group. All patients in the cholecystectomy group and only one patient in the control group had improvement in symptoms (P = 0.0001) after a mean follow‐up period of 33.6 months. 
+Authors' conclusions
+The evidence for the benefits and harms of cholecystectomy in gallbladder dyskinesia from randomised clinical trials is based on a single small trial at risk of bias. Further randomised clinical trials with improved bias control are necessary to confirm or reject the promising results. 

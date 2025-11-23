@@ -1,0 +1,18 @@
+Background
+This is an update of a Cochrane review first published in The Cochrane Library in Issue 3, 2010. 
+For many patients with head and neck cancer, oral nutrition will not provide adequate nourishment during treatment with radiotherapy or chemoradiotherapy due to the acute toxicity of treatment, obstruction caused by the tumour, or both. The optimal method of enteral feeding for this patient group has yet to be established. 
+Objectives
+To compare the effectiveness of different enteral feeding methods used in the nutritional management of patients with head and neck cancer receiving radiotherapy or chemoradiotherapy using the clinical outcomes, nutritional status, quality of life and rates of complications.   
+Search methods
+Our extensive search included the Cochrane ENT Group Trials Register, CENTRAL, PubMed, EMBASE, CINAHL, AMED and ISI Web of Science. The date of the most recent search was 13 February 2012. 
+Selection criteria
+Randomised controlled trials comparing one method of enteral feeding with another, e.g. nasogastric (NG) or percutaneous endoscopic gastrostomy (PEG) feeding, for adult patients with a diagnosis of head and neck cancer receiving radiotherapy and/or chemoradiotherapy. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data using standardised forms. We contacted study authors for additional information. 
+Main results
+One randomised controlled trial met the criteria for inclusion in this review. No further studies were identified when we updated the searches in 2012. 
+Patients diagnosed with head and neck cancer, being treated with chemoradiotherapy, were randomised to PEG or NG feeding. In total only 33 patients were eligible for analysis as the trial was terminated early due to poor accrual. A high degree of bias was identified in the study. 
+Weight loss was greater for the NG group at six weeks post‐treatment than for the PEG group (P = 0.001). At six months post‐treatment, however, there was no significant difference in weight loss between the two groups. Anthropometric measurements recorded six weeks post‐treatment demonstrated lower triceps skin fold thickness for the NG group compared to the PEG group (P = 0.03). No statistically significant difference was found between the two different enteral feeding techniques in relation to complication rates or patient satisfaction. The duration of PEG feeding was significantly longer than for the NG group (P = 0.0006). In addition, the study calculated the cost of PEG feeding to be 10 times greater than that of NG, though this was not found to be significant. There was no difference in the treatment received by the two groups. However, four PEG fed patients and two NG fed patients required unscheduled treatment breaks of a median of two and six days respectively. 
+We identified no studies of enteral feeding involving any form of radiologically inserted gastrostomy (RIG) feeding or comparing prophylactic PEG versus PEG for inclusion in the review. 
+Authors' conclusions
+There is not sufficient evidence to determine the optimal method of enteral feeding for patients with head and neck cancer receiving radiotherapy and/or chemoradiotherapy. Further trials of the two methods of enteral feeding, incorporating larger sample sizes, are required. 

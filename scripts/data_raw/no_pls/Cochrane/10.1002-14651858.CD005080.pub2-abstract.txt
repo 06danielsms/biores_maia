@@ -1,0 +1,19 @@
+Background
+Intra‐abdominal adhesions are common and challenge patients, surgeons and other healthcare providers. They are potentially preventable and several agents that act as barriers between adjacent peritoneal surfaces have been evaluated for prophylaxis. Efficacy, judged by systematic reviews, has only been undertaken in gynaecological surgery. 
+Objectives
+To determine efficacy and safety of peritoneal adhesion prophylaxis on incidence, distribution and adhesion‐related intestinal obstruction after non‐gynaecological surgery. 
+Search methods
+The Cochrane Central Register of Controlled Trials, the Cochrane Colorectal Cancer Group specialised register, MEDLINE (1966‐2008), and EMBASE (1971‐2008) were searched. 
+Selection criteria
+Blinded and non‐blinded, randomised and quasi‐randomised clinical trials were considered.
+Data collection and analysis
+Two authors individually conducted the searches and assessed the quality of studies for inclusion which were analysed using the Revman Analyses software 5.0.0 provided by the Cochrane collaboration. Meta‐analysis used a random effects model. 
+Main results
+Seven randomised trials were eligible; six compared hyaluronic acid/carboxymethyl membrane (HA/CMC) and one 0.5% ferric hyaluronate gel against controls. 
+HA/CMC reduced the incidence of adhesions (OR 0.15 (95% CI: 0.05, 0.43); p=0.0005) with reduced extent (WMD ‐25.9% (95% CI: ‐40.56, ‐11.26); p=0.0005) and severity. There was no reduction of intestinal obstruction needing surgical intervention (odds ratio: 0.84 (95% CI: 0.24, 2.7) with comparable overall morbidity and mortality. 
+The study of 0.5% ferric hyaluronate gel was prematurely terminated and no valid conclusions could be made but there was a higher incidence of overall morbidity (OR 5.04; 95% CI: 1.1, 22.9) and ileus (OR: 9.29; 95% CI: 1.57, 54.77; p=0.01). 
+Authors' conclusions
+Implications for practice
+There is evidence that the use of HA/CMC membrane reduces incidence, extent and severity of adhesions which may, theoretically, have implications in re‐operative abdominal surgery. There is no evidence that the incidence of intestinal obstruction or need for operative intervention is reduced. HA/CMC appears to be safe but there may be a risk of leak when wrapped around an anastomoses. HA/CMC may be considered for intra‐abdominal, adhesion prophylaxis at a surgeon’s discretion and clinical context. 
+Implications for research
+Further research is needed to explore the effectiveness of other agents in abdominal surgery in general. Synergism, using agents which target different aspects of adhesiogenesis, with exploration effectiveness in a wide range of emergency and elective surgery should be considered. Longer term outcomes of recurrent intestinal obstruction and chronic pain, identification of high risk groups of patients with evaluation of cost‐effectiveness are required. 

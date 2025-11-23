@@ -1,0 +1,14 @@
+Background
+Germinal matrix‐intraventricular haemorrhage (GMH‐IVH) remains a substantial issue in neonatal intensive care units worldwide. Current therapies to prevent or treat GMH‐IVH are limited. Stem cell‐based therapies offer a potential therapeutic approach to repair, restore, and/or regenerate injured brain tissue. These preclinical findings have now culminated in ongoing human neonatal studies. 
+Objectives
+To determine the benefits and harms of stem cell‐based interventions for prevention or treatment of germinal matrix‐intraventricular haemorrhage (GM‐IVH) in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 1), in the Cochrane Library; MEDLINE via PubMed (1966 to 7 January 2019); Embase (1980 to 7 January 2019); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL) (1982 to 7 January 2019). We also searched clinical trials databases, conference proceedings, and reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+We attempted to identify randomised controlled trials, quasi‐randomised controlled trials, and cluster trials comparing (1) stem cell‐based interventions versus control; (2) mesenchymal stromal cells (MSCs) of type or source versus MSCs of other type or source; (3) stem cell‐based interventions other than MSCs of type or source versus stem cell‐based interventions other than MSCs of other type or source; or (4) MSCs versus stem cell‐based interventions other than MSCs. For prevention studies, we included extremely preterm infants (less than 28 weeks' gestation), 24 hours of age or less, without ultrasound diagnosis of GM‐IVH; for treatment studies, we included preterm infants (less than 37 weeks' gestation), of any postnatal age, with ultrasound diagnosis of GM‐IVH. 
+Data collection and analysis
+For each of the included trials, two review authors independently planned to extract data (e.g. number of participants, birth weight, gestational age, type and source of MSCs, other stem cell‐based interventions) and assess the risk of bias (e.g. adequacy of randomisation, blinding, completeness of follow‐up). Primary outcomes considered in this review are all‐cause neonatal mortality, major neurodevelopmental disability, GM‐IVH, and extension of pre‐existing non‐severe GM‐IVH. We planned to use the GRADE approach to assess the quality of evidence. 
+Main results
+Our search strategy yielded 769 references. We did not find any completed studies for inclusion. One randomised controlled trial is currently registered and ongoing. Five phase 1 trials are described in the excluded studies. 
+Authors' conclusions
+Currently no evidence is available to show the benefits or harms of stem cell‐based interventions for treatment or prevention of GM‐IVH in preterm infants. 

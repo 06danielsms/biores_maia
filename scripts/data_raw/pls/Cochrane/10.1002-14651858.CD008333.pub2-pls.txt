@@ -1,0 +1,35 @@
+What are the benefits and risks of anti‐cytokine medicines for ANCA‐associated vasculitis?
+Why this question is important 
+The body’s defence (immune) system fights injury or infection by sending white blood cells to surround and protect the affected area. This causes redness and swelling, called inflammation. 
+Vasculitis is an inflammation of the blood vessels. In vasculitis, instead of reacting to harm, the immune system attacks healthy blood vessels. The reason for this reaction is often unknown. 
+One rare type of vasculitis is antineutrophil cytoplasmic antibody (ANCA)‐associated vasculitis (AAV). AAV covers three different conditions that are grouped together because they all affect small blood vessels: 
+‐ MPA: microscopic polyangiitis;
+‐ GPA: granulomatosis with polyangiitis; and
+‐ EPGA: eosinophilic granulomatosis with polyangiitis.
+The areas of the body most commonly affected are kidneys, lungs, joints, ears, nose and nerves. It is important to treat AAV early, to prevent serious damage to these organs. 
+Currently, the recommended treatment for AAV is to use medicines that control the immune system and medicines against inflammation (steroids). However, this treatment causes serious unwanted effects. Medicines that target cytokines (small molecules that influence the immune system’s reactions) are an alternative option. To evaluate the benefits and risks of anti‐cytokine medicines, we reviewed the evidence from research studies. 
+How we identified and assessed the evidence 
+First, we searched for all relevant studies in the medical literature. We then compared the results, and summarised the evidence from all the studies. Finally, we assessed how certain the evidence was. We considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorized the evidence as being of very low, low, moderate or high certainty. 
+What we found 
+We found four studies on a total of 440 adults from the USA and Europe. The average age of people ranged between 48 and 56 years. They received treatment for between 2 and 25 months, and were then followed for between 8 weeks and four years. Three studies compared anti‐cytokine medicines (mepolizumab, belimumab and etanercept) to a placebo (fake medicine) and one study compared two different anti‐cytokine medicines (rituximab versus infliximab). Three studies received at least partial funding from pharmaceutical companies. 
+Mepolizumab versus placebo in people with EGPA that returned after, or did not respond to, initial treatment 
+Moderate‐certainty evidence indicates that mepolizumab probably reduces the likelihood of the disease returning within a year of treatment. 
+Low‐certainty evidence suggests that mepolizumab:
+‐ may make little or no difference to mortality;
+‐ may increase the likelihood of the disease partially or fully disappearing for at least 24 weeks, and may increase the chances of this disappearance lasting for another six months at least; 
+‐ may make little or no difference to unwanted events, serious unwanted events or withdrawal from studies due to unwanted events. 
+The impact of mepolizumab on disease flare (worsening) is unknown, as this was not measured. 
+Etanercept or belimumab versus placebo in GPA and MPA 
+Moderate‐certainty evidence indicates that etanercept probably makes little or no difference to disease flare. 
+Low‐certainty evidence suggests that etanercept or belimumab may make little or no difference to: 
+‐ mortality;
+‐ the disease fully disappearing for at least 24 weeks, or disappearance lasting at least another six months after that; 
+‐ the disease returning strongly;
+‐ unwanted events or severe/serious unwanted events
+Evidence of low certainty suggests that etanercept or belimumab may slightly increase chances of people withdrawing from studies due to unwanted events. 
+Infliximab versus rituximab, plus steroids and cytotoxic agents (substances that kill cells), in people with GPA that did not respond to other treatments 
+The one study we found was too small to assess the differences between treatments (very low‐certainty evidence). 
+What this means 
+Mepolizumab probably reduces the likelihood of the disease returning within a year of treatment, and etanercept probably makes little or no difference to disease flare. We are less certain of the other potential benefits or risks of anti‐cytokine medicines because the evidence is of low or very low certainty. Further research is likely to change the findings of this review. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to August 2019.

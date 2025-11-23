@@ -1,0 +1,15 @@
+Background
+Different techniques have been described to reduce morbidity during caesarean section. After the baby has been born by caesarean section and the placenta has been extracted, temporary removal of the uterus from the abdominal cavity (exteriorisation of the uterus) to facilitate repair of the uterine incision has been postulated as a valuable technique. This is particularly so when exposure of the incision is difficult and when there are problems with haemostasis. Several clinical trials have been done, with varying results, including substantial reduction in the rate of postoperative infection and morbidity with extra‐abdominal closure of the uterine incision, and less associated peri‐operative haemorrhage. Subsequent studies suggest that the method of placental removal rather than method of closure of the uterine incision influences peri‐operative morbidity. 
+Objectives
+To evaluate the effects of extra‐abdominal repair of the uterine incision compared to intra‐abdominal repair. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (September 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2003, Issue 3) and PubMed (1966 to 2003). We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 12 January 2011 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised controlled trials involving a comparison of uterine exteriorisation with intra‐abdominal repair of the uterine incision in women undergoing caesarean section. 
+Data collection and analysis
+Two reviewers independently assessed the trials identified for inclusion. We compared categorical data using relative risks and 95% confidence intervals and continuous data using the weighted mean difference with 95% confidence intervals. We tested for statistical heterogeneity between trials using the I squared test. Where no significant heterogeneity (greater than 50%) existed, we pooled data using a fixed effect model. If significant heterogeneity existed, a random effects model was used. 
+Main results
+Six studies were included, with 1294 women randomised overall, and 1221 women included in the analysis. There were no statistically significant differences between the groups in most of the outcomes identified, except for febrile morbidity and length of hospital stay. With extra‐abdominal closure of the uterine incision, febrile morbidity was lower (relative risk 0.41, 95% confidence interval (CI) 0.17 to 0.97), and the hospital stay was longer (weighted mean difference 0.24 days, 95% CI 0.08 to 0.39). 
+Authors' conclusions
+There is no evidence from this review to make definitive conclusions about which method of uterine closure offers greater advantages, if any. However, these results are based on too few and too small studies to detect differences in rare, but severe, complications. 
+[Note: The 12 citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

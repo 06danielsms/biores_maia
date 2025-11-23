@@ -1,0 +1,15 @@
+Background
+A consumer model of health supports that people undergoing elective surgery should be informed about the past operative performance of their surgeon before making two important decisions: 1. to consent to the proposed surgery, and 2. to have a particular doctor perform the surgery. This information arguably helps empower patients to participate in their care. While surgeons' performance data are available in some settings, there continues to be controversy over the provision of such data to patients, and the question of whether consumers should, or want to, be provided with this information. 
+Objectives
+To assess the effects of providing a surgeon's performance data to people considering elective surgery on patient‐based and service utilisation outcomes. 
+Search methods
+For the original review, we searched: the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, 2009, Issue 4); MEDLINE (Ovid) (1950 to 28 September 2009); EMBASE (Ovid) (1988 to 28 September 2009); PsycINFO (Ovid) (1806 to 28 September 2009); CINAHL (EBSCO) (1982 to 20 October 2009); Current Contents (Ovid) (1992 to 23 November 2009); and ProQuest Dissertations and Theses (1861 to 20 October 2009). 
+For this update, we searched: CENTRAL (2009 to 3 March 2014); MEDLINE (Ovid) (2009 to 3 March 2014); EMBASE (Ovid) (2009 to 3 March 2014); PsycINFO (Ovid) (2009 to 9 March 2014); CINAHL (EBSCO) (2009 to 9 March 2014), Current Contents (Web of Science) (November 2009 to 21 March 2014), and ProQuest Dissertations and Theses (2009 to 21 March 2014). We applied no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs), cluster RCTs, quasi‐RCTs and controlled before and after studies (CBAs), in which an individual surgeon's performance data were provided to people considering elective surgery. We considered the CBAs for inclusion from 2009 onwards. 
+Data collection and analysis
+Two review authors (AH, SH) independently assessed all titles, abstracts, or both of retrieved citations. We identified no studies for inclusion. Consequently, we conducted no data collection or analysis. 
+Main results
+We found no studies that met the inclusion criteria; therefore, there are no results to report on the effect of the provision of a surgeon's performance data for people considering elective surgery. 
+Authors' conclusions
+We found no studies reporting the impact of the provision of a surgeon's performance data for people considering elective surgery. This is an important finding in itself. While the public reporting of a surgeon's performance is not a new concept, the efficacy of this data for individual patients has not been empirically tested. A review of qualitative studies or new primary qualitative research may be useful to determine what interventions are currently in use and explore the attitudes of consumers and professionals towards such interventions. 

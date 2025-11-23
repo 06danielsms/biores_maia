@@ -1,0 +1,14 @@
+Background
+Weight gain is often considered a side effect of combination hormonal contraceptives, and many women and clinicians believe that an association exists. Concern about weight gain can limit the use of this highly effective method of contraception by deterring the initiation of its use and causing early discontinuation among users. However, a causal relationship between combination contraceptives and weight gain has not been established. 
+Objectives
+The aim of the review was to evaluate the potential association between combination contraceptive use and changes in weight. 
+Search methods
+In November 2013, we searched the computerized databases CENTRAL (The Cochrane Library), MEDLINE, POPLINE, EMBASE, and LILACS for studies of combination contraceptives, as well as ClinicalTrials.gov and International Clinical Trials Registry Platform (ICTRP). For the initial review, we also wrote to known investigators and manufacturers to request information about other published or unpublished trials not discovered in our search. 
+Selection criteria
+All English‐language, randomized controlled trials were eligible if they had at least three treatment cycles and compared a combination contraceptive to a placebo or to a combination contraceptive that differed in drug, dosage, regimen, or study length. 
+Data collection and analysis
+All titles and abstracts located in the literature searches were assessed. Data were entered and analyzed with RevMan. A second author verified the data entered. For continuous data, we calculated the mean difference and 95% confidence interval (CI) for the mean change in weight between baseline and post‐treatment measurements using a fixed‐effect model. For categorical data, such as the proportion of women who gained or lost more than a specified amount of weight, the Peto odds ratio with 95% CI was calculated. 
+Main results
+We found 49 trials that met our inclusion criteria. The trials included 85 weight change comparisons for 52 distinct contraceptive pairs (or placebos). The four trials with a placebo or no intervention group did not find evidence supporting a causal association between combination oral contraceptives or a combination skin patch and weight change. Most comparisons of different combination contraceptives showed no substantial difference in weight. In addition, discontinuation of combination contraceptives because of weight change did not differ between groups where this was studied. 
+Authors' conclusions
+Available evidence was insufficient to determine the effect of combination contraceptives on weight, but no large effect was evident. Trials to evaluate the link between combination contraceptives and weight change require a placebo or non‐hormonal group to control for other factors, including changes in weight over time. 

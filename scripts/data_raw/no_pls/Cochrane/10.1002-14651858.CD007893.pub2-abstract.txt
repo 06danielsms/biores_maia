@@ -1,0 +1,14 @@
+Background
+Cyclosporine is an immunosuppressive agent used for different autoimmune diseases. The official Canadian indications for cyclosporine are solid organ transplantation, bone marrow transplantation, psoriasis, rheumatoid arthritis and nephritic syndrome (e‐CPS 2008). The expanding range of indications for cyclosporine therapy will lead to more patients receiving chronic therapy with possible side effects, hypertension being one of the most common. Therefore it is essential to know the magnitude of increase of blood pressure (BP) associated with cyclosporine in order to appropriately manage patients receiving the drug. 
+Objectives
+The primary objective of this systematic review is to evaluate the effect of cyclosporine on blood pressure, compared to placebo in randomized trials. 
+Search methods
+We searched The Cochrane Central Register of Controlled Trials (CENTRAL) and bibliographic databases, including MEDLINE (2000‐2008) and EMBASE (1980‐2008). 
+Selection criteria
+Selection was made using double‐blind, randomized, controlled trials comparing cyclosporine to placebo. All patients treated with cyclosporine were included without restriction by type of disease or by age and sex. 
+Data collection and analysis
+Blood pressure measurements in any setting and by any means were acceptable including the auscultatory or oscillometric method with a preference for the sitting position. Mean blood pressure results were entered as mean change from placebo and standard error of the mean (SEM). If blood pressure data was provided at different times after the initiation of cyclosporine therapy the weighted mean BP change from placebo from all measurements was used. 
+Main results
+The search yielded 1340 citations, of which 17 trials met the inclusion criteria. We created dose‐ranges according to the usual dose administration recommended by the manufacturer and allocated the 17 included trials to the corresponding dose‐range. The results demonstrate a highly statistically significant increase in blood pressure associated with cyclosporine. There appears to be a dose‐related effect with lower doses (1‐4 mg/kg/d) increasing mean BP by an average of 5 mmHg and higher doses (>10 mg/kg/d) increasing mean BP by 11 mmHg on average. Furthermore in 3 trials the effect appears to be similar after a single dose as with chronic therapy. 
+Authors' conclusions
+Cyclosporine statistically significantly increases blood pressure compared to placebo in a dose‐related fashion. The magnitude of increase in blood pressure is clinically significant and increases the risk of stroke, myocardial infarction, heart failure and other adverse cardiovascular events associated with elevated BP. Consequently prescribers should try to find the lowest effective dose in all patients receiving cyclosporine chronically. 

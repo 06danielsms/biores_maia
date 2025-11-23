@@ -1,0 +1,14 @@
+Background
+Fever is common in malaria, and drugs and sponging are widely used for symptomatic relief. Some researchers have suggested that fever reduction may prolong malaria illness. 
+Objectives
+We aimed to assess whether treatments to reduce fever in malaria influence the course of the illness. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Trial Register (June 2012), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 6, 2012), MEDLINE (1966 to June 2012); EMBASE (1980 to June 2012) and LILACS (June 2012). We contacted researchers and organisations working in the field to enable us identify other unpublished or ongoing trials. 
+Selection criteria
+Randomized controlled trials of fever reduction measures in adults or children with confirmed malaria. 
+Data collection and analysis
+Inclusion criteria were independently applied by two authors. We extracted data from trials that met our pre‐specified criteria using a standard data extraction form. Mean differences with 95% confidence intervals (CI) were calculated for continuous data. GRADE was used to evaluate and summarize the quality of the evidence. 
+Main results
+Ten randomized controlled trials with 990 participants including both adults and children met our inclusion criteria. All were small scale trials with methodological limitations and were conducted in a variety of patients. Some trials detected an impact of antipyretic drugs on fever clearance time, while others did not. Regarding parasite clearance,no clear influence of anti‐pyresis was demonstrated (six trials, 423 participants, very low quality of evidence). No difference in the number or severity of adverse events between antipyretic drugs and control was detected. 
+Authors' conclusions
+We do not know whether antipyretics alter parasite clearance time. Whether further trials are worthwhile to investigate this or not would require a judgement of whether this was an important question to resolve using interventional trials. 

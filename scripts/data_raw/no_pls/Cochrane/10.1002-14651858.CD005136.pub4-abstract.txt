@@ -1,0 +1,14 @@
+Background
+Stimulus deprivation amblyopia (SDA) develops due to an obstruction to the passage of light secondary to a condition such as cataract. The obstruction prevents formation of a clear image on the retina. SDA can be resistant to treatment, leading to poor visual prognosis. SDA probably constitutes less than 3% of all amblyopia cases, although precise estimates of prevalence are unknown. In high‐income countries, most people present under the age of one year; in low‐ to middle‐income countries, people are likely to be older at the time of presentation. The mainstay of treatment is correction of the obstruction (e.g., removal of the cataract) and then occlusion of the better‐seeing eye, but regimens vary, can be difficult to execute, and traditionally are believed to lead to disappointing results. 
+Objectives
+To evaluate the effectiveness of occlusion therapy for SDA in an attempt to establish realistic treatment outcomes and to examine evidence of any dose–response effect and assess the effect of the duration, severity, and causative factor on the size and direction of the treatment effect. 
+Search methods
+We searched CENTRAL (2018, Issue 12), which contains the Cochrane Eyes and Vision Trials Register; Ovid MEDLINE; Embase.com; and five other databases. We used no date or language restrictions in the electronic searches. We last searched the databases on 12 December 2018. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) and controlled clinical trials of participants with unilateral SDA with visual acuity worse than 0.2 LogMAR or equivalent. We specified no restrictions for inclusion based upon age, gender, ethnicity, comorbidities, medication use, or the number of participants. 
+Data collection and analysis
+We used standard Cochrane methodology.
+Main results
+We identified no trials that met the inclusion criteria specified in the protocol for this review. 
+Authors' conclusions
+We found no evidence from RCTs or quasi‐randomized trials on the effectiveness of any treatment for SDA. RCTs are needed in order to evaluate the safety and effectiveness of occlusion, duration of treatment, level of vision that can be realistically achieved, effects of age at onset and magnitude of visual defect, optimum occlusion regimen, and factors associated with satisfactory and unsatisfactory outcomes with the use of various interventions for SDA. 

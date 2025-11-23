@@ -1,0 +1,14 @@
+Background
+Health workers move between public and private organizations in both urban and rural areas during the course of their career. Depending on the proportion of the population served by public or private organizations in a particular setting, this movement may result in imbalances in the number of healthcare providers available relative to the population receiving care from that sector. However, both public and private organizations are needed as each sector has unique contributions to make to the effective delivery of health services. 
+Objectives
+To assess the effects of financial incentives and movement restriction interventions to manage the movement of health workers between public and private organizations in low‐ and middle‐income countries. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (10 November 2012); EMBASE (7 June 2011); LILACS (9 June 2011); MEDLINE (10 November 2012); CINAHL (13 August 2012); and the British Nursing Index (13 August 2012). 
+Selection criteria
+Randomized controlled trials and non‐randomized controlled trials; controlled before‐and‐after studies if pre‐ and post‐intervention periods for study and control groups were the same and there were at least two units included in both the intervention and control groups; uncontrolled and controlled interrupted time series studies if the point in time when the intervention occurred was clearly defined and there were at least three or more data points before and after the intervention. Interventions included payment of special allowances, increasing salaries, bonding health workers, offering bursary schemes, scholarships or lucrative terminal benefits, and hiring people on contract basis. 
+Data collection and analysis
+Two review authors independently applied the criteria for inclusion and exclusion of studies to the titles and abstracts of all articles obtained from the search. The same two review authors independently screened the full reports of the selected citations. At each stage, we compared the results and resolved discrepancies through discussion with a third review author. 
+Main results
+We found no studies that were eligible for inclusion in this review.
+Authors' conclusions
+We identified no rigorous studies on the effects of interventions to manage the movement of health workers between public and private organizations in low‐ and middle‐income countries. Health worker availability is a key obstacle in delivery of health services. Interventions to make the health sector more responsive to the expectations of populations by having more health workers in the sector that serves most people would contribute to the more efficient use of the health workforce. More research is needed to assess the effect of increase in salaries, offering scholarships or bonding on movement of health workers in one sector compared with another. 

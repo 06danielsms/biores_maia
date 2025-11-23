@@ -1,0 +1,19 @@
+Background
+Overuse soft‐tissue injuries occur frequently in runners. Stretching exercises, modification of training schedules, and the use of protective devices such as braces and insoles are often advocated for prevention. This is an update of a review first published in 2001. 
+Objectives
+To assess the effects of interventions for preventing lower limb soft‐tissue running injuries. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (March 2011); The Cochrane Library 2010, Issue 4; MEDLINE (1966 to January 2011); EMBASE (1980 to January 2011); and international trial registries (17 January 2011). 
+Selection criteria
+Randomised or quasi‐randomised trials evaluating interventions to prevent lower limb soft‐tissue running injuries. 
+Data collection and analysis
+Two authors independently assessed risk of bias (relating to sequence generation, allocation concealment, blinding, incomplete outcome data) and extracted data. Data were adjusted for clustering if necessary and pooled using the fixed‐effect model when appropriate. 
+Main results
+We included 25 trials (30,252 participants). Participants were military recruits (19 trials), runners from the general population (three trials), soccer referees (one trial), and prisoners (two trials). The interventions tested in the included trials fell into four main preventive strategies: exercises, modification of training schedules, use of orthoses, and footwear and socks. All 25 included trials were judged as 'unclear' or 'high' risk of bias for at least one of the four domains listed above. 
+We found no evidence that stretching reduces lower limb soft‐tissue injuries (6 trials; 5130 participants; risk ratio [RR] 0.85, 95% confidence interval [95% CI] 0.65 to 1.12). As with all non‐significant results, this is compatible with either a reduction or an increase in soft‐tissue injuries. We found no evidence to support a training regimen of conditioning exercises to improve strength, flexibility and coordination (one trial; 1020 participants; RR 1.20, 95% CI 0.77 to 1.87). 
+We found no evidence that a longer, more gradual increase in training reduces injuries in novice runners (one trial; 486 participants; RR 1.02, 95% CI 0.72 to 1.45). There was some evidence from a poor quality trial that additional training resulted in a significant increase in the number of naval recruits with shin splints (one trial; 1670 participants; RR 2.02, 95% CI 1.11 to 3.70). There was limited evidence that injuries were less frequent in prisoners when running duration (one trial; 69 participants; RR 0.41, 95% CI 0.21 to 0.79) or frequency (one trial; 58 participants; RR 0.19, 95% CI 0.06 to 0.66) were reduced. 
+Patellofemoral braces appear to be effective for preventing anterior knee pain (two trials; 227 participants; RR 0.41, 95% CI 0.24 to 0.67). 
+Custom‐made biomechanical insoles may be more effective than no insoles for reducing shin splints (medial tibial stress syndrome) in military recruits (one trial; 146 participants; RR 0.24, 95% CI 0.08 to 0.69). 
+We found no evidence in military recruits that wearing running shoes based on foot shape, rather than standard running shoes, significantly reduced rate of running injuries (2 trials; 5795 participants; Rate Ratio 1.03, 95% CI 0.93 to 1.14). 
+Authors' conclusions
+Overall, the evidence base for the effectiveness of interventions to reduce soft‐tissue injury after intensive running is very weak, with few trials at low risk of bias. More well‐designed and reported RCTs are needed that test interventions in recreational and competitive runners. 

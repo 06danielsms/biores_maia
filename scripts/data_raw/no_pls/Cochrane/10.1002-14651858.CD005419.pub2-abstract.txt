@@ -1,0 +1,14 @@
+Background
+Human immunodeficiency virus (HIV) infection is known to be associated with an increased risk of non‐Hodgkin's lymphoma (NHL). The majority of lymphomas (>80%) occurring during immunosuppression are aggressive B‐cell in origin and have a high‐to‐intermediate histology grade. Treatment of NHL is not standardized. 
+Objectives
+To assess the clinical effectiveness and safety of single agent or combination chemotherapy with or without immunochemotherapy (rituximab) and with or without highly active antiretroviral therapy (HAART) on overall survival (OS) and disease‐free survival (DFS) for previously untreated patients with AIDS‐related NHL. 
+Search methods
+The Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2009), MEDLINE (1966‐March 6, 2009), EMBASE (1988‐March 6, 2009), LlLACS (1982 to February 17, 2009), Gateway (March 6, 2009), and AIDSearch (2006 ‐February 2008) were used to identify published, potentially eligible trials. Further, we searched several electronic sources. For additional information see the Cochrane HIV/AIDS Group search strategy. 
+Selection criteria
+Randomized controlled trials (RCTs) assessing the effectiveness of systemic treatments for previously untreated AIDS‐related NHL. There were no age or language restrictions. 
+Data collection and analysis
+Authors independently assessed relevant studies for inclusion; four RCTs were selected. No meta‐analysis was attempted due to clinical heterogeneity. 
+Main results
+Four RCTs that included 857 patients (number range: 30 to 485) met the inclusion criteria. The studies have a high risk of bias; three RCTs were conducted in the United States and one was a multi‐national, multi‐centre RCT performed in France and Italy. One of the trials included only men. It was impossible to pool data for any of the outcomes due to the differences in the interventions assessed in these RCTs. Overall survival did not differ significantly between treatment groups. Disease free survival (DFS) was reported in two of the four RCTs, but it was not statistically significant between treatment groups. 
+Authors' conclusions
+We found no evidence that the systemic interventions for untreated patients with AIDS‐related NHL provide superior clinical effectiveness for improving OS, DSF, and tumour response rate; however, this conclusion is based on four RCTs with limited sample size and variable quality. More adequately powered RCTs that have low risk of bias are necessary to determine the real benefit or harm of interventions to treat this population. Overall survival (OS), DFS, and quality of life should be included as endpoints.  

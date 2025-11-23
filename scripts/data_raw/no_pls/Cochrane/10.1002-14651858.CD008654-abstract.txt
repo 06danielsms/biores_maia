@@ -1,0 +1,14 @@
+Background
+Public policy makers and benefit plan managers need to restrain rising pharmaceutical drug costs while preserving access and optimizing health benefits. 
+Objectives
+To determine the effects of a pharmaceutical policy restricting the reimbursement of selected medications on drug use, health care utilization, health outcomes and costs (expenditures). 
+Search methods
+We searched the 14 major bibliographic databases and websites (to January 2009).
+Selection criteria
+Included were studies of pharmaceutical policies that restrict coverage and reimbursement of selected drugs or drug classes, often using additional patient specific information related to health status or need. We included randomised controlled trials, non‐randomised controlled trials, interrupted time series (ITS) analyses, repeated measures studies and controlled before‐after studies set in large care systems or jurisdictions. 
+Data collection and analysis
+Two authors independently extracted data and assessed study limitations. Quantitative re‐analysis of time series data was undertaken for studies with sufficient data. 
+Main results
+We included 29 ITS analyses (12 were controlled) investigating policies targeting 11 drug classes for restriction. Participants were most often senior citizens or low income adult populations, or both, in publically subsidized or administered pharmaceutical benefit plans. Impact of policies varied by drug class and whether restrictions were implemented or relaxed. When policies targeted gastric‐acid suppressant and non‐steroidal anti‐inflammatory drug classes, decreased drug use and substantial savings on drugs occurred immediately and for up to two years afterwards, with no increase in the use of other health services (6 studies). Targeting second generation antipsychotic drugs increased treatment discontinuity and the use of other health services without reducing overall drug expenditures (2 studies). Relaxing restrictions for reimbursement of antihypertensives and statins increased appropriate use and decreased overall drug expenditures. Two studies which measured health outcomes directly were inconclusive. 
+Authors' conclusions
+Implementing restrictions to coverage and reimbursement of selected medications can decrease third‐party drug spending without increasing the use of other health services (6 studies). Relaxing reimbursement rules for drugs used for secondary prevention can also remove barriers to access. Policy design, however, needs to be based on research quantifying the harm and benefit profiles of target and alternative drugs to avoid unwanted health system and health effects. Health impact evaluation should be conducted where drugs are not interchangeable. Impacts on health equity, relating to the fair and just distribution of health benefits in society (sustainable access to publically financed drug benefits for seniors and low income populations, for example), also require explicit measurement.  

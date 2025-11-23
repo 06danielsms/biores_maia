@@ -1,0 +1,14 @@
+Background
+Acute renal failure (ARF) is associated with substantial morbidity and mortality. Some studies have reported a survival advantage among patients dialyzed with biocompatible membranes (BCM) compared to bioincompatible membranes (BICM). These findings were not consistently observed in subsequent studies. 
+Objectives
+To ascertain whether the use of BCM confers an advantage in either survival or recovery of renal function over the use of BICM in adult patients with ARF requiring intermittent hemodialysis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, in The Cochrane Library), MEDLINE (from 1966), EMBASE (from 1980), the Mexican Index of Latin American Biomedical Journals IMBIOMED (from 1990), the Latin American and Caribbean Health Sciences Literature Database LILACS (from 1982), and reference lists of articles.  Search date: January 2007 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing the use of a BCM with a BICM in patients > 18 years of age with ARF requiring intermittent hemodialysis. 
+Data collection and analysis
+Two authors extracted the data independently. Cellulose‐derived dialysis membranes were classified as BICM, and synthetic dialyzers were considered as BCM. The main outcomes were all‐cause mortality and recovery of renal function by type of dialyzer. We further explored these outcomes according to the flux properties (high‐flux or low‐flux) of each of these dialyzers. A meta‐analysis was conducted by combining data using a random‐effects model. 
+Main results
+Ten studies were included in the primary analysis of mortality, with a total of 1100 patients. None of the pooled risk ratios (RRs) reached statistical significance. The pooled RR for mortality was 0.93 (95% confidence interval (CI) 0.81 to 1.07). The overall RR for recovery of renal function, which was inclusive of 1038 patients from nine studies, was 1.09 (95% CI 0.90 to 1.31). The pooled RR for mortality by dialyzer flux property was 1.05 (95% CI 0.81 to 1.37). The pooled RR for recovery of renal function by flux property was 1.30 (95% CI 0.83 to 2.02). A meta‐analysis of mortality among kidney transplant recipients was not possible, however the analysis of recovery of renal function in this patient population revealed an RR of 1.05 (95% CI 0.87 to 1.26). Results of sensitivity analyses did not differ significantly from the primary analyses. 
+Authors' conclusions
+There is no demonstrable clinical advantage to the use of BCM versus BICM in patients with ARF who require intermittent hemodialysis. 

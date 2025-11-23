@@ -1,0 +1,20 @@
+Background
+The World Health Organization recommends uncomplicated P. falciparum malaria is treated using Artemisinin‐based Combination Therapy (ACT). This review aims to assist the decision making of malaria control programmes by providing an overview of the relative benefits and harms of the available options. 
+Objectives
+To compare the effects of ACTs with other available ACT and non‐ACT combinations for treating uncomplicated P. falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS, and the metaRegister of Controlled Trials (mRCT) to March 2009. 
+Selection criteria
+Randomized head to head trials of ACTs in uncomplicated P. falciparum malaria. 
+This review is limited to: dihydroartemisinin‐piperaquine; artesunate plus mefloquine; artemether‐lumefantrine (six doses); artesunate plus amodiaquine; artesunate plus sulfadoxine‐pyrimethamine and amodiaquine plus sulfadoxine‐pyrimethamine. 
+Data collection and analysis
+Two authors independently assessed trials for eligibility and risk of bias, and extracted data. We analysed primary outcomes in line with the WHO 'Protocol for assessing and monitoring antimalarial drug efficacy' and compared drugs using risk ratios (RR) and 95% confidence intervals (CI). Secondary outcomes were effects on P. vivax, gametocytes, haemoglobin, and adverse events. 
+Main results
+Fifty studies met the inclusion criteria. All five ACTs achieved PCR adjusted failure rates of < 10%, in line with WHO recommendations, at most study sites. 
+Dihydroartemisinin‐piperaquine performed well compared to the ACTs in current use (PCR adjusted treatment failure versus artesunate plus mefloquine in Asia; RR 0.39, 95% CI 0.19 to 0.79; three trials, 1062 participants; versus artemether‐lumefantrine in Africa; RR 0.39, 95% CI 0.24 to 0.64; three trials, 1136 participants). 
+ACTs were superior to amodiaquine plus sulfadoxine‐pyrimethamine in East Africa (PCR adjusted treatment failure versus artemether‐lumefantrine; RR 0.12, 95% CI 0.06 to 0.24; two trials, 618 participants; versus AS+AQ; RR 0.44, 95% CI 0.22 to 0.89; three trials, 1515 participants). 
+Dihydroartemisinin‐piperaquine (RR 0.32, 95% CI 0.24 to 0.43; four trials, 1442 participants) and artesunate plus mefloquine (RR 0.30, 95% CI 0.21 to 0.41; four trials, 1003 participants) were more effective than artemether‐lumefantrine at reducing the incidence of P.vivax over 42 days follow up. 
+Authors' conclusions
+Dihydroartemisinin‐piperaquine is another effective first‐line treatment for P. falciparum malaria. 
+The performance of the non‐ACT (amodiaquine plus sulfadoxine‐pyrimethamine) falls below WHO recommendations for first‐line therapy in parts of Africa. 
+In areas where primaquine is not being used for radical cure of P. vivax, ACTs with long half‐lives may provide some benefit. 

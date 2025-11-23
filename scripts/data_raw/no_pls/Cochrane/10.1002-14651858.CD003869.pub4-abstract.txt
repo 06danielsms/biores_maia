@@ -1,0 +1,27 @@
+Background
+This is an update to the review published in the Cochrane Library (2012, Issue 4).
+It is estimated that 20% to 40% of people with cancer will develop brain metastases during the course of their illness. The burden of brain metastases impacts quality and length of survival. 
+Objectives
+To assess the effectiveness and adverse effects of whole brain radiotherapy (WBRT) given alone or in combination with other therapies to adults with newly diagnosed multiple brain metastases. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase to May 2017 and the National Cancer Institute Physicians Data Query for ongoing trials. 
+Selection criteria
+We included phase III randomised controlled trials (RCTs) comparing WBRT versus other treatments for adults with newly diagnosed multiple brain metastases. 
+Data collection and analysis
+Two review authors independently assessed trial quality and abstracted information in accordance with Cochrane methods. 
+Main results
+We added 10 RCTs to this updated review. The review now includes 54 published trials (45 fully published reports, four abstracts, and five subsets of data from previously published RCTs) involving 11,898 participants. 
+Lower biological WBRT doses versus control  The hazard ratio (HR) for overall survival (OS) with lower biological WBRT doses as compared with control (3000 cGy in 10 daily fractions) was 1.21 (95% confidence interval (CI) 1.04 to 1.40; P = 0.01; moderate‐certainty evidence) in favour of control. The HR for neurological function improvement (NFI) was 1.74 (95% CI 1.06 to 2.84; P = 0.03; moderate‐certainty evidence) in favour of control fractionation. 
+Higher biological WBRT doses versus control  
+The HR for OS with higher biological WBRT doses as compared with control (3000 cGy in 10 daily fractions) was 0.97 (95% CI 0.83 to 1.12; P = 0.65; moderate‐certainty evidence). The HR for NFI was 1.14 (95% CI 0.92 to 1.42; P = 0.23; moderate‐certainty evidence). 
+WBRT and radiosensitisers  The addition of radiosensitisers to WBRT did not confer additional benefit for OS (HR 1.05, 95% CI 0.99 to 1.12; P = 0.12; moderate‐certainty evidence) or for brain tumour response rates (odds ratio (OR) 0.84, 95% CI 0.63 to 1.11; P = 0.22; high‐certainty evidence). 
+Radiosurgery and WBRT versus WBRT alone  The HR for OS with use of WBRT and radiosurgery boost as compared with WBRT alone for selected participants was 0.61 (95% CI 0.27 to 1.39; P = 0.24; moderate‐certainty evidence). For overall brain control at one year, the HR was 0.39 (95% CI 0.25 to 0.60; P < 0.0001; high‐certainty evidence) favouring the WBRT and radiosurgery boost group. 
+Radiosurgery alone versus radiosurgery and WBRT  
+The HR for local brain control was 2.73 (95% CI 1.87 to 3.99; P < 0.00001; high‐certainty evidence)favouring the addition of WBRT to radiosurgery. The HR for distant brain control was 2.34 (95% CI 1.73 to 3.18; P < 0.00001; high‐certainty evidence) favouring WBRT and radiosurgery. The HR for OS was 1.00 (95% CI 0.80 to 1.25; P = 0.99; moderate‐certainty evidence). Two trials reported worse neurocognitive outcomes and one trial reported worse quality of life outcomes when WBRT was added to radiosurgery. 
+We could not pool data from trials related to chemotherapy, optimal supportive care (OSC), molecular targeted agents, neurocognitive protective agents, and hippocampal sparing WBRT. However, one trial reported no differences in quality‐adjusted life‐years for selected participants with brain metastases from non‐small‐cell lung cancer randomised to OSC and WBRT versus OSC alone. 
+Authors' conclusions
+None of the trials with altered higher biological WBRT dose‐fractionation schemes reported benefit for OS, NFI, or symptom control compared with standard care. However, OS and NFI were worse for lower biological WBRT dose‐fractionation schemes than for standard dose schedules. 
+The addition of WBRT to radiosurgery improved local and distant brain control in selected people with brain metastases, but data show worse neurocognitive outcomes and no differences in OS. 
+Selected people with multiple brain metastases from non‐small‐cell lung cancer may show no difference in OS when OSC is given and WBRT is omitted. 
+Use of radiosensitisers, chemotherapy, or molecular targeted agents in conjunction with WBRT remains experimental. 
+Further trials are needed to evaluate the use of neurocognitive protective agents and hippocampal sparing with WBRT. As well, future trials should examine homogeneous participants with brain metastases with focus on prognostic features and molecular markers. 

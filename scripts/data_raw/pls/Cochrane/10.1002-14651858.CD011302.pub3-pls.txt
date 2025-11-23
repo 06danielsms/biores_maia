@@ -1,0 +1,42 @@
+Does adding iron to wheat flour reduce anaemia and increase iron levels in the general population? 
+Why do we need iron in our diet? 
+Iron is an essential mineral found in every cell of the body. It is needed to make haemoglobin, the oxygen‐carrying protein in the blood. Iron molecules in haemoglobin bind to oxygen and carry it from the lungs to all the cells and tissues in the body. Low levels of haemoglobin means the body does not get enough oxygen. 
+Anaemia develops when haemoglobin levels in the blood fall too low. Symptoms of anaemia include: tiredness and lack of energy, getting out of breath quickly, pale skin and a greater susceptibility to infections. 
+Low haemoglobin levels can be caused by blood loss, pregnancy or not eating enough foods containing iron (iron‐deficiency anaemia). Iron‐deficiency anaemia may be treated by taking iron tablets or eating foods rich in iron. 
+Fortified foods 
+Adding micronutrients (vitamins and minerals) to foods, whether those micronutrients were originally present or not, is called fortification. Fortifying foods is one way to improve nutrition in a population. 
+People living in low‐income countries may not have enough iron in their diet, and may be at risk of anaemia. Adding iron and other nutrients to foods routinely eaten in large quantities, such as flour, is thought to help prevent iron‐deficiency anaemia. 
+Why we did this Cochrane Review 
+We wanted to find out how adding iron, and other minerals and vitamins, to wheat flour affected the blood iron levels of the general population, and whether fewer people developed anaemia or other health conditions. We also wanted to know if adding iron to wheat flour caused any unwanted effects. 
+What did we do? 
+We searched for studies that investigated eating any types of food made with wheat flour containing added iron, or foods made with wheat flour without added iron. We then compared the studies with each other, to find out the effects of adding iron to wheat flour on people's health and the levels of iron and haemoglobin in their blood. 
+Search date: we included evidence published up to 21 July 2020. 
+What we found 
+We found 10 studies in 3319 people (aged 2 years and older). The studies lasted from 3 months to 24 months, and took place in Bangladesh, Brazil, India, Kuwait, the Philippines, Sri Lanka and South Africa. 
+The studies looked at the effects of:
+· wheat flour containing added iron (with or without other minerals and vitamins) compared with wheat flour without added iron (but with the same other minerals and vitamins); 
+· wheat flour containing added iron and other minerals and vitamins compared with wheat flour without any added minerals or vitamins. 
+The wheat flours used in the studies contained different amounts of iron: from under 40 mg/kg to over 60 mg/kg. 
+We were interested in:
+· how many people had anaemia (defined by low haemoglobin levels);
+· how many people had low levels of iron in their blood (iron deficiency; tested using a biomarker); 
+· haemoglobin concentrations in people's blood;
+· how many children had diarrhoea or respiratory infections;
+· how many children died (of any cause);
+· signs of infection or inflammation (the body's response to injury) in children (by testing a biomarker in the blood); and 
+· any unwanted effects.
+Most studies had multiple sources of funding; some were partly funded by companies involved in the food, chemical or pharmaceutical industries. 
+What are the results of our review? 
+Compared with flour without added iron (but with other minerals and vitamins) 
+Flour containing added iron (with or without other minerals and vitamins):
+· may reduce anaemia, by 27% (evidence from 5 studies, 2315 people); and
+· probably makes no difference to children's risk of infection or inflammation (2 studies, 558 children). 
+It was unclear how flour with added iron affected iron deficiency (3 studies, 748 people), or haemoglobin levels (8 studies, 2831 people). 
+Compared with flour without any added minerals or vitamins 
+Flour containing added iron (with other minerals and vitamins) probably reduced iron deficiency (3 studies, 382 people). It was unclear from the studies how flour containing added iron affected anaemia (2 studies, 317 people) or haemoglobin levels (4 studies, 532 people). 
+No studies reported information about unwanted effects, or how many children died, or had diarrhoea or respiratory infections. 
+Our confidence in our results 
+Our confidence is moderate to low that adding iron to flour probably reduces iron deficiency and anaemia. The studies appeared to show fewer people with iron deficiency and slightly higher haemoglobin levels associated with flour with added iron, but the results varied widely, so we are uncertain about the effect. These results might change if further evidence becomes available. We found limitations in the ways some of the studies were designed and conducted, and this could have affected their results. 
+Key messages 
+Adding iron to wheat flour may lead to fewer people with anaemia or low blood‐iron levels in the general population. 
+We do not know if adding iron to wheat flour causes any unwanted effects, because no studies looked at these. 

@@ -1,0 +1,14 @@
+Palivizumab vaccine for prevention of respiratory syncytial virus infection in children with cystic fibrosis 
+Review question 
+We reviewed the evidence about the effects of vaccinating children with cystic fibrosis with palivizumab to prevent respiratory syncytial virus. 
+Background 
+Respiratory syncytial virus commonly causes lung infections in infants and children. Although cases are not severe in most children, children with cystic fibrosis may be at higher risk for severe lung infections from the virus. During a respiratory virus season, children with cystic fibrosis are more likely to need admitting to hospital and to experience a deterioration in lung function, compared with children who don't have cystic fibrosis. Palivizumab (Synagis®) is a vaccine which has been shown to reduce hospitalisation rates due to respiratory syncytial virus in some high risk populations. Palivizumab is administered once a month for five months, beginning before the respiratory syncytial virus season each year. It is not yet known how effective and safe this vaccine is in children with cystic fibrosis. We looked for randomised controlled trials (trials where children are put into different treatment groups at random and then compared to each other) where palivizumab vaccinations were compared to either another preventive therapy or no preventive therapy in children with cystic fibrosis. 
+Search date 
+The evidence is current to: 05 May 2016.
+Study characteristics 
+We found one study with 186 participants (infants with cystic fibrosis up to two years of age) which was run across 40 centres in the USA. 
+Key results 
+One infant (out of 92) who received palivizumab and one infant (out of 94) who received placebo were admitted to hospital due to infection from respiratory syncytial virus. No infants died. Overall, the number of adverse events in the palivizumab group was similar to that in the placebo group. No serious adverse events were reported to be related to the vaccine. Over the longer term (12 months), weight gain and the number of infections with Pseudomonas aeruginosa (a common bacterial infection in cystic fibrosis) were similar between groups. 
+The limitation of all these findings is that we only identified one study. More research is needed on the use of the palivizumab vaccination in children with cystic fibrosis. 
+Quality of the evidence 
+We thought there was a low risk that it would be know which treatment group the next participant would be put into, although it was not clear how this order was generated. We also thought that participants and study personnel were sufficiently blinded to the treatment to avoid bias and that any missing data were unlikely to bias the study results. However, we did have concerns about bias from selective reporting (summary statements were presented but without any data) and the fact that this industry‐supported study has not been published as a full report in a peer‐reviewed journal. 

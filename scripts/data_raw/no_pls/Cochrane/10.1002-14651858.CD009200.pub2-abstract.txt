@@ -1,0 +1,22 @@
+Background
+Local anaesthetic nerve block is an important modality for pain management in labour. Pudendal and paracervical block (PCB) are most commonly performed local anaesthetic nerve blocks which have been used for decades. 
+Objectives
+To establish the efficacy and safety of local anaesthetic nerve blocks for pain relief in labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (28 February 2012). 
+Selection criteria
+We included randomised controlled trials (RCTs) assessing pain management in labour with the use of local anaesthetic nerve blocks. We did not include results from quasi‐RCTs. 
+Data collection and analysis
+We designed a form to extract data. For eligible studies, two review authors extracted the data using the agreed form. We resolved discrepancies through discussion or, if required, we consulted a third person. We entered and analysed data using Review Manager software and checked for accuracy. 
+Main results
+We found 41 trials for consideration of inclusion into this review. We included only 12 RCTs (1549 participants) of unclear quality. We excluded 29 studies (30 reports). The majority of excluded studies were not relevant to this review, and a few were not randomised. 
+Local anaesthetic nerve block versus placebo or no treatment 
+We found that more women were satisfied with pain relief after local anaesthetic nerve block (in particular 2% lidocaine PCB) than after placebo (one study, 198 participants, risk ratio (RR) 32.31, 95% confidence interval (CI) 10.60 to 98.54). Local anaesthetic nerve block was associated with more side effects (one study, 200 participants, RR 29.0, 95% CI 1.75 to 479.61). 
+Local anaesthetic nerve block (in particular, PCB) versus opioid 
+Local anaesthetic nerve block (in particular, PCB) in comparison with opioid (in particular, intramuscular pethidine or fentanyl patient‐controlled analgesia) was found to be more effective for pain relief (one study, 109 participants, RR 2.52, 95% CI 1.65 to 3.83) and was not associated with an increased rate of assisted vaginal birth (two studies, 129 participants, RR 1.02, 95% CI 0.56 to 1.87) or with an increased caesarean section rate (two studies, 129 participants, RR 0.23, 95% CI 0.03 to 1.87). 
+Local anaesthetic nerve block versus non‐opioid agents 
+Satisfaction with pain relief and rate of caesarean sections were found to be the same in women receiving local anaesthetic nerve block and non‐opioid agents (one study, 100 participants, RR 1.11, 95% CI 0.67 to 1.84; RR 2.0, 95% CI 0.19 to 21.36, respectively). More women who received non‐opioid agent in comparison with women who received local anaesthetic nerve block required additional interventions for pain relief (one study, 100 participants, RR 0.06, 95% CI 0.02 to 0.25). 
+Local anaesthetic nerve block using different anaesthetic agents 
+There was no difference in pain relief satisfaction, assisted vaginal birth, caesarean section, side effects for mother, Apgar score or admission to the neonatal intensive care unit between different anaesthetic agents, e.g. bupivacaine, carbocaine, lidocaine, chloroprocaine. 
+Authors' conclusions
+Local anaesthetic nerve blocks are more effective than placebo, opioid and non‐opioid analgesia for pain management in labour based on RCTs of unclear quality and limited numbers. Side effects are more common after local anaesthetic nerve blocks in comparison with placebo. Different local anaesthetic agents used for pain relief provide similar satisfaction with pain relief. Further high‐quality studies are needed to confirm the findings, to assess other outcomes and to compare local anaesthetic nerve blocks with various modalities for pain relief in labour. 

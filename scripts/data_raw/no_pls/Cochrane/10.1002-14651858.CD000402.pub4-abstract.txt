@@ -1,0 +1,14 @@
+Background
+Reduced circulating estrogen levels around the time of the menopause can induce unacceptable symptoms that affect the health and well‐being of women. Hormone therapy (both unopposed estrogen and estrogen/progestogen combinations) is an effective treatment for these symptoms, but is associated with risk of harms. Guidelines recommend that hormone therapy be given at the lowest effective dose and treatment should be reviewed regularly. The aim of this review is to identify the minimum dose(s) of progestogen required to be added to estrogen so that the rate of endometrial hyperplasia is not increased compared to placebo. 
+Objectives
+The objective of this review is to assess which hormone therapy regimens provide effective protection against the development of endometrial hyperplasia or carcinoma. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group trials register (searched January 2012), The Cochrane Library (Issue 1, 2012), MEDLINE (1966 to January 2012), EMBASE (1980 to January 2012), Current Contents (1993 to May 2008), Biological Abstracts (1969 to 2008), Social Sciences Index (1980 to May 2008), PsycINFO (1972 to January 2012) and CINAHL (1982 to May 2008). Attempts were made to identify trials from citation lists of reviews and studies retrieved, and drug companies were contacted for unpublished data. 
+Selection criteria
+Randomised comparisons of unopposed estrogen therapy, combined continuous estrogen‐progestogen therapy, sequential estrogen‐progestogen therapy with each other or placebo, administered over a minimum period of 12 months. Incidence of endometrial hyperplasia/carcinoma assessed by a biopsy at the end of treatment was a required outcome. Data on adherence to therapy, rates of additional interventions, and withdrawals owing to adverse events were also extracted. 
+Data collection and analysis
+In this update, 46 studies were included. Odds ratios (ORs) were calculated for dichotomous outcomes. The small numbers of studies in each comparison and the clinical heterogeneity precluded meta‐analysis for many outcomes. 
+Main results
+Unopposed estrogen is associated with increased risk of endometrial hyperplasia at all doses, and durations of therapy between one and three years. For women with a uterus the risk of endometrial hyperplasia with hormone therapy comprising low‐dose estrogen continuously combined with a minimum of 1 mg norethisterone acetate (NETA) or 1.5 mg medroxyprogesterone acetate (MPA) is not significantly different from placebo at two years (1 mg NETA: OR 0.04; 95% confidence interval (CI) 0 to 2.8; 1.5 mg MPA: no hyperplasia events). 
+Authors' conclusions
+Hormone therapy for postmenopausal women with an intact uterus should comprise both estrogen and progestogen to reduce the risk of endometrial hyperplasia. 

@@ -1,0 +1,22 @@
+Background
+Extravasation injury, a complication commonly seen in the neonatal intensive care unit, can result in scarring with cosmetic and functional sequelae. A wide variety of treatments are available, including subcutaneous irrigation with saline (with or without hyaluronidase), liposuction, use of specific antidotes, topical applications, and normal wound care with dry or wet dressings. All such treatments aim to prevent or reduce the severity of complications. 
+Objectives
+Primary objective  
+To compare the efficacy and safety of saline irrigation or saline irrigation with prior hyaluronidase infiltration versus no intervention or normal wound care for tissue healing in neonates with extravasation injury. 
+Secondary objectives  
+To evaluate by subgroup analysis of controlled trials the influence of type of extravasate, timing of irrigation following extravasation, and postmenstrual age (PMA) of the neonate at the time of injury on outcomes and adverse effects. 
+Specifically, we planned to perform subgroup analysis for the primary outcome, if appropriate, by examining: 
+1. time to irrigation from identified extravasation injury (< 1 hour or ≥ 1 hour);
+2. type of extravasate (parenteral nutrition fluid or other fluids or medications);
+3. amount of saline used (< 500 mL or ≥ 500 mL); and
+4. PMA at injury (< 37 completed weeks or ≥ 37 completed weeks).
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 1), MEDLINE via PubMed (1966 to 2 February 2017), Embase (1980 to 2 February 2017), and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2 February 2017). We also searched clinical trial databases, conference proceedings, and reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. We used the Google Scholar search tool for reverse citations of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised controlled trials comparing saline irrigation with or without hyaluronidase infiltration versus no intervention or normal wound care for the management of extravasation injury in neonates. 
+Data collection and analysis
+Three review authors independently reviewed and identified articles for possible inclusion in this review. We used the GRADE approach to assess the quality of evidence. 
+Main results
+We found no eligible studies. Our search revealed 10 case reports or case series describing successful outcomes with different interventions for this condition. 
+Authors' conclusions
+To date, no RCTs have examined the effects of saline irrigation with or without prior hyaluronidase infiltration for management of extravasation injury in neonates. Saline irrigation is frequently reported in the literature as an intervention for management of extravasation injury in neonates. Research should focus first on evaluating the efficacy and safety of this intervention through RCTs. It will also be important for investigators to determine effect size by examining the timing of the intervention, the nature of the infusate, and severity of injury at the time of intervention. 

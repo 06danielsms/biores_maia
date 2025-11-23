@@ -1,0 +1,14 @@
+Background
+Agitated or violent behaviour constitutes 10% of all emergency psychiatric treatment. Some guidelines do not recommend the use of chlorpromazine for rapid tranquillisation but it is still often used for this purpose. 
+Objectives
+To examine the effects of oral or intramuscular chlorpromazine for psychosis induced agitation or aggression. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (up to July 2009) which is based on regular searches of CINAHL, EMBASE, MEDLINE and PsycINFO. 
+Selection criteria
+Randomised control trials or double blind trials (implying randomisation) comparing chlorpromazine with another drug or placebo for people who are thought to be acutely aggressive or agitated due to psychotic illness. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based on a fixed‐effects model. 
+Main results
+One study (total n=30) met the inclusion criteria. When compared with haloperidol (Man 1973) (1 RCT, n=30) people allocated chlorpromazine were no more likely to have one additional injection than those allocated haloperidol (RR 3.00 CI 0.13 to 68.26). This remained true for 2‐4 injections (RR 0.90 CI 0.52 to 1.55) and for 5 or more injections (RR 0.75 CI 0.20 to 2.79). Two people allocated chlorpromazine had sudden, serious hypotension while no one allocated haloperidol had such an effect (RR 5.00 CI 0.26 to 96.13). No extrapyramidal symptoms were observed. One person allocated chlorpromazine developed status epilepticus (RR 3.00 CI 0.13 to 68.26). 
+Authors' conclusions
+Overall the quality of evidence is limited, poor and dated. Where drugs that have been better evaluated are available, it may be best to avoid use of chlorpromazine. Where chlorpromazine is used for acute aggression or where choices are limited, relevant trials are possible and urgently needed. 

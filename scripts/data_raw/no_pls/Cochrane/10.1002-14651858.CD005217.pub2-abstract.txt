@@ -1,0 +1,17 @@
+Background
+There are two main strategies for the prevention of post‐abortal upper genital tract infection: antibiotics given around the time of surgery for all women; and 'screen‐and‐treat', in which all women presenting for abortion are screened for genital infections and those with positive results are treated. 
+Objectives
+To determine:
+1. the effectiveness of antibiotic prophylaxis in preventing post‐abortal upper genital tract infection;  2. the most effective antibiotic regimen;  3. the most effective strategy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), PubMed, EMBASE, POPLINE and LILACS. The search was last updated in May 2011. 
+Selection criteria
+Randomised controlled trials (RCTs) in any language including women undergoing induced first trimester surgical or medical abortion, comparing: 1) any antibiotic regimen to placebo, nothing, or another antibiotic; 2) screen‐and‐treat versus antibiotics. The primary outcome was the proportion of women diagnosed with post‐abortal upper genital tract infection. 
+Data collection and analysis
+Two reviewers independently selected references and extracted data. We calculated risk ratios (RR) with 95% confidence intervals (CI). We used meta‐analysis where appropriate and examined between trial heterogeneity using the I2 statistic. In the presence of between trial heterogeneity we also estimated the 95% prediction interval (PI). 
+Main results
+A total of 703 unique items was identified. We included 19 RCTs. There was evidence of small study biases (Egger test, P = 0.002). In 15 placebo‐controlled RCTs there was an effect of antibiotic prophylaxis (pooled RR 0.59, 95% CI 0.46 to 0.75, 95% PI 0.30 to 1.14, I2 = 39%). There were insufficient data (three trials) to determine whether one regimen was superior to another. In one trial, the incidence of post‐abortal upper genital tract infection was higher in women allocated to the screen‐and‐treat strategy (RR 1.53, 95% CI 0.99 to 2.36). 
+Authors' conclusions
+Antibiotic prophylaxis at the time of first trimester surgical abortion is effective in preventing post‐abortal upper genital tract infection. Evidence of between trial heterogeneity suggests that the effect might not apply to all settings, population groups or interventions. 
+This review did not determine the most effective antibiotic prophylaxis regimen. Antibiotic choice should take into account the local epidemiology of genital tract infections, including sexually transmitted infections. 
+Further RCTs comparing different antibiotics or combinations of antibiotics with each other would be useful. Such trials could be done in low and middle income countries and where the prevalence of genital tract infections in women presenting for abortion is high. 

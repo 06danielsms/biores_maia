@@ -1,0 +1,14 @@
+Background
+Adequate relief from low‐back pain (LBP) is not always possible. Emerging evidence suggests a role for botulinum neurotoxin (BoNT) injections in treating pain disorders. Proponents of BoNT suggest its properties can decrease muscle spasms, ischemia and inflammatory markers, thereby reducing pain. 
+Objectives
+To determine the effects of botulinum toxin injections in adults with LBP.
+Search methods
+We searched CENTRAL (The Cochrane Library 2009, issue 3) and MEDLINE, EMBASE, and CINAHL to August 2009; screened references from included studies; consulted with content experts and Allergan. We included published and unpublished randomised controlled trials without language restrictions 
+Selection criteria
+We included randomised trials that evaluated BoNT serotypes versus other treatments in patients with non‐specific LBP of any duration. 
+Data collection and analysis
+Two review authors selected the studies, assessed the risk of bias using the Cochrane Back Review Group criteria, and extracted the data using standardized forms. We performed a qualitative analysis due to lack of data. 
+Main results
+We excluded evidence from nineteen studies due to non‐randomisation, incomplete or unpublished data. We included three randomised trials (N =123 patients). Only one study included patients with chronic non‐specific LBP; the other two examined unique subpopulations. Only one of the three trials had a low risk of bias and demonstrated that BoNT injections reduced pain at three and eight weeks and improved function at eight weeks better than saline injections. The second trial showed that BoNT injections were better than injections of corticosteroid plus lidocaine or placebo in patients with sciatica attributed to piriformis syndrome. The third trial concluded that BoNT injections were better than traditional acupuncture in patients with third lumbar transverse process syndrome. Both studies with high risk of bias had several key limitations. Heterogeneity of the studies prevented meta‐analysis. There is low quality evidence that BoNT injections improved pain, function, or both better than saline injections and very low quality evidence that they were better than acupuncture or steroid injections. 
+Authors' conclusions
+We identified three studies that investigated the merits of BoNT for LBP, but only one had a low risk of bias and evaluated patients with non‐specific LBP (N = 31). Further research is very likely to have an important impact on the estimate of effect and our confidence in it. Future trials should standardize patient populations, treatment protocols and comparison groups, enlist more participants and include long‐term outcomes, cost‐benefit analysis and clinical relevance of findings. 

@@ -1,0 +1,26 @@
+Background
+The hallmark of severe hemophilia (A or B) is recurrent bleeding into joints and soft tissues with progressive joint damage, despite on‐demand treatment. Prophylaxis has long been used, but not universally adopted, because of medical, psychosocial, and cost controversies. 
+Objectives
+To determine the effectiveness of clotting factor concentrate prophylaxis in managing previously‐treated individuals with hemophilia A or B. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coagulopathies Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. In addition, we searched MEDLINE and Embase and online trial registries. 
+Most recent search of Group's Coagulopathies Trials Register: 24 February 2021.
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs evaluating people with hemophilia A or hemophilia B, who were previously treated with clotting factor concentrates to manage their hemophilia. 
+Data collection and analysis
+Two authors independently reviewed trials for eligibility, assessed risk of bias and extracted data. The authors used the GRADE criteria to assess the certainty of the evidence. 
+Main results
+Ten trials (including 608 participants) were eligible for inclusion. Eight of the trials (477 participants) had arms comparing two or more prophylactic regimens to one another and four of the trials (n = 258) compared prophylaxis to on‐demand treatment (two trials had multiple arms and were included in both comparisons). 
+Comparison of two or more prophylactic regimens 
+For trials comparing one prophylaxis regimen to another, given the heterogeneity of the data, none of the data were pooled for this comparison. Considering the individual trials, three trials reported the primary outcome of joint bleeding, and none showed a dfference between dosing regimens (low‐certainty evidence). For the secondary outcome of total bleeding events, prophylaxis with a twice‐weekly regimen of FIX likely results in reduced total bleeds compared to a once‐a‐week regimen of the same dose, mean difference (MD) 11.2 (5.81 to 16.59) (one trial, 10 participants, low‐certainty evidence). 
+Transient low‐titer anti‐FVIII inhibitors were reported in one of the trials. Blood‐transmitted infections were not identified. Other adverse events reported include hypersensitivity, oedema, and weight gain. These were, however, rare and unrelated to study drugs (very low‐certainty evidence). 
+Comparison of prophylactic and on‐demand regimens 
+Four of the trials (258 participants) had arms that compared prophylaxis to on‐demand treatment. Prophylaxis may result in a large decrease in the number of joint bleeds compared to on‐demand treatment, MD ‐30.34 (95% CI ‐46.95 to ‐13.73) (two trials, 164 participants, low‐certainty evidence). One of these trials (84 participants) also reported the long‐term effects of prophylaxis versus on‐demand therapy showing improved joint function, quality of life, and pain; but no differences between groups in joint structure when assessed by magnetic resonance imaging (MRI). 
+In one trial (84 participants) validated measures for joint health and pain assessment showed that prophylaxis likely improves joint health compared to an on‐demand regimen with an estimated change difference of 0.94 points (95% CI 0.23 to 1.65) and improves total pain scores, MD ‐17.20 (95% CI ‐27.48 to ‐6.92 (moderate‐certainty evidence). 
+Two trials (131 participants) reported that prophylaxis likely results in a slight increase in adverse events, risk ratio 1.71 (1.24 to 2.37) (moderate‐certainty evidence). No inhibitor development and blood‐transmitted infections were identified. 
+Overall, the certainty of the body of evidence was judged to be low because of different types of bias that could have altered the effect. 
+ 
+Authors' conclusions
+There is evidence from RCTs that prophylaxis, as compared to on‐demand treatment, may reduce bleeding frequency in previously‐treated people with hemophilia. Prophylaxis may also improve joint function, pain and quality of life, even though this does not translate into a detectable improvement of articular damage when assessed by MRI.  
+When comparing two different prophylaxis regimens, no significant differences in terms of protection from bleeding were found. Dose optimization could, however, result in improved efficacy. Given the heterogeneity of the data, pooled estimates were not obtained for most comparisons.  
+Well‐designed RCTs and prospective observational controlled studies with standardised definitions and measurements are needed to establish the optimal and most cost‐effective treatment regimens. 

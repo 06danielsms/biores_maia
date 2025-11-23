@@ -1,0 +1,32 @@
+Rheumatoid arthritis, or "RA", is a disease that causes swelling, pain, and stiffness in the joints. RA is an "autoimmune disease", which means that patients with RA have an overactive immune system that mistakenly attacks healthy parts of the body, such as the joints. RA can cause permanent damage to the joints if it goes untreated, so researchers are looking for new treatment options for RA. 
+Patients in this study were treated with PF-06650833, which is an "investigational drug". This means it is not approved for use in people with RA and is a new type of drug that is being studied for the treatment of RA. Some of the patients in this study were also treated with tofacitinib. This is a medicine that works to reduce the activity of the immune system in people with RA. It is an oral (taken by mouth) medication that has been approved and is available by prescription to treat adults with active, moderate to severe RA that did not respond well to medications known as disease-modifying anti-rheumatic drugs (DMARDs) like methotrexate. 
+Researchers did this study to see if taking PF-06650833 helped with the symptoms of RA by reducing inflammation.
+This study compared 6 groups of patients to find out if PF-06650833 given at 4 different doses works to treat RA compared to patients taking a “placebo” or a comparator medicine of tofacitinib (see Figure and Table). A placebo does not have any medicine in it, but looks just like the medicine. The patients and the doctors did not know who was given which treatment/medicine and at what dose in this study. This is known as a “double-blinded” study. This was done to make sure that the trial results were not influenced in any way. Volunteers were assigned to each group by chance alone. This is known as a “randomized study”. This is done to make the groups more similar, which makes comparing the groups more fair.
+
+Description of Treatment Groups 
+
+Treatment Group Timing of the Blinded Study Medication
+
+4 tablets in the morning for 12 weeks 1 tablet in the evening for 12 weeks 
+
+20 mg PF-06650833 1 x 20 mg PF-06650833 tablet and 3 x placebo tablets 1 x placebo tablet 
+
+60 mg PF-06650833 3 x 20 mg PF-06650833 tablets and 1 x placebo tablets 1 x placebo tablet 
+
+200 mg PF-06650833 2 x 100 mg PF-06650833 tablets and 2 x placebo tablets 1 x placebo tablet 
+
+400 mg PF-06650833 4 x 100 mg PF-06650833 tablets 1 x placebo tablet 
+
+10 mg tofacitinib 1 x 5 mg tofacitinib tablet and 3 x placebo tablets 1 x 5 mg tofacitinib tablet 
+
+Placebo 4 x placebo tablets 1 x placebo tablet 
+
+All tablets were identical in appearance.
+
+The study included adult patients with moderate to severe active RA. All the patients in this study were already taking methotrexate, but still had active RA symptoms. In addition to methotrexate, the patient could have been previously treated with an anti-tumor necrosis factor (anti-TNF). This is a particular kind of treatment that specifically “inhibits” the activity of chemicals in the body known as TNFs. Inhibits means that activity of a chemical is slowed down, reduced, or stopped. Anti-TNF treatment is used in RA to help control the disease and reduce pain and disability. The anti-TNF treatment could have been stopped because of safety concerns, if it did not seem to give sufficient help to the patient, or if the patient was not able to obtain the treatment due to access problems.
+
+In addition to study medication (PF-06650833 plus placebo or tofacitinib plus placebo), patients could take their normal treatments for RA including methotrexate, non-steroidal anti-inflammatory drugs (NSAIDs), cyclooxygenase (COX)-2 inhibitors, some types of opioid and/or acetaminophen (paracetamol) for pain relief and/or a low dose of oral corticosteroids like prednisone.
+
+While each patient was only in the study for 20 weeks, the entire study took 21 months to complete. The Sponsor ran this study at 103 locations in 19 countries in Asia, Europe, Central America, North America, and Oceania. It began on 10 November 2016 and ended on 15 August 2018. 59 men and 210 women participated. All patients were between the ages of 19 and 73 years. Patients were to be treated for 12 weeks. Of the 269 patients who started the study, 237 finished the study (e.g., 12 weeks of treatment plus 4 weeks of follow up). During the follow-up period, patients were not given treatment but were only monitored for possible safety events. There were 32 patients who left before the study was over by their choice or a doctor decided it was best for a patient to stop the study. Of these 32 patients, 27 patients did not complete the 12 weeks of treatment and 5 patients completed the 12 weeks of treatment, but did not complete the 4 weeks of follow-up.
+
+When the study ended in August 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

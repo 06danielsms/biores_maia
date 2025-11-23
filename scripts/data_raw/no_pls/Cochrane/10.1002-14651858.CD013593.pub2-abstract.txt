@@ -1,0 +1,22 @@
+Background
+Pharmacotherapies such as loop diuretics are the cornerstone treatment for acute heart failure (AHF), but resistance and poor response can occur. Ultrafiltration (UF) is an alternative therapy to reduce congestion, however its benefits, efficacy and safety are unclear. 
+Objectives
+To assess the effects of UF compared to diuretic therapy on clinical outcomes such as mortality and rehospitalisation rates. 
+Search methods
+We undertook a systematic search in June 2021 of the following databases: CENTRAL, MEDLINE, Embase, Web of Science CPCI‐S and ClinicalTrials.gov. We also searched the WHO ICTRP platform in October 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared UF to diuretics in adults with AHF. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We contacted study authors for any further information, and language interpreters to translate texts. We assessed risk of bias in included studies using Risk of Bias 2 (RoB2) tool and assessed the certainty of the evidence using GRADE. 
+Main results
+We included 14 trials involving 1190 people. We included people who had clinical signs of acute hypervolaemia. We excluded critically unwell people such as those with ischaemia or haemodynamic instability. Mean age ranged from 57.5 to 75 years, and the setting was a mix of single and multi‐centre. Two trials researched UF as a complimentary therapy to diuretics, while the remaining trials withheld diuretic use during UF. There was high risk of bias in some studies, particularly with deviations from the intended protocols from high cross‐overs as well as missing outcome data for long‐term follow‐up.  
+We are uncertain about the effect of UF on all‐cause mortality at 30 days or less (risk ratio (RR) 0.61, 95% confidence interval (CI) 0.13 to 2.85; 3 studies, 286 participants; very low‐certainty evidence). UF may have little to no effect on all‐cause mortality at the longest available follow‐up (RR 1.00, 95% CI 0.73 to 1.36; 9 studies, 987 participants; low‐certainty evidence). 
+UF may reduce all‐cause rehospitalisation at 30 days or less (RR 0.76, 95% CI 0.53 to 1.09; 3 studies, 337 participants; low‐certainty evidence). UF may slightly reduce all‐cause rehospitalisation at longest available follow‐up (RR 0.91, 95% CI 0.79 to 1.05; 6 studies, 612 participants; low‐certainty evidence). 
+UF may reduce heart failure‐related rehospitalisation at 30 days or less (RR 0.62, 95% CI 0.37 to 1.04; 2 studies, 395 participants; low‐certainty evidence). UF probably reduces heart failure‐related rehospitalisation at longest available follow‐up, with a number needed to treat for an additional beneficial effect (NNTB) of 10 (RR 0.69, 95% CI 0.53 to 0.90; 4 studies, 636 participants; moderate‐certainty evidence).  
+No studies measured need for mechanical ventilation. 
+UF may have little or no effect on serum creatinine change at 30 days since discharge (mean difference (MD) 14%, 95% CI −12% to 40%; 1 study, 221 participants; low‐certainty evidence). UF may increase the risk of new initiation of renal replacement therapy at longest available follow‐up (RR 1.42, 95% CI 0.42 to 4.75; 4 studies, 332 participants; low‐certainty evidence).  
+There is an uncertain effect of UF on the risk of complications from central line insertion in hospital (RR 4.16, 95% CI 1.30 to 13.30; 6 studies, 779 participants; very low‐certainty evidence).  
+Authors' conclusions
+This review summarises the latest evidence on UF in AHF. Moderate‐certainty evidence shows UF probably reduces heart failure‐related rehospitalisation in the long term, with an NNTB of 10. UF may reduce all‐cause rehospitalisation at 30 days or less and at longest available follow‐up. The effect of UF on all‐cause mortality at 30 days or less is unclear, and it may have little effect on all‐cause mortality in the long‐term.  
+While UF may have little or no effect on serum creatinine change at 30 days, it may increase the risk of new initiation of renal replacement therapy in the long term. The effect on complications from central line insertion is unclear.  
+There is insufficient evidence to determine the true impact of UF on AHF. Future research should evaluate UF as an adjunct therapy, focusing on outcomes such as heart failure‐related rehospitalisation, cardiac mortality and renal outcomes at medium‐ to long‐term follow‐up.  

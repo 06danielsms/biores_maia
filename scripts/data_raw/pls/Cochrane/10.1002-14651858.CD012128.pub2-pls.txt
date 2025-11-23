@@ -1,0 +1,35 @@
+Surgical interventions for symptomatic mild to moderate knee osteoarthritis
+Review question 
+Is surgical intervention safe and beneficial in the management of patients with symptomatic mild to moderate osteoarthritis of the knee? 
+Background 
+Osteoarthritis of the knee affects millions of people worldwide. End‐stage osteoarthritis of the knee is successfully treated with a knee replacement. Participants with mild to moderate degenerative changes in the knee can be very symptomatic but are not routinely offered knee replacement surgery as they do less well following this procedure. It is not known whether other types of surgery in this group are beneficial and safe. 
+Search date 
+This systematic review is up to date as of the 24th May 2018.
+Study characteristics 
+All included studies were randomised controlled trials involving adults (18 years of age and older) with symptomatic mild to moderate knee osteoarthritis. One study, including 320 participants from the USA compared arthroscopic partial meniscectomy (APM) and physical therapy (home‐based exercises) to physical therapy (PT) alone. One study, including 32 participants from the USA, compared arthroscopic surgery (debridement ± synovectomy ± chondroplasty) to closed needle joint lavage with saline. Two studies, including 152 participants (120 from Pakistan, 32 from the UK) compared arthroscopic surgery (washout ± debridement, debridement) to a hyaluronic acid injection. One study, including 62 participants from the Netherlands, compared high tibial osteotomy surgery to knee joint distraction surgery. 
+Funding sources 
+One study was supported by grant 9040 from the Robert Wood Johnson Foundation, by the NIH (NIAMS) and by the Percy Surgical Research Trust of Lutheran General Hospital. One study was supported by grants from the National Institute of Arthritis and Musculoskeletal and Skin Diseases of the National Institutes of Health. One study was funded by ZonMw (The Netherlands Organisation for Health Research and Development). Two studies did not report any funding source. 
+Key results 
+Due to space constraints, reporting of results is restricted to the primary comparison, arthroscopic partial meniscectomy surgery versus a six‐week progressive home‐based exercise intervention for the knee, at 12 months: 
+Pain (lower score means less pain):
+Improved by 0.2% with surgery (4% better to 4% worse) on a 0 to 100 point scale
+‐ People who had surgery rated their pain as 19.1 points.
+‐ People who had physical therapy rated their pain as 19.3 points.
+Function (lower score means better function):
+Improved by 0.8 % with surgery (4% better to 3% worse)
+‐ People who had surgery rated their function as 13.7.
+‐ People who had physical therapy rated their function as 14.5.
+Serious adverse events:
+Increased by 1% with surgery (2% better to 3% worse)
+‐ 3 people out of 156 had a serious adverse event with surgery including fatal blood clot, heart attack and low blood oxygen levels. 
+‐ 2 people out of 164 had a serious adverse event with physical therapy including sudden death and stroke. 
+Conversion to total knee replacement: 
+‐ Five participants in the APM group (30 per 1,000) and three subjects in the PT group (17 per 1,000) underwent total knee replacement. 
+Withdrawals 
+‐ One subject died in each group.
+Quality of the evidence 
+Low‐quality evidence (downgraded due to biases in the study design and small sample size) indicates there may be little or no benefit of surgery over progressive exercise in terms of pain and function. Arthroscopic surgery may not have any benefits over closed needle joint lavage with saline or hyaluronic acid injection, and surgery to realign non‐diseased bone surfaces (osteotomy) may have little or no benefit over surgery to separate diseased bone joint surfaces (knee joint distraction) as there was only low‐quality evidence at best from single or two small studies. 
+Due to the very low adverse event rates, it is not clear if surgery is associated with an increased risk of serious adverse events, incidence of total knee replacement or withdrawal rates. 
+Osteoarthritis progression and quality of life were not measured.
+Summary 
+There was low‐quality evidence that there may be little difference between arthroscopic partial meniscectomy and a home exercise program for the treatment of mild to moderate osteoarthritis. Similarly, surgery may not be better than other interventions to treat this condition, as indicated by low‐quality evidence from a few small trials. 

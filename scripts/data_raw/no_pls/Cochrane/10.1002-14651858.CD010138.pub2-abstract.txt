@@ -1,0 +1,15 @@
+Background
+Blood transfusions are associated with significant morbidity and mortality. Prophylactic administration of loop diuretics (furosemide, bumetanide, ethacrynic acid, or torsemide) is common practice, especially among people who are at risk for circulatory overload, pulmonary oedema or both. 
+Objectives
+This review aimed to determine if the prophylactic administration of loop diuretics (furosemide, bumetanide, ethacrynic acid, or torsemide) provides a therapeutic advantage (that is, a favourable risk benefit ratio) in adults and children who are recipients of any blood product transfusion versus placebo, no treatment, or general fluid restriction measures. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 13 January 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs assessing a loop diuretic in patients receiving any blood transfusion were considered for inclusion. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Study authors were contacted for additional information. Results were to be expressed as risk ratios (RR) and their 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) and 95% CI for continuous outcomes. Mean effect sizes were to be calculated using the random‐effects models. 
+Main results
+We included four studies that involved 100 participants. Furosemide was the only diuretic investigated in all four studies. 
+None of the included studies assessed the clinically important outcomes noted in our protocol. The studies focused on various markers of respiratory function. An improvement in fraction of inspired oxygen (in favour of furosemide) was noted in one study. An improvement in pulmonary capillary wedge pressure (in favour of furosemide) was noted in two studies. 
+Authors' conclusions
+There was insufficient evidence to determine whether premedicating people undergoing blood transfusion with loop diuretics prevents clinically important transfusion‐related morbidity. Due to the continued use of prophylactic loop diuretics during transfusions, and because this review highlights the absence of evidence to justify this practice, well‐conducted RCTs are needed. Given the high mortality, severe morbidity and increasing incidence of transfusion‐associated circulatory overload, determining the therapeutic utility of pre‐transfusion loop diuresis is an urgent need. 

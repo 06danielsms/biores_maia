@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 4, 2001 and previously updated in 2003. 
+Tonsillectomy is a commonly performed surgical procedure. There are several operative methods currently in use, but the superiority of one over another has not been clearly demonstrated. 
+Objectives
+To compare the morbidity associated with tonsillectomy by two different techniques ‐ dissection and diathermy. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 3), PubMed, EMBASE, CINAHL, Web of Science, BIOSIS Previews, ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 1 October 2010, following a previous update search in 2003. 
+Selection criteria
+Randomised controlled trials of children and adults undergoing tonsillectomy or adenotonsillectomy by dissection or diathermy techniques. 
+Data collection and analysis
+Two review authors selected studies, extracted data and assessed risk of bias independently.
+Main results
+Two studies (254 participants) are included in the review. The overall risk of bias in the included studies was low, although we excluded pain data from one study due to unclear risk of bias. One study compared monopolar dissection diathermy with conventional cold dissection in children and the other compared microscopic bipolar dissection with cold dissection in children and adults. These studies demonstrate reduced intraoperative bleeding, but increased pain in the diathermy group. There was no difference in the rate of secondary bleeding overall, although the power of both studies to detect a small difference was insufficient. 
+Authors' conclusions
+There are insufficient data to show that one method of tonsillectomy is superior. There is evidence that pain may be greater after monopolar dissection. Large, well designed randomised controlled trials are necessary to determine the optimum method for tonsillectomy. 

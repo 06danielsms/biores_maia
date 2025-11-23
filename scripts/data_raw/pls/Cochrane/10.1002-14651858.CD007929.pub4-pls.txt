@@ -1,0 +1,44 @@
+Do PARP inhibitors improve survival in women with ovarian cancer, and what are the side effects? 
+Key messages  
+Compared to an inactive 'dummy' medication (placebo), PARP (poly (ADP‐ribose) polymerase) inhibitors (PARPi) given as daily tablet treatment after chemotherapy (maintenance treatment): 
+‐ may have little to no effect on the amount of time someone with advanced epithelial ovarian cancer (EOC) will live overall (although this outcome may change as more data become available); 
+‐ probably delay disease progression in women with newly‐diagnosed EOC;
+‐ probably delay disease progression in women with recurrent platinum‐sensitive EOC;
+‐ probably cause an increase in the risk of severe side effects.
+We are very uncertain about whether a delay in disease progression has a beneficial effect on quality of life, as data are inconsistently reported, but the limited data suggest that PARPi may improve symptoms  by delaying disease progression. 
+What is epithelial ovarian cancer?  
+EOC is a cancer that arises from the lining (epithelium) of the ovaries, fallopian tube and the abdominal cavity (peritoneum). Because cells have immediate access to the abdominal cavity, EOC often presents at a late stage. Initial treatment is with a combination of surgery, ideally to remove all visible disease, and chemotherapy. Disease will recur in most people and further treatment is required. Scientists have therefore been looking at new ways to stop cancer cells growing. 
+What are PARP inhibitors?  
+Being able to repair DNA is vital to cell survival. Normal cells have more than one DNA repair pathway. However, cancer cells often have defects in DNA repair pathways. The BRCA gene is involved in DNA repair and is commonly damaged (mutated) in people with EOC. Blocking another DNA repair pathway with a PARPi stops cancer cells from repairing DNA, causing cells to die. PARPi therefore differ from conventional chemotherapy, and are likely to work better in BRCA‐mutated cells. 
+What did we want to find out?  We wanted to find out if PARPi treatment, given either with chemotherapy or afterwards as a maintenance treatment: 
+‐  delays death;
+‐  delays disease progression;
+‐ improves quality of life;
+‐ has any unwanted side effects.
+What did we do?  We searched for randomised control trials (clinical studies where the treatment or care people receive is chosen at random) from 1990 to Oct 2020.  We searched for studies using PARPi in women with newly‐diagnosed EOC and those whose cancer had returned, either more than six months after stopping platinum‐based chemotherapy (platinum‐sensitive relapse) or within six months of platinum‐based chemotherapy (platinum‐resistant relapse). We collected data, summarised results, and rated our confidence in the evidence, based on factors, such as whether women and their doctors knew what treatment they were having, how studies were conducted, and how many women were included in studies. 
+What did we find?  
+We found 15 randomised trials of PARP inhibitors (6109 participants) (four studies including 3070 women with newly‐diagnosed EOC (first‐line treatment) and 11 studies including 3039 women with recurrent cancer). We found 17 ongoing studies.  
+First‐line treatment 
+PARPi, in addition to chemotherapy, givenduring chemotherapy: 
+ — made little to no difference in how long ovarian cancer took to return (progress/recur);
+ — probably slightly increased serious side effects experience by women during chemotherapy.  
+However, continuing PARPi after chemotherapy, compared to placebo as a maintenance treatment, often over many months, probably delayed the cancer recurring/progressing.   
+PARPi maintenance treatment after chemotherapy: 
+— probably delayed recurrence of ovarian cancer (no disease progression at 12 months: 55% with PARPi versus 24% for placebo); 
+— probably little to no difference in how long women survived overall, despite delay in recurrence, although more information may change this outcome over time; 
+— may be at the expense of an increase in the risk of severe side effects with PARPi, although evidence for this is very uncertain.   
+Treatment of platinum‐sensitive recurrent  EOC 
+Compared to conventional chemotherapy treatment, PARPi:
+— may have little to no difference in terms of overall survival, delay in progression of disease, quality of life and risk of serious side effects.  
+All of these studies only included patients with BRCA mutations, so it is not clear whether these results would be similar in non‐BRCA patients.  
+PARPi as maintenance treatment, after chemotherapy for platinum‐sensitive ovarian cancer: 
+— had a large effect on delaying recurrence of disease (no disease progression at 12 months 37% with PARPi versus 5.5% for placebo); 
+— had little to no difference in the overall survival time after treatment;
+— may be at the expense of a large increase in the risk of severe side effects.
+Treatment of platinum‐resistant recurrent EOC 
+PARPi compared with chemotherapy:
+— we are very uncertain about the outcomes, as the quality of the evidence was very low. 
+What limited our confidence in the evidence?  
+Although half of the studies were at low risk of bias, some studies used methods that risk introducing bias and some studies were small.  Reporting of quality of life data overall was poor or different methods were used, limiting our ability to combine data on these outcomes. 
+How up to date is this review?  
+The evidence in this review is current to October 2020.

@@ -1,0 +1,14 @@
+Background
+De Quervain's tenosynovitis is a disorder characterised by pain on the radial (thumb) side of the wrist and functional disability of the hand. It can be treated by corticosteroid injection, splinting and surgery. 
+Objectives
+To summarise evidence on the efficacy and safety of corticosteroid injections for de Quervain's tenosynovitis. 
+Search methods
+We searched the following databases: the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 2), MEDLINE (1966 to April 2009), EMBASE (1956 to April 2009), CINAHL (1982 to April 2009), AMED (1985 to April 2009), DARE, Dissertation Abstracts and PEDro (physiotherapy evidence database). 
+Selection criteria
+Randomised and controlled clinical trials evaluating the efficacy and safety of corticosteroid injections for de Quervain's tenosynovitis. 
+Data collection and analysis
+After screening abstracts of studies identified by the search we obtained full text articles of studies which fulfilled the selection criteria. We extracted data using a predefined electronic form. We assessed the methodological quality of included trials by using the checklist developed by Jadad and the Delphi list. We extracted data on the primary outcome measures: treatment success; severity of pain or tenderness at the radial styloid; functional impairment of the wrist or hand; and outcome of Finkelstein's test, and the secondary outcome measures: proportion of patients with side effects; type of side effects and patient satisfaction with injection treatment. 
+Main results
+We found one controlled clinical trial of 18 participants (all pregnant or lactating women) that compared one steroid injection with methylprednisolone and bupivacaine to splinting with a thumb spica. All patients in the steroid injection group (9/9) achieved complete relief of pain whereas none of the patients in the thumb spica group (0/9) had complete relief of pain, one to six days after intervention (number needed to treat to benefit (NNTB) = 1, 95% confidence interval (CI) 0.8 to 1.2). No side effects or local complications of steroid injection were noted. 
+Authors' conclusions
+The efficacy of corticosteroid injections for de Quervain's tenosynovitis has been studied in only one small controlled clinical trial, which found steroid injections to be superior to thumb spica splinting. However, the applicability of our findings to daily clinical practice is limited, as they are based on only one trial with a small number of included participants, the methodological quality was poor and only pregnant and lactating women participated in the study. No adverse effects were observed. 

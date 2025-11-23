@@ -1,0 +1,19 @@
+Background
+Training and the provision of assistive devices are considered major interventions to prevent back pain and its related disability among workers exposed to manual material handling (MMH). 
+Objectives
+To determine the effectiveness of MMH advice and training and the provision of assistive devices in preventing and treating back pain. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2011, issue 1), MEDLINE, EMBASE, CINAHL, Nioshtic, CISdoc, Science Citation Index, and PsychLIT to February 2011. 
+Selection criteria
+We included randomised controlled trials (RCT) and cohort studies with a concurrent control group that were aimed at changing human behaviour in MMH and measured back pain, back pain‐related disability or sickness absence. 
+Data collection and analysis
+Two authors independently extracted the data and assessed the risk of bias using the criteria recommended by the Cochrane Back Review Group for RCTs and MINORS for the cohort studies. 
+We based the results and conclusions on the analysis of RCTs only. We compared these with the results from cohort studies. 
+Main results
+We included nine RCTs (20,101 employees) and nine cohort studies (1280 employees) on the prevention of back pain in this updated review. Studies compared training to no intervention (4), professional education (2), a video (3), use of a back belt (3) or exercise (2). Other studies compared training plus lifting aids to no intervention (3) and to training only (1). The intensity of training ranged from a single educational session to very extensive personal biofeedback. 
+Six RCTs had a high risk of bias.
+None of the included studies showed evidence of a preventive effect of training on back pain. 
+There was moderate quality evidence from seven RCTs (19,317 employees) that those who received training reported levels of back pain similar to those who received no intervention, with an odds ratio of 1.17 (95% confidence intervals (CI) 0.68 to 2.02) or minor advice (video), with a relative risk of 0.93 (95% CI 0.69 to 1.25). Confidence intervals around the effect estimates were still wide due to the adjustment for the design effect of clustered studies. 
+The results of the cohort studies were similar to those of the randomised studies.
+Authors' conclusions
+There is moderate quality evidence that MMH advice and training with or without assistive devices does not prevent back pain or back pain‐related disability when compared to no intervention or alternative interventions. There is no evidence available from RCTs for the effectiveness of MMH advice and training or MMH assistive devices for treating back pain. More high quality studies could further reduce the remaining uncertainty. 

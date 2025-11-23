@@ -1,0 +1,15 @@
+Background
+For decades, the indication of analgesia in patients with Acute Abdominal Pain (AAP) has been deferred until the definitive diagnosis has been made, for fear of masking symptoms, generating a change in the physical exploration or obstructing the diagnosis of a disease requiring surgical treatment. This strategy has been questioned by some studies that have shown that the use of analgesia in the initial evaluation of patients with AAP leads to a significant reduction in pain without affecting diagnostic accuracy. 
+Objectives
+To determine whether the evidence available supports the use of opioid analgesics in the diagnostic process of patients with AAP. 
+Search methods
+Trials were identified through searches in Cochrane Controlled Trials Register (CENTRAL) (The Cochrane Library, issue 2, 2009), MEDLINE (1966 to 2009) and EMBASE (1980 to 2009). A randomised controlled trial (RCT) filter for a MEDLINE search was applied (with appropriate modification for an EMBASE search). Trials also were identified through "related articles". The search was not limited by language or publication status. 
+Selection criteria
+All published RCTs which included adult patients with AAP, without gender restriction, comparing any opioids analgesia regimen with the non‐use of analgesic before any intervention and independent of the results. 
+Data collection and analysis
+Two independent reviewers assessed the studies identified via the electronic search. Articles that were relevant and pertinent to the aims of the study were selected and their respective full‐text versions were collected for subsequent blinded evaluation. The allocation concealment was considered in particular as an option to diminish the biases. 
+The data collected from the studies were reviewed qualitatively and quantitatively using the Cochrane Collaboration statistical software RevMan 5.0. After performing the meta‐analysis, the chi‐squared test for heterogeneity was applied. In situations of significant clinical heterogeneity, statistical analyses were not applied to the pool of results. In situations of heterogeneity, the random effect model was used to perform the meta‐analysis of the results. A sensitivity analysis was also applied based on the evaluation to the methodological quality of the primary studies. 
+Main results
+Eight studies fulfilled the inclusion criteria. Differences with use of opioid analgesia were verified in variables: Change in the intensity of the pain, change in the patients comfort level. 
+Authors' conclusions
+The use of opioid analgesics in the therapeutic diagnosis of patients with AAP does not increase the risk of diagnosis error or the risk of error in making decisions regarding treatment. 

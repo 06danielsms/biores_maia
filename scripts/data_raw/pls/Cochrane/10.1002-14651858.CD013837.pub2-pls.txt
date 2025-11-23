@@ -1,0 +1,12 @@
+Antibiotic regimens for early‐onset neonatal sepsis
+Review question 
+We reviewed available evidence on different antibiotic regimens for newborns (from birth to 72 hours of life), with early‐onset sepsis (as defined by trialists). 
+Background 
+Sepsis in newborns is a severe and potential lethal condition, caused by the body's response to an infection. Neonatal sepsis is the third leading cause of neonatal death globally. Despite the high burden of sepsis in newborns, high‐quality evidence in diagnosis and treatment is scarce. This Cochrane Review was originally published in 2004. To identify the most appropriate antibiotic policies for neonatal sepsis, there is a need to base these policies on an updated well‐conducted review. Given the clinical importance, such a review assessing the effects of different antibiotic regimens for early‐onset neonatal sepsis is needed. 
+Study characteristics 
+The evidence is current to August 2020. We included five trials randomising 865 participants. The included trials compared five different antibiotic regimens. 
+Key results 
+We included five trials: one trial compared ampicillin plus gentamicin with benzylpenicillin plus gentamicin; one trial compared piperacillin plus tazobactam with amikacin; one trial compared ticarcillin plus clavulanic acid with piperacillin plus gentamicin; one trial compared piperacillin with ampicillin plus amikacin; and one trial compared ceftazidime with benzylpenicillin plus gentamicin. 
+None of the five comparisons showed any difference when assessing death from all causes, serious adverse events (i.e. major complications), respiratory support, circulatory support, nephrotoxicity (toxicity in the kidneys), neurological developmental impairment (disabilities in the functioning of the brain that affect a child's behaviour, memory, or ability to learn), necrotising enterocolitis (tissues in the gut become inflamed and start to die), or ototoxicity (toxic to the ear). Current evidence cannot confirm or reject one antibiotic regimen being superior to another. 
+Quality of the evidence 
+The evidence behind our conclusions is very‐low quality. The five trials had high risk of bias (i.e. the trials were conducted in a way that may have skewed results to the positive side). In addition, the five trials included few participants, making the results of this review imprecise. 

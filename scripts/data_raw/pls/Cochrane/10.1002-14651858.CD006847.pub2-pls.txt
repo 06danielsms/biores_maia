@@ -1,0 +1,14 @@
+A comparison of gefitinib with no therapy or chemotherapy for non‐small cell lung cancer 
+Review question 
+Do patients with non‐small cell lung cancer live longer if they are given gefitinib?
+Background 
+Non‐small cell lung cancer (the most common type of lung cancer) is a leading cause of cancer death worldwide. People diagnosed with advanced lung cancer may be offered chemotherapy. 
+Some lung cancers have been found to have a gene mutation, which is an alteration in the chromosome sequence inside the cells. This mutation affects the epidermal growth factor receptor (EGFR), which is a switch on the surface of the cell leading to uncontrolled growth and spread. Gefitinib is a drug that targets cells with mutated EGFR, thus stopping their growth. Studies have found that this mutation is more commonly found in people who are non‐smokers, female, of Asian heritage and with adenocarcinoma (a type of lung cancer). 
+Study characteristics 
+We searched for relevant trials up to 17 February 2017. There were a total of 35 studies conducted between 2000 and 2017, evaluating 12,089 participants from multiple countries including North America, Europe and Asia. 
+Key results 
+This review showed that patients with advanced lung cancer do not live longer when treated with gefitinib when compared with no other treatment or chemotherapy. In people whose lung cancer has worsened after initial therapy, gefitinib may prolong the time before the cancer progresses further, but only in a selected group of patients of Asian ethnicity or with EGFR mutations. Combining gefitinib with chemotherapy probably increases the time to cancer progression over either gefitinib or chemotherapy alone. For EGFR‐mutation positive patients who are stable after chemotherapy, ongoing gefitinib has been shown to improve survival when compared to placebo. 
+Severe side effects, such as low red and white blood cell counts and nerve symptoms, occurred more frequently in patients given chemotherapy compared to those given gefitinib. Side effects caused by gefitinib included a skin rash, diarrhoea and liver dysfunction. 
+Quality of life may be improved in favour of gefitinib when compared with chemotherapy.
+Quality of the evidence 
+When comparing gefitinib as a first‐ and second‐line treatment with chemotherapy, we downgraded the quality of the evidence to moderate for the outcomes overall survival and progression‐free survival because the results were not precise and they may not be applicable to all patients due to the inclusion of a population only over 70 years of age. However, the quality of the evidence when we compared toxicities from gefitinib with chemotherapy was high. 

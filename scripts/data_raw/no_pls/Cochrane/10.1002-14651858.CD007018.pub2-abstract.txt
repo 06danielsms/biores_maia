@@ -1,0 +1,14 @@
+Background
+The current and projected crisis because of a shortage of health workers in low and middle‐income countries (LMICs) requires that effective strategies for expanding the numbers of health workers are quickly identified in order to inform action by policymakers, educators, and health managers. 
+Objectives
+To assess the effect of changes in the pre‐licensure education of health professionals on health‐worker supply. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 3), EMBASE, Ovid (1980 to week 3, October 2007), MEDLINE, Ovid (1950 to week 3, October 2007), CINAHL (October 2007), LILACS (week 4, November 2007), ERIC (1966 to week 3, February 2008), and Sociological Abstracts (October 2007). We searched WHO (WHOLIS) (February 2008), World Bank, Google Scholar, and human resources on health‐related websites to obtain grey literature. Key experts in human resources for health were contacted to identify unpublished studies. The reference lists of included studies were searched for additional articles. 
+Selection criteria
+Randomised controlled trials, non‐randomised controlled trials, controlled before and after studies, and interrupted time‐series studies that measured increased numbers of health workers ultimately available for recruitment into the health workforce or improved patient to health professional ratios as their primary outcomes were considered. Although the focus of the review was on LMIC, we included studies regardless of where they were done. 
+Data collection and analysis
+Heterogeneity between the two included studies precluded meta‐analysis; therefore, data were presented separately for each study. 
+Main results
+Two studies of the 7880 identified from searching the electronic databases met the inclusion criteria. Both studies were controlled before and after studies, of moderate to high risk of bias, that explored the effects of interventions to improve retention of minority groups in health professional training institutions. These studies reported that an intervention comprising of a package of student support activities including social, academic, and career guidance and mentorship resulted in an increase in the number of minority students who enrolled and graduated from health training institutions. 
+Authors' conclusions
+The evidence to estimate the likely effects of interventions in pre‐licensure education to increase health‐worker supply is generally insufficient or unavailable, particularly in LMICs. Promising innovations from a high‐income country include providing financial support to health professional students or introducing mechanisms to identify and encourage potential students and offering support to 'at risk' students. These and other promising interventions should be evaluated in LMIC. 

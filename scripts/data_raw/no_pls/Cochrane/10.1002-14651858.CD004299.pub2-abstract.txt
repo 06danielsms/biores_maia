@@ -1,0 +1,18 @@
+Background
+Cellulitis and erysipelas are now usually considered manifestations of the same condition, a skin infection associated with severe pain and systemic symptoms. A range of antibiotic treatments are suggested in guidelines. 
+Objectives
+To assess the efficacy and safety of interventions for non‐surgically‐acquired cellulitis.
+Search methods
+In May 2010 we searched for randomised controlled trials in the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials in The Cochrane Library, MEDLINE, EMBASE, and the ongoing trials databases. 
+Selection criteria
+We selected randomised controlled trials comparing two or more different interventions for cellulitis. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data.
+Main results
+We included 25 studies with a total of 2488 participants. Our primary outcome 'symptoms rated by participant or medical practitioner or proportion symptom‐free' was commonly reported. No two trials examined the same drugs, therefore we grouped similar types of drugs together. 
+Macrolides/streptogramins were found to be more effective than penicillin antibiotics (Risk ratio (RR) 0.84, 95% CI 0.73 to 0.97). In 3 trials involving 419 people, 2 of these studies used oral macrolide against intravenous (iv) penicillin demonstrating that oral therapies can be more effective than iv therapies (RR 0.85, 95% CI 0.73 to 0.98). 
+Three studies with a total of 88 people comparing a penicillin with a cephalosporin showed no difference in treatment effect (RR 0.99, 95% CI 0.68 to 1.43). 
+Six trials which included 538 people that compared different generations of cephalosporin, showed no difference in treatment effect (RR 1.00, 95% CI 0.94 to1.06). 
+We found only small single studies for duration of antibiotic treatment, intramuscular versus intravenous route, the addition of corticosteroid to antibiotic treatment compared with antibiotic alone, and vibration therapy, so there was insufficient evidence to form conclusions. Only two studies investigated treatments for severe cellulitis and these selected different antibiotics for their comparisons, so we cannot make firm conclusions. 
+Authors' conclusions
+We cannot define the best treatment for cellulitis and most recommendations are made on single trials. There is a need for trials to evaluate the efficacy of oral antibiotics against intravenous antibiotics in the community setting as there are service implications for cost and comfort. 

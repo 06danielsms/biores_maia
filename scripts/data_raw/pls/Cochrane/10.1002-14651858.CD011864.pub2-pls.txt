@@ -1,0 +1,11 @@
+Drug delivery technique using electrical current for the treatment of non‐muscle invasive bladder cancer 
+Review question 
+In people with non‐muscle invasive bladder cancer (NMIBC), how do methods using electrical current to deliver a medicine compare to methods without electrical current? 
+Background 
+NMIBC is a cancer (tumour) of the inner lining of the bladder that can be removed from the inside using small instruments and a light source, so‐called endoscopic surgery. These tumours can come back over time and spread into the deeper layers of the bladder wall. We know that different types of medicines that we can put into the bladder help prevent this. Investigators have looked at the use of an electrical current to make medicines work better. In this review, we wanted to discover whether using an electrical current was better or worse than not using an electrical current. 
+Study characteristics 
+The evidence is current to 7 February 2017. We found three studies that were conducted between 1994 and 2003 with 672 participants that compared five different ways of giving this treatment. Mitomycin (MMC) was the only medicine used together with electrical current. All three studies came from the same research team. 
+Key results 
+We are very unsure whether the use of an electrical current to give a course of MMC after endoscopic surgery is better or worse compared to giving a course of Bacillus Calmette‐Guérin (BCG; vaccine usually used in tuberculosis) or MMC without electrical current. MMC given with electrical current together with BCG given over a long period of time may be better than BCG alone in delaying the tumour from coming back and from spreading into the deeper layer of the bladder wall. Giving one dose of MMC with electrical current before endoscopic surgery may be better than one dose of MMC without electric current after surgery or surgery alone without further treatment. We are uncertain whether people are more or less likely to have bad reactions from these treatments. 
+Quality of the evidence 
+The quality of evidence was low or very low for most of the treatments we compared, meaning that we were often uncertain about whether the findings were true. Further research will likely change these findings. 

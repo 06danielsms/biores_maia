@@ -1,0 +1,14 @@
+Background
+Postoperative pain may lead to adverse effects on the body, which might result in an increase in morbidity. Its management therefore poses a unique challenge for the clinician. Major shoulder surgery is associated with severe postoperative pain, and different modalities are available to manage such pain, including opioid and non‐opioid analgesics, local anaesthetics infiltrated into and around the shoulder joint and regional anaesthesia. All of these techniques, alone or in combination, have been used to treat the postoperative pain of major shoulder surgery but with varying success. 
+Objectives
+The objective of this review was to compare the analgesic efficacy of continuous interscalene brachial plexus block (ISBPB) with parenteral opioid analgesia for pain relief after major shoulder surgery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 12), MEDLINE (1950 to December 2012), EMBASE (1980 to December 2012), Web of Science (1954 to December 2012), CINAHL (1982 to December 2012) and bibliographies of published studies. 
+Selection criteria
+We included randomized controlled trials assessing the effectiveness of continuous ISBPB compared with different forms of parenteral opioid analgesia in relieving pain in adult participants undergoing elective major shoulder surgery. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted outcome data.
+Main results
+We included two randomized controlled trials (147 participants). A total of 17 participants were excluded from one trial because of complications related to continuous ISBPB (16) or parenteral opioid analgesia (one). Thus we have information on 130 participants (66 in the continuous ISBPB group and 64 in the parenteral opioid group). The studies were clinically heterogeneous. No meta‐analysis was undertaken. However, results of the two included studies showed better pain relief with continuous ISBPB following major shoulder surgery and a lower incidence of complications when interscalene block is performed under ultrasound guidance rather than without it. 
+Authors' conclusions
+Because of the small number of studies (two) relevant to the subject and the high risk of bias of the selected studies, no reasonable conclusion can be drawn. 

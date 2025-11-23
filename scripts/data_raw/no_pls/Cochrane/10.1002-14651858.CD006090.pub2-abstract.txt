@@ -1,0 +1,14 @@
+Background
+Vitamin A supplements are effective for preventing diarrhoea. There are theoretical reasons why they may also be effective for acute lower respiratory tract infections (LRTIs), also very common in children, especially in low‐income countries. 
+Objectives
+To assess the effectiveness and safety of vitamin A for preventing acute LRTIs in children up to seven years of age. 
+Search methods
+In this updated review we searched CENTRAL (2010, Issue 1), which contains the Cochrane Acute Respiratory Infection Group's Specialised Register, MEDLINE (1966 to February Week 4, 2010), EMBASE (1974 to March 2010) and the Chinese Databases CNKI and VIP (1976 to June 2010). 
+Selection criteria
+Randomised controlled trials (RCTs) that assessed the effectiveness of vitamin A in the prevention of acute LRTI in children up to seven years of age. 
+Data collection and analysis
+The review authors independently extracted data and assessed trial quality. We contacted study authors for additional information. 
+Main results
+Ten studies including 33,179 participants were included in this review. Eight studies found no significant effect of vitamin A on the incidence of acute LRTI, or prevalence of symptoms of acute LRTI. Vitamin A caused an increased incidence of acute LRTI in one study; an increase in cough and fever; and increased symptoms of cough and rapid breathing in two other studies. Three reported no differences and no protective effect of vitamin A. Two studies reported that vitamin A significantly reduced the incidence of acute LRTI in children with poor nutritional status or weight, but increased the incidence in healthy children. 
+Authors' conclusions
+This unexpected result is outside our current understanding of the use of vitamin A for preventing acute LRTIs. Accordingly, vitamin A should not be given to all children to prevent acute LRTIs. Despite its benefits in preventing diarrhoeal illnesses, vitamin A supplementation has only a limited effect in preventing acute LRTIs. Positive effects appear limited to populations with acute and chronic under nutrition. Low‐dose vitamin A appears to have fewer side effects and at least equal benefit to a high dose of vitamin A. 

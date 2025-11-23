@@ -1,0 +1,23 @@
+How accurate are diagnostic tools for autism spectrum disorder in preschool children?
+Review question 
+How accurate are tools for diagnosing autism spectrum disorder (ASD) in preschool children? 
+Why is accurate ASD diagnosis important? 
+Not diagnosing ASD in children when it is present (false‐negative result) means children with ASD may miss receiving early intervention and families may miss receiving timely support and education. An incorrect diagnosis of ASD (false‐positive result) may cause family stress, lead to unnecessary investigations and treatments, and place greater strain on already limited service resources. 
+What is the aim of this Review? 
+To find out which of the commonly used tools is most accurate for diagnosing ASD in preschool children. Cochrane researchers reviewed 13 published articles to answer this question. 
+What was studied in the Review? 
+Six tests were reviewed: Four gathered information about children’s behaviours from interviews with parents or carers (Autism Diagnostic Interview‐Revised (ADI‐R), Gilliam Autism Rating Scale (GARS), Diagnostic Interview for Social and Communication Disorder (DISCO), and Developmental, Dimensional, and Diagnostic Interview (3di)); one required that a trained professional observe a child’s behaviour on specific tasks (Autism Diagnostic Observation Schedule (ADOS)); and one combined observation of the child with interview of parents or carers (Childhood Autism Rating Scale (CARS)). 
+What are the main results of the Review? 
+The Review included 21 relevant sets of analyses conducted on a total of 2900 children. Results were available for only three tools: ADOS (Modules 1 and 2), CARS, and ADI‐R. If instruments were applied to 1000 children, 740 of whom had ASD, then 696, 592, and 385 children would be correctly identified by ADOS, CARS, and ADI‐R, respectively, whereas 52, 31, and 42 children without ASD would be incorrectly classified as having ASD. Of 260 children without ASD, 208, 229, and 218 would be correctly classified by ADOS, CARS, and ADI‐R, respectively, whereas 44, 148, and 355 children with ASD would be incorrectly classified as not having ASD. 
+See Figure 1. 
+One publication looked at using ADI‐R together with ADOS and found that use of both tools together was no more accurate than use of ADOS alone. 
+How reliable are the results of analyses in this Review? 
+Using a variety of best‐estimate clinical approaches led to diagnosis in children. This method is commonly used in research but does not always replicate the multi‐disciplinary assessment recommended for clinical diagnosis. 
+Problems with how some studies were conducted and the presence of conflicts of interest in some publications may result in ADOS, CARS, and ADI‐R appearing more accurate than they really are. Also, if these tools are used in populations with a lower prevalence of ASD, a higher proportion of children who do not have ASD are likely to receive an ASD diagnosis. 
+The numbers shown above represent average values across analyses. However, as individual estimates varied, we cannot be sure that ADOS will always produce these results. Numbers of children included in studies conducted to date, including studies comparing the accuracy of different tools, are insufficient to evoke confidence in these results. 
+Who do results of the Review apply to? 
+Studies included were carried out in Australia, Canada, India, the Netherlands, United Kingdom, and United States. Studies included children younger than six years of age, or children with a mean age less than six years, with language difficulties, developmental delay, intellectual disability, or a mental health problem, presenting to a clinical service or enrolling in a research study. 
+What are the implications of this Review? 
+Current findings suggest that ADOS is best for not missing children who have ASD and is similar to CARS and ADI‐R in not falsely diagnosing ASD in a child who does not have ASD. ADOS has acceptable accuracy in populations with a high prevalence of ASD. However, overdiagnosis is likely if the tool is used in populations with a lower prevalence of ASD. This finding supports current recommended practice for ASD diagnostic tools to be used as part of a multi‐disciplinary assessment, rather than as stand‐alone diagnostic instruments. 
+How up‐to‐date is this Review? 
+This Review was up‐to‐date as of July 2016.

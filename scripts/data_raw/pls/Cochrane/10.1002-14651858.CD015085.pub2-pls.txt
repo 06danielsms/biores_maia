@@ -1,0 +1,35 @@
+Can non‐medicinal measures prevent or reduce SARS‐CoV‐2 infections in long term care facilities? 
+Key messages 
+• Non‐medicinal measures (e.g. visiting restrictions or regular testing) may prevent SARS‐CoV‐2 infections (causing COVID‐19 disease) in residents and staff in long term care facilities, but we have concerns about the reliability of the findings. 
+• More high‐quality studies on real‐world experiences are needed, in particular.
+• More research is also needed on measures in facilities where most residents and staff are vaccinated, as well as regions other than North America and Europe. 
+What are non‐medicinal measures? 
+Non‐medicinal measures are ways of preventing or reducing disease without using medicine, such as vaccines. These include controlling people's movements and contacts, using personal protective equipment (PPE), or regular testing for infection. 
+SARS‐CoV‐2 is very infectious. Elderly or disabled people, who live in care homes (long‐term care facilities), are vulnerable to infection because they live in close contact with other people, with carers and visitors entering and leaving the facility. Due to age and underlying health conditions, care home residents have an increased risk of becoming seriously ill with COVID‐19 and dying from the disease. 
+What did we want to find out? 
+We wanted to find out how effective non‐medicinal measures are in preventing residents and staff in long‐term care facilities from becoming infected with SARS‐CoV‐2 and in reducing the spread of the infection. We focused on all types of long‐term care facilities for adults, such as nursing homes for the elderly and skilled nursing facilities for people living with disabilities. 
+What did we do? 
+We searched for studies that investigated the effects of non‐medicinal measures in long‐term care facilities. To be included, studies had to report how many infections, hospitalisations or deaths the measures prevented in residents or staff, or whether the measures prevented the introduction of the virus into the facilities or prevented outbreaks within facilities. We included any type of study, including observational studies that used ‘real‐world’ data, or modelling studies based on assumed data from computer‐generated simulations. 
+What did we find? 
+We found 22 studies, 11 observational and 11 modelling studies. All studies were conducted in North America or Europe. 
+There were four main types of measures.
+1.Entry regulation measures to prevent residents, staff or visitors introducing the virus into the facility. Measures included staff confining themselves with residents, quarantine for newly‐admitted residents, testing new admissions, not allowing the admission of new residents, and preventing visitors from entering facilities. 
+2. Contact‐regulating and transmission‐reducing measures to prevent people passing on the virus. Measures included wearing masks or PPE, social distancing, extra cleaning, reducing contact between residents and among staff, and placing residents and staff in care groups and limiting contact between groups. 
+3. Surveillance measures designed to identify an outbreak early. Measures included regular testing of residents or staff regardless of symptoms, and symptom‐based testing. 
+4. Outbreak control measures to reduce the consequences of an outbreak. Measures included isolation of infected residents, and separating infected and non‐infected residents or staff caring for them. 
+Some studies used a combination of these measures.
+Main results 
+Entry regulation measures  (4 observational studies; 4 modelling studies) 
+Most studies showed that such measures were beneficial, but some studies found no effects or unwanted effects, such as depression and delirium among residents in the context of visiting restrictions. 
+Contact‐regulating and transmission‐reducing measures  (6 observational studies; 2 modelling studies) 
+Some measures may be beneficial, but often the evidence is very uncertain.
+Surveillance measures  (2 observational studies; 6 modelling studies) 
+Routine testing of residents and staff may reduce the number of infections, hospitalisations and deaths among residents, although the evidence on the number of deaths among staff was less clear. Testing more often, getting test results faster, and using more accurate tests were predicted to have more beneficial effects. 
+Outbreak control measures  (4 observational studies; 3 modelling studies) 
+These measures may reduce the number of infections and the risk of outbreaks in facilities, but often the evidence is very uncertain. 
+Combination measures  (2 observational studies; 1 modelling study) 
+A combination of different measures may be effective in reducing the number of infections and deaths. 
+What are the limitations of the evidence? 
+Our confidence in these results is limited. Many studies used mathematical prediction rather than real‐world data, and we cannot be confident that the model assumptions are accurate. Most observational studies did not use the most reliable methods. This means we cannot be confident that the measure caused the effect, for example, that testing of residents reduced the number of deaths. 
+How up to date is this evidence? 
+This review includes studies published up to 22 January 2021.

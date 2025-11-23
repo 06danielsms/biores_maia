@@ -1,0 +1,16 @@
+Background
+Diclofenac is a nonsteroidal anti‐inflammatory drug, available as a potassium salt (immediate release) or sodium salt (enteric coated to suppress dissolution in the stomach). This review updates an earlier review published in the Cochrane Database of Systematic Reviews (Issue 2, 2009) entitled 'Single dose oral diclofenac for acute postoperative pain in adults'. 
+Objectives
+To assess the analgesic efficacy and adverse effects of a single oral dose of diclofenac for moderate to severe postoperative pain, using methods that permit comparison with other analgesics evaluated in standardised trials using almost identical methods and outcomes. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Relief Database, two clinical trial registries, and the reference lists of articles. The date of the most recent search was 9 March 2015. 
+Selection criteria
+Randomised, double‐blind, placebo‐controlled clinical trials of single dose, oral diclofenac (sodium or potassium) for acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently considered studies for inclusion in the review, assessed risk of bias, and extracted data. We used the area under the pain relief versus time curve to derive the proportion of participants with at least 50% pain relief over six hours prescribed either diclofenac or placebo. We calculated the risk ratio (RR) and number needed to treat to benefit (NNT). We used information on the use of rescue medication to calculate the proportion of participants requiring rescue medication and the weighted mean of the median time to use. We also collected information on adverse effects. 
+Main results
+This update included three new studies, providing a 26% increase in participants in comparisons between diclofenac and placebo. We included 18 studies involving 3714 participants, 1902 treated with diclofenac and 1007 with placebo. This update has also changed the focus of the review, examining the effects of formulation in more detail than previously. This is a result of increased understanding of the importance of speed of onset in determining analgesic efficacy in acute pain. 
+The largest body of information, for diclofenac potassium 50 mg, in seven studies, produced an NNT for at least 50% of maximum pain relief compared with placebo of 2.1 (95% confidence interval (CI) 1.9 to 2.5) (high quality evidence). There was a graded improvement in efficacy as doses rose from 25 mg to 100 mg, both for participants achieving at least 50% maximum pain relief, and for remedication within 6 to 8 hours. Fast‐acting formulations (dispersible products, solutions, and softgel formulations) had a similar efficacy for a 50 mg dose, with an NNT of 2.4 (2.0 to 3.0). Diclofenac sodium in a small number of studies produced a lesser effect, with an NNT of 6.6 (4.1 to 17) for the 50 mg dose. 
+Adverse event rates were low in these single dose studies, with no difference between diclofenac and placebo (moderate quality evidence). 
+Authors' conclusions
+Diclofenac potassium provides good pain relief at 25 mg, 50 mg, and 100 mg doses. Diclofenac sodium has limited efficacy and should probably not be used in acute pain. 

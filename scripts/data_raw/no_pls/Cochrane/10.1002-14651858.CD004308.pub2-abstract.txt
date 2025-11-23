@@ -1,0 +1,14 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 4, 2004. Indometacin is a non‐steroidal anti‐inflammatory drug (NSAID) used most commonly for the treatment of inflammation and pain resulting from rheumatic disease (arthritis), and less commonly in postoperative pain management. When taken for chronic pain conditions, indometacin has been associated with a high incidence of adverse events. The benefits and harms of orally‐administered indometacin for postoperative pain are not clear. 
+Objectives
+To determine the efficacy of a single dose of oral indometacin compared with placebo in treating acute postoperative pain in adults, and to analyse information relating to adverse events. 
+Search methods
+We searched the Cochrane CENTRAL Register of Controlled Trials in The Cochrane Library, MEDLINE, EMBASE and the Oxford Pain Relief Database for relevant studies in January 2002 and for the updated search in December 2007. Additional studies were sought from the reference lists of retrieved studies. 
+Selection criteria
+Studies were included in the review if they were randomised, double blind, placebo‐controlled clinical trials using a single oral dose of indometacin in adults with acute postoperative pain. 
+Data collection and analysis
+Studies were assessed independently by two review authors. Pain relief or pain intensity data were extracted and converted into dichotomous information to give the number of participants with at least 50% pain relief over four to six hours. The relative benefit for at least 50% pain relief was calculated. 
+Main results
+In the original review one study of 59 women with post‐episiotomy pain met the inclusion criteria. The dose of indometacin assessed against placebo was 50 mg, and the results concluded that indometacin was not significantly better than placebo for relieving postoperative pain at four to six hours. There was insufficient information to conduct further efficacy analyses or assess adverse events. No further studies were identified in the update of this review. 
+Authors' conclusions
+Conclusions about the clinical efficacy of indometacin for postoperative pain cannot be made unless more studies are conducted for a variety of surgical procedures, and different doses of indometacin are assessed. Since the last version of this review no new relevant studies have been identified. 

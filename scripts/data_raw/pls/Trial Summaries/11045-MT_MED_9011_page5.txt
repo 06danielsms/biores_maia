@@ -1,0 +1,29 @@
+Clinical Study Results
+
+There were 4 participants who left the study during the first treatment period. All 4 participants left the study because of COPD that got worse.
+
+- 1 participant left the study after taking GP MDI.
+- 3 participants left the study after taking FF MDI.
+
+Did GP MDI and FF MDI affect the participants' lung airways?
+
+Yes. The participants had more airway volume in the lungs after taking GP MDI and after taking FF MDI. They also had less airway resistance after taking the 2 treatments. When there is more airway volume and less airway resistance in the lungs, it improves breathing.
+
+To answer this question, the researchers used a new type of measurement called "functional respiratory imaging", also called FRI. FRI measurements were done after taking very detailed pictures of the lungs. The study staff took the pictures using a scan called "high-resolution computed tomography", also called HRCT. These scans help doctors look at the inside of the airways and the lungs.
+
+Two measurements were done using FRI:
+
+- airway volume, also called siVaw
+- airway resistance, also called siRaw
+
+The researchers took the FRI measurements before the patients took each study treatment and compared them to the measurements after the patients took the last dose of each study treatment. They calculated the difference in the results before and after treatment as a percentage.
+
+- An increase in airway volume means it might be easier to breathe.
+- A decrease in airway resistance means it might be easier to breathe.
+
+Airway volume:
+
+The researchers found that:
+ 
+- When participants took GP MDI, the airway volume increased by 11.0%.
+- When participants took FF MDI, the airway volume increased by 23.0%.

@@ -1,0 +1,11 @@
+What adverse reactions happened during this study?
+The most common adverse reaction was pain at the site of an injection. The table below shows the adverse reactions that happened during this study. Some participants may have had more than 1 adverse reaction.
+Adverse reactions during this study:
+- Accessorized pre-filled syringe:
+  - Adverse reaction (out of 111 participants) (out of 105 participants)
+  - Injection site pain: 0.0% (0) 2.9% (3)
+  - Injection site redness: 0.0% (0) 1.9% (2)
+  - Injection site swelling: 0.0% (0) 1.9% (2)
+  - Injection site bruising: 0.0% (0) 1.0% (1)
+  - Injection site raised swelling: 0.0% (0) 1.0% (1)
+  - Injection site itching: 0.0% (0) 1.0% (1)

@@ -1,0 +1,33 @@
+Clinical Trial Results
+Highest amount of AZD2014 in the blood and saliva
+Researchers measured the average highest amount of AZD2014 in the blood and saliva in nanograms per milliliter of blood or saliva, or ng/mL. This is a way for researchers to measure the highest amount of drugs in blood and saliva. 
+The chart below shows the highest amount of the drug in the blood and saliva.
+- Highest amount of AZD2014
+- 6000
+- 5410 ng/mL
+- 4500
+- 4254 ng/mL
+- 4102
+- 3000
+- 1500
+- 0
+- Blood
+- Saliva
+- Treatment group
+
+Time it took for AZD2014 to reach its highest amount in the blood and saliva
+Researchers also measured the median amount of time in hours, or h, that it took for AZD2014 to reach its highest amount in the blood and saliva. The median is the amount of time halfway between the shortest time and the longest time it took for AZD2014 to reach its highest amount in the blood and saliva. 
+The chart below shows this amount of time.
+- Time it took to reach the highest amount of AZD2014
+- 1.5
+- 4102
+- 1.0 h
+- 1.0
+- 0.5 h
+- 0.5
+- 0
+- Blood
+- Saliva
+- Treatment group
+
+UK 5

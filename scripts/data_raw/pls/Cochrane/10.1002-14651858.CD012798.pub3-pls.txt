@@ -1,0 +1,13 @@
+Interventions for treating distal intestinal obstruction syndrome (DIOS) in cystic fibrosis 
+Review question 
+We reviewed the evidence about the effectiveness and safety of different treatments for distal intestinal obstruction syndrome (DIOS) in children and adults with cystic fibrosis. 
+Background 
+Cystic fibrosis is a common, life‐limiting, inherited disease. One of the main features of cystic fibrosis is the thick, sticky mucus produced by many organs including the lungs, pancreas and intestine. DIOS occurs when mucus in the intestine combines with faeces and builds up to produce a mass. This mass can partially or completely block the intestine and cause symptoms such as vomiting, severe abdominal pain and a swollen stomach (abdominal distension). Once a diagnosis of DIOS has been made, the goal of therapy is to relieve the complete or partial blockage and ultimately prevent the need for any surgical intervention. 
+Search date 
+The evidence is current to: 12 October 2021.
+Trial characteristics 
+The review included one trial with 20 people with cystic fibrosis who were aged between 7.1 and 23.2 years of age (average 13.1 years old). The 12‐month trial compared a high dose of pancreatic enzymes with a low dose of pancreatic enzymes for treating chronic DIOS. 
+Key results 
+The trial did not report on our primary outcomes (time until DIOS successfully treated and treatment failure rate), but addressed two of our secondary outcomes; episodes of acute DIOS and the harmful effects that might occur in participants (the presence of an abdominal mass and abdominal pain). There were no numerical data available for these results, but the authors reported that there was no difference between high‐dose or low‐dose pancreatic enzymes. 
+Certainty of the evidence 
+We found the overall certainty of the evidence to be very low. The trial itself was only published as an abstract from a conference which did not include numerical data and it was not published as a full report. This meant that we do not know many details about the trial. We thought that the overall risk of bias was unclear, as the trial authors did not describe how participants were put into the treatment groups, whether any participants dropped out or whether the planned outcomes were the same as the reported outcomes. The trial also had a very small number of participants and a limited age range, making it difficult to draw conclusions about the relevance of the treatment for all people with cystic fibrosis. 

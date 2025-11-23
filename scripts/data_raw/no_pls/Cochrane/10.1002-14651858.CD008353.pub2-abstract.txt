@@ -1,0 +1,14 @@
+Background
+Cordyceps sinensis (Cordyceps, Dong Chong Xia Cao), a herbal medicine also known as Chinese caterpillar fungus, is one of the most commonly used ingredients in traditional Chinese medicine for the treatment of people with chronic kidney disease (CKD). 
+Objectives
+This review aimed to evaluate the therapeutic effects and potential adverse effects of Cordyceps sinensis for the treatment of people with CKD. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register to 14 April 2014 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. We also searched CINAHL, AMED, Current Controlled Trials, OpenSIGLE, and Chinese databases including CBM, CMCC, TCMLARS, Chinese Dissertation Database, CMAC and Index to Chinese Periodical Literature. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing Cordyceps or its products with placebo, no treatment, or conventional treatment were considered for inclusion in the review. 
+Data collection and analysis
+Two authors independently assessed data quality and extracted data. Statistical analyses were performed using the random‐effects model and the results expressed as risk ratio (RR) for dichotomous outcomes or mean difference (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+We included 22 studies that involved 1746 participants. Among people with CKD who were not receiving dialysis, Cordyceps preparations were found to significantly decrease serum creatinine (14 studies, 987 participants): MD ‐60.76 μmol/L, 95% CI ‐85.82 to ‐35.71); increase creatinine clearance (6 studies, 362 participants): MD 9.22 mL/min, 95% CI 3.10 to 15.34) and reduce 24 hour proteinuria (4 studies, 211 participants: MD ‐0.15 g/24 h, 95% CI ‐0.24 to ‐0.05). However, suboptimal reporting and flawed methodological approaches meant that risk of bias was assessed as high in four studies and unclear in 18 studies, and hence, these results need to be interpreted with caution. 
+Authors' conclusions
+We found that Cordyceps preparation, as an adjuvant therapy to conventional medicine, showed potential promise to decrease serum creatinine, increase creatine clearance, reduce proteinuria and alleviate CKD‐associated complications, such as increased haemoglobin and serum albumin. However, definitive conclusions could not be made because of the low quality of evidence. 

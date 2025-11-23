@@ -1,0 +1,14 @@
+Background
+Methadone represents today the gold standard of efficacy for the pharmacological treatment of opioid dependence. Methadone, like many other medications, has been implicated in the prolongation of the rate‐corrected QT (QTc) interval of the electrocardiogram (ECG), which is considered a marker for arrhythmias such as torsade de pointes (TdP). Indications on the association between methadone, even at therapeutic dosages, and TdP or sudden cardiac death have been reported. On these bases, consensus and recommendations involving QTc screening of patients receiving methadone treatment have been developed to identify patients with QTc above the thresholds considered at risk for cardiac arrhythmias, and they provide these individuals with alternative treatment (reduction of methadone dosage; provision of alternative opioid agonist treatment; treatment of associated risk factors). 
+Objectives
+To evaluate the efficacy and acceptability of QTc screening for preventing cardiac‐related morbidity and mortality in methadone‐treated opioid dependents. 
+Search methods
+We searched MEDLINE, EMBASE, CINAHL (to April 2013), the Cochrane Central Register of Controlled Trials (CENTRAL), The Cochrane Library Cochrane Drug and Alcohol Review Group Specialised Register (Issue 3, 2013), main electronic sources of ongoing trials, specific trial databases and reference lists of all relevant papers. 
+Selection criteria
+Randomised controlled trials (RCTs), controlled clinical trials (CCTs) and non‐randomised studies (cohort studies, controlled before and after studies, interrupted time series studies, case control studies) examining the efficacy of QTc screening for the prevention of methadone‐related mortality and morbidity in opioid addicts. 
+Data collection and analysis
+Two review authors independently screened and extracted data from studies.
+Main results
+The search strategy led to the identification of 872 records. Upon full‐text assessment, no study was found to meet the quality criteria used for this review. 
+Authors' conclusions
+It is not possible to draw any conclusions about the effectiveness of QTc screening strategies for preventing cardiac morbidity/mortality in methadone‐treated opioid addicts. Research efforts should focus on strengthening the evidence about the effectiveness of widespread implementation of such strategies and clarifying the associated benefits and harms. 

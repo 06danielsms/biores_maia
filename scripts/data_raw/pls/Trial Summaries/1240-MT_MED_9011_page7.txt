@@ -1,0 +1,10 @@
+Clinical Study Results
+What adverse reactions did the participants have?
+The most common adverse reactions were fever, headache, and rash at injection site.
+Adverse reactions:
+- 30 mg Benralizumab: Fever 1.7% (2), headache 1.7% (2), rash at injection site 0.8% (1), allergic reaction 0.8% (1), dizziness 0.8% (1), herpes of the mouth 0.8% (1), itchy skin 0.8% (1), bleeding outside of the blood vessels 0.0% (0), redness at injection site 0.0% (0)
+- Placebo: Fever 0.0% (0), headache 0.0% (0), rash at injection site 0.9% (1), allergic reaction 0.0% (0), dizziness 0.0% (0), herpes of the mouth 0.0% (0), itchy skin 0.0% (0), bleeding outside of the blood vessels 0.9% (1), redness at injection site 0.9% (1)
+How has this study helped patients and researchers?
+These results helped researchers learn more about how benralizumab works in people with severe asthma that was not well controlled by previous treatment.
+Researchers look at the results of many studies to decide which treatments work best and are safest. This summary shows only the main results from this one study. Other studies may provide new information or different results.
+Further clinical studies with benralizumab are planned.

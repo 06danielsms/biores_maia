@@ -1,0 +1,34 @@
+Image‐guided versus blind glucocorticoid injection for shoulder pain
+Background 
+Shoulder pain is most often caused by rotator cuff disease, or adhesive capsulitis (‘frozen shoulder’). The rotator cuff is a group of tendons that holds the shoulder joint in place allowing people to lift their arm. Shoulder pain can be related to wear and tear or inflammation of the shoulder tendons, and pressure on the tendons by the overlying bone when lifting the arm up (impingement). Both conditions cause pain with movement and often pain during the night and sleeping on the affected side; adhesive capsulitis also causes shoulder stiffness. 
+Glucocorticoids injections can relieve shoulder pain but their effect usually wears off after six to eight weeks. Traditionally, injections are given using anatomic landmarks around the shoulder. Sometimes imaging techniques, such as ultrasound, are used to more accurately guide the injections into the shoulder. It is not known if image‐guided injection relieves shoulder pain more effectively than injections delivered without imaging. 
+Study characteristics 
+This Cochrane review is current to 15 February 2021. Nineteen trials (1035 participants) compared ultrasound‐guided injection to ‘blind’ injection. Fourteen trials included participants with rotator cuff disease, four with adhesive capsulitis, and one with mixed shoulder pain. Trials were performed in Korea, Taiwan, Iran, Turkey, Australia, Norway, Spain, Ireland, India and Switzerland. Most participants were female, with a mean age from 31 to 60 years, and mean symptom duration from 2 to 23 months. Six studies reported funding sources. 
+Key results 
+Compared to injection into the shoulder without image guidance, ultrasound‐guided injection resulted in little to no benefit at three to six weeks: 
+Pain (lower scores mean less pain) 
+Improved by 0.5 points more (0.2 more to 0.8 more) on a 0 to 10‐point scale. Differences of 0.5 to 1.0 points are considered slight or small and are unlikely to be clinically important. 
+‐ People who had ultrasound‐guided injection rated their pain as 2.6 points
+‐ People who had injection without image guidance rated their pain as 3.1 points
+Function (higher scores mean better function) 
+Improved by 2.4 points more (0.2 points worse to 5.1 points more) on a 0 to 100‐point scale. Differences below 10 points are considered slight or small and are unlikely to be clinically important. 
+‐ People who had ultrasound‐guided injection rated their function as 70.4 points
+‐ People who had injection without image guidance rated their function as 68 points
+Quality of life (higher scores mean better quality of life) 
+Improved by 2.8 points (0.7 worse to 6.4 better) on a 0 to 100‐point scale
+‐ People who had ultrasound‐guided injection rated their quality of life as 67.8 points
+‐ People who had injection without image guidance rated their quality of life as 65 points 
+Treatment success (defined as pain moderately or a great deal better) 
+22% more people rated their treatment a success (4% fewer to 62% more), or 22 more people out of 100. 
+‐ 61 out of 100 people reported treatment success with ultrasound‐guided injection
+‐ 39 out of 100 people reported treatment success with injection without image guidance
+Adverse events 
+7% fewer people (15% fewer to 7% more) had adverse events (post‐injection pain, facial redness and warmth) with ultrasound‐guided injection. 
+‐ 18 out of 100 people reported adverse events with ultrasound‐guided injection
+‐ 25 out of 100 people reported adverse events with injection without image guidance
+Serious adverse events 
+Five trials reported that there were no serious adverse events (like infection or nerve injury) with or without use of ultrasound guidance of the injection. 
+Withdrawals due to adverse events 
+One trial reported that 1/53 (or 19 out of 1000) people who received the injection without image guidance withdrew from the study due to adverse events, while no one (0/53) in the ultrasound‐guided injection group withdrew due to adverse events. 
+Quality of evidence 
+Low to moderate‐certainty evidence shows that in people with shoulder pain, ultrasound‐guided injection does not provide clinically important benefits in pain, function or quality of life compared with non‐image‐guided injection, nor does it reduce the risk of adverse events. These findings were consistent across different shoulder conditions. Further high‐quality research is unlikely to change the conclusions of this review. 

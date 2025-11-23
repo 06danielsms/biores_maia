@@ -1,0 +1,14 @@
+Background
+Peripheral arterial disease (PAD) is frequently treated by either an infrainguinal autologous (using the patient's own veins) or synthetic graft bypass. The rate of occlusion of the graft after one year is between 12% and 60%. To prevent occlusion, patients are treated with an antiplatelet or antithrombotic drug, or a combination of both. Little is known about which drug is optimal to prevent infrainguinal graft occlusion. This is an update of a Cochrane review first published in 2003. 
+Objectives
+To evaluate whether antithrombotic treatment improves graft patency, limb salvage and survival in patients with chronic PAD undergoing infrainguinal bypass surgery. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group searched their Specialised Register (last searched August 2010) and the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 3). 
+Selection criteria
+Randomised, controlled trials; two review authors independently assessed the methodological quality of each trial using a standardised checklist. 
+Data collection and analysis
+Data collected included patient details, inclusion and exclusion criteria, type of graft, antithrombotic therapy, outcomes, and side effects. 
+Main results
+A total of 14 trials were included in this review; 4970 patient results were analysed. Four trials evaluating vitamin K antagonists (VKA) versus no VKA suggested that oral anticoagulation may favour autologous venous, but not artificial, graft patency as well as limb salvage and survival. Two other studies comparing VKA with aspirin (ASA) or aspirin and dipyridamole provided evidence to support a positive effect of VKA on the patency of venous but not artificial grafts. Three trials comparing low molecular weight heparin (LMWH) to unfractionated heparin (UFH) failed to demonstrate a significant difference on patency. One trial comparing LMWH with placebo found no significant improvement in graft patency over the first postoperative year in a population receiving aspirin. One trial showed an advantage for LMWH versus aspirin and dipyridamol at one year for patients undergoing limb salvage procedures. Perioperative administration of ancrod showed no greater benefit when compared to unfractionated heparin. Dextran 70 showed similar graft patency rates to LMWH but a significantly higher proportion of patients developed heart failure with dextran. 
+Authors' conclusions
+Patients undergoing infrainguinal venous graft are more likely to benefit from treatment with VKA than platelet inhibitors. Patients receiving an artificial graft benefit from platelet inhibitors (aspirin). However, the evidence is not conclusive. Randomised controlled trials with larger patient numbers are needed in the future to compare antithrombotic therapies with either placebo or antiplatelet therapies. 

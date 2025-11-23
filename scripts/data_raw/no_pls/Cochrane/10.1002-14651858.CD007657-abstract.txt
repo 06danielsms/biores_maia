@@ -1,0 +1,14 @@
+Background
+Alzheimer's dementia (AD) is the most common form of dementia in people with Down Syndrome (DS). There is an understanding that an increase in L‐glutamate contributes to the pathogenesis of cerebral ischemias and AD. Memantine acts as an antagonist of N‐methyl‐D‐aspartate (NMDA) type receptors, which is thought to reduce abnormal activation of glutamate neurotransmission. It binds with a low affinity to the NMDA receptor and so should not prevent learning and the formation of memory. Memantine can improve cognitive function and slow the decline of AD in the general population over time, and is the subject of this review. It is important to note that people with DS tend to present with AD at a much younger age than the normal population as well as having subtle differences in physiology (e.g. metabolism and heart rate) and may therefore have different requirements from the general population. This review was superseded by a new review titled 'Pharmacological interventions for cognitive decline in people with Down syndrome' in the Cochrane Database of Systematic Reviews (CDSR) in 2015. 
+Objectives
+To determine the effectiveness and safety of memantine for people with DS who develop AD. 
+Search methods
+CENTRAL, MEDLINE, EMBASE, CINAHL, PsycINFO, BIOSIS, SCI, SSCI and the NRR were searched up to October 2008. We contacted the manufacturers of memantine, as well as experts in the field, to ask about reports of unpublished or ongoing trials. 
+Selection criteria
+Randomised controlled trials of participants with DS and AD in which treatment with memantine was administered compared with a placebo group. 
+Data collection and analysis
+No study was identified which met the inclusion criteria for this review.
+Main results
+No study was identified which met inclusion criteria for this review, however there is an on‐going randomised controlled study being conducted in the UK and data are expected in 2009. 
+Authors' conclusions
+As there are no included trials, recommendations cannot be made about memantine for AD in DS. Well‐designed, adequately powered studies are required. 

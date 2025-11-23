@@ -1,0 +1,23 @@
+Are there ways to improve stop‐smoking treatment in primary care to help more people to quit smoking? 
+What is stop‐smoking treatment in primary care? 
+Primary care, also known as family medicine or general practice, is where people go to see a health professional for mostly day‐to‐day health issues. It is one of the best places for people who smoke tobacco to get help to quit. When people visit primary care they may be asked if they smoke. If they do, they may then be helped to quit, typically through counseling and medications. 
+Why we did this Cochrane Review 
+Support to stop smoking in primary care is not always delivered well or consistently. Health providers may be unsure how best to deliver treatment, may have limited time to deliver it, or lack the resources needed. Ways to improve the delivery and success of stop‐smoking support in primary care have been suggested. Some of these are designed to make sure the treatment already available is delivered often and well, e.g. training providers on how best to help people quit, and some are designed to increase the support available for participants, e.g. providing additional counseling and printed materials. Our aim was to look at which of these approaches works best on their own or together. 
+What did we do? 
+We searched for studies that looked at ways to improve standard stop‐smoking support within primary care, and where the treatments people received were decided at random. 
+We wanted to find out:
+‐ how many people were asked about their smoking and provided with advice and support;
+‐ how many people tried to quit smoking; and
+‐ how many people stopped smoking for at least six months.
+We included evidence published to 10th September 2020.
+What we found 
+We found 81 studies including 112,159 smokers in primary care patients. Studies looked at many ways to improve the delivery and success of stop‐smoking support in primary care. Some looked at just one strategy, and some looked at two or more in combination. More than one study looked at each of the following individual strategies: additional counseling; free medications; feedback to participants on markers of their individual health risk linked to smoking; printed materials tailored to participants; health provider training; and rewards to health providers for providing support. 
+Most studies took place in Europe (39 studies) and the USA (26 studies).
+What are the results of our review? 
+More people probably stop smoking for at least six months when they are given additional counseling (22 studies, 18,150 people), free stop‐smoking medications (10 studies, 7560 people), or printed materials tailored to them (6 studies, 15,978 people), as part of stop‐smoking support in primary care. We are uncertain whether providing people with feedback on markers of their individual health risk, providing healthcare providers with training, or with rewards for providing stop‐smoking support, help more people to quit. 
+Thirty‐four studies looked at more than one strategy to improve stop‐smoking treatment in primary care. Combinations differed greatly across studies, with different levels of success, and it was not possible to draw conclusions on what worked best. 
+There was not enough information to help us clearly understand whether there were increases in the amount of stop‐smoking support provided or increases in the numbers of people making a quit attempt. 
+How reliable are these results? 
+For some of our results the data varied widely, for some there was not enough data, and in some cases there were quality issues with included studies. 
+We are moderately confident that people are more likely to quit smoking if someone in addition to the primary care doctor also provides stop‐smoking counseling, if free stop‐smoking medications are provided, or if printed materials tailored to the participant are provided as part of stop‐smoking support offered in primary care. However, results might change as further evidence becomes available. 
+We are less confident about the effectiveness of providing people with feedback on markers of their individual health risk, giving healthcare providers training on stop‐smoking treatments, or giving healthcare providers rewards for giving stop‐smoking support. These results are likely to change when more evidence becomes available. 

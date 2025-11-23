@@ -1,0 +1,14 @@
+Background
+Abatacept inhibits the co‐stimulation of T cells and disrupts the inflammatory chain of events that leads to joint inflammation, pain, and damage in rheumatoid arthritis. 
+Objectives
+To assess the efficacy and safety of abatacept in reducing disease activity, pain, and improving function in people with rheumatoid arthritis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 1), MEDLINE (from 1966), EMBASE (from 1980), ACP Journal Club (from 2000), and Biosis Previews (from 1990) in March 2007 and December 2008. We contacted authors of included studies and the abatacept manufacturer. 
+Selection criteria
+Randomized controlled trials comparing abatacept alone, or in combination with disease‐modifying anti‐rheumatic drugs (DMARDs) or biologics, to placebo or other DMARDs or biologics in patients with moderate to severe rheumatoid arthritis. 
+Data collection and analysis
+Two authors independently assessed search results and risk of bias, and extracted data. We obtained adverse event data from trials, long‐term extension studies, and regulatory agencies. 
+Main results
+Seven trials with 2908 patients were included. Compared with placebo, patients in the abatacept group were 2.2 times more likely to achieve an ACR 50 response at one year (RR 2.21, 95% confidence interval (CI) 1.73 to 2.82) with a 21% (95% CI 16% to 27%) absolute risk difference between groups. The number needed to treat to achieve an ACR 50 response was 5 (95% CI 4 to 7). Significant improvements in physical function and a reduction in disease activity and pain were found in abatacept‐treated patients compared to placebo. One RCT found abatacept significantly slowed the radiographic progression of joint damage at 12 months compared to placebo, although it is not clear what the clinical relevance of this difference may be. There may be a risk of attrition bias. Total adverse events were greater in the abatacept group (RR 1.05, 95% CI 1.01 to 1.08). Other harm outcomes were not significant with the exception of a greater number of serious infections at 12 months in the abatacept group (Peto odds ratio 1.91 (95% CI 1.07 to 3.42). Serious adverse events were increased when abatacept was given in combination with other biologics (RR 2.30, 95% CI 1.15 to 4.62). 
+Authors' conclusions
+There is moderate‐level evidence that abatacept is efficacious and safe in the treatment of rheumatoid arthritis. Abatacept should not be used in combination with other biologics to treat rheumatoid arthritis. The withdrawal and toxicity profile appears acceptable at the present time but further long‐term studies and post‐marketing surveillance are required to assess harms and sustained efficacy. 

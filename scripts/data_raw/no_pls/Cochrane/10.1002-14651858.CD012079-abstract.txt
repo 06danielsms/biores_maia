@@ -1,0 +1,31 @@
+Background
+A wide variety of grafts have been introduced with the aim of improving the outcomes of traditional native tissue repair (colporrhaphy) for vaginal prolapse. 
+Objectives
+To determine the safety and effectiveness of transvaginal mesh or biological grafts compared to native tissue repair for vaginal prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, ongoing trials registers, and handsearching of journals and conference proceedings (6 July 2015). We also contacted researchers in the field. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing different types of vaginal repair (mesh, biological graft, or native tissue). 
+Data collection and analysis
+Two review authors independently selected trials, assessed risk of bias, and extracted data. The primary outcomes were awareness of prolapse, repeat surgery, and recurrent prolapse on examination. 
+Main results
+We included 37 RCTs (4023 women). The quality of the evidence ranged from very low to moderate. The main limitations were poor reporting of study methods, inconsistency, and imprecision. 
+Permanent mesh versus native tissue repair 
+Awareness of prolapse at one to three years was less likely after mesh repair (risk ratio (RR) 0.66, 95% confidence interval (CI) 0.54 to 0.81, 12 RCTs, n = 1614, I2 = 3%, moderate‐quality evidence). This suggests that if 19% of women are aware of prolapse after native tissue repair, between 10% and 15% will be aware of prolapse after permanent mesh repair. 
+Rates of repeat surgery for prolapse were lower in the mesh group (RR 0.53, 95% CI 0.31 to 0.88, 12 RCTs, n = 1675, I2 = 0%, moderate‐quality evidence). There was no evidence of a difference between the groups in rates of repeat surgery for continence (RR 1.07, 95% CI 0.62 to 1.83, 9 RCTs, n = 1284, I2 = 21%, low‐quality evidence). More women in the mesh group required repeat surgery for the combined outcome of prolapse, stress incontinence, or mesh exposure (RR 2.40, 95% CI 1.51 to 3.81, 7 RCTs, n = 867, I2 = 0%, moderate‐quality evidence). This suggests that if 5% of women require repeat surgery after native tissue repair, between 7% and 18% in the permanent mesh group will do so. Eight per cent of women in the mesh group required repeat surgery for mesh exposure. 
+Recurrent prolapse on examination was less likely after mesh repair (RR 0.40, 95% CI 0.30 to 0.53, 21 RCTs, n = 2494, I2 = 73%, low‐quality evidence). This suggests that if 38% of women have recurrent prolapse after native tissue repair, between 11% and 20% will do so after mesh repair. 
+Permanent mesh was associated with higher rates of de novo stress incontinence (RR 1.39, 95% CI 1.06 to 1.82, 12 RCTs, 1512 women, I2 = 0%, low‐quality evidence) and bladder injury (RR 3.92, 95% CI 1.62 to 9.50, 11 RCTs, n = 1514, I2 = 0%, moderate‐quality evidence). There was no evidence of a difference between the groups in rates of de novo dyspareunia (RR 0.92, 95% CI 0.58 to 1.47, 11 RCTs, n = 764, I2 = 21%, low‐quality evidence). Effects on quality of life were uncertain due to the very low‐quality evidence. 
+Absorbable mesh versus native tissue repair 
+There was very low‐quality evidence for the effectiveness of either form of repair at two years on the rate of awareness of prolapse (RR 1.05, 95% CI 0.77 to 1.44, 1 RCT, n = 54). 
+There was very low‐quality evidence for the effectiveness of either form of repair on the rate of repeat surgery for prolapse (RR 0.47, 95% CI 0.09 to 2.40, 1 RCT, n = 66). 
+Recurrent prolapse on examination was less likely in the mesh group (RR 0.71, 95% CI 0.52 to 0.96, 3 RCTs, n = 292, I2 = 21%, low‐quality evidence) 
+The effect of either form of repair was uncertain for urinary outcomes, dyspareunia, and quality of life. 
+Biological graft versus native tissue repair 
+There was no evidence of a difference between the groups at one to three years for the outcome awareness of prolapse (RR 0.97, 95% CI 0.65 to 1.43, 7 RCTs, n = 777, low‐quality evidence). 
+There was no evidence of a difference between the groups for the outcome repeat surgery for prolapse (RR 1.22, 95% CI 0.61 to 2.44, 5 RCTs, n = 306, I2 = 8%, low‐quality evidence). 
+The effect of either approach was very uncertain for recurrent prolapse (RR 0.94, 95% CI 0.60 to 1.47, 7 RCTs, n = 587, I2 = 59%, very low‐quality evidence). 
+There was no evidence of a difference between the groups for dyspareunia or quality of life outcomes (very low‐quality evidence). 
+Authors' conclusions
+While transvaginal permanent mesh is associated with lower rates of awareness of prolapse, repeat surgery for prolapse, and prolapse on examination than native tissue repair, it is also associated with higher rates of repeat surgery for prolapse or stress urinary incontinence or mesh exposure (as a composite outcome), and with higher rates of bladder injury at surgery and de novo stress urinary incontinence. The risk‐benefit profile means that transvaginal mesh has limited utility in primary surgery. While it is possible that in women with higher risk of recurrence the benefits may outweigh the risks, there is currently no evidence to support this position. 
+Limited evidence suggests that absorbable mesh may reduce rates of recurrent prolapse on examination compared to native tissue repair, but there was insufficient evidence on absorbable mesh for us to draw any conclusions for other outcomes. There was also insufficient evidence for us to draw any conclusions regarding biological grafts compared to native tissue repair. 
+In 2011, many transvaginal permanent meshes were voluntarily withdrawn from the market, and the newer, lightweight transvaginal permanent meshes still available have not been evaluated within a RCT. In the meantime, these newer transvaginal meshes should be utilised under the discretion of the ethics committee. 

@@ -1,0 +1,11 @@
+Helicobacter pylori treatment for the prevention of stomach cancer
+Review question 
+Whether testing healthy people for Helicobacter pylori and treating those infected with a course of antibiotics decreases the number of new cases of gastric cancer. 
+Background 
+Helicobacter pylori (H. pylori) is a bacteria that lives in the lining of the stomach with people usually not aware they are carrying the infection. People with H. pylori infection are more likely to develop gastric cancer than people who are not infected with the bacterium. For this reason, H. pylori is classed as carcinogenic (causing cancer) to humans. Many people worldwide die of gastric cancer every year, because by the time those affected seek the opinion of a doctor, the condition is often advanced. However, H. pylori infection is easily treatable with a one‐week course of antibiotics. 
+Study characteristics 
+A literature search up to 02 Feburary 2020 found seven trials (containing 8323 participants, four trials at low risk of bias). Six of the studies were based in Asia. 
+Key results 
+We found that antibiotics for H. pylori have a small benefit in preventing gastric cancer (68 (1.6%) of 4206 participants given treatment developed gastric cancer subsequently, compared with 125 (3.0%) of 4117 given no treatment or a placebo), and in decreasing the number of deaths from gastric cancer (36 (1.1%) of 3154, compared with 59 (1.9%) of 3147); but it is unclear whether or not they increase or decrease the number of deaths due to any cause, or increase or decrease the number of cases of oesophageal cancer. Data about side effects of treatment were poorly reported. 
+Quality of the evidence 
+Four trials were at low risk of bias, one trial was at unclear risk, and two trials were at high risk of bias. One study was at high risk of bias because no placebo was used for the active eradication therapy regimen, and so this part of the trial was unblinded, and the other study was at high risk of bias due to inconsistencies in data reporting at the two points of follow‐up. We were unable to resolve this discrepancy despite contacting the original authors. As a result, we downgraded the quality of evidence from high to moderate due to serious risk of bias. 

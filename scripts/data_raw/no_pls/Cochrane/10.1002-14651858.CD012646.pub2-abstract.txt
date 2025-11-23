@@ -1,0 +1,14 @@
+Background
+A giant retinal tear (GRT) is a full‐thickness neurosensory retinal break extending for 90° or more in the presence of a posterior vitreous detachment. 
+Objectives
+To evaluate the effectiveness and safety of pars plana vitrectomy combined with scleral buckle versus pars plana vitrectomy alone for eyes with giant retinal tear. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 8), which contains the Cochrane Eyes and Vision Trials Register; Ovid MEDLINE; Embase.com; PubMed; Latin American and Caribbean Literature on Health Sciences (LILACS); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in our electronic search. We last searched the electronic databases on 16 August 2018. 
+Selection criteria
+We included only randomized controlled trials (RCTs) comparing pars plana vitrectomy combined with scleral buckle versus pars plana vitrectomy alone for giant retinal tear regardless of age, gender, lens status (e.g. phakic or pseudophakic eyes) of the affected eye(s), or etiology of GRT among participants enrolled in these trials. 
+Data collection and analysis
+Two review authors independently assessed titles and abstracts, then full‐text articles, using Covidence. Any differences in classification between the two review authors were resolved through discussion. Two review authors independently abstracted data and assessed risk of bias of included trials. 
+Main results
+We found two RCTs in abstract format (105 participants randomized). Neither RCT was published in full. Based on the data presented in the abstracts, scleral buckling might be beneficial (relative risk of re‐attachement ranged from 3.0 to 4.4), but the findings are inconclusive due to a lack of peer reviewed publication and insufficient information for assessing risk of bias. 
+Authors' conclusions
+We found no conclusive evidence from RCTs on which to base clinical recommendations for scleral buckle combined with pars plana vitrectomy for giant retinal tear. RCTs are clearly needed to address this evidence gap. Such trials should be randomized, and patients should be classified by giant retinal tear characteristics (extension (90º, 90º to 180º, > 180º), location (oral, anterior, posterior to equator)), proliferative vitreoretinopathy stage, and endotamponade. Analysis should include both short‐term (three months and six months) and long‐term (one year to two years) outcomes for primary retinal reattachment, mean change in best corrected visual acuity, study eyes that required second surgery for retinal reattachment, and adverse events such as elevation of intraocular pressure above 21 mmHg, choroidal detachment, cystoid macular edema, macular pucker, proliferative vitreoretinopathy, and progression of cataract in initially phakic eyes. 
