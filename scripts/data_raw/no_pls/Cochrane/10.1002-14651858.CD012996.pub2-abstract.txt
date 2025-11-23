@@ -1,0 +1,18 @@
+Background
+Stroke survivors are often physically inactive as well as sedentary,and may sit for long periods of time each day. This increases cardiometabolic risk and has impacts on physical and other functions. Interventions to reduce or interrupt periods of sedentary time, as well as to increase physical activity after stroke, could reduce the risk of secondary cardiovascular events and mortality during life after stroke. 
+Objectives
+To determine whether interventions designed to reduce sedentary behaviour after stroke, or interventions with the potential to do so, can reduce the risk of death or secondary vascular events, modify cardiovascular risk, and reduce sedentary behaviour. 
+Search methods
+In December 2019, we searched the Cochrane Stroke Trials Register, CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO, Conference Proceedings Citation Index, and PEDro. We also searched registers of ongoing trials, screened reference lists, and contacted experts in the field. 
+Selection criteria
+Randomised trials comparing interventions to reduce sedentary time with usual care, no intervention, or waiting‐list control, attention control, sham intervention or adjunct intervention. We also included interventions intended to fragment or interrupt periods of sedentary behaviour. 
+Data collection and analysis
+Two review authors independently selected studies and performed 'Risk of bias' assessments. We analyzed data using random‐effects meta‐analyses and assessed the certainty of the evidence with the GRADE approach. 
+Main results
+We included 10 studies with 753 people with stroke. Five studies used physical activity interventions, four studies used a multicomponent lifestyle intervention, and one study used an intervention to reduce and interrupt sedentary behaviour. In all studies, the risk of bias was high or unclear in two or more domains. Nine studies had high risk of bias in at least one domain. 
+The interventions did not increase or reduce deaths (risk difference (RD) 0.00, 95% confidence interval (CI) ‐0.02 to 0.03; 10 studies, 753 participants; low‐certainty evidence), the incidence of recurrent cardiovascular or cerebrovascular events (RD ‐0.01, 95% CI ‐0.04 to 0.01; 10 studies, 753 participants; low‐certainty evidence), the incidence of falls (and injuries) (RD 0.00, 95% CI ‐0.02 to 0.02; 10 studies, 753 participants; low‐certainty evidence), or incidence of other adverse events (moderate‐certainty evidence). 
+Interventions did not increase or reduce the amount of sedentary behaviour time (mean difference (MD) +0.13 hours/day, 95% CI ‐0.42 to 0.68; 7 studies, 300 participants; very low‐certainty evidence). There were too few data to examine effects on patterns of sedentary behaviour. 
+The effect of interventions on cardiometabolic risk factors allowed very limited meta‐analysis.
+Authors' conclusions
+Sedentary behaviour research in stroke seems important, yet the evidence is currently incomplete, and we found no evidence for beneficial effects. Current World Health Organization (WHO) guidelines recommend reducing the amount of sedentary time in people with disabilities, in general. The evidence is currently not strong enough to guide practice on how best to reduce sedentariness specifically in people with stroke. 
+More high‐quality randomised trials are needed, particularly involving participants with mobility limitations. Trials should include longer‐term interventions specifically targeted at reducing time spent sedentary, risk factor outcomes, objective measures of sedentary behaviour (and physical activity), and long‐term follow‐up. 

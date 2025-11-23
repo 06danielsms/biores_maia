@@ -1,0 +1,15 @@
+Background
+Idiopathic thrombocytopenic purpura (ITP) is a common hematologic disorder caused by immune‐mediated thrombocytopenia. The magnitude of the maternal‐fetal risk of ITP during pregnancy is controversial. Labour management of pregnant women with ITP remains controversial. Management of ITP during pregnancy is complex because of the disparity between maternal and fetal platelet counts. 
+Objectives
+To assess the effectiveness and safety of corticosteroids, intravenous immunoglobulin, vinca alkaloids, danazol, dapsone, and any other types of pharmacological treatments for the treatment of idiopathic thrombocytopenic purpura during pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (February 2009), LILACS (1982 to 8 February 2009), ClinicalTrials.gov (8 February 2009), Current Controlled Trials (16 February 2009), Google Scholar (16 February 2009) and ongoing and unpublished trials cited in the reference lists of relevant articles. 
+Selection criteria
+Randomised controlled trials (RCTs) on any medical treatments for idiopathic thrombocytopenia purpura during pregnancy. 
+Data collection and analysis
+Two review authors independently evaluated methodological quality and extracted trial data. Any disagreement was resolved by discussion or by consulting a third review author. 
+Main results
+This review included one RCT in which 38 women (41 pregnancies) were randomised, with only 26 women (28 pregnancies) being analysed. 
+This RCT comparing the effect of betamethasone (1.5 mg/day) with no medication found no statistically significant difference in neonatal thrombocytopenia (risk ratio (RR) 1.12, 95% confidence interval (CI) 0.62 to 2.05) and neonatal bleeding (RR 1.00, 95% CI 0.24 to 4.13). Review authors conducted an intention‐to‐treat analysis which showed similar findings: RR 1.18, 95% CI 0.57 to 2.45 and RR 1.05, 95% CI 0.24 to 4.61, respectively. Maternal death, perinatal mortality, postpartum haemorrhage and neonatal intracranial haemorrhage were not studied by this RCT. 
+Authors' conclusions
+Current evidence indicates that compared to no medication, betamethasone did not reduce the risk of neonatal thrombocytopenia and neonatal bleeding in ITP during pregnancy. There is insufficient evidence to support the use of betamethasone for treating ITP. This Cohrane review does not provide evidence about other medical treatments for ITP during pregnancy. This systematic review also identifies the need for well‐designed, adequately powered randomised clinical trials for this medical condition during pregnancy. Unless randomised clinical trials provide evidence of a treatment effect and the trade off between potential benefits and harms are established, policy‐makers, clinicians, and academics should not use betamethasone for ITP in pregnant women. Any future trials on medical treatments for treating ITP during pregnancy should test a variety of important maternal, neonatal or both outcome measures, including maternal death, perinatal mortality, postpartum haemorrhage and neonatal intracranial haemorrhage. 

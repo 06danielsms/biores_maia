@@ -1,0 +1,48 @@
+What is Sasanlimab?
+Sasanlimab (sah-SAN-lih-mab) is a new experimental drug for cancer treatment that is currently not approved for sale or for use outside of a clinical trial. Sasanlimab is a type of medicine called an "antibody". Antibodies are special proteins made by the immune system that recognize and stick to specific proteins on the surface of germs or cells. Sasanlimab recognizes a protein called "PD-1" that is located on your immune cells. Sasanlimab blocks PD-1 from interacting with another protein, "PD-L1", located on the surface of tumors. Blocking this interaction may help the immune system slow or stop the growth of cancer cells.
+What was the purpose of this study?
+This study was divided into 2 parts. The main purpose of Part 1 of this study was to learn about the safety of sasanlimab, and to find the best dose of sasanlimab to use to treat cancer in Phase 2 trials. To do this, the researchers asked,
+-What medical problems did participants have while taking sasanlimab?
+-What dose-limiting toxicities (DLTs) did participants have when taking sasanlimab?
+DLTs are certain medical problems caused by taking sasanlimab, which require the patient to lower the dose or stop taking the medicine temporarily or permanently. These medical problems could also stop the use of the drug at that dosage in all patients.
+The main purpose of Part 2 of this study was to learn more about the safety of sasanlimab, and to measure if any of the patients' cancer got better during the study. To do this, the researchers asked,
+-What medical problems did participants have while taking sasanlimab?
+-How many participants had their cancer get better when taking sasanlimab?
+090177e197524173\Approved\Approved On: 16-Jun-2021 18:36 (GMT)
+How was the study done?
+
+During Part 1, researchers tested different doses of sasanlimab on a group of participants with solid tumors to learn about the safety of sasanlimab and find the best dose of sasanlimab to treat cancer in future trials. Participants were given sasanlimab either by infusion into a vein (intravenously, or “IV”) at a dose of 0.5 to 10 mg/kg of body weight every 21 days, or 300 mg of sasanlimab by injection under the skin (subcutaneously, or “SC”) every 28 days.
+
+During Part 2, researchers tested a group of participants with either non-small cell lung cancer (“NSCLC”) or cancer of the lining of the urinary tract (urothelial cancer, or “UC”) to learn more about the safety of sasanlimab. They also measured the size of the participants’ tumors to see if their cancer got better or worse during treatment. Participants were given 300 mg of sasanlimab SC every 28 days.
+
+This study was “open-label”, meaning that the doctors and participants knew what treatment they were being given. The study design is shown in the graphics on the next page. Researchers wanted to know:
+
+- What medical problems did patients have while taking sasanlimab? 
+- What dose-limiting toxicities (DLTs) did patients have when taking sasanlimab in Part 1 of the study? 
+- How many patients had their cancer get better when taking sasanlimab in Part 2 of the study?
+
+Where did this study take place?
+
+The Sponsor ran this study at 55 locations in 8 countries in Europe, Asia, and North America.
+
+When did this study take place?
+
+It began on 10 February 2016 and ended on 19 November 2020.
+
+Who participated in this study?
+
+Part 1 of the study included adult participants who were diagnosed with certain types of solid tumors of the skin, head and neck, ovaries, connective tissues, lungs, or lining of the urinary tract that was locally advanced (the cancer had grown outside of the organ it had started in but had not yet spread to distant parts of the body) or metastatic (spread to distant parts of the body).
+
+Part 2 of the study included adult participants who were diagnosed with either non-small cell lung cancer (NSCLC) or urothelial carcinoma (UC) that was locally advanced or metastatic (spread to other parts of the body).
+
+A total of 12 men participated in Part 1 and 78 men participated in Part 2.
+A total of 28 women each participated in Part 1 and Part 2.
+All participants were between the ages of 26 and 88.
+
+Of the 40 participants who started Part 1 of the study and received sasanlimab, 1 finished treatment and 6 finished the study. Of the 106 participants who started Part 2 of the study and received sasanlimab, 10 finished treatment and 15 finished the study. The most common reason for participants stopping treatment during Part 1 or Part 2 was because their cancer got worse, and the most common reason for leaving the study was because the participant passed away.
+
+How long did the study last?
+
+Study participants received an average of 12 cycles of treatment in Part 1 of the study, and 9 cycles of treatment in Part 2 of the study. The entire study took 4 years and 9 months to complete.
+
+When the study ended in November 2020, the Sponsor reviewed the information collected. The Sponsor then created a report of the results. This is a summary of that report.

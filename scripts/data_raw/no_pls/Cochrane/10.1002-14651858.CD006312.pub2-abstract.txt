@@ -1,0 +1,14 @@
+Background
+Anaphylaxis is a serious hypersensitivity reaction that is rapid in onset and may cause death. Adrenaline is recommended as the initial treatment of choice for anaphylaxis. 
+Objectives
+To assess the benefits and harms of adrenaline (epinephrine) in the treatment of anaphylaxis.
+Search methods
+In the previous version of our review, we searched the databases until March 2007. In this version we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 11), MEDLINE (1966 to November 2010), EMBASE (1966 to November 2010), CINAHL (1982 to November 2010), BIOSIS (to November 2010), ISI Web of Knowledge (to November 2010 and LILACS (1982 to November 2010). We also searched websites listing ongoing trials and contacted pharmaceutical companies and international experts in anaphylaxis in an attempt to locate unpublished material. 
+Selection criteria
+We included randomized and quasi‐randomized controlled trials comparing adrenaline with no intervention, placebo or other adrenergic agonists were eligible for inclusion. 
+Data collection and analysis
+Two authors independently assessed articles for inclusion.
+Main results
+We found no studies that satisfied the inclusion criteria.
+Authors' conclusions
+Based on this review, we are unable to make any new recommendations on the use of adrenaline for the treatment of anaphylaxis. Although there is a need for randomized, double‐blind, placebo‐controlled clinical trials of high methodological quality in order to define the true extent of benefits from the administration of adrenaline in anaphylaxis, such trials are unlikely to be performed in individuals with anaphylaxis. Indeed, they might be unethical because prompt treatment with adrenaline is deemed to be critically important for survival in anaphylaxis. Also, such studies would be difficult to conduct because anaphylactic episodes usually occur without warning, often in a non‐medical setting, and differ in severity both among individuals and from one episode to another in the same individual. Consequently, obtaining baseline measurements and frequent timed measurements might be difficult, or impossible, to obtain. In the absence of appropriate trials, we recommend, albeit on the basis of less than optimal evidence, that adrenaline administration by intramuscular (i.m.) injection should still be regarded as first‐line treatment for the management of anaphylaxis. 

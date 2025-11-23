@@ -1,0 +1,34 @@
+Adult patient access to electronic health records
+Do patients manage their healthcare better if they can access their electronic health records?                          
+What are electronic health records? 
+Healthcare providers maintain health‐related information about a patient in an electronic health record, which is held in a digital form and is accessed by a computer. Healthcare professionals use these records to access all health‐related information for a patient's care, whenever and wherever they need it. Information may include a person's medical history, medicines, allergies, test results, and immunisation history. 
+Some healthcare providers let patients see their own electronic health records, usually by giving them web‐based access. Patients may also be offered other web‐based services, such as health‐related reminders, secure messaging, and general educational health information.  
+Why we did this Cochrane Review 
+Access to electronic health records might encourage patients to talk with a healthcare professional about their health and potential treatments, and might help them to take part in decision‐making. We wanted to find out whether access to electronic health records benefits patients or causes any potentially unwanted effects.  
+What did we do? 
+We searched for studies that looked at patients’ access to electronic health records. We also looked for studies where access came with extra services. We were interested in changes in: 
+1. how much patients knew, and understood, about their healthcare;2. whether patients felt more in control of their care (empowerment);3. taking medicines, or keeping up with monitoring (prevention) programmes;4. patients' satisfaction with their care;5. how patients rated their well‐being (quality of life);6. patients' health;7. patients' levels of anxiety, worry, or depression;8. how often patients used healthcare services (numbers of phone calls or visits);9. communication between patients and their healthcare providers; and10. whether patients experienced any unwanted effects. 
+Search date: we included evidence published from 2000 up to April 2020. 
+What we found 
+We found 10 relevant studies, published between 2000 and 2016, that enrolled from 78 to 4500 adults. These studies took place in the USA (seven studies), Canada (two), and Japan (one). Five studies were conducted in doctors' offices and five in hospital clinics. People taking part in the studies were followed up for three months to two years. Two studies were funded in part by pharmaceutical companies. 
+The studies focused on patients with type 2 diabetes (five studies), asthma (one study), glaucoma (one study), congestive heart failure (one study), and hypertension (one study); one study focused on patients who visited their doctor for any reason.  
+Studies compared usual care plus access to electronic health records against usual care alone. In nine studies, access to electronic health records came with extra services. 
+We could not combine study results because of differences in how studies were conducted, types of patients enrolled, and how results were measured, so we had to evaluate them separately. 
+What are the main results of our review? 
+Compared with usual care, we are uncertain whether access to electronic health records affected: 
+1. patients' knowledge and understanding of diabetes and of blood glucose testing (evidence from one study in 379 patients with diabetes); or 
+2. how often patients communicated with their healthcare provider (one study in 107 patients).
+Compared with usual care, access to electronic health records may make little to no difference in: 
+1. patients feeling empowered (three studies; 601 patients) or satisfied with their care (three studies; 903 patients); or 
+2. how many patients died or reported serious unwanted effects (two studies; 486 patients).
+Four studies (in 5466 patients) looked at how well patients kept up with monitoring programmes and continued to take their medicines. Although access to electronic health records may slightly improve keeping up with monitoring programmes, studies assessing how patients continued to take their medications showed different results, so we are unclear about effects of the intervention. 
+Accessing electronic health records may not have affected how often patients used healthcare services (three studies). 
+No studies reported on any unwanted effects nor on whether access to health records may have affected patients' anxiety, worry, or depression. 
+How confident are we about our results? 
+We are not confident in our results because of the small number of studies found. Our search may have missed some relevant studies because of differences in terms used for electronic health records. In addition, we identified limitations in the ways most studies were designed or conducted. Further evidence is likely to change our results.  
+Key messages 
+Access to electronic health records (and extra services) may provide little to no benefit for patients' feelings of empowerment or satisfaction, nor for risk factors for diabetes, cardiovascular disease, and high pressure inside the eye (a risk factor for glaucoma). Such access may slightly increase how many patients keep up with monitoring for risk factors. 
+Future studies should use up‐to‐date technologies such as mobile devices to find out:
+1. effects of access to electronic health records;
+2. for which groups of patients access is most suitable; and
+3. which extra services should be included.

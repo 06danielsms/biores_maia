@@ -1,0 +1,16 @@
+Background
+Caffeine has a variety of pharmacological effects; it is a weak bronchodilator and it also reduces respiratory muscle fatigue. It is chemically related to the drug theophylline which is used to treat asthma. It has been suggested that caffeine may reduce asthma symptoms and interest has been expressed in its potential role as an asthma treatment. A number of studies have explored the effects of caffeine in asthma; this is the first review to systematically examine and summarise the evidence. 
+Objectives
+To assess the effects of caffeine on lung function and identify whether there is a need to control for caffeine consumption prior to either lung function or exhaled nitric oxide testing. 
+Search methods
+We searched the Cochrane Airways Group trials register and the reference lists of articles (August 2011), an updated search in June 2011 yielded one potentially relevant article which has been added to 'studies awaiting classification'. We also contacted study authors. 
+Selection criteria
+We included randomised trials (RCTs) of oral caffeine compared to placebo or coffee compared to decaffeinated coffee in adults with asthma. 
+Data collection and analysis
+Two review authors independently carried out trial selection, quality assessment and data extraction. 
+Main results
+We included seven trials involving a total of 75 people with mild to moderate asthma. The studies were all of cross‐over design. 
+Six trials involving 55 people showed that in comparison with placebo, caffeine, even at a 'low dose' (less than 5 mg/kg body weight), appears to improve lung function for up to two hours after consumption. Forced expiratory volume in one second (FEV1) showed a small improvement up to two hours after caffeine ingestion (standardised mean difference 0.72; 95% confidence interval 0.25 to 1.20), which translates into a 5% mean difference in FEV1. However in two studies the mean differences in FEV1 were 12% and 18% after caffeine. Mid‐expiratory flow rates also showed a small improvement with caffeine and this was sustained up to four hours. 
+One trial involving 20 people examined the effect of drinking coffee versus a decaffeinated variety on the exhaled nitric oxide levels in patients with asthma and concluded that there was no significant effect on this outcome. 
+Authors' conclusions
+Caffeine appears to improve airways function modestly, for up to four hours, in people with asthma. People may need to avoid caffeine for at least four hours prior to lung function testing, as caffeine ingestion could cause misinterpretation of the results. Drinking caffeinated coffee before taking exhaled nitric oxide measurements does not appear to affect the results of the test, but more studies are needed to confirm this. 

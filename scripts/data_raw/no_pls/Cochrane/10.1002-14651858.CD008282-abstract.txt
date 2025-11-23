@@ -1,0 +1,16 @@
+Background
+Adenoidectomy, surgical removal of the adenoids, is a common ENT operation worldwide in children with recurrent or chronic nasal symptoms. A systematic review on the effectiveness of adenoidectomy in this specific group has not previously been performed. 
+Objectives
+To assess the effectiveness of adenoidectomy versus non‐surgical management in children with recurrent or chronic nasal symptoms. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 30 March 2009. 
+Selection criteria
+Randomised controlled trials comparing adenoidectomy, with or without tympanostomy tubes, versus non‐surgical management or tympanostomy tubes alone in children with recurrent or chronic nasal symptoms. The primary outcome studied was the number of episodes, days per episode and per year with nasal symptoms and the proportion of children with recurrent episodes of nasal symptoms. Secondary outcomes were mean number of episodes, mean number of days per episode and per year, and proportion of children with nasal obstruction alone. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data independently.
+Main results
+Only one study included children scheduled for adenoidectomy because of recurrent or chronic nasal symptoms or middle ear disease. In this study no beneficial effect of adenoidectomy was found. The numbers in this study were, however, small (n = 76) and the quality of the study was moderate. The outcome was improvement in episodes of common colds. The risk differences were non‐significant, being 2% (95% CI ‐18% to 22%) and ‐11% (95% CI ‐28% to 7%) after 12 and 24 months, respectively. 
+A second study included children with recurrent acute otitis media (n = 180). As otitis media is known to be associated with nasal symptoms, the number of days with rhinitis was studied as a secondary outcome measure. The risk difference was non‐significant, being ‐4 days (95% CI ‐13 to 7 days). 
+Authors' conclusions
+Current evidence regarding the effect of adenoidectomy on recurrent or chronic nasal symptoms or nasal obstruction alone is sparse, inconclusive and has a significant risk of bias. 
+High quality trials assessing the effectiveness of adenoidectomy in children with recurrent or chronic nasal symptoms should be initiated. 

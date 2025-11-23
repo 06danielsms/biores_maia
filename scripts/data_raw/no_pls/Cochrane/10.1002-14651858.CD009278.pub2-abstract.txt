@@ -1,0 +1,17 @@
+Background
+Historically, oestrogen and progesterone were each commonly used to save threatened pregnancies. In the 1940s it was postulated that their combined use would be synergistic and thereby led to the rationale of combined therapy for women who risked miscarriage. 
+Objectives
+To determine the efficacy and safety of combined oestrogen and progesterone therapy to prevent miscarriage. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (23 June 2013) CENTRAL (OVID) (The Cochrane Library 2013, Issue 6 of 12), MEDLINE (OVID) (1946 to June Week 2 2013), OLDMEDLINE (1946 to 1965), Embase (1974 to Week 25 2013), Embase Classic (1947 to 1973), CINAHL (1994 to 23 June 2013) and reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials that assessed the effectiveness of combined oestrogen and progesterone for preventing miscarriage. We included one stratified randomised trial and one quasi‐randomised trials. Cluster‐randomised trials were eligible for inclusion but none were identified. We excluded studies published only as abstracts. 
+We included studies that compared oestrogen and progesterone versus placebo or no intervention. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and assessed trial quality. Two review authors extracted data. Data were checked for accuracy. 
+Main results
+Two trials (281 pregnancies and 282 fetuses) met our inclusion criteria. However, the two trials had significant clinical and methodological heterogeneity such that a meta‐analysis combining trial data was considered inappropriate. 
+One trial (involving 161 pregnancies) was based on women with a history of diabetes. It showed no statistically significant difference between using combined oestrogen and progestogen and using placebo for all our proposed primary outcomes, namely, miscarriage (risk ratio (RR) 0.95, 95% confidence interval (CI) 0.32 to 2.80), perinatal death (RR 0.94, 95% CI 0.53 to 1.69) and preterm birth (less than 34 weeks of gestation) (RR 0.91, 95% CI 0.80 to 1.04). In terms of this review's secondary outcomes, use of combined oestrogen and progestogen was associated with an increased risk of maternal cancer in the reproductive system (RR 6.65, 95% CI 1.56 to 28.29). However, for the outcome of cancer other than that of the reproductive system in mothers, there was no difference between groups. Similarly, there were no differences between the combined oestrogen and progestogen group versus placebo for other secondary outcomes reported: low birthweight of less than 2500 g, genital abnormalities in the offspring, abnormalities other than genital tract in the offspring, cancer in the reproductive system in the offspring, or cancer other than of the reproductive system in the offspring. 
+The second study was based on pregnant women who had undergone in‐vitro fertilisation (IVF). This study showed no difference in the rate of miscarriage between the combined oestrogen and progesterone group and the no treatment group (RR 0.66, 95% CI 0.23 to 1.85). The study did not report on this review's other primary outcomes (perinatal death or rates of preterm birth), nor on any of our proposed secondary outcomes. 
+Authors' conclusions
+There is an insufficient evidence from randomised controlled trials to assess the use of combined oestrogen and progesterone for preventing miscarriages. We strongly recommend further research in this area. 

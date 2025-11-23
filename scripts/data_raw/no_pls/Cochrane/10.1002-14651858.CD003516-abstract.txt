@@ -1,0 +1,15 @@
+Background
+It is customary for fluids and/or food to be withheld for a period of time after abdominal operations. After caesarean section, practices vary considerably. These discrepancies raise concern as to the bases of different practices. 
+Objectives
+To assess the effect of early versus delayed introduction of fluids and/or food after caesarean section. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group trials register (January 2002) and the Cochrane Controlled Trials Register (The Cochrane Library, Issue 4, 2001). 
+Selection criteria
+Clinical trials with random allocation comparing early versus delayed oral fluids and/or food after caesarean section were considered. The participants were women within the first 24 hours after caesarean section. The criteria for 'early' feeding were as defined by the individual trial authors ‐ usually within six to eight hours of surgery. 
+Data collection and analysis
+Trials considered were evaluated for methodological quality and appropriateness for inclusion. For dichotomous data, relative risks and 95% confidence intervals were calculated. Continuous data were compared using weighted mean difference and 95% confidence interval. Sub‐group analyses were performed for general anaesthesia, regional analgesia and where anaesthesia was mixed or undefined. 
+Main results
+Of 12 studies considered, six were included in this review. Four were excluded and two are pending further information. The methodological quality of the studies was variable. Only one to three studies contributed usable data to each outcome. Three studies were limited to surgery under regional analgesia, while three included both regional analgesia and general anaesthesia. 
+Early oral fluids or food were associated with: reduced time to first food intake (one study, 118 women; the intervention was a slush diet and food was introduced according to clinical parameters; weighted mean difference ‐7.20 hours, 95% confidence interval ‐13.26 to ‐1.14); reduced time to return of bowel sounds (one study, 118 women; ‐4.30 hours, ‐6.78 to ‐1.82); reduced postoperative hospital stay following surgery under regional analgesia (two studies, 220 women; ‐0.75 days, ‐1.37 to ‐0.12 ‐ random effects model); and a trend to reduced abdominal distension (three studies, 369 women; relative risk 0.78, 95% confidence interval 0.55 to 1.11). No significant differences were identified with respect to nausea, vomiting, time to bowel action/ passing flatus, paralytic ileus and number of analgesic doses. 
+Authors' conclusions
+There was no evidence from the limited randomised trials reviewed, to justify a policy of withholding oral fluids after uncomplicatedcaesarean section. Further research is justified. 

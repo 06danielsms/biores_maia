@@ -1,0 +1,25 @@
+Medicines for preventing post‐traumatic stress disorder (PTSD)
+Why is this review important? 
+Post‐traumatic stress disorder (PTSD) is a severe and disabling condition which may develop in people exposed to traumatic events. Such events can have long‐lasting negative repercussions on the lives of those who have experienced them, as well as on the lives of loved ones. 
+Research has shown that there are some alterations in how the brain works in people with PTSD. Some researchers have thus proposed using medicines to target these alterations soon after a traumatic event, as a way to prevent the development of PTSD. However, the majority of people who experience a traumatic event will not develop PTSD. Therefore, medicines that can be given soon after exposure to a traumatic event must be carefully evaluated for their effectiveness, including balancing the risk of side effects against the risk of developing PTSD. 
+Who will be interested? 
+‐ People exposed to traumatic events and their family, friends, and loved ones
+‐ Professionals working in mental health 
+‐ Professionals working in traumatology and emergency medicine
+‐ People caring for victims of traumatic experiences and veterans of the armed forces
+What questions did this review try to answer? 
+For people exposed to a traumatic event, whether or not they have psychological symptoms, are some medicines more effective than other medicines or placebo (dummy pills) in: 
+‐ reducing the severity of symptoms of PTSD?
+‐ reducing the number of people stopping the medication because of side effects?
+‐ reducing the probability of developing PTSD?
+Which studies were included? 
+We searched scientific databases for studies in which participants were randomly assigned to a medicine with the aim of preventing PTSD and its symptoms or reducing severity. We included studies published up until November 2020. We selected studies in adults who had experienced any kind of traumatic event, and which provided treatment, regardless of whether or not the participants had psychological symptoms. 
+We included 13 studies, with a total of 2023 participants. One study alone contributed 1244 participants. The studies took place in different settings and involved people exposed to a wide range of traumatic events. Some studies took place in emergency departments and considered people whose trauma resulted from intentional harm or unintentional harm. Other studies focused on life‐threatening illness as the source of trauma, including major surgeries or being admitted to intensive care units. The medicines most commonly given to participants in the studies included: hydrocortisone (which reduces the body's immune response), propranolol (used to treat heart problems and anxiety, amongst other conditions), and gabapentin (a medicine primarily used to treat seizures and nerve pain). 
+What did the evidence tell us? 
+We found four trials comparing hydrocortisone to placebo. These trials did not report how participants were doing at three months after a traumatic event, a time point that is usually useful to assess the evolution of PTSD symptoms. 
+We found very low‐certainty evidence about propranolol compared to placebo three months after a traumatic event. This evidence does not tell us whether or not propranolol is more effective than placebo in reducing the severity of PTSD symptoms and the probability of developing PTSD. We did not find evidence on the probability of people stopping the medication because of side effects, quality of life, or functional disability (a measure of how much one’s life is limited by symptoms). 
+We found very low‐certainty evidence about gabapentin compared to placebo three months after a traumatic event. This evidence does not tell us whether or not gabapentin is more effective than placebo in reducing the severity of PTSD symptoms and the probability of developing PTSD. We did not find evidence on the probability of people stopping the medication because of side effects, quality of life, or functional disability. 
+We found studies on additional medicines, for which information about the reduction of PTSD severity and the probability of people stopping the medication was either inconclusive or missing. 
+None of the included studies measured the functional disability of participants.
+What should happen next? 
+The evidence we found does not support the use of any medicines for the prevention of PTSD in people exposed to a traumatic event, regardless of whether or not they have psychological symptoms. More higher quality studies involving more people are needed to draw conclusions about these treatments. 

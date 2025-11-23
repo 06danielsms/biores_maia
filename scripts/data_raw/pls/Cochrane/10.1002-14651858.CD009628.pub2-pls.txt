@@ -1,0 +1,18 @@
+How accurate is magnetic resonance imaging for the early diagnosis of dementia due to Alzheimer's disease in people with mild cognitive impairment? 
+Why is improving Alzheimer's disease diagnosis important? 
+Cognitive impairment is when people have problems remembering, learning, concentrating and making decisions. People with mild cognitive impairment (MCI) generally have more memory problems than other people of their age, but these problems are not severe enough to be classified as dementia. Studies have shown that people with MCI and loss of memory are more likely to develop Alzheimer's disease dementia (approximately 10% to 15% of cases per year) than people without MCI (1% to 2% per year). Currently, the only reliable way of diagnosing Alzheimer's disease dementia is to follow people with MCI and assess cognitive changes over the years. Magnetic resonance imaging (MRI) may detect changes in the brain structures that indicate the beginning of Alzheimer's disease. Early diagnosis of MCI due to Alzheimer's disease is important because people with MCI could benefit from early treatment to prevent or delay cognitive decline. 
+What was the aim of this review? 
+To assess the diagnostic accuracy of MRI for the early diagnosis of dementia due to Alzheimer's disease in people with MCI. 
+What was studied in the review? 
+The volume of several brain regions was measured with MRI. Most studies (22 studies, 2209 participants) measured the volume of the hippocampus, a region of the brain that is associated primarily with memory. 
+What are the main results in this review? 
+Thirty‐three studies were eligible, in which 3935 participants with MCI were included and followed up for two or three years to see if they developed Alzheimer's disease dementia. About a third of them converted to Alzheimer's disease dementia, and the others did not or developed other types of dementia. 
+We found that MRI is not accurate enough to identify people with MCI who will develop dementia due to Alzheimer's disease. The correct prediction of Alzheimer's disease would be missed in 81 out of 300 people with MCI (false negatives) and a wrong prediction of Alzheimer's disease would be made in 203 out of 700 people with MCI (false positives). As a result, people with a false‐negative diagnosis would be falsely reassured and would not prepare themselves to cope with Alzheimer's disease, while those with a false‐positive diagnosis would suffer from the wrongly anticipated diagnosis. 
+How reliable are the results of the studies? 
+The included studies diagnosed Alzheimer's disease dementia by assessing all participants with standard clinical criteria after two or three years' follow‐up. We had some concerns about how the studies were conducted, since the participants were mainly selected from clinical registries and referral centres, and we also had concerns about how studies interpreted MRI. Moreover, the studies were conducted differently from each other, and they used different methods to select people with MCI and perform MRI. 
+Who do the results of this review apply to? 
+The results do not apply to people with MCI in the community, but only to people with MCI who attend memory clinics or referral centres. 
+What are the implications of this review? 
+MRI, as a single test, is not accurate for the early diagnosis of dementia due to Alzheimer's disease in people with MCI since one in three or four participants received a wrong diagnosis of Alzheimer's disease. Future research should not focus on a single test (such as MRI), but rather on combinations of tests to improve an early diagnosis of Alzheimer's disease dementia. 
+How up to date is this review? 
+This evidence is up to date to 29 January 2019.

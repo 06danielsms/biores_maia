@@ -1,0 +1,15 @@
+Background
+The incidence of chorioamnionitis occurs in between eight and 12 women for every 1000 live births and 96% of cases of chorioamnionitis are due to ascending infection. Following spontaneous vaginal delivery, 1% to 4% of women develop postpartum endometritis. The incidence of neonatal sepsis is 0.5% to 1% of all infants born. Maternal vaginal bacteria are the main agents for these infections. It is reasonable to speculate that prevention of maternal and neonatal infections might be possible by washing the vagina and cervix with an antibacterial agent for all women during labour. Chlorhexidine belongs to the class of compounds known as the bis‐biguanides. Chlorhexidine has antibacterial action against a wide range of aerobic and anaerobic bacteria, including those implicated in peripartal infections. 
+Objectives
+To evaluate the effectiveness and side effects of chlorhexidine vaginal douching during labour in reducing maternal and neonatal infections (excluding group B streptococcal and HIV). 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 June 2014), reference lists of retrieved reports and journal letters and editorials. 
+Selection criteria
+Randomized or quasi‐randomized trials comparing chlorhexidine vaginal douching during labour with placebo or other vaginal disinfectant to prevent (reduce) maternal and neonatal infections (excluding group B streptococcal and HIV). 
+Data collection and analysis
+Two review authors independently assessed trial eligibility and quality, extracted and interpreted the data. A third review author analyzed and interpreted the data. The fourth author also interpreted the data. 
+Main results
+We included three studies (3012 participants). There was no evidence of an effect of vaginal chlorhexidine during labour in preventing maternal and neonatal infections. Although the data suggest a trend in reducing postpartum endometritis, the difference was not statistically significant (three trials, 3012 women, risk ratio 0.83; 95% confidence interval 0.61 to 1.13). 
+Assessment of the quality of the evidence using GRADE indicated that the levels of evidence for all primary outcomes and one important secondary outcome were low to moderate. 
+Authors' conclusions
+There is no evidence to support the use of vaginal chlorhexidine during labour in preventing maternal and neonatal infections. There is a need for a well‐designed randomized controlled trial using appropriate concentration and volume of vaginal chlorhexidine irrigation solution and with adequate sample size. 

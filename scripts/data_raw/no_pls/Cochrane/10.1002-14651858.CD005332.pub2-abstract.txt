@@ -1,0 +1,14 @@
+Background
+Body dysmorphic disorder (BDD) is a prevalent and disabling preoccupation with a slight or imagined defect in appearance. Trials have investigated the use of serotonin reuptake inhibitors (SRIs) and cognitive behaviour therapy (CBT) for BDD. 
+Objectives
+To assess the efficacy of pharmacotherapy, psychotherapy or a combination of both treatment modalities for body dysmorphic disorder. 
+Search methods
+We searched the Cochrane Depression, Anxiety and Neurosis Trial Register (December 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 4, 2007), MEDLINE (January 1966 to December 2007), and PsycINFO (1967 to December 2007). Ongoing and unpublished trials were located through searching the metaRegister of Controlled Trials, the CRISP and WHO ICTRP search portals (databases searched in December 2007), and through contacting key researchers and pharmaceutical companies. Additional studies were located through study reference lists. 
+Selection criteria
+Randomised controlled trials (RCTs) of patients meeting DSM or ICD diagnostic criteria for BDD, in which the trials compare pharmacotherapy, psychotherapy or multi‐modal treatment groups with active or non‐active control groups. Short or long‐term trials were eligible. 
+Data collection and analysis
+Two review authors independently assessed RCTs for inclusion in the review, collated trial data, and assessed trial quality. Investigators were contacted to obtain missing data. Summary effect sizes for dichotomous and continuous outcomes were calculated using a random effects model and heterogeneity was assessed. 
+Main results
+Two pharmacotherapy and three psychotherapy trials were eligible for inclusion in the review, with data from four short‐term RCTs (169 participants) available for analysis. Response data from a single placebo‐controlled trial of fluoxetine suggested overall superiority of medication relative to placebo (relative risk (RR) 3.07, 95% CI 1.4 to 6.72, n = 67). Symptom severity was also significantly reduced in the RCTs of fluoxetine and clomipramine (relative to desipramine), as well as in the two CBT trials (WMD ‐44.96, 95% CI ‐54.43 to ‐35.49, n = 73). A low relapse rate (4/22) was demonstrated in one trial of CBT. 
+Authors' conclusions
+Results from the small number of available RCTs suggest that SRIs and CBT may be useful in treating patients with BDD. The findings of these studies need to be replicated. In addition, future controlled studies in other samples, such as adolescents, and using other selective SRIs, as well as a range of psychological therapy approaches and modalities (alone and in combination), are essential in supplementing the sparse data currently available. 

@@ -1,0 +1,15 @@
+Background
+Haemophilia is a genetic disorder characterized by spontaneous or provoked, often uncontrolled, bleeding into joints, muscles and other soft tissues. Current methods of treatment are expensive, challenging and involve regular administration of clotting factors. Gene therapy for haemophilia is a curative treatment modality currently under investigation. This is an update of a published Cochrane Review. 
+Objectives
+To evaluate the safety and efficacy of gene therapy for treating people with haemophilia A or B. 
+Search methods
+We searched the Cochrane Cystic Fibrosis & Genetic Disorders Group's Coagulopathies Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles and reviews. 
+Date of last search: 17 April 2020.
+Selection criteria
+Eligible trials include randomised or quasi‐randomised clinical trials, including controlled clinical trials comparing gene therapy (with or without standard treatment) with standard treatment (factor replacement) or other 'curative' treatment such as stem cell transplantation for individuals with haemophilia A or B of all ages who do not have inhibitors to factor VIII or IX. 
+Data collection and analysis
+No trials of gene therapy for haemophilia matching the inclusion criteria were identified.
+Main results
+No trials of gene therapy for haemophilia matching the inclusion criteria were identified.
+Authors' conclusions
+No randomised or quasi‐randomised clinical trials of gene therapy for haemophilia were identified. Thus, we are unable to determine the safety and efficacy of gene therapy for haemophilia. Gene therapy for haemophilia is still in clinical investigation and there is a need for well‐designed clinical trials to assess the long‐term feasibility, success and risks of gene therapy for people with haemophilia. 

@@ -1,0 +1,14 @@
+Background
+Hepatitis C is a major cause of liver‐related morbidity and mortality. A high proportion of patients never experience symptoms. Peginterferon plus ribavirin is the recommended treatment for chronic hepatitis C. However, ribavirin monotherapy may be considered for some patients. 
+Objectives
+To assess the beneficial and harmful effects of ribavirin monotherapy for patients with chronic hepatitis C. 
+Search methods
+We identified trials through electronic databases, manual searches of bibliographies and journals, authors of trials, and pharmaceutical companies until March 2009. 
+Selection criteria
+We included all randomised trials irrespective of blinding, language, or publication status comparing ribavirin versus no intervention, placebo, or interferon for chronic hepatitis C. 
+Data collection and analysis
+The primary outcome measures were serum sustained virological response (loss of hepatitis C virus RNA at least six months after treatment), liver‐related morbidity plus all‐cause mortality, and adverse events. Secondary outcome measures were end of treatment virological response, biochemical response (transaminase activity), and histological response. Randomisation methods, blinding, data handling, and funding were extracted as measures of bias control. Random‐effects and fixed‐effect meta‐analyses were performed for all outcomes. We only present the results of the fixed‐effect model if both models provide the same result regarding statistical significance. We present data as risk difference (RD) with 95% confidence intervals (CI). 
+Main results
+We included 14 randomised trials with 657 patients. The majority of trials had unclear control of bias. Compared with placebo or no intervention, ribavirin had no significant effect on the sustained virological response (RD 0%, 95% CI ‐2% to 3%, five trials) or end of treatment virological response (RD 0% 95% CI ‐3% to 3%, ten trials). Ribavirin had no significant effect on liver‐related morbidity plus mortality (RD 0%, 95% CI ‐2% to 3%, 11 trials). Ribavirin significantly increased the risk of adverse reactions, including anaemia. Ribavirin significantly improved end of treatment biochemical and histological response but not the sustained biochemical response. Ribavirin was significantly inferior to interferon regarding virological and biochemical responses (five trials). 
+Authors' conclusions
+Ribavirin seems without beneficial effects on serum virological response and liver‐related morbidity or mortality, and significantly increased the risk of adverse reactions. Ribavirin monotherapy seems significantly inferior to interferon monotherapy. The total number of included patients is small, and more trials are perhaps needed. The use of ribavirin monotherapy for chronic hepatitis C cannot be recommended outside randomised trials. 

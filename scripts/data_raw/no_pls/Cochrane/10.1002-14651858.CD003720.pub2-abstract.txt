@@ -1,0 +1,15 @@
+Background
+The majority of women diagnosed with breast cancer undergo a multidisciplinary treatment with surgical intervention and radiotherapy or chemotherapy, or both. The importance of timing of tumour removal in relation to the menstrual cycle and its influence on disease‐free survival and overall survival has been studied by researchers since 1989 but still remains speculative. 
+Objectives
+To determine if surgery performed either during the follicular or luteal phase of the menstrual cycle affects the overall and disease‐free survival of premenopausal breast cancer patients. 
+Search methods
+We searched the Cochrane Breast Cancer Group Trials Register (January 2009), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 1), MEDLINE (1966 to January 2009), EMBASE (1974 to September 2006) and the WHO International Clinical Trials Registry Platform (ICTRP) search portal (July 2010). We checked references of articles and communicated with authors. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing breast surgery during the follicular phase of the menstrual cycle with the luteal phase in premenopausal women. Prospective non‐RCTs or observational studies were considered if randomised studies were lacking. 
+Data collection and analysis
+Three authors independently extracted data and assessed trial quality.
+Main results
+Completed randomised trials were not found. There is one trial that is currently ongoing in Italy; the results have yet to be published. 
+Two prospective observational studies had data on recurrence‐free survival. One study reported an odds ratio for recurrence rate at one year (where > 1 favours the luteal phase) of 0.86 (95% confidence interval (CI) 0.69 to 1.08); 0.87 at two years (95% CI 0.69 to 1.09); 0.95 at three years (95% CI 0.75 to 1.21); 1.12 at four years (95% CI 0.87 to 1.43); and 1.12 at five years (95% CI 0.87 to 1.43). Another study reported a hazard ratio for overall survival of 1.02 (95% CI 0.995 to 1.04, P = 0.14) and for disease‐free survival of 1.00 (95% CI 0.98 to 1.02, P = 0.92) at three years based on the last and first menstrual period. The results were not significant. There was no difference in the recurrence rate whether the surgery was done during the follicular or luteal phase of the menstrual cycle. 
+Authors' conclusions
+In the absence of RCTs, this review provides evidence from large prospective observational studies that timing of surgery does not show a significant effect on survival. 

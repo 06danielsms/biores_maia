@@ -1,0 +1,14 @@
+Background
+Keloid and hypertrophic scars are common and are caused by a proliferation of dermal tissue following skin injury. They cause functional and psychological problems for patients, and their management can be difficult. The use of silicone gel sheeting to prevent and treat hypertrophic scarring is still relatively new and started in 1981 with treatment of burn scars. 
+Objectives
+To determine the effectiveness of silicone gel sheeting for: (1) prevention of hypertrophic or keloid scarring in people with newly healed wounds (e.g. post surgery); (2) treatment of established scarring in people with existing keloid or hypertrophic scars. 
+Search methods
+In May 2013 we searched the Cochrane Wounds Group Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL for this second update. 
+Selection criteria
+Any randomised or quasi‐randomised controlled trials, or controlled clinical trials, comparing silicone gel sheeting for prevention or treatment of hypertrophic or keloid scars with any other non surgical treatment, no treatment or placebo. 
+Data collection and analysis
+We assessed all relevant trials for methodological quality. Three review authors extracted data independently using a standardised form and cross‐checked the results. We assessed all trials meeting the selection criteria for methodological quality. 
+Main results
+We included 20 trials involving 873 people, ranging in age from 1.5 to 81 years. The trials compared adhesive silicone gel sheeting with no treatment; non silicone dressing; other silicone products; laser therapy; triamcinolone acetonide injection; topical onion extract and pressure therapy. In the prevention studies, when compared with a no treatment option, whilst silicone gel sheeting reduced the incidence of hypertrophic scarring in people prone to scarring (risk ratio (RR) 0.46, 95% confidence interval (CI) 0.21 to 0.98) these studies were highly susceptible to bias. In treatment studies, silicone gel sheeting produced a statistically significant reduction in scar thickness (mean difference (MD) ‐2.00, 95% CI ‐2.14 to ‐1.85) and colour amelioration (RR 3.49, 95% CI 1.97 to 6.15) but again these studies were highly susceptible to bias. 
+Authors' conclusions
+ There is weak evidence of a benefit of silicone gel sheeting as a prevention for abnormal scarring in high‐risk individuals but the poor quality of research means a great deal of uncertainty prevails. Trials evaluating silicone gel sheeting as a treatment for hypertrophic and keloid scarring showed improvements in scar thickness and scar colour but are of poor quality and highly susceptible to bias. 

@@ -1,0 +1,14 @@
+Background
+Acupuncture is commonly undertaken during an assisted reproductive technology (ART) cycle although its role in improving live birth and pregnancy rates is unclear. 
+Objectives
+To determine the effectiveness and safety of acupuncture as an adjunct to ART cycles for male and female subfertility. 
+Search methods
+All reports which described randomised controlled trials of acupuncture in assisted conception were obtained through searches of the Menstrual Disorders and Subfertility Group Specialised Register, CENTRAL, Ovid MEDLINE, EMBASE, CINAHL (Cumulative Index to Nursing & Allied Health Literature), AMED , www.clinicaltrials.gov (all from inception to July 2013), National Research Register, and the Chinese clinical trial database (all to November 2012). 
+Selection criteria
+Randomised controlled trials of acupuncture for couples who were undergoing ART, comparing acupuncture treatment alone or acupuncture with concurrent ART versus no treatment, placebo or sham acupuncture plus ART for the treatment of primary and secondary infertility. Women with medical illness that was deemed to contraindicate ART or acupuncture were excluded. 
+Data collection and analysis
+Twenty randomised controlled trials were included in the review and nine were excluded. Study selection, quality assessment and data extraction were performed independently by two review authors. Meta‐analysis was performed using odds ratio (OR) and 95% confidence intervals (CI). The outcome measures were live birth rate, clinical ongoing pregnancy rate, miscarriage rate, and any reported side effects of treatment. The quality of the evidence for the primary outcome (live birth) was rated using GRADE methods. 
+Main results
+This updated meta‐analysis showed no evidence of overall benefit of acupuncture for improving live birth rate (LBR) regardless of whether acupuncture was performed around the time of oocyte retrieval (OR 0.87, 95% CI 0.59 to 1.29, 2 studies, n = 464, I2 = 0%, low quality evidence) or around the day of embryo transfer (ET) (OR 1.22, 95% CI 0.87 to 1.70, 8 studies, n = 2505, I2 = 69%, low quality evidence). There was no evidence that acupuncture had any effect on pregnancy or miscarriage rates, or had significant side effects. 
+Authors' conclusions
+There is no evidence that acupuncture improves live birth or pregnancy rates in assisted conception. 

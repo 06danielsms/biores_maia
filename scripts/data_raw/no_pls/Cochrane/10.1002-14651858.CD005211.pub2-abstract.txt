@@ -1,0 +1,16 @@
+Background
+Upper‐limb dysfunction is a commonly reported side effect of treatment for breast cancer and may include decreased shoulder range of motion (the range through which a joint can be moved) (ROM) and strength, pain and lymphedema. 
+Objectives
+To review randomized controlled trials (RCTs) evaluating the effectiveness of exercise interventions in preventing, minimi sing, or improving upper‐limb dysfunction due to breast cancer treatment. 
+Search methods
+We searched the Specialised Register of the Cochrane Breast Cancer Group, MEDLINE, EMBASE, CINAHL, and LILACS (to August 2008); contacted experts, handsearched reference lists, conference proceedings, clinical practice guidelines and other unpublished literature sources. 
+Selection criteria
+RCTs evaluating the effectiveness and safety of exercise for upper‐limb dysfunction.
+Data collection and analysis
+Two authors independently performed the data abstraction. Investigators were contacted for missing data. 
+Main results
+We included 24 studies involving 2132 participants. Ten of the 24 were considered of adequate methodological quality. 
+Ten studies examined the effect of early versus delayed implementation of post‐operative exercise. Implementing early exercise was more effective than delayed exercise in the short term recovery of shoulder flexion ROM (Weighted Mean Difference (WMD): 10.6 degrees; 95% Confidence Interval (CI):  4.51 to 16.6); however, early exercise also resulted in a statistically significant increase in wound drainage volume (Standardized Mean Difference (SMD) 0.31; 95% CI: 0.13 to 0.49) and duration (WMD: 1.15 days; 95% CI: 0.65 to 1.65). 
+Fourteen studies examined the effect of structured exercise compared to usual care/comparison. Of these, six were post‐operative, three during adjuvant treatment and five following cancer treatment. Structured exercise programs in the post‐operative period significantly improved shoulder flexion ROM in the short‐term (WMD: 12.92 degrees; 95% CI:  0.69 to 25.16). Physical therapy treatment yielded additional benefit for shoulder function post‐intervention (SMD: 0.77; 95% CI: 0.33 to 1.21) and at six‐month follow‐up (SMD: 0.75; 95% CI: 0.32 to 1.19). There was no evidence of increased risk of lymphedema from exercise at any time point. 
+Authors' conclusions
+Exercise can result in a significant and clinically meaningful improvement in shoulder ROM in women with breast cancer. In the post‐operative period, consideration should be given to early implementation of exercises, although this approach may need to be carefully weighed against the potential for increases in wound drainage volume and duration. High quality research studies that closely monitor exercise prescription factors (e.g. intensity), and address persistent upper‐limb dysfunction are needed. 

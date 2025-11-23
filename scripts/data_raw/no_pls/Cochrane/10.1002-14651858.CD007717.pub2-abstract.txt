@@ -1,0 +1,14 @@
+Background
+Healthcare systems internationally need to consider new models of care to cater for the increasing numbers of people with asthma. Telehealthcare interventions are increasingly being seen by policymakers as a potential means of delivering asthma care. We defined telehealthcare as being healthcare delivered from a distance, facilitated electronically and involving the exchange of information through the personalised interaction between a healthcare professional using their skills and judgement and the patient providing information. 
+Objectives
+To assess the effectiveness of telehealthcare interventions in people with asthma.
+Search methods
+We searched in the following databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED, and PsycINFO; this was supplemented by handsearching of respiratory journals. We also searched registers of ongoing and unpublished trials. 
+Selection criteria
+We selected completed randomised controlled trials of telehealthcare initiatives aiming to improve asthma care. 
+Data collection and analysis
+Two review authors independently appraised studies for inclusion and extracted data and performed meta‐analyses. We analysed dichotomous variables to produce an odds ratio (OR) and continuous variables to produce a mean difference. 
+Main results
+We included 21 trials in this review. The 21 included studies investigated a range of technologies aiming to support the provision of care from a distance. These included: telephone (n = 9); video‐conferencing (n = 2); Internet (n = 2); other networked communications (n = 6); text Short Messaging Service (n = 1); or a combination of text and Internet (n = 1). Meta‐analysis showed that these interventions did not result in clinically important improvements in asthma quality of life (minimum clinically important difference = 0.5): mean difference in Juniper's Asthma Quality of Life Questionnaire (AQLQ) 0.08 (95% CI 0.01 to 0.16). Telehealthcare for asthma resulted in a non‐significant increase in the odds of emergency department visits over a 12‐month period: OR 1.16 (95% CI 0.52 to 2.58). There was, however, a significant reduction in hospitalisations over a 12‐month period: OR 0.21 (95% CI 0.07 to 0.61), the effect being most marked in people with more severe asthma managed predominantly in secondary care settings. 
+Authors' conclusions
+Telehealthcare interventions are unlikely to result in clinically relevant improvements in health outcomes in those with relatively mild asthma, but they may have a role in those with more severe disease who are at high risk of hospital admission. Further trials evaluating the effectiveness and cost‐effectiveness of a range of telehealthcare interventions are needed. 

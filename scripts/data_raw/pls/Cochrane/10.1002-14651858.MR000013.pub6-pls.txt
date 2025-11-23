@@ -1,0 +1,21 @@
+What improves trial recruitment?
+Key messages 
+We had high‐certainty evidence for three methods to improve recruitment, two of which are effective: 
+1. Telling people what they are receiving in the trial rather than not telling them improves recruitment. 
+2. Phoning people who do not respond to a postal invitation is also effective (although we are not certain this works as well in all trials). 
+3. Using a tailored, user‐testing approach to develop participant information leaflets makes little or no difference to recruitment. 
+Of the 72 strategies tested, only 7 involved more than one study. We need more studies to understand whether they work or not. 
+Our question 
+We reviewed the evidence about the effect of things trial teams do to try and improve recruitment to their trials. We found 68 studies involving more than 74,000 people. 
+Background 
+Finding participants for trials can be difficult, and trial teams try many things to improve recruitment. It is important to know whether these actually work. Our review looked for studies that examined this question using chance to allocate people to different recruitment strategies because this is the fairest way of seeing if one approach is better than another. 
+Key results 
+We found 68 studies including 72 comparisons. We have high certainty in what we found for only three of these. 
+1. Telling people what they are receiving in the trial rather than not telling them improves recruitment. Our best estimate is that if 100 people were told what they were receiving in a randomised trial, and 100 people were not, 10 more would take part n the group who knew. There is some uncertainty though: it could be as few as 7 more per hundred, or as many as 13 more. 
+2. Phoning people who do not respond to a postal invitation to take part is also effective. Our best estimate is that if investigators called 100 people who did not respond to a postal invitation, and did not call 100 others, 6 more would take part in the trial among the group who received a call. However, this number could be as few as 3 more per hundred, or as many as 9 more. 
+3. Using a tailored, user‐testing approach to develop participant information leaflets did not make much difference. The researchers who tested this method spent a lot of time working with people like those to be recruited to decide what should be in the participant information leaflet and what it should look like. Our best estimate is that if 100 people got the new leaflet, 1 more would take part in the trial compared to 100 who got the old leaflet. However, there is some uncertainty, and it could be 1 fewer (i.e. worse than the old leaflet) per hundred, or as many as 3 more. 
+We had moderate certainty in what we found for eight other comparisons; our confidence was reduced for most of these because the method had been tested in only one study. We had much less confidence in the other 61 comparisons because the studies had design flaws, were the only studies to look at a particular method, had a very uncertain result or were mock trials rather than real ones. 
+Study characteristics 
+The 68 included studies covered a very wide range of disease areas, including antenatal care, cancer, home safety, hypertension, podiatry, smoking cessation and surgery. Primary, secondary and community care were included. The size of the studies ranged from 15 to 14,467 participants. Studies came from 12 countries; there was also one multinational study involving 19 countries. The USA and UK dominated with 25 and 22 studies, respectively. The next largest contribution came from Australia with eight studies. 
+The small print 
+Our search updated our 2010 review and is current to February 2015. We also identified six studies published after 2015 outside the search. The review includes 24 mock trials where the researchers asked people about whether they would take part in an imaginary trial. We have not presented or discussed their results because it is hard to see how the findings relate to real trial decisions. 

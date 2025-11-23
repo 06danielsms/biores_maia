@@ -1,0 +1,25 @@
+Clinical Trial Results
+
+The chart below shows how much of each study drug was in participants' blood in Part 1.
+
+Amount of Study Drugs in the Blood
+- Mount Vernon: 6000
+- Humacao: 5471.7, 5436.7
+- Dapagliflozin: 5000
+- Metformin: 4431.5, 4436.6
+
+Highest amount of the study drugs in participants' blood over time
+
+Researchers measured the highest amount of the study drugs in participants' blood at any time. They found the highest amounts from the Mount Vernon facility and the Humacao facility were similar, with and without food.
+
+The chart below shows the highest amount of each study drug in participants' blood in Part 1.
+
+Highest Amount of Study Drugs in the Blood
+- Mount Vernon: 600, 563.5, 574.1
+- Humacao: 510.2, 503.7
+- Dapagliflozin: 500
+- Metformin: 39.7, 40.5, 65.8; 67.6
+
+How long the study drugs lasted in participants' blood
+
+Researchers checked how many hours the study drugs lasted in participants' blood. They found that drugs from the Mount Vernon and Humacao facilities lasted in the blood a similar amount of time, with and without food.

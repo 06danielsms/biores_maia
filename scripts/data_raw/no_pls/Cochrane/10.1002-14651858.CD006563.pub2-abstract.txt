@@ -1,0 +1,15 @@
+Background
+A key concern for managers and nurse administrators of healthcare settings is staffing. Determining and maintaining an appropriate level and mix of staff is especially problematic for those working in the long‐term aged‐care sector, where resident needs are complex and recruitment and retention of staff is challenging. 
+Objectives
+To identify which staffing models are associated with the best patient and staff outcomes.
+Search methods
+We searched the Effective Practice and Organisation of Care (EPOC) Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) and the Database of Abstracts of Reviews of Effectiveness (DARE) in The Cochrane Library and the databases MEDLINE, EMBASE, Ageline, CINAHL, and Dissertation abstracts. We also handsearched the reference lists and bibliographies of all retrieved articles. 
+Selection criteria
+This review considered interrupted time series studies and studies with concurrent control designs of care staff or residents of residential or subacute or extended aged‐care settings that evaluated the effectiveness of staffing models and skill mixes on resident and care staff outcomes. 
+Data collection and analysis
+Two review authors critically appraised all studies that were retrieved based on the screening of titles and abstracts according to the EPOC Group's data collection checklist. 
+The same two review authors independently extracted and summarised details of eligible studies using the data abstraction form developed by EPOC. 
+Main results
+We included two studies (one interrupted time series and one controlled before‐and‐after study); both evaluated a primary‐care model compared with a either a team‐nursing model or a usual‐care model. The primary‐care model was found to provide slightly better results than the comparator for some outcomes such as resident well‐being or behaviour. While nursing staff favoured the primary‐care model in one study, neither study found significant improvements in staff outcomes using the primary model compared with the comparator. One study evaluated the uptake of the primary‐care model within their facilities and found incorporation of this model into their practice was limited. 
+Authors' conclusions
+Apart from two small studies evaluating primary care, no evidence in the form of concurrently controlled trials could be identified. While these two studies generally favour the use of primary care, the research designs of both ITS and CBA studies are considered prone to bias, specifically selection and blinding of participants and assessors. Therefore, these studies should be regarded with caution and there is little clear evidence for the effective use of any specific model of care in residential aged care to benefit either residents or care staff. Research in this area is clearly needed. 

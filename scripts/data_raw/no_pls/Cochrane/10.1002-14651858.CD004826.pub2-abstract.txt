@@ -1,0 +1,17 @@
+Background
+Crohn's disease (CD) is characterised by episodes of disease activity and symptom‐free remission. Probiotics are microorganisms that can potentially benefit health, and have been evaluated as an alternate means of preventing relapse in patients with CD. 
+Objectives
+To assess the effectiveness of probiotics for the maintenance of remission in CD.
+Search methods
+The following databases were searched: the Cochrane Database of Systematic Reviews (2005, Issue 3); the Cochrane Central Register of Controlled Trials (2005, Issue 3); the Cochrane IBD/FBD Group Trials Register (2005), MEDLINE (1966 ‐ 2005); EMBASE (1980 ‐ 2005); ISI Web of Knowledge (BIDS) 1981 ‐ 2005; On‐line clinical trials databases (2005); and review articles. Experts in the field were contacted for unpublished data. 
+Selection criteria
+Randomised controlled trials of probiotic therapy.
+Data collection and analysis
+Two independent reviewers performed data extraction and assessment of methodological quality. The primary outcome was the relative risk (RR) of relapse after maintenance treatment (and 95% confidence intervals [CI]). 
+Main results
+Seven small studies were identified and varied according to probiotics tested, methodological quality and medication regimen. No studies were pooled for statistical analysis. 
+There was no statistically significant benefit of E. coli Nissle for reducing the risk of relapse compared to placebo (RR 0.43, 95% CI 0.15 to 1.20), or Lactobacillus GG after surgically‐induced remission (RR 1.58, 95% CI 0.30 to 8.40) or medically‐induced remission (RR 0.83, 95% CI 0.25 to 2.80). 
+There was no statistically significant benefit of probiotics for reducing the risk of relapse compared to maintenance therapy employing aminosalicylates or azathioprine (RR 0.67, 95% CI 0.13 to 3.30), and in this study the probiotic Lactobacillus GG was associated with adverse events. 
+In children, there was there was no statistically significant difference between Lactobacillus GG and placebo for reducing the risk of relapse (RR 1.85, 95% CI 0.77 to 4.40).   A small study using the yeast Saccharomyces boulardii demonstrated a difference that was not statistically significant in favour of probiotic combined with a reduced level of maintenance therapy over standard maintenance treatment alone (RR 0.17, 95% CI 0.02 to 1.23). 
+Authors' conclusions
+There is no evidence to suggest that probiotics are beneficial for the maintenance of remission in CD. All of the included studies enrolled small numbers of patients and may have lacked statistical power to show differences should they exist. Larger trials are required to determine if probiotics are of benefit in Crohn's disease. 

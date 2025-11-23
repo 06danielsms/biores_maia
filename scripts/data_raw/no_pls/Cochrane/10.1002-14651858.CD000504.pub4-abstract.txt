@@ -1,0 +1,14 @@
+Background
+The introduction of enteral feeds for very preterm (< 32 weeks) or very low birth weight (< 1500 grams) infants is often delayed due to concern that early introduction may not be tolerated and may increase the risk of necrotising enterocolitis. However, prolonged enteral fasting may diminish the functional adaptation of the immature gastrointestinal tract and extend the need for parenteral nutrition with its attendant infectious and metabolic risks. Trophic feeding, giving infants very small volumes of milk to promote intestinal maturation, may enhance feeding tolerance and decrease the time taken to reach full enteral feeding independently of parenteral nutrition. 
+Objectives
+To determine the effect of early trophic feeding versus enteral fasting on feed tolerance, growth and development, and the incidence of neonatal morbidity (including necrotising enterocolitis and invasive infection) and mortality in very preterm or VLBW infants. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 12), MEDLINE, EMBASE and CINAHL (1980 until December 2012), conference proceedings and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that assessed the effects of early trophic feeding (milk volumes up to 24 ml/kg/day introduced before 96 hours postnatal age and continued until at least one week after birth) versus a comparable period of enteral fasting in very preterm or very low birth weight infants. 
+Data collection and analysis
+We extracted data using the standard methods of the Cochrane Neonatal Review Group with separate evaluation of trial quality and data extraction by two authors and synthesis of data using risk ratio, risk difference and mean difference. 
+Main results
+Nine trials in which a total of 754 very preterm or very low birth weight infants participated were eligible for inclusion. Few participants were extremely preterm (< 28 weeks) or extremely low birth weight (< 1000 grams) or growth restricted. These trials did not provide any evidence that early trophic feeding affected feed tolerance or growth rates. Meta‐analysis did not detect a statistically significant effect on the incidence of necrotising enterocolitis: typical risk ratio 1.07 (95% confidence interval 0.67 to 1.70); risk difference 0.01 (‐0.03 to 0.05). 
+Authors' conclusions
+The available trial data do not provide evidence of important beneficial or harmful effects of early trophic feeding for very preterm or very low birth weight infants. The applicability of these findings to extremely preterm, extremely low birth weight or growth restricted infants is limited. Further randomised controlled trials would be needed to determine how trophic feeding compared with enteral fasting affects important outcomes in this population. 

@@ -1,0 +1,14 @@
+Background
+Many people with schizophrenia continue to experience symptoms despite conventional treatments being used. Alternative therapies such as hypnosis, in conjunction with conventional treatments, may be helpful. 
+Objectives
+To investigate the use of hypnosis for people with schizophrenia or schizophrenia‐like illnesses compared with standard care and other interventions. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (October 2006), contacted the Cochrane Complementary Medicine Field for additional searching (January 2003), hand searched references of included or excluded studies and made personal contact with authors of relevant trials. 
+Selection criteria
+We included all randomised or double blind controlled trials that compared hypnosis with other treatments or standard care for people with schizophrenia. 
+Data collection and analysis
+We reliably selected studies, quality assessed them and extracted data. We excluded data where more than 50% of participants in any group were lost to follow up. For binary outcomes we calculated a fixed effects risk ratio (RR) and its 95% confidence interval (CI). 
+Main results
+We included three studies (total n=149). When hypnosis was compared with standard treatment no one left the studies between 1‐8 weeks (n=70, 2 RCTs, Risk Difference 0.00 CI ‐0.09 to 0.09). Mental state scores were unaffected (n=60, 1 RCT, MD BPRS by one week ‐3.6 CI ‐12.05 to 4.8) as were measures of movement disorders and neurocognitive function. Compared with relaxation, hypnosis was also acceptable (n=106, 3 RCTs, RR leaving the study early 2.00 CI 0.2 to 2.15) and had no discernable effect on mental state (n=60, 1 RCT, MD BPRS by one week ‐3.4 CI ‐11.4 to 4.6), movement disorders or neurocognitive function. Hypnosis was as acceptable as music (Sibelius) by four weeks (n=36, RR leaving the study early 5.0, CI 0.3 to 97.4). 
+Authors' conclusions
+The studies in this field are few, small, poorly reported and outdated. Hypnosis could be helpful for people with schizophrenia. If we are to find this out, better designed, conducted and reported randomised studies are required. This current update has not revealed any new studies in this area since 2003. 

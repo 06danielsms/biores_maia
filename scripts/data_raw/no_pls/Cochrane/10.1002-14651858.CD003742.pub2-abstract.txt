@@ -1,0 +1,14 @@
+Background
+Rotavirus infection is the most common neonatal nosocomial viral infection. It is a major health problem worldwide. Epidemics with the newer P(6)G9 strains have been reported in neonatal units globally. These strains can cause severe symptoms in most infected infants. Infection control measures become necessary and the utilization of hospital resources increase. Local mucosal immunity in the intestine to rotavirus is important in the resolution of infection and protection against subsequent infections. Boosting local immunity by oral administration of anti‐rotaviral immunoglobulin preparations might be a useful strategy in treating rotaviral infections, especially in low birth weight babies. 
+Objectives
+To determine the effectiveness and safety of oral immunoglobulin preparations for the treatment of rotavirus diarrhea in hospitalized low birth weight infants (birth weight less than 2500 g) 
+Search methods
+Electronic databases including The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2004), MEDLINE, EMBASE and CINAHL, Biological Abstracts (BIOSIS) were searched by the strategy outlined in the protocol. Science Citation Index search for all articles that referenced Barnes 1982 were searched. The proceedings of the Pediatric Academic Societies published online at 'Abstracts Online' were searched. Ongoing registered trials at www.clinicaltrials.gov and www.controlled‐trials.com were searched. Authors prominent in the field were contacted for any unpublished articles and more information on published articles was sought. Reference lists of identified clinical trials and personal files were also reviewed. The above search was updated in July 2011. 
+Selection criteria
+The criteria used to select studies for inclusion were:  1) Design: randomized or quasi‐randomized controlled trials  2) Hospitalized low birth weight infants with rotavirus diarrhea  3) Intervention: Oral immunoglobulin preparations compared to placebo or no intervention  4) At least one of the following outcomes were reported: All cause mortality during hospital stay, mortality due to rotavirus infection during hospital stay, duration of diarrhea, need for rehydration, duration of viral excretion, duration of infection control measures, length of hospital stay in days, recurrent diarrhea or chronic diarrhea 
+Data collection and analysis
+The two reviewers were to independently abstract data from eligible trials. No data were available for analysis. 
+Main results
+No eligible randomized controlled trials were found.
+Authors' conclusions
+No randomized controlled trials that assessed the effectiveness or safety of oral immunoglobulin preparations for the treatment of rotavirus diarrhea in hospitalized low birth weight infants were found. Clinical trials that address the issue of oral immunoglobulin treatment of rotavirus infection are needed. 

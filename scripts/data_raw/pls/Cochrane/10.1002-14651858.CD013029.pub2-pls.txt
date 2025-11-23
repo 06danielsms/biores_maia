@@ -1,0 +1,26 @@
+What are the benefits and risks of low level light therapy (photobiomodulation) for treating dry age‐related macular degeneration (a degenerative eye condition)? 
+Why is this question important?Age‐related macular degeneration (AMD) is a common condition of the eyes. It usually develops in people aged over 50, and leads to progressive loss of central vision. People with AMD may find it difficult to read or recognise faces, and they can become partially sighted. 
+AMD progresses in stages. To begin with, yellow spots (drusen) develop under the retina (the back of the eye). These are not visible to the naked eye, but can be seen by health professionals during examinations of the eyes. As AMD progresses, cells located in the macula (the central area of the retina) that are needed for vision die. If blood vessels in the eye go on to leak, the condition is classed as ‘wet’ AMD. If there is no leakage, the condition is known as ‘dry’ AMD. 
+There is no cure for dry AMD. However, it may be possible to use low level light therapy (photobiomodulation) to stop vision from worsening. To find out how effective photobiomodulation is for treating dry AMD and whether it is associated with unwanted effects, we reviewed the evidence from research studies. 
+How did we identify and evaluate the evidence?First, we searched for randomised controlled studies (clinical studies where people are randomly put into one of two or more treatment groups), because these studies provide the most robust evidence about the effects of a treatment. We then compared the results, and summarised the evidence from the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find?We found two studies that involved a total of 90 people with dry AMD. Both studies received public funding. 
+In one study, with 60 people, set in the UK, 30 people wore a light‐emitting eye mask for eight hours every night for one year. Their results were compared to those of 30 people who received no treatment. 
+In the other study, with 30 people, set in Canada, people received either:
+→ low level light therapy for five minutes per eye, three times a week for three weeks, which was repeated after a six‐month break; or 
+→ a sham treatment, three times a week for three weeks, which was repeated after a six‐month break. 
+Five of the investigators of this study had links to the manufacturer of the light therapy device used (three of these were employed by the manufacturer). 
+We have little to very little confidence in the evidence we found, because it is based on only two small studies. The way these studies were conducted is likely to have introduced errors in their results. 
+The evidence suggests that:
+→ photobiomodulation may make little or no difference to changes in clarity of vision one year after starting treatment compared to no treatment or a sham treatment; 
+→ photobiomodulation may make little or no difference to disease progression of AMD after one year; 
+→ photobiomodulation may improve a person’s ability to distinguish an object against its background; 
+→ photobiomodulation may make little or no difference to clarity of vision as reported by patients. 
+We have too little confidence in the evidence to be able to determine whether, after one year of treatment, photobiomodulation affects: 
+→ progression to wet AMD.
+Since neither study reported information about some outcomes, we cannot determine from the evidence whether, after one year of treatment, photobiomodulation affects: 
+→ near vision;
+→ vision in low light; or
+→ reading speed.
+What does this mean?Compared to no treatment or a sham treatment, photobiomodulation may make little or no difference to clarity of vision or disease progression in people with dry AMD one year after starting treatment. 
+We do not know if photobiomodulation affects other aspects such as progression to wet AMD or changes in near vision. This is because too few, or no, robust studies have investigated this. 
+How up‐to‐date is this review?The evidence in this Cochrane Review is current to May 2020. 

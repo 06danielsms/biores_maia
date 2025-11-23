@@ -1,0 +1,17 @@
+Background
+Eradication strategies for methicillin‐resistant Staphylococcus aureus (MRSA) are variable. We sought to summarize the evidence for use of antimicrobial agents to eradicate MRSA. 
+Objectives
+To describe the effects of topical and systemic antimicrobial agents on nasal and extra‐nasal MRSA carriage, adverse events, and incidence of subsequent MRSA infections. 
+Search methods
+We searched the Cochrane Infectious Diseases Group's trials register (August 2003), the Cochrane Central Register of Controlled Trials (Issue 3, 2003), MEDLINE (1966 to 2003), EMBASE (1988 to 2003), handsearched relevant literature, and contacted MRSA experts and the manufacturer of mupirocin. 
+Selection criteria
+Randomized controlled trials of patients colonized with MRSA comparing topical or systemic antimicrobials to placebo or no treatment, and trials comparing various combinations of topical or systemic agents to no treatment, placebo, or to topical or systemic agents. 
+Data collection and analysis
+Two reviewers independently applied inclusion criteria to potentially relevant trials, assessed trial methodological quality, and extracted data. Primary outcomes included eradication of MRSA, infection due to MRSA, and adverse events. 
+Main results
+Six trials (384 participants) met the inclusion criteria. No difference in MRSA eradication was detected in four studies: one that compared mupirocin to placebo, two that compared one systemic agent to no treatment (fusidic acid in one and rifampin or minocycline in the other) and one that compared mupirocin to topical fusidic acid and oral trimethoprim‐sulfamethoxazole, examining nasal MRSA eradication as an outcome. 
+One study compared minocycline to rifampin, with rifampicin being more effective in relation to eradication of MRSA from all sites at day 30 (relative risk 0.16; 95% confidence intervals 0.02 to 1.00), but the difference at 90 days was not statistically significant (n = 18). 
+Two studies (one testing novobiocin and rifampin, the other ciprofloxacin and rifampin, versus trimethoprim‐sulfamethoxazole and rifampin) did not demonstrate a difference in eradication of MRSA at all sites (n = 94). 
+Adverse events with systemic agents occurred in up to 20% of participants, however reporting was sporadic and denominators small. All trials reported development of resistance to antimicrobial agents used. 
+Authors' conclusions
+There is insufficient evidence to support use of topical or systemic antimicrobial therapy for eradicating nasal or extra‐nasal MRSA. There is no demonstrated superiority of either topical or systemic therapy, or of combinations of these agents. Potentially serious adverse events and development of antimicrobial resistance can result from therapy. 

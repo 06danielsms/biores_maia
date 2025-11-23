@@ -1,0 +1,15 @@
+Background
+Heel lance has been the conventional method of blood sampling in neonates for screening tests. Neonates undergoing heel lance experience pain which cannot be completely alleviated. 
+Objectives
+To determine whether venepuncture or heel lance is less painful and more effective for blood sampling in term neonates. 
+Search methods
+Randomized or quasi‐randomised controlled trials comparing pain response to venepuncture versus heel lance were identified by searching the Cochrane Central Regsiter of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE, EMBASE, CINAHL, and clinical trials registries in May 2011. 
+Selection criteria
+Trials comparing pain response to venepuncture versus heel lance with or with out the use of a sweet tasting solution as a co‐intervention in term neonates. 
+Data collection and analysis
+Outcomes included pain response to venepuncture versus heel lance with or without the use of a sweet tasting solution using validated pain measures, the need of repeat sampling and cry characteristics. Analyses included typical relative risk (RR), risk difference (RD), number needed to treat (NNT), weighted mean difference (WMD) and standardized mean difference (SMD) with their 95% confidence intervals (CI). Between study heterogeneity was reported including the I squared (I2) test. 
+Main results
+Six studies (n = 478) of variable quality were included. A composite outcome of Infant Pain Scale (NIPS), Neonatal Facial Action Coding System (NFCS) and/or Premature Infant Pain Profile (PIPP) score was reported in 288 infants, who did not receive a sweet tasting solution. Meta‐analysis showed a significant reduction in the venepuncture versus the heel lance group (SMD ‐0.76, 95% CI ‐1.00 to ‐0.52; I2 = 0%). When a sweet tasting solution was provided the SMD remained significant favouring the venepuncture group (SMD ‐ 0.38, 95% CI ‐0.69 to ‐0.07). The typical RD for requiring more than one skin puncture for venepuncture versus heel lance (reported in 4 studies; n = 254) was ‐0.34 (95% CI ‐0.43 to ‐0.25; I2 = 97%). The NNT to avoid one repeat skin puncture was 3 (95% CI 2 to 4). Cry characteristics favoured the venepuncture group but the differences were reduced by the provision of sweet tasting solutions prior to either procedure. 
+Authors' conclusions
+Venepuncture, when performed by a skilled phlebotomist, appears to be the method of choice for blood sampling in term neonates. The use of a sweet tasting solution further reduces the pain. 
+Further well designed randomised controlled trials should be conducted in settings where several individuals perform the procedures. 

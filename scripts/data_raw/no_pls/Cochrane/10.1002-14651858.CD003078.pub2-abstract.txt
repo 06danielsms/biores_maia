@@ -1,0 +1,15 @@
+Background
+Peritonitis is the most frequent serious complication of continuous ambulatory peritoneal dialysis (CAPD). It has a major influence on the number of patients switching from CAPD to haemodialysis and has probably restricted the wider acceptance and uptake of CAPD as an alternative mode of dialysis. 
+This is an update of a review first published in 2000.
+Objectives
+This systematic review sought to determine if modifications of the transfer set (Y‐set or double bag systems) used in CAPD exchanges are associated with a reduction in peritonitis and an improvement in other relevant outcomes. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register through contact with the Trials Search Co‐ordinator. Studies contained in the Specialised Register are identified through search strategies specifically designed for CENTRAL, MEDLINE and EMBASE. Date of last search: 22 October 2013. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing double bag, Y‐set and standard peritoneal dialysis (PD) exchange systems in patients with end‐stage kidney disease. 
+Data collection and analysis
+Data were abstracted by a single investigator onto a standard form and analysed by Review Manager. Analysis was by a random effects model and results were expressed as risk ratio (RR) or mean difference (MD) with 95% confidence intervals (CI). 
+Main results
+Twelve eligible trials with a total of 991 randomised patients were identified. Despite the large total number of patients, few trials covered the same interventions, small numbers of patients were enrolled in each trial and the methodological quality was suboptimal. Y‐set and twin‐bag systems were superior to conventional spike systems (7 trials, 485 patients, RR 0.64, 95% CI 0.53 to 0.77) in preventing peritonitis in PD. 
+Authors' conclusions
+Disconnect systems should be the preferred exchange systems in CAPD.

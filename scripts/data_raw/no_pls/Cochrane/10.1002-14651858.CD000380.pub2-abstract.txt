@@ -1,0 +1,16 @@
+Background
+Ankle sprains are one of the most commonly treated musculoskeletal injuries. The three main treatment modalities for acute lateral ankle ligament injuries are immobilisation with plaster cast or splint, 'functional treatment' comprising early mobilisation and use of an external support (e.g. ankle brace), and surgical repair or reconstruction. 
+Objectives
+We aimed to compare surgical versus conservative treatment for acute injuries of the lateral ligament complex of the ankle in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (January 2006), the Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2005, Issue 4), MEDLINE (1966 to December 2005), EMBASE, CINAHL and reference lists of articles, and contacted researchers in the field. This review is considered updated to January 2006. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing surgical with conservative interventions for treating ankle sprains in adults. 
+Data collection and analysis
+At least two authors independently assessed methodological quality and extracted data. Where appropriate, results of comparable studies were pooled. We performed sensitivity analyses to explore the robustness of the findings. 
+Main results
+Twenty trials were included. These involved a total of 2562 mostly young active adult males. All trials had methodological weaknesses. Specifically, concealment of allocation was confirmed in only one trial. Data for pooling individual outcomes were only available for a maximum of 12 trials and under 60% of participants. 
+The findings of statistically significant differences in favour of the surgical treatment group for the four primary outcomes (non‐return to pre‐injury level of sports; ankle sprain recurrence; long‐term pain; subjective or functional instability) when using the fixed‐effect model were not robust when using the random‐effects model, nor on the removal of one low quality (quasi‐randomised) trial that had more extreme results. A corresponding drop in the I² statistics showed the remaining trials to be more homogeneous. 
+The functional implications of the statistically significantly higher incidence of objective instability in conservatively treated trial participants are uncertain. There was some limited evidence for longer recovery times, and higher incidences of ankle stiffness, impaired ankle mobility and complications in the surgical treatment group. 
+Authors' conclusions
+There is insufficient evidence available from randomised controlled trials to determine the relative effectiveness of surgical and conservative treatment for acute injuries of the lateral ligament complex of the ankle. High quality randomised controlled trials of primary surgical repair versus the best available conservative treatment for well‐defined injuries are required. 

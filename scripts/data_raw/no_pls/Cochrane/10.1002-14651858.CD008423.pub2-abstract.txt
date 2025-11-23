@@ -1,0 +1,14 @@
+Background
+Nasopharyngeal cancer is endemic in a few well‐defined populations. The prognosis for advanced nasopharyngeal cancer is poor, but early‐stage disease is curable and a high survival rate can be achieved. Screening for early‐stage disease could lead to improved outcomes. Epstein‐Barr virus (EBV) serology and nasopharyngoscopy are most commonly used for screening. The efficacy and true benefit of screening remain uncertain due to potential selection, lead‐time and length‐time biases. 
+Objectives
+To determine the effectiveness of screening of asymptomatic individuals by EBV serology and/or nasopharyngoscopy in reducing the mortality of nasopharyngeal cancer compared to no screening. To assess the impact of screening for nasopharyngeal cancer on incidence, survival, adverse effects, cost‐effectiveness and quality of life. 
+Search methods
+The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co‐ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 6); PubMed; EMBASE; CINAHL; Web of Science; Clinicaltrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 6 July 2015. 
+Selection criteria
+Randomised controlled trials (RCT) and controlled clinical trials (CCT) evaluating screening for nasopharyngeal cancer versus no screening. Randomisation either by clusters or individuals was acceptable. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration. Our primary outcome measure was nasopharyngeal cancer‐specific mortality. Secondary outcomes were incidence of nasopharyngeal cancer by stage and histopathological classification at diagnosis, survival (two‐year, three‐year, five‐year and 10‐year), harms of screening (physical and psychosocial), quality of life (via validated tools such as the SF‐36 and patient satisfaction), cost‐effectiveness and all‐cause mortality. 
+Main results
+We identified no trials that met the review inclusion criteria. We retrieved 31 full‐text studies for further investigation following the search. However, none met the eligibility criteria for a RCT or CCT investigation on the efficacy of screening for nasopharyngeal cancer. 
+Authors' conclusions
+No data from RCTs or CCTs are available to allow us to determine the efficacy of screening for nasopharyngeal cancer, or the cost‐effectiveness and cost‐benefit of a screening strategy. High‐quality studies with long‐term follow‐up of mortality and cost‐effectiveness are needed. 

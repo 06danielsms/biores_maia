@@ -1,0 +1,14 @@
+Background
+The optimal duration of oral antibiotic therapy for urinary tract infection (UTI) in children has not been determined. A number of studies have compared single dose therapy to standard therapy for UTI, with mixed results. A course of antibiotics longer than a single dose but shorter than the usual 7‐10 days might decrease the relapse rate and still provide some of the benefits of a shortened course of antibiotics. 
+Objectives
+The objective of this review was to assess the benefits and harms of short‐course (2‐4 days) compared to standard duration (7‐14 days) oral antibiotic treatment for acute UTI in children. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL in The Cochrane Library) MEDLINE (from1966) and EMBASE (from 1988) without language restriction. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing short‐term (2‐4 days) with standard (7‐14 days) oral antibiotic therapy were selected if they studied children aged three months to 18 years with culture proven UTI. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random effects model and the results expressed as relative risk (RR) with 95% confidence intervals (95% CI). 
+Main results
+Ten studies were identified in which 652 children with lower tract UTI were evaluated. There was no significant difference in the frequency of positive urine cultures between the short (2‐4 days) and standard duration oral antibiotic therapy (7‐14 days) for UTI in children at 0‐10 days after treatment (eight studies: RR 1.06; 95% CI 0.64 to 1.76) and at one to 15 months after treatment (10 studies: RR 0.95; 95% CI 0.70 to 1.29). There was no significant difference between short and standard duration therapy in the development of resistant organisms in UTI at the end of treatment (one study: RR 0.57, 95% CI 0.32 to 1.01) or in recurrent UTI (three studies: RR 0.39, 95% CI 0.12 to 1.29). 
+Authors' conclusions
+A 2‐4 day course of oral antibiotics appears to be as effective as 7‐14 days in eradicating lower tract UTI in children. 

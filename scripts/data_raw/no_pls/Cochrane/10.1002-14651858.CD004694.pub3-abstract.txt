@@ -1,0 +1,14 @@
+Background
+Bipolar disorder is a common recurrent illness with high levels of chronicity. Treatment resistance persists despite the use of established medications, such as lithium and valproate. New medications are required for the treatment of refractory cases. Some open‐label reports have suggested that the anticonvulsant tiagabine may be efficacious in bipolar disorder. There is a need to clarify the evidence available, in the form of randomised controlled trials, for its use in the treatment of acute affective episodes in bipolar disorder. 
+Objectives
+To review the evidence for the efficacy and acceptability of tiagabine in the treatment of acute mood episodes in bipolar disorder. 
+Search methods
+In this update, we searched the Cochrane Depression, Anxiety and Neurosis Group's Specialised Register (CCDANCTR‐Studies and CCDANCTR‐References) to October 2012. This register contains relevant randomised controlled trials from: The Cochrane Library (all years), EMBASE (1974 to date), MEDLINE (1950 to date) and PsycINFO (1967 to date). We examined reference lists of relevant papers and major textbooks of affective disorder. We contacted authors, other experts in the field and pharmaceutical companies for knowledge of suitable published or unpublished trials. We handsearched specialist journals and conference proceedings. 
+Selection criteria
+Randomised controlled trials, which compared tiagabine with placebo or with active agents in the treatment of any acute mood episodes in bipolar disorder in adults, male and female, aged 18 to 74 years. 
+Data collection and analysis
+Two review authors performed data extraction and methodological quality assessment independently. For analysis, we planned to use risk ratio for binary efficacy outcomes and mean difference or standardised mean difference for continuously distributed outcomes. 
+Main results
+In this updated review we found no studies which fulfilled the Cochrane criteria for randomised controlled trials. 
+Authors' conclusions
+We found no randomised controlled trials of tiagabine in the treatment of acute episodes of bipolar disorder. However, there are reports that a number of patients suffered episodes of syncope or seizure. Further investigation of the efficacy and acceptability of tiagabine in the treatment of acute affective episodes of bipolar disorder should await the clarification of the nature of the reported episodes of syncope and seizure‐like activity and an examination of the level of risk involved. 

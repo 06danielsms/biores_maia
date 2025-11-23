@@ -1,0 +1,14 @@
+Background
+Tumour hypoxia increases tumour invasiveness and has a negative impact on response to therapy. Hypoxic tumours are also associated with severely anaemic individuals. It has therefore been hypothesised that correcting anaemia, by increasing haemoglobin levels using erythropoietin, improves tumour oxygenation and consequently the patient's prognosis. 
+Objectives
+To assess whether combined treatment with radiotherapy and erythropoietin (RT plus EPO) is better than standard radiotherapy (RT alone) for the treatment of head and neck cancer patients. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 24 February 2009. 
+Selection criteria
+Two independent authors assessed identified studies according to the eligibility criteria: RCTs which delivered radiotherapy combined with or without erythropoietin, in patients of any age with head and neck cancer of any stage or type. In addition, trials administering concomitant iron therapy among one or both arms were also eligible. 
+Data collection and analysis
+For statistical analysis of survival data, we computed a weighted estimate of the typical treatment effect across studies. We used Chi2 heterogeneity tests to test for statistical heterogeneity among trials and performed the statistical analyses using Review Manager 5.0. 
+Main results
+Five RCTs with a total of 1397 patients were included. Pooled data yielded a significantly worse overall survival (OS) for RT plus EPO as compared to RT alone (Peto odds ratio 0.73; 95% confidence interval (CI) 0.58 to 0.91; P = 0.005, five trials). For local regional tumour control (LRTC) analyses resulted in a small but non‐significant difference between the RT alone group and the RT plus EPO group (RR 0.92; 95% CI 0.81 to 1.03; P = 0.15, four trials). In addition, the local regional progression free survival (LRPFS) measured in four studies was significantly different between groups (Peto odds ratio 0.63; 95% CI 0.49 to 0.80; P = 0.0002, four trials), in favour of the RT alone group. Two studies used supplemental iron in the RT plus EPO group and not in the RT alone group. When excluding these studies from the analyses, the statistically (non‐) significant differences in OS, LRTC and LRPFS are maintained. 
+Authors' conclusions
+There are strong suggestions that RT plus EPO has a negative influence on outcome as opposed to RT alone. However, the target haemoglobin concentration, which was higher than recommended in four of the five included RCTs, may have had a significant role. Nevertheless, based on these findings EPO should not be administered as an addition to RT outside the experimental setting for patients with head and neck cancer. 

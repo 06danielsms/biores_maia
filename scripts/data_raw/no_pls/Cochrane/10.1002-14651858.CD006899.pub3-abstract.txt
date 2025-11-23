@@ -1,0 +1,15 @@
+Background
+Autologous platelet‐rich plasma (PRP) is a treatment that contains fibrin and high concentrations of growth factors with the potential to improve the healing of chronic wounds. This is the first update of a review first published in 2012. 
+Objectives
+To determine whether autologous PRP promotes the healing of chronic wounds.
+Search methods
+In June 2015, for this first update, we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library): Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. We also searched for ongoing and unpublished clinical trials in the WHO International Clinical Trials Registry Platform (ICTRP) (searched January 2015). We did not impose any restrictions with respect to language, date of publication, or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared autologous PRP with placebo or alternative treatments for any type of chronic wound in adults. We did not apply any date or language restrictions. 
+Data collection and analysis
+We used standard Cochrane methodology, including two reviewers independently selecting studies for inclusion, extracting data, and assessing risk of bias. 
+Main results
+The search identified one new RCT, making a total of 10 included RCTs (442 participants, 42% women). The median number of participants per RCT was 29 (range 10 to 117). Four RCTs recruited people with a range of chronic wounds; three RCTs recruited people with venous leg ulcers, and three RCTs considered foot ulcers in people with diabetes. The median length of treatment was 12 weeks (range 8 to 40 weeks). 
+It is unclear whether autologous PRP improves the healing of chronic wounds generally compared with standard treatment (with or without placebo) (risk ratio (RR) 1.19, 95% confidence interval (CI) 0.95 to 1.50; I2 = 27%, low quality evidence, 8 RCTs, 391 participants). Autologous PRP may increase the healing of foot ulcers in people with diabetes compared with standard care (with or without placebo) (RR 1.22, 95% CI 1.01 to 1.49; I2 = 0%, low quality evidence, 2 RCTs, 189 participants). It is unclear if autologous PRP affects the healing of venous leg ulcers (RR 1.02, 95% CI 0.81 to 1.27; I2 = 0% ). It is unclear if there is a difference in the risk of adverse events in people treated with PRP or standard care (RR 1.05, 95% CI 0.29 to 3.88; I2 = 0%, low quality evidence from 3 trials, 102 participants). 
+Authors' conclusions
+PRP may improve the healing of foot ulcers associated with diabetes, but this conclusion is based on low quality evidence from two small RCTs. It is unclear whether PRP influences the healing of other chronic wounds. The overall quality of evidence of autologous PRP for treating chronic wounds is low. There are very few RCTs evaluating PRP, they are underpowered to detect treatment effects, if they exist, and are generally at high or unclear risk of bias. Well designed and adequately powered clinical trials are needed. 

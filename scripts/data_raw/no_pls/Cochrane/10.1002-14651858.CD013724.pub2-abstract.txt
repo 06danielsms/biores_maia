@@ -1,0 +1,17 @@
+Background
+Remote cognitive assessments are increasingly needed to assist in the detection of cognitive disorders, but the diagnostic accuracy of telephone‐ and video‐based cognitive screening remains unclear. 
+Objectives
+To assess the test accuracy of any multidomain cognitive test delivered remotely for the diagnosis of any form of dementia. 
+To assess for potential differences in cognitive test scoring when using a remote platform, and where a remote screener was compared to the equivalent face‐to‐face test. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group Specialized Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, Web of Science, LILACS, and ClinicalTrials.gov (www.clinicaltrials.gov/) databases on 2 June 2021. We performed forward and backward searching of included citations. 
+Selection criteria
+We included cross‐sectional studies, where a remote, multidomain assessment was administered alongside a clinical diagnosis of dementia or equivalent face‐to‐face test. 
+Data collection and analysis
+Two review authors independently assessed risk of bias and extracted data; a third review author moderated disagreements. Our primary analysis was the accuracy of remote assessments against a clinical diagnosis of dementia. Where data were available, we reported test accuracy as sensitivity and specificity. We did not perform quantitative meta‐analysis as there were too few studies at individual test level. 
+For those studies comparing remote versus in‐person use of an equivalent screening test, if data allowed, we described correlations, reliability, differences in scores and the proportion classified as having cognitive impairment for each test. 
+Main results
+The review contains 31 studies (19 differing tests, 3075 participants), of which seven studies (six telephone, one video call, 756 participants) were relevant to our primary objective of describing test accuracy against a clinical diagnosis of dementia. All studies were at unclear or high risk of bias in at least one domain, but were low risk in applicability to the review question. Overall, sensitivity of remote tools varied with values between 26% and 100%, and specificity between 65% and 100%, with no clearly superior test. 
+Across the 24 papers comparing equivalent remote and in‐person tests (14 telephone, 10 video call), agreement between tests was good, but rarely perfect (correlation coefficient range: 0.48 to 0.98). 
+Authors' conclusions
+Despite the common and increasing use of remote cognitive assessment, supporting evidence on test accuracy is limited. Available data do not allow us to suggest a preferred test. Remote testing is complex, and this is reflected in the heterogeneity seen in tests used, their application, and their analysis. More research is needed to describe accuracy of contemporary approaches to remote cognitive assessment. While data comparing remote and in‐person use of a test were reassuring, thresholds and scoring rules derived from in‐person testing may not be applicable when the equivalent test is adapted for remote use. 

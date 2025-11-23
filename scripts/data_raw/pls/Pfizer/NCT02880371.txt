@@ -1,0 +1,34 @@
+Many treatments for cancer work by trying to help the body's immune system attack and kill cancer cells. However, these treatments do not work for all patients, and some only work for a short time before the patient's cancer gets worse. Researchers think that combining different medications that help the immune system fight cancer in different ways could help patients' cancer get better.
+ARRY-382 is a study drug that has not been approved by the United States Food and Drug Administration (FDA). ARRY-382 is taken by mouth once a day. ARRY-382 is thought to work by helping the immune system slow or stop the growth of cancer cells. Pembrolizumab is approved by the FDA for the treatment of patients with many different types of cancer and is given through a needle into a vein (IV). Pembrolizumab also works by helping the immune system slow or stop the growth of cancer cells but in a different way than ARRY-382. Studies in animals found that combining these 2 types of medicines helped the immune system do a better job of slowing the growth of tumors.
+This study was divided into 2 parts, or "phases". The main purpose of the first phase of the study (Phase 1) was to determine the best dose of ARRY-382 to use in Phase 2 when given with the drug pembrolizumab. To do this, the researchers asked,
+-What dose-limiting toxicities, or "DLTs", did patients have when taking ARRY-382 with pembrolizumab?
+DLTs are certain medical problems caused by taking ARRY-382 with pembrolizumab, which require the patient to lower the dose or stop taking the medicine temporarily or permanently.
+Phase 2 of the study was designed to see whether ARRY-382, when taken together with the drug pembrolizumab, had a beneficial effect on the patients' cancer (improved symptoms, reduced rate of tumor growth, or decreased the size of tumors in the body). To do this, the researchers asked,
+-How many patients had their cancer get better when taking ARRY-382 with pembrolizumab?
+The researchers also monitored the patients for any medical problems that they had during the study.
+090177e1955b5211\Approved\Approved On: 27-Oct-2020 06:22 (GMT)
+3
+This study included patients who met the following conditions:
+- Aged 18 years or older
+- For Phase 1:
+  - Diagnosed with one of certain types of cancer, such as of the ovaries, breast, head and neck, bladder, colon, pancreas, stomach, skin, or lung
+  - Cancer had not responded to standard treatment, was not currently treatable, or the patient had refused standard treatment
+- For Phase 2:
+  - Advanced solid tumor cancer that had gotten worse while being treated with certain types of anti-cancer therapy (called “PD-1/PD-L1 inhibitor resistant”)
+  - Advanced cancer of the ovaries, abdomen (peritoneum), or fallopian tubes that got worse within 6 months of being treated with ≥ 4 cycles of platinum-based chemotherapy (called “platinum-resistant”)
+  - Advanced pancreatic cancer (PDS) that had been treated at least once before
+- Able to walk around, take care of themselves, and do light housework or office work
+- Had adequate kidney, liver, bone marrow, and heart function
+- Had not been treated before with cancer medications called ‘checkpoint inhibitors’ (such as a PD-1, PD-L1, or CTLA-4 inhibitor).
+
+This was an “open-label” study, which means that the patients and doctors knew what dose of ARRY-382 and pembrolizumab the patients were receiving.
+
+What happened during Phase 1 of the study? Phase 1 of this study compared 3 groups of patients that were assigned to 1 of 3 doses of ARRY-382 (either 200 mg, 300 mg, or 400 mg per day) to find the recommended dose of ARRY-382 for the Phase 2 portion of the study. During Phase 1, each patient took 1 of 3 doses of ARRY-382 in pill form, once daily by mouth for 21 days. The patients were also treated with pembrolizumab IV once every 3 weeks and monitored for medical problems.
+
+What happened during Phase 2 of the study? Phase 2 of this studied compared 3 groups of patients with different types of cancer to see if their cancer got better with ARRY-382 and pembrolizumab treatment. Based on the Phase 1 results, all of the patients in Phase 2 were assigned to take 200 mg ARRY-382 once daily. 
+
+While many patients were only in the study for a few months, the entire study took just over 3 years to complete. The Sponsor ran this study at 15 locations in the United States of America. It began on 01 September 2016 and ended 24 October 2019. A total of 10 men and 9 women participated in Phase 1 and 22 men and 35 women participated in Phase 2. All patients were between the ages of 30 and 87. 
+
+Patients were to be treated until their cancer stopped responding or got worse, until they developed unacceptable medical problems, or until they chose to stop treatment. All patients who started Phase 1 or Phase 2 of the study stopped taking the study medicines before the study ended. Most patients left before the study was over because their cancer had gotten worse, by their choice, or because a doctor decided it was best for a patient to stop being in the study.
+
+This study was stopped when early results showed that too few patients had their cancer get better when taking ARRY-382 and pembrolizumab. When the study ended in October 2019, the Sponsor reviewed the information collected. The Sponsor then created a report of the results. This is a summary of that report.

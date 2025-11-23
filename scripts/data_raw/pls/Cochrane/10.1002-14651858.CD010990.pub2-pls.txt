@@ -1,0 +1,22 @@
+Are interventions to keep people sleeping on their side the best way to treat obstructive sleep apnoea? 
+What is obstructive sleep apnoea? 
+Obstructive sleep apnoea (OSA) is sleep disorder where the walls of the throat relax and narrow during sleep. This causes pauses in the breathing. The pauses can last for a few seconds to a few minutes and can happen many times in the night. This disrupts the person's sleep. Bed partners can be disturbed by associated loud snoring, chocking and snorting sounds. People living with OSA can be very tired in the day or even fall to sleep. This can be dangerous. In children, sleep apnoea can cause problems at school or hyperactivity. 
+What is positional OSA? 
+OSA that improves on changing position of the person while sleeping is known as positional sleep apnoea (POSA). People tend to have apneas when lying on their backs (supine) and the apneas may be reduced or go away when they lay on their side. 
+What is the standard in the treatment of OSA? 
+The standard treatment is a device called continuous positive airway pressure (CPAP) that provides a continuous jet of air to the airway as the person breathes, which helps to keep the throat from narrowing during sleep. 
+What is positional therapy? 
+Positional therapy is an intervention that helps to keep the person on their side during sleep. Examples include something on the person's back to stop them from rolling over (like a tennis ball), special pillows, or alarms that vibrate when the person rolls onto his or her back. 
+How is the severity of OSA estimated? 
+The severity of OSA is measured using a scale called Apnoea‐Hypopnea Index (AHI). AHI refers to number of times the breathing stops or becomes shallower per hour of sleep. AHI is measured by using a study done in sleep known as polysomnography. 
+The severity of OSA can be measured indirectly using a questionnaire called Epworth Sleepiness Scale (ESS). This assesses how sleepy a person is during the day. 
+What was the aim of this review? 
+We wanted to compare positional therapy with the CPAP therapy as well as with inactive control (no positional therapy or sham therapy). 
+Results 
+We found eight studies with 323 participants. The studies compared positional therapy with CPAP (72 participants) and positional therapy with inactive control (251 participants). 
+When studies compared positional therapy and CPAP, they found no difference in ESS between groups. CPAP therapy showed a greater improvement in AHI (6.4 fewer events per hour with CPAP) compared with positional therapy. In one small study, people adhered to positional therapy for 2.5 hours longer than they did for CPAP. No difference in quality of life or quality of sleep between the two groups was found. 
+In the comparison between positional therapy and inactive control, the studies found that positional therapy appeared to be better than control for ESS and AHI (ESS was 1.58 lower in positional therapy and AHI was 7.38 fewer events per hour with positional therapy). Another study noted adverse effects in 10% of participants. Common adverse effects were sleep disturbance and pain in the back and the chest. One study reported that there was no difference in quality of life and quality of sleep between positional therapy and inactive control. 
+All these studies lasted for a short time and included small number of participants.
+Conclusions 
+1. Positional therapy was less effective than CPAP for reducing Apnoea‐Hypopnoea Index (AHI). People may use positional therapy for longer than CPAP in the night. In terms of other outcomes no differences were seen. 
+2. Positional therapy was shown to be better than inactive control for AHI and Epworth Sleepiness Scale (ESS). 

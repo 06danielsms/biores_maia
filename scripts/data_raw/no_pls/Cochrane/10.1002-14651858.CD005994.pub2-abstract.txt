@@ -1,0 +1,14 @@
+Background
+A number of studies exist of interventions for wandering in the institutional setting, but much less work has been done on wandering in the domestic setting. The prevalence of wandering by people with dementia is difficult to assess; wandering is not a simple or static behaviour and the reasons why people wander remain unclear. In the absence of a theory of wandering and an agreed definition of wandering, it is difficult to discover effective strategies for managing wandering and difficult to design appropriate intervention strategies. Also, the same behaviour or type of wandering might occur for different reasons in different individuals; any theoretical formulation is going to have to allow for different triggers for the behaviour and so to get a 'one size fits all' kind of explanation is unlikely. Thus what we mostly encounter in this field is a 'trial and error' approach which does not always do justice to the complex interactions of personal and environmental factors that lead people with dementia to wander. While there seems to be a consensus in the literature that in the majority of cases non‐pharmacological approaches may work as well as drug treatment and with fewer side effects, in practice clinicians often resort to drugs as the first line of treatment. This review reports the lack of evidence from RCTs and discusses the range of non‐pharmacological interventions that have been carried out using other study designs. 
+Objectives
+To evaluate the effectiveness and safety of non‐pharmacological interventions in reducing wandering in the domestic setting by people with dementia. The secondary objective is to highlight the quality and quantity of research evidence available and to set an agenda for future research. 
+Search methods
+The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL and LILACS were searched on 11 June 2009 using the terms:exit* OR wander* OR elopement OR ambulat* OR walk*. The CDCIG Specialized Register contains records from all major health care databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many trials databases and grey literature sources. 
+Selection criteria
+Randomised clinical trials comparing intervention with no intervention or usual treatment ('standard care') or another intervention. 
+Data collection and analysis
+No suitable trials of non‐pharmacological interventions for the prevention and management of wandering in the domestic setting were found. 
+Main results
+As no randomised controlled trials were found, no results can be reported.
+Authors' conclusions
+There is an urgent need for randomised controlled trials of non‐pharmacological interventions for wandering in the domestic setting. 

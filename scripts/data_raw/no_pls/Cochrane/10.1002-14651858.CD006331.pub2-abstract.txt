@@ -1,0 +1,14 @@
+Background
+Sensory impairments significantly limit the ability to use the upper limb after stroke. However, little is known about the effects of interventions used to address such impairments. 
+Objectives
+To determine the effects of interventions that target upper limb sensory impairment after stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 8 October 2009), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 1), MEDLINE (1966 to January 2009), EMBASE (1980 to January 2009), and six further electronic databases to January 2009. We also handsearched relevant journals, contacted authors in the field, searched doctoral dissertation databases, checked reference lists, and completed citation tracking. 
+Selection criteria
+Randomized controlled trials and controlled trials comparing interventions for sensory impairment after stroke with no treatment, conventional treatment, attention placebo or with other interventions for sensory impairment. 
+Data collection and analysis
+Two review authors selected studies, assessed quality and extracted data. We analyzed study data using mean differences and odds ratios as appropriate. The primary outcome we considered was sensory function and secondary outcomes examined included upper limb function, activities of daily living, impact of stroke and quality of life as well as adverse events. 
+Main results
+We included 13 studies, with a total 467 participants, testing a range of different interventions. Outcome measures included 36 measures of sensory impairment and 13 measures of upper limb function. All but two studies had unclear or high risk of bias. While there is insufficient evidence to reach conclusions about the effects of interventions included in this review, three studies provided preliminary evidence for the effects of some specific interventions, including mirror therapy for improving detection of light touch, pressure and temperature pain; a thermal stimulation intervention for improving rate of recovery of sensation; and intermittent pneumatic compression intervention for improving tactile and kinesthetic sensation. We could not perform meta‐analysis due to a high degree of clinical heterogeneity in both interventions and outcomes. 
+Authors' conclusions
+Multiple interventions for upper limb sensory impairment after stroke are described but there is insufficient evidence to support or refute their effectiveness in improving sensory impairment, upper limb function, or participants' functional status and participation. There is a need for more well‐designed, better reported studies of sensory rehabilitation. 

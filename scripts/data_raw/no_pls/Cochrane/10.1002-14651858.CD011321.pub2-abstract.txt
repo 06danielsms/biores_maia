@@ -1,0 +1,30 @@
+Background
+Exercise programmes are often recommended for managing ankylosing spondylitis (AS), to reduce pain and improve or maintain functional capacity. 
+Objectives
+To assess the benefits and harms of exercise programmes for people with AS.
+Search methods
+We searched CENTRAL, the Cochrane Library, MEDLINE Ovid, EMBASE Ovid, CINAHL EBSCO, PEDro, Scopus, and two trials registers to December 2018. We searched reference lists of identified systematic reviews and included studies, handsearched recent relevant conference proceedings, and contacted experts in the field. 
+Selection criteria
+We included reports of randomised controlled trials (RCT) of adults with AS that compared exercise therapy programmes with an inactive control (no intervention, waiting list) or usual care. 
+Data collection and analysis
+We used standard Cochrane methodology.
+Main results
+We included 14 RCTs with 1579 participants with AS. Most participants were male (70%), the median age was 45 years (range 39 to 47), and the mean symptom duration was nine years. The most frequently used exercises were those designed to help improve strength, flexibility, stretching, and breathing. Most exercise programmes were delivered along with drug therapy or a biological agent. We judged most of the studies at unclear or high risk of bias for several domains. All 14 studies provided data obtained immediately upon completion of the exercise programme. The median exercise programme duration was 12 weeks (interquartile range (IQR) 8 to 16). Three studies (146 participants) provided data for medium‐term follow‐up (< 24 weeks after completion of the exercise programmes), and one (63 participants) for long‐term follow‐up (> 24 weeks after completion of the exercise programmes). Nine studies compared exercise programmes to no intervention; five studies compared them to usual care (including physiotherapy, medication, or self‐management). 
+Exercise programmes versus no intervention 
+All data were obtained immediately upon completion of the exercise programme.
+For physical function, measured by a self‐reporting questionnaire (the Bath Ankylosing Spondylitis Functional Index (BASFI) scale, 0 to 10; lower is better), moderate‐quality evidence showed a no important clinically meaningful improvement with exercise programmes (mean difference (MD) ‐1.3, 95% confidence interval (CI) ‐1.7 to ‐0.9; 7 studies, 312 participants; absolute reduction 13%, 95% CI 17% to 9%). 
+For pain, measured on a visual analogue scale (VAS, 0 to 10, lower is better), low‐quality evidence showed an important clinically meaningful reduction of pain with exercise (MD ‐2.1, 95% CI ‐3.6 to ‐0.6; 6 studies, 288 participants; absolute reduction 21%, 95% CI 36% to 6%). 
+For patient global assessment of disease activity, measured by a self‐reporting questionnaire (the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scale, 0 to 10, lower is better), moderate‐quality evidence showed no important clinically meaningful reduction with exercise (MD ‐0.9, 95% CI ‐1.3 to ‐0.5; 6 studies, 262 participants; absolute reduction 9%, 95% CI 13% to 5%). 
+For spinal mobility, measured by a self‐reporting questionnaire (the Bath Ankylosing Spondylitis Metrology Index (BASMI) scale, 0 to 10, lower is better), very low‐quality evidence showed an improvement with exercise (MD ‐0.7 95%, ‐1.3 to ‐0.1; 5 studies, 232 participants) with no important clinical meaningful benefit (absolute reduction 7%, 95% CI 13% to 1%). 
+For fatigue, measured on a VAS (0 to 10, lower is better), very low‐quality evidence showed a no important clinically meaningful reduction with exercise (MD ‐1.4, 95% CI ‐2.7 to ‐0.1; 2 studies, 72 participants; absolute reduction 14%, 95% CI 27% to 1%). 
+Exercise programmes versus usual care 
+All data were obtained immediately upon completion of the exercise programme.
+For physical function, measured by the BASFI scale, moderate‐quality evidence showed an improvement with exercise (MD ‐0.4, 95% CI ‐0.6 to ‐0.2; 5 studies, 1068 participants). There was no important clinical meaningful benefit (absolute reduction 4%, 95% CI 6% to 2%). 
+For pain, measured on a VAS (0 to 10, lower is better), moderate‐quality evidence showed a reduction of pain with exercise (MD ‐0.5, 95% CI ‐0.9 to ‐0.1; 2 studies, 911 participants; absolute reduction 5%, 95% CI 9% to 1%). No important clinical meaningful benefit was found. 
+For patient global assessment of disease activity, measured by the BASDAI scale, low‐quality evidence showed a reduction with exercise (MD ‐0.7, 95% CI ‐1.3 to ‐0.1; 5 studies, 1068 participants), but it was not clinically important (absolute reduction 7%, 95% CI 13% to 1%) with important clinical meaningful benefit 
+For spinal mobility, measured by the BASMI scale, very low‐quality evidence found a no important clinically meaningful improvement with exercise (MD ‐1.2, 95% CI ‐2.8 to 0.5; 2 studies, 85 participants; absolute reduction 12%, 95% CI 5% less to 28% more). There was no important clinical meaningful benefit. 
+None of the studies measured fatigue.
+Adverse effects 
+We found very low‐quality evidence of the effect of exercise versus either no intervention, or usual care. We are uncertain of the potential for harm of exercises, due to low event rates, and a limited number of studies reporting events. 
+Authors' conclusions
+We found moderate‐ to low‐quality evidence that exercise programmes probably slightly improve function, may reduce pain, and probably slightly reduce global patient assessment of disease activity, when compared with no intervention, and measured upon completion of the programme. We found moderate‐ to low‐quality evidence that exercise programmes probably have little or no effect on improving function or reducing pain, when compared with usual care, and may have little or no effect on reducing patient assessment of disease activity, when measured upon completion of the programmes. We are uncertain whether exercise programmes improve spinal mobility, reduce fatigue, or induce adverse effects. 

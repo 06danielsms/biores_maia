@@ -1,0 +1,47 @@
+Remdesivir to treat people with COVID‐19
+Is remdesivir (an antiviral medicine) an effective treatment for COVID‐19? 
+Key messages 
+• For adults hospitalised with COVID‐19, remdesivir probably has little or no effect on deaths from any cause up to 28 days after treatment compared with placebo (sham treatment) or usual care.  
+• We are uncertain whether remdesivir improves or worsens patients’ condition, based on whether they needed more or less help with breathing. 
+• Researchers should agree on key outcomes to be used in COVID‐19 research, and future studies should investigate these areas. This would allow future updates of this review to draw more certain conclusions about the use of remdesivir to treat COVID‐19. 
+What is remdesivir? 
+Remdesivir is a medicine that fights viruses. It has been shown to prevent the virus that causes COVID‐19 (SARS‐CoV‐2) from reproducing. Medical regulators have approved remdesivir for emergency use to treat people with COVID‐19.  
+What did we want to find out? 
+We wanted to know if remdesivir is an effective treatment for people in hospital with COVID‐19 and if it causes unwanted effects compared to placebo or usual care. 
+People with COVID‐19 are given different kinds of breathing support, depending on how severe their breathing difficulties are. We used the types of breathing support people received as a measure of the success of remdesivir in treating COVID‐19. Types of breathing support included: 
+• for severe breathing difficulties: invasive mechanical ventilation, when a breathing tube is put into patients’ lungs, and a machine (ventilator) breathes for them. Patients are given medicine to make them sedated whilst they are on a ventilator. 
+• for moderate to severe breathing difficulties: non‐invasive mechanical ventilation through a mask over the nose and/or mouth, or a helmet. Air or oxygen is pushed through the mask. Patients are generally awake for this treatment. 
+• for moderate breathing difficulties: oxygen via a mask or prongs that sit in the nostrils. Patients can still breathe room air. 
+We were interested in the following outcomes:
+• deaths from any cause in the 28 days after treatment;
+• whether patients got better after treatment, measured by how long they spent on mechanical ventilation or oxygen; 
+• whether patients’ condition worsened so that they needed oxygen or mechanical ventilation;
+• quality of life;
+• any unwanted effects; and 
+• serious unwanted effects.
+What did we do?  
+We searched for studies that investigated remdesivir to treat adults with COVID‐19 compared to placebo or standard care. Patients were hospitalised with COVID‐19 and could be of any gender or ethnicity.   
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find?  
+We found 5 studies with 7452 people hospitalised with COVID‐19. Of these, 3886 people were given remdesivir. The average age of patients was 59 years. Studies took place around the world, mainly in high‐ and upper‐middle‐income countries.  
+Main results  
+The included studies compared remdesivir to placebo or usual care in people hospitalised with COVID‐19 for up to 28 days. 
+Deaths from any cause 
+• Remdesivir probably makes little or no difference to deaths from any cause (4 studies, 7142 people). In 1000 people, 8 fewer die with remdesivir compared to placebo or standard care. 
+Did patients get better with remdesivir? 
+• Remdesivir may have little or no effect on the length of time patients spent on invasive mechanical ventilation (2 studies, 1298 people).  
+• We do not know whether remdesivir increases or decreases time on supplemental oxygen (3 studies, 1691 people). 
+Did patients get worse with remdesivir? 
+• We do not know whether patients are more or less likely to need any mechanical ventilation (invasive or non‐invasive) with remdesivir (3 studies, 6696 people). 
+• Patients may be less likely to need invasive mechanical ventilation (2 studies, 1159 people). 
+• We do not know whether patients are more or less likely to need non‐invasive mechanical ventilation (1 study, 573 people).  
+• We do not know whether patients are more or less likely to need oxygen by mask or nasal prongs (1 study, 138 people). 
+Quality of life 
+• None of the included studies reported quality of life.
+Unwanted effects 
+• We do not know whether remdesivir leads to more or fewer unwanted effects of any level (3 studies, 1674 people).  
+• Patients are probably less likely to experience serious unwanted effects with remdesivir than with placebo or standard care (3 studies, 1674 people). In 1000 people, 63 fewer would experience a serious unwanted effect compared to placebo or standard care. 
+What are the limitations of the evidence? 
+We are moderately confident in the evidence for deaths from any cause and serious unwanted effects; however, our confidence in the other evidence is limited because studies used different methods to measure and record their results, and we did not find many studies for some of our outcomes of interest.  
+How up‐to‐date is this evidence? 
+The evidence is current to 16 April 2021.

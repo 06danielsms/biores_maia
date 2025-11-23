@@ -1,0 +1,14 @@
+Background
+Results of randomised controlled trials (RCTs) of vitamin D supplementation to improve bone density in children are inconsistent. 
+Objectives
+To determine the effectiveness of vitamin D supplementation for improving bone mineral density in children, whether any effect varies by sex, age or pubertal stage, the type or dose of vitamin D given or baseline vitamin D status, and if effects persist after cessation of supplementation. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL Issue 3, 2009), MEDLINE (1966 to present), EMBASE (1980 to present), CINAHL (1982 to present), AMED (1985 to present) and ISI Web of Science (1945 to present) on 9 August 2009, and we handsearched key journal conference abstracts. 
+Selection criteria
+Placebo‐controlled RCTs of vitamin D supplementation for at least three months in healthy children and adolescents (aged from one month to < 20 years) with bone density outcomes. 
+Data collection and analysis
+Two authors screened references for inclusion, assessed risk of bias, and extracted data. We conducted meta‐analyses and calculated standardised mean differences (SMD) of the percent change from baseline in outcomes in treatment and control groups. We performed subgroup analyses by sex, pubertal stage, dose of vitamin D and baseline serum vitamin D and considered these as well as compliance and allocation concealment as possible sources of heterogeneity. 
+Main results
+We included six RCTs (343 participants receiving placebo and 541 receiving vitamin D) for meta‐analyses. Vitamin D supplementation had no statistically significant effects on total body bone mineral content (BMC), hip bone mineral density (BMD) or forearm BMD. There was a trend to a small effect on lumbar spine BMD (SMD 0.15, 95% CI ‐0.01 to 0.31, P = 0.07). There were no differences in effects between high and low serum vitamin D studies at any site though there was a trend towards a larger effect with low vitamin D for total body BMC (P = 0.09 for difference). In low serum vitamin D studies, significant effects on total body BMC and lumbar spine BMD were approximately equivalent to a 2.6% and 1.7 % percentage point greater change from baseline in the supplemented group. 
+Authors' conclusions
+These results do not support vitamin D supplementation to improve bone density in healthy children with normal vitamin D levels, but suggest that supplementation of deficient children may be clinically useful. Further RCTs in deficient children are needed to confirm this. 

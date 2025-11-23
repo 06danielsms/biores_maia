@@ -1,0 +1,15 @@
+Background
+Artemisinin derivatives are a relatively new group of drugs with antimalarial properties. As resistance to other antimalarial drugs continues to increase, artemisinin drugs may be useful alternatives. 
+Objectives
+The objective of this review was to assess the effects of artemisinin drugs for treating uncomplicated falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, the Cochrane Controlled Trials Register, MEDLINE, EMBASE, Science Citation Index, LILACS, African Index Medicus, conference abstracts, and reference lists of relevant articles. We contacted organisations, researchers in the field, and drug companies. 
+Selection criteria
+Randomised and quasi‐randomised trials of artemisinin derivatives, alone or in combination with other antimalarials, compared with standard antimalarial treatments, in adults or children with uncomplicated falciparum malaria. Only trials where treatment was given by mouth or suppository were included. Comparisons between different artemisinin derivatives and treatment regimens were also included. 
+Data collection and analysis
+Eligibility and trial quality were assessed and data were extracted independently by the two reviewers. 
+Main results
+Forty‐one trials involving over 5000 patients were included. Variation in study design and quality made synthesis of the data problematic. Allocation concealment was adequate in only two trials. Most data were from areas of multidrug resistant falciparum malaria in South‐East Asia. Compared with standard antimalarial treatments, artemisinin drugs showed fast parasite clearance and high cure rates at follow‐up, provided the duration of treatment with artemisinin drugs was adequate. Combination with mefloquine improved sustained parasite clearance and was effective in multidrug resistant areas. When doses were adequate, the combination shortened the duration of treatment. We found no evidence that artemisinin drugs are more harmful than standard treatment drugs over a typical trial period of 28 days. 
+Authors' conclusions
+The evidence suggests that artemisinin drugs are effective and safe for treating uncomplicated malaria. There is no evidence from randomised trials that one artemisinin derivative is better than the others. In areas where there is mefloquine resistance, combination therapy with an artemisinin derivative appears to improve sustained parasite clearance compared with either drug alone. 
+This review summarizes trials up to 1999. For the reasons in the 'What's new' section, this review will no longer be updated. 

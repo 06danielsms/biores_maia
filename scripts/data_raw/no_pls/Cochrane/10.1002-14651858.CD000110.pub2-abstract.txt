@@ -1,0 +1,16 @@
+Background
+Bed rest used to be widely advised for women with a multiple pregnancy.
+Objectives
+The objective was to assess the effect of bed rest in hospital for women with a multiple pregnancy for prevention of preterm birth and other fetal, neonatal and maternal outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (May 2010).
+Selection criteria
+Randomised trials which compare outcomes in women with a multiple pregnancy and their babies who were offered bed rest in hospital with women only admitted to hospital if complications occurred. 
+Data collection and analysis
+The review authors carried out assessment for inclusion and risk of bias of the trials. We extracted and double entered data, and used a random‐effects model. 
+Main results
+We included seven trials which involved 713 women and 1452 babies. Routine bed rest in hospital for multiple pregnancy did not reduce the risk of preterm birth, or perinatal mortality. There was substantial heterogeneity related to perinatal death and stillbirth unaccounted for by trial quality. There was a suggestion of a decreased number of low birthweight infants (less than 2500 g) born to women in the routinely hospitalised group (risk ratio (RR) 0.92; 95% confidence interval (CI) 0.85 to 1.00). No differences were seen in the number of very low birthweight infants (less than 1500 g). No support for the policy was found for other neonatal outcomes. No information is available on developmental outcomes for infants in any of the trials. 
+For the secondary maternal outcomes reported of developing hypertension and caesarean delivery, no differences were seen. Women's views about the care they received were reported rarely. 
+In the subgroup analyses for women with an uncomplicated twin pregnancy, with cervical dilation prior to labour with a twin pregnancy and with a triplet pregnancy, no differences were seen in any primary and secondary neonatal outcomes and maternal outcomes. 
+Authors' conclusions
+There is currently not enough evidence to support a policy of routine hospitalisation for bed rest in multiple pregnancy. No reduction in the risk of preterm birth or perinatal death is evident, although there is a suggestion that fetal growth may be improved. For women with an uncomplicated twin pregnancy the results of this review show no benefit from routine hospitalisation for bed rest. Until further evidence is available, the policy cannot be recommended for routine clinical practice. 

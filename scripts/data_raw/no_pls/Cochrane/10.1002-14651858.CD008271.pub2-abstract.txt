@@ -1,0 +1,15 @@
+Background
+Recent evidence suggests an anti‐nociceptive effect of botulinum toxin.
+Objectives
+To compare the efficacy and safety of botulinum toxin in comparison to placebo or other treatment options for shoulder pain. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), Ovid MEDLINE, CINAHL (via EBSCOhost), Ovid SPORTDiscus, EMBASE and Science Citation Index. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing botulinum toxin with placebo or active treatment in people with shoulder pain were included. 
+Data collection and analysis
+For continuous measures we calculated mean difference (MD), and for categorical measures risk ratio (RR) (with 95% confidence interval (CI)). 
+Main results
+Six RCTs with 164 patients were included. Five RCTs in participants with post‐stroke shoulder pain indicated that compared with placebo, a single intramuscular injection of botulinum toxin A significantly reduced pain at three to six months post‐injection (MD ‐1.2 points, 95% CI ‐2.4 to ‐0.07; 0 to 10 point scale) but not at one month (MD ‐1.1 points, 95% CI ‐2.9 to 0.7). Shoulder external rotation was increased at one month (MD 9.8°, 95% CI 0.2 to 19.4) but not at three to six months. Shoulder abduction, external rotation or spasticity did not differ between groups, nor did the number of adverse events (RR 1.46, 95% CI 0.6 to 24.3). 
+One RCT in arthritis‐related shoulder pain indicated that botulinum toxin reduced pain severity (MD ‐2.0, 95% CI ‐3.7 to ‐0.3; 10 point scale) and shoulder disability with a reduction in Shoulder Pain and Disability Index score (MD ‐13.4, 95% CI ‐24.9 to ‐1.9; 100 point scale) when compared with placebo. Shoulder abduction was improved (MD 13.8 degrees, 95% CI 3.2 to 44.0). Serious adverse events did not differ between groups (RR 0.35, 95% CI: 0.11, 1.12). 
+Authors' conclusions
+The results should be interpreted with caution due to few studies with small sample sizes and high risk of bias. Botulinum toxin A injections seem to reduce pain severity and improve shoulder function and range of motion when compared with placebo in patients with shoulder pain due to spastic hemiplegia or arthritis. It is unclear if the benefit of pain relief in post‐stroke shoulder pain at three to six months but not at one month is due to limitations of the evidence, which includes small sample sizes with imprecise estimates, or a delayed onset of action. More studies with safety data are needed. 

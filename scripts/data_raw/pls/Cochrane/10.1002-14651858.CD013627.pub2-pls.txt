@@ -1,0 +1,25 @@
+What are the benefits and risks of people with COVID‐19 using antimicrobial mouthwashes or nasal sprays to improve their health and protect healthcare workers who treat them? 
+Why is this question important? 
+COVID‐19 is an infectious disease caused by the SARS‐CoV‐2 virus. Most people infected with COVID‐19 develop a mild to moderate respiratory illness, and some may have no symptoms (asymptomatic infection). Others experience severe symptoms and need specialist treatment and intensive care. 
+COVID‐19 spreads from person to person primarily through droplets that are produced when an infected person coughs, sneezes or talks. A person can also become infected by touching a surface or object that has viral droplets on it, and then touching their own mouth or nose. 
+Administering antimicrobial mouthwash (to rinse the mouth) or nasal spray (sprayed into the nose) to people with COVID‐19 might help them fight the infection and prevent them from infecting the healthcare workers who treat them. Antimicrobial mouthwash and nasal spray are liquids that kill or stop the growth of micro‐organisms such as viruses or bacteria. 
+As with any medical treatment, antimicrobial mouthwash and nasal spray have potential risks as well as benefits. It is possible that using mouthwash or nasal spray could cause a variety of unwanted (adverse) effects, including irritation, allergic reactions or loss of smell. It may also remove micro‐organisms from the mouth or nose that are useful for protecting the body against infection. 
+What did we aim to do? 
+To assess the benefits and risks for patients and healthcare workers of administering antimicrobial mouthwashes and nasal sprays to patients with COVID‐19, we set out to review the research evidence. In particular, we wanted to investigate the effects of patient use of antimicrobial mouthwashes and nasal sprays on: 
+‐ patient deaths and healthcare needs – including the need for hospitalisation, artificial breathing support, dialysis or haemofiltration (treatments required when the kidneys do not work properly); 
+‐ new COVID‐19 infections of healthcare workers;
+‐ important adverse effects such as loss of smell;
+‐ change in patients' COVID‐19 viral load (the amount of virus in an infected person’s blood); and 
+‐ the viral load of droplets produced by patients.
+How did we search for evidence? 
+Our team of researchers searched the medical literature for studies that compared the effects of any antimicrobial mouthwash or nasal spray administered to patients with COVID‐19 against no treatment, water or a salt solution. 
+What did we find? 
+We found no completed studies to include in this review.
+We found 16 studies currently in progress that aim to enrol nearly 1250 participants. These studies are investigating a range of mouthwashes and nasal sprays. 
+Fourteen of the studies are randomised controlled trials (clinical, real‐life studies where people are randomly put into one of two or more treatment groups). This type of study provides the most robust evidence about the effects of a treatment. 
+What does this mean? 
+There is currently no evidence relating to the benefits and risks of patients with COVID‐19 using antimicrobial mouthwashes or nasal sprays. 
+Sixteen randomised controlled trials are underway. Once these studies are completed, we will be able to analyse them and include their findings in an updated version of this review. 
+It is important that future studies collect and analyse information about adverse events. Few of the ongoing studies we identified specifically state that they will investigate these. If future studies show a beneficial effect of mouthwashes and nasal sprays, it may not be a large effect (very few health interventions have large and dramatic effect sizes). It will only be possible to weigh up potentially small benefits against risks if any adverse events that occur are reported in studies. 
+How‐up‐to date is this review? 
+We last searched for evidence on 1 June 2020. This review covered research that was available up to that date, but did not consider any evidence that may have been produced since then. 

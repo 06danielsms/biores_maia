@@ -1,0 +1,15 @@
+Methods to prevent people waking during surgery and remembering surgical events
+Key question 
+We reviewed the evidence about the use of devices to adjust the amount of drugs given during anaesthesia to prevent premature waking up. We also reviewed the evidence about the choice of drugs used during anaesthesia to prevent premature waking up. 
+Background 
+Anaesthesia is the use of drugs to render a patient unconscious for painful procedures and surgery. Being anaesthetized is not the same as being asleep. Someone sleeping may be easily awakened. Someone anaesthetized should only be allowed to awake when the surgery or procedure is completed. A very small percentage of patients may wake up during anaesthesia and surgery; this is called wakefulness. Patients usually do not remember being awake after emerging from anaesthesia. However, an even smaller percentage of patients do remember or recall events from surgery afterwards. This memory is called an awareness event. If that memory is distressing, it can impair the individual's quality of life. 
+New devices known as anaesthetic depth monitors are being used to monitor the patient's brainwave response to anaesthetic drugs. Anaesthetic depth monitors have been compared to the usual clinical observations (e.g. fast heart rate, tearing, movement, etc.) during surgery to adjust the amount of drugs given and reduce the risk of wakefulness and awareness. 
+Anaesthetic drugs have many different effects on brain function. Some drugs are used alone as the sole anaesthetic. Other drugs have insufficient effect to be used as a sole anaesthetic, but are used in combination with more powerful drugs. Drugs may have different risks of the patient waking up prematurely. 
+Search date 
+The evidence is current to April 2016.
+Study characteristics 
+We found 160 randomized controlled trials with 54,109 participants. Eighteen studies with 36,034 participants contributed evidence about devices and drugs to prevent premature waking up during surgery. Nine studies compared anaesthetic depth monitoring versus other methods to adjust drugs. Nine studies compared different drugs. There are 10 studies awaiting classification, which we will process when we update the review. 
+Key results 
+In the largest studies of anaesthetic depth monitors (five studies with 31,181 participants) there were 152 participants with possible or definite awareness (recall of surgery events after surgery). The use of anaesthetic depth monitors to adjust drugs during anaesthesia may have similar effects on the risk of awareness when compared with standard clinical and electrical monitoring. Wakefulness is reduced by ketamine and etomidate compared to thiopental. Benzodiazepines reduces awareness compared to thiopental, ketamine, and placebo. Also higher doses of inhaled anaesthetics versus lower doses reduced the risk of awareness. 
+Quality of evidence 
+The quality of the evidence was low or very low because the studies the results were not similar across studies, and there were not enough data. 

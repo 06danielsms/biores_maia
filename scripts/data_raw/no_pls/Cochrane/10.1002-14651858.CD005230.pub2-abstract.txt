@@ -1,0 +1,15 @@
+Background
+Nocturnal enuresis (bedwetting) is a socially disruptive and stressful condition which affects around 15% to 20% of five year olds, and up to 2% of young adults. 
+Objectives
+To assess the effects of complementary interventions and others such as surgery or diet on nocturnal enuresis in children, and to compare them with other interventions. 
+Search methods
+We searched PubMed (1950 to June 2010), EMBASE (1980 to June 2010), the Traditional Chinese Medical Literature Analysis and Retrieval System (TCMLARS) (1984 to June 2010), Chinese Biomedical Literature Database (CBM) (1975 to June 2010), China National Knowledge Infrastructure (CNKI) (1979 to June 2010), VIP database (1989 to June 2010), and the reference lists of relevant articles, all last searched 26 June 2010. No language restriction was used. 
+Selection criteria
+All randomised or quasi‐randomised trials of complementary and other miscellaneous interventions for nocturnal enuresis in children were included except those focused solely on daytime wetting. Comparison interventions could include no treatment, placebo or sham treatment, alarms, simple behavioural treatment, desmopressin, imipramine and miscellaneous other drugs and interventions. 
+Data collection and analysis
+Two reviewers independently assessed the quality of the eligible trials, and extracted data. 
+Main results
+In 24 randomised controlled trials, 2334 children were studied, of whom 1283 received a complementary intervention. The quality of the trials was poor: 5 trials were quasi‐randomised, 5 showed differences at baseline and 17 lacked follow up data. 
+The outcome was better after hypnosis than imipramine in one trial (relative risk (RR) for failure or relapse after stopping treatment 0.42, 95% confidence interval (CI) 0.23 to 0.78). Psychotherapy appeared to be better in terms of fewer children failing or relapsing than both alarm (RR 0.28, 95% CI 0.09 to 0.85) and rewards (RR 0.29, 95%CI 0.09 to 0.90) but this depended on data from only one trial. Medicinal herbs had better results than desmopressin in one trial (RR for failure or relapse after stopping treatment 0.35, 95% CI 0.14 to 0.85). Acupuncture had better results than sham control acupuncture (RR for failure or relapse after stopping treatment 0.67, 95% CI 0.48 to 0.94) in a further trial. Active chiropractic adjustment had better results than sham adjustment (RR for failure to improve 0.76, 95% CI 0.60 to 0.95). However, each of these findings came from small single trials, and must be verified in further trials. The findings for diet and faradization were unreliable, and there were no trials including homeopathy or surgery. 
+Authors' conclusions
+There was weak evidence to support the use of hypnosis, psychotherapy, acupuncture, chiropractic and medicinal herbs but it was provided in each case by single small trials, some of dubious methodological rigour. Robust randomised trials are required with efficacy, cost‐effectiveness and adverse effects clearly reported. 

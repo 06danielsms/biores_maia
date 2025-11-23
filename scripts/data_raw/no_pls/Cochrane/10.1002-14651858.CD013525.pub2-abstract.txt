@@ -1,0 +1,28 @@
+Background
+Abortion is common worldwide and increasingly abortions are performed at less than 14 weeks’ gestation using medical methods, specifically using a combination of mifepristone and misoprostol. Medical abortion is known to be a painful process, but the optimal method of pain management is unclear. We sought to identify and compare pain management regimens for medical abortion before 14 weeks’ gestation.  
+Objectives
+Primary objective 
+To determine if there is evidence of superiority of any particular pain relief regimen in the management of combination medical abortion (mifepristone + misoprostol) under 14 weeks' gestation (i.e. up to 13 + 6 weeks or 97 days). 
+Secondary objectives 
+To compare the rate of gastrointestinal side effects resulting from different methods of analgesia 
+To compare the rate of complete abortion resulting from different methods of analgesia during medical abortion 
+To determine if the induction‐to‐abortion interval is associated with different methods of analgesia 
+To determine if any method of analgesia is associated with unscheduled contact with the care provider in relation to pain. 
+Search methods
+On 21 August 2019 we searched CENTRAL, MEDLINE, Embase, CINAHL, LILACs, PsycINFO, the World Health Organization International Clinical Trials Registry and ClinicalTrials.gov together with reference checking and handsearching of conference abstracts of relevant learned societies and professional organisations to identify further studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and observational studies (non‐randomised studies of interventions (NRSIs)) of any pain relief intervention (pharmacological and non‐pharmacological) for mifepristone‐misoprostol combination medical abortion of pregnancies less than 14 weeks’ gestation. 
+Data collection and analysis
+Two review authors (JRW and MA) independently assessed all identified papers for inclusion and risks of bias, resolving any discrepancies through discussion with a third and fourth author as required (CM and SC). Two review authors independently conducted data extraction, including calculations of pain relief scores, and checked for accuracy. We assessed the certainty of the evidence using the GRADE approach. 
+Main results
+We included four RCTs and one NRSI. Due to the heterogeneity of study designs, interventions and outcome reporting, we were unable to perform meta‐analysis for any of the primary or secondary outcomes in this review. 
+Only one study found evidence of an effect between interventions on pain score: a prophylactic dose of ibuprofen 1600 mg likely reduces the pain score when compared to a dose of paracetamol 2000 mg (mean difference (MD) 2.26 out of 10 lower, 95% confidence interval (CI) 3.00 to 1.52 lower; 1 RCT 108 women; moderate‐certainty evidence). 
+There may be little to no difference in pain score when comparing pregabalin 300 mg with placebo (MD 0.5 out of 10 lower, 95% CI 1.41 lower to 0.41 higher; 1 RCT, 107 women; low‐certainty evidence).  
+There may be little to no difference in pain score when comparing ibuprofen 800 mg with placebo (MD 1.4 out of 10 lower, 95% CI 3.33 lower to 0.53 higher; 1 RCT, 61 women; low‐certainty evidence). 
+Ambulation or non‐ambulation during medical abortion treatment may have little to no effect on pain score, but the evidence is very uncertain (MD 0.1 out of 5 higher, 95% CI 0.26 lower to 0.46 higher; 1 NRSI, 130 women; very low‐certainty evidence). 
+There may be little to no difference in pain score when comparing therapeutic versus prophylactic administration of ibuprofen 800 mg (MD 0.2 out of 10 higher, 95% CI 0.41 lower to 0.81 higher; 1 RCT, 228 women; low‐certainty evidence).   
+Other outcomes of interest were reported inconsistently across studies. Where these outcomes were reported, there was no evidence of difference in incidence of gastrointestinal side effects, complete abortion rate, interval between misoprostol administration to pregnancy expulsion, unscheduled contact with a care provider, patient satisfaction with analgesia regimen nor patient satisfaction with abortion experience overall. However, the certainty of evidence was very low to low. 
+Authors' conclusions
+The findings of this review provide some support for the use of ibuprofen as a single dose given with misoprostol prophylactically, or in response to pain as needed. The optimal dosing of ibuprofen is unclear, but a single dose of ibuprofen 1600 mg was shown to be effective, and it was less certain whether 800 mg was effective. Paracetamol 2000 mg does not improve pain scores as much as ibuprofen 1600 mg, however its use does not appear to cause greater frequency of side effects or reduce the success of the abortion. 
+A single dose of pregabalin 300 mg does not affect pain scores during medical abortion, but like paracetamol, does not appear to cause harm. Ambulation or non‐ambulation during the medical abortion procedure does not appear to affect pain scores, outcomes, or duration of treatment and so women can be advised to mobilise or not, as they wish. 
+The majority of outcomes in this review had low‐ to very low‐certainty evidence, primarily due to small sample sizes and two studies at high risk of bias. High‐quality, large‐scale RCT research is needed for pain management during medical abortion at gestations less than 14 weeks. Consistent recording of pain with a validated measure would be of value to the field going forward. 

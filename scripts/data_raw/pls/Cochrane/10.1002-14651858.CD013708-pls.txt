@@ -1,0 +1,12 @@
+Approaches to guiding oxygen therapy in adult intensive care patients with acute respiratory distress syndrome 
+Background 
+Acute respiratory distress syndrome (ARDS) is a very severe breathing problem with a high mortality rate (chance of dying). It has many potential causes, including viral infections such as COVID‐19, and there are no specific treatments for it except for giving patients oxygen via a ventilator (artificial breathing machine) on an intensive care unit, often for long periods of time. However, large amounts of oxygen (either a high concentration of oxygen or oxygen administered for a long period of time) are associated with increased harm due to other illnesses (e.g. heart attack or stroke). 
+What did we want to find out? 
+We wanted to know whether patients with severe lung problems (ARDS) would do better (including less chance of dying) if they received higher or lower amounts of oxygen whilst they were on a ventilator in intensive care. 
+Methods 
+We searched major medical databases up to 15 May 2020 for clinical trials studying oxygen use in adult patients with ARDS in intensive care units. We only searched for studies with the sickest patients, that is those who needed help with their breathing through a breathing tube that was connected to an artificial breathing machine. We did not restrict the search by language of publication. 
+In addition to extracting and analysing the data from any studies that met these criteria, we also assessed the risk of bias (fairness) and the certainty (confidence) of the findings. 
+Results 
+We included only one study (205 participants) in the review. Patients with ARDS and receiving oxygen through a breathing tube in an intensive care unit may have a higher chance of death if they receive lower amounts of oxygen compared to receiving much higher amounts of oxygen, but the evidence is very uncertain. 
+Certainty of evidence 
+Our certainty (confidence) in these findings is very low as data were only available from one study that had only a small number of participants, and was stopped earlier than anticipated because of safety concerns. We are therefore unable to definitively say whether giving more or less oxygen to ARDS patients is helpful. 

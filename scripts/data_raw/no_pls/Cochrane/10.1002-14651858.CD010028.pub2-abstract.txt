@@ -1,0 +1,14 @@
+Background
+Myasthenia is a condition in which neuromuscular transmission is affected by antibodies against neuromuscular junction components (autoimmune myasthenia gravis, MG; and neonatal myasthenia gravis, NMG) or by defects in genes for neuromuscular junction proteins (congenital myasthenic syndromes, CMSs). Clinically, some individuals seem to benefit from treatment with ephedrine, but its effects and adverse effects have not been systematically evaluated. 
+Objectives
+To assess the effects and adverse effects of ephedrine in people with autoimmune MG, transient neonatal MG, and the congenital myasthenic syndromes. 
+Search methods
+On 17 November 2014, we searched the Cochrane Neuromuscular Disease Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE. We also searched reference lists of articles, conference proceedings of relevant conferences, and prospective trial registers. In addition, we contacted manufacturers and researchers in the field. 
+Selection criteria
+We considered randomised controlled trials (RCTs) and quasi‐RCTs comparing ephedrine as a single or add‐on treatment with any other active treatment, placebo, or no treatment in adults or children with autoimmune MG, NMG, or CMSs. 
+Data collection and analysis
+Two review authors independently assessed study design and quality, and extracted data. We contacted study authors for additional information. We collected information on adverse effects from included articles, and contacted authors. 
+Main results
+We found no RCTs or quasi‐RCTs, and therefore could not establish the effect of ephedrine on MG, NMG and CMSs. We describe the results of 53 non‐randomised studies narratively in the Discussion section, including observations of endurance, muscle strength and quality of life. Effects may differ depending on the type of myasthenia. Thirty‐seven studies were in participants with CMS, five in participants with MG, and in 11 the precise form of myasthenia was unknown. We found no studies for NMG. Reported adverse effects included tachycardia, sleep disturbances, nervousness, and withdrawal symptoms. 
+Authors' conclusions
+There was no evidence available from RCTs or quasi‐RCTs, but some observations from non‐randomised studies are available. There is a need for more evidence from suitable forms of prospective RCTs, such as series of n‐of‐one RCTs, that use appropriate and validated outcome measures. 

@@ -1,0 +1,16 @@
+Background
+Cocaine dependence is a public health problem characterised by recidivism and a host of medical and psychosocial complications. Cocaine dependence remains a disorder for which no pharmacological treatment of proven efficacy exists. 
+Objectives
+To evaluate the efficacy and the acceptability of antipsychotic medications for cocaine dependence. 
+Search methods
+This review is an update of a previous Cochrane review published in 2007. We searched up to 15 July 2015 in Cochrane Drugs and Alcohol Group Specialised Register (searched in CRSLive); the Cochrane Library (including the Cochrane Central Register of Controlled Trials (CENTRAL); the Database of Abstracts of Reviews of Effects (DARE)); PubMed; EMBASE; CINAHL and Web of Science. All searches included non‐English language literature. 
+Selection criteria
+All randomised controlled trials and controlled clinical trials with focus on the use of any antipsychotic medication for the treatment of cocaine dependence. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We included 14 studies (719 participants). The antipsychotic drugs studied were risperidone, olanzapine, quetiapine, lamotrigine, aripiprazol, haloperidol and reserpine. Comparing any antipsychotic drugs versus placebo, we found that antipsychotics reduced dropout: eight studies, 397 participants, risk ratio (RR) 0.75 (95% confidence interval (CI) 0.57 to 0.97), moderate quality of evidence. We found no significant differences for any of the other primary outcomes considered: number of participants using cocaine during the treatment, two studies, 91 participants: RR 1.02 (95% CI 0.65 to 1.62); continuous abstinence, three studies, 139 participants: RR 1.30 (95% CI 0.73 to 2.32); side effects, six studies, 291 participants: RR 1.01 (95% CI 0.93 to 1.10); and craving, four studies, 240 participants: RR 0.13 (‐1.08 to 1.35). For all of these comparisons we rated the quality of evidence as low. 
+Comparisons of single drug versus placebo or versus another drug are conducted in few trials with small sample sizes, limiting the reliability of the results. Among these comparisons, only quetiapine seemed to outperform placebo in reducing cocaine use, measured by grams per week: mean difference (MD) ‐0.54 (95% CI ‐0.92 to ‐0.16), by US dollars spent per week: MD ‐53.80 (95% CI ‐97.85 to ‐9.75), and by craving: MD ‐1.23 (95% CI ‐2.19 to ‐0.27), but results came from one study with 60 participants. 
+The major limitations of the studies were the high risk of attrition bias (40% of the included studies) and low quality of reporting, mainly for the risk of selection bias, performance and detection bias, that we rated as being at unclear risk for 75% to 80% of the studies. Furthermore, most of the included studies did not report results on important outcomes such as side effects, or use of cocaine during treatment and craving, which prevented the possibility of including them in statistical synthesis. 
+Authors' conclusions
+At present, there is no evidence supporting the clinical use of antipsychotic medications in the treatment of cocaine dependence, although results come from only 14 trials, with small sample sizes and moderate to low quality of evidence. 

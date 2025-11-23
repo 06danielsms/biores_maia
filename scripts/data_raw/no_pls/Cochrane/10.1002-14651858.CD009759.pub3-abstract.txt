@@ -1,0 +1,15 @@
+Background
+Acute graft‐versus‐host disease (aGvHD) is a major cause of morbidity and mortality after haematopoietic stem cell transplantation (HSCT) occurring in 8% to 59% of the recipients. Currently, the therapeutic mainstay for aGvHD is corticosteroids. However, there is no established standard treatment for steroid‐refractory aGvHD. Extracorporeal photopheresis (ECP) is a type of immunomodulatory method amongst different therapeutic options that involves ex vivo collection of peripheral mononuclear cells, exposure to the photoactive agent 8‐methoxypsoralen and ultraviolet‐A radiation, and re‐infusion of these treated blood cells to the patient. The mechanisms of action of ECP are not completely understood. This is an updated version of a Cochrane review first published in 2014. 
+Objectives
+To evaluate the effectiveness and safety of ECP for the management of aGvHD in children and adolescents after HSCT. 
+Search methods
+We searched the Cochrane Register of Controlled Trials (CENTRAL) (Issue 9, 2015), MEDLINE (PubMed) and EMBASE (Ovid) databases from their inception to 23 September 2015. We searched the reference lists of potentially relevant studies without any language restrictions. We searched eight trial registers and four conference proceedings on 29 September 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing ECP with or without standard treatment versus standard treatment alone in paediatric patients with aGvHD after HSCT. 
+Data collection and analysis
+Two review authors independently performed the study selection. We resolved disagreement in the selection of trials by consultation with a third review author. 
+Main results
+We identified no additional studies in the 2015 review update, in total leading to no studies meeting the criteria for inclusion in this review. 
+Authors' conclusions
+The efficacy of ECP in the treatment of aGvHD in paediatric patients after HSCT is unknown and its use should be restricted within the context of RCTs. Such studies should address a comparison of ECP alone or in combination with standard treatment versus standard treatment alone. The 2015 review update brought about no additions to these conclusions. 
+ 

@@ -1,0 +1,16 @@
+Background
+Injury to the abdomen can be blunt or penetrating. Abdominal injury can damage internal organs such as the liver, spleen, kidneys, intestine, and large blood vessels. There are controversies about the best approach to manage abdominal injuries. 
+Objectives
+To assess the effects of surgical and non‐surgical interventions in the management of abdominal trauma in a haemodynamically stable and non‐peritonitic abdomen. 
+Search methods
+We searched the Cochrane Injuries Group's Specialised Register, The Cochrane Library, Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), EMBASE Classic+EMBASE (Ovid), ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S & CPSI‐SSH), CINAHL Plus (EBSCO), and clinical trials registers, and screened reference lists. We ran the most recent search on 17 September 2015. 
+Selection criteria
+Randomised controlled trials of surgical interventions and non‐surgical interventions involving people with abdominal injury who were haemodynamically stable with no signs of peritonitis. The abdominal injury could be blunt or penetrating. 
+Data collection and analysis
+Two review authors independently applied the selection criteria. Data were extracted by two authors using a standard data extraction form, and are reported narratively. 
+Main results
+Two studies are included, which involved a total of 114 people with penetrating abdominal injuries. Both studies are at moderate risk of bias because the randomisation methods are not fully described, and the original study protocols are no longer available. The studies were undertaken in Finland between 1992 and 2002, by the same two researchers. 
+In one study, 51 people were randomised to surgery or an observation protocol. None of the participants in the study died. Seven people had complications: 5 (18.5%) in the surgical group and 2 (8.3%) in the observation group; the difference was not statistically significant (P = 0.42; Fischer's exact). Among the 27 people who had surgery, 6 (22.2%) surgeries were negative laparotomies, and 15 (55.6%) were non‐therapeutic. 
+In the other study, 63 people were randomised to diagnostic laparoscopy (surgery) or an observation protocol. There were no deaths and no unnecessary surgeries in either group. Four people did not receive the intervention they were assigned. There was no difference in therapeutic operations between the two groups: 3 of 28 in the diagnostic laparoscopy group versus 1 of 31 in the observation protocol group (P = 0.337). 
+Authors' conclusions
+Based on the findings of 2 studies involving a total of 114 people, there is no evidence to support the use of surgery over an observation protocol for people with penetrating abdominal trauma who have no signs of peritonitis and are stable. 

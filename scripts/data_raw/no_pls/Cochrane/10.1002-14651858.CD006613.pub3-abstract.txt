@@ -1,0 +1,16 @@
+Background
+Upper gastrointestinal haemorrhage affects 50 to 150 per 100,000 adults per year, with a high mortality. Red blood cell transfusions are frequently given, but their impact on rebleeding rates and mortality is unknown. 
+Objectives
+To assess the effects of red blood cell (RBC) transfusion in adults with upper gastrointestinal haemorrhage. 
+Search methods
+For this update, we re‐ran the initial search strategies from the last issue/month searched until March 2010. 
+We previously searched the Cochrane Upper Gastrointestinal and Pancreatic Diseases Group Trials Register to February 2008, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2008, issue 1), MEDLINE (1950 to February 2008), EMBASE (1974 to February 2008), the Systematic Review Initiative database of randomised controlled trials (RCTs), haematology and gastroenterology conference proceedings, and reference lists of articles. 
+Selection criteria
+Randomised and quasi‐randomised studies comparing RBC transfusion and standard care with other intravenous fluid and standard care regimens in haemodynamically stable and haemodynamically unstable adults with upper gastrointestinal haemorrhage. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. 
+Main results
+Three trials involving 126 patients were included, with complete data available for 93 patients. The participants were heterogeneous, none of the three studies examined exactly the same interventions or measured the same outcomes. Only two trials reported mortality data and the summary relative risk for mortality of the intervention was 5.4 (95% CI 0.27 to 107.09). One trial reported increased coagulation times in the transfused group, and reported these patients to have increased rates of rebleeding. None of the studies reported adverse events directly related to RBC transfusion. Methodological deficiencies, including allocation concealment, generation of random sequences and blinding, simply compound the uncertainty surrounding analysis. None of the studies were appropriately powered and in the largest study fewer than half the participants were included in the final analysis. 
+One RCT of restrictive versus liberal RBC transfusion aims to recruit 860 patients but has yet to be completed. 
+Authors' conclusions
+There were more deaths and more rebleeding in the transfusion arms of the combined studies, but the small numbers of participants and large volume of missing data limit the significance of the findings. The studies in this review do not provide useful data regarding outcomes following red blood cell transfusion for acute upper gastrointestinal haemorrhage. They appear to exclude large survival benefit. Large, well‐concealed RCTs of sufficient power are urgently needed. 

@@ -1,0 +1,14 @@
+Background
+Knee osteoarthritis (OA) is a progressive disease that initially affects the articular cartilage. Observational studies have shown benefits for arthroscopic debridement (AD) on the osteoarthritic knee, but other recent studies have yielded conflicting results that suggest AD may not be effective. 
+Objectives
+To identify the effectiveness of AD in knee OA on pain and function.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2006); MEDLINE (1966 to August, 2006); CINAHL (1982 to 2006); EMBASE (1988 to 2006) and Web of Science (1900 to 2006) and screened the bibliographies, reference lists and cited web sites of papers. 
+Selection criteria
+We included randomised controlled trials (RCT) or controlled clinical trials (CCT) assessing effectiveness of AD compared to another surgical procedure, including sham or placebo surgery and other non‐surgical interventions, in patients with a diagnosis of primary or secondary OA of the knees, who did not have other joint involvement or conditions requiring long term use of non‐steroidal anti‐inflammatory drugs (NSAIDs). The main outcomes were pain relief and improved function of the knee. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed trial quality and extracted the data. Results are presented using weighted mean difference (WMD) for continuous data and relative risk (RR) for dichotomous data, and the number needed to treat to benefit (NNTB) or harm (NNTH). 
+Main results
+Three RCTs were included with a total of 271 patients. They had different comparison groups and a moderate risk of bias. One study compared AD with lavage and with sham surgery. Compared to lavage the study found no significant difference. Compared to sham surgery placebo, the study found worse outcomes for AD at two weeks (WMD for pain 8.7, 95% CI 1.7 to 15.8, and function 7.7, 95% CI 1.1 to 14.3; NNTH=5) and no significant difference at two years. The second trial, at higher risk of bias, compared AD and arthroscopic washout, and found that AD significantly reduced knee pain compared to washout at five years (RR 5.5, 95% CI 1.7 to 15.5; NNTB=3). The third trial, also at higher risk of bias, compared AD to closed‐needle lavage, and found no significant difference. 
+Authors' conclusions
+There is 'gold' level evidence that AD has no benefit for undiscriminated OA (mechanical or inflammatory causes). 

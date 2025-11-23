@@ -1,0 +1,14 @@
+Background
+Side effects caused by oral contraceptives discourage compliance with, and continuation of, oral contraceptives. A suggested disadvantage of biphasic compared to triphasic oral contraceptive (OC) pills is an increase in breakthrough bleeding. We conducted this systematic review to examine this potential disadvantage. 
+Objectives
+To compare biphasic with triphasic oral contraceptives in terms of efficacy, cycle control, and discontinuation due to side effects. 
+Search methods
+We searched MEDLINE, POPLINE, LILACS and CENTRAL, as well as clinical trials databases (ClinicalTrials.gov and ICTRP). We searched the reference lists of relevant articles and book chapters. We also contacted the authors of relevant studies and pharmaceutical companies. 
+Selection criteria
+We included randomized controlled trials comparing any biphasic with any triphasic OC when used to prevent pregnancy. 
+Data collection and analysis
+We examined the studies found during the searches for inclusion and assessed methodological quality. We contacted the authors of included studies and of possibly randomized studies for information about the methods and outcomes. We entered the data into RevMan. We calculated Peto odds ratios for incidence of discontinuation due to medical reasons, intermenstrual bleeding, and absence of withdrawal bleeding. 
+Main results
+Only two trials of limited quality met our inclusion criteria. One study compared two biphasic pills and one triphasic pill, each containing levonorgestrel and ethinyl estradiol. No important differences emerged, and the frequency of discontinuation due to medical problems was similar with all three pills. The other trial compared a biphasic pill containing norethindrone (Ortho 10/11) with a triphasic pill containing levonorgestrel (Triphasil) and with another triphasic containing norethindrone (Ortho 7/7/7). The biphasic pill had inferior cycle control compared with the levonorgestrel triphasic. The odds ratio of cycles with intermenstrual bleeding was 1.70 (95% confidence interval (CI) 1.29 to 2.24) for the biphasic compared with the triphasic levonorgestrel pill. The odds ratio of cycles without withdrawal bleeding was 6.48 (95% CI 3.13 to 13.39). In contrast, cycle control with the biphasic pill was comparable to that of the triphasic containing the same progestin (norethindrone). 
+Authors' conclusions
+The available evidence is limited and the internal validity of these trials is questionable. Given the high losses to follow up, these reports may even be considered observational. Given that caveat, the biphasic pill containing norethindrone was associated with inferior cycle control compared with the triphasic pill containing levonorgestrel. The choice of progestin may be more important than the phasic regimen in determining bleeding patterns. 

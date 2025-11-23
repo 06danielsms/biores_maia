@@ -1,0 +1,17 @@
+What type of heart and blood vessel problems complicate COVID‐19 infections, how common are they and what other medical conditions do these patients have? 
+Background 
+Many people infected by COVID‐19 have few or no symptoms. However, COVID‐19 can make the blood ‘sticky’, clogging up both small blood vessels (capillaries) and large ones, which may cause heart attacks, strokes or blood clots in the legs or lungs. These can be fatal. People who have diabetes, high blood pressure or pre‐existing heart problems are at greater risk of developing such complications if they get COVID‐19. 
+Our research question 
+We wanted to find out, in cases of confirmed or suspected COVID‐19:
+‐ what are the most common pre‐existing heart and blood vessel (cardiovascular) problems (for example, diabetes, high blood pressure and obesity) 
+‐ what are the most common complications affecting the heart and blood vessels (for example, irregular heartbeat, blood clots, heart failure and stroke)  in different setting (in the community, care homes or in hospital). 
+What we did 
+We searched for published studies that reported heart and blood vessel problems in people with possible or confirmed COVID‐19. Studies could be of any design and could take place anywhere, but they had to have been checked by other researchers (be peer‐reviewed), be written in English, and include at least 100 cases. 
+The evidence is current until July 2020.
+What we found 
+We found 220 studies that reported relevant information, but the quality of the information was often poor. Studies were mostly from China and the USA. Most studies only had information on the small minority of cases that were admitted to hospital with COVID‐19, often to the intensive care unit. 
+We found that high blood pressure, diabetes and heart disease are very common in people hospitalised with COVID‐19 and are associated with an increased risk of death. More than one‐third of patients with COVID‐19 had a history of high blood pressure, 23.5% had a pre‐existing heart or blood vessel problem, 22.1% had diabetes, and 21.6% were obese (many people had more than one of these conditions). 
+The most common cardiovascular complication in people with COVID‐19 was an irregular heartbeat (atrial fibrillation; 8.5%). Blood clots in the legs (6.1%) or lungs (4.3%), and heart failure (6.8%) were also common, but the reported rates may be underestimated because the studies did not always carry out appropriate investigations. Heart attacks (1.7%) and strokes (1.2%) were reported less often. Blood tests also often suggested heart damage or stress. 
+Next steps 
+The studies focused on people in hospital, with severe COVID‐19, so the results may not apply to people who had milder COVID‐19 who were not hospitalised. The studies were very different from each other and did not always report the results in the same way or use the most reliable methods. Accordingly, our confidence in the precision of the prevalence of pre‐existing disease and of cardiovascular complications is not high. 
+We plan to update this review. However, in future, we will focus only on higher‐quality evidence to increase the strength of our findings.  

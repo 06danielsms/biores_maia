@@ -1,0 +1,14 @@
+Background
+Postpartum depression is a common complication of childbirth, affecting approximately 13% of women. A hormonal aetiology has long been hypothesised due to the sudden and substantial fluctuations in concentrations of steroid hormones associated with pregnancy and the immediate postpartum period. There is also convincing evidence that oestrogens, progestins, and related compounds have important central nervous system activity at physiological concentrations. 
+Objectives
+The primary objective of this review was to assess the effects of oestrogens and progestins, including natural progesterone and synthetic progestogens, compared with placebo or usual antepartum, intrapartum, or postpartum care in the prevention and treatment of postpartum depression. 
+Search methods
+We searched The Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010), scanned secondary references and contacted experts in the field. 
+Selection criteria
+All published and unpublished randomised controlled trials comparing an oestrogen and progestin intervention with a placebo or usual antepartum, intrapartum, or postpartum care among pregnant women or new mothers recruited within the first year postpartum. 
+Data collection and analysis
+Two review authors participated in the evaluation of methodological quality, data extraction, and data analysis. Results are presented using relative risk for categorical data and weighted mean difference for continuous data. 
+Main results
+Two trials, involving 229 women, met the selection criteria. Norethisterone enanthate, a synthetic progestogen, administered within 48 hours of delivery was associated with a significantly higher risk of developing postpartum depression. Oestrogen therapy was associated with a greater improvement in depression scores than placebo among women with severe depression. 
+Authors' conclusions
+Synthetic progestogens should be used with significant caution in the postpartum period. The role of natural progesterone in the prevention and treatment of postpartum depression has yet to be evaluated in a randomised, placebo‐controlled trial. Oestrogen therapy may be of modest value for the treatment of severe postpartum depression. Its role in the prevention of recurrent postpartum depression has not been rigorously evaluated. Further research is warranted. 

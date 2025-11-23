@@ -1,0 +1,34 @@
+Background
+Motor neuron disease (MND), which is also known as amyotrophic lateral sclerosis (ALS), causes a wide range of symptoms but the evidence base for the effectiveness of the symptomatic treatment therapies is limited. 
+Objectives
+To summarise the evidence from Cochrane Systematic Reviews of all symptomatic treatments for MND. 
+Methods
+We searched the Cochrane Database of Systematic Reviews (CDSR) on 15 November 2016 for systematic reviews of symptomatic treatments for MND. We assessed the methodological quality of the included reviews using the Assessment of Multiple Systematic Reviews (AMSTAR) tool and the GRADE approach. We followed standard Cochrane study (review) selection and data extraction procedures. We reported findings narratively and in tables. 
+Main results
+We included nine Cochrane Systematic Reviews of interventions to treat symptoms in people with MND. Three were empty reviews with no included randomised controlled trials (RCTs); however, all three reported on non‐RCT evidence and the remaining six included mostly one or two studies. We deemed all of the included reviews of high methodological quality. 
+Drug therapy for pain 
+There is no RCT evidence in a Cochrane Systematic Review exploring the efficacy of drug therapy for pain in MND. 
+Treatment for cramps 
+There is evidence (13 RCTs, N = 4012) that for the treatment of cramps in MND, compared to placebo: 
+– memantine and tetrahydrocannabinol (THC) are probably ineffective (moderate‐quality evidence); 
+– vitamin E may have little or no effect (low‐quality evidence); and
+– the effects of L‐threonine, gabapentin, xaliproden, riluzole, and baclofen are uncertain as the evidence is either very low quality or the trial specified the outcome but did not report numerical data. 
+The review reported adverse effects of riluzole, but it is not clear whether other interventions had adverse effects. 
+Treatment for spasticity 
+It is uncertain whether an endurance‐based exercise programme improved spasticity or quality of life, measured at three months after the programme, as the quality of evidence is very low (1 RCT, comparison "usual activities", N = 25). The review did not evaluate other approaches, such as use of baclofen as no RCTs were available. 
+Mechanical ventilation for supporting respiratory function 
+Non‐invasive ventilation (NIV) probably improves median survival and quality of life in people with respiratory insufficiency and normal to moderately impaired bulbar function compared to standard care, and improves quality of life but not survival for people with poor bulbar function (1 RCT, N = 41, moderate‐quality evidence; a second RCT did not provide data). The review did not evaluate other approaches such as tracheostomy‐assisted ('invasive') ventilation, or assess timing of NIV initiation. 
+Treatment for sialorrhoea 
+A single session of botulinum toxin type B injections to parotid and submandibular glands probably improves sialorrhoea and quality of life at up to 4 weeks compared to placebo injections, but not at 8 or 12 weeks after the injections (moderate‐quality evidence from 1 placebo‐controlled RCT, N = 20). The review authors found no trials of other approaches. 
+Enteral tube feeding for supporting nutrition 
+There is no RCT evidence in a Cochrane Systematic Review to support benefit or harms of enteral tube feeding in supporting nutrition in MND. 
+Repetitive transcranial magnetic stimulation 
+It is uncertain whether repetitive transcranial magnetic stimulation (rTMS) improves disability or limitation in activity in MND in comparison with sham rTMS (3 RCTs, very low quality evidence, N = 50). 
+Therapeutic exercise 
+There is evidence that exercise may improve disability in MND at three months after the exercise programme, but not quality of life, in comparison with "usual activities" or "usual care" including stretching (2 RCTs, low‐quality evidence, N = 43). 
+Multidisciplinary care 
+There is no RCT evidence in a Cochrane Systematic Review to demonstrate any benefit or harm for multidisciplinary care in MND. 
+None of the reviews, other than the review of treatment for cramps, reported that adverse events occurred. However, the trials were too small for reliable adverse event reporting. 
+Authors' conclusions
+This overview has highlighted the lack of robust evidence in Cochrane Systematic Reviews on interventions to manage symptoms resulting from MND. It is important to recognise that clinical trials may fail to demonstrate efficacy of an intervention for reasons other than a true lack of efficacy, for example because of insufficient statistical power, the wrong choice of dose, insensitive outcome measures or inappropriate participant eligibility. The trials were mostly too small to reliably assess adverse effects of the treatments. The nature of MND makes it difficult to research clinically accepted or recommended practice, regardless of the level of evidence supporting the practice. It would not be ethical, for example, to design a placebo‐controlled trial for treatment of pain in MND or to withhold multidisciplinary care where such care is available. It is therefore highly unlikely that there will ever be classically designed placebo‐controlled RCTs in these areas. 
+We need more research with appropriate study designs, robust methodology, and of sufficient duration to address the changing needs—of people with MND and their caregivers—associated with MND disease progression and mortality. There is a significant gap in studies assessing the effectiveness of interventions for symptoms relating to MND, such as pseudobulbar emotional lability and cognitive and behavioural difficulties. Future studies should use appropriate outcome measures that are reliable, have internal and external validity, and are sensitive to change in what is being measured (such as quality of life). 

@@ -1,0 +1,15 @@
+Background
+Approximately 70% of women will experience perineal trauma following vaginal delivery and will require stitches. This may result in pain, suture removal and superficial dyspareunia. 
+Objectives
+To assess the effects of different suture materials on short‐ and long‐term morbidity following perineal repair. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2010). 
+Selection criteria
+Randomised trials comparing different suture materials for perineal repair after vaginal delivery. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+We included 18 trials with 10,171 women; comparisons included: catgut with standard synthetic (nine trials), rapidly absorbing synthetic (two trials), and glycerol impregnated catgut sutures (two trials); and standard synthetic sutures with rapidly absorbing synthetic (five trials) and monofilament sutures (one trial). 
+Compared with catgut, standard synthetic sutures were associated with less pain up to three days after delivery (risk ratio (RR) 0.83, 95% confidence interval (CI) 0.76 to 0.90); and less analgesia up to ten days postpartum (RR 0.71, 95% CI 0.59 to 0.87). More women with catgut sutures required resuturing (15/1201) compared with synthetic sutures (3/1201) (RR 0.25, 95% CI 0.08 to 0.74); while more women with standard synthetic sutures required the removal of unabsorbed suture material (RR 1.81, 95% CI 1.46 to 2.24). Comparing standard synthetic with rapidly absorbing sutures, short‐ and long‐term pain were similar; in one trial fewer women with rapidly absorbing sutures reported using analgesics at 10 days (RR 0.57, 95% CI 0.43 to 0.77). More women in the standard synthetic suture group required suture removal compared with those in the rapidly absorbed group (RR 0.24, 95% CI 0.15 to 0.36). There was no evidence of significant differences between groups for long‐term pain (three months after delivery) or for dyspareunia at three, or at six to 12 months. When catgut and glycerol impregnated catgut were compared, results were similar for most outcomes, although the latter was associated with more short‐term pain. One trial examining monofilament versus standard polyglycolic sutures found no differences for most outcomes. 
+Authors' conclusions
+Catgut may increase short‐term pain compared with synthetic sutures. There were few differences between standard and rapidly absorbing synthetic sutures but more women needed standard sutures removing. For other materials, there was insufficient evidence to draw conclusions. Findings should be interpreted in the context of the related Cochrane review on suturing techniques. 

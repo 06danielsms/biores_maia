@@ -1,0 +1,14 @@
+Background
+Hypoxic ischemic encephalopathy (HIE) in the neonate is associated with high mortality and morbidity. Effective treatment options are limited and therefore alternative therapies such as acupuncture are increasingly used. 
+Objectives
+We sought to determine the efficacy and safety of acupuncture on mortality and morbidity in neonates with HIE. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), Cochrane Neonatal Specialized Register, MEDLINE, AMED, EMBASE, PubMed, CINAHL, PsycINFO, WHO International Clinical Trials Registry Platform, and various Chinese medical databases in November 2012. 
+Selection criteria
+We planned to include randomized or quasi‐randomized controlled trials comparing needle acupuncture to a control group that used no treatment, placebo or sham treatment in neonates (less than 28 days old) with HIE. Co‐interventions were allowed as long as both the intervention and the control group received the same co‐interventions. We excluded trials that evaluated therapy that did not involve penetration of the skin with a needle or trials that compared different forms of acupuncture only. 
+Data collection and analysis
+Two review authors independently reviewed trials for inclusion. If trials were identified, the review authors planned to assess trial quality and extract data independently. We planned to use the risk ratio (RR), risk difference (RD), and number needed to benefit (NNTB) or harm (NNTH) with 95% confidence intervals (CI) for dichotomous outcomes, and mean difference (MD) with 95% CI for continuous outcomes. 
+Main results
+No trial satisfied our predefined inclusion criteria. Existing trials only evaluated acupuncture in older infants who survived HIE. There are currently no randomized controlled trials evaluating the efficacy of acupuncture for treatment of HIE in neonates. The safety of acupuncture for HIE in neonates is unknown. 
+Authors' conclusions
+The rationale for acupuncture in neonates with HIE is unclear and the evidence from randomized controlled trial is lacking. Therefore, we do not recommend acupuncture for the treatment of HIE in neonates. High quality randomized controlled trials on acupuncture for HIE in neonates are needed. 

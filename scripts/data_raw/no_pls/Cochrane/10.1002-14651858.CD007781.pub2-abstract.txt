@@ -1,0 +1,14 @@
+Background
+There are many different techniques currently in use for ventral and incisional hernia repair. Laparoscopic techniques have become more common in recent years, although the evidence is sparse. 
+Objectives
+We compared laparoscopic with open repair in patients with (primary) ventral or incisional hernia. 
+Search methods
+We searched the following electronic databases: MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, metaRegister of Controlled Trials. The last searches were conducted in July 2010. In addition, congress abstracts were searched by hand. 
+Selection criteria
+We selected randomised controlled studies (RCTs), which compared the two techniques in patients with ventral or incisional hernia. Studies were included irrespective of language, publication status, or sample size. We did not include quasi‐randomised trials. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data independently. Meta‐analytic results are expressed as relative risks (RR) or weighted mean difference (WMD). 
+Main results
+We included 10 RCTs with a total number of 880 patients suffering primarily from primary ventral or incisional hernia. No trials were identified on umbilical or parastomal hernia. The recurrence rate was not different between laparoscopic and open surgery (RR 1.22; 95% CI 0.62 to 2.38; I2 = 0%), but patients were followed up for less than two years in half of the trials. Results on operative time were too heterogeneous to be pooled. The risk of intraoperative enterotomy was slightly higher in laparoscopic hernia repair (Peto OR 2.33; 95% CI 0.53 to 10.35), but this result stems from only 7 cases with bowel lesion (5 vs. 2). The most clear and consistent result was that laparoscopic surgery reduced the risk of wound infection (RR = 0.26; 95% CI 0.15 to 0.46; I2= 0%). Laparoscopic surgery shortened hospital stay significantly in 6 out of 9 trials, but again data were heterogeneous. Based on a small number of trials, it was not possible to detect any difference in pain intensity, both in the short‐ and long‐term evaluation. Laparoscopic repair apparently led to much higher in‐hospital costs. 
+Authors' conclusions
+The short‐term results of laparoscopic repair in ventral hernia are promising. In spite of the risks of adhesiolysis, the technique is safe. Nevertheless, long‐term follow‐up is needed in order to elucidate whether laparoscopic repair of ventral/incisional hernia is efficacious. 

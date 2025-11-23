@@ -1,0 +1,18 @@
+Background
+Chinese herbal medicines have been used for a long time to treat osteoporosis. The evidence of their benefits and harms needs to be systematically reviewed. 
+Objectives
+To assess the beneficial and harmful effects of Chinese herbal medicines as a general experimental intervention for treating primary osteoporosis by comparing herbal treatments with placebo, no intervention and conventional medicine. 
+Search methods
+We searched the following electronic databases to January 2013: the Specialised Register of the Cochrane Complementary Medicine Field, CENTRAL, MEDLINE, EMBASE, LILACS, JICST‐E, AMED, Chinese Biomedical Database and CINAHL. 
+Selection criteria
+Randomised controlled trials of Chinese herbal medicines compared with placebo, no intervention or conventional medicine were included. 
+Data collection and analysis
+Two authors extracted data and assessed risk of bias independently. Disagreement was resolved by discussion. 
+Main results
+One hundred and eight randomised trials involving 10,655 participants were included. Ninety‐nine different Chinese herbal medicines were tested and compared with placebo (three trials), no intervention (five trials) or conventional medicine (61 trials), or Chinese herbal medicines plus western medicine were compared with western medicine (47 trials). The risk of bias across all studies was unclear for most domains primarily due to inadequate reporting of study design. Although we rated the risk of selective reporting for all studies as unclear, only a few studies contributed numerical data to the key outcomes. 
+Seven trials reported fracture incidence, but they were small in sample size, suffered from various biases and tested different Chinese herbal medicines. These trials compared Kanggusong capsules versus placebo, Kanggusong granule versus Caltrate or ipriflavone plus Caltrate, Yigu capsule plus calcium versus placebo plus calcium, Xianlinggubao capsule plus Caltrate versus placebo plus Caltrate, Bushen Zhuanggu granules plus Caltrate versus placebo granules plus Caltrate, Kanggusong soup plus Caltrate versus Caltrate, Zhuangguqiangjin tablets and Shujinbogu tablets plus calcitonin ampoule versus calcitonin ampoule. The results were inconsistent. 
+One trial showed that Bushenhuoxue therapy plus calcium carbonate tablets and alfacalcidol had a better effect on quality of life score (scale 0 to 100, higher is better) than calcium carbonate tablets and alfacalcidol (mean difference (MD) 5.30; 95% confidence interval (CI) 3.67 to 6.93). 
+Compared with placebo in three separate trials, Chinese herbal medicines (Migu decoction, Bushen Yigu soft extract, Kanggusong capsules) showed a statistically significant increase in bone mineral density (BMD) (e.g. Kanggusong capsules, MD 0.06 g/cm3; 95% CI 0.02 to 0.10). Compared with no intervention in five trials, only two showed that Chinese herbal medicines had a statistically significant effect on increase in BMD (e.g. Shigu yin, MD 0.08 g/cm3; 95% CI 0.03 to 0.13). Compared with conventional medicine in 61 trials, 23 showed that Chinese herbal medicines had a statistically significant effect on increase in BMD. In 48 trials evaluating Chinese herbal medicines plus western medication against western medication, 26 showed better effects of the combination therapy on increase in BMD. 
+No trial reported death or serious adverse events of Chinese herbal medicines, while some trials reported minor adverse effects such as nausea, diarrhoea, etc. 
+Authors' conclusions
+Current findings suggest that the beneficial effect of Chinese herbal medicines in improving BMD is still uncertain and more rigorous studies are warranted. 

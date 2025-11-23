@@ -1,0 +1,14 @@
+Background
+Traumatic optic neuropathy (TON) is an important cause of severe visual loss following blunt or penetrating head trauma. Following the initial insult optic nerve swelling within the optic nerve canal or compression by bone fragments are thought to result in secondary retinal ganglion cell loss. Optic nerve decompression with steroids or surgical interventions or both have therefore been advocated to improve visual prognosis in TON. 
+Objectives
+To examine the effects and safety of surgical interventions in the management of TON.
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2013, Issue 4), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE, (January 1950 to May 2013), EMBASE (January 1980 to May 2013), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to May 2013), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (http://clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 28 May 2013. We also searched the reference lists of other reviews and book chapters on TON. We also contacted researchers in the field. 
+Selection criteria
+We planned to include only randomised controlled trials (RCTs) of TON in which any form of surgical intervention either on its own or in combination with steroids was compared to steroids alone or no treatment. 
+Data collection and analysis
+Two authors independently assessed the titles and abstracts identified from the search strategy. No studies were found that met our inclusion criteria and therefore none were included for analysis. 
+Main results
+No studies were found that met our inclusion criteria.
+Authors' conclusions
+The current body of evidence consists mostly of small, retrospective case series. Given the wide range of surgical interventions used in TON it is very difficult to compare these studies, even qualitatively. However, there is a relatively high rate of spontaneous visual recovery and no evidence that surgical decompression of the optic nerve provides any additional benefit. On the other hand, surgery carries a definite risk of complications such as postoperative cerebrospinal fluid leak and meningitis. The decision to proceed with surgery in TON therefore remains controversial and each case needs to be assessed on its own merits. Although there is an urgent need for an adequately powered, RCT of surgical intervention in TON, this will prove a difficult endeavour. 

@@ -1,0 +1,21 @@
+Background
+Despite optimal therapy with disease‐modifying antirheumatic drugs, many people with inflammatory arthritis (IA) continue to have persistent pain that may require additional therapy. 
+Objectives
+To assess the benefits and safety of combination pain therapy for people with IA (rheumatoid arthritis (RA), ankylosing spondylitis (AS), psoriatic arthritis (PsA) and other spondyloarthritis (SpA)). We planned to assess differences in effects between patients on background disease‐modifying antirheumatic drug (DMARD) therapy and patients on no background therapy in subgroup analyses. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); MEDLINE; and EMBASE. We did not impose any date or language restrictions in the search. We also handsearched conference proceedings of the American College of Rheumatology and the European League against Rheumatism (2008‐10). 
+Selection criteria
+Randomised and controlled clinical trials (RCTs and CCTs) assessing combination therapy (at least two drugs from the following classes: analgesics, non‐steroidal anti‐inflammatory drugs (NSAIDs), opioids, opioid‐like drugs and neuromodulators (antidepressants, anticonvulsants and muscle relaxants)) compared with monotherapy, for adults with IA (RA, AS, PsA and other SpA). We speficically excluded studies that did not report pain or studies without a standardised pain scale as an outcome measure. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed risk of bias and extracted data. 
+Main results
+Twenty‐three trials (total of 912 patients) met the inclusion criteria (22 in RA; one in a mixed population of RA and osteoarthritis); all except one were published before 1990. Most study populations were not taking DMARDs (e.g. methotrexate, sulphasalazine, hydroxychloroquine and leflunomide) and all studies were performed prior to the introduction of biologic therapies (e.g. etanercept, infliximab and adalimumab). All trials were at high risk of bias, heterogeneity precluded meta‐analysis, and we were only able to report a general description of results. 
+The majority (18 studies, 78%) found no differences between the combination and monotherapy treatments they studied, while five (22%) reported conflicting results, favouring either the combination or monotherapy arms. 
+From the 12 trials on NSAID + analgesic vs NSAID, nine reported no significant difference between the interventions, while three did: in two, the combination therapy achieved better pain control; and the third trial compared combination therapy with two different dosages of monotherapy (NSAID alone) and reported that a high dose phenylbutazone was superior to combination therapy (paracetamol + aspirin), which was superior to low dose phenylbutazone. 
+From the five studies on the combination of two NSAIDS vs one NSAID, four reported no significant differences between interventions, and one reported significantly better pain control with combination therapy. 
+The single trial comparing a combination of opioid + neuromodulator vs opioid reported better pain control with monotherapy. 
+The remaining trials (NSAID + neuromodulator vs NSAID (3 trials); opioid + NSAID vs NSAID (1 trial); and opioid + analgesic vs analgesic (1 trial)) found no significant difference between combination therapy and monotherapy. 
+Information regarding withdrawals due to inadequate analgesia and safety was incompletely reported, but in general there were no differences between combination therapy and monotherapy. 
+No data were available that addressed the value of combination pain therapy or monotherapy for people with IA who have optimal disease suppression. There were no studies that included patients with AS, PsA or SpA. 
+Authors' conclusions
+Based on 23 trials, all at high risk of bias, there is insufficient evidence to establish the value of combination therapy over monotherapy for people with IA. Importantly, there are no studies addressing the value of combination therapy for patients with IA who have persistent pain despite optimal disease suppression. Well designed trials are needed to address this question. 

@@ -1,0 +1,16 @@
+Background
+The World Health Organization (WHO) 'safe communities' approach to injury prevention has been embraced around the world as a model for co‐ordinating community efforts to enhance safety and reduce injury. Approximately 150 communities throughout the world have formal 'Safe Communities' designation. It is of public health interest to determine to what degree the model is successful, and whether it reduces injury rates. This Cochrane Review is an update of a previous published version. 
+Objectives
+To determine the effectiveness of the WHO Safe Communities model to prevent injury in whole populations. 
+Search methods
+Our search included CENTRAL, MEDLINE and EMBASE, PsycINFO, ISI Web of Science: Social Sciences Citation Index (SSCI) and ZETOC. We handsearched selected journals and contacted key people from each WHO Safe Community. The last search was December 2008. 
+Selection criteria
+Two authors independently screened studies for inclusion. Included studies were those conducted within a WHO Safe Community that reported changes in population injury rates within the community compared to a control community. 
+Data collection and analysis
+Two authors independently extracted data. Meta‐analysis was not appropriate due to the heterogeneity of the included studies. 
+Main results
+We included evaluations for 21 communities from five countries in two geographical regions in the world: Austria, Sweden and Norway, and Australia and New Zealand. Although positive results were reported for some communities, there was no consistent relationship between being a WHO designated Safe Community and subsequent changes in observed injury rates. 
+Authors' conclusions
+There is marked inconsistency in the results of the studies included in this systematic review. While the frequency of injury in some study communities did reduce following their designation as a WHO Safe Community, there remains insufficient evidence from which to draw definitive conclusions regarding the effectiveness of the model. 
+The lack of consistency in results may be due to the heterogeneity of the approaches to implementing the model, varying efficacy of activities and strategies, varying intensity of implementation and methodological limitations in evaluations. While all communities included in the review fulfilled the WHO Safe Community criteria, these criteria were too general to prescribe a standardised programme of activity or evaluation methodology. 
+Adequate documentation describing how various Safe Communities implemented the model was limited, making it unclear which factors affected success. Where a reduction in injury rates was not reported, lack of information makes it difficult to distinguish whether this was due to problems with the model or with the way in which it was implemented. 

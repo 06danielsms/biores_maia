@@ -1,0 +1,14 @@
+Background
+Since our individual patient data (IPD) meta‐analysis of supportive care and chemotherapy for non‐small cell lung cancer (NSCLC), published in 1995, many trials have been completed. We have carried out an updated IPD meta‐analysis to assess newer regimens and determine conclusively the effect of chemotherapy. The review was updated in 2012. 
+Objectives
+To assess the effect on survival of supportive care and chemotherapy versus supportive care alone in advanced NSCLC. 
+Search methods
+All randomised controlled trials (RCTs), published or unpublished. We searched bibliographic databases, trials registers, conference proceedings and reference lists of relevant trials. Searches were completed to August 2012. 
+Selection criteria
+Trials had to have commenced accrual on or after 1 January 1965 and should have included patients with NSCLC who had received either chemotherapy and supportive care or supportive care alone. Patients should have not received any previous chemotherapy or had any prior malignancy.  
+Data collection and analysis
+For trials included in 1995 we sought updated follow‐up. For new trials we sought survival and baseline characteristics for all patients. We combined results from RCTs to calculate individual and pooled hazard ratios (HRs). 
+Main results
+We obtained data on 2714 patients from 16 RCTs. No new RCTs were identified in 2012. There were 1293 deaths among 1399 patients assigned supportive care and chemotherapy and 1240 among 1315 assigned supportive care alone. Results showed a significant benefit of chemotherapy (HR = 0.77; 95% CI 0.71 to 0.83, P < 0.0001), equivalent to a relative increase in survival of 23%, an absolute improvement in survival of 9% at 12 months, increasing survival from 20% to 29% or an absolute increase in median survival of 1.5 months (from 4.5 months to six months). There was no clear evidence that this effect was influenced by the drugs used (P = 0.63) or whether they were used as single agents or in combination (P = 0.40). Despite changes in patient demographics, the effect of chemotherapy in recent trials did not differ from those included previously (P = 0.77). There was no clear evidence of a difference in the relative effect of chemotherapy across patient subgroups. Quality of life could not be formally assessed. 
+Authors' conclusions
+All trials were of good methodological quality with no risk of bias. This meta‐analysis of chemotherapy in the supportive care setting demonstrates that chemotherapy improves overall survival in all patients with advanced NSCLC. Patients who are fit enough and wish to receive it should be offered chemotherapy. 

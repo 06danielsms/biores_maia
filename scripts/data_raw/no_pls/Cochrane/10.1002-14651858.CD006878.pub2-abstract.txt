@@ -1,0 +1,15 @@
+Background
+Anastomotic leakage is one of the most important complications that occur after surgical low anterior resection for rectal cancer. There are indications that anastomotic leak is associated with increased morbidity, mortality, frequent re‐operation or radiological drainage, and prolonged hospital stay. Defunctioning stoma can be useful for patients undergoing a rectal surgery. 
+Objectives
+To determine the efficacy of protective defunctioning stoma in low anterior resection for rectal carcinoma. 
+Search methods
+Searches were conducted November 2009. We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1966) and EMBASE (from 1980). 
+Selection criteria
+We included randomised clinical trials comparing the use of stoma versus "no stoma" in patients that received low anterior resection for rectal cancer. 
+Data collection and analysis
+Six randomised controlled trials were identified and included in this review. Five trials were fully published in peer‐reviewed journals. An attempt was made to obtain further information from the authors of the trial that was available only in an abstract form. The studies analysed the following outcomes: clinical anastomotic leakage, urgent reoperation, mortality and length of postoperative hospital stay. Review authors extracted the data independently, the risk ratios (RR) were estimated for the dichotomous outcomes and standardised mean difference were estimated for the continuous outcome 
+Main results
+All the trials reported results for clinical anastomotic leakage, urgent reoperation and mortality. Only two trials reported the results for length of postoperative hospital stay. 
+With respect to controls, use of covering stoma was significantly associated with less anastomotic leakage  (RR 0.33; 95%CI [0.21, 0.53]) and less urgent reoperation (RR 0.23; 95%CI [0.12, 0.42] ). There was no significant difference in terms of mortality (RR 0.58; 95%CI [0.14, 2.33]). There was no evidence of statistical heterogeneity in any of the comparisons. 
+Authors' conclusions
+Covering stoma seems to be useful to prevent anastomotic leakage and urgent re‐operations in patients receiving low anterior resection for rectal cancer. However, covering stoma does not seems to offer advantage in term of 30 days or long term mortality. 

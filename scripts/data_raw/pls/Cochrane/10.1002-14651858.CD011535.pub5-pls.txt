@@ -1,0 +1,34 @@
+Which medicines, taken by mouth or injected, work best to treat a skin condition called plaque psoriasis? 
+Key messages 
+‐ After six months of treatment, medicines called 'biologics' seem to work best to clear patches of psoriasis on the skin. 
+‐ Longer studies are needed to assess the benefits and potential harms of longer treatment with medicines that are injected or taken by mouth to treat psoriasis. 
+‐ More studies are needed that compare these types of medicines directly against each other. 
+What is psoriasis? 
+Psoriasis is an immune condition that affects the skin and, sometimes, the joints. Psoriasis speeds up the production of new skin cells, which build up to form raised patches on the skin known as 'plaques'. Plaques can also be flaky, scaly, itchy, and appear red on white skin, and as darker patches on darker skin tones. Plaque psoriasis is the most common form of psoriasis. 
+How is psoriasis treated? 
+Treatments for psoriasis depend on how bad the symptoms are. Around 10% to 20% of people with moderate or severe psoriasis will need to take medicines that affect their immune system, to help control the psoriasis. These medicines are called systemic treatments, because they affect the whole body. These are usually taken by mouth (orally) or injected. 
+Why did we do this Cochrane Review? 
+There are three different types of systemic medicines to treat psoriasis:
+‐ 'biologics' – proteins, such as antibodies, that target interleukins and cytokines (parts of the immune system that affect how cells behave);‐ small molecules – organic compounds that affect immune cells; examples include apremilast; and‐ non‐biologic medicines – medicines that have been in use for a long time to treat psoriasis, such as methotrexate, ciclosporin and retinoids. 
+We wanted to find out about the benefits and potential harms of taking systemic medicines to treat psoriasis, and to see if some medicines work better than others. 
+What did we do? 
+We searched for studies that tested systemic medicines to treat plaque psoriasis.
+How up to date is this review? 
+We included evidence up to October 2021.
+What did we find? 
+We found 167 studies, including 19 new studies since our last search (October 2021). The studies tested 20 different medicines, covering 58,912 adults with psoriasis (average age 44.5 years) and lasted from two to six months. Of 137 studies that reported their source of funding, a pharmaceutical company provided funding for 127 studies and 10 were funded by non‐commercial organisations or academic institutions. 
+Most studies compared the systemic medicine against a placebo (a 'dummy' treatment that does not contain any medicine but looks identical to the medicine being tested). They used a common measurement scale called the PASI (Psoriasis Area and Severity Index) to compare how well each medicine cleared psoriasis plaques from the skin, looking for a 90% improvement (called 'PASI 90'). Few studies reported on participants' well‐being. 
+We compared all the medicines with each other using a mathematical method called a network meta‐analysis. 
+What are the main results of our review? 
+All the medicines tested worked better than a placebo to treat psoriasis (measured as a 90% improvement in PASI). 
+Biologic medicines (that targeted interleukins 17, 23 and 12/23, and the cytokine TNF‐alpha) treated psoriasis better than the non‐biologic medicines. 
+Compared with placebo, four biologic medicines worked best to treat psoriasis, with little difference between them: 
+‐ infliximab (targets TNF‐alpha);
+‐ ixekizumab and bimekizumab (targets interleukin‐17); and
+‐ risankizumab (targets interleukin‐23).
+We found no significant difference in the numbers of serious unwanted events for all systemic medicines tested when compared with a placebo. However, the studies did not consistently report results about safety, such as serious unwanted events. We therefore could not create a reliable risk profile of systemic medicines. 
+Limitations of the evidence 
+We are confident in our results for the four biologic medicines (infliximab, iwekizumab, bimekizumab and risankizumab) that worked best to treat psoriasis. We are less confident in our results for serious unwanted events, because of the low number of unwanted events reported. 
+We are also less confident in the results for the non‐biologic medicines because of concerns about how some of the studies were conducted. Further research is likely to change these results. 
+We did not find many studies for some of the 20 medicines included in our review. Participants in the studies often had severe psoriasis at the start of the study, so our results may not be useful for people whose psoriasis is less severe. Our findings relate only to treatment with systemic medicines for up to six months at most. 
+Editorial note: This is a living systematic review. Living systematic reviews offer a new approach to review updating, in which the review is continually updated, incorporating relevant new evidence as it becomes available. Please refer to the Cochrane Database of Systematic Reviews for the current status of this review.  

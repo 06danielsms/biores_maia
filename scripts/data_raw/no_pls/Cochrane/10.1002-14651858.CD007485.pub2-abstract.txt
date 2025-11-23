@@ -1,0 +1,17 @@
+Background
+Maternal antenatal transfers provide better neonatal outcomes. However, there will inevitably be some infants who require acute transport to a neonatal intensive care unit (NICU). Because of this, many institutions develop services to provide neonatal transport by specially trained health personnel. However, few studies report on relevant clinical outcomes in infants requiring transport to NICU. 
+Objectives
+To determine the effects of specialist transport teams compared with non‐specialist transport teams on the risk of neonatal mortality and morbidity among high‐risk newborn infants requiring transport to neonatal intensive care. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 7), MEDLINE (1966 to 31 July 2015), EMBASE (1980 to 31 July 2015), CINAHL (1982 to 31 July 2015), conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Study design: randomised, quasi‐randomised or cluster randomised controlled trials. 
+Population: neonates requiring transport to a neonatal intensive care unit. 
+Intervention: transport by a specialist team compared to a non‐specialist team. 
+Outcomes: any of the following outcomes — death; adverse events during transport leading to respiratory compromise; and condition on admission to the neonatal intensive care unit. 
+Data collection and analysis
+The methodological quality of the trials was assessed using the information provided in the studies and by personal communication with the author. Data on relevant outcomes were extracted and the effect size estimated and reported as risk ratio (RR), risk difference (RD), number needed to treat for an additional beneficial outcome (NNTB) or number needed to treat for an additional harmful outcome (NNTH) and mean difference (MD) for continuous outcomes. Data from cluster randomised trials were not combined for analysis. 
+Main results
+One trial met the inclusion criteria of this review but was considered ineligible owing to serious bias in the reporting of the results. 
+Authors' conclusions
+There is no reliable evidence from randomised trials to support or refute the effects of specialist neonatal transport teams for neonatal retrieval on infant morbidity and mortality. Cluster randomised trial study designs may be best suited to provide us with answers on effectiveness and clinical outcomes. 

@@ -1,0 +1,18 @@
+Background
+Intravenous prostaglandin E2 and F2 alpha can be used to induce labour, however their use is limited by unacceptable maternal side‐effect profiles. This is one of a series of reviews of methods of cervical ripening and labour induction using standardised methodology. 
+Objectives
+To determine the effects of intravenous prostaglandin for third trimester cervical ripening or induction of labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group Trials Register (31 January 2004) and bibliographies of relevant papers. We updated this search on 7 May 2010 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised controlled trials comparing intravenous prostaglandin used for third trimester cervical ripening or labour induction with placebo/no treatment or other methods listed above it on a predefined list of labour induction methods. 
+Data collection and analysis
+A generic strategy was developed to deal with the large volume and complexity of trial data relating to labour induction. This involved a two‐stage method of data extraction. The initial data extraction was done centrally. 
+Main results
+Thirteen trials (1165 women) were included in the review.
+The use of intravenous prostaglandin was associated with higher rates of uterine hyperstimulation both with changes in the fetal heart rate (relative risk (RR) 6.76, 95% confidence interval (CI) 1.23 to 37.11) and without (RR 4.25, 95% CI 1.48 to 12.24) compared to oxytocin. Use of prostaglandin was also associated with significantly more maternal side‐effects (gastrointestinal, thrombophlebitis and pyrexia, RR 3.75, 95% CI 2.46 to 5.70) than oxytocin. Prostaglandin was no more likely to result in vaginal delivery than oxytocin (RR 0.85, 95% CI 0.61 to 1.18). 
+No significant differences emerged from subgroup analysis or from the trials comparing combination oxytocin/prostaglandin F2 alpha and oxytocin or extra‐amniotic versus intravenous prostaglandin E2. 
+Authors' conclusions
+Intravenous prostaglandin is no more efficient than intravenous oxytocin for the induction of labour but its use is associated with higher rates of maternal side‐effects and uterine hyperstimulation. 
+No conclusions can be drawn form the comparisons of combination of prostaglandin F2 alpha and oxytocin compared to oxytocin alone or extra‐amniotic and intravenous prostaglandin E2. 
+[Note: The two citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

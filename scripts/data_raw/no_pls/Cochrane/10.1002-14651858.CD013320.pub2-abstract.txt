@@ -1,0 +1,18 @@
+Background
+High intake of added sugar have been suggested to impact the risk for cardiovascular disease (CVD). Knowledge on the subject can contribute to preventing CVD. 
+Objectives
+To assess the effects of a high versus low‐added sugar consumption for primary prevention of CVD in the general population. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, MEDLINE, Embase, Conference Proceedings Citation Index‐Science (CPCI‐S) on 2 July 2021. We also conducted a search of ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) Search Portal for ongoing or unpublished trials. The search was performed together with reference checking, citation searching and contact with study authors to identify additional studies. We imposed no restriction on language of publication or publication status. 
+Selection criteria
+We included randomised controlled trials (RCTs), including cross‐over trials, that compared different levels of added sugar intake. Exclusion criteria were: participants aged below 18 years; diabetes mellitus (type 1 and 2); and previous CVD. Primary outcomes were incident cardiovascular events (coronary, carotid, cerebral and peripheral arterial disease) and all‐cause mortality. Secondary outcomes were changes in systolic and diastolic blood pressure, total cholesterol, LDL‐cholesterol, HDL‐cholesterol, triglycerides, fasting plasma glucose and adverse events (gastrointestinal symptoms and impaired dental health). 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We included 21 RCTs (1110 participants completing the interventions) examining the effects of different levels of added sugar intake with a mean duration of 14 weeks. The study participants were generally described as healthy and the mean age ranged from 22 to 57 years. 
+No studies reported on cardiovascular events or all‐cause mortality. There was minimal effect of low intake of added sugar on total cholesterol levels (MD 0.11, 95% CI 0.01 to 0.21; I² = 0%; 16 studies; 763 participants; low certainty of evidence) and triglycerides (MD 0.10, 95% CI 0.03 to 0.17; I² = 3%; 14 studies; 725 participants) but no evidence of effect on LDL‐cholesterol and HDL‐cholesterol. There was minimal effect on diastolic blood pressure (MD 1.52, 95% CI 0.67 to 2.37; I² = 0%; 13 studies; 873 participants) and on systolic blood pressure (MD 1.44, 95% 0.08 to 2.80; I² = 27%, 14 studies; 873 participants; low certainty of evidence), but no evidence of effect on fasting plasma glucose. 
+Only one study reported on dental health, with no events. No other trials reported adverse events (impaired dental health or gastrointestinal symptoms). 
+All results were judged as low‐quality evidence according to GRADE. The risk of bias was generally unclear, five studies were classified at an overall low risk of bias (low risk in at least four domains, not including other bias). 
+Authors' conclusions
+No trials investigating the effect of added sugar on cardiovascular events or all‐cause mortality were identified in our searches. Evidence is uncertain whether low intake of added sugar has an effect on risk factors for CVD; the effect was small and the clinical relevance is, therefore, uncertain. Practical ways to achieve reductions in dietary added sugar includes following current dietary recommendations. 
+Future trials should have longer follow‐up time and report on all‐cause mortality and cardiovascular events in order to clarify the effect of added sugar on these outcomes. Future trials should also aim for more direct interventions and preferably be more independent of industry funding. 

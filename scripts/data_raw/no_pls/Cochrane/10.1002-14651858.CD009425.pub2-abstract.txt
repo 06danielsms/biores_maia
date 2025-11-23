@@ -1,0 +1,14 @@
+Background
+Hyperbaric oxygen therapy (HBOT) has been used to treat a variety of conditions and has shown possible efficacy for treating vascular dementia (VaD) in experimental and preliminary clinical studies. 
+Objectives
+To assess the efficacy and safety of HBOT for VaD, used alone or as an adjuvant treatment.
+Search methods
+We searched ALOIS: the Cochrane Dementia and Cognitive Improvement Group Specialised Register on 20 December 2011 using the terms: hyperbaric OR oxygen OR HBO OR HBOT. ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases, numerous trial registries and grey literature sources. We also searched the Chinese Biomedical Database (CBM), the Chinese National Knowledge Infrastructure (CNKI) and the VIP Chinese Science and Technique Journals Database on 10 November 2011 using the terms 'gaoyayang', 'xueguanxingchidai' and 'chidai'. In addition, we contacted authors of included studies for additional information. 
+Selection criteria
+Trials were eligible for inclusion if they were randomised controlled trials comparing HBOT to no intervention or to sham HBOT, or comparing HBOT plus another treatment to the same other treatment in patients with VaD. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+One study involving 64 patients was included. It compared HBOT as an adjuvant to donepezil with donepezil alone. This one included study was judged to be of poor methodological quality. Patients receiving HBOT plus donepezil had significantly better cognitive function than the donepezil only group after 12 weeks of treatment, measured by the Mini‐Mental State Examination (MMSE) (WMD 3.50; 95% CI 0.91 to 6.09) or by Hasegawa's Dementia Rating Scale (HDS) (WMD 3.10; 95% CI 1.16 to 5.04). There were no deaths or withdrawals, and the study did not mention safety assessment at all. Global function, behavioral disturbance and activities of daily living were not investigated in the study. 
+Authors' conclusions
+There is insufficient evidence to support HBOT as an effective treatment for patients with VaD. Future trials should be randomised, double‐blind comparisons of HBOT to sham HBOT. 

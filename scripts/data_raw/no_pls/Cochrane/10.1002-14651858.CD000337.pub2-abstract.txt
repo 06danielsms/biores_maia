@@ -1,0 +1,14 @@
+Background
+Until operative treatment involving the use of various implants was introduced in the 1950s, hip fractures were managed using conservative methods based on traction and bed rest. 
+Objectives
+To compare conservative with operative treatment for fractures of the proximal femur (hip) in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (March 2008), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2008, Issue 1), MEDLINE (1966 to 2008), EMBASE (1988 to 2008), Current Controlled Trials, orthopaedic journals, conference proceedings and reference lists of articles. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing these two treatment methods in adults with hip fracture. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Additional information was sought from trialists. After grouping by fracture type, comparable groups of trials were subgrouped by implant type and data were pooled where appropriate using the fixed‐effect model. 
+Main results
+The five randomised trials included in the review involved only 428 elderly patients. One small and potentially biased trial of 23 patients with undisplaced intracapsular fracture showed a reduced risk of non‐union for those fractures treated operatively. The four trials on extracapsular fractures tested a variety of surgical techniques and implant devices and only one trial involving 106 patients can be considered to test current practice. In this trial, no differences were found in medical complications, mortality and long‐term pain. However, operative treatment was more likely to result in the fracture healing without leg shortening, a shorter hospital stay and a statistically non‐significant increase in the return of patients back to their original residence. 
+Authors' conclusions
+Although there is a lack of available evidence to inform practice for undisplaced intracapsular fractures, variation in practice has reduced and most fractures are treated surgically. The limited available evidence from randomised trials does not suggest major differences in outcome between conservative and operative management programmes for extracapsular femoral fractures, but operative treatment is associated with a reduced length of hospital stay and improved rehabilitation. Conservative treatment will be acceptable where modern surgical facilities are unavailable, and will result in a reduction in complications associated with surgery, but rehabilitation is likely to be slower and limb deformity more common. Currently, it is difficult to conceive circumstances in which future trials would be practical or viable. 

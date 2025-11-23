@@ -1,0 +1,26 @@
+Do different settings and techniques for measuring blood pressure during pregnancy help to improve outcomes for women and babies? 
+What is the issue? 
+Regular blood pressure (BP) measurements are crucial during pregnancy for the diagnosis and management of high BP. BP can be measured in various settings (e.g. self‐measurement at home versus in clinic) and using different techniques (e.g. measurement based on different blood flow sounds). They may have different effects on diagnosing and monitoring high BP, and reducing the risk of serious illness or death in both woman and baby. 
+Why is this important? 
+If high BP in pregnancy is not detected and managed in a timely fashion, serious complications can develop. This review is needed to establish the benefits and risks of these settings and techniques for women and their babies. 
+What evidence did we find? 
+We searched for evidence from randomised controlled trials in April 2020, and identified three studies (involving 536,607 women). Overall, the studies were conducted in such a way that we are not certain of the findings, mainly due to the small size of two of the studies and the design of the other. 
+One study (154 women) compared BP settings in the UK: self‐monitoring at home versus usual measurement in clinic. The other two studies compared BP techniques: one (220 women) compared two different blood flow sounds to determine diastolic BP (the bottom number) in Australia, and the other (536,233 deliveries) investigated the introduction of a semi‐automated BP monitor and an education package (CRADLE intervention) compared with usual care across Africa, India and Haiti. 
+None of the studies measured high BP, the number of women admitted to hospital before birth, how long babies stayed in the neonatal unit, or what extra help babies received for their breathing. 
+Self‐measurement of BP at home compared with usual BP measurement in clinic 
+Self‐monitoring BP may lead to more women being diagnosed with pre‐eclampsia compared with usual care but the evidence is uncertain. 
+We are uncertain if self‐monitoring BP increases the likelihood of stillbirth, baby deaths (after birth), women giving birth early, or women admitted to the intensive care unit. 
+Self‐monitoring BP may have little to no effect on the likelihood of women having their labour induced compared with usual care. 
+Self‐monitoring BP may lead to slightly more newborns being admitted to a neonatal unit compared with usual care. 
+This trial had no maternal deaths, and did not report the number of baby deaths, before or shortly after birth. 
+Measuring BP using different blood flow sounds ‐ Korotkoff phase IV (K4, softer, muffled sound) compared with Korotkoff phase V (K5, when the sound disappears) to measure diastolic BP 
+There may be little to no difference between using K4 or K5 to diagnose pre‐eclampsia; the evidence is uncertain. 
+We are uncertain if there is an effect on baby deaths, before or shortly after birth.
+This trial had no maternal deaths, and did not report the number of women admitted to intensive care, women who needed their labour induced, women giving birth early, stillbirths, baby deaths (after birth), or babies admitted to the neonatal unit. 
+CRADLE intervention (semi‐automated BP monitor and an education package)compared with usual care 
+The CRADLE BP monitor may make little or no difference to the risk of maternal death.
+The trial did not report the number of women with pre‐eclampsia, women who needed their labour induced, women giving birth early, baby deaths (before and after birth), or the number of babies admitted to the neonatal unit. The number of women admitted to intensive care, stillbirths, and baby deaths (after birth) were only reported for a subgroup of women in this trial, so we did not include these results. 
+What does this mean? 
+More evidence is needed on whether self‐monitoring BP in pregnant women with high BP is beneficial, because the study exploring this was small. 
+Current practice of using K5 (no blood flow sound) to measure diastolic BP is supported in pregnant women with high BP. 
+The trial using the CRADLE device to monitor BP in pregnancy had limitations in its design, and we are uncertain about its benefit. 

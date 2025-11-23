@@ -1,0 +1,26 @@
+Clinical Trial Results
+
+How much AZD2014 got into the blood and saliva, and how much AZD2014 left the body?
+Researchers used blood and saliva samples to find out how much AZD2014 got into the blood and saliva of participants.
+
+Researchers measured the following:
+- Average amount of AZD2014 in the blood and saliva
+- Highest amount of AZD2014 in the blood and saliva
+- Time it took for AZD2014 to reach its highest amount in the blood and saliva
+- The amount of AZD2014 that left the body
+
+Average amount of AZD2014 in the blood and saliva
+Researchers measured the average amount of AZD2014 in the blood and saliva in nanogram hours per milliliter of blood and saliva, or h•ng/mL. This is a way for researchers to measure the amount of drugs in blood and saliva. The chart below shows the average amount of the drug in the blood and saliva.
+
+Average amount of AZD2014
+(Lm/gn•h)
+20000
+16510 h•ng/mL
+15000 4102DZA
+10000
+6025 h•ng/mL
+5000
+0
+Blood Saliva
+Treatment group
+UK 4

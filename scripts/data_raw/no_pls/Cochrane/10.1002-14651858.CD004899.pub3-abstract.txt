@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane Review, first published in 2005.
+Hemifacial spasm (HFS) is characterised by unilateral, involuntary contractions of the muscles innervated by the facial nerve. It is a chronic disorder, and spontaneous recovery is very rare. The two treatments routinely available are microvascular decompression and intramuscular injections with botulinum toxin type A (BtA). 
+Objectives
+To compare the efficacy, safety, and tolerability of BtA versus placebo in people with HFS. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, reference lists of articles, and conference proceedings in July 2020. We ran the electronic database search, with no language restrictions, in July 2020. 
+Selection criteria
+Double‐blind, parallel, randomised, placebo‐controlled trials (RCTs) of BtA versus placebo in adults with HFS. 
+Data collection and analysis
+Two review authors independently assessed records. We planned to select included studies, extract data using a paper pro forma, and evaluate the risk of bias. We resolved disagreements by consensus, or by consulting a third review author. We planned to perform meta‐analyses. The primary efficacy outcome was HFS‐specific improvement. The primary safety outcome was the proportion of participants with any adverse event. 
+Main results
+We found no parallel‐group randomised controlled trials comparing BtA and placebo in HFS. 
+Authors' conclusions
+We did not find any randomised trials that evaluated the efficacy and safety of botulinum toxin type A in people with hemifacial spasm, so we are unable to draw any conclusions. Observational data show a strong association between BtA treatment and symptom improvement, and a favourable safety profile. While it is unlikely that future placebo‐controlled RCTs will evaluate absolute efficacy and safety, they should address relevant questions for both people with HFS (such as long‐term effects, quality of life, and other patient‐reported outcomes), and clinicians (such as relative effectiveness of different BtA formulations and schemes of treatment) to better guide clinical practice. 

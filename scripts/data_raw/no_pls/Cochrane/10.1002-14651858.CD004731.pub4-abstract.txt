@@ -1,0 +1,15 @@
+Background
+Phenylketonuria is an inherited metabolic disorder characterised by an absence or deficiency of the enzyme phenylalanine hydroxylase. The aim of treatment is to lower blood phenylalanine concentrations to the recommended therapeutic range to prevent developmental delay and support normal growth. Current treatment consists of a low‐phenylalanine diet in combination with a protein substitute which is free from or low in phenylalanine. Guidance regarding the use, dosage, and distribution of dosage of the protein substitute over a 24‐hour period is unclear, and there is variation in recommendations among treatment centres. This is an update of a Cochrane review first published in 2005, and previously updated in 2008. 
+Objectives
+To assess the benefits and adverse effects of protein substitute, its dosage, and distribution of dose in children and adults with phenylketonuria who are adhering to a low‐phenylalanine diet. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which consists of references identified from comprehensive electronic database searches and hand searches of relevant journals and abstract books of conference proceedings. We also contacted manufacturers of the phenylalanine‐free and low‐phenylalanine protein substitutes for any data from published and unpublished randomised controlled trials. 
+Date of the most recent search of the Group's Inborn Errors of Metabolism Trials Register: 03 April 2014. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials comparing: any dose of protein substitute with no protein substitute; an alternative dosage; or the same dose, but given as frequent small doses throughout the day compared with the same total daily dose given as larger boluses less frequently. 
+Data collection and analysis
+Both authors independently extracted data and assessed trial quality.
+Main results
+Three trials (69 participants) are included in this review. One trial investigated the use of protein substitute in 16 participants, while a further two trials investigated the dosage of protein substitute in a total of 53 participants. Due to issues with data presentation in each trial, described in full in the review, formal statistical analyses of the data were impossible. Investigators will be contacted for further information. 
+Authors' conclusions
+No conclusions could be drawn about the short‐ or long‐term use of protein substitute in phenylketonuria due to the lack of adequate or analysable trial data. Additional data and randomised controlled trials are needed to investigate the use of protein substitute in phenylketonuria. Until further evidence is available, current practice in the use of protein substitute should continue to be monitored with care. 

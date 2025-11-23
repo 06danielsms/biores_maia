@@ -1,0 +1,14 @@
+Background
+Electrical stimulation is one of several rehabilitation interventions suggested for the management of rheumatoid arthritis (RA) to enhance muscle performance. 
+Objectives
+To assess the effectiveness of electrical stimulation for improving muscle strength and function in clients with RA. 
+Search methods
+We searched MEDLINE, Embase, HealthSTAR, Sports Discus, CINAHL, the Cochrane Controlled Trials Register, the PEDro database, the specialized registry of the Cochrane musculoskeletal group and the Cochrane field of physical and related therapies up to January 2002 according to the sensitive search strategy for RCTs designed for the Cochrane Collaboration. The search was complemented with handsearching of the reference lists. Key experts in the area were contacted for further articles. 
+Selection criteria
+All randomized controlled trials (RCTs) and controlled clinical trials (CCTs), case‐control and cohort studies comparing ES against placebo or another active intervention in patients with RA were selected, according to an a priori protocol. No language restrictions were applied. 
+Data collection and analysis
+Two independent reviewers determined the studies to be included based on a priori inclusion criteria. Data were independently abstracted by the same two reviewers, and checked by a third reviewer using a pre‐developed form. The same two reviewers, using a validated scale, independently assessed the methodological quality of the RCTs and CCTs. The data analysis was performed using Peto Odds ratios. 
+Main results
+Of the two relevant studies that were identified in the literature, only one RCT met the inclusion criteria. This RCT compared the effects of two electrostimulation (ES) protocols on hand function in general and on the performance of the first dorsal interosseous muscle in particular, in 15 patients with RA and secondary disuse atrophy of the first dorsal interosseous of the dominant hand. The results showed that ES had significant benefit when compared to a control no treatment group in terms of muscle strength and fatigue resistance of the first dorsal interosseous. Most favourable results were obtained by using a patterned stimulation derived from a fatigued motor unit of the first dorsal interosseous in a normal hand rather than a fixed 10 Hz stimulation frequency. Side effects of the ES application were not reported. 
+Authors' conclusions
+ES was shown to have a clinically beneficial effect on grip strength and fatigue resistance for RA patients with muscle atrophy of the hand. However, these conclusions are limited by the low methodological quality of the trial included. More well‐designed studies are therefore needed to provide further evidence of the benefits of ES in the management of RA. 

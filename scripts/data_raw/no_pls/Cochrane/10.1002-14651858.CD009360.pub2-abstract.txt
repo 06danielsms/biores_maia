@@ -1,0 +1,14 @@
+Background
+Inspiratory muscle weakness has been observed in patients with stroke. Inspiratory muscle training is an intervention that has shown possible effects for functional recovery of patients with stroke. 
+Objectives
+To investigate the effect and safety of inspiratory muscle training for improving activities of daily living, respiratory muscle function, quality of life and cardiorespiratory fitness after stroke. 
+Search methods
+We searched the Cochrane Stroke Group's Trials Register (August 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, October Issue 4), MEDLINE (1948 to October 2011), EMBASE (1974 to October 2011), CINAHL (1982 to October 2011), AMED (1985 to October 2011), PEDro (October 2011) and four Chinese databases. In an effort to identify further published, unpublished and ongoing trials, we searched ongoing trials registers and conference proceedings, checked reference lists, and contacted authors of relevant studies and training devices manufactures. There were no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing inspiratory muscle training with no intervention, sham inspiratory muscle training or other cardiorespiratory training for patients with stroke were eligible. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. The primary outcomes were activities of daily living and respiratory muscle strength; the secondary outcomes were quality of life, cardiorespiratory fitness and adverse effects. 
+Main results
+We included two trials involving a total of 66 patients in this review. Pooling analyses of data was not possible due to considerable heterogeneity between the trials and a lack of data in both trials. One study found a significant increase in respiratory muscle strength favouring inspiratory muscle training over sham inspiratory muscle training, but there was no significant difference between groups on quality of life. The other study showed that patients receiving inspiratory muscle training were more likely to improve their activities of daily living, quality of life and cardiorespiratory fitness than those patients who received no intervention. However, the main results were not compared directly with breathing retraining. Furthermore, neither of the trials assessed the safety and tolerance of inspiratory muscle training. 
+Authors' conclusions
+There is insufficient evidence to support inspiratory muscle training as an effective treatment to improve function after stroke, and no evidence relating to the safety of inspiratory muscle training. Further well‐designed RCTs are required. 

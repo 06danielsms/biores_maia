@@ -1,0 +1,39 @@
+Background
+Successful treatments for gestational diabetes mellitus (GDM) have the potential to improve health outcomes for women with GDM and their babies. 
+Objectives
+To provide a comprehensive synthesis of evidence from Cochrane systematic reviews of the benefits and harms associated with interventions for treating GDM on women and their babies. 
+Methods
+We searched the Cochrane Database of Systematic Reviews (5 January 2018) for reviews of treatment/management for women with GDM. Reviews of pregnant women with pre‐existing diabetes were excluded. 
+Two overview authors independently assessed reviews for inclusion, quality (AMSTAR; ROBIS), quality of evidence (GRADE), and extracted data. 
+Main results
+We included 14 reviews. Of these, 10 provided relevant high‐quality and low‐risk of bias data (AMSTAR and ROBIS) from 128 randomised controlled trials (RCTs), 27 comparisons, 17,984 women, 16,305 babies, and 1441 children. Evidence ranged from high‐ to very low‐quality (GRADE). Only one effective intervention was found for treating women with GDM. 
+Effective 
+Lifestyle versus usual care 
+Lifestyle intervention versus usual care probably reduces large‐for‐gestational age (risk ratio (RR) 0.60, 95% confidence interval (CI) 0.50 to 0.71; 6 RCTs, N = 2994; GRADE moderate‐quality). 
+Promising 
+No evidence for any outcome for any comparison could be classified to this category.
+Ineffective or possibly harmful 
+Lifestyle versus usual care 
+Lifestyle intervention versus usual care probably increases the risk of induction of labour (IOL) suggesting possible harm (average RR 1.20, 95% CI 0.99 to 1.46; 4 RCTs, N = 2699; GRADE moderate‐quality). 
+Exercise versus control 
+Exercise intervention versus control for return to pre‐pregnancy weight suggested ineffectiveness (body mass index, BMI) MD 0.11 kg/m², 95% CI ‐1.04 to 1.26; 3 RCTs, N = 254; GRADE moderate‐quality). 
+Insulin versus oral therapy 
+Insulin intervention versus oral therapy probably increases the risk of IOL suggesting possible harm (RR 1.3, 95% CI 0.96 to 1.75; 3 RCTs, N = 348; GRADE moderate‐quality). 
+Probably ineffective or harmful interventions 
+Insulin versus oral therapy 
+For insulin compared to oral therapy there is probably an increased risk of the hypertensive disorders of pregnancy (RR 1.89, 95% CI 1.14 to 3.12; 4 RCTs, N = 1214; GRADE moderate‐quality). 
+Inconclusive 
+Lifestyle versus usual care 
+The evidence for childhood adiposity kg/m² (RR 0.91, 95% CI 0.75 to 1.11; 3 RCTs, N = 767; GRADE moderate‐quality) and hypoglycaemia was inconclusive (average RR 0.99, 95% CI 0.65 to 1.52; 6 RCTs, N = 3000; GRADE moderate‐quality). 
+Exercise versus control 
+The evidence for caesarean section (RR 0.86, 95% CI 0.63 to 1.16; 5 RCTs, N = 316; GRADE moderate quality) and perinatal death or serious morbidity composite was inconclusive (RR 0.56, 95% CI 0.12 to 2.61; 2 RCTs, N = 169; GRADE moderate‐quality). 
+Insulin versus oral therapy 
+The evidence for the following outcomes was inconclusive: pre‐eclampsia (RR 1.14, 95% CI 0.86 to 1.52; 10 RCTs, N = 2060), caesarean section (RR 1.03, 95% CI 0.93 to 1.14; 17 RCTs, N = 1988), large‐for‐gestational age (average RR 1.01, 95% CI 0.76 to 1.35; 13 RCTs, N = 2352), and perinatal death or serious morbidity composite (RR 1.03; 95% CI 0.84 to 1.26; 2 RCTs, N = 760). GRADE assessment was moderate‐quality for these outcomes. 
+Insulin versus diet 
+The evidence for perinatal mortality was inconclusive (RR 0.74, 95% CI 0.41 to 1.33; 4 RCTs, N = 1137; GRADE moderate‐quality). 
+Insulin versus insulin 
+The evidence for insulin aspart versus lispro for risk of caesarean section was inconclusive (RR 1.00, 95% CI 0.91 to 1.09; 3 RCTs, N = 410; GRADE moderate quality). 
+No conclusions possible 
+No conclusions were possible for: lifestyle versus usual care (perineal trauma, postnatal depression, neonatal adiposity, number of antenatal visits/admissions); diet versus control (pre‐eclampsia, caesarean section); myo‐inositol versus placebo (hypoglycaemia); metformin versus glibenclamide (hypertensive disorders of pregnancy, pregnancy‐induced hypertension, death or serious morbidity composite, insulin versus oral therapy (development of type 2 diabetes); intensive management versus routine care (IOL, large‐for‐gestational age); post‐ versus pre‐prandial glucose monitoring (large‐for‐gestational age). The evidence ranged from moderate‐, low‐ and very low‐quality. 
+Authors' conclusions
+Currently there is insufficient high‐quality evidence about the effects on health outcomes of relevance for women with GDM and their babies for many of the comparisons in this overview comparing treatment interventions for women with GDM. Lifestyle changes (including as a minimum healthy eating, physical activity and self‐monitoring of blood sugar levels) was the only intervention that showed possible health improvements for women and their babies. Lifestyle interventions may result in fewer babies being large. Conversely, in terms of harms, lifestyle interventions may also increase the number of inductions. Taking insulin was also associated with an increase in hypertensive disorders, when compared to oral therapy. There was very limited information on long‐term health and health services costs. Further high‐quality research is needed. 

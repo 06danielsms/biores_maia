@@ -1,0 +1,23 @@
+Background
+Tuberculosis (TB) requires at least six months of treatment. If treatment is incomplete, patients may not be cured and drug resistance may develop. Directly Observed Therapy (DOT) is a specific strategy, endorsed by the World Health Organization, to improve adherence by requiring health workers, community volunteers or family members to observe and record patients taking each dose. 
+Objectives
+To evaluate DOT compared to self‐administered therapy in people on treatment for active TB or on prophylaxis to prevent active disease. We also compared the effects of different forms of DOT. 
+Search methods
+We searched the following databases up to 13 January 2015: the Cochrane Infectious Diseases Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE; EMBASE; LILACS and mRCT. We also checked article reference lists and contacted relevant researchers and organizations. 
+Selection criteria
+Randomized controlled trials (RCTs) and quasi‐RCTs comparing DOT with routine self‐administration of treatment or prophylaxis at home. 
+Data collection and analysis
+Two review authors independently assessed risk of bias of each included trial and extracted data. We compared interventions using risk ratios (RR) with 95% confidence intervals (CI). We used a random‐effects model if meta‐analysis was appropriate but heterogeneity present (I2 statistic > 50%). We assessed the quality of the evidence using the GRADE approach. 
+Main results
+Eleven trials including 5662 participants met the inclusion criteria. DOT was performed by a range of people (nurses, community health workers, family members or former TB patients) in a variety of settings (clinic, the patient's home or the home of a community volunteer). 
+DOT versus self‐administered 
+Six trials from South Africa, Thailand, Taiwan, Pakistan and Australia compared DOT with self‐administered therapy for treatment. Trials included DOT at home by family members, community health workers (who were usually supervised); DOT at home by health staff; and DOT at health facilities. TB cure was low with self‐administration across all studies (range 41% to 67%), and direct observation did not substantially improve this (RR 1.08, 95% CI 0.91 to 1.27; five trials, 1645 participants, moderate quality evidence). In a subgroup analysis stratified by the frequency of contact between health services in the self‐treatment arm, daily DOT may improve TB cure when compared to self‐administered treatment where patients in the self‐administered group only visited the clinic every month (RR 1.15, 95% CI 1.06 to 1.25; two trials, 900 participants); but with contact in the control becoming more frequent, this small effect was not apparent (every two weeks: RR 0.96, 95% CI 0.83 to 1.12; one trial, 497 participants; every week: RR 0.90, 95% CI 0.68 to 1.21; two trials, 248 participants). 
+Treatment completion showed a similar pattern, ranging from 59% to 78% in the self‐treatment groups, and direct observation did not improve this (RR 1.07, 95% CI 0.96 to 1.19; six trials, 1839 participants, moderate quality evidence). 
+DOT at home versus DOT at health facility 
+In four trials that compared DOT at home by family members, or community health workers, with DOT by health workers at a health facility there was little or no difference in cure or treatment completion (cure: RR 1.02, 95% CI 0.88 to 1.18, four trials, 1556 participants, moderate quality evidence; treatment completion: RR 1.04, 95% CI 0.91 to 1.17, three trials, 1029 participants, moderate quality evidence). 
+DOT by family member versus DOT by community health worker 
+Two trials compared DOT at home by family members with DOT at home by community health workers. There was also little or no difference in cure or treatment completion (cure: RR 1.02, 95% CI 0.86 to 1.21; two trials, 1493 participants, moderate quality evidence; completion: RR 1.05, 95% CI 0.90 to 1.22; two trials, 1493 participants, low quality evidence). 
+Specific patient categories 
+A trial of 300 intravenous drug users in the USA evaluated direct observation with no observation in TB prophylaxis to prevent active disease and showed little difference in treatment completion (RR 1.00, 95% CI 0.88 to 1.13; one trial, 300 participants, low quality evidence). 
+Authors' conclusions
+From the existing trials, DOT did not provide a solution to poor adherence in TB treatment. Given the large resource and cost implications of DOT, policy makers might want to reconsider strategies that depend on direct observation. Other options might take into account financial and logistical barriers to care; approaches that motivate patients and staff; and defaulter follow‐up. 

@@ -1,0 +1,15 @@
+Background
+A key criterion for discharging preterm infants home from nurseries is their ability to maintain temperature once transferred from incubators to open cots. The timing of transfer is important given the preterm infant's immature thermoregulatory mechanisms. 
+Objectives
+To determine the effects of body weight in transferring preterm infants from incubators to unheated open cots. 
+Search methods
+Electronic databases, the Cochrane Central Register of Controlled Trials, clinical trials registers and the abstracts of the Society for Pediatric Research were searched. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing transfer of preterm infants from incubators to unheated open cots at lower and higher body weights. 
+Data collection and analysis
+Data collection and analysis was performed in accordance with the methods of the Cochrane Neonatal Review Group. 
+Main results
+Four eligible studies were identified. Two of the identified trials were assessed as having good methodological quality. Two studies reported daily weight gain (calculated as growth velocity); the lower body weight group had a significantly greater daily weight gain [pooled mean difference (MD) 2.66 (95% confidence interval (CI)1.37 to 3.95). One study reported a larger proportion of infants transferred at the higher body weight had an episode of low temperature in the first 72 hours; while no difference between the two groups was found in the proportion of infants experiencing cold stress post‐transfer to discharge. Two studies report no difference between the two groups in requiring an overhead heater for temperature maintenance [pooled RR 1.43 (95% CI 0.35 to 1.18). No statistically significant difference was shown for proportion of infants returning to an incubator [three studies (N = 336) [pooled RR 1.78 (95% CI 0.77 to 4.08]. 
+Two studies report there was no statistically significant difference in time spent in an open cot post transfer to discharge; while one study found infants transferred at lower weights had a significantly reduced length of stay [MD ‐9.00 (95% CI ‐13.29 to ‐4.71), a second study found no differences between the two groups [MD 0.30 (95% CI ‐5.11 to 5.71). In these two studies not breastfeeding at discharge was not significantly different between the lower and higher body weight groups [pooled RR 1.02 (95% CI 0.69 to 1.51). 
+Authors' conclusions
+Medically stable preterm infants can be transferred to unheated open cots at a lower body weight of 1600 grams without adverse effects on temperature stability or weight gain. Earlier transfer does not necessarily result in earlier discharge. 

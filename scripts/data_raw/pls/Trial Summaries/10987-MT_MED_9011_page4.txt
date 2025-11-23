@@ -1,0 +1,19 @@
+Clinical Study Results
+
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each participant had might be different and are not in this summary.
+Researchers look at the results of many studies to decide which treatments work best and are safest. Other studies may provide new information or different results.
+Always talk to a doctor before making any treatment change.
+The websites listed at the end of this summary may have a full report of the study results.
+
+How much AZD9977 got into the participants' blood?
+The researchers wanted to know how much AZD9977 got into the blood when the participants took it alone compared to when they took it with itraconazole.
+To answer this question, the study doctors measured the amount of AZD9977 in the participants' blood in Part 1 and in Part 2. They measured:
+- the average highest amount of AZD9977
+- the average total amount of AZD9977 over time
+- the average total amount of AZD9977, up to the last blood sample taken during the study
+
+Average highest amount of AZD9977
+The average highest amount of AZD9977 was measured in units called nanomoles per liter, also known as nmol/L. The researchers found that the average highest amount of AZD9977 in the blood was:
+- 2,244 nmol/L when AZD9977 was taken alone
+- 4,992 nmol/L when AZD9977 was taken with itraconazole

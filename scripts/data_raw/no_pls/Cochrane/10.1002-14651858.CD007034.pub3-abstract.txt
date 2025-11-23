@@ -1,0 +1,15 @@
+Background
+The high mortality rate among critically ill patients with acute kidney injury (AKI) remains an unsolved problem in intensive care medicine, despite the use of renal replacement therapy (RRT). Increasing evidence from clinical studies in adults and children suggests that the new peritoneal dialysis (PD) fluids may allow for better long‐term preservation of peritoneal morphology and function. Formation of glucose degradation products (GDPs) can be reduced and even avoided with the use of newer "biocompatible" solutions. However, it is still unclear if there are any differences in using conventional (lactate) solutions compared with low GDP (bicarbonate) solutions for acute PD. 
+Objectives
+To look at the benefits and harms of bicarbonate versus lactate solutions in acute PD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1966), EMBASE (from 1980), Latin American and Caribbean Health Sciences Literature Database LILACS (from 1982), and reference lists of articles. 
+Date of last search: 6 May 2014.
+Selection criteria
+Randomised controlled trials (RCTs) comparing bicarbonate to lactate solution for acute PD. 
+Data collection and analysis
+Two authors independently assess the methodological quality of studies. One author abstracted data onto a standard form, and a second author checked data extraction. We used the random‐effects model and expressed the results as relative risk (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 
+Main results
+We included one study (20 patients) in this review. In shock patients, bicarbonate did not differ from lactate with respect to mortality (RR 0.50, 95% CI 0.06 to 3.91); however there were significant differences in blood lactate (MD ‐1.60 mmol/L, 95% CI ‐2.04 to ‐1.16), serum bicarbonate (MD 5.00 mmol/L, 95% CI 3.26 to 6.74) and blood pH (MD 0.12, 95% CI 0.06 to 0.18). In non‐shock patients there was a significance difference in blood lactate (MD ‐0.60 mmol/L, 95% CI ‐0.85 to ‐0.35) but not in serum bicarbonate (MD 1.10 mmol/L, 95% CI ‐0.27 to 2.47) or blood pH (MD ‐0.02, 95% CI ‐0.02 to ‐0.06). Other outcomes could not be analysed because of the limited data available. 
+Authors' conclusions
+There is no strong evidence that any clinical advantage for patients requiring acute PD for AKI when comparing conventional (lactate) with low GDP dialysis solutions (bicarbonate). 

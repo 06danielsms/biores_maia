@@ -1,0 +1,18 @@
+Does using medication to block the hormone oxytocin help women who are undergoing embryo transfer for fertility treatment increase their chance of having a baby? 
+Review question 
+What are the benefits and risks of using medication to block the hormone oxytocin for women undergoing embryo transfer? 
+Background 
+Embryo transfer (ET) is a crucial step of assisted reproductive technology (ART), and involves placing one or more embryos (fertilised eggs) into the womb. Contractions in the lining of the womb are wave‐like motions of the lining surface; their presence around the time of embryo transfer is associated with lower pregnancy rates. No treatment is currently used to counteract their negative effects on the embryo’s attachment to the womb. Oxytocin is a natural hormone, known to trigger contractions during labour. Medication to block its function is routinely used to stop contractions in preterm labour. Some think the same hormone is involved in contractions around the time of ET. For this reason, researchers have questioned whether medication that stops labour contractions could stop contractions around the time of ET, and potentially improve pregnancy rates. 
+Study characteristics 
+We found eleven studies, in 3733 women undergoing embryo transfer, which assessed the use of medication to block oxytocin function. Medication to block oxytocin function was given by injection into a vein (atosiban) in seven RCTs, under the skin (barusiban) in one RCT, and by mouth (nolasiban) in three RCTs. The evidence is current to March 2021. 
+Key results 
+Medication by injection (atosiban) versus no medication 
+We are uncertain of the effect of atosiban on live birth and miscarriage rates. In a clinic with a live birth rate of 38% without medication to block oxytocin, the use of atosiban would be associated with a live birth rate ranging from 33% to 47%. In a clinic with a miscarriage rate of 7% without medication to block oxytocin, the use of atosiban would be associated with a miscarriage rate ranging from 5% to 11%. 
+Medication given under the skin (barusiban) versus no medication 
+There were no studies that reported live birth or miscarriage data for the use of barusiban. We are uncertain whether barusiban influences clinical pregnancy rates. 
+Medication given by mouth (nolasiban) versus no medication 
+The evidence suggests that nolasiban does not improve live birth rates when compared to those not taking medication to block oxytocin. In a clinic with a live birth rate of 33% per cycle without medication to block oxytocin, the use of nolasiban would be associated with a live birth rate ranging from 33% to 42%. 
+We are uncertain of the effect of oral nolasiban on miscarriage rate. In a clinic with a miscarriage rate of 2% per cycle without medication to block oxytocin, the use of nolasiban would be associated with a miscarriage rate ranging from 1% to 4%. 
+The evidence suggests that nolasiban improves clinical pregnancy rates compared to not taking medication to block oxytocin. In a clinic with a clinical pregnancy of 35% per cycle without medication to block oxytocin, the use of nolasiban would be associated with a clinical pregnancy rate ranging from 35% to 45%. 
+Evidence for all types of medication on other adverse events such as multiple pregnancy (pregnant with twins, triplets or more), pregnancy growing outside the womb, adverse reaction to medication or congenital anomalies (defects present from birth) was poorly reported or inconclusive. 
+Certainty of the evidenceThe evidence was of very low to high certainty. The main limitations in the evidence were poor reporting of study methods, and lack of exactness due to small study numbers and few events. 

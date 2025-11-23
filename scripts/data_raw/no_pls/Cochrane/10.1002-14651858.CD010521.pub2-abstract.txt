@@ -1,0 +1,16 @@
+Background
+Depression is a mood disorder with a prevalence of approximately 1% to 3% worldwide, representing the fourth leading cause of disease burden globally. The current standard treatments of psychological therapy and antidepressant medications are not effective for everyone, and psychotropic drugs may be associated with significant adverse effects. Cranial electrical stimulation (CES) treatment, in which a low intensity electrical current is administered through the use of a small, portable electrical device, has been reported to have efficacy in the treatment of depression with minimal adverse effects. This systematic review investigated the scientific evidence regarding the efficacy and safety of CES in treatment of acute depression compared to sham, or simulated, CES treatment. 
+Objectives
+To assess the effectiveness and safety of alternating current cranial electrotherapy stimulation (CES) compared with sham CES for acute depression. 
+Search methods
+We searched The Cochrane Collaboration Depression, Anxiety and Neurosis review group's specialized register (CCDANCTR‐Studies and CCDANCTR‐References) to February 24, 2014 This register contains relevant randomized controlled trials from: The Cochrane Library (all years), MEDLINE (1950 to date), EMBASE (1974 to date), and PsycINFO (1967 to date). We examined reference lists of review papers and books on CES. We contacted authors, other experts in the field and CES manufacturing companies for knowledge of suitable published or unpublished trials. 
+Selection criteria
+Randomized controlled trials of CES versus sham CES for the acute treatment of depressive disorder in adults aged 18 to 75 years. 
+Data collection and analysis
+We planned to extract data from the original reports of included studies independently by two authors. The main outcomes to be assessed were: 
+(1) the efficacy of CES in reducing symptoms of depression as reflected in change scores on standardized depression rating scales. (2) the tolerability of CES treatment to participants, as reflected in rates of discontinuation due to adverse effects. 
+We planned to analyze data using Review Manager 5.
+Main results
+No studies met the inclusion criteria for this review.
+Authors' conclusions
+There are insufficient methodologically rigorous studies of CES in treatment of acute depression. There is a need for double‐blind randomized controlled trials of CES in the treatment of acute depression. 

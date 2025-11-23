@@ -1,0 +1,16 @@
+Using samples obtained by bronchoscopy to decide how to treat lung infections in people with cystic fibrosis 
+Review question 
+We reviewed the evidence about whether to use samples obtained by bronchoscopy when deciding how to treat lung infections in people with cystic fibrosis. 
+Background 
+Breathing problems in people with cystic fibrosis are mainly due to repeated lung infections. Growing bugs from samples of mucus coughed up from the lower airways often allows doctors to quickly identify the bug causing the infection and start treatment early. If people can not cough up mucus, swabs are taken from the upper throat to identify the bug causing infection in the lower airways‐but this may not be the most reliable method. 
+During a bronchoscopy, clinicians examine the lower airways using a long, thin flexible tube with a light and camera at one end; they may also collect mucus. The person needs to be sedated or have a general anaesthetic. We do not know if treatment based on samples taken during a bronchoscopy is better than treatment based on throat swabs. This is an update of an already published review. 
+Search date 
+The evidence is current to: 10 April 2018.
+Study characteristics 
+We searched for studies of people of any age, but this review only includes one study in which 170 babies with cystic fibrosis, aged less than six months, were divided into two groups completely at random. One group was given antibiotics based on samples taken by bronchoscopy and the other group based on samples taken from throat. The investigators measured outcomes at five years of age. A total of 157 children completed the study. 
+Key results 
+This study did not show any difference between the groups in terms of lung function, weight, body mass index or in the score calculated by a CT scan of the lungs at five years of age. There were no differences in how many children in each group had an infection with Pseudomonas aeruginosa at five years of age, or per year of follow up, or how often a child was unwell with respiratory symptoms. Children in the bronchoscopy group were admitted to hospital more often although admissions were generally shorter than the other group. There was no difference in the overall cost of care between the two groups. 
+Side effects reported during, and after bronchoscopy, were not serious; the most common side effect was increased coughing (in one third of children). 
+There is currently not enough evidence to support the regular use of bronchoscopy to diagnose and treat lung infections in children with cystic fibrosis. 
+Quality of the evidence 
+Evidence was limited to only one well‐designed study. Overall quality of evidence was of low (for most outcomes) to moderate quality (for high‐resolution computed tomography scoring and cost of care analysis). Quality limitations were due to fewer children taking part in the study than the statisticians thought were needed to show true results for some outcomes. Since the treatment of a first infection with Pseudomonas aeruginosa is highly successful, larger and longer studies are needed to detect small differences between the groups. Conducting such large studies is extremely difficult. Also, the study only included young children and we do not know if the results would be the same in other age groups. 

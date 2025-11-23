@@ -1,0 +1,14 @@
+Background
+Cardiopulmonary arrest in paediatric patients often results in death or survival with severe brain injury. Therapeutic hypothermia, lowering of the core body temperature to 32 °C to 34 °C, may reduce injury to the brain in the period after the circulation has been restored. This therapy has been effective in neonates with hypoxic ischaemic encephalopathy and adults after witnessed ventricular fibrillation cardiopulmonary arrest. The effect of therapeutic hypothermia after cardiopulmonary arrest in paediatric patients is unknown. 
+Objectives
+To assess the clinical effectiveness of therapeutic hypothermia after paediatric cardiopulmonary arrest. 
+Search methods
+We searched the Cochrane Anaesthesia Review Group Specialized Register; Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 11); Ovid MEDLINE (1966 to December 2011); Ovid EMBASE (1980 to December 2011); Ovid CINAHL (1982 to December 2011); Ovid BIOSIS (1923 to December 2011); and Web of Science (1945 to December 2011). We searched the trials registry databases for ongoing trials. We also contacted international experts in therapeutic hypothermia and paediatric critical care to locate further published and unpublished studies. 
+Selection criteria
+We planned to include randomized and quasi‐randomized controlled trials comparing therapeutic hypothermia with normothermia or standard care in children, aged 24 hours to 18 years, after paediatric cardiopulmonary arrest. 
+Data collection and analysis
+Two authors independently assessed articles for inclusion.
+Main results
+We found no studies that satisfied the inclusion criteria. We found four on‐going randomized controlled trials which may be available for analysis in the future. We excluded 18 non‐randomized studies. Of these 18 non‐randomized studies, three compared therapeutic hypothermia with standard therapy and demonstrated no difference in mortality or the proportion of children with a good neurological outcome; a narrative report was presented.   
+Authors' conclusions
+Based on this review, we are unable to make any recommendations for clinical practice. Randomized controlled trials are needed and the results of on‐going trials will be assessed when available. 

@@ -1,0 +1,29 @@
+How accurate are magnetic resonance imaging (MRI) scans for detecting liver cancer?
+Key messages 
+In people with chronic liver disease, magnetic resonance imaging (MRI: cross‐sectional scans inside the body) probably misses liver cancer in 16% of people, who would not receive timely or appropriate treatment, and incorrectly finds liver cancer in 6% of people, who would receive unnecessary treatment. 
+MRI probably misses liver cancer in 16% of people with liver cancer who could have surgery to remove part of their liver, and incorrectly finds liver cancer in 7% of people who undergo inappropriate surgery. 
+The studies were at high risk of bias and too different from each other to allow us to draw firm conclusions based on the evidence. 
+Why is it important to diagnose liver cancer accurately? 
+Liver cancer, or 'hepatocellular carcinoma', occurs mostly in people with chronic liver disease, regardless of the cause. It is the sixth most common cancer in the world and the third most common cause of deaths due to cancer. It is difficult to diagnose because early symptoms are similar to those of liver disease. People with blood test or ultrasound results that suggest liver cancer may go on to have further tests, such as scans that produce images of the liver, or biopsy where a small piece of the liver is removed and examined. If liver cancer is detected early, people may be treated with surgery to remove part of the liver (called a liver resection) or with a liver transplant. If the liver cancer is more advanced, they may need chemotherapy. If liver cancer is missed at the diagnostic test, people will not receive appropriate treatment. However, incorrectly diagnosing liver cancer when it is not present means that people may undergo unnecessary testing or treatment. 
+What is magnetic resonance imaging (MRI) and how might it diagnose liver cancer? 
+MRI produces images that show a cross‐section or 'slice' of the bones, blood vessels, and tissues inside the body. The images are a series of signal intensities that are directed and combined by a computer. MRI scans can detect the presence of abnormalities in the liver that might be cancer. Current guidelines recommend using either MRI or another type of imaging, computed tomography, or a combination to confirm the presence of liver cancer in people who might have liver cancer. 
+What did we want to find out? 
+We wanted to find out if MRI is accurate enough to diagnose liver cancer in adults with chronic liver disease. We were interested first, in liver cancers of any size and stage and second, in liver cancers that were suitable for resection. 
+What did we do? 
+We searched for studies that assessed the accuracy of MRI scans compared to the best available tests to confirm liver cancer in adults with chronic liver disease. The best available tests are examination of the liver, or part of the liver under a microscope. 
+What did we find? 
+We found 34 studies assessing 4841 people.
+Around 560 of 1000 (56%) adults with chronic liver disease have confirmed liver cancer. Of these 1000 people, MRI may: 
+‐ correctly detect liver cancer in 473 people;
+‐ miss liver cancer in 87 people;
+‐ incorrectly detect liver cancer in 27 cancer‐free people;
+‐ correctly detect no liver cancer in 413 people.
+Based on the studies, around 560 of 1000 (56%) adults with chronic liver disease have confirmed resectable liver cancer. Of these 1000 people, MRI may: 
+‐ correctly detect resectable liver cancer in 472 people;
+‐ miss resectable liver cancer in 88 people;
+‐ incorrectly detect resectable liver cancer in 31 people;
+‐ correctly detect no resectable liver cancer in 409 people.
+What are the limitations of the evidence? 
+Our confidence in the evidence is limited because the studies used different methods to select study participants and used different definitions for the presence of liver disease. This means MRI scans could be more or less accurate than suggested by our analyses of the evidence. 
+How up to date is this evidence? 
+The evidence is up to date to 9 November 2021.

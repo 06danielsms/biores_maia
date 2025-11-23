@@ -1,0 +1,16 @@
+Background
+Preterm birth is a major contributor to perinatal mortality and morbidity worldwide. Tocolytic agents are drugs used to inhibit uterine contractions. Betamimetics are tocolytic agents that have been widely used, especially in resource‐poor countries. 
+Objectives
+To assess the effects of betamimetics given to women with preterm labour.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 December 2013) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials of betamimetics, administered by any route or any dose, in the treatment of women in preterm labour where betamimetics were compared with other betamimetics, placebo or no treatment. 
+Data collection and analysis
+Two review authors assessed risk of bias and extracted the data independently.
+Main results
+Twenty‐eight trials were assessed as eligible for inclusion in the review, but eight did not report any outcome data relevant to the review. Results are based on the 20 trials that contributed data. 
+Twelve trials, involving 1367 women, compared betamimetics with placebo. Betamimetics decreased the number of women in preterm labour giving birth within 48 hours (average risk ratio (RR) 0.68, 95% confidence interval (CI) 0.53 to 0.88, 10 trials, 1209 women). There was a decrease in the number of births within seven days (average RR 0.80; 95% CI 0.65 to 0.98, five trials, 911 women) but there was no evidence of a reduction in preterm birth (before 37 weeks' gestation) (RR 0.95; 95% CI 0.88 to 1.03, 10 trials, 1212 women). No benefit was demonstrated for betamimetics for perinatal death (RR 0.84; 95% CI 0.46 to 1.55, 11 trials, 1332 infants), or neonatal death (RR 0.90; 95% CI 0.27 to 3.00, six trials, 1174 infants). No significant effect was demonstrated for respiratory distress syndrome (RR 0.87; 95% CI 0.71 to 1.08, eight trials, 1239 infants). A few trials reported on cerebral palsy, infant death and necrotising enterocolitis; no significant differences between groups were identified for any of these outcomes. Betamimetics were significantly associated with the following outcomes: withdrawal from treatment due to adverse effects; maternal chest pain; dyspnoea; palpitation; tremor; headaches; hypokalaemia; hyperglycaemia; nausea or vomiting; nasal stuffiness; and fetal tachycardia. 
+Nine trials compared different types of betamimetics. Other betamimetics were compared with ritodrine in five trials (n = 948). Other comparisons were examined in single trials: hexoprenaline compared with salbutamol (n = 140), slow versus moderate release salbutamol (n = 52) and salbutamol compared with terbutaline (n = 200). Trials were small, varied, and of insufficient quality to delineate any consistent patterns of effect. 
+Authors' conclusions
+Betamimetics help to delay birth, which may give time to allow women to be transferred to tertiary care or to complete a course of antenatal corticosteroids. However, multiple adverse effects must be considered. The data are too few to support the use of any particular betamimetic. 

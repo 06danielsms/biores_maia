@@ -1,0 +1,13 @@
+Probiotics ('healthy bacteria') for preventing acute middle ear infection in children
+Review question 
+Does taking probiotics (‘healthy bacteria’) prevent children from getting acute middle ear infections? 
+Background 
+Acute middle ear infection is very common in childhood. It is caused by bacteria that travel from the upper part of the throat, through canals (called Eustachian tubes), to the middle ear. Symptoms include fever, earache, and occasionally the eardrum may perforate, discharging pus into the ear canal. 
+Antibiotics are often prescribed for acute middle ear infection, although they have only a modest effect on reducing symptoms. Moreover, excessive antibiotic use leads to antibiotic resistance, making them less effective for these and other infections. Consequently, preventing acute middle ear infection is highly desirable. 
+Probiotics are often sold as tablets or powders, as a food ingredient (e.g. in yogurt), and even sprayed directly into the throat. However, it is not yet clear whether they prevent acute middle ear infection. We analysed the scientific evidence to answer this question. 
+Study characteristics and searches 
+We searched and identified 17 randomised controlled trials (studies in which participants are assigned to one of two or more treatment groups using a random method), published before October 2018. All were conducted in Europe, and collectively included 3488 children. Twelve trials included children who were not prone to acute middle ear infections, whilst five trials included children who were prone to such infections. 
+Key results 
+One‐third fewer children not prone to acute middle ear infection who took probiotics experienced acute middle ear infections compared to children not taking probiotics. However, probiotics may not benefit children prone to acute middle ear infection. Taking probiotics did not impact on the number of days of school that children missed. None of the studies reported on the impact of probiotics on the severity of acute middle ear infection. There was no difference between the group taking probiotics and the group not taking probiotics in the number of children experiencing adverse events (harms). 
+Quality of the evidence 
+The quality (or certainty) of the evidence was generally moderate (meaning that further research may change our estimates) or high (further research is unlikely to change our estimates). However, the trials differed in terms of types of probiotics evaluated, how often and for how long they were taken, and how the trial results were reported. 

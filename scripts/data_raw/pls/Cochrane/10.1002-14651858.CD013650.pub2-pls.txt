@@ -1,0 +1,38 @@
+The effects of DPP‐4 inhibitors, GLP‐1 receptor agonists and SGLT‐2 inhibitors for people with cardiovascular disease 
+Key messages 
+‐ GLP‐1RA and SGLT2i (two new diabetes medicines) are likely to reduce the risk of death from cardiovascular disease and death from any cause in people with both diabetes and established cardiovascular disease (diseases of the heart and blood vessels). 
+‐ SGLT2i medicines are likely to reduce the risk of hospitalisation for heart failure and GLP‐1RA medicines may reduce fatal and non‐fatal stroke. 
+‐ We need further studies to find out if these medicines also have a positive effect on cardiovascular health in people without diabetes or if the effects seen in people with diabetes are due only to these medicines’ ability to control blood sugar. 
+What is cardiovascular disease? 
+Cardiovascular disease is a general term for conditions that affect the heart and blood vessels. It is one of the leading causes of death worldwide. Fatty substances in the blood can build up and block blood vessels, leading to problems such as heart failure – when the heart cannot pump blood around the body properly – stroke and heart attacks. People who are inactive or overweight, or have high blood pressure, high cholesterol or diabetes are at risk of cardiovascular disease. 
+Some new types of diabetes medicines, DPP4i, GLP‐1RA and SGLT2i, have been designed to control blood sugar. They may also prevent cardiovascular complications in people with diabetes who also have cardiovascular disease. 
+What did we want to find out? 
+We wanted to know if DPP4i, GLP‐1RA and SGLT2i medicines are effective treatments for cardiovascular disease in people with established cardiovascular disease, both with and without diabetes. We also wanted to know whether these medicines cause unwanted effects. 
+We were interested in whether people taking these medicines were at higher or lower risk of: dying from cardiovascular disease; having a fatal or non‐fatal heart attack; having a fatal or non‐fatal stroke; dying from any cause; being hospitalised due to heart failure; and experiencing unwanted effects, such as worsening kidney function, low blood sugar, bone fracture, and inflammation of the pancreas (pancreatitis). 
+What did we do? We searched for studies that investigated DPP4i, GLP‐1RA and SGLT2i medicines compared with each other or with placebo (a medicine that looks like the real medicine but that has no active ingredient). 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We found 31 studies. We were able to combine and analyse the evidence from 20 studies, with 129,465 participants. Six of the 20 studies investigated DPP4i, 7 studied GLP‐1RA and 7 investigated SGLT2i medicines, all compared with placebo. People in the studies were aged between 60 and 71 years and most people had diabetes. 
+Main results 
+DPP4i medicines compared to placebo: 
+‐ do not reduce the risk of death from cardiovascular disease or from any cause, or risk of heart attack or stroke; 
+‐ probably do not reduce the risk of hospitalisation due to heart failure;
+‐ may not increase the risk of worsening kidney function or bone fracture and probably do not increase the risk of low blood sugar; 
+‐ are likely to increase the risk of pancreatitis.
+GLP‐1RA medicines compared to placebo: 
+‐ reduce the risk of death due to cardiovascular disease and from any cause slightly, and reduce the risk of stroke slightly; 
+‐ probably do not reduce the risk of heart attack;
+‐ do not reduce the risk of hospitalisation due to heart failure;
+‐ may reduce the risk of worsening kidney function but may have no impact on pancreatitis;
+‐ uncertainty about effects on low blood sugar and bone fracture.
+SGLT2i medicines compared to placebo: 
+‐ probably reduce the risk of death from cardiovascular disease and from any cause slightly; 
+‐ reduce the risk of hospitalisation due to heart failure;
+‐ do not reduce the risk of heart attack and probably do not reduce the risk of stroke;
+‐ probably reduce the risk of worsening kidney function;
+‐ may have no impact on pancreatitis and they have no effect on bone fracture.
+Although none of the studies compared one medicine directly with another, we used a statistical technique called network meta‐analysis that allowed us to compare one against another. The results were similar to those above. 
+What are the limitations of the evidence? 
+We are confident or moderately confident in the evidence for deaths from cardiovascular disease or any cause, heart attack, stroke and hospitalisation due to heart failure. We are less confident in the evidence for unwanted effects because few studies provided information on unwanted effects and they did not report many. Most studies included people with diabetes only so these results could be due to better control of their diabetes, rather than the medicines’ effect on cardiovascular disease. 
+How up‐to‐date is this evidence? 
+The evidence is current to 16 July 2020.

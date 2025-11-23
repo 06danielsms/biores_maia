@@ -1,0 +1,38 @@
+Clinical Trial RESULTS
+
+Throughout the study, researchers did blood tests, physical exams and other tests to check your overall health. Researchers also checked your heart using an electrocardiogram or ECG. At your first visit, researchers repeated some of the tests to make sure you were still healthy. There was a "washout period" of 7 to 14 days between treatments. During the washout periods, you did not take any drugs. This helped get rid of any effects from previous treatments.
+
+What were the study results?
+
+How much AZD7594 entered the blood when participants took it using DPI 1 compared with DPI 2?
+
+Researchers looked at how much of AZD7594 was in the bloodstream when participants took the study drug in the inhalers, which reached the lungs only, and when participants took the study drug in liquid form through the mouth, which reached the stomach only, compared to the IV.
+
+How much AZD7594 reached the blood through the lungs only?
+
+Researchers found that:
+
+- Participants in Part 2 who used DPI 1 had an average of 27.5% of AZD7594 reach the bloodstream through the lungs.
+- Participants in Group 1 of Part 3 who used DPI 2 had an average of 30.7% of AZD7594 reach the bloodstream through the lungs.
+
+Participations in Group 2 of Part 3 who used the pMDI did not have levels of AZD7594 that could be measured. The researchers added an additional group in Part 3 who used a pMDI to make sure these results were accurate. The amount of AZD7594 in the additional group also was too low to measure.
+
+35
+30.7%
+20
+15
+10
+5
+0
+
+Part 2
+Part 3 Group 1
+Group 2
+Additional
+
+(DPI 1)
+(DPI 2)
+(pMDI)
+(pMDI)
+
+Inhaler treatments

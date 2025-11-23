@@ -1,0 +1,15 @@
+Background
+Surfactant therapy is effective in improving the outcome of very preterm infants. Trials have studied a wide variety of surfactant preparations used either to prevent or treat respiratory distress syndrome (RDS). In animal models, prophylactic surfactant leads to more homogeneous distribution and less evidence of lung damage. However, administration requires intubation and treatment of infants who will not go on to develop RDS. This is of particular concern with the advent of improved approaches to providing continuous distending pressure, particularly in the form of nasal continuous positive airway pressure (NCPAP). 
+Objectives
+To compare the effect of prophylactic surfactant administration with surfactant treatment of established RDS in very preterm infants at risk of RDS. 
+Search methods
+We updated the search of the Cochrane Central Register of Controlled Trials (The Cochrane Library), MEDLINE, EMBASE, CINAHL, and clinical trials.gov register in December 13, 2011. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials that compared the effects of prophylactic surfactant administration with surfactant treatment of established RDS in preterm infants at risk of RDS. 
+Data collection and analysis
+Data regarding clinical outcomes were extracted from the reports of the clinical trials by the review authors. Data analysis was done in accordance with the standards of the Cochrane Neonatal Review Group. 
+Main results
+We identified 11 studies that met inclusion criteria (nine without routine application of continuous positive air way pressure (CPAP) in the selective treatment group; two with routine application of CPAP in the selective treatment group). 
+The meta‐analysis of studies conducted prior to the routine application of CPAP demonstrated a decrease in the risk of air leak and neonatal mortality associated with prophylactic administration of surfactant. However, the analyses of studies that allowed for routine stabilization on CPAP demonstrated a decrease in the risk of chronic lung disease or death in infants stabilized on CPAP. When all studies were evaluated together, the benefits of prophylactic surfactant could no longer be demonstrated. 
+Authors' conclusions
+Although the early trials of prophylactic surfactant administration to infants judged to be at risk of developing RDS compared with selective use of surfactant in infants with established RDS demonstrated a decreased risk of air leak and mortality, recent large trials that reflect current practice (including greater utilization of maternal steroids and routine post delivery stabilization on CPAP) do not support these differences and demonstrate less risk of chronic lung disease or death when using early stabilization on CPAP with selective surfactant administration to infants requiring intubation. 

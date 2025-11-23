@@ -1,0 +1,16 @@
+Background
+Many different surgical techniques have been described for the internal fixation of extracapsular hip fractures. 
+Objectives
+To compare different aspects of surgical technique used in operations for internal fixation of extracapsular hip fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (January 2008), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2008, Issue 1), MEDLINE, EMBASE, CINAHL, Current Controlled Trials, orthopaedic journals, conference proceedings and reference lists of articles. Date of last search was January 2008. No language restriction was applied. 
+Selection criteria
+All randomised and quasi‐randomised trials investigating operative techniques used in operations for the treatment of extracapsular hip fractures in adults. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality and extracted data. Wherever appropriate, data were pooled. 
+Main results
+Predominantly older people with trochanteric fractures were treated in the 11 included trials. 
+One trial (65 participants undergoing fixation with a fixed nail‐plate) found no statistically significant differences between osteotomy versus anatomical reduction.   Four trials, involving 465 participants undergoing fixation with a sliding hip screw (SHS), compared osteotomy versus anatomical reduction. Osteotomy was associated with an increased operative blood loss and length of surgery. There were no statistically significant differences for mortality, morbidity or measures of anatomical deformity. 
+Two trials (138 participants) compared SHS fixation of a trochanteric hip fracture augmented with cement against a standard fixation. There were no reoperations even for the four cases of fixation failure in the cement group. The cement group had significantly better quality of life scores at six months. One trial (200 participants) comparing compression versus no compression of a trochanteric fracture in conjunction with SHS fixation found no significant differences between the two groups. One trial (120 participants) found a tendency to improved outcomes with a hydroxyapatite coated lag screw, but none reached statistical significance. One trial (19 participants) reported reduced temperatures when using a modified reaming method. Another trial (50 participants) found reduced bone marrow intravascular embolism, detected by oesophageal ultrasound, when a Gamma nail was inserted with a distal pressure venting hole in the femur. 
+Authors' conclusions
+There is inadequate evidence to support the use of osteotomy for internal fixation of a trochanteric hip fracture. Similarly, there is insufficient evidence to support the use of the other techniques examined in the trials included in this review. 

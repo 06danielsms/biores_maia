@@ -1,0 +1,16 @@
+Background
+The majority of the currently used treatment protocols for osteosarcoma are based on a combination of doxorubicin, cisplatin, methotrexate (MTX) and/or ifosfamide, of which MTX seems to be one of the most active drugs. However, in the literature, this has not been unambiguously proven. 
+Objectives
+To compare the effectiveness of treatment including MTX with treatment without MTX for children and young adults (up to 21 years) with primary high‐grade osteosarcoma. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library, issue 4, 2010), MEDLINE (1966 to January 2011) and EMBASE (1980 to January 2011). In addition, we searched reference lists of relevant articles, conference proceedings and ongoing trials databases. 
+Selection criteria
+Randomised controlled trials (RCTs) or controlled clinical trials (CCTs) comparing the effectiveness of treatment including MTX with treatment without MTX in the treatment of paediatric high‐grade osteosarcoma. 
+Data collection and analysis
+Two reviewers independently performed the study selection. One reviewer performed the data extraction and quality assessment, which was checked by another reviewer. 
+Main results
+We could not identify any studies in which the only difference between the treatment groups was the use of MTX. 
+We did identify a RCT comparing MTX with cisplatin (n=30 children). The risk of bias in this study was difficult to assess due to a lack of reporting. Survival could not be evaluated, but no evidence of a significant difference in response rate between the treatment groups was identified (RR=0.44; 95% CI 0.17 to 1.13; P=0.09). A significant difference in the occurrence of toxicities in favour of MTX was identified, but with regard to quality of life treatment with cisplatin seemed to give better results. 
+For other combinations of treatment including and not including MTX no studies were identified. 
+Authors' conclusions
+Since no RCTs or CCTs in which only the use of MTX differed between the treatment groups were identified, no definitive conclusions can be made about the effects on antitumour efficacy, toxicities and quality of life of the addition of MTX to treatment of children and young adults with primary high‐grade osteosarcoma. The same is true for combinations of treatment including and not including MTX other than treatment with MTX versus treatment with cisplatin. Only 1 RCT comparing MTX with cisplatin treatment was available and therefore, no definitive conclusions can be made about the effectiveness of these agents in children and young adults with primary high‐grade osteosarcoma. Furthermore, this study was performed in a different treatment era. Nowadays single agent treatment of osteosarcoma is considered inadequate. Based on the currently available evidence, we are not able to give recommendations for the use of MTX in clinical practice. More high quality research is needed. 

@@ -1,0 +1,14 @@
+Background
+This article describes the second update of a Cochrane review on the effectiveness of laxatives for the management of constipation in people receiving palliative care. Previous versions were published in 2006 and 2010 where we also evaluated trials of methylnaltrexone; these trials have been removed as they are included in another review in press. In these earlier versions, we drew no conclusions on individual effectiveness of different laxatives because of the limited number of evaluations. This is despite constipation being common in palliative care, generating considerable suffering due to the unpleasant physical symptoms and the availability of a wide range of laxatives with known differences in effect in other populations. 
+Objectives
+To determine the effectiveness and differential efficacy of laxatives used to manage constipation in people receiving palliative care. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; The Cochrane Library), MEDLINE, EMBASE, CINAHL and Web of Science (SCI & CPCI‐S) for trials to September 2014. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating laxatives for constipation in people receiving palliative care. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data. The appropriateness of combining data from the studies depended upon clinical and outcome measure homogeneity. 
+Main results
+We identified five studies involving the laxatives lactulose, senna, co‐danthramer, misrakasneham, docusate and magnesium hydroxide with liquid paraffin. Overall, the study findings were at an unclear risk of bias. As all five studies compared different laxatives or combinations of laxatives, it was not possible to perform a meta‐analysis. There was no evidence on whether individual laxatives were more effective than others or caused fewer adverse effects. 
+Authors' conclusions
+This second update found that laxatives were of similar effectiveness but the evidence remains limited due to insufficient data from a few small RCTs. None of the studies evaluated polyethylene glycol or any intervention given rectally. There is a need for more trials to evaluate the effectiveness of laxatives in palliative care populations. Extrapolating findings on the effectiveness of laxatives evaluated in other populations should proceed with caution. This is because of the differences inherent in people receiving palliative care that may impact, in a likely negative way, on the effect of a laxative. 

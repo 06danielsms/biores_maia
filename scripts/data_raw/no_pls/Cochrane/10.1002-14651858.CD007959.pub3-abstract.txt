@@ -1,0 +1,18 @@
+Background
+Faecal incontinence is a complex and distressing condition with significant medical and social implications. Injection of perianal bulking agents has been used to treat the symptoms of passive faecal incontinence. However, various agents have been used without a standardised technique and the supposed benefit of the treatment is largely anecdotal with a limited clinical research base. 
+Objectives
+To determine the effectiveness of perianal injection of bulking agents for the treatment of faecal incontinence in adults. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register of trials (25 May 2012), ZETOC (3 May 2012), clinical trials registries (3 May 2012) and the reference lists of relevant articles. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials comparing the use of injectable bulking agents for faecal incontinence with any alternative treatments or placebo were reviewed to evaluate the therapeutic effects. Case‐control and cohort studies were also reviewed to assess risks and complications associated with the treatments. 
+Data collection and analysis
+Two review authors (YM and CN) assessed the methodological quality of eligible trials and independently extracted data from the included trials using a range of pre‐specified outcome measures. 
+Main results
+Five eligible randomised trials with a total of 382 patients were identified. Four of the trials were at an uncertain or high risk of bias. 
+Most trials reported a short term benefit from injections regardless of the material used, including placebo saline injection. One study demonstrated dextranomer in stabilised hyaluronic acid (NASHA Dx) to be more effective than sham injection but with more adverse effects. Dextranomer in stabilised hyaluronic acid (NASHA Dx) was better than sham injections at six months (65/136, 48% versus 48/70, 69% participants not improved, defined as less than 50% reduction in incontinence episodes, RR 0.70, 95% CI 0.55 to 0.88; with more incontinence free days (3.1 days compared with 1.7 in the sham treatment group, MD 1.40 days, 95% CI 0.33 to 2.47). Another study comparing silicone material (PTQ™) to saline injections was too small to demonstrate a clinical benefit compared to the control injection of normal saline. 
+A silicone biomaterial (PTQ™) was shown to provide some advantages and was safer in treating faecal incontinence than carbon‐coated beads (Durasphere®) in the short term. 
+Similarly, there were short term benefits from injections delivered under ultrasound guidance compared with digital guidance. 
+No long term evidence on outcomes was available and further conclusions were not warranted from the available data. None of the studies reported patient evaluation of outcomes and thus it is difficult to gauge whether the improvement in incontinence scores matched practical symptom improvements that mattered to the patients. 
+Authors' conclusions
+One large randomised controlled trial has shown that this form of treatment using dextranomer in stabilised hyaluronic acid (NASHA Dx) improves continence for a little over half of patients in the short term. However, the number of identified trials was limited and most had methodological weaknesses. 

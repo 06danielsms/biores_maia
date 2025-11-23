@@ -1,0 +1,16 @@
+Background
+Preterm infants are often growth‐restricted at hospital discharge. Feeding nutrient‐enriched formula rather than standard formula to infants after hospital discharge might facilitate 'catch‐up' growth and might improve development. 
+Objectives
+To compare the effects of nutrient‐enriched formula versus standard formula on growth and development of preterm infants after hospital discharge. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of Controlled Trials (2016, Issue 8) in the Cochrane Library, MEDLINE, Embase and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; to 8 September 2016), as well as conference proceedings and previous reviews. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that compared the effects of feeding nutrient‐enriched formula (postdischarge formula or preterm formula) versus standard term formula to preterm infants after hospital discharge . 
+Data collection and analysis
+Two review authors assessed trial eligibility and risk of bias and extracted data independently. We analysed treatment effects as described in the individual trials and reported risk ratios and risk differences for dichotomous data, and mean differences (MDs) for continuous data, with respective 95% confidence intervals (CIs). We used a fixed‐effect model in meta‐analyses and explored potential causes of heterogeneity by performing sensitivity analyses. We assessed quality of evidence at the outcome level using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 
+Main results
+We included 16 eligible trials with a total of 1251 infant participants. Trials were of variable methodological quality, with lack of allocation concealment and incomplete follow‐up identified as major potential sources of bias. Trials (N = 11) that compared feeding infants with 'postdischarge formula' (energy density about 74 kcal/100 mL) versus standard term formula (about 67 kcal/100 mL) did not find consistent evidence of effects on growth parameters up to 12 to 18 months post term. GRADE assessments indicated that evidence was of moderate quality, and that inconsistency within pooled estimates was the main quality issue. 
+Trials (N = 5) that compared feeding with 'preterm formula' (about 80 kcal/100 mL) versus term formula found evidence of higher rates of growth throughout infancy (weighted mean differences at 12 to 18 months post term: about 500 g in weight, 5 to 10 mm in length, 5 mm in head circumference). GRADE assessments indicated that evidence was of moderate quality, and that imprecision of estimates was the main quality issue. 
+Few trials assessed neurodevelopmental outcomes, and these trials did not detect differences in developmental indices at 18 months post term. Data on growth or development through later childhood have not been provided. 
+Authors' conclusions
+Recommendations to prescribe 'postdischarge formula' for preterm infants after hospital discharge are not supported by available evidence. Limited evidence suggests that feeding 'preterm formula' (which is generally available only for in‐hospital use) to preterm infants after hospital discharge may increase growth rates up to 18 months post term. 

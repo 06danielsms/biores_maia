@@ -1,0 +1,16 @@
+Background
+Atrial fibrillation (AF) is the most common cardiac arrhythmia seen in cardiovascular departments. Treatments include medical interventions and catheter ablation. Due to uncertainties in medical therapies for AF, and the need to continue sinus rhythm, ablation has been recently considered as a viable alternative. Many new ablation methods based on pulmonary vein isolation (PVI) have been developed. 
+Objectives
+The primary objective of this review was to assess the beneficial and harmful effects of catheter ablation (CA) in comparison with medical treatment in patients with paroxysmal and persistent AF. The secondary objective was to determine the best regimen of CA. 
+Search methods
+Searches were run on The Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library Issue 3 2009, MEDLINE (1950 to August 2009), EMBASE (1980 to August 2009), the Chinese Biomedical Literature Database (1978 to August 2009) and the CKNI Chinese Paper Database (1994 to 2009) . Several journals published in Chinese were also handsearched. 
+Selection criteria
+Randomised controlled trials (RCTs) in people with paroxysmal and persistent AF treated by any type of CA method. Two reviewers independently selected the trials for inclusion. 
+Data collection and analysis
+Assessments of risk of bias were performed by two reviewers, and relative risk (RR) and 95% confidence intervals (CI) were used for dichotomous variables. Meta‐analysis were performed where appropriate. 
+Main results
+A total of 32 RCTs (3,560 patients) were included. RCTs were small in size and of poor quality. 
+CA compared with medical therapies: seven RCTs indicated that CA had a better effect in inhibiting recurrence of AF [RR 0.27; 95% CI 0.18, 0.41)] but there was significant heterogeneity. There was limited evidence to suggest that sinus rhythm was restored during CA (one small trial: RR 0.28, 95% CI 0.20‐0.40), and at the end of follow‐up (RR 1.87, 95% CI 1.31‐2.67; I2=83%). There were no differences in mortality (RR, 0.50, 95% CI 0.04 to 5.65), fatal and non‐fatal embolic complication (RR 1.01, 95% CI 0.18 to 5.68) or death from thrombo‐embolic events (RR 3.04, 95% CI 0.13 to 73.43). 
+Comparisons of different CAs; 25 RCTs compared CA of various kinds. Circumferential pulmonary vein ablation was better than segmental pulmonary vein ablation in improving symptoms of AF (p<=0.01) and in reducing the recurrence of AF (p<0.01). There is limited evidence to suggest which ablation method was the best. 
+Authors' conclusions
+There is limited evidence to suggest that CA may be a better treatment option compared to medical therapies in the management of persistent AF. This review was also unable to recommend the best CA method. 

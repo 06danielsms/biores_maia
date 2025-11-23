@@ -1,0 +1,16 @@
+Background
+Visceral leishmaniasis (VL) is a disease caused by a parasite, which can lead to death if untreated. Poor nutritional status hastens the progression of VL infection, and VL worsens malnutrition status. Malnutrition is one of the poor prognostic factors identified for leishmaniasis. However, the effects of nutritional supplementation in people treated for VL are not known. 
+Objectives
+To assess the effects of oral nutritional supplements in people being treated with anti‐leishmanial drug therapy for VL. 
+Search methods
+We searched the Cochrane Infectious Diseases Group (CIDG) Specialized Register, CENTRAL, MEDLINE, Embase, LILACS, and two trial registers up to 12 September 2017. We checked conference proceedings and WHO consultative meeting reports, the reference lists of key documents and existing reviews, and contacted experts and nutritional supplement companies. 
+Selection criteria
+Randomized controlled trials (RCTs), quasi‐randomized controlled trials (quasi‐RCTs), and non‐randomized controlled trials (NRCTs) of any oral nutritional supplement, compared to no nutritional intervention, placebo, or dietary advice alone, in people being treated for VL. 
+Data collection and analysis
+Two review authors independently screened the literature search results for studies that met the inclusion criteria. We had planned for two review authors to independently extract data and assess the risk of bias of the included studies. We planned to follow the Cochrane standard methodological procedures for assessing risk of bias and analysing the data. 
+Main results
+We identified no eligible studies for this review, either completed or ongoing.
+Authors' conclusions
+We found no studies, either completed or ongoing, that assessed the effects of oral nutritional supplements in people with VL who were being treated with anti‐leishmanial drug therapy. Thus, we could not draw any conclusions on the impact of these interventions on primary cure of VL, definitive cure of VL, treatment completion, self‐reported recovery from illness or resolution of symptoms, weight gain, increased skinfold thickness, other measures of lean or total mass, or growth in children. 
+This absence of evidence should not be interpreted as evidence of no effect for nutritional supplements in people under VL treatment. It means that we did not identify research that fulfilled our review inclusion criteria. 
+The effects of oral nutritional supplements in people with VL who are being treated with anti‐leishmanial drug therapy have yet to be determined by rigorous experimental studies, such as cluster‐randomized trials, that focus on outcomes relevant for patients. 

@@ -1,0 +1,15 @@
+Background
+Vascular occlusion is used to reduce blood loss during liver resection surgery. Various methods of vascular occlusion have been suggested. 
+Objectives
+To compare the benefits and harms of different methods of vascular occlusion during elective liver resection. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until August 2008. 
+Selection criteria
+We included randomised clinical trials comparing different methods of vascular occlusion during elective liver resections (irrespective of language or publication status). 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and independently extracted the data. We calculated the risk ratio or mean difference with 95% confidence intervals using fixed‐effect and random‐effects models based on intention‐to‐treat or available data analysis. 
+Main results
+Ten trials including 657 patients compared different methods of vascular occlusion. All trials were of high risk of bias. Only one or two trials were included under each comparison. There was no statistically significant differences in mortality, liver failure, or other morbidity between any of the comparisons. 
+Hepatic vascular occlusion does not decrease the blood transfusion requirements. It decreases the cardiac output and increases the systemic vascular resistance. In the comparison between continuous portal triad clamping and intermittent portal triad clamping, four of the five liver failures occurred in patients with chronic liver diseases undergoing the liver resections using continuous portal triad clamping. In the comparison between selective inflow occlusion and portal triad clamping, all four patients with liver failure occurred in the selective inflow occlusion group. There was no difference in any of the other important outcomes in any of the comparisons. 
+Authors' conclusions
+In elective liver resection, hepatic vascular occlusion cannot be recommended over portal triad clamping. Intermittent portal triad clamping seems to be better than continuous portal triad clamping at least in patients with chronic liver disease. There is no evidence to support selective inflow occlusion over portal triad clamping. The optimal method of intermittent portal triad clamping is not clear. There is no evidence for any difference between the ischaemic preconditioning followed by vascular occlusion and intermittent vascular occlusion for liver resection in patients with non‐cirrhotic livers. Further randomised trials of low risk of bias are needed to determine the optimal technique of vascular occlusion. 

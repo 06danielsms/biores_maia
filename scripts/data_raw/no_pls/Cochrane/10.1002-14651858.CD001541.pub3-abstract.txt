@@ -1,0 +1,22 @@
+Background
+Ingrowing toenails are a common problem in which part of the nail penetrates the skinfold alongside the nail, creating a painful area. Different non‐surgical and surgical interventions for ingrowing toenails are available, but there is no consensus about a standard first‐choice treatment. 
+Objectives
+To evaluate the effects of non‐surgical and surgical interventions in a medical setting for ingrowing toenails, with the aim of relieving symptoms and preventing regrowth of the nail edge or recurrence of the ingrowing toenail. 
+Search methods
+We updated our searches of the following databases to January 2010: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library, MEDLINE, and EMBASE. We also updated our searches of CINAHL, WEB of SCIENCE, ongoing trials databases, and reference lists of articles. 
+Selection criteria
+Randomised controlled trials of non‐surgical and surgical interventions for ingrowing toenails, which are also known by the terms 'unguis incarnatus' and 'onychocryptosis', and those comparing postoperative treatment options. Studies must have had a follow‐up period of at least one month. 
+Data collection and analysis
+Two authors independently selected studies, assessed methodological quality, and extracted data from selected studies. We analysed outcomes as risk ratios (RR) with 95% confidence intervals (CI). 
+Main results
+This is an update of the Cochrane review 'Surgical treatments for ingrowing toenails'. In this update we included 24 studies, with a total of 2826 participants (of which 7 were also included in the previous review). Five studies were on non‐surgical interventions, and 19 were on surgical interventions. 
+The risk of bias of each included study was assessed; this is a measure of the methodological quality of several characteristics in these studies. It was found to be unclear for several items, due to incomplete reporting. Participants were not blinded to the treatment they received because of the nature of the interventions, e.g. surgery or wearing a brace on the toe. Outcome assessors were reported to be blinded in only 9 of the 24 studies. 
+None of the included studies addressed our primary outcomes of 'relief of symptoms' or 'regrowth', but 16 did address 'recurrence'. Not all of the included studies addressed all of our secondary outcomes (healing time, postoperative complications ‐ infection and haemorrhage, pain of operation/postoperative pain, participant satisfaction), and two studies did not address any of the secondary outcomes. 
+Surgical interventions were better at preventing recurrence than non‐surgical interventions with gutter treatment (or gutter removal), and they were probably better than non‐surgical treatments with orthonyxia (brace treatment). 
+In 4 of the 12 studies in which a surgical intervention with chemical ablation (e.g. phenol) was compared with a surgical intervention without chemical ablation, a significant reduction of recurrence was found. The surgical interventions on both sides in these comparisons were not equal, so it is not clear if the reduction was caused by the addition of the chemical ablation. 
+In only one study, a comparison was made of a surgical intervention known as partial nail avulsion with matrix excision compared to the same surgical intervention with phenol. In this study of 117 participants, the surgical intervention with phenol was significantly more effective in preventing recurrence than the surgical intervention alone (14% compared to 41% respectively, RR 0.34, 95% CI 0.17 to 0.69). 
+None of the postoperative interventions described, such as the use of antibiotics or manuka honey; povidone‐iodine with paraffin; hydrogel with paraffin; or paraffin gauze, showed any significant difference when looking at infection rates, pain, or healing time. 
+Authors' conclusions
+Surgical interventions are more effective than non‐surgical interventions in preventing the recurrence of an ingrowing toenail. 
+In the studies comparing a surgical intervention to a surgical intervention with the application of phenol, the addition of phenol is probably more effective in preventing recurrence and regrowth of the ingrowing toenail. Because there is only one study in which the surgical interventions in both study arms were equal, more studies have to be done to confirm these outcomes. 
+Postoperative interventions do not decrease the risk of postoperative infection, postoperative pain, or healing time. 

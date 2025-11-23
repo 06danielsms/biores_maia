@@ -1,0 +1,14 @@
+Background
+The benefits of adding upfront whole‐brain radiotherapy (WBRT) to surgery or stereotactic radiosurgery (SRS) when compared to surgery or SRS alone for treatment of brain metastases are unclear. 
+Objectives
+To compare the efficacy and safety of surgery or SRS plus WBRT with that of surgery or SRS alone for treatment of brain metastases in patients with systemic cancer. 
+Search methods
+We searched MEDLINE, EMBASE and The Cochrane Central Register of Controlled Trials (CENTRAL) up to May 2013 and annual meeting proceedings of ASCO and ASTRO up to September 2012 for relevant studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing surgery or SRS plus WBRT with surgery or SRS alone for treatment of brain metastases. 
+Data collection and analysis
+Two review authors undertook the quality assessment and data extraction. The primary outcome was overall survival (OS). Secondary outcomes include progression free survival (PFS), local and distant intracranial disease progression, neurocognitive function (NF), health related quality of life (HRQL) and neurological adverse events. Hazard ratios (HR), risk ratio (RR), confidence intervals (CI), P‐values (P) were estimated with random effects models using Revman 5.1 
+Main results
+We identified five RCTs including 663 patients with one to four brain metastases. The risk of bias associated with lack of blinding was high and impacted to a greater or lesser extent on the quality of evidence for all of the outcomes. Adding upfront WBRT decreased the relative risk of any intracranial disease progression at one year by 53% (RR 0.47, 95% CI 0.34 to 0.66, P value < 0.0001, I2 =34%, Chi2 P value = 0.21, low quality evidence) but there was no clear evidence of a difference in  OS (HR 1.11, 95% CI 0.83 to 1.48, P value = 0.47, I2 = 52%, Chi2 P value = 0.08, low quality evidence) and PFS (HR 0.76, 95% CI 0.53 to 1.10, P value = 0.14, I2 = 16%, Chi2 P value = 0.28, low quality evidence). Subgroup analyses showed that the effects on overall survival were similar regardless of types of focal therapy used, number of brain metastases, dose and sequence of WBRT. The evaluation of the impact of upfront WBRT on NF, HRQL and neurological adverse events was limited by the unclear and high risk of reporting, performance and detection bias, and inconsistency in the instruments and methods used to measure and report results across studies. 
+Authors' conclusions
+There is low quality evidence that adding upfront WBRT to surgery or SRS decreases any intracranial disease progression at one year. There was no clear evidence of an effect on overall and progression free survival. The impact of upfront WBRT on neurocognitive function, health related quality of life and neurological adverse events was undetermined due to the high risk of performance and detection bias, and inconsistency in the instruments and methods used to measure and report results across studies 

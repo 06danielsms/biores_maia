@@ -1,0 +1,15 @@
+Background
+Cardiovascular disease is a major cause of death in developed and developing countries. Refractory stable angina pectoris is, in general, inadequately responsive to conventional medical therapy. 
+Enhanced external counterpulsation is a non‐invasive treatment for patients with refractory angina and involves the placing of compressible cuffs around the calves and lower and upper thighs. These are inflated sequentially so that during early diastole they help propel blood back to the heart and when deflated at end of diastole allow the blood vessels to return to their normal state. It is claimed that enhanced external counterpulsation can help reduce aortic impedance and thereby alleviate some of the symptoms of angina. 
+Objectives
+To assess the effects of enhanced external counterpulsation therapy in improving health outcomes for patients with chronic stable or refractory stable angina pectoris. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (2008, Issue 1), MEDLINE (1966 to February 2008), EMBASE (1980 to February 2008), LILACS via BIREME (to February 2008) and ISI Science Citation Index on Web of Science (to February 2008). No language restrictions were applied. 
+Selection criteria
+Randomized controlled trials and cluster‐randomized trials comparing enhanced external counterpulsation therapy to sham treatment in adults, aged over 18 years, with chronic stable and stable refractory angina pectoris graded Canadian Cardiovascular Society Class III to IV at baseline. 
+Data collection and analysis
+Two authors independently screened papers, extracted trial details and assessed risk of bias. 
+Main results
+One trial (139 participants) was included in this review. Poor methodological quality, in terms of trial design and conduct, incompleteness in reporting of the review's primary outcome, limited follow up for the secondary outcomes and subsequent flawed statistical analysis, compromised the reliability of the reported data. 
+Authors' conclusions
+We found one relevant trial which failed to address the characteristics of interest satisfactorily, in terms of severity of angina, for the participants in this review. Participants with the most severe symptoms of angina were excluded, therefore the results of this study represent only a subsection of the broader population with the disorder, are not generalizable and provide inconclusive evidence for the effectiveness of enhanced external counterpulsation therapy for chronic angina pectoris. 

@@ -1,0 +1,15 @@
+Background
+Use of central venous catheters (CVC) in treatment of children with cancer is associated with infective complications. Current evidence‐based guidelines to prevent catheter‐related infections are mainly relevant to the adult population. They are not cancer (especially not childhood cancer) specific. Two existing Cochrane reviews have looked at prophylactic antibiotics and anticoagulants to prevent CVC‐related infections. 
+Objectives
+The primary objective was to find which interventions, if any, were effective in preventing CVC‐related infections in children with cancer. Further objectives were to examine the effectiveness of each intervention in the following subgroups: implanted versus external catheters, haematological versus non‐haematological malignancies, and in those receiving haematopoietic stem cell transplants (HSCT) versus no HSCT. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2008, Issue 4), MEDLINE (January 1950 to January 2009), EMBASE (January 1980 to January 2009) and CINAHL(R) (January 1982 to March 2009). We also searched reference lists of relevant articles and proceedings of relevant international conferences (2004 to 2008). 
+Selection criteria
+Randomised and quasi‐randomised studies comparing any intervention (other than anticoagulants, systemic antibiotics and antibiotic lock techniques) versus no intervention, placebo or any other intervention to prevent CVC‐related infections in children with cancer. 
+Data collection and analysis
+Two authors independently selected studies, assessed trial quality and extracted data. Where necessary, we contacted study authors for further data and clarification of methods. 
+Main results
+Three trials involving two different interventions were included. Two trials involving 680 children compared flushing CVC with urokinase (with or without heparin) versus heparin alone. Neither of these trials reported on the primary outcome of catheter‐related blood stream infection (CRBSI). There was a non‐significantly decreased rate of catheter‐associated infection (CAI) (Rate Ratio 0.72, 95% confidence interval 0.12 to 4.41) in the urokinase (with or without heparin) arm compared with the heparin arm. 
+One trial involving 113 children compared frequency of catheter dressing change every 15 days versus every 4 days. It did not report on CRBSI or CAI. There were no premature catheter removals for infection in either of the trial arms. 
+Authors' conclusions
+Three RCTs for only two types of interventions to prevent CVC‐related infections in children with cancer have been identified. Flushing CVC with urokinase (with or without heparin) compared to heparin alone possibly leads to decrease in CAI rates. Changing catheter dressings every 15 days versus every 4 days does not lead to more premature catheter removals due to infection although data were insufficient to assess if catheter‐related infection rates were changed. 

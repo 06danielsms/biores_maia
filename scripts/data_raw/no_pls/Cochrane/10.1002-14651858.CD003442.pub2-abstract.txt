@@ -1,0 +1,14 @@
+Background
+Schizophrenia is a severe mental illness characterised by delusions and hallucinations. Antipsychotic drugs does reduce these symptoms, but at least half of people given these drugs do not comply with the treatment regimen prescribed. 
+Objectives
+To assess the effects of compliance therapy on antipsychotic medication adherence for people with schizophrenia. 
+Search methods
+Cochrane Schizophrenia Group Trials Register (June 2005).
+Selection criteria
+We included all randomised controlled trials of 'compliance therapy' for people with schizophrenia or related severe mental disorders. 
+Data collection and analysis
+We independently extracted data and, for dichotomous data, calculated the relative risk (RR), its 95% confidence interval (CI) on an intention to treat basis. We present continuous data using the weighted mean difference statistic. 
+Main results
+We included one trial with relevant and available data (n=56, duration 2 years) comparing compliance therapy with non‐specific counseling. The primary outcome 'non‐compliance with treatment' showed no significant difference between compliance therapy and non‐specific counseling (n=56, RR 1.23 CI 0.74 to 2.05). The compliance therapy did not substantially effect attitudes to treatment (n=50, WMD DAI score ‐2.10 CI ‐6.11 to 1.91). Very few people (˜10%) left the study by one year (n=56, RR 0.5 CI 0.1 to 2.51). Mental state seemed unaffected by the therapy (n=50, WMD PANSS score 6.1 CI ‐4.54 to 16.74) as was insight (n=50, WMD SAI ‐0.5 CI ‐2.43 to 1.43), global functioning (n=50, WMD GAF ‐4.20 CI ‐16.42 to 8.02) and quality of life (n=50, WMD QLS ‐3.40 CI ‐16.25 to 9.45). At both one and two years the average number of days in hospital was non‐significantly reduced for those allocated to the compliance therapy. 
+Authors' conclusions
+There is no clear evidence to suggest that compliance therapy is beneficial for people with schizophrenia and related syndromes but more randomised studies are justified and needed in order for this intervention to be fully examined. 

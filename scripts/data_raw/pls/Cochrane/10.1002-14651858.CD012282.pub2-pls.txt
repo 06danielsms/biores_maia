@@ -1,0 +1,18 @@
+Fluvastatin for lowering lipids
+Review question 
+What is the effect of various doses of fluvastatin on blood lipids? 
+The effects of various doses of fluvastatin on blood lipids were quantified in 145 studies. 
+Background 
+Fluvastatin is thought to be the least potent statin but the precise dose‐related effect of fluvastatin on lipids is unknown. It would be interesting to know how much fluvastatin lowers blood lipids in the 145 studies retrieved. 
+Search date 
+The evidence is current to February 2017.
+Study characteristics 
+Randomised placebo‐controlled and uncontrolled before and after trials of different fixed doses of fluvastatin. The studies were of three to 12 weeks duration. 
+Participants could be of any age and gender with or without evidence of cardiovascular disease. 
+One‐hundred and forty‐five included trials involved 18,846 participants.
+Key results 
+Fluvastatin 10 mg/day to 80 mg/day reduced LDL cholesterol by 15% to 33%. There were strong linear dose‐related effects on blood total cholesterol and LDL cholesterol and a weak linear dose‐related effect on blood triglycerides. There was no dose‐related effect of fluvastatin on blood HDL cholesterol. 
+Based on the effect on LDL cholesterol, fluvastatin is 12‐fold less potent than atorvastatin and 46‐fold less potent than rosuvastatin. 
+Of the 36 placebo‐controlled trials only 16 reported withdrawals due to adverse effects (WDAEs). WDAEs were higher, risk ratio 1.52 (95% confidence interval (CI) 0.94 to 2.45), demonstrating uncertainty, but the possibility of an increase in adverse effects. 
+Quality of the evidence 
+The quality of evidence was high for the lipid levels. For WDAEs the quality of evidence was very low because 20 (55.6%) out of 36 placebo‐controlled trials did not report WDAEs. 

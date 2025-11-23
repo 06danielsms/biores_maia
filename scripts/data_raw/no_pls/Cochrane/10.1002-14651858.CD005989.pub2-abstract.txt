@@ -1,0 +1,14 @@
+Background
+Herb and plant based preparations are a popular treatment for asthma, although there remain concerns as to their efficacy and safety. In Western societies, motivations for using such treatments may be both positive and negative, with their perceived safety and dissatisfaction with conventional medicine among them. In China such treatments are more commonly used and many compounds considered 'conventional' are derived from herbs or plants. 
+Objectives
+To assess the efficacy and safety of herb and plant extracts in the management of chronic asthma. 
+Search methods
+The Cochrane Airways Group Trials Register, CENTRAL, MEDLINE, EMBASE and AMED were searched with pre‐defined terms. Searches are current as of February 2007. 
+Selection criteria
+Randomised placebo controlled trials of any herb or plant extract were eligible. Study participants had to have a primary diagnosis of asthma. Studies in both adults and children were eligible for the review. 
+Data collection and analysis
+Two reviewers assessed studies for suitability. Data were extracted and double‐checked.
+Main results
+Twenty‐seven studies (29 experimental groups) met the review entry criteria, randomising a total of 1925 participants. The studies identified assessed the effects of 21 different herbal preparations. Study quality varied considerably, and the sample sizes were often small. For primary outcomes (exacerbations, steroids use and lung function measurements): Two out of six studies reporting change in FEV1 were positive, with very few data available on the frequency of exacerbations. One study which did report these data was negative. Health‐related quality of life was only measured in one trial. 
+Authors' conclusions
+The evidence base for the effects of herbal treatments is hampered by the variety of treatments assessed, poor reporting quality of the studies and lack of available data. The data that are available from the studies provide only a small insight into the long‐term efficacy and harm profiles of these treatments. The absence of common endpoint measurements limits the validity of our findings further. Positive findings in this review warrant additional well‐designed trials in this area. 

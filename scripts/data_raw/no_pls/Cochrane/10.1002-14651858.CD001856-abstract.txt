@@ -1,0 +1,14 @@
+Background
+Medical antishock trousers (MAST) have been used to increase venous return to the heart until definitive care could be given. This, combined with compression of blood vessels, is believed to cause the movement of blood from the lower body to the brain, heart and lungs. However, the equipment is expensive, and may have adverse effects. 
+Objectives
+To quantify the effect on mortality and morbidity of the use of medical anti‐shock trousers (MAST)/pneumatic anti‐shock garments (PASG) in patients following trauma. 
+Search methods
+Trials were identified by searches of the Cochrane Injuries Group Specialised Register (April 2007), the Cochrane Central Register of Controlled Trials (Issue 1, 2007), MEDLINE (April 2007), EMBASE (April 2007), ISI Web of Science (April 2007), National Research Register (Issue 1, 2007) and PubMed (April 2006). In addition we checked the reference lists of relevant trials and reviews. We contacted current researchers in the field for unpublished data and ongoing trials. 
+Selection criteria
+Randomised and quasi‐randomised trials of MAST/PASG in patients following trauma (excluding fractures of the extremities in which MAST/PASG may be used as a splint). 
+Data collection and analysis
+Data were extracted independently by two authors. Data were collected on mortality, duration of hospitalisation and ICU stay, and quality of allocation concealment. 
+Main results
+Two trials were identified that met the inclusion criteria. These trials included 1202 randomised patients in total; however, data for 1075 of these were available. The relative risk of death with MAST was 1.13 (95% CI 0.97 to 1.32). Duration of hospitalisation and of intensive care unit stay was longer in the MAST treated group. The weighted mean difference in the length of intensive care unit stay was 1.7 days (95% CI 0.33 to 2.98). 
+Authors' conclusions
+There is no evidence to suggest that MAST/PASG application reduces mortality, length of hospitalisation or length of ICU stay in trauma patients and it is possible that it may increase these. These data do not support the continued use of MAST/PASG in the situation described. However, it should be recognised that, due to the poor quality of the trials, conclusions should be drawn with caution. 

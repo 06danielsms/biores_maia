@@ -1,0 +1,14 @@
+Background
+Studies have shown improved survival of newborn infants maintained in the thermoneutral range. Incubators with a double plexiglass wall for additional insulation may help to provide an improved thermoneutral environment for very low birth weight infants. 
+Objectives
+To assess the effects of double walled incubator versus a single wall incubator on insensible water loss, rate of oxygen consumption, episodes of hypothermia, time to regain birth weight, duration of hospitalization and infant mortality in premature infants. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. This included searches of electronic databases: Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2006), MEDLINE (1966 to 2006), EMBASE, previous reviews including cross references, abstracts, conference and symposia proceedings, expert informants in all published languages, and CINAHL (1982 to 2006). The electronic search was updated in July 2009. 
+Selection criteria
+Only studies using random or quasi‐random methods of allocation were considered for this review. Eligible studies assessed at least one of the outcome variables identified as important to this topic. 
+Data collection and analysis
+Independent data extraction and quality assessment of included trials was conducted by the review authors. Data were analyzed using generic inverse variance methodology and weighted mean difference (WMD). Results are presented with 95% confidence intervals. Meta‐analysis was undertaken using a fixed effect model. 
+Main results
+Three studies met the criteria. Four other studies were excluded, as they did not compare double versus single wall incubators. Double wall incubators have the advantage of decreasing heat loss, decreasing heat production and decreasing radiant heat loss when compared to single wall incubators. There is also the advantage of reduced oxygen consumption. A minimal increase in conductive heat loss was noted when compared to single wall incubators. All of these effects are small and do not support the proposition that double wall incubators have a beneficial effect on long‐term outcomes including mortality or the duration of hospitalization. 
+Authors' conclusions
+Although it appears that caring for extremely small infants in double wall incubators may theoretically result in shorter hospitalization and may have metabolic advantages, this review was unable to find any data in the literature to support or refute this hypothesis. The studies do not provide any evidence that the small decrease in heat loss improves clinical outcome. Therefore, the available data is insufficient to directly guide clinical practice. 

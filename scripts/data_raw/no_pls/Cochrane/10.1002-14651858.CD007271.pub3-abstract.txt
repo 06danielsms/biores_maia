@@ -1,0 +1,14 @@
+Background
+Long‐term mechanical ventilation is the most common situation for which tracheostomy is indicated for patients in intensive care units (ICUs). 'Early' and 'late' tracheostomies are two categories of the timing of tracheostomy. Evidence on the advantages attributed to early versus late tracheostomy is somewhat conflicting but includes shorter hospital stays and lower mortality rates. 
+Objectives
+To evaluate the effectiveness and safety of early (≤ 10 days after tracheal intubation) versus late tracheostomy (> 10 days after tracheal intubation) in critically ill adults predicted to be on prolonged mechanical ventilation with different clinical conditions. 
+Search methods
+This is an update of a review last published in 2012 (Issue 3, The Cochrane Library) with previous searches run in December 2010. In this version, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 8); MEDLINE (via PubMed) (1966 to August 2013); EMBASE (via Ovid) (1974 to August 2013); LILACS (1986 to August 2013); PEDro (Physiotherapy Evidence Database) at www.pedro.fhs.usyd.edu.au (1999 to August 2013) and CINAHL (1982 to August 2013). We reran the search in October 2014 and will deal with any studies of interest when we update the review. 
+Selection criteria
+We included all randomized and quasi‐randomized controlled trials (RCTs or QRCTs) comparing early tracheostomy (two to 10 days after intubation) against late tracheostomy (> 10 days after intubation) for critically ill adult patients expected to be on prolonged mechanical ventilation. 
+Data collection and analysis
+Two review authors extracted data and conducted a quality assessment. Meta‐analyses with random‐effects models were conducted for mortality, time spent on mechanical ventilation and time spent in the ICU. 
+Main results
+We included eight RCTs (N = 1977 participants). At the longest follow‐up time available in these studies, evidence of moderate quality from seven RCTs (n = 1903) showed lower mortality rates in the early as compared with the late tracheostomy group (risk ratio (RR) 0.83, 95% confidence interval (CI) 0.70 to 0.98; P value 0.03; number needed to treat for an additional beneficial outcome (NNTB) ≅ 11). Divergent results were reported on the time spent on mechanical ventilation and no differences were noted for pneumonia, but the probability of discharge from the ICU was higher at day 28 in the early tracheostomy group (RR 1.29, 95% CI 1.08 to 1.55; P value 0.006; NNTB ≅ 8). 
+Authors' conclusions
+The whole findings of this systematic review are no more than suggestive of the superiority of early over late tracheostomy because no information of high quality is available for specific subgroups with particular characteristics. 

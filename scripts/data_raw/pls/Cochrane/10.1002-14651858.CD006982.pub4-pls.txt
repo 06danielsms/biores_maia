@@ -1,0 +1,13 @@
+Cycled light in the intensive care unit for preterm and low birth weight infants
+Review question 
+Describe the effectiveness and safety of cycled light (approximately 12 hours of light on and 12 hours of light off) for growth in preterm infants at three and six months' corrected age. By exploring separate questions, we compared the effectiveness of cycled light with that of irregularly dimmed light or near darkness, and we compared cycled light with continuous bright light, for growth in preterm infants at three and six months' corrected age. 
+Background 
+Potential benefits and harms of different lighting in neonatal units have not been quantified. The pregnant woman is exposed to variable intensities of light and sound, and generally to lower levels at night. Some of the light and sound reaches the foetus within the womb and induces circadian rhythms. 'Circadian' is a term used to describe biological processes that recur naturally on a 24‐hour basis. After birth, preterm infants are cared for in an environment that has no planned light‐dark cycles and no other circadian entraining signals. Infants are exposed to continuous bright light, continuous near darkness or an unstructured combination of the two. 
+Study characteristics 
+We included a total of nine randomised and quasi‐randomised trials, which enrolled 544 infants. 
+Study funding resources 
+To our knowledge, no studies included in this review were funded by industry.
+Key results 
+No study reported on weight at three or six months. One study reported improved growth at three months of age in infants exposed to cycled light compared with those exposed to continuous bright light. Another study found no difference in weight at four months of age. Length of hospital stay was shortened with cycled light in the nursery compared with near darkness or with continuous bright light. Only a few outcomes reached statistical significance, which is likely to be due to the small number of infants enrolled in these studies, but trends for most outcomes (weight gain, incidence of retinopathy of prematurity, time spent crying) favoured cycled light over near darkness, and cycled light over continuous bright light. 
+Quality of evidence 
+The quality of the evidence on outcomes assessed was low because the interventions could not be blinded to caregivers, and few infants were enrolled in these studies. 

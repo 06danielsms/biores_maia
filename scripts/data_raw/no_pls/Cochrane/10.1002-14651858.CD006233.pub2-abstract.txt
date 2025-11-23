@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is not required in up to 64% of patients who adopt a wait‐and‐see policy after endoscopic clearance of common bile duct stones. Although reports of retrospective cohort series have shown a higher mortality among patients who defer cholecystectomy, it is not known if this is due to the patients' premorbid health status or due to the deferral of cholecystectomy. Randomised clinical trials of prophylactic cholecystectomy versus wait‐and‐see have not had sufficient power to demonstrate differences in survival. 
+Objectives
+To evaluate the beneficial and harmful effects of cholecystectomy deferral (wait‐and‐see) versus elective (prophylactic) cholecystectomy in patients who have had an endoscopic biliary sphincterotomy. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Controlled Trials Register (CENTRAL) in The Cochrane Library, MEDLINE (1966 to 2007), EMBASE (1980 to 2007), and Science Citation Index Expanded without language restrictions until April 2007. 
+Selection criteria
+Randomised clinical trials comparing patients whose gallbladder was left in‐situ after endoscopic sphincterotomy (wait‐and‐see group) versus patients who had cholecystectomy with either endoscopic sphincterotomy or common bile duct exploration (prophylactic cholecystectomy group), irrespective of blinding, language, or publication status. 
+Data collection and analysis
+We assessed the impact of a wait‐and‐see policy on mortality. Secondary outcomes assessed were the incidence of biliary pain, cholangitis, pancreatitis, need for cholangiography, need for cholecystectomy, and the rate of difficult cholecystectomy. We pooled data using relative risk with fixed‐effect and random‐effects models. 
+Main results
+We included 5 randomised trials with 662 participants out of 93 publications identified through the literature searches. The number of deaths was 47 in the wait‐and‐see group (334 patients) compared to 26 in the prophylactic cholecystectomy group (328 patients) for a 78% increased risk of mortality (RR 1.78, 95% CI 1.15 to 2.75, P = 0.010). The survival benefit of prophylactic cholecystectomy was independent of trial design, inclusion of high risk patients or inclusion of any one of the five trials. Patients in the wait‐and‐see group had higher rates of recurrent biliary pain (RR 14.56, 95% CI 4.95 to 42.78, P < 00001), jaundice or cholangitis (RR 2.53, 95% CI 1.09 to 5.87, P = 0.03), and of repeat ERCP or other forms of cholangiography (RR 2.36, 95% CI 1.29 to 4.32, P = 0.005). Cholecystectomy was eventually performed in 35% (115 patients) of the wait‐and‐see group. 
+Authors' conclusions
+Prophylactic cholecystectomy should be offered to patients whose gallbladders remain in‐situ after endoscopic sphincterotomy and common bile duct clearance. 

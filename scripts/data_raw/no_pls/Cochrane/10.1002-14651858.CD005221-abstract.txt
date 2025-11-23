@@ -1,0 +1,15 @@
+Background
+In non‐small cell lung cancer (NSCLC), there is a relatively high incidence of brain metastases following radical treatment. At present, the role of prophylactic cranial irradiation (PCI) in this group of patients is not clear. This is an update of the original review published in 2005. 
+Objectives
+To investigate whether PCI has a role in the management of patients with NSCLC treated with radical intent. 
+Search methods
+The electronic databases MEDLINE, EMBASE, CENTRAL (The Cochrane library) and LILACS, along with handsearching of journals, relevant books, and review articles used to identify potentially eligible trials. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing PCI with no PCI in NSCLC patients treated with radical intent. 
+Data collection and analysis
+Two authors independently performed study selection, data extraction and assessment of risk of bias. 
+Due to the small patient numbers, and variations in radiotherapy (RT) dose, no meta‐analysis was attempted. 
+Main results
+Four RCTs have been included in this review. No further trials were found to be eligible in this update. Only one new trial investigating the role of PCI has been carried out since the original review and is only published in the abstract form (RTOG 0214) . PCI may reduce the incidence of brain metastases, but there is no evidence of a survival benefit. There is no evidence that any regimen is superior, and the effect of PCI on quality of life (QOL) is not known. 
+Authors' conclusions
+This update of the review published in 2005 does not contain any new trials published in full. One new trial that has only been published as an abstract, does not show any benefit in overall survival in patients receiving prophylactic cranial irradiation. There is insufficient evidence to support the use of PCI in clinical practice. Where possible, patients should be offered entry into a clinical trial. 

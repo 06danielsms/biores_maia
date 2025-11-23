@@ -1,0 +1,11 @@
+Chemotherapy for advanced gastric cancer
+Background 
+Of all people with gastric cancer, in countries where screening is not routinely performed, 80% to 90% are either diagnosed at an advanced stage when the tumour is inoperable, or develop a recurrence within five years after surgery. Before starting any systemic chemotherapy in advanced disease, testing for over expression of the Human Epidermal growth factor Receptor‐2 (abbreviated HER‐2) testing is mandatory, and people with HER‐2 over expression need, in the absence of contraindications, to be treated by a combination of a cisplatin/fluoropyrimidine‐based chemotherapy and trastuzumab (i.e. a monoclonal antibody directed against the human epidermal growth factor receptor II). 
+Study Characteristics 
+We searched biomedical databases (MEDLINE, Embase, Cochrane Central Register of Clinical Trials) until June 2016. We included 64 RCTs, of which 60 studies with 11,698 participants contained data on overall survival, in this review. We excluded 195 studies with reasons. 
+Quality of the evidence 
+The quality of evidence ranged from very low to high, depending on the comparison and outcome being assessed. Reasons for down grading the quality were due to risk of bias due to lack of blinded or independent radiological review, imprecision or heterogeneity. 
+Key results 
+Chemotherapy improves survival (by approximately 6.7 months) and quality of life in comparison to best supportive care alone, and first‐line combination chemotherapy improves survival (by one month) compared to single‐agent 5‐FU. 
+The addition of docetaxel to platinum‐fluoropyrimidine‐based chemotherapy regimens appears to extend survival (by just over one additional month) at the cost of increased toxicity. Whether the benefit from adding a third drug (docetaxel or epirubicin) to a two‐drug platinum‐fluoropyrimidine chemotherapy combination outweighs its toxicity is unclear. 
+Consideration of the profile of side effects and the impact of these side effects on the individual person's quality of life, as well as the tumour burden and necessity to obtain a response rapidly is therefore essential in the choice of the regimen. Additionally, irinotecan‐containing regimens prolonged overall survival (by an additional 1.6 months) compared to non‐irinotecan‐containing regimens. 

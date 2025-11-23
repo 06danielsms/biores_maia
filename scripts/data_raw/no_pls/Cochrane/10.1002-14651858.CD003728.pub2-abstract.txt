@@ -1,0 +1,14 @@
+Background
+Many people with schizophrenia or schizophrenia‐like illnesses continue to experience symptoms in spite of medication. In addition to medication, creative therapies, such as art therapy, may be helpful. Art therapy allows exploration of the patient's inner world in a non‐threatening way through a therapeutic relationship and the use of art materials. It was mainly developed in adult psychiatric inpatient units and was designed for use with people for whom verbal psychotherapy would be impossible. 
+Objectives
+To review the effects of art therapy as an adjunctive treatment for schizophrenia compared with standard care and other psychosocial interventions. 
+Search methods
+We updated the search of the Cochrane Schizophrenia Group's Register (February 2005), hand searched reference lists and 'Inscape' (the Journal of the British Association of Art Therapists), and contacted relevant authors. 
+Selection criteria
+We included all randomised controlled trials that compared art therapy with standard care or other psychosocial interventions for schizophrenia. 
+Data collection and analysis
+We reliably selected, quality assessed and extracted data from the studies. We excluded data where more than 50% of participants in any group were lost to follow up. For continuous outcomes we calculated a weighted mean difference and its 95% confidence interval. For binary outcomes we calculated a fixed effects risk ratio (RR), its 95% confidence interval (CI) and a number needed to treat (NNT). 
+Main results
+The search identified 61 reports but only two studies (total n=137) met the inclusion criteria. Both compared art therapy plus standard care with standard care alone. More people completed the therapy if allocated to the art therapy group compared with standard care in the short (n=90, 1 RCT, RR 0.97 CI 0.41 to 2.29), medium (n=47, 1 RCT, RR 0.34 CI 0.15 to 0.80) and long term (n=47, 1 RCT, RR 0.96 CI 0.57 to 1.60). Data from one mental state measure (SANS) showed a small but significant difference favouring the art‐therapy group (n=73, 1 RCT, WMD ‐2.3 CI ‐4.10 to ‐0.5). In the short term, a measure of social functioning (SFS) showed no clear difference between groups in endpoint scores (n=70, 1 RCT, WMD 7.20 CI ‐2.53 to 16.93) and quality of life, as measured by the PerQoL, did not indicate effects of art therapy (n=74, 1 RCT, WMD 0.1 CI ‐2.7 to 0.47). 
+Authors' conclusions
+Randomised studies are possible in this field. Further evaluation of the use of art therapy for serious mental illnesses is needed as its benefits or harms remain unclear. 

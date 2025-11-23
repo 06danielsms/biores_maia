@@ -1,0 +1,14 @@
+Background
+The main rationale for the use of lithium in the long‐term treatment of unipolar affective disorder is its efficacy in treating bipolar affective disorder and resistant depression. However, there is considerable uncertainty about which pharmacological intervention is most effective in the long‐term treatment of recurrent unipolar affective disorder. 
+Objectives
+To assess the effects of lithium versus antidepressants for the long‐term treatment of recurrent affective disorder. 
+Search methods
+We searched the Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Registers (CCDANCTR‐Studies and CCDANCTR‐References) on 2/9/2005. Reference lists of relevant papers and major textbooks of affective disorder were checked. Experts in the field and pharmaceutical companies were contacted regarding unpublished material. 
+Selection criteria
+Randomised controlled trials comparing lithium against antidepressant medication for the long‐term treatment of patients with a diagnosis of affective disorder. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected adverse effects information from the trials. 
+Main results
+Eight trials involving 475 people were included. Two of the studies included a mixed group of participants with either bipolar or unipolar disorder. Relapse was defined as admission to hospital and when all kinds of relapses were considered (both depressive and manic), there was a statistically significant difference in favour of lithium (relative risk (RR) fixed effect 0.34, 95% CI 0.14 to 0.82). The results did not exclude the point of no effect, when the random‐effects model was used (RR random effects 0.40, 95% CI 0.14 to 1.18). There were no other statistically significant differences between lithium and antidepressants according to all other outcomes considered. Manic or depressive relapse was defined as prescription of non‐study medication for mood disorder, manic or depressive relapse (as defined by the study authors), quality of life, social functioning, occupational functioning, overall drop‐out rate, drop‐out rate due to side‐effects, troublesome side‐effects, mortality due to all causes and specifically suicides. 
+Authors' conclusions
+There was adequate efficacy evidence for lithium or antidepressants preventing relapse in unipolar affective disorder, however their relative efficacy was unknown. When considering lithium or antidepressant long‐term therapy, patients and clinicians should take into account the patient's clinical history, the side‐effects and the individual's likely adherence to the recommended treatment regime. Large‐scale, long‐term randomised trials in unselected groups of subjects with unipolar affective disorder are needed. 

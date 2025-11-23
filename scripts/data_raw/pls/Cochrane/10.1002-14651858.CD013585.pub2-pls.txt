@@ -1,0 +1,11 @@
+Ultrasound to guide arterial (other than femoral) punctures and cannulation in adults
+Research question 
+What is the effectiveness and safety of ultrasound technologies to guide arterial (other than femoral) punctures and cannulation in adults? 
+Background 
+Despite the availability of devices that help health professionals to access arteries, unwanted events such as pneumothorax (air outside the lung and inside the thorax), haemothorax (blood outside the lung and inside the thorax), haematoma (blooding in skin and other tissues), amputation, and death may happen. Additional techniques such as ultrasound may be useful for improving these results, but their effects for arterial access in adults remain under debate. 
+Study characteristics 
+Review authors identified 48 studies that evaluated the effects of different types of ultrasound guidance for adults who underwent arterial puncture or cannulation. Studies were conducted in hospitals and mainly for diagnostic purposes (smaller devices). Review authors identified the studies included in this review through electronic literature searches conducted up to May 2021. 
+Key results 
+Real‐time visual ultrasound guidance improved first attempt success rate, overall success rate, and time needed for a successful procedure for up to one month, mainly in radial artery, compared to palpation or non‐visual ultrasound guidance. In addition, real‐time visual ultrasound guidance probably decreased major haematomas compared to palpation. However, we are uncertain about the effects on major haematomas and on pain for other comparisons due to very low‐certainty evidence and unreported outcomes. We are also uncertain about the effects on pseudoaneurysm and QoL for axillary and dorsalis pedis arteries catheterisation. 
+Quality of evidence 
+We found very low‐ to moderate‐certainty evidence comparing real‐time visual ultrasound guidance versus palpation, and comparing one ultrasound guidance type versus another. 

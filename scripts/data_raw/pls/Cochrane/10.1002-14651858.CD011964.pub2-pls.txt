@@ -1,0 +1,28 @@
+What is the accuracy of different combinations of ultrasound imaging and blood tests to diagnose ovarian cancer in women before and after the menopause? 
+Why is improving the diagnosis of ovarian cancer important? 
+Many women diagnosed with ovarian cancer (OC) die from the disease, because it has usually spread outside the tubes/ovaries at the time of diagnosis. Missing OC (a false‐negative result) may need major surgery and a lower chance of survival. An incorrect diagnosis of OC (a false‐positive result) may result in anxiety, unnecessary further tests and surgery. 
+What did we aim to do? 
+We aimed to find out how accurate ultrasounds and blood tests are for diagnosing OC in premenopausal women and postmenopausal women. 
+What did we study? 
+We included 59 studies that compared four tests: Risk of Malignancy Index (RMI) (ultrasound and CA125 blood test); Risk of Ovarian Malignancy Algorithm (ROMA) (CA125 and HE4 blood tests); the IOTA Logistic Regression model 2 (LR2) ultrasound and the Assessment of Different NEoplasias in the adneXa model (ADNEX) (CA125 blood test and ultrasound). 
+What were the main results? 
+Premenopausal women 
+The sensitivities (proportion of women with OC correctly identified) of ROMA (77.4%), LR2 (83.3%) and ADNEX (95.5%) are higher than RMI (57.2%). 
+The specificities (proportion of women without OC correctly identified) of ROMA (84.3%) and ADNEX (77.8%) were lower than RMI (92.5%) and LR2 (90.4%). 
+The results indicate that if these tests were to be used in hospital settings in a group of 1000 premenopausal women, of whom 30 (3%) actually have OC: 
+– for RMI 13 women, for ROMA 7 women, for LR2 5 women and for ADNEX 1 woman would have their cancer missed by the test (false‐negative result); 
+– for RMI 73 women, for ROMA 152 women, for LR2 93 women and for ADNEX 215 women would test positive when they do not have OC (false‐positive result). 
+Postmenopausal women 
+The sensitivities of ROMA (90.3%), LR2 (94.8%) and ADNEX (97.6%) are higher than RMI (78.4%). 
+The specificities of ROMA (81.5%) and RMI (85.4%) are higher than LR2 (60.6%) and ADNEX (55.0%). 
+The results of these studies indicate that if these tests were to be used in hospital settings in a group of 1000 postmenopausal women, of whom 30 (3%) actually have OC: 
+– for RMI 6 women, for ROMA 3 women, for LR2 2 women and for ADNEX 1 woman would have their cancer missed by the test (false‐negative result); 
+– for RMI 142 women, for ROMA 179 women, for LR2 382 women and for ADNEX 437 women would test positive when they do not have OC (false‐positive result). 
+How reliable are the results? 
+OC was diagnosed by histology (looking at surgically removed specimens under a microscope) or following up women for one year to see if they remained free of OC. In some studies, women with negative test results were not followed up for long enough to be sure a cancer had not been missed, and some studies excluded women with types of OC that are harder to diagnose. This may make tests appear more accurate than they are in practice. 
+Who do the results apply to? 
+Most studies were conducted in European hospitals in women with a confirmed pelvic mass. The occurrence of OC in included studies was much higher than seen in the community and so the accuracy of these tests may be different for women being tested in non‐specialist healthcare settings. 
+What are the implications? 
+This review suggests that in both pre‐ and postmenopausal women referred to hospital with a pelvic mass, ADNEX appears to miss the fewest cases of OC and RMI misses the most cases of OC. RMI appears to result in the fewest incorrect diagnoses of OC and ADNEX results in the most incorrect diagnoses of OC. Incorrect diagnoses of OC, when no cancer is present (false‐positive test), may result in anxiety, unnecessary further tests and surgery. When choosing which test to use, the potential for missed cancers must be balanced against unnecessary testing and surgery. 
+How up‐to‐date is this review? 
+The review includes studies published up to June 2019.

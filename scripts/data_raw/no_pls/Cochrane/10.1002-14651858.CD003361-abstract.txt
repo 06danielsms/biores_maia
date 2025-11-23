@@ -1,0 +1,14 @@
+Background
+The tremor of Parkinson's disease can cause considerable disability for the individual concerned. Traditional antiparkinsonian therapies such as levodopa have only a minor effect on tremor. Beta‐blockers are used to attenuate other forms of tremor such as Essential Tremor or the tremor associated with anxiety. It is thought that beta‐blockers may be of use in controlling the tremor of Parkinson's disease. 
+Objectives
+To compare the efficacy and safety of adjuvant beta‐blocker therapy against placebo for the treatment of tremor in patients with Parkinson's disease. 
+Search methods
+Electronic searches of MEDLINE, EMBASE, SCISEARCH, BIOSIS, GEROLIT, OLDMEDLINE, LILACS, MedCarib, PASCAL, JICST‐EPLUS, RUSSMED, DISSERTATION ABSTRACTS, SIGLE, ISI‐ISTP, Aslib Index to Theses, The Cochrane Controlled Trials Register, Clinicaltrials.gov, metaRegister of Controlled Trials, NIDRR, NRR and CENTRAL were conducted. Grey literature was hand searched and the reference lists of identified studies and reviews examined. The manufacturers of beta‐blockers were contacted. 
+Selection criteria
+Randomised controlled trials of adjuvant beta‐blocker therapy versus placebo in patients with a clinical diagnosis of idiopathic Parkinson's disease. 
+Data collection and analysis
+Data was abstracted independently by two of the authors onto standardised forms and disagreements were resolved by discussion. 
+Main results
+Four randomised controlled trials were found comparing beta‐blocker therapy with placebo in patients with idiopathic Parkinson's disease. These were double‐blind cross‐over studies involving a total of 72 patients. Three studies did not present data from the first arm, instead presenting results as combined data from both treatment arms and both placebo arms. The risk of a carry‐over effect into the second arm meant that these results were not analysed. The fourth study presented data from each arm. This was in the form of a mean total score for tremor for each group. Details of the baseline scores, the numbers of patients in each group and standard deviations were not provided, meaning that the magnitude and significance of any changes due to therapy could not be calculated. One study reported a substantial fall in heart rate in 14 of the 22 patients, with one patient withdrawing after his heart rate dropped to 56 beats per minute (baseline heart rate was not reported). 
+Authors' conclusions
+In view of this lack of evidence, it is impossible to determine whether beta‐blocker therapy is effective and safe for the treatment of tremor in Parkinson's disease. The high frequency of bradycardia in one trial raises some concerns about the prescription of beta‐blockers to normotensive elderly patients but the study was too small for the true degree of risk to be calculated. 

@@ -1,0 +1,14 @@
+Background
+Persistent pulmonary hypertension of the newborn (PPHN) occurs in approximately 1.9 per 1000 newborns and may be more frequent in developing countries. There is strong evidence for the use of inhaled nitric oxide (iNO) and extracorporeal membrane oxygenation (ECMO) in the treatment of PPHN. However, many developing countries do not have access or the technical expertise required for these expensive therapies. Magnesium sulfate is a potent vasodilator and hence has the potential to reduce the high pulmonary arterial pressures associated with PPHN. If magnesium sulfate were found to be effective in the treatment of PPHN, this could be a cost effective and potentially life‐saving therapy. 
+Objectives
+To evaluate the use of magnesium sulfate compared with placebo or standard ventilator management alone, sildenafil infusion, adenosine infusion, or inhaled nitric oxide on mortality or the use of backup iNO or ECMO in term and near‐term newborns (> 34 weeks gestational age) with PPHN. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group (CNRG) was used. No language restrictions was applied. The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2006) and MEDLINE (1966 to April 20, 2007) were searched for relevant randomized and quasi‐randomized trials. In addition the reference lists of retrieved articles were reviewed and known experts were contacted to obtain unpublished data. This search was updated in December 2009. 
+Selection criteria
+All randomised or quasi‐random studies were eligible where one of the treatment groups received magnesium sulfate for PPHN. 
+Data collection and analysis
+Standard methods of the Cochrane Collaboration and the CNRG were used, including independent assessment of trial quality and extraction of data by each author. 
+Main results
+No eligible trials were found
+Authors' conclusions
+On the basis of the current lack of evidence, the use of magnesium sulphate cannot be recommended in the treatment of PPHN. Randomised controlled trials are recommended. 

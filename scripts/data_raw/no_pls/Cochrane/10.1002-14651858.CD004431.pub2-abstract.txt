@@ -1,0 +1,14 @@
+Background
+The unpredictable, variable nature of Multiple Sclerosis (MS), and the possibility of increasing disability, means that a diagnosis can have substantial psychological consequences. 
+Objectives
+To assess the effectiveness of psychological interventions for people with MS.
+Search methods
+We searched the Cochrane MS Group Specialised Register (December 2004), Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 4, 2004 ), MEDLINE (January 1966 to December 2004), PsychINFO (January 1887 to December 2004), CINAHL (January 1982 to December 2004) and 14 others. We searched reference lists of articles, wrote to corresponding authors of the 13 papers identified by June 2004, and searched for trials in progress using 3 research registers. 
+Selection criteria
+Randomised controlled trials of interventions described as wholly or mostly based on psychological theory and practice, in people with MS. Primary outcome measures were disease specific and general quality of life, psychiatric symptoms, psychological functioning, disability, and cognitive outcomes. Secondary outcome measures were number of relapses, pain, fatigue, health care utilisation, changes in medication, and adherence to other therapies. 
+Data collection and analysis
+Pertinent studies were identified from abstracts by one author. Full papers were independently compared to selection criteria by four authors. Key details were extracted from relevant papers using a standard format, and studies scored on three dimensions of quality. The review is organised into four mini‐reviews (MR) dependent on the intervention's target population; people with cognitive impairments (MR1), people with moderate to severe disability (MR2), people with MS (no other criteria) (MR3), and people with depression (MR4). 
+Main results
+Overall 16 studies were identified and included. MR1: three trials (n=145). Some evidence of effectiveness of cognitive rehabilitation on cognitive outcomes, although this was difficult to interpret because of the large number of outcome measures used. MR2: three trials (n=80). One small trial suggesting psychotherapy may help with depression. MR3: seven studies (n=688). Some evidence that cognitive behavioural therapy may help people adjust to, and cope with, having MS (three trials). The other trials were diverse in nature and some difficult to interpret because of multiple outcome measures. MR4: three trials (n=93). Two small studies of cognitive behavioural therapy showed significant improvements in depression. 
+Authors' conclusions
+The diversity of psychological interventions identified indicates the many ways in which they can potentially help people with MS. No definite conclusions can be made from this review. However there is reasonable evidence that cognitive behavioural approaches are beneficial in the treatment of depression, and in helping people adjust to, and cope with, having MS. 

@@ -1,0 +1,25 @@
+What are the benefits and risks of corticosteroids for preventing inflammation in children who undergo heart surgery involving a heart‐lung machine? 
+Why is this question important? 
+Children who are born with a heart defect, or who develop heart disease after birth, may need heart surgery. To operate, surgeons often need to stop the heart and lungs temporarily. To keep the child alive, they use a heart‐lung machine that takes over the work of the heart and lungs. The machine adds oxygen to the blood, removes carbon dioxide from it, and pumps the blood back into the child’s body. 
+We know that heart surgery involving a heart‐lung machine causes inflammation across the body. This can cause complications ranging from low blood pressure to major organ dysfunction. In some cases, patients may die. 
+Corticosteroids (a type of anti‐inflammation medicine) have been widely used to prevent inflammation in children who undergo heart surgery that requires a heart‐lung machine, but their benefits and risks are unclear. To find out whether they prevent inflammation, and whether they are associated with any unwanted effects (such as poor wound healing, increased risk of infection or increased risk of death), we reviewed the evidence from research studies. 
+How did we identify and evaluate the evidence? 
+First, we searched the medical literature for randomized controlled studies (studies in which people are randomly divided into different treatment groups), because these studies provide the most robust evidence about the effects of a treatment. We then compared the results and summarised the evidence from all the studies. Finally, we assessed how certain the evidence was. To do this, we considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorised the evidence as being of very low, low, moderate or high certainty. 
+What did we find? 
+We found 13 studies that involved a total of 1087 children. The studies lasted for between 14 months and 30 months (duration was not reported for seven studies). Three corticosteroids were investigated: methylprednisolone (five studies), hydrocortisone (two studies) and dexamethasone (six studies). The studies compared these corticosteroids against a placebo (medicine that is exactly the same apart from it does not have the active medicine in it). 
+The evidence shows that:
+‐ corticosteroids probably make little or no difference to the number of children who die in hospital after surgery (five studies, 313 children (participating in the studies), moderate‐certainty evidence); 
+‐ corticosteroids probably make little or no difference to the number of children who die from any cause (five studies, 313 children, moderate‐certainty evidence) or from heart and circulation problems specifically (three studies, 109 children, moderate‐certainty evidence) at the longest follow‐up time after surgery;  
+‐ corticosteroids may make little or no difference to whether children are taken off the heart‐lung machine after surgery (one study, 40 children, low‐certainty evidence). 
+‐ corticosteroids reduce the number of hours for which children need a breathing machine (six studies, 421 children, high‐certainty evidence); 
+‐ corticosteroids make little or no difference to the length of time children spend in the intensive care unit (six studies, 421 children, high‐certainty evidence); 
+‐ corticosteroids probably make little or no difference to the total length of time children spend in hospital after surgery (one study, 176 children, moderate‐certainty evidence). 
+It is unclear whether corticosteroids are associated with non‐fatal unwanted effects because the studies did not report on unwanted effects consistently. 
+What does this mean? 
+Giving corticosteroids to children who have heart surgery that requires a heart lung‐machine:
+‐ probably makes little or no difference to the number who die after surgery at any point or from any cause; 
+‐ may make little to no difference to whether children are taken off the heart‐lung machine after surgery; 
+‐ probably reduces the length of time spent on the breathing machine after surgery, but this does not lead to a shorter stay in the intensive care unit or hospital. 
+Future studies need to collect information on non‐fatal unwanted effects in a standardised way, so that we can evaluate the risks of corticosteroids. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to June 2020.

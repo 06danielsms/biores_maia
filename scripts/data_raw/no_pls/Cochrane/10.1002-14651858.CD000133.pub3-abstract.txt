@@ -1,0 +1,17 @@
+Background
+Some breastfed infants with atopic eczema benefit from elimination of cow milk, egg, or other antigens from their mother's diet. Maternal dietary antigens are also known to cross the placenta. 
+Objectives
+To assess the effects of prescribing an antigen avoidance diet during pregnancy or lactation, or both, on maternal and infant nutrition and on the prevention or treatment of atopic disease in the child. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (6 July 2012). 
+Selection criteria
+All randomized or quasi‐randomized comparisons of maternal dietary antigen avoidance prescribed to pregnant or lactating women. We excluded trials of multimodal interventions that included manipulation of the infant's diet other than breast milk or of non‐dietary aspects of the infant's environment. 
+Data collection and analysis
+We extracted data from published reports, supplemented by additional information received from the trialists we contacted. 
+Main results
+The evidence from five trials, involving 952 participants, does not suggest a protective effect of maternal dietary antigen avoidance during pregnancy on the incidence of atopic eczema during the first 18 months of life. Data on allergic rhinitis or conjunctivitis, or both, and urticaria are limited to a single trial each and are insufficient to draw meaningful inferences. Longer‐term atopic outcomes have not been reported. The restricted diet during pregnancy was associated with a slightly but statistically significantly lower mean gestational weight gain, a non‐significantly higher risk of preterm birth, and a non‐significant reduction in mean birthweight. 
+The evidence from two trials, involving 523 participants, did not observe a significant protective effect of maternal antigen avoidance during lactation on the incidence of atopic eczema during the first 18 months or on positive skin‐prick tests to cow milk, egg, or peanut antigen at one, two, or seven years. 
+One crossover trial involving 17 lactating mothers of infants with established atopic eczema found that maternal dietary antigen avoidance was associated with a non‐significant reduction in eczema severity. 
+Authors' conclusions
+Prescription of an antigen avoidance diet to a high‐risk woman during pregnancy is unlikely to reduce substantially her child's risk of atopic diseases, and such a diet may adversely affect maternal or fetal nutrition, or both. Prescription of an antigen avoidance diet to a high‐risk woman during lactation may reduce her child's risk of developing atopic eczema, but better trials are needed. 
+Dietary antigen avoidance by lactating mothers of infants with atopic eczema may reduce the severity of the eczema, but larger trials are needed. 

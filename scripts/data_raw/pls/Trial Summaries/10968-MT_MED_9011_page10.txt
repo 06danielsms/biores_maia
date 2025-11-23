@@ -1,0 +1,9 @@
+What adverse reactions happened during this study?
+The most common adverse reaction was fatigue.
+The table below shows the adverse events that happened in 4 or more participants across all the treatment groups during the study.
+
+Most common adverse reactions
+- Fatigue 11.5% (3) 9.5% (2) 10.0% (2) 12.5% (2)
+- General weakness 7.7% (2) 14.3% (3) 0.0% (0) 0.0% (0)
+- Itching 0.0% (0) 9.5% (2) 10.0% (2) 6.3% (1)
+- Nausea 3.8% (1) 9.5% (2) 0.0% (0) 6.3% (1)

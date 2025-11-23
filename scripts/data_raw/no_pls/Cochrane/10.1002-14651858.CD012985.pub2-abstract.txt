@@ -1,0 +1,17 @@
+Background
+Familial hypercholesterolaemia is a common inherited condition that is associated with premature cardiovascular disease. The increased cardiovascular morbidity and mortality, resulting from high levels of cholesterol since birth, can be prevented by starting lipid‐lowering therapy. However, the majority of patients in the UK and worldwide remain undiagnosed. Established diagnostic criteria in current clinical practice are the Simon‐Broome and Dutch Lipid Clinical network criteria and patients are classified as having probable, possible or definite familial hypercholesterolaemia. 
+Objectives
+To assess the effectiveness of healthcare interventions strategies to systematically improve identification of familial hypercholesterolaemia in primary care and other community settings compared to usual care (incidental approaches to identify familial hypercholesterolaemia in primary care and other community settings). 
+Search methods
+We searched the Cochrane Inborn Errors of Metabolism Trials Register. Date of last search: 13 September 2021. 
+We also searched databases (Cochrane Central Register of Controlled Trials (CENTRAL), Ovid MEDLINE, PubMed, Embase, CINAHL, Web of Science, and SCOPUS) as well as handsearching relevant conference proceedings, reference lists of included articles, and the grey literature. Date of last searches: 05 March 2020.  
+Selection criteria
+As per the Effective Practice and Organisation of Care (EPOC) Group guidelines, we planned to include randomised controlled trials (RCTs), cluster‐RCTs and non‐randomised studies of interventions (NRSI). Eligible NRSI were non‐randomised controlled trials, prospective cohort studies, controlled before‐and‐after studies, and interrupted‐time‐series studies. 
+We planned to selected studies with healthcare interventions strategies that aimed to systematically identify people with possible or definite clinical familial hypercholesterolaemia, in primary care and other community settings. These strategies would be compared with usual care or no intervention. 
+We considered participants of any age from the general population who access primary care and other community settings. 
+Data collection and analysis
+Two authors planned to independently select studies according to the inclusion criteria, to extract data and assess for risk of bias and the certainty of the evidence (according to the GRADE criteria). We contacted corresponding study authors in order to obtain further information for all the studies considered in the review. 
+Main results
+No eligible RCTs or NRSIs were identified for inclusion, however, we excluded 28 studies.
+Authors' conclusions
+Currently, there are no RCTs or controlled NRSI evidence to determine the most appropriate healthcare strategy to systematically identify possible or definite clinical familial hypercholesterolaemia in primary care or other community settings. Uncontrolled before‐and‐after studies were identified, but were not eligible for inclusion. Further studies assessing healthcare strategies of systematic identification of familial hypercholesterolaemia need to be conducted with diagnosis confirmed by genetic testing or validated through clinical phenotype (or both). 

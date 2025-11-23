@@ -1,0 +1,15 @@
+Background
+Rheumatoid arthritis (RA) is a chronic inflammatory joint disease. Leflunomide is one of the more recent oral agents, classified as a disease‐modifying antirheumatic drug (DMARD). It has a different mechanism of action than other existing DMARDs. 
+Objectives
+To determine the efficacy and toxicity of leflunomide (monotherapy or combined with another DMARD) compared to placebo or other DMARDs in the treatment of RA. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, and Current Contents for trials (to June 2008). We also handsearched reference lists and consulted content experts. 
+Selection criteria
+Two independent authors selected the trials that met predetermined inclusion criteria.
+Data collection and analysis
+Two authors independently extracted data and assessed methodologic quality using standardized forms. 
+Main results
+Thirty‐three trials were included, compared with six trials in the first review. The trials compared the efficacy and safety of leflunomide monotherapy with placebo or another DMARD; leflunomide combined with another DMARD (biologic or non‐biologic) with DMARD monotherapy; and for different dosages of leflunomide. The ACR20 improvement criteria, demonstrated a 28% absolute difference in improvement in favour of leflunomide compared to placebo. There was no difference in ACR20 response rate between patients treated with leflunomide and sulfasalazine (SSZ) or methotrexate (MTX), at six and 12 months. Other clinical and radiological outcomes were improved significantly in the leflunomide group compared to placebo but were not different from SSZ or MTX. The efficacy of leflunomide combined with MTX was superior to MTX alone. On the other hand, leflunomide plus SSZ was not better than SSZ alone. Half‐dose or weekly administration of leflunomide was shown to be as efficacious as regular doses (20 mg/day). 
+Withdrawals due to adverse events were 10% greater with leflunomide than placebo. Important adverse events included gastrointestinal symptoms, elevated liver function tests, alopecia, allergic reactions and rashes, and infections. Overall, adverse events and withdrawals with leflunomide monotherapy were not significantly different from SSZ or MTX. However, adverse events were reported more frequently in leflunomide plus MTX than with MTX but withdrawal rates were not significantly different. 
+Authors' conclusions
+Leflunomide appears to improve all clinical outcomes and delay radiologic progression at both six and 12 months of treatment compared to placebo. Its efficacy and adverse events are comparable to MTX, SSZ, and cyclosporin A up to two years of treatment. Combined leflunomide and MTX was more efficacious than MTX alone up to three years of treatment and the adverse events did not increase. Different dosages of leflunomide were similar regarding their effectiveness and toxicity. 

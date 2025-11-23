@@ -1,0 +1,17 @@
+Background
+Disease recurrence and progression remain major challenges for the treatment of non‐muscle invasive bladder cancer. Narrow band imaging (NBI) is an optical enhancement technique that may improve resection of non‐muscle invasive bladder cancer and thereby lead to better outcomes for people undergoing the procedure.  
+Objectives
+To assess the effects of NBI‐ and white light cystoscopy (WLC)‐guided transurethral resection of bladder tumor (TURBT) compared to WLC‐guided TURBT in the treatment of non‐muscle invasive bladder cancer. 
+Search methods
+We performed a comprehensive literature search of 10 databases, including the Cochrane Library, the Cochrane Database of Systematic Reviews, MEDLINE, Embase, several clinical trial registries, and grey literature for published and unpublished studies, irrespective of language. The search was performed per an a priori protocol on 3 December 2021. 
+Selection criteria
+We included randomized controlled trials of participants with suspected or confirmed non‐muscle invasive bladder cancer. Participants in the control group must have received WLC‐guided TURBT alone (hereinafter simply referred to as 'WLC TURBT'). Participants in the intervention group had to have received NBI‐ and WLC‐guided TURBT (hereinafter simply referred to as 'NBI + WLC TURBT'). 
+Data collection and analysis
+Two review authors independently selected studies for inclusion/exclusion, performed data extraction, and assessed risk of bias. We conducted meta‐analysis on time‐to‐event and dichotomous data using a random‐effects model in RevMan, according to Cochrane methods. We rated the certainty of evidence for each outcome according to the GRADE approach. 
+Primary outcomes were time to recurrence, time to progression, and the occurrence of a major adverse event, defined as a Clavien‐Dindo III, IV, or V complication. Secondary outcomes included time to death from bladder cancer and the occurrence of a minor adverse event, defined as a Clavien‐Dindo I or II complication.  
+Main results
+We included eight studies with a total of 2152 participants randomized to the standard WLC TURBT or to NBI + WLC TURBT. A total of 1847 participants were included for analysis.  
+Based on limited confidence in the time‐to‐event data, we found that NBI + WLC TURBT may lower the risk of disease recurrence over time compared to WLC TURBT (hazard ratio 0.63, 95% CI 0.45 to 0.89; I2 = 53%; 6 studies, 1244 participants; low certainty of evidence). No studies examined disease progression as a time‐to‐event outcome or a dichotomous outcome. There may be little to no difference in the risk of a major adverse event between participants who underwent NBI + WLC TURBT and those who underwent WLC TURBT (risk ratio 1.77, 95% CI 0.79 to 3.96; 4 studies, 1385 participants; low certainty of evidence). 
+No studies examined death from bladder cancer as a time‐to‐event outcome or a dichotomous outcome. There may be little to no difference in the risk of a minor adverse event between participants who underwent NBI + WLC TURBT and those who underwent WLC TURBT (risk ratio 0.88, 95% CI 0.49 to 1.56; I2 = 61%; 4 studies, 1385 participants; low certainty of evidence).  
+Authors' conclusions
+Compared to WLC TURBT alone, NBI + WLC TURBT may lower the risk of disease recurrence over time while having little or no effect on the risks of major or minor adverse events.  

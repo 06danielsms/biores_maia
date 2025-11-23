@@ -1,0 +1,11 @@
+Clinical Study Results
+How many participants had adverse reactions?
+There were 36.5% of participants who had adverse reactions during the study. This was 132 out of 362 participants.
+- 43.9% of participants who got anifrolumab had adverse reactions during the study. This was 79 out of 180 participants.
+- 29.1% of participants who got the placebo had adverse reactions during the study. This was 53 out of 182 participants.
+There were 2.2% of participants who stopped getting treatment due to adverse reactions they had during the study. This was 8 out of 362 participants.
+- 0.6% of participants stopped getting anifrolumab because of adverse reactions they had during the study. This was 1 out of 180 participants.
+- 3.8% of participants stopped getting the placebo because of adverse reactions they had during the study. This was 7 out of 182 participants.
+What adverse reactions did the participants have?
+The most common adverse reaction was infection of the upper airways of the nose and throat.
+There were other adverse reactions, but these happened in fewer participants.

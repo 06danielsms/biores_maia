@@ -1,0 +1,32 @@
+Background
+Inhaled corticosteroids are well established for the long‐term treatment of inflammatory respiratory diseases such as asthma or chronic obstructive pulmonary disease. They have been investigated for the treatment of coronavirus disease 2019 (COVID‐19). The anti‐inflammatory action of inhaled corticosteroids might have the potential to reduce the risk of severe illness resulting from hyperinflammation in COVID‐19. 
+Objectives
+To assess whether inhaled corticosteroids are effective and safe in the treatment of COVID‐19; and to maintain the currency of the evidence, using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register (which includes CENTRAL, PubMed, Embase, ClinicalTrials.gov, WHO ICTRP, and medRxiv), Web of Science (Science Citation Index, Emerging Citation Index), and the WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies to 7 October 2021. 
+Selection criteria
+We included randomised controlled trials (RCTs) evaluating inhaled corticosteroids for COVID‐19, irrespective of disease severity, age, sex, or ethnicity. 
+We included the following interventions: any type or dose of inhaled corticosteroids. We included the following comparison: inhaled corticosteroids plus standard care versus standard care (with or without placebo). 
+We excluded studies examining nasal or topical steroids.
+Data collection and analysis
+We followed standard Cochrane methodology. For risk of bias assessment, we used the Cochrane RoB 2 tool. We rated the certainty of evidence using the GRADE approach for the outcomes of mortality, admission to hospital or death, symptom resolution, time to symptom resolution, serious adverse events, adverse events, and infections. 
+Main results
+Inhaled corticosteroids plus standard care versus standard care (with/without placebo)  
+People with a confirmed diagnosis of moderate‐to‐severe COVID‐19 
+We found no studies that included people with a confirmed diagnosis of moderate‐to‐severe COVID‐19. 
+People with a confirmed diagnosis of asymptomatic SARS‐CoV‐2 infection or mild COVID‐19 
+We included three RCTs allocating 3607 participants, of whom 2490 had confirmed mild COVID‐19. We analysed a subset of the total number of participants recruited to the studies (2171, 52% female) as some trials had a platform design where not all participants were allocated to treatment groups simultaneously. The included studies were community‐based, recruiting people who were able to use inhaler devices to deliver steroids and relied on remote assessment and self‐reporting of outcomes. Most people were older than 50 years and had co‐morbidities such as hypertension, lung disease, or diabetes. The studies were conducted in high‐income countries prior to wide‐scale vaccination programmes. A total of 1057 participants were analysed in the inhaled corticosteroid arm (budesonide: 860 participants; ciclesonide: 197 participants), and 1075 participants in the control arm. No studies included people with asymptomatic SARS‐CoV‐2 infection. 
+With respect to the following outcomes, inhaled corticosteroids compared to standard care: 
+– may result in little to no difference in all‐cause mortality (at up to day 30) (risk ratio (RR) 0.61, 95% confidence interval (CI) 0.22 to 1.67; 2132 participants; low‐certainty evidence). In absolute terms, this means that for every nine deaths per 1000 people not receiving inhaled corticosteroids, there were six deaths per 1000 people who did receive the intervention (95% CI 2 to 16 per 1000 people); 
+– probably reduces admission to hospital or death (at up to 30 days) (RR 0.72, 95% CI 0.51 to 0.99; 2025 participants; moderate‐certainty evidence); 
+– probably increases resolution of all initial symptoms at day 14 (RR 1.19, 95% CI 1.09 to 1.30; 1986 participants; moderate‐certainty evidence); 
+– may reduce the duration to symptom resolution (at up to day 30) (by −4.00 days, 95% CI −6.22 to −1.78 less than control group rate of 12 days; 139 participants; low‐certainty evidence); 
+– the evidence is very uncertain about the effect on serious adverse events (during study period) (RR 0.51, 95% CI 0.09 to 2.76; 1586 participants; very low‐certainty evidence); 
+– may result in little to no difference in adverse events (at up to day 30) (RR 0.78, 95% CI 0.47 to 1.31; 400 participants; low‐certainty evidence); 
+– may result in little to no difference in infections (during study period) (RR 0.88, 95% CI 0.30 to 2.58; 400 participants; low‐certainty evidence). 
+As studies did not report outcomes for subgroups (e.g. age, ethnicity, sex), we did not perform subgroup analyses. 
+Authors' conclusions
+In people with confirmed COVID‐19 and mild symptoms who are able to use inhaler devices, we found moderate‐certainty evidence that inhaled corticosteroids probably reduce the combined endpoint of admission to hospital or death and increase the resolution of all initial symptoms at day 14. Low‐certainty evidence suggests that corticosteroids make little to no difference in all‐cause mortality up to day 30 and may decrease the duration to symptom resolution. We do not know whether inhaled corticosteroids increase or decrease serious adverse events due to heterogeneity in the way they were reported across the studies. There is low‐certainty evidence that inhaled corticosteroids may decrease infections. 
+The evidence we identified came from studies in high‐income settings using budesonide and ciclesonide prior to vaccination roll‐outs. 
+We identified a lack of evidence concerning quality of life assessments, serious adverse events, and people with asymptomatic infection or with moderate‐to‐severe COVID‐19. The 10 ongoing and four completed, unpublished RCTs that we identified in trial registries address similar settings and research questions as in the current body of evidence. We expect to incorporate the findings of these studies in future versions of this review. 
+We monitor newly published results of RCTs on inhaled corticosteroids on a weekly basis and will update the review when the evidence or our certainty in the evidence changes. 

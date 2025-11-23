@@ -1,0 +1,14 @@
+Background
+In many countries of the industrialised world second generation (atypical) antipsychotics have become the first line drug treatment for people with schizophrenia. The question as to whether and, if so, how much the effects of the various second generation antipsychotics differ is a matter of debate. 
+Objectives
+To evaluate the effects of sertindole compared with other second generation antipsychotics for people with schizophrenia and schizophrenia‐like psychosis. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (April 2007) and ClinicalTrials.gov (February 2009). 
+Selection criteria
+We included all randomised trials comparing oral sertindole with oral forms of amisulpride, aripiprazole, clozapine, olanzapine, quetiapine, risperidone, ziprasidone or zotepine for people with schizophrenia or schizophrenia‐like psychosis. 
+Data collection and analysis
+We extracted data independently. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis based on a random‐effects model. For continuous data, we calculated weighted mean differences (WMD) again based on a random‐effects model. 
+Main results
+The review currently includes two short‐term low‐quality randomised trials (total n=508) both comparing sertindole with risperidone. One third of participants left the studies early (2 RCTs, n=504, RR 1.23 CI 0.94 to 1.60). There was no difference in efficacy (2 RCTs, n=493, WMD PANSS total change from baseline 1.98 CI ‐8.24 to 12.20). Compared with relatively high doses of risperidone (between 4 and 12 mg/day), sertindole produced significantly less akathisia and parkinsonism (1 RCT, n=321, RR 0.24 CI 0.09 to 0.69, NNT 14, CI 8 to 100). Sertindole produced more cardiac effects (2 RCTs, n=508, RR QTc prolongation 4.86 CI 1.94 to 12.18), weight change (2 RCTs, n=328, WMD 0.99 CI 0.12 to 1.86) and male sexual dysfunction (2 RCTs, n=437, RR 2.90 CI 1.32 to 6.35, NNH 13 CI 8 to 33). 
+Authors' conclusions
+Sertindole may induce fewer movement disorders, but more cardiac effects, weight change and male sexual dysfunction than risperidone. However these data are based on only two studies and are too limited to allow firm conclusions. Nothing can be said about the effects of sertindole compared with second generation antipsychotics other than risperidone. There are several relevant trials underway or completed and about to report. 

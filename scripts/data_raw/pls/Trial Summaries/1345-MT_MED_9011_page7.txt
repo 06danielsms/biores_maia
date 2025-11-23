@@ -1,0 +1,28 @@
+What were the medical problems in the study that were not considered serious? The table below shows all non-serious medical problems that happened in any participant in each treatment group in the study.
+
+AZD7594 large:
+- Hay fever: 1 (5.6%)
+- Blood clot in vein: 1 (5.6%)
+- Headache: 1 (5.6%)
+- Common cold: 0 (0.0%)
+- Irritated skin: 0 (0.0%)
+- Discomfort in arms or legs: 0 (0.0%)
+- Swollen, red eyelid: 0 (0.0%)
+
+AZD7594 medium:
+- Hay fever: 1 (5.6%)
+- Blood clot in vein: 0 (0.0%)
+- Headache: 0 (0.0%)
+- Common cold: 2 (11.1%)
+- Irritated skin: 2 (11.1%)
+- Discomfort in arms or legs: 1 (5.6%)
+- Swollen, red eyelid: 0 (0.0%)
+
+AZD7594 small:
+- Hay fever: 1 (5.6%)
+- Blood clot in vein: 1 (5.6%)
+- Headache: 1 (5.6%)
+- Common cold: 2 (11.1%)
+- Irritated skin: 1 (5.6%)
+- Discomfort in arms or legs: 0 (0.0%)
+- Swollen, red eyelid: 1 (5.6%)

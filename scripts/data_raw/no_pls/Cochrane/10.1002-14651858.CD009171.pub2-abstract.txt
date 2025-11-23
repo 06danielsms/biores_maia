@@ -1,0 +1,14 @@
+Background
+Neonatal hypotension that is refractory to volume expansion, catecholamines, or corticosteroids has a mortality of about 50%. Optimization of blood pressure and tissue perfusion in refractory hypotension may be crucial to improve clinical outcomes. Vasopressin, a neuropeptide hormone, or its analogue terlipressin has been used to treat refractory hypotension in neonates and may be effective. 
+Objectives
+Our primary objective was to evaluate the efficacy and safety of vasopressin and its synthetic analogues (e.g. terlipressin) in decreasing mortality and adverse neurodevelopmental outcomes, and improving survival in neonates with refractory hypotension. Our secondary objectives were to determine the effects of vasopressin and its analogues (terlipressin) on improvement in blood pressure, increase in urine output, decrease in inotrope score, necrotizing enterocolitis (NEC), periventricular leukomalacia, intraventricular hemorrhage, chronic lung disease, and retinopathy of prematurity (ROP) in neonates with refractory hypotension. 
+Search methods
+We searched the literature in January 2012, using the search strategy recommended by the Cochrane Neonatal Group. We searched electronic databases (CENTRAL (The Cochrane Library), MEDLINE, CINAHL, EMBASE), abstracts of the Pediatric Academic Societies, web sites for registered trials at www.clinicaltrials.gov and www.controlled‐trials.com and in the reference list of identified articles. 
+Selection criteria
+Randomized or quasi‐randomized trials evaluating vasopressin or its analogues, at any dosage or duration used as an adjunct to standard therapy (any combination of volume expansion, inotropic agents and corticosteroids) to treat refractory hypotension in neonates. 
+Data collection and analysis
+We followed the standard methods of The Cochrane Collaboration for conducting a systematic review. Two review authors (BS and MP) independently assessed the titles and abstracts of studies identified by the search strategy for eligibility for inclusion. We obtained the full text version if eligibility could not be done reliably by title and abstract. We resolved any differences by mutual discussion. We designed electronic forms for trial inclusion/exclusion, data extraction, and for requesting additional published information from authors of the original reports. 
+Main results
+Our search did not identify any completed or ongoing trials that met our inclusion criteria. Three studies that did not include neonates and one study where the objective was not to treat neonates with refractory hypotension were excluded. 
+Authors' conclusions
+There is insufficient evidence to recommend or refute the use of vasopressin or its analogues in the treatment of refractory hypotension in neonates. Well‐designed, adequately powered, randomized controlled studies are necessary to address efficacy, optimal dosing, safety and long‐term neurodevelopmental and pulmonary outcomes.  

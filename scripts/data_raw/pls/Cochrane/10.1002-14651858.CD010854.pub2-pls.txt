@@ -1,0 +1,19 @@
+Combined treatment with GnRH analogues and add‐back therapy for women with uterine fibroids 
+Review question 
+Uterine fibroids may be shrunk with gonadotropin‐releasing hormone (GnRH) analogues but commonly cause hot flushes. Combining GnRHa with other drugs may decrease hot flushes (a strategy known as add‐back therapy) but cause other problems such as low bone mineral density. The efficacy and safety of this approach is controversial. 
+Background 
+Uterine fibroids are benign tumours that arise from the wall of the uterus. Although they are mostly asymptomatic, women with associated symptoms may require treatment. Medical options for treating the condition are limited and, among them, a class of drugs named GnRH analogues is considered effective for decreasing the size of the tumour and for controlling symptoms such as uterine bleeding and pelvic pressure. This class of drugs, however, is limited by its adverse effects, mainly a rise in the incidence of hot flashes and reduced bone mass. Therefore, prolonged treatment is usually not recommended. 
+Study characteristics 
+In June 2014, Cochrane authors performed computer searches of the medical literature to locate all relevant studies about this subject, in any language. We found 14 eligible randomized controlled trials. We analysed their data, assessed them for the quality of their methods and precision of their results, and communicated with their authors to obtain additional information and to clarify any doubts about the information. 
+Key results 
+Quality of life  
+Available evidence from 110 women suggested that tibolone may have a very small to large benefit with respect to quality of life when compared with the use of GnRH analogues alone. There was no evidence that raloxifene had an effect on quality of life (data from 74 women). The effect of other add‐back agents on quality of life had not been studied. 
+Bone mass  
+Evidence from 91 women suggested that raloxifene may have a moderate to large benefit for preserving bone mass when used for up to six months, while tibolone may have a small to moderate bone mass‐preserving effect, based on data from 160 women. Estriol (studied in 12 women) and ipriflavone (studied in 95 women) may have had a large effect in decreasing the loss of bone mass associated with the use of GnRH analogues. The effect of medroxyprogesterone (MPA) on bone mass was uncertain. 
+Vasomotor symptoms  
+Tibolone may have had a large effect in decreasing vasomotor symptoms (data from 268 women) when compared with the use of GnRH analogues without add‐back therapy. MPA may also have decreased vasomotor symptoms (840 to 137 fewer women with vasomotor symptoms per 1000 women, data from 16 women). 
+Adverse effects  
+Tibolone could lead to a greater uterine size (increased by 8 cm3 to 39 cm3, data from 365 women) and increased bleeding (data not pooled but studied in 310 patients). MPA may also have resulted in a increased uterine size (by 77 cm3 to 606 cm3, data from 32 women). Conjugated estrogens could also result in greater uterine size (data from 27 women). 
+Evidence regarding this subject was generally of low quality and higher quality studies are necessary for more robust conclusions to be achieved. 
+Quality of the evidence 
+Evidence ranged from very low to moderate quality and the main limitations were risk of bias in the primary studies and imprecision of the estimates. For quality of life, evidence was of low quality for both tibolone and raloxifene. For bone mass, evidence was of moderate quality for tibolone and of low quality for all the other treatments studied. 

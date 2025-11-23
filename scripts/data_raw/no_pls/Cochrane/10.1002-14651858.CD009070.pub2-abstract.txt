@@ -1,0 +1,16 @@
+Background
+Community‐acquired pneumonia (CAP) is a lung infection that can be acquired during day‐to‐day activities in the community (not while receiving care in a hospital). Community‐acquired pneumonia poses a significant public health burden in terms of mortality, morbidity, and costs. Shorter antibiotic courses for CAP may limit treatment costs and adverse effects, but the optimal duration of antibiotic treatment is uncertain. 
+Objectives
+To evaluate the efficacy and safety of short‐course versus longer‐course treatment with the same antibiotic at the same daily dosage for CAP in non‐hospitalised adolescents and adults (outpatients). We planned to investigate non‐inferiority of short‐course versus longer‐term course treatment for efficacy outcomes, and superiority of short‐course treatment for safety outcomes. 
+Search methods
+We searched CENTRAL, which contains the Cochrane Acute Respiratory Infections Group Specialised Register, MEDLINE, Embase, five other databases, and three trials registers on 28 September 2017 together with conference proceedings, reference checking, and contact with experts and pharmaceutical companies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing short‐ and long‐courses of the same antibiotic for CAP in adolescent and adult outpatients. 
+Data collection and analysis
+We planned to use standard Cochrane methods.
+Main results
+Our searches identified 5260 records. We did not identify any RCTs that compared short‐ and longer‐courses of the same antibiotic for the treatment of adolescents and adult outpatients with CAP. 
+We excluded two RCTs that compared short courses (five compared to seven days) of the same antibiotic at the same daily dose because they evaluated antibiotics (gemifloxacin and telithromycin) not commonly used in practice for the treatment of CAP. In particular, gemifloxacin is no longer approved for the treatment of mild‐to‐moderate CAP due to its questionable risk‐benefit balance, and reported adverse effects. Moreover, the safety profile of telithromycin is also cause for concern. 
+We found one ongoing study that we will assess for inclusion in future updates of the review. 
+Authors' conclusions
+We found no eligible RCTs that studied a short‐course of antibiotic compared to a longer‐course (with the same antibiotic at the same daily dosage) for CAP in adolescent and adult outpatients. The effects of antibiotic therapy duration for CAP in adolescent and adult outpatients remains unclear. 

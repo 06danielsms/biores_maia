@@ -1,0 +1,14 @@
+Background
+Posterior capsule opacification (PCO) remains the most common long‐term complication after cataract surgery. It can be treated by Nd:YAG laser capsulotomy, however this may lead to other complications and laser treatment is not available in large parts of the developing world. Therefore, many studies try to find factors influencing the development of PCO. 
+Objectives
+To summarise the effects of different interventions to inhibit PCO. These include modifications of surgical technique and intraocular lens (IOL) design, implantation of additional devices and pharmacological interventions. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, LILACS in March 2009 and reference lists of identified trial reports. 
+Selection criteria
+We included only prospective, randomised and controlled trials with a follow‐up time of at least 12 months. Interventions included modifications in surgical technique explicitly to inhibit PCO, modifications in IOL design (material and geometry), implantation of additional devices and pharmacological therapy compared to each other, placebo or standard treatment. 
+Data collection and analysis
+We extracted data and entered it into RevMan. We compared visual acuity data, PCO scores and YAG capsulotomy rates and performed a meta‐analysis when possible. 
+Main results
+Sixty six studies were included in the review. The review was divided into three parts.  1. Influence of IOL optic material on the development of PCO. There was no significant difference in PCO development between the different IOL materials (PMMA, hydrogel, hydrophobic acrylic, silicone) although hydrogel IOLs tend to have higher PCO scores and silicone IOLs lower PCO scores than the other materials.  2. Influence of IOL optic design on the development of PCO. There was a significantly lower PCO score (‐8.65 (‐10.72 to ‐6.59), scale 0 to 100) and YAG rate (0.19 (0.11 to 0.35)) in sharp edged than in round edged IOLs, however not between 1‐piece and 3‐piece IOLs.  3. Influence of surgical technique and drugs on the development of PCO. There was no significant difference between different types of intraoperative/postoperative anti‐inflammatory treatment except for treatment with an immunotoxin (MDX‐A) which led to a significantly lower PCO rate. 
+Authors' conclusions
+Due to the highly significant difference between round and sharp edged IOL optics, IOLs with sharp (posterior) optic edges should be preferred. There is no clear difference between optic materials. The choice of postoperative anti‐inflammatory treatment does not seem to influence PCO development. 

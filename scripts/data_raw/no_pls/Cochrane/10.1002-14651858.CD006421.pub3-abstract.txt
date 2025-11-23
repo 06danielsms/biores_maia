@@ -1,0 +1,14 @@
+Background
+Proliferative vitreoretinopathy (PVR) is a significant cause of failure in retinal reattachment surgery. Various pharmacological agents have shown potential benefit in reducing postoperative PVR risk.  
+Objectives
+This review aimed to compare the use of intravitreal low molecular weight heparin (LMWH) alone or with 5‐Fluorouracil (5‐FU) versus placebo, as an adjunct in the prevention of PVR following retinal reattachment surgery. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 9), MEDLINE (January 1950 to October 2012), EMBASE (January 1980 to October 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 15 October 2012. 
+Selection criteria
+We only included randomised controlled trials (RCTs) that compared intravitreal LMWH alone or with 5‐FU, versus placebo for the prevention of postoperative PVR in patients undergoing primary vitrectomy for rhegmatogenous retinal detachment repair. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. The review authors contacted study authors for additional information. 
+Main results
+We included two RCTs (with a total of 789 participants) comparing LMWH with 5‐FU infusion and placebo. However, we did not perform a meta‐analysis because of significant heterogeneity between these studies. One study found a significant beneficial effect of LMWH with 5‐FU in reducing postoperative PVR compared to placebo (RR: 0.48, 95% confidence interval: 0.25 to 0.92), in 174 patients who were viewed at high‐risk of developing postoperative PVR. The other study included 615 unselected cases of rhegmatogenous retinal detachment and could not show a difference between LMWH with 5‐FU infusion and placebo in reducing PVR rates (RR:1.45, 95% confidence interval: 0.76 to 2.76). 
+Authors' conclusions
+Results from this review indicate that there is inconsistent evidence from two studies on patients at different risk of PVR on the effect of LMWH and 5‐FU used during vitrectomy to prevent PVR. Future research should be conducted on high risk patients only, until a benefit is confirmed at least in this patient subgroup.   

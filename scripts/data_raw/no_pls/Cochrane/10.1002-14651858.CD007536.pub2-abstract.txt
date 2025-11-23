@@ -1,0 +1,14 @@
+Background
+A number of potentially modifiable risk factors are known to be associated with poor pregnancy outcomes. These include smoking, drinking excess alcohol, and poor nutrition. Routine health promotion (encompassing education, advice and general health assessment) in the pre‐pregnancy period has been proposed for improving pregnancy outcomes by encouraging behavioural change, or allowing early identification of risk factors. While results from observational studies have been encouraging, this review examines evidence from randomised controlled trials of preconception health promotion. 
+Objectives
+To assess the effectiveness of routine pre‐pregnancy health promotion for improving pregnancy outcomes when compared with no pre‐pregnancy care or usual care. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2009). 
+Selection criteria
+Randomised and quasi‐randomised trials examining health promotion interventions which aim to identify and modify risk factors before pregnancy. The review focuses on all women of childbearing age rather than those in high‐risk groups. We have excluded trials where interventions are aimed specifically at women with established medical, obstetric or genetic risks or already receiving treatment as part of programmes for high‐risk groups. 
+Data collection and analysis
+Two review authors independently assessed eligibility and carried out data extraction.
+Main results
+Four trials (2300 women) are included. The interventions ranged from brief advice through to education on health and lifestyle over several sessions. For most outcomes, data were only available from individual studies. Only one study followed up through pregnancy and there was no strong evidence of a difference between groups for preterm birth, congenital anomalies or weight for gestational age; only one finding (mean birthweight) reached statistical significance (mean difference ‐97.00, 95% confidence interval (CI) ‐168.05 to ‐25.95). This finding needs to be interpreted with caution as pregnancy outcome data were available for only half of the women randomised. There was some evidence that health promotion interventions were associated with positive maternal behavioural change including lower rates of binge drinking (risk ratio 1.24, 95% CI 1.06 to 1.44). Overall, there has been little research in this area and there is a lack of evidence on the effects of pre‐pregnancy health promotion on pregnancy outcomes. 
+Authors' conclusions
+There is little evidence on the effects of pre‐pregnancy health promotion and much more research is needed in this area. There is currently insufficient evidence to recommend the widespread implementation of routine pre‐pregnancy health promotion for women of childbearing age, either in the general population or between pregnancies. 

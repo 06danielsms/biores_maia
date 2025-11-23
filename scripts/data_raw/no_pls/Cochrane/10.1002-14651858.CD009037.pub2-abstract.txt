@@ -1,0 +1,14 @@
+Background
+Pregnancy hyperglycaemia without meeting gestational diabetes mellitus (GDM) diagnostic criteria affects a significant proportion of pregnant women each year. It is associated with a range of adverse pregnancy outcomes. Although intensive management for women with GDM has been proven beneficial for women and their babies, there is little known about the effects of treating women with hyperglycaemia who do not meet diagnostic criteria for GDM and type 2 diabetes (T2DM). 
+Objectives
+To assess the effects of different types of management strategies for pregnant women with hyperglycaemia not meeting diagnostic criteria for GDM and T2DM (referred as borderline GDM in this review). 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (30 September 2011). 
+Selection criteria
+Randomised and cluster‐randomised trials comparing alternative management strategies for women with borderline GDM. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data and assessed risk of bias of included studies. Data were checked for accuracy. 
+Main results
+We included four trials involving 543 women and their babies (but only data from 521 women and their babies is included in our analyses). Three of the four included studies had moderate to high risk of bias and one study was at low to moderate risk of bias. Babies born to women receiving management for borderline GDM (generally dietary counselling and metabolic monitoring) were less likely to be macrosomic (birthweight greater than 4000 g) (three trials, 438 infants, risk ratio (RR) 0.38, 95% confidence interval (CI) 0.19 to 0.74) or large‐for‐gestational (LGA) age (three trials, 438 infants, RR 0.37, 95% CI 0.20 to 0.66) when compared with those born to women in the routine care group. There were no significant differences in rates of caesarean section (three trials, 509 women, RR 0.93, 95% CI 0.68 to 1.27) and operative vaginal birth (one trial, 83 women, RR 1.37, 95% CI 0.20 to 9.27) between the two groups. 
+Authors' conclusions
+This review found interventions including providing dietary advice and blood glucose level monitoring for women with pregnancy hyperglycaemia not meeting GDM and T2DM diagnostic criteria helped reduce the number of macrosomic and LGA babies without increasing caesarean section and operative vaginal birth rates. It is important to notice that the results of this review were based on four small randomised trials with moderate to high risk of bias without follow‐up outcomes for both women and their babies. 

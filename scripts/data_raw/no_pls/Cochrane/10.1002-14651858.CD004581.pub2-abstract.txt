@@ -1,0 +1,14 @@
+Background
+Ventilator‐associated pneumonia is a common complication in ventilated patients. Endotracheal suctioning is a procedure that may constitute a risk factor for ventilator‐associated pneumonia. It can be performed with an open system or with a closed system. In view of suggested advantages being reported for the closed system, a systematic review comparing both techniques was warranted. 
+Objectives
+To compare the closed tracheal suction system and the open tracheal suction system in adults receiving mechanical ventilation for more than 24 hours. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2006, Issue 1) MEDLINE, CINAHL, EMBASE and LILACS from their inception to July 2006. We handsearched the bibliographies of relevant identified studies, and contacted authors and manufacturers. 
+Selection criteria
+The review included randomized controlled trials comparing closed and open tracheal suction systems in adult patients who were ventilated for more than 24 hours. 
+Data collection and analysis
+We included the relevant trials fitting the selection criteria. We assessed methodological quality using method of randomization, concealment of allocation, blinding of outcome assessment and completeness of follow up. Effect measures used for pooled analyses were relative risk (RR) for dichotomous data and weighted mean differences (WMD) for continuous data. We assessed heterogeneity prior to meta‐analysis. 
+Main results
+Of the 51 potentially eligible references, the review included 16 trials (1684 patients), many with methodological weaknesses. The two tracheal suction systems showed no differences in risk of ventilator‐associated pneumonia (11 trials; RR 0.88; 95% CI 0.70 to 1.12), mortality (five trials; RR 1.02; 95% CI 0.84 to 1.23) or length of stay in intensive care units (two trials; WMD 0.44; 95% CI ‐0.92 to 1.80). The closed tracheal suction system produced higher bacterial colonization rates (five trials; RR 1.49; 95% CI 1.09 to 2.03). 
+Authors' conclusions
+Results from 16 trials showed that suctioning with either closed or open tracheal suction systems did not have an effect on the risk of ventilator‐associated pneumonia or mortality. More studies of high methodological quality are required, particularly to clarify the benefits and hazards of the closed tracheal suction system for different modes of ventilation and in different types of patients. 

@@ -1,0 +1,11 @@
+Heat and moisture exchangers compared to heated humidifiers for ventilated adults and children 
+Review question 
+Are heat and moisture exchangers or heated humidifiers more effective in preventing complications such as airway blockages and pneumonia in adults, children or infants who receive invasive mechanical ventilation. 
+Background 
+When mechanical ventilation is used to keep critically ill people breathing effectively, the upper airway must be humidified by artificial means. Heat and moisture exchangers and heated humidifiers are the most commonly used methods of artificial humidification. Both have been associated with specific advantages and disadvantages; for example, heat and moisture exchangers are thought to be more likely to cause airway obstruction while heated humidifiers have been associated with an increased risk of pneumonia (swelling (inflammation) of the tissue in one or both lungs). 
+Study characteristics 
+We searched for studies up to May 2017. We included 34 trials in the review, with 2848 participants from 12 countries. The majority of trials (27) were set in an intensive care unit with one in a neonatal intensive care unit. The remaining seven studies were done in an operating department. Participants were infants in three studies with adults (average age of 40 to 69 years) in the remainder. 
+Key results 
+There was no overall difference in the rates of airway blockage, pneumonia or death in adults who were ventilated through heat and moisture exchangers compared to adults ventilated through a heated humidifier. There was some evidence that the occurrence of pneumonia may be lowered by using heat and moisture exchangers that capture less moisture. There was not enough information to make any conclusions about either of these methods in children or infants. 
+Quality of the evidence 
+The overall low quality of this evidence was low, making it difficult to be confident about these findings. 

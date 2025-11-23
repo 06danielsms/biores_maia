@@ -1,0 +1,14 @@
+Background
+Peptic ulcer is the main cause for upper gastrointestinal haemorrhage, and Helicobacter pylori (H.pylori) infection is the main etiologic factor for peptic ulcer disease. Maintenance antisecretory therapy is the standard long‐term treatment for patients with bleeding ulcers to prevent recurrent bleeding. The efficacy of H. pylori eradication for the prevention of rebleeding from peptic ulcer is unknown. 
+Objectives
+To compare the efficacy of H. pylori eradication therapy vs. antisecretory non‐eradication therapy (with or without long‐term maintenance antisecretory therapy) for the prevention of recurrent bleeding from peptic ulcer. 
+Search methods
+We searched the Cochrane Controlled Trials Register (the Cochrane Library issue 4, 2003), MEDLINE (January 1966 to January 2004), EMBASE (January 1988 to January 2004), CINAHL (January 1982 to January 2004), and reference lists of articles. We also conducted a manual search from several congresses. The search strategy was re‐run in January 2005 and October 2008, but no new trials were found. 
+Selection criteria
+Controlled clinical trials comparing the efficacy of H. pylori eradication therapy vs. antisecretory non‐eradication therapy (with or without long‐term maintenance antisecretory therapy) for the prevention of recurrent bleeding from peptic ulcer. 
+Data collection and analysis
+Data extraction and quality assessment of studies was done by two reviewers. Study authors were contacted for additional information. 
+Main results
+Seven studies with a total of 578 patients were included in the first comparison: mean percentage of rebleeding in H. pylori eradication therapy group was 2.9%, and in the non‐eradication therapy group without subsequent long‐term maintenance antisecretory therapy it was 20% (OR 0.17, 95% CI 0.10 to 0.32; there was no statistical evidence of heterogeneity; NNT was 7, 95% CI 5 to 11). Three studies with a total of 470 patients were included in the second comparison: mean percentage of rebleeding in H. pylori eradication therapy group was 1.6%, and in non‐eradication therapy group with long‐term maintenance antisecretory therapy it was 5.6% (OR 0.24, 95% CI 0.09 to 0.67; heterogeneity was not demonstrated; NNT was 20, 95% CI 12 to 100). Subgroup analyses were carried out to examine the effect of NSAIDS and of excluding H.pylori eradication failures from the analyses. 
+Authors' conclusions
+Treatment of H. pylori infection is more effective than antisecretory non‐eradication therapy (with or without long‐term maintenance antisecretory therapy) in preventing recurrent bleeding from peptic ulcer. All patients with peptic ulcer bleeding should be tested for H. pylori infection, and eradication therapy should be prescribed to H. pylori‐positive patients. 

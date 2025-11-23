@@ -1,0 +1,17 @@
+Background
+Raised intracranial pressure (ICP) is an important complication of severe brain injury, and is associated with high mortality. Barbiturates are believed to reduce ICP by suppressing cerebral metabolism, thus reducing cerebral metabolic demands and cerebral blood volume. However, barbiturates also reduce blood pressure and may, therefore, adversely effect cerebral perfusion pressure. 
+Objectives
+To assess the effects of barbiturates in reducing mortality, disability and raised ICP in people with acute traumatic brain injury. To quantify any side effects resulting from the use of barbiturates. 
+Search methods
+The following electronic databases were searched on 26 September 2012: CENTRAL (The Cochrane Library), MEDLINE (Ovid SP), PubMed, EMBASE (Ovid SP), PsycINFO (Ovid SP), PsycEXTRA (Ovid SP), ISI Web of Science: Science Citation Index and Conference Proceedings Citation Index‐Science. Searching was not restricted by date, language or publication status. We also searched the reference lists of the included trials and review articles. We contacted researchers for information on ongoing studies. 
+Selection criteria
+Randomised controlled trials of one or more of the barbiturate class of drugs, where study participants had clinically diagnosed acute traumatic brain injury of any severity. 
+Data collection and analysis
+Two review authors screened the search results, extracted data and assessed the risk of bias in the trials. 
+Main results
+Data from seven trials involving 341 people are included in this review.
+For barbiturates versus no barbiturate, the pooled risk ratio (RR) of death from three trials was 1.09 (95% confidence interval (CI) 0.81 to 1.47). Death or disability, measured using the Glasgow Outcome Scale was assessed in two trials, the RR with barbiturates was 1.15 (95% CI 0.81 to 1.64). Two trials examined the effect of barbiturate therapy on ICP. In one, a smaller proportion of patients in the barbiturate group had uncontrolled ICP (68% versus 83%); the RR for uncontrolled ICP was 0.81 (95% CI 0.62 to 1.06). In the other, mean ICP was also lower in the barbiturate group. Barbiturate therapy results in an increased occurrence of hypotension (RR 1.80; 95% CI 1.19 to 2.70). For every four patients treated, one developed clinically significant hypotension. Mean body temperature was significantly lower in the barbiturate group. 
+In one study of pentobarbital versus mannitol there was no difference in death between the two study groups (RR 1.21; 95% CI 0.75 to 1.94). Pentobarbital was less effective than mannitol for control of raised ICP (RR 1.75; 95% CI 1.05 to 2.92). 
+In one study the RR of death with pentobarbital versus thiopental was 1.78 (95% CI 1.03 to 3.08) in favour of thiopental. Fewer people had uncontrollable ICP with thiopental (RR 1.64; 95% CI 1.03 to 2.60). There was no significant difference in the effects of pentobarbital versus thiopental for death or disability, measured using the Glasgow Outcome Scale (RR 1.31; 95% CI 0.88 to 1.94), or hypotension (RR 0.95; 95% CI 0.81 to 1.12). 
+Authors' conclusions
+There is no evidence that barbiturate therapy in patients with acute severe head injury improves outcome. Barbiturate therapy results in a fall in blood pressure in one in four patients. This hypotensive effect will offset any ICP lowering effect on cerebral perfusion pressure. 

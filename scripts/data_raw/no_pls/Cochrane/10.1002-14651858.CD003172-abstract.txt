@@ -1,0 +1,14 @@
+Background
+The contraceptive vaginal sponge was developed as an alternative to the contraceptive diaphragm. The sponge, made of polyurethane impregnated with nonoxynol‐9 (1g), releases 125 mg of the spermicide over 24 hours of use. Unlike the diaphragm, the sponge can be used for more than one coital act within 24 hours without the insertion of additional spermicide, and the sponge does not require fitting or a prescription from a physician. How the sponge compares with the diaphragm in terms of efficacy and continuation is not clear. 
+Objectives
+To compare the efficacy and continuation rates of the sponge with the diaphragm (used with nonoxynol‐9). Our a priori hypothesis was that the sponge would have higher rates for failure and discontinuation than the diaphragm. 
+Search methods
+In April 2013, we searched the computerized databases MEDLINE, POPLINE, LILACS, CENTRAL, ClinicalTrials.gov and ICTRP. Earlier searches also included EMBASE. For the initial review, we searched the reference lists of relevant articles and book chapters. We also contacted investigators involved with the identified trials for other published or unpublished trials. 
+Selection criteria
+We included randomized controlled trials comparing the vaginal contraceptive sponge (Today; Collatex) with any diaphragm used with nonoxynol‐9 to prevent pregnancy. 
+Data collection and analysis
+We examined the studies identified through the literature searches for possible inclusion and evaluated their methodological quality using the Cochrane guidelines. We entered data into RevMan and calculated Peto odds ratios for overall pregnancy and 12‐month discontinuation using numbers of women as the denominator. We also abstracted 12‐month cumulative life‐table ratios for these same outcomes but were unable to aggregate these data. 
+Main results
+Two trials met the inclusion criteria. The sponge was significantly less effective in both trials in preventing overall pregnancy than was the diaphragm. In the larger USA trial, the 12‐month cumulative life‐table termination rates per 100 women for overall pregnancy were 17.4 for the sponge and 12.8 for the diaphragm. The rates were 24.5 for the sponge and 10.9 for the diaphragm in the UK trial. Similarly, discontinuation rates at 12 months were higher with the sponge than with the diaphragm (Odds ratio 1.31; 95% CI 1.07 to 1.59). Allergic‐type reactions were more common with the sponge, although discontinuation for discomfort differed in the two trials. No new trials have been identified since the initial review. 
+Authors' conclusions
+The sponge was less effective than the diaphragm in preventing pregnancy. Discontinuation rates were higher at 12 months as well. Other randomized controlled trials will be needed to resolve the potential role of spermicides in preventing sexually transmitted infections or in causing adverse effects. 

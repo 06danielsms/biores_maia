@@ -1,0 +1,19 @@
+Background
+In 2010, the World Health Organization recommended that all patients with suspected malaria are tested for malaria before treatment. In rural African settings light microscopy is often unavailable. Diagnosis has relied on detecting fever, and most people were given antimalarial drugs presumptively. Rapid diagnostic tests (RDTs) provide a point‐of‐care test that may improve management, particularly of people for whom the RDT excludes the diagnosis of malaria. 
+Objectives
+To evaluate whether introducing RDTs into algorithms for diagnosing and treating people with fever improves health outcomes, reduces antimalarial prescribing, and is safe, compared to algorithms using clinical diagnosis. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register; CENTRAL (The Cochrane Library); MEDLINE; EMBASE; CINAHL; LILACS; and the metaRegister of Controlled Trials for eligible trials up to 10 January 2014. We contacted researchers in the field and reviewed the reference lists of all included trials to identify any additional trials. 
+Selection criteria
+Individual or cluster randomized trials (RCTs) comparing RDT‐supported algorithms and algorithms using clinical diagnosis alone for diagnosing and treating people with fever living in malaria‐endemic settings. 
+Data collection and analysis
+Two authors independently applied the inclusion criteria and extracted data. We combined data from individually and cluster RCTs using the generic inverse variance method. We presented all outcomes as risk ratios (RR) with 95% confidence intervals (CIs), and assessed the quality of evidence using the GRADE approach. 
+Main results
+We included seven trials, enrolling 17,505 people with fever or reported history of fever in this review; two individually randomized trials and five cluster randomized trials. All trials were conducted in rural African settings. 
+In most trials the health workers diagnosing and treating malaria were nurses or clinical officers with less than one week of training in RDT supported diagnosis. Health worker prescribing adherence to RDT results was highly variable: the number of participants with a negative RDT result who received antimalarials ranged from 0% to 81%. 
+Overall, RDT supported diagnosis had little or no effect on the number of participants remaining unwell at four to seven days after treatment (6990 participants, five trials, low quality evidence); but using RDTs reduced prescribing of antimalarials by up to three‐quarters (17,287 participants, seven trials, moderate quality evidence). As would be expected, the reduction in antimalarial prescriptions was highest where health workers adherence to the RDT result was high, and where the true prevalence of malaria was lower. 
+Using RDTs to support diagnosis did not have a consistent effect on the prescription of antibiotics, with some trials showing higher antibiotic prescribing and some showing lower prescribing in the RDT group (13,573 participants, five trials, very low quality evidence). 
+One trial reported malaria microscopy on all enrolled patients in an area of moderate endemicity, so we could compare the number of patients in the RDT and clinical diagnosis groups that actually had microscopy confirmed malaria infection but did not receive antimalarials. No difference was detected between the two diagnostic strategies (1280 participants, one trial, low quality evidence). 
+Authors' conclusions
+Algorithms incorporating RDTs can substantially reduce antimalarial prescribing if health workers adhere to the test results. Introducing RDTs has not been shown to improve health outcomes for patients, but adherence to the test result does not seem to result in worse clinical outcomes than presumptive treatment. 
+Concentrating on improving the care of RDT negative patients could improve health outcomes in febrile children. 

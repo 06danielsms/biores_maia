@@ -1,0 +1,19 @@
+Did any adverse reactions happen during this study?
+
+There were 5.7% of participants who had adverse reactions during this study. This was 2 out of 35 participants.
+None of the participants left this study due to adverse reactions.
+
+What serious adverse reactions happened during this study?
+
+None of the participants had serious adverse reactions during this study.
+None of the participants died due to serious adverse reactions during this study.
+
+What adverse reactions happened during this study?
+
+The table below shows the adverse reactions that happened during this study.
+
+Adverse reactions during this study:
+
+Adverse reaction           Treatment 1:          Treatment 2:          Treatment 3:
+- Headache                5.9% (1)              0.0% (0)              0.0% (0)
+- Bloating                 0.0% (0)              2.9% (1)              0.0% (0)

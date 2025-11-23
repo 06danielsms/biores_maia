@@ -1,0 +1,15 @@
+Background
+This is the second updated version of the Cochrane Review published in Issue 3, 2010 and first updated in Issue 5, 2013. 
+People with a primary brain tumour often experience depression, for which drug treatment may be prescribed. However, they are also at high risk of epileptic seizures, cognitive impairment, and fatigue, all of which are potential adverse side effects of antidepressants. The benefit, or harm, of pharmacological treatment of depression in people with a primary brain tumour is unclear. 
+Objectives
+To assess the benefits and harms of pharmacological treatment of depression in people with a primary brain tumour. 
+Search methods
+We updated the search to include CENTRAL, MEDLINE, Embase, and PsycINFO to September 2019. As in the original review, we also handsearched Neuro‐Oncology, Journal of Neuro‐Oncology, Journal of Neurology, Neurosurgery and Psychiatry, and Journal of Clinical Oncology: for the current update we handsearched the latest three years of articles from these journals (up to November 2019). 
+Selection criteria
+We searched for all randomised controlled trials (RCTs), controlled clinical trials, cohort studies, and case‐control studies of any pharmacological treatment of depression in people with a histologically diagnosed primary brain tumour. 
+Data collection and analysis
+No studies met the inclusion criteria.
+Main results
+We found no eligible studies evaluating the benefits of any pharmacological treatment of depression in people with a primary brain tumour. 
+Authors' conclusions
+We identified no high‐quality studies that investigated the value of pharmacological treatment of depression in people with a primary brain tumour. RCTs and detailed prospective studies are required to inform the effective pharmacological treatment of this common and important complication of brain tumours. Since the last version of this review none of the related new literature has provided additional information to change these conclusions. 

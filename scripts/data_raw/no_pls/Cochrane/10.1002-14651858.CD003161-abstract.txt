@@ -1,0 +1,14 @@
+Background
+The prevalence of sleep problems in adulthood increases with age. While not all sleep changes are pathological in later life, severe disturbances may lead to depression, cognitive impairments, deterioration of quality of life, significant stresses for carers and increased healthcare costs. The most common treatment for sleep disorders (particularly insomnia) is pharmacological. The efficacy of non‐drug interventions has been suggested to be slower than pharmacological methods, but with no risk of drug‐related tolerance or dependency. Cognitive and behavioural treatments for sleep problems aim to improve sleep by changing poor sleep habits, promoting better sleep hygiene practices and by challenging negative thoughts, attitudes and beliefs about sleep. 
+Objectives
+To assess the efficacy of cognitive‐behavioural interventions in improving sleep quality, duration and efficiency amongst older adults (aged 60 and above). 
+Search methods
+The following databases were searched: The Cochrane Library (Issue 1, 2002); MEDLINE (1966 ‐ January 2002); EMBASE (1980 ‐ January 2002), CINAHL (1982 ‐ January 2002); PsycINFO (1887 to 2002); National Research Register (NRR) (2002, Issue 1_. Bibliographies of existing reviews in the area, as well as of all trial reports obtained, were searched. Experts in the field were consulted. 
+Selection criteria
+Randomised controlled trials of cognitive behavioural treatments for primary insomnia where 80% or more of participants were over 60. Participants must have been screened to exclude those with dementia and/or depression. 
+Data collection and analysis
+Abstracts of studies identified in searches of electronic databases were read and assessed to determine whether they might meet the inclusion criteria. Data were analysed separately depending on whether results had been obtained subjectively or objectively. 
+Main results
+Six trials, including 282 participants with insomnia, examined the effectiveness of cognitive‐behavioural treatments (CBT) for sleep problems in this population. The final total of participants included in the meta‐analysis was 224. The data suggest a mild effect of CBT for sleep problems in older adults, best demonstrated for sleep maintenance insomnia. 
+Authors' conclusions
+When the possible side‐effects of standard treatment (hypnotics) are considered, there is an argument to be made for clinical use of cognitive‐behavioural treatments. Research is needed to establish the likely predictors of success with such treatments. As it may well be the case that the treatment efficacy of cognitive‐behavioural therapy itself is not durable, the provision of "top‐up" ("refresher" sessions of CBT training to improve durability of effect are worthy of investigation. 

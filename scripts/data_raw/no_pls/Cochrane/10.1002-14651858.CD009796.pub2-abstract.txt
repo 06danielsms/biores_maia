@@ -1,0 +1,14 @@
+Background
+Fibromyalgia (FM) is a clinically well‐defined chronic condition of unknown aetiology characterized by chronic widespread pain that often co‐exists with sleep disturbances, cognitive dysfunction and fatigue. Patients often report high disability levels and negative mood. Psychotherapies focus on reducing key symptoms, improving daily functioning, mood and sense of personal control over pain. 
+Objectives
+To assess the benefits and harms of cognitive behavioural therapies (CBTs) for treating FM at end of treatment and at long‐term (at least six months) follow‐up. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2013, Issue 8), MEDLINE (1966 to 28 August 2013), PsycINFO (1966 to 28 August 2013) and SCOPUS (1980 to 28 August 2013). We searched http://www.clinicaltrials.gov (web site of the US National Institutes of Health) and the World Health Organization Clinical Trials Registry Platform (ICTRP) (http://www.who.int/ictrp/en/) for ongoing trials (last search 28 August,2013), and the reference lists of reviewed articles. 
+Selection criteria
+We selected randomised controlled trials of CBTs with children, adolescents and adults diagnosed with FM. 
+Data collection and analysis
+The data of all included studies were extracted and the risks of bias of the studies were assessed independently by two review authors. Discrepancies were resolved by discussion. 
+Main results
+Twenty‐three studies with 24 study arms with CBTs were included. A total of 2031 patients were included; 1073 patients in CBT groups and 958 patients in control groups. Only two studies were without any risk of bias. The GRADE quality of evidence of the studies was low. CBTs were superior to controls in reducing pain at end of treatment by 0.5 points on a scale of 0 to 10 (standardised mean difference (SMD) ‐ 0.29; 95% confidence interval (CI) ‐0.49 to ‐0.17) and by 0.6 points at long‐term follow‐up (median 6 months) (SMD ‐0.40; 95% CI ‐0.62 to ‐0.17); in reducing negative mood at end of treatment by 0.7 points on a scale of 0 to 10 (SMD ‐ 0.33; 95% CI ‐0.49 to ‐0.17) and by 1.3 points at long‐term follow‐up (median 6 months) (SMD ‐0.43; 95% CI ‐0.75 to ‐0.11); and in reducing disability at end of treatment by 0.7 points on a scale of 0 to 10 (SMD ‐ 0.30; 95% CI ‐0.51 to ‐0.08) and at long‐term follow‐up (median 6 months) by 1.2 points (SMD ‐0.52; 95% CI ‐0.86 to ‐0.18). There was no statistically significant difference in dropout rates for any reasons between CBTs and controls (risk ratio (RR) 0.94; 95% CI 0.65 to 1.35). 
+Authors' conclusions
+CBTs provided a small incremental benefit over control interventions in reducing pain, negative mood and disability at the end of treatment and at long‐term follow‐up. The dropout rates due to any reason did not differ between CBTs and controls. 

@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane review first published in The Cochrane Library in Issue 1, 2010 and previously updated in 2011. 
+Tonsillectomy is the surgical removal of lymphoid tissue, the palatine tonsil, which is located at the back of the throat. It is still commonly performed for patients who have recurrent bouts of acute tonsillitis. Although tonsillectomy is considered a fairly minor procedure, pain and bleeding are two of the most common complications; either may delay recovery and can on occasion lead to hospital readmission. Postoperative tonsillectomy medication should provide an adequate reduction in morbidity while minimising side effects, therefore topical agents would seem to be an ideal, safe option. A number of mouthwashes and topical sprays are available which offer pain relief or can help to reduce bleeding in the immediate postoperative period. 
+Objectives
+To assess the effects of oral rinses, mouthwashes and sprays in improving recovery following tonsillectomy. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 4 July 2013. 
+Selection criteria
+We included randomised controlled trials in which oral rinses, mouthwashes and sprays, used pre‐ and postoperatively, have been compared with placebo in adults or children undergoing tonsillectomy, with or without adenoidectomy. 
+Data collection and analysis
+Two review authors selected trials for inclusion, assessed the risk of bias and extracted data independently. 
+Main results
+We included seven trials (593 participants; 397 children and 196 adults). The period of follow‐up ranged from 24 hours to two weeks. Few of the trials provided reliable data for the pre‐specified primary outcomes and none for the secondary outcomes. The risk of bias was high in most of the included trials. Lidocaine spray appeared to be more effective than saline spray at reducing the severity of pain until the third postoperative day. A small number of participants experienced a burning or stinging sensation with benzydamine spray but not sufficient to discontinue usage. 
+Authors' conclusions
+Poor reporting quality and inadequate data did not permit comprehensive and reliable conclusions to be made. Future trials should be well‐constructed and pay more attention to the methods used to assess outcomes, the timing of the assessments, and the quality of reporting and subsequent analysis of the data. 

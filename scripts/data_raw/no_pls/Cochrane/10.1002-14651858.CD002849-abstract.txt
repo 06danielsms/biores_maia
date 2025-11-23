@@ -1,0 +1,15 @@
+Background
+There are two reasons to believe anxiolytics might help in smoking cessation. Anxiety may be a symptom of nicotine withdrawal. Secondly, smoking could be due to an attempt to self‐medicate an anxiety problem. 
+Objectives
+The aim of this review is to assess the effectiveness of anxiolytic pharmacotherapy in aiding long term smoking cessation. The drugs include buspirone; diazepam; doxepin; meprobamate; ondansetron; and the beta‐blockers metoprolol, oxprenolol and propanolol. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group specialised register (most recent search October 2009), which includes trials indexed in MEDLINE, EMBASE, SciSearch and PsycINFO, and conference abstracts. 
+Selection criteria
+We considered randomized trials comparing anxiolytic drugs to placebo or an alternative therapeutic control for smoking cessation. We excluded trials with less than six months follow up. 
+Data collection and analysis
+We extracted data in duplicate on the type of study population, the nature of the drug therapy, the outcome measures, method of randomization, and completeness of follow up. 
+The main outcome measure was abstinence from smoking after at least six months follow up in patients smoking at baseline. We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available. Where appropriate, we performed meta‐analysis of relative risks using a fixed effect model. 
+Main results
+There was one trial each of the anxiolytics diazepam, meprobamate, metoprolol and oxprenolol. There were two trials of the anxiolytic buspirone. None of the trials showed strong evidence of an effect for any of these drugs in helping smokers to quit. However, confidence intervals were wide, and an effect of anxiolytics cannot be ruled out on current evidence. 
+Authors' conclusions
+There is no consistent evidence that anxiolytics aid smoking cessation, but the available evidence does not rule out a possible effect. 

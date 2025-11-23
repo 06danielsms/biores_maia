@@ -1,0 +1,15 @@
+Background
+Chloroquine (CQ), amodiaquine (AQ), and sulfadoxine‐pyrimethamine (SP) are inexpensive drugs, but treatment failure is a problem. Combination therapy may reduce treatment failure. CQ or AQ plus SP are affordable options of combination treatment, but there is debate about their effectiveness. 
+Objectives
+To assess the combination of CQ or AQ plus SP compared with SP alone for first‐line treatment of uncomplicated falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (April 2005), CENTRAL (The Cochrane Library Issue 2, 2005), MEDLINE (1966 to April 2005), EMBASE (1974 to April 2005), LILACS (1982 to April 2005), Science Citation Index (1981 to April 2005), African Index Medicus (1993 to 1998), and reference lists. We also contacted researchers at relevant organizations and a pharmaceutical company. 
+Selection criteria
+Randomized controlled trials in adults or children with uncomplicated Plasmodium falciparum malaria were eligible for inclusion. The main outcomes of interest were total and clinical failure at day 28 follow up and serious adverse events. 
+Data collection and analysis
+Two people independently applied the inclusion criteria. One author extracted data and another checked them independently. We used risk ratio (RR) and 95% confidence intervals (CI). 
+Main results
+Twelve trials (2107 participants) met the inclusion criteria. A meta‐analysis of five AQ trials (461 participants) showed a statistically significant reduction in total failure at day 28 with the combination therapy (RR 0.64, 95% CI 0.46 to 0.91), and meta‐analysis of three trials (384 participants) showed a significant reduction in clinical failure at day 28 (RR 0.23, 95% CI 0.11 to 0.49). The statistical significance in the total failure analysis was sensitive to losses to follow up. Data from two CQ trials showed no advantage for total failure with combination therapy at day 28. There was no evidence from the included trials of serious adverse events. 
+Authors' conclusions
+The evidence base is not strong enough to support firm conclusions. The available evidence suggests that AQ plus SP can achieve less treatment failure than SP, but this might depend on existing levels of parasite resistance to the individual drugs. 
+Addendum, 2008: The World Health Organization (in 2006) recommended that monotherapy should not be used for treating malaria. Therefore the authors do not intend to update this review. 

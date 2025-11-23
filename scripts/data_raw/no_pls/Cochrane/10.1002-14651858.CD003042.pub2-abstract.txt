@@ -1,0 +1,14 @@
+Background
+Cardiac tamponade may occur following cardiac surgery as a result of blood or fluid collecting in the pericardial space compressing the heart and reducing cardiac output. Mediastinal chest drains (including pericardial drains) are inserted as standard postoperative practice following cardiac surgery to assist the clearance of blood from the pericardial space. To prevent chest tubes from blocking and causing tamponade nurses manipulate them to prevent clots. Manipulation methods including milking, stripping, fanfolding and tapping may be applied to the tubes. Evidence is needed regarding the safest and most effective means of preventing chest tube blockage and cardiac tamponade. 
+Objectives
+To compare different methods of chest drain clearance (i.e. varying levels of suction or suction in combination with milking, stripping, fanfolding and tapping of chest drains) in preventing cardiac tamponade in patients following cardiac surgery. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 3 2009), MEDLINE (1966 to October 2009), EMBASE (1980 to October 2009), CINAHL (1982 to October 2009) and the metaRegister of Controlled Trials (mRCT) (13 October 2009) and reference lists of articles. No language restrictions were applied. 
+Selection criteria
+Randomised, quasi‐randomised or systematically allocated clinical trials of chest tube manipulation methods in adults and children with mediastinal chest drains following cardiac surgery. 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted data. Study authors were contacted for additional information where required. Adverse effects information was collected from the trials. 
+Main results
+Three studies with a total of 471 participants were included. There was no data which could be included in a meta‐analysis. This was due to inadequate data provision by two of the studies. Where adequate data were provided there were no common interventions or outcomes to pool. On the basis of single studies there was no evidence of a difference between groups on incidence of chest tube blockage, heart rate, cardiac tamponade or incidence of surgical re‐entry. 
+Authors' conclusions
+There are insufficient studies which compare differing methods of chest drain clearance to support or refute the relative efficacy of the various methods in preventing cardiac tamponade. Nor can the need to manipulate chest drains be supported or refuted by results from RCTs. 

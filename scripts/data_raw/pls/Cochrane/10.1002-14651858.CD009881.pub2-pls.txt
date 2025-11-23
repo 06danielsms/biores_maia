@@ -1,0 +1,13 @@
+Progesterone receptor modulators for endometriosis
+Review question 
+Researchers in the Cochrane Collaboration reviewed evidence on the effectiveness and safety of progesterone receptor modulators for women with endometriosis. 
+Background 
+Endometriosis is a disease of endometrial tissue (glands and stroma) outside the uterine cavity. It is oestrogen‐dependent and thus is seen primarily during the reproductive years. It can cause pain in the abdomen, generally during periods (menstruation) or associated with sexual intercourse. Progesterone receptor modulators have been advocated as one of the hormonal treatments for endometriosis. 
+Study characteristics 
+We found 10 randomised controlled trials including 960 women; the evidence is current to November 2016. 
+Key results 
+Three studies assessed mifepristone. Moderate‐quality evidence shows that mifepristone relieves dysmenorrhoea (painful periods) in women with endometriosis. Evidence suggests that if 40% of women taking placebo experience dysmenorrhoea, then between 3% and 10% of women taking mifepristone will do so. Low‐quality evidence suggests that mifepristone also relieves dyspareunia (pain during sexual intercourse). However, amenorrhoea (absence of menstrual periods) and hot flushes were common side effects of mifepristone. Nearly 90% of the mifepristone group had amenorrhoea, and 24% had hot flushes, although researchers reported only one event of each (1%) among women taking placebo. Evidence was insufficient to show differences in rates of nausea, vomiting, or fatigue, if present. 
+Comparisons of different doses of mifepristone were inconclusive, although evidence suggests that the 2.5 mg dose may be less effective than higher doses. 
+Other studies assessed other progesterone receptor modulators. Researchers compared gestrinone versus other treatments (danazol or leuprolin), ulipristal versus leuprolide acetate, and asoprisnil verus placebo. However, evidence was insufficient to allow firm conclusions regarding the safety and effectiveness of these interventions. 
+Quality of the evidence 
+The quality of the evidence ranged from moderate to low. The main limitations were serious risk of bias (associated with poor reporting of methods and high or unclear rates of attrition in most studies), very serious imprecision (associated with low event rates and wide confidence intervals), and indirectness (outcome assessed in a select subgroup of participants). 

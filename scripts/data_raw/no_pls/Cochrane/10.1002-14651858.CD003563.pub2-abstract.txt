@@ -1,0 +1,14 @@
+Background
+Humidity control measures in the home environment of patients with asthma have been recommended, since a warm humid environment favours the growth of house dust mites. However, there is no consensus about the usefulness of these measures. 
+Objectives
+To study the effect of dehumidification of the home environment on asthma control.
+Search methods
+The clinical trials registers of the Cochrane Collaboration and Cochrane Airways Group were searched. Searches were current as of March 2013. 
+Selection criteria
+Randomised controlled trials on the use of humidity control measures in the home environment of patients with asthma were evaluated for inclusion. 
+Data collection and analysis
+Data were extracted independently using a pre‐designed data extraction form by two review authors. 
+Main results
+A second trial has been added for the 2013 update of this review. The original open‐label trial compared an intervention consisting of mechanical ventilation heat recovery system with or without high efficiency vacuum cleaner fitted in 40 homes of patients with asthma who had positive tests for sensitivity to house dust mite. The new double‐blind trial also compared a mechanical ventilation heat recovery system with a placebo machine in the homes of 120 adults with allergy to house dust mite. The new trial, which was at low risk of bias, showed no significant difference in morning peak flow (mean difference (MD) 13.59; 95% confidence interval (CI) ‐2.66 to 29.84), which was the primary outcome of the trial. However, there was a statistically significant improvement in evening peak flow only (MD 24.56; 95% CI 8.97 to 40.15). There was no significant difference in quality of life, rescue medication, requirement for oral corticosteroids, visits to the GP, emergency department (ED) or hospitalisations for asthma. There was no significant difference in the house dust mite count and the antigen levels in the new trial, in contrast to the previous trial. 
+Authors' conclusions
+Evidence on clinical benefits of dehumidification using mechanical ventilation with dehumidifiers remains scanty, and the addition of a new double blind trial to this review does not indicate significant benefit in most measure of control of asthma from such environmental interventions. 

@@ -1,0 +1,14 @@
+Background
+Immunomodulatory drugs have been shown to be only modestly effective in clinically definite relapsing remitting multiple sclerosis (RRMS). It has been hypothesized that their efficacy could be higher if used at the first appearance of symptoms, that is in the clinically isolated syndromes (CIS) suggestive of demyelinating events, a pathology which carries a high risk to convert to clinically definite MS (CDMS). 
+Objectives
+The objective of this review was to assess the effects of immunomodulatory drugs compared to placebo in adults in preventing conversion from CIS to CDMS which means the prevention of a second attack. 
+Search methods
+We searched the Cochrane MS Group Trials Register (June 2007), Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2007), MEDLINE (January 1966 to June 2007), EMBASE (January 1974 to June 2007) and reference lists of articles. We also contacted manufacturers and researchers in the field. 
+Selection criteria
+The trials selected were double‐blind, placebo‐controlled, randomised trials of CIS patients treated with immunomodulatory drugs. 
+Data collection and analysis
+Study selection have been independently done by two reviewers. Two further reviewers independently assessed trial quality and extracted and analysed data. Study authors were contacted for additional informations. Adverse effects information was collected from the trials. 
+Main results
+Only three trials tested the efficacy of interferon (IFN) beta including a total of 1160 participants (639 treatment, 521 placebo); no trial tested the efficacy of glatiramer acetate (GA). The metanalyses showed that the proportion of patients converting to CDMS was significantly lower in IFN beta‐treated than in placebo‐treated patients both after one year (pooled OR 0.53; 95% CI, 0.40 to 0.71; p <0.0001) as well as after two years of follow‐up (pooled OR 0.52; 95% CI, 0.38 to 0.70; p <0.0001). Early treatment with IFN beta was associated with the side effect profile reported by the randomised controlled trials with this drug. Since side effects were reported with some heterogeneity in the three studies the metanalysis was possible only for the frequency of serious adverse events, not significantly different in IFN beta‐treated or placebo‐treated patients. 
+Authors' conclusions
+The efficacy of IFN beta treatment on preventing the conversion from CIS to CDMS was confirmed over two years of follow‐up. Since patients had some clinical heterogeneity (length of follow‐up, clinical findings of initial attack), it could be useful for the clinical practice to further analyse the efficacy of IFN beta treatment in different patient subgroups. 

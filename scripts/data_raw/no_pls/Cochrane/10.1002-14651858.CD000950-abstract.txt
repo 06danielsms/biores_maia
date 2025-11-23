@@ -1,0 +1,15 @@
+Background
+Carnitine, a quaternary amino acid, plays an important role in the oxidation of long chain fatty acids. Both breast milk and infant formulas contain carnitine. However, it is not routinely provided in parenteral nutrition solutions. Non supplemented parenterally fed infants have very low tissue carnitine levels. The clinical significance of this is uncertain. Carnitine deficiency may be an etiological factor in the limited ability of premature babies to utilize parenteral lipid. In vitro studies have suggested that fatty acid oxidation is impaired when the tissue carnitine levels fall below 10% of normal. Therefore relative carnitine deficiency may impair fatty acid oxidation, thus reducing the available energy and impairing growth. 
+Objectives
+The primary aim of this review is to determine whether carnitine supplementation of parenterally fed neonates will improve weight gain.  The secondary aims are to determine the effect on lipid tolerance and ketogenesis. 
+Search methods
+Computerised searches were carried out by both reviewers. Searches were made of Medline, Embase, The National Research Register (UK), the Cochrane Controlled Trials Register and expert informants. The MeSH headings used were carnitine and parenteral nutrition. 
+Selection criteria
+Only randomised trials were considered. Trials were included if they involved carnitine supplementation alone, parenterally fed newborn infants, and measured at least one outcome of interest (weight gain, plasma fatty acids, plasma triglycerides, quantity of lipid tolerated, respiratory quotient or beta hydroxybutyrate levels). 
+Data collection and analysis
+The two reviewers searched the literature separately and reached a consensus for inclusion of trials. Data were extracted and evaluated by the two reviewers independently of each other. Authors were contacted if possible to clarify or provide missing data. 
+Main results
+Fourteen studies were identified, six met the selection criteria. The results of the review are limited by the fact that the studies were generally short term and studied different outcomes. One study examined short term and long term weight gain, three reported only short term weight gain, three reported biochemical results in response to a short lipid challenge, and two reported results obtained during normal parenteral nutrition. 
+Among infants supplemented with carnitine, there was no evidence of effect on weight gain, lipid utilization or ketogenesis. 
+Authors' conclusions
+We found no evidence to support the routine supplementation of parenterally fed neonates with carnitine. 

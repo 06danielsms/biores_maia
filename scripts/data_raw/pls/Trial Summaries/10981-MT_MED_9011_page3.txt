@@ -1,0 +1,29 @@
+Clinical Study Results 
+
+What kind of study was this? 
+
+There were 2 groups in this study that participated at the same time. 
+
+Group 1 was "double-blind". This means none of the participants or the researchers knew which treatment the participants took. Some studies are done this way because knowing what treatment the participants are taking can affect the results of the study. When the study ended, the research sponsor found out which treatment each participant took so they could create a report of the study results. 
+
+A computer program was used to randomly choose the treatment each participant took in Group 1. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible. 
+
+In Group 1, the participants took verinurad and allopurinol or they took a placebo to look like verinurad and a placebo to look like allopurinol. A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure any of the effects they see in the participants who take the drug are actually caused by the drug. 
+
+Group 2 was "open-label". This means the researchers and the participants knew what the participants were taking. In Group 2, all of the participants took verinurad and allopurinol. The researchers had a special interest to look at safety in participants with Chinese ancestry. So, Group 2 had only participants of Chinese ancestry. 
+
+In this study, the participants took each of the treatments as a capsule by mouth. The doses were measured in milligrams, also known as mg. The chart below shows the treatments that were planned in the study. 
+
+Group 1:
+- 13 Chinese and Asian participants 
+- 9 participants took:
+  - 12mg of verinurad once a day for 8 days 
+  - 24mg of verinurad once a day for 7 days 
+  - 300mg of allopurinol once a day for 14 days 
+
+Group 2:
+- 9 Chinese participants 
+- 4 participants took:
+  - A placebo that looked like verinurad once a day for 7 days 
+  - A placebo that looked like allopurinol once a day for 14 days 
+  - 300mg of allopurinol once a day for 15 days

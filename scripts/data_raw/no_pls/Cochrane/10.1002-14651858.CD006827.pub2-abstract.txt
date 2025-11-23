@@ -1,0 +1,14 @@
+Background
+The perianal abscess is a common surgical problem. A third of perianal abscesses may manifest a fistula‐in‐ano which increases the risk of abscess recurrence requiring repeat surgical drainage. Treating the fistula at the same time as incision and drainage of the abscess may reduce the likelihood of recurrent abscess and the need for repeat surgery. However, this could affect sphincter function in some patients who may not have later developed a fistula‐in‐ano. 
+Objectives
+We aimed to review the available randomised controlled trial evidence comparing incision and drainage of perianal abscess with or without fistula treatment. 
+Search methods
+Randomised trials were identified from MEDLINE, EMBASE, the Cochrane Library, and reference lists of published papers and reviews. 
+Selection criteria
+Trials comparing outcome after fistula surgery with drainage of perianal abscess compared with drainage alone were included in the review. 
+Data collection and analysis
+The primary outcomes were recurrent or persistent abscess/fistula which may require repeat surgery and short‐term and long‐term incontinence. Secondary outcomes were duration of hospitalisation, duration of wound healing, postoperative pain, quality of life scores. For dichotomous variables, relative risks and their confidence intervals were calculated. 
+Main results
+We identified six trials, involving 479 subjects, comparing incision and drainage of perianal abscess alone versus incision and drainage with fistula treatment. Metaanalysis showed a significant reduction in recurrence, persistent abscess/fistula or repeat surgery in favour of fistula surgery at the time of abscess incision and drainage (RR=0.13, 95% Confidence Interval of RR = 0.07‐0.24). Transient manometric reduction in anal sphincter pressures, without clinical incontinence, may occur after treatment of low fistulae with abscess drainage. Incontinence at one year following drainage with fistula surgery was not statistically significant (pooled RR 3.06, 95% Confidence Interval 0.7‐13.45) with heterogeneity demonstrable between the trials (Chi2 =5.39,df=3, p=0.14, I2 =44.4%). 
+Authors' conclusions
+The published evidence shows fistula surgery with abscess drainage significantly reduces recurrence or persistence of abscess/fistula, or the need for repeat surgery. There was no statistically significant evidence of incontinence following fistula surgery with abscess drainage. This intervention may be recommended in carefully selected patients. 

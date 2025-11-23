@@ -1,0 +1,14 @@
+Background
+The steroid hormone, progesterone, inhibits contractions of the pregnant uterus at all gestations. Antiprogestins (including mifepristone) have been developed to antagonise the action of progesterone, and have a recognised role in medical termination of early or mid‐trimester pregnancy. Animal studies have suggested that mifepristone may also have a role in inducing labour in late pregnancy. 
+Objectives
+To determine the effects of mifepristone for third trimester cervical ripening or induction of labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register and reference lists of relevant papers (May 2009). 
+Selection criteria
+Clinical trials comparing mifepristone used for third trimester cervical ripening or labour induction with placebo/no treatment or other labour induction methods. 
+Data collection and analysis
+A strategy was developed to deal with the large volume and complexity of trial data relating to labour induction. This involved a two‐stage method of data extraction. For this update, two review authors independently assessed trial quality and extracted data. 
+Main results
+Ten trials (1108 women) are included. Compared to placebo, mifepristone treated women were more likely to be in labour or to have a favourable cervix at 48 hours (risk ratio (RR) 2.41, 95% confidence intervals (CI) 1.70 to 3.42) and this effect persisted at 96 hours (RR 3.40, 95% CI 1.96 to 5.92). They were less likely to need augmentation with oxytocin (RR 0.80, 95% CI 0.66 to 0.97). Mifepristone treated women were less likely to undergo caesarean section (RR 0.74, 95% CI 0.60 to 0.92) but more likely to have an instrumental delivery (RR 1.43, 95% CI 1.04 to 1.96). Women receiving mifepristone were less likely to undergo a caesarean section as a result of failure to induce labour (RR 0.40, 95% CI 0.20 to 0.80). There is insufficient evidence to support a particular dose but a single dose of 200 mg mifepristone appears to be the lowest effective dose for cervical ripening (increased likelihood of cervical ripening at 72 hours (RR 2.13, 95% CI 1.15 to 3.97). Abnormal fetal heart rate patterns were more common after mifepristone treatment (RR 1.85, 95% CI 1.17 to 2.93), but there was no evidence of differences in other neonatal outcomes. There is insufficient information on the occurrence of uterine rupture/dehiscence in the reviewed studies. 
+Authors' conclusions
+There is insufficient information available from clinical trials to support the use of mifepristone to induce labour. However, the studies suggest that mifepristone is better than placebo in reducing the likelihood of caesarean sections being performed for failed induction of labour; therefore, this may justify future trials comparing mifepristone with the routine cervical ripening agents currently in use. There is little information on effects on the baby. 

@@ -1,0 +1,14 @@
+Background
+Uterine fibroids are benign tumours that arise from individual smooth muscle cells of the uterus. Selective estrogen receptor modulators (SERMs) are estrogen receptor (ER) ligands that act as estrogens in some tissues while blocking estrogen activity in others. There have been many clinical studies of various SERMs for uterine fibroids. However, their effectiveness is controversial. 
+Objectives
+To evaluate the effectiveness and safety of selective estrogen receptor modulators in women with uterine fibroids. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, PubMed, EMBASE, the Register of Chinese trials developed by the Chinese Cochrane Centre, and the Chinese Med Database (Chinese Biomedical Disc), VIP, and China National Knowledge Infrastructure. We handsearched a number of journals and searched reference lists, and searched databases of ongoing trials and the Internet. The searches were conducted in March and April 2012. 
+Selection criteria
+We included randomised controlled studies of selective estrogen receptor modulators versus other forms of medical therapy, placebo or no treatment in women of reproductive age (18 to 45 years old) with confirmed uterine fibroids. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality. As the studies identified were not sufficiently similar, we did not do a meta‐analysis but summarised the data in a narrative format. 
+Main results
+Three studies involving 215 participants were included, the trial size varied from 25 to 100 women. The SERM in all cases was raloxifene. In one study women in both arms received gonadotrophin releasing hormone (GnRH) analogue. Comparison interventions included no treatment and placebo. Two of the three included studies found a significant benefit from raloxifene, but the third study found no benefit at three or six‐month follow‐up. The overall quality of the evidence was low or very low. All three studies mentioned adverse reactions but data were limited. 
+Authors' conclusions
+There is no consistent evidence from the limited number of studies that SERMs reduce the size of fibroids or improve clinical outcomes. Further studies are required to establish evidence of benefit of SERMs in treating women with uterine fibroids. This updated review did not find any new study for inclusion. 

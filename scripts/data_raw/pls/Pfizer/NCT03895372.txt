@@ -1,0 +1,53 @@
+What is moderate to severe plaque psoriasis?
+Moderate to severe plaque psoriasis is a skin disease characterized by red, scaly, raised patches (plaques) that may itch or burn. Moderate to severe plaque psoriasis can greatly affect the quality of life for patients.
+In clinical trials, psoriasis is measured using a tool called Psoriasis Area and Severity Index (PASI). PASI measures plaque psoriasis using the following items:
+- Amount of the body (body surface area [BSA]) that has patches (plaques)
+- Redness of patches
+- Thickness of patches
+- Level (degree) of scaling (extra flaky skin)
+What is PF-06826647?
+The study medication, PF-06826647, is a medication that researchers think may help with moderate to severe plaque psoriasis. PF-06826647 blocks a small protein (called tyrosine kinase 2; TYK2) that may cause inflammation and skin patches. When there are too many TYK2 proteins, inflammation and skin patches develop, as seen in psoriasis.
+What was the purpose of this study?
+- The primary purpose of this study was to compare the efficacy of multiple dose levels of PF-06826647 versus placebo. Efficacy means how well a drug improves a disease or condition. This study measured the proportion (how many out of the total) of participants with moderate to severe plaque psoriasis who had a reduction in their patches by 90% (90 out of 100) from the beginning of the study to Week 16. This measurement is called PASI90 (that means 90% or more PASI score reduction) for this study.
+- This study compared the effects of the study drug, PF-06826647, or a placebo to find out which improves moderate to severe plaque psoriasis.
+- Other purposes of this study were to provide additional safety and pharmacokinetic (PK) data. PK data means what amount of PF-06826647 was in the blood at various times.
+- Previous studies of PF-06826647 showed adequate safety and improvement of plaque psoriasis to support progression into additional clinical trials requiring longer-term therapy. This study explored whether an oral tablet containing PF-06826647 improves the signs and symptoms of moderate to severe psoriasis.
+- A placebo was used as the comparator to the study drug. A placebo does not have any medicine in it, but it looks just like the study medicine.
+How was the study done? Researchers tested PF-06826647 in groups of study participants during 2 periods of time: an Investigational Treatment Period (Weeks 0-16) and an Extension Treatment Period (Weeks 16 -40). 
+- Participants were randomized to receive placebo or 1 of 4 doses of study medication (PF-06826647, oral daily dose of 50 mg, 100 mg, 200 mg, or 400mg) during the Investigational Treatment Period for up to 16 weeks. Randomization means that participants were assigned to a treatment group by chance. Twice as many participants were assigned to the placebo, PF-06826647 200 mg, or PF-06826647 400 mg groups compared to the PF-06826647 50 mg or PF-06826647 100 mg groups.
+- During the Investigational Treatment Period, the study participants and researchers did not know who took PF-06826647 or who took the placebo. This is known as a “blinded” study. Study participants were assigned to each group by chance alone. The treatment doses in the Extension Treatment Period were also randomized and blinded.
+- All participants completing the 16-week Investigational Treatment Period and who were able to continue to the 24-week Extension Treatment Period (which was from Week 16 to Week 40) received oral daily doses of PF-06826647 (either 200 mg or 400 mg). There was no placebo in the Extension Treatment Period.
+- The participants continuing into the Extension Treatment Period who were originally assigned to the PF-06826647 200 mg and PF-06826647 400 mg treatment groups continued to receive their same doses.
+- Participants who received placebo, PF-06826647 50 mg, or PF-06826647 100mg in the Investigational Treatment Period were randomly assigned to receive either PF-06826647 200 mg or PF-06826647 400 mg during the Extension Treatment Period.
+- Researchers then compared the results of study participants taking the study medication to the results of study participants taking a placebo.
+
+Study Design
+Where did this study take place? The Sponsor ran this study at 36 locations in 4 countries in North America, Europe, and Asia. The study locations were in Canada (7 locations), Japan (6 locations), Poland (6 locations), and the United States (17 locations).
+When did this study take place? It began on 27 June 2019 and ended on 26 November 2020.
+Who participated in this study? The study included participants who were adults at least 18 years old, were diagnosed with moderate to severe plaque psoriasis for at least 6 months, and had stopped other psoriasis treatments.
+- A total of 122 men participated (69% of participants)
+- A total of 56 women participated (31% of participants)
+- All participants were between the ages of 18 years old and 72 years old
+
+Participants were to be treated in the Investigational Treatment Period until Week 16. Of the 179 participants who started the study, 153 participants (85%) finished the Investigational Treatment Period. One (1) participant of the 179 participants who started the study was not treated and is not counted in the number who were treated; 178 participants were treated in the Investigational Treatment Period.
+- 25 participants (14%) did not finish the Investigational Treatment Period because:
+   - 8 participants (4%) had a medical problem
+   - 3 participants (2%) left before the study was over for other reasons
+   - 1 participant (1%) did not respond to the study medication
+   - 1 participant (1%) was lost to follow-up
+   - 1 participant (1%) had an unplanned change to the study design
+   - 11 participants (6%) left before the study was over by their choice or a doctor decided it was best for a participant to stop being in the study.
+
+A total of 153 participants entered the Extension Treatment Period (Week 16 to Week 40). A total of 152 of these participants were treated in the Extension Treatment Period, and 130 (85%) participants completed the Extension Treatment Period.
+- 23 participants (13%) did not finish the Extension Treatment Period because: 
+   - 8 participants (5%) had a medical problem
+   - 1 participant (1%) left because of pregnancy
+   - 7 participants (4%) left before the study was over by their choice
+   - 7 participants (4%) left before the study was over for other reasons
+
+How long did the study last? Study participants were in the study for 16 weeks during the Investigational Treatment Period and 24 weeks during the Extension Treatment Period for a total of 40 weeks, plus a screening period of up to 6 weeks and a follow-up period of 4 weeks. The entire study took about 1½ years to complete.
+- The study was completed as planned, including during the Covid-19 pandemic period.
+- 7 participants left the study during the Covid-19 pandemic period (2 in the Investigational Treatment Period and 5 during the Extension Treatment Period); the data from these 7 participants were not analyzed for this report.
+- 5 participants reported missed doses or delayed doses due to the pandemic.
+
+When the study ended in November 2020, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

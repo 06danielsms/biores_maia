@@ -1,0 +1,16 @@
+Background
+Acute respiratory tract infections (ARTIs) are common in children and can involve both upper and lower airways. Many children experience frequent ARTI episodes or recurrent respiratory tract infections (RRTIs) in early life, which creates challenges for paediatricians, primary care physicians, parents and carers of children. 
+In China, Astragalus (Huang qi), alone or in combination with other herbs, is used by Traditional Chinese Medicine (TCM) practitioners in the form of a water extract, to reduce the risk of ARTIs; it is believed to stimulate the immune system. Better understanding of the therapeutic mechanisms of Astragalus may provide insights into ARTI prevention, and consequently reduced antibiotic use. 
+Objectives
+To assess the effectiveness and safety of oral Astragalus for preventing frequent episodes of acute respiratory tract infections (ARTIs) in children in community settings. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, Issue 12, 2015), MEDLINE (Ovid) (1946 to 31 December 2015), Embase (Elsevier) (1974 to 31 December 2015), AMED (Ovid) (1985 to 31 December 2015), Chinese National Knowledge Infrastructure (CNKI) (1979 to 31 December 2015) and Chinese Scientific Journals full text database (CQVIP) (1989 to 31 December 2015), China Biology Medicine disc (CBM 1976 to 31 December 2015) and Wanfang Data Knowledge Service Platform (WanFang) (1998 to 31 December 2015). 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing oral Astragalus as a sole Chinese herbal preparation with placebo to prevent frequent episodes of ARTIs in children. 
+Data collection and analysis
+We used standard Cochrane methodological procedures for this review. We assessed search results to identify relevant studies. We planned to extract data using standardised forms. Disagreements were to be resolved through discussion. Risk of bias was to be assessed using the Cochrane 'Risk of bias' tool. We planned to use mean difference (MD) or standardised mean difference (SMD) for continuous data and risk ratio (RR) or odds ratio (OR) to analyse dichotomous data, both with 95% confidence intervals (CIs). 
+Main results
+We identified 6080 records: 3352 from English language databases, 2724 from Chinese databases, and four from other sources. Following initial screening and deduplication, we obtained 120 full‐text papers for assessment. Of these, 21 were not RCTs; 55 did not meet the inclusion criteria because: participants were aged over 14 years; definition was not included for recurrent or frequent episodes;Astragalus preparation was not an intervention; Astragalus preparation was in the formula but was not the sole agent; the Astragalus preparation was not administered orally; or Astragalus was used for treatment rather than prevention of ARTI. A further 44 studies were excluded because they were not placebo‐controlled, although other inclusion criteria were fulfilled. 
+No RCTs met our inclusion criteria.
+Authors' conclusions
+We found insufficient evidence to enable assessment of the effectiveness and safety of oral Astragalus as a sole intervention to prevent frequent ARTIs in children aged up to 14 years. 

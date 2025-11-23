@@ -1,0 +1,14 @@
+Background
+It is widely believed that the method of payment of physicians may affect their clinical behaviour. Although payment systems may be used to achieve policy objectives (e.g. cost containment or improved quality of care), little is known about the effects of different payment systems in achieving these objectives. 
+Objectives
+To evaluate the impact of different methods of payment (capitation, salary, fee for service and mixed systems of payment) on the clinical behaviour of primary care physicians (PCPs). 
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care Group specialised register; the Cochrane Controlled Trials Register; MEDLINE (1966 to October 1997); BIDS EMBASE (1980 to October 1997); BIDS ISI (1981 to October 1997); EconLit (1969 to October 1997); HealthStar (1975 to October 1997) Helmis (1984 to October 1997); health economics discussion paper series of the Universities of York, Aberdeen, Sheffield, Bristol, Brunel, and McMaster; Swedish Institute of Health Economics; RAND corporation; and reference lists of articles. 
+Selection criteria
+Randomised trials, controlled before and after studies and interrupted time series analyses of interventions comparing the impact of capitation, salary, fee for service (FFS) and mixed systems of payment on primary care physician satisfaction with working environment; cost and quantity of care; type and pattern of care; equity of care; and patient health status and satisfaction. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed study quality.
+Main results
+Four studies were included involving 640 primary care physicians and more than 6400 patients. There was considerable variation in study setting and the range of outcomes measured. FFS resulted in more primary care visits/contacts, visits to specialists and diagnostic and curative services but fewer hospital referrals and repeat prescriptions compared with capitation. Compliance with a recommended number of visits was higher under FFS compared with capitation payment. FFS resulted in more patient visits, greater continuity of care, higher compliance with a recommended number of visits, but patients were less satisfied with access to their physician compared with salaried payment. 
+Authors' conclusions
+It is noteworthy that so few studies met the inclusion criteria. There is some evidence to suggest that the method of payment of primary care physicians affects their behaviour, but the findings' generalisability is unknown. More evaluations of the effect of payment systems on PCP behaviour are needed, especially in terms of the relative impact of salary versus capitation payments. 

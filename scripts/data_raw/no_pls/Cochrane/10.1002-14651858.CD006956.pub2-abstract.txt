@@ -1,0 +1,17 @@
+Background
+Crohn's disease (CD) is a chronic inflammatory bowel disease that most commonly involves the terminal ileum and colon (55 percent). Surgical treatment is required in approximately 70 percent of patients. Multiple procedures and repeat operations are required in 30 ‐ 70 percent of all patients (Duepree 2002) but the disease remains incurable. 
+Laparoscopy has gained wide acceptance in gastrointestinal surgery with potential advantages of faster return to normal activity and diet, reduced hospital stay, reduced postoperative pain, better cosmesis (Duepree 2002, Dunker 1998, Milsom 2001, Reissman 1996), improved social and sexual interaction (Albaz 2000) and its use is accepted in benign and malignant colorectal diseases. Laparoscopic surgery offers additional advantage of smaller abdominal fascial wounds, low incidence of hernias, and decreased rate of adhesive small‐bowel obstruction (Albaz 2000) compared with conventional surgery reducing the need for non‐disease‐related surgical procedures in CD population. 
+There are concerns about missing occult segments of disease and critical proximal strictures due to limited tactile ability, earlier recurrence due to possible reduced immune response induced by laparoscopy, technical difficulty due to fragile inflamed bowel and mesentery and the existence of adhesions, fistulas, and abscesses (Uchikoshi 2004). It is therefore important to evaluate the potential benefits and risks of laparoscopic surgery versus open surgery in patients with small bowel CD (Lowney 2005). 
+Objectives
+To determine if there is a difference in the perioperative outcomes and re‐operation rates for disease recurrence following laparoscopic surgery compared to open surgery in small bowel CD. 
+Search methods
+Published and unpublished randomised controlled trials were searched for in the following electronic databases:  The Cochrane Central Register of Controlled Trials (CENTRAL) 2010 issue 2  The Cochrane Database of Systematic Reviews, and Database of Abstracts of Reviews of Effects (DARE) 2010 issue 2  The Cochrane Colorectal Cancer Group Controlled Trials Register  Ovid MEDLINE (1990 to 2010)  EMBASE (1990 to 2010)  Health Technology Assessment (HTA) Database (1990 to 2010) 
+Selection criteria
+Randomised controlled trials (RCT) comparing laparoscopic and open surgery for small bowel CD were included. 
+Data collection and analysis
+Two reviewers independently assessed the studies and extracted data. RevMan 5.0 was used for statistical analysis. 
+Main results
+Two RCTs comparing laparoscopic and open surgery for small bowel CD were identified. Long term outcomes of the patients in both the trials were published separately and these were included in the review. 
+Laparoscopic surgery appeared to be associated with reduced number of wound infections (1/61 vs 9/59), reoperation rates for non disease related complications (3/57 vs 7/54 ) but the difference was not statistically significant [p values were 0.23 and 0.19 respectively]. There was no statistically significant difference between any of the compared outcomes between laparoscopic and open surgery in the management of small bowel CD. 
+Authors' conclusions
+Laparoscopic surgery for small bowel CD may be as safe as the open operation. There was no significant difference in the perioperative outcomes and the long term reoperation rates for disease‐related or non‐disease related complications of CD. 

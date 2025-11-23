@@ -1,0 +1,35 @@
+Clinical Study Results
+
+The table below shows how many participants had adverse reactions.
+
+|                        | 0.7 mg of AZD7594 | 1.6 mg of AZD7594 | 720 μg of AZD7594 |
+|------------------------|-------------------|-------------------|-------------------|
+| through a nebulizer    | 4.2% (1)          | 0.0% (0)          | 4.2% (1)          |
+| through a DPI          | 0.0% (0)          | 0.0% (0)          | 0.0% (0)          |
+
+How many participants had adverse reactions?
+
+- Participants had adverse reactions to:
+    - 0.7 mg of AZD7594 through a nebulizer: 4.2% (1) out of 24 participants.
+    - 1.6 mg of AZD7594 through a nebulizer: 0.0% (0) out of 24 participants.
+    - 720 μg of AZD7594 through a DPI: 4.2% (1) out of 24 participants.
+
+How many participants had serious adverse reactions?
+
+- Participants had serious adverse reactions:
+    - 0.7 mg of AZD7594 through a nebulizer: 0.0% (0) out of 24 participants.
+    - 1.6 mg of AZD7594 through a nebulizer: 0.0% (0) out of 24 participants.
+    - 720 μg of AZD7594 through a DPI: 0.0% (0) out of 24 participants.
+
+How many participants left this study due to adverse reactions?
+
+- Participants left this study due to adverse reactions:
+    - 0.7 mg of AZD7594 through a nebulizer: 0.0% (0) out of 24 participants.
+    - 1.6 mg of AZD7594 through a nebulizer: 0.0% (0) out of 24 participants.
+    - 720 μg of AZD7594 through a DPI: 0.0% (0) out of 24 participants.
+
+What adverse reactions happened during this study?
+
+There were 2 adverse reactions that happened during this study:
+- A reduced sense of taste happened in 4.2% of participants, which was 1 out of 24 participants. This adverse reaction happened while this participant was taking 0.7 mg of AZD7594 through a nebulizer.
+- Vertigo, which is a condition in which a person feels they are in motion even though they are not, happened in 4.2% of participants, which was 1 out of 24 participants. This adverse reaction happened while this participant was taking 720 μg of AZD7594 through a DPI.

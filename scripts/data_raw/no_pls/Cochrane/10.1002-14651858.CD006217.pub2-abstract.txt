@@ -1,0 +1,16 @@
+Background
+Inhaled corticosteroids are an integral part of asthma management, and act as an anti‐inflammatory agent in the airways of the lung. These agents confer significant benefit in terms of symptom management and improvement in lung function, but may also cause harm in terms of local and systemic side‐effects. Ciclesonide is a novel steroid that has efficient distribution and release properties that mean it can be taken once daily, making it potentially useful in ongoing asthma management. 
+Objectives
+To assess the efficacy of inhaled ciclesonide in adults and children with chronic asthma. 
+Search methods
+We searched the Cochrane Airways Group register of trials with pre‐defined terms. Additional searches of CENTRAL and PubMed were undertaken. The literature searches for this review are current up to June 2007. 
+Selection criteria
+Randomised parallel or crossover studies were eligible for the review. We included studies comparing ciclesonide with placebo, and we also included studies comparing ciclesonide at different doses. 
+Data collection and analysis
+Two authors assessed studies for inclusion in the review, extracted data independently and checked each others' work. We contacted study investigators in order to obtain additional data. Extracted data were entered into RevMan 4.2 and analysed as fixed effect mean differences for continuous data, and fixed effect risk ratios for dichotomous data. 
+Main results
+Eighteen trials (reporting 20 study comparisons) met the review entry criteria. We report findings from 18 group comparisons where data were available (6343 participants, of whom 1692 were children). 
+Ciclesonide versus placebo: The short duration of the included studies means that there is a lack of data with respect to the impact of ciclesonide on asthma exacerbations. At doses of 100 mcg/d or less up to 400 mcg/d in mild to moderate asthma, ciclesonide improved lung function, asthma symptoms and rescue inhaler use, compared with placebo. 
+Dose response outcomes: Comparisons of 100 versus 200 mcg/d, 100 versus 400 mcg/d and 400 versus 800 mcg/d did not yield significant differences in lung function outcomes.  Adverse event data were not available in sufficient detail to permit assessment of the safety profile of this drug. 
+Authors' conclusions
+Ciclesonide was more effective than placebo, in the short term, in improving lung function in patients with mild to moderate asthma previously treated with inhaled corticosteroids. There remain questions as to dose response, and the lack of data on the longer term impact on exacerbations and safety profile should be addressed in future studies. 

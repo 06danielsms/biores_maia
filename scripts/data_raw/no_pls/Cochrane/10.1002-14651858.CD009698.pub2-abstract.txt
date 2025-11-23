@@ -1,0 +1,18 @@
+Background
+Kidney transplantation is the treatment of choice for patients with end‐stage kidney disease (ESKD). Rising ESKD prevalence has substantially increased numbers of kidney transplants performed. Maintenance immunosuppression is long‐term treatment to prevent acute rejection and deterioration of graft function. Although immunosuppressive treatment using drugs such as calcineurin inhibitors (CNIs, such as cyclosporin A (CsA) or tacrolimus) reduce acute rejection rates, long‐term allograft survival rates are not significantly enhanced. CNI‐related adverse effects contribute to reduced quality of life among kidney transplant recipients. Adjuvant immunosuppressive therapies that could offer a synergetic immunosuppressive effect, while minimising toxicity and reducing side effects, have been explored recently. 
+Cordyceps sinensis, (Cordyceps) a traditional Chinese medicine, is used as an adjuvant immunosuppressive agent in maintenance treatment for kidney transplantation recipients in China, but there is no consensus about its use as an adjuvant immunosuppressive treatment for kidney transplantation recipients. 
+Objectives
+This review aimed to evaluate the benefits and potential adverse effects of Cordyceps as an adjuvant immunosuppressive treatment for kidney transplant recipients. 
+Search methods
+We searched the Cochrane Kidney and Transplant Specialised Register through contact with the Trials Search Co‐ordinator to 7 September 2015 using search terms relevant to this review. We also searched Chinese language databases and other resources. 
+Selection criteria
+We included all randomised controlled trials (RCTs) and quasi‐RCTs evaluating the benefits and potential side effects of Cordyceps sinensis for kidney transplant recipients, irrespective of blinding or publication language. An inclusion criterion was that baseline immunosuppressive therapy must be the same in all study arms. 
+Data collection and analysis
+Two authors extracted data. We derived risk ratios (RR) for dichotomous data and mean differences (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+Our review included five studies (six reports; 447 participants) that assessed Cordyceps. Limited reporting of study methods and data meant that all included studies were assessed as having unclear risks of bias. The studies investigated Cordyceps compared with azathioprine (AZA) (4 studies, 265 participants) and Cordyceps plus low dose CsA versus standard dose CsA (1 study, 182 participants). 
+Compared with AZA, Cordyceps showed no significant difference in graft or patient survival, but improved graft function and may reduce acute rejection episodes. Anaemia, leucopenia, and liver function improved, and incidence of infection may also be reduced. 
+Compared with low dose CsA versus standard dose CsA, Cordyceps did not demonstrate any statistically significant differences in patient survival, graft loss, acute rejection or allograft function. There was limited low quality evidence to suggest benefits in pulmonary infection, serum albumin, serum uric acid levels, CNI nephrotoxicity and hepatotoxicity. 
+None of the included studies reported on quality of life, and follow‐up was short‐term (three months to one year). Given the limited number of small studies, and high risk of bias, results should be interpreted with caution. 
+Authors' conclusions
+Although there were some favourable aspects associated with Cordyceps, longer‐term studies are needed to clarify any benefit‐harm trade‐off. Future studies should investigate the use of Cordyceps in combination with other immunosuppressive agents such as tacrolimus, mycophenolate mofetil or induction therapy. Such studies also need to be appropriately sized and powered. 

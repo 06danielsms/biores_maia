@@ -1,0 +1,10 @@
+Peritoneal dialysis for acute kidney injury
+What is the issue? 
+Acute kidney injury (AKI) is an abrupt and usually reversible decline in the glomerular filtration rate. No particular form of renal replacement therapy (treatment that replaces the normal blood‐filtering function of the kidneys) for patients with AKI has been clearly shown to have a benefit. The choice of renal replacement therapy is dependent upon a variety of factors including availability, the expertise of the clinician, haemodynamic stability and so on. 
+What did we do? 
+This review aimed to evaluate the benefits and harms of peritoneal dialysis (PD) for patients with AKI compared with extracorporeal therapy (e.g. haemodialysis) or other types of PD. We searched the Cochrane Kidney and Transplant Register of Studies. 
+What did we find? 
+Six randomised controlled trials (484 patients) met our inclusion criteria. Five studies compared high volume PD with daily haemodialysis, extended daily haemodialysis, or continuous renal replacement therapy, and one study compared different intensities of PD on AKI patients. Compared to extracorporeal therapy, PD probably made little or no difference to death due to any cause or recovery of kidney function. PD probably slightly reduces the amount of fluid removal compared to extracorporeal therapy, and probably made little or no difference to infectious complications. It is uncertain whether PD compared to extracorporeal therapy has any effects on weekly delivered Kt/V, correction of acidosis, or duration of dialysis. 
+One study (61 participants) reported little or no difference to death due to any cause, kidney function recovery, or infection between low and high and intensity PD. Weekly delivered Kt/V and fluid removal was lower with low compared to high intensity PD. 
+Conclusions 
+There is currently not enough evidence to determine whether there are significant differences in death due to any cause or recovery of kidney function between patients treated with PD, extracorporeal therapies, or intensity of PD. 

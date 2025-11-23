@@ -1,0 +1,20 @@
+Clinical Study Results
+
+Group 1: At each MEDI0382 dose, the study doctors checked if any participants had any changes in their health. Then, the researchers decided whether or not to give the participants a higher dose of MEDI0382. The researchers stopped increasing the dose of MEDI0382 if the participants had health problems.
+
+Group 2: The participants in Group 2 got the same increasing doses of MEDI0382 or the placebo as the participants in Group 1. But, the participants in Group 2 only got those doses of MEDI0382 that had not caused participants in Group 1 any health problems. Group 2 started the study at least 7 days after Group 1.
+
+In both groups, the researchers found that the highest dose of 600 μg of MEDI0382 did not cause the participants any significant health problems. So, once the participants got 600 μg of MEDI0382 for 7 days, they continued to get this dose once a day for another 3 weeks. The participants getting the placebo continued getting the placebo for these 3 weeks.
+
+In total, the participants got study treatment for up to 11 weeks during the study.
+
+What happened during the study?
+
+Before the participants got study treatment, they visited the study site about 2 times. At these visits, the study doctors checked the overall health of the participants to make sure that they could join the study. The study doctors:
+- did a physical exam, measured the participants’ weight, and checked vital signs
+- took blood and urine samples
+- asked about the participants’ medical history
+- checked the participants’ heart health using an electrocardiogram, also called an ECG
+- gave the participants a device called a glucometer to measure blood glucose levels by pricking their finger
+- fitted a wearable sensor called a continuous glucose monitoring device, or a CGM device, to monitor the participants’ blood glucose levels
+- fitted a device to monitor the participants’ blood pressure for 24 hours

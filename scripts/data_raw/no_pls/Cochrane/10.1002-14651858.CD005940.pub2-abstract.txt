@@ -1,0 +1,14 @@
+Background
+Repeat digital cervical assessment (RDCA ‐ examination of the cervix with a finger) has been promoted as a routine intervention in the antenatal clinic as a screening test for the risk of preterm birth (that is, birth occurring before 37 weeks of gestation). 
+Objectives
+To assess the effect of repeat digital cervical assessment during pregnancy for the risk of preterm birth and other adverse effects for mother and baby. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (September 2009) and CENTRAL (The Cochrane Library 2009, Issue 3). 
+Selection criteria
+All known randomized clinical trials comparing repeat digital cervical assessment with internal examination limited to clinical indication or no internal examination. We have not included studies where repeat cervical assessment is only a component of complex interventions targeted at decreasing preterm birth. 
+Data collection and analysis
+We evaluated relevant studies for meeting the inclusion criteria and methodological quality without considering their results. Three review authors extracted the data. For all data analyses, we entered data based on the principle of intention to treat. We calculated odds ratios and 95% confidence intervals for dichotomous data. 
+Main results
+We included two trials that enrolled a total of 7163 women. Preterm birth before 37 weeks, was reported in both trials. The odds ratio for birth before 37 weeks was 1.05 (95% confidence interval 0.85 to 1.31; two trials, 6070 women). One trial (involving 5836 women) found no significant difference between the two treatment arms for the following outcomes: preterm birth before 34 weeks; preterm, prelabour rupture of membranes; hospital admission before 37 weeks; caesarean section; use of tocolytic drugs; low birthweight; very low birthweight, stillbirth, neonatal death, neonatal intensive care admissions; use of health services. The other prespecified outcomes were not evaluated in the included studies. We did not conduct the planned subgroup analyses due to insufficient data. 
+Authors' conclusions
+We found no evidence to support the use of RDCA in pregnancy to reduce the prevalence of preterm birth. We have found insufficient evidence to assess adverse effects of the intervention. 

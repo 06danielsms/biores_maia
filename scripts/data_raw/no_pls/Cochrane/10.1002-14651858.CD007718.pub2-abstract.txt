@@ -1,0 +1,14 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a disease of irreversible airways obstruction in which patients often suffer exacerbations. Sometimes these exacerbations need hospital care: telehealthcare has the potential to reduce admission to hospital when used to administer care to the pateint from within their own home. 
+Objectives
+To review the effectiveness of telehealthcare for COPD compared with usual face‐to‐face care. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register, which is derived from systematic searches of the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, AMED, and PsycINFO; last searched January 2010. 
+Selection criteria
+We selected randomised controlled trials which assessed telehealthcare, defined as follows: healthcare at a distance, involving the communication of data from the patient to the health carer, usually a doctor or nurse, who then processes the information and responds with feedback regarding the management of the illness. The primary outcomes considered were: number of exacerbations, quality of life as recorded by the St George's Respiratory Questionnaire, hospitalisations, emergency department visits and deaths. 
+Data collection and analysis
+Two authors independently selected trials for inclusion and extracted data. We combined data into forest plots using fixed‐effects modelling as heterogeneity was low (I2 < 40%). 
+Main results
+Ten trials met the inclusion criteria. Telehealthcare was assessed as part of a complex intervention, including nurse case management and other interventions. Telehealthcare was associated with a clinically significant increase in quality of life in two trials with 253 participants (mean difference ‐6.57 (95% confidence interval (CI) ‐13.62 to 0.48); minimum clinically significant difference is a change of ‐4.0), but the confidence interval was wide. Telehealthcare showed a significant reduction in the number of patients with one or more emergency department attendances over 12 months; odds ratio (OR) 0.27 (95% CI 0.11 to 0.66) in three trials with 449 participants, and the OR of having one or more admissions to hospital over 12 months was 0.46 (95% CI 0.33 to 0.65) in six trials with 604 participants. There was no significant difference in the OR for deaths over 12 months for the telehealthcare group as compared to the usual care group in three trials with 503 participants; OR 1.05 (95% CI 0.63 to 1.75). 
+Authors' conclusions
+Telehealthcare in COPD appears to have a possible impact on the quality of life of patients and the number of times patients attend the emergency department and the hospital. However, further research is needed to clarify precisely its role since the trials included telehealthcare as part of more complex packages. 

@@ -1,0 +1,14 @@
+Background
+Rituximab, a monoclonal anti‐CD20 antibody, in combination with chemotherapy improves overall survival compared to chemotherapy alone when used for induction therapy for patients with newly diagnosed or relapsed indolent lymphoma. Randomised controlled trials have demonstrated that maintenance treatment with rituximab prolongs progression‐free survival but evidence of effect on overall survival is lacking. 
+Objectives
+To evaluate the effects of maintenance treatment with rituximab on overall survival in patients with follicular lymphoma. 
+Search methods
+We electronically searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 2), PubMed (June 2007), EMBASE (June 2007), LILACS (June 2007), databases of ongoing trials, and relevant conference proceedings. References of identified trials were searched and the first author of each included trial was contacted. 
+Selection criteria
+Randomised controlled trials that compared rituximab maintenance therapy to observation, treatment at relapse (no maintenance therapy), or other maintenance treatment. 
+Data collection and analysis
+Two authors independently appraised the quality of each trial and extracted data from included trials. Hazard ratios (HR) and relative risks with 95% confidence intervals (CI) were estimated and pooled using the fixed‐effect model. 
+Main results
+Five trials including 1056 adult patients were included in the review. Four trials (895 patients) were included in the analysis of overall survival. Patients treated with rituximab as maintenance therapy had a significantly better overall survival compared to observation alone (HR 0.53, 95% CI 0.38 to 0.73). 
+Authors' conclusions
+Rituximab maintenance therapy should be added to standard therapy of patients with relapsed or refractory follicular lymphoma following a successful induction treatment. The drug should be given either as four weekly infusions every six months or as a single infusion every two to three months. Future randomised controlled trials should explore the effect of different protocols of rituximab maintenance therapy on overall survival. 

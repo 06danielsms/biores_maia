@@ -1,0 +1,18 @@
+Background
+This review is an update of a previously published review in The Cochrane Database of Systematic Reviews Issue 3, 2009 on single dose oral dexibuprofen (S(+)‐ibuprofen) for acute postoperative pain in adults. 
+Dexibuprofen is a non‐steroidal anti‐inflammatory drug (NSAID) licensed for use in rheumatic disease and other musculoskeletal disorders in the UK, and widely available in other countries worldwide. It is an active isomer of ibuprofen. This review sought to evaluate the efficacy and safety of oral dexibuprofen in acute postoperative pain, using clinical studies in patients with established pain, and with outcomes measured primarily over four to six hours, using standard methods. This type of study has been used for many decades to establish that drugs have analgesic properties. 
+Objectives
+To assess the efficacy and adverse effects of single dose oral dexibuprofen for acute postoperative pain using methods that permit comparison with other analgesics evaluated in standardised studies using almost identical methods and outcomes. 
+Search methods
+Searches were run for the original review in 2009 and subsequent searches have been run in August 2013. We did not find any new published studies as a result of the updated search. 
+We searched for randomised studies of dexibuprofen in acute postoperative pain in MEDLINE, EMBASE, and CENTRAL (The Cochrane LIbrary), and for clinical trial reports and synopses of published and unpublished studies from Internet sources. 
+Selection criteria
+Randomised, double blind, placebo‐controlled clinical studies of oral dexibuprofen for relief of acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently assessed study quality and extracted data. We extracted pain relief or pain intensity data and converted it into the dichotomous outcome of number of participants with at least 50% pain relief over four to six hours, from which relative risk and number needed to treat to benefit (NNT) were calculated. Numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. We collected information on adverse events and withdrawals. 
+Main results
+New data were identified for this update in one unpublished trial synopsis (BR1160 1995) in addition to the single study (Dionne 1998) that was included in the original review. In both studies dexibuprofen gave high levels of response, with 51/96 (53%) participants experiencing at least 50% pain relief with dexibuprofen 200 mg and 35/50 (70%) with dexibuprofen 400 mg, compared with 75/147 (51%) with racemic ibuprofen 400 mg, and 12/62 (13%) with placebo. The numbers of participants was too small to calculate NNTs with any meaning. The median time to additional analgesic use was greater than four hours for all active therapies, but about two hours for placebo. 
+Adverse events were generally of mild or moderate intensity and consistent with events normally associated with anaesthesia and surgery. There were no serious adverse events or deaths. 
+Additional data did not alter the conclusions from the earlier review.
+Authors' conclusions
+The information from these two studies in acute postoperative pain suggested that dexibuprofen may be a useful analgesic, but at doses not very different from racemic ibuprofen, for which considerably more evidence exists. 

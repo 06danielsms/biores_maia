@@ -1,0 +1,17 @@
+Background
+In individuals with cystic fibrosis there are no established targets for participation in physical activity, nor have any ideal strategies to promote participation in physical activity been identified 
+Objectives
+To evaluate the effect of treatment to increase participation in physical activity in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register using the terms 'physiotherapy and exercise'. 
+Date of the most recent search: 05 December 2013.
+Additionally, we conducted searches of the electronic databases MEDLINE, CINAHL (Ebscohost), PsycINFO (OvidSP) and the Physiotherapy Evidence Database (PEDro). We also searched for potentially relevant, completed but unpublished studies, on several clinical trials registers. 
+Date of the most recent searches: 10 September 2012.
+Selection criteria
+All randomised and quasi‐randomised controlled studies which investigated strategies designed to promote increased participation in daily physical activity for individuals with cystic fibrosis. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, assessed the risk of bias and extracted data. Any disagreements were resolved by discussion and consensus, or in arbitration with a third author. 
+Main results
+Four studies (199 participants) met the inclusion criteria and were predominantly conducted in children with cystic fibrosis. Only one study had a combined cohort of adult and paediatric participants. The description of study methods was inadequate to assess the risk of bias, particularly with regard to blinding of assessors and selective reporting. One study was conducted in an inpatient setting with follow up in the outpatient setting; while the remaining three studies were conducted in individuals with stable respiratory disease in the outpatient setting. All included studies used exercise training to promote participation in physical activity, with the duration of the intervention period ranging from 18 days to three years. No improvement in physical activity participation was reported with any intervention period less than or equal to six months. Improvements in physical activity participation were only seen where follow up occurred beyond 12 months. There was no significant impact on quality of life from any of the intervention strategies. 
+Authors' conclusions
+Although participation in physical activity is generally regarded as beneficial for people with cystic fibrosis, there is a lack of evidence regarding strategies to promote the uptake and the continued participation in physical activity for this population. This review provides very limited evidence that activity counselling and exercise advice, undertaken over at least six months, to engage in a home exercise programme may result in improved physical activity participation in people with cystic fibrosis. Further research is needed to determine the effect of strategies such as health coaching or telemedicine applications, in promoting the uptake and adherence to regular participation in physical activity. In addition, establishing the ideal duration of any interventions that promote physical activity, including exercise training programmes, will be important in addressing issues relating to participation in physical activity for people with cystic fibrosis. 

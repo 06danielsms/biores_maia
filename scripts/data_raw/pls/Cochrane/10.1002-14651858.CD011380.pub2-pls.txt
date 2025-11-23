@@ -1,0 +1,20 @@
+Treatments for infantile seborrhoeic dermatitis (including cradle cap), an inflammatory, scaly skin condition 
+Review question 
+How effective (in terms of cure and improving quality of life) and safe are treatments for infantile seborrhoeic dermatitis (ISD) in children from birth up to 24 months of age, when compared with each other, no treatment, or placebo (an identical in appearance but inactive treatment)? 
+Background 
+ISD is an inflammatory scaly skin condition that can appear soon after birth, and generally lasts weeks to months. When it affects the scalp, it is commonly called 'cradle cap'. The condition affects infants of all ethnic backgrounds and climate zones, with up to 71% of infants affected within the first three months of life. 
+While the cause of cradle cap is unclear, factors that play a role include yeast growth on the skin, naturally occurring oils on the skin, and presence of maternal hormones in the child's body after birth. ISD is usually mild and does not cause distress to the child. However, it can concern parents. 
+Treatments promoted for children affected by ISD include softening agents, followed by mechanical scale removal (shampooing and combing), as well as the treatments used for adult seborrhoeic dermatitis such as antifungals and corticosteroids. Unlike seborrhoeic dermatitis in adults, there are uncertainties regarding safety and effectiveness of ISD treatments. 
+Study characteristics 
+We included six studies which were small with 310 infants, of whom 297 were included for analysis. The studies were short (10 to 42 days), and generally poor quality. Studies were in different countries, and, where stated, in paediatric clinics. Where stated in three studies, 60% were boys (144 boys among 241 infants). Most infants were aged under seven months; two were aged seven and 12 years. ISD severity where described was mild to moderate; one study included two participants with severe ISD. 
+The treatments tested included: oral biotin (a B group vitamin) compared to placebo; trademarked creams or gels compared to placebo (or a control group); and steroid lotion or ointment compared to licochalcone (Chinese liquorice) cream and eosin (a red staining agent). 
+Four studies had support from pharmaceutical companies: in three studies, a company supplied the intervention product; a company assisted with statistical analysis in one study; one employed a study author; and one had authors who were consultants to the pharmaceutical company. 
+The evidence is current to 22 May 2018.
+Key results 
+Two trials assessed oral biotin versus placebo. One study only assessed duration of rash, and the other only reported that there was no differences between groups. Thus, it was unclear which treatment was more effective. 
+In the two trials assessing trademarked skin products versus placebo, there was similar improvement in severity between Promiseb cream (96%) and placebo (92%). One trial assessed lactamide MEA gel plus shampoo versus shampoo only. Reduction of surface area covered and severity of rash was slightly higher in the gel group (81.4%) compared with shampoo only (70.2%). 
+When comparing hydrocortisone 1% lotion with licochalcone 0.025% lotion in one study, cure rates, as a sign of severity, were also similar (95.8% with hydrocortisone versus 97.1% with licochalcone). Reduction in body surface area affected was similar when comparing flumethasone pivalate 0.02% ointment (9%) versus eosin 2% aqueous solution (7%). 
+Only two trials reported side effects, including one case of increased skin redness with licochalcone, while in the study comparing lactamide MEA gel plus shampoo versus shampoo only there were no specific side effects reported. 
+No studies measured improvement in quality of life.
+Quality of the evidence 
+The quality of the evidence was downgraded to very low for all outcome measures in this review due to serious concerns with how the studies were conducted (risk of bias), how the outcomes were measured and reported, differences between the assessed treatments, and the small number of participants included. Thus, we cannot be certain of their accuracy. 

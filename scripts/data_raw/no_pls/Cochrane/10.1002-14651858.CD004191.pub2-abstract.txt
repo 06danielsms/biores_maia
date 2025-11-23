@@ -1,0 +1,18 @@
+Background
+Anorexia nervosa (AN), bulimia nervosa (BN), binge eating disorder (BED) and eating disorder not otherwise specified (EDNOS) are common and disabling disorders. Many patients experience difficulties accessing specialist psychological treatments. Pure self‐help (PSH: self‐help material only) or guided self‐help (GSH: self‐help material with therapist guidance), may bridge this gap. 
+Objectives
+Main objective:  Evaluate evidence from randomised controlled trials (RCTs) / controlled clinical trials (CCTs) for the efficacy of PSH/GSH with respect to eating disorder symptoms, compared with waiting list or placebo/attention control, other psychological or pharmacological treatments (or combinations/augmentations) in people with eating disorders. 
+Secondary objective:  Evaluate evidence for the efficacy of PSH/GSH regarding comorbid symptomatology and costs. 
+Search methods
+CCDANCTR‐Studies and CCDANCTR‐References were searched in November 2005, other electronic databases were searched, relevant journals and grey literature were checked, and personal approaches were made to authors. 
+Selection criteria
+Published/unpublished RCTs/CCTs evaluating PSH/GSH for any eating disorder.
+Data collection and analysis
+Data was extracted using a customized spreadsheet. Relative Risks (RR) were calculated from dichotomous data and weighted/standardized mean differences (WMD/SMD) from continuous data, using a random effects model. 
+Main results
+Twelve RCTs and three CCTs were identified, all focusing on BN, BED, EDNOS or combinations of these, in adults, using manual‐based PSH/GSH across various settings. 
+Primary comparisons:  At end of treatment, PSH/GSH did not significantly differ from waiting list in abstinence from bingeing (RR 0.72, 95% CI 0.47 to 1.09), or purging (RR 0.86, 95% CI 0.68 to 1.08), although these treatments produced greater improvement on other eating disorder symptoms, psychiatric symptomatology and interpersonal functioning but not depression. 
+Compared to other formal psychological therapies, PSH/GSH did not differ significantly at end of treatment or follow‐up in improvement on bingeing and purging (RR 0.99, 95% CI 0.75 to 1.31), other eating disorder symptoms, level of interpersonal functioning or depression. There were no significant differences in treatment dropout. 
+Secondary comparisons:  One small study in BED found that cognitive‐behavioural GSH compared to a non‐specific control treatment produced significantly greater improvements in abstinence from bingeing and other eating disorder symptoms. Studies comparing PSH with GSH found no significant differences between treatment groups at end of treatment or follow‐up. Comparison between different types of PSH/GSH found significant differences on eating disorder symptoms but not on bingeing/purging abstinence rates. 
+Authors' conclusions
+PSH/GSH may have some utility as a first step in treatment and may have potential as an alternative to formal therapist‐delivered psychological therapy. Future research should focus on producing large well‐conducted studies of self‐help treatments in eating disorders including health economic evaluations, different types and modes of delivering self‐help (e.g. computerised versus manual‐based) and different populations and settings. 

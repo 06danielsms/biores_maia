@@ -1,0 +1,16 @@
+Inhaling antibiotics to treat lung infection in people with cystic fibrosis
+Review question 
+We reviewed the evidence for the benefit of inhaled antibiotics against persistent Pseudomonas aeruginosa infection in people with cystic fibrosis. 
+Background 
+Cystic fibrosis is an inherited disease which results in abnormal mucus in several parts of the body. The main part of the body affected is the lungs which are susceptible to infection by certain bacteria. Infection causes inflammation which results in progressive damage to the lungs. As people with cystic fibrosis get older, they are more likely to become infected on a long‐term basis with Pseudomonas aeruginosa. This is the most common cause of chronic lung infection in people with CF. 
+We wanted to find out whether antibiotics targeting Pseudomonas aeruginosa would reduce the effects of infection when they are inhaled into the lungs. We wanted to learn whether this treatment would improve lung function, quality of life and survival. We also looked for any harmful effects. 
+Search date 
+The evidence is current to: 13 February 2018.
+Trial characteristics 
+The review included 18 trials with 3042 people with cystic fibrosis aged between five and 56 years of age. The trials lasted from three months to 33 months. Eleven of these trials compared inhaled antibiotics with placebo (an inhaled substance without the medication in it) and people were selected for one treatment or the other randomly. Eight of the trials compared one inhaled antibiotic with either a different inhaled antibiotic or a different schedule of the same inhaled antibiotic. One of the trials compared an antibiotic to placebo as well as to a different antibiotic and so fell into both groups. 
+Key results 
+Results from four trials showed that when compared to placebo, inhaled antibiotics improved lung function and reduced the number of times the people with cystic fibrosis had a worsening of symptoms (exacerbation). We did not find enough evidence to be able to comment on how these antibiotics affect quality of life, height and weight, or survival. 
+Where the trials compared different inhaled antibiotics, there was only one trial in each of the eight comparisons. In one trial we found that aztreonam improved lung function more than tobramycin, but no important differences were found in the other trials with regard to lung function. 
+Important side effects that were related to the treatment were not very common in the trials, but they were less common with tobramycin than with other antibiotics. 
+Quality of the evidence 
+The trials that we included in this review were very different in the way that they measured how well the lungs work after treatment and how often people experienced a sudden worsening of symptoms. That made it difficult for us to combine the results of different trials to strengthen our evidence. We thought the overall quality of evidence was low for most outcomes, mainly due to risks of bias within the trials and low event rates meaning results were not precise. 

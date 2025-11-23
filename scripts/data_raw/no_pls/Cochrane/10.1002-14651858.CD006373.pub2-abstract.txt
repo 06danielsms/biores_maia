@@ -1,0 +1,15 @@
+Background
+Poor voice quality due to functional dysphonia can lead to a reduced quality of life. In occupations where voice use is substantial it can lead to a loss of employment. 
+Objectives
+To evaluate the effectiveness of interventions to treat functional dysphonia in adults.
+Search methods
+We searched MEDLINE (PubMed, 1950 to 2006), EMBASE (1974 to 2006), CENTRAL (The Cochrane Library, Issue 2 2006), CINAHL (1983 to 2006), PsychINFO (1967 to 2006), Science Citation Index (1986 to 2006) and the Occupational Health databases OSH‐ROM (to 2006). The date of the last search was 5th April 2006. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions evaluating the effectiveness of treatments targeted at adults with functional dysphonia. For work‐directed interventions interrupted time series and prospective cohort studies were also eligible. 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality. Meta‐analysis was performed where appropriate. 
+Main results
+We identified six randomised controlled trials including a total of 163 participants in intervention groups and 141 controls. One trial was high quality. Interventions were grouped into 1) Direct voice therapy 2) Indirect voice therapy 3) Combination of direct and indirect voice therapy and 4) Other treatments: pharmacological treatment and vocal hygiene instructions given by phoniatrist. 
+No studies were found evaluating direct voice therapy on its own. One study did not show indirect voice therapy on its own to be effective when compared to no intervention. There is evidence from three studies for the effectiveness of a combination of direct and indirect voice therapy on self‐reported vocal functioning (SMD ‐1.07; 95% CI ‐1.94 to ‐0.19), on observer‐rated vocal functioning (WMD ‐13.00; 95% CI ‐17.92 to ‐8.08) and on instrumental assessment of vocal functioning (WMD ‐1.20; 95% CI ‐2.37 to ‐0.03) when compared to no intervention. The results of one study also show that the remedial effect remains significant for at least 14 weeks on self‐reported vocal functioning (SMD ‐0.51; 95% CI ‐0.87 to ‐0.14) and on observer‐rated vocal functioning (Buffalo Voice Profile) (WMD ‐0.80; 95% CI ‐1.14 to ‐0.46). There is also limited evidence from one study that the number of symptoms may remain lower for a year. The combined therapy with biofeedback was not shown to be more effective than combined therapy alone in one study nor was pharmacological treatment found to be more effective than vocal hygiene instructions given by phoniatrist in one study. Publication bias may have influenced the results. 
+Authors' conclusions
+Evidence is available for the effectiveness of comprehensive voice therapy comprising both direct and indirect therapy elements. Effects are similar in patients and in teachers and student teachers screened for voice problems. Larger and methodologically better studies are needed with outcome measures that match treatment aims. 

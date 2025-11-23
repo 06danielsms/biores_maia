@@ -1,0 +1,14 @@
+Background
+Foot ulcers in people with diabetes are a prevalent and serious global health issue. Wound dressings are regarded as important components of ulcer treatment, with clinicians and patients having many different types to choose from including hydrocolloid dressings. There is a range of different hydrocolloids available including fibrous‐hydrocolloid and hydrocolloid (matrix) dressings. A clear and current overview of current evidence is required to facilitate decision‐making regarding dressing use. 
+Objectives
+To compare the effects of hydrocolloid wound dressings with no dressing or alternative dressings on the healing of foot ulcers in people with diabetes. 
+Search methods
+For this first update, in April 2013, we searched the following databases the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. There were no restrictions based on language or date of publication. 
+Selection criteria
+Published or unpublished randomised controlled trials (RCTs) that have compared the effects on ulcer healing of hydrocolloid with alternative wound treatments in the treatment of foot ulcers in people with diabetes. 
+Data collection and analysis
+Two review authors independently performed study selection, risk of bias assessment and data extraction. 
+Main results
+We included five studies (535 participants) in the review: these compared hydrocolloids with basic wound contact dressings, foam dressings, alginate dressings and a topical treatment. Meta‐analysis of two studies indicated no statistically significant difference in ulcer healing between fibrous‐hydrocolloids and basic wound contact dressings: risk ratio 1.01 (95% CI 0.74 to 1.38). One of these studies found that a basic wound contact dressing was more cost‐effective than a fibrous‐hydrocolloid dressing. One study compared a hydrocolloid‐matrix dressing with a foam dressing and found no statistically significant difference in the number of ulcers healed. There was no statistically significant difference in healing between an antimicrobial (silver) fibrous‐hydrocolloid dressing and standard alginate dressing; an antimicrobial dressing (iodine‐impregnated) and a standard fibrous hydrocolloid dressing or a standard fibrous hydrocolloid dressing and a topical cream containing plant extracts. 
+Authors' conclusions
+Currently there is no research evidence to suggest that any type of hydrocolloid wound dressing is more effective in healing diabetic foot ulcers than other types of dressing or a topical cream containing plant extracts. Decision makers may wish to consider aspects such as dressing cost and the wound management properties offered by each dressing type e.g. exudate management. 

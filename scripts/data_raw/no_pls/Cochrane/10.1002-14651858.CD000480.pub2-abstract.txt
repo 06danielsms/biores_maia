@@ -1,0 +1,14 @@
+Background
+Vasoactive and neuroprotective drugs such as vinpocetine are used to treat stroke in some countries. 
+Objectives
+To assess the effect of vinpocetine in acute ischaemic stroke.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched February 2007), MEDLINE (1966 to February 2007) and Scopus (1960 to February 2007). We also searched the Internet Stroke Center Stroke Trials Registry, Google Scholar, the science‐specific search engine Scirus and Wanfang Data, the leading information provider in China. We contacted researchers in the field and four pharmaceutical companies that manufacture vinpocetine. Searches were complete to February 2007. 
+Selection criteria
+Unconfounded randomised trials of vinpocetine compared with placebo, or any other reference treatment, in people with acute ischaemic stroke. We included trials if treatment started no later than 14 days after stroke onset. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria. One review author extracted the data, which was then checked by the second review author. We assessed trial quality. The primary outcome measure was death or dependency. 
+Main results
+We included two trials, involving a total of 70 participants. Data for 63 participants were reported in the two trials combined. The rate of death or dependency did not differ between the treatment and placebo groups at one and three months. The 95% confidence intervals for the outcome measures were wide and included the possibility of both significant benefit and significant harm. No adverse effects were reported. 
+Authors' conclusions
+There is not enough evidence to evaluate the effect of vinpocetine on survival or dependency in patients with acute ischaemic stroke. 

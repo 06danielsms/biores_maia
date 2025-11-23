@@ -1,0 +1,14 @@
+Background
+In 8 to 29% of patients with colorectal carcinoma, obstruction is the main symptom at diagnosis, and 85% of patients undergoing emergency colorectal surgery have obstruction from colorectal carcinoma. The prognosis of patients who undergo emergency surgery for obstruction is often poor. So far, two types of surgical approach have been used for this condition: primary resection (primary anastomosis or Hartmann's procedure) with simultaneous treatment of carcinoma and obstruction, or staged resection (treatment of the obstruction prior to resection). However, neither strategy has been found to have any advantages over the other. 
+Objectives
+To ascertain whether primary resection in patients with obstruction from left colorectal carcinoma has advantages over staged resection in terms of morbidity and mortality. 
+Search methods
+Electronic database searches of Cochrane Controlled Trials Register, Medline, Cancerlit, Embase. Hand searching of the most important journals in the fields of oncology and surgery from 2003 and onward until the time of writing. 
+Selection criteria
+Randomised Clinical Trials (RCT) and Controlled Clinical Trials (CCT), in which a group of patients who undergo primary resection for intestinal obstruction from left primary colorectal carcinoma is compared with a group of patients who undergo staged resection for the same condition. Since only one study of this type was available, we considered all other studies, except for case‐controls, on the basis of the best possible available evidence.  Studies were considered without language restrictions. 
+Data collection and analysis
+Two reviewers (GLDS, CG) examined all the citations and abstracts derived from the electronic search strategy. Reports of potentially relevant trials were retrieved in full. Both reviewers independently applied the selection criteria to trials reports. Reviewers were not blind to the names of institutions, journals or authors of trials. A third opinion (SP, ML) was obtained to resolve disagreements. 
+Main results
+We identified 2043 citations: Medline 1205, Embase 635, Cancerlit 203. One study for potential inclusion was identified, but was then excluded (Kronborg 1995). 
+Authors' conclusions
+The limited number of identified trials together with their methodological weaknesses do not allow a reliable assessment of the role of either therapeutic strategy in the treatment of patients with bowel obstruction from colorectal carcinoma. It would appear advisable to conduct high quality large scale RCT to establish which treatment is more effective. However, it is doubtful whether they could be carried out in a timely and satisfactory way in this particular surgical context. 

@@ -1,0 +1,16 @@
+Background
+A cervical stitch has been used to prevent preterm deliveries in women with previous second trimester pregnancy losses, or other risk factors such as short cervix on digital or ultrasound examination. 
+Objectives
+To assess effectiveness and safety of prophylactic cerclage (before the cervix has dilated), emergency cerclage (where cervices have started to shorten and dilate) and then labour halted, and to determine whether a particular technique of stitch insertion is better than others. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (July 2002). We handsearched congress proceedings of International and European society meetings of feto‐maternal medicine, recurrent miscarriage and reproductive medicine. We contacted researchers in the field. We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register on 2 November 2009 and added the results to the awaiting classification section. 
+Selection criteria
+All randomised trials comparing cervical cerclage with expectant management or no cerclage during pregnancy and trials comparing one technique with another or with other interventions were included. Quasi randomised trials were excluded. 
+Data collection and analysis
+Two reviewers independently used prepared data extraction forms. Any discrepancy was resolved by discussion or by a third reviewer. Further clarification was sought from trial authors when required. Results were reported as relative risks using fixed or random effects model. 
+Main results
+Six trials with a total of 2175 women were analysed. Prophylactic cerclage was compared with no cerclage in four trials. There was no overall reduction in pregnancy loss and preterm delivery rates, although a small reduction in births under 33 weeks' gestation was seen in the largest trial (relative risks 0.75, 95% confidence interval 0.58 to 0.98). Cervical cerclage was associated with mild pyrexia, increased use of tocolytic therapy and hospital admissions but no serious morbidity. Two trials examined the role of therapeutic cerclage when ultrasound examination revealed short cervix. Pooled results failed to show a reduction in total pregnancy loss, early pregnancy loss or preterm delivery before 28 and 34 weeks in women assigned to cervical cerclage. 
+Authors' conclusions
+The use of a cervical stitch should not be offered to women at low or medium risk of mid trimester loss, regardless of cervical length by ultrasound. The role of cervical cerclage for women who have short cervix on ultrasound remains uncertain as the numbers of randomised women are too few to draw firm conclusions. 
+There is no information available as to the effect of cervical cerclage or its alternatives on the family unit and long term outcome. 
+[Note: The 23 citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

@@ -1,0 +1,14 @@
+Background
+People with hyperglycaemia concomitant with an acute stroke have greater mortality, stroke severity, and functional impairment when compared with those with normoglycaemia at stroke presentation. This is an update of a Cochrane Review first published in 2011. 
+Objectives
+To determine whether intensively monitoring insulin therapy aimed at maintaining serum glucose within a specific normal range (4 to 7.5 mmol/L) in the first 24 hours of acute ischaemic stroke influences outcome. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (September 2013), CENTRAL (The Cochrane Library 2013, Issue 8), MEDLINE (1950 to September 2013), EMBASE (1980 to September 2013), CINAHL (1982 to September 2013), Science Citation Index (1900 to September 2013), and Web of Science (ISI Web of Knowledge) (1993 to September 2013). We also searched ongoing trials registers and SCOPUS. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing intensively monitored insulin therapy versus usual care in adults with acute ischaemic stroke. 
+Data collection and analysis
+We obtained a total of 1565 titles through the literature search. Two review authors independently selected the included articles and extracted the study characteristics, study quality, and data to estimate the odds ratio (OR) and 95% confidence interval (CI), mean difference (MD) and standardised mean difference (SMD) of outcome measures. We resolved disagreements by discussion. 
+Main results
+We included 11 RCTs involving 1583 participants (791 participants in the intervention group and 792 in the control group). We found that there was no difference between the treatment and control groups in the outcomes of death or dependency (OR 0.99, 95% CI 0.79 to 1.23) or final neurological deficit (SMD ‐0.09, 95% CI ‐0.19 to 0.01). The rate of symptomatic hypoglycaemia was higher in the intervention group (OR 14.6, 95% CI 6.6 to 32.2). In the subgroup analyses of diabetes mellitus (DM) versus non‐DM, we found no difference for the outcomes of death and disability or neurological deficit. The number needed to treat was not significant for the outcomes of death and final neurological deficit. The number needed to harm was nine for symptomatic hypoglycaemia. 
+Authors' conclusions
+After updating the results of our previous review, we found that the administration of intravenous insulin with the objective of maintaining serum glucose within a specific range in the first hours of acute ischaemic stroke does not provide benefit in terms of functional outcome, death, or improvement in final neurological deficit and significantly increased the number of hypoglycaemic episodes. Specifically, those people whose glucose levels were maintained within a tighter range with intravenous insulin experienced a greater risk of symptomatic and asymptomatic hypoglycaemia than those people in the control group. 

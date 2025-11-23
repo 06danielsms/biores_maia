@@ -1,0 +1,14 @@
+Background
+Neuroleptic drugs with potent D‐2 receptor blocking properties have been the traditional treatment for tics caused by Tourette Syndrome. Pimozide is the most studied of these. Use of these medications is declining because of concerns about side effects, and new atypical neuroleptics are now available. The true benefit and risks associated with pimozide compared to other drugs is not known. 
+Objectives
+To evaluate the efficacy and harms of pimozide in comparison to placebo or other medications in the treatment of tics in Tourette Syndrome. 
+Search methods
+We cross‐referenced pimozide and its proprietary names with Tourette Syndrome and its derivations, as MeSH headings and as text words, and searched the Cochrane Movement Disorders Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 4), MEDLINE (1950‐April 2007), and EMBASE (1980‐April 2007). Reference lists of relevant articles were reviewed for additional trials. 
+Selection criteria
+All randomized, controlled, double blind studies comparing pimozide to placebo or other medications for the treatment of tics in Tourette Syndrome were considered for inclusion in this review. Both parallel group and crossover studies of children or adults, at any dose and for any duration, were included. 
+Data collection and analysis
+Data was abstracted independently by two authors onto standardized forms and disagreements were resolved by discussion. 
+Main results
+Six randomized controlled trials were included (total 162 participants, age range 7 to 53 years).  Pimozide was compared with: placebo and haloperidol (two trials), placebo (one trial), haloperidol (one trial), and risperidone (two trials). Methodological quality was rated ‘fair’ for all studies. Studies used different outcome measurement scales for assessing tic severity and adverse effects. Significant clinical heterogeneity made meta‐analysis inappropriate. Pimozide was superior to placebo in three studies, though it caused more side effects than placebo in one of these. Pimozide was inferior to haloperidol in one of three studies (the other two showed no significant difference between the drugs), which also showed significantly fewer side effects associated with pimozide. No significant differences between pimozide and risperidone were detected. 
+Authors' conclusions
+Pimozide is an effective treatment for tics in Tourette Syndrome, though the number of trials comparing its effect to placebo and other drugs is limited. Trials of longer duration (minimum six months) are needed to investigate the longer‐term effects of pimozide compared to atypical neuroleptics.  Future trials should use the Yale Global Tic Severity Scale to assess the main outcome measure, and quantify adverse events with the Extrapyramidal Symptoms Rating Scale. 

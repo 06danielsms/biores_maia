@@ -1,0 +1,15 @@
+Background
+This is an update of a review first published in The Cochrane Library in Issue 4, 2008, and updated in Issue 3, 2012. Celecoxib is a selective cyclo‐oxygenase‐2 (COX‐2) inhibitor usually prescribed for the relief of chronic pain in osteoarthritis and rheumatoid arthritis. Celecoxib is believed to be associated with fewer upper gastrointestinal adverse effects than conventional non‐steroidal anti‐inflammatory drugs (NSAIDs). Its effectiveness in acute pain was demonstrated in the earlier reviews. 
+Objectives
+To assess analgesic efficacy and adverse effects of a single oral dose of celecoxib for moderate to severe postoperative pain in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Database, and ClinicalTrials.gov. The most recent search was to 31 May 2013. 
+Selection criteria
+We included randomised, double‐blind, placebo‐controlled trials (RCTs) of adults prescribed any dose of oral celecoxib or placebo for acute postoperative pain. 
+Data collection and analysis
+Two review authors assessed studies for quality and extracted data. We converted summed pain relief (TOTPAR) or pain intensity difference (SPID) into dichotomous information, yielding the number of participants with at least 50% pain relief over four to six hours. We used this to calculate the relative benefit (RB) and number needed to treat to benefit (NNT), for one patient to achieve at least 50% of maximum pain relief with celecoxib who would not have done so with placebo. We used information on use of rescue medication to calculate the proportion of participants requiring rescue medication and the weighted mean of the median time to use. 
+Main results
+Ten studies (1785 participants) met the inclusion criteria. The two new studies in this update had been identified in the earlier update, but data were not available. There remain three potentially relevant unpublished studies for which data are not available at this time. 
+The NNT for celecoxib 200 mg and 400 mg compared with placebo for at least 50% of maximum pain relief over four to six hours was 4.2 (95% confidence interval (CI) 3.4 to 5.6) and 2.6 (95% CI 2.3 to 3.0) respectively. The median time to use of rescue medication was 6.6 hours with celecoxib 200 mg, 8.4 hours with celecoxib 400 mg, and 2.3 hours with placebo. The proportion of participants requiring rescue medication over 24 hours was 74% with celecoxib 200 mg, 63% for celecoxib 400 mg, and 91% for placebo. The NNT to prevent one patient using rescue medication was 4.8 (95% CI 3.5 to 7.7) and 3.5 (95% CI 2.9 to 4.6) for celecoxib 200 mg and 400 mg respectively. Adverse events were generally mild to moderate in severity, and were experienced by a similar proportion of participants in the celecoxib and placebo groups. One serious adverse event that was probably related to celecoxib was reported. 
+Authors' conclusions
+Single‐dose oral celecoxib is an effective analgesic for postoperative pain relief. Indirect comparison suggests that the 400 mg dose has similar efficacy to ibuprofen 400 mg. 

@@ -1,0 +1,29 @@
+How well does pentoxifylline treat intermittent claudication?
+What is intermittent claudication? 
+Intermittent claudication is cramping pain in your lower leg that happens when you walk and usually goes away after a few minutes of rest. Both legs may be affected at the same time, although the pain may be worse in one leg. It happens because there is not enough blood flowing to the leg muscles. It is a symptom of peripheral arterial disease: a common condition in which fatty deposits build‐up on the walls of arteries (blood vessels) and restrict the flow of blood through them. 
+How is intermittent claudication treated? 
+Intermittent claudication is usually treated with exercise and medicines that reduce the chance of blood clots in a blocked blood vessel, or that reduce symptoms and help people to walk further. People with serious claudication may need to have surgery. 
+Why we did this Cochrane Review 
+Pentoxifylline is a medicine taken orally (by mouth) that makes the blood less thick and sticky. This helps blood to flow more easily through small vessels such as arteries, and lets more oxygen reach the muscles. Pentoxifylline is licensed for treating intermittent claudication, although more evidence of its benefits is needed before its use is recommended in treatment guidelines. 
+What did we do? 
+We searched for studies that looked at the use of pentoxifylline to treat intermittent claudication. We wanted to find out if pentoxifylline: 
+– could help people to walk further, by measuring how far they could walk before feeling pain in their legs; 
+– affected the relationship of blood pressure at the ankle compared with that in the arm (ankle‐brachial pressure index (ABI) – a measure of peripheral arterial disease); 
+– affected people's quality of life (well‐being); and
+– caused any side effects.
+We looked for randomised controlled studies, in which the treatments people received were decided at random. This type of study usually gives the most reliable evidence about the effects of a treatment. 
+Search date 
+We included evidence published up to 28 January 2020.
+What we found 
+We found 24 studies in 3377 people with intermittent claudication, conducted mostly in Europe and the USA. Seventeen studies compared pentoxifylline treatment with a dummy treatment (placebo); seven studies compared pentoxifylline with another medicine. The studies lasted from four weeks to 40 weeks. 
+Differences in how the studies were conducted and how they measured the results meant that we could not combine all their results. We assessed results from the 17 studies comparing pentoxifylline with placebo, but we could not compare pentoxifylline with any of the other medicines. 
+What are the results of our review? 
+Compared with a placebo, most studies showed that pentoxifylline treatment may help people to walk further without pain: 11 studies in 1890 people measured how far they could walk without pain; 14 studies in 2110 people measured how far they could walk. 
+For measurements of ABI, there were no clear differences between pentoxifylline and placebo treatment (5 studies, 902 people). 
+Three studies in 1179 people assessed well‐being related to being able to walk. Two large studies showed no clear difference between pentoxifylline and placebo treatment, and one smaller study showed pentoxifylline probably improved people's well‐being, though it was unclear how that was measured. 
+Side effects reported in the studies varied greatly: some studies reported no major side effects and most reported no side effects with pentoxifylline or with placebo (9 studies; 1837 people). 
+How reliable are these results? 
+We are not confident in the results for whether pentoxifylline helps people to walk further, or about its side effects, because we found limitations in the ways that the studies were designed and reported. These results are likely to change when more evidence becomes available. 
+We are moderately confident that pentoxifylline treatment was similar to placebo in its effects on difference in ankle‐brachial pressure index, and on people's well‐being. These results might change when more evidence is available. 
+Key messages 
+Pentoxifylline may help people with intermittent claudication to walk further without pain, but we are uncertain about whether it works better than a placebo or other medicines. We did not find enough reliable evidence about any side effects. 

@@ -1,0 +1,19 @@
+Non‐invasive positive airway pressure therapy to improve erectile dysfunction in men with obstructive sleep apnoea 
+Review question 
+The purpose of this review was to assess the effectiveness and acceptability of non‐invasive positive airway pressure therapy for improving erectile dysfunction (ED) in men with obstructive sleep apnoea (OSAS). 
+Background 
+OSAS is a clinical condition in which repeated throat obstructions occur during sleep, leading to pauses in breathing. Erectile dysfunction is the inability of a man to achieve and maintain a sufficient erection to allow satisfactory sexual activity. The association of OSAS and ED is far more common than might be found by chance. 
+Non‐invasive positive airway pressure therapy is a device that is attached to a mask that delivers oxygen. The device helps air enter the airways and help breathing. There are a few different types of devices including continuous positive airway pressure (CPAP), bilevel positive airway pressure (BiPAP), or variable positive airway pressure (VPAP). CPAP is widely recognised as the first‐line treatment for OSAS. However, it is uncertain whether CPAP or other non‐invasive positive airway pressure therapy device have an effect on ED experienced by men with OSAS. 
+Search date 
+We last searched for evidence on 14 June 2021.
+Study characteristics 
+We included six studies, that included 315 men with OSAS and ED. They compared the use of CPAP with either: no CPAP; with sham device (a device similar to CPAP without positive pressure, as a placebo); or with phosphodiesterase type 5 inhibitors (first‐line oral medications for the treatment of ED), for at least month. We evaluated the following primary outcomes (remission of ED and serious adverse events); and secondary outcomes (sex‐related quality of life, health‐related quality of life, and minor adverse events). 
+Key results 
+CPAP device versus no CPAP 
+We are uncertain about the effects of CPAP on erectile dysfunction after 4 and 12 weeks, and on sex‐related quality of life after 12 weeks. None of the groups reported any serious side effects after 12 weeks. 
+CPAP versus sham CPAP 
+One study (61 participants) compared CPAP with a sham device, but we were unable to analyse data because of the design and reporting of this trial. 
+CPAP versus sildenafil (phosphodiesterase type 5 inhibitors) 
+Sildenafil may improve erectile function and sex‐related quality of health more than CPAP after 12 weeks compared to phosphodiesterase 5 inhibitors (sildenafil). None of the groups reported serious side effects; both groups reported some mild, transient side effects after 12 weeks. 
+Quality of the evidence 
+We are uncertain about the results, because of limitations in how the studies were conducted, the small sample sizes, and imprecise results. 

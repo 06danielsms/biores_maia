@@ -1,0 +1,16 @@
+Background
+Migraine is a highly disabling condition for the individual and also has wide‐reaching implications for society, healthcare services, and the economy. Sumatriptan is an abortive medication for migraine attacks, belonging to the triptan family. 
+Objectives
+To determine the efficacy and tolerability of oral sumatriptan compared to placebo and other active interventions in the treatment of acute migraine attacks in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, online databases, and reference lists for studies through 13 October 2011. 
+Selection criteria
+We included randomised, double‐blind, placebo‐ and/or active‐controlled studies using oral sumatriptan to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We used numbers of participants achieving each outcome to calculate relative risk (or 'risk ratio') and numbers needed to treat to benefit (NNT) or harm (NNH) compared to placebo or a different active treatment. 
+Main results
+Sixty‐one studies (37,250 participants) compared oral sumatriptan with placebo or an active comparator. Most of the data were for the 50 mg and 100 mg doses. Sumatriptan surpassed placebo for all efficacy outcomes. For sumatriptan 50 mg versus placebo the NNTs were 6.1, 7.5, and 4.0 for pain‐free at two hours and headache relief at one and two hours, respectively. NNTs for sustained pain‐free and sustained headache relief during the 24 hours postdose were 9.5 and 6.0, respectively. For sumatriptan 100 mg versus placebo the NNTs were 4.7, 6.8, 3.5, 6.5, and 5.2, respectively, for the same outcomes. Results for the 25 mg dose were similar to the 50 mg dose, while sumatriptan 100 mg was significantly better than 50 mg for pain‐free and headache relief at two hours, and for sustained pain‐free during 24 hours. Treating early, during the mild pain phase, gave significantly better NNTs for pain‐free at two hours and sustained pain‐free during 24 hours than did treating established attacks with moderate or severe pain intensity. 
+Relief of associated symptoms, including nausea, photophobia, and phonophobia, was greater with sumatriptan than with placebo, and use of rescue medication was lower with sumatriptan than with placebo. For the most part, adverse events were transient and mild and were more common with the sumatriptan than with placebo, with a clear dose response relationship (25 mg to 100 mg). 
+Sumatriptan was compared directly with a number of active treatments, including other triptans, paracetamol (acetaminophen), acetylsalicylic acid, non‐steroidal anti‐inflammatory drugs (NSAIDs), and ergotamine combinations. 
+Authors' conclusions
+Oral sumatriptan is effective as an abortive treatment for migraine attacks, relieving pain, nausea, photophobia, phonophobia, and functional disability, but is associated with increased adverse events. 

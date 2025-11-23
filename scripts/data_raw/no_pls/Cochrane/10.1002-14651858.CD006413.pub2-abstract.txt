@@ -1,0 +1,14 @@
+Background
+Primary healthcare (PHC) workers often work alone or in isolation. Healthcare managerial supervision is recommended to help assure quality; but this requires skilled supervisors and takes time and resources. It is therefore important to assess to what extent supervision is beneficial and the ways in which it can be implemented. 
+Objectives
+To review the effects of managerial supervision of health workers to improve the quality of PHC (such as adherence to guidance or coverage of services) in low‐ and middle‐income countries. 
+Search methods
+We searched The Cochrane Central Register of Controlled Trials (CENTRAL) 2011, Issue 1, part of The Cochrane Library. www.thecochranelibrary.com, including the Cochrane Effective Practice and Organisation of Care (EPOC) Group Specialised Register (searched 10 March 2011); MEDLINE, Ovid 1950 to March Week 1 2011 (searched 08 March 2011); EMBASE, Ovid 1980 to 2011 Week 12 (searched 08 March 2011); CINAHL, Ebsco 1981 – present (searched 10 March 2011); LILACS, VHL (searched 10 March 2011). 
+Selection criteria
+Randomised controlled trials, controlled before‐and‐after studies, and interrupted time series studies, conducted in PHC in low‐ and middle‐income countries. Supervision includes site visits from a central level of the health system, plus at least one supervisory activity. We excluded studies aimed solely at improving the clinical skills of PHC workers. 
+Data collection and analysis
+We extracted data using a predefined form and assessed for risk of bias using the EPOC risk of bias criteria. Data are presented in a narrative way without pooling the effects on the outcomes as studies and outcomes were diverse. 
+Main results
+Nine studies met the inclusion criteria: three compared supervision with no supervision, five compared enhanced supervision with routine supervision, and one study compared less intensive supervision with routine supervision. Most outcomes were scores relating to providers’ practice, knowledge and provider or user satisfaction. The majority of the outcomes were measured within nine months after the interventions were introduced. In two studies comparing supervision with no supervision, small benefits on provider practice and knowledge were found. For methods of enhancing supervision, we identified five studies, and two studies of frequent supportive supervision demonstrated small benefits on workers performance. The one study examining the impact of less intensive supervision found no evidence that reducing the frequency of visits had any effect on the utilisation of services. The GRADE evidence quality for all comparisons and outcomes was "low" or "very low". 
+Authors' conclusions
+It is uncertain whether supervision has a substantive, positive effect on the quality of primary health care in low‐ and middle‐income countries. The long term effectiveness of supervision is unknown. 

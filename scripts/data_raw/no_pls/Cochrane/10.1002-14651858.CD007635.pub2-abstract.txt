@@ -1,0 +1,14 @@
+Background
+In recent years the Enhanced Recovery after Surgery (ERAS) postoperative pathway in (ileo‐)colorectal surgery, aiming at improving perioperative care and decreasing postoperative complications, has become more common. 
+Objectives
+We investigated the effectiveness and safety of the ERAS multimodal strategy, compared to conventional care after (ileo‐)colorectal surgery. The primary research question was whether ERAS protocols lead to less morbidity and secondary whether length of stay was reduced. 
+Search methods
+To answer the research question we entered search strings containing keywords like "fast track", "colorectal and surgery" and "enhanced recovery" into major databases. We also hand searched references in identified reviews concerning ERAS. 
+Selection criteria
+We included published randomised clinical trials, in any language, comparing ERAS to conventional treatment in patients with (ileo‐) colorectal disease requiring a resection. RCT's including at least 7 ERAS items in the ERAS group and no more than 2 in the conventional arm were included. 
+Data collection and analysis
+Data of included trials were independently extracted by the reviewers. Analyses were performed using "REVMAN 5.0.22". Data were pooled and rate differences as well as weighted mean differences with their 95% confidence intervals were calculated using either fixed or random effects models, depending on heterogeneity (I2). 
+Main results
+4 RCTs were included and analysed. Methodological quality of included studies was considered low, when scored according to GRADE methodology. Total numbers of inclusion were limited. The trials included in primary analysis reported 237 patients, (119 ERAS vs 118 conventional). Baseline characteristics were comparable. The primary outcome measure, complications, showed a significant risk reduction for all complications (RR 0.50; 95% CI 0.35 to 0.72). This difference was not due to reduction in major complications. Length of hospital stay was significantly reduced in the ERAS group (MD ‐2.94 days; 95% CI ‐3.69 to ‐2.19), and readmission rates were equal in both groups. Other outcome parameters were unsuitable for meta‐analysis, but seemed to favour ERAS. 
+Authors' conclusions
+The quantity and especially quality of data are low. Analysis shows a reduction in overall complications, but major complications were not reduced. Length of stay was reduced significantly. We state that ERAS seems safe, but the quality of trials and lack of sufficient other outcome parameters do not justify implementation of ERAS as the standard of care. Within ERAS protocols included, no answer regarding the role for minimally invasive surgery (i.e. laparoscopy) was found. Furthermore, protocol compliance within ERAS programs has not been investigated, while this seems a known problem in the field. Therefore, more specific and large RCT's are needed. 

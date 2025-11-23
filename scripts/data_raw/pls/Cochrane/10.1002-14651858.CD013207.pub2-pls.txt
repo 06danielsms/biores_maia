@@ -1,0 +1,17 @@
+Point‐of‐care tests for detecting HIV viral molecules in infants and children aged 18 months or less 
+Why is improving the diagnosis of HIV infection important? 
+It is estimated that 1.5 million infants are still exposed to HIV every year. If left untreated, about 50% to 60% of HIV‐infected infants will die by the age of two years. Children infected before birth are especially at high risk of death. HIV is incurable; however, there are medications that suppress HIV, known as antiretroviral drugs (ART). When HIV is detected early, severe illness and death from HIV‐related infections can be prevented by taking this medication. A test that detects HIV viral genetic molecules quickly and accurately at or near the patient's side (point‐of‐care) therefore can increase access to early appropriate treatment and minimize missing treatments in those whose HIV remains undetected. 
+What is the aim of this review? 
+To determine the accuracy of molecular point‐of‐care tests for detecting the main types of HIV infection (HIV‐1/HIV‐2) in infants and children aged 18 months or less. 
+What was studied in this review? 
+Published reports of molecular point‐of‐care tests with results measured against laboratory viral‐based tests (benchmark). 
+What are the main results of this review? 
+Twelve studies which completed 15 evaluations involving 15,120 participants compared molecular point‐of‐care tests for diagnosing HIV infection. 
+What are the strengths and limitations of this review? 
+The review included sufficient studies and participants. All studies were conducted in sub‐Saharan Africa, making the results highly applicable for use in communities where the disease is regularly found and where disease control programmes are often targeted. However, one in three included evaluations of the molecular point‐of‐care tests were conducted in a laboratory setting and not near the patient but there was no difference in the test accuracy between settings. 
+To whom do the results of this review apply? 
+Infants and children aged 18 months or less who were exposed to HIV infection.
+What are the implications of this review? 
+In theory, for a population of 1000 children aged 18 months or less where 100 have HIV infection, 100 children will be positive with the molecular point‐of‐care test, of which one will not have the infection (false‐positive result), and 900 will be negative with the molecular point‐of‐care test, of which one will indeed have the infection (false‐negative result). 
+How up‐to‐date is this review? 
+The evidence is current to 2 February 2021.

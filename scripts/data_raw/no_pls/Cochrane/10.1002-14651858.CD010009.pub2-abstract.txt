@@ -1,0 +1,17 @@
+Background
+Diabetic cystoid macular oedema (CMO) is a condition which involves fluid accumulation in the inner portion of the retina. It often follows changes in retinal blood vessels which enhance the fluid to come out of vessels. Although it may be asymptomatic, symptoms are primarily painless loss of central vision, often with the complaint of seeing black spots in front of the eye. 
+It is reported that CMO may resolve spontaneously, or fluctuate for months, before causing loss of vision. If left untreated or undiagnosed, progression of CMO may lead to permanent visual loss. 
+It has been noted that patients with diabetic retinopathy have elevated inflammatory markers, and therefore it is likely that inflammation aids in the progression of vascular disease in these patients. Several topical non‐steroidal anti‐inflammatory drugs (NSAIDs) such as ketorolac 0.5%, bromfenac 0.09%, and nepafenac 0.1%, have therefore also been used topically to treat chronic diabetic CMO. Hence this review was conducted to find out the effects of topical NSAIDs in diabetic CMO. 
+Objectives
+To assess the effects of topical non‐steroidal anti‐inflammatory drugs (NSAIDs) for diabetic cystoid macular oedema (CMO). 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2014, Issue 12), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to January 2015), EMBASE (January 1980 to January 2015), Latin American and Caribbean Health Sciences Literature Database (LILACS) (January 1982 to January 2015), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 12 January 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs investigating the effects of topically applied NSAIDs in the treatment of people with diabetic CMO aged 18 years of age or over. 
+Data collection and analysis
+Two review authors independently assessed trial eligibility and screened all available titles and abstracts for inclusion. There were no discrepancies and we did not have to contact trial investigators for missing data. 
+Main results
+We did not identify any RCTs matching the inclusion criteria for this review.
+Authors' conclusions
+The review did not identify any RCTs investigating the effects of topical NSAIDs in the treatment of diabetic CMO. Most of the studies identified through the electronic searches had been conducted to analyse the effect of topical NSAIDs for pseudophakic CMO.In the absence of high quality evidence, clinicians need to use their clinical judgement and other low level evidence, such as observational non‐randomised trials, to decide whether to use topical NSAIDs in cases of diabetic CMO. 
+More research is needed to better understand the cause of this condition and its pathophysiology. This systematic review has identified the need for well designed, adequately powered RCTs to assess possible beneficial and adverse effects of topical NSAIDs in people with diabetic CMO. Future trials should aim to include a large sample size with an adequate follow‐up period of up to one year. 

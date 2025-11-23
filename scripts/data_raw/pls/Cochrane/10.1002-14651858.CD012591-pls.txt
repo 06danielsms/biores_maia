@@ -1,0 +1,28 @@
+Biologics or tofacitinib for rheumatoid arthritis
+Review question 
+We studied the effects of biologics on people with rheumtoid arthritis (RA), whose previous treatment with biologic therapy was unsuccessful, either due to lack of benefits or occurrence of side effects, or both. There were a total of 12 studies (up to June 2015) with data available for four of the tumor necrosis factor (TNF)‐biologics (certolizumab pegol, etanercept, golimumab, infliximab) and three of the non‐TNF biologics (abatacept, rituximab, and tocilizumab); only one study provided data for tofacitinib. 
+What is RA and what are biologics/tofacitinib? 
+In RA, your immune system, which normally fights infection, attacks the joint lining making it inflamed. If the inflammation is untreated, joint damage and disability may result. Biologics and tofacitinib are medications that can reduce joint inflammation, improve symptoms and prevent some of the joint damage. 
+The review shows that in people with RA: 
+‐ Biologics alone or in combination with methotrexate (MTX), a disease‐modifying anti‐rheumatic drug (DMARD), improve signs (tender or swollen joints) and symptoms of RA, function, and probably improve the chances of RA remission (disappearance of symptoms), based on high‐ and moderate‐quality evidence (downgraded for imprecision). 
+‐ Tofacitinib in combination with MTX, probably improves signs and symptoms of RA (tender or swollen joints) and function, based on high‐ and moderate‐quality evidence (downgraded for imprecision). 
+‐ We often do not have precise information about side‐effects and complications. This is particularly true for rare but serious side‐effects. Because of the lack of data and low‐quality evidence, we are uncertain of the effect of biologics and tofacitinib on the risk of cancer, serious adverse events, and withdrawals due to adverse events. 
+Best estimate of what happens to people with RA when taking biologics or tofacitinib: 
+ACR50(number of tender or swollen joints, pain, and disability)  
+Biologic monotherapy versus placebo: 18 out of 100 people on a biologic monotherapy experienced improvement in their symptoms versus 4 out of 100 on placebo (14% absolute improvement). 
+Biologic + MTX versus MTX/other traditional DMARDs: 21 people out of 100 on biologic + MTX experienced improvement in RA symptoms compared to 5 people out of 100 who were on MTX/DMARD (16% absolute improvement). 
+Tofacitinib + MTX versus MTX: 28 people out of 100 on tofacitinib + MTX experienced improvement in RA symptoms compared to 9 people out of 100 who were on MTX/DMARD (19% absolute improvement), based on one study. 
+Remission (DAS < 1.6 or DAS28 < 2.6)  
+Biologic monotherapy versus placebo: 102 people out of 1000 who were on biologic had their RA symptoms disappear compared to 8 people out of 1000 on placebo (9% absolute improvement). 
+Biologic + MTX versus MTX/other traditional DMARDs: 104 people out of 1000 who were on biologic + MTX had their RA symptoms disappear compared to 3 people out of 1000 who were on MTX/DMARD (10% absolute improvement). 
+Tofacitinib + MTX versus MTX: 56 people out of 1000 who were on tofacitinib + MTX had their RA symptoms disappear compared to 0 people out of 1000 who were on MTX/DMARD (6% absolute improvement), based on one study. 
+Progression of radiographic destruction  
+No studies were available for analysis.
+Drug withdrawal due to adverse events  
+Biologic monotherapy versus placebo: 32 people out of 1000 on biologic reported withdrawal due to adverse events versus 42 out of 1000 on placebo (1% fewer withdrawals). 
+Biologic + MTX versus MTX/other traditional DMARDs: 38 people out of 1000 on biologic + MTX reported withdrawal due to adverse events compared to 8 out of 1000 people on MTX/DMARD (5% more withdrawals). 
+Tofacitinib + MTX versus MTX: there was no difference in withdrawals due to adverse events between people on tofacitinib + MTX and people on MTX/DMARD, both with 5 participants out of 100, based on one study. 
+Serious  adverse events  
+There was a 1% to 3% difference for fewer serious adverse events in all comparisons compared with people on MTX/DMARD. 
+Cancer  
+Biologic + MTX versus MTX/other traditional DMARDs: there was a less than 1% difference for the risk of cancer between biologic + MTX and MTX/DMARD; 5 out of 1000 of those on biologic + MTX and 0 on MTX/DMARD developed cancer, although there were very few studies available. 

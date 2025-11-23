@@ -1,0 +1,14 @@
+Background
+Colonoscopy is considered the gold‐standard investigation for screening and diagnosis of colorectal cancer. It is also becoming increasingly desirable for assessment, management, diagnosis and follow‐up of other colorectal diseases, such as inflammatory bowel diseases and acute diverticulitis. Hence, due to the increasing demand for colonoscopy, devices to advance examination techniques are highly sought‐after and the colonoscope with the transparent cap could be one of these. 
+Objectives
+To identify and review all relevant data in order to determine whether colonoscopy with a transparent cap is a more effective diagnostic tool than colonoscopy. 
+Search methods
+We searched the MEDLINE, EMBASE and CINAHL databases, and the Cochrane Central Register of Controlled Trials for all randomised controlled trials (RCTs) comparing the use of colonoscopy with a transparent cap with standard colonoscopy. 
+Selection criteria
+Studies were included if they were randomised controlled trials which compared the use of colonoscopy with a transparent cap with standard colonoscopy. 
+Data collection and analysis
+Data on study methods, participants, interventions used and outcomes measured was extracted from each study. Data was entered into the Cochrane Review Manager software (RevMan 5.0, 2008) and analysed using Cochrane MetaView. 
+Main results
+In the present meta‐analysis, we considered 14 randomised controlled trials so far published. The findings of our work indicate that colonoscopy with transparent cap has a faster caecal intubation time when compared with standard colonoscopy. Reviewing studies individually would also seem to favour colonoscopy with transparent cap for polyp detection rate and pain during procedure but due to lack of comparable data meta‐analysis was not feasible. 
+Authors' conclusions
+This review suggests that a transparent cap on the end of the colonoscope may give a marginally faster caecal intubation time compared with standard colonoscopy. It also suggests that there is a better polyp detection rate and less pain with the cap. However, the authors feel that further randomised controlled trials in this area would provide more clinically significant information on this adjunct to colonoscopy. 

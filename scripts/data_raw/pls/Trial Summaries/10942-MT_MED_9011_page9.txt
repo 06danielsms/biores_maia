@@ -1,0 +1,13 @@
+Clinical Study Results
+What medical problems did participants have during the study?
+This section is a summary of the medical problems the participants had during the study that the study doctors thought might be related to the study treatments.
+These medical problems are called "adverse reactions". An adverse reaction is considered "serious" when it is life-threatening, causes lasting problems, or requires hospital care.
+These adverse reactions may or may not be caused by the study treatments. A lot of research is needed to know whether a treatment causes an adverse reaction.
+The website listed at the end of this summary may have other information about adverse reactions or other medical problems that happened during this study.
+How many participants had serious adverse reactions?
+None of the participants had serious adverse reactions during this study.
+How many participants had adverse reactions?
+There were 85.0% of participants who had adverse reactions during the study. This was 17 out of 20 participants.
+- 93.3% of participants who got MEDI0382 had adverse reactions during the study. This was 14 out of 15 participants.
+- 60.0% of participants who got the placebo had adverse reactions during the study. This was 3 out of 5 participants.
+There were 10.0% of participants who stopped taking the study treatment because of adverse reactions they had during the study. This was 2 out of 20 participants. Both of these participants got MEDI0382.

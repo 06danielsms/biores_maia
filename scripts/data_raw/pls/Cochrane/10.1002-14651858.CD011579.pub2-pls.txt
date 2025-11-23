@@ -1,0 +1,15 @@
+Hydroxyurea for reducing blood transfusion in non‐transfusion dependent beta thalassaemias
+Review question 
+We wanted to find out if giving hydroxyurea to people with non‐transfusion dependent beta thalassaemia would reduce the need for blood transfusion. 
+Background 
+Thalassaemia is a genetic blood disorder causing defective adult haemoglobin (the oxygen carrying component of red blood cells). This causes anaemia with different degrees of severity. People with non‐transfusion dependent beta thalassaemia do not depend on regular transfusions for survival, but may require blood transfusion from time to time. Persistent anaemia affects growth, may delay puberty and reduce quality of life. However, transfusion should be avoided, if possible, because it leads to excess iron being deposited in various organs affecting how they function. 
+People with non‐transfusion dependent beta thalassaemia have higher levels of foetal haemoglobin (the main form of haemoglobin found during the development of a baby before birth). After birth, foetal haemoglobin gradually disappears and is replaced by the defective adult haemoglobin. A small amount of foetal haemoglobin remains after birth and is often present in people with non‐transfusion dependent beta thalassaemia. The higher the level of foetal haemoglobin the less transfusion could be needed. 
+Hydroxyurea is an anti‐cancer treatment which increases the level of foetal haemoglobin. Therefore, it might reduce the need for blood transfusion in people with non‐transfusion dependent beta thalassaemia. However, it is not known whether hydroxyurea is effective and safe and if so, which is the best dose and at which age treatment should start. 
+Search date 
+The evidence is current to 30 April 2016.
+Study characteristics 
+We did not find any randomised controlled trials (where people taking part in the trial have equal chances of being in the treatment or the control group) comparing hydroxyurea with a placebo (a dummy drug) or usual care. However, we found one randomised controlled trial comparing two different doses of hydroxyurea (10 mg/kg/day versus 20 mg/kg/day given for 24 weeks) and included it in this review. A total of 61 people took part in this trial. 
+Key results 
+The lower dose of hydroxyurea appeared to increase levels of foetal haemoglobin, but the higher dose did not. We found some evidence that the higher dose was harmful, particularly to the bone marrow. The trial did not look at whether blood transfusions could be given less often or whether the effects of the anaemia were reduced. In the short term, the lower dose does not appear to have any side effects. The trial duration was very short and we need to know what might happen if treatment with hydroxyurea is continued for a longer period of time. 
+Quality of the evidence 
+We graded the quality of the evidence as very low. This was because our key results are based on only one small trial. In addition we can not be sure whether the trial methods were of high quality because the authors have not completely described them. 

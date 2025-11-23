@@ -1,0 +1,58 @@
+Clinical Study Results
+
+This is shown in the charts below.
+
+Average highest amount of verinurad in the participants' blood
+
+35.0
+31.9 ng/mL darunirev
+30.0
+25.5 ng/mL
+25.0 23.4 ng/mL
+-
+20.0 ng/mL
+17.0 ng/mL
+15.0 ng/mL
+10.0 8.2 ng/mL
+-
+5.0
+0
+Treatment 1 Treatment 2 Treatment 3 Treatment 4 Treatment 5
+Form ER8 Form A Form A Form B Form B
+without food without food with food without food with food
+
+Average total amount of verinurad in the participants' blood over time
+
+200.0
+171.3 167.5
+ng*h/mL ng*h/mL darunirev
+149.0 150.2
+150.0 ng*h/mL ng*h/mL
+-
+100.0 87.1
+ng*h/mL
+-
+50.0 
+0
+Treatment 1 Treatment 2 Treatment 3 Treatment 4 Treatment 5
+Form ER8 Form A Form A Form B Form B
+without food without food with food without food with food
+
+Average total amount of verinurad in the participants’ blood up until the last sample taken
+
+200.0
+166.8 167.5
+ng*h/mL ng*h/mL darunirev
+139.6
+150.0 128.5 ng*h/mL
+ng*h/mL
+-
+100.0
+67.0
+ng*h/mL
+-
+50.0 
+0
+Treatment 1 Treatment 2 Treatment 3 Treatment 4 Treatment 5
+Form ER8 Form A Form A Form B Form B
+without food without food with food without food with food

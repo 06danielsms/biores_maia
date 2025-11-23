@@ -1,0 +1,14 @@
+What is the evidence for the benefit and harms of anticoagulants for heart failure?
+Background 
+When the heart’s ability to pump blood is reduced, it is called heart failure (HF). When this happens, some people will develop severe clotting problems (called thromboembolism) in the lungs, legs, and brain. This happens because the blood is flowing more slowly, inflammation is increasing, and there is an overproduction of clotting molecules. These clots can cause stroke, lung or leg damage, or even death. 
+Why is the question important? 
+There are strong blood‐thinning medications, called anticoagulants, which are successfully used in people with different clotting problems, such as those with HF who also have irregular heart beats (an arrhythmia called atrial fibrillation). At present, there are no data to recommend the use of anticoagulants to avoid clotting problems in people with HF who have regular heart beats (know as sinus rhythm). In this analysis, we assessed studies that tested anticoagulants in these people to avoid death, death from heart problems, and other severe clotting problems. 
+How did we identify and evaluate the evidence? 
+We searched electronic databases of studies (CENTRAL, MEDLINE, and Embase). We looked for randomised studies (like tossing a coin) that compared anticoagulant tablets with no treatment or a placebo (tablet with no drug inside) in people with HF who were in sinus rhythm. 
+What did we find? 
+We found three randomised trials, with 5498 participants, which we used for analysis. 
+What does this mean? 
+Based on the three randomised trials, we are uncertain about the risk of dying between people who took warfarin and those who did not. However, people who took warfarin may have been more likely to have episodes of major bleeding. The evidence suggested that there was no difference in the risk of dying for people who took rivaroxaban compared with those who did not. Rivaroxaban probably reduced the risk of stroke, but the risk of episodes of major bleeding was higher than in those who did not take rivaroxaban. 
+Our analysis does not support the routine use of anticoagulation in people with HF who remain in sinus rhythm. 
+How up‐to‐date is this review? 
+The literature is current to March 2020.

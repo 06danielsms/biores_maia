@@ -1,0 +1,16 @@
+Background
+Preterm premature rupture of membranes (PPROM) is a leading cause of perinatal morbidity and mortality. Amnioinfusion aims to restore amniotic fluid volume by infusing a solution into the uterine cavity. 
+Objectives
+The objective of this review was to assess the effects of amnioinfusion for PPROM on perinatal and maternal morbidity and mortality. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (2 December 2013). 
+Selection criteria
+Randomised trials of amnioinfusion compared with no amnioinfusion in women with PPROM.
+Data collection and analysis
+Three review authors independently assessed trials for inclusion. Two review authors independently assessed trial quality and extracted data. Data were checked for accuracy. 
+Main results
+We included five trials, of moderate quality, but we only analysed data from four studies (with a total of 241 participants). One trial did not contribute any data to the review. 
+Transcervical amnioinfusion improved fetal umbilical artery pH at delivery (mean difference 0.11; 95% confidence interval (CI) 0.08 to 0.14; one trial, 61 participants) and reduced persistent variable decelerations during labour (risk ratio (RR) 0.52; 95% CI 0.30 to 0.91; one trial, 86 participants). 
+Transabdominal amnioinfusion was associated with a reduction in neonatal death (RR 0.30; 95% CI 0.14 to 0.66; two trials, 94 participants), neonatal sepsis (RR 0.26; 95% CI 0.11 to 0.61; one trial, 60 participants), pulmonary hypoplasia (RR 0.22; 95% CI 0.06 to 0.88; one trial, 34 participants) and puerperal sepsis (RR 0.20; 95% CI 0.05 to 0.84; one trial, 60 participants). Women in the amnioinfusion group were also less likely to deliver within seven days of membrane rupture (RR 0.18; 95% CI 0.05 to 0.70; one trial, 34 participants). These results should be treated with circumspection as the positive findings were mainly due to one trial with unclear allocation concealment. 
+Authors' conclusions
+These results are encouraging but are limited by the sparse data and unclear methodological robustness, therefore further evidence is required before amnioinfusion for PPROM can be recommended for routine clinical practice. 

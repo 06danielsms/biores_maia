@@ -1,0 +1,14 @@
+Background
+Intercostal catheters are commonly used for the drainage of intrathoracic collections in newborn infants, including pneumothorax and pleural effusions. Placement of an intercostal drain is a potential risk factor for nosocomial infection due to breach of the cutaneous barrier. Therefore, neonates who require intercostal drainage, especially those in high risk groups for nosocomial infection, may benefit from antibiotic prophylaxis. However, injudicious antibiotic use carries the risk of promoting the emergence of resistant strains of micro‐organisms or of altering the pattern of pathogens causing infection. 
+Objectives
+To determine the effect of prophylactic antibiotics compared to selective use of antibiotics on mortality and morbidity (especially septicaemia) in neonates undergoing placement of an intercostal catheter. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used to search the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 5), MEDLINE (1948 to June 2011) and CINAHL (1982 to June 2011). 
+Selection criteria
+Randomised controlled trials or some types of non‐randomised (that is, quasi‐randomised) controlled trials of adequate quality in which either individual newborn infants or clusters of infants were randomised to receive prophylactic antibiotics versus placebo or no treatment. 
+Data collection and analysis
+We used the standard methods of the Cochrane Neonatal Review Group.
+Main results
+We did not find any randomised controlled trials that met the eligibility criteria.
+Authors' conclusions
+There are no data from randomised trials to either support or refute the use of antibiotic prophylaxis for intercostal catheter insertion in neonates. Any randomised controlled trials of antibiotic prophylaxis would need to account for the fact that neonates who require insertion of an intercostal catheter may already be receiving antibiotics for other indications. 

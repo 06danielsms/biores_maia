@@ -1,0 +1,15 @@
+Background
+Hepatocellular carcinoma (HCC) is a significant cause of death, especially in Asia and sub‐Saharan Africa. Removal of the cancer through surgery or other techniques is considered the first‐line therapy in early HCC, but relapse of HCC is the main postoperative problem. The main risk factor for HCC is hepatitis B virus (HBV) infection. Lamivudine and adefovir dipivoxil are effective and tolerable for chronic hepatitis B by suppressing the viral load and to reduce fibrosis in the liver.   
+Objectives
+To assess the benefits and harms of postoperative administration of lamivudine with or without adefovir dipivoxil in participants with surgically treated HCC and chronic HBV infection or HBV carrier state. 
+Search methods
+A systematic search was performed in The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded (SCI Exp) in October 2011. Further trials have been sought through scanning reference lists of relevant articles. 
+Selection criteria
+Randomised clinical trials comparing the administration of lamivudine with and without adefovir dipivoxil for participants with ablation treated HCC (surgical or through other techniques) and chronic HBV infection or HBV carrier state, regardless of publication status, language, blinding, and publication status, were to be included in this review. We planned to extract data on harms from quasi‐randomised studies or cohort studies when retrieved with the search results. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, and extracted and analysed the data. The type and number of adverse events were reported descriptively. 
+Main results
+No randomised trials could be included into this systematic review. Thus, we were unable to follow our pre‐published protocol and perform meta‐analyses. 
+Through our searches for randomised clinical trials, four cohort trials with 230 participants were retrieved. We read them in order to find data on harm, ie, adverse events. Breakthrough hepatitis was a serious adverse event attributable to lamivudine. No other adverse events seemed to be caused by the administration of lamivudine or adefovir dipivoxil were reported in the four cohort studies. 
+Authors' conclusions
+No evidence from randomised trials on the beneficial or harmful effects of lamivudine with or without adefovir dipivoxil for postoperative HCC was found. Randomised clinical trials with large number of participants and long follow‐up period should be carried out to direct clinical practice. 

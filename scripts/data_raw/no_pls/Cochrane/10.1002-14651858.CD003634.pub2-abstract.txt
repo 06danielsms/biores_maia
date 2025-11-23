@@ -1,0 +1,14 @@
+Background
+Drugs that mimic dopamine, such as bromocriptine (BR), were introduced as monotherapy or in combination with levodopa (LD) in the hope that this approach would prevent or delay the onset of motor complications in patients with Parkinson's disease (PD). However, hitherto, the role of BR has remained controversial. We present a systematic review of all randomised controlled trials (RCTs) of BR/LD combination therapy compared with LD monotherapy in PD. 
+Objectives
+To assess the efficacy and safety of BR/LD combination therapy in delaying the onset of motor complications associated with LD monotherapy in patients with PD. 
+Search methods
+We searched the Movement Disorders Group trials register which includes MEDLINE and EMBASE; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); handsearched appropriate neurology journals, symposia reports, PD handbooks and reference lists of reviews found by the search‐strategy. We also contacted Sandoz ‐now Novartis‐ (manufacturer of BR) and PPD Pharmaco and contacted colleagues who had co‐ordinated trials on BR. 
+Selection criteria
+RCTs were eligible for inclusion if they evaluated the efficacy of BR/LD combination therapy for delaying the onset of motor complications compared with LD monotherapy in patients with PD. Outcome measures evaluated included the occurrence and severity of motor complications, impairment and disability scores, side effects and dropouts. 
+Data collection and analysis
+To determine the feasibility of a quantitative systematic review two independent reviewers evaluated the methodological quality of identified trials and extracted data from the trials. 
+Main results
+The methodological quality of seven trials showed important shortcomings. All studies failed adequately to describe randomisation procedures. Only three were carried out according to a double‐blind design. Differences were found between studies concerning the mean age of the participants, the BR titration phase, the maximum achieved daily dose of LD (62.5 to 1000 mg) and BR (5 to 50 mg), and the applied outcomes. Our results show no evidence of consistent differences between treatment groups concerning the occurrence and severity of motor complications, scores of impairment and disability, or the occurrence of side effects. 
+Authors' conclusions
+This systematic review revealed no evidence to support the use of early BR/LD combination therapy as a strategy to prevent or delay the onset of motor complications in the treatment of PD. 

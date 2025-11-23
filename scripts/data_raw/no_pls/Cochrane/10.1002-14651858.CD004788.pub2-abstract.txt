@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is one of the most frequently performed operations. Open cholecystectomy has been the gold standard for over 100 years. Small‐incision cholecystectomy is a less frequently used alternative. 
+Objectives
+To compare the beneficial and harmful effects of small‐incision versus open cholecystectomy for patients with symptomatic cholecystolithiasis. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (6 April 2004), The Cochrane Library (Issue 1, 2004), MEDLINE (1966 to January 2004), EMBASE (1980 to January 2004), Web of Science (1988 to January 2004), and CINAHL (1982 to January 2004) for randomised trials. 
+Selection criteria
+All published and unpublished randomised trials in patients with symptomatic cholecystolithiasis comparing any kind of small‐incision or other kind of minimal incision cholecystectomy versus any kind of open cholecystectomy. No language limitations were applied. 
+Data collection and analysis
+Two authors independently performed selection of trials and data extraction. The methodological quality of the generation of the allocation sequence, allocation concealment, blinding, and follow‐up was evaluated to assess bias risk. Analyses were based on the intention‐to‐treat principle. Authors were requested additional information in case of missing data. Sensitivity and subgroup analyses were performed if appropriate. 
+Main results
+Seven trials randomised 571 patients. Bias risk was high in the included trials. No mortality was reported. The total complication proportions are respectively 9.9% and 9.3% in the small‐incision and open group, which is not significantly different (risk difference all trials, random‐effects 0.00, 95% confidence interval (CI) ‐0.06 to 0.07). There are also no significant differences considering severe complications and bile duct injuries. However, small‐incision cholecystectomy has a shorter hospital stay (weighted mean difference, random‐effects ‐2.8 days (95% CI ‐4.9 to ‐0.6)) compared to open cholecystectomy. 
+Authors' conclusions
+Small‐incision and open cholecystectomy seem to be equivalent regarding risks of complications, but the latter method is associated with a significantly longer hospital stay. The quicker recovery of small‐incision cholecystectomy compared with open cholecystectomy confirms the existing preference of this technique over open cholecystectomy. 

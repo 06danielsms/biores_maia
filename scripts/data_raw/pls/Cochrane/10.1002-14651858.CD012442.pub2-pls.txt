@@ -1,0 +1,11 @@
+Anti‐GD2 antibody‐containing immunotherapy for people with high‐risk neuroblastoma treated with autologous haematopoietic stem cell transplantation 
+Review question 
+We searched for studies of people with high‐risk neuroblastoma who received high‐dose chemotherapy (which kills stem cells) followed by autologous (from the same person) haematopoietic stem cell (blood cell precursors) transplantation (to rescue and replace the killed stem cells). We reviewed the evidence concerning the effect of anti‐GD2 antibody‐containing immunotherapy compared to standard therapy in such people on overall survival, treatment‐related death, progression‐free survival, event‐free survival, early toxicity, late non‐haematological toxicity, and health‐related quality of life. 
+Background 
+Neuroblastoma is a rare form of cancer that primarily affects children. High‐risk disease is characterised by metastasis at diagnosis and other primary tumour characteristics resulting in increased risk for an poor outcome. The GD2 carbohydrate antigen is expressed on the cell surface of neuroblastoma tumour cells and is thus a promising target for anti‐GD2 antibody‐containing immunotherapy. 
+Study characteristics 
+The evidence is current to 20 September 2018. We included a single randomised trial (a type of study in which participants are assigned to one of two or more treatment groups using a random method) with 113 people allocated to immunotherapy including isotretinoin, granulocyte‐macrophage colony‐stimulating factor (GM‐CSF), interleukin‐2, and ch14.18, a distinct type of anti‐GD2 antibody also known as dinutuximab. Another 113 people were allocated to receive standard therapy including isotretinoin. 
+Key results 
+The results on overall survival and event‐free survival favoured the dinutuximab‐containing immunotherapy group. Other outcomes including those on adverse events were not adequately reported; more research is needed before definitive conclusions can be made regarding these outcomes. 
+Quality of the evidence 
+We assessed the quality of the evidence as moderate.

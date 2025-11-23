@@ -1,0 +1,25 @@
+Effectiveness and cost‐effectiveness of hospital‐based specialist palliative care (HSPC) for adults with advanced illness and their unpaid caregivers 
+Review question 
+How effective is hospital‐based specialist palliative care for adults with a terminal illness and their unpaid caregivers, and is it cost‐effective? 
+Why is this question important? 
+Palliative care aims to improve the quality of life of people who have a terminal illness (a disease that cannot be cured and is likely to lead to death). It seeks to help patients, their unpaid caregivers and families manage symptoms that cause distress (for example, pain) and to meet patients’ and unpaid caregivers’ needs for psychological, social and spiritual support. Palliative care is known as an ‘holistic’ approach, because it considers the ‘whole’ person and their support network – not just the illness and its symptoms. It usually involves a team of people that can include physicians, nurses, pharmacists, other allied health professionals, social workers, chaplains or volunteers. 
+A growing number of hospitals are setting up specialist palliative care services (known as hospital‐based specialist palliative care (HSPC)). HSPC can be provided: 
+‐ either in the hospital itself – for inpatients or outpatients;
+‐ or as 'hospital‐at‐home' – which means that the hospital team visits patients in the community; 
+‐ or across multiple settings (for example, hospital and home).
+To find out whether HSPC benefits patients and their unpaid caregivers, and how cost‐effective it is, we reviewed the evidence from research. 
+How did we identify and evaluate the evidence? 
+First, we searched for all relevant studies in the medical literature. We specifically looked for: 
+‐ randomised controlled studies: these are studies where people are randomly divided into different treatment groups. This type of study provides the most robust evidence about the effects of a treatment; 
+‐ studies that compared HSPC to either hospital care without specialist palliative care; care received in the community; or hospice care outside hospital. 
+We compared the results, and summarised the evidence from all the studies. Finally, we assessed how certain the evidence was. We considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we categorised the evidence as being of very low, low, moderate or high certainty. 
+What did we find? 
+We found 42 studies that involved a total of 6678 patients and 1101 caregivers or family members. The patients were suffering from: cancer (21 studies); an advanced illness that was not cancer (14 studies); and a combination of cancer and non‐cancer (mixed) diagnoses (7 studies). Patients in six of the 14 non‐cancer studies had heart failure. Almost half (19) of the studies were set in the USA. Thirteen studies reported information on the costs of HSPC. 
+The evidence from the studies we found suggests that, when compared to usual care:
+‐ HSPC may slightly improve patients’ health‐related quality of life, their overall symptom burden and their satisfaction with care; 
+‐ HSPC may increase the chances of people dying in their preferred place of death.
+It is unclear what the effects of HSPC are on pain, caregivers’ burden, or unwanted events. This is because the evidence we found was not robust (very low‐certainty evidence). Similarly, because the evidence relating to costs was of very low certainty, it is unclear how cost‐effective HSPC is. 
+What does this mean? 
+When compared with usual care, HSPC may slightly improve a patient’s quality of life, symptom burden and their satisfaction with care. It may also increase their chances of dying at home. However, future research is likely to change these findings, since they are based on low‐certainty evidence. We need further studies to evaluate the effect of HSPC on other outcomes, such as pain, caregivers’ burden, unwanted events and cost‐effectiveness. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to August 2019.

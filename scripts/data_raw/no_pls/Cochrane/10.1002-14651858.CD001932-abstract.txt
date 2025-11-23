@@ -1,0 +1,16 @@
+Background
+People with dementia often wander, at times putting themselves at risk and presenting challenges to carers and institutional staff. Traditional interventions to prevent wandering include restraint, drugs and locked doors. Cognitively impaired people may respond to environmental stimuli (sounds, images, smells) in ways distinct from healthy people. This has led to trials of visual and other selective barriers (such as mirrors, camouflage, grids/stripes of tape) that may reduce wandering. 
+Objectives
+We assess the effect of subjective exit modifications on the wandering behaviour of cognitively impaired people. The second objective is to inform the direction and methods of future research. 
+Search methods
+The trials were identified from a searches of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group, The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS, clinical trials registries and grey literature sources on 9 March 2009 using the terms: exit*, wander*, camouflage, bars, stripe*, grid*, floor*, door*, barrier*, elopement, ambulat* 
+Selection criteria
+Randomized controlled trials (RCTs) and controlled trials provide the highest quality evidence, but interrupted time series are also considered as they may contribute useful information. 
+Participants are people with dementia or cognitive impairment who wander, of any age, and in any care environment ‐ hospital, other institution, or their own home. 
+Interventions comprise exit modifications that aim to function as subjective barriers to prevent the wandering of cognitively impaired people. Locks, physical restraints, electronic tagging and other types of barrier are not included. 
+Data collection and analysis
+The criteria for inclusion or exclusion of studies are applied independently by two reviewers. All outcomes that are meaningful to people making decisions about the care of wanderers are recorded. These include the number of exits or carer interventions, resource use, acceptability of the intervention and the effects on carer and wanderer (anxiety or distress). Heterogeneity of clinical area, of study design and of intervention was substantial. 
+Main results
+No RCTs or controlled trials were found. The other experimental studies that we identified were unsatisfactory. Most were vulnerable to bias, particularly performance bias; most did not classify patients according to type or severity of dementia; in all studies, outcomes were measured only in terms of wandering frequency rather than more broadly in terms of quality of life, resource use, anxiety and distress; no studies included patients with delirium; no studies were based in patients' homes. 
+Authors' conclusions
+There is no evidence that subjective barriers prevent wandering by cognitively impaired people. 

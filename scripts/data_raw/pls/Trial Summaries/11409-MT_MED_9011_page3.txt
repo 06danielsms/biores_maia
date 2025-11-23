@@ -1,0 +1,11 @@
+Clinical Study Results
+What kind of study was this?
+In this study, the researchers compared GP MDI to a common asthma treatment called Spiriva Respimat, and to a placebo. A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure any of the effects they see in the participants who take the drug are actually caused by the drug.
+There were 2 parts to this study, and they happened at the same time. There was 1 part that was "double-blind". This means none of the participants, study doctors, or other study staff knew what treatment each participant took. Some studies are done this way because knowing what treatment the participants are taking can affect the results of the study. When the study ended, the research sponsor found out which treatment participants took so they could create a report of the study results.
+In the double-blind part of the study, the participants took their regular asthma inhaler with either GP MDI or the placebo MDI. The doses of GP MDI were measured in micrograms, also known as μg. The participants took 2 puffs of their inhaler twice a day. There were 4 different treatment groups in this part:
+- 237 participants were planned to take 28.8 μg of GP MDI
+- 241 participants were planned to take 14.4 μg of GP MDI
+- 241 participants were planned to take 7.2 μg of GP MDI
+- 238 participants were planned to take the placebo MDI
+There was also an "open-label" part of the study. This means the researchers and the participants knew what the participants in this part were taking. In this part of the study, 120 participants were planned to take Spiriva Respimat MDI as well as their regular asthma inhaler. They took 2 puffs of the Spiriva Respimat inhaler once a day. The dose of Spiriva Respimat was 2.5 μg.
+A computer program was used to randomly choose the treatment or dose each participant took. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment or dose is as accurate as possible.

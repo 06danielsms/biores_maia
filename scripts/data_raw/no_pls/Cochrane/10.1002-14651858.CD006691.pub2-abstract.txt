@@ -1,0 +1,14 @@
+Background
+In adolescents with type 1 diabetes, insulin resistance likely plays a role in the deterioration of metabolic control. In type 1 diabetes, addition of metformin to insulin therapy, to improve insulin sensitivity, has been assessed in a few trials involving few patients or in uncontrolled studies of short duration. No systematic reviews are available up to date to summarize the evidence about metformin addition to insulin therapy in adolescents with type 1 diabetes. 
+Objectives
+To assess the effects of metformin added to insulin therapy for type 1 diabetes mellitus in adolescents. 
+Search methods
+We searched The Cochrane Library, MEDLINE and EMBASE. We also searched databases of ongoing trials, reference lists of relevant reviews, and we contacted experts, authors and manufacturers. 
+Selection criteria
+Any randomised controlled trial (RCT) of at least three months duration of treatment comparing metformin added to insulin therapy versus insulin therapy alone in adolescents with type 1 diabetes was included. Cross‐over and quasi‐randomised controlled trials were excluded. 
+Data collection and analysis
+Two reviewers read all abstracts, assessed quality and extracted data independently. Authors were contacted for missing data. 
+Main results
+Only two trials (60 participants) investigating the effect of metformin added to insulin therapy for three months in adolescents with poorly controlled type 1 diabetes could be included. Meta‐analysis was not possible due to the clinical and methodological heterogeneity of data. Both studies suggested that metformin treatment lowered glycosylated haemoglobin A1c (HbA1c) in adolescents with type 1 diabetes and poor metabolic control. Improvements in insulin sensitivity, body composition or serum lipids were not documented in either study, however, one study showed a decrease in insulin dosage by 10%. Adverse effects were mainly gastrointestinal in both studies and hypoglycaemia in one study. No data on health‐related quality of life, all‐cause mortality or morbidity are currently available. 
+Authors' conclusions
+There is some evidence suggesting improvement of metabolic control in poorly controlled adolescents with type 1 diabetes, on addition of metformin to insulin therapy. Stronger evidence is required from larger studies, carried out over longer time periods to document the long‐term effects on metabolic control, health‐related quality of life as well as morbidity and mortality in those patients. 

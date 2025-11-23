@@ -1,0 +1,14 @@
+Background
+Zotepine is a relatively new antipsychotic often used for the treatment of people with schizophrenia. It is claimed to be particularly effective for negative symptoms. 
+Objectives
+To determine the effects of zotepine compared with placebo, typical and other atypical antipsychotic drugs for schizophrenia and related psychoses. 
+Search methods
+For the 2006 update we searched the Cochrane Schizophrenia Group's register of trials.
+Selection criteria
+We included all randomised clinical trials comparing zotepine with other treatments for people with schizophrenia or other psychoses. 
+Data collection and analysis
+We independently inspected citations and abstracts, ordered papers, re‐inspected these and assessed their quality. For homogenous dichotomous data we calculated the relative risk (RR), 95% confidence intervals (CI) and, where appropriate, numbers needed to treat/harm (NNT/H) on an intention‐to‐treat basis. For continuous data, we calculated weighted mean differences (WMD). We inspected all data for heterogeneity. 
+Main results
+The review currently includes 11 studies with 966 participants. Most outcomes were short term (4‐12 weeks). We found no data for outcomes such as relapse, time in hospital, satisfaction with care and day‐to‐day functioning. Compared with placebo, mental state ratings favoured zotepine (n=106, 1 RCT, RR No 20% decrease in BPRS 0.44 CI 0.3 to 0.7, NNT 3 CI 2 to 6) using the last observation carried forward method. For the comparison with typical drugs, limited data suggest that zotepine may be as effective as these older medications. Mental state measures of 'no clinically important improvement' favour zotepine when compared with other active drugs (n=356, 4 RCTs, RR 0.77 CI 0.7 to 0.9, NNT 7 CI 4 to 22). About one third of people in both the zotepine and control groups left the studies before trial completion. Zotepine may result in less movement disorder adverse effects than typical antipsychotic drugs. Trials have not highlighted clear differences between zotepine and other atypical drugs. 
+Authors' conclusions
+Zotepine may be a valuable addition to the class of atypical antipsychotic drugs. However, more data from existing studies is urgently needed to increase confidence in the findings of this review. In addition to this, new data from well planned, conducted and reported long term pragmatic randomised trials are needed. Otherwise clinical use of zotepine will be based upon speculation of short explanatory trials for everyday practice. 

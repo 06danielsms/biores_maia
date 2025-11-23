@@ -1,0 +1,14 @@
+Background
+Antiangiogenic therapy is a new approach to the treatment of neovascular age‐related macular degeneration. Interferon alfa is one antiangiogenic agent thought to function by inhibiting the migration and proliferation of vascular endothelial cells. It has been used in the treatment of hepatitis, solid tumors and hematologic malignancies. 
+Objectives
+The aim of this review was to investigate interferon alfa as a treatment modality for neovascular age‐related macular degeneration. 
+Search methods
+We searched and identified trials from the Cochrane Central Register of Controlled Trials (CENTRAL), which contains the Cochrane Eyes and Vision Group Trials Register, in The Cochrane Library (Issue 3, 2007), the National Research Register (Issue 3, 2007), MEDLINE (1966 to July 2007), EMBASE (1980 to July 2007), LILACS (Latin American and Caribbean Health Science Literature Database) (July 2007) and the reference lists of included studies. 
+Selection criteria
+We included randomized controlled trials evaluating interferon alfa therapy in people with neovascular age‐related macular degeneration who were followed for at least one year. 
+Data collection and analysis
+Both review authors independently extracted data and assessed trial quality. No data synthesis was conducted as only one trial met the inclusion criteria. 
+Main results
+The one included trial enrolled and randomized 481 participants from 45 centers worldwide into four groups. The study allowed for analysis of the number of participants who had lost three or more lines of vision at 52 weeks in three interferon alfa‐2a groups versus placebo. The results show an odds ratio of 1.60 (95% Confidence Interval 1.01 to 2.53) indicating that interferon is associated with a 60% increased odds of losing three or more lines at 52 weeks. This finding is marginally statistical with a P value of 0.04 and indicates that the treatment has the potential for harm rather than benefit. 
+Authors' conclusions
+At present there is not enough evidence to recommend the use of interferon alfa‐2a for the treatment of age‐related macular degeneration. 

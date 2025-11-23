@@ -1,0 +1,13 @@
+Screening strategies for hypertension
+Review question 
+What effects do the different ways of screening for hypertension (mass, targeted, or opportunistic) have in decreasing illness and death? 
+Background 
+Hypertension is a long‐term non‐communicable disease (NCD), also known as high, raised, or elevated blood pressure. Blood pressure is expressed by two measurements (systolic (SBP) and diastolic (DBP) pressures), which are the maximum and minimum pressures. High blood pressure is generally diagnosed when resting blood pressure is persistently at SBP ≥ 130/140 millimetres mercury (mmHg) or at DBP ≥ 80/90 mmHg for adults. 
+Even though blood pressure in the arteries is continuously raised, in many cases, high blood pressure does not cause symptoms. Nonetheless, hypertension can increase the risk for heart failure, stroke, vision loss, and chronic kidney disease, and so on, in the long term. People who have unhealthy diets, consume harmful amounts of alcohol and/or tobacco, and are physically inactive are at higher risk of hypertension. 
+Early detection, adequate treatment, and good control of high blood pressure can lower the risk of complications associated with hypertension. Although early detection through screening of hypertension has the potential to contain health‐related costs, reducing the burden of hypertension will to some extent involve addressing behavioural and socioeconomic risk factors (such as income, occupation, and level of education). Therefore, it is unclear whether early detection of mild hypertension can positively impact health‐related costs in the long term and improve health outcomes by reducing the need for hospitalisation and management of hypertension‐related complications, which can be severe. 
+Review methods 
+We searched various electronic databases on this topic until 9 April 2020. We searched for studies written in any language, whether published or not. We planned to include studies that compared one type of screening strategy for hypertension versus no screening strategy, that is, mass screening versus no screening, targeted screening versus no screening, and opportunistic screening versus no screening. We were interested in studies in which participants were healthy adolescents, adults, and elderly people, and in which researchers measured clinical outcomes, health system outcomes, and adverse events. 
+Key results 
+We found no studies that met the criteria described above.
+Quality of the evidence 
+High‐certainty evidence that can tell us whether mass, targeted, or opportunistic screening strategies are effective for reducing illness and death associated with hypertension is lacking. 

@@ -1,0 +1,14 @@
+Background
+Fetal growth restriction is defined as failure to reach growth potential and considered one of the major complications of pregnancy. These infants are often, although not universally, small for gestational age (SGA). SGA is defined as a weight less than a specified percentile (usually the 10th percentile). Identification of SGA infants is important because these infants are at increased risk of perinatal morbidity and mortality. Screening for SGA is a challenge for all maternity care providers and current methods of clinical assessment fail to detect many infants who are SGA. Large observational studies suggest that customised growth charts may be better able to differentiate between constitutional and pathologic smallness. Customised charts adjust for physiological variables such as maternal weight and height, ethnicity and parity. 
+Objectives
+To assess the benefits and harms of using population‐based growth charts compared with customised growth charts as a screening tool for detection of fetal growth in pregnant women. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (12 March 2014), reviewed published guidelines and searched the reference lists of review articles. 
+Selection criteria
+Randomised, quasi‐randomised or cluster‐randomised clinical trials comparing customised versus population‐based growth charts used as a screening tool for detection of fetal growth in pregnant women. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion.
+Main results
+No randomised trials met the inclusion criteria.
+Authors' conclusions
+There is no randomised trial evidence currently available. Further randomised trials are required to accurately assess whether the improvement in detection shown is secondary to customised charts alone or an effect of the policy change. Future research in large trials is needed to investigate the benefits and harms (including perinatal mortality) of using customised growth charts in different settings and for both fundal height and ultrasound measurements 

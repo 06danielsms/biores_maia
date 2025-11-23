@@ -1,0 +1,14 @@
+Background
+Gilles de la Tourette syndrome, or Tourette’s syndrome, is defined as the presence of both motor and vocal (phonic) tics for more than 12 months, that manifest before the age of 18 years, in the absence of secondary causes. Treatment of motor and phonic tics is difficult and challenging. 
+Objectives
+To determine the safety and effectiveness of botulinum toxin in treating motor and phonic tics in people with Tourette's syndrome, and to analyse the effect of botulinum toxin on premonitory urge and sensory tics. 
+Search methods
+We searched the Cochrane Movement Disorders Group Trials Register, CENTRAL, MEDLINE, and two trials registers to 25 October 2017. We reviewed reference lists of relevant articles for additional trials. 
+Selection criteria
+We considered all randomised, controlled, double‐blind studies comparing botulinum toxin to placebo or other medications for the treatment of motor and phonic tics in Tourette’s syndrome for this review. We sought both parallel group and cross‐over studies of children or adults, at any dose, and for any duration. 
+Data collection and analysis
+We followed standard Cochrane methods to select studies, assess risk of bias, extract and analyse data. All authors independently abstracted data onto standardized forms; disagreements were resolved by mutual discussion. 
+Main results
+Only one randomised placebo‐controlled, double‐blind cross‐over study met our selection criteria. In this study, 20 participants with motor tics were enrolled over a three‐year recruitment period; 18 (14 of whom had a diagnosis of Tourette’s syndrome) completed the study; in total, 21 focal motor tics were treated. Although we considered most bias domains to be at low risk of bias, the study recruited a small number of participants with relatively mild tics and provided limited data for our key outcomes. The effects of botulinum toxin injections on tic frequency, measured by videotape or rated subjectively, and on premonitory urge, are uncertain (very low‐quality evidence). The quality of evidence for adverse events following botulinum toxin was very low. Nine people had muscle weakness following the injection, which could have led to unblinding of treatment group assignment. No data were available to evaluate whether botulinum injections led to immunoresistance to botulinum. 
+Authors' conclusions
+We are uncertain about botulinum toxin effects in the treatment of focal motor and phonic tics in select cases, as we assessed the quality of the evidence as very low. Additional randomised controlled studies are needed to demonstrate the benefits and harms of botulinum toxin therapy for the treatment of motor and phonic tics in patients with Tourette’s syndrome. 

@@ -1,0 +1,15 @@
+Background
+Hyperbaric oxygen therapy (HBOT) consists of intermittently administering 100% oxygen at pressures greater than 1 atmosphere in a pressure vessel. This technology has been used to treat a variety of disease states and has been described as helping patients who have sustained burns. 
+Objectives
+The aim of this review was to assess the evidence for the benefit of hyperbaric oxygen therapy (HBOT) for the treatment of thermal burns. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register; CENTRAL (The Cochrane Library 2009, Issue 2); MEDLINE; PubMed; EMBASE; ISI Web of Science and Conference Proceedings Citation Index‐Science (CPCI‐S); DORCTHIM (Database of Randomised Controlled Trials in Hyperbaric Medicine: from inception to 2009); reference lists of relevant articles and Internet sources for published and unpublished trials. The latest search was carried out in June 2009. 
+Selection criteria
+We included all randomised controlled trials that compared the effect of HBOT with no HBOT (no treatment or sham). 
+Data collection and analysis
+Two authors independently extracted data using standardised forms. Each trial was assessed for internal validity with differences resolved by discussion. Data were extracted and entered into RevMan 4.2.3. 
+Main results
+Five randomised controlled trials were identified, of which two satisfied the inclusion criteria. The trials were of poor methodological quality. As a result, it was difficult to have confidence in the individual results and it was not appropriate to pool the data. 
+One trial reported no difference in mortality, number of surgeries or length of stay between the control and HBOT groups once these variables were adjusted for the patients' condition. The second trial reported mean healing times that were shorter in patients exposed to HBOT (mean: 19.7 days versus 43.8 days). No further eligible trials were found when the search was updated in June 2009. 
+Authors' conclusions
+This systematic review has not found sufficient evidence to support or refute the effectiveness of HBOT for the management of thermal burns. Evidence from the two randomised controlled trials is insufficient to provide clear guidelines for practice. Further research is needed to better define the role of HBOT in the treatment of thermal burns. 

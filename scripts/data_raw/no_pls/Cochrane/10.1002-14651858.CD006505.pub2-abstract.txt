@@ -1,0 +1,17 @@
+Background
+Viral infections cause significant morbidity and mortality in patients with hematological malignancies. It remains uncertain whether viral vaccinations in these patients are supported by good evidence. 
+Objectives
+We aimed to determine the effectiveness and safety of viral vaccines in patients with hematological malignancies. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL (June 2010), reference lists of relevant papers, abstracts from scientific meetings and contacted vaccine manufacturers. 
+Selection criteria
+Randomized controlled trials (RCTs) evaluating viral vaccines in patients with hematological malignancies were included. 
+Data collection and analysis
+Relative risk (RR) was used for binary data and mean difference (MD) for continuous data. Primary outcome was incidence of infection. Secondary outcomes were mortality, incidence of complications and severe viral infection, hospitalization, immune response and adverse effects. Fixed‐effect model was used in meta‐analyses. 
+Main results
+Eight RCTs were included, with 305 patients in the intervention groups and 288 in the control groups. They evaluated heat‐inactivated varicella zoster virus (VZV) vaccine (two trials), influenza vaccines (five trials) and inactivated poliovirus vaccine (IPV) (one trial). Seven trials had high and one trial had moderate risk of bias. 
+VZV vaccine might reduce herpes zoster compared to no vaccine (RR 0.54, 95% CI 0.3 to 1.0, P=0.05), but not statistically significant. Vaccination also demonstrated efficacy in immune response but frequently caused local adverse effects. One trial reported severity score of zoster, which favored vaccination (MD 2.6, 95% CI 0.94 to 4.26, P=0.002). 
+Two RCTs compared inactivated influenza vaccine with no vaccine and reported lower risk of lower respiratory infections (RR 0.39, 95% CI 0.19 to 0.78, P=0.008) and hospitalization (RR 0.17, 95% CI 0.09 to 0.31, P<0.00001) in vaccine recipients. However, vaccine recipients more frequently experienced irritability and local adverse effects. There was no significant difference in seroconversion between one and two doses of influenza vaccine (one trial), or between recombinant and standard influenza vaccine (one trial), or influenza vaccine given with or without re‐induction chemotherapy (one trial). 
+The IPV trial comparing vaccination starting at 6 versus 18 months after stem cell transplant (SCT) found no significant difference in seroconversion. 
+Authors' conclusions
+Inactivated VZV vaccine might reduce zoster severity in adult SCT recipients. Inactivated influenza vaccine might reduce respiratory infections and hospitalization in adults with multiple myeloma or children with leukemia or lymphoma. However, the quality of evidence is low. Local adverse effects occur frequently. Further high‐quality RCTs are needed. 

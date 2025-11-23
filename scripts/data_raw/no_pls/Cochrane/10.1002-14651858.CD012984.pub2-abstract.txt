@@ -1,0 +1,14 @@
+Background
+Thyroid eye disease (TED) is an autoimmune disorder that constitutes a major clinical and therapeutic challenge. Current treatment options for moderate‐to‐severe TED include immunotherapy, orbital radiotherapy and decompression surgery. Limited drugs of proven efficacy are available for the treatment of people with TED. Given the role in the pathogenesis of TED of interleukin (IL)‐6 expression in adipocytes, fibroblasts and macrophages, the proposed theory is that inhibition of IL‐6 by tocilizumab may be an effective treatment in TED by directly reducing the inflammatory response. In addition, there is an unmet need for a new treatment that can modify the natural course of the disease and reduce the incidence of late complications that can occur as a result of fibrosis following inflammation. 
+Objectives
+To investigate the efficacy and harms of tocilizumab for the treatment of people with TED. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2018, Issue 6); MEDLINE Ovid; Embase Ovid; LILACS BIREME; OpenGrey; the ISRCTN registry; ClinicalTrials.gov; the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) and the EU Clinical Trials Register. The date of the search was 31 July 2018. 
+Selection criteria
+We searched for trials of tocilizumab administered by intravenous infusion using any dosage regimen, compared with placebo or intravenous glucocorticoid therapy for people with TED. 
+Data collection and analysis
+We planned to use standard methods recommended by Cochrane. The primary outcome was change in TED score (as defined by investigators). Secondary outcomes included measurement of the following parameters: change in proptosis, change in extraocular motility, change in palpebral aperture measurements, number of relapses, development of optic neuropathy and change in quality of life score. We planned to measure these outcomes at three months (range two to six months) and 12 months (range six to 18 months) post‐treatment. Adverse outcomes included any adverse effects identified in the trials at any time point. 
+Main results
+No studies met the inclusion criteria of this review. We found one randomised, placebo‐controlled, double masked study (NCT01297699). This study plans to evaluate the efficacy and harms of tocilizumab administration in people with moderate‐to‐severe or sight‐threatening graves' ophthalmopathy (GO), that had not responded adequately to treatment with intravenous corticosteroid pulses. It was completed in December 2015 and will be assessed for inclusion in the review when data become available. 
+Authors' conclusions
+There is currently no evidence from randomised controlled trials evaluating the efficacy and harms of tocilizumab for the treatment of people with TED. 

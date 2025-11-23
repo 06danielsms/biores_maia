@@ -1,0 +1,14 @@
+Background
+In the 1960s and 1970s, pulmonary haemorrhage (PH) occurred mainly in full‐term infants with pre‐existing illness with an incidence of 1.3 per 1000 live births. Risk factors for PH included severity of illness, intrauterine growth restriction, patent ductus arteriosus (PDA), coagulopathy and the need for assisted ventilation. Presently, PH occurs in 3% to 5% of preterm ventilated infants with severe respiratory distress syndrome (RDS) who often have a PDA and have received surfactant. The cause of PH is thought to be due to rapid lowering of intrapulmonary pressure, which facilitates left to right shunting across a PDA and an increase in pulmonary blood flow. Retrospective case reports and one prospective uncontrolled study have shown promising results for surfactant in treating PH. 
+Objectives
+To evaluate the effect of surfactant treatment compared to placebo or no intervention on mortality and morbidities in neonates with PH. 
+Search methods
+For this update The Cochrane Library, Issue 2, 2012; MEDLINE; EMBASE; CINAHL; Clinicaltrials.gov; Controlled‐trials.com; proceedings (2000 to 2011) of the Annual Meetings of the Pediatric Academic Societies (Abstracts2View) and Web of Science were searched on 8 February 2012. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that evaluated the effect of surfactant in the treatment of PH in intubated term or preterm (< 37 weeks) neonates with PH. Infants were included up to 44 weeks' postmenstrual age. The interventions studied were intratracheal instillation of surfactant (natural or synthetic, regardless of dose) versus placebo or no intervention. 
+Data collection and analysis
+If studies were identified by the literature search, the planned analyses included risk ratio, risk difference, number needed to treat to benefit or to harm for dichotomous outcomes, and mean difference for continuous outcomes, with their 95% confidence intervals. A fixed‐effect model would be used for meta‐analyses. The risk of bias for included trials would be assessed. Heterogeneity tests, including the I2 statistic, would be performed to assess the appropriateness of pooling the data and the results would be reported. 
+Main results
+No trials were identified.
+Authors' conclusions
+No randomised or quasi‐randomised trials that evaluated the effect of surfactant in PH were identified. Therefore, no conclusions from such trials can be drawn. In view of the promising results from studies with less strict study designs than a randomised controlled trial, there is reason to conduct further trials of surfactant for the treatment of PH in neonates. 

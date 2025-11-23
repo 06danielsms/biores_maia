@@ -1,0 +1,22 @@
+Background
+Approximately 30% of patients with epilepsy remain refractory to drug treatment and continue to experience seizures whilst taking one or more antiepileptic drugs (AEDs). Several non‐pharmacological interventions that may be used in conjunction with or as an alternative to AEDs are available for refractory patients. In view of the fact that seizures in people with intellectual disabilities are often complex and refractory to pharmacological interventions, it is evident that good quality randomised controlled trials (RCTs) are needed to assess the efficacy of alternatives or adjuncts to pharmacological interventions. 
+This is an updated version of the original Cochrane review (Beavis 2007) published in The Cochrane Library (2007, Issue 4). 
+Objectives
+To assess data derived from randomised controlled trials of non‐pharmacological interventions for people with epilepsy and intellectual disabilities. 
+Non‐pharmacological interventions include, but are not limited to, the following.
+• Surgical procedures.
+• Specialised diets, for example, the ketogenic diet, or vitamin and folic acid supplementation.
+• Psychological interventions for patients or for patients and carers/parents, for example, cognitive‐behavioural therapy (CBT), electroencephalographic (EEG) biofeedback and educational intervention. 
+• Yoga.
+• Acupuncture.
+• Relaxation therapy (e.g. music therapy).
+Search methods
+For the latest update of this review, we searched the Cochrane Epilepsy Group Specialised Register (19 August 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) via CRSO (19 August 2014), MEDLINE (Ovid, 1946 to 19 August 2014) and PsycINFO (EBSCOhost, 1887 to 19 August 2014). 
+Selection criteria
+Randomised controlled trials of non‐pharmacological interventions for people with epilepsy and intellectual disabilities. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria and extracted study data. 
+Main results
+One study is included in this review. When two surgical procedures were compared, results indicated that corpus callosotomy with anterior temporal lobectomy was more effective than anterior temporal lobectomy alone in improving quality of life and performance on IQ tests among people with epilepsy and intellectual disabilities. No evidence was found to support superior benefit in seizure control for either intervention. This is the only study of its kind and was rated as having an overall unclear risk of bias. The previous update (December 2010) identified one RCT in progress. The study authors have confirmed that they are aiming to publish by the end of 2015; therefore this study (Bjurulf 2008) has not been included in the current review. 
+Authors' conclusions
+This review highlights the need for well‐designed randomised controlled trials conducted to assess the effects of non‐pharmacological interventions on seizure and behavioural outcomes in people with intellectual disabilities and epilepsy. 

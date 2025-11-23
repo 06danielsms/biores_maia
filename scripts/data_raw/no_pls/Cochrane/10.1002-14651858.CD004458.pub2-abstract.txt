@@ -1,0 +1,20 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 3, 2006. 
+Rhinosinusitis is a well‐recognised clinical syndrome affecting patients of all ages and gender. Functional endoscopic sinus surgery (FESS) has now become a well‐established strategy, comprising several techniques, for the treatment of chronic rhinosinusitis refractory to medical treatment. 
+Objectives
+The aim of this review was to assess the effectiveness of FESS as a treatment for patients with chronic rhinosinusitis. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 18 November 2008. 
+Selection criteria
+Randomised controlled trials. Inclusion criteria were any of the following criteria singly or in combination: patients with chronic rhinosinusitis diagnosed by a health professional; patients with sinusitis symptoms for more than 12 weeks; endoscopic evidence of sinusitis or radiological evidence of sinusitis. Exclusion criteria were immune suppression; cystic fibrosis; Wegener's disease; previous sinus surgery or sinonasal malignancy. 
+Data collection and analysis
+All studies meeting the inclusion criteria underwent validity assessment and the two authors extracted data independently. 
+Comparisons were:
+FESS versus medical treatment;  FESS versus conventional sinus surgery;  FESS + medical treatment versus medical treatment;  FESS + medical treatment versus conventional sinus surgery + medical treatment. 
+Main results
+We included three randomised controlled trials involving 212 participants.
+The evidence available does not demonstrate that FESS, as practised in the included trials, is superior to medical treatment with or without sinus irrigation in patients with chronic rhinosinusitis. A middle meatal antrostomy fashioned by FESS was also not shown to be superior to an inferior meatal antrostomy formed by traditional sinus surgery techniques, although the small sample size in the study does not exclude a type II error. 
+In one study there was a relapse rate of 2.4% in the FESS and sinus irrigation group compared to 5.6% in the sinus irrigation only group. The relapse rates were not mentioned in the other studies. 
+There were no major complications, such as orbital injury or cerebrospinal fluid leak, reported in any of the included trials. 
+Authors' conclusions
+FESS as currently practised is a safe surgical procedure. The limited evidence available suggests that FESS as practised in the included trials has not been demonstrated to confer additional benefit to that obtained by medical treatment (+/‐ sinus irrigation) in chronic rhinosinusitis. More randomised controlled trials comparing FESS with medical and other treatments, with long‐term follow up, are required. 

@@ -1,0 +1,36 @@
+Autologous blood or PRP injection for lateral elbow pain
+Background 
+Lateral elbow pain, also known as tennis elbow or lateral epicondylitis, is a degenerative (age‐related structural change of tissue) tendon disease at the site where forearm extensor muscles attach to the outer part of the elbow. It is a common cause of elbow pain and disability, typically in middle‐aged people. 
+Autologous blood and platelet‐rich plasma (PRP) injections have been suggested to improve tendon healing. Autologous blood is derived from the person's own venous blood sample (blood taken from a vein), and PRP is a concentrate of plasma and platelets isolated from autologous blood. 
+This study aimed to review evidence regarding the benefits and harms of autologous blood or PRP injection for treatment of lateral elbow pain. 
+Study characteristics 
+We searched MEDLINE, CENTRAL, Embase, Clinicaltrials.gov, and WHO trials registries, unrestricted by date or language, on 18 September 2020. 
+We included 32 trials with 2337 participants. Mean age varied between 36 years and 53 years, and mean duration of symptoms ranged from 1 month to 22 months. Of 21 studies that reported gender, 56% of participants were female. Among the included studies, three studies were funded by manufacturers of the PRP centrifugation system; two studies were provided PRP kits; and one study received funding from PRP kit manufacturers. 
+Key findings 
+Comparison with placebo at three months revealed the following.
+Pain (lower scores mean less pain) (8 studies, 523 participants; moderate‐certainty evidence). 
+Pain improved by 2% (3% worse to 6% better), or by 0.16 points on a zero to 10 scale.
+• People who had placebo rated their pain as 3.7 points.
+• People who had autologous blood or PRP injection rated their pain as 3.9 points.
+Function (0 to 100; lower scores mean better function or less disability) (8 studies, 502 participants; moderate‐certainty evidence). 
+Function improved by 2% (5% better to 1% worse), or by 2 points on a zero to 100 scale.
+• People who had placebo rated their function as 27 points.
+• People who had autologous blood or PRP injection rated their function as 29 points.
+Treatment success (4 studies, 372 participants; very low‐certainty evidence). 
+0% more people rated their treatment a success (11% fewer to 12% more), or zero more people out of 100. 
+• 65 out of 100 people considered treatment as successful after placebo injection.
+• 67 out of 100 people considered treatment as successful after autologous blood or PRP injection. 
+Health‐related quality of life (higher scores mean better quality of life). 
+None of the studies measured this outcome.
+Pain relief (> 30% or > 50%). 
+None of the studies reported this outcome at three months.
+Withdrawals due to adverse events (1 study, 80 participants; very low‐certainty evidence). 
+5% fewer people withdrew from the study because of an adverse event (7.5% fewer to 14.8% more), or 5 fewer people out of 100. 
+• 7 out of 100 people withdrew from the study due to an adverse event after placebo injection. 
+• 2 out of 100 people withdrew from the study due to an adverse event after autologous blood or PRP injection. 
+Adverse events (typically transient injection site pain) (5 studies, 425 participants; low‐certainty evidence). 
+2% more people had adverse events (4% fewer to 11% more), or 2 more people out of 100. 
+• 17 out of 100 people reported adverse events after placebo injection.
+• 19 out of 100 people reported adverse events after autologous blood or PRP injection.
+Certainty of the evidence 
+For people with lateral elbow pain, moderate‐certainty evidence (downgraded for bias, i.e. methodological shortcomings in the included studies) shows that autologous blood or PRP injection probably provides little or no clinically important benefit for pain or function compared with placebo injection, and low‐certainty evidence (downgraded due to risk of bias, i.e. methodological shortcomings; and imprecision, i.e. too few data to estimate the precise difference) suggests that autologous blood or PRP injection may not cause higher risk for adverse events. We are uncertain whether autologous blood or PRP injection is associated with a higher proportion of people reporting treatment success, or if this treatment increases withdrawals due to adverse events. 

@@ -1,0 +1,16 @@
+Background
+There is lack of theoretical and clinical knowledge of the use of insoles for prevention or treatment of back pain. The high incidence of back pain and the popularity of shoe insoles call for a systematic review of this practice. 
+Objectives
+To determine the effectiveness of shoe insoles in the prevention and treatment of non‐specific back pain compared to placebo, no intervention, or other interventions. 
+Search methods
+We searched the following databases: The Cochrane Back Group Trials Register and The Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and CINAHL to October 2008; reviewed reference lists in review articles, guidelines and in the included trials; conducted citation tracking; contacted individuals with expertise in this domain. 
+Selection criteria
+We included randomised controlled trials that examined the use of customized or non‐customized insoles, for the prevention or treatment of back pain, compared to placebo, no intervention or other interventions. Study outcomes had to include at least one of the following: self‐reported incidence or physician diagnosis of back pain; pain intensity; duration of back pain; absenteeism; functional status. Studies of insoles designed to treat limb length inequality were excluded. 
+Data collection and analysis
+One review author conducted the searches and blinded the retrieved references for authors, institution and journal. Two review authors independently selected the relevant articles. Two different review authors independently assessed the methodological quality and clinical relevance and extracted the data from each trial using a standardized form. 
+Main results
+Six randomised controlled trials met inclusion criteria: Three examined prevention of back pain (2061 participants) and three examined mixed populations (256 participants) without being clear whether they were aimed at primary or secondary prevention or treatment. No treatment trials were found. There is strong evidence that the use of insoles does not prevent back pain. There is limited evidence that insoles alleviate back pain or adversely shift the pain to the lower extremities. 
+Limitations  This review largely reflects limitations of the literature, including low quality studies with heterogeneous interventions and outcome measures, poor blinding and poor reporting. 
+Authors' conclusions
+There is strong evidence that insoles are not effective for the prevention of back pain. The current evidence on insoles as treatment for low‐back pain does not allow any conclusions. 
+High quality trials are required for stronger conclusions.

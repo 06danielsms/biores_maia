@@ -1,0 +1,19 @@
+Antibiotics to treat foot infections in people with diabetes
+Review question 
+We reviewed the effects on resolution of infection and safety of antibiotics given orally or intravenously (directly into the blood system) in people with diabetes that have a foot infection. 
+Background 
+One of the most frequent complications of people with diabetes is foot disorders, specially foot ulcers or wounds. These wounds can easily become infected, and are known as a diabetic foot infections (DFIs). If they are not treated, the infection can progress rapidly, involving deeper tissues and threatening survival of the limb. Sometimes these infections conclude with the affected limb needing to be amputated. 
+Most DFIs require treatment with systemic antibiotics, that is, antibiotics that are taken orally, or are inserted straight into the bloodstream (intravenously), and affect the whole body. The choice of the initial antibiotic treatment depends on several factors such as the severity of the infection, whether the patient has received another antibiotic treatment for it, or whether the infection has been caused by a micro‐organism that is known to be resistant to usual antibiotics (e.g. methicillin‐resistant Staphylococcus aureus ‐ better known as MRSA). The objective of antibiotic therapy is to stop the infection and ensure it does not spread. 
+There are many antibiotics available, but it is not known whether one particular antibiotic ‐ or type of antibiotic ‐ is better than the others for treatment of DFIs. 
+The investigation 
+We searched through the medical literature up to March 2015 looking for randomised controlled trials (which produce the most reliable results) that compared different systemic antibiotics against each other, or against antibiotics applied only to the infected area (topical application), or against a fake medicine (placebo) in the treatment of DFIs. 
+Study characteristics 
+We identified 20 relevant randomised controlled trials, with a total of 3791 participants. Eighteen of the 20 studies were funded by pharmaceutical companies. All trials compared systemic antibiotics with other systemic antibiotics. 
+Key results 
+It is unclear whether any particular antibiotic is better than any another for curing infection or avoiding amputation. One trial suggested that ertapenem (an antibiotic) with or without vancomycin (another antibiotic) is more effective than tigecycline (another antibiotic) for resolving DFI. It is also generally unclear whether different antibiotics are associated with more or fewer adverse effects. The following differences were identified: 
+1. carbapenems (a class of antibiotic) combined with anti‐pseudomonal agents (antibiotics that kill Pseudomonas bacteria) produced fewer adverse effects than anti‐pseudomonal penicillins (another class of antibiotic); 
+2. daptomycin (an antibiotic) caused fewer adverse effects than vancomycin or other semi‐synthetic penicillins (a class of antibiotic); 
+3. linezolid (an antibiotic) caused more harm than ampicillin‐sulbactam (a combination of antibiotics); 
+4. tigecycline produced more adverse effects than the combination of ertapenem with or without vancomycin. 
+Quality of the evidence 
+There were important differences between the trials in terms of the diversity of antibiotics assessed, the duration of treatments, and the point at which the results were measured. The included studies had limitations in the way they were designed or performed, as a result of these differences and design limitations, our confidence in the findings of this review is low. 

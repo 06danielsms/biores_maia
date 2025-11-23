@@ -1,0 +1,18 @@
+Did any adverse reactions happen during this study?
+Group 1 - Treatment A: 30.0% (12) participants had adverse reactions.
+Group 2 - Treatment B: 20.5% (8) participants had adverse reactions.
+Treatment C: 23.1% (9) participants had adverse reactions.
+Treatment D: 25.6% (10) participants had adverse reactions.
+How many participants had serious adverse reactions?
+Group 1 - Treatment A: 0.0% (0) participants had serious adverse reactions.
+Group 2 - Treatment B: 0.0% (0) participants had serious adverse reactions.
+Treatment C: 0.0% (0) participants had serious adverse reactions.
+Treatment D: 0.0% (0) participants had serious adverse reactions.
+How many participants stopped taking study treatment due to adverse reactions?
+Group 1 - Treatment A: 2.5% (1) participants stopped taking study treatment due to adverse reactions.
+Group 2 - Treatment B: 0.0% (0) participants stopped taking study treatment due to adverse reactions.
+Treatment C: 0.0% (0) participants stopped taking study treatment due to adverse reactions.
+Treatment D: 0.0% (0) participants stopped taking study treatment due to adverse reactions.
+What serious adverse reactions happened during this study?
+There were no serious adverse reactions during the study.
+There were 2.5% of participants who stopped taking study treatment due to an adverse reaction of liver damage. This was 1 out of 40 participants in Group 1. This participant took Treatment A but did not go on to take Treatment B.

@@ -1,0 +1,22 @@
+Background
+Bacterial vaginosis is an imbalance of the normal vaginal flora with an overgrowth of anaerobic bacteria and a lack of the normal lactobacillary flora. Women may have symptoms of a characteristic vaginal discharge but are often asymptomatic. Bacterial vaginosis during pregnancy has been associated with poor perinatal outcomes and, in particular, preterm birth (PTB). Identification and treatment may reduce the risk of PTB and its consequences. 
+Objectives
+To assess the effects of antibiotic treatment of bacterial vaginosis in pregnancy.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2012), searched cited references from retrieved articles and reviewed abstracts, letters to the editor and editorials. 
+Selection criteria
+Randomised trials comparing antibiotic treatment with placebo or no treatment, or comparing two or more antibiotic regimens in pregnant women with bacterial vaginosis or intermediate vaginal flora whether symptomatic or asymptomatic and detected through screening. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, trial quality and extracted data. We contacted study authors for additional information. 
+Main results
+We included 21 trials of good quality, involving 7847 women diagnosed with bacterial vaginosis or intermediate vaginal flora. 
+Antibiotic therapy was shown to be effective at eradicating bacterial vaginosis during pregnancy (average risk ratio (RR) 0.42; 95% confidence interval (CI) 0.31 to 0.56; 10 trials, 4403 women; random‐effects, T² = 0.19, I² = 91%). Antibiotic treatment also reduced the risk of late miscarriage (RR 0.20; 95% CI 0.05 to 0.76; two trials, 1270 women, fixed‐effect, I² = 0%). 
+Treatment did not reduce the risk of PTB before 37 weeks (average RR 0.88; 95% CI 0.71 to 1.09; 13 trials, 6491 women; random‐effects, T² = 0.06, I² = 48%), or the risk of preterm prelabour rupture of membranes (RR 0.74; 95% CI 0.30 to 1.84; two trials, 493 women). It did increase the risk of side‐effects sufficient to stop or change treatment (RR 1.66; 95% CI 1.02 to 2.68; four trials, 2323 women, fixed‐effect, I² = 0%). 
+In this updated review, treatment before 20 weeks' gestation did not reduce the risk of PTB less than 37 weeks (average RR 0.85; 95% CI 0.62 to 1.17; five trials, 4088 women; random‐effects, T² = 0.06, I² = 49%). 
+In women with a previous PTB, treatment did not affect the risk of subsequent PTB (average RR 0.78; 95% CI 0.42 to 1.48; three trials, 421 women; random‐effects, T² = 0.19, I² = 72%). 
+In women with abnormal vaginal flora (intermediate flora or bacterial vaginosis), treatment may reduce the risk of PTB before 37 weeks (RR 0.53; 95% CI 0.34 to 0.84; two trials, 894 women). 
+One small trial of 156 women compared metronidazole and clindamycin, both oral and vaginal, with no significant differences seen for any of the pre‐specified primary outcomes. Statistically significant differences were seen for the outcomes of prolongation of gestational age (days) (mean difference (MD) 1.00; 95% CI 0.26 to 1.74) and birthweight (grams) (MD 75.18; 95% CI 25.37 to 124.99) however these represent relatively small differences in the clinical setting. 
+Oral antibiotics versus vaginal antibiotics did not reduce the risk of PTB (RR 1.09; 95% CI 0.78 to 1.52; two trials, 264 women). Oral antibiotics had some advantage over vaginal antibiotics (whether metronidazole or clindamycin) with respect to admission to neonatal unit (RR 0.63; 95% CI 0.42 to 0.92, one trial, 156 women), prolongation of gestational age (days) (MD 9.00; 95% CI 8.20 to 9.80; one trial, 156 women) and birthweight (grams) (MD 342.13; 95% CI 293.04 to 391.22; one trial, 156 women). 
+Different frequency of dosing of antibiotics was assessed in one small trial and showed no significant difference for any outcome assessed. 
+Authors' conclusions
+Antibiotic treatment can eradicate bacterial vaginosis in pregnancy. The overall risk of PTB was not significantly reduced. This review provides little evidence that screening and treating all pregnant women with bacterial vaginosis will prevent PTB and its consequences. When screening criteria were broadened to include women with abnormal flora there was a 47% reduction in preterm birth, however this is limited to two included studies. 

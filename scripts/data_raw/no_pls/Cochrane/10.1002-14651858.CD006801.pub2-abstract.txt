@@ -1,0 +1,14 @@
+Background
+Custom foot orthoses are commonly recommended for the treatment of foot pain.
+Objectives
+To evaluate the effectiveness of custom foot orthoses for different types of foot pain. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 2), MEDLINE (from January 1966), EMBASE (from January 1980), CINAHL (from January 1982) and the Physiotherapy Evidence Database (PEDro) (to June 2007). We also contacted authors of included trials and known researchers in the field and checked the reference lists of included trials to identify trials. No language or publication restrictions were applied. 
+Selection criteria
+Randomised controlled trials and controlled clinical trials evaluating custom‐made foot orthoses for any type of foot pain. Outcomes included quantifiable levels of foot pain, function, disability, health‐related quality of life, participant satisfaction, adverse effects and compliance. 
+Data collection and analysis
+Two authors independently selected trials, rated methodological quality and cross checked data extraction. Data were analysed separately for different diagnoses of foot pain and follow‐up time points. 
+Main results
+Eleven trials involving 1332 participants were included: five trials evaluated custom‐made foot orthoses for plantar fasciitis (691 participants); three for foot pain in rheumatoid arthritis (231 participants); and one each for foot pain in pes cavus (154 participants), hallux valgus (209 participants) and juvenile idiopathic arthritis (JIA) (47 participants). Comparisons to custom‐made foot orthoses included sham orthoses; no intervention; standardised interventions given to all participants; non‐custom (prefabricated) foot orthoses; combined manipulation, mobilisation or stretching; night splints; and surgery. Follow up ranged from one week to three years. Custom‐made foot orthoses were effective for painful pes cavus (NNTB:5), rearfoot pain in rheumatoid arthritis (NNTB:4), foot pain in JIA (NNTB:3) and painful hallux valgus (NNTB:6); however, surgery was even more effective for hallux valgus and non‐custom foot orthoses appeared just as effective for JIA but the analysis may have lacked sufficient power to detect a difference in effect. It is unclear if custom‐made foot orthoses were effective for plantar fasciitis or metatarsophalangeal joint pain in rheumatoid arthritis. Custom‐made foot orthoses were a safe intervention in all studies. 
+Authors' conclusions
+There is limited evidence on which to base clinical decisions regarding the prescription of custom‐made foot orthoses for the treatment of foot pain. Currently, there is gold level evidence for painful pes cavus and silver level evidence for foot pain in JIA, rheumatoid arthritis, plantar fasciitis and hallux valgus. 

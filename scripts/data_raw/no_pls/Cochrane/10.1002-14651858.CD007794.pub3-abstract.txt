@@ -1,0 +1,14 @@
+Background
+Ascites is the accumulation of fluid within the abdominal cavity. Most women with advanced ovarian cancer and some women with advanced endometrial cancer need repeated drainage for ascites. Guidelines to advise those involved in the drainage of ascites are usually produced locally and are generally not evidence‐based. Managing drains that improve the efficacy and quality of the procedure is key in making recommendations that could improve the quality of life (QoL) for women at this critical period of their lives. 
+Objectives
+To evaluate the effectiveness and adverse events of different interventions for the management of malignant ascites drainage in the palliative care of women with gynaecological cancer. 
+Search methods
+We searched CENTRAL, MEDLINE, and Embase to 4 November 2019. We checked clinical trial registries, grey literature, reports of conferences, citation lists of included studies, and key textbooks for potentially relevant studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of women with malignant ascites with gynaecological cancer. If studies also included women with non‐gynaecological cancer, we planned to extract data specifically for women with gynaecological cancers or request the data from trial authors. If this was not possible, we planned to include the study only if at least 50% of participants were diagnosed with gynaecological cancer. 
+Data collection and analysis
+Two review authors independently selected studies, extracted data, evaluated the quality of the included studies, compared results, and assessed the certainty of the evidence using Cochrane methodology. 
+Main results
+In the original 2010 review, we identified no relevant studies. This updated review included one RCT involving 245 participants that compared abdominal paracentesis and intraperitoneal infusion of catumaxomab versus abdominal paracentesis alone. The study was at high risk of bias in almost all domains. The data were not suitable for analysis. The median time to the first deterioration of QoL ranged from 19 to 26 days in participants receiving paracentesis alone compared to 47 to 49 days among participants receiving paracentesis with catumaxomab infusion (very low‐certainty evidence). Adverse events were only reported among participants receiving catumaxomab infusion. The most common severe adverse events were abdominal pain and lymphopenia (157 participants; very low‐certainty evidence). There were no data on the improvement of symptoms, satisfaction of participants and caregivers, and cost‐effectiveness. 
+Authors' conclusions
+Currently, there is insufficient evidence to recommend the most appropriate management of drainage for malignant ascites among women with gynaecological cancer, as there was only very low‐certainty evidence from one small RCT at overall high risk of bias. 

@@ -1,0 +1,13 @@
+Antipsychotics to treat delirium in hospitalised patients, not including those in intensive care units 
+Review question 
+We reviewed the evidence for the effectiveness and safety of antipsychotics for treatment of delirium in hospitalised patients, not including those in intensive care units (specialised wards for caring for very sick patients). 
+Background 
+Delirium is a public health concern as it is a new onset confused state that increases the amount of time patients spend in the hospital, as well as their chance of dying. Guidelines recommendations include reversal of any potential medical or drug triggers that may be contributing to delirium. If delirium symptoms persist and are distressing or dangerous, an antipsychotic drug may be prescribed for a short time. Antipsychotic drugs, also known as tranquillizers, are mainly used to treat psychosis (e.g. hallucinations). There are two types of antipsychotics: first generation or typical antipsychotics (e.g. haloperidol) and second generation or atypical antipsychotics (e.g. quetiapine). Both groups of antipsychotics block the brain's dopamine receptor pathways but atypical antipsychotics also act on serotonin receptors. Atypical antipsychotics are also noted to be effective for treating both the positive symptoms (e.g. hallucinations) as well as the negative symptoms (e.g. emotional withdrawal) of psychosis. We need to understand if antipsychotics shorten the course of delirium or reduce symptoms or if they cause more harm. Therefore, we updated the existing Cochrane Review from 2007. 
+Study characteristics 
+We found nine studies with 727 participants testing antipsychotics for delirium treatment; four trials compared an antipsychotic to another drug class or placebo and seven of the nine trials compared a typical antipsychotic to an atypical antipsychotic. 
+Key findings 
+We found no evidence to support or refute the suggestion that antipsychotics shorten the course of delirium in hospitalised patients. Based on the available studies, antipsychotics do not reduce the severity of delirium or resolve symptoms compared to nonantipsychotic drugs or placebo or lower the risk of dying. We found no evidence to support or refute the suggestion that antipsychotics shorten hospital length of stay or improve health‐related quality of life. Side effects were rarely reported in the studies. 
+Quality of the Evidence 
+It is important to note many clinically relevant outcomes were not reported in the studies and the overall quality of the available evidence was poor. 
+External funding 
+Canadian Fraility Network (previously Technology Evaluation in the Elderly Network [TVN]) (www.cfn‐nce.ca/), Canada 

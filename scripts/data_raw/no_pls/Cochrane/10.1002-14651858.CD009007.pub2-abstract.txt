@@ -1,0 +1,14 @@
+Background
+Anaemia occurs in 68% to 77% of patients with advanced cancer, however, only a minority of patients who are admitted to a hospice receive a blood transfusion. It is unclear what the benefit of blood transfusion is in advanced cancer, who is most likely to respond and also for how long. Hence we conducted a systematic review to assess the use of blood transfusion in advanced cancer. 
+Objectives
+To synthesise the existing clinical evidence and summarise knowledge gaps regarding blood transfusions for treating anaemia in patients with advanced cancer. 
+Search methods
+We searched MEDLINE, EMBASE, CINAHL, Web of Science, ZETOC and CENTRAL in November 2011. In addition, we checked and citation‐tracked the reference lists of all relevant studies and reports. We contacted investigators who were known to be researching this area for unpublished data or knowledge of the grey literature. 
+Selection criteria
+Randomised controlled trials (RCTs), before and after studies and interrupted time series (ITS) studies in adults and children, reporting the outcome of blood transfusions in advanced cancer. 
+Data collection and analysis
+Two independent (NP and AH) review authors extracted data and quality scored studies. There were insufficient data to carry out an analysis. 
+Main results
+No RCTs were found. We identified 12 before and after studies which included 653 participants and showed a subjective response rate of 31% to 70%. Five studies specifically assessed response using a range of fatigue scales which indicated an early response post transfusion, which was beginning to wane by day 14. Similar results were found for breathlessness. Overall survival ranged from two to 293 days but there was a significant proportion of participants (23% to 35%) who died within two weeks of their transfusion. 
+Authors' conclusions
+Higher‐quality studies are required to determine the effectiveness of blood transfusion at the end of life and, in particular, to determine which patients are most likely to respond and which are not, and the duration of any response. Potential harms of blood transfusion at the end of life (indicated by high 14‐day mortality) need to be distinguished from inappropriate transfusion in patients who are dying from advanced cancer. 

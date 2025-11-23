@@ -1,0 +1,15 @@
+Background
+Nasal pharyngolaryngoscopy (NPL) is performed as an outpatient and inpatient procedure on a daily basis, for a variety of indications. It frequently causes some degree of discomfort to the patient. Various different topical agents, which are intended to reduce this discomfort, are in common use. This review aimed to assess the effectiveness of the various agents. 
+Objectives
+To assess the effectiveness of topical preparations used to reduce discomfort and facilitate NPL in adults. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 14 April 2010. 
+Selection criteria
+Randomised controlled trials (RCTs) looking at the effect of topical anaesthetic or vasoconstrictor agents used reduce discomfort and facilitate NPL in adult patients. 
+Data collection and analysis
+Two review authors independently selected studies, extracted data and assessed risk of bias. We contacted trial authors for further information where necessary. The primary outcome measured was pain/discomfort. Secondary outcomes that were looked at included side effects of the topical medications, ease of the procedure and the quality of the view from the operator's perspective. 
+Main results
+We included eight RCTs (746 participants) in the review. The risk of bias in the studies was generally low. Five studies did not demonstrate any advantage in using a topical treatment prior to endoscopy. One study suggested that a vasoconstrictor alone should be used to reduce the general level of unpleasantness. Two studies did not compare treatment against placebo or no treatment, so it was not possible to draw meaningful conclusions from them. There may be some unpleasant side effects from the use of topical preparations, such as unpleasant taste. 
+There was variation in the format of the outcome data and a lack of complete data; none of the included studies reported their results in a way that would allow pooling and we could not therefore perform meta‐analysis. 
+Authors' conclusions
+The included studies do not demonstrate any evidence to support the use of topical treatments prior to the use of a fibre‐optic nasal endoscope. Some go as far as to suggest that these agents should not be used due to cost and unpleasant side effects. Five studies did not demonstrate any advantage in terms of reducing pain or discomfort when using a topical treatment prior to endoscopy. The absence of demonstrable effect may be due to relatively small patient groups. It is therefore possible that there is a small effect of using these sprays. Further research using standardised reporting methods is needed. 

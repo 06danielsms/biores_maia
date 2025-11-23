@@ -1,0 +1,19 @@
+Background
+Behavioural treatment is commonly used in the management of chronic low‐back pain (CLBP) to reduce disability through modification of maladaptive pain behaviours and cognitive processes. Three behavioural approaches are generally distinguished: operant, cognitive, and respondent; but are often combined as a treatment package. 
+Objectives
+To determine the effects of behavioural therapy for CLBP and the most effective behavioural approach. 
+Search methods
+The Cochrane Back Review Group Trials Register, CENTRAL, MEDLINE, EMBASE, and PsycINFO were searched up to February 2009. Reference lists and citations of identified trials and relevant systematic reviews were screened. 
+Selection criteria
+Randomised trials on behavioural treatments for non‐specific CLBP were included.
+Data collection and analysis
+Two review authors independently assessed the risk of bias in each study and extracted the data. If sufficient homogeneity existed among studies in the pre‐defined comparisons, a meta‐analysis was performed. We determined the quality of the evidence for each comparison with the GRADE approach. 
+Main results
+We included 30 randomised trials (3438 participants) in this review, up 11 from the previous version. Fourteen trials (47%) had low risk of bias. For most comparisons, there was only low or very low quality evidence to support the results. There was moderate quality evidence that: 
+i) operant therapy was more effective than waiting list (SMD ‐0.43; 95%CI ‐0.75 to ‐0.11) for short‐term pain relief; 
+ii) little or no difference exists between operant, cognitive, or combined behavioural therapy for short‐ to intermediate‐term pain relief; 
+iii) behavioural treatment was more effective than usual care for short‐term pain relief (MD ‐5.18; 95%CI ‐9.79 to ‐0.57), but there were no differences in the intermediate‐ to long‐term, or on functional status; 
+iv) there was little or no difference between behavioural treatment and group exercise for pain relief or depressive symptoms over the intermediate‐ to long‐term; 
+v) adding behavioural therapy to inpatient rehabilitation was no more effective than inpatient rehabilitation alone. 
+Authors' conclusions
+For patients with CLBP, there is moderate quality evidence that in the short‐term, operant therapy is more effective than waiting list and behavioural therapy is more effective than usual care for pain relief, but no specific type of behavioural therapy is more effective than another. In the intermediate‐ to long‐term, there is little or no difference between behavioural therapy and group exercises for pain or depressive symptoms. Further research is likely to have an important impact on our confidence in the estimates of effect and may change the estimates. 

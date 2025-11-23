@@ -1,0 +1,14 @@
+Background
+Acquired haemophilia A is a rare bleeding disorder caused by the development of specific autoantibodies against coagulation factor VIII. Standard treatment, usually steroids alone, or in combination with cyclophosphamide, aims to stop acute bleeds by using haemostatic agents to promote clotting. Rituximab may be an alternative approach to the treatment of acquired haemophilia by eradicating FVIII autoantibodies. This is an update of a previously published Cochrane Review. 
+Objectives
+To assess the efficacy and adverse effects of rituximab for treating people with acquired haemophilia A. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's trials registers, comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and conference proceedings (January 2021). We also undertook searches of CENTRAL, MEDLINE and online trial registries (January 2021). 
+Selection criteria
+Randomised and quasi‐randomised controlled trials of rituximab for people with acquired haemophilia A, with no restrictions on gender, age or ethnicity. 
+Data collection and analysis
+No trials matching the selection criteria were eligible for inclusion.
+Main results
+No trials matching the selection criteria were eligible for inclusion.
+Authors' conclusions
+We found no randomised clinical trials of rituximab for acquired haemophilia A. Thus, we are not able to draw any conclusions or make any recommendations on rituximab for eradicating inhibitors in people with acquired haemophilia A based on the highest quality evidence. Given that undertaking randomised controlled trials in this field is a complex task, we suggest that, while planning such trials, clinicians treating the disease continue to base their choices on alternative, lower‐quality sources of evidence. In a future update of this review, we plan to appraise and incorporate eligible randomised controlled trials, as well as other high‐quality, non‐randomised studies. 

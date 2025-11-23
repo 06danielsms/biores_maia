@@ -1,0 +1,16 @@
+Background
+Clonidine was originally used to lower blood pressure. It acts on the central nervous system and may reduce withdrawal symptoms in various addictive behaviours, including tobacco use. 
+Objectives
+The aim of this review is to determine clonidine's effectiveness in helping smokers to quit. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group trials register for trials of clonidine. Date of the most recent search: June 2008. 
+Selection criteria
+We considered randomized trials of clonidine versus placebo with a smoking cessation endpoint assessed at least 12 weeks following the end of treatment. 
+Data collection and analysis
+We extracted data in duplicate on the type of subjects, the dose and duration of clonidine therapy, the outcome measures, method of randomization, and completeness of follow up. 
+The main outcome measure was abstinence from smoking after at least 12 weeks follow up in patients smoking at baseline. We used the most rigorous definition of abstinence for each trial, and biochemically validated rates if available. Where appropriate, we performed meta‐analysis using a fixed effect model. 
+Main results
+Six trials met the inclusion criteria. There were three trials of oral, and three of transdermal clonidine. Some form of behavioural counselling was offered to all participants in five of the six trials. 
+There was a statistically significant effect of clonidine in one of these trials. The pooled risk ratio for success with clonidine versus placebo was 1.63 (95% confidence interval 1.22 to 2.18). There was a high incidence of dose‐dependent side‐effects, particularly dry mouth and sedation. 
+Authors' conclusions
+Based on a small number of trials, in which there are potential sources of bias, clonidine is effective in promoting smoking cessation. Prominent side‐effects limit the usefulness of clonidine for smoking cessation. 

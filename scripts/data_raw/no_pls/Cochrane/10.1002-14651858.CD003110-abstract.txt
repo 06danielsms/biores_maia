@@ -1,0 +1,14 @@
+Background
+It is estimated that by 2020 road traffic crashes will have moved from ninth to third in the world disease burden ranking, as measured in disability adjusted life years, and to second in developing countries. Area‐wide traffic calming schemes that discourage through traffic on residential roads is one strategy for preventing traffic related injuries. 
+Objectives
+To assess the effects of area‐wide traffic calming for preventing traffic related crashes, injuries, and deaths. 
+Search methods
+We searched the the Cochrane Injuries Group Specialised Register, Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and TRANSPORT. We searched the web sites of road safety organisations, handsearched conference proceedings, checked reference lists of relevant papers and contacted experts in the area. The search was not restricted by language or publication status. The searches were last updated in 2008. 
+Selection criteria
+Randomised controlled trials and controlled before‐after studies of area‐wide traffic calming schemes. 
+Data collection and analysis
+Two authors independently extracted data on type of study, characteristics of intervention and control areas, and length of data collection periods. Before and after data were collected on the total number of road traffic crashes, all road user deaths and injuries, pedestrian‐motor vehicle collisions and road user deaths. The results of each study were expressed as rate ratios. 
+Main results
+We found no randomised controlled trials, but 22 controlled before‐and‐after studies met our inclusion criteria. Seven studies were conducted in Germany, seven in the UK, two in Australia, two in the Netherlands, two in Denmark, one in Japan, and one in Spain. There were no studies in low or middle income countries. Nine trials reported the number of road traffic crashes resulting in deaths; pooled rate ratio 0.79 (95% CI 0.23 to 2.68). Eighteen studies reported the number of road traffic crashes resulting in injuries (fatal and non‐fatal); pooled rate ratio 0.85 (95% CI 0.75 to 0.96). Twelve studies reported the total number of road traffic crashes; pooled rate ratio 0.89 (95% CI 0.76 to 1.05). Fourteen trials reported the number of pedestrian‐motor vehicle collisions; pooled rate ratio 1.01 (95% CI 0.88 to 1.16). There was evidence of significant heterogeneity for the total number of crashes and road user injuries outcomes. 
+Authors' conclusions
+The results from this review suggest that area‐wide traffic calming in towns and cities may be a promising intervention for reducing the number of road traffic injuries and deaths. However, further rigorous evaluations of such interventions are needed. 

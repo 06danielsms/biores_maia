@@ -1,0 +1,14 @@
+Background
+Physiological monitoring studies indicate that some preterm infants experience episodes of oxygen desaturation, apnoea, or bradycardia when seated in standard car safety seats. The American Academy of Pediatrics recommends that all preterm infants should be assessed for cardiorespiratory stability in their car seat prior to discharge ‐ the "car seat challenge". We aimed to assess the evidence to support this practice, specifically to determine whether the use of the car seat challenge prevents morbidity and mortality in preterm infants. 
+Objectives
+To assess the available evidence from randomised controlled trials that pre‐discharge cardiorespiratory monitoring in a car safety seat prevents morbidity and mortality in preterm infants. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2005), MEDLINE (1966 ‐ September 2005), EMBASE (1980 ‐ September 2005), CINAHL (1982 ‐ September 2005), conference proceedings, and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that compared pre‐discharge cardiorespiratory monitoring in a car seat versus no monitoring in preterm infants in the week prior to planned discharge from hospital. 
+Data collection and analysis
+The standard methods of the Cochrane Neonatal Review Group, with separate evaluation of trial quality and data extraction by two review authors, and synthesis of data using relative risk, risk difference and weighted mean difference. 
+Main results
+We did not find any randomised controlled trials that fulfilled the eligibility criteria.
+Authors' conclusions
+It is unclear whether undertaking a pre‐discharge car seat challenge is beneficial or harmful to preterm infants. Further studies are needed to determine whether the car seat challenge accurately predicts the risk of clinically significant adverse events in preterm infants travelling in car seats. If this is shown to be the case then a large randomised controlled trial is needed to provide an unbiased assessment of its utility in pre‐discharge assessment. 

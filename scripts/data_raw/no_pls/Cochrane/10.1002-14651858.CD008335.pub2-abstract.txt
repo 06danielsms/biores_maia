@@ -1,0 +1,14 @@
+Background
+Pegloticase is a potential new treatment option for patients with chronic gout intolerant to other urate‐lowering therapies. 
+Objectives
+To assess safety (adverse events, death) and efficacy (pain, function, frequency of flares, quality of life, uric acid level, radiographic damage) of pegloticase in various doses or as compared to placebo or other interventions for treatment of hyperuricemia in patients with chronic gout. 
+Search methods
+We searched six databases: The Cochrane Central Register of Controlled Trials (CENTRAL), via The Cochrane Library, OVID MEDLINE, CINAHL (via EBSCOHost), OVID SPORTdiscus, EMBASE and the Science Citation Index (Web of Science). 
+Selection criteria
+All published randomized controlled trials (RCTs) or controlled clinical trials that compared various doses of pegloticase alone or pegloticase alone or in combination with other urate‐lowering or anti‐inflammatory medications to placebo alone or placebo in combination with these medications, in patients with gout. 
+Data collection and analysis
+Two review authors (AA, JS) independently extracted data from the included trials, including trial and population characteristics, primary and secondary outcomes. For dichotomous and continuous outcomes, we calculated the risk ratio and mean difference, respectively with 95% confidence interval. Major outcomes were: (a) Efficacy: frequency of gout flares and change in serum uric acid; and (b) safety: adverse events, serious adverse events, withdrawals and death. Minor/secondary outcomes were pain, patient/physician global assessment, tophus burden, health related quality of life, function and radiographic progression. 
+Main results
+Only one open‐label, phase‐II RCT (n=41) met the selection criteria that compared various doses of pegloticase without comparison to placebo or another treatment. Patients were randomized to one of the four doses of pegloticase for 12 to 14 weeks ‐ 4mg every 2 weeks, 8mg every 2 weeks, 8mg every 4 weeks and 12mg every 4 weeks. Percent responders (uric acid below 6 mg/dl 80% or more time) in the four dose groups were 56%, 88%, 52% and 62%. Percent time without hyperuricemia (uric acid below 6 mg/dl) was 78%, 92%, 76% and 76% respectively. No between dose differences were noted. Most common adverse events (10% or more patients) included nephrolithiasis, arthralgia, anemia, dyspnea, headache, muscle spasms, nausea and pyrexia. 89% reported one or more gout flares during the study. Pain, patient/physician global, function, quality of life, tophus size/regression and radiographic progression were not reported in this study. 
+Authors' conclusions
+There are no published double‐blind, placebo‐controlled RCTs of pegloticase. More evidence is needed to assess risks/benefits of pegloticase in patients with chronic gout. 

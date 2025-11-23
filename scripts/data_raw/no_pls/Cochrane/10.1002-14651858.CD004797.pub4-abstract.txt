@@ -1,0 +1,15 @@
+Background
+Multisystemic Therapy (MST) is an intensive, home‐based intervention for families of youth with social, emotional, and behavioral problems. Masters‐level therapists engage family members in identifying and changing individual, family, and environmental factors thought to contribute to problem behavior. Intervention may include efforts to improve communication, parenting skills, peer relations, school performance, and social networks. Most MST trials were conducted by program developers in the USA; results of one independent trial are available and others are in progress. 
+Objectives
+To provide unbiased estimates of the impacts of MST on restrictive out‐of‐home living arrangements, crime and delinquency, and other behavioral and psychosocial outcomes for youth and families. 
+Search methods
+Electronic searches were made of bibliographic databases (including the Cochrane Library, C2‐SPECTR, PsycINFO, Science Direct and Sociological Abstracts) as well as government and professional websites, from 1985 to January 2003. Reference lists of articles were examined, and experts were contacted. 
+Selection criteria
+Studies where youth (age 10‐17) with social, emotional, and/or behavioral problems were randomised to licensed MST programs or other conditions (usual services or alternative treatments). 
+Data collection and analysis
+Two reviewers independently reviewed 266 titles and abstracts; 95 full‐text reports were retrieved, and 35 unique studies were identified. Two reviewers independently read all study reports for inclusion. Eight studies were eligible for inclusion. Two reviewers independently assessed study quality and extracted data from these studies. 
+Significant heterogeneity among studies was identified (assessed using Chi‐square and I2), hence random effects models were used to pool data across studies. Odds ratios were used in analyses of dichotomous outcomes; standardised mean differences were used with continuous outcomes. Adjustments were made for small sample sizes (using Hedges g). Pooled estimates were weighted with inverse variance methods, and 95% confidence intervals were used. 
+Main results
+The most rigorous (intent‐to‐treat) analysis found no significant differences between MST and usual services in restrictive out‐of‐home placements and arrests or convictions. Pooled results that include studies with data of varying quality tend to favor MST, but these relative effects are not significantly different from zero. The study sample size is small and effects are not consistent across studies; hence, it is not clear whether MST has clinically significant advantages over other services. 
+Authors' conclusions
+There is inconclusive evidence of the effectiveness of MST compared with other interventions with youth.There is no evidence that MST has harmful effects. 

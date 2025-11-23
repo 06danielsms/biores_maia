@@ -1,0 +1,14 @@
+Background
+Hepatocellular carcinoma is the most common primary malignant cancer of the liver. Evidence for the role of cryotherapy in the treatment of hepatocellular carcinoma is controversial. 
+Objectives
+The aim of this review is to evaluate the potential benefits and harms of cryotherapy for the treatment of hepatocellular carcinoma. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and LILACS until June 2009. We identified further studies by searching national and topic‐specific databases, bibliographies, conference abstracts, journals, and grey literature. Furthermore, we reviewed the reference lists and contacted the principal authors of the identified studies. 
+Selection criteria
+Randomised clinical trials (irrespective of language or publication status) comparing cryotherapy with or without co‐intervention(s) to placebo, no treatment, or other control interventions were considered for the review. Due to the absence of randomised clinical trials, we searched for quasi‐randomised studies as well as prospective cohort studies and retrospective cohort studies. 
+Data collection and analysis
+Two authors independently identified and assessed studies for their fulfilment of the inclusion criteria. Dichotomous data were expressed as risk ratio (RR) with 95% confidence intervals (CI). We performed the review following the recommendations of The Cochrane Collaboration. 
+Main results
+We were unable to identify any randomised clinical trials. We were also unable to identify quasi‐randomised trials. Instead, we identified two prospective cohort studies and two retrospective cohort studies. However, only one of these studies could be included for the assessment of benefit as the study results were stratified according to both the type of hepatic malignancy (primary or secondary) and the intervention group. This retrospective study compared percutaneous cryotherapy with percutaneous radiofrequency. The remaining studies were excluded for the analyses of benefit but included for the assessment of harm. Both severe and non‐severe adverse events were reported, but the true nature and extent of harm was difficult to asses. 
+Authors' conclusions
+At present, there is no evidence to recommend or refute cryotherapy for patients with hepatocellular carcinoma. Randomised clinical trials with low‐risk of bias may help in defining the role of cryotherapy in the treatment of hepatocellular carcinoma. 

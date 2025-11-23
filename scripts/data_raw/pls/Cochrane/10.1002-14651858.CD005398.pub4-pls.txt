@@ -1,0 +1,10 @@
+Effects of antiepileptic drugs for the primary and secondary prevention of seizures after stroke 
+Review question 
+Is there evidence to support the routine use of antiepileptic drugs (AEDs) for the primary and secondary prevention of seizures after stroke? 
+Background 
+Seizures after a stroke are clinically important. It is unclear whether AEDs are effective in preventing seizures after a stroke in adults. 
+Results 
+We found two prospective randomised, double‐blind, placebo‐controlled trials, assessing the effect of AEDs on primary seizure prevention after stroke. The first study included 72 adults, comparing valproic acid with placebo, and it showed no difference in post‐stroke seizure between the intervention and controlled group. The second study included 784 adults, comparing diazepam with placebo, and it showed no difference in post‐stroke seizure between the diazepam group and placebo group. However, a subgroup analysis of the anterior circulation cortical infarcts showed a possible benefit with prophylactic diazepam within the first three months after stroke. Overall, there is insufficient evidence to support the routine use of AEDs to prevent seizures after stroke. Further research on whether AED prophylaxis is indicated in all strokes or in strokes with specific characteristics is warranted. 
+Quality of the evidence 
+We assessed the included studies to be at an overall low risk of bias and the certainty of the evidence to be low to moderate. This means that further research is likely to have an important impact on our confidence in estimation of effect and may change the conclusions. 
+The evidence is current to 9 March 2021.

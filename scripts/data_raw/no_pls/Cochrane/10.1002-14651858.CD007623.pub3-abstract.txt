@@ -1,0 +1,19 @@
+Background
+During caesarean section mothers can be in different positions. Theatre tables could be tilted laterally, upwards, downwards or flexed and wedges or cushions could be used. There is no consensus on the best positioning at present. 
+Objectives
+We assessed all available data on positioning of the mother to determine if there is an ideal position during caesarean section that would improve outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (20 August 2012), PubMed (1966 to 20 August 2012) and manually searched the references of retrieved articles. 
+Selection criteria
+Randomised trials of woman undergoing caesarean section comparing different positions.
+Data collection and analysis
+Two review authors assessed eligibility, trial quality and extracted data.
+Main results
+We identified 22 studies with a total of 857 women included. We included 11 studies and excluded 11. Included trials were of variably quality with small sample sizes. Most comparisons had data from single trials. This is a shortcoming and applicability of results is limited. 
+The incidence of air embolism was not affected by head up versus horizontal position (average risk ratio (RR) 0.85; 95% confidence interval (CI) 0.28 to 2.57; Tau² = 0.50; I² = 74%). 
+We found no change in hypotensive episodes when comparing left lateral tilt (RR 0.11; 95% CI 0.01 to 1.94), right lateral tilt (RR 1.25; 95% CI 0.39 to 3.99), a right lumbar pelvic wedge (RR 0.85; CI 0.53 to1.37) and head down tilt (RR 1.07; 95% CI 0.81 to 1.42) with horizontal positions. We found no change in hypotensive episodes when comparing full lateral tilt with 15‐degree tilt (RR 1.20; 95% CI 0.80 to 1.79). Hypotensive episodes were decreased with manual displacers (RR 0.11; 95% CI 0.03 to 0.45), and increased with a right lumbar wedge compared with a right pelvic wedge (RR 1.64; 95% CI 1.07 to 2.53) and increased with a right lateral tilt compared with a left lateral tilt (RR 3.30; 95% CI 1.20 to 9.08). 
+Position did not affect systolic blood pressure when comparing left lateral tilt (MD 2.70; 95% CI ‐1.47 to 6.87) or head down tilt (MD ‐3.00; 95% CI ‐8.38 to 2.38) with horizontal positions, or full lateral tilt with 15‐degree tilt (MD ‐5.00; 95% CI ‐11.45 to 1.45). Manual displacers showed decreased fall in mean systolic blood pressure compared with left lateral tilt (MD ‐8.80; 95% CI ‐13.08 to ‐4.52). 
+Position did not affect diastolic blood pressures when comparing left lateral tilt versus horizontal positions (MD‐1.90; 95% CI ‐5.28 to 1.48). The mean diastolic pressure was lower in head down tilt (MD ‐7.00; 95% CI ‐12.05 to ‐1.95) when compared with horizontal positions. 
+There were no statistically significant changes in maternal pulse rate, five‐minute Apgars, maternal blood pH or cord blood pH when comparing different positions. 
+Authors' conclusions
+There is limited evidence to support or clearly disprove the value of the use of tilting or flexing the table, the use of wedges and cushions or the use of mechanical displacers. A left lateral tilt may be better than a right lateral tilt and manual displacers may be better than a left lateral tilt but larger studies with more robust data are needed to confirm these findings. 

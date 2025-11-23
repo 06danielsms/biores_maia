@@ -1,0 +1,20 @@
+Rapid tests for diagnosing malaria caused by Plasmodium vivax in people living in areas where malaria is very common 
+What is the aim of the review? 
+Malaria infection is caused mainly by two species of malaria parasite: Plasmodium falciparum and Plasmodium vivax. The aim of this review was to evaluate rapid diagnostic tests (RDTs) to diagnose P vivax infection. 
+Why are rapid tests for P vivax malaria important? 
+For clinical management, knowing which parasite species is causing the malaria is important as the drug treatments differ. For P vivax infection, an additional drug is required to eliminate the infection from the liver. For public health control of malaria, we know that P falciparum is declining over the previous 15 years, and infections from P vivax have therefore increased in importance. 
+What was studied in this review? 
+RDTs provide results quickly and are often as a dipstick. We studied RDTs that specifically test for P vivax malaria. RDTs are simple to use, point‐of‐care tests. They are suitable for use in rural settings by primary healthcare workers, using drop of blood on the dipstick that causes colour change and a distinct line that indicates a positive test result. Healthcare workers in rural areas can perform RDTs for P vivax without needing a laboratory or special equipment. We wanted to find out which brands of RDTs were the most accurate for diagnosing P vivax malaria. We compared the new tests against the standard form of diagnosis with microscopy, and also more recent methods polymerase chain reaction (PCR): a molecular method to identify P vivax DNA in blood samples. 
+What are the main results of the review? 
+We included 10 studies that looked at the accuracy of six diagnostic test brands for detecting P vivax malaria in people with suspected malaria symptoms. The studies were conducted in Ethiopia (four studies), India (two studies) and Bangladesh, Brazil, Colombia, and Sudan (one study each). 
+Compared with microscopy, the Care Start Malaria Pf/Pv Combo test performed well with 99% sensitivity and specificity (four studies). This means that: 
+• for every 100 people tested who have P vivax malaria, one person will have a negative test result, and might not receive the right treatment soon enough; 
+• for every 100 people tested who do not have P vivax malaria, one will have a positive result, and might receive unnecessary treatment. 
+Compared with microscopy, the Falcivax Device Rapid test had a sensitivity of 77% and a specificity of 99% (two studies). This means that: 
+• For every 100 people tested who have P vivax malaria, 23 people will have a negative test result; and, 
+• for every 100 people tested who do not have P vivax malaria, one person will have a positive result. 
+We are moderately confident (certain) in the accuracy results for the Care Start Malaria Pf/Pv Combo test. The results are from a small number of studies (four), so our findings may change when results from further studies become available. 
+We are less confident in the accuracy results for the Falcivax Device Rapid test, because these came from only two studies. Our findings for this test will probably change when results from further studies become available. 
+Our results are based on a small number of studies, so we could not reliably assess all six brands of antibody test or compare their accuracy. Most studies included in this review had limitations: it was not clear how people were selected for testing, or how the study results were assessed and checked, which could have affected the results. Some rapid antibody tests were investigated by only one study. Some studies did not report clearly how common P malaria was in the area where the study was done. 
+How up‐to‐date is this review? 
+The review authors searched for studies published up to 30 July 2019.

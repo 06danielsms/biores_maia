@@ -1,0 +1,14 @@
+Background
+There is evidence suggesting that people with serious mental illness are less responsive to everyday social rewards such as praise. Motivation and performance in social situations can be poor. Rewarding of tasks with money improves motivation to complete the tasks in everyday life. Careful use of targeted monetary rewards could also help people with troublesome symptoms of schizophrenia. 
+Objectives
+To assess the effect of monetary incentive/rewards for people with schizophrenia or schizophrenia‐like illness. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (June 2008).
+Selection criteria
+All relevant randomised controlled trials comparing monetary rewards with standard care or no monetary rewards. 
+Data collection and analysis
+Working independently, we selected studies for quality assessment and extracted relevant data. We analysed on an intention‐to‐treat basis. Where possible and appropriate we calculated the Relative Risk (RR) and their 95% confidence intervals (CI). For continuous data we calculated weighted mean differences (MD) and their 95% confidence intervals. 
+Main results
+Five trials are excluded that investigate one type of monetary reward over another and may be included in a future update. We did include one study, carried out over 40 years ago, randomising a total of 25 very chronically ill people who had been in hospital an average of 20 years. The targeted task that was being encouraged was assembly of dolls. People allocated to the payment group produced less dolls than those not paid at all although this difference did not reach conventional levels of statistical significance (MD ‐0.80 CI ‐1.44 to ‐0.16). 
+Authors' conclusions
+Monetary rewards have been the topic for sporadic evaluative research for decades and this review shows that randomised studies are possible. We suggest a design for a future informative trial. 

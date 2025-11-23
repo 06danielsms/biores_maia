@@ -1,0 +1,30 @@
+Bedside examination tests to detect beforehand adults who are likely to be difficult to intubate 
+Review question 
+We looked for the most suitable and accurate rapid screening test in adults with no obvious airway abnormalities, to identify those who are likely to be difficult to intubate (i.e. insertion of a tube into the windpipe). 
+Background 
+Intubation ensures a patient’s airway is clear while they are heavily sedated, unconscious or anaesthetized, so their breathing can be controlled by machine (ventilation), and appropriate levels of oxygen can be given during surgery, following major trauma, during critical illness, or following cardiac arrest. Having an airway that is difficult to intubate is a potentially life‐threatening situation. 
+Tube insertion is preceded by laryngoscopy (insertion of mini‐camera to view route of tube insertion), requires advanced skills, and is generally uneventful. Intubation is difficult in approximately 10% of patients, who require special equipment and precautions. Several physical features are associated with difficult airways and failed intubation, so warning of potentially difficult airways would be helpful. Several quick bedside tests are in routine clinical use to identify those at high risk for difficult airways, but how accurate these are remains unclear. 
+Population 
+We included studies of adults aged 16 years or older without obvious airway abnormalities who were to receive standard intubation. 
+Test under investigation 
+We assessed the seven most common bedside tests, routinely used to detect difficult airways. These take only a few seconds to complete and require no special equipment. 
+The index tests (diagnostic tests of interest) included:
+‐ the Mallampati test (original or modified; asking a sitting patient to open his mouth and to protrude the tongue as much as possible so that visibility can be determined); 
+‐ Wilson risk score (including patient's weight, head and neck movement, jaw movement, receding chin, buck teeth); 
+‐ thyromental distance (length between the chin and the upper edge of Adam's apple);
+‐ sternomental distance (length between the chin and the notch between the collar bones); 
+‐ mouth opening test;
+‐ upper lip bite test;
+‐ or any combination of these tests.
+Search date 
+The evidence is current to 16 December 2016. (We searched for new studies in March 2018, but we have not yet included them in the review.) 
+Study characteristics 
+We included 133 studies (844,206 participants) which investigated the accuracy of the seven tests above, plus 69 other common tests and 32 test combinations, in detection of difficult airways. 
+Key results 
+For difficult laryngoscopy, the average sensitivity (percentage of correctly identified difficult airways) ranged from 22% (mouth opening test) to 63% (upper lip bite test). The average specificity (percentage of correctly classified patients without difficult airways) ranged from 80% (modified Mallampati test) to 95% (Wilson risk score). The upper lip bite test had the highest sensitivity of all tests considered. 
+For difficult tube insertion, the average sensitivity ranged from 24% (thyromental distance) to 51% (modified Mallampati test) and the average specificity ranged from 87% (modified Mallampati test) to 93% (mouth opening test). The modified Mallampati test had the highest sensitivity of all tests considered. 
+For difficult face mask ventilation (another indication of a difficult airway), there were only enough data to calculate average sensitivity of 17% and specificity 90% for the modified Mallampati test. 
+Quality of the evidence 
+Overall, the evidence from the studies was of moderate to high quality. The likelihood of the studies providing reliable results was generally high, although in half of them, the intubating physician knew the result of the preceding test, which may have influenced results, but this is the normal situation in routine clinical care. The characteristics of patients, tests, and conditions were comparable to those seen in a wide range of everyday clinical settings. The results of this review should apply to standard preoperative airway assessments in apparently normal hospital patients worldwide. 
+Conclusion 
+The bedside screening tests examined in this review are not well suited for the purpose of detecting unanticipated difficult airways because they missed a large number of people who had a difficult airway. 

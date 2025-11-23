@@ -1,0 +1,14 @@
+Background
+In national surveys, between 10% and 34% of women have reported being physically assaulted by an intimate male partner. Cognitive behavioural therapy (CBT) or programmes including elements of CBT are frequently used treatments for physically abusive men. Participants either enrol voluntarily or are obliged to participate by means of a court order. CBT not only seeks to change behaviour using established behavioural strategies, but also targets thinking patterns and beliefs. 
+Objectives
+To measure effectiveness of CBT and programmes including elements of CBT on men's physical abuse of their female partners. 
+Search methods
+We searched CENTRAL (The Cochrane Library Issue 4, 2009), C2‐SPECTR (2006), MEDLINE (1950 to 1 January 2010), EMBASE (1980 to 2009 week 53), CINAHL (1982 to December 2009), PsycINFO (1806 to week 4, December 2009), ERIC (1966 to December 2009), Social Care Online, previously CareData (13 January 2010), Sociological Abstracts (1963 to December 2009), Criminal Justice Abstracts (2003), Bibliography of Nordic Criminology (13 January 2010), and SIGLE (2003). We also contacted field experts and the authors of included studies. 
+Selection criteria
+Randomised controlled trials that evaluated the effectiveness of cognitive behavioural therapy for men who have physically abused their female partner and included a measure of the impact on violence. 
+Data collection and analysis
+Two reviewers independently assessed references for possible inclusion, extracted data using an online data extraction form and assessed the risk of bias in each included study. Where necessary, we contacted study authors for additional information. 
+Main results
+Six trials, all from the USA, involving 2343 participants, were included. A meta‐analysis of four trials comparing CBT with a no‐intervention control (1771 participants) reported that the relative risk of violence was 0.86 (favouring the intervention group) with a 95% confidence interval (CI) of 0.54 to 1.38. This is a small effect size, and the width of the CI suggests no clear evidence for an effect. One study (Wisconsin Study) compared CBT with process‐psychodynamic group treatment and reported a relative risk of new violence of 1.07 (95% CI 0.68 to 1.68). Even though the process‐psychodynamic treatment did marginally better than CBT, this result is equivocal. Finally, one small study (N = 64) compared a combined CBT treatment for substance abuse and domestic violence (SADV) with a Twelve‐Step Facilitation (TSF) group. An analysis involving 58 participants investigated the effect on reduction in frequency of physical violence episodes. The effect size was 0.30 (favouring TSF) with 95% CI from ‐0.22 to 0.81. 
+Authors' conclusions
+There are still too few randomised controlled trials to draw conclusions about the effectiveness of cognitive behaviour therapy for male perpetrators of domestic violence. 

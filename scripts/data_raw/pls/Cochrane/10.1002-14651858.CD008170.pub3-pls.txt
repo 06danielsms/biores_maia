@@ -1,0 +1,13 @@
+Renin angiotensin system inhibitors versus other types of medicine for hypertension
+Review question 
+We determined how RAS (renin angiotensin system) inhibitors compared as first‐line medicines for treating hypertension with other types of first‐line medicines (thiazide diuretics, beta‐blockers, CCBs, alpha‐blockers, or central nervous system (CNS) active drugs) for hypertension. 
+Background 
+Hypertension is a long‐lasting medical condition and associated with cardiovascular mortality and morbidity such as coronary artery disease, cerebrovascular disease, and peripheral vascular disease, which will reduce quality of life. RAS inhibitors have become a focus of interventions for hypertension in recent years and have been widely prescribed for treatment of hypertension. However, it remains unclear whether RAS inhibitors are superior to other antihypertensive drugs in terms of clinically relevant outcomes. 
+Search date 
+We searched for evidence up to November 2017.
+Study characteristics 
+We included randomized, double‐blind, parallel design RCTs for the present review. 45 trials with 66,625 participants who were followed‐up for between 0.5 year and 5.6 years were included. The participants had an average age of 66 years. 
+Key results 
+We found that first‐line RAS inhibitors caused more heart failure and stroke than first‐line thiazides. When compared to first‐line CCBs, first‐line RAS inhibitors showed superiority in preventing heart failure but were inferior in preventing stroke, with greater absolute risk reduction in heart failure than increase in stroke. When compared to first‐line beta‐blockers, RAS inhibitors reduced total cardiovascular events and stroke. Small differences on efficacy for lowering blood pressure were detected, but these did not to seem to be related to the number of heart attacks, strokes or kidney problems. 
+Certainty of evidence 
+Overall, certainty of evidence was assessed as low to moderate according to the GRADE assessment. Moderate‐certainty evidence demonstrated superiority of first‐line thiazides to first‐line RAS inhibitors in preventing heart failure and stroke. The certainty of evidence was assessed moderate for comparison between RAS inhibitors and CCBs. The certainty of evidence was low for comparison between RAS inhibitors and beta‐blockers on total cardiovascular events and stroke since the results were based primarily on one large trial with moderate to high risk of bias. 

@@ -1,0 +1,31 @@
+Adverse events may or may not be caused by the treatments in the study. A lot of research is needed to know whether a treatment causes an adverse event.
+There was 1 participant who was planned to get acalabrutinib and BSC, but this participant did not get any acalabrutinib. So, the results below show this participant as part of the group who got BSC only.
+
+Acalabrutinib and BSC 
+(out of 30 participants) 
+- 56.7% (17) 
+BSC only 
+(out of 32 participants) 
+- 46.9% (15)
+
+How many participants had adverse events? 
+- 56.7% (17) 
+- 46.9% (15)
+
+How many participants had serious adverse events? 
+- 13.3% (4) 
+- 18.8% (6)
+
+None of the participants in this group stopped getting acalabrutinib due to adverse events.
+
+The most common serious adverse event was a urinary tract infection.
+The most common adverse events were:
+- Headache
+- Increased levels of a liver protein called ALT, which can be a sign of liver damage
+- Increased levels of blood sugar
+- Difficulty sleeping, also called insomnia
+- Rash
+
+Did acalabrutinib when added to BSC help the participants stay alive and breathe without help?
+No. Overall, the researchers found that acalabrutinib when added to BSC did not help the participants stay alive and breathe without help.
+To answer this question, the researchers counted the number of participants who were alive and could breathe without help 4 weeks after the study started. They did this for each treatment group. The researchers calculated these numbers as a percentage. Then, they compared the results in the group who got acalabrutinib and BSC to the results in the group who got BSC only.

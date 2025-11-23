@@ -1,0 +1,28 @@
+Tests for identifying the most suitable antibiotics for a bacterial blood infection: are rapid tests better than standard tests? 
+What is the aim of this Cochrane Review? 
+People with blood infections need urgent treatment with antibiotics. Identifying the bacteria causing the infection helps ensure the right antibiotic is given. Rapid susceptibility tests are a technology to do this quickly, and aim to improve care. We sought to evaluate whether their use reduce deaths or shortens the illness. 
+Key messages 
+Rapid susceptibility tests to identify an appropriate antibiotic quickly for people with blood sepsis may make little to no difference to: 
+· how many people die within 30 days of diagnosis of blood sepsis;
+· how long people stay in hospital; 
+· whether given a suitable antibiotic. 
+Larger studies will help determine if using rapid susceptibility tests improves these outcomes. 
+What was studied in this review? 
+Susceptibility tests are done in a laboratory, and measure whether bacteria can grow when exposed to a variety of antibiotics, to assure that the antibiotics given are active against the organism causing the infection. The standard approach is to culture the blood samples, but this takes up to 36 hours to obtain a result. Rapid tests to identify bacteria causing blood infections, and their susceptibilities to antibiotics, provide results in eight hours or less. These rapid susceptibility tests include: 
+· tests that look at the direct effect of antibiotics on bacteria (called phenotypic tests); and 
+· tests that look for particular genes in the bacteria to see if they are susceptible, or resistant, to an antibiotic (called genotypic tests). 
+What are the main results of this review? 
+We found six studies that involved 1638 adults with blood infections. All studies took place in specialized medical centres in high‐income countries in Europe, the USA, and East Asia. 
+Compared with standard tests, rapid susceptibility tests may make little to no difference to 
+· how many people died within 30 days (evidence from six studies in 1638 people);
+· how long people stayed in hospital (4 studies in 1165 people); or
+· how long it took for people to be given the right antibiotic to treat the infection (5 studies in 1493 people). 
+Phenotypic rapid susceptibility tests may reduce the time it takes to receive the right antibiotic; but this is uncertain (evidence from 2 studies in 564 people). 
+Genotypic rapid susceptibility tests may make little or no difference to the time it takes to receive the right antibiotic (evidence from 4 studies in 1074 people). 
+Our confidence in the results is limited because:
+· the numbers of deaths reported in the studies were too low to show an important difference; 
+· the tests used and the results from the studies varied widely;
+· the studies did not include enough participants to enable firm conclusions.
+Further research is likely to change these results.
+How up to date is this review? 
+We included evidence published up to 21 October 2020.

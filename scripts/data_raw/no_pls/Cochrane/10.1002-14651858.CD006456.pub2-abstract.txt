@@ -1,0 +1,14 @@
+Background
+Huntington's disease (HD) is an orphan autosomal dominant neurodegenerative disorder caused by the amplification of a nucleic acids triplet repeat. It is characterised by core symptoms of chorea, progressive dementia and psychiatric manifestations such as depression, irritability, apathy and psychosis. In current clinical practice, drugs exist that seem to improve symptoms for HD patients. However, their effectiveness has not been fully measured. 
+Objectives
+To evaluate the effectiveness of the available interventions for the symptomatic treatment of HD. 
+Search methods
+The search strategy developed for the Movement Disorders Group was undertaken. Cochrane Controlled Trials Register, Medline, EMBASE and Clinical Trials Database of the United States National Institute of Health were thoroughly searched up until December 2007. 
+Selection criteria
+All randomised, double‐blinded, placebo‐controlled clinical trials conducted on any symptomatic therapy used for HD with at least ten participants were included. Participants should have HD clinical features and a confirmatory genetic diagnosis or a compatible family history. All disease variants and ages of disease onset were included. Cross‐over studies were included. All pharmacological and non‐pharmacological interventions aimed at the control of signs and symptoms associated with HD were to be selected. 
+Data collection and analysis
+Two reviewers independently assessed the identified trials for eligibility. In the selected trials, the assessment of their methodological quality was done according to the Cochrane Collaboration handbook, and eligible data were registered onto standardised forms. If possible, an intention‐to‐treat analysis was conducted. When data were not available in the original publication, the principal investigator of the trial was contacted. A meta‐analysis was conducted when possible and otherwise the descriptive summary of the results was provided. The software Revman 5.0.15 was used for statistical analysis. 
+Main results
+22 trials (1254 participants) were included. Nine trials had a cross‐over design and 13 were conducted in parallel. Study duration ranged from 2 to 80 weeks. Various pharmacological interventions were studied, mostly, they were anti‐dopaminergic drugs (n = 5), glutamate receptor antagonists (n = 5) and energy metabolites (n = 5). Only tetrabenazine showed a clear efficacy for the control of chorea. The remaining pharmacological interventions revealed no clear effectiveness. 
+Authors' conclusions
+No intervention proved to have a consistent symptomatic control in HD. Tetrabenazine is the anti‐choreic drug with the best quality data available. Other symptomatic areas should be explored by well‐designed randomised placebo‐controlled studies. 

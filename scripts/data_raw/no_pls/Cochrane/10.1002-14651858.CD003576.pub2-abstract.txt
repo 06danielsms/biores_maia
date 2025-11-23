@@ -1,0 +1,14 @@
+Background
+Miscarriage is pregnancy loss before 23 weeks of gestational age. It happens in 10% to 15% of pregnancies depending on maternal age and parity. It is associated with chromosomal defects in about a half or two‐thirds of cases. Many interventions have been used to prevent miscarriage but bed rest is probably the most commonly prescribed especially in cases of threatened miscarriage and history of previous miscarriage. Since the etiology of miscarriage in most of the cases is not related to an excess of activity, it is unlikely that bed rest could be an effective strategy to reduce spontaneous miscarriage. 
+Objectives
+To evaluate the effect of prescription of bed rest during pregnancy to prevent miscarriage in women at high risk of miscarriage. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010).
+Selection criteria
+We included all published, unpublished and ongoing randomized trials with reported data which compare clinical outcomes in pregnant women who were prescribed bed rest in hospital or at home for preventing miscarriage compared with alternative care or no intervention. 
+Data collection and analysis
+Two authors independently assessed the methodological quality of included trials using the methods described in the Cochrane Reviewers' Handbook. Studies were included irrespective of their methodological quality. 
+Main results
+Only two studies including 84 women were identified. There was no statistically significant difference in the risk of miscarriage in the bed rest group versus the no bed rest group (placebo or other treatment) (risk ratio (RR) 1.54, 95% confidence interval (CI) 0.92 to 2.58). Neither bed rest in hospital nor bed rest at home showed a significant difference in the prevention of miscarriage. There was a higher risk of miscarriage in those women in the bed rest group than in those in the human chorionic gonadotrophin therapy group with no bed rest (RR 2.50, 95% CI 1.22 to 5.11). It seems that the small number of participants included in these studies is a main factor to make this analysis inconclusive. 
+Authors' conclusions
+There is insufficient evidence of high quality that supports a policy of bed rest in order to prevent miscarriage in women with confirmed fetal viability and vaginal bleeding in first half of pregnancy. 

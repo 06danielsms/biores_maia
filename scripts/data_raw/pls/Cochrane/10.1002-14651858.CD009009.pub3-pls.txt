@@ -1,0 +1,13 @@
+General health checks for reducing illness and mortality
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out if general health checks reduce illness and deaths. This is an update of a previous Cochrane Review. 
+Key messages 
+Systematic offers of health checks are unlikely to be beneficial and may lead to unnecessary tests and treatments. 
+What was studied in the review? 
+General health checks involve multiple tests in a person who does not feel ill. The purpose is to find disease early, prevent disease from developing, or provide reassurance. Health checks are a common element of health care in some countries. Experience from screening programmes for individual diseases have shown that the benefits may be smaller than expected and the harms greater. We identified and analysed all randomised trials that compared invitations for one or more health checks for the general public with no invitations. We analysed the effect on illness and the risk of death, as well as other outcomes that reflect illness, for example, hospitalisation and absence from work. 
+What are the main results of the review? 
+We found 17 randomised trials that had compared a group of adults offered general health checks to a group not offered health checks. 
+Fifteen trials reported results and included 251,891 participants. Eleven of these trials had studied the risk of death, and included 233,298 participants and assessed 21,535 deaths. This is an unusually large amount of data in healthcare research, which allowed us to draw our main conclusions with a high degree of certainty. Health checks have little or no effect on the risk of death from any cause (high‐certainty evidence), or on the risk of death from cancer (high‐certainty evidence), and probably have little or no effect on the risk of death from cardiovascular causes (moderate‐certainty evidence). Likewise, health checks have little or no effect on heart disease (high‐certainty evidence) and probably have little or no effect on stroke (moderate‐certainty evidence). 
+We propose that one reason for the apparent lack of effect may be that primary care physicians already identify and intervene when they suspect a patient to be at high risk of developing disease when they see them for other reasons. Also, those at high risk of developing disease may not attend general health checks when invited or may not follow suggested tests and treatments. 
+How up to date is the review? 
+The review authors searched for studies published up to 31 January 2018.

@@ -1,0 +1,15 @@
+Background
+Growth retardation is a common complication of chronic kidney disease (CKD) in children and is of concern to families. Recombinant human growth hormone (rhGH) treatment has been used to help short children with CKD attain a height more in keeping with their age group. However there are concerns about the long‐term benefits of rhGH in significantly improving adult height as well as concerns about potential adverse effects (deterioration in native kidney function, increased acute rejection in kidney transplant recipients, benign intracranial hypertension). 
+Objectives
+To evaluate the benefits and harms of rhGH treatment in children with CKD.
+Search methods
+Randomised controlled trials (RCTs) were identified from the Cochrane Renal Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 12, 2011), MEDLINE (from 1966), EMBASE (from 1980), article reference lists and through contact with local and international experts in the field. 
+Date of last search: December 29, 2011
+Selection criteria
+RCTs were included if they were carried out in children aged zero to 18 years, diagnosed with CKD, who were pre‐dialysis, on dialysis or post‐transplant; if they compared rhGH treatment with placebo/no treatment or two doses of rhGH treatments; and if they included height outcomes. 
+Data collection and analysis
+Two authors independently assessed studies for risk of bias and extracted data from eligible studies. Data was pooled using a random effects model with calculation of mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 
+Main results
+Sixteen studies (enrolling 809 children) were identified. Risk of bias assessment indicated that study quality was poor or poorly reported with only four and five studies respectively reporting adequate allocation concealment or blinding of study participants and investigators. Treatment with rhGH (28 IU/m²/wk) compared with placebo or no specific therapy resulted in a significant increase in height standard deviation score (HSDS) at one year (8 studies, 391 children: MD 0.82, 95% CI 0.56 to 1.07), and a significant increase in height velocity at six months (2 studies, 27 children: MD 2.85 cm/6 mo, 95% CI 2.22 to 3.48) and one year (7 studies, 287 children: MD 3.88 cm/y, 95% CI 3.32 to 4.44). Height velocity, though reduced, remained significantly greater than untreated children during the second year of therapy (1 study, 82 children: MD 2.30 cm/y, 95% CI 1.39 to 3.21). Compared to the 14 IU/m²/wk group, there was a 1.18 cm/y increase in height velocity in the 28 IU/m²/wk group (3 studies, 150 children: 1.18 cm/y, 95% CI 0.52 to 1.84) . The frequency of reported side effects of rhGH was generally similar to that of the control group. 
+Authors' conclusions
+One year of 28 IU/m²/wk rhGH in children with CKD resulted in a 3.88 cm increase in height velocity above that of untreated patients. Studies were too short to determine if continuing treatment resulted in an increase in final adult height. 

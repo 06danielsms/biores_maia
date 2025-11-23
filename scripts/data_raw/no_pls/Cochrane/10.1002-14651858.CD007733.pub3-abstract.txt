@@ -1,0 +1,19 @@
+Background
+Acute respiratory distress syndrome (ARDS) is a critical condition that is associated with high mortality and morbidity. Aerosolized prostacyclin has been used to improve oxygenation despite the limited evidence available so far. 
+This review was originally published in 2010 and updated in 2017.
+Objectives
+To assess the benefits and harms of aerosolized prostacyclin in adults and children with ARDS. 
+Search methods
+In this update, we searched CENTRAL (2017, Issue 4); MEDLINE (OvidSP), Embase (OvidSP), ISI BIOSIS Previews, ISI Web of Science, LILACS, CINAHL (EBSCOhost), and three trials registers. We handsearched the reference lists of the latest reviews, randomized and non‐randomized trials, and editorials, and cross‐checked them with our search of MEDLINE. We contacted the main authors of included studies to request any missed, unreported or ongoing studies. The search was run from inception to 5 May 2017. 
+Selection criteria
+We included all randomized controlled trials (RCTs), irrespective of publication status, date of publication, blinding status, outcomes published or language. We contacted trial investigators and study authors to retrieve relevant and missing data. 
+Data collection and analysis
+Three authors independently abstracted data and resolved any disagreements by discussion. Our primary outcome measure was all‐cause mortality. We planned to perform subgroup and sensitivity analyses to assess the effect of aerosolized prostacyclin in adults and children, and on various clinical and physiological outcomes. We assessed the risk of bias through assessment of methodological trial components and the risk of random error through trial sequential analysis. 
+Main results
+We included two RCTs with 81 participants.
+One RCT involved 14 critically ill children with ARDS (very low quality of evidence), and one RCT involved 67 critically ill adults (very low quality evidence). 
+Only one RCT (paediatric trial) provided data on mortality and found no difference between intervention and control. However, this trial was eligible for meta‐analysis due to a cross‐over design. 
+We assessed the benefits and harms of aerosolized prostacyclin. One RCT found no difference in improvement of partial pressure of oxygen in arterial blood/fraction of inspired oxygen (PaO2/FiO2) ratio (mean difference (MD) ‐25.35, 95% confidence interval (CI) ‐60.48 to 9.78; P = 0.16; 67 participants, very low quality evidence). 
+There were no adverse events such as bleeding or organ dysfunction in any of the included trials. Due to the limited number of RCTs, we were unable to perform the prespecified subgroup and sensitivity analyses or trial sequential analysis. 
+Authors' conclusions
+We are unable to tell from our results whether the intervention has an important effect on mortality because the results were too imprecise to rule out a small or no effect. Therefore, no current evidence supports or refutes the routine use of aerosolized prostacyclin for people with ARDS. There is an urgent need for more RCTs. 

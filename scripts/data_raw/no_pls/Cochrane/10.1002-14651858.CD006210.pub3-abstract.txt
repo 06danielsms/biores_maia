@@ -1,0 +1,14 @@
+Background
+The physical healthcare environment is capable of affecting patients. This concept of 'healing environments' refers to the psychological impact of environmental stimuli through sensory perceptions. It excludes more physiological effects such as those produced by ergonomic (i.e. fall prevention) or facilitative (i.e. hygiene‐related) variables. The importance of an atmosphere in the healthcare environment that promotes the health and well‐being of patients is evident, but this environment should not negatively affect healthcare personnel. The physical healthcare environment is part of the personnel's 'workscape'. This can make the environment an important determinant of subjective work‐related outcomes like job satisfaction and well‐being, as well as of objective outcomes like absenteeism or quality of care. In order to effectively build or renovate healthcare facilities, it is necessary to pay attention to the needs of both patients and healthcare personnel. 
+Objectives
+To assess the psychological effects of the physical healthcare environment on healthcare personnel. 
+Search methods
+We searched the Cochrane EPOC Group Specialised Register; Cochrane Central Register of Controlled Trials; Database of Abstracts and Reviews of Effects; MEDLINE; EMBASE; CINAHL; Civil Engineering Database and Compendex. We also searched the reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials (RCT), controlled clinical trials (CCT), controlled before and after studies (CBA), and interrupted time series (ITS) of psychological effects of the physical healthcare environment interventions for healthcare staff. The outcomes included measures of job satisfaction, satisfaction with the physical healthcare environment, quality of life, and quality of care. 
+Data collection and analysis
+Two reviewers independently assessed studies for eligibility, extracted data, and assessed methodological quality. 
+Main results
+We identified one study, which adopted a CBA study design to investigate the simultaneous effects of multiple environmental stimuli. Staff mood improved in this study, while no effects were found on ward atmosphere or unscheduled absences. 
+Authors' conclusions
+One study was included in this review. This review therefore indicates that, at present, there is insufficient evidence to support or refute the impact of the physical healthcare environment on work‐related outcomes of healthcare staff. Methodological shortcomings, particularly confounding with other variables and the lack of adequate control conditions, partially account for this lack of evidence. Given these methodological issues, the field is in need of well‐conducted controlled trials. 

@@ -1,0 +1,18 @@
+Background
+Severe or complicated malaria is a medical emergency and people die as a result of delays in starting treatment. Most patients need parenteral treatment, and in primary healthcare facilities, where intravenous therapy is not available but intramuscular injections can be given, intramuscular quinine, artesunate, and artemether have been used before transporting patients to hospital. 
+However, in rural settings with limited access to health care, intramuscular injections may also be unavailable. In these situations, rectal artesunate given prior to transfer to hospital by volunteers with little medical training, may be a feasible option. 
+Objectives
+To evaluate the effects of pre‐referral treatment with rectal artesunate on mortality and morbidity in people with severe malaria. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) published in The Cochrane Library; MEDLINE; EMBASE and LILACS up to 21 May 2014. We also searched the WHO clinical trial registry platform and the metaRegister of Controlled Trials (mRCT) for ongoing trials. 
+Selection criteria
+Individual or cluster‐randomized controlled trials comparing pre‐referral rectal artesunate with placebo or injectable antimalarials in children and adults with severe malaria. 
+Data collection and analysis
+Two authors independently screened titles and abstracts for potentially eligible trials, and extracted data from the included trials. Dichotomous outcomes were summarized using risk ratios (RR) and presented with 95% confidence intervals (95% CI). Where data allowed, we conducted subgroup analyses by age, trial region and whether participants were included in the trial analysis. We assessed the quality of evidence for the most important outcomes using the GRADE approach. 
+Main results
+One trial met the inclusion criteria; a placebo‐controlled trial of 17,826 children and adults living in rural villages in Ghana and Tanzania (Africa) and Bangladesh (Asia). Villagers with no previous medical training were trained to recognize the symptoms of severe malaria, administer rectal artesunate and refer patients to hospital. The trained villagers were supervised during the trial period. In the African sites only children aged 6 to 72 months were enrolled, whereas in Bangladesh, older children and adults were also enrolled. 
+In young children (aged 6 to 72 months) there were fewer deaths following rectal artesunate than with placebo (RR 0.74; 95% CI 0.59 to 0.93; one trial; 8050 participants; moderate quality evidence), while in older children and adults there were more deaths in those given rectal artesunate (RR 2.21; 95% CI 1.18 to 4.15; one trial; 4018 participants; low quality evidence). 
+In Africa, only 56% of participants reached a secondary healthcare facility within six hours compared to over 90% in Asia. There were no differences between the intervention and control groups in the proportion of participants reaching a healthcare facility within six hours (RR 0.99; 95% CI 0.98 to 1.01; 12,068 participants), or in the proportion with parasitaemia (RR 1.00; 95% CI 0.98 to 1.02; 17,826 participants), or with coma or convulsions on arrival (RR 1.01; 95% CI 0.90 to 1.14; 12,068 participants). 
+There are no existing trials that compare rectal versus intramuscular artesunate.
+Authors' conclusions
+In rural areas without access to injectable antimalarials rectal artesunate provided before transfer to a referral facility probably reduces mortality in severely ill young children compared to referral without treatment. However, the unexpected finding of possible higher mortality in older children and adults has to be taken into account in forming any national or local policies about pre‐referral rectal artesunate. 

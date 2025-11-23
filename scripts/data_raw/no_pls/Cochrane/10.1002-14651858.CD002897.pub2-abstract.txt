@@ -1,0 +1,14 @@
+Background
+Trabeculectomy is performed as a treatment for glaucoma to lower the intraocular pressure (IOP). Mitomycin C (MMC) is an antimetabolite used during the initial stages of a trabeculectomy to prevent excessive postoperative scarring and thus reduce the risk of failure. 
+Objectives
+To assess the effects of intraoperative MMC compared to placebo in trabeculectomy.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library Issue 4, 2009), MEDLINE (January 1966 to January 2010), EMBASE (January 1980 to January 2010), LILACS (Latin American and Caribbean Health Sciences Literature Database) (January 1982 to January 2010), OpenSIGLE (January 2010) and the UK Clinical Trials Gateway (UKCTG) (January 2010). We also wrote to investigators of trials included in the review to ask if they were aware of any other studies. There were no language or date restrictions in the search for trials. The electronic databases were last searched on 19 January 2010. 
+Selection criteria
+We included randomised controlled trials (RCTs) of intraoperative MMC compared to placebo or no adjunct in trabeculectomy surgery. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted trial investigators for missing information. 
+Main results
+Eleven trials, involving a total of 698 participants, were included. The trials enrolled three types of participants (high risk of failure, trabeculectomy combined with cataract surgery, no previous surgical intervention). Mitomycin C appears to reduce the relative risk of failure of trabeculectomy both in eyes at high risk of failure (relative risk 0.32, 95% confidence interval: 0.20 to 0.53) and those undergoing surgery for the first time (relative risk 0.29, 95% confidence interval 0.16 to 0.53). No significant effect on failure was noted in the group undergoing trabeculectomy combined with cataract extraction. Mean IOP was significantly reduced at 12 months in all three participant groups receiving MMC compared to placebo. No significant increase in permanent sight‐threatening complications was detected. However, none of the trials were large enough or of sufficient duration to address the long‐term risk of bleb infection and endophthalmitis which has been reported in observational studies. Some evidence exists that MMC increases the risk of cataract. 
+Authors' conclusions
+Intraoperative MMC reduces the risk of surgical failure in eyes that have undergone no previous surgery and in eyes at high risk of failure. Compared to placebo it reduces mean IOP at 12 months in all groups of participants in this review. Apart from an increase in cataract formation following MMC, there was insufficient power to detect any increase in other serious side effects such as endophthalmitis. 

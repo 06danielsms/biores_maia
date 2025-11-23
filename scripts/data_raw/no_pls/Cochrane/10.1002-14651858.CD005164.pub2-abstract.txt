@@ -1,0 +1,14 @@
+Background
+Benign liver tumours (haemangioma, focal nodular hyperplasia, and hepatic adenoma) have different prevalence and prognosis. Spontaneous rupture and malignant transformation can complicate hepatic adenoma. Elective surgery is controversial, and indications are represented by uncertain diagnosis, presence of symptoms, and prevention of major complications. 
+Objectives
+To assess the beneficial and harmful effects of elective surgery of benign liver tumours. We identified 31 cases series. These were small (with less than 60 participants) and the types of tumours mixed. These studies reported no significant mortality, but in the six studies with mortality it ranged from 1% to 17%. 
+Search methods
+The Cochrane Hepato‐Biliary Group Controlled Trials Register and the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (searches in Issue 1, 2006), MEDLINE, EMBASE, CancerLit, and Science Citation Index Expanded (SCI‐EXPANDED) (searched December 2005). A further search included the proceedings of major hepatological and surgical congresses (Annual Meetings of the American Association for the Study of the Liver (AASLD) and European Association for the Study of the Liver (EASL)), and examination of the references of relevant papers and reference lists of the identified studies. 
+Selection criteria
+Randomised clinical trials in adult patients with benign liver tumours without indications for emergency surgery in which elective surgery (resection) versus no intervention or sham operation are compared. 
+Data collection and analysis
+All trials identified through searches were evaluated for eligibility for inclusion. We intended to extract relevant data in order to analyse the outcomes as per our published protocol using intention‐to‐treat analysis. 
+Main results
+We could not identify any randomised clinical trials.
+Authors' conclusions
+We were unable to find evidence supporting or refuting elective surgery for patients with benign liver tumours. We need large, long‐term randomised clinical trials with adequate methodology to assess the benefits and harms of elective surgery. 

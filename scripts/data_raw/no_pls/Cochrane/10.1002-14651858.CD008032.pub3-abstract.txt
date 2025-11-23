@@ -1,0 +1,16 @@
+Background
+Pneumonia is a leading cause of childhood mortality from infectious disease, responsible for an estimated 1.3 million deaths annually in children under five years of age, many of which are in low‐income countries. The World Health Organization recommends intravenous antibiotics for five days as first‐line treatment for children with severe pneumonia. Although controversy exists regarding the specific clinical features used to diagnose pneumonia, the criteria for diagnosis of severe pneumonia are better defined and are widely used to triage children for referral and second‐line therapy. 
+In 2011 it was estimated that approximately 120 million new cases of pneumonia occur globally each year in children under five years of age, of which 14 million become severe episodes. Hospitalisation for severe pneumonia in children places a significant burden on both patients and their families, including substantial expense, loss of routine, and decrease in quality of life. By reducing the duration of hospital treatment, healthcare burdens could potentially be reduced and treatment compliance may improve. 
+This is an update of a review published in 2015.
+Objectives
+To evaluate the efficacy of short‐course (two to three days) versus long‐course (five days) intravenous therapy (alone or in combination with oral antibiotics) with the same antibiotic for severe community‐acquired pneumonia in children aged two months to 59 months. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 12), MEDLINE (1966 to December week 3, 2016), Embase (1974 to 22 December 2016), and four trials registers (23 August 2017), together with reference checking of all relevant trials and reviews. 
+Selection criteria
+Randomised controlled trials evaluating the efficacy of short‐course (two to three days) versus long‐course (five days) intravenous antibiotic therapy (alone or in combination with oral antibiotics) for severe pneumonia in children aged two months to 59 months. We excluded children with any other debilitating disease, including those infected with HIV. We also excluded children who had developed pneumonia during their hospital stay (i.e. with nosocomial infection). There was no restriction on the type of antibiotic used, the dose, or the frequency of dosing. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Our searches identified 4295 records, however no studies met our predefined inclusion criteria. 
+Authors' conclusions
+We identified no randomised controlled trials comparing a short course (two to three days) of intravenous antibiotics compared to a long course (five days) for severe pneumonia in children aged two months to 59 months that met our inclusion criteria. 

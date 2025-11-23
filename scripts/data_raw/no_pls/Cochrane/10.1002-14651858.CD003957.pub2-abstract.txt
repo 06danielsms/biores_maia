@@ -1,0 +1,14 @@
+Background
+Early onset bacterial infection is an important cause of morbidity and mortality in newborn infants. Various factors that increase the risk of neonatal infection have been identified. It is unclear whether asymptomatic newborn infants born to mothers with one or more of these risk factors should receive antibiotics prophylactically rather than selectively if only clinical or microbiological evidence of sepsis emerges. 
+Objectives
+To assess the effect of prophylactic versus selective antibiotic treatment for asymptomatic term neonates born to mothers with risk factors for neonatal infection. 
+Search methods
+We used the standard methods of the Cochrane Neonatal Review Group. We searched MEDLINE (1966 ‐ May 2004), EMBASE (1980 ‐ May 2004), LILACS (1982 ‐ 2003), SciELO (1997 ‐ 2003), the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2004), and Centers for Disease Control and Prevention protocols and guidelines on the subject. 
+Selection criteria
+Randomized controlled trials, or trials using quasi‐random methods of allocation, comparing the use of prophylactic versus selective antibiotics in asymptomatic neonates born to mothers with one or more risk factors for infection. 
+Data collection and analysis
+We extracted the data using the standard methods of the Cochrane Neonatal Review Group, with separate evaluation of trial quality and data extraction by three reviewers and synthesis of data using relative risk and risk difference. The pre‐specified primary outcomes were neonatal mortality, systemic neonatal infection, and need for admission to a neonatal intensive care unit. 
+Main results
+We identified two small trials undertaken in the 1970s. Both trials had methodological weaknesses. There was no evidence of an effect on any of the primary outcomes, but because the trials were underpowered, clinically important effect sizes may have been missed. 
+Authors' conclusions
+There are insufficient data from randomized controlled trials to guide clinical practice. A large randomized controlled trial is needed in asymptomatic term infants born to mothers with risk factors for infection in their babies, which compares the effect of prophylactic versus selective antibiotics on morbidity, mortality and costs. 

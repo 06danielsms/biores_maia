@@ -1,0 +1,13 @@
+Applying positive pressure at the end of each breath during anaesthesia for prevention of mortality and postoperative pulmonary complications 
+Review question 
+We reviewed the evidence on the effects of positive end‐expiratory pressure (PEEP) during general anaesthesia in adult patients 16 years of age and older. 
+Background 
+PEEP is a mechanical technique that is often used for ventilating an unconscious patient. The technique involves adding a quantity of pressure into the lungs at the end of each breath. This process causes a degree of deflation in the lungs and can collapse some areas because between breaths, the lungs contain less air than usual. By adding positive pressure at that time, we aim to reinflate the collapsed areas of the lung (atelectasis). Although PEEP can be used during general anaesthesia, some lung areas collapse at the end of the anaesthetic procedure. We do not know whether patients who receive PEEP have lower risks of postoperative mortality (approximately 3% to 5% of adult patients) or respiratory complications. In this review, we aimed to assess the postoperative benefits and harms of using PEEP during general anaesthesia. 
+Study characteristics 
+The evidence is current to October 2013. We found 10 randomized clinical trials involving 432 participants. The main limitation of our review was our inability to identify studies analysing intraoperative data. 
+Key results 
+Six trials reported mortality. We pooled these data and found no differences between the group of patients who received PEEP and those who did not, but because of the small number of patients, and the fact that this outcome may be rare, these results did not allow us to make a conclusion about the effect of PEEP on mortality. Two results suggested some benefit of PEEP. First, oxygenation was better on the day after surgery in the PEEP group. Second, radiological imaging showed less atelectasis after surgery in the PEEP group. The studies that we found did not suggest that intraoperative PEEP causes harm. 
+Because of the small number of studies, this finding is inconclusive. We performed calculations to predict how many more participants would be needed before reliable conclusions can be made about the effect on mortality of the application of PEEP. This number was 21,200. 
+Evidence is currently insufficient to allow conclusions about how intraoperative PEEP affects postoperative mortality and respiratory complications. 
+Quality of the evidence 
+The quality of the evidence is very low because of poorly conducted studies, small numbers of participants and low event rates. 

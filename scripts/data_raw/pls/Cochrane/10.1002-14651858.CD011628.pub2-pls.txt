@@ -1,0 +1,27 @@
+Treating long‐term palmoplantar pustulosis (pustules on the hands and feet)
+Review question 
+We wanted to assess treatments for palmoplantar pustulosis (a persistent condition characterised by small, pus‐filled blisters on the hands and feet), when compared to an inactive substance (placebo), no intervention, or each other. We included 37 studies. 
+Background 
+Palmoplantar pustulosis negatively affects a person's life; there is no cure or standard treatment. Over time, the skin becomes thicker and redder, and may develop cracks or flake off as scales. 
+Symptoms are treated with topical medicines (usually corticosteroids), systemic medicines (medicines injected or taken by mouth that work throughout the entire body; usually medicines based on vitamin A or D), or phototherapy (ultraviolet light treatment). 
+Study characteristics 
+The studies involved 1663 adults (mostly women) 34 to 63 years of age (average age 50 years). In 19 studies, participants had had palmoplantar pustulosis from two to 16 years (average 6.4 years). 
+Participants had palmoplantar pustular psoriasis (6 studies), palmoplantar pustulosis (29 studies), or both (2 studies). Study authors reported condition severity differently. 
+The included studies assessed a variety of different treatments: mainly systemic treatments (including biologic medicines, vitamin A medicines, immunosuppressants, antibiotics, and light therapy combined with a vitamin A medicine), but also topical medicines (containing steroids or vitamin D) and light treatments. Single studies assessed other treatments. 
+Treatments were most commonly compared against placebo. Treatment length varied; for our key results, this ranged from 8 to 24 weeks (average 11 weeks). When reported, studies were conducted in hospitals, community clinics, or both. 
+Pharmaceutical companies funded 18 studies.
+Key results 
+Low‐quality evidence suggests that maxacalcitol (a topical vitamin D derivative) may work better than placebo in achieving clearance; moderate‐quality evidence indicates that the number of side effects is probably similar in both groups (participants experienced itching, irritation, and blood or urine test abnormalities) (1 trial; 188 participants). Severity was not measured. 
+We found very low‐quality evidence for PUVA therapy (i.e. psoralen, a drug to sensitise the skin, and ultraviolet light A) versus placebo or no treatment (2 studies; 49 participants), so we are unable to draw conclusions. Side effects with PUVA included skin blisters, redness, itching, swelling, and feeling sick. 
+Oral alitretinoin probably makes little or no difference in reducing severity when compared to placebo (moderate‐quality evidence; 1 study; 33 participants). A similar result was found for side effects, with headache, sickness, joint pain, high cholesterol, and colds reported in both groups. Clearance was not reported. 
+Five studies assessed biological treatments (etanercept, ustekinumab, guselkumab, secukinumab), which use substances made from living organisms, or synthetic versions, to target the immune system. 
+Low‐quality evidence (1 study; 15 participants) suggests that etanercept may make little or no difference in clearance when compared to placebo, but we are very uncertain of this result. Side effects and severity were not measured. 
+We found low‐quality evidence suggesting that ustekinumab may be worse than placebo in reducing disease severity, but we are very uncertain of this result. Side effects and clearance were not reported (1 study; 33 participants). 
+Compared to placebo, guselkumab probably reduces severity (moderate‐quality evidence; 1 study; 49 participants), but its effects on clearance are uncertain (very low‐quality evidence; 2 studies; 154 participants). Side effects were not measured. 
+Moderate‐quality evidence shows that secukinumab was probably superior to placebo in reducing severity, but skin clearance and side effects were not reported (1 study; 157 participants). 
+Only two studies described above reported withdrawals from treatment due to serious side effects; these are probably more frequent with secukinumab than with placebo (157 participants), and may occur more often with guselkumab than with placebo (49 participants), but we are very uncertain of the guselkumab result. 
+For these key results, outcomes were assessed between 8 and 24 weeks, which we deemed short term. 
+This evidence is current to March 2019.
+Quality of the evidence 
+The key comparisons reported clearance most often, but evidence quality was mainly very low. Only two key studies reported side effects causing withdrawal (low‐ and moderate‐quality evidence). The evidence underlying our severity and side effects outcomes was variable in quality (very low to moderate). 
+Small participant numbers, results with wide margins of error, and selective reporting have limited our confidence in the evidence. 

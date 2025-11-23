@@ -1,0 +1,14 @@
+Background
+Evidence supports a role for NMDA receptors in learning and memory. These can be modulated by the antibiotic D‐cycloserine in such a way that the effect of the excitatory transmitter substance glutamate is enhanced. A study on healthy subjects pretreated with scopolamine to mimic Alzheimer's disease showed a positive effect of D‐cycloserine at low doses. 
+Objectives
+To assess the efficacy and safety of D‐cycloserine in patients with Alzheimer's disease.
+Search methods
+The trials were identified from a search of the Specialized Register of the Cochrane Dementia and Cognitive Improvement Group on 2 January 2004 using the terms: cycloserine, D‐cycloserine. The Register contains records from all major health care databases and is updated regularly. 
+Selection criteria
+Randomized, double‐blinded and unconfounded trials comparing D‐cycloserine with a control treatment. 
+Data collection and analysis
+Two larger and two smaller randomized controlled trials were identified. The Clinical Global Impression scale was used in all studies and was a primary outcome measure. 
+Main results
+It was not possible to extract the results from the first phases of the two crossover studies and therefore the meta‐analyses are based on the two parallel group 6‐month studies. There was no indication of a positive effect favouring D‐cycloserine for the numbers showing improvement at 6 months as assessed by the Clinical Global Impression for any dose. The number of withdrawals for any reason before end of treatment at 6 months was significantly in favour of placebo (fewer withdrawals) compared with D‐cycloserine for dose levels of 30 mg/day (OR 2.94, 95% CI 1.52, 5.70) and 100 mg/day (OR 3.23, 95% CI 1.67, 6.25). There was no significant difference between treatment, (2, 10, 30, 100, or 200 mg/day) and placebo for the number of withdrawals due to adverse events by six months. 
+Authors' conclusions
+The lack of a positive effect of D‐cycloserine on cognitive outcomes in controlled clinical trials with statistical power high enough to detect a clinically meaningful effect means that D‐cycloserine has no place in the treatment of patients with Alzheimer's disease. 

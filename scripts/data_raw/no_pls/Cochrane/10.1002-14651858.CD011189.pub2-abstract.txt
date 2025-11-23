@@ -1,0 +1,14 @@
+Background
+Sexual dysfunction following stroke is common but often is poorly managed. As awareness of sexual dysfunction following stroke increases as an important issue, a clearer evidence base for interventions for sexual dysfunction is needed to optimise management. 
+Objectives
+To evaluate the effectiveness of interventions to reduce sexual dysfunction following stroke, and to assess adverse events associated with interventions for sexual dysfunction following stroke. 
+Search methods
+We conducted the search on 27 November 2019. We searched the Cochrane Central Register of Controlled Trials (CENTRAL; from June 2014), in the Cochrane Library; MEDLINE (from 1950); Embase (from 1980); the Cumulative Index to Nursing and Allied Health Literature (CINAHL; from 1982); the Allied and Complementary Medicine Database (AMED; from 1985); PsycINFO (from 1806); the Physiotherapy Evidence Database (PEDro; from 1999); and 10 additional bibliographic databases and ongoing trial registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared pharmacological treatments, mechanical devices, or complementary medicine interventions versus placebo. We also included other non‐pharmacological interventions (such as education or therapy), which were compared against usual care or different forms of intervention (such as different intensities) for treating sexual dysfunction in stroke survivors. 
+Data collection and analysis
+Two review authors independently selected eligible studies, extracted data, and assessed study quality. We determined the risk of bias for each study and performed a 'best evidence' synthesis using the GRADE approach. 
+Main results
+We identified three RCTs with a total of 212 participants. We noted significant heterogeneity in interventions (one pharmacological, one physiotherapy‐based, and one psycho‐educational), and all RCTs were small and of 'low' or 'very low' quality. Based on these RCTs, data are insufficient to provide any reliable indication of benefit or risk to guide clinical practice in terms of the use of sertraline, specific pelvic floor muscle training, or individualised sexual rehabilitation. 
+Authors' conclusions
+Use of sertraline to treat premature ejaculation needs to be tested in further RCTs. The lack of benefit with structured sexual rehabilitation and pelvic floor physiotherapy should not be interpreted as proof of ineffectiveness. Well‐designed, randomised, double‐blinded, placebo‐controlled trials of long‐term duration are needed to determine the effectiveness of various types of interventions for sexual dysfunction. It should be noted, however, that it may not be possible to double‐blind trials of complex interventions. 

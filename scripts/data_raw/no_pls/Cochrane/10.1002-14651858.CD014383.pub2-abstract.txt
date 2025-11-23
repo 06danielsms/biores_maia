@@ -1,0 +1,22 @@
+Background
+In clinical practice, different antipsychotics can be combined in the treatment of people with schizophrenia (polypharmacy). This strategy can aim at increasing efficacy, but might also increase the adverse effects due to drug–drug interactions. Reducing polypharmacy by withdrawing one or more antipsychotics may reduce this problem, but must be done carefully, in order to maintain efficacy. 
+Objectives
+To examine the effects and safety of reducing antipsychotic polypharmacy compared to maintaining people with schizophrenia on the same number of antipsychotics. 
+Search methods
+On 10 February 2021, we searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials, which is based on CENTRAL, CINAHL, ClinicalTrials.Gov, Embase, ISRCTN, MEDLINE, PsycINFO, PubMed and WHO ICTRP. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared reduction in the number of antipsychotics to continuation of the current number of antipsychotics. We included adults with schizophrenia or related disorders who were receiving more than one antipsychotic and were stabilised on their current treatment. 
+Data collection and analysis
+Two review authors independently screened all the identified references for inclusion, and all the full papers. We contacted study authors if we needed any further information. Two review authors independently extracted the data, assessed the risk of bias using RoB 2 and the certainty of the evidence using the GRADE approach. The primary outcomes were: quality of life assessed as number of participants with clinically important change in quality of life; service use assessed as number of participants readmitted to hospital and adverse effects assessed with number of participants leaving the study early due to adverse effects. 
+Main results
+We included five RCTs with 319 participants. Study duration ranged from three months to one year. All studies compared polypharmacy continuation with two antipsychotics to polypharmacy reduction to one antipsychotic.  
+We assessed the risk of bias of results as being of some concern or at high risk of bias. 
+A lower number of participants left the study early due to any reason in the polypharmacy continuation group (risk ratio (RR) 0.44, 95% confidence interval (CI) 0.29 to 0.68; I2 = 0%; 5 RCTs, n = 319; low‐certainty evidence), and a lower number of participants left the study early due to inefficacy (RR 0.21, 95% CI 0.07 to 0.65; I2 = 0%; 3 RCTs, n = 201).  
+Polypharmacy continuation resulted in more severe negative symptoms (MD 3.30, 95% CI 1.51 to 5.09; 1 RCT, n = 35). 
+There was no clear difference between polypharmacy reduction and polypharmacy continuation on readmission to hospital, leaving the study early due to adverse effects, functioning, global state, general mental state and positive symptoms, number of participants with at least one adverse effect, weight gain and other specific adverse effects, mortality and cognition. 
+We assessed the certainty of the evidence as very low or low across measured outcomes.
+No studies reported quality of life, days in hospital, relapse, depressive symptoms, behaviour and satisfaction with care. 
+Due to lack of data, it was not possible to perform some planned sensitivity analyses, including one controlling for increasing the dose of the remaining antipsychotic. As a result, we do not know if the observed results might be influenced by adjustment of dose of remaining antipsychotic compound. 
+Authors' conclusions
+This review summarises the latest evidence on polypharmacy continuation compared with polypharmacy reduction. Our results show that polypharmacy continuation might be associated with a lower number of participants leaving the study early, especially due to  inefficacy. However, the evidence is of low and very low certainty and the data analyses based on few study only, so that it is not possible to draw strong conclusions based on the results of the present review. 
+Further high‐quality RCTs are needed to investigate this important topic. 

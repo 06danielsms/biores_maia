@@ -1,0 +1,37 @@
+Background
+Heavy menstrual bleeding and pain are common reasons women discontinue intrauterine device (IUD) use. Copper IUD (Cu IUD) users tend to experience increased menstrual bleeding, whereas levonorgestrel IUD (LNG IUD) users tend to have irregular menstruation. Medical therapies used to reduce heavy menstrual bleeding or pain associated with Cu and LNG IUD use include non‐steroidal anti‐inflammatory drugs (NSAIDs), anti‐fibrinolytics and paracetamol. We analysed treatment and prevention interventions separately because the expected outcomes for treatment and prevention interventions differ. We did not combine different drug classes in the analysis as they have different mechanisms of action. This is an update of a review originally on NSAIDs. The review scope has been widened to include all interventions for treatment or prevention of heavy menstrual bleeding or pain associated with IUD use. 
+Objectives
+To evaluate all randomized controlled trials (RCTs) that have assessed strategies for treatment and prevention of heavy menstrual bleeding or pain associated with IUD use, for example, pharmacotherapy and alternative therapies. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and CINAHL to January 2021.
+Selection criteria
+We included RCTs in any language that tested strategies for treatment or prevention of heavy menstrual bleeding or pain associated with IUD (Cu IUD, LNG IUD or other IUD) use. The comparison could be no intervention, placebo or another active intervention. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, and extracted data. Primary outcomes were volume of menstrual blood loss, duration of menstruation and painful menstruation. We used a random‐effects model in all meta‐analyses. Review authors assessed the certainty of evidence using GRADE. 
+Main results
+This review includes 21 trials involving 3689 participants from middle‐ and high‐income countries. Women were 18 to 45 years old and either already using an IUD or had just had one placed for contraception. The included trials examined NSAIDs and other interventions. Eleven were treatment trials, of these seven were on users of the Cu IUD, one on LNG IUD and three on an unknown type. Ten were prevention trials, six focused on Cu IUD users, and four on LNG IUD users. Sixteen trials had high risk of detection bias due to subjective assessment of pain and bleeding. 
+Treatment of heavy menstrual bleeding 
+Cu IUD  
+Vitamin B1 resulted in fewer pads used per day (mean difference (MD) −7.00, 95% confidence interval (CI) −8.50 to −5.50) and fewer bleeding days (MD −2.00, 95% CI –2.38 to −1.62; 1 trial; 110 women; low‐certainty evidence) compared to placebo. The evidence is very uncertain about the effect of naproxen on the volume of menstruation compared to placebo (odds ratio (OR) 0.09, 95% CI 0.00 to 1.78; 1 trial, 40 women; very low‐certainty evidence). 
+Treatment with mefenamic acid resulted in less volume of blood loss compared to tranexamic acid (MD −64.26, 95% CI −105.65 to −22.87; 1 trial, 94 women; low‐certainty evidence). However, there was no difference in duration of bleeding with treatment of mefenamic acid or tranexamic acid (MD 0.08 days, 95% CI −0.27 to 0.42, 2 trials, 152 women; low‐certainty evidence). 
+LNG IUD  
+The use of ulipristal acetate in LNG IUD may not reduce the number of bleeding days in 90 days in comparison to placebo (MD −9.30 days, 95% CI −26.76 to 8.16; 1 trial, 24 women; low‐certainty evidence). 
+Unknown IUD type  
+Mefenamic acid may not reduce volume of bleeding compared to Vitex agnus measured by pictorial blood assessment chart (MD −2.40, 95% CI −13.77 to 8.97; 1 trial; 84 women; low‐certainty evidence). 
+Treatment of pain 
+Cu IUD  
+Treatment with tranexamic acid and sodium diclofenac may result in little or no difference in the occurrence of pain (OR 1.00, 95% CI 0.06 to 17.25; 1 trial, 38 women; very low‐certainty evidence). 
+Unknown IUD type  
+Naproxen may reduce pain (MD 4.10, 95% CI 0.91 to 7.29; 1 trial, 33 women; low‐certainty evidence). 
+Prevention of heavy menstrual bleeding 
+Cu IUD  
+We found very low‐certainty evidence that tolfenamic acid may prevent heavy bleeding compared to placebo (OR 0.54, 95% CI 0.34 to 0.85; 1 trial, 310 women). There was no difference between ibuprofen and placebo in blood volume reduction (MD −14.11, 95% CI −36.04 to 7.82) and duration of bleeding (MD −0.2 days, 95% CI −1.40 to 1.0; 1 trial, 28 women, low‐certainty evidence). 
+Aspirin may not prevent heavy bleeding in comparison to paracetamol (MD −0.30, 95% CI −26.16 to 25.56; 1 trial, 20 women; very low‐certainty evidence). 
+LNG IUD  
+Ulipristal acetate may increase the percentage of bleeding days compared to placebo (MD 9.50, 95% CI 1.48 to 17.52; 1 trial, 118 women; low‐certainty evidence). There were insufficient data for analysis in a single trial comparing mifepristone and vitamin B. 
+There were insufficient data for analysis in the single trial comparing tranexamic acid and mefenamic acid and in another trial comparing naproxen with estradiol. 
+Prevention of pain 
+Cu IUD  
+There was low‐certainty evidence that tolfenamic acid may not be effective to prevent painful menstruation compared to placebo (OR 0.71, 95% CI 0.44 to 1.14; 1 trial, 310 women). Ibuprofen may not reduce menstrual cramps compared to placebo (OR 1.00, 95% CI 0.11 to 8.95; 1 trial, 20 women, low‐certainty evidence). 
+Authors' conclusions
+Findings from this review should be interpreted with caution due to low‐ and very low‐certainty evidence. Included trials were limited; the majority of the evidence was derived from single trials with few participants. Further research requires larger trials and improved trial reporting. The use of vitamin B1 and mefenamic acid to treat heavy menstruation and tolfenamic acid to prevent heavy menstruation associated with Cu IUD should be investigated. More trials are needed to generate evidence for the treatment and prevention of heavy and painful menstruation associated with LNG IUD. 

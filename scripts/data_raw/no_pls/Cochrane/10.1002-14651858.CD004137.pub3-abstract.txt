@@ -1,0 +1,14 @@
+Background
+Renal colic is a common cause of acute severe pain. Both opioids and nonsteroidal anti‐inflammatory drugs (NSAIDs) are recommended for treatment, but the relative efficacy of these drugs is uncertain. 
+Objectives
+To examine the benefits and disadvantages of NSAIDs and opioids for the management of pain in acute renal colic. 
+Search methods
+We searched the Cochrane Renal Group's specialised register, the Cochrane Central Register of Randomised Controlled Trials (CENTRAL ‐ The Cochrane Library, MEDLINE, EMBASE and handsearched reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing any opioid with any NSAID, regardless of dose or route of administration were included. 
+Data collection and analysis
+Data was extracted and quality assessed independently by two reviewers, with differences resolved by discussion. Dichotomous outcomes are reported as risk ratio (RR) and measurements on continuous scales are reported as mean differences (MD) with 95% confidence intervals. Subgroup analysis by study quality, drug type and drug route have been performed where possible to explore reasons for heterogeneity. 
+Main results
+Twenty trials from nine countries with a total of 1613 participants were identified. Both NSAIDs and opioids lead to clinically significant falls in patient‐reported pain scores. Due to unexplained heterogeneity these results could not be pooled although 10/13 studies reported lower pain scores in patients receiving NSAIDs. Patients treated with NSAIDs were significantly less likely to require rescue medication (RR 0.75, 95% CI 0.61 to 0.93, P = 0.007), though most of these trials used pethidine. The majority of trials showed a higher incidence of adverse events in patients treated with opioids, but there was significant heterogeneity between studies so the results could not be pooled. There was significantly less vomiting in patients treated with NSAIDs (RR 0.35, 95% CI 0.23 to 0.53, P < 0.00001). In particular, patients receiving pethidine had a much higher rate of vomiting compared with patients receiving NSAIDs. Gastrointestinal bleeding and renal impairment were not reported. 
+Authors' conclusions
+Both NSAIDs and opioids can provide effective analgesia in acute renal colic. Opioids are associated with a higher incidence of adverse events, particularly vomiting. Given the high rate of vomiting associated with the use of opioids, particularly pethidine, and the greater likelihood of requiring further analgesia, we recommend that if an opioid is to be used it should not be pethidine. 

@@ -1,0 +1,16 @@
+Background
+Currently, the techniques for amniocentesis and chorionic villus sampling (CVS) tend to be described in local and national guidelines, but certain aspects, including the choice of instruments, is predominantly based upon the operator's personal preference. A survey of practice in the specialist UK centres revealed a wide variation of practice; therefore, standardising any element of technique could potentially influence the safety of the procedure. 
+Objectives
+The objective of this review was to compare the safety and effectiveness of all techniques of performing both amniocentesis and CVS for prenatal diagnosis. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (11 April 2012). 
+Selection criteria
+We included all randomised comparisons of different methods of performing amniocentesis after 15 weeks' gestation, or CVS (transabdominal or transvaginal) with each other or with no testing. We excluded quasi‐randomised studies (e.g. alternate allocation). 
+Data collection and analysis
+Both review authors independently assessed for inclusion all the potential studies identified as a result of the search strategy. Both review authors independently assessed trial quality. Both review authors extracted data. Data were checked for accuracy. 
+Main results
+We included five randomised studies with total of 1049 women evaluating five different technique modifications during either amniocentesis (three studies) or CVS (two studies). 
+For amniocentesis three interventions were evaluated ‐ intramuscular progesterone, hexoprenaline and selecting high or low puncture sites for late 'blind' procedure ‐ each intervention in a single small study. There was no conclusive evidence of benefit for any of them. The same applies for terbutaline tocolysis and use of continuous vacuum aspiration during CVS. 
+Authors' conclusions
+Overall, the quality of evidence summarised in this review is not of sufficient quality to change current clinical practice. In the absence of clear evidence, the operators should continue to use methods and technique modifications with which they are most familiar with. 
+Any randomised trials of technique modifications that are performed to high standard with adequate safety outcomes and power to detect important clinical differences would be clearly welcome. 

@@ -1,0 +1,13 @@
+The effectiveness of the Neonatal Behavioural Assessment Scale (NBAS) and Neonatal Behavioural Observation (NBO) system for parents and babies 
+Background 
+The first three years of a child's life comprise a key period of development, and the caregiver‐infant relationship in early infancy has been found to influence later outcomes. Caregiver sensitivity and ability to understand infant behaviours as communication is particularly important for infant development. Early, brief interventions such as the Neonatal Behavioural Assessment Scale (NBAS) or Neonatal Behavioural Observation (NBO) system can potentially improve outcomes for both infant and caregiver. 
+Review question 
+How effective is the NBAS or NBO for improving outcomes in parents and babies?
+Included studies 
+We found 16 studies with a total of 851 participants. Of these, 13 studies evaluated the NBAS and 3 the NBO. All studies took place in the USA between 1981 and 2015. 
+Results 
+We were able to combine data from seven studies in a meta‐analysis (a statistical method of combining data from several studies to reach a single, more robust conclusion) measuring the impact of the NBAS on caregiver‐infant interaction. We found some evidence of effectiveness from very low‐quality studies. A comparison of the NBAS with the NBO for this outcome, however, suggested that while the NBO produced a larger effect size than the NBAS, this difference was not significant. One low‐quality study showed a positive impact on caregiver knowledge. We found no evidence of an impact on maternal depression. We did not identify any adverse effects as a result of the intervention. 
+Study quality 
+We considered the data for the main study outcomes to be of very low quality.
+Authors' conclusion 
+There is currently very low‐quality evidence of the effectiveness that the NBAS and NBO improve parent‐infant interaction with low‐risk, first‐time parents and their infants. Ongoing studies with regard to the NBO will help to establish the accuracy of these results. 

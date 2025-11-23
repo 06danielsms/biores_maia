@@ -1,0 +1,15 @@
+Background
+The myelodysplastic syndrome (MDS) comprises a diverse group of haematopoietic stem cell disorders. Due to symptomatic anaemia, most people with MDS require supportive therapy including repeated red blood cell (RBC) transfusions. In combination with increased iron absorption, this contributes to the accumulation of iron resulting in secondary iron overload and the risk of organ dysfunction and reduced life expectancy. Since the human body has no natural means of removing excess iron, iron chelation therapy, i.e. the pharmacological treatment of iron overload, is usually recommended. However, it is unclear whether or not the newer oral chelator deferasirox leads to relevant benefit. 
+Objectives
+To evaluate the effectiveness and safety of oral deferasirox for managing iron overload in people with myelodysplastic syndrome (MDS). 
+Search methods
+We searched the following databases up to 03 April 2014: MEDLINE, EMBASE, The Cochrane Library, Biosis Previews, Web of Science, Derwent Drug File and four trial registries: Current Controlled Trials (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov), ICTRP (www.who.int./ictrp/en/), and German Clinical Trial Register (www.drks.de). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing deferasirox with no therapy, placebo or with another iron‐chelating treatment schedule. 
+Data collection and analysis
+We did not identify any trials eligible for inclusion in this review.
+Main results
+No trials met our inclusion criteria. However, we identified three ongoing and one completed trial (published as an abstract only and in insufficient detail to permit us to decide on inclusion) comparing deferasirox with deferoxamine, placebo or no treatment. 
+Authors' conclusions
+We planned to report evidence from RCTs that evaluated the effectiveness of deferasirox compared to either placebo, no treatment or other chelating regimens, such as deferoxamine, in people with MDS. However, we did not identify any completed RCTs addressing this question. 
+We found three ongoing and one completed RCT (published as an abstract only and in insufficient detail) comparing deferasirox with deferoxamine, placebo or no treatment and data will hopefully be available soon. These results will be important to inform physicians and patients on the advantages and disadvantages of this treatment option. 

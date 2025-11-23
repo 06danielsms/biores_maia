@@ -1,0 +1,11 @@
+Gonadotrophin‐releasing hormone antagonists versus GnRH agonist in subfertile couples undergoing assisted reproductive technology 
+Review question 
+This updated Cochrane review evaluated the efficacy and safety of GnRH antagonists compared to the more widely‐used GnRH agonists (long‐course protocol). 
+Background: 
+Gonadotrophin‐releasing hormone (GnRH) agonist is commonly used to prevent cycle cancellation secondary to a premature luteinizing hormone (LH) surge, and thereby increase the chance of live birth in women undergoing assisted reproductive technology (ART), while reducing the risk of complications such as ovarian hyperstimulation syndrome (OHSS). Gonadotrophin‐releasing hormone (GnRH) antagonists are now being seriously considered as a potential means of achieving better treatment outcomes because the protocol is more flexible and antagonists may reduce OHSS more effectively than agonists. However, there is the need to evaluate the benefits as well as the safety of these GnRH antagonist regimens in comparison with the existing GnRH agonist regimens. 
+Study characteristics 
+We found 73 randomised controlled trials comparing GnRH antagonist with GnRH agonist in a total of 12,212 women undergoing ART. The evidence is current to May 2015 
+Key results 
+There was no evidence of a difference between the groups in live birth rates (i.e. rates at conclusion of a course of treatment). The evidence suggested that if the chance of live birth following GnRH agonist is assumed to be 29%, the chance following GnRH antagonist would be between 25% and 33%. However, the OHSS rates were much higher after GnRH agonist. The evidence suggested that if the risk of OHSS following GnRH agonist is assumed to be 11%, the risk following GnRH antagonist would be between 6% and 9%. 
+Quality of the evidence 
+The evidence was of moderate quality for both live birth and OHSS. The main limitations of the evidence were the possibility of publication bias for live birth (with small studies likely to report favourable outcomes for GnRH antagonist) and poor reporting of study methods for OHSS. 

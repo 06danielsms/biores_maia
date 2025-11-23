@@ -1,0 +1,14 @@
+Background
+Simultaneous bilateral training, the completion of identical activities with both arms simultaneously, is one intervention to improve arm function and reduce impairment. 
+Objectives
+To determine the effects of simultaneous bilateral training for improving arm function after stroke. 
+Search methods
+We searched the Cochrane Stroke Trials Register (last searched August 2009) and 10 electronic bibliographic databases including the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 3, 2009), MEDLINE, EMBASE, CINAHL and AMED (August 2009). We also searched reference lists and trials registers. 
+Selection criteria
+Randomised trials in adults after stroke, where the intervention was simultaneous bilateral training compared to placebo or no intervention, usual care or other upper limb (arm) interventions. Primary outcomes were performance in activities of daily living (ADL) and functional movement of the upper limb. Secondary outcomes were performance in extended activities of daily living and motor impairment of the arm. 
+Data collection and analysis
+Two authors independently screened abstracts, extracted data and appraised trials. Assessment of methodological quality was undertaken for allocation concealment, blinding of outcome assessor, intention‐to‐treat, baseline similarity and loss to follow up. 
+Main results
+We included 18 studies involving 549 relevant participants, of which 14 (421 participants) were included in the analysis (one within both comparisons). Four of the 14 studies compared the effects of bilateral training with usual care. Primary outcomes: results were not statistically significant for performance in ADL (standardised mean difference (SMD) 0.25, 95% confidence interval (CI) ‐0.14 to 0.63); functional movement of the arm (SMD ‐0.07, 95% CI ‐0.42 to 0.28) or hand (SMD ‐0.04, 95% CI ‐0.50 to 0.42). Secondary outcomes: no statistically significant results. Eleven of the 14 studies compared the effects of bilateral training with other specific upper limb (arm) interventions. Primary outcomes: no statistically significant results for performance of ADL (SMD ‐0.25, 95% CI ‐0.57 to 0.08); functional movement of the arm (SMD ‐0.20, 95% CI ‐0.49 to 0.09) or hand (SMD ‐0.21, 95% CI ‐0.51 to 0.09). Secondary outcomes: one study reported a statistically significant result in favour of another upper limb intervention for performance in extended ADL. No statistically significant differences were found for motor impairment outcomes. 
+Authors' conclusions
+There is insufficient good quality evidence to make recommendations about the relative effect of simultaneous bilateral training compared to placebo, no intervention or usual care. We identified evidence that suggests that bilateral training may be no more (or less) effective than usual care or other upper limb interventions for performance in ADL, functional movement of the upper limb or motor impairment outcomes. 

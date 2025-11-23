@@ -1,0 +1,28 @@
+What are the benefits and risks of using virtual reality in a healthcare setting to distract children from pain? 
+Why is this question important? 
+Medical procedures, such as health examinations or injections, can cause children to experience pain. In these situations, it is common practice to distract children using toys or play, in order to minimise distress and fear of pain. 
+One form of distraction that can be used is virtual reality. Virtual reality is an artificial environment with scenes and objects that appear to be real (for example a frozen world, or a wildlife park). Virtual reality can be: 
+‐ Fully‐immersive: users typically wear a headset with headphones and a screen, and interact with the virtual environment as if they were really in it. 
+‐ Semi‐immersive: users interact with a partially virtual environment (for example, a flight simulator where the controls are real, but the windows display virtual images). 
+‐ Non‐immersive: the user is connected to the virtual world by a separate monitor (for example, a computer) but can still experience the real world. 
+To find out whether virtual reality can distract children from pain, and whether it is associated with any adverse (unwanted) effects, we reviewed the research evidence. 
+How did we identify and evaluate the evidence? 
+We searched the medical literature for randomised controlled studies (clinical studies where people are randomly put into one of two or more treatment groups), because these provide the most robust evidence about the effects of a treatment. We compared and summarized their results. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find? 
+We found 17 studies that involved a total of 1008 children aged from four to 18 years. Medical procedures included injections, taking blood, changing wound dressings, and physical exercise. Studies compared virtual reality against no distraction, or against non‐virtual distraction. No studies compared different types of virtual reality. 
+During a medical procedure 
+We cannot tell whether virtual reality reduces self‐reported pain during a medical procedure because we have too little confidence in the evidence available (three studies). 
+Only two studies investigated changes in pain assessed by an observer (for example, using a rating scale that ranges from 0 (no pain) to 10 (great pain)). These reported conflicting findings: in one study fully‐immersive virtual reality was beneficial compared to non‐virtual distraction, but not in the other. 
+Fully‐immersive virtual reality may reduce pain assessed by an observer based on children's behaviour (for example, crying, or rubbing a body part in a way that indicates pain) more effectively than non‐virtual distraction (two studies) or no distraction (one study). 
+Non‐immersive virtual reality was not beneficial for pain assessed by an observer based on children's behaviour compared to no distraction (one study). 
+After a medical procedure 
+We cannot tell whether virtual reality can reduce self‐reported pain after a medical procedure, as we have too little confidence in the evidence available (16 studies). 
+Five studies investigated changes in pain assessed by an observer. Virtual reality was beneficial compared to no distraction in two studies, and also when compared to non‐virtual distraction in another two studies. However, it was no better than non‐virtual distraction in one study. 
+Two studies investigating pain assessed by an observer based on children's behaviour reported conflicting findings: immersive virtual reality was beneficial compared to non‐virtual distraction in one study, but not in the other. 
+We cannot tell whether there is a difference between virtual reality and no distraction for pain assessed by an observer based on children's behaviour, as we have too little confidence in the available evidence (one study). 
+Adverse effects 
+We cannot tell if virtual reality is associated with adverse effects because we have too little confidence in the evidence available (11 studies). 
+What does this mean? 
+We have little to very little confidence in the evidence we identified. It is unclear from our review whether virtual reality distraction makes a difference to pain in children. There is a need for large, well‐designed studies in this area. 
+How up‐to date is this review? 
+The evidence in this Cochrane Review is current to October 2019.

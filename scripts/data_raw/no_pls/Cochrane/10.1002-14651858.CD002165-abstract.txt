@@ -1,0 +1,14 @@
+Background
+Infection with Streptococcus pneumoniae is an important cause of pneumonia and other serious illnesses, particularly amongst those with certain high‐risk medical conditions such as asthma. Although pneumococcal vaccine is routinely advocated for people with asthma, there is uncertainty about the evidence base that underpins this recommendation. 
+Objectives
+To determine the efficacy of pneumococcal vaccine in reducing mortality or morbidity from pneumococcal disease in asthmatics. 
+Search methods
+Randomised controlled trials were identified from the Cochrane Airways Group Specialised Register of trials. Searches were current as of August 2010. 
+Selection criteria
+Randomised controlled trials, with or without blinding, in which pneumococcal vaccine has been compared with placebo or no treatment in people with clinician diagnosed asthma. 
+Data collection and analysis
+Two reviewers independently reviewed all abstracts and full papers of all articles of potential relevance were retrieved. Methodological quality was rated using the Cochrane approach and the Jadad rating scale. Data extraction was performed by one reviewer and checked independently by a second. We planned to perform quantitative analyses of outcomes on an intention‐to‐treat basis, where possible. 
+Main results
+Of the three papers retrieved, only one satisfied the inclusion criteria and the methodological quality of this study was low (unblinded and inadequate allocation concealment). None of the data could be aggregated in a meta‐analysis. Comparisons in a sub‐set of 30 asthmatic children prone to recurrent episodes of otitis media, showed that pneumococcal vaccination decreased the incidence of acute asthma exacerbations from 10 to 7 (per child per year). A further search conducted in August 2010 did not yield any further studies. 
+Authors' conclusions
+This review found very limited evidence to support the routine use of pneumococcal vaccine in people with asthma. A randomised trial of vaccine efficacy in children and adults with asthma is needed. 

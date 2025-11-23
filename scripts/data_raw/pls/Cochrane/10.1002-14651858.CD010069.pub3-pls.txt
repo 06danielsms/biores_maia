@@ -1,0 +1,50 @@
+Interventions for tophi in gout
+Background 
+Gout is caused by urate crystals forming within or around joints.
+Inflammation can lead to pain, redness, warmth and swelling of the affected joints, making it difficult to touch or move. Some of the reasons why people develop gout include their genetic makeup, being overweight, ingesting certain medications (e.g. cyclosporine), impaired kidney function and lifestyle habits such as drinking excessive amounts of alcohol and sugar sweetened drinks. 
+Tophi are nodules that develop in people with uncontrolled chronic gout. Tophi can become infected, cause pain and lead to reduced function. Tophi can be treated with urate‐lowering drugs (e.g. benzbromarone, probenecid, allopurinol, febuxostat, pegloticase, lesinurad), surgical removal or other interventions. 
+Study characteristics 
+This is a summary of a Cochrane Review on interventions for the management of tophi. The literature was searched up to 28 August 2020. We reported five studies on pharmacological interventions. Participants were from a wide range of countries, including the USA, Canada, Mexico, South Africa, Australia, New Zealand, and locations in Europe. All studies were funded by pharmaceutical companies. 
+Key results 
+Comparing biweekly pegloticase to placebo (fake treatment) (1 study; 79 participants) 
+Resolution of tophi 
+33 more people out of 100 had resolution of one or more tophi after six months' treatment with pegloticase biweekly (every 2 weeks) compared with placebo (16% better to 50% better). 
+40 out of 100 people had tophi resolution with pegloticase.
+7 out of 100 people had tophi resolution with placebo.
+Total adverse events: 
+1 more person out of 100 had an adverse event with pegloticase compared with placebo (9% fewer to 7% more). 
+95 out of 100 people had an adverse event with pegloticase.
+94 out of 100 people had an adverse event with placebo.
+Comparing monthly pegloticase to placebo (1 study; 79 participants) 
+Resolution of tophi 
+14 more people out of 100 had resolution of one or more tophi after six months' treatment with pegloticase monthly compared with placebo (1% worse to 29% better). 
+21 out of 100 people had tophi resolution with pegloticase.
+7 out of 100 people had tophi resolution with placebo.
+Total adverse events 
+5 more people out of 100 had an adverse event with pegloticase compared with placebo (20% fewer to 12% more). 
+100 out of 100 people had an adverse event with pegloticase.
+95 out of 100 people had an adverse event with placebo.
+Comparing lesinurad plus allopurinol to allopurinol (2 studies; 103 participants) 
+Resolution of tophi 
+11 fewer people out of 100 had complete resolution of target tophus after 12 month's treatment with lesinurad 200 mg plus allopurinol versus alopurinol alone (28% worse to 6% better). 
+21 out of 100 people had tophi resolution with lesinurad 200 mg plus allopurinol.
+32 out of 100 people had tophi resolution with allopurinol.
+7 fewer people out of 100 had complete resolution of target tophus after 12 month's treatment with lesinurad 400 mg combination versus allopurinol alone (25% worse to 11% better). 
+25 out of 100 people had tophi resolution with lesinurad 400 mg plus allopurinol.
+32 out of 100 people had tophi resolution with allopurinol.
+Comparing lesinurad 400 mg plus febuxostat to lesinurad 200 mg plus febuxostat (1 study; 129 participants) 
+Resolution of tophi 
+7 more people out of 100 had complete resolution of target tophus after 12 month's treatment with lesinurad 400 mg versus lesinurad 200 mg, both in combination with febuxostat (10% fewer to 23% more). 
+66 out of 100 people had tophi resolution with lesinurad 400 mg plus febuxostat.
+59 out of 100 people had tophi resolution with lesinurad 200 mg plus febuxostat.
+Number of participant withdrawals due to adverse events 
+Only one study reported on adverse events separately in participants with tophi. 
+9 more people out of 100 withdrew due to adverse events after 12 month's treatment with lesinurad 400 mg versus lesinurad 200 mg, both in combination with febuxostat (3% less to 43% better). 
+70 out of 100 people with lesinurad 400 mg plus febuxostat withdrew from the study.
+61 out of 100 people with lesinurad 200 mg plus febuxostat withdrew from the study.
+Total adverse events 
+15 more people out of 100 had one or more adverse event after 12 month's treatment with lesinurad 400 mg versus lesinurad 200 mg, both in combination with febuxostat (3% less to 18% better). 
+97 out of 100 people had an adverse event with lesinurad 400 mg plus febuxostat.
+82 out of 100 people had an adverse event with lesinurad 200 mg plus febuxostat.
+Certainty of evidence 
+Moderate‐certainty evidence indicated that pegloticase biweekly or monthly probably resolves one or more tophi. Moderate‐certainty evidence showed that lesinurad (400 mg or 200 mg) in combination with allopurinol is probably not beneficial for resolution of tophi in gout. Low‐certainty evidence indicated that lesinurad 400 mg compared to lesinurad 200 mg (both in combination with febuxostat) may resolve tophi and may result in no difference in adverse events or withdrawals due to adverse events. However, this study did not have a placebo arm.  

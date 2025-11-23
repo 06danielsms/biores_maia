@@ -1,0 +1,14 @@
+Background
+Dysmenorrhoea is a common gynaecological complaint that can affect as many as 50% of premenopausal women, 10% of whom suffer severely enough to be rendered incapacitated for one to three days during each menstrual cycle. Primary dysmenorrhoea is where women suffer from menstrual pain but lack any pathology in their pelvic anatomy. Beta2‐adrenoceptor agonists have been used in the treatment of women with primary dysmenorrhoea but their effects are unclear. 
+Objectives
+To determine the effectiveness and safety of beta2‐adrenoceptor agonists in the treatment of primary dysmenorrhoea. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group Specialised Register; CENTRAL (The Cochrane Library 2011, Issue 8); MEDLINE; EMBASE; PsycINFO and the EBM Reviews databases. The last search was on 22 August 2011. 
+Selection criteria
+Randomised controlled trials comparing beta2‐adrenoceptor agonists with placebo or no treatment, each other or any other conventional treatment in women of reproductive age with primary dysmenorrhoea. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted the data.
+Main results
+Five trials involving 187 women with an age range of 15 to 40 years were included. Oral isoxsuprine was compared with placebo in two trials; terbutaline oral spray, ritodrine chloride and oral hydroxyphenyl‐orciprenalin were compared with placebo in a further three trials. Clinical diversity in the studies in terms of the interventions being evaluated, assessments at different time points and the use of different assessment tools mitigated against pooling of outcome data across studies in order to provide a summary estimate of effect for any of the comparisons. Only one study, with unclear risk of bias, reported pain relief with a combination of isoxsuprine, acetaminophen and caffeine. None of the other studies reported any significant clinical difference in effectiveness between the intervention and placebo. Adverse effects were reported with all of these medications in up to a quarter of the total number of participants. They included nausea, vomiting, dizziness, quivering, tremor and palpitations. 
+Authors' conclusions
+The evidence presented in this review was based on a few relatively small‐sized studies that were categorised to have unclear to high risk of bias, which does not allow confident decision‐making at present about the use of beta2‐adrenoceptor agonists for dysmenorrhoea. The benefits as reported in one study should be balanced against the wide array of unacceptable side effects documented with this class of medication. We have emphasised the lack of precision and limitations in the reported data where appropriate. 

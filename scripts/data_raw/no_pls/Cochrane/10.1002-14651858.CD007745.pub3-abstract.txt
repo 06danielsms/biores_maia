@@ -1,0 +1,18 @@
+Background
+Strongyloidiasis is a gut infection with Strongyloides stercoralis which is common world wide. Chronic infection usually causes a skin rash, vomiting, diarrhoea or constipation, and respiratory problems, and it can be fatal in people with immune deficiency. It may be treated with ivermectin or albendazole or thiabendazole. 
+Objectives
+To assess the effects of ivermectin versus benzimidazoles (albendazole and thiabendazole) for treating chronic strongyloides infection. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (24 August 2015); the Cochrane Central Register of Controlled Trials (CENTRAL), published in the Cochrane Library; MEDLINE (January 1966 to August 2015); EMBASE (January 1980 to August 2015); LILACS (August 2015); and reference lists of articles. We also searched the metaRegister of Controlled Trials (mRCT) using 'strongyloid*' as a search term, reference lists, and conference abstracts. 
+Selection criteria
+Randomized controlled trials of ivermectin versus albendazole or thiabendazole for treating chronic strongyloides infection. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias in the included trials. We used risk ratios (RRs) with 95% confidence intervals (CIs) and fixed‐ or random‐effects models. We pooled adverse event data if the trials were sufficiently similar in their adverse event definitions. 
+Main results
+We included seven trials, enrolling 1147 participants, conducted between 1994 and 2011 in different locations (Africa, Southeast Asia, America and Europe). 
+In trials comparing ivermectin with albendazole, parasitological cure was higher with ivermectin (RR 1.79, 95% CI 1.55 to 2.08; 478 participants, four trials, moderate quality evidence). There were no statistically significant differences in adverse events (RR 0.80, 95% CI 0.59 to 1.09; 518 participants, four trials, low quality evidence). 
+In trials comparing ivermectin with thiabendazole, there was little or no difference in parasitological cure (RR 1.07, 95% CI 0.96 to 1.20; 467 participants, three trials, low quality evidence). However, adverse events were less common with ivermectin (RR 0.31, 95% CI 0.20 to 0.50; 507 participants; three trials, moderate quality evidence). 
+In trials comparing different dosages of ivermectin, taking a second dose of 200 μg/kg of ivermectin was not associated with higher cure in a small subgroup of participants (RR 1.02, 95% CI 0.94 to 1.11; 94 participants, two trials). 
+Dizziness, nausea, and disorientation were commonly reported in all drug groups. There were no reports of serious adverse events or death. 
+Authors' conclusions
+Ivermectin results in more people cured than albendazole, and is at least as well tolerated. In trials of ivermectin with thiabendazole, parasitological cure is similar but there are more adverse events with thiabendazole. 

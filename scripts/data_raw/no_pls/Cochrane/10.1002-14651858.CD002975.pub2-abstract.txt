@@ -1,0 +1,18 @@
+Background
+The application of continuous positive airway pressure (CPAP) has been shown to have some benefits in the treatment of preterm infants with respiratory distress. CPAP has the potential to reduce lung damage, particularly if applied early before atelectasis has occurred. Early application may better conserve an infant's own surfactant stores and consequently may be more effective than later application. 
+Objectives
+• To determine if early compared with delayed initiation of CPAP results in lower mortality and reduced need for intermittent positive‐pressure ventilation in preterm infants in respiratory distress 
+○ Subgroup analyses were planned a priori on the basis of weight (with subdivisions at 1000 grams and 1500 grams), gestation (with subdivisions at 28 and 32 weeks), and according to whether surfactant was used 
+▫ Sensitivity analyses based on trial quality were also planned
+○ For this update, we have excluded trials using continuous negative pressure
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2020, Issue 6), in the Cochrane Library; Ovid MEDLINE(R) and Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations Daily and Versions(R); and the Cumulative Index to Nursing and Allied Health Literatue (CINAHL), on 30 June 2020. We also searched clinical trials databases and the reference lists of retrieved articles for randomised controlled trials (RCTs) and quasi‐RCTs. 
+Selection criteria
+We included trials that used random or quasi‐random allocation to either early or delayed CPAP for spontaneously breathing preterm infants in respiratory distress. 
+Data collection and analysis
+We used the standard methods of Cochrane and Cochrane Neonatal, including independent assessment of trial quality and extraction of data by two review authors. We used the GRADE approach to assess the certainty of evidence. 
+Main results
+We found four studies that recruited a total of 119 infants. Two were quasi‐randomised, and the other two did not provide details on the method of randomisation or allocation used. None of these studies used blinding of the intervention or the outcome assessor. Evidence showed uncertainty about whether early CPAP has an effect on subsequent use of intermittent positive‐pressure ventilation (IPPV) (typical risk ratio (RR) 0.77, 95% confidence interval (CI) 0.43 to 1.38; typical risk difference (RD) ‐0.08, 95% CI ‐0.23 to 0.08; I² = 0%, 4 studies, 119 infants; very low‐certainty evidence) or mortality (typical RR 0.93, 95% CI 0.43 to 2.03; typical RD ‐0.02, 95% CI ‐0.15 to 0.12; I² = 33%, 4 studies, 119 infants; very low‐certainty evidence). The outcome 'failed treatment' was not reported in any of these studies. There was an uncertain effect on air leak (pneumothorax) (typical RR 1.09, 95% CI 0.39 to 3.04, I² = 0%, 3 studies, 98 infants; very low‐certainty evidence). No trials reported intraventricular haemorrhage or necrotising enterocolitis. No cases of retinopathy of prematurity were reported in one study (21 infants). One case of bronchopulmonary dysplasia was reported in each group in one study involving 29 infants. Long‐term outcomes were not reported. 
+Authors' conclusions
+All four small trials included in this review were performed in the 1970s or the early 1980s, and we are very uncertain whether early application of CPAP confers clinical benefit in the treatment of respiratory distress, or whether it is associated with any adverse effects. 
+Further trials should be directed towards establishing the appropriate level of CPAP and the timing and method of administration of surfactant when used along with CPAP. 

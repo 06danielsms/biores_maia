@@ -1,0 +1,18 @@
+Interventions to prevent delirium in hospitalised patients, not including those on intensive care units 
+Review question 
+We reviewed the evidence for the effectiveness of interventions for preventing delirium in hospitalised patients, not including those on intensive care units (ICU) (specialised wards for the care of critically ill patients). 
+Background 
+Delirium is a common and serious illness for people admitted to hospital. It can be distressing for patients and their families. It also increases the chances of developing other complications in hospital, being admitted to a care home or dying in hospital. Delirium is a very expensive condition for health services. Prevention of delirium is therefore desirable for patients, families and health services. 
+There are many risk factors for developing delirium (e.g. infection, dehydration, certain medications). Therefore, one approach (called ‘multi‐component interventions’) to preventing delirium is to target these multiple risk factors. Some medications have effects on the brain chemicals implicated in developing delirium, and may, therefore, have a role in prevention. There are also a number of other interventions that target delirium risk factors related to anaesthesia and medical treatment around the time of surgery. 
+Study characteristics 
+This evidence is current to 4 December 2015. We found 39 trials that recruited 16,082 participants testing 22 different multi‐component interventions, medications or anaesthetic interventions, compared to usual care, placebo, or different interventions. 
+Key findings 
+We found strong evidence that multi‐component interventions can prevent delirium in both medical and surgical settings and less robust evidence that they reduce the severity of delirium. Evidence about their effect on the duration of delirium is inconclusive. 
+There is evidence that monitoring the depth of anaesthesia can reduce the occurrence of delirium after general anaesthetic. 
+We found no clear evidence that a range of medications or other anaesthetic techniques or procedures are effective in preventing delirium. 
+Quality of the evidence 
+There is moderate‐quality evidence to indicate that multi‐component interventions reduce the incidence of delirium. The evidence supports implementing multi‐component delirium prevention interventions into routine care for patients in hospital. 
+There is moderate‐quality evidence that monitoring depth of general anaesthesia can be used to prevent delirium postoperatively. 
+The quality of the evidence for a range of medications or other anaesthetic techniques or procedures for preventing delirium is poor (because of the small number of trials and the variable quality of trial methods), and cannot be used to inform changes to practice. 
+External funding 
+None.

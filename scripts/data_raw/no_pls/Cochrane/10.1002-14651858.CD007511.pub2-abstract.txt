@@ -1,0 +1,14 @@
+Background
+Acute intestinal obstruction is one of the most common surgical emergencies. The small bowel obstruction (SBO) is the site of obstruction in most patients (76%) and adhesions are the most common etiology (65%). Laparoscopy in SBO has no clear role yet as it may have a therapeutic and diagnostic function. In some settings laparoscopic or laparoscopy‐assisted surgery is considered feasible and convenient more than conventional surgery for SBO; however little is known if laparoscopic or laparoscopy‐assisted surgery is more suitable with respect to open surgery for patients with SBO. 
+Objectives
+The aim of this systematic review is to assess whether laparoscopic or laparoscopy‐assisted surgery is feasible and safe for acute SBO, and whether laparoscopic and laparoscopy‐assisted surgery present advantages compared to open surgery in terms of short‐term and long‐term outcomes. 
+Search methods
+We searched for published randomised and prospective controlled clinical trials without language restrictions using the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (1950 onwards) and EMBASE (1980 onwards). 
+Selection criteria
+Randomised controlled trials and non randomised controlled prospective trials evaluating laparoscopic and laparoscopy‐assisted surgery versus traditional open surgery for acute SBO were considered. 
+Data collection and analysis
+We conducted the review according to the recommendations of The Cochrane Collaboration and the Cochrane Colorectal Group as well, using Review Manager 5 to conduct the review. 
+Main results
+No published or unpublished randomised controlled trials or prospective controlled clinical trials comparing laparoscopy with open surgery for patients with SBO were identified. 
+Authors' conclusions
+Although data from retrospective clinical controlled trials suggest that laparoscopy seems feasible and better in terms of hospital stay and mortality reduction, high quality randomised controlled trials assessing all clinically relevant outcomes including overall mortality, morbidity, hospital stay and conversion are needed. 

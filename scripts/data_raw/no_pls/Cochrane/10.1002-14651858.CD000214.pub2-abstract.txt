@@ -1,0 +1,15 @@
+Background
+Cigarette smoking is one of the leading causes of preventable death world wide. There is good evidence that brief interventions from health professionals can increase smoking cessation attempts. A number of trials have examined whether skills training for health professionals can lead them to have greater success in helping their patients who smoke. 
+Objectives
+To determine the effectiveness of training health care professionals in the delivery of smoking cessation interventions to their patients, and to assess the additional effects of training characteristics such as intervention content, delivery method and intensity. 
+Search methods
+The Cochrane Tobacco Addiction Group’s Specialised Register, electronic databases and the bibliographies of identified studies were searched and raw data was requested from study authors where needed. Searches were updated in March 2012. 
+Selection criteria
+Randomized trials in which the intervention was training of health care professionals in smoking cessation. Trials were considered if they reported outcomes for patient smoking at least six months after the intervention. Process outcomes needed to be reported, however trials that reported effects only on process outcomes and not smoking behaviour were excluded. 
+Data collection and analysis
+Information relating to the characteristics of each included study for interventions, participants, outcomes and methods were extracted by two independent reviewers. Studies were combined in a meta‐analysis where possible and reported in narrative synthesis in text and table. 
+Main results
+Of seventeen included studies, thirteen found no evidence of an effect for continuous smoking abstinence following the intervention. Meta‐analysis of 14 studies for point prevalence of smoking produced a statistically and clinically significant effect in favour of the intervention (OR 1.36, 95% CI 1.20 to 1.55, p= 0.004). Meta‐analysis of eight studies that reported continuous abstinence was also statistically significant (OR 1.60, 95% CI 1.26 to 2.03, p= 0.03). 
+Healthcare professionals who had received training were more likely to perform tasks of smoking cessation than untrained controls, including: asking patients to set a quit date (p< 0.0001), make follow‐up appointments (p< 0.00001), counselling of smokers (p< 0.00001), provision of self‐help material (p< 0.0001) and prescription of a quit date (p< 0.00001). No evidence of an effect was observed for the provision of nicotine gum/replacement therapy. 
+Authors' conclusions
+Training health professionals to provide smoking cessation interventions had a measurable effect on the point prevalence of smoking, continuous abstinence and professional performance. The one exception was the provision of nicotine gum or replacement therapy, which did not differ between groups. 

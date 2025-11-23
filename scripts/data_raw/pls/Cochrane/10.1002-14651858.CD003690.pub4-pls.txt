@@ -1,0 +1,15 @@
+Pharmaceutical interventions for emotionalism after stroke
+Review question 
+Does pharmaceutical treatment reduce the frequency of unwanted emotional displays in people with emotionalism after stroke compared to placebo? 
+Background 
+Emotionalism often occurs after stroke. Emotionalism means that the person has difficulty controlling their emotional behaviour. People after stroke may suddenly start crying or, less commonly, laughing for no apparent reason. This is distressing for that particular person and their carers. Antidepressants, known to be helpful in people with depression, may be an effective treatment for emotionalism after stroke, but there have been very few randomised controlled trials in this area. 
+Search date 
+We identified studies by searches conducted on 14 May 2018.
+Study characteristics 
+We included seven randomised controlled trials involving 239 participants in the review, which reported on the use of antidepressants for treating emotionalism. Trials ranged from small (10 participants) to large (92 participants). Mean/median age of participants ranged from 57.8 years to 73 years. Studies were from Europe (UK: 1, Denmark: 1, Scotland: 1, and Sweden: 1); Asia (South Korea: 1; and Japan: 1); and the USA: 1. 
+Key results 
+We included seven trials involving 239 participants (we identified no new trials since the previous version of the review). Two trials were of cross‐over design, and outcome data were not available from the first phase (precross‐over) in an appropriate format for inclusion as a parallel randomised controlled trial (RCT). Data were only available for five trials with 213 participants. We observed treatment effects on the following: 50% reduction in emotionalism, improvements (reduction) in lability, Clinician Interview‐Based Impression of Change (CIBIC), diminished tearfulness and scores on the Pathological Laughter and Crying Scale (PLCS). However, confidence intervals were wide indicating that treatment may have had only a small positive effect, or even a small negative effect (in one trial). Six trials reported death as an adverse event and found no differences between groups. 
+Quality of the evidence 
+We rated the evidence from very low to moderate quality due to these being small trials with some degree of bias. 
+Conclusion 
+Antidepressant drugs appear to reduce outbursts of crying or laughing. More trials with systematic assessment and reporting of adverse events are needed to ensure that these benefits outweigh the risks. 

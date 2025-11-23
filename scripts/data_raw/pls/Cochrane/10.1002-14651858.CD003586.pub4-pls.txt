@@ -1,0 +1,27 @@
+Non‐drug treatments for spatial neglect/inattention following stroke or adult brain injury 
+What is the review about?Spatial neglect, or inattention, is a condition that affects many brain injury survivors, particularly stroke survivors. It reduces a person's awareness of one side of the body or of the surrounding environment. This can affect a person's ability to carry out many everyday tasks such as eating, reading, and getting dressed, which can reduce independence. 
+What did we want to know?We wanted to find out if non‐drug treatments:• improve patients' ability to complete daily living activities; and• reduce spatial neglect. 
+What did we do?We reviewed evidence from randomised trials ‐ studies that compared one treatment to another by randomly assigning people with stroke or brain injury to one or the other treatment. 
+Evidence from 1966 to October 2020 was reviewed.
+What evidence did we find?We found 65 studies involving 1951 participants. 
+All studies included participants with spatial neglect as a result of stroke. It is surprising that only one study included three participants with spatial neglect caused by another type of brain injury. 
+All studies included participants with right‐sided damage to the brain; seven studies also included participants with left‐sided damage. 
+Studies were considered small, with 4 to 69 participants (average 30). Eight studies included 50 or more participants; four studies involved 10 or fewer. 
+None of the studies reported any patient or public involvement in how the studies were designed, conducted, or reported. 
+We categorised the studies into eight different types of treatments.
+• Visual treatment: 17 studies involving 398 participants explored visual treatments. All treatments encouraged eye movement or scanning by a range of methods including paper‐based tasks, computer activities, and daily living activities. 
+• Prism adaptation training: 8 studies involving 257 participants explored prism adaptation training. This involved participants wearing glasses with prism lenses during a pointing activity. 
+• Body awareness treatments: 12 studies involving 447 participants explored body awareness treatments. These studies involved various physical, visual, or verbal prompting or cueing aimed at increasing awareness of the affected side. 
+• Mental function treatments: 7 studies involving 170 participants explored treatments that focused on mental processing/thinking (e.g. mental imagery, virtual reality). 
+• Movement treatments: 6 studies involving 220 participants explored treatments that used movement of the arm or the whole body. These included the use of robotics, visual and motor feedback, and restricting movement on the side of the body that was not affected. 
+• Non‐invasive brain stimulation: 17 studies involving 467 participants explored non‐invasive brain stimulation. These involved different methods of applying electrical or magnetic stimulation to the skull to change brain activity. 
+• Electrical stimulation: 8 studies involving 270 participants explored electrical stimulation to other parts of the body. These involved sending mild electrical impulses to a particular part of the body (e.g. the arm). Four different types of electrical stimulation were used. 
+• Acupuncture: 2 studies involving 104 participants explored the use of acupuncture. These involved inserting thin needles into specific points in the body. 
+What was the quality of the evidence?We rated the evidence on use of these treatments and found it to be of very low quality due to: 
+• the small size of studies;• differences between studies within each of the eight treatment categories, including participant characteristics, types of treatments, and assessments used to measure changes; and• concerns about how participants were randomised, and whether people carrying out the assessments were "blinded" (i.e. knew which treatment each patient received). 
+What were the main results? 
+Most studies used standard tests of spatial neglect. Many also measured effects on daily living activities soon after treatment, but very few reports described longer‐term effects. 
+Other meaningful treatment outcomes were rarely reported.
+Overall we found only very low‐quality evidence about whether these treatments had benefits or harms for people with spatial neglect. 
+What does this mean? 
+Despite 65 (small) trials, the benefits or risks of non‐drug treatments for reducing neglect and increasing independence remain unknown. It would be a mistake to interpret this review as concluding that the proposed treatments are ineffective. Rather, we conclude that evidence for or against any treatment used within randomised trials conducted worldwide is insufficient. Future trials must be of much higher quality to answer important clinical questions. One way to improve research quality is to involve patients in designing and running the trial. Clinicians should continue to follow national clinical guidelines and are strongly encouraged to participate in trials. People with spatial neglect should continue to receive general stroke or neurological rehabilitation that enables them to meet their rehabilitation goals, including any available intervention for neglect. People with spatial neglect should also have the opportunity to take part in high‐quality research. 

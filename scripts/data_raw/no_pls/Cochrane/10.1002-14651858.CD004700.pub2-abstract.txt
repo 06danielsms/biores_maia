@@ -1,0 +1,14 @@
+Background
+This is an update of the original review published in Issue 1, 2005. It is standard clinical practice to combine chemotherapy and chest radiotherapy in treating patients with limited‐stage small cell lung cancer. However, the best way to integrate both modalities is unclear. 
+Objectives
+To establish the best timing of chest radiotherapy with chemotherapy for patients with limited‐stage small cell lung cancer in order to improve long‐term survival. 
+Search methods
+We ran a new search in January 2009. We searched MEDLINE (through PubMed), EMBASE (through Ovid), CINAHL (through EBSCO), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2009, Issue 1) and reference lists, handsearched journals and conference proceedings, and contacted experts to identify potentially eligible trials, published and unpublished. 
+Selection criteria
+Randomised controlled clinical trials comparing different timing of chest radiotherapy in patients with limited‐stage small cell lung cancer. 
+Data collection and analysis
+Seven randomised trials were included. There were differences in the timing and overall treatment time of chest radiotherapy, and the type of chemotherapy used. 
+Main results
+We found no significant differences in overall survival, whether chest radiotherapy was delivered within 30 days after the start of chemotherapy or later, even after exclusion of the only study that delivered chest radiotherapy during cycles of non‐platinum chemotherapy (HR 0.86 in favour of early radiation, P = 0.11). The same was observed for studies having early chest radiotherapy delivered in an overall treatment time of less than 30 days compared to a longer treatment time (HR 0.82, P = 0.13). These results should be interpreted with caution because the largest trial has follow‐up data up to three years only. The outcome of longer follow up for overall survival remains to be seen. Local tumour control was not significantly different between early and late chest radiotherapy, nor the incidence of severe pneumonitis or severe oesophagitis. However, we observed a trend towards a higher chance of developing oesophagitis and pneumonitis when early chest radiotherapy was delivered during chemotherapy, which remained for oesophagitis, but not pneumonitis, after exclusion of studies with non‐platinum based chemotherapy. 
+Authors' conclusions
+At present, it is uncertain whether the timing of chest radiotherapy as such is important for survival. The optimal integration of chemotherapy and chest radiotherapy in patients with limited‐stage small cell lung cancer is unknown. Further research is needed to establish the best combination of radiotherapy and chemotherapy in this disease. 

@@ -1,0 +1,16 @@
+Background
+Asthma is a chronic inflammatory disease of the airways affecting an estimated 334 million people worldwide. During severe exacerbations, patients may need to attend a medical centre or hospital emergency department for treatment with systemic corticosteroids, which can be administered intravenously or orally. Some people with asthma are prescribed oral corticosteroids (OCS) for self‐administration (i.e. patient‐initiated) or to administer to their child with asthma (i.e. parent‐initiated), in the event of an exacerbation. This approach to treatment is becoming increasingly common. 
+Objectives
+To evaluate the effectiveness and safety of patient‐ or parent‐initiated oral steroids for adults and children with asthma exacerbations. 
+Search methods
+We identified trials from Cochrane Airways' Specialised Register (CASR) and also conducted a search of the US National Institutes of Health Ongoing Trials Register ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization International Clinical Trials Registry Platform (apps.who.int/trialsearch). We searched CASR from its inception to 18 May 2016 and trial registries from their inception to 24 August 2016; we imposed no restriction on language of publication. 
+Selection criteria
+We looked for randomised controlled trials (RCTs), reported as full‐text, those published as abstract only, and unpublished data; we excluded cross‐over trials. 
+We looked for studies where adults (aged 18 years or older) or children of school age (aged 5 years or older) with asthma were randomised to receive: (a) any patient‐/parent‐initiated OCS or (b) placebo, normal care, alternative active treatment, or an identical personalised asthma action plan without the patient‐ or parent‐initiated OCS component. 
+Data collection and analysis
+Two review authors independently screened the search results to identify any studies that met the prespecified inclusion criteria. 
+The prespecified primary outcomes were hospital admissions for asthma, asthma symptoms at follow‐up and serious adverse events. 
+Main results
+Despite comprehensive searches of electronic databases and clinical trial registries, we did not identify any studies meeting the inclusion criteria for this review. Five potentially relevant studies were excluded for two reasons: the intervention did not meet the inclusion criteria for this review (three studies) and studies had a cross‐over design (two studies). Two of the excluded studies asked the relevant clinical question. However, these studies were excluded due to their cross‐over design, as per the protocol. We contacted the authors of the cross‐over trials who were unable to provide data for the first treatment period (i.e. prior to cross‐over). 
+Authors' conclusions
+There is currently no evidence from randomised trials (non‐cross‐over design) to inform the use of patient‐ or parent‐initiated oral corticosteroids in people with asthma. 

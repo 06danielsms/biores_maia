@@ -1,0 +1,14 @@
+Background
+Many people with schizophrenia or similar severe mental disorders do not achieve a satisfactory treatment response with ordinary antipsychotic drug treatment. In these cases, various add‐on medications are used, amongst them beta‐adrenergic receptor antagonists (beta‐blockers). 
+Objectives
+To evaluate the clinical effects of beta‐blockers as an adjunct to antipsychotic medication in schizophrenia or similar severe mental disorders. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (October 2009) and references of all identified studies for further citations. Where necessary we also contacted authors of trials for further information. 
+Selection criteria
+All randomised controlled trials comparing beta‐blockers with placebo as an adjunct to conventional antipsychotic medication for those with schizophrenia. 
+Data collection and analysis
+Data were extracted independently by at least two reviewers. For dichotomous data we calculated relative risks (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat basis, based on a fixed‐effect model. If continuous data were included, we analysed these data using weighted mean difference (WMD) with a 95% confidence interval, based on a fixed effect model. 
+Main results
+In this 2010 update four additional trials were identified, bringing the total number of included studies to nine (total n=282, eight trials were short term, under/or 12 weeks duration). Overall reporting of data was poor, resulting in much information being lost to this review. No data on mental state were possible to include. Data were reported in graphs with no variances. Adding beta‐blockers to antipsychotic treatment seems generally acceptable (n=274, 8 RCTs, RR leaving study early at 12 weeks 1.62 CI 0.92 to 2.83). We found no difference in relapse rate between the two treatment groups (n=68, 2 RCTs, RR at 12 weeks 3.12 CI 0.34 to 28.36). There were few reported general adverse events (n=48, 1 RCT, RR at 12 weeks 5.42 CI 0.27 to 107.20). The most frequent specific adverse effect was hypotension or symptoms likely to be related to hypotension (n=274, 8 RCTs, RR at 12 weeks 1.63 CI 0.70 to 3.84). 
+Authors' conclusions
+Existing evidence is limited and dated. Any possible benefit of adjunctive beta‐blocker therapy is obscured by poor reporting within the studies. Important data on quality of life, satisfaction, healthy days, and cost are not available. Considering the number of people whose symptoms are only partially responsive to antipsychotic medication, well conducted and reported trials in this area could be justified. 

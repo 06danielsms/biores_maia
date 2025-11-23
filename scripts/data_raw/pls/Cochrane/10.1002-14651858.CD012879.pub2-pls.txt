@@ -1,0 +1,22 @@
+Shoulder replacement surgery for osteoarthritis and arthritis associated with torn rotator cuff tendons 
+Background 
+Osteoarthritis is a condition of the joints. Over time, the cartilage becomes thinner and exposed bone surfaces rub against each other, causing pain and loss of movement. People with torn shoulder tendons can develop a specific type of arthritis, called rotator cuff tear arthropathy. People usually need pain relief medicines and may be offered non‐surgical treatments initially, including physiotherapy and injections. Some people with ongoing symptoms from advanced arthritis are offered shoulder replacement surgery. In 'humeral hemiarthroplasty', just the head (ball part) of the humerus is replaced with an artificial one and continues to articulate in the socket. In 'total shoulder replacement', the socket is also replaced with an artificial one. In 'reverse total shoulder replacement', the replacement is intentionally done back‐to‐front with an artificial ball fixed to the old socket and an artificial socket placed on top of the humerus. The type of replacement performed usually depends on the pattern of joint and tendon damage. 
+It is not clear when or whether shoulder replacement is the best treatment for people with osteoarthritis or rotator cuff tear arthropathy, or which type of replacement is best for different people. We searched for the best evidence from studies called randomised trials to try to answer these questions. 
+Study characteristics 
+This review is current to 31 January 2019 and includes only studies in which treatment was allocated randomly by type. All study participants had osteoarthritis or rotator cuff tear arthropathy of the shoulder and had tried non‐surgical treatments already. The average age of study participants was between 63 and 81 years old. Slightly more than half of the participants were female. We found no studies comparing shoulder replacement surgery to any other type of treatment, including other types of non‐replacement surgery, physiotherapy, or no treatment at all. We found five studies comparing one type of shoulder replacement to another type of shoulder replacement. We found 15 studies comparing one type of shoulder replacement technique to the same type, performed with a technical modification or a different prosthetic component. Eight out of 20 studies were funded by a shoulder replacement manufacturer. A further seven out of 20 studies were conducted by researchers who had other financial relationships with shoulder replacement manufacturers. 
+Key results 
+Three trials (126 participants) met our inclusion criteria for our main comparison of conventional stemmed total shoulder replacement (TSR) versus stemmed humeral hemiarthroplasty (HA) for treatment of osteoarthritis. TSR may result in less pain and better function compared to HA at two‐year follow‐up, but this may not be noticeable. We are very uncertain whether there are any differences in the frequency of adverse events and further operations. 
+TSR resulted in 15% less pain (1% less to 29% less).
+• People who had HA rated their pain as 2.8 points (0 to 10 scale).
+• People who had TSR rated their pain as 1.29 points.
+TSR resulted in 11% better function (2% better to 19% better).
+• People who had HA rated their function as 72.8 points (0 to 100 scale).
+• People who had TSR rated their function as 83.4 points.
+TSR resulted in similar quality of life to HA (5% lower to 7% higher, 5 points lower to 7 points higher (0 to 100 scale)). 
+• People who had HA rated their quality of life as 57.4 points.
+• People who had TSR rated their quality of life as 58.4 points.
+TSR resulted in a similar number of adverse events (25% fewer to 21% more) and a similar number of further operations on the same shoulder (8% fewer to 15% more) compared to HA. 
+• Following HA, 286 per 1000 people experienced an adverse event and 103 per 1000 required further operations. 
+• Following TSR, 143 per 1000 people experienced an adverse event and 77 per 1000 required further operations. 
+Quality of the evidence 
+For the main comparison, the quality of evidence for assessing pain, function, and quality of life was low. For assessment of adverse events and further operations, the quality of evidence was very low. Across the other 12 comparisons, the quality of evidence was also very low. 

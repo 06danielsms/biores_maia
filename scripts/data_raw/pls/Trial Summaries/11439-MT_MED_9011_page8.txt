@@ -1,0 +1,7 @@
+The table below shows the adverse reactions that happened during the study.
+Some participants had more than 1 adverse reaction.
+
+Adverse reactions
+Treatment 1: Feeling hot 0.0% (0), Unusual urine color 0.0% (0), Feeling tired 0.0% (0), Head discomfort 0.0% (0), Rash 7.1% (1), Stomach pain 0.0% (0), Diarrhea 0.0% (0), Dry mouth 7.1% (1), Headache 0.0% (0), Nausea 0.0% (0), Pain in arms and legs 0.0% (0)
+Treatment 2: Feeling hot 57.1% (8), Unusual urine color 0.0% (0), Feeling tired 14.3% (2), Head discomfort 14.3% (2), Rash 7.1% (1), Stomach pain 7.1% (1), Diarrhea 7.1% (1), Dry mouth 0.0% (0), Headache 7.1% (1), Nausea 7.1% (1), Pain in arms and legs 7.1% (1)
+Treatment 3: Feeling hot 0.0% (0), Unusual urine color 15.4% (2), Feeling tired 0.0% (0), Head discomfort 0.0% (0), Rash 0.0% (0), Stomach pain 0.0% (0), Diarrhea 0.0% (0), Dry mouth 0.0% (0), Headache 0.0% (0), Nausea 0.0% (0), Pain in arms and legs 0.0% (0)

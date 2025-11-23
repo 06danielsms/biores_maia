@@ -1,0 +1,25 @@
+Clinical Study Results
+These measurements were not done for Groups 3 and 4, since the participants in these groups did not receive anifrolumab. The graph below shows the median amount of anifrolumab in the participants’ blood before the dose at week 12 for groups 1 and 2.
+
+Median amount of anifrolumab in participants’ blood before the dose at week 12
+
+100
+72.9 µg/mL
+80
+60
+40
+14.6 µg/mL
+20
+0
+Group 1 
+Group 2
+
+Did participants have less activity of IFN genes in their blood at week 12 of getting anifrolumab?
+Yes. To answer this question, the researchers took blood samples from the participants in each treatment group before they got their dose of anifrolumab or placebo at week 12. The participants in the study had high activity of IFN genes when they started treatment. The researchers measured the activity of IFN genes in the blood and calculated the percentage that it reduced after treatment. They looked at these percentages using the median.
+
+The researchers found that there was less IFN gene activity, when measured as a median, in the participants who got anifrolumab compared to those who got the placebo. They looked at the results for Groups 3 and 4 together, since the participants in both of these groups got the placebo.
+
+The researchers found that after 12 weeks of treatment, the median percentage reduction of IFN gene activity was:
+- 88.0% in Group 1
+- 90.7% in Group 2
+- 18.5% in Groups 3 and 4 combined

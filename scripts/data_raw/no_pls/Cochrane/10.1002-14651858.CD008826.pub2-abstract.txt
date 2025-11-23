@@ -1,0 +1,18 @@
+Background
+Sclerotherapy has been used in clinical practice for centuries, but there is still no consensus about which, if any, sclerosing agent provides the best results. 
+Objectives
+To assess the effectiveness and safety of sclerosing agents in the treatment of telangiectasias of the lower limbs. 
+Search methods
+The Cochrane Peripheral Vascular Diseases (PVD) Group searched their Specialised Register (last searched 26 May 2011) and CENTRAL (2011, Issue 2). We searched references within identified studies and from the Cited References in the Web of Science. We contacted study authors and pharmaceutical companies. There were no language restrictions. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials on the treatment of telangiectasias comparing sclerotherapy with a normal saline placebo, no treatment or an alternative sclerotherapy regimen. 
+Data collection and analysis
+Both authors determined which studies to include, extracted the data and rated risk of bias. One author (LS) contacted study authors and pharmaceutical companies and analysed the results. 
+Main results
+Ten studies involving 484 patients were included. There was no evidence suggesting superior efficacy of any one sclerosant over another, but there was evidence of superiority of sclerotherapy to placebo. 
+The evidence did not suggest an increase in patient satisfaction with any one agent versus another, but there was evidence that patients were less satisfied with placebo. 
+There was some evidence suggesting that polidocanol (POL) was more likely to cause adverse reactions at a concentration of 1% compared with lower concentrations or hypertonic saline, and that sodium tetradecyl sulfate (STS) was more likely to cause adverse reactions at a concentration of 1% compared with POL at 0.5%. 
+There was some evidence suggesting that STS was more painful than POL, heparsal (20% saline mixed with heparin 100 units/mL) or placebo, and that POL was no more painful than placebo. Evidence from one study suggested that hypertonic saline (HS) was more painful than POL. 
+The data were not suitable for meta‐analysis.
+Authors' conclusions
+The evidence did not suggest superior efficacy or patient satisfaction for any one sclerosing agent used in the treatment of telangiectasias of the lower limbs, but the agents studied showed superiority to a normal saline placebo. However, the amount of available evidence in this field is small and the overall methodological quality of the research was poor, as was the quality of reporting. More research is needed to determine the optimal agent(s) and the ideal dosing to achieve the best results and maximize patient satisfaction. Future research efforts should incorporate more demographic data and symptom measures to allow for comparison with findings from observational studies, thereby aiding assessment of how various risk groups respond to treatment. 

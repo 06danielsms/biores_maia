@@ -1,0 +1,22 @@
+Background
+In myasthenia gravis, antibody‐mediated blockade of acetylcholine receptors at the neuromuscular junction abolishes the naturally occurring ‘safety factor’ of synaptic transmission. Acetylcholinesterase inhibitors provide temporary symptomatic treatment of muscle weakness but there is controversy about their long‐term efficacy, dosage and side effects. This is the second update of a review published in The Cochrane Library Issue 2, 2011. 
+Objectives
+To evaluate the efficacy of acetylcholinesterase inhibitors in all forms of myasthenia gravis. 
+Search methods
+On 8 July 2014 we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE and EMBASE for randomised controlled trials and quasi‐randomised controlled trials regarding usage of acetylcholinesterase inhibitors in myasthenia gravis. Two authors scanned the articles for any study eligible for inclusion. We also contacted the authors and known experts in the field to identify additional published or unpublished data and searched clinical trials registries for ongoing trials. 
+Selection criteria
+The types of studies were randomised or quasi‐randomised trials. Participants were myasthenia gravis patients diagnosed by an internationally accepted definition. The intervention was treatment with any form of acetylcholinesterase inhibitor. 
+Types of outcome measures 
+Primary outcome measure 
+Improvement in the presenting symptoms within one to 14 days of the start of treatment.
+Secondary outcome measures 
+(1) Improvement in the presenting symptoms more than 14 days after the start of treatment.
+(2) Change in impairment measured by a recognised and preferably validated scale, such as the quantitative myasthenia gravis score, within one to 14 days and more than 14 days after the start of treatment. 
+(3) Myasthenia Gravis Association of America post‐intervention status more than 14 days after start of treatment. 
+(4) Adverse events including muscarinic side effects.
+Data collection and analysis
+One author (MMM) extracted the data, which were checked by a second author. We contacted study authors for extra information and collected data on adverse effects from the trials. 
+Main results
+We did not find any large randomised or quasi‐randomised trials of acetylcholinesterase inhibitors in generalised myasthenia gravis either for the first version of this review or this update. One cross‐over randomised trial using intranasal neostigmine in a total of 10 participants was only available as an abstract. It included three participants with ocular myasthenia gravis and seven with generalised myasthenia gravis. Symptoms of myasthenia gravis (measured as improvement in at least one muscle function) improved in nine of the 10 participants after the two‐week neostigmine treatment phase. No participant improved after the placebo phase. Lack of detail in the report meant that the risk of bias was unclear. Adverse events were minor. 
+Authors' conclusions
+Except for one small and inconclusive trial of intranasal neostigmine, no other randomised controlled trials have been conducted on the use of acetylcholinesterase inhibitors in myasthenia gravis. The response to acetylcholinesterase inhibitors in observational studies is so clear that a randomised controlled trial depriving participants in a placebo arm of treatment would be difficult to justify. 

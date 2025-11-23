@@ -1,0 +1,38 @@
+Respiratory syncytial virus (RSV) is a virus that can cause an infection with symptoms 
+that are similar to a bad cold, such as cough, fever, sore throat, and runny nose. This infection can be very serious in infants and young children. 
+This study is about a vaccine called the "respiratory syncytial virus stabilized 
+prefusion F subunit vaccine", or RSVpreF. A vaccine is used to help prevent 
+infection by helping the body to fight off germs. RSVpreF may be able to help 
+prevent infections caused by RSV. 
+RSVpreF is an investigational vaccine, which means that it has not been approved for 
+general use and it is not yet known if it will protect against disease caused by RSV. 
+This study is the first time this vaccine has been tested in people. To learn about the 
+safety of this RSVpreF vaccine, the researchers asked these questions: 
+- What percentage of participants had "local reactions" (redness, swelling, or pain at 
+the injection site) within 14 days after vaccination 1? 
+- What percentage of participants had "systemic events" (nausea, headache, muscle 
+pain, diarrhea, tiredness, joint pain, vomiting, or fever) within 14 days after 
+vaccination 1? 
+- What percentage of participants had medical problems within 1 month after vaccination 1? 
+- What percentage of participants had serious medical problems or medical 
+problems that required treatment from a doctor within 12 months after 
+vaccination 1? 
+- For some participants only, the researchers were also interested in the percentage 
+of participants that had medical problems within 1 month after Vaccination 2.
+This study compared two different groups of participants to find out if participants reacted differently to the RSVpreF vaccine by itself, the RSVpreF vaccine that included aluminum hydroxide, the RSVpreF vaccine plus a flu (influenza) vaccine, or placebo. The aluminum hydroxide is an ingredient that is commonly included in vaccines to make the immune system react more strongly to the vaccine. A placebo does not have any active ingredients in it but is given in the same way as the study vaccine. Some participants were given a placebo instead of the vaccine to see what would happen if the new vaccine was not given. The two different groups of participants were called the Sentinel Cohort and the Expanded Cohort. A cohort is just another word for a group of people in a clinical study.
+
+Participants in the Sentinel Cohort were given the RSVpreF vaccine, RSVpreF vaccine plus aluminum hydroxide, or a placebo at Visit 1. Participants were initially given a low dose (60 µg) of the RSVpreF vaccine (with or without aluminum hydroxide) or placebo and then checked for two weeks to see how they reacted to the vaccine. If the researchers thought there were no safety concerns with this low dose, a new group of participants were treated with a middle dose (120 µg) of the RSVpreF vaccine (with or without aluminum hydroxide) or a placebo. These participants were then checked for two weeks to see how they reacted to the vaccine. If the researchers thought there were no safety concerns with the middle dose, another new group of participants were treated with a high dose (240 µg) of RSVpreF vaccine (with or without aluminum hydroxide) or placebo. These participants were then checked for two weeks to see how they reacted. If the researchers thought there were no safety concerns, the participants in the Expanded Cohort were given the low, middle, or high dose RSVpreF vaccine (with or without aluminum hydroxide) as well as a flu vaccine or placebo at Visit 1 and returned to the Study Center approximately two weeks after Vaccination 1 for their Visit 2 assessments.
+
+The participants in the Expanded Cohort then received a second injection at their second visit to the Study Center (Visit 2), which was approximately four weeks after Vaccination 1. In this cohort, if the participant was given RSVpreF vaccine with or without aluminum hydroxide plus placebo at Visit 1 then they were given the flu vaccine at Visit 2. If they received RSVpreF vaccine with or without aluminum hydroxide plus flu vaccine at Visit 1, they were given placebo at Visit 2. If they received placebo only at Visit 1, they were given flu vaccine at Visit 2.
+
+Some of the participants who received the high dose (240 µg) of RSVpreF vaccine (with or without aluminum hydroxide) as well as a flu vaccine in the Expanded Cohort were invited back to the Study Center one year later to be vaccinated again. The results of this revaccination study are described separately.
+
+The study included participants who were healthy and 18 through 85 years of age. The participants and most of the researchers did not know who was given each type of vaccine and who was given placebo. Only the person who gave the injections knew what vaccine each participant was given. This is known as an "observer blinded" study and this is done to make sure that the study results were not influenced in any way.
+
+Participants in the Sentinel Cohort and the Expanded Cohort were put into groups by chance alone. This is known as a "randomized" study. This is done to make the groups more similar. Reducing differences between the groups (like the number of men and women), makes the groups more even to compare.
+
+While participants were only in the study for 12 months, the entire study took around 19 months to complete. The Sponsor ran this study at 36 locations in the United States. It began on April 18, 2018 and ended on November 20, 2019. There were 462 men and 771 women between 18 and 85 years of age who participated and were vaccinated in this study.
+
+Of the 1235 participants who started the study, 1135 were vaccinated and finished 12 months of medical checks. There were 98 participants who were vaccinated but did not have 12 months of medical checks. These participants left before the study was over by their choice or a doctor decided it was best for a participant to stop being in the study.
+
+When the study ended in November 2019, the Sponsor began reviewing all of the information collected. The Sponsor then created a report of the results from the main study. This is a summary of that report. The results of the revaccination study are reported separately.

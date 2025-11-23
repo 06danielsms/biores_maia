@@ -1,0 +1,14 @@
+Background
+Laparoscopic surgery for colon disease has been shown to have advantages over the open approach in the perioperative period in terms of shorter hospital stay, decreased analgesic use and a more rapid return of bowel function but provides these benefits at the expense of increased technical difficulty and operative time. Hand assisted surgery which a is a hybrid of open surgery and laparoscopic surgery may offer patients the perioperative advantages of minimally invasive surgery without the technical difficulty and increased operative time associated with the conventional laparoscopic approach. This review compares the benefits and harms of laparoscopic and hand assisted laparoscopic surgery for colon disease. 
+Objectives
+To estimate the perioperative outcomes of hand assisted laparoscopic surgery compared to conventional laparoscopic surgery in adult patients requiring colorectal resections. 
+Search methods
+We searched EMBASE (1980‐ Feb 2010), Medline (1966‐ Feb 2010) and the Cochrane Central Register of Controlled Trials (CENTRAL, 2010 issue 1), references of included studies, relevant review articles and conference abstracts. 
+Selection criteria
+Randomised controlled trials (RCTs) in which adult patients were allocated to either receive hand‐assisted laparoscopic surgery or conventional laparoscopic colorectal resection for benign or malignant colorectal disease. Studies were not restricted by language of publication. 
+Data collection and analysis
+Reports of potentially relevant articles were retrieved in full text, and two reviewers independently assessed the eligibility of these studies. Data abstraction was performed independently by two reviewers. Meta‐analysis of perioperative outcome measures was carried out using a random effects model.  
+Main results
+Three randomised controlled studies met the inclusion criteria (n=189). One study focused exclusively on malignant pathology, the second study focused mostly on benign pathology and the third trial had a mixed variety of pathology with approximately a third representing malignant pathology. Conversion rates were significantly decreased in patients undergoing hand assisted surgery but there was no statistically significant difference in operative time or complication rates when comparing hand assisted surgery to conventional laparoscopy.  All studies were associated with methodological limitations.    
+Authors' conclusions
+Despite the limited number of trials performed, meta‐analysis demonstrated a statistically significant decrease in conversion rates among the hand assisted group. There was no difference in operating time or perioperative complication rates.  Additional adequately powered and methodologically sound trials are needed to determine if there is a clinically important difference in perioperative outcomes.  Due to significant costs associated with the use of hand‐assist devices, economic analyses are also warranted.  

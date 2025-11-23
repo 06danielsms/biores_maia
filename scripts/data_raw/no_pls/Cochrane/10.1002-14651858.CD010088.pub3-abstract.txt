@@ -1,0 +1,37 @@
+Background
+Routine vaginal examinations are undertaken at regular time intervals during labour to assess whether labour is progressing as expected. Unusually slow progress can be due to underlying problems, described as labour dystocia, or can be a normal variation of progress. Evidence suggests that if mother and baby are well, length of labour alone should not be used to decide whether labour is progressing normally. Other methods to assess labour progress include intrapartum ultrasound and monitoring external physical and behavioural cues. Vaginal examinations can be distressing for women, and overdiagnosis of dystocia can result in iatrogenic morbidity due to unnecessary intervention. It is important to establish whether routine vaginal examinations are effective, both as an accurate measure of physiological labour progress and to distinguish true labour dystocia, or whether other methods for assessing labour progress are more effective. This Cochrane Review is an update of a review first published in 2013. 
+Objectives
+To compare the effectiveness, acceptability, and consequences of routine vaginal examinations compared with other methods, or different timings, to assess labour progress at term. 
+Search methods
+For this update, we searched Cochrane Pregnancy and Childbirth Trials Register (which includes trials from CENTRAL, MEDLINE, Embase, CINAHL, and conference proceedings) and ClinicalTrials.gov (28 February 2021). We also searched the reference lists of retrieved studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) of vaginal examinations compared with other methods of assessing labour progress and studies assessing different timings of vaginal examinations. Quasi‐RCTs and cluster‐RCTs were eligible for inclusion. We excluded cross‐over trials and conference abstracts. 
+Data collection and analysis
+Two review authors independently assessed all studies identified by the search for inclusion in the review. Four review authors independently extracted data. Two review authors assessed risk of bias and certainty of the evidence using GRADE. 
+Main results
+We included four studies that randomised a total of 755 women, with data analysed for 744 women and their babies. Interventions used to assess labour progress were routine vaginal examinations, routine ultrasound assessments, routine rectal examinations, routine vaginal examinations at different frequencies, and vaginal examinations as indicated. We were unable to conduct meta‐analysis as there was only one study for each comparison.  
+All studies were at high risk of performance bias due to difficulties with blinding. We assessed two studies as high risk of bias and two as low or unclear risk of bias for other domains. The overall certainty of the evidence assessed using GRADE was low or very low.  
+Routine vaginal examinations versus routine ultrasound to assess labour progress (one study, 83 women and babies) 
+Study in Turkey involving multiparous women with spontaneous onset of labour.
+Routine vaginal examinations may result in a slight increase in pain compared to routine ultrasound (mean difference −1.29, 95% confidence interval (CI) −2.10 to −0.48; one study, 83 women, low certainty evidence) (pain measured using a visual analogue scale (VAS) in reverse: zero indicating 'worst pain', 10 indicating no pain). 
+The study did not assess our other primary outcomes: positive birth experience; augmentation of labour; spontaneous vaginal birth; chorioamnionitis; neonatal infection; admission to neonatal intensive care unit (NICU). 
+Routine vaginal examinations versus routine rectal examinations to assess labour progress (one study, 307 women and babies) 
+Study in Ireland involving women in labour at term. We assessed the certainty of the evidence as very low. 
+Compared with routine rectal examinations, routine vaginal examinations may have little or no effect on: augmentation of labour (risk ratio (RR) 1.03, 95% CI 0.63 to 1.68; one study, 307 women); and spontaneous vaginal birth (RR 0.98, 95% CI 0.90 to 1.06; one study, 307 women). 
+We found insufficient data to fully assess: neonatal infections (RR 0.33, 95% CI 0.01 to 8.07; one study, 307 babies); and admission to NICU (RR 1.32, 95% CI 0.47 to 3.73; one study, 307 babies). 
+The study did not assess our other primary outcomes: positive birth experience; chorioamnionitis; maternal pain. 
+Routine four‐hourly vaginal examinations versus routine two‐hourly examinations (one study, 150 women and babies) 
+UK study involving primiparous women in labour at term. We assessed the certainty of the evidence as very low. 
+Compared with routine two‐hourly vaginal examinations, routine four‐hourly vaginal examinations may have little or no effect, with data compatible with both benefit and harm, on: augmentation of labour (RR 0.97, 95% CI 0.60 to 1.57; one study, 109 women); and spontaneous vaginal birth (RR 1.02, 95% CI 0.83 to 1.26; one study, 150 women). 
+The study did not assess our other primary outcomes: positive birth experience; chorioamnionitis; neonatal infection; admission to NICU; maternal pain. 
+Routine vaginal examinations versus vaginal examinations as indicated (one study, 204 women and babies)  
+Study in Malaysia involving primiparous women being induced at term. We assessed the certainty of the evidence as low. 
+Compared with vaginal examinations as indicated, routine four‐hourly vaginal examinations may result in more women having their labour augmented (RR 2.55, 95% CI 1.03 to 6.31; one study, 204 women). 
+There may be little or no effect on:
+• spontaneous vaginal birth (RR 1.08, 95% CI 0.73 to 1.59; one study, 204 women);
+• chorioamnionitis (RR 3.06, 95% CI 0.13 to 74.21; one study, 204 women);
+• neonatal infection (RR 4.08, 95% CI 0.46 to 35.87; one study, 204 babies);
+• admission to NICU (RR 2.04, 95% CI 0.63 to 6.56; one study, 204 babies).
+The study did not assess our other primary outcomes of positive birth experience or maternal pain. 
+Authors' conclusions
+Based on these findings, we cannot be certain which method is most effective or acceptable for assessing labour progress. Further large‐scale RCT trials are required. These should include essential clinical and experiential outcomes. This may be facilitated through the development of a tool to measure positive birth experiences. Data from qualitative studies are also needed to fully assess whether methods to evaluate labour progress meet women's needs for a safe and positive labour and birth, and if not, to develop an approach that does.  

@@ -1,0 +1,19 @@
+Background
+Faecal incontinence is a particularly embarrassing and distressing condition with significant medical, social and economic implications. Anal sphincter exercises (pelvic floor muscle training) and biofeedback therapy have been used to treat the symptoms of people with faecal incontinence. However, standards of treatment are still lacking and the magnitude of alleged benefits has yet to be established. 
+Objectives
+To determine the effects of biofeedback and/or anal sphincter exercises/pelvic floor muscle training for the treatment of faecal incontinence in adults. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (searched 24 January 2012) which contains trials from searching CENTRAL, MEDLINE and handsearching of conference proceedings; and the reference lists of relevant articles. 
+Selection criteria
+All randomised or quasi‐randomised trials evaluating biofeedback and/or anal sphincter exercises in adults with faecal incontinence. 
+Data collection and analysis
+Two review authors assessed the risk of bias of eligible trials and two review authors independently extracted data from the included trials. A wide range of outcome measures were considered. 
+Main results
+Twenty one eligible studies were identified with a total of 1525 participants. About half of the trials had low risk of bias for randomisation and allocation concealment. 
+One small trial showed that biofeedback plus exercises was better than exercises alone (RR for failing to achieve full continence 0.70, 95% CI 0.52 to 0.94). 
+One small trial showed that adding biofeedback to electrical stimulation was better than electrical stimulation alone (RR for failing to achieve full continence 0.47, 95% CI 0.33 to 0.65). 
+The combined data of two trials showed that the number of people failing to achieve full continence was significantly lower when electrical stimulation was added to biofeedback compared against biofeedback alone (RR 0.60, 95% CI 0.46 to 0.78). 
+Sacral nerve stimulation was better than conservative management which included biofeedback and PFMT (at 12 months the incontinence episodes were significantly fewer with sacral nerve stimulation (MD 6.30, 95% CI 2.26 to 10.34). 
+There was not enough evidence as to whether there was a difference in outcome between any method of biofeedback or exercises. There are suggestions that rectal volume discrimination training improves continence more than sham training. Further conclusions are not warranted from the available data. 
+Authors' conclusions
+The limited number of identified trials together with methodological weaknesses of many do not allow a definitive assessment of the role of anal sphincter exercises and biofeedback therapy in the management of people with faecal incontinence. We found some evidence that biofeedback and electrical stimulation may enhance the outcome of treatment compared to electrical stimulation alone or exercises alone. Exercises appear to be less effective than an implanted sacral nerve stimulator. While there is a suggestion that some elements of biofeedback therapy and sphincter exercises may have a therapeutic effect, this is not certain. Larger well‐designed trials are needed to enable safe conclusions. 

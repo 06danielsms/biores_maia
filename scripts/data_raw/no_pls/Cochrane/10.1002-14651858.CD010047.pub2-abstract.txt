@@ -1,0 +1,15 @@
+Background
+Oocyte cryopreservation is a technique with considerable potential in reproductive medicine, including  fertility preservation, as a way of delaying childbearing and as part of oocyte donation programs. Although the technique was relatively ineffective at first more recently numerous modifications have led to higher success rates. 
+Objectives
+To compare the effectiveness and safety of vitrification and slow freezing as oocyte cryopreservation techniques for fertility outcomes in women undergoing assisted reproduction. 
+Search methods
+We searched electronic databases, trial registers and websites, including the Cochrane Menstrual Disorders and Subfertility Group Specialised Register of controlled trials, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and PsycINFO (date of search 3 March 2014). 
+Selection criteria
+Two review authors independently selected randomised controlled trials (RCTs) comparing vitrification and slow freezing for oocyte preservation in women undergoing assisted reproduction. 
+Data collection and analysis
+Two review authors independently extracted the data from eligible studies and assessed their risk of bias. Any disagreements were resolved by discussion or by a third review author. Data extracted included study characteristics and outcome data. The overall quality of the evidence was assessed using GRADE methods. 
+Main results
+Two RCTs were included in the review (106 participants). Neither study reported live birth rate. Vitrification was associated with an increased clinical pregnancy rate compared to slow freezing (RR 3.86, 95% CI 1.63 to 9.11, P = 0.002, 2 RCTs, 106 women, I2 = 8%, moderate quality evidence). The effect of vitrification compared to slow freezing on ongoing pregnancy rates was only reported in one small study, with inconclusive findings (RR 6.07, 95% CI 0.86 to 43.04, P = 0.07, one RCT, 28 women, low quality evidence). 
+No data were reported on adverse effects, nor were any other outcomes reported in the included trials. The evidence was limited by imprecision. We assessed the included studies as at low to unclear risk of bias as the methods were not well described. 
+Authors' conclusions
+Oocyte vitrification compared to slow freezing probably increases clinical pregnancy rates in women undergoing assisted reproduction. However, the total number of women and pregnancies were low and the imprecision is high which limits applicability. The effect on ongoing pregnancy is uncertain as data were sparse. No data were available on live births or adverse effects. 

@@ -1,0 +1,19 @@
+Effects of higher versus lower levels of pressure in the lungs at the end of each breath during mechanical ventilation in patients with acute respiratory distress syndrome (ARDS) 
+Review question 
+We wanted to find evidence from randomised controlled trials on the benefits and harms of high versus low levels of lung positive end‐expiratory pressure (PEEP). We wanted to focus on adult patients with acute lung injury (ALI) and acute respiratory distress syndrome (ARDS). These patients have low oxygen levels in the blood and therefore reduced tissue oxygenation. 
+PEEP is pressure in the lungs (alveolar pressure) at the end of each breath (expiration). In mechanically ventilated patients, PEEP works against passive emptying of the lung and collapse of air sacs (alveoli). Collapse of air sacs can lead to incomplete inflation of the lung on the next breath and reduced oxygenation. PEEP is used to improve oxygenation. 
+Background 
+ALI and ARDS are caused by leakage of fluid in the lung and local inflammation that can cause widespread alveolar damage and a build‐up of fluid in the lungs. The build‐up of fluid can be seen on chest X‐rays. Alveolar damage can lead to later scarring (fibrosis). Common causes are pneumonia infection and more general (systemic) infection, as with sepsis. 
+ALI and ARDS patients are placed on mechanical ventilation (delivery of positive pressure to the lungs, usually via a breathing tube). Mechanical ventilation is a method of artificial support for respiration that introduces gas into the patient's airway through an external mechanical system. Use of PEEP is one of the lung protection strategies aimed at improving oxygenation of patients and survival. 
+The benefits and risks of PEEP are unclear, as it could increase the risk of lung damage called barotrauma. This occurs when air leaks into the space between the lung and the chest wall (pneumothorax). This air pushes on the outside of the lung and causes it to collapse. 
+Study characteristics 
+Evidence is current to May 2020. This review has no funding sources. We included 10 studies with 3851 participants (6 from the previous review and 4 from our updated search of the literature). In eight studies (3703 participants), a comparison was made between high and low levels of PEEP, with the same amount of air delivered to the lungs and breathed out (exhaled) with each breath (tidal volume) in each group. The other two studies used different tidal volumes for the two groups and could not be included in all of the review results. 
+Key results 
+We noted the following findings.
+• Higher levels of PEEP (compared to lower levels) may make little to no difference in the number of patients who die before hospital discharge (7 studies, 3642 participants; moderate‐certainty evidence). 
+• Blood oxygenation was improved with higher PEEP on the first, third (6 studies, over 2300 participants, both low‐certainty evidence), and seventh days (5 studies, 1611 participants; moderate‐certainty evidence) of studies. 
+• Higher levels of PEEP were not associated with barotrauma (9 studies, 3790 participants; low‐certainty evidence). 
+• High PEEP levels did not increase the number of ventilator‐free days over a 28‐day time period (3 studies, 1654 participants; low‐certainty evidence). 
+Finally, available data were insufficient to evaluate the impact of PEEP on length of stay in the intensive care unit, which is required with mechanical ventilation. 
+Certainty of the evidence 
+The highest level of certainty of evidence was moderate, and some outcomes were supported by low‐certainty evidence. Patients in the different studies varied in severity of ALI or ARDS and in other clinical factors (causing heterogeneity). Different approaches were used to set and adjust PEEP levels. 

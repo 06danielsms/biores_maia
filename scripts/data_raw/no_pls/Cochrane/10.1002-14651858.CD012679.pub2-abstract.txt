@@ -1,0 +1,26 @@
+Background
+Stroke can affect people’s ability to swallow, resulting in passage of some food and drink into the airway. This can cause choking, chest infection, malnutrition and dehydration, reduced rehabilitation, increased risk of anxiety and depression, longer hospital stay, increased likelihood of discharge to a care home, and increased risk of death. Early identification and management of disordered swallowing reduces risk of these difficulties. 
+Objectives
+Primary objective 
+• To determine the diagnostic accuracy and the sensitivity and specificity of bedside screening tests for detecting risk of aspiration associated with dysphagia in people with acute stroke 
+Secondary objectives 
+• To assess the influence of the following sources of heterogeneity on the diagnostic accuracy of bedside screening tools for dysphagia 
+‐ Patient demographics (e.g. age, gender)
+‐ Time post stroke that the study was conducted (from admission to 48 hours) to ensure only hyperacute and acute stroke swallow screening tools are identified 
+‐ Definition of dysphagia used by the study
+‐ Level of training of nursing staff (both grade and training in the screening tool)
+‐ Low‐quality studies identified from the methodological quality checklist
+‐ Type and threshold of index test
+‐ Type of reference test
+Search methods
+In June 2017 and December 2019, we searched CENTRAL, MEDLINE, Embase, CINAHL, and the Health Technology Assessment (HTA) database via the Centre for Reviews and Dissemination; the reference lists of included studies; and grey literature sources. We contacted experts in the field to identify any ongoing studies and those potentially missed by the search strategy. 
+Selection criteria
+We included studies that were single‐gate or two‐gate studies comparing a bedside screening tool administered by nurses or other healthcare professionals (HCPs) with expert or instrumental assessment for detection of aspiration associated with dysphagia in adults with acute stroke admitted to hospital. 
+Data collection and analysis
+Two review authors independently screened each study using the eligibility criteria and then extracted data, including the sensitivity and specificity of each index test against the reference test. A third review author was available at each stage to settle disagreements. The methodological quality of each study was assessed using the Quality Assessment of Studies of Diagnostic Accuracy (QUADAS‐2) tool. We identified insufficient studies for each index test, so we performed no meta‐analysis. Diagnostic accuracy data were presented as sensitivities and specificities for the index tests. 
+Main results
+Overall, we included 25 studies in the review, four of which we included as narratives (with no accuracy statistics reported). The included studies involved 3953 participants and 37 screening tests. Of these, 24 screening tests used water only, six used water and other consistencies, and seven used other methods. For index tests using water only, sensitivity and specificity ranged from 46% to 100% and from 43% to 100%, respectively; for those using water and other consistencies, sensitivity and specificity ranged from 75% to 100% and from 69% to 90%, respectively; and for those using other methods, sensitivity and specificity ranged from 29% to 100% and from 39% to 86%, respectively. Twenty screening tests used expert assessment or the Mann Assessment of Swallowing Ability (MASA) as the reference, six used fibreoptic endoscopic evaluation of swallowing (FEES), and 11 used videofluoroscopy (VF). Fifteen screening tools had an outcome of aspiration risk, 20 screening tools had an outcome of dysphagia, and two narrative papers did not report the outcome. Twenty‐one screening tests were carried out by nurses, and 16 were carried out by other HCPs (not including speech and language therapists (SLTs)). 
+We assessed a total of six studies as low risk across all four QUADAS‐2 risk of bias domains, and we rated 15 studies as low concern across all three applicability domains. 
+No single study demonstrated 100% sensitivity and specificity with low risk of bias for all domains. The best performing combined water swallow and instrumental tool was the Bedside Aspiration test (n = 50), the best performing water plus other consistencies tool was the Gugging Swallowing Screen (GUSS; n = 30), and the best water only swallow screening tool was the Toronto Bedside Swallowing Screening Test (TOR‐BSST; n = 24). All tools demonstrated combined highest sensitivity and specificity and low risk of bias for all domains. However, clinicians should be cautious in their interpretation of these findings, as these tests are based on single studies with small sample sizes, which limits the estimates of reliability of screening tests. 
+Authors' conclusions
+We were unable to identify a single swallow screening tool with high and precisely estimated sensitivity and specificity based on at least one trial with low risk of bias. However, we were able to offer recommendations for further high‐quality studies that are needed to improve the accuracy and clinical utility of bedside screening tools. 

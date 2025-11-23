@@ -1,0 +1,14 @@
+Background
+Intravesical therapy with Bacillus Calmette‐Guérin (BCG) aims to reduce the incidence of tumour recurrence following transurethral resection (TUR) for patients with superficial bladder cancer. 
+Objectives
+The objective of this review was to compare the incidence of tumour recurrence after the standard therapy of transurethral resection versus transurethral resection plus intravesical Bacillus Calmette‐Guérin. 
+Search methods
+We searched the Cochrane Controlled Trials Register (March 2000), Medline (February, 2000), EMBASE (February, 2000), Cancerlit (February, 2000), Healthstar (February, 2000), Database of Abstracts of Reviews of Effectiveness (February, 2000) and the Bath Information Data Service. The Proceedings of the American Society Clinical Oncology was hand searched (1996 to 1999). 
+Selection criteria
+Randomised or quasi‐randomised trials of transurethral resection alone versus transurethral resection plus intravesical Bacillus Calmette‐Guérin. Patients with Ta and T1 bladder cancer of medium or high risk of tumour recurrence, were eligible for inclusion. 
+Data collection and analysis
+Four reviewers assessed trial quality and two abstracted the data independently. The Peto odds ratios and log hazard ratios were determined to compare the number of patients with disease recurrence at 12 months and the rate of recurrence, respectively. 
+Main results
+Six randomised trials were included involving 585 eligible patients. There were significantly fewer patients with disease recurrence at 12 months in the BCG plus TUR group compared to those that received TUR alone (odds ratio 0.30, CI 0.21 to 0.43). The overall log hazard ratio for recurrence (‐0.83, variance 0.02) indicated a significant benefit of BCG treatment in reducing tumour recurrence. Toxicities associated with BCG consisted mainly of cystitis (67%), haematuria (23%), fever (25%) and urinary frequency (71%). No BCG‐induced deaths were reported. 
+Authors' conclusions
+In patients with medium/high risk Ta or T1 bladder cancer, immunotherapy with intravesical BCG following TUR appears to provide a significant advantage over TUR alone in delaying tumour recurrence. 

@@ -1,0 +1,20 @@
+Clinical Study Results
+How many participants had serious adverse reactions?
+There were 3.3% of participants in this study who had serious adverse reactions. This was 5 out of 151 participants.
+The table below shows the serious adverse reactions the participants had during this study. None of the participants died during this study.
+Serious adverse reactions:
+- Too much acid in the blood from diabetes: 
+  - 2.6% (2) of participants taking 5 mg of dapagliflozin + insulin
+  - 1.3% (1) of participants taking 10 mg of dapagliflozin + insulin
+  - 2.0% (3) of total participants
+- Pregnancy miscarriage: 
+  - 1.3% (1) of participants taking 5 mg of dapagliflozin + insulin
+  - 0.0% (0) of participants taking 10 mg of dapagliflozin + insulin
+  - 0.7% (1) of total participants
+- Coma from low blood sugar levels: 
+  - 0.0% (0) of participants taking 5 mg of dapagliflozin + insulin
+  - 1.3% (1) of participants taking 10 mg of dapagliflozin + insulin
+  - 0.7% (1) of total participants
+How many participants had adverse reactions?
+There were 29.8% of participants who had adverse reactions during this study. This was 45 out of 151 participants.
+There were 5.3% of participants who stopped taking dapagliflozin because of adverse reactions they had during this study. This was 8 out of 151 participants.

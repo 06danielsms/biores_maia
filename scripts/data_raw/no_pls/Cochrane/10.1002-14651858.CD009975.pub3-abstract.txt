@@ -1,0 +1,18 @@
+Background
+Establishment of a secure airway is a critical part of neonatal resuscitation in the delivery room and the neonatal unit. Videolaryngoscopy has the potential to facilitate successful endotracheal intubation and decrease adverse consequences of delay in airway stabilization. Videolaryngoscopy may enhance visualization of the glottis and intubation success in neonates. 
+Objectives
+To determine the efficacy and safety of videolaryngoscopy compared to direct laryngoscopy in decreasing the time and attempts required for endotracheal intubation and increasing the success rate at first intubation in neonates. 
+Search methods
+We used the search strategy of Cochrane Neonatal. In May 2017, we searched for randomized controlled trials (RCT) evaluating videolaryngoscopy for neonatal endotracheal intubation in Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, abstracts of the Pediatric Academic Societies, websites for registered trials at www.clinicaltrials.gov and www.controlled‐trials.com, and reference lists of relevant studies. 
+Selection criteria
+RCTs or quasi‐RCTs in neonates evaluating videolaryngoscopy for endotracheal intubation compared with direct laryngoscopy. 
+Data collection and analysis
+Review authors performed data collection and analysis as recommended by Cochrane Neonatal. Two review authors independently assessed studies identified by the search strategy for inclusion. 
+We used the GRADE approach to assess the quality of evidence.
+Main results
+The search yielded 7057 references of which we identified three RCTs for inclusion, four ongoing trials and one study awaiting classification. All three included RCTs compared videolaryngoscopy with direct laryngoscopy during intubation attempts by trainees. 
+Time to intubation was similar between videolaryngoscopy and direct laryngoscopy (mean difference (MD) ‐0.62, 95% confidence interval (CI) ‐6.50 to 5.26; 2 studies; 311 intubations) (very low quality evidence). Videolaryngoscopy did not decrease the number of intubation attempts (MD ‐0.05, 95% CI ‐0.18 to 0.07; 2 studies; 427 intubations) (very low quality evidence). Moderate quality evidence suggested that videolaryngoscopy increased the success of intubation at first attempt (typical risk ratio (RR) 1.44, 95% CI 1.20 to 1.73; typical risk difference (RD) 0.19, 95% CI 0.10 to 0.28; number needed to treat for an additional beneficial outcome (NNTB) 5, 95% CI 4 to 10; 3 studies; 467 intubation attempts). 
+Desaturation episodes during intubation attempts were similar between videolaryngoscopy and direct laryngoscopy (MD ‐0.76, 95% CI ‐5.74 to 4.23; 2 studies; 359 intubations) (low quality evidence). There was no difference in the incidence of airway trauma due to intubation attempts (RR 0.10, 95% CI 0.01 to 1.80; RD ‐0.04, 95% CI ‐0.09 to ‐0.00; 1 study; 213 intubations) (low quality evidence). 
+There were no data available on other adverse effects of videolaryngoscopy.
+Authors' conclusions
+Moderate to very low quality evidence suggests that videolaryngoscopy increases the success of intubation in the first attempt but does not decrease the time to intubation or the number of attempts for intubation. However, these studies were conducted with trainees performing the intubations and these results highlight the potential usefulness of the videolaryngoscopy as a teaching tool. Well‐designed, adequately powered RCTs are necessary to confirm efficacy and address safety and cost‐effectiveness of videolaryngoscopy for endotracheal intubation in neonates by trainees and those proficient in direct laryngoscopy. 

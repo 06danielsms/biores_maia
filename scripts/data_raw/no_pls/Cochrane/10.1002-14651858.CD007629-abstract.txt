@@ -1,0 +1,14 @@
+Background
+Vascular occlusion is used to reduce blood loss during liver resection surgery. The enzyme markers of liver injury are elevated if vascular occlusion is employed during liver resection. It is not clear whether ischaemic preconditioning prior to vascular occlusion has a protective effect during elective liver resections. 
+Objectives
+To assess the advantages (decreased ischaemia‐reperfusion injury) and any potential disadvantages of ischaemic preconditioning prior to vascular occlusion during liver resections. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until August 2008. 
+Selection criteria
+We included randomised clinical trials comparing ischaemic preconditioning versus no ischaemic preconditioning prior to vascular occlusion (irrespective of the method of vascular occlusion) during elective liver resections (irrespective of language or publication status). 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and independently extracted the data. We analysed the data with both the fixed‐effect and the random‐effects models using RevMan Analysis. We calculated the risk ratio, mean difference, or standardised mean difference with 95% confidence intervals based on intention‐to‐treat or available data analysis. 
+Main results
+We included four trials with 271 patients undergoing open liver resections. The patients were randomised to ischaemic preconditioning (n = 135) and no ischaemic preconditioning (n = 136) prior to continuous vascular occlusion (portal triad clamping in three trials and hepatic vascular exclusion in one trial). All the trials excluded cirrhotic patients. We assessed all the four trials as having high risk of bias. There was no difference in mortality, liver failure, other peri‐operative morbidity, hospital stay, intensive therapy unit stay, and operating time between the two groups. The proportion of patients requiring blood transfusion was lower in the ischaemic preconditioning group. There was also a trend towards a lower amount of red cell transfusion favouring ischaemic preconditioning group. There was no difference in the haemodynamic changes, blood loss, bilirubin, or prothrombin activity between the two groups. The enzyme markers of liver injury were lower in the ischaemic preconditioning group on the first post‐operative day. 
+Authors' conclusions
+Currently, there is no evidence to suggest a protective effect of ischaemic preconditioning in non‐cirrhotic patients undergoing liver resection under continuous vascular occlusion. Ischaemic preconditioning reduces the blood transfusion requirements in patients undergoing liver resection. 

@@ -1,0 +1,28 @@
+Do medicines for weight loss affect blood pressure, and reduce the effects of high blood pressure (hypertension)? 
+What is high blood pressure (hypertension)? 
+Blood pressure is a measure of the force that your heart uses to pump blood around your body. It is usually given as two figures: the pressure when your heart pushes blood out (systolic pressure), and the pressure when your heart rests between beats (diastolic pressure). Blood pressure is considered to be high when systolic pressure is over 140 and/or diastolic pressure is over 90, often written as '140 over 90' and measured in millimetres of mercury (mm Hg). The risk of developing high blood pressure increases as you get older. 
+Hypertension can increase people's risk of developing serious long‐term health problems, such as heart attack or stroke. Lowering blood pressure in people with hypertension reduces the number of people who develop diseases of the heart and blood vessels (cardiovascular disease), which leads to fewer deaths and cardiovascular problems.     
+Weight and hypertension 
+Hypertension treatment guidelines recommend keeping to a healthy weight and losing weight when needed. Some people may take medicines to help reduce their weight.         
+Why we did this Cochrane Review  
+Medicines licensed for use in weight loss in the USA and Europe include orlistat and naltrexone combined with bupropion. Another combination, phentermine with topiramate, is licensed in the USA only. We wanted to find out if weight‐loss medicines have long‐lasting effects on blood pressure, and whether they could reduce the unwanted effects of high blood pressure on people's health.   
+What did we do? 
+We searched for studies about the effects of taking weight‐loss medicines in people with high blood pressure. We were interested in how these medicines affected blood pressure and body weight.  We also wanted to know how many people experienced any unwanted effects, how many people developed cardiovascular disease, and if any people died.   
+We looked for randomised controlled studies, in which the treatments people received were decided at random. This type of study usually gives the most reliable evidence about the effects of a treatment.  
+We assessed the reliability of the evidence we found. We considered factors such as: how the studies were conducted, how many people they involved, and whether their findings were consistent across studies.  
+Search date: we included evidence published up to March 2020.  
+What we found 
+We found six studies in 12,724 people with high blood pressure (average age 46 to 62 years). The studies were conducted in the USA (3 studies) and Europe (3 studies), and lasted from 6 months to 28 months.  
+All studies compared the effects of taking a weight‐loss medicine with effects of taking a dummy medicine (placebo).   
+What are the results of our review? 
+Orlistat may reduce weight and probably reduces blood pressure (4 studies; 2058 people).
+Phentermine plus topiramate may reduce weight and may reduce blood pressure (1 study; 1305 people). 
+Naltrexone plus bupropion probably reduces weight but probably does not reduce blood pressure (1 study; 8283 people). 
+One study looked at the risk of death and major unwanted cardiovascular effects; it showed no differences between naltrexone plus bupropion treatment and a placebo after two years.  
+People taking weight‐loss medicines reported more unwanted effects than those taking a placebo. The most common unwanted effects were digestive problems (for orlistat, and phentermine plus topiramate), dry mouth and skin tingling or numbness (for naltrexone plus bupropion).  
+How reliable are these results?  
+Results are from a small number of studies. In some studies, there were few events for some measures we were interested in.    
+We are moderately confident about how orlistat and naltrexone plus bupropion affected weight loss and blood pressure. However, results might change if more evidence becomes available.  
+We are less confident about the effects of phentermine plus topiramate; the unwanted effects of orlistat, and the risk of unwanted cardiovascular events associated with naltrexone plus bupropion. Results are likely to change if more evidence becomes available.  
+Conclusions 
+Some weight‐loss medicines reduce weight and blood pressure in people with high blood pressure, but may cause unwanted effects. We did not find enough evidence about whether taking weight‐loss medicines to lose weight could reduce death and cardiovascular disease.   

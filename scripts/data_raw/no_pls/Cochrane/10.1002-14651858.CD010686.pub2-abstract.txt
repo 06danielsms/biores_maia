@@ -1,0 +1,38 @@
+Background
+Virtual reality (VR) computer technology creates a simulated environment, perceived as comparable to the real world, with which users can actively interact. The effectiveness of VR distraction on acute pain intensity in children is uncertain. 
+Objectives
+To assess the effectiveness and adverse effects of virtual reality (VR) distraction interventions for children (0 to 18 years) with acute pain in any healthcare setting. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, CINAHL, PsycINFO and four trial registries to October 2019. We also searched reference lists of eligible studies, handsearched relevant journals and contacted study authors. 
+Selection criteria
+Randomised controlled trials (RCTs), including cross‐over and cluster‐RCTs, comparing VR distraction to no distraction, non‐VR distraction or other VR distraction. 
+Data collection and analysis
+We used standard Cochrane methodological processes. Two reviewers assessed risk of bias and extracted data independently. The primary outcome was acute pain intensity (during procedure, and up to one hour post‐procedure). Secondary outcomes were adverse effects, child satisfaction with VR, pain‐related distress, parent anxiety, rescue analgesia and cost. We used GRADE and created 'Summary of findings' tables. 
+Main results
+We included 17 RCTs (1008 participants aged four to 18 years) undergoing various procedures in healthcare settings. We did not pool data because the heterogeneity in population (i.e. diverse ages and developmental stages of children and their different perceptions and reactions to pain) and variations in procedural conditions (e.g. phlebotomy, burn wound dressings, physical therapy sessions), and consequent level of pain experienced, made statistical pooling of data impossible. We narratively describe results. 
+We judged most studies to be at unclear risk of selection bias, high risk of performance and detection bias, and high risk of bias for small sample sizes. Across all comparisons and outcomes, we downgraded the certainty of evidence to low or very low due to serious study limitations and serious or very serious indirectness. We also downgraded some of the evidence for very serious imprecision. 
+1: VR distraction versus no distraction 
+Acute pain intensity: during procedure 
+Self‐report: one study (42 participants) found no beneficial effect of non‐immersive VR (very low‐certainty evidence). 
+Observer‐report: no data.
+Behavioural measurements (observer‐report): two studies, 62 participants; low‐certainty evidence. One study (n = 42) found no beneficial effect of non‐immersive VR. One study (n = 20) found a beneficial effect favouring immersive VR. 
+Acute pain intensity: post‐procedure 
+Self‐report: 10 studies, 461 participants; very low‐certainty evidence. Four studies (n = 95) found no beneficial effect of immersive and semi‐immersive or non‐immersive VR. Five studies (n = 357) found a beneficial effect favouring immersive VR. Another study (n = 9) reported less pain in the VR group. 
+Observer‐report: two studies (216 participants; low‐certainty evidence) found a beneficial effect of immersive VR, as reported by primary caregiver/parents or nurses. One study (n = 80) found a beneficial effect of immersive VR, as reported by researchers. 
+Behavioural measurements (observer‐report): one study (42 participants) found no beneficial effect of non‐immersive VR (very low‐certainty evidence). 
+Adverse effects: five studies, 154 participants; very low‐certainty evidence. Three studies (n = 53) reported no adverse effects. Two studies (n = 101) reported mild adverse effects (e.g. nausea) in the VR group. 
+2: VR distraction versus other non‐VR distraction 
+Acute pain intensity:during procedure 
+Self‐report, observer‐report and behavioural measurements (observer‐report): two studies, 106 participants: 
+Self‐report: one study (n = 65) found a beneficial effect favouring immersive VR and one (n = 41) found no evidence of a difference in mean pain change scores (very low‐certainty evidence). 
+Observer‐report: one study (n = 65) found a beneficial effect favouring immersive VR and one (n = 41) found no evidence of a difference in mean pain change scores (low‐certainty evidence). 
+Behavioural measurements (observer‐report): one study (n = 65) found a beneficial effect favouring immersive VR and one (n = 41) reported a difference in mean pain change scores with fewer pain behaviours in VR group (low‐certainty evidence). 
+Acute pain intensity: post‐procedure 
+Self‐report: eight studies, 575 participants; very low‐certainty evidence. Two studies (n = 146) found a beneficial effect favouring immersive VR. Two studies (n = 252) reported a between‐group difference favouring immersive VR. One study (n = 59) found no beneficial effect of immersive VR versus television and Child Life non‐VR distraction. One study (n = 18) found no beneficial effect of semi‐immersive VR. Two studies (n = 100) reported no between‐group difference. 
+Observer‐report: three studies, 187 participants; low‐certainty evidence. One study (n = 81) found a beneficial effect favouring immersive VR for parent, nurse and researcher reports. One study (n = 65) found a beneficial effect favouring immersive VR for caregiver reports. Another study (n = 41) reported no evidence of a difference in mean pain change scores. 
+Behavioural measurements (observer‐report): two studies, 106 participants; low‐certainty evidence. One study (n = 65) found a beneficial effect favouring immersive VR. Another study (n = 41) reported no evidence of a difference in mean pain change scores. 
+Adverse effects: six studies, 429 participants; very low‐certainty evidence. Three studies (n = 229) found no evidence of a difference between groups. Two studies (n = 141) reported no adverse effects in VR group. One study (n = 59) reported no beneficial effect in reducing estimated cyber‐sickness before and after VR immersion. 
+3: VR distraction versus other VR distraction 
+We did not identify any studies for this comparison.
+Authors' conclusions
+We found low‐certainty and very low‐certainty evidence of the effectiveness of VR distraction compared to no distraction or other non‐VR distraction in reducing acute pain intensity in children in any healthcare setting. This level of uncertainty makes it difficult to interpret the benefits or lack of benefits of VR distraction for acute pain in children. Most of the review primary outcomes were assessed by only two or three small studies. We found limited data for adverse effects and other secondary outcomes. Future well‐designed, large, high‐quality trials may have an important impact on our confidence in the results. 

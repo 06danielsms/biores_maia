@@ -1,0 +1,18 @@
+Background
+The choice of antibiotic, and the use of single or combined therapy are controversial areas in the treatment of respiratory infection due to Pseudomonas aeruginosa in cystic fibrosis (CF). Advantages of combination therapy include wider range of modes of action, possible synergy and reduction of resistant organisms; advantages of monotherapy include lower cost, ease of administration and reduction of drug‐related toxicity. Current evidence does not provide a clear answer and the use of intravenous antibiotic therapy in CF requires further evaluation. This is an update of a previously published review. 
+Objectives
+To assess the effectiveness of single compared to combination intravenous anti‐pseudomonal antibiotic therapy for treating people with CF. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search of the Group's Trials Register: 07 October 2020.
+We also searched online trials registries on 16 November 2020.
+Selection criteria
+Randomised controlled trials (RCTs) comparing a single intravenous anti‐pseudomonal antibiotic with a combination of that antibiotic plus a second anti‐pseudomonal antibiotic in people with CF. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We assessed the certainty of the data using GRADE. 
+Main results
+We identified 59 trials, of which we included eight trials (356 participants) comparing a single anti‐pseudomonal agent to a combination of the same antibiotic and one other. There was a wide variation in the individual antibiotics used in each trial. In total, the trials included seven comparisons of a beta‐lactam antibiotic (penicillin‐related or third generation cephalosporin) with a beta‐lactam‐aminoglycoside combination and three comparisons of an aminoglycoside with a beta‐lactam‐aminoglycoside combination.  
+There was considerable heterogeneity amongst these trials, leading to difficulties in performing the review and interpreting the results. These results should be interpreted cautiously. Six of the included trials were published between 1977 and 1988; these were single‐centre trials with flaws in the randomisation process and small sample size. Overall, the methodological quality was poor and the certainty of the evidence ranged from low to moderate. 
+The review did not find any differences between monotherapy and combination therapy in either the short term or in the long term for the outcomes of different lung function measures, bacteriological outcome measures, need for additional treatment, adverse effects, quality of life or symptom scores. 
+Authors' conclusions
+The results of this review are inconclusive. The review raises important methodological issues. There is a need for an RCT which needs to be well‐designed in terms of adequate randomisation allocation, blinding, power and long‐term follow‐up. Results need to be standardised to a consistent method of reporting, in order to validate the pooling of results from multiple trials. 

@@ -1,0 +1,14 @@
+Background
+There is currently no strong consensus regarding the optimal management of complex regional pain syndrome although a multitude of interventions have been described and are commonly used. 
+Objectives
+To summarise the evidence from Cochrane and non‐Cochrane systematic reviews of the effectiveness of any therapeutic intervention used to reduce pain, disability or both in adults with complex regional pain syndrome (CRPS). 
+Methods
+We identified Cochrane reviews and non‐Cochrane reviews through a systematic search of the following databases: Cochrane Database of Systematic Reviews, Database of Abstracts of Reviews of Effects (DARE), Ovid MEDLINE, Ovid EMBASE, CINAHL, LILACS and PEDro. We included non‐Cochrane systematic reviews where they contained evidence not covered by identified Cochrane reviews. The methodological quality of reviews was assessed using the AMSTAR tool. 
+We extracted data for the primary outcomes pain, disability and adverse events, and the secondary outcomes of quality of life, emotional well being and participants' ratings of satisfaction or improvement. Only evidence arising from randomised controlled trials was considered. We used the GRADE system to assess the quality of evidence. 
+Main results
+We included six Cochrane reviews and 13 non‐Cochrane systematic reviews. Cochrane reviews demonstrated better methodological quality than non‐Cochrane reviews. Trials were typically small and the quality variable. 
+There is moderate quality evidence that intravenous regional blockade with guanethidine is not effective in CRPS and that the procedure appears to be associated with the risk of significant adverse events. 
+There is low quality evidence that bisphosphonates, calcitonin or a daily course of intravenous ketamine may be effective for pain when compared with placebo; graded motor imagery may be effective for pain and function when compared with usual care; and that mirror therapy may be effective for pain in post‐stroke CRPS compared with a 'covered mirror' control. This evidence should be interpreted with caution. There is low quality evidence that local anaesthetic sympathetic blockade is not effective. Low quality evidence suggests that physiotherapy or occupational therapy are associated with small positive effects that are unlikely to be clinically important at one year follow up when compared with a social work passive attention control. 
+For a wide range of other interventions, there is either no evidence or very low quality evidence available from which no conclusions should be drawn. 
+Authors' conclusions
+There is a critical lack of high quality evidence for the effectiveness of most therapies for CRPS. Until further larger trials are undertaken, formulating an evidence‐based approach to managing CRPS will remain difficult. 

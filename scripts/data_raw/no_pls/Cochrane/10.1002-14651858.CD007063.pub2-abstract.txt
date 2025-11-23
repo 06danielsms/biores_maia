@@ -1,0 +1,17 @@
+Background
+Pelvic organ prolapse is common and can be detected in up to 50% of parous women although many are asymptomatic. Oestrogen preparations are used to improve vaginal thinning (atrophy). It is possible that oestrogens, alone or in conjunction with other interventions, might prevent or assist in the management of pelvic organ prolapse, for example by improving the strength of weakened supporting structures. 
+Objectives
+To determine the effects of oestrogens or drugs with oestrogenic effects alone, or in conjunction with other treatments, both for prevention and treatment of pelvic organ prolapse. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register of trials (searched 6 May 2010), MEDLINE (January 1950 to April 2010) as well as reference lists of relevant articles. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that included the use of any oestrogens or drugs with oestrogenic (or anti‐oestrogenic) actions for pelvic organ prolapse. 
+Data collection and analysis
+Trials were assessed and data extracted independently by two review authors.
+Main results
+Three trials and one meta‐analysis of adverse effects of a further three trials were identified. One trial did not provide useable data. Two trials included 148 women with prolapse, one included 58 postmenopausal women and the meta‐analysis reported a mixed population (women with and without prolapse) of postmenopausal women (N=6984). The meta analysis and one other small trial investigated the effect of selective oestrogen receptor modulators (SERMs) for treatment or prevention of osteoporosis but also collected data of the effects on prolapse. Interventions included oestradiol, conjugated equine oestrogen and two (SERMs), raloxifene and tamoxifen. Only one small trial addressed the primary outcome (prolapse symptoms). 
+One small treatment trial of oestradiol for three weeks before prolapse surgery found a reduced incidence of cystitis in the first four weeks after surgery but this unexpected finding needs to be confirmed in a larger trial. 
+A meta‐analysis of adverse effects of a SERM, raloxifene (used for treatment or prevention of osteoporosis in postmenopausal women) found a statistically significant reduction in the need for prolapse surgery at three year follow up (OR 0.50, 95% CI 0.31 to 0.81), but this was statistically significant only in women older than 60 years (OR 0.68, 95% CI 0.22 to 2.08) and the total number of women having prolapse surgery was small. A further small trial comparing conjugated equine oestrogen, raloxifene, tamoxifen and placebo in postmenopausal women having pelvic floor muscle training was too small to detect effects on prolapse outcomes. 
+Authors' conclusions
+There was limited evidence from randomised controlled trials regarding the use of oestrogens for the prevention and management of pelvic organ prolapse. The use of local oestrogen in conjunction with pelvic floor muscle training before surgery may reduce the incidence of post‐operative cystitis within four weeks after surgery. Oral raloxifene may reduce the need for pelvic organ prolapse surgery in women older than 60 years although this cannot be taken as an indication for practice. 
+There is a need for rigorous randomised controlled trials with long term follow up to assess oestrogen preparations for prevention and management of pelvic organ prolapse, particularly as an adjunctive treatment for women using pessaries and also before and after prolapse surgery. 

@@ -1,0 +1,12 @@
+Urate oxidase for the prevention and treatment of complications from massive lysis (breakdown) of tumour cells in children with cancer 
+Review question 
+We reviewed the evidence of the effects and safety of urate oxidase for the prevention and treatment of tumour lysis syndrome (TLS) in children with malignancies. 
+Background 
+TLS occurs when uric acid and other cellular substances are rapidly released into the circulation when tumour cells are broken down spontaneously or during treatment. Uric acid does not dissolve easily, therefore it can build up in the kidney, resulting in kidney failure and possibly death. Urate oxidase is an enzyme that can be administered to people at risk of TLS to convert uric acid to allantoin, which is easily dissolved and then readily excreted by the kidneys. Therefore, urate oxidase may be able to prevent or treat TLS in people with malignancies. 
+Study characteristics 
+The evidence is current to March 2016.
+We found seven trials (1074 participants). No new studies were identified in this update. Six studies compared urate oxidase and allopurinol. Three trials tested Uricozyme, and three trials tested rasburicase. One study (30 participants) compared different doses of rasburicase. 
+Key results 
+The current systematic review of (randomised) controlled clinical trials found that although urate oxidase might be effective in reducing serum uric acid level, it has not been confirmed to reduce renal failure or mortality from TLS in children with cancer. Adverse effects might be more common in people who receive urate oxidase compared with allopurinol. Urate oxidase needs to be further evaluated, especially in high‐risk patients, such as those with high‐risk leukaemia and lymphoma. 
+Quality of the evidence 
+The quality of evidence ranks from very low to low because of imprecise results, and all included trials were highly susceptible to biases. 

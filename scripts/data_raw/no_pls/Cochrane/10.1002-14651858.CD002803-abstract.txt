@@ -1,0 +1,14 @@
+Background
+Spinal immobilisation involves the use of a number of devices and strategies to stabilise the spinal column after injury and thus prevent spinal cord damage. The practice is widely recommended and widely used in trauma patients with suspected spinal cord injury in the pre‐hospital setting. 
+Objectives
+To quantify the effect of different methods of spinal immobilisation (including immobilisation versus no immobilisation) on mortality, neurological disability, spinal stability and adverse effects in trauma patients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), the Cochrane Injuries Group's specialised register, MEDLINE, EMBASE, CINAHL, PubMed, National Research Register and Zetoc. We checked reference lists of all articles and contacted experts in the field to identify eligible trials. Manufacturers of spinal immobilisation devices were also contacted for information. Searches were last updated in July 2007. 
+Selection criteria
+Randomised controlled trials comparing spinal immobilisation strategies in trauma patients with suspected spinal cord injury. Trials in healthy volunteers were excluded. 
+Data collection and analysis
+We independently applied eligibility criteria to trial reports and extracted data.
+Main results
+We found no randomised controlled trials of spinal immobilisation strategies in trauma patients. 
+Authors' conclusions
+We did not find any randomised controlled trials that met the inclusion criteria. The effect of spinal immobilisation on mortality, neurological injury, spinal stability and adverse effects in trauma patients remains uncertain. Because airway obstruction is a major cause of preventable death in trauma patients, and spinal immobilisation, particularly of the cervical spine, can contribute to airway compromise, the possibility that immobilisation may increase mortality and morbidity cannot be excluded. Large prospective studies are needed to validate the decision criteria for spinal immobilisation in trauma patients with high risk of spinal injury. Randomised controlled trials in trauma patients are required to establish the relative effectiveness of alternative strategies for spinal immobilisation. 

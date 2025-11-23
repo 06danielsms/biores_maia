@@ -1,0 +1,14 @@
+Background
+Idiopathic short stature (ISS) refers to children who are very short compared with their peers for unknown or hereditary reasons. Recombinant human growth hormone (GH) has been used to increase growth and final height in children with ISS. 
+Objectives
+To assess the effects of recombinant human GH on short‐term growth and final height in children with ISS. 
+Search methods
+Studies were obtained from computerised searches of MEDLINE, EMBASE, The Cochrane Library, Science Citation Index, BIOSIS and Current Controlled Trials. Article reference lists were assessed for trials and experts and pharmaceutical companies were contacted. 
+Selection criteria
+Randomised controlled trials were included if they were carried out in children with ISS with normal GH secretion. GH had to be administered for a minimum of six months and be compared with placebo or no treatment. A growth or height outcome measure had to be assessed. 
+Data collection and analysis
+Two reviewers assessed studies for inclusion criteria and for methodological quality. Data were extracted by one reviewer and checked by a second. The primary outcome was final height and secondary outcomes included short term growth, health related quality of life and adverse effects. To estimate summary treatment effects, data were pooled, when appropriate using a random effects model. 
+Main results
+Ten RCTs were included. One trial reported near final height in girls and found that girls treated with GH were 7.5 cm taller than untreated controls (GH group, 155.3 cm ± 6.4; control, 147.8 cm ± 2.6; P = 0.003); another trial which reported adult height standard deviation score found that children treated with GH were 3.7 cm taller than children in a placebo‐treated group (95% confidence intervals 0.03 to 1.10; P < 0.04). The other trials reported short term outcomes. Results suggest that short‐term height gains can range from none to approximately 0.7 SD over one year. One study reported health related quality of life and showed no significant improvement in GH treated children compared with those in the control group, whilst another found no significant evidence that GH treatment impacts psychological adaptation or self‐perception in children with ISS. No serious adverse effects of treatment were reported. 
+Authors' conclusions
+GH therapy can increase short‐term growth and improve (near) final height. Increases in height are such that treated individuals remain relatively short when compared with peers of normal stature. Large, multicentre RCTs are required which should focus on final height and address quality of life and cost issues. 

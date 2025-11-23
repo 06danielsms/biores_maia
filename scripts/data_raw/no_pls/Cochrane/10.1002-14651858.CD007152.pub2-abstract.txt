@@ -1,0 +1,17 @@
+Background
+Port‐wine stains are birthmarks caused by malformations of blood vessels in the skin. Port‐wine stains manifest themselves in infancy as a flat, red mark and do not regress spontaneously but may, if untreated, become darker and thicker in adult life. The profusion of various lasers and light sources makes it difficult to decide which equipment is the best for treating port‐wine stains. 
+Objectives
+To study participant satisfaction, clinical efficacy, and adverse effects of the treatment of port‐wine stains by lasers and light sources. 
+Search methods
+We searched the following databases up to April 2010: the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials (Clinical Trials) in The Cochrane Library, MEDLINE (from 2005), EMBASE (from 2007), LILACS (Latin American and Caribbean Health Science Information database, from 1982), and reference lists of articles. We also searched online trials registries for ongoing trials and contacted trial authors where appropriate. 
+Selection criteria
+Randomised clinical trials (RCTs) of lasers or light sources for the treatment of port‐wine stains. 
+Data collection and analysis
+Our outcomes of interest were participant satisfaction, reduction in redness of the port‐wine stain as determined by clinical evaluation, and short‐ and long‐term adverse effects of the treatments. Three authors independently extracted data and assessed trial quality. 
+Main results
+We included 5 RCTs involving a total of 103 participants; all of the trials used a within‐participant design. The interventions and outcomes were too varied to be combined statistically. All trials used the pulsed dye laser for comparisons. 
+None of the studies focused on participant satisfaction, which was one of our primary outcomes, but participant preference was evaluated in three of five studies. Participants preferred the pulsed dye laser to intense pulsed light based on the clinical effect. They marginally preferred the Neodymium:YAG (yttrium‐aluminium‐garnet) (Nd:YAG) laser to the pulsed dye laser due to shorter lasting purpura, and pulsed dye laser in conjunction with cooling was preferred to treatment with pulsed dye laser alone. 
+All trials examined short‐term efficacy of less than six months after treatments with the pulsed dye laser, intense pulsed light, and Nd:YAG laser. The pulsed dye laser was evaluated in all five trials. Depending upon the setting of the pulsed dye laser, this resulted in more than 25% reduction in redness. This was after 1 to 3 treatments for up to 4 to 6 months postoperatively in 50% to 100% of the participants. There was only one study each of intense pulsed light and Nd:YAG laser. 
+Two trials had no occurrence of long‐term adverse effects, i.e. six months after treatment. Three trials reported pigmentary alterations in 3% to 24% of the participants, with the highest percentage occurring in Chinese participants with darker skin types. In one study one participant experienced scarring of the skin caused by a too‐high dose of the laser used. Short‐term side‐effects included pain, crusting, and blistering in the first two weeks after treatment. 
+Authors' conclusions
+The pulsed dye laser leads to clinically relevant clearance of port‐wine stains. A limited number of RCTs evaluated the efficacy from intense pulsed light and other laser types. High‐quality RCTs are needed to assess individual efficacy from different lasers and light sources, as well as participant satisfaction. 

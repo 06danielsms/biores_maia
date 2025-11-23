@@ -1,0 +1,14 @@
+Background
+Spasticity is a common problem in multiple sclerosis (MS) patients causing pain, spasms, loss of function and difficulties in nursing care. A variety of oral and parenteral medications are available. 
+Objectives
+To assess the absolute and comparative efficacy and tolerability of anti‐spasticity agents in MS patients. 
+Search methods
+We searched the Cochrane MS Group trials register (June 2003), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 2, 2003), MEDLINE (January 1966 to June 2003), EMBASE (January 1988 to June 2003), bibliographies of relevant articles, personal communication, manual searches of relevant journals and information from drug companies. 
+Selection criteria
+Double‐blind, randomised controlled trials (either placebo‐controlled or comparative studies) of at least seven days duration. 
+Data collection and analysis
+Two independent reviewers extracted data and the findings of the trials were summarised. Missing data were collected by correspondence with principal investigators. A meta‐analysis was not performed due to the inadequacy of outcome measures and methodological problems with the studies reviewed. 
+Main results
+Twenty‐six placebo‐controlled studies (using baclofen, dantrolene, tizanidine, botulinum toxin, vigabatrin, prazepam, threonine and cannabinoids) and thirteen comparative studies met the selection criteria and were included in this review. Only fifteen of these studies used the Ashworth scale, of which only three of the eight placebo‐controlled trials and none of the seven comparative studies showed a statistically significant difference between test drugs. Spasms, other symptoms and overall impressions were only assessed using unvalidated scores and results of functional assessments were inconclusive. 
+Authors' conclusions
+The absolute and comparative efficacy and tolerability of anti‐spasticity agents in multiple sclerosis is poorly documented and no recommendations can be made to guide prescribing. The rationale for treating features of the upper motor neurone syndrome must be better understood and sensitive, validated spasticity measures need to be developed. 

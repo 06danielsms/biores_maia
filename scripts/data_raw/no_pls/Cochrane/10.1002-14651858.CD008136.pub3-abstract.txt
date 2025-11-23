@@ -1,0 +1,15 @@
+Background
+Symphysis fundal height (SFH) measurement is commonly practiced primarily to detect fetal intrauterine growth restriction (IUGR). Undiagnosed IUGR may lead to fetal death as well as increase perinatal mortality and morbidity. 
+Objectives
+The objective of this review is to compare SFH measurement with serial ultrasound measurement of fetal parameters or clinical palpation to detect abnormal fetal growth (IUGR and large‐for‐gestational age), and improving perinatal outcome. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (14 July 2015) and reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials including quasi‐randomised and cluster‐randomised trials involving pregnant women with singleton fetuses at 20 weeks' gestation and above comparing tape measurement of SFH with serial ultrasound measurement of fetal parameters or clinical palpation using anatomical landmarks. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+One trial involving 1639 women was included. It compared SFH measurement with clinical abdominal palpation. 
+There was no difference in the two reported primary outcomes of incidence of small‐for‐gestational age (risk ratio (RR) 1.32; 95% confidence interval (CI) 0.92 to 1.90, low quality evidence) or perinatal death.(RR 1.25, 95% CI 0.38 to 4.07; participants = 1639, low quality evidence). There were no data on the neonatal detection of large‐for‐gestational age (variously defined by authors). There was no difference in the reported secondary outcomes of neonatal hypoglycaemia, admission to neonatal nursery, admission to the neonatal nursery for IUGR (low quality evidence), induction of labour and caesarean section (very low quality evidence). The trial did not address the other outcomes specified in the 'Summary of findings' table (intrauterine death; neurodevelopmental outcome in childhood). GRADEpro software was used to assess the quality of evidence, downgrading of evidence was based on including a small single study with unclear risk of bias and a wide confidence interval crossing the line of no effect. 
+Authors' conclusions
+There is insufficient evidence to determine whether SFH measurement is effective in detecting IUGR. We cannot therefore recommended any change of current practice. Further trials are needed. 

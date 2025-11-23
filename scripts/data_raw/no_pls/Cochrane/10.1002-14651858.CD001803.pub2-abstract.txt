@@ -1,0 +1,16 @@
+Background
+Antenatal day care units have been widely used as an alternative to inpatient care for women with pregnancy complications including mild and moderate hypertension, and preterm prelabour rupture of the membranes. 
+Objectives
+The objective of this review is to compare day care units with routine care or hospital admission for women with pregnancy complications in terms of maternal and perinatal outcomes, length of hospital stay, acceptability, and costs to women and health services providers. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (February 2009). 
+Selection criteria
+Randomised controlled trials comparing day care with inpatient or routine care for women with complicated pregnancy. 
+Data collection and analysis
+Two review authors independently carried out data extraction and assessed studies for risk of bias. 
+Main results
+Three trials with a total of 504 women were included. For most outcomes it was not possible to pool results from trials in meta‐analyses as outcomes were measured in different ways. 
+Compared with women in the ward/routine care group, women attending day care units were less likely to be admitted to hospital overnight (risk ratio 0.46, 95% confidence interval 0.34 to 0.62). The average length of antenatal admission was shorter for women attending for day care, although outpatient attendances were increased for this group. There was evidence from one study that women attending for day care were significantly less likely to undergo induction of labour, but mode of birth was similar for women in both groups. For other outcomes there were no significant differences between groups.The evidence regarding the costs of different types of care was mixed; while the length of antenatal hospital stays were reduced, this did not necessarily translate into reduced health service costs. 
+While most women tended to be satisfied with whatever care they received, women preferred day care compared with hospital admission. 
+Authors' conclusions
+Small studies suggest that there are no major differences in clinical outcomes for mothers or babies between antenatal day units or hospital admission, but women may prefer day care. 

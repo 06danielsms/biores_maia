@@ -1,0 +1,12 @@
+Montreal Cognitive Assessment (MoCA) for the detection of dementia
+Review question 
+We reviewed the evidence about the accuracy of the Montreal Cognitive Assessment (MoCA) test for detecting dementia. 
+Background 
+Dementia is a common condition in older people, with at least 7% of people over 65 years old in the UK affected, and numbers are increasing worldwide. In this review, we wanted to discover whether using a well‐established cognitive test, MoCA, could accurately detect dementia when compared to a gold standard diagnostic test. MoCA uses a series of questions to test different aspects of mental functioning. 
+Study characteristics 
+The evidence we reviewed is current to August 2012. We found seven studies that matched our criteria. There were three from memory clinics (specialist clinics where people are referred for suspected dementia), two from general hospital clinics, none from primary care and two studies carried out in the general population. All studies included older people, with the youngest average age of 61 years in one study. There were a total 9422 people included in all 7 studies though only one study had more than 350 people. 
+The proportion of people with dementia was 5% to 10% in two population‐derived studies and 22% to 54% in the five clinic‐based studies. There was a large variation in the way the different studies were carried out: therefore we chose to present the results in a narrative summary because a statistical summary (combining all the estimates into a summary sensitivity and specificity) would not have been meaningful. 
+Key results 
+We found that MoCA was good at detecting dementia when using a recognised cut‐off score of less than 26. In the studies that used this cut‐off, we found the test correctly detected over 94% of people with dementia in all settings. On the other hand, the test also produced a high proportion of false positives, that is people who did not have dementia but tested positive at the 'less than 26' cut‐off. In the studies we reviewed, over 40% of people without dementia would have been incorrectly diagnosed with dementia using the MoCA. 
+Conclusion 
+The overall quality of the studies was not good enough to make firm recommendations on using the MoCA to detect dementia in different healthcare settings. In particular, no studies looked at how useful MoCA is for diagnosing dementia in primary care settings. It is likely that a MoCA threshold lower than 26 would be more useful for optimal diagnostic accuracy in dementia, though this requires wider confirmation. 

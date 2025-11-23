@@ -1,0 +1,10 @@
+High‐dose chemotherapy and bone marrow or stem cell transplantation for early poor prognosis breast cancer using a woman's own cells (autologous) 
+Background 
+Women with breast cancer who have multiple positive lymph nodes when first diagnosed are at high risk of recurrence. Conventional chemotherapy has limited success and is unsafe in high doses as it damages the bone marrow. One treatment considered promising was to give women very high doses of chemotherapy followed by transplantation of stem cells to regenerate their bone marrow. Cochrane review authors examined the evidence, which is current to October 2015. 
+Study characteristics 
+We included 14 randomised controlled trials (5600 women) which compared high‐dose chemotherapy versus conventional chemotherapy in women with early breast cancer and with a high risk of recurrence. We defined these as women with breast cancer that has spread to multiple local lymph nodes without any evidence of spread beyond local lymph nodes. 
+All studies reported their source of funding. Eight studies were funded by non‐profit organisations, one by a public health insurance company, one by industry sources and four by a combination of non‐profit organisations and industry sources. Four of the studies reported that authors had no potential conflict of interest, six reported that one or more of their authors had received some kind of support from pharmaceutical companies, and four did not mention whether any of their authors had any potential conflict of interest. 
+Key results 
+Using high‐dose chemotherapy has little or no effect on increasing survival. Although rates of event‐free survival were higher in the high‐dose arm over three‐year follow‐up, this effect was not apparent at longer follow‐up. Treatment‐related deaths were much more common in the high‐dose group. Side‐effects were also more common and more severe in the high‐dose group. We did not find an effect on the number of women developing second cancers. 
+Quality of the evidence 
+The evidence was of high quality.

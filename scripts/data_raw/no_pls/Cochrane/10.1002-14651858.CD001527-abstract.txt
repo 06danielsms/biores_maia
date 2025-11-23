@@ -1,0 +1,14 @@
+Background
+Traumatic brain injury is a leading cause of premature death and disability. Post‐traumatic membrane lipid peroxidation has been proposed as one mechanism leading to secondary brain damage following head injury. Aminosteroids have been shown to inhibit lipid peroxidation in laboratory animals and have the potential to improve outcome following head injury. 
+Objectives
+To quantify the effectiveness and safety of aminosteroids in the treatment of acute traumatic brain injury. 
+Search methods
+We searched the Cochrane Injuries Group specialised register, the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, the National Research Register, Web of Science, web‐based trials databases and conducted a general internet search. We contacted experts in the field and the company that manufactures tirilazad. The searches were last updated in March 2006. 
+Selection criteria
+We sought to identify all randomised controlled trials of aminosteroids versus placebo in the treatment of acute traumatic brain injury. Studies using a quasi‐random form of allocation, such as alternation, were excluded from the review. 
+Data collection and analysis
+One author examined the electronic search results for reports of possibly relevant trials for retrieval in full. Two authors (IR and PA) applied the selection criteria independently to the trial report, with no disagreement. 
+Main results
+Two randomised controlled trials have examined the effect of the aminosteroid tirilazad mesylate on death and disability following head injury. To date, only the results of one of these trials are available for analysis. The risk of death in patients treated with tirilazad was almost identical to those given placebo RR = 1.05 (95% confidence interval 0.86 to 1.29). The risk of death and severe disability in patients treated with tirilazad was again almost identical to those given placebo RR = 1.07 (95% confidence interval 0.93 to 1.23). 
+Authors' conclusions
+There is no evidence to support the routine use of aminosteroids in the management of traumatic head injury. On the basis of the existing evidence from randomised trials of aminosteroids in head injury, it is not possible to refute the possibility of moderate but potentially clinically important benefits or harms. A further randomised controlled trial of tirilazad mesylate with 1156 participants has been completed, the results of which should become available in the near future. 

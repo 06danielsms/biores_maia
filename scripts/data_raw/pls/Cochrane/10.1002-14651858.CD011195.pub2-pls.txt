@@ -1,0 +1,17 @@
+Central venous catheter removal for adults and children suffering from bloodstream infections caused by Candida species 
+Review question 
+The main purpose of this review was to examine the impact of prompt removal of a central venous catheter (CVC) on the survival of patients with Candida species in the bloodstream (candidaemia) compared with keeping the CVC in place when treating with antifungal agents. 
+Background 
+A CVC is placed into a large vein to administer medications or fluids that cannot be taken by mouth or would harm a smaller peripheral vein. Catheters can be placed in veins in the neck, chest or groin, or through veins in the arms (peripherally inserted central catheters, also known as PICC lines). Candida (a genus of yeast) can be found in blood samples taken from the catheter and may cause acute, critical illness and even death in people already suffering from other diseases. Infections caused by Candida have markedly increased in numbers over past decades. Candida is now the fourth most common bloodstream infection contracted by people already in hospital. This type of infection considerably increases hospital costs. 
+Prompt catheter removal is recommended by international specialist societies. However, the catheter often provides important access for medical or fluid therapy for treating other illnesses. If a catheter is removed, then a new one is often required, and this can cause distress for the patient. Any time gap between removal of one catheter and insertion of a new catheter may interfere with treatment, leading to worsening of the situation. Additionally, inserting a new catheter is associated with risk of complications arising from accidental damage to large blood vessels, potentially causing severe bleeding or accidental puncture of a lung, causing the lung to collapse. Although rare, these complications may ultimately lead to death. 
+Search date 
+The evidence was up to date as of 3 December 2015.
+Study characteristics 
+We found no clinical trials with a randomized controlled design that evaluated this topic and measured the number of deaths or any of our secondary outcomes. 
+We identified 73 observational studies that delivered descriptive data on catheter management and survival in people with bloodstream infections caused by Candida. 
+Key results 
+We identified no randomized controlled trials for statistical analyses and assessments. Therefore, we can present no results on the effect of catheter removal on survival when Candida is found in the bloodstream. 
+A total of 73 observational studies reported relevant outcomes after the catheter was removed or was kept in place. In all, 40 studies reported a beneficial effect of catheter removal in patients with candidaemia, and 34 presented results showing no clear differences between groups. No studies reported results in favour of retaining the catheter. 
+We found no reports on the harmful effects of removing a catheter and re‐inserting a new catheter. 
+Quality of evidence 
+No randomized controlled trials met the inclusion criteria. Consequently, we cannot assess the quality of evidence. 

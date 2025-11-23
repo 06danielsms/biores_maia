@@ -1,0 +1,21 @@
+Background
+Depression is a common mental disorder. It affects millions of people worldwide and is considered by the World Health Organization (WHO) to be one of the leading causes of disability. Electroconvulsive therapy (ECT) is a well‐established treatment for severe depression. Intravenous anaesthetic medication is used to minimize subjective unpleasantness and adverse side effects of the induced tonic‐clonic seizure. The influence of different anaesthetic medications on the successful reduction of depressive symptoms and adverse effects is unclear. 
+Objectives
+This review evaluated the effects of different regimens of intravenous sedatives and hypnotics on anti‐depression efficacy, recovery and seizure duration in depressed adults undergoing ECT. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2012, Issue 12); MEDLINE via Ovid SP (from 1966 to 31 December 2012); and EMBASE via Ovid SP (from 1966 to 31 December 2012). We handsearched related journals and applied no language restrictions. We reran the search in Feburary 2017. Four potential new studies of interest were added to a list of ‘Studies awaiting Classification' and will be incorporated into the formal review findings during the review update. 
+Selection criteria
+We included randomized controlled trials (RCTs) and cross‐over trials evaluating the effects of different intravenous sedatives and hypnotics for ECT. We excluded studies and trials using placebo or inhalational anaesthetics and studies that used no anaesthetic. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. When possible, data were pooled and risk ratios (RRs) and mean differences (MDs), each with 95% confidence intervals (CIs), were computed using the Cochrane Review Manager statistical package (RevMan). 
+Main results
+We included in the review 18 RCTs (599 participants; published between 1994 and 2012). Most of the included trials were at high risk of bias. 
+We analysed the results of studies comparing six different intravenous anaesthetics.
+Only a few studies comparing propofol with methohexital (four studies) and with thiopental (three studies) could be pooled. 
+No difference was noted in the reduction of depression scores observed in participants treated with propofol compared with methohexital (low‐quality evidence). These four studies were not designed to detect differences in depression scores. 
+The duration of electroencephalograph (EEG) and of motor seizures was shorter in the propofol group compared with the methohexital group (low‐quality evidence). No difference was seen in EEG seizure duration when propofol was compared with thiopental (low‐quality evidence). 
+Time to recovery (following commands) was longer among participants after anaesthesia with thiopental compared with propofol (low‐quality evidence). 
+For the remaining comparisons of anaesthetics, only single studies or insufficient data were available. Adverse events were inadequately reported in eligible trials, and none of the included trials reported anaesthesia‐related mortality. 
+Authors' conclusions
+Most of the included studies were at high risk of bias, and the quality of evidence was generally low. The studies were not designed to detect clinically relevant differences in depression scores. Anaesthetic agents should be chosen on the basis of adverse effect profile, emergence and how these medications affect seizure duration. If it is difficult to elicit an adequately long seizure, methohexital may be superior to propofol (low‐quality evidence). If a patient is slow to recover from anaesthesia, propofol may allow a faster time to follow commands than thiopental (low‐quality evidence). A factor of clinical concern that was not addressed by any study was adrenal suppression from etomidate. Optimal dosages of intravenous sedatives or hypnotics have not yet been determined. 
+Larger well‐designed randomized studies are needed to determine which intravenous anaesthetic medication leads to the greatest improvement in depression scores with minimal adverse effects. 

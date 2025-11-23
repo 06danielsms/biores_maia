@@ -1,0 +1,16 @@
+Background
+Bacterial infections are a major cause of morbidity and mortality in patients who are neutropenic following chemotherapy for malignancy. Trials have shown the efficacy of antibiotic prophylaxis in reducing the incidence of bacterial infections but not in reducing mortality rates. Our systematic review from 2006 also showed a reduction in mortality. 
+Objectives
+This updated review aimed to evaluate whether there is still a benefit of reduction in mortality when compared to placebo or no intervention. 
+Search methods
+We searched the Cochrane Cancer Network Register of Trials (2011), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2011), MEDLINE (1966 to March 2011), EMBASE (1980 to March 2011), abstracts of conference proceedings and the references of identified studies. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing different types of antibiotic prophylaxis with placebo or no intervention, or another antibiotic, to prevent bacterial infections in afebrile neutropenic patients. 
+Data collection and analysis
+Two authors independently appraised the quality of each trial and extracted data from the included trials. Analyses were performed using RevMan 5.1 software. 
+Main results
+One‐hundred and nine trials (involving 13,579 patients) that were conducted between the years 1973 to 2010 met the inclusion criteria. When compared with placebo or no intervention, antibiotic prophylaxis significantly reduced the risk of death from all causes (46 trials, 5635 participants; risk ratio (RR) 0.66, 95% CI 0.55 to 0.79) and the risk of infection‐related death (43 trials, 5777 participants; RR 0.61, 95% CI 0.48 to 0.77). The estimated number needed to treat (NNT) to prevent one death was 34 (all‐cause mortality) and 48 (infection‐related mortality). 
+Prophylaxis also significantly reduced the occurrence of fever (54 trials, 6658 participants; RR 0.80, 95% CI 0.74 to 0.87), clinically documented infection (48 trials, 5758 participants; RR 0.65, 95% CI 0.56 to 0.76), microbiologically documented infection (53 trials, 6383 participants; RR 0.51, 95% CI 0.42 to 0.62) and other indicators of infection. 
+There were no significant differences between quinolone prophylaxis and TMP‐SMZ prophylaxis with regard to death from all causes or infection, however, quinolone prophylaxis was associated with fewer side effects leading to discontinuation (seven trials, 850 participants; RR 0.37, 95% CI 0.16 to 0.87) and less resistance to the drugs thereafter (six trials, 366 participants; RR 0.45, 95% CI 0.27 to 0.74). 
+Authors' conclusions
+Antibiotic prophylaxis in afebrile neutropenic patients significantly reduced all‐cause mortality. In our review, the most significant reduction in mortality was observed in trials assessing prophylaxis with quinolones. The benefits of antibiotic prophylaxis outweighed the harm such as adverse effects and the development of resistance since all‐cause mortality was reduced. As most trials in our review were of patients with haematologic cancer, we strongly recommend antibiotic prophylaxis for these patients, preferably with a quinolone. Prophylaxis may also be considered for patients with solid tumours or lymphoma. 

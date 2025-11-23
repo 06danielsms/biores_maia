@@ -1,0 +1,28 @@
+Effects of opioid, hypnotic and sedating medications on obstructive sleep apnoea (OSA) in adults with known OSA 
+Background 
+Obstructive sleep apnoea (OSA) is a common sleep disorder characterised by intermittent apnoeas (pauses in breathing) leading to dips in oxygen levels in the blood during sleep. Many people with known or unknown (undiagnosed) OSA receive hypnotics, sedatives and opiate/opioid drugs to treat other conditions including pain, anxiety and difficulty sleeping. Opiates/opioids are commonly prescribed to treat pain after major surgery. These drugs might make sleep apnoea worse ‐ increasing the frequency and duration of apnoeas. 
+Review question 
+We set out to look at evidence derived from randomised placebo‐controlled trials to identify the risks of these drugs for patients with known OSA. 
+What we did 
+We searched and reviewed all randomised placebo‐controlled trials involving adult patients with known OSA who received these drugs. Most of the trials were short at just one or two nights' duration, involved only a small number of patients and used poorly described methodology. Therefore it was difficult to find out the exact effects of these drugs on patients with OSA. 
+Results 
+We found 14 studies examining the effects of 10 drugs in trials including 293 people.
+Opiates and opioids (treatment of acute and chronic pain)  
+Remifentanil infusion 
+Remifentanil infusion did not significantly change severity of OSA as measured by numbers and duration of pauses in breathing during sleep, but it significantly lowered minimum oxygen levels during the night when compared with placebo. 
+Sedatives and hypnotics  
+'Z drugs' (a treatment for insomnia, inability to fall asleep or inability to maintain sleep)  
+Eszopiclone and zolpidem 
+Eszopiclone did not worsen OSA as measured by the numbers and duration of pauses in breathing during sleep. In one study, it reduced the severity of OSA, and it might be beneficial in treating this condition, although further studies are needed to assess this effect. 
+Zolpidem did not significantly worsen OSA as measured by the numbers and duration of pauses in breathing during sleep, but in one trial, it significantly lowered minimum oxygen levels during the night when compared with placebo. 
+Benzodiazepines (short‐term relief of severe anxiety, behavioural disturbance or agitation and panic disorders)  
+Brotizolam, flurazepam, nitrazepam, temazepam and triazolam 
+None of the drugs examined had significantly worsened OSA as measured by the numbers and duration of pauses in breathing during sleep. In small, single‐night studies, zolpidem 20 mg, flurazepam 20 mg and triazolam 0.25 mg showed a tendency to increase numbers and duration of pauses during sleep, which was not statistically significant, but these drugs significantly lowered minimum oxygen levels during the night when compared with placebo. 
+Sodium oxybate (a treatment for narcolepsy, a condition causing excessive sleepiness during the day)  
+Sodium oxybate was compared with placebo in two trials. Results showed that sodium oxybate did not worsen OSA as measured by the numbers and duration of pauses in breathing during sleep. In one study, sodium oxybate 4.5 g reduced the severity of OSA and might have proved beneficial in treating this condition, although further studies are needed to assess this effect. 
+Melatonin and melatonin‐related drugs  
+Ramelteon (a treatment drug for insomnia) 
+Ramelteon was assessed in older adults, over 60 years of age, with OSA and insomnia and was found not to worsen OSA. 
+Results of this review show that the drugs studied do not worsen the severity of OSA as measured by the numbers and duration of pauses in breathing during sleep, but significant clinical and statistical decreases in minimum oxygen levels during the night were observed with remifentanil, zolpidem and triazolam; therefore prescribing these drugs for patients with OSA still warrants caution. Sodium oxybate 4.5 g and eszopiclone reduced the severity of OSA and might be beneficial in treating this condition; nonetheless further studies are needed to support these results. 
+Bottom line 
+The long‐term effect and potential side effects of sedative drugs in people with OSA need to be assessed in larger, longer and methodologically robust studies. 

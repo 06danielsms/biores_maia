@@ -1,0 +1,33 @@
+Background
+Olanzapine as an antiemetic represents a new use of an antipsychotic drug. People with cancer may experience nausea and vomiting whilst receiving chemotherapy or radiotherapy, or whilst in the palliative phase of illness. 
+Objectives
+To assess the efficacy and safety of olanzapine when used as an antiemetic in the prevention and treatment of nausea and vomiting related to cancer in adults. 
+Search methods
+We searched CENTRAL, MEDLINE and Embase for published data on 20th September 2017, as well as ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform for unpublished trials. We checked reference lists, and contacted experts in the field and study authors. 
+Selection criteria
+We included randomised controlled trials (RCTs) of olanzapine versus any comparator with or without adjunct therapies for the prevention or treatment, or both, of nausea or vomiting in people with cancer aged 18 years or older, in any setting, of any duration, with at least 10 participants per treatment arm. 
+Data collection and analysis
+We used standard Cochrane methodology. We used GRADE to assess quality of evidence for each main outcome. We extracted data for absence of nausea or vomiting and frequency of serious adverse events as primary outcomes. We extracted data for patient perception of treatment, other adverse events, somnolence and fatigue, attrition, nausea or vomiting severity, breakthrough nausea and vomiting, rescue antiemetic use, and nausea and vomiting as secondary outcomes at specified time points. 
+Main results
+We included 14 RCTs (1917 participants) from high‐, middle‐ and low‐income countries, representing over 24 different cancers. Thirteen studies were in chemotherapy‐induced nausea and vomiting. Oral olanzapine was administered during highly emetogenic (HEC) or moderately emetogenic (MEC) chemotherapy (12 studies); chemoradiotherapy (one study); or palliation (one study). Eight studies await classification and 13 are ongoing. 
+The main comparison was olanzapine versus placebo/no treatment. Other comparisons were olanzapine versus NK1 antagonist, prokinetic, 5‐HT3 antagonist or dexamethasone. 
+We assessed all but one study as having one or more domains that were at high risk of bias. Eight RCTs with fewer than 50 participants per treatment arm, and 10 RCTs with issues related to blinding, were at high risk of bias. We downgraded GRADE assessments due to imprecision, inconsistency and study limitations. 
+Olanzapine versus placebo/no treatment 
+Primary outcomes 
+Olanzapine probably doubles the likelihood of no nausea or vomiting during chemotherapy from 25% to 50% (risk ratio (RR) 1.98, 95% confidence interval (CI) 1.59 to 2.47; 561 participants; 3 studies; solid tumours; HEC or MEC therapy; moderate‐quality evidence) when added to standard therapy. Number needed to treat for additional beneficial outcome (NNTB) was 5 (95% CI 3.3 ‐ 6.6). 
+It is uncertain if olanzapine increases the risk of serious adverse events (absolute risk difference 0.7% more, 95% CI 0.2 to 5.2) (RR 2.46, 95% CI 0.48 to 12.55; 7 studies, 889 participants, low‐quality evidence). 
+Secondary outcomes 
+Four studies reported patient perception of treatment. One study (48 participants) reported no difference in patient preference. Four reported quality of life but data were insufficient for meta‐analysis. 
+Olanzapine may increase other adverse events (RR 1.71, 95% CI 0.99 to 2.96; 332 participants; 4 studies; low‐quality evidence) and probably increases somnolence and fatigue compared to no treatment or placebo (RR 2.33, 95% CI 1.30 to 4.18; anticipated absolute risk 8.2% more, 95% CI 1.9 to 18.8; 464 participants; 5 studies; moderate‐quality evidence). Olanzapine probably does not affect all‐cause attrition (RR 0.99, 95% CI 0.57 to 1.73; 943 participants; 8 studies; I² = 0%). We are uncertain if olanzapine increases attrition due to adverse events (RR 3.00, 95% CI 0.13 to 70.16; 422 participants; 6 studies). No participants withdrew due to lack of efficacy. 
+We are uncertain if olanzapine reduces breakthrough nausea and vomiting (RR 0.38, 95% CI 0.10 to 1.47; 501 participants; 2 studies; I² = 54%) compared to placebo or no treatment. No studies reported 50% reduction in severity of nausea or vomiting, use of rescue antiemetics, or attrition. 
+We are uncertain of olanzapine's efficacy in reducing acute nausea or vomiting. Olanzapine probably reduces delayed nausea (RR 1.71, 95% CI 1.40 to 2.09; 585 participants; 3 studies) and vomiting (RR 1.28, 95% CI 1.14 to 1.42; 702 participants; 5 studies). 
+Subgroup analysis: 5 mg versus 10 mg 
+Planned subgroup analyses found that it is unclear if 5 mg is as effective an antiemetic as 10 mg. There is insufficient evidence to exclude the possibility that 5 mg may confer a lower risk of somnolence and fatigue than 10 mg. 
+Other comparisons 
+One study (20 participants) compared olanzapine versus NK1 antagonists. We observed no difference in any reported outcomes. 
+One study (112 participants) compared olanzapine versus a prokinetic (metoclopramide), reporting that olanzapine may increase freedom from overall nausea (RR 2.95, 95% CI 1.73 to 5.02) and overall vomiting (RR 3.03, 95% CI 1.78 to 5.14). 
+One study (62 participants) examined olanzapine versus 5‐HT3 antagonists, reporting olanzapine may increase the likelihood of 50% or greater reduction in nausea or vomiting at 48 hours (RR 1.82, 95% CI 1.11 to 2.97) and 24 hours (RR 1.36, 95% CI 0.80 to 2.34). 
+One study (229 participants) compared olanzapine versus dexamethasone, reporting that olanzapine may reduce overall nausea (RR 1.73, 95% CI 1.37 to 2.18), overall vomiting (RR 1.27, 95% CI 1.10 to 1.48), delayed nausea (RR 1.66, 95% CI 1.33 to 2.08) and delayed vomiting (RR 1.25, 95% CI 1.07 to 1.45). 
+Authors' conclusions
+There is moderate‐quality evidence that oral olanzapine probably increases the likelihood of not being nauseous or vomiting during chemotherapy from 25% to 50% in adults with solid tumours, in addition to standard therapy, compared to placebo or no treatment. There is uncertainty whether it increases serious adverse events. It may increase the likelihood of other adverse events, probably increasing somnolence and fatigue. There is uncertainty about relative benefits and harms of 5 mg versus 10 mg. 
+We identified only RCTs describing oral administration. The findings of this review cannot be extrapolated to provide evidence about the efficacy and safety of any injectable form (intravenous, intramuscular or subcutaneous) of olanzapine. 

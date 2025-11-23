@@ -1,0 +1,15 @@
+Background
+Late trabeculectomy bleb leaks are a common complication after filtering glaucoma surgery. Although asymptomatic, late bleb leaks may lead to hypotony and are associated with bleb related infections. 
+Objectives
+To assess the effects of interventions for late trabeculectomy bleb leak.
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 7), MEDLINE (January 1946 to July 2012), EMBASE (January 1980 to July 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 18 July 2012. 
+Selection criteria
+We included randomised and quasi‐randomised trials in which any treatments for eyes with late bleb leak (interventional and non‐interventional) were compared with each other. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors when additional information was needed. 
+Main results
+The review included one multicentre trial based in the USA with 30 eyes of 30 participants. The trial compared two surgical procedures (conjunctival advancement and amniotic membrane transplant) to cover a filtering bleb leak. Conjunctival advancement has been shown to be more effective in sealing filtering bleb leaks. 
+Authors' conclusions
+Although a variety of treatments have been proposed for bleb leaks, there is no evidence of their comparative effectiveness. 
+The evidence in this review was provided by a single trial that compared two surgical procedures (conjunctival advancement and amniotic membrane transplant). The trial did show a superiority of conjunctival advancement, which was regarded as standard treatment, to amniotic membrane transplantation. There is a need for more randomised trials to validate the findings of this single trial and provide more information on the different types of interventions, especially non‐surgical treatments compared to surgical procedures. We recommend that any intervention should be compared to a standard procedure, which is to date conjunctival advancement. 

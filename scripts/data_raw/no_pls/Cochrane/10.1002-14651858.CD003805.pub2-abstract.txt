@@ -1,0 +1,14 @@
+Background
+Rituximab (R) has been shown to improve response rates and progression free survival when added to chemotherapy in patients with indolent and mantle cell lymphoma. However, the impact of R on overall survival (OS) when given in combination with chemotherapy (R‐chemo) has remained unclear so far. 
+Objectives
+We thus performed a comprehensive systematic review in this group of patients to compare R‐chemo with chemotherapy alone with respect to OS. Other endpoints were overall response rate (ORR), toxicity and disease control as assessed by measures such as time to treatment failure (TTF), event free‐survival (EFS), progression free‐survival (PFS) and time to progression (TTP). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE and conference proceeding from 1990 to 2005. 
+Selection criteria
+Only randomised controlled trials (RCT) comparing R‐chemo with chemotherapy alone in patients with newly diagnosed or relapsed indolent lymphoma and mantle cell lymphoma (MCL) were included. 
+Data collection and analysis
+Two review authors extracted data and assessed the study quality. Number needed to treat (NNT) were calculated to facilitate interpretation. 
+Main results
+Seven randomised controlled trials involving 1943 patients with follicular lymphoma, mantle cell lymphoma, or other indolent lymphomas were included in the meta‐analysis. Five studies were published as full‐text articles, and two were in abstract form. Patients treated with R‐chemo had better overall survival (hazard ratio [HR] for mortality 0.65; 95% confidence interval (CI) 0.54 to 0.78), overall response (relative risk of tumour response 1.21; 95% CI 1.16 to 1.27), and disease control (HR of disease event 0.62; 95% CI 0.55 to 0.71) than patients treated with chemotherapy alone. R‐chemo improved overall survival in patients with follicular lymphoma (HR for mortality 0.63; 95% CI 0.51 to 0.79) and in patients with mantle cell lymphoma (HR for mortality 0.60; 95% CI 0.37 to 0.98). However, in the latter case, there was heterogeneity among the trials (P 0.07), making the survival benefit less reliable. 
+Authors' conclusions
+The systematic review demonstrated improved OS for patients with indolent lymphoma, particularly in the subgroups of follicular and in mantle cell lymphoma when treated with R‐chemo compared to chemotherapy alone. 

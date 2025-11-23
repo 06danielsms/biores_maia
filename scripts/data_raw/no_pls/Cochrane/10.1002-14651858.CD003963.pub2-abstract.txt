@@ -1,0 +1,15 @@
+Background
+Renal replacement therapy (RRT) with dialysis and transplantation is the only means of sustaining life for patients with end‐stage kidney disease (ESKD). Although transplantation is the treatment of choice, the number of donor kidneys are limited and transplants may fail. Hence many patients require long‐term or even life‐long dialysis. Continuous ambulatory peritoneal dialysis (CAPD) is an alternative to hospital or home haemodialysis for patients with ESKD. 
+Objectives
+To assess the benefits and harms of CAPD versus hospital or home haemodialysis for adults with ESKD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL in The Cochrane Library Issue 12, 2011), the Cochrane Renal Group's specialised register (12 January 2012), MEDLINE (1966 to May 2002), EMBASE (1980 to May 2002), BIOSIS, CINAHL, SIGLE and NRR without language restriction. Reference lists of retrieved articles and conference proceedings were searched and known investigators and biomedical companies were contacted. 
+Date of last search: 12 January 2012.
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing CAPD to hospital or home haemodialysis for adults with ESKD were to be included. 
+Data collection and analysis
+Two authors independently assess the methodological quality of studies. Data was abstracted from included studies onto a standard form by one author and checked by another. Statistical analyses were performed using the random‐effects model and the results expressed as risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 
+Main results
+One trial, reported in abstract form only, was located in the most recent search. There was no statistical difference in death or quality adjusted life years score at two years between peritoneal dialysis or haemodialysis patients. 
+Authors' conclusions
+There is Insufficient data to allow conclusions to be drawn about the relative effectiveness of CAPD compared with hospital or home haemodialysis for adults with ESKD. Efforts should be made to start and complete adequately powered RCTs, which compare the different dialysis modalities. 

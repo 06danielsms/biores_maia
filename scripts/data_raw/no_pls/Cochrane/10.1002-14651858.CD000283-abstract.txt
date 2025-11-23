@@ -1,0 +1,14 @@
+Background
+Chest physiotherapy has been used to clear secretions and help lung ventilation in newborns who have needed mechanical ventilation for respiratory problems. However, there are concerns about the safety of some forms of chest physiotherapy. 
+Objectives
+To determine the effects of active chest physiotherapy on infants being extubated from mechanical ventilation for respiratory failure. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. This included searches of electronic databases: Oxford Database of Perinatal Trials; Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2005); MEDLINE (1966 to February 2009); CINAHL (1982 to February 2009); and EMBASE (2006 to February 2009), previous reviews including cross references, abstracts, conferences, symposia proceedings, expert informants and journal hand searching. 
+Selection criteria
+All trials utilising random or quasi‐random patient allocation, in which active chest physiotherapy was compared with non‐active techniques (e.g. positioning and suction alone) or no intervention in the peri‐extubation period. 
+Data collection and analysis
+Assessment of methodological quality and extraction of data for each included trial was undertaken independently by the authors. Subgroup analysis was performed on different treatment frequencies and gestational age less than 32 weeks. Meta‐analysis was conducted using a fixed effects model. Results are presented as relative risk (RR), risk difference (RD) and number needed to treat (NNT) for categorical data and mean difference (MD) for data measured on a continuous scale. All outcomes are reported with the use of 95% confidence intervals. 
+Main results
+In this review of four trials, two of which were carried out 15 and 23 years ago, no clear benefit of peri‐extubation active chest physiotherapy can be seen. Active chest physiotherapy did not significantly reduce the rate of postextubation lobar collapse [typical RR 0.80 (95% CI 0.49,1.29)], though a reduction in the use of reintubation was shown in the overall analysis [typical RR 0.32 (95% CI 0.13,0.82); typical RD ‐7% (95% CI‐13, ‐2); NNT 14 (95% CI 8, 50)]. There is insufficient information to adequately assess important short and longer term outcomes, including adverse effects. 
+Authors' conclusions
+Caution is required when interpreting the possible positive effects of chest physiotherapy of a reduction in the use of reintubation and the trend for decreased post‐extubation atelectasis as the numbers of babies studied are small, the results are not consistent across trials, data on safety are insufficient, and applicability to current practice may be limited. 

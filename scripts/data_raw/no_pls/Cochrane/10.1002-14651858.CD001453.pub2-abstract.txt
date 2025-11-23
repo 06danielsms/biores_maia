@@ -1,0 +1,14 @@
+Background
+Lung disease in preterm infants is often complicated with lung edema.
+Objectives
+To assess the risks and benefits of administration of a diuretic acting on the loop of Henle (loop diuretic) in preterm infants with or developing chronic lung disease (CLD). 
+Search methods
+Standard search method of the Cochrane Neonatal Review Group was used. Initial search included the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2003), MEDLINE (1966 to April 2003), EMBASE (1974 to 1998). In addition, several abstract books of national and international American and European Societies were hand searched. The MEDLINE and the Cochrane Central searches were updated in March 2007 and December 2010.  The EMBASE search was completed in April 2007 and December 2010. Additional searches in CINAHL, clinicaltrials.gov and controlled‐trials.com was completed in December 2010. 
+Selection criteria
+Trials in which preterm infants with or developing chronic lung disease and at least five days of age were all randomly allocated to receive a loop diuretic either enterally or intravenously were included in this analysis. 
+Data collection and analysis
+The standard method for the Cochrane Collaboration described in the Cochrane Collaboration Handbook were used. Two investigators extracted, assessed and coded separately all data for each study. Parallel and cross‐over trials were combined and, whenever possible, transformed baseline and final outcome data measured on a continuous scale into change scores using Follmann's formula. 
+Main results
+The only loop diuretic used in the six studies that met the selection criteria was furosemide. Most studies focused on pathophysiological parameters and did not assess effects on important clinical outcomes defined in this review, or the potential complications of diuretic therapy.  In preterm infants < 3 weeks of age developing CLD, furosemide administration has either inconsistent effects or no detectable effect.   In infants > 3 weeks of age with CLD, a single intravenous dose of 1 mg/kg of furosemide improves lung compliance and airway resistance for one hour. Chronic administration of furosemide improves both oxygenation and lung compliance. 
+Authors' conclusions
+In view of the lack of data from randomized trials concerning effects on important clinical outcomes, routine or sustained use of systemic loop diuretics in infants with (or developing) CLD cannot be recommended based on current evidence.   Randomized trials are needed to assess the effects of furosemide administration on survival, duration of ventilatory support and oxygen administration, length of hospital stay, potential complications and long‐term outcome. 

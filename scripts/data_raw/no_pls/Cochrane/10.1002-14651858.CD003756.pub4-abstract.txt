@@ -1,0 +1,19 @@
+Background
+In malaria endemic areas, pre‐school children are at high risk of severe and repeated malaria illness. One possible public health strategy, known as Intermittent Preventive Treatment in children (IPTc), is to treat all children for malaria at regular intervals during the transmission season, regardless of whether they are infected or not. 
+Objectives
+To evaluate the effects of IPTc to prevent malaria in preschool children living in endemic areas with seasonal malaria transmission. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (July 2011), CENTRAL (The Cochrane Library 2011, Issue 6), MEDLINE (1966 to July 2011), EMBASE (1974 to July 2011), LILACS (1982 to July 2011), mRCT (July 2011), and reference lists of identified trials. We also contacted researchers working in the field for unpublished and ongoing trials. 
+Selection criteria
+Individually randomized and cluster‐randomized controlled trials of full therapeutic dose of antimalarial or antimalarial drug combinations given at regular intervals compared with placebo or no preventive treatment in children aged six years or less living in an area with seasonal malaria transmission. 
+Data collection and analysis
+Two authors independently assessed eligibility, extracted data and assessed the risk of bias in the trials. Data were meta‐analysed and measures of effects (ie rate ratio, risk ratio and mean difference) are presented with 95% confidence intervals (CIs). The quality of evidence was assessed using the GRADE methods. 
+Main results
+Seven trials (12,589 participants), including one cluster‐randomized trial, met the inclusion criteria. All were conducted in West Africa, and six of seven trials were restricted to children aged less than 5 years. 
+IPTc prevents approximately three quarters of all clinical malaria episodes (rate ratio 0.26; 95% CI 0.17 to 0.38; 9321 participants, six trials, high quality evidence), and a similar proportion of severe malaria episodes (rate ratio 0.27, 95% CI 0.10 to 0.76; 5964 participants, two trials, high quality evidence). These effects remain present even where insecticide treated net (ITN) usage is high (two trials, 5964 participants, high quality evidence). 
+IPTc probably produces a small reduction in all‐cause mortality consistent with the effect on severe malaria, but the trials were underpowered to reach statistical significance (risk ratio 0.66, 95% CI 0.31 to 1.39, moderate quality evidence). 
+The effect on anaemia varied between studies, but the risk of moderately severe anaemia is probably lower with IPTc (risk ratio 0.71, 95% CI 0.52 to 0.98; 8805 participants, five trials, moderate quality evidence). 
+Serious drug‐related adverse events, if they occur, are probably rare, with none reported in the six trials (9533 participants, six trials, moderate quality evidence). Amodiaquine plus sulphadoxine‐pyrimethamine is the most studied drug combination for seasonal chemoprevention. Although effective, it causes increased vomiting in this age‐group (risk ratio 2.78, 95% CI 2.31 to 3.35; two trials, 3544 participants, high quality evidence). 
+When antimalarial IPTc was stopped, no rebound increase in malaria was observed in the three trials which continued follow‐up for one season after IPTc. 
+Authors' conclusions
+In areas with seasonal malaria transmission, giving antimalarial drugs to preschool children (age < 6 years) as IPTc during the malaria transmission season markedly reduces episodes of clinical malaria, including severe malaria. This benefit occurs even in areas where insecticide treated net usage is high. 

@@ -1,0 +1,16 @@
+Background
+Handwashing is important to reduce the spread and transmission of infectious disease. Ash, the residue from stoves and fires, is a material used for cleaning hands in settings where soap is not widely available. 
+Objectives
+To assess the benefits and harms of hand cleaning with ash compared with hand cleaning using soap or other materials for reducing the spread of viral and bacterial infections. 
+Search methods
+On 26 March 2020 we searched CENTRAL, MEDLINE, Embase, WHO Global Index Medicus, and the WHO International Clinical Trials Registry Platform. 
+Selection criteria
+We included all types of studies, in any population, that examined hand cleaning with ash compared to hand cleaning with any other material. 
+Data collection and analysis
+Two review authors independently screened titles and full texts, and one review author extracted outcome data and assessed risk of bias, which another review author double‐checked. We used the ROBINS‐I tool for observational studies, we used RoB 2.0 for three interventional studies, and we used GRADE to assess the certainty of the evidence. We planned to synthesise data with random‐effects meta‐analyses. Our prespecified outcome measures were overall mortality, number of cases of infections (as defined in the individual studies), severity of infectious disease, harms (as reported in the individual studies), and adherence. 
+Main results
+We included 14 studies described in 19 records using eight different study designs, but only one randomised trial. The studies were primarily conducted in rural settings in low‐ and lower‐middle‐income countries. Six studies reported outcome data relevant to our review. 
+A retrospective case‐control study and a cohort study assessed diarrhoea in children under the age of five years and self‐reported reproductive tract symptoms in women, respectively. It was very uncertain whether the rate of hospital contacts for moderate‐to‐severe diarrhoea in children differed between households that cleaned hands using ash compared with households cleaning hands using soap (RR 0.97, 95% CI 0.84 to 1.11; very low‐certainty evidence). Similarly, it was very uncertain whether the rate of women experiencing symptoms of reproductive tract infection differed between women cleaning hands with ash compared with cleaning hands using soap (RR 0.48, 95% CI 0.12 to 1.86; very low‐certainty evidence) or when compared with handwashing with water only or not washing hands (RR 0.50, 95% CI 0.13 to 1.96; very low‐certainty evidence). 
+Four studies reported on bacteriological counts after hand wash. We rated all four studies at high risk of bias, and we did not synthesise data due to methodological heterogeneity and unclear outcome reporting. 
+Authors' conclusions
+Based on the available evidence, the benefits and harms of hand cleaning with ash compared with soap or other materials for reducing the spread of viral or bacterial infections are uncertain. 

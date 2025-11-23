@@ -1,0 +1,15 @@
+Interventions for preventing falls in Parkinson's disease
+Review Question 
+In this review we assessed the evidence on the effect of interventions designed to reduce falls in people with Parkinson’s disease (PD). The interventions included exercise, medication, fall‐prevention education and exercise plus education combined. We excluded interventions that aimed to reduce falls due to syncope (e.g. dizziness and fainting). The evidence in this review is current to 16 July 2020. 
+Background 
+In people with PD, the emergence of frequent falls is one of the most serious disease milestones. Information about effective fall‐prevention strategies will aid the implementation of fall‐prevention interventions. 
+Study characteristics 
+We included 32 randomised controlled trials with 3370 participants. Of these, 25 studies with 2700 participants were exercise trials. Three studies with 242 participants were medication trials. One study with 53 participants was an education trial. Three studies with 375 participants were exercise plus education trials. Overall, the exercise and exercise plus education studies included people with mild to moderate PD. 
+Key results 
+Twelve studies compared exercise with a control intervention not thought to reduce falls. Exercise probably reduces the number of falls by around 26%. Exercise probably slightly reduces the number of people experiencing one or more falls by around 10%.  Exercise may slightly improve health‐related quality of life immediately after the exercise program. However, we are uncertain if it reduces the number of fall‐related fractures, if it has an effect on the number of adverse events or if it is a cost‐effective intervention for fall prevention. 
+Three studies compared a cholinesterase inhibitor (either rivastigmine or donepezil) with placebo medication (an inactive treatment) and found that this medication may reduce the rate of falls by around 50%. However, the effect of this medication on the number of people experiencing one or more falls, and on health‐related quality of life was uncertain. Cholinesterase inhibitor medication may increase the number of non fall related adverse events by around 60%. There was no information about the cost‐effectiveness of medication for fall prevention. 
+One study compared education alone and three studies compared exercise plus education with a control group. Exercise plus education may make little or no difference to the number of people experiencing one or more falls. However, we are uncertain of the effects of these interventions on the other fall and non‐fall outcomes. 
+Certainty of the evidence 
+All studies had high or unclear risk of bias in at least one area. This could have influenced how the studies were conducted and how the outcomes were assessed. 
+For the exercise interventions, the certainty of the evidence for the rate of falls and the number of people experiencing one or more falls was moderate. The certainty of the evidence was low or very low for all other outcomes. 
+For medication, the education and the exercise plus education interventions, the certainty of the evidence was low to very low for all outcomes. 

@@ -1,0 +1,24 @@
+```STUDY RESULTS
+
+Answer to the main question:
+Did 24 weeks of treatment lower the patients' LDH level?
+
+LDH levels show how much hemolysis is happening in the body. LDH levels are measured by a blood test as enzyme unit per liter, also called U/L. The normal level of LDH is 234 U/L or lower. Ravulizumab aims to prevent hemolysis. If the treatment is working and preventing hemolysis, then the patient's LDH level should fall back to a normal range.
+
+The diagram below shows the average LDH level for patients in each group before and at the end of ravulizumab treatment. The average reduction in LDH level in each group is shown as a percentage.
+
+GROUP 1       GROUP 2
+Day 1        1710 U/L      1533 U/L
+             86%            85%
+Day 169      232 U/L       228 U/L
+
+This study found that both doses of ravulizumab lowered the patients' LDH level during 24 weeks of treatment.
+
+Answers to the other important questions:
+Did ravulizumab have an effect on the patients' red blood cells?
+
+During the study, the researchers took several blood samples from each patient and performed specific tests. These tests helped the researchers understand more about red blood cells, blood clotting, and specific blood proteins in patients with PNH.
+
+The results from these specific tests confirmed that ravulizumab helped to reduce hemolysis.
+
+-```

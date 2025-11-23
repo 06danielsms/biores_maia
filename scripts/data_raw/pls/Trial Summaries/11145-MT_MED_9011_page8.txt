@@ -1,0 +1,30 @@
+What were the results of this study?
+This is a summary of the main results from this study overall. The results each
+participant had might be different and are not in this summary. A full list of the
+questions that researchers wanted to answer can be found on the websites listed
+at the end of this summary. When a full report of the study results is available, it
+can also be found on these websites.
+Researchers look at the results of many studies to decide which treatments work
+best and are safest. Other studies may provide new information or different
+results. Always talk to a doctor before making any treatment changes.
+How many participants’ tumors disappeared or shrank after receiving
+AZD4635 with durvalumab or with oleclumab?
+Overall, the researchers found that after receiving AZD4635 with durvalumab:
+- 1 out of 20 participants had their tumors disappear. This was 5.0% of participants.
+- None of the other participants’ tumors shrank.
+Overall, the researchers found that after receiving AZD4635 with oleclumab:
+- None of the participants’ tumors disappeared.
+- None of the participants’ tumors shrank.
+To answer this question, the study doctors took pictures of the participants’ tumors
+using different types of scans. Then, the study doctors measured the size of the
+participants’ tumors before they received study treatment and throughout the
+study. To do this, they used a set of rules commonly used in cancer clinical studies
+called Response Evaluation Criteria in Solid Tumors, also called “RECIST”.
+The researchers calculated the percentage of participants whose tumors
+disappeared or shrank. This percentage of participants needed to be at least
+25.0% for the researchers to decide that AZD4635 with durvalumab or with
+oleclumab worked in a meaningful way.
+Only some of the participants from each group met the RECIST rules and were
+able to be included in this calculation. There were 20 out of 29 participants
+who received AZD4635 with durvalumab that were included, and 21 out of 30
+participants who received AZD4635 with oleclumab that were included.

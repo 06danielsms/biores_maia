@@ -1,0 +1,14 @@
+Background
+Surgical wound infections may be caused by the transfer of bacteria from the hands of surgical teams to patients during operations. Surgical scrubbing prior to surgery reduces the number of bacteria on the skin, but wearing rings and nail polish on the fingers may reduce the efficacy of scrubbing, as bacteria may remain in microscopic imperfections of nail polish and on the skin beneath rings. 
+Objectives
+To assess the effect of the presence or absence of rings and nail polish on the hands of the surgical scrub team on postoperative wound infection rates. 
+Search methods
+For this fifth update, we searched The Cochrane Wounds Group Specialised Register (searched 23 July 2014); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE and EBSCO CINAHL. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating the effect of wearing or removing finger rings and nail polish on the efficacy of the surgical scrub and postoperative wound infection rate. 
+Data collection and analysis
+All abstracts were checked against a checklist to determine whether they fulfilled the inclusion criteria. Full reports of relevant studies were obtained. Excluded trial reports were checked by all review authors to ensure appropriate exclusion. 
+Main results
+We identified: no new trials; no RCTs that compared wearing of rings with the removal of rings; and no trials of nail polish versus no nail polish that measured surgical infection rates.  We found one small RCT (102 scrub nurses) that evaluated the effect of nail polish on the number of bacterial colony forming units left on hands after pre‐operative surgical scrubbing. Nurses had either unpolished nails, freshly‐applied nail polish (less than two days old), or old nail polish (more than four days old). There were no significant differences in the number of bacteria on hands between the groups before and after surgical scrubbing. 
+Authors' conclusions
+No trials have investigated whether wearing nail polish or finger rings affects the rate of surgical wound infection. There is insufficient evidence to determine whether wearing nail polish affects the number of bacteria on the skin post‐scrub. 

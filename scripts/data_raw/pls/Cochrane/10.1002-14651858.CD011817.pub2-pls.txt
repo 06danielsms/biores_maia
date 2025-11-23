@@ -1,0 +1,48 @@
+How accurate are tests to measure the level of ferritin (a protein that stores iron) in the blood at diagnosing iron deficiency and overload? 
+Key messages 
+‐ Tests that measure the level of ferritin in the blood may be reasonably accurate for diagnosing iron deficiency (low iron levels) in people: 
+‐ seeking medical care; and
+‐ whose doctors suspect iron deficiency.
+‐ The accuracy of ferritin blood tests for diagnosing iron overload (high iron levels) is unclear, due to a lack of robust evidence. 
+‐ To strengthen the evidence, we need future studies to:
+‐ investigate a wider range of populations; and
+‐ identify the levels of ferritin in the blood that are the best indicators of iron deficiency and overload. 
+Why is it important to diagnose iron deficiency and overload? 
+Iron is a mineral found in every cell of the body. It comes from iron‐rich foods like red meat, beans and fortified cereal (to which iron has been added artificially), among others, or from supplements (iron tablets, micronutrient powders, drops or syrups). The body needs iron to make: 
+‐ red blood cells; and
+‐ haemoglobin, a protein in blood that carries oxygen from the lungs to the rest of the body. 
+An iron test can show if someone has too little iron (iron deficiency) or too much iron (iron overload). It is important to test iron levels because: 
+‐ iron deficiency can cause anaemia (low levels of red blood cells or haemoglobin), tiredness and weakness. It can be a sign that someone has a serious health problem, such as internal bleeding; while 
+‐ iron overload can damage the liver, heart and other organs permanently.
+What tests can be used to diagnose iron deficiency and overload? 
+There are several different tests available to check the level of iron in the body. The most accurate tests involve using a needle to collect a small sample of: 
+‐ bone marrow fluid (to diagnose iron deficiency); or
+‐ tissue from the liver (to diagnose iron overload).
+However, these tests are expensive and can be risky for people in poor health.
+A simpler test involves measuring the level of ferritin (a protein that stores iron) in the blood, to estimate the amount of iron in the body. 
+What did we want to find out? 
+We wanted to find out if ferritin blood tests accurately diagnose iron deficiency and iron overload. 
+What did we do? 
+We searched for studies that compared ferritin blood tests against:
+‐ tests of iron levels in the bone marrow, to diagnose iron deficiency; and
+‐ tests of iron levels in the liver, to diagnose iron overload.
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors like study methods and sizes. 
+What did we find? 
+We included 72 studies of 6059 people investigating the ability of ferritin blood tests to diagnose: 
+‐ iron deficiency in people who sought medical care and whose doctor suspected iron deficiency (70 studies, 5709 people); 
+‐ iron deficiency in people without any sign of disease (five studies, 350 people); and 
+‐ iron overload suspected by a doctor (36 studies, 1927 people).
+Evidence suggests that ferritin blood tests may be reasonably accurate for diagnosing iron deficiency in people seeking medical care. For example, in studies where people with fewer than 30 micrograms of ferritin in one litre of blood were diagnosed with iron deficiency, ferritin blood tests correctly identified: 
+‐ iron deficiency in four out of five people who did have iron deficiency; and
+‐ no iron deficiency in 19 out of 20 people who had normal levels of iron.
+The evidence was not robust enough to determine if ferritin blood tests accurately diagnose: 
+‐ iron deficiency in people without any sign of disease; or
+‐ iron overload suspected by a doctor.
+What are the limitations of the evidence? 
+The studies were:
+‐ small;
+‐ conducted in ways that may have introduced errors into their results; and
+‐ focused on specific populations (like children, young people and pregnant women).
+For these reasons, we have limited confidence in the evidence.
+How up‐to‐date is this evidence? 
+The evidence is up‐to‐date to June 2020.

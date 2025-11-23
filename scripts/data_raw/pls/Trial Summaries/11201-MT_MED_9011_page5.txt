@@ -1,0 +1,28 @@
+Clinical Study Results
+Average total amount of AZD5718 over time
+
+The average total amount of AZD5718 over time was measured in units called nmol/L per hour, also known as h•nmol/L. The researchers found that the average total amount of AZD5718 in the blood over time after each dose was:
+
+- 129.6 h•nmol/L when the participants took dose 1 of AZD5718
+- 392.7 h•nmol/L when the participants took dose 2 of AZD5718
+- 1362.0 h•nmol/L when the participants took dose 3 of AZD5718
+
+The results for dose 1 of AZD5718 here include only 12 out of the 14 participants. This was because for 2 participants, the amount of AZD5718 in the blood was too low to be measured.
+
+Average total amount of AZD5718 in the participants’ blood over time
+
+1800
+1600  
+1400  
+1200  
+1000  
+800   
+600  
+400  
+200  
+0 
+
+- AZD5718   dose 1 
+- AZD5718   dose 2
+- 8175DZA   dose 3
+

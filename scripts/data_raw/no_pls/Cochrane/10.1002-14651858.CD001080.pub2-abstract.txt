@@ -1,0 +1,15 @@
+Background
+Lendrum 1955 suggested that pulmonary edema secondary to congestive heart failure may contribute to neonatal respiratory distress syndrome (RDS). Based on this hypothesis, investigators began to use digitalis glycosides to improve myocardial contractility and decrease congestive heart failure. The first use of digitalis glycosides in infants with RDS was reported by Stahlman 1959. Stahlman reported a reduction in mortality in an uncontrolled trial of digitalis in infants with RDS. 
+Objectives
+To assess the effect of digoxin on mortality in premature infants at risk for or with RDS. 
+Search methods
+Searches were made of the Oxford Database of Perinatal Trials, Medline (MeSH terms: digoxin; limits: age groups, newborn infants; publication type, clinical trial), previous reviews including cross references, abstracts, conference and symposia proceedings, expert informants, and journal handsearching in the English language. 
+When updated in December 2008, the search was expanded to include Medline, CINHAL, and Embase (MeSH terms and text words: digoxin or digitalis; limits: age group, all infants; publication type: clinical trial). 
+Selection criteria
+Randomized and quazi‐randomized controlled trials of digoxin in either the prevention or treatment of RDS are included in this overview. 
+Data collection and analysis
+Data regarding clinical outcomes were excerpted from the trial reports by one review author (RS) and checked by the second review author (EO). Data were analyzed according to the standards of the Cochrane Neonatal Review Group. 
+Main results
+Two randomized controlled trials have studied the effects of digoxin in the prevention and treatment of RDS. No improvement in respiratory status or mortality was noted. Meta‐analysis of the effect of digoxin given to infants at risk of or with RDS on mortality does not suggest any benefit of digoxin treatment (typical relative risk 1.27 95% CI 0.78 to 2.07; typical risk difference 0.06, 95% CI ‐0.06 to 0.17). 
+Authors' conclusions
+Although hemodynamic disturbances play a role in the overall pathogenesis of respiratory distress syndrome, the specific contribution of early congestive heart failure (unrelated to hemodynamically significant patent ductus arteriosus) does not appear to be a significant factor in RDS. Treatment with digoxin has no proven value in infants solely affected with RDS. 

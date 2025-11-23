@@ -1,0 +1,14 @@
+Background
+The prevention of varicella (chickenpox) using live attenuated varicella vaccines has been demonstrated both in randomised controlled trials (RCTs) and in population‐based immunisation programmes in countries such as the United States and Australia. Many countries do not routinely immunise children against varicella and exposures continue to occur. Although the disease is often mild, complications such as secondary bacterial infection, pneumonitis and encephalitis occur in about 1% of cases, usually leading to hospitalisation. The use of varicella vaccine in persons who have recently been exposed to the varicella zoster virus has been studied as a form of post‐exposure prophylaxis (PEP). 
+Objectives
+To assess the efficacy and safety of vaccines for use as PEP for the prevention of varicella in children and adults. 
+Search methods
+We searched CENTRAL (2014, Issue 1), MEDLINE (1966 to March week 1, 2014), EMBASE (January 1990 to March 2014) and LILACS (1982 to March 2014). We searched for unpublished trials registered on the clinicaltrials.gov and WHO ICTRP websites. 
+Selection criteria
+RCTs and quasi‐RCTs of varicella vaccine for PEP compared with placebo or no intervention. The outcome measures were efficacy in prevention of clinical cases and/or laboratory‐confirmed clinical cases and adverse events following vaccination. 
+Data collection and analysis
+Two review authors independently extracted and analysed data using Review Manager software. 
+Main results
+We identified three trials involving 110 healthy children who were siblings of household contacts. The included trials varied in study quality, vaccine used, length of follow‐up and outcomes measured and, as such, were not suitable for meta‐analysis. We identified high or unclear risk of bias in two of the three included studies. Overall, 13 out of 56 vaccine recipients (23%) developed varicella compared with 42 out of 54 placebo (or no vaccine) recipients (78%). Of the vaccine recipients who developed varicella, the majority only had mild disease (with fewer than 50 skin lesions). In the three trials, most participants received PEP within three days following exposure; too few participants were vaccinated four to five days post‐exposure to ascertain the efficacy of vaccine given more than three days after exposure. No included trial reported on adverse events following immunisation. 
+Authors' conclusions
+These small trials suggest varicella vaccine administered within three days to children following household contact with a varicella case reduces infection rates and severity of cases. We identified no RCTs for adolescents or adults. Safety was not adequately addressed. 

@@ -1,0 +1,15 @@
+Background
+The insertion of a lumbar puncture needle or epidural catheter may be associated with peri‐ and post‐procedural bleeding. People who require this procedure may have disorders of coagulation as a result of their underlying illness, co‐morbidities or the effects of treatment. Clinical practice in some institutions is to mitigate the risk of bleeding in these patients by prophylactically transfusing plasma in order to correct clotting factor deficiencies prior to the procedure. However, plasma transfusion is not without risk, and it remains unclear whether this intervention is associated with reduced rates of bleeding or other clinically‐meaningful outcomes. 
+Objectives
+To assess the effect of different prophylactic plasma transfusion regimens prior to insertion of a lumbar puncture needle or epidural catheter in people with abnormal coagulation. 
+Search methods
+We searched for randomised controlled trials (RCTs), non‐randomised controlled trials (non‐RCT) and controlled before‐after studies (CBAs) in CENTRAL (the Cochrane Library 2016, Issue 11), MEDLINE (from 1946), Embase (from 1974), CINAHL (from 1937), the Transfusion Evidence Library (from 1950), and five other electronic databases as well as ClinicalTrials.gov and World Health Organization International Clinical Trials Registry Platform (ICTRP) for ongoing trials to 9 January 2017. 
+Selection criteria
+We planned to include RCTs, non‐RCTs, and CBAs involving transfusions of plasma given to prevent bleeding in people of any age with a coagulopathy requiring insertion of a lumbar puncture needle or epidural catheter. If identified, we would have excluded uncontrolled studies, cross‐sectional studies and case‐control studies. We would only have included cluster‐RCTs, non‐randomised cluster trials, and CBAs with at least two intervention sites and two control sites. In studies with only one intervention or control site, the intervention (or comparison) is completely confounded by study site making it difficult to attribute any observed differences to the intervention rather than to other site‐specific variables. 
+We planned to exclude people with haemophilia as they should be treated with the appropriate factor concentrate. We also planned to exclude people on warfarin as guidelines recommend the use of prothrombin complex concentrate for emergency reversal of warfarin. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We identified no completed or ongoing RCTs, non‐RCTs, or CBAs.
+Authors' conclusions
+There is no evidence from RCTs, non‐RCTs, and CBAs to determine whether plasma transfusions are required prior to insertion of a lumbar puncture needle or epidural catheter, and, if plasma transfusions are required, what is the degree of coagulopathy at which they should be given. We would need to design a study with at least 47,030 participants to be able to detect an increase in the number of people who had bleeding after lumbar puncture or epidural anaesthetic from 1 in 1000 to 2 in 1000. 

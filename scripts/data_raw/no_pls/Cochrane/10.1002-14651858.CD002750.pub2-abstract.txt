@@ -1,0 +1,18 @@
+Background
+This is an updated version of the original Cochrane review published in The Cochrane Library 2001, Issue 4. 
+Nearly a third of people with epilepsy do not have their seizures controlled with current treatments. Continuous attempts have been made to find new antiepileptic drugs based on increasing knowledge of the cellular and molecular biology involved in the genesis of epilepsy and seizures. Therefore, calcium antagonists that can alter the effects of calcium on brain cells have been investigated for their effect on epileptic seizures. 
+Objectives
+To evaluate the effects of calcium antagonists when used as an add‐on therapy for people with drug‐resistant epilepsy. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register (29 January 2013), Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 12), MEDLINE (1948 to 29 January 2013) and SCOPUS (all years to 29 January 2013). 
+Selection criteria
+Randomised placebo‐controlled or active‐controlled add‐on trials of any calcium antagonist in people with drug‐resistant epilepsy. 
+Data collection and analysis
+Two review authors (MH and JP) independently selected trials for inclusion and extracted data. Outcomes investigated included 50% or greater reduction in seizure frequency, treatment withdrawal, adverse effects, cognition and quality of life. Analyses were by intention to treat. 
+Main results
+Eleven trials were included with a total of 424 participants, one parallel‐group and seven cross‐over trials of flunarizine, two cross‐over trials of nimodipine and one cross‐over trial of nifedipine. 
+For flunarizine, the risk ratio (RR) with 95% confidence interval (CI) for a 50% or greater reduction in seizure frequency in a single parallel trial was 1.53 (95% CI 0.59 to 3.96) indicating a non‐significant advantage of flunarizine. We were unable to acquire data for this outcome from the other seven cross‐over trials. The overall RR for treatment withdrawal of flunarizine was 7.11 (95% CI 1.73 to 29.30) indicating individuals were significantly more likely to have flunarizine withdrawn than placebo. No adverse effects were associated statistically with flunarizine. 
+For nifedipine, we were unable to acquire the data we required for our specified outcomes.
+For nimodipine, we had data only from the first treatment period from one of the two cross‐over trials (17 participants). The RR for a 50% or greater reduction in seizure frequency was 7.78 (99% CI 0.46 to 130.88) and for treatment withdrawal the RR was 2.25 (99% CI 0.25 to 20.38). 
+Authors' conclusions
+Flunarizine may have a weak effect on seizure frequency but had a significant withdrawal rate, probably due to adverse effects, and should not be recommended for use as an add‐on treatment. Similarly, there is no convincing evidence to support the use of nifedipine or nimodipine as add‐on treatments for epilepsy. 

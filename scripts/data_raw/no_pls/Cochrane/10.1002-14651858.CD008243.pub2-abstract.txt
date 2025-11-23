@@ -1,0 +1,15 @@
+Background
+Percutaneous long lines (long intravenous lines) and short intravenous lines (also termed cannulae) are both used to deliver intravenous antibiotics in cystic fibrosis to treat respiratory exacerbations of the disease. The perceived advantage of a long intravenous line is a greater duration of line function, which has to be balanced against a technically more challenging insertion procedure, and the possibility of more discomfort on insertion. 
+Objectives
+To compare long intravenous lines with short intravenous lines in people with cystic fibrosis receiving intravenous antibiotics, in terms of lifespan of the line, ease of insertion, complication rates of the line and patient satisfaction. This will help patients and clinicians choose between devices. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Date of most recent search: 26 August 2010.
+Selection criteria
+Randomised studies comparing long intravenous lines lines with short intravenous lines or comparing different types of long intravenous lines. 
+Data collection and analysis
+We identified two studies, one comparing long intravenous lines with short intravenous lines, and one comparing two different types of long intravenous lines. 
+Main results
+Two studies (67 participants) were included in the review. Based on the published reports, both studies had potential for bias in several domains. There is some evidence that long intravenous lines are superior to short intravenous lines. One study of 20 participants found that the lifespan of a long intravenous line is longer than that of a short intravenous line, and that participants preferred the long intravenous lines to short intravenous lines. A further study of 47 participants found no difference in lifespan, or participant preference when comparing two different long intravenous lines (the Hydrocath and Vygon EC). Neither study was powered to detect differences in serious complications of the devices. 
+Authors' conclusions
+There is some evidence to support the use of long intravenous lines rather than short intravenous lines, in terms of lifespan of the line and patient satisfaction. There is no evidence to suggest that any one type of long intravenous line is superior, and currently choice of line should be determined by operator and patient preference. There are numerous devices available which are used in cystic fibrosis. Further research is required to identify clinically important differences between these devices. 

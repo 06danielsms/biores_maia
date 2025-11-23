@@ -1,0 +1,14 @@
+Background
+Of the many psychiatric symptoms that may result from brain injury, agitation and/or aggression are often the most troublesome. It is therefore important to evaluate the efficacy of psychotropic medication used in its management. 
+Objectives
+To evaluate the effects of drugs for agitation and/or aggression following acquired brain injury (ABI). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and other electronic databases. We also searched the reference lists of included studies and recent reviews. In addition we handsearched the journals Brain Injury and the Journal of Head Trauma Rehabilitation. There were no language restrictions. The searches were last updated in June 2006. 
+Selection criteria
+Randomised controlled trials (RCTs) that evaluated the efficacy of drugs acting on the central nervous system for agitation and/or aggression, secondary to ABI, in participants over 10 years of age. 
+Data collection and analysis
+We independently extracted data and assessed trial quality. Studies of patients within six months after brain injury and/or in a confusional state, were distinguished from those of patients more than six months post‐injury, or who were not confused. 
+Main results
+Six RCTs were identified and included in this review. Four of theses evaluated the beta‐blockers, propranolol and pindolol, one evaluated the central nervous system stimulant, methylphenidate and one evaluated amantadine, a drug normally used in parkinsonism and related disorders. The best evidence of effectiveness in the management of agitation and/or aggression following ABI was for beta‐blockers. Two RCTs found propranolol to be effective (one study early and one late after injury). However, these studies used relatively small numbers, have not been replicated, used large doses, and did not use a global outcome measure or long‐term follow‐up. Comparing early agitation to late aggression, there was no evidence for a differential drug response. Firm evidence that carbamazepine or valproate is effective in the management of agitation and/or aggression following ABI is lacking. 
+Authors' conclusions
+Numerous drugs have been tried in the management of aggression in ABI but without firm evidence of their efficacy. It is therefore important to choose drugs with few side effects and to monitor their effect. Beta‐blockers have the best evidence for efficacy and deserve more attention. The lack of evidence highlights the need for better evaluations of drugs for this important problem. 

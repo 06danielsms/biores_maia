@@ -1,0 +1,17 @@
+Background
+About 5% of women experience severe symptoms called premenstrual syndrome (PMS), only in the two weeks before their menstrual periods. Treatment with progesterone may restore a deficiency, balance menstrual hormone levels or reduce effects of falling progesterone levels on the brain or on electrolytes in the blood. 
+Objectives
+The objectives were to determine if progesterone has been found to be an effective treatment for all or some premenstrual symptoms and if adverse events associated with this treatment have been reported. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group's Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and PsycINFO to February 2011. We contacted pharmaceutical companies for information about unpublished trials, for the first version of this review. 
+The search strings are in Appendix 2.
+Selection criteria
+We included randomised double‐blind, placebo‐controlled trials of progesterone on women with PMS diagnosed by at least two prospective cycles, without current psychiatric disorder. 
+Data collection and analysis
+Two reviewers (BM and OF) extracted data independently and decided which trials to include. OF wrote to trial investigators for missing data. 
+Main results
+From 17 studies, only two met our inclusion criteria. Together they had 280 participants aged between 18 and 45 years. One hundred and fifteen yielded analysable results. Both studies measured symptom severity using subjective scales. Differing in design, participants, dose of progesterone and how delivered, the studies could not be combined in meta‐analysis. 
+Adverse events which may or may not have been side effects of the treatment were described as mild. 
+Both trials had defects. They intended to exclude women whose symptoms continued after their periods. When data from ineligible women were excluded from analysis in one trial, the other women were found to have benefited more from progesterone than placebo. The smaller study found no statistically significant difference between oral progesterone, vaginally absorbed progesterone and placebo, but reported outcomes incompletely. 
+Authors' conclusions
+The trials did not show that progesterone is an effective treatment for PMS nor that it is not. Neither trial distinguished a subgroup of women who benefited, nor examined claimed success with high doses. 

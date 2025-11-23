@@ -1,0 +1,14 @@
+Intravenous or inhalational anaesthesia for abdominal surgery assisted by a computerized surgical robot 
+This review assessed anaesthesia provided for computerized robotic assisted surgery in the abdomen via the veins or by breathing into the lungs (inhalation). 
+Review question 
+What are the advantages and disadvantages of using anaesthesia delivered via the veins compared with anaesthesia delivered by the lungs for robotic assisted abdominal surgery with a focus on managing pain, nausea and vomiting, adverse effects and associated costs? 
+Background 
+Computerized robotic assisted surgery in the abdomen is associated with reduced bleeding and less surgical trauma because incisions are small. With rapidly increasing use of computerized robotic assisted surgery has come the need to re‐evaluate the two main types of anaesthesia administration. Robotic surgery demands different positioning of the patient during the procedure and introduction of carbon dioxide gas into the abdominal cavity to create a better overview. These factors may affect the functioning heart and lungs and may alter pressure in the brain and in the eyes, with accompanying risk of adverse effects. 
+Study characteristics 
+The evidence is current to May 2016 and was provided by three small randomized controlled trials involving 170 males who had their prostate removed. These studies took place in hospitals in Korea and Turkey. We looked for differences in pain and postoperative nausea and vomiting (PONV) and changes in pressure inside the eyes between patients receiving anaesthetic via the veins or by inhalation. 
+Study funding sources 
+Studies were funded by the institution, or the funding sources were not stated.
+Key results 
+Postoperative pain was no different between the two types of anaesthesia. Anaesthesia delivered through the veins reduced PONV at one to six hours after prostate surgery compared with anaesthesia provided via inhalation. One study showed that anaesthesia delivered through the veins prevented an increase in pressure inside the eyes during surgery compared with inhalational anaesthesia. We cannot conclude whether this means that anaesthesia provided via the veins reduces ocular complications, as no patients in this small study developed these complications. 
+Quality of the evidence 
+The quality of the evidence was considered low, as included studies were small and provided an unclear description of methods. All participants in these studies were men who were undergoing robotic assisted laparoscopic removal of the prostate. An ongoing trial includes men and women undergoing abdominal robotic surgery, also with a focus on the quality of recovery. Additional studies are needed. 

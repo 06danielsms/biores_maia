@@ -1,0 +1,35 @@
+What treatments work best for frostbite injuries?
+What is frostbite? 
+Frostbite is an injury to skin and the tissues beneath that is caused by exposure of the skin to freezing temperatures. Freezing temperatures cause ice crystals to form in the tissue, this reduces the blood supply to the tissue and damages it. The parts of the body most commonly affected are the fingers, toes, nose, ears and cheeks. Symptoms include a loss of feeling in the affected areas, combined with a pale waxy discolouration of the skin, followed eventually by blisters and swelling. If the affected areas are not warmed up, and the exposure to the cold continues, deeper layers of tissue may become affected, which may ultimately result in loss of the tissue, that is, removal of fingers or toes (amputations). 
+Warming up (rewarming) of frostbitten areas may cause severe pain. At present, treatment involves: 
+‐ rapid rewarming of the affected area in a 37 °C to 39 °C whirlpool bath;
+‐ giving the patient pain‐killing medication in the form of aspirin and ibuprofen; and 
+‐ if the affected area does not return to normal after rewarming, transferring the patient to hospital for further treatment. 
+Several different specialised treatments can be given in hospitals, including a medication called 'iloprost', which may increase blood flow to frostbitten areas. It is hoped that iloprost may reverse the damage to frostbitten tissue. 
+How current is the evidence? 
+The evidence in this review includes research published up to 25 February 2020.
+What did we do? 
+We searched for studies that compared medicines that affect the whole body, or treatments applied to the skin (topical therapies), or rewarming techniques used to treat frostbite injuries to another treatment for frostbite, or a 'dummy' treatment (placebo), or no treatment. We looked for randomised controlled studies, in which the treatments received were decided at random, because these studies usually give the most reliable evidence about the effects of treatments. 
+We were interested in:
+‐ the risk of amputation;
+‐ serious and non‐serious unwanted effects of treatment (adverse events);
+‐ intense pain, especially upon rewarming;
+‐ long‐lasting pain;
+‐ how well people who had frostbite could perform activities of daily living;
+‐ the quality of life experienced by people who had frostbite;
+‐ the number of people who withdrew from treatment because of problems caused by the therapy; 
+‐ the length of time people did not attend their work because of frostbite;
+‐ the length of time to full return to work; and
+‐ the number of deaths.
+What did we find? 
+We found one randomised controlled trial (RCT) involving 47 people who were rescued by mountain rescue teams in the French Alps. Everybody was treated with a dose of two medicines, aspirin and buflomedil, then allocated to one of three groups for further treatment. 
+Group 1 received additional buflomedil (since this RCT took place, buflomedil was withdrawn from use because of reports of severe adverse events associated with its use); 
+Group 2 received another medicine called iloprost;
+Group 3 received iloprost and a substance involved naturally in the breakdown of blood clots (recombinant tissue plasminogen activator (rtPA)). 
+What are the results of our review? 
+People who received iloprost or iloprost combined with rtPA had fewer amputations than those who received buflomedil. There was little or no difference between the number of amputations in people who received iloprost compared to those who received iloprost combined with rtPA. 
+The trial reported adverse effects, but did not attribute them to the different treatments. Adverse effects included hot flushes, feeling sick (nausea), heart palpitations and vomiting. There were no withdrawals from the trial because of unwanted effects of treatment, and there were no deaths. 
+This RCT did not report on intense pain, long‐lasting pain, activities of daily living, quality of life, time off work, or time until a full return to work. 
+High quality RCTs are needed to confirm the result of this study, and to establish the best way to treat frostbite injuries. 
+How reliable are these results? 
+As we included only one, poorly reported RCT with possible problems in its design and a very small number of participants, our confidence in its findings are very low. 

@@ -1,0 +1,17 @@
+Managing symptoms in motor neuron disease
+Review question 
+What are the effects of treatments for managing symptoms in motor neuron disease (MND)?
+Background 
+Motor neuron disease (MND), which is also known as amyotrophic lateral sclerosis (ALS), is an uncommon, incurable disease that affects the nerves involved in movement. MND gets worse over time and affects muscles of the limbs, speech, swallowing and breathing. People with MND experience a wide range of symptoms, including a number of physical ability limitations, pain, spasticity, cramps, swallowing problems and difficulty breathing. It is important to recognise that clinical trials may fail to show that a treatment is effective for several reasons that are not related to the effects of the treatment itself, for example when there are too few people in a trial, or investigators choose an ineffective dose of a drug. 
+Review characteristics 
+We searched for Cochrane Systematic Reviews of treatments aiming to manage symptoms of MND. We found nine reviews that fitted the objectives of this study. These reviewed randomized controlled trials (RCTs) of treatments for pain, cramps, spasticity, and sialorrhoea, and assessed the effects of mechanical ventilation (non‐invasive ventilation), enteral tube feeding, repetitive transcranial magnetic stimulation (rTMS), therapeutic exercise, and multidisciplinary care. The trials compared the treatment with an inactive treatment (placebo drug or sham therapy) or usual care. 
+Key results and quality of the evidence 
+There are currently many treatments in clinical use for pain, but no robust information currently exists on their effectiveness in people with MND. 
+There is evidence that memantine and tetrahydrocannabinol are probably ineffective for cramps in ALS and that vitamin E may be ineffective. There is too little information from RCTs on the effects of other treatments studied, including L‐threonine, gabapentin, xaliproden, riluzole, and baclofen. The review did not report adverse events other than for riluzole. 
+It is uncertain whether exercise improves muscle stiffness (spasticity). Exercise may improve disability; it may not improve quality of life. Other interventions for spasticity have not been studied in RCTs. 
+Non‐invasive mechanical ventilation probably improves survival and quality of life in ALS; it may not improve survival in people with poor bulbar function. The review did not assess when to start NIV. 
+A single session of botulinum toxin injections into the salivary glands probably improves excessive saliva production and dribbling, and quality of life in the short term (over weeks but not months). 
+At present, there is no evidence available from controlled trials to indicate whether or not there is a benefit to tube feeding for supporting nutrition, nor is there any evidence to indicate whether multidisciplinary care is helpful or harmful. It is uncertain whether rTMS is of benefit for improving disability or activity limitation in MND. Lack of evidence on multidisciplinary care or other treatments, however, should not be interpreted as ineffectiveness. 
+Only the cramps review reported that adverse events occurred. The trials were mostly too small to reliably assess adverse events or rule out uncommon events. 
+More research is required to determine which treatments help to manage symptoms for those living with MND, using suitable types of studies and outcome measures. 
+This overview is up to date to November 2016.

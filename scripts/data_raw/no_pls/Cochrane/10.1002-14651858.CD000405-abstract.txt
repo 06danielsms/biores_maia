@@ -1,0 +1,18 @@
+Background
+Necrotizing enterocolitis (NEC) is the most common gastrointestinal problem of preterm neonates. There have been reports published suggesting that the use of enteral antibiotics may be effective as prophylaxis. This systematic review was undertaken to clarify the issue. 
+Objectives
+To evaluate the benefits and harms of enteral antibiotic prophylaxis for necrotizing enterocolitis in low birth weight and preterm infants. 
+Search methods
+Searches were made of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2006), MEDLINE (1966 ‐ July 2006), EMBASE (1988 ‐ July 2006) and CINAHL (1982 ‐ July 2006) previous reviews with cross references, abstracts, conference and symposia proceedings, expert informants and journal hand searching in the fields of neonatal pediatrics and microbiology. 
+Selection criteria
+All randomized or quasi‐randomized controlled trials where enteral antibiotics were used as prophylaxis against NEC in LBW (< 2500 g) and/or preterm (< 37 weeks gestation) infants. 
+Data collection and analysis
+The standard method of the Cochrane Collaboration and its Neonatal Review Group was used. The methodological quality of each trial was reviewed by the second author who was blinded to the trial authors and institutions. Each author extracted data separately before comparison and resolution of differences. Relative risk (RR), risk difference (RD), and number needed to treat were used in the analysis. 
+Main results
+Five eligible trials involving 456 infants were included. The administration of prophylactic enteral antibiotics resulted in a statistically significant reduction in NEC [typical RR 0.47 (0.28, 0.78); typical RD ‐0.10 (‐0.16, ‐0.04); NNT 10 (6, 25)]. 
+There was a statistically significant reduction in NEC‐related deaths [typical RR 0.32 (0.10, 0.96); typical RD ‐0.07 (‐0.13, 0.01); NNT 14 (8, 100)]. 
+There was a trend towards a reduction in all deaths which was not significant [typical RR 0.67(0.34, 1.32)]. 
+There were no significant differences in NEC‐like enteropathies (one trial only).
+One study found a statistically significant increase in the incidence of colonization with resistant bacteria and the summary analysis of three trials gave an increase which was just significant [RR 1.73 (1.00, 2.97); RD 0.07 (0.00, 0.13)]. 
+Authors' conclusions
+Evidence suggests that oral antibiotics reduce the incidence of NEC in low birth weight infants. However concerns about adverse outcomes persist, particularly related to the development of resistant bacteria. To address this question further, a large trial would be required with a sample size sufficient to examine all the important benefits and harms. Adverse outcomes associated with infection should be evaluated, and microbiological studies looking for the development of resistant bacteria should be undertaken 

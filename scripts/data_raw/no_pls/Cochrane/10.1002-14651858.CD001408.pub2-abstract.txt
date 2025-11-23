@@ -1,0 +1,33 @@
+Background
+Cerebral palsy (CP) is the most common cause of physical disabilities in children in high‐income countries. Spasticity is the most common motor disturbance in CP. Botulinum toxin type A (BoNT‐A) is considered the first‐line treatment for focal spasticity in people with CP. 
+Objectives
+To evaluate the effectiveness and safety of BoNT‐A compared to other treatments used in the management of lower limb spasticity in children with CP. 
+Search methods
+We searched CENTRAL, PubMed, four other databases, and two trial registers in October 2018. We also searched the reference lists of relevant studies and reviews and contacted experts in the field. We did not apply any date or language restrictions. 
+Selection criteria
+Randomised controlled trials of children with CP, aged between birth and 19 years, treated with BoNT‐A injections in the lower limb muscles compared to other interventions. The primary outcomes were gait analysis and function. The secondary outcomes were joint range of motion, quality of life, satisfaction, spasticity, and adverse events. 
+Data collection and analysis
+Two review authors independently selected studies, extracted data, assessed risk of bias, and rated the quality of the evidence using GRADE. A third review author arbitrated in case of disagreements. We conducted meta‐analyses of available data whenever possible, analysing dichotomous data with risk ratios (RR), and continuous data with mean differences (MD) or standardised mean differences (SMD), with 95% confidence intervals (CI). We considered a 5% significance level for all analyses. 
+Whenever possible, we analysed outcomes at the time points at which they were assessed: short term (2 to 8 weeks); medium term (12 to 16 weeks); and long term (> 24 weeks). 
+Main results
+We included 31 randomised controlled trials assessing 1508 participants. Most studies included ambulatory patients with more than one motor type of CP, and with a mean age of between three and seven years. There was a slight predominance of males. 
+Studies compared BoNT‐A in the lower limb muscles to usual care or physiotherapy (14 studies), placebo or sham (12 studies), serial casting (4 studies), or orthoses (1 study). 
+We rated studies as at high or unclear risk of bias mainly due to random sequence generation, allocation concealment, blinding of participants and personnel, and blinding of outcome assessment. 
+BoNT‐A versus usual care or physiotherapy 
+BoNT‐A might improve overall gait scores at medium‐term follow‐up (MD 2.80, 95% CI 1.55 to 4.05; 1 study, 40 children; very low‐quality evidence) and is moderately effective at improving function at short‐term (SMD 0.59, 95% CI 0.23 to 0.95; 2 studies, 123 children) and medium‐term (SMD 1.04, 95% CI 0.16 to 1.91; 4 studies, 191 children) follow‐up (all very low‐quality evidence). 
+BoNT‐A improves ankle range of motion, satisfaction, and ankle plantarflexors spasticity at one or more time points (very low‐quality evidence). 
+The proportion of adverse events in the BoNT‐A group was 0.37 (95% CI 0.08 to 0.66; I2 = 95%; very low‐quality evidence). No adverse events were reported in the control group. 
+BoNT‐A versus placebo or sham 
+BoNT‐A improves overall gait scores at short‐term (RR 1.66, 95% CI 1.16 to 2.37, P = 0.006; 4 studies, 261 assessments) and medium‐term (RR 1.90, 95% CI 1.32 to 2.74, P < 0.001; 3 studies, 248 assessments) follow‐up, and may improve peak ankle dorsiflexion in stance (MD 15.90 degrees, 95% CI 4.87 to 26.93, P = 0.005; 1 study, 19 children) and in swing (MD 10.20 degrees, 95% CI 4.01 to 16.39, P = 0.001; 1 study, 19 children) at short‐term follow‐up (all moderate‐quality evidence). 
+BoNT‐A is not more effective than placebo or sham at improving function at short‐term (SMD 0.24, 95% CI −0.35 to 0.83, P = 0.42; 4 studies, 305 children) or long‐term (SMD −0.07, 95% CI −0.48 to 0.35, P = 0.76; 2 studies, 91 children) follow‐up, but has a small positive effect at medium‐term follow‐up (SMD 0.28, 95% CI 0.06 to 0.49, P = 0.01; 5 studies, 327 children) (all moderate‐quality evidence). 
+BoNT‐A improves passive ankle range of motion, satisfaction, and ankle plantarflexors spasticity at one or more time points (moderate‐quality evidence). 
+There was no difference between groups in the rate of adverse events at short‐term follow‐up (RR 1.29, 95% CI 0.87 to 1.93, P = 0.21; 12 studies, 918 children; moderate‐quality evidence). 
+BoNT‐A versus serial casting 
+There was no difference between groups for overall gait scores at short‐term (MD 0.00, 95% CI −1.66 to 1.66); medium‐term (MD 0.65, 95% CI −1.21 to 2.51); or long‐term (MD 0.46, 95% CI −1.33 to 2.25) follow‐up in one study with 18 children (moderate‐quality evidence). 
+BoNT‐A improved instrumented gait analysis only in terms of ankle dorsiflexion at initial contact (MD 6.59 degrees, 95% CI 1.39 to 11.78, P = 0.01; 2 studies, 47 children). There was no difference between groups for peak ankle dorsiflexion in stance and swing, and gait speed at any time point (moderate‐ and low‐quality evidence). 
+BoNT‐A is not more effective than serial casting at improving function, ankle range of motion, and spasticity at any time point (moderate‐ and low‐quality evidence). 
+BoNT‐A is not associated with a higher risk of adverse events than serial casting (RR 0.59, 95% CI 0.03 to 11.03; 3 studies, 64 children; low‐quality evidence). 
+BoNT‐A versus orthoses 
+There was no difference between groups for function at medium‐term follow‐up (MD 11.14, 95% CI −0.05 to 22.33; 1 study, 43 children), but BoNT‐A is more effective than orthoses at improving hip range of motion and hip adductors spasticity (all very low‐quality evidence). 
+Authors' conclusions
+The quality of the evidence was low or very low for most of the outcomes analysed. We found limited evidence that BoNT‐A is more effective than placebo or a non‐placebo control at improving gait, joint range of motion, satisfaction, and lower limb spasticity in children with CP, whereas the results for function were contradictory. The rate of adverse events with BoNT‐A is similar to placebo. BoNT‐A is not more effective than ankle serial casting to treat ankle contractures for any of the assessed outcomes, but is more effective than orthotics at improving range of motion and spasticity. 

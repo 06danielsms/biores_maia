@@ -1,0 +1,15 @@
+Background
+Haemodialysis treatment requires reliable vascular access. Optimal access is provided via functional arteriovenous fistula (fistula), which compared with other forms of vascular access, provides superior long‐term patency, requires few interventions, has low thrombosis and infection rates and cost. However, it has been estimated that between 20% and 60% of fistulas never mature sufficiently to enable haemodialysis treatment. Mapping blood vessels using imaging technologies before surgery may identify vessels that are most suitable for fistula creation. 
+Objectives
+We compared the effect of conducting routine radiological imaging evaluation for vascular access creation preoperatively with standard care without routine preoperative vessel imaging on fistula creation and use. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register to 14 April 2015 through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+We included randomised controlled trials (RCTs) that enrolled adult participants (aged ≥ 18 years) with chronic or end‐stage kidney disease (ESKD) who needed fistulas (both before dialysis and after dialysis initiation) that compared fistula maturation rates relating to use of imaging technologies to map blood vessels before fistula surgery with standard care (no imaging). 
+Data collection and analysis
+Two authors assessed study quality and extracted data. Dichotomous outcomes, including fistula creation, maturation and need for catheters at dialysis initiation, were expressed as risk ratios (RR) with 95% confidence intervals (CI). Continuous outcomes, such as numbers of interventions required to maintain patency, were expressed as mean differences (MD). We used the random‐effects model to measure mean effects. 
+Main results
+Four studies enrolling 450 participants met our inclusion criteria. Overall risk of bias was judged to be low in one study, unclear in two, and high in one. 
+There was no significant differences in the number of fistulas that were successfully created (4 studies, 433 patients: RR 1.06, 95% CI 0.95 to 1.28; I² = 76%); the number of fistulas that matured at six months (3 studies, 356 participants: RR 1.11, 95% CI 0.98 to 1.25; I² = 0%); number of fistulas that were used successfully for dialysis (2 studies, 286 participants: RR 1.12, 95% CI 0.99 to 1.28; I² = 0%); the number of patients initiating dialysis with a catheter (1 study, 214 patients: RR 0.66, 95% CI 0.42 to 1.04); and in the rate of interventions required to maintain patency (1 study, 70 patients: MD 14.70 interventions/1000 patient‐days, 95% CI ‐7.51 to 36.91) between the use of preoperative imaging technologies compared with standard care (no imaging). 
+Authors' conclusions
+Based on four small studies, preoperative vessel imaging did not improve fistula outcomes compared with standard care. Adequately powered prospective studies are required to fully answer this question. 

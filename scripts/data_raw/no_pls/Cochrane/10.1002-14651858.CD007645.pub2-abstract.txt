@@ -1,0 +1,14 @@
+Background
+Screening examinations for retinopathy of prematurity (ROP) are performed routinely in the neonatal intensive care unit and are a recognised cause of pain in the newborn. 
+Objectives
+To determine the effect of instillation of topical anaesthetic eye drops compared with placebo or no treatment on pain in infants undergoing ROP screening. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. This included a search of the Cochrane Neonatal Group register and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 10, 2010). We identified relevant studies by searching the following: (1) computerised bibliographic databases: MEDLINE (1966 to October 2010), EMBASE (1988 to October 2010) and Web of Science (1975 to March 2010; (2) the Oxford Database of Perinatal Trials. We searched electronically abstracts from PAS from 2000 to 2010 and handsearched abstracts from ESPR from 2000 to 2009. 
+Selection criteria
+All randomised, or quasi‐randomised controlled trials, or randomised cross‐over trials.
+Data collection and analysis
+We used the standard methods of the Cochrane Neonatal Review Group.
+Main results
+We identified two studies for inclusion. Both studies were randomised cross‐over trials performed in single centres. Both studies used the Premature Infant Pain Profile (PIPP) score as a measure of pain response. Different methods of evaluating PIPP scores are presented including the absolute PIPP score, a PIPP score > 10 or > 12 and an increase in PIPP ≥ 4 from the baseline value. There is a nonsignificant reduction in pain scores at one minute and a nonsignificant increase at five minutes post insertion of the speculum. PIPP score > 12 at one minute resulted in a statistically significant reduction in the number of patients who experienced pain (typical risk ratio (RR) 0.56, 95% CI 0.36 to 0.89; typical risk difference (RD) ‐0.23, 95% CI ‐0.39 to ‐0.86; number needed to treat to benefit (NNTB) 4). When pain was defined as an increase in PIPP > 4 there was a statistically significant reduction in the absolute number of patients who experienced pain at one minute (typical RR 0.70, 95% CI 0.52 to 0.94; typical RD ‐0.19, 95% CI ‐0.34 to ‐0.04; NNTB 5.3). 
+Authors' conclusions
+The administration of topical proparacaine 30 seconds prior to the ophthalmological evaluation was associated with a reduction in pain scores especially at the time of speculum insertion. However, despite treatment, screening remains a painful procedure and the role of nonpharmacological and pharmacological intervention including different local anaesthetic agents should be ascertained in future randomised trials. 

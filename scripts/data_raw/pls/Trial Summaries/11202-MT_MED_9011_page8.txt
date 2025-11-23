@@ -1,0 +1,18 @@
+Clinical Study Results
+What serious adverse reactions happened during this study?
+None of the participants had serious adverse reactions during this study.
+None of the participants died due to serious adverse reactions during this study.
+What adverse reactions happened during this study?
+The most common adverse reaction that happened during this study was discolored urine, which is an adverse reaction known to be related to rifampicin.
+The table below shows the adverse reactions that happened during this study.
+Adverse reactions during this study
+Savolitinib Rifampicin
+(out of 20 participants) (out of 18 participants)
+- Discolored urine 0.0% (0) 50.0% (9)
+- Headache 10.0% (2) 5.6% (1)
+- Diarrhea 0.0% (0) 11.1% (2)
+- Increase in transaminases in the blood 5.0% (1) 5.6% (1)
+(a sign of possible liver damage)
+- Allergic reaction 5.0% (1) 0.0% (0)
+- Dizziness 5.0% (1) 0.0% (0)
+- Nausea 5.0% (1) 0.0% (0)

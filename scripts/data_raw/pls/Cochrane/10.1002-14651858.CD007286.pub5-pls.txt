@@ -1,0 +1,11 @@
+The use of antiepileptic drugs to prevent seizures following brain surgery
+Review question 
+This Cochrane Review examines the evidence for the effectiveness and safety of antiepileptic drugs (AEDs) when they are given to people who do not have epilepsy to prevent them experiencing seizures after craniotomy surgery (a type of brain surgery commonly used to remove brain tumours). We also planned to assess whether any particular AED is more effective in preventing seizures after craniotomy surgery. 
+Background 
+People who undergo a type of brain surgery known as craniotomy may be at increased risk of experiencing seizures after craniotomy surgery. AEDs have been used in trials to prevent seizures occurring after surgery in people with no previous history of epilepsy. A small number of trials compared different AED treatments against each other, while others compared AEDs to a placebo (a pill that contains no medicine) or no‐treatment group. 
+Study characteristics 
+The evidence is current to September 2019. Ten trials met our inclusion criteria, and included 1815 people. Three trials compared phenytoin (an AED) with a placebo (sham) or no treatment. One trial compared the AEDs phenytoin or carbamazepine with no treatment. One trial compared the AEDs phenytoin or phenobarbital with no treatment. Five other trials were head‐to‐head trials (where one drug is directly compared against another drug) of AEDs (phenytoin versus valproate; zonisamide versus phenobarbital and levetiracetam versus phenytoin). 
+Key findings 
+We did not find any consistent evidence to suggest that preventative AED treatments are effective in reducing the number of seizures that occurred postsurgery, deaths or adverse effects. 
+Certainty of the evidence 
+Taking all the trials together, we considered that the certainty of the evidence was low due to potential problems with the designs of the trials. Also the differences in the designs of the trials relating to the treatments examined and the results reported meant that it was difficult to compare results across trials. This means that it is likely that the true results may be substantially different to those we found. Further good‐quality studies are needed to validate the findings mentioned above. 

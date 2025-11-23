@@ -1,0 +1,18 @@
+Background
+Undifferentiated acute respiratory infections (ARIs) are a large and heterogeneous group of infections not clearly restricted to one specific part of the upper respiratory tract, which last for up to seven days. They are more common in pre‐school children in low‐income countries and are responsible for 75% of the total amount of prescribed antibiotics in high‐income countries. One possible rationale for prescribing antibiotics is the wish to prevent bacterial complications. 
+Objectives
+To assess the effectiveness and safety of antibiotics in preventing bacterial complications in children aged two months to 59 months with undifferentiated ARIs. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL 2015, Issue 7), which contains the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (1950 to August week 1, 2015) and EMBASE (1974 to August 2015). 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs comparing antibiotic prescriptions with placebo or no treatment in children aged two months to 59 months with an undifferentiated ARI for up to seven days. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted and analysed data using the standard Cochrane methodological procedures. 
+Main results
+We identified four trials involving 1314 children. Three trials investigated the use of amoxicillin/clavulanic acid to prevent otitis and one investigated ampicillin to prevent pneumonia. 
+The use of amoxicillin/clavulanic acid compared to placebo to prevent otitis showed a risk ratio (RR) of 0.70 (95% confidence interval (CI) 0.45 to 1.11, three trials, 414 selected children, moderate‐quality evidence). Methods of random sequence generation and allocation concealment were not clearly stated in two trials. Performance, detection and reporting bias could not be ruled out in three trials. 
+Ampicillin compared to supportive care (continuation of breastfeeding, clearing of the nose and paracetamol for fever control) to prevent pneumonia showed a RR of 1.05 (95% CI 0.74 to 1.49, one trial, 889 selected children, moderate‐quality evidence). The trial was non‐blinded. Random sequence generation and allocation concealment methods were not clearly stated, so the possibility of reporting bias could not be ruled out. 
+Harm outcomes could not be analysed as they were expressed only in percentages.
+We found no studies assessing mastoiditis, quinsy, abscess, meningitis, hospital admission or death. 
+Authors' conclusions
+There is insufficient evidence for antibiotic use as a means of reducing the risk of otitis or pneumonia in children up to five years of age with undifferentiated ARIs. Further high‐quality research is needed to provide more definitive evidence of the effectiveness of antibiotics in this population. 

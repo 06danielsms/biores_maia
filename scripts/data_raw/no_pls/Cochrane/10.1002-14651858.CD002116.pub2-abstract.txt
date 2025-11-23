@@ -1,0 +1,18 @@
+Background
+Faecal incontinence (leakage of bowel motions or stool) is a common symptom which causes significant distress and reduces quality of life. 
+Objectives
+To assess the effects of drug therapy for the treatment of faecal incontinence. In particular, to assess the effects of individual drugs relative to placebo or other drugs, and to compare drug therapy with other treatment modalities. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register of Trials, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and MEDLINE in process, and handsearching of journals and conference proceedings (searched 21 June 2012) and the reference lists of relevant articles. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials were included in this systematic review. 
+Data collection and analysis
+Two review authors independently screened abstracts, extracted data and assessed risk of bias of the included trials. 
+Main results
+Sixteen trials were identified, including 558 participants. Eleven trials were of cross‐over design. Eleven trials included only people with faecal incontinence related to liquid stool (either chronic diarrhoea, following ileoanal pouch or rectal surgery, or due to use of a weight‐reducing drug). Two trials were amongst people with weak anal sphincters, one in participants with faecal impaction and bypass leakage, and one in geriatric patients. In one trial there was no specific cause for faecal incontinence. 
+Seven trials tested anti‐diarrhoeal drugs to reduce faecal incontinence and other bowel symptoms (loperamide, diphenoxylate plus atropine, and codeine). Six trials tested drugs that enhance anal sphincter function (phenylepinephrine gel and sodium valproate). Two trials evaluated osmotic laxatives (lactulose) for the treatment of faecal incontinence associated with constipation in geriatric patients. One trial assessed the use of zinc‐aluminium ointment for faecal incontinence. No studies comparing drugs with other treatment modalities were identified. 
+There was limited evidence that antidiarrhoeal drugs and drugs that enhance anal sphincter tone may reduce faecal incontinence in patients with liquid stools. Loperamide was associated with more adverse effects (such as constipation, abdominal pain, diarrhoea, headache and nausea) than placebo. However, the dose may be titrated to the patient's symptoms to minimise side effects while achieving continence. The drugs acting on the sphincter sometimes resulted in local dermatitis, abdominal pain or nausea. Laxative use in geriatric patients reduced faecal soiling and the need for help from nurses. 
+Zinc‐aluminium ointment was associated with improved quality of life, with no reported adverse effects. However, the observed improvement in quality of life was seen in the placebo group as well as the treatment group. 
+It should be noted that all the included trials in this review had small sample sizes and short duration of follow‐up. 'Risk of bias' assessment was unclear for most of the domains as there was insufficient information. There were no data suitable for meta‐analysis. 
+Authors' conclusions
+The small number of trials identified for this review assessed several different drugs in a variety of patient populations. The focus of most of the included trials was on the treatment of diarrhoea, rather than faecal incontinence. There is little evidence to guide clinicians in the selection of drug therapies for faecal incontinence. Larger, well‐designed controlled trials, which use the recommendations and principles set out in the CONSORT statement, and include clinically important outcome measures, are required. 

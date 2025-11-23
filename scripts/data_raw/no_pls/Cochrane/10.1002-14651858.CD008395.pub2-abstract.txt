@@ -1,0 +1,17 @@
+Background
+Bronchiolitis is one of the most common respiratory problems in the first year of life. The sputum of infants with bronchiolitis has increased deoxyribonucleic acid (DNA) content, leading to mucous plugging and airway obstruction. Recombinant human deoxyribonuclease (rhDNase), an enzyme that digests extracellular DNA, might aid the clearance of mucus and relieve peripheral airway obstruction. 
+Objectives
+To determine the effect of nebulised rhDNase on the severity and duration of viral bronchiolitis in children younger than 24 months of age in the hospital setting. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2012, Issue 7 which includes the Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to July Week 4, 2012), EMBASE (1974 to August 2012) and LILACS (1982 to August 2012). 
+Selection criteria
+Randomised controlled trials (RCTs) using nebulised rhDNase alone or with concomitant therapy in children younger than 24 months of age hospitalised with acute bronchiolitis. 
+Data collection and analysis
+Two review authors independently performed literature searches, assessed trial quality and extracted data. We obtained unpublished data from trial authors. We used Review Manager 5.1 to pool treatment effects expressed as the mean difference (MD) or standardised mean difference (SMD) with 95% confidence intervals (CI). 
+Main results
+Three RCTs (333 participants) were identified, two of which were multicentre trials comprising only participants positive for respiratory syncytial virus (RSV). The other trial enrolled participants clinically diagnosed with bronchiolitis from a hospital in Italy. All studies used 2.5 mL (1 mg/mL) of nebulised rhDNase compared with placebo either as a daily or a twice daily dose. Adjunctive therapy included nebulised salbutamol, steroids, supplemental oxygen, intravenous fluids or tube feeding, nasal washing, nasal decongestants and antibiotics. 
+Overall, nebulised rhDNase showed no benefit in clinically meaningful outcomes. Meta‐analysis favoured the control group with a shorter duration of hospital stay (MD 0.50; 95% CI 0.10 to 0.90, P = 0.01) and better clinical score improvement (SMD ‐0.24; 95% CI ‐0.50 to 0.01, P = 0.06). The largest trial showed no difference in supplemental oxygen use or intensive care unit (ICU) admission. 
+In one RCT, four out of 11 patients in the treatment group had atelectasis. Two of these patients showed distinctive clinical improvement after nebulised rhDNase. 
+There was no significant difference in adverse events. These included temporary desaturation, temporary coughing, increased coughing, facial rash, hoarseness, dyspnoea and bad taste, reported in a total of 11 patients from both treatment groups. 
+Authors' conclusions
+The results based on the three included studies in this review did not support the use of nebulised rhDNase in children under 24 months of age hospitalised with acute bronchiolitis. In these patients, treatment did not shorten the length of hospitalisation or improve clinical outcomes. It might have a role in severe bronchiolitis complicated by atelectasis, but further clinical studies would need to be performed. 

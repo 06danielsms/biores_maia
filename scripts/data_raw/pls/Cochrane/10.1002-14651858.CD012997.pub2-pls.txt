@@ -1,0 +1,8 @@
+Interventions for prevention of haemolytic uraemic syndrome in patients
+What is the issue? 
+Haemolytic uraemic syndrome (HUS) is a serious illness that primarily affects children and can have severe side effects such as anaemia (low red blood cell counts), kidney damage, brain damage, and death in some cases. HUS most commonly occurs as a complication of diarrhoeal illness caused by a particular form of Escherichia coli (E. coli) bacteria called Shiga toxin‐producing E. coli (STEC). Despite the severity of this illness, there are currently no standard practices for treating these patients. 
+What did we do? 
+We summarized the available evidence that was collected to date on methods for preventing HUS in patients diagnosed with STEC‐associated diarrhoea (loose bowel movements). We searched the literature for past studies looking at different treatments aimed at preventing HUS in children with diarrhoeal illness and summarized the findings in our review, 
+What did we find?Four studies randomising 536 patients were included. These studies looked at four different preventative treatments including antibiotic therapy, anti‐Shiga toxin antibody‐containing bovine colostrum, Shiga toxin binding agent (Synsorb Pk: a silicon dioxide‐based agent) and a monoclonal antibody against Shiga toxin (urtoxazumab). The included studies had small number of participants and the results did not favour any one intervention to reduce the progression of the disease to HUS in patients who were infected with STEC. 
+Conclusions 
+No conclusion on the best method for preventing HUS in patients with STEC‐associated diarrhoea can be drawn from this data; more studies with a larger group of patients is required before any recommendation can be made. 

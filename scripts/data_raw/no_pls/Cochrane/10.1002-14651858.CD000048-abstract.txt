@@ -1,0 +1,15 @@
+Background
+Growing ex‐preterm infants who undergo general anaesthesia for surgery at about term‐equivalent age may have episodes of apnoea, cyanosis and bradycardia during the early postoperative period. A breathing stimulant such as caffeine given at the time of operation might prevent these episodes. 
+Objectives
+To determine the effect of the prophylactic use of caffeine to prevent episodes of apnoea, cyanosis and bradycardia during the postoperative period in ex‐preterm infants who undergo general anaesthesia for surgery. 
+Search methods
+The standard strategy of the Neonatal Review Group was used. This included searches of the The Cochrane Library, Oxford Database of Perinatal Trials, MEDLINE, EMBASE, CINAHL and abstracts of the Society for Pediatric Research. Seach updated in January 2011. 
+Selection criteria
+All trials utilising random or quasi‐random patient allocation, in which treatment was compared with placebo or no treatment were included. 
+Data collection and analysis
+The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used to select trials, evaluate trial quality and to extract data. Each review author extracted data separately, and then compared and resolved any differences. Meta‐analysis used relative risk and risk difference. 
+Main results
+Three eligible trials were found. In each trial apnoea/bradycardia occurred in fewer infants treated with caffeine. The typical estimate for relative risk is 0.09 (95% CI 0.02 to 0.34). The typical estimate for absolute risk difference is ‐0.58 (95% CI ‐0.74 to ‐0.43) indicating that fewer than two infants have to be treated with caffeine to expect to prevent one with postoperative apnoea. In two trials (Welborn 1989; LeBard 1989), continuous recordings of oxygen saturation detected hypoxaemic episodes (< 90%) in fewer treatment than control infants [typical RR 0.13 (95% CI 0.03 to 0.63)]. No infant in any trial required intubation and mechanical ventilation. No adverse effects were reported. 
+Authors' conclusions
+Implications for practice. After general anaesthesia, caffeine can be used to prevent postoperative apnoea/bradycardia and episodes of oxygen desaturation in growing preterm infants if this is deemed clinically necessary. In view of the small numbers of infants studied in these trials and uncertainty concerning the clinical significance of the episodes, caution is warranted in applying these results to routine clinical practice. 
+Implications for research. There is a need to determine which infants might benefit most by this treatment. Studies confined to those most at risk of apnoea (prior history, younger postmenstrual age) and those that might require mechanical ventilation or chronic lung disease would be of value. 

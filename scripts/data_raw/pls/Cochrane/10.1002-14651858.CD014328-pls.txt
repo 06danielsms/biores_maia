@@ -1,0 +1,41 @@
+Arthroscopic surgery for degenerative knee disease
+Background 
+Degenerative knee disease (osteoarthritis in the knee which affects the joint lining and menisci) is the most common cause of knee pain, swelling and stiffness in the knee joint which leads to difficulty in walking. The cartilage in the knee joint is damaged, resulting in friction in the joint surfaces and formation of new bone in severe cases. Arthroscopic knee surgery removes damaged cartilage and loose tissue and smooths the knee joint surfaces. 
+Study characteristics 
+We included 16 randomised trials (2105 participants) published up to 16 April 2021. Trials were conducted in Canada, Denmark, Finland, Italy, Norway, Pakistan, South Korea, Spain, Sweden, Netherlands and USA. 
+Overall, 56% of participants were women. The average age of participants ranged from 46 to 65 years and the average duration of symptoms ranged from 1.6 months to 4.4 years. Of the nine trials reporting their funding source, none received funding from industry. The other seven trials did not report any funding source. 
+We limit reporting to the main comparison, arthroscopic surgery versus placebo (dummy or sham) surgery. 
+Key results 
+Compared with placebo surgery, arthroscopic surgery had little benefit:
+Pain (lower scores mean less pain) 
+Improvement in pain was 4.6 points better (0.02 better to 9 better) on a 0 to 100 point scale with arthroscopic surgery than with placebo, 3 months after surgery. 
+• People who had arthroscopic surgery rated their post‐operative pain as 35.5 points.
+• People who had placebo surgery rated their post‐operative pain as 40.1 points.
+Knee function (higher scores mean better function) 
+Improvement in knee function was 0.1 points better (3.2 worse to 3.4 better) on a 0 to 100 point scale with arthroscopic surgery than with placebo, 3 months after surgery. 
+• People who had arthroscopic surgery rated their post‐operative knee function as 76.0 points. 
+• People who had placebo surgery rated their post‐operative knee function as 75.9 points. 
+Knee‐specific quality of life (higher scores mean better quality of life) 
+Improvement in knee‐specific quality of life was 5.6 points better (0.4 better to 10.7 better) on a 0 to 100 point scale with arthroscopic surgery than with placebo, 3 months after surgery. 
+• People who had arthroscopic surgery rated their post‐operative quality of life as 75.3 points. 
+• People who had placebo surgery rated their post‐operative quality of life as 69.7 points. 
+Treatment success (rated by participants) 
+8% more people rated their treatment a success (25% fewer to 63% more), or 8 more people out of 100, at up to 5 years after surgery. 
+• 82 out of 100 people reported treatment success with arthroscopic surgery.
+• 74 out of 100 people reported treatment success with placebo surgery.
+Serious adverse events 
+2% more people (2% fewer to 10% more) had serious adverse events, or 2 more people out of 100, at up to 5 years after surgery. 
+• 8 out of 100 people reported serious adverse events with arthroscopic surgery.
+• 6 out of 100 people reported serious adverse events with placebo surgery.
+Total adverse events 
+2% more people (3% fewer to 11% more), had adverse events, or 2 more people out of 100, at up to 5 years after surgery. 
+• 17 out of 100 people reported adverse events with arthroscopic surgery.
+• 15 out of 100 people reported adverse events with placebo surgery.
+Subsequent knee surgery 
+2% more people (0.1% fewer to 9% more), had subsequent knee surgery, or 2 more people out of 100, at up to 5 years. 
+• 4 out of 100 people had knee replacement or osteotomy (knee surgery that reshapes bone) with arthroscopic surgery. 
+• 2 out of 100 people had knee replacement or osteotomy with placebo surgery.
+Certainty of the evidence 
+We are confident that knee arthroscopy does not provide any clinically important benefits in terms of pain and function. We are moderately confident that knee arthroscopy probably does not provide any clinically important benefits in knee‐specific quality of life over a placebo procedure. Knee arthroscopy may not increase participant‐reported success compared with placebo. We have little confidence in the evidence because of differences across trials in reporting success and the small number of events. We are less certain of the risk of serious and total adverse events in arthroscopy versus placebo surgery: the evidence was uncertain because of the small number of events and incomplete reporting of study information. 
+Adverse events associated with surgery include total knee replacement, osteotomy, repeat arthroscopy, arthroscopy in opposite knee, cutaneous nerve lesion (damage to nerves in the skin), deep or superficial infection, general knee pain, swelling, instability, stiffness or decreased range of motion in the affected or opposite knee, haemarthrosis (bleeding into the knee joint), death, acute myocardial infarction (heart attack), hypoxaemia (decreased oxygen in the blood), deep vein thrombosis (blood clot in the deep veins), tendonitis (inflammation of tendons), pain from fall or other trauma, rupture of a Baker's cyst (a fluid‐filled sac behind the knee), and back or hip or foot pain. 
+Arthroscopic surgery may or may not lead to slightly more subsequent knee surgery (replacement or osteotomy) than the placebo procedure. 

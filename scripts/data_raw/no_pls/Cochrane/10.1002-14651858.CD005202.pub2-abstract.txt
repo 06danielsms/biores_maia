@@ -1,0 +1,14 @@
+Background
+Although the small intestine represents 75% of the length and over 90% of the mucosal surface of the alimentary tract, it is the site of only about 2% of malignant gastrointestinal tumours. Adenocarcinoma is the most common histological subtype, accounting for about 40% of all malignant small intestinal tumours. The infrequent occurrence when compared with malignancies of the stomach and colon is accompanied by non‐specific clinical symptoms. The consequences are a significant delay in diagnosis and the finding of advanced, incurable disease at operation. Wide surgical resection of early lesions is the only potentially curative treatment, but it is possible only in a minority of patients. The rare nature of adenocarcinomas of the small intestine has led to a paucity of information about the benefits of adjuvant chemotherapy but there are reports of overall better survival for those patients that receive combination treatment. Most chemotherapy regimens consist of 5‐fluorouracil (5‐FU), alone or in combination with a variety of other agents like doxorubicin, cisplatin, mitomycin C, cyclophosphamide and oxaliplatin. 
+Objectives
+To determine the role of adjuvant chemotherapy in the management of adenocarcinoma of the small intestine compared to another adjuvant treatment, a placebo or no other adjuvant treatment. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (1966 to 2009), EMBASE (1974 to 2009), PubMed and CINHAL using the Cochrane highly sensitive search strategy for randomised controlled trials. Additional hand searching was done by going through abstracts of major conferences like American society of clinical oncology and World GI cancer conference. 
+Selection criteria
+Phase III randomised controlled trials comparing post‐operative adjuvant chemotherapy for adenocarcinoma of the small intestine with other adjuvant therapies, placebo or no adjuvant treatment. 
+Data collection and analysis
+No suitable trials were identified.
+Main results
+No studies fulfilled the inclusion criteria.
+Authors' conclusions
+There is a need for high quality randomised controlled trials to evaluate the effectiveness of adjuvant chemotherapy in the management of adenocarcinoma of the small intestine. 

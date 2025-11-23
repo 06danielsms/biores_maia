@@ -1,0 +1,14 @@
+Background
+Conservative therapy of chronic venous insufficiency (CVI) consists largely of compression treatment. However, this often causes discomfort and has been associated with poor compliance. Therefore, oral drug treatment is an attractive option. This is an update of a Cochrane review first published in 2002 and updated in 2004, 2006, 2008 and 2010. 
+Objectives
+To review the efficacy and safety of oral horse chestnut seed extract (HCSE) versus placebo, or reference therapy, for the treatment of CVI. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Review Group searched their Specialised Register (last searched June 2012) and CENTRAL (Issue 5, 2012). For the previous versions of the review the authors searched AMED (inception to July 2005) and Phytobase (inception to January 2001) for randomised controlled trials (RCTs) of HCSE for CVI. Manufacturers of HCSE preparations and experts on the subject were contacted for published and unpublished material. There were no restrictions on language. 
+Selection criteria
+RCTs comparing oral HCSE mono‐preparations with placebo, or reference therapy, in people with CVI. Trials assessing HCSE as one of several active components in a combination preparation, or as a part of a combination treatment, were excluded. 
+Data collection and analysis
+Both authors independently selected the studies and, using a standard scoring system, assessed methodological quality and extracted data. Disagreements concerning evaluation of individual trials were resolved through discussion. 
+Main results
+Overall, there appeared to be an improvement in CVI related signs and symptoms with HCSE compared with placebo. Leg pain was assessed in seven placebo‐controlled trials. Six reported a significant reduction of leg pain in the HCSE groups compared with the placebo groups, while another reported a statistically significant improvement compared with baseline. One trial suggested a weighted mean difference (WMD) of 42.4 mm (95% confidence interval (CI) 34.9 to 49.9) measured on a 100 mm visual analogue scale. Leg volume was assessed in seven placebo‐controlled trials. Six trials (n = 502) suggested a WMD of 32.1ml (95% CI 13.49 to 50.72) in favour of HCSE compared with placebo. One trial indicated that HCSE may be as effective as treatment with compression stockings. Adverse events were usually mild and infrequent. 
+Authors' conclusions
+The evidence presented suggests that HCSE is an efficacious and safe short‐term treatment for CVI. However, several caveats exist and larger, definitive RCTs are required to confirm the efficacy of this treatment option. 

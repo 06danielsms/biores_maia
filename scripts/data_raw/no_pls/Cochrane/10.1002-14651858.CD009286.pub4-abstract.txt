@@ -1,0 +1,26 @@
+Background
+Selective serotonin reuptake inhibitors (SSRIs) might theoretically reduce post‐stroke disability by direct effects on the brain. This Cochrane Review was first published in 2012 and last updated in 2019. 
+Objectives
+To determine if SSRIs are more effective than placebo or usual care at improving outcomes in people less than 12 months post‐stroke, and to determine whether treatment with SSRIs is associated with adverse effects. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched 7 January 2021), Cochrane Controlled Trials Register (CENTRAL, Issue 7 of 12, 7 January 2021), MEDLINE (1946 to 7 January 2021), Embase (1974 to 7 January 2021), CINAHL (1982 to 7 January 2021), PsycINFO (1985 to 7 January 2021), and AMED (1985 to 7 January 2021). PsycBITE had previously been searched (16 July 2018). We searched clinical trials registers. 
+Selection criteria
+We included randomised controlled trials (RCTs) recruiting stroke survivors within the first year. The intervention was any SSRI, at any dose, for any period, and for any indication. The comparator was usual care or placebo. Studies reporting at least one of our primary (disability score or independence) or secondary outcomes (impairments, depression, anxiety, quality of life, fatigue, cognition, healthcare cost, death, adverse events and leaving the study early) were included in the meta‐analysis. The primary analysis included studies at low risk of bias. 
+Data collection and analysis
+We extracted data on demographics, stroke type and, our pre‐specified outcomes, and bias sources. Two review authors independently extracted data. We used mean difference (MD) or standardised mean differences (SMDs) for continuous variables, and risk ratios (RRs) for dichotomous variables, with 95% confidence intervals (CIs). We assessed bias risks and applied GRADE criteria. 
+Main results
+We identified 76 eligible studies (13,029 participants); 75 provided data at end of treatment, and of these two provided data at follow‐up. Thirty‐eight required participants to have depression to enter. The duration, drug, and dose varied. Six studies were at low risk of bias across all domains; all six studies did not need participants to have depression to enter, and all used fluoxetine. Of these six studies, there was little to no difference in disability between groups SMD ‐0.0; 95% CI ‐0.05 to 0.05; 5 studies, 5436 participants, high‐quality evidence) or in independence (RR 0.98; 95% CI 0.93 to 1.03; 5 studies, 5926 participants; high‐quality evidence) at the end of treatment. 
+In the studies at low risk of bias across all domains, SSRIs slightly reduced the average depression score (SMD 0.14 lower, 95% CI 0.19 lower to 0.08 lower; 4 studies; 5356 participants, high‐quality evidence) and there was a slight reduction in the proportion with depression (RR 0.75, 95% CI 0.65 to 0.86; 3 studies, 5907 participants, high‐quality evidence). 
+Cognition was slightly better in the control group (MD ‐1.22, 95% CI ‐2.37 to ‐0.07; 4 studies, 5373 participants, moderate‐quality evidence). 
+Only one study (n = 30) reported neurological deficit score (SMD ‐0.39, 95% CI ‐1.12 to 0.33; low‐quality evidence). 
+SSRIs resulted in little to no difference in motor deficit (SMD 0.03, ‐0.02 to 0.08; 6 studies, 5518 participants, moderate‐quality evidence). 
+SSRIs slightly increased the proportion leaving the study early (RR 1.57, 95% CI 1.03 to 2.40; 6 studies, 6090 participants, high‐quality evidence). 
+SSRIs slightly increased the outcome of a seizure (RR 1.40, 95% CI 1.00 to 1.98; 6 studies, 6080 participants, moderate‐quality evidence) and a bone fracture (RR 2.35, 95% CI 1.62 to 3.41; 6 studies, 6080 participants, high‐quality evidence). 
+One study at low risk of bias across all domains reported gastrointestinal side effects (RR 1.71, 95% CI 0.33, to 8.83; 1 study, 30 participants). 
+There was no difference in the total number of deaths between SSRI and placebo (RR 1.01, 95% CI 0.82 to 1.24; 6 studies, 6090 participants, moderate quality evidence). 
+SSRIs probably result in little to no difference in fatigue (MD ‐0.06; 95% CI ‐1.24 to 1.11; 4 studies, 5524 participants, moderate‐quality of evidence), nor in quality of life (MD 0.00; 95% CI ‐0.02 to 0.02, 3 studies, 5482 participants, high‐quality evidence). 
+When all studies, irrespective of risk of bias, were included, SSRIs reduced disability scores but not the proportion independent. 
+There was insufficient data to perform a meta‐analysis of outcomes at end of follow‐up.
+Several small ongoing studies are unlikely to alter conclusions.
+Authors' conclusions
+There is high‐quality evidence that SSRIs do not make a difference to disability or independence after stroke compared to placebo or usual care, reduced the risk of future depression, increased bone fractures and probably increased seizure risk. 

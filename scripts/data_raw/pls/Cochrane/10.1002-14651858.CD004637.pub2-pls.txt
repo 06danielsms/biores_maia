@@ -1,0 +1,15 @@
+Antibiotic prophylaxis for elective hysterectomy
+Review question 
+Are antibiotics effective and safe for preventing postoperative infection in women undergoing elective (non‐urgent) hysterectomy? 
+Background 
+Surgical operation carried out to remove the uterus (hysterectomy) is commonly performed. Most cases are performed as non‐urgent (elective) procedures for non‐cancerous (benign) conditions affecting the uterus, such as menstrual pain or abnormal bleeding patterns. Antibiotics are usually given before the operation is performed (prophylactic antibiotics, or antibiotic prophylaxis) to prevent or reduce the occurrence of infection after the procedure. Researchers in the Cochrane Collaboration reviewed the evidence on effectiveness and safety of antibiotics used to prevent infection after non‐urgent surgical operation to remove the uterus. Evidence is current to November 2016. 
+Study characteristics 
+We identified 37 randomised controlled trials (RCTs), which included a total of 6079 women and compared 20 different types of antibiotics versus placebo (an inactive pill) or versus one another. 
+Key results 
+This review found moderate‐quality evidence showing that antibiotics appear to be effective in preventing infection in women undergoing non‐urgent surgical removal of the uterus through the vagina or abdomen. This suggests that antibiotic prophylaxis reduces the average risk of postoperative infection after vaginal hysterectomy from about 62% to 12% to 25%, and after abdominal hysterectomy from about 39% to 8% to 26%. 
+However, evidence is insufficient to show whether use of prophylactic antibiotics influences rates of adverse effects (side effects), or whether any one antibiotic is more effective or safer than the others. 
+When antibiotics are compared head‐to‐head or in combination versus single antibiotics, it is unclear which individual antibiotic was more effective and safer, or whether combined antibiotics were more effective and safer than single antibiotics. The quality of the evidence for these comparisons is very low. 
+It is also unclear which dose regimen or route of administration of antibiotics is safest or most effective in women undergoing elective hysterectomy. 
+The most recent of the studies included in this review was published 14 years ago, at the time of our search. Thus findings from the included studies may not reflect current practice in perioperative and postoperative care and may not show locoregional antimicrobial resistance patterns. 
+Quality of the evidence 
+The quality of evidence for our main comparisons ranged from very low to moderate. The main limitations of this evidence are risk of bias due to poor reporting of randomisation methods, imprecision due to small sample sizes and low event rates, and inadequate reporting of adverse effects. 

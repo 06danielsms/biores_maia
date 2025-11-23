@@ -1,0 +1,15 @@
+Background
+Surgery has been the treatment of choice for patients with localized esophageal cancer. Several studies have investigated whether preoperative chemotherapy followed by surgery leads to improvement in cure rates, but individual reports have provided conflicting results. An explicit systematic update of the role of preoperative chemotherapy in the treatment of patients with resectable thoracic esophageal cancer is, therefore, warranted. 
+Objectives
+The objective of this review is to determine the role of preoperative chemotherapy in the treatment of patients with resectable thoracic esophageal carcinoma. 
+Search methods
+We identified trials by searching the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (1966 to 2013), EMBASE (1988 to 2013), and CANCERLIT (1993 to 2013). We did not confine our search to English language publications. We updated searches in CENTRAL, MEDLINE, and EMBASE in October 2013. 
+Selection criteria
+All trials of patients with potentially resectable carcinoma of the esophagus (of any histologic type) who were randomly assigned to chemotherapy or no chemotherapy before surgery. 
+Data collection and analysis
+The primary outcome was survival, which was assessed with the use of hazard ratios. This is an amendment to the original review, which used risk ratios to assess survival at yearly intervals. Hazard ratios (HRs) have now been introduced to summarize the complete survival experience in a single analysis. Risk ratios (RRs) were used to compare rates of resection, tumor recurrences, and treatment morbidity and mortality. 
+Main results
+We identified a total of 13 randomized trials involving 2362 participants. Ten trials (2122 participants) reported sufficient detail on survival to be included in a meta‐analysis for the primary outcome. Preoperative chemotherapy improves overall survival (HR 0.88, 95% confidence interval (CI) 0.80 to 0.96) and is associated with a significantly higher rate of complete (R0) resection (RR 1.11, 95% CI 1.03 to 1.19). 
+No evidence suggests that the overall rate of resection (RR 0.96, 95% CI 0.92 to 1.01), tumor recurrence (RR 0.81, 95% CI 0.54 to 1.22) or nonfatal complications (RR 0.90; 95% CI 0.76 to 1.06) was different for preoperative chemotherapy compared with surgery alone. Trials reported risks of toxicity with chemotherapy that ranged from 11% to 90%. 
+Authors' conclusions
+In summary, preoperative chemotherapy plus surgery offers a survival advantage compared with surgery alone for patients with resectable thoracic esophageal cancer, but the evidence is of moderate quality. Some evidence of toxicity and preoperative mortality have been associated with chemotherapy. 

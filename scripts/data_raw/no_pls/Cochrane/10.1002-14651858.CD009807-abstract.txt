@@ -1,0 +1,14 @@
+Background
+Fibromyalgia (FM) syndrome is a chronic condition of unknown aetiology characterised by musculoskeletal pain that often co‐exists with sleep disturbance, cognitive dysfunction and fatigue. Patients often report high disability levels and poor quality of life. Since there is no specific treatment that alters the pathogenesis of FM, drug therapy focuses on pain reduction and improvement of other bothersome symptoms. 
+Objectives
+The objective of this review was to assess the effectiveness and safety of monoamine oxidase inhibitors (MAOIs) in the treatment of FM syndrome. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 10), MEDLINE (1966 to November 2010), EMBASE (1980 to November 2010) and the reference lists of reviewed articles. 
+Selection criteria
+We selected all randomised, double‐blind trials of MAOIs used for the treatment of FM pain in adult participants. 
+Data collection and analysis
+Two authors assessed risk of bias and extracted data independently onto a specially designed pro forma and a third review author cross‐checked them. 
+Main results
+We included two studies of inconsistent risk of bias with a total of 230 patients diagnosed with FM. We evaluated two MAOIs: pirlindole and moclobemide. Pirlindole showed statistically significant results compared with placebo for several outcomes (pain, tender points and overall assessment by the patient and the physician), whereas moclobemide did not show statistically significant differences between groups. Pooled results of the two studies displayed a modest effect size in pain (mean difference (MD) ‐1.45 (121 patients; 95% confidence interval (CI) ‐2.71 to ‐0.20; number needed to treat (NNT) 2 (95% CI 1 to 12); I2 = 59%)), implying a minimal clinically important difference (MCID) and a small effect on tender points (standardised mean difference (SMD) ‐0.36 (121 patients; 95% CI ‐0.72 to ‐0.00; I2 = 31%)). No effect was seen on global assessment by patient. Physical function and sleep disturbance were not measured. The most frequent adverse events were nausea and vomiting, with statistically significant differences between groups (risk ratio (RR) 7.82 (89 patients; 95% CI 1.02 to 59.97; NNT 7 (95% CI 4 to 33)). 
+Authors' conclusions
+Data suggest that the effectiveness of MAOIs for the treatment of FM symptoms is limited. Although we observed a moderate effect size on pain and a small one on tender points, these results should be taken with caution as they are only based on two studies with a small number of patients and inconsistent risk of bias among them. 

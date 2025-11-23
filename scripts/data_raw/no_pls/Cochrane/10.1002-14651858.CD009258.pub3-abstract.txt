@@ -1,0 +1,15 @@
+Background
+This is an updated version of the original Cochrane Review published in Issue 10, 2014. There is a need to expand monotherapy options available to a clinician for the treatment of new focal or generalized seizures. A Cochrane systematic review for clobazam monotherapy is expected to define its place in the treatment of new‐onset or untreated seizures and highlight gaps in evidence. 
+Objectives
+To evaluate the efficacy, effectiveness, tolerability and safety of clobazam as monotherapy in people with new‐onset focal or generalized seizures. 
+Search methods
+For the latest update we searched the following databases on 19 March 2018: the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946‐ ), BIOSIS Previews (1969‐ ), ClinicalTrials.gov, and the World Health Organization International Clinical Trials Registry Platform (ICTRP). There were no language restrictions. 
+Selection criteria
+Randomized or quasi‐randomized controlled trials comparing clobazam monotherapy versus placebo or other anti‐seizure medication in people with two or more unprovoked seizures or single acute symptomatic seizure requiring short‐term continuous anti‐seizure medication, were eligible for inclusion. 
+Data collection and analysis
+Primary outcome measure was time on allocated treatment (retention time), reflecting both efficacy and tolerability. Secondary outcomes included short‐ and long‐term effectiveness measures, tolerability, quality of life, and tolerance measures. Two authors independently extracted the data. 
+Main results
+We identified three trials fulfilling the review criteria, which included 206 participants. None of the identified studies reported the preselected primary outcome measure. A meta‐analysis was not possible. Lack of detail regarding allocation concealment and a high risk of performance and detection bias in two studies prompted us to downgrade the quality of evidence (by using the GRADE approach) for some of our results due to risk of bias. 
+Regarding retention at 12 months, we detected no evidence of a statistically significant difference between clobazam and carbamazepine (risk ratio (RR) 0.83, 95% confidence interval (CI) 0.61 to 1.12; low‐quality evidence). There was low‐quality evidence that clobazam led to better retention compared with phenytoin (RR 1.43, 95% CI 1.08 to 1.90). We could not determine whether participants receiving clobazam were found to be less likely to discontinue it due to adverse effects as compared to phenytoin (RR 0.10, 95% CI 0.01 to 1.65, low‐quality evidence). 
+Authors' conclusions
+We found no advantage for clobazam over carbamazepine for retention at 12 months in drug‐naive children and a slight advantage of clobazam over phenytoin for retention at six months in adolescents and adults with neurocysticercosis in a single clinical trial each. At present, the available evidence is insufficient to inform clinical practice. 

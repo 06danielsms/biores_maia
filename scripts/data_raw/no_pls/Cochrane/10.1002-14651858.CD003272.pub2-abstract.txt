@@ -1,0 +1,14 @@
+Background
+Asthma is a chronic disease of inflammation and smooth muscle dysfunction, including bronchoconstriction. These symptoms are usually associated with widespread but variable airflow obstruction that is often reversible either spontaneously or with treatment. Psychological factors may influence the symptoms and management of asthma in children in many ways, for example, evidence suggests that emotional stress can either precipitate or exacerbate both acute and chronic asthma. 
+Objectives
+To assess the efficacy of psychological interventions in improving health and behavioural outcomes for children with asthma. 
+Search methods
+The Cochrane Airways Group Specialised Register and PsycINFO were searched with pre‐defined terms up until April 2007. 
+Selection criteria
+Randomised controlled trials published in any language assessing the effects of a psychological intervention compared with a control intervention in children and adolescents with asthma were included in the review. Cross‐over trials were considered inappropriate for studies using psychological interventions and were therefore excluded from this systematic review. 
+Data collection and analysis
+Two reviewers assessed the relevance of abstracts identified by electronic searching and retrieved agreed studies for further scrutiny. The studies that met the inclusion criteria were assembled and data extracted. 
+Main results
+Twelve studies (588 children) were included in the review. Study quality was poor and sample sizes were frequently small. A meta‐analysis was possible on two studies only examining the effects of relaxation therapy on PEFR which favoured the treatment group (32 L/min, 95% CI 13 to 50 L/min). No other meta‐analysis could be performed due to the diversity of interventions and the outcomes assessed. In addition, many studies reported insufficient data. 
+Authors' conclusions
+This review was unable to draw firm conclusions for the role of psychological interventions for children with asthma. This review demonstrates the absence of an adequate evidence base and highlights the need for well‐conducted and reported randomised trials in this area. 

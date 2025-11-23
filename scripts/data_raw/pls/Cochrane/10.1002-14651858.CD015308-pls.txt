@@ -1,0 +1,32 @@
+Are medicines that block interleukin‐1 (a protein involved in immune responses) effective treatments for COVID‐19 and do they cause unwanted effects? 
+Key messages 
+• Overall, we did not find sufficient evidence to show that medicines that block interleukin‐1 (a protein involved in immune responses) are effective treatments for people with COVID‐19, or whether they cause unwanted effects. 
+• We found 16 studies with unpublished results. We will update this review when new data are available. 
+• In future, we need high‐quality studies to evaluate medicines that block interleukin‐1 to treat COVID‐19.  
+What is interleukin‐1 and what is its role in COVID‐19? 
+Interleukin‐1 (IL‐1) is a type of protein called a cytokine, which helps to regulate the body’s immune system. In particular, IL‐1 triggers inflammation to help fight infection. In COVID‐19, as the immune system fights the virus, the lungs and airways become inflamed, causing breathing difficulties. However, in some people, the immune system can over‐react (called a ‘cytokine storm’) and produce dangerously high levels of inflammation and tissue damage. This can lead to severe breathing difficulties, organ failure and death. 
+What are interleukin‐1 ‘blockers’? 
+IL‐1 blockers are medicines that stop IL‐1 from working by blocking signals from IL‐1 to other parts of the immune system. This reduces inflammation and may help the immune system to fight COVID‐19. In turn, this may reduce the need for breathing support with a ventilator (a machine that breathes for a patient) and reduce the number of deaths from COVID‐19. Three IL‐1 blockers are available: anakinra, canakinumab and rilonacept. 
+What did we want to find out? 
+We wanted to know if IL‐1 blockers are effective treatments for people with COVID‐19, compared with standard care alone or with placebo (a dummy treatment that appears identical to the medicine being tested but without any active medicine). We were particularly interested in the effects of IL‐1 blockers on: 
+•  whether people’s symptoms got better or worse;
+•  how many people died; and
+•  any unwanted effects and serious unwanted effects.
+What did we do? 
+We searched for studies that assessed the effects of IL‐1 blockers to treat people with COVID‐19 compared with standard care alone or with placebo. People in the studies could have suspected or confirmed COVID‐19 of any severity (mild, moderate or severe), and be any age or sex. 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We found six studies with 2132 people. Four studies assessed anakinra (1633 people) and two assessed canakinumab (499 people). People in the studies were aged between 58 and 68 years old on average, and the majority were men. All the people in the studies were in hospital, mainly with moderate to critical COVID‐19. The studies varied in size, from 45 to 2253 people. At the start of the studies, 67% to 100% of people were receiving oxygen, and 0% to 33% were on a ventilator. 
+We also found 16 studies that have not yet published their results.
+Anakinra compared to usual care and placebo to treat people with COVID‐19 
+• Anakinra probably results in little or no improvement in COVID‐19 symptoms (defined as improvement on a clinical scale or discharge from hospital) at 28 days after treatment (three studies, 837 people) but we do not know if it makes a difference at 60 days (one study, 115 people). 
+• We do not know if anakinra makes a difference to the number of deaths at 28 days after treatment (two studies, 722 people) or at 60 days (four studies, 1633 people). 
+• Anakinra probably results in little or no increase in any unwanted effects at 28 days after treatment, but we are not sure about its effect on serious unwanted effects (two studies, 722 people).  
+Canakinumab compared to usual care and placebo to treat people with COVID‐19 
+• Canakinumab probably results in little or no improvement in COVID‐19 symptoms (defined as improvement on a clinical scale or discharge from hospital) at 28 days after treatment (two studies, 499 people).  
+• We do not know if canakinumab makes a difference to the number of deaths at 28 days after treatment (two studies, 499 people) or at 60 days (one study, 45 people).  
+• Canakinumab probably results in little or no increase in any unwanted effects (one study, 454 people), but we are not sure about its effect on serious unwanted effects (two studies, 499 people) at 28 days.  
+What are the limitations of the evidence? 
+Our confidence in the evidence is limited for several reasons. All the people in the studies were hospitalised, but some were more seriously ill than others ‐ some studies only included people on a ventilator. Usual care also differed between studies, and studies measured and reported their results using different methods.  
+How up to date is this evidence? 
+The evidence is up to date to 5 November 2021.

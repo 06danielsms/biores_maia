@@ -1,0 +1,12 @@
+Adding abiraterone acetate to androgen deprivation therapy for the treatment of metastatic hormone‐sensitive prostate cancer 
+Review question 
+The aim of this review was to find out what the effect of adding abiraterone was, in men with prostate cancer, who were receiving and still responding to hormone therapy. 
+Background 
+Abiraterone acetate is a medication that blocks the effect of male sex hormones, and thereby, slows down prostate cancer growth.  
+More than 15% of men diagnosed with prostate cancer present with disease that has spread beyond the prostate. Another 15% to 30% of men who undergo primary treatment will experience a return of their cancer. Hormone therapy (drugs to reduce the level of male hormones) has been the main treatment for advanced disease, but this does not work forever. Recent studies have looked at whether drugs that block the growth of prostate cancer cells, such as abiraterone acetate, can improve how men do. 
+Study characteristics 
+We found two studies (specifically, studies in which 'chance' decided what treatment men got), with a total of 2201 men. The studies compared abiraterone acetate and hormone therapy to hormone therapy alone. In one of the studies, most of the included men had high risk prostate cancer, and had previously undergone local treatment. In the other study, most men had not had previous treatment to their prostate. The evidence is current to 15 May 2020. 
+Key results 
+Adding abiraterone acetate to hormone therapy improves overall survival but probably not quality of life. It probably improves cancer‐specific survival and reduces disease progression. However, there is also an increase in severe and life‐threatening side effects, likely leading to discontinued treatment, with the addition of abiraterone acetate. 
+Quality of the evidence 
+We judged the certainty of the evidence to be high for overall survival (time to death from any cause), and severe and life‐threatening side effects. This means that our estimates are likely to be close to the actual effect for these outcomes. The certainty of the evidence was moderate for quality of life, cancer‐specific survival (time to death from prostate cancer), time to disease progression, and discontinued treatment due to adverse events. This means that our estimates are likely to be close to the actual effect, but there were some limitations in the studies that reduced our confidence in the results. 

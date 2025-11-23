@@ -1,0 +1,14 @@
+Background
+Studies in animal models have suggested that naloxone, a specific opiate antagonist, may improve outcomes for newborn infants with perinatal asphyxia. 
+Objectives
+To assess the effects of naloxone versus placebo or no drug, and of single versus multiple doses of naloxone, on mortality, long term neurological problems, severity of hypoxic‐ischaemic encephalopathy, and frequency of neonatal seizures in newborn infants greater than 34 weeks gestation with suspected perinatal asphyxia. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. This included searches of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2007), MEDLINE (1966 ‐ February 2007), EMBASE (1980 ‐ February 2007), conference proceedings, and previous reviews. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing naloxone versus placebo, or no drug, or another dose of naloxone, in newborn infants of greater than 34 weeks' gestation with suspected perinatal asphyxia. 
+Data collection and analysis
+Data was extracted using the standard methods of the Cochrane Neonatal Review Group, with separate evaluation of trial quality and data extraction by two authors. The pre‐specified outcomes for this review were: death before hospital discharge, severe neurodevelopmental disability, severity of hypoxic‐ischaemic encephalopathy, and seizures in the neonatal period. 
+Main results
+Only one eligible randomised controlled trial was identified. This study compared the use of naloxone with placebo in newborn infants with an Apgar score of six or less at one minute after birth. There were not any data on the pre‐specified outcomes for this review. 
+Authors' conclusions
+There are insufficient data available to evaluate the safety and effectiveness of the routine use of naloxone for newborn infants of greater than 34 weeks' gestation with suspected perinatal asphyxia. A further randomised controlled trial is needed to determine if naloxone benefits newborn infants with suspected perinatal asphyxia. Such a trial should assess clinically important outcomes such as mortality, and adverse short and long term neurological outcomes. 

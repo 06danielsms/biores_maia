@@ -1,0 +1,13 @@
+Endovascular treatment for vertebral artery stenosis
+Question 
+Is endovascular treatment plus medical treatment beneficial for people with symptomatic vertebral artery stenosis compared to medical treatment alone? 
+Background 
+The vertebral artery is the blood vessel that supplies the back of the brain. Narrowing of this vessel (vertebral artery stenosis) is an important cause of stroke, but not everyone who has vertebral artery stenosis will have symptoms. Medical treatment (mainly including controlling risk‐factors and drug treatment), surgery, and endovascular treatment (dilation of the artery with a balloon from inside the artery, e.g. percutaneous transluminal angioplasty, with or without insertion of a small mesh tube (stenting)) are the main approaches when vertebral artery stenosis causes symptoms (symptomatic vertebral artery stenosis). However, the optimal management for people with symptomatic vertebral artery stenosis has not yet been established. We reviewed studies that compared endovascular treatment plus medical treatment to medical treatment alone for symptomatic vertebral artery stenosis. 
+Search date 
+We searched various electronic databases of clinical trial data on 23 July 2021, to find studies that would help us answer the research question. 
+Study characteristics 
+We included three trials with a combined total of 349 people who had symptomatic vertebral artery stenosis. All trials were carried out across multiple centres. Two trials randomised patients with an intracranial or extracranial vertebral artery stenosis to endovascular treatment plus medical treatment or medical treatment alone. One trial randomised patients only with intracranial vertebral artery stenosis to endovascular treatment plus medical treatment or medical treatment alone. 
+Key results 
+We did not find any significant differences in the risk of dying or having a stroke between the people who received endovascular treatment as well as medical treatment and those who just received medical treatment. 
+Certainty of the evidence 
+We have low to moderate confidence in the results of the studies: our confidence is not higher because people knew who was having which treatment and some outcomes have a wide confidence interval due to a small number of patients with endpoint events. 

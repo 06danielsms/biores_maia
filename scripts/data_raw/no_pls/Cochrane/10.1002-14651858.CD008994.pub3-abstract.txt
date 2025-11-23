@@ -1,0 +1,22 @@
+Background
+Uterine fibroids can cause heavy menstrual bleeding. Medical treatments are considered to preserve fertility. It is unclear whether progestogens or progestogen‐releasing intrauterine systems can reduce fibroid‐related symptoms. This is the first update of a Cochrane Review published in 2013. 
+Objectives
+To determine the effectiveness of progestogens or progestogen‐releasing intrauterine systems in treating premenopausal women with uterine fibroids. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, and PsycINFO databases to July 2020. We also searched trials registers for ongoing and registered trials, and checked references of relevant trials. 
+Selection criteria
+All identified published or unpublished randomised controlled trials (RCTs) assessing the effect of progestogens or progestogen‐releasing intrauterine systems in treating premenopausal women with uterine fibroids. 
+Data collection and analysis
+Two authors independently extracted data, assessed risk of bias, and assessed the quality of the evidence using the GRADE approach. 
+Main results
+This updated review included four studies with 221 women with uterine fibroids. The evidence was very low quality, downgraded for serious risk of bias, due to poor reporting of study methods, and serious imprecision. 
+Levonorgestrel‐releasing intrauterine device (LNG‐IUS) versus hysterectomy 
+There was no information on the outcomes of interest, including adverse events.
+LNG‐IUS versus low dose combined oral contraceptive (COC) 
+At 12 months, we are uncertain whether LNG‐IUS reduced the percentage of abnormal uterine bleeding, measured with the alkaline hematin test (mean difference (MD) 77.50%, 95% confidence interval (CI) 70.44 to 84.56; 1 RCT, 44 women; very low‐quality evidence), or the pictorial blood assessment chart (PBAC; MD 34.50%, 95% CI 11.59 to 57.41; 1 RCT, 44 women; very low‐quality evidence); increased haemoglobin levels (MD 1.50 g/dL, 95% CI 0.85 to 2.15; 1 RCT, 44 women; very low‐quality evidence), or reduced fibroid size more than COC (MD 1.90%, 95% CI ‐12.24 to 16.04; 1 RCT, 44 women; very low‐quality evidence). The study did not measure adverse events. 
+LNG‐IUS versus oral progestogen (norethisterone acetate (NETA)) 
+Compared to NETA, we are uncertain whether LNG‐IUS reduced abnormal uterine bleeding more from baseline to six months (visual bleeding score; MD 23.75 points, 95% CI 1.26 to 46.24; 1 RCT, 45 women; very low‐quality evidence); increased the percentage of change in haemoglobin from baseline to three months (MD 4.53%, 95% CI 1.46 to 7.60; 1 RCT, 48 women; very low‐quality evidence), or from baseline to six months (MD 10.14%, 95% CI 5.57 to 14.71; 1 RCT, 45 women; very low‐quality evidence). The study did not measure fibroid size. Spotting (adverse event) was more likely to be reported by women with the LNG‐IUS (64.3%) than by those taking NETA (30%; 1 RCT, 45 women; very low‐quality evidence). 
+Oral progestogen (dienogest, desogestrel) versus goserelin acetate 
+Compared to goserelin acetate, we are uncertain whether abnormal uterine bleeding was reduced at 12 weeks with dienogest (PBAC; MD 216.00 points, 95% CI 149.35 to 282.65; 1 RCT, 14 women; very low‐quality evidence) or desogestrel (PBAC; MD 78.00 points, 95% CI 28.94 to 127.06; 1 RCT, 16 women; very low‐quality evidence). Vasomotor symptoms (adverse events, e.g. hot flashes) are only associated with goserelin acetate (55%), not with dienogest (1 RCT, 14 women; very low‐quality evidence) or with desogestrel (1 RCT, 16 women; very low‐quality evidence). The study did not report fibroid size. 
+Authors' conclusions
+Because of very low‐quality evidence, we are uncertain whether the LNG‐IUS reduces abnormal uterine bleeding or increases haemoglobin levels in premenopausal women with uterine fibroids, compared to COC or norethisterone acetate. There was insufficient evidence to determine whether the LNG‐IUS reduces the size of uterine fibroids compared to COC. We are uncertain whether oral progestogens reduce abnormal uterine bleeding as effectively as goserelin acetate, but women reported fewer adverse events, such as hot flashes. 

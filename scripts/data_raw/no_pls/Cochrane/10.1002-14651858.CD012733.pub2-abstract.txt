@@ -1,0 +1,14 @@
+Background
+Bronchiectasis is a chronic airway disease characterised by a destructive cycle of recurrent airway infection, inflammation and tissue damage. Antibiotics are a main treatment for bronchiectasis. The aim of continuous therapy with prophylactic antibiotics is to suppress bacterial load, but bacteria may become resistant to the antibiotic, leading to a loss of effectiveness. On the other hand, intermittent prophylactic antibiotics, given over a predefined duration and interval, may reduce antibiotic selection pressure and reduce or prevent the development of resistance. This systematic review aimed to evaluate the current evidence for studies comparing continuous versus intermittent administration of antibiotic treatment in bronchiectasis in terms of clinical efficacy, the emergence of resistance and serious adverse events. 
+Objectives
+To evaluate the effectiveness of continuous versus intermittent antibiotics in the treatment of adults and children with bronchiectasis, using the primary outcomes of exacerbations, antibiotic resistance and serious adverse events. 
+Search methods
+On 1 August 2017 and 4 May 2018 we searched the Cochrane Airways Review Group Specialised Register (CAGR), CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL, and AMED. On 25 September 2017 and 4 May 2018 we also searched www.clinicaltrials.gov, the World Health Organization (WHO) trials portal, conference proceedings and the reference lists of existing systematic reviews. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) of adults or children with bronchiectasis that compared continuous versus intermittent administration of long‐term prophylactic antibiotics of at least three months' duration. We considered eligible studies reported as full‐text articles, as abstracts only and unpublished data. 
+Data collection and analysis
+Two review authors independently screened the search results and full‐text reports.
+Main results
+We identified 268 unique records. Of these we retrieved and examined 126 full‐text reports, representing 114 studies, but none of these studies met our inclusion criteria. 
+Authors' conclusions
+No randomised controlled trials have compared the effectiveness and risks of continuous antibiotic therapy versus intermittent antibiotic therapy for bronchiectasis. High‐quality clinical trials are needed to establish which of these interventions is more effective for reducing the frequency and duration of exacerbations, antibiotic resistance and the occurrence of serious adverse events. 

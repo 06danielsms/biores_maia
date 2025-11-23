@@ -1,0 +1,16 @@
+Background
+Art therapy is defined by the British Association of Art Therapists as: “a form of psychotherapy that uses art media as its primary mode of communication. Clients who are referred to an art therapist need not have experience or skill in art. The art therapist is not primarily concerned with making an aesthetic or diagnostic assessment of the client’s image. The overall aim of its practitioners is to enable a client to change and grow on a personal level through the use of art materials in a safe and facilitating environment”. Historically, drawings and paintings have been recognised as a useful part of therapeutic processes within psychiatric and psychological specialties, and this has been acknowledged within medical and neurology‐based disciplines. 
+Arts‐based therapies are generally considered as interventions managing manifestations of dementia, as they may help to slow cognitive deterioration, address symptoms related to psychosocially challenging behaviours and improve quality of life. 
+Objectives
+To review the effects of art therapy as an adjunctive treatment for dementia compared with standard care and other non‐pharmacological interventions. 
+Search methods
+We identified trials from ALOIS ‐ the Cochrane Dementia and Cognitive Improvement Group’s Specialised Register ‐ on 12 May 2014, 20 March 2015, 15 January 2016, 4 November 2016, and 4 October 2017. We also handsearched the grey literature and contacted specialists in the field and authors of relevant reviews or studies to enquire about other sources of relevant information. 
+Selection criteria
+All randomised controlled trials examining art therapy as an intervention for dementia.
+Data collection and analysis
+Two review authors independently extracted data. We examined scales measuring cognition, affect and emotional well‐being, social functioning, behaviour and quality of life. 
+Main results
+We found two studies that met the inclusion criteria, incorporating data on a total of 60 participants (from 88 randomised), in experimental groups (n = 29) and active control groups (n = 31). One study compared group art therapy with simple calculation activities over 12 weeks. The other study compared group art therapy with recreational activities over 40 weeks. It was not possible to pool the data for analysis from the included studies, due to heterogeneity in terms of differences in the interventions, control treatments and choice of outcome measures. 
+In both studies there were no clear changes reported between the intervention group and the control group in the important outcome measures. According to GRADE ratings, we judged the quality of evidence for these outcome measures to be 'very low'. 
+Authors' conclusions
+There is insufficient evidence about the efficacy of art therapy for people with dementia. More adequately‐powered and high‐quality studies using relevant outcome measures are needed. 

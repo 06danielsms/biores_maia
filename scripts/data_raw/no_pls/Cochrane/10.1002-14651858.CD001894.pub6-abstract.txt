@@ -1,0 +1,20 @@
+Background
+Failure of implantation and conception may result from inability of the blastocyst to escape from its outer coat, which is known as the zona pellucida. Artificial disruption of this coat is known as assisted hatching and has been proposed as a method for improving the success of assisted conception by facilitating embryo implantation. 
+Objectives
+To determine effects of assisted hatching (AH) of embryos derived from assisted conception on live birth and multiple pregnancy rates.  
+Search methods
+We searched the following databases (from their inception to 27 May 2020), with no language or date restriction: Cochrane Gynaecology and Fertility Group (CGFG) specialised register, CENTRAL, MEDLINE, Embase and PsycINFO. We checked reference lists of relevant studies and searched the trial registers. 
+Selection criteria
+Two review authors identified and independently screened trials. We included randomised controlled trials (RCTs) of AH (mechanical, chemical, or laser disruption of the zona pellucida before embryo replacement) versus no AH that reported live birth or clinical pregnancy data. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Two review authors independently performed quality assessments and data extraction. 
+Main results
+We included 39 RCTs (7249 women). All reported clinical pregnancy data, including 2486 clinical pregnancies. Only 14 studies reported live birth data, with 834 live birth events. The quality of evidence ranged from very low to low. The main limitations were serious risk of bias associated with poor reporting of study methods, inconsistency, imprecision, and publication bias. Five trials are currently ongoing. 
+We are uncertain whether assisted hatching improved live birth rates compared to no assisted hatching (odds ratio (OR) 1.09, 95% confidence interval (CI) 0.92 to 1.29; 14 RCTs, N = 2849; I² = 20%; low‐quality evidence). This analysis suggests that if the live birth rate in women not using assisted hatching is about 28%, the rate in those using assisted hatching will be between 27% and 34%. 
+Analysis of multiple pregnancy rates per woman showed that in women who were randomised to AH compared with women randomised to no AH, there may have been a slight increase in multiple pregnancy rates (OR 1.38, 95% CI 1.13 to 1.68; 18 RCTs, N = 4308; I² = 48%; low‐quality evidence). This suggests that if the multiple pregnancy rate in women not using assisted hatching is about 9%, the rate in those using assisted hatching will be between 10% and 14%. 
+When all of the included studies (39) are pooled, the clinical pregnancy rate in women who underwent AH may improve slightly in comparison to no AH (OR 1.20, 95% CI 1.09 to 1.33; 39 RCTs, N = 7249; I² = 55%; low‐quality evidence). However, when a random‐effects model is used due to high heterogeneity, there may be little to no difference in clinical pregnancy rate (P = 0.04). 
+All 14 RCTs that reported live birth rates also reported clinical pregnancy rates, and analysis of these studies illustrates that AH may make little to no difference in clinical pregnancy rates when compared to no AH (OR 1.07, 95% CI 0.92 to 1.25; 14 RCTs, N = 2848; I² = 45%). 
+We are uncertain about whether AH affects miscarriage rates due to the quality of the evidence (OR 1.13, 95% CI 0.82 to 1.56; 17 RCTs, N = 2810; I² = 0%; very low‐quality evidence). 
+Authors' conclusions
+This update suggests that we are uncertain of the effects of assisted hatching (AH) on live birth rates. AH may lead to increased risk of multiple pregnancy. The risks of complications associated with multiple pregnancy may be increased without evidence to demonstrate an increase in live birth rate, warranting careful consideration of the routine use of AH for couples undergoing in vitro fertilisation (IVF) or intracytoplasmic sperm injection (ICSI). 
+AH may offer a slightly increased chance of achieving a clinical pregnancy, but data quality was of low grade. We are uncertain about whether AH influences miscarriage rates. 

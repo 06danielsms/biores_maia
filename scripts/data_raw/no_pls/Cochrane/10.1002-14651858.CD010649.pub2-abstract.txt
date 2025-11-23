@@ -1,0 +1,33 @@
+Background
+Some hospital patients may be at risk of or may present with major bleeding. Abnormalities of clotting (coagulation) are often recorded in these people, and the traditional management has been with transfusions of blood components, either to prevent bleeding (prophylactic) or to treat bleeding (therapeutic). There is growing interest in the use of targeted therapies with specific pro‐coagulant haemostatic (causing bleeding to stop and to keep blood within a damaged blood vessel) factor concentrates in place of plasma. 
+Objectives
+To assess the effects and safety of pro‐coagulant haemostatic factors and factor concentrates in the prevention and treatment of bleeding in people without haemophilia. 
+Search methods
+We searched for randomised controlled trials (RCTs) in the Cochrane Central Register of Controlled Trials (2018, issue 3), MEDLINE (from 1948), Embase (from 1974), CINAHL (from 1938), PubMed (publications in process to 18 April 2018), PROSPERO, Transfusion Evidence Library (from 1950), LILACS (from 1980), IndMED (from 1985), KoreaMed (from 1934), Web of Science Conference Proceedings Citation Index (from 1990) and ongoing trial databases to 18 April 2018. 
+Selection criteria
+We included RCTs that compared intravenous administration of a pro‐coagulant haemostatic factor concentrate, either with placebo, current best or standard treatment, or another pro‐coagulant haemostatic factor concentrate for prevention or treatment of bleeding. There was no restriction on the types of participants. We excluded studies of desmopressin, tranexamic acid and aminocaproic acid and use of pro‐coagulant haemostatic factors for vitamin K over‐anticoagulation. 
+Data collection and analysis
+We followed standard Cochrane methodological procedures.
+Main results
+We identified 31 RCTs with 2392 participants and 22 ongoing trials. There were 13 therapeutic RCTs that randomised 1057 participants (range from 20 to 249 participants) and 18 prophylactic trials that randomised 1335 participants (range 20 to 479 participants). The pro‐coagulant haemostatic factor concentrate was fibrinogen in 23 trials, Factor XIII in seven trials and pro‐thrombin complex concentrates (PCC) in one trial. 
+Seventeen trials had industrial funding or support, eight studies either did not declare their funding or were unclear about their source of funding and six studies declared non‐industrial funding sources. 
+Certainty in the evidence and included study bias 
+Our certainty in the evidence, using GRADE criteria, ranged from very low to high across all outcomes. We assessed most outcomes as being of low certainty. Risks of bias were a concern in many of the RCTs; randomisation methodology was unclear in 15 RCTs, with allocation concealment unclear in 14 RCTs and at high risk of bias in five RCTs. The blinding status of outcome assessors was unclear in 13 RCTs and at high risk of bias in five RCTs, although most outcomes in these trials were objective and not prone to observer bias. Study personnel were often unblinded or insufficient information was available to assess their level of blinding (five RCTs were at unclear risk and seven at high risk of bias). 
+Primary outcomes 
+All‐cause mortality was reported by 21 RCTs, arterial thromboembolic events by 22 RCTs, and venous thromboembolic events by 21 RCTs. 
+Fibrinogen concentrate: prophylactic trials with inactive comparator (nine RCTs) 
+The trials had heterogeneous clinical settings and outcome time points, so we did not pool the data. Compared to placebo, there was no evidence that prophylactic fibrinogen concentrate reduced all‐cause mortality (4 RCTs; 248 participants). Compared to inactive comparators there was low‐ to moderate‐quality evidence that prophylactic fibrinogen concentrate did not increase the risk of arterial or venous thromboembolic complications (7 RCTs; 398 participants). 
+Fibrinogen concentrate: prophylactic trials with active comparator (two RCTs) 
+There was no mortality or incidence of thromboembolic events in these two RCTs (with 57 participants). 
+Fibrinogen concentrate: therapeutic trials with inactive comparator (eight RCTs) 
+The trials had heterogeneous surgical settings and outcome time points, so we pooled data for subgroups only. Compared to an inactive comparator, there was no evidence (quality ranging from low to high) that fibrinogen concentrate reduced all‐cause mortality in actively bleeding participants (7 RCTs; 724 participants). Compared to inactive comparators there was no evidence that the use of fibrinogen concentrate in active bleeding increased arterial (7 RCTs; 607 participants) or venous (6 RCTs; 562 participants) thromboembolic events. 
+Fibrinogen concentrate: therapeutic trials with active comparator (four RCTs) 
+We did not pool the outcome data, as they were not measured at comparable time points. Compared to other active pro‐coagulant agents, there was no evidence (very low to moderate quality) that fibrinogen concentrate reduced all‐cause mortality in actively bleeding participants (4 RCTs; 220 participants). There was no evidence that fibrinogen concentrate increased the risk of arterial (3 RCTs; 126 participants) or venous (4 RCTs; 220 participants) thromboembolic events. 
+FactorXIII: Prophylactic trials with inactive comparator (six trials) 
+The trials were heterogeneous in their surgical settings and time points for outcome analysis, so we pooled data for subgroups only. Compared to an inactive comparator, there was no evidence that prophylactic Factor XIII reduced all‐cause mortality (5 RCTs; 414 participants). There was no evidence (very low to low quality) of a difference in the arterial or venous event rate between Factor XIII and inactive comparators (4 trials; 354 participants). 
+FactorXIII: therapeutic trials with inactive comparator (one trial) 
+There was no mortality or incidence of thromboembolic events in this trial.
+Prothrombin complex concentrate (PCC): prophylactic trials with inactive comparator (one trial) 
+There was no evidence (moderate quality) that PCC reduced all‐cause mortality (1 trial; 78 participants). No thromboembolic complications were reported in this trial. 
+Authors' conclusions
+The paucity of good‐quality comparable evidence precludes the drawing of conclusions for clinical practice. Further research is required to determine the risk‐to‐benefit ratio of these interventions. The sample sizes of future RCTs would need to be greatly increased to detect a reduction in mortality or thromboembolic events between treatment arms. To improve consistency in outcome reporting, the development of core outcome sets is essential and may help address a number of the limitations identified in this review. 

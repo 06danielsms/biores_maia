@@ -1,0 +1,14 @@
+Background
+Side effects caused by oral contraceptives discourage compliance with, and continuation of, oral contraceptives (OCs). Three approaches have been used to decrease these adverse effects: reduction of steroid dose, development of new steroids, and new formulas and schedules of administration. The third strategy led to the biphasic oral contraceptive pill. 
+Objectives
+To compare biphasic with monophasic oral contraceptives in terms of efficacy, cycle control, and discontinuation due to side effects. Our a priori hypotheses were: (a) biphasic oral contraceptives are less effective than monophasic OCs in preventing pregnancy; (b) biphasic oral contraceptives cause more side effects, give poorer cycle control, and have lower continuation rates. 
+Search methods
+We searched the computerized databases MEDLINE, POPLINE, LILACS and CENTRAL, as well as clinical trials databases (ClinicalTrials.gov and ICTRP). In addition, we searched the reference lists of relevant articles and book chapters. We also contacted the authors of relevant studies and pharmaceutical companies. 
+Selection criteria
+We included randomized controlled trials comparing any biphasic with any monophasic OC when used to prevent pregnancy. 
+Data collection and analysis
+We examined the studies found during the various literature searches for possible inclusion and assessed their methodology using Cochrane guidelines. We contacted the authors of included studies and possibly randomized studies for information about methodology and outcomes. We entered the data into RevMan, and calculated Peto odds ratios for the incidence of intermenstrual bleeding, absence of withdrawal bleeding, and study discontinuation due to intermenstrual bleeding. 
+Main results
+Only one trial of limited quality compared a biphasic and monophasic preparation. The study examined 533 user cycles of a biphasic pill (500 μg norethindrone plus 35 μg ethinyl estradiol (EE) for 10 days, followed by 1000 μg norethindrone plus 35 μg EE for 11 days; Ortho 10/11) and 481 user cycles of a monophasic contraceptive pill (1500 μg norethindrone acetate plus 30 μg EE daily; Loestrin). The study found no significant differences in intermenstrual bleeding, amenorrhea and study discontinuation due to intermenstrual bleeding between the biphasic and monophasic oral contraceptive pills. 
+Authors' conclusions
+Conclusions are limited by the identification of only one trial, the methodological shortcomings of that trial, and the absence of data on accidental pregnancies. However, the trial found no important differences in bleeding patterns between the biphasic and monophasic preparations studied. Since no clear rationale exists for biphasic pills and since extensive evidence is available for monophasic pills, the latter are preferred. 

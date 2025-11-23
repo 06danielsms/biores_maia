@@ -1,0 +1,18 @@
+Background
+There is increasing evidence that physical activity supports healthy ageing. Exercise is helpful for cardiovascular, respiratory and musculoskeletal systems, among others. Aerobic activity, in particular, improves cardiovascular fitness and, based on recently reported findings, may also have beneficial effects on cognition among older people. 
+Objectives
+To assess the effect of aerobic physical activity, aimed at improving cardiorespiratory fitness, on cognitive function in older people without known cognitive impairment. 
+Search methods
+We searched ALOIS ‐ the Cochrane Dementia and Cognitive Improvement Group's Specialized Register, the Cochrane Controlled Trials Register (CENTRAL) (all years to Issue 2 of 4, 2013), MEDLINE (Ovid SP 1946 to August 2013), EMBASE (Ovid SP 1974 to August 2013), PEDro, SPORTDiscus, Web of Science, PsycINFO (Ovid SP 1806 to August 2013), CINAHL (all dates to August 2013), LILACS (all dates to August 2013), World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (http://apps.who.int/trialsearch), ClinicalTrials.gov (https://clinicaltrials.gov) and Dissertation Abstracts International (DAI) up to 24 August 2013, with no language restrictions. 
+Selection criteria
+We included all published randomised controlled trials (RCTs) comparing the effect on cognitive function of aerobic physical activity programmes with any other active intervention, or no intervention, in cognitively healthy participants aged over 55 years. 
+Data collection and analysis
+Two review authors independently extracted the data from included trials. We grouped cognitive outcome measures into eleven categories covering attention, memory, perception, executive functions, cognitive inhibition, cognitive speed and motor function. We used the mean difference (or standardised mean difference) between groups as the measure of the treatment effect and synthesised data using a random‐effects model. We conducted separate analyses to compare aerobic exercise interventions with no intervention and with other exercise, social or cognitive interventions. Also, we performed analyses including only trials in which an increase in the cardiovascular fitness of participants had been demonstrated. 
+Main results
+Twelve trials including 754 participants met our inclusion criteria. Trials were from eight to 26 weeks in duration. 
+We judged all trials to be at moderate or high risk of bias in at least some domains. Reporting of some risk of bias domains was poor. 
+Our analyses comparing aerobic exercise to any active intervention showed no evidence of benefit from aerobic exercise in any cognitive domain. This was also true of our analyses comparing aerobic exercise to no intervention. Analysing only the subgroup of trials in which cardiorespiratory fitness improved in the aerobic exercise group showed that this improvement did not coincide with improvements in any cognitive domains assessed. Our subgroup analyses of aerobic exercise versus flexibility or balance interventions also showed no benefit of aerobic exercise in any cognitive domain. 
+Dropout rates did not differ between aerobic exercise and control groups. No trial reported on adverse effects. 
+Overall none of our analyses showed a cognitive benefit from aerobic exercise even when the intervention was shown to lead to improved cardiorespiratory fitness. 
+Authors' conclusions
+We found no evidence in the available data from RCTs that aerobic physical activities, including those which successfully improve cardiorespiratory fitness, have any cognitive benefit in cognitively healthy older adults. Larger studies examining possible moderators are needed to confirm whether or not aerobic training improves cognition. 

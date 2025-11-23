@@ -1,0 +1,14 @@
+Background
+Pulmonary disease is a major cause of mortality and morbidity in term and near term infants. Conventional ventilation (CV) has been used for many years but may lead to lung injury, require the subsequent use of more invasive treatment such as extracorporeal membrane oxygenation (ECMO), or result in death. There are some observational studies indicating that high frequency oscillatory ventilation (HFOV) may be more effective in these infants as compared to CV. 
+Objectives
+To determine the effect of HFOV as compared with CV on mortality and morbidity in infants born at 35 weeks gestational age or more with severe respiratory failure requiring mechanical ventilation. 
+Search methods
+Standard search methods of the Cochrane Neonatal Review group were used. These included searches in January 2009 of The Cochrane Library, MEDLINE, EMBASE, previous reviews including cross references, abstracts, conferences and symposia proceedings, expert informants, and journal hand searching by the Cochrane Collaboration. 
+Selection criteria
+Randomized or quasi‐randomized trials comparing HFOV and CV in term or near term infants with intractable respiratory failure were included in this review. 
+Data collection and analysis
+The standard methods of the Cochrane Neonatal Review Group were used. The investigators separately extracted, assessed and coded all data for each study. Any disagreement was resolved by discussion. Data were synthesized using risk ratio [RR with (95% confidence intervals, CI)] and mean difference (with standard deviation, SD). 
+Main results
+Two trials met the inclusion criteria. One trial involving the "elective" use of HFOV randomized 118 infants at the start of CV. The other trial of "rescue" HFOV randomized 81 infants with later respiratory failure on CV. Neither trial showed evidence of a reduction in mortality at 28 days or in failed therapy on the assigned mode of ventilation requiring cross‐over to the other mode. Neither study reported significant differences in the risk of pulmonary air leak, chronic lung disease (28 days or more in oxygen) or intracranial injury. In the study of elective HFOV, there was no difference noted in days on a ventilator or days in hospital. In the one rescue study, there was no difference in the risk of needing extracorporeal membrane oxygenation. 
+Authors' conclusions
+There are no data from randomized controlled trials supporting the use of rescue HFOV in term or near term infants with severe pulmonary dysfunction. The area is complicated by diverse pathology in such infants and by the occurrence of other interventions (surfactant, inhaled nitric oxide, inotropes). Randomized controlled trials are needed to establish the role of elective or rescue HFOV in near term and term infants with pulmonary dysfunction before widespread use of this mode of ventilation in such infants. 

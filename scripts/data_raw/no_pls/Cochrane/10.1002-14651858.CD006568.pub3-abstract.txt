@@ -1,0 +1,19 @@
+Background
+Endometriosis is characterized by the presence of tissue that is morphologically and biologically similar to normal endometrium in locations outside the uterus. Surgical and hormonal treatment of endometriosis have unpleasant side effects and high rates of relapse. In China, treatment of endometriosis using Chinese herbal medicine (CHM) is routine and considerable research into the role of CHM in alleviating pain, promoting fertility, and preventing relapse has taken place. 
+This review is an update of a previous review published in the Cochrane Database of Systematic Reviews 2009, issue No 3. 
+Objectives
+To review the effectiveness and safety of CHM in alleviating endometriosis‐related pain and infertility. 
+Search methods
+We searched the Menstrual Disorders and Subfertility Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library) and the following English language electronic databases (from their inception to 31/10/2011): MEDLINE, EMBASE, AMED, CINAHL, and NLH. 
+We also searched Chinese language electronic databases: Chinese Biomedical Literature Database (CBM), China National Knowledge Infrastructure (CNKI), Chinese Sci & Tech Journals (VIP), Traditional Chinese Medical Literature Analysis and Retrieval System (TCMLARS), and Chinese Medical Current Contents (CMCC). 
+Selection criteria
+Randomised controlled trials (RCTs) involving CHM versus placebo, biomedical treatment, another CHM intervention; or CHM plus biomedical treatment versus biomedical treatment were selected. Only trials with confirmed randomisation procedures and laparoscopic diagnosis of endometriosis were included. 
+Data collection and analysis
+Risk of bias assessment, and data extraction and analysis were performed independently by three review authors. Data were combined for meta‐analysis using relative risk (RR) for dichotomous data. A fixed‐effect statistical model was used, where appropriate. Data not suitable for meta‐analysis were presented as descriptive data. 
+Main results
+Two Chinese RCTs involving 158 women were included in this review. Although both these trials described adequate methodology they were of limited quality. Neither trial compared CHM with placebo treatment. 
+There was no evidence of a significant difference in rates of symptomatic relief between CHM and gestrinone administered subsequent to laparoscopic surgery (RR 1.04, 95% CI 0.91 to 1.18). There was no significant difference between the CHM and gestrinone groups with regard to the total pregnancy rate (69.6% versus 59.1%; RR 1.18, 95% CI 0.87 to 1.59, one RCT). 
+CHM administered orally and then in conjunction with a herbal enema resulted in a greater proportion of women obtaining symptomatic relief than with danazol (RR 5.06, 95% CI 1.28 to 20.05; RR 5.63, 95% CI 1.47 to 21.54, respectively). Oral plus enema administration of CHM resulted in a greater reduction in average dysmenorrhoea pain scores than did danazol (mean difference (MD) ‐2.90, 95% CI ‐4.55 to ‐1.25).  For lumbosacral pain, rectal discomfort, or vaginal nodules tenderness, there was no significant difference between CHM and danazol. 
+Overall, 100% of women in both studies showed some improvement in their symptoms. Women taking CHM had fewer side effects than those taking either gestrinone or danazol. 
+Authors' conclusions
+Post‐surgical administration of CHM may have comparable benefits to gestrinone. Oral CHM may have a better overall treatment effect than danazol and it may be more effective in relieving dysmenorrhoea when used in conjunction with a CHM enema. CHM appears to have fewer side effects than either gestrinone or danazol. However, more rigorous research is required to accurately assess the potential role of CHM in treating endometriosis. 

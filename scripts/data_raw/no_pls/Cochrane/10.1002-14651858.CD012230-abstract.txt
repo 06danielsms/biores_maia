@@ -1,0 +1,14 @@
+Background
+Analgesic medication is the most frequently prescribed treatment for low back pain (LBP), of which paracetamol (acetaminophen) is recommended as the first choice medication. However, there is uncertainty about the efficacy of paracetamol for LBP. 
+Objectives
+To investigate the efficacy and safety of paracetamol for non‐specific LBP.
+Search methods
+We conducted searches on the Cochrane Central Register of Controlled Trials (CENTRAL, which includes the Back and Neck Review Group trials register), MEDLINE, EMBASE, CINAHL, AMED, Web of Science, LILACS, and IPA from their inception to 7 August 2015. We also searched the reference lists of eligible papers and trial registry websites (WHO ICTRP and ClinicalTrials.gov). 
+Selection criteria
+We only considered randomised trials comparing the efficacy of paracetamol with placebo for non‐specific LBP. The primary outcomes were pain and disability. We also investigated quality of life, function, adverse effects, global impression of recovery, sleep quality, patient adherence, and use of rescue medication as secondary outcomes. 
+Data collection and analysis
+Two review authors independently performed the data extraction and assessed risk of bias in the included studies. We also evaluated the quality of evidence using the GRADE approach. We converted scales for pain intensity to a common 0 to 100 scale. We quantified treatment effects using mean difference for continuous outcomes and risk ratios for dichotomous outcomes. We used effect sizes and 95% confidence intervals as a measure of treatment effect for the primary outcomes. When the treatment effects were smaller than 9 points on a 0 to 100 scale, we considered the effect as small and not clinically important. 
+Main results
+Our searches retrieved 4449 records, of which two trials were included in the review (n=1785). For acute LBP, there is high‐quality evidence for no difference between paracetamol (4 g per day) and placebo at 1 week (immediate term), 2 weeks, 4 weeks, and 12 weeks (short term) for the primary outcomes. There is high‐quality evidence that paracetamol has no effect on quality of life, function, global impression of recovery, and sleep quality for all included time periods. There were also no significant differences between paracetamol and placebo for adverse events, patient adherence, or use of rescue medication. No trials were identified evaluating patients with subacute or chronic LBP. 
+Authors' conclusions
+We found that paracetamol does not produce better outcomes than placebo for people with acute LBP. 

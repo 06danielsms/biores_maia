@@ -1,0 +1,14 @@
+Background
+In type 2 diabetes mellitus there is a progressive loss of beta‐cell function. One new approach yielding promising results is the use of the orally active dipeptidyl peptidase‐4 (DPP‐4) inhibitors like sitagliptin and vildagliptin. 
+Objectives
+To assess the effects of dipeptidyl peptidase‐4 (DPP‐4) inhibitors for type 2 diabetes mellitus. 
+Search methods
+Studies were obtained from computerised searches of MEDLINE, EMBASE and The Cochrane Library. 
+Selection criteria
+Studies were included if they were randomised controlled trials in adult people with type 2 diabetes mellitus and had a trial duration of at least 12 weeks. 
+Data collection and analysis
+Two authors independently assessed risk of bias and extracted data. Pooling of studies was performed by means of fixed‐effect meta‐analysis. 
+Main results
+Twenty‐five studies of good quality were identified, 11 trials evaluated sitagliptin and 14 trials vildagliptin treatment. Altogether, 6743 patients were randomised in sitagliptin and 6121 patients in vildagliptin studies, respectively. Sitagliptin and vildagliptin studies ranged from 12 to 52 weeks duration. No data were published on mortality, diabetic complications, costs of treatment and health‐related quality of life.  Sitagliptin and vildagliptin therapy in comparison with placebo resulted in an HbA1c reduction of approximately 0.7% and 0.6%, respectively. Data on comparisons with active comparators were limited but indicated no improved metabolic control following DPP‐4 intervention in contrast to other hypoglycaemic agents. Sitagliptin and vildagliptin therapy did not result in weight gain but weight loss was more pronounced following placebo interventions. No definite conclusions could be drawn from published data on sitagliptin and vildagliptin effects on measurements of beta‐cell function. Overall, sitagliptin and vildagliptin were well tolerated, no severe hypoglycaemia was reported in patients taking sitagliptin or vildagliptin. All‐cause infections increased significantly after sitagliptin treatment but did not reach statistical significance following vildagliptin therapy. All published randomised controlled trials of at least 12 weeks treatment with sitagliptin and vildagliptin only reported routine laboratory safety measurements 
+Authors' conclusions
+DPP‐4 inhibitors have some theoretical advantages over existing therapies with oral antidiabetic compounds but should currently be restricted to individual patients. Long‐term data especially on cardiovascular outcomes and safety are urgently needed before widespread use of these new agents. More information on the benefit‐risk ratio of DPP‐4 inhibitor treatment is necessary especially analysing adverse effects on parameters of immune function. Also, long‐term data are needed investigating patient‐oriented parameters like health‐related quality of life, diabetic complications and all‐cause mortality. 

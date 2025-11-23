@@ -1,0 +1,14 @@
+Background
+Multiple sclerosis is a neurological disease that frequently affects adults of working age, resulting in a range of physical, cognitive and psychosocial deficits that impact on workforce participation. Although, the literature supports vocational rehabilitation (VR) approaches in persons with multiple sclerosis (pwMS), the evidence for its effectiveness is yet to be established. 
+Objectives
+To evaluate the effectiveness of VR programs compared to alternative programs or care as usual on return to work, workability and employment in pwMS; to evaluate the cost effectiveness of these programs. 
+Search methods
+We searched the Cochrane Multiple Sclerosis Group's Trials Register (February 2011), PEDro (1990‐2011), ISI Science Citation Index (1981‐2011) the Cochrane Rehabilitation and Related Therapies Field trials Register and the National Health Service National Research Register. 
+Selection criteria
+Randomized and controlled clinical trials, including before ‐ after controlled trials, that compare VR rehabilitation with alternative intervention such as standard or a lesser form of intervention or waitlist controls. 
+Data collection and analysis
+Two reviewers selected trials and rated their methodological quality independently. A 'best evidence' synthesis was performed, based on methodological quality. Trials were grouped in terms of type and setting of VR programs. 
+Main results
+Two trials (one RCT and one CCT) (total 80 participants) met the review criteria. Both trials scored poorly on the methodological quality assessment. There was 'insufficient evidence' for VR programs for (a)‘competitive employment’, in altering rates of job retention, changes in employment, improvement in rates of re‐entry into the labour force; (b) for altering ‘work ability' by improving participants’ confidence in the accommodation request process, or employability maturity or job seeking activity. No evidence could be assimilated for changes in proportions of persons in supported employment or on disability pensions, nor for cost‐effectiveness. 
+Authors' conclusions
+There was inconclusive evidence to support VR for pwMS. However, the review highlights some of the challenges in providing VR for pwMS. Clinicians need to be aware of vocational issues, and to understand and manage barriers for maintaining employment. Proactive and timely VR programs should incorporate practical solutions to deal with work disability, workplace accommodation and educate employers, and the wider community. Liaison with policy makers is imperative for government initiatives that encourage work focused VR programs. Future research in VR should focus on improving methodological and scientific rigour of clinical trials; on the development of appropriate and valid outcome measures; and on cost effectiveness of VR programs. 

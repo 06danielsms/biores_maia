@@ -1,0 +1,19 @@
+Repetitive transcranial magnetic stimulation (rTMS) for panic disorder
+Why is this review important? 
+Panic disorder is a common mental disorder and its lifetime prevalence is 5.1%. The major characteristic of panic disorder is the occurrence of unexpected panic attacks with consequent anxiety about experiencing another attack. Despite major advances in the treatment, many people with panic disorder do not respond well to either medication or psychological therapy. In recent years, an association was found between panic symptoms and increased activity in the right frontal region of the brain. Repetitive transcranial magnetic stimulation (rTMS) is a new technique for the stimulation of the central nervous system. It works through placing an electromagnetic coil against the scalp, which generates a rapidly changing magnetic field to induce localised electrical currents. Low frequency rTMS can reduce this increased activity in the brain and so rTMS is emerging as a new way to treat people with panic disorder. Some studies have investigated the effect of rTMS on patients with PD and observed a reduction in anxiety levels. The aim of this review was to combine the results of all the randomised controlled trials of rTMS for panic disorder to investigate the effectiveness and safety of this treatment. 
+Who will be interested in this review? 
+People affected by panic disorder.
+General practitioners (GPs).
+Professionals working in adult mental health services.
+Families and friends of people who suffer from major depression.
+What questions does this review aim to answer? 
+Is rTMS effective in treating adults with panic disorder, either on its own or in combination with other treatments? 
+Which studies were included in the review? 
+We searched for all the relevant studies on rTMS for panic disorder in people aged 18 to 65 years. Our search found only two studies which met our inclusion criteria and they were included in this review. Information about the way that the studies were conducted were not very well detailed and for one study there was a large proportion of people whose data were not incorporated in to the analysis. 
+The two studies involved a total of 40 people with panic disorder and reported the effect of rTMS on panic symptoms after two or four weeks of rTMS. Both studies used low‐frequency rTMS which lasted 30 minutes and was applied to a region of the brain called the right prefrontal site. Most participants were also taking antidepressant drugs or receiving psychological therapy. No studies compared the differences between rTMS and any other therapy, such as medication, psychological therapy and electroconvulsive therapy (ECT). 
+What does the evidence from the review tell us? 
+One study found that all patients improved during the study period, but the treatment effect did not differ between the group who received rTMS and the group who received sham rTMS. The other study administered more sessions and reported higher levels of improvement of panic symptoms in those people who received rTMS compared to those who received sham rTMS. 
+Although neither trial reported any serious side effects, they provided only very low quality evidence for adverse event outcomes. On the basis of the limited quality of the evidence available we were unable to determine how safe rTMS is. 
+The limited information available from these two studies is insufficient to conclude whether rTMS is effective in reducing the severity of panic disorder symptoms. The main limitation of this review was that the number of people with panic disorder who were involved was too small. 
+What should happen next? 
+To find out more about rTMS for panic disorder, there is a need for more studies to be carried out which involve larger numbers of people and compare sham rTMS with real rTMS. 

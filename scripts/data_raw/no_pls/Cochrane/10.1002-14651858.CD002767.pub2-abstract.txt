@@ -1,0 +1,16 @@
+Background
+Pseudomonas aeruginosa is the commonest micro‐organism associated with respiratory infections in cystic fibrosis. Retrospective studies have suggested that using an aggressive policy of intravenous anti‐pseudomonal antibiotics at regular intervals, irrespective of symptoms, increases survival. 
+Objectives
+To determine whether there is evidence that an elective (regular) versus symptomatic intravenous antibiotic regimen is associated with an improvement in clinical status and survival rates in people with cystic fibrosis. To identify any adverse effects associated with the use of elective intravenous antibiotics, including an increase in the development of resistant organisms. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches, handsearches of relevant journals and abstract books of conference proceedings. 
+Date of the most recent search of the Group's Cystic Fibrosis Trials Register: 15 March 2012. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials describing the use of elective compared with symptomatic intravenous antibiotic policies for any duration or dose regimen. Elective versus symptomatic intravenous antibiotic regimens against any organisms were considered. People with cystic fibrosis of any age or disease severity were included. 
+Data collection and analysis
+Both authors independently assessed trial eligibility and quality; both extracted the data. 
+Main results
+Searches identified four studies. Two studies reporting results from a total of 79 participants were included in the review. Differences in study design and objectives meant that data could not be pooled for meta‐analysis. Neither study demonstrated significant differences in outcome measures between intervention and comparison groups. 
+Authors' conclusions
+Studies are insufficient to identify conclusive evidence favouring a policy of elective intravenous antibiotic administration, despite its widespread use, neither are the potential risks adequately evaluated. The results should be viewed with caution, as participant numbers are small. Clearly there is a need for a well‐designed, adequately‐powered, multicentred randomised controlled trial to evaluate these issues. 
+This review will no longer be regularly updated. Searches will still be undertaken on a two‐yearly basis by the Cochrane Cystic Fibrosis & Genetic Disorders Group. If, in future, relevant trials are identified, the review will be updated again. 

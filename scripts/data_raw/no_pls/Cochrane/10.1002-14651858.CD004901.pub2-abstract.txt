@@ -1,0 +1,16 @@
+Background
+A woman may need to give birth prior to the spontaneous onset of labour in situations where the fetus has died in utero (also called a stillbirth), or for the termination of pregnancy where the fetus, if born alive would not survive or would have a permanent handicap. Misoprostol is a prostaglandin medication that can be used to induce labour in these situations. 
+Objectives
+To compare the benefits and harms of misoprostol to induce labour to terminate pregnancy in the second and third trimester for women with a fetal anomaly or after intrauterine fetal death when compared with other methods of induction of labour. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (November 2009). 
+Selection criteria
+Randomised controlled trials comparing misoprostol with placebo or no treatment, or any other method of induction of labour, for women undergoing induction of labour to terminate pregnancy in the second and third trimester following an intrauterine fetal death or for fetal anomalies. 
+Data collection and analysis
+Both authors independently assessed trial quality and extracted data.
+Main results
+We included 38 studies (3679 women).
+Nine studies included pregnancies after intrauterine deaths, five studies included termination of pregnancies because of fetal anomalies when the fetus was still alive and the rest (24) presented the pooled data for intrauterine deaths, fetal anomalies and social reasons. 
+When compared with agents that have traditionally been used to induce labour in this setting (for example, gemeprost, prostaglandin E2 and prostaglandin F2alpha), vaginal misoprostol is as effective in ensuring vaginal birth within 24 hours, with a similar induction to birth interval. Vaginal misoprostol is associated with a reduction in the occurrence of maternal gastrointestinal side effects such as nausea, vomiting and diarrhoea when compared with other prostaglandin preparations. While the different treatments involving various prostaglandin preparations appear comparable for the reported outcomes, the information available regarding rare maternal complications, such as uterine rupture, is limited. 
+Authors' conclusions
+The use of vaginal misoprostol in the termination of second and third trimester of pregnancy is as effective as other prostaglandin preparations (including cervagem, prostaglandin E2 and prostaglandin F2alpha), and more effective than oral administration of misoprostol. However, important information regarding maternal safety, and in particular the occurrence of rare outcomes such as uterine rupture, remains limited. Future research efforts should be directed towards determining the optimal dose and frequency of administration, with particular attention to standardised reporting of all relevant outcomes and assessment of rare adverse events. Further information is required about the use of sublingual misoprostol in this setting. 

@@ -1,0 +1,14 @@
+Background
+About 5% to 10% of all deep vein thromboses occur in the upper extremities. Serious complications of upper extremity deep vein thrombosis, such as post‐thrombotic syndrome and pulmonary embolism, may in theory be avoided using thrombolysis. No systematic review has assessed the effects of thrombolysis for the treatment of individuals with acute upper extremity deep vein thrombosis. 
+Objectives
+To assess the beneficial and harmful effects of thrombolysis for the treatment of individuals with acute upper extremity deep vein thrombosis. 
+Search methods
+The Cochrane Vascular Information Specialist (CIS) searched the Specialised Register (29 March 2017), the Cochrane Central Register of Controlled Trials (CENTRAL; 2017, Issue 2), and three trial registries (World Health Organization International Clinical Trials Registry, ClinicalTrials.gov, and ISRCTN registry) for ongoing and unpublished studies. We additionally searched the registries of the European Medical Agency and the US Food and Drug Administration (December 2016). 
+Selection criteria
+We planned to include randomised clinical trials irrespective of publication type, publication date and language that investigated the effects of thrombolytics added to anticoagulation, thrombolysis versus anticoagulation, or thrombolysis versus any other type of medical intervention for the treatment of acute upper extremity deep vein thrombosis. 
+Data collection and analysis
+Two review authors independently screened all records to identify those that met inclusion criteria. We planned to use the standard methodological procedures expected by Cochrane. We planned to use trial domains to assess the risks of systematic error (bias) in the trials. We planned to conduct trial sequential analyses to control for the risk of random errors and to assess the robustness of our conclusions. We planned to consider a P value of 0.025 or less as statistically significant. We planned to assess the quality of the evidence using the GRADE approach. Our primary outcomes were severe bleeding, pulmonary embolism, and all‐cause mortality. 
+Main results
+We found no trials eligible for inclusion. We also identified no ongoing trials.
+Authors' conclusions
+There is currently insufficient evidence from which to draw conclusion on the benefits or harms of thrombolysis for the treatment of individuals with acute upper extremity deep vein thrombosis as an add‐on therapy to anticoagulation, alone compared with anticoagulation, or alone compared with any other type of medical intervention. Large randomised clinical trials with a low risk of bias are warranted. They should focus on clinical outcomes and not solely on surrogate measures. 

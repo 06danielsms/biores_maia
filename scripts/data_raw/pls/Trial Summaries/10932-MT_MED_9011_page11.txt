@@ -1,0 +1,52 @@
+Clinical Study Results:
+
+What adverse reactions did the participants have?
+The most common adverse reaction during the study was headache.
+The table below shows the adverse reactions that happened during the study.
+
+Adverse reactions during the study:
+
+- Budesonide and Albuterol sulfate:
+  - Headache: 2.2% (2)
+  - Dizziness: 0.0% (0)
+  - Feeling sleepy or sleeping for long periods of time: 0.0% (0)
+  - Feeling tired: 0.0% (0)
+  - Having low energy: 0.0% (0)
+  - Nausea: 0.0% (0)
+  - Cough: 1.1% (1)
+  - Ear pain: 1.1% (1)
+  - Irregular heartbeat: 1.1% (1)
+  - Throat pain: 1.1% (1)
+  - Feeling hot: 0.0% (0)
+
+- Albuterol sulfate only:
+  - Headache: 3.3% (3)
+  - Dizziness: 1.1% (1)
+  - Feeling sleepy or sleeping for long periods of time: 0.0% (0)
+  - Feeling tired: 0.0% (0)
+  - Having low energy: 0.0% (0)
+  - Nausea: 0.0% (0)
+  - Cough: 0.0% (0)
+  - Ear pain: 0.0% (0)
+  - Irregular heartbeat: 0.0% (0)
+  - Throat pain: 0.0% (0)
+  - Feeling hot: 1.1% (1)
+
+- Budesonide only:
+  - Headache: 6.7% (6)
+  - Dizziness: 3.3% (3)
+  - Feeling sleepy or sleeping for long periods of time: 1.1% (1)
+  - Feeling tired: 1.1% (1)
+  - Having low energy: 1.1% (1)
+  - Nausea: 1.1% (1)
+  - Cough: 0.0% (0)
+  - Ear pain: 0.0% (0)
+  - Irregular heartbeat: 0.0% (0)
+  - Throat pain: 0.0% (0)
+  - Feeling hot: 0.0% (0)
+
+How has this study helped patients and researchers?
+This study helped researchers learn how budesonide and albuterol sulfate act in the body when taken together.
+Researchers look at the results of many studies to decide which treatments work best and are safest. This summary shows only the main results from this one study.
+Other studies may provide new information or different results.
+Further clinical studies with combined treatments of budesonide and albuterol sulfate are ongoing.

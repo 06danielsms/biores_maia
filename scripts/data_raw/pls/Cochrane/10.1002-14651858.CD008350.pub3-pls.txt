@@ -1,0 +1,14 @@
+Surgical interventions for rhegmatogenous retinal detachments: alternatives to vitrectomy 
+Review question 
+We updated this review with the same aim of understanding which of the two surgical techniques, scleral buckle (SB) or pneumatic retinopexy (PR), is better for the treatment of certain types of rhegmatogenous retinal detachment (RRD).  
+Background 
+Retinal detachment is the separation of the retina, the light‐sensitive tissue at the back of the eye, from its underlying layer attached to the inner back surface of the eye. RRD is when the separation results from retinal breaks or tears, usually due to pulling (traction) from the vitreous, the substance that fills the center of the eye. 
+Three surgical interventions are used to repair the retinal break(s) in RRD: PR, SB, and vitrectomy. In PR, a gas bubble is injected into the vitreous cavity in the center of the eye to provide a mechanical seal (tamponade) for the retinal breaks until the breaks can be sealed with heat (laser) or cold (cryotherapy). In SB, local pressure is applied to retinal breaks by suturing material onto the outer part of the eye (sclera) to indent (buckle) it inward. In vitrectomy, the vitreous is removed to relieve traction on the retina from the vitreous and a gas, or silicon oil, may be used to facilitate healing. 
+Study characteristics 
+We found three randomized trials (where people were randomly put into one of two or more treatment groups) that enrolled 274 participants (276 eyes) from Ireland, the US, and Italy. All trials evaluated whether PR or SB was a better treatment for RRD. The study in the US (1989) had 196 participants with six months to two years of follow‐up. The study in Ireland (1996) had 20 participants with five to 27 months of follow‐up. The study in Italy (2021) enrolled 58 participants with 12 months of follow‐up. The evidence is current to 10 March 2021. 
+Study funding sources 
+Studies were funded by the authors' institutions or unknown resources.
+Key results 
+Results from the three studies suggested that SB may perform better or as well as PR in terms of reattachment rates and for reducing the risk of recurrence of detachment. Few ocular adverse events (eye‐related side effects) occurred during either procedure, and differences in some adverse events occurring after the surgeries were very uncertain. More eyes in the SB group experienced cataract and a shift of refraction toward myopia (change to nearsightedness that may be a sign of developing cataract) than eyes in the PR group. 
+Quality of the evidence 
+The quality of the evidence was mostly low due to poor reporting of how the studies were done. Each study reported visual acuity (clarity or sharpness of vision) differently. None of the studies analyzed important outcomes such as quality of life or costs related to the treatments themselves. 

@@ -1,0 +1,14 @@
+Background
+Therapeutic communities (TCs) are a popular treatment for the rehabilitation of drug users in the USA and Europe. 
+Objectives
+To determine the effectiveness of TC versus other treatments for substance dependents, and to investigate whether effectiveness is modified by client or treatment characteristics. 
+Search methods
+We searched: Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 2, 2005); MEDLINE, EMBASE, Psycinfo, CINAHL, SIGLE from their inception to March 2004. Reference lists of studies were scanned. 
+Selection criteria
+Randomised controlled trials comparing TC with other treatments, no treatment or another TC. 
+Data collection and analysis
+Two authors independently inspected abstracts, the methodological quality was assessed using Drug and Alcohol CRG checklist. When possible, data were summarised using relative risks and differences in means, otherwise results are presented as reported by authors. 
+Main results
+Seven studies were included. Differences between studies precluded any pooling of data, results are summarised for each trial individually: TC versus community residence: no significant differences for treatment completion; Residential versus day TC: attrition (first two weeks), and abstinence rates at six months significantly lower in the residential treatment group; Standard TC versus enhanced abbreviated TC: number of employed higher in standard TC RR 0.78 (95% CI 0.63, 0.96). Three months versus six months programme within modified TC, and six months versus 12 months programme within standard TC: completion rate higher in the three months programme and retention rate (40 days) significantly greater with the 12 months than 6 months programme.  Two trials evaluated TCs within a prison setting: one reported significantly fewer re incarcerated 12 months after release from prison in the TC group compared with no treatment, RR 0.68 (95% CI 057, 0.81). In the other, people treated in prison with TC compared with Mental Health Treatment Programmes showed significantly fewer re incarcerations RR 0.28 (95% CI 0.13, 0.63), criminal activity 0.69 (95% CI 0.52, 0.93) and alcohol and drug offences 0.62 (95% CI 0.43, 0.90) 12 months after release from prison. 
+Authors' conclusions
+There is little evidence that TCs offer significant benefits in comparison with other residential treatment, or that one type of TC is better than another. Prison TC may be better than prison on it's own or Mental Health Treatment Programmes to prevent re‐offending post‐release for in‐mates. However, methodological limitations of the studies may have introduced bias and firm conclusions cannot be drawn due to limitations of the existing evidence. 

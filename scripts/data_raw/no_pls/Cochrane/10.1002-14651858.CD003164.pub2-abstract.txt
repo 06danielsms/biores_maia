@@ -1,0 +1,15 @@
+Background
+Rehabilitation for older people has acquired an increasingly important profile for both policy‐makers and service providers within health and social care agencies. This has generated an increased interest in the use of alternative care environments including care home environments. Yet, there appears to be limited evidence on which to base decisions. 
+This review is the first update of the Cochrane review which was published in 2003.
+Objectives
+To compare the effects of care home environments (e.g. nursing home, residential care home and nursing facilities) versus hospital environments and own home environments in the rehabilitation of older people. 
+Search methods
+We searched the Cochrane Effective Practice and Organisation of Care Specialised Register and Pending Folder, MEDLINE (1950 to March Week 3 2007), EMBASE (1980 to 2007 Week 13), CINAHL (1982 to March, Week 4, 2007), other databases and reference lists of relevant review articles were additionally reviewed. Date of most recent search: March 2007. 
+Selection criteria
+Randomised controlled trials (RCTs), controlled clinical trials (CCTs), controlled before and after studies (CBAs) and interrupted time series (ITS) that compared rehabilitation outcomes for persons 60 years or older who received rehabilitation whilst residing in a care home with those who received rehabilitation in hospital or own home environments. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+In this update, 8365 references were retrieved. Of these, 339 abstracts were independently assessed by 2 review authors, and 56 studies and 5 review articles were subsequently obtained. Full text papers were independently assessed by two or three review authors and none of these met inclusion criteria. 
+Authors' conclusions
+There is insufficient evidence to compare the effects of care home environments versus hospital environments or own home environments on older persons rehabilitation outcomes. Although the authors acknowledge that absence of effect is not no effect. There are three main reasons; the first is that the description and specification of the environment is often not clear; secondly, the components of the rehabilitation system within the given environments are not adequately specified and; thirdly, when the components are clearly specified they demonstrate that the control and intervention sites are not comparable with respect to the methodological criteria specified by Cochrane EPOC group. The combined effect of these factors resulted in the comparability between intervention and control groups being very weak. 

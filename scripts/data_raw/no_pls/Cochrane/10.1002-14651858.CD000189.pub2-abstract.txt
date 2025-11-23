@@ -1,0 +1,15 @@
+Background
+The effect of low dose corticosteroids, equivalent to 15 mg prednisolone daily or less, in patients with rheumatoid arthritis has been questioned. We reviewed the trials that compared corticosteroids with placebo or non‐steroidal, anti‐inflammatory drugs. 
+Objectives
+To determine whether short‐term (i.e. as recorded within the first month of therapy), oral low‐dose corticosteroids (corresponding to a maximum of 15 mg prednisolone daily) is superior to placebo and non‐steroidal, anti‐inflammatory drugs in patients with rheumatoid arthritis. 
+Search methods
+PubMed, the Cochrane Central Register of Controlled Trials, reference lists and a personal archive. Date of last search Nov 2007. 
+Selection criteria
+All randomised trials comparing an oral corticosteroid (not exceeding an equivalent of 15 mg prednisolone daily) with placebo or a non‐steroidal, anti‐inflammatory drug were eligible if they reported clinical outcomes within one month after start of therapy. For adverse effects, long‐term trials were also selected. 
+Data collection and analysis
+Decisions on which trials to include were made independently by two observers based on the methods sections of the trials. Standardised mean difference (random effects model) was used for the statistical analyses. 
+Main results
+Eleven trials, involving 462 patients, were included. Two placebo‐controlled trials had adequate allocation concealment. For joint tenderness, the standardised mean difference was ‐0.52, 95% confidence interval (CI) ‐1.01 to ‐0.03, for pain it was ‐0.67, 95% CI ‐1.58 to 0.23, and for grip strength, 0.22, 95% CI ‐0.40 to 0.84. The estimates for the other trials were considerably larger. 
+Prednisolone also had a greater effect than non‐steroidal, anti‐inflammatory drugs on joint tenderness (‐0.63, 95% CI ‐1.16 to ‐0.11) and pain (‐1.25, 95% CI ‐2.24 to ‐0.26), whereas the difference in grip strength was not significant (0.31, 95% CI ‐0.02 to 0.64). The main harms in long‐term treatment were vertebral fractures and infections. 
+Authors' conclusions
+Prednisolone in low doses (not exceeding 15 mg daily) may be used intermittently in patients with rheumatoid arthritis, particularly if the disease cannot be controlled by other means. The risk of harms needs to be considered, however, especially the risk of fractures and infections. Since prednisolone is highly effective, short‐term placebo controlled trials studying the clinical effect of low‐dose prednisolone or other oral corticosteroids are no longer necessary. 

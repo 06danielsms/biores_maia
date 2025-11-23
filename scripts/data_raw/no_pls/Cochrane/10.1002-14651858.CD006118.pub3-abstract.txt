@@ -1,0 +1,17 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 4, 2008.
+People suffering from epilepsy have an increased risk of experiencing psychotic symptoms. The psychotic syndromes associated with epilepsy have generally been classified as ictal, postictal, and interictal psychosis. Anticonvulsant drugs have been reported to precipitate psychosis. Moreover, all antipsychotic drugs have the propensity to cause paroxysmal electroencephalogram abnormalities and induce seizures. 
+Objectives
+To evaluate the benefits of interventions used to treat clinically significant psychotic symptoms occurring in people with epilepsy with regard to global improvement, changes in mental state, hospitalization, behavior, quality of life, effect on the frequency of seizures, and interaction with antiepileptic drugs. 
+Search methods
+We searched the Cochrane Epilepsy Group's Specialized Register (23 March 2015), the Cochrane Central Register of Controlled Trials (CENTRAL via the Cochrane Register of Studies Online (CRSO), 23 March 2015), MEDLINE (Ovid, 1946 to 23 March 2015), PsycINFO (1887 to 23 March 2015), CINAHL (1937 to 23 March 2015), and BIOSIS Previews (1969 to 23 March 2015). 
+Two review authors (SF and AS) independently inspected the citations identified from the search. We identified potentially relevant abstracts and assessed full papers for inclusion and methodological quality. 
+Selection criteria
+All randomized controlled trials comparing drugs, behavior therapy, cognitive behavior therapy, or other non‐pharmacological interventions used to relieve psychotic symptoms in people with epilepsy. 
+Data collection and analysis
+We planned to extract and analyze the data from all relevant studies using standardized methods. As only one study met the inclusion criteria, we attempted no meta‐analysis. 
+Main results
+After independently assessing the abstracts and titles of 618 articles, we selected five relevant abstracts. Ultimately we found only one study meeting the inclusion criteria, which was available only as an abstract. This study compared the use of olanzapine (10 mg/day) with haloperidol (12 mg/day) in 16 people suffering from schizophrenia‐like psychosis of epilepsy. Thirteen participants completed the study. Significant improvement was associated with use of olanzapine. We did not identify any study on psychosocial interventions in people suffering from epilepsy and psychosis. 
+Authors' conclusions
+We found only one randomized controlled trial, which lacked the power to test the efficacy of antipsychotics in those suffering from psychosis concomitant with epilepsy. 
+Limited evidence from this small randomized controlled trial suggests an improvement in psychotic symptoms, but not other outcome measures, with the use of an antipsychotic. The effects on seizure control are not well studied. Further trials are required to inform practice. 

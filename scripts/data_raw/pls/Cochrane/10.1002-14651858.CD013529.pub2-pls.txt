@@ -1,0 +1,22 @@
+Therapies for treating iron deficiency anaemia in Crohn's disease and ulcerative colitis
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out whether treatments in people with Crohn's disease and ulcerative colitis can improve iron deficiency anaemia. 
+We analysed data from 11 studies to answer this question.
+Key messages 
+Iron in the form of ferric carboxymaltose given intravenously is probably better than iron sucrose given intravenously in improving iron deficiency anaemia, although people improved taking both treatments. 
+Oral iron in the form of ferric maltol may be better than placebo (dummy treatment).
+It is unclear whether any of the other treatments considered are better than each other, however, there is limited evidence due to low numbers of studies and issues due to low quality of the reporting of the research studies. 
+What was studied in the review? 
+People with both ulcerative colitis and Crohn's disease both commonly suffer with low iron levels that in turn lowers their haemoglobin (blood) levels (this is called anaemia). This can lead to a number of symptoms, including tiredness and pain. 
+Several treatments exist to treat iron deficiency anaemia, consisting of delivering extra iron either orally or intravenously (through a vein). An additional treatment, erythropoietin, was also studied which stimulates the body to produce more blood itself. 
+Currently, no consensus has been reached amongst physicians as to which treatment is better. 
+What are the main results of the review? 
+We searched for randomised controlled trials (RCTs; clinical studies where people are randomly put into one of two or more treatment groups) comparing any treatment with another or dummy treatment. We found 11 RCTs looking at 1670 participants. The trials looked at adult participants, with none considering children. 
+1) Intravenous iron in the form of ferric carboxymaltose probably leads to more people having an improvement in iron deficiency anaemia than intravenous iron sucrose (one extra person would improve for every 9 treated and five out of 10 people would improve with either therapy). 
+2) Oral iron as ferric maltol may lead to more people having resolution of iron deficiency than dummy treatment. 
+3) It is unclear whether there is any difference between any of the other treatments studied for treating iron deficiency anaemia. 
+4) It is unclear whether any therapy leads to a difference in adverse events (minor or serious) when compared to any other therapy. 
+Conclusion 
+Iron delivered via a vein as ferric carboxymaltose probably improves anaemia in more people that iron sucrose via a vein, although both groups of people improved. Oral iron as ferric maltol may improve more patients than dummy treatment. No conclusions can be drawn on other treatments due to lack of evidence and quality issues with the studies that were found. Further research is needed, particularly to investigate whether iron delivered through a vein is better than iron delivered orally and also how much treating anaemia in people with IBD makes a difference in terms of the symptoms they may experience. 
+How up‐to‐date is this review? 
+This review is up‐to‐date as of November 2019.

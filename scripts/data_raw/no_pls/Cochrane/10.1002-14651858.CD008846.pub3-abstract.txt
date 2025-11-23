@@ -1,0 +1,30 @@
+Background
+Studies evaluating mass drug administration (MDA) in malarious areas have shown reductions in malaria immediately following the intervention. However, these effects vary by endemicity and are not sustained. Since the 2013 version of this Cochrane Review on this topic, additional studies have been published. 
+Objectives
+Primary objectives 
+To assess the sustained effect of MDA with antimalarial drugs on:
+‐ the reduction in malaria transmission in moderate‐ to high‐transmission settings;
+‐ the interruption of transmission in very low‐ to low‐transmission settings.
+Secondary objective 
+To summarize the risk of drug‐associated adverse effects following MDA.
+Search methods
+We searched several trial registries, citation databases, conference proceedings, and reference lists for relevant articles up to 11 February 2021. We also communicated with researchers to identify additional published and unpublished studies. 
+Selection criteria
+Randomized controlled trials (RCTs) and non‐randomized studies comparing MDA to no MDA with balanced co‐interventions across study arms and at least two geographically distinct sites per study arm. 
+Data collection and analysis
+Two review authors independently assessed trials for eligibility and extracted data. We calculated relative risk (RR) and rate ratios with corresponding 95% confidence intervals (CIs) to compare prevalence and incidence, respectively, in MDA compared to no‐MDA groups. We stratified analyses by malaria transmission and by malaria species. For cluster‐randomized controlled trials (cRCTs), we adjusted standard errors using the intracluster correlation coefficient. We assessed the certainty of the evidence using the GRADE approach. For non‐randomized controlled before‐and‐after (CBA) studies, we summarized the data using difference‐in‐differences (DiD) analyses. 
+Main results
+Thirteen studies met our criteria for inclusion. Ten were cRCTs and three were CBAs.
+Cluster‐randomized controlled trials 
+Moderate‐ to high‐endemicity areas (prevalence ≥ 10%) 
+We included data from two studies conducted in The Gambia and Zambia. 
+At one to three months after MDA, the Plasmodium falciparum (hereafter, P falciparum) parasitaemia prevalence estimates may be higher compared to control but the CIs included no effect (RR 1.76, 95% CI 0.58 to 5.36; Zambia study; low‐certainty evidence); parasitaemia incidence was probably lower (RR 0.61, 95% CI 0.40 to 0.92; The Gambia study; moderate‐certainty evidence); and confirmed malaria illness incidence may be substantially lower,  but the CIs included no effect (rate ratio 0.41, 95% CI 0.04 to 4.42; Zambia study; low‐certainty evidence).  
+At four to six months after MDA, MDA showed little or no effect on P falciparum parasitaemia prevalence (RR 1.18, 95% CI 0.89 to 1.56; The Gambia study; moderate‐certainty evidence) and, no persisting effect was demonstrated with parasitaemia incidence (rate ratio 0.91, 95% CI 0.55 to 1.50; The Gambia study). 
+Very low‐ to low‐endemicityareas (prevalence < 10%) 
+Seven studies from Cambodia, Laos, Myanmar (two studies), Vietnam, Zambia, and Zanzibar evaluated the effects of multiple rounds of MDA on P falciparum. Immediately following MDA (less than one month after MDA), parasitaemia prevalence was reduced (RR 0.12, 95% CI 0.03 to 0.52; one study; low‐certainty evidence). At one to three months after MDA, there was a reduction in both parasitaemia incidence (rate ratio 0.37, 95% CI 0.21 to 0.55; 1 study; moderate‐certainty evidence) and prevalence (RR 0.25, 95% CI 0.15 to 0.41; 7 studies; low‐certainty evidence). For confirmed malaria incidence, absolute rates were low, and it is uncertain whether MDA had an effect on this outcome (rate ratio 0.58, 95% CI 0.12 to 2.73; 2 studies; very low‐certainty evidence).  
+For P falciparum prevalence, the relative differences declined over time, from RR 0.63 (95% CI 0.36 to 1.12; 4 studies) at four to six months after MDA, to RR 0.86 (95% CI 0.55 to 1.36; 5 studies) at 7 to 12 months after MDA. Longer‐term prevalence estimates showed overall low absolute risks, and relative effect estimates of the effect of MDA on prevalence varied from RR 0.82 (95% CI 0.20 to 3.34) at 13 to 18 months after MDA, to RR 1.25 (95% CI 0.25 to 6.31) at 31 to 36 months after MDA in one study. 
+Five studies from Cambodia, Laos, Myanmar (2 studies), and Vietnam evaluated the effect of MDA on Plasmodium vivax (hereafter, P vivax). One month following MDA, P vivax prevalence was lower (RR 0.18, 95% CI 0.08 to 0.40; 1 study; low‐certainty evidence). At one to three months after MDA, there was a reduction in P vivax prevalence (RR 0.15, 95% CI 0.10 to 0.24; 5 studies; low‐certainty evidence). The immediate reduction on P vivax prevalence was not sustained over time, from RR 0.78 (95% CI 0.63 to 0.95; 4 studies) at four to six months after MDA, to RR 1.12 (95% CI 0.94 to 1.32; 5 studies) at 7 to 12 months after MDA. One of the studies in Myanmar provided estimates of longer‐term effects, where overall absolute risks were low, ranging from RR 0.81 (95% CI 0.44 to 1.48) at 13 to 18 months after MDA, to RR 1.20 (95% CI 0.44 to 3.29) at 31 to 36 months after MDA. 
+Non‐randomized studies 
+Three CBA studies were conducted in moderate‐ to high‐transmission areas in Burkina Faso, Kenya, and Nigeria. There was a reduction in P falciparum parasitaemia prevalence in MDA groups compared to control groups during MDA (DiD range: ‐15.8 to ‐61.4 percentage points), but the effect varied at one to three months after MDA (DiD range: 14.9 to ‐41.1 percentage points).  
+Authors' conclusions
+In moderate‐ to high‐transmission settings, no studies reported important effects on P falciparum parasitaemia prevalence within six months after MDA. In very low‐ to low‐transmission settings, parasitaemia prevalence and incidence were reduced initially for up to three months for both P falciparum and P vivax; longer‐term data did not demonstrate an effect after four months, but absolute risks in both intervention and control groups were low. No studies provided evidence of interruption of malaria transmission.  

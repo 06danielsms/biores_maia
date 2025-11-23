@@ -1,0 +1,22 @@
+Lamotrigine as a treatment for prevention of recurrence of bipolar disorder
+Review question 
+To investigate the clinical effectiveness (benefits and harms) of lamotrigine for maintenance therapy of bipolar disorder in comparison with placebo, combination therapy or existing drugs (e.g. lithium, olanzapine). 
+Background 
+Lamotrigine is approved for the maintenance treatment (treatment for prevention of recurrence) of bipolar disorder. It could be a viable and effective treatment strategy for the maintenance of bipolar disorder, where it demonstrated a lower risk of recurrence than placebo. In addition, it has been reported to be as effective as lithium. Therefore, we performed a systematic review to investigate the efficacy and safety of lamotrigine in the maintenance treatment (treatment for prevention of recurrence) of bipolar disorder. 
+Key findings 
+The evidence is current to May 2021. We included 11 studies in this review with a total 2314 participants. 1146 participants were assigned to lamotrigine, and 1168 participants were assigned to control intervention (869 received placebo and 299 received lithium). 
+Our review identified the following.
+Lamotrigine versus placebo
+Benefits: lamotrigine was found to be superior over placebo in the following outcomes.
+1) Reduced the rate of recurrence of manic symptoms 
+2) Suppressed depressive symptoms
+3) Less need for additional therapeutic agents for the recurrence of all symptoms
+4) Reduction in the withdrawal rate due to any causes six months or more after the initiating of intervention 
+Harms: adverse‐event profile of lamotrigine was similar to that of placebo.
+Lamotrigine versus lithium 
+Benefits: lamotrigine was as effective as lithium, except for the recurrence of manic symptoms, for which the rate was higher in people who received lamotrigine than people treated with lithium. 
+Harms: the rate of adverse events associated with lamotrigine was lower than that of lithium. 
+Certainty of the evidence 
+We assessed the certainty of our included evidence to be very low to moderate. This is because majority of the included trials did not describe how treatment allocation was concealed. Given that we were unable to identify high‐confidence evidence the overall findings of this systematic review should be interpreted carefully. 
+Conclusions 
+Lamotrigine may be superior to placebo in efficacy and may be comparable in safety. And then, lamotrigine was as effective as lithium except for its recurrence rate of mania, and was superior to lithium in terms of safety. Future studies in this field with robust methods and transparent reporting are needed to confirm our results and to fully answer our pre‐specified review question. 

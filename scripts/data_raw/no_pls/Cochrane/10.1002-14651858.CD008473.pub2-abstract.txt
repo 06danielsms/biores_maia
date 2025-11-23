@@ -1,0 +1,15 @@
+Background
+Exogenous melatonin helps in regulating the circadian rhythm and is widely used for the management of sleep disorders in visually impaired children.  
+Objectives
+The aim of the review was to assess melatonin therapy for treatment of non‐respiratory sleep disorders in visually impaired children, with regard to improvement in sleep habit, sleep scheduling and sleep maintenance, when compared with placebo or no treatment. 
+Search methods
+We searched the following databases between February 2011 and July 2011: the Cochrane Central Register of Controlled Trials (CENTRAL) 2011(1) searched on 4th February 2011; MEDLINE (1950 to June Week 3, 2011) searched on 20th June 2011; EMBASE (1980 to June Week 4, 2011) searched on 7th July 2011; CINAHL (1937 to 21 September 2011); the metaRegister of Controlled Trials (this includes ClinicalTrial.gov) searched 20 July 2011, and reference lists of papers identified after initial screening.  
+Selection criteria
+We planned to include randomized controlled trials (RCTs) and quasi‐RCTs, including cross‐over studies. Treatment would be exogenous melatonin. Control groups could be placebo, other medication for sleep disorders or no treatment. Outcomes sought were improved sleep with regard to timing and duration, quality of life and adverse events.  
+Data collection and analysis
+Three review authors independently assessed trials for inclusion in the review.
+Main results
+We did not find any studies fulfilling the inclusion criteria, therefore no outcome data are reported. 
+We identified nine studies after initial screening and, after further evaluation, we excluded these. The excluded studies involved a total of 163 individuals aged two years to 18 years. We excluded studies for three main reasons: they were non‐randomized or case series studies, they were studies of people over 18 years of age or even where the study was randomised, the study population was mixed and results pertaining to the visually impaired cohort could not be independently evaluated. No significant adverse effects of melatonin were reported in these excluded studies. 
+Authors' conclusions
+There is currently no high quality data to support or refute the use of melatonin for sleep disorders in visually impaired children. Placebo‐controlled trials examining important clinical outcomes such as sleep quality, sleep latency, duration of sleep and night‐time awakenings are needed. As the numbers of children meeting study inclusion criteria are likely to be low at individual sites, multicentre collaboration between developmental paediatricians, sleep physicians and other health care professionals is essential to achieve sufficient sample size for controlled studies. Such collaboration would help facilitate local recruitment at multiple sites, with study oversight being provided by paediatricians with expertise in sleep disorders. Participation of collaborators with experience in evidence‐based practice research is also desirable due to the lack of protocols on melatonin therapy in the target population. 

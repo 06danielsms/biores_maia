@@ -1,0 +1,14 @@
+Background
+Mental health problems are common in primary care and mental health workers (MHWs) are increasingly working in this setting delivering psychological therapy and psychosocial interventions to patients. In addition to treating patients directly, the introduction of on‐site MHWs represents an organisational change that may lead to changes in the clinical behaviour of primary care providers (PCPs). 
+Objectives
+To assess the effects of on‐site MHWs delivering psychological therapy and psychosocial interventions in primary care on the clinical behaviour of primary care providers (PCPs). 
+Search methods
+The following sources were searched in 1998: the Cochrane Effective Practice and Organisation of Care Group Specialised Register, the Cochrane Controlled Trials Register, MEDLINE, EMBASE, PsycINFO, CounselLit, NPCRDC skill‐mix in primary care bibliography, and reference lists of articles. Additional searches were conducted in February 2007 using the following sources: MEDLINE, EMBASE, PsycINFO, CINAHL, and Cochrane Central Register of Clinical Trials (CENTRAL) (The Cochrane Library). 
+Selection criteria
+Randomised trials, controlled before and after studies, and interrupted time series analyses of MHWs working alongside PCPs in primary care settings. The outcomes included objective measures of PCP behaviours such as consultation rates, prescribing, and referral. 
+Data collection and analysis
+Two review authors independently extracted data and assessed study quality.
+Main results
+Forty‐two studies were included in the review. There was evidence that MHWs caused significant reductions in PCP consultations (standardised mean difference ‐0.17, 95% CI ‐0.30 to ‐0.05), psychotropic prescribing (relative risk 0.67, 95% CI 0.56 to 0.79), prescribing costs (standardised mean difference ‐0.22, 95% CI ‐0.38 to ‐0.07), and rates of mental health referral (relative risk 0.13, 95% CI 0.09 to 0.20) for the patients they were seeing. In controlled before and after studies, the addition of MHWs to a practice did not affect prescribing behaviour towards the wider practice population and there was no consistent pattern to the impact on referrals in the wider patient population. 
+Authors' conclusions
+This review provides some evidence that MHWs working in primary care to deliver psychological therapy and psychosocial interventions cause a significant reduction in PCP behaviours such as consultations, prescribing, and referrals to specialist care. However, the changes are modest in magnitude, inconsistent, do not generalise to the wider patient population, and their clinical or economic significance is unclear. 

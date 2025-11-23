@@ -1,0 +1,17 @@
+Background
+Neonates have immature granulopoiesis, which frequently results in neutropenia after sepsis. Neutropaenic septic neonates have a higher mortality than non‐neutropenic septic neonates. Therefore, granulocyte transfusion to septic neutropenic neonates may improve outcomes. 
+Objectives
+The primary objective was to determine the effect of granulocyte or buffy coat transfusions as adjuncts to antibiotics, after confirmed or suspected sepsis in neutropenic neonates, on all‐cause mortality during hospital stay and neurological outcome at ≥ year of age. Secondary objectives were to determine the effects of granulocyte transfusions on length of hospital stay in survivors to discharge, adverse effects and immunologic outcomes at ≥ year of age. 
+Search methods
+The Cochrane Central Register of Controlled Trials (The Cochrane Library), MEDLINE, EMBASE and CINAHL, proceedings of the PAS conferences and ongoing trials at clinicaltrials.gov and clinical‐trials.com were searched in July 2011. 
+Selection criteria
+Studies where neutropenic neonates with suspected or confirmed sepsis were randomised or quasi‐randomised to granulocyte or buffy coat transfusions at any dose or duration, and reporting any outcome of interest were included. 
+Data collection and analysis
+Relative risk (RR) and risk difference (RD) with 95% confidence intervals using the fixed effects model were reported for dichotomous outcomes. Pre‐specified subgroup analyses were performed. 
+Main results
+Four trials were eligible for inclusion. Forty‐four infants with sepsis and neutropenia were randomised in three trials to granulocyte transfusions or placebo/no transfusion. In another trial, 35 infants with sepsis and neutropenia on antibiotics were randomised to granulocyte transfusion or IVIG. 
+When granulocyte transfusion was compared with placebo or no transfusion, there was no significant difference in 'all‐cause mortality' (three trials; typical RR 0.89, 95% CI 0.43 to 1.86; typical RD ‐0.05, 95% CI ‐0.31 to 0.21). 
+When granulocyte transfusion was compared with intravenous immunoglobulin (one trial), there was a reduction in 'all‐cause mortality' of borderline statistical significance (RR 0.06, 95% CI 0.00 to 1.04; RD ‐0.34, 95% CI ‐0.60 to ‐0.09; NNT 2.7, 95% CI 1.6 to 9.1). 
+Pulmonary complications were the only adverse effect reported in the trials that used buffy coat transfusions. None of the trials reported on neurological outcome at one year of age or later, length of hospital stay in survivors to discharge or immunological outcome at one year of age or later. 
+Authors' conclusions
+Currently, there is inconclusive evidence from randomised controlled trials (RCTs) to support or refute the routine use of granulocyte transfusions in neutropenic, septic neonates. Researchers are encouraged to conduct adequately powered multi‐centre trials of granulocyte transfusions in neutropenic septic neonates. 

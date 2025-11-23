@@ -1,0 +1,14 @@
+Background
+Zidovudine (AZT) monotherapy was the first antiretroviral drug to be tested widely. Subsequent trials in asymptomatic or early symptomatic HIV infection indicated short‐term delays in disease progression with AZT, but not improved survival. 
+Objectives
+To assess the effects of immediate versus deferred zidovudine (AZT) on HIV disease progression and survival. 
+Search methods
+Investigators and pharmaceutical companies were contacted, and MEDLINE searches were supplemented by searching conference abstracts. 
+Selection criteria
+Randomised controlled trials comparing immediate versus deferred AZT in participants without AIDS which prospectively collected deaths and new AIDS events. 
+Data collection and analysis
+Individual patient data with, wherever possible, follow‐up obtained beyond that previously published was obtained and checked for internal consistency and consistency with any published reports; any apparent discrepancies were resolved with the trialists.  Time to death and to disease progression (defined as a new AIDS‐defining event or prior death) were analysed on an intention to treat basis, stratified to avoid direct comparisons between participants in different trials. 
+Main results
+Nine trials were included in the meta‐analysis. During a median follow‐up of 50 months, 1908 individuals developed disease progression, of whom 1351 died. In the deferred group, 61% started antiretroviral therapy (median time to therapy 28 months, which was AZT monotherapy in 94%). During the first year of follow‐up immediate AZT halved the rate of disease progression (P<0.0001), increasing the probability of AIDS‐free survival at one year from 96% to 98%, but this early benefit did not persist: after 6 years AIDS‐free survival was 54% in both groups, and at no time was there any difference in overall survival, which at 6 years was 64% with immediate and 65% with deferred AZT (rate ratio [RR] 1.04, 95% confidence interval [CI] 0.94 to 1.15). 
+Authors' conclusions
+Although immediate use of AZT halved disease progression during the first year, this effect was not sustained, and there was no improvement in survival in the short or long term. 

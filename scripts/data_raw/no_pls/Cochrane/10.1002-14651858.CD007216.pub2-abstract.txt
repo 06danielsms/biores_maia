@@ -1,0 +1,29 @@
+Background
+There are a limited number of treatment options for people with corticosteroid‐refractory ulcerative colitis. Animal models of inflammatory bowel disease and uncontrolled studies in humans suggest that tacrolimus may be an effective treatment for ulcerative colitis. 
+Objectives
+To evaluate the efficacy and safety of tacrolimus for induction of remission in people with corticosteroid‐refractory ulcerative colitis. 
+Search methods
+We searched the Cochrane Gut group specialised register, CENTRAL, MEDLINE (PubMed), Embase, Clinicaltrials.gov and WHO ICTRP from inception to October 2021 to identify relevant randomised controlled trials (RCT). 
+Selection criteria
+Two review authors independently selected potentially relevant studies to determine eligibility based on the prespecified criteria. 
+Data collection and analysis
+Two review authors independently extracted data and analysed them using Review Manager Web. The primary outcomes were induction of remission and clinical improvement, as defined by the studies and expressed as a percentage of the participants randomised (intention‐to‐treat analysis). 
+Main results
+This review included five RCTs with 347 participants who had active ulcerative colitis or ulcerative proctitis. The duration of intervention varied between two weeks and eight weeks. 
+Tacrolimus versus placebo 
+Tacrolimus (oral and rectal) may be superior in achieving clinical remission compared to placebo (oral and rectal) (14/87 participants with tacrolimus versus 1/61 participants with placebo; risk ratio (RR) 3.76, 95% confidence interval (CI) 1.03 to 13.73; 3 studies). These results are of low certainty due to imprecision and risk of bias. 
+Tacrolimus (oral and rectal) may be superior for clinical improvement compared to placebo (oral and rectal) (45/87 participants with tacrolimus versus 7/61 participants with placebo; RR 4.47, 95% CI 2.15 to 9.29; 3 studies). These results are of low certainty due to imprecision and risk of bias. 
+The evidence is very uncertain about the effects of tacrolimus (oral and rectal) on serious adverse events compared to placebo (oral and rectal) (2/87 participants with tacrolimus versus 0/61 participants with placebo; RR 2.44, 95% CI 0.12 to 48.77; 3 studies). These results are of very low certainty due to high imprecision and risk of bias. 
+Tacrolimus versus ciclosporin 
+One study compared oral tacrolimus to intravenous ciclosporin, with an intervention lasting two weeks and 113 randomised participants. The evidence is very uncertain about the effect of tacrolimus on achievement of clinical remission compared to ciclosporin (15/33 participants with tacrolimus versus 24/80 participants with ciclosporin; RR 1.52, 95% CI 0.92 to 2.50). The results are of very low certainty due to risk of bias and high imprecision. 
+The evidence is very uncertain about the effect of tacrolimus on clinical improvement compared to intravenous ciclosporin (23/33 participants with tacrolimus versus 62/80 participants with ciclosporin; RR 0.90, 95% CI 0.70 to 1.16). The results are of very low certainty due to risk of bias and imprecision. 
+Tacrolimus versus beclometasone 
+One study compared tacrolimus suppositories with beclometasone suppositories in an intervention lasting four weeks with 88 randomised participants. There may be little to no difference in achievement of clinical remission (16/44 participants with tacrolimus versus 15/44 participants with beclometasone; RR 1.07, 95% CI 0.60 to 1.88). The results are of low certainty due to high imprecision. 
+There may be little to no difference in clinical improvement when comparing tacrolimus suppositories to beclometasone suppositories (22/44 participants with tacrolimus versus 22/44 with beclometasone; RR 1.00, 95% CI 0.66 to 1.52). The results are of low certainty due to high imprecision. 
+There may be little to no difference in serious adverse events when comparing tacrolimus suppositories to beclometasone suppositories (1/44 participants with tacrolimus versus 0/44 with beclometasone; RR 3.00, 95% CI 0.13 to 71.70). These results are of low certainty due to high imprecision. 
+There may be little to no difference in total adverse events when comparing tacrolimus suppositories to beclometasone suppositories (21/44 participants with tacrolimus versus 14/44 participants with beclometasone; RR 1.50, 95% CI 0.88 to 2.55). These results are of low certainty due to high imprecision. 
+No secondary outcomes were reported for people requiring rescue medication or to undergo surgery. 
+Authors' conclusions
+There is low‐certainty evidence that tacrolimus may be superior to placebo for achievement of clinical remission and clinical improvement in corticosteroid‐refractory colitis or corticosteroid‐refractory proctitis. The evidence is very uncertain about the effect of tacrolimus compared to ciclosporin for achievement of clinical remission or clinical improvement. There may be no difference between tacrolimus and beclometasone for inducing clinical remission or clinical improvement. 
+The cohorts studied to date were small, with missing data sets, offered short follow‐up and the clinical endpoints used were not in line with those suggested by regulatory bodies. Therefore, no clinical practice conclusions can be made. 
+This review highlights the need for further research that targets the relevant clinical questions, uses appropriate trial methodology and reports key findings in a systematic manner that facilitates future integration of findings with current evidence to better inform clinicians and patients. Future studies need to be adequately powered and of pertinent duration so as to capture the efficacy and effectiveness of tacrolimus in the medium to long term. Well‐structured efficacy studies need to be followed up by long‐term phase 4 extensions to provide key outputs and inform in a real‐world setting. 

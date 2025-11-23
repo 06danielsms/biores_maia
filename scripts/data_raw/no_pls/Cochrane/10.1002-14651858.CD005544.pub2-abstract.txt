@@ -1,0 +1,16 @@
+Background
+Breastmilk remains the optimal form of enteral nutrition for term and preterm infants until up to six months postnatal age. Mothers of preterm infants who have not established suck feeds must express their breastmilk and often have difficulty in maintaining sufficient volume for their infants' needs (Donath 2008). In preterm infants, donor breastmilk reduced the occurrence of necrotising enterocolitis, when compared with formula feeds (McGuire 2003). Also, case‐control studies have suggested that breastmilk is associated with an improvement in feeding tolerance, a reduction in significant gastrointestinal infective events (Beeby 1992) and a reduction in late‐onset sepsis (Schanler 1999) when compared with formula feeds in preterm hospitalised infants. 
+Objectives
+To assess the effect of medication given for at least seven days to mothers of preterm infants whose breastmilk is insufficient for their infants' needs on the outcomes of expressed milk volume and duration of breastfeeding. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 December 2011). 
+Selection criteria
+Randomised and quasi‐randomised controlled trials of breastmilk‐augmenting medications (compared with placebo or with other augmenting medications) in mothers with preterm hospitalised infants whose breastmilk volumes failed to meet their infants' requirements. We did not include trials with a cluster‐randomised or cross‐over design. 
+Data collection and analysis
+Both review authors independently assessed studies for inclusion, assessed risk of bias, and extracted data. Any differences were resolved by consensus. Data were checked for accuracy. 
+Main results
+Two trials (involving 59 mothers) that examined the use of domperidone in a total of 59 mother‐infant pairs met the inclusion criteria. Meta‐analysis of these trials showed a modest increase in expressed breastmilk (EBM) of 99.49 mL/day (95% confidence intervals ‐1.94 to 200.92; random‐effects, T² 3511.62, I² 63%) in mothers given domperidone. Both trials gave the same dose of domperidone (10 mg three times per day) with a duration of seven days in the smaller trial and 14 days in the larger. 
+Neither trial showed significant improvements in longer‐term outcomes of breastfeeding in a preterm population and no adverse effects were reported. 
+Authors' conclusions
+Two studies with a total of 59 mothers suggest modest improvements in short‐term EBM volumes when a medication is used after insufficient EBM occurs in mothers following preterm delivery. In both studies, the medication was commenced ≧14 days post delivery and following insufficient EBM supply with other lactation supports. 
+Currently, no studies support prophylactic use of a galactagogue medication at any gestation. Use of any galactagogue medication has only been examined at more than 14 days post delivery and after full lactation support has been given. Further trials should examine larger groups of preterm mothers and consider breastfeeding outcomes over a longer period. 

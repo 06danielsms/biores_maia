@@ -1,0 +1,14 @@
+Background
+Idiopathic pulmonary fibrosis (IPF) is a disease with significant morbidity and mortality. Patients short survival time, high mortality and generally rapid decline raise the importance of early treatment. Current guidelines suggest a combination of corticosteroids and immunosuppressants as "gold standard" for IPF treatment, although the evidence for this recommendation is weak. Based on animal models, it has been hypothesized a central role for aberrant wound healing following repeated epithelial lung injury, weakening the rationale for using corticosteroids in IPF, previously thought to be a chronic inflammatory disease. 
+Objectives
+The aim of the review is to determine the efficacy of corticosteroids in the treatment of adults with familial and sporadic IPF. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 2, 2008), MEDLINE (January 1966 to June 2008) and EMBASE (January 1985 to June 2008) and reference lists of articles. We searched reference lists of published articles to identify clinical trials. 
+Selection criteria
+Randomised controlled trials (RCT) and controlled clinical trials (CCT) using corticosteroids alone for the treatment of adults with IPF. 
+Data collection and analysis
+Abstracts of identified articles were retrieved and articles possibly fulfilling inclusion criteria were retrieved in full. Two reviewers would have independently assessed trial quality if there had been any included study. 
+Main results
+Seventeen articles were selected as potentially eligible for meta‐analysis. After further analysis of full text papers, no RCTs or CCTs were identified as suitable and therefore no data was available for inclusion in any meta‐analysis. All studies were excluded due to inadequate methodologies. 
+Authors' conclusions
+At present, there is no evidence for an effect of corticosteroid treatment in patients with IPF. On the other hand, other fibrotic lung diseases, such as non‐specific interstitial pneumonia (NSIP), are reported to show a better response to corticosteroids. Making a clear distinction between IPF and other entities grouped under the umbrella term interstitial lung disease is, therefore, essential as this may have therapeutic and prognostic implications. 

@@ -1,0 +1,17 @@
+The effect of automatically generated reminders delivered to providers on paper on quality of care and patient outcomes 
+What is the aim of this review? 
+The aim of this Cochrane review was to find out if reminders, automatically generated through a computer, but delivered on paper to doctors help them provide the best recommended care. Cochrane researchers identified 35 studies and analyzed 34 of these studies to answer this question. 
+Key messages 
+Providing reminders to doctors probably improves slightly the quality of care patients receive. However, because the certainty of the evidence is moderate, more high‐quality studies on the effectiveness of reminders are needed to confirm to findings of this review. 
+What was studied in the review? 
+Doctors do not always provide care that is recommended or that reflects the latest research, partly because of too much information or inaccessible information. Reminders may help doctors overcome these problems by reminding them about guidelines and research findings, or by providing advice, in a more accessible and relevant format, at a particularly appropriate time. For example, when a doctor sees a patient for an annual check‐up, the doctor would receive the patient's chart with a reminder section listing the screening tests due that year, such as colorectal cancer screening. In this review, we evaluated the effects of reminders on the quality of care delivered by physicians, on patient outcomes, and on adverse effects. These reminders were automatically generated through a computer system but delivered on paper. 
+What are the main results of the review? 
+Twenty‐nine studies were from the USA and six studies were from Canada, France, Israel and Kenya. The studies examined reminders to doctors to order screening tests, to provide vaccinations, to prescribe specific medications, or to discuss care with patients. 
+The review shows that:
+‐ overall, reminders probably improve slightly quality of care by 6.8% (in 34 studies (40 comparisons), moderate‐certainty evidence); 
+‐ reminders alone (single‐component intervention) probably improve quality of care by 11.0% compared with usual care (in 27 studies (27 comparisons), moderate‐certainty evidence); 
+‐ adding reminders to one or more co‐interventions (multi‐component intervention) probably improve slightly quality of care by 4.0% compared with the co‐intervention(s) without the reminder component (in 11 studies (13 comparisons), moderate‐certainty evidence); 
+‐ it is uncertain whether reminders improve patient outcomes because the certainty of the evidence is very low; 
+‐ none of the included studies reported outcomes related to harms or adverse effects.
+How up to date is this review? 
+The review authors searched for studies that had been published up to 21 September 2016. 

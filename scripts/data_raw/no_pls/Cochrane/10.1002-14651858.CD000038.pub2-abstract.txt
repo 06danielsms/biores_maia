@@ -1,0 +1,16 @@
+Background
+A biophysical profile (BPP) includes ultrasound monitoring of fetal movements, fetal tone and fetal breathing, ultrasound assessment of liquor volume with or without assessment of the fetal heart rate. The BPP is performed in an effort to identify babies that may be at risk of poor pregnancy outcome, so that additional assessments of wellbeing may be performed, or labour may be induced or a caesarean section performed to expedite birth. 
+Objectives
+To assess the effects of the BPP when compared with conventional monitoring (CTG only or MBPP) on pregnancy outcome in high‐risk pregnancies. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (October 2007), CENTRAL (The Cochrane Library 2006, Issue 4), MEDLINE (1966 to November 2006), EMBASE (1974 to November 2006) and CINAHL (1980 to November 2006). 
+We updated the search of the Cochrane Pregnancy and Childbirth Group's Trials Register (10 January 2012) and added the results to the awaiting classification section. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials involving a comparison of fetal BPP with other forms of antepartum fetal assessment in women with high‐risk pregnancies. 
+Data collection and analysis
+Two authors independently assessed eligibility, quality and extracted data.
+Main results
+We included five trials, involving 2974 women. Most trials were not of high quality. Although the overall incidence of adverse outcomes was low, available evidence from randomised controlled trials does not support the use of BPP as a test of fetal wellbeing in high‐risk pregnancies. We found no significant differences between the groups in perinatal deaths (relative risk (RR) 1.33, 95% confidence interval (CI) 0.60 to 2.98) or in Apgar score less than seven at five minutes (RR 1.27, 95% CI 0.85 to 1.92).Combined data from the two high‐quality trials suggest an increased risk of caesarean section in the BPP group RR 1.60, 95% CI 1.05 to 2.44, n = 280, interaction test P = 0.03. However, the number of participating women was relatively small (n = 280). Therefore, additional evidence is required in order to be definitive regarding the efficacy of this test in high‐risk pregnancies. Furthermore, the impact of the BPP on other interventions, length of hospitalisation, serious short‐term and long‐term neonatal morbidity and parental satisfaction requires further evaluation. 
+Authors' conclusions
+At present, there is insufficient evidence from randomised trials to support the use of BPP as a test of fetal wellbeing in high‐risk pregnancies. 
+[Note: The three citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

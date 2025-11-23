@@ -1,0 +1,15 @@
+What adverse reactions happened during this study?
+The most common adverse reaction was headache.
+
+Adverse reactions:
+- Headache: 6.5% (2) Tacrolimus, 10.0% (3) Tacrolimus, 3.2% (1) Cyclosporin, 6.9% (2) Cyclosporin
+- Nausea: 3.2% (1) Tacrolimus, 3.3% (1) Tacrolimus, none, none
+- Fatigue: none, none, none, 3.4% (1) Cyclosporin
+- Diarrhea: none, 3.3% (1) Tacrolimus, none, none
+- Muscle pain: none, 3.3% (1) Tacrolimus, none, none
+- Pain in upper part of the stomach: none, 3.3% (1) Tacrolimus, none, none
+- Feeling hot: 3.2% (1) Tacrolimus, none, none, none
+- Stomach pain: none, none, 3.2% (1) Cyclosporin, none
+- Vomiting: 3.2% (1) Tacrolimus, none, none, none
+
+10 | Clinical Study Results

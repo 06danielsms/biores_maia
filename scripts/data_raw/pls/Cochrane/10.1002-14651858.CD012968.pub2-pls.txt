@@ -1,0 +1,19 @@
+Comparison of paravertebral anaesthesia to general anaesthesia for breast cancer surgery
+What is the issue? 
+Breast cancer is one of the most common cancers in women. Surgical removal of the tumour is the main treatment; however, dissemination of cancer cells may occur due to tumour handling during surgery. The body's response to surgery (stress response or release of hormones and mediators) as well as drugs used to produce general anaesthesia (complete loss of consciousness), such as opioids and inhalational anaesthetics, can also depress immunity and promote cancer cell survival. 
+Paravertebral anaesthesia acts by numbing the nerves on one side of the body and can allow surgery to be performed without general anaesthesia. The lightly sedated participant can report pain, cold, thirst, or hunger during or after surgery, allowing timely treatment. This, combined with pain relief produced by paravertebral anaesthesia, has the potential to improve immunity, reduce surgical stress, and improve quality of life and cancer‐free survival. 
+Review question 
+We collected and analysed data from all relevant studies to ascertain whether paravertebral anaesthesia would provide better quality of recovery and pain relief at rest and on movement, and to determine whether paravertebral anaesthesia would have any affect on mortality, compared to general anaesthesia. 
+Study characteristics 
+We included randomised controlled trials in which participants in one group received paravertebral anaesthesia with or without sedation and participants in the other group received general anaesthesia during breast cancer surgery. We did not include studies in which paravertebral anaesthesia was administered in addition to general anaesthesia and then this was compared to the use of general anaesthesia. 
+Key results 
+Nine studies involving 614 participants were included. Four studies were conducted in Europe, three in Asia, and one each in Africa and North America. All studies took place in medical college hospitals with no external funding. 
+When reviewing evidence on the quality of recovery, these studies reported various outcomes. It was found that paravertebral anaesthesia: 
+• may reduce 24‐hour postoperative analgesic use (61 per 1000 versus 480 per 1000 in the general anaesthesia group); 
+• probably reduces the incidence of postoperative nausea and vomiting (72 per 1000 versus 340 per 1000 in the general anaesthesia group); 
+• probably reduces pain at 2 hours (by 2.95 points on a 0 to 10 point scale) and may reduce pain at 24 hours at rest (0.21 points on a 0 to 10 point scale) compared to general anaesthesia; and 
+• may reduce pain on movement at 6 hours and at 24 hours post surgery (at 6 hours by 2.57 points; at 24 hours by 2.12 points on a scale of 0 to 10) compared to general anaesthesia. 
+No study reported on death with each anaesthetic technique. None of the included studies reported on disease‐free survival, chronic pain, or quality of life after breast cancer surgery, probably because these outcomes were not envisaged or planned. 
+Reports of adverse events with paravertebral block were rare. Out of 290 participants who received paravertebral anaesthesia, two developed epidural spread, four had minor bleeding, and one had pleural puncture. Seventeen of 240 participants developed Horner's syndrome. All adverse events were self‐limited and resolved without treatment. 
+Quality of the evidence 
+Most evidence was judged to be of moderate certainty, meaning that we are moderately confident in the reported result. In some cases, evidence was seen to be of low certainty, meaning that our confidence in the reported result is limited. 

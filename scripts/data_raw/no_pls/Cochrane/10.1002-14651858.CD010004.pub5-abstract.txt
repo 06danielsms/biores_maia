@@ -1,0 +1,15 @@
+Background
+Nontuberculous mycobacteria are mycobacteria, other than those in the Mycobacterium tuberculosis complex, and are commonly found in the environment. Nontuberculous mycobacteria species (most commonly Mycobacterium avium complex and Mycobacterium abscessus) are isolated from the respiratory tract of approximately 5% to 40% of individuals with cystic fibrosis; they can cause lung disease in people with cystic fibrosis leading to more a rapid decline in lung function and even death in certain circumstances. Although there are guidelines for the antimicrobial treatment of nontuberculous mycobacteria lung disease, these recommendations are not specific for people with cystic fibrosis and it is not clear which antibiotic regimen may be the most effective in the treatment of these individuals. This is an update of a previous review. 
+Objectives
+The objective of our review was to compare antibiotic treatment to no antibiotic treatment, or to compare different combinations of antibiotic treatment, for nontuberculous mycobacteria lung infections in people with cystic fibrosis. The primary objective was to assess the effect of treatment on lung function and pulmonary exacerbations and to quantify adverse events. The secondary objectives were to assess treatment effects on the amount of bacteria in the sputum, quality of life, mortality, nutritional parameters, hospitalizations and use of oral antibiotics. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and hand searching of journals and conference abstract books. Date of last search: 24 February 2020. 
+We also searched a register of ongoing trials and the reference lists of relevant articles and reviews. Date of last search: 21 March 2019. 
+Selection criteria
+Any randomized controlled trials comparing nontuberculous mycobacteria antibiotics to no antibiotic treatment, as well as one nontuberculous mycobacteria antibiotic regimen compared to another nontuberculous mycobacteria antibiotic regimen, in individuals with cystic fibrosis.   
+Data collection and analysis
+Data were not collected because in the one trial identified by the search, data specific to individuals with cystic fibrosis could not be obtained from the pharmaceutical company. 
+Main results
+One completed trial was identified by the searches, but data specific to individuals with cystic fibrosis could not be obtained from the pharmaceutical company. 
+Authors' conclusions
+This review did not find any evidence for the effectiveness of different antimicrobial treatment for nontuberculous mycobacteria lung disease in people with cystic fibrosis. Until such evidence becomes available, it is reasonable for clinicians to follow published clinical practice guidelines for the diagnosis and treatment of nodular or bronchiectatic pulmonary disease due to Mycobacterium avium complex or Mycobacterium abscessus in patients with cystic fibrosis. 

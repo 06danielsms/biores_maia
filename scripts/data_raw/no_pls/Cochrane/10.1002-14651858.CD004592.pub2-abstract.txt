@@ -1,0 +1,14 @@
+Background
+Double volume exchange transfusion is commonly used in newborns with severe jaundice in order to prevent kernicterus and other toxicity related to hyperbilirubinemia. Most commonly, exchange transfusions are used in infants with rhesus hemolytic disease. 
+Objectives
+To compare the effectiveness of single volume exchange transfusion (SVET) with that of double volume exchange transfusion (DVET) in producing survival without disability and reducing bilirubin levels in newborn infants with severe jaundice. 
+Search methods
+MEDLINE, EMBASE (Excerpta Medica online), The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), SCISEARCH (Science Citation Index), Reference lists from the articles identified in the search of the databases, and from review articles were searched through March 2006. Personal communication with experts in the field was used to identify unpublished data. 
+Selection criteria
+All Randomised and quasi randomised control trials comparing single volume and double volume exchange transfusions in jaundiced newborn infants were included. 
+Data collection and analysis
+Safety and efficacy of single and double volume exchange compared with regards to long term neurodevelopment, reduction in bilirubin levels and other complications during exchange transfusion. Data was evaluated separately with regards to the cause of jaundice. Relative risk (RR) and weighted mean difference (WMD) were calculated for dichotomous and continuous variables respectively. 95% confidence intervals were used and a fixed effects model was assumed. 
+Main results
+Only one study fulfilled the criteria (Amato 1988). 20 full term babies requiring exchange transfusion for hemolytic jaundice due to ABO incompatibility were randomly allocated to receive single or double volume exchange transfusion. Base line characteristics of both groups were similar with regards to birth weight 3260 (SD 390) g vs. 3350 SD (410) g, gestational age 39 (SD 1) week vs. 40 (SD 0.8) week, immediate pre exchange bilirubin level 199 (SD 33) micromol/L vs. 216 (SD 55) micromol/L. Both groups were treated equally apart from the volume of blood used for exchange transfusion. Total bilirubin levels immediately after exchange transfusion were not significantly different in either group. No long term neurodevelopmental outcome was examined in this study. 
+Authors' conclusions
+There was insufficient evidence to support or refute the use of single volume exchange transfusion as opposed to double volume exchange transfusion in jaundiced newborns. A change from the current practice of double volume exchange transfusions for severe jaundice in newborns infant, cannot be recommended on current evidence. 

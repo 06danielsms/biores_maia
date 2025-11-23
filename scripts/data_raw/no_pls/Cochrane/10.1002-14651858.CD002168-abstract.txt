@@ -1,0 +1,14 @@
+Background
+Most international guidelines currently recommend methylxanthines (e.g., theophylline, aminophylline) for severe exacerbations of chronic obstructive pulmonary disease (COPD), yet clinical trials underlying this recommendation have been small and underpowered. 
+Objectives
+To determine the benefit of methylxanthines compared to placebo for COPD exacerbations.
+Search methods
+Randomised controlled trials (RCTs) were identified from the Cochrane Airways Review Group COPD Register, a compilation of systematic searches of CINAHL, EMBASE, MEDLINE and CENTRAL and hand searching of 20 respiratory journals. Primary authors and content experts were contacted to identify eligible studies. Bibliographies from included studies and reviews were searched. Searches are current to March 2005. 
+Selection criteria
+Included studies were limited to RCTs of patients presenting with acute COPD exacerbations, treated with methylxanthines (oral or intravenous) or placebo plus standard care. Two reviewers independently selected articles for inclusion and assessed methodological quality. 
+Data collection and analysis
+Two reviewers independently extracted data. Missing data were obtained from authors or calculated from other data presented in the paper. The data were analysed using the Cochrane Review Manager 4.1. Studies were pooled to yield weighted mean differences (WMD), standardised mean difference (SMD) or odds ratios (OR) and reported using 95% confidence intervals (95%CI). 
+Main results
+From 29 identified references, 4 RCTs met inclusion criteria (169 patients). Mean change in forced expiratory volume in one second (FEV1) at 2 hours was similar in methylxanthine and placebo groups but transiently increased with methylxanthines at 3 days (WMD: 101 ml; 95% CI: 26 to 177). Data on clinical outcomes were sparse. Trends toward improvements in hospitalisation and length‐of‐stay were offset by a trend toward more relapses at one week. Changes in symptom scores were not significant. Methylxanthines caused more nausea and vomiting than placebo (OR: 4.6; 95% CI: 1.7 to 12.6) and trended toward more frequent tremor, palpitations, and arrhythmias. 
+Authors' conclusions
+Given current evidence, methylxanthines should not be used for COPD exacerbations. Possible beneficial effects in lung function and clinical endpoints were modest and inconsistent, whereas adverse effects were significantly increased. More selective agents, tested in larger randomised trials, are necessary if methylxanthines are to have any role in the treatment of COPD exacerbations. 

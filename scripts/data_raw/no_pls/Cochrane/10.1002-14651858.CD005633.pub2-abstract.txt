@@ -1,0 +1,14 @@
+Background
+Clinical guidelines recommend vitamin D compounds to suppress serum parathyroid hormone (PTH) in chronic kidney disease (CKD), however treatment may be associated with increased serum phosphorus and calcium, which are associated with increased mortality in observational studies. Observational data also indicate vitamin D therapy may be independently associated with reduced mortality in CKD. 
+Objectives
+We assessed the effects of vitamin D compounds on clinical, biochemical, and bone outcomes in people with CKD and receiving dialysis. 
+Search methods
+We searched The Cochrane Renal Group's specialised register, Cochrane's Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, and reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials (RCTs) in subjects with CKD and requiring dialysis that assessed treatment with vitamin D compounds. 
+Data collection and analysis
+Data was extracted by two authors. Results are summarised as risk ratios (RR) for dichotomous outcomes or mean differences (MD) for continuous outcomes, with 95% confidence intervals (CI). 
+Main results
+Sixty studies (2773 patients) were included. No formulation, route, or schedule of administration was associated with altered risks of death, bone pain, or parathyroidectomy. Marked heterogeneity in reporting of outcomes resulted in few data available for formal meta‐analysis. Compared with placebo, vitamin D compounds lowered serum PTH at the expense of increasing serum phosphorus. Trends toward increased hypercalcaemia and serum calcium did not reach statistical significance but may be clinically relevant. Newer vitamin D compounds (paricalcitol, maxacalcitol, doxercalciferol) lowered PTH compared with placebo, with increased risks of hypercalcaemia, although inadequate data were available for serum phosphorus. Intravenous vitamin D may lower PTH compared with oral treatment, and be associated with lower serum phosphorus and calcium levels, although limitations in the available studies precludes a conclusive statement of treatment efficacy. Few studies were available for intermittent versus daily and intraperitoneal versus oral administration or directly comparative studies of newer versus established vitamin D compounds. 
+Authors' conclusions
+We confirm that vitamin D compounds suppress PTH in people with CKD and requiring dialysis although treatment is associated with clinical elevations in serum phosphorus and calcium. All studies were inadequately powered to assess the effect of vitamin D on clinical outcomes and until such studies are conducted the relative importance of changes in serum PTH, phosphorus and calcium resulting from vitamin D therapy remain unknown. Observational data showing vitamin D compounds may be associated with improved survival in CKD need to be confirmed or refuted in specifically designed RCTs. 

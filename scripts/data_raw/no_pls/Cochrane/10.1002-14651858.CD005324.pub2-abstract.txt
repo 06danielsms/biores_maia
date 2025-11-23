@@ -1,0 +1,15 @@
+Background
+Children with chronic illnesses are at increased risk for reductions in bone strength and subsequent fractures (osteoporosis), either due to the impact of the underlying condition on skeletal development or due to the osteotoxic effect of medications (e.g., glucocorticoids) used to treat the chronic illness. Bisphosphonates are being administered with increasing frequency to children with secondary osteoporosis; however, the efficacy and harm of these agents remains unclear. 
+Objectives
+To examine the efficacy and harm of bisphosphonate therapy in the treatment and prevention of secondary osteoporosis in children and adolescents. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (Issue 4, 2006), MEDLINE, EMBASE, CINAHL and ISI Web of Science (inception‐December 2006). Further literature was identified through expert contact, key author searches, scanning reference lists of included studies, and contacting bisphosphonate manufacturers. 
+Selection criteria
+Randomized, quasi‐randomized, controlled clinical trials, cohort, and case controls of bisphosphonate(s) in children 0‐18 years of age with at least one low‐trauma fracture event or reductions in bone mineral density in the context of secondary osteoporosis. 
+Data collection and analysis
+Two reviewers independently extracted data and assessed quality. Case series were used for supplemental harms‐related data. 
+Main results
+Six RCTs, two CCTs, and one prospective cohort (n=281 children) were included and classified into osteoporosis due to: 1) neuromuscular conditions (one RCT) and 2) chronic illness (five RCTs, two CCTs, one cohort). Bisphosphonates examined were oral alendronate, clodronate, and intravenous (IV) pamidronate. Study quality varied. Harms data from 23 case series (n=241 children) were used. 
+Heterogeneity precluded statistically combining the results. Percent change or Z‐score change in lumbar spine areal BMD from baseline were consistently reported. Two studies carried out between‐group analyses; one showed no significant difference (using oral alendronate in anorexia nervosa) while the other demonstrated a treatment effect on lumbar spine with IV pamidronate in burn patients. Frequently reported harms included the acute phase reaction, followed by gastrointestinal complaints, and bone/muscle pain. 
+Authors' conclusions
+The results justify further evaluation of bisphosphonates among children with secondary osteoporosis. However, the evidence does not support bisphosphonates as standard therapy. Short‐term (3 years or less) bisphosphonate use appears to be well‐tolerated. An accepted criterion for osteoporosis in children, a standardized approach to BMD reporting, and examining functional bone health outcomes (e.g., fracture rates) will allow for appropriate comparisons across studies. 

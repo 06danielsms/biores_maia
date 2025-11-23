@@ -1,0 +1,15 @@
+Antibiotics for adults and children with sore throats
+Review question 
+Are antibiotics effective in treating the symptoms and reducing the potential complications associated with sore throats? 
+Background 
+Sore throats are infections caused by bacteria or viruses. Pain or discomfort is the most distinguishing feature. However, fever and headache are also common accompanying symptoms. People usually recover quickly (after three or four days), although some develop complications. A serious but rare complication is rheumatic fever, which affects the heart and joints. Other complications include acute infection of the sinuses, middle ear, tonsils, and kidney. Antibiotics reduce infections caused by bacteria, but not those caused by viruses, and they can cause diarrhoea, rash, and other adverse effects. In addition, communities build resistance to them. 
+Search date 
+The evidence is current to April 2021.
+Study characteristics 
+The 2021 update includes 29 trials with 15,337 cases of sore throat. All of the included studies were randomised controlled trials (a type of study where participants are randomly assigned to one of two or more treatment groups) that sought to determine if antibiotics helped reduce symptoms of sore throat, fever, or headache or the occurrence of more serious complications. The included studies were conducted in both children and adults seeking medical care for their symptoms.  
+Study funding sources 
+Many of the early studies were funded by the United States Armed Forces and recruited young, adult male military personnel. Later studies were mostly supported by governmental research grants, with a small number funded by private pharmaceutical companies. 
+Key results 
+We found that antibiotics reduced the number of people still experiencing headache on the third day of illness. Antibiotics probably reduced the number of people with sore throat after three days and one week, as well as rheumatic fever within two months in communities where this complication is common. Our confidence in the evidence for antibiotic use varied from low to high for other types of complications associated with sore throat. 
+Certainty of evidence 
+Overall, the certainty of the evidence from the included studies was low to high. However, there were very few recent trials included in the review, hence it is unclear if changes in bacterial resistance in the community may have affected the effectiveness of antibiotics. 

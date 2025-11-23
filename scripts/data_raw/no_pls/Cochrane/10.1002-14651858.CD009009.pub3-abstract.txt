@@ -1,0 +1,14 @@
+Background
+General health checks are common elements of health care in some countries. They aim to detect disease and risk factors for disease with the purpose of reducing morbidity and mortality. Most of the commonly used individual screening tests offered in general health checks have been incompletely studied. Also, screening leads to increased use of diagnostic and therapeutic interventions, which can be harmful as well as beneficial. It is therefore important to assess whether general health checks do more good than harm. This is the first update of the review published in 2012. 
+Objectives
+To quantify the benefits and harms of general health checks.
+Search methods
+We searched CENTRAL, MEDLINE, Embase, two other databases and two trials registers on 31 January 2018. Two review authors independently screened titles and abstracts, assessed papers for eligibility and read reference lists. One review author used citation tracking (Web of Knowledge) and asked trial authors about additional studies. 
+Selection criteria
+We included randomised trials comparing health checks with no health checks in adults unselected for disease or risk factors. We did not include geriatric trials. We defined health checks as screening for more than one disease or risk factor in more than one organ system. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias in the trials. We contacted trial authors for additional outcomes or trial details when necessary. When possible, we analysed the results with a random‐effects model meta‐analysis; otherwise, we did a narrative synthesis. 
+Main results
+We included 17 trials, 15 of which reported outcome data (251,891 participants). Risk of bias was generally low for our primary outcomes. Health checks have little or no effect on total mortality (risk ratio (RR) 1.00, 95% confidence interval (CI) 0.97 to 1.03; 11 trials; 233,298 participants and 21,535 deaths; high‐certainty evidence, I2 = 0%), or cancer mortality (RR 1.01, 95% CI 0.92 to 1.12; 8 trials; 139,290 participants and 3663 deaths; high‐certainty evidence, I2 = 33%), and probably have little or no effect on cardiovascular mortality (RR 1.05, 95% CI 0.94 to 1.16; 9 trials; 170,227 participants and 6237 deaths; moderate‐certainty evidence; I2 = 65%). Health checks have little or no effect on fatal and non‐fatal ischaemic heart disease (RR 0.98, 95% CI 0.94 to 1.03; 4 trials; 164,881 persons, 10,325 events; high‐certainty evidence; I2 = 11%), and probably have little or no effect on fatal and non‐fatal stroke (RR 1.05 95% CI 0.95 to 1.17; 3 trials; 107,421 persons, 4543 events; moderate‐certainty evidence, I2 = 53%). 
+Authors' conclusions
+General health checks are unlikely to be beneficial.

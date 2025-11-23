@@ -1,0 +1,15 @@
+Background
+Candida is a common nosocomial infection and is associated with increased healthcare costs. In neonates, candida infection is associated with high mortality and morbidity and is transmitted by direct and indirect contact. Patient isolation measures, i.e. single room isolation or cohorting, are usually recommended for infections that spread by contact. 
+Objectives
+To determine the effect of patient isolation measures (single room isolation and/or cohorting) for infants with candida colonization or infection as an adjunct to routine infection control measures on the transmission of candida to other infants in the neonatal unit. 
+Search methods
+Relevant trials in any language were searched in the following databases in July 2011: The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2011), MEDLINE, BIOSIS, EMBASE and CINAHL. Proceedings of the Pediatric Academic Societies (from 1987) and ongoing trials were searched. 
+Selection criteria
+Types of studies: Cluster randomized trials (where clusters may be defined by hospital, ward, or other subunits of the hospital).  Types of participants: Neonatal units caring for infants colonized or infected with Candida.  Types of interventions: A policy of patient isolation measures (single room isolation or cohorting of infants with Candida colonization or infection) compared to routine isolation measures. 
+Data collection and analysis
+The standard methods of the Cochrane Neonatal Review Group (CNRG) were used to identify studies and to assess the methodological quality of eligible cluster‐randomized trials. Infection rates and colonization rates were to be expressed as rate ratios for each trial and if appropriate for meta‐analysis, the generic inverse variance method in RevMan was to be used. 
+Main results
+No eligible trials were identified.
+Authors' conclusions
+The review found no evidence to either support or refute the use of patient isolation measures (single room isolation or cohorting) in neonates with candida colonization or infection. 
+Despite the evidence for transmission of candida by contact and evidence of cross‐infection by health care workers, no standard policy of patient isolation measures beyond routine infection control measures exists in the neonatal unit. There is an urgent need to research the role of patient isolation measures for preventing transmission of candida in the neonatal unit. Well designed trials randomizing clusters of units or hospitals to a type of patient isolation method intervention are needed. 

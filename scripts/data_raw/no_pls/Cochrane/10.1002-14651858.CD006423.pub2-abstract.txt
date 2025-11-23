@@ -1,0 +1,17 @@
+Background
+Glucagon‐like peptide analogues are a new class of drugs used in the treatment of type 2 diabetes that mimic the endogenous hormone glucagon‐like peptide 1 (GLP‐1). GLP‐1 is an incretin, a gastrointestinal hormone that is released into the circulation in response to ingested nutrients. GLP‐1 regulates glucose levels by stimulating glucose‐dependent insulin secretion and biosynthesis, and by suppressing glucagon secretion, delayed gastric emptying and promoting satiety. 
+Objectives
+To assess the effects of glucagon‐like peptide analogues in patients with type 2 diabetes mellitus. 
+Search methods
+Studies were obtained from electronic searches of The Cochrane Library (last search issue 1, 2011), MEDLINE (last search March 2011), EMBASE (last search March 2011), Web of Science (last search March 2011) and databases of ongoing trials. 
+Selection criteria
+Studies were included if they were randomised controlled trials of a minimum duration of eight weeks comparing a GLP‐1 analogue with placebo, insulin, an oral anti‐diabetic agent, or another GLP‐1 analogue in people with type 2 diabetes. 
+Data collection and analysis
+Data extraction and quality assessment of studies were done by one reviewer and checked by a second. Data were analysed by type of GLP‐1 agonist and comparison treatment. Where appropriate, data were summarised in a meta‐analysis (mean differences and risk ratios summarised using a random‐effects model). 
+Main results
+Seventeen randomised controlled trials including relevant analyses for 6899 participants were included in the analysis. Studies were mostly of short duration, usually 26 weeks. 
+In comparison with placebo, all GLP‐1 agonists reduced glycosylated haemoglobin A1c (HbA1c) levels by about 1%. Exenatide 2 mg once weekly and liraglutide 1.8 mg reduced it by 0.20% and 0.24% respectively more than insulin glargine. Exenatide 2 mg once weekly reduced HbA1c more than exenatide 10 μg twice daily, sitagliptin and pioglitazone. Liraglutide 1.8 mg reduced HbA1c by 0.33% more than exenatide 10 μg twice daily. Liraglutide led to similar improvements in HbA1c compared to sulphonylureas but reduced it more than sitagliptin and rosiglitazone. 
+Both exenatide and liraglutide led to greater weight loss than most active comparators, including in participants not experiencing nausea. Hypoglycaemia occurred more frequently in participants taking concomitant sulphonylurea. GLP‐1 agonists caused gastrointestinal adverse effects, mainly nausea. These adverse events were strongest at the beginning and then subsided. Beta‐cell function was improved with GLP‐1 agonists but the effect did not persist after cessation of treatment. 
+None of the studies was long enough to assess long‐term positive or negative effects.
+Authors' conclusions
+GLP‐1 agonists are effective in improving glycaemic control.

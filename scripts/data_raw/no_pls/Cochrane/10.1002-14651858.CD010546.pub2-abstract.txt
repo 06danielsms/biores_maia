@@ -1,0 +1,14 @@
+Background
+Portal hypertension commonly accompanies advanced liver disease and often gives rise to life‐threatening complications, including haemorrhage from oesophageal and gastrointestinal varices. Variceal haemorrhage commonly occurs in children with chronic liver disease or portal vein obstruction. Prevention is therefore important. Following numerous randomised clinical trials demonstrating efficacy of non‐selective beta‐blockers and endoscopic variceal ligation in decreasing the incidence of variceal haemorrhage, primary prophylaxis of variceal haemorrhage in adults has become the established standard of care. Hence, band ligation and beta‐blockers have been proposed to be used as primary prophylaxis of oesophageal variceal bleeding in children. 
+Objectives
+To determine the benefits and harms of band ligation compared with any type of beta‐blocker for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (February 2019), CENTRAL (December 2018), PubMed (December 2018), Embase Ovid (December 2018), LILACS (Bireme; January 2019), and Science Citation Index Expanded (Web of Science; December 2018). We scrutinised the reference lists of the retrieved publications and performed a manual search from the main paediatric gastroenterology and hepatology conferences (NASPGHAN and ESPGHAN) abstract books from 2009 to 2018. We searched ClinicalTrials.gov for ongoing clinical trials. There were no language or document type restrictions. 
+Selection criteria
+We planned to include randomised clinical trials irrespective of blinding, language, or publication status for assessment of benefits and harms. We planned to also include quasi‐randomised and other observational studies retrieved with the searches for randomised clinical trials for report of harm. 
+Data collection and analysis
+We planned to summarise data from randomised clinical trials using standard Cochrane methodologies. 
+Main results
+We found no randomised clinical trials assessing band ligation versus beta‐blockers for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis. 
+Authors' conclusions
+Randomised clinical trials assessing the benefits or harms of band ligation versus beta‐blockers for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis are lacking. There is a need for well‐designed, adequately powered randomised clinical trials to assess the benefits and harms of band ligation versus beta‐blockers for primary prophylaxis of oesophageal variceal bleeding in children with chronic liver disease or portal vein thrombosis. Those randomised clinical trials should include patient‐relevant clinical outcomes such as mortality, failure to control bleeding, and adverse events. 

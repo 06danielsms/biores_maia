@@ -1,0 +1,14 @@
+Background
+Venous access is an essential part of caring for the sick neonate. However, problems such as contamination of fluids with bacteria, endotoxins and particulates have been associated with intravenous infusion therapy. Intravenous in‐line filters claim to be an effective strategy for the removal of bacteria, endotoxins and particulates associated with intravenous therapy in adults and are increasingly being recommended for use in neonates. 
+Objectives
+To determine the effect of intravenous in‐line filters on morbidity and mortality in neonates. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group. We searched the electronic databases MEDLINE (from 1966 to May, 2015), EMBASE (from 1980 to May, 2015), CINAHL (from 1982 to May 2015) and the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 5). We did not impose any language restrictions. Further searching included cross references, abstracts, conferences, symposia proceedings, expert informants and journal handsearching. 
+Selection criteria
+We included randomised controlled trials (RCTs) or quasi‐RCTs that compared the use of intravenous in‐line filters with placebo or nothing in neonates. 
+Data collection and analysis
+We followed the procedures of the Cochrane Neonatal Review Group throughout. We checked titles and abstracts identified from the search. We obtained the full text of all studies of possible relevance. We independently assessed the trials for their methodological quality and subsequent inclusion in the review. We contacted authors for further information as needed. Statistical analysis followed the procedures of the Cochrane Neonatal Review Group. 
+Main results
+There were four eligible studies that recruited a total of 704 neonates. This review of low to very low quality evidence found that the use of in‐line filters compared with unfiltered fluids for intravenous infusion had no statistically significant difference in effectiveness on overall mortality (typical RR 0.87, 95% CI 0.52 to 1.47; typical RD ‐0.01, 95% CI ‐0.06 to 0.04; two studies, 530 infants), proven and suspect septicaemia (typical RR 0.86, 95% CI 0.59 to 1.27; typical RD ‐0.02, 95% CI ‐0.09 to 0.04; two studies, 530 infants), or other secondary outcomes (including local phlebitis and thrombus, necrotising enterocolitis, duration of cannula patency, length of stay in hospital, number of catheters inserted and financial costs). 
+Authors' conclusions
+There is insufficient evidence to recommend the use of intravenous in‐line filters to prevent morbidity and mortality in neonates. 

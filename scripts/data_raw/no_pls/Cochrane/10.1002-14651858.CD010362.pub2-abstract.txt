@@ -1,0 +1,15 @@
+Background
+The long‐term risk of stroke increases with age, and stroke is a common cause of disability in the community. Spasticity is considered a significantly disabling impairment that develops in people who have had a stroke. The burden of care is higher in stroke survivors who have spasticity when compared with stroke survivors without spasticity with regard to treatment costs, quality of life, and caregiver burden. 
+Objectives
+To assess if pharmacological interventions for spasticity are more effective than no intervention, normal practice, or control at improving function following stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (May 2016), the Cochrane Central Register of Controlled Trials (CENTRAL, 2016, Issue 5), MEDLINE (1946 to May 2016), Embase (2008 to May 2016), CINAHL (1982 to May 2016), AMED (1985 to May 2016), and eight further databases and trial registers. In an effort to identify further studies, we undertook handsearches of reference lists and contacted study authors and commercial companies. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared any systemically acting or locally acting drug versus placebo, control, or comparative drug with the aim of treating spasticity. 
+Data collection and analysis
+Two review authors independently assessed the studies for inclusion and extracted the data. We assessed the included studies for both quality and risk of bias. We contacted study authors to request further information when necessary. 
+Main results
+We included seven RCTs with a total 403 participants. We found a high risk of bias in all but one RCT. Two of the seven RCTs assessed a systemic drug versus placebo. We pooled data on an indirect measure of spasticity (160 participants) from these two studies but found no significant effect (odds ratio (OR) 1.66, 95% confidence interval (CI) 0.21 to 13.07; I2 = 85%). We identified a significant risk of adverse events per participant occurring in the treatment group versus placebo group (risk ratio (RR) 1.65, 95% CI 1.12 to 2.42; 160 participants; I2 = 0%). Only one of these studies used a functional outcome measure, and we found no significant difference between groups. 
+Of the other five studies, two assessed a systemic drug versus another systemic drug, one assessed a systemic drug versus local drug, and the final two assessed a local drug versus another local drug. 
+Authors' conclusions
+The lack of high‐quality RCTs limited our ability to make specific conclusions. Evidence is insufficient to determine if systemic antispasmodics are effective at improving function following stroke. 

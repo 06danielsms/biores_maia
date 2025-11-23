@@ -1,0 +1,14 @@
+Background
+Public concerns regarding the safety of transfused blood have prompted reconsideration of the indications for the transfusion of allogeneic red cells (blood from an unrelated donor), and a range of techniques designed to minimise transfusion requirements. 
+Objectives
+To examine the evidence for the efficacy of pre‐operative autologous blood donation (PAD) in reducing the need for perioperative allogeneic red blood cell (RBC) transfusion. 
+Search methods
+Articles were identified by searches of the electronic databases; MEDLINE (January 1950 to July 2009), EMBASE (January 1980 to Week 31, 2009), ISI Web of Science (inception to August 2009), The Cochrane Library 2009, Issue 3, and The Cochrane Injuries Group Specialised Register (searched August 7 2009). Reference lists in relevant publications were checked and authors were contacted to identify additional studies. The searches were updated in August 2009. 
+Selection criteria
+Randomised controlled trials with a concurrent control group in which adult patients, scheduled for non‐urgent surgery, were randomised to PAD, or to a control group who did not receive the intervention. 
+Data collection and analysis
+Data were independently extracted and the risk of bias was assessed. Relative risks (RR) and mean differences (MD) with 95% confidence intervals (CIs) were calculated. Data were pooled using a random‐effects model. The principal outcomes were the proportion of patients exposed to allogeneic red blood cells (RBCs) and the amount of blood transfused. Other clinical outcomes are detailed in the review. 
+Main results
+Fourteen trials were included. Overall PAD reduced the risk of receiving an allogeneic blood transfusion by a relative 68% (RR 0.32; 95% CI 0.22 to 0.47). The absolute reduction in risk of allogeneic transfusion was 44% (risk difference (RD) ‐0.44; 95% CI ‐0.68 to ‐0.21). In contrast, the results show that the risk of receiving any blood transfusion (allogeneic and/or autologous) is increased by PAD (RR 1.24; 95% CI 1.02 to 1.51). There was evidence of significant heterogeneity for both of these outcomes. 
+Authors' conclusions
+Although the trials of PAD showed a reduction in the need for allogeneic blood, the methodological quality of the trials was poor and the overall transfusion rates (allogeneic and/or autologous) in these trials were high, and were increased by recruitment into the PAD arms of the trials. This raises questions about the true benefit of PAD. In the absence of large, high quality trials using clinical endpoints, it is not possible to say whether the benefits of PAD outweigh the harms. 

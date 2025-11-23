@@ -1,0 +1,13 @@
+Antibiotics to treat suspected cases meningitis due to infection with meningococcus before confirmation of diagnosis 
+Review question 
+We wanted to know if people suspected to have inflammation of the membranes covering the brain and spinal cord (meningitis) due to infection with the meningococcal bacteria should be given antibiotics before the diagnosis is confirmed in order to prevent death or disability. We found one relevant study. 
+Background 
+Meningococcal disease is a rapidly progressing, contagious bacterial infection that can cause epidemics of severe disease of the brain and blood. If not treated early many will die or have permanent disabilities. Antibiotics are very effective if given early. Waiting for confirmation of the diagnosis with laboratory tests can result in delays in starting antibiotics. Giving antibiotics early based on a clinical suspicion (empiric treatment) could prevent delays in treatment and consequent death and disability. However, doing so could also result in unnecessary treatment. 
+Study characteristics 
+We searched for studies comparing giving versus not giving empiric antibiotics or comparing different antibiotics in those with suspected meningococcal disease. We found one randomised trial comparing single intramuscular doses of two different long‐acting antibiotics. The evidence is current to January 2017. 
+The included study was conducted in nine primary care facilities in Niger during an outbreak of meningococcal disease in 2003. Of 510 adults and children studied, 251 received ceftriaxone and 259 received chloramphenicol. The study was funded by Médecins Sans Frontières. 
+Key results 
+There was no difference in the number of people who died, did not respond to treatment, or with neurological disabilities with either antibiotic empirically. The results were similar in whom the diagnosis was subsequently confirmed. Neither antibiotic had significant adverse effects. 
+Quality of the evidence 
+Although the study was well conducted, the overall quality of the evidence was only moderate for death and treatment failures because the study excluded children less than two months old, pregnant women, and the severely ill. The quality of evidence was lower for neurological disabilities because of the shortness of follow‐up. 
+Since meningococcal disease has serious consequences, not giving antibiotics empirically would be unethical. However, future research comparing different antibiotics in people of all ages and illness severity is required to provide reliable evidence in different clinical settings. 

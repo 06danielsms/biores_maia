@@ -1,0 +1,28 @@
+Background
+Percutaneous exposure injuries from devices used for blood collection or for injections expose healthcare workers to the risk of blood borne infections such as hepatitis B and C, and human immunodeficiency virus (HIV). Safety features such as shields or retractable needles can possibly contribute to the prevention of these injuries and it is important to evaluate their effectiveness. 
+Objectives
+To determine the benefits and harms of safety medical devices aiming to prevent percutaneous exposure injuries caused by needles in healthcare personnel versus no intervention or alternative interventions. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, NHSEED, Science Citation Index Expanded, CINAHL, Nioshtic, CISdoc and PsycINFO (until 11 November 2016). 
+Selection criteria
+We included randomised controlled trials (RCT), controlled before and after studies (CBA) and interrupted time‐series (ITS) designs of the effect of safety engineered medical devices on percutaneous exposure injuries in healthcare staff. 
+Data collection and analysis
+Two of the authors independently assessed study eligibility and risk of bias and extracted data. We synthesized study results with a fixed‐effect or random‐effects model meta‐analysis where appropriate. 
+Main results
+We included six RCTs with 1838 participants, two cluster‐RCTs with 795 participants and 73,454 patient days, five CBAs with approximately 22,000 participants and eleven ITS with an average of 13.8 data points. These studies evaluated safe modifications of blood collection systems, intravenous (IV) systems, injection systems, multiple devices, sharps containers and legislation on the implementation of safe devices. We estimated the needlestick injury (NSI) rate in the control groups to be about one to five NSIs per 1000 person‐years. There were only two studies from low‐ or middle‐income countries. The risk of bias was high in 20 of 24 studies. 
+Safe blood collection systems: 
+We found one RCT that found a safety engineered blood gas syringe having no considerable effect on NSIs (Relative Risk (RR) 0.2, 95% Confidence Interval (95% CI) 0.01 to 4.14, 550 patients, very low quality evidence). In one ITS study, safe blood collection systems decreased NSIs immediately after the introduction (effect size (ES) ‐6.9, 95% CI ‐9.5 to ‐4.2) but there was no further decrease over time (ES ‐1.2, 95% CI ‐2.5 to 0.1, very low quality evidence). Another ITS study evaluated an outdated recapping shield, which we did not consider further. 
+Safe Intravenous systems 
+There was very low quality evidence in two ITS studies that NSIs were reduced with the introduction of safe IV devices, whereas one RCT and one CBA study provided very low quality evidence of no effect. However, there was moderate quality evidence produced by four other RCT studies that these devices increased the number of blood splashes when the safety system had to be engaged actively (relative risk (RR) 1.6, 95% CI 1.08 to 2.36). In contrast there was low quality evidence produced by two RCTs of passive systems that showed no effect on blood splashes. Yet another RCT produced low quality evidence that a different safe active IV system also decreased the incidence of blood leakages. 
+Safe injection devices 
+There was very low quality evidence provided by one RCT and one CBA study showing that introduction of safe injection devices did not considerably change the NSI rate. One ITS study produced low quality evidence showing that the introduction of safe passive injection systems had no effect on NSI rate when compared to safe active injection systems. 
+Multiple safe devices 
+There was very low quality evidence from one CBA study and two ITS studies. According to the CBA study, the introduction of multiple safe devices resulted in a decrease in NSI,whereas the two ITS studies found no change. 
+Safety containers 
+One CBA study produced very low quality evidence showing that the introduction of safety containers decreased NSI. However, two ITS studies evaluating the same intervention found inconsistent results. 
+Legislation 
+There was low to moderate quality evidence in two ITS studies that introduction of legislation on the use of safety‐engineered devices reduced the rate of NSIs among healthcare workers. There was also low quality evidence which showed a decrease in the trend over time for NSI rates. 
+Twenty out of 24 studies had a high risk of bias and the lack of evidence of a beneficial effect could be due to both confounding and bias. This does not mean that these devices are not effective. 
+Authors' conclusions
+For safe blood collection systems, we found very low quality evidence of inconsistent effects on NSIs. For safe passive intravenous systems, we found very low quality evidence of a decrease in NSI and a reduction in the incidence of blood leakage events but moderate quality evidence that active systems may increase exposure to blood. For safe injection needles, the introduction of multiple safety devices or the introduction of sharps containers the evidence was inconsistent or there was no clear evidence of a benefit. There was low to moderate quality evidence that introduction of legislation probably reduces NSI rates. 
+More high‐quality cluster‐randomised controlled studies that include cost‐effectiveness measures are needed, especially in countries where both NSIs and blood‐borne infections are highly prevalent. 

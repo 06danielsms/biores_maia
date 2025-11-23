@@ -1,0 +1,14 @@
+Background
+Acute respiratory tract infections (ARTIs) are a major cause of childhood morbidity and mortality. Immunostimulants (IS) may reduce the incidence of ARTIs. 
+Objectives
+To determine the efficacy and safety of IS in preventing ARTIs in children.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2011, issue 1, which contains the Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to February week 4, 2011), EMBASE (1990 to February 2011), Google Scholar (2009 to February 2011), Scopus (2009 to February 2011), PASCAL (1990 to February 2010), SciSearch (1990 to February 2010) and IPA (1990 to February 2010). 
+Selection criteria
+We included all comparative randomized controlled trials (RCTs) which enrolled participants less than 18 years of age. The intervention was IS medication, administered by any method, compared to placebo to prevent ARTIs. 
+Data collection and analysis
+We analyzed the outcome on ARTIs both as the mean number of ARTIs by group and as a percent change in the rate of ARTIs. We undertook meta‐analyses using a random‐effects model and presented results as mean differences (MD) with 95% confidence intervals (CI). Two review authors independently assessed the search results and risk of bias, and extracted data. A funnel plot suggested there may be publication bias in the identified trials. 
+Main results
+Thirty‐five placebo‐controlled trials (4060 participants) provided data in a form suitable for inclusion in the meta‐analyses. When compared with placebo, the use of IS was shown to reduce ARTIs measured as the total numbers of ARTIs (MD ‐1.24; 95% CI ‐1.54 to ‐0.94) and the difference in ARTI rates (MD ‐38.84%; 95% CI ‐46.37% to ‐31.31%). Trial quality was generally poor and a high level of statistical heterogeneity was evident. The subgroup analysis of bacterial IS, D53 and OM‐85 studies produced similar results, with lower heterogeneity. No difference in adverse events was evident between the placebo and IS groups. 
+Authors' conclusions
+This review shows that IS reduce the incidence of ARTIs by 40% on average in susceptible children. Studies in healthy children are not available. Although the safety profile in the studies was good, some IS may be unsafe. ARTI‐susceptible children may benefit from IS treatment. Further high‐quality trials are needed and we encourage national health authorities to conduct large, multicentre, double‐blind, placebo‐controlled RCTs on the role of IS in preventing ARTIs in children. 

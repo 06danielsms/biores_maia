@@ -1,0 +1,14 @@
+Background
+Exercise is generally recommended for people with type 2 diabetes mellitus. However, some studies evaluate an exercise intervention including diet or behaviour modification or both, and the effects of diet and exercise are not differentiated. Some exercise studies involve low participant numbers, lacking power to show significant differences which may appear in larger trials. 
+Objectives
+To assess the effects of exercise in type 2 diabetes mellitus.
+Search methods
+Trials were identified through the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE and manual searches of bibliographies. 
+Selection criteria
+All randomised controlled trials comparing any type of well‐documented aerobic, fitness or progressive resistance training exercise with no exercise in people with type 2 diabetes mellitus. 
+Data collection and analysis
+Two authors independently selected trials, assessed trial quality and extracted data. Study authors were contacted for additional information. Any information on adverse effects was collected from the trials. 
+Main results
+Fourteen randomised controlled trials comparing exercise against no exercise in type 2 diabetes were identified involving 377 participants. Trials ranged from eight weeks to twelve months duration. Compared with the control, the exercise intervention significantly improved glycaemic control as indicated by a decrease in glycated haemoglobin levels of 0.6% (‐0.6 % HbA1c, 95% confidence interval (CI) ‐0.9 to ‐0.3; P < 0.05). This result is both statistically and clinically significant. There was no significant difference between groups in whole body mass, probably due to an increase in fat free mass (muscle) with exercise, as reported in one trial (6.3 kg, 95% CI 0.0 to 12.6). There was a reduction in visceral adipose tissue with exercise (‐45.5 cm2, 95% CI ‐63.8 to ‐27.3), and subcutaneous adipose tissue also decreased. No study reported adverse effects in the exercise group or diabetic complications. The exercise intervention significantly increased insulin response (131 AUC, 95% CI 20 to 242) (one trial), and decreased plasma triglycerides (‐0.25 mmol/L, 95% CI ‐0.48 to ‐0.02). No significant difference was found between groups in quality of life (one trial), plasma cholesterol or blood pressure. 
+Authors' conclusions
+The meta‐analysis shows that exercise significantly improves glycaemic control and reduces visceral adipose tissue and plasma triglycerides, but not plasma cholesterol, in people with type 2 diabetes, even without weight loss. 

@@ -1,0 +1,14 @@
+Prophylactic cyclo‐oxygenase inhibitor drugs to prevent morbidity and mortality in preterm infants 
+ 
+Review question 
+Among the available cyclo‐oxygenase inhibitor (COX‐I) drugs (indomethacin, ibuprofen, acetaminophen), which one is the safest and most effective in preventing death and poor outcomes in preterm infants when given prophylactically without the prior knowledge of the presence of a patent ductus arteriosus (PDA) within the first 72 hours after birth? 
+Background 
+A PDA is a common complication in preterm or low‐birth weight infants. PDA is an open vascular channel between the lungs and the heart which usually closes shortly after birth. In preterm infants, the PDA frequently remains open and may contribute to life‐threatening complications. COX‐I drugs such as indomethacin, ibuprofen and acetaminophen may prevent a PDA and related poor outcomes. Controversy exists on which of the three COX‐I drugs, if any, improves clinical outcomes in preterm infants. 
+Study characteristics 
+We searched scientific databases for randomized controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) in preterm babies (born at less than 37 weeks into pregnancy) or low‐birthweight (weighing less than 2500 grams) infants where COX‐I drugs were given without the prior knowledge of the presence of a PDA, within the first 72 hours after birth. The included studies compared administration of indomethacin or ibuprofen or acetaminophen versus each other, placebo or no treatment.  
+Key results 
+This review of 28 clinical trials (3999 preterm infants) found that prophylactic indomethacin probably results in a small reduction in severe brain bleeding, a moderate reduction in death and need for PDA surgery, and may result in a small increase in chronic lung disease. Prophylactic indomethacin likely results in trivial differences in necrotizing enterocolitis, gastrointestinal perforation and cerebral palsy. Prophylactic ibuprofen probably results in a small reduction in severe brain bleeding and a moderate reduction in need for PDA surgery. Prophylactic ibuprofen may result in a moderate reduction in death and trivial differences in chronic lung disease and necrotizing enterocolitis. The evidence is very uncertain about the effect of acetaminophen on any of the clinically relevant outcomes.There are currently two ongoing trials on prophylactic use of acetaminophen. 
+Certainty of the evidence 
+According to GRADE (a method to score the certainty of the trials supporting each outcome), the certainty of the evidence varied from very low to high but was moderate for the most important outcomes of severe brain bleeding and death. 
+How up to date is the search evidence 
+The search is up to date as of 9 December 2021.

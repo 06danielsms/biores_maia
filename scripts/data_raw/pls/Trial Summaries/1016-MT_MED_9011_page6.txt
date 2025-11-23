@@ -1,0 +1,19 @@
+Clinical Study Results
+
+Did the participants who took dapagliflozin have fewer heart failure related hospital visits and fewer deaths from heart problems?
+
+Yes. Overall, the participants who took dapagliflozin had fewer heart failure related hospital visits and fewer deaths from heart problems compared to the participants who took the placebo.
+
+To answer this question, the researchers counted the total number of participants who:
+- died because of heart problems
+- stayed in the hospital because of heart failure
+- visited the emergency room because of heart failure
+
+The researchers compared these results for the participants who took dapagliflozin and the participants who took the placebo. They found that during the study, the percentage of participants who died because of heart problems, stayed in the hospital because of heart failure, or visited the emergency room because of heart failure was:
+
+- 16.3% in the dapagliflozin group. This was 386 out of 2,373 participants.
+- 21.2% in the placebo group. This was 502 out of 2,371 participants.
+
+Percentage of participants who died because of heart problems, stayed in the hospital because of heart failure, or visited the emergency room because of heart failure:
+- Dapagliflozin: 16.3%
+- Placebo: 21.2%

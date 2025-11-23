@@ -1,0 +1,58 @@
+Clinical Trial RESULTS
+
+How long it took for AZD7594 to reach its highest amount in the blood
+Researchers measured in hours (h) the time it took for AZD7594 to reach its highest
+amount in participants' blood. 
+
+The figure below shows this time for both Day 1 and Day 16 in the study.
+
+2.5
+Study day 1
+2
+
+Study day 16
+1.5
+1.5
+
+1
+
+0.5
+0.5
+
+.05
+
+0.3
+0.3
+
+0
+
+Drug dosage received
+Overall amount of AZD7594 in the blood
+Researchers measured the overall amount of AZD7594 in participants' blood in picomole
+hours per liter of blood (h*pmol/L). 
+
+The figure below shows this amount for both Day 1 and Day 16 in the study.
+
+25000
+20830
+Study day 1
+
+20000
+Study day 16
+
+15000
+
+10000
+6060
+
+4409
+
+5000
+2426
+
+681
+1084
+
+0
+
+Drug dosage received

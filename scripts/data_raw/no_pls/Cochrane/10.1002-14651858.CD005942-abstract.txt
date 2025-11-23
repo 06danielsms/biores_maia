@@ -1,0 +1,15 @@
+Background
+The association between an increase in regular physical activity and a reduction in the risk of hypertension is well documented for non‐pregnant people. It has been suggested that exercise may help prevent pre‐eclampsia and its complications. Possible adverse effects of increased physical activity during pregnancy, particularly on the risk of preterm birth and fetal growth restriction, are unclear. It is, therefore, important to assess whether exercise reduces the risk of pre‐eclampsia and its complications and, if so, whether these benefits outweigh the risks. 
+Objectives
+To assess the effects of exercise, or increased physical activity, on prevention of pre‐eclampsia and its complications. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (December 2005), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2005, Issue 1), and EMBASE (2002 to February 2005). We updated the search of the Pregnancy and Childbirth Group's Trials Register on 18 January 2010and added the results to the awaiting classification section. 
+Selection criteria
+Studies were included if these were randomised trials evaluating the effects of exercise or increased physical activity during pregnancy for women at risk of pre‐eclampsia. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion and extracted data. Data were entered on Review Manager software for analysis, and double checked for accuracy. 
+Main results
+Two small, good quality trials (45 women) were included. Both compared moderate intensity regular aerobic exercise with maintenance of normal physical activity during pregnancy. The confidence intervals were wide and crossed the line of no effect for all reported outcomes including pre‐eclampsia (relative risk 0.31, 95% confidence interval 0.01 to 7.09). 
+Authors' conclusions
+There is insufficient evidence for reliable conclusions about the effects of exercise on prevention of pre‐eclampsia and its complications. 
+[Note: The four citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

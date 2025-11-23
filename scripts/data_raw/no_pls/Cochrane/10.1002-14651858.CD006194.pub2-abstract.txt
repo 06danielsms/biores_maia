@@ -1,0 +1,15 @@
+Background
+Fracture of the distal radius ('broken wrist') is a common clinical problem. It can be treated conservatively, usually involving wrist immobilisation in a plaster cast, or surgically. A key method of surgical fixation is external fixation. 
+Objectives
+To evaluate the evidence from randomised controlled trials comparing external fixation with conservative treatment for fractures of the distal radius in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (September 2006), the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and other databases, conference proceedings and reference lists of articles. No language restrictions were applied. 
+Selection criteria
+Randomised or quasi‐randomised controlled clinical trials involving adults with a fracture of the distal radius, which compared external fixation with conservative treatment. 
+Data collection and analysis
+After independent study selection by all review authors, two authors independently assessed the included trials. Independent data extraction of new trials was performed by two authors. Pooling of data was undertaken where appropriate. 
+Main results
+Fifteen heterogeneous trials, involving 1022 adults with dorsally displaced and potentially or evidently unstable distal radial fractures, were included. While all trials compared external fixation versus plaster cast immobilisation, there was considerable variation especially in terms of patient characteristics and interventions. Methodological weaknesses among these trials included lack of allocation concealment and inadequate outcome assessment. 
+External fixation maintained reduced fracture positions (redisplacement requiring secondary treatment: 7/356 versus 51/338 (data from 9 trials); relative risk 0.17, 95% confidence interval 0.09 to 0.32) and prevented late collapse and malunion compared with plaster cast immobilisation. There was insufficient evidence to confirm a superior overall functional or clinical result for the external fixation group. External fixation was associated with a high number of complications, such as pin‐track infection, but many of these were minor. Probably, some complications could have been avoided using a different surgical technique for pin insertion. There was insufficient evidence to establish a difference between the two groups in serious complications such as reflex sympathetic dystropy: 25/384 versus 17/347 (data from 11 trials); relative risk 1.31, 95% confidence interval 0.74 to 2.32. 
+Authors' conclusions
+There is some evidence to support the use of external fixation for dorsally displaced fractures of the distal radius in adults. Though there is insufficient evidence to confirm a better functional outcome, external fixation reduces redisplacement, gives improved anatomical results and most of the excess surgically‐related complications are minor. 

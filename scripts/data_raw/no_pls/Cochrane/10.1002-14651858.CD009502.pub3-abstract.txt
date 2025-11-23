@@ -1,0 +1,16 @@
+Background
+People with the cardiac arrhythmia supraventricular tachycardia (SVT) frequently present to clinicians in the prehospital and emergency medicine settings. Restoring sinus rhythm by terminating the SVT involves increasing the refractoriness of atrioventricular nodal tissue within the myocardium by means of vagal manoeuvres, pharmacological agents, or electrical cardioversion. A commonly used first‐line technique to restore the normal sinus rhythm (reversion) is the Valsalva Manoeuvre (VM). This is a non‐invasive means of increasing myocardial refractoriness by increasing intrathoracic pressure for a brief period, thus stimulating baroreceptor activity in the aortic arch and carotid bodies, resulting in increased parasympathetic (vagus nerve) tone. 
+Objectives
+To assess the evidence of effectiveness of the VM in terminating SVT.
+Search methods
+We updated the electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL; 2014, Issue 7); MEDLINE Ovid (1946 to August week 3, 2014); EMBASE Classic and EMBASE Ovid (1947 to 27 August 2014); Web of Science (1970 to 27 August 2014); and BIOSIS Previews (1969 to 22 August 2014). We also checked trials registries, the Index to Theses, and the bibliographies of all relevant publications identified by these strategies. 
+Selection criteria
+We included all randomised controlled trials (RCTs) that examined the effectiveness of VM in terminating SVT. 
+Data collection and analysis
+Two review authors independently extracted the data using a standardised form. We assessed each trial for internal validity, resolving any differences by discussion. We then extracted and entered data into Review Manager 5. 
+Main results
+In this update, we did not identify any new RCT studies for inclusion. We identified two RCT studies as ongoing that we are likely to include in future updates. Accordingly, our results are unchanged and include three RCTs with a total of 316 participants. All three studies compared the effectiveness of VM in reverting SVT with that of other vagal manoeuvres in a cross‐over design. Two studies induced SVT within a controlled laboratory environment. Participants had ceased all medications prior to engaging in these studies. The third study reported on people presenting to a hospital emergency department with an episode of SVT. These participants were not controlled for medications or other factors prior to intervention. 
+The two laboratory studies demonstrated reversion rates of 45.9% and 54.3%, whilst the clinical study demonstrated reversion success of 19.4%. This discrepancy may be due to methodological differences between studies, the effect of induced SVT versus spontaneous episodic SVT, and participant factors such as medications and comorbidities. We were unable to assess any of these factors, or adverse effects, further, since they were either not described in enough detail or not reported at all. 
+Statistical pooling was not possible due to heterogeneity between the included studies.
+Authors' conclusions
+We did not find sufficient evidence to support or refute the effectiveness of VM for termination of SVT. Further research is needed, and this research should include a standardised approach to performance technique and methodology. 

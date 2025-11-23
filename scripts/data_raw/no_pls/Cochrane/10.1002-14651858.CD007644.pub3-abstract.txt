@@ -1,0 +1,14 @@
+Background
+Human milk banking has been available in many countries for the last three decades. The milk provided from milk banking is predominantly term breast milk, but some milk banks provide preterm breast milk. There are a number of differences between donor term and donor preterm human milk. 
+Objectives
+To determine the effect of banked donor preterm milk compared with banked donor term milk regarding growth and developmental outcomes in very low birth weight infants (infants weighing less than 1500 grams). 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 7), MEDLINE via PubMed (1966 to 23 October 2018), Embase (1980 to 23 October 2018), and CINAHL (1982 to 23 October 2018). We also searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing banked donor preterm milk with banked donor term milk regarding growth and developmental outcomes in very low birth weight infants 
+Data collection and analysis
+We planned to perform assessment of methodology regarding blinding of randomisation, intervention and outcome measurements as well as completeness of follow‐up. We planned to evaluate treatment effect using a fixed‐effect model using relative risk (RR), relative risk reduction, risk difference (RD) and number needed to treat for an additional beneficial outcome (NNTB) or the number needed to treat for an additional harmful outcome (NNTH) for categorical data; and using mean, standard deviation and weighted mean difference (WMD) for continuous data. We planned to use the GRADE approach to assess the quality of evidence. 
+Main results
+No studies met the inclusion criteria.
+Authors' conclusions
+We found no evidence to support or refute the effect of banked donor preterm milk compared to banked term milk regarding growth and developmental outcomes in very low birth weight infants. 

@@ -1,0 +1,14 @@
+Background
+Ocular infection caused by Toxoplasma gondii, a parasite, may result in inflammation in the retina, choroid, and uvea, and consequently lead to complications such as glaucoma, cataract, and posterior synechiae. 
+Objectives
+The objective of this systematic review was to assess the effects of adjunctive use of corticosteroids to anti‐parasitic therapy versus anti‐parasitic therapy alone for ocular toxoplasmosis. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Trials Register (2016; Issue 11)), MEDLINE Ovid, Epub Ahead of Print, In‐Process & Other Non‐Indexed Citations, MEDLINE Ovid Daily (January 1946 to December 2016), Embase (January 1980 to December 2016), Latin American and Caribbean Literature on Health Sciences (LILACS (January 1982 to December 2016)), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov), and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP; www.who.int/ictrp/search/en). We used no date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 7 December 2016. 
+Selection criteria
+We had planned to include randomized and quasi‐randomized controlled trials. Eligible trials would have enrolled participants of any age who were immunocompetent and were diagnosed with acute ocular toxoplasmosis. Included trials would have compared anti‐parasitic therapy plus corticosteroids versus anti‐parasitic therapy alone, different doses or times of initiation of corticosteroids. 
+Data collection and analysis
+Two authors independently screened titles and abstracts retrieved through the electronic searches. We retrieved full‐text reports of studies categorized as 'unsure' or 'include' after we reviewed the abstracts. Two authors independently reviewed each full‐text report for eligibility. Discrepancies were resolved through discussion. 
+Main results
+We identified no completed or ongoing trial that was eligible for this Cochrane review.
+Authors' conclusions
+Although research has identified a wide variation in practice regarding the use of corticosteroids, our review did not identify any evidence from randomized controlled trials for or against the role of corticosteroids in the management of ocular toxoplasmosis. Several questions remain unanswered by well‐conducted randomized trials in this context, including whether the use of corticosteroids as an adjunctive agent is more effective than the use of anti‐parasitic therapy alone; if so, when corticosteroids should be initiated in the treatment regimen (early versus late course of treatment), and what would be the best dose and duration of steroid use. 

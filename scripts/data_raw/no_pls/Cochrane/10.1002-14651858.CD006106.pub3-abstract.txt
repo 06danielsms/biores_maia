@@ -1,0 +1,38 @@
+Background
+Hysterosalpingography (HSG) is a method of testing for tubal patency. However, women struggle to tolerate the procedure, as it is associated with some discomfort. Various pharmacological strategies are available that may reduce pain during the procedure, though there is no consensus as to the best method. 
+Objectives
+To compare the effectiveness of different types of pharmacological interventions for pain relief in women undergoing HSG for investigation of subfertility. 
+Search methods
+This review has drawn on the search strategy developed for the Cochrane Menstrual Disorders and Subfertility Group (MDSG). We searched the following databases to 15 April 2015: MDSG Specialised Register, CENTRAL, MEDLINE, EMBASE, CINAHL and PsycINFO. 
+Selection criteria
+All identified randomised controlled trials investigating pharmacological interventions for pain relief during HSG were investigated for selection. 
+Data collection and analysis
+Four review authors independently extracted data. We combined data to calculate mean differences (MDs) with 95% confidence intervals (CIs). Statistical heterogeneity was assessed using the I² statistic. We assessed the overall quality of the evidence for the main comparisons using GRADE methods. 
+Main results
+The search identified 23 trials (1272 women) that were eligible for inclusion into the study. 
+Oral opioid analgesia versus placebo/no treatment 
+There was no evidence of effect for oral opioid analgesia in reducing pain during the procedure (MD −0.91, 95% CI −1.88 to 0.06, 1 study, n = 128, low quality evidence) or more than 30 minutes after the procedure (MD −0.99, 95% CI −1.75 to −0.23, 1 study, n = 128, moderate quality evidence) 
+No studies reported on the effect of oral opioid analgesia, when taken prior to the procedure, in reducing pain within 30 minutes after the procedure 
+There was insufficient evidence to reach conclusions regarding adverse effects.
+Intravenous opioid analgesia versus placebo/no treatment 
+There was evidence that intravenous opioids may improve pain relief during the procedure compared to no treatment (MD −3.53, 95% CI −4.29 to −2.77, 1 study, n = 62, moderate quality evidence) 
+No studies reported on the effect of intravenous opioid analgesia, when taken prior to the procedure, in reducing pain within 30 minutes and more than 30 minutes after the procedure 
+In terms of adverse effects, one trial reported 1/32 participants had apnoea with intravenous remifentanil. Recovery time was nearly 4 minutes longer in the remifentanil group compared to the control. 
+Oral non‐opioid analgesia versus placebo/no treatment 
+There was no evidence of effect for oral non‐opioid analgesia in reducing pain during the procedure (MD −0.13, 95% CI −0.48 to 0.23, 3 studies, n = 133, I² = 61%, low quality evidence), less than 30 minutes after the procedure (MD −0.30, 95% CI −1.03 to 0.43, 2 studies, n = 45, I² = 97%, very low quality evidence), or more than 30 minutes after the procedure (MD −0.36, 95% CI −1.06 to 0.34, 3 studies, n = 133, I² = 58%, low quality evidence). 
+There was insufficient evidence to reach conclusions regarding adverse effects.
+Topical anaesthesia versus placebo/no treatment 
+There was evidence that topical anaesthetics may reduce pain during the procedure (MD −0.63, 95% CI −1.06 to −0.19, 9 studies, n = 613, I² = 66%, low quality evidence). 
+There was no evidence of effect for topical anaesthesia, when applied prior to the procedure, in reducing pain less than 30 minutes after the procedure (MD 0.42, 95% CI ‐0.03 to 0.86, 5 studies, n = 373, I² = 59%, very low quality evidence). 
+There was evidence of effect for topical anaesthesia, when applied prior to the procedure, in reducing pain more than 30 minutes after the procedure (MD −1.38, 95% CI ‐3.44 to −0.68, 2 studies, n = 166, I² = 92%, very low quality evidence). 
+There was insufficient evidence to reach conclusions regarding adverse effects.
+Locally injected anaesthesia versus placebo/no treatment 
+There was evidence of effect that locally injected anaesthetic can reduce pain during the procedure (MD −1.31, 95% CI −1.55 to −1.07, 2 studies, n = 125, I² = 0%, very low quality evidence). 
+There was no evidence of effect for locally injected anaesthesia, when applied prior to the procedure, in reducing pain less than 30 minutes after the procedure (MD −1.31, 95% CI −2.14 to −0.49, 2 studies, n = 125, I² = 46%, low quality evidence). 
+No studies were included into the analysis of the effect of locally injected anaesthesia, when injected prior to the procedure, in reducing pain more than 30 minutes after the procedure. 
+There was insufficient evidence to reach conclusions regarding adverse effects.
+Any analgesic versus any other analgesic 
+There was no evidence of a difference between the groups when oral non‐opioid analgesia was compared to opioid analgesia for pain relief during the procedure (MD 1.10, 95% CI −0.26 to 2.46, 1 study, n = 91, low quality evidence); less than 30 minutes following the procedure (MD −0.30, 95% CI −1.00 to 0.40, 1 study, n = 91, low quality evidence); and more than 30 minutes following the procedure (MD −0.60, 95% CI −1.56 to 0.36, 1 study, n = 91, low quality evidence). Topical anaesthetics were found to be more effective than paracervical block for pain relief during HSG (MD −2.73, 95% CI −3.86 to −1.60, 1 study, n = 20, moderate quality evidence). This benefit did not extend to within 30 minutes following HSG (MD −1.03, 95% CI −2.52 to 0.46, 1 study, n = 20, low quality evidence); or 30 minutes or more after HSG (MD 0.31, 95% CI −0.87 to 1.49, 1 study, n = 20, low quality evidence). 
+There was insufficient evidence to reach conclusions regarding adverse effects.
+Authors' conclusions
+Topical anaesthetic applied before the procedure may be associated with effective pain relief during HSG, though the quality of this evidence is low. Intravenous opioids may also be effective in pain relief, though this must be weighed against their side effects and their effects on the recovery time. There is insufficient evidence to draw conclusions on the efficacy of other analgesics for HSG, or to reach any other conclusions regarding adverse effects. 

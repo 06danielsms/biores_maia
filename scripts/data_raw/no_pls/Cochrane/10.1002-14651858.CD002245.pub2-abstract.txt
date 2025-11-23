@@ -1,0 +1,18 @@
+Background
+Treatment of haemorrhagic shock involves maintaining blood pressure and tissue perfusion until bleeding is controlled. Different resuscitation strategies have been used to maintain the blood pressure in trauma patients until bleeding is controlled. However, while maintaining blood pressure may prevent shock, it may worsen bleeding. 
+Objectives
+To examine the effect on mortality and coagulation times of two intravenous fluid administration strategies in the management of haemorrhagic hypovolaemia, early compared to delayed administration and larger compared to smaller volume of fluid administered. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic + Embase (OvidSP), ISI Web of Science (SCI‐Expanded and CPCI‐S) and clinical trials registries. We checked reference lists of identified articles and contacted authors and experts in the field. The most recent search was run on 5 February 2014. 
+Selection criteria
+Randomised trials of the timing and volume of intravenous fluid administration in trauma patients with bleeding. Trials in which different types of intravenous fluid were compared were excluded. 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality.
+Main results
+Six trials involving a total of 2128 people were included in this review. We did not combine the results quantitatively because the interventions and patient populations were so diverse. 
+Early versus delayed fluid administration  Three trials reported mortality and two reported coagulation data. 
+In the first trial (n = 598) the relative risk (RR) for death with early fluid administration was 1.26 (95% confidence interval (CI) 1.00 to 1.58). The weighted mean differences (WMD) for prothrombin time and partial thromboplastin time were 2.7 (95% CI 0.9 to 4.5) and 4.3 (95% CI 1.74 to 6.9) seconds, respectively. In the second trial (n = 50) the RR for death with early blood transfusion was 5.4 (95% CI 0.3 to 107.1). The WMD for partial thromboplastin time was 7.0 (95% CI 6.0 to 8.0) seconds. In the third trial (n = 1309) the RR for death with early fluid administration was 1.06 (95% CI 0.77 to 1.47). 
+Larger versus smaller volume of fluid administration Three trials reported mortality and one reported coagulation data. 
+In the first trial (n = 36) the RR for death with a larger volume of fluid resuscitation was 0.80 (95% CI 0.28 to 22.29). Prothrombin time and partial thromboplastin time were 14.8 and 47.3 seconds in those who received a larger volume of fluid, as compared to 13.9 and 35.1 seconds in the comparison group. In the second trial (n = 110) the RR for death with a high systolic blood pressure resuscitation target (100 mm Hg) maintained with a larger volume of fluid as compared to a low systolic blood pressure resuscitation target (70 mm Hg) maintained with a smaller volume of fluid was 1.00 (95% CI 0.26 to 3.81). In the third trial (n = 25) there were no deaths. 
+Authors' conclusions
+We found no evidence from randomised controlled trials for or against early or larger volume of intravenous fluid administration in uncontrolled haemorrhage. There is continuing uncertainty about the best fluid administration strategy in bleeding trauma patients. Further randomised controlled trials are needed to establish the most effective fluid resuscitation strategy. 

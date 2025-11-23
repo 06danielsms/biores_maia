@@ -1,0 +1,11 @@
+Ultrasound use for insertion of arterial catheters in children
+Background 
+An arterial catheter is a thin tube or line that can be inserted into an artery. Arterial catheters are used to monitor blood pressure during complex surgeries and during stays in intensive care. Ultrasound imaging (an image created with sound waves of soft tissue) allows anaesthesiologists and intensivists to see surrounding structures. Ultrasound can help medical practitioners accurately locate the artery and insert the catheter, and, particularly when surgeries involve children, ultrasound can prevent the need for multiple needle sticks. This reduces the occurrence of haematoma (a localized collection of blood outside the blood vessels) or damage to the artery, compared with other techniques such as palpation of the artery (feeling through the skin for the pulse) or Doppler auditory assistance (listening for a change to a higher pitch at the exact location of the artery). Our aim was to find out whether ultrasound offers any advantages over palpation of the artery or Doppler auditory assistance. 
+Study characteristics 
+The evidence is current to January 2016. We found five eligible studies ‐ four comparing ultrasound with palpation and one comparing ultrasound with Doppler auditory assistance. 
+Key results 
+We included in the review children aged one month to 18 years. We found that ultrasound increased the rate of successful cannulation at the first attempt and reduced the formation of haematomas. Ultrasound also increased the success rate within two attempts. It is likely that ultrasound is more useful for infants and small children than for older children. It is also likely that ultrasound is more useful if the practitioner is experienced in its use. 
+Quality of the evidence 
+We noted variation in the risk of bias of included studies. We rated the quality of evidence as moderate mainly because the number of studies was limited. For the same reason, we could not confirm the effect of age and expertise in ultrasound usage. 
+Conclusions 
+Our evidence suggests that ultrasound is superior to other techniques for arterial catheter insertion, particularly in babies and young children. 

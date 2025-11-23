@@ -1,0 +1,14 @@
+Background
+Interventions intended to prevent or reduce use of drugs by young people may be delivered in schools or in other settings. This review aims to summarise the current literature about the effectiveness of interventions delivered in non schools settings. 
+Objectives
+(1) ‐ To summarise the current evidence about the effectiveness of interventions delivered in non‐school settings intended to prevent or reduce drug use by young people under 25;  (2) ‐ To investigate whether interventions' effects are modified by the type and setting of the intervention, and the age of young people targeted;  (3) ‐ To identify areas where more research is needed. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL ‐ The Cochrane Library Issue 4, 2004), MEDLINE (1966‐2004), EMBASE (1980‐2004), PsycInfo (1972‐2004), SIGLE (1980‐2004), CINAHL (1982‐2004) and ASSIA (1987‐2004). We searched also reference lists of review articles and retrieved studies. 
+Selection criteria
+Randomised trials that evaluated an intervention targeting drug use by young people under 25 years of age, delivered in a non‐school setting, compared with no intervention or another intervention, that reported substantive outcomes relevant to the review. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Results were tabulated, as studies were considered too dissimilar to combine using meta‐analysis. 
+Main results
+Seventeen studies, 9 cluster randomised studies, with 253 clusters, 8 individually randomised studies with 1230 participants, evaluating four types of intervention: motivational interviewing or brief intervention, education or skills training, family interventions and multi‐component community interventions. Many studies had methodological drawbacks, especially high levels of loss to follow‐up. There were too few studies for firm conclusions. One study of motivational interviewing suggested that this intervention was beneficial on cannabis use. Three family interventions (Focus on Families, Iowa Strengthening Families Program and Preparing for the Drug‐Free Years), each evaluated in only one study, suggested that they may be beneficial in preventing cannabis use. The studies of multi component community interventions did not find any strong effects on drug use outcomes, and the two studies of education and skills training did not find any differences between the intervention and control groups. 
+Authors' conclusions
+There is a lack of evidence of effectiveness of the included interventions. Motivational interviewing and some family interventions may have some benefit. Cost‐effectiveness has not yet been addressed in any studies, and further research is needed to determine whether any of these interventions can be recommended. 

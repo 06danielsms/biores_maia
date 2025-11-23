@@ -1,0 +1,14 @@
+Background
+Anal canal intraepithelial neoplasia (AIN) is a pre‐malignant condition of the anal canal transitional epithelium that is associated with human papillomavirus (HPV) infection. The incidence and prevalence of AIN and anal cancer are increasing rapidly in HIV‐positive men who have sex with men (MSM). Other groups like HIV‐negative MSM, immunosuppressed patients and people affected by other HPV diseases like genital warts and cervical intraepithelial neoplasia (CIN) may also develop AIN. The condition is complicated by its multicentric and multifocal nature and high rates of relapse and morbidity. Targeted excisions using ablative treatments such as cautery, infrared coagulation (IRC) and cryotherapy have been used as first‐line therapeutic strategies, and there are many other options. There is no consensus about the optimal management of AIN. 
+Objectives
+To evaluate the effects of therapeutic interventions for anal canal intraepithelial neoplasia (AIN). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2011, Issue 4), MEDLINE and EMBASE (to October 2011). We also searched registers of clinical trials, abstracts of scientific meetings and reference lists of included studies, and contacted experts in the field and manufacturers of any AIN and HPV‐specific treatments. 
+Selection criteria
+Randomized controlled trials (RCTs) that assessed any type of intervention for AIN.
+Data collection and analysis
+Two review authors independently abstracted data and assessed risk of bias. If it was possible, the data were synthesised in a meta‐analysis. 
+Main results
+We found only one RCT, which included 53 patients, that met our inclusion criteria. This trial reported data on imiquimod versus placebo. There was no statistically significant difference in the risk of disease cure but there was a trend for imiquimod to downgrade the AIN to a low‐risk stage. The lack of statistical power of the trial may be due to the small number of patients in each group. The risk of bias was estimated as moderate. 
+Authors' conclusions
+The included trial failed to demonstrate any statistically significant efficacy of imiquimod in the management of anal intraepithelial neoplasia (AIN). The absence of reliable evidence for any of the interventions used in AIN precludes any definitive guidance or recommendations for clinical practice. Prospective cohort studies and retrospective studies have not been included in this review as they are considered to provide lower quality evidence. Well designed RCTs are needed. 

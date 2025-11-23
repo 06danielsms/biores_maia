@@ -1,0 +1,14 @@
+Antifibrinolytics (such as tranexamic acid) for treatment of heavy menstrual bleeding
+Review question 
+Antifibrinolytic agents are designed to reduce bleeding by inhibiting endometrial clot‐dissolving enzymes (in the uterine lining); Cochrane researchers reviewed the evidence about the effect of these medications (such as tranexamic acid, TXA) versus placebo and other medical therapies in women with heavy menstrual bleeding (HMB: defined as more than 80 millilitres (> 80 mL) of blood loss per menstrual cycle). 
+Background 
+Antifibrinolytic agents (such as tranexamic acid, TXA) are commonly used to manage HMB. However, historically there has been concern that they may cause dangerous blood clots in the legs or lungs. There are a variety of other medications that can be used to treat HMB. We compared the benefits and risks of the treatments. 
+Study characteristics 
+We found 13 randomized controlled trials (RCTs) comparing an antifibrinolytic medication with a different medical therapy, in a total of 1312 women with heavy menstrual bleeding. The evidence is current to November 2017. 
+Key results 
+Antifibrinolytic medication may improve HMB in women aged 15 to 50 years old, without substantially increasing the rate of adverse events. Evidence suggests there is a 40% to 50% reduction in the amount of menstrual blood lost per menstrual cycle for participants taking TXA. Antifibrinolytic treatment was better at improving HMB loss than other medical treatments, except for the levonorgestrel intrauterine system (LIUS), a plastic device placed in the uterus which releases hormone to prevent conception. 
+The evidence suggests that if 10.9% of women taking placebo report an improvement in HMB, 36.3% of women taking TXA will do so. 
+TXA probably improves quality of life for women with HMB.
+We did not find any evidence that side effects (including life‐threatening blood clots) were increased in women taking antifibrinolytic treatment compared to placebo or other treatments for HMB. Two studies measured venous thromboembolic events: unfortunately these studies did not have enough participants to distinguish a real effect of a certain size from pure luck. 
+Quality of the evidence 
+The evidence was of very low to moderate quality. The main limitations were: risk of bias, due to participants/investigators being aware of which medication they were receiving (known as lack of blinding), or the study's methods not being reported very clearly; imprecision (i.e. repeated measurements being far apart from each other), and inconsistency (i.e. as the sample size increases, the sampling distribution becomes increasingly wide around the true parameter value). 

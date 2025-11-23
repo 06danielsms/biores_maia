@@ -1,0 +1,14 @@
+Background
+Overground gait training forms a major part of physical therapy services for chronic stroke patients in almost every setting. Overground gait training refers to physical therapists' observation and cueing of the patient's walking pattern along with related exercises, but does not include high‐technology aids such as functional electrical stimulation or body weight support. 
+Objectives
+To assess the effects of overground physical therapy gait training on walking ability for chronic stroke patients with mobility deficits. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched March 2008), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2008), MEDLINE (1966 to May 2008), EMBASE (1980 to May 2008), CINAHL (1982 to May 2008), AMED (1985 to March 2008), Science Citation Index Expanded (1981 to May 2008), ISI Proceedings (Web of Science, 1982 to May 2006), Physiotherapy Evidence Database (http://www.pedro.org.au/) (May 2008), REHABDATA (http://www.naric.com/research/rehab/) (1956 to May 2008), http://www.clinicaltrials.gov (May 2008), http://www.controlled‐trials.com/ (May 2008), and http://www.strokecenter.org/ (May 2008). We also searched reference lists of relevant articles, and contacted authors and trial investigators. 
+Selection criteria
+Randomised controlled trials comparing overground physical therapy gait training with a placebo intervention or no treatment for chronic stroke patients with mobility deficits. 
+Data collection and analysis
+Pairs of authors independently selected trials. Three authors independently extracted data and assessed quality. We contacted study authors for additional information. 
+Main results
+We included nine studies involving 499 participants. We found no evidence for a benefit on the primary variable, post‐test gait function, based on three studies with 269 participants. Uni‐dimensional performance variables did show significant effects post‐test. Gait speed increased by 0.07 metres per second (95% confidence interval (CI) 0.05 to 0.10) based on seven studies with 396 participants, timed up‐and‐go (TUG) test improved by 1.81 seconds (95% CI ‐2.29 to ‐1.33), and six‐minute‐walk test (6MWT) increased by 26.06 metres (95% CI 7.14 to 44.97) based on four studies with 181 participants. We found no significant differences in deaths/disabilities or in adverse effects, based on published reports or personal communication from all of the included studies. 
+Authors' conclusions
+We found insufficient evidence to determine if overground physical therapy gait training benefits gait function in patients with chronic stroke, though limited evidence suggests small benefits for uni‐dimensional variables such as gait speed or 6MWT. These findings must be replicated by large, high quality studies using varied outcome measures. 

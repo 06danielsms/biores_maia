@@ -1,0 +1,14 @@
+Background
+Despite changes in technique, morbidity after surgery for vulvar cancer is high and mainly related to the groin dissection. Primary radiotherapy to the groin is expected to result in lower morbidity. However, studies on the efficacy of primary radiotherapy to the groin in terms of groin recurrences and survival show conflicting results. 
+Objectives
+To determine whether the effectiveness and safety of primary radiotherapy to the inguinofemoral lymph nodes in early vulvar cancer is comparable with surgery. 
+Search methods
+We searched The Cochrane Gynaecological Cancer Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE from 1966 to July 2010 for the latest update in 2011. We searched again in January 2016 and no additional trails were identified. 
+Selection criteria
+We selected randomised clinical trials (RCTs) comparing inguinofemoral lymph node dissection and primary radiotherapy of the inguinofemoral lymph nodes for patients with early squamous cell cancer of the vulva. 
+Data collection and analysis
+Two reviewers independently assessed study quality and extracted results. Primary outcome measures were the incidence of groin recurrences, patient survival and morbidity. 
+Main results
+No new RCTs were identified by the updated search. Out of twelve identified papers only one met the selection criteria. From this one small RCT of 52 women, there was a trend towards increased groin recurrence rates (relative risk (RR) 10.21, 95% confidence interval (CI) 0.59 to 175.78), lower disease‐specific survival rates (RR 3.70, 95% CI 0.87 to 15.80), less lymphoedema (RR 0.06, 95% CI 0.00 to 1.03) and fewer life‐threatening cardiovascular complications (RR 0.08, 95% CI 0.00 to 1.45) in the radiotherapy group. Primary surgery was associated with a longer hospital stay than primary groin irradiation (RR 0.28, 95% CI 0.13 to 0.58). 
+Authors' conclusions
+Primary radiotherapy to the groin results in less morbidity but may be associated with a higher risk of groin recurrence and decreased survival when compared with surgery. Due to the small numbers in this trial and criticisms regarding the depth of radiotherapy applied, corroboration of these findings by larger RCTs using a standardised radiotherapy method, is desirable. However, until better evidence is available, surgery should be considered the first choice treatment for the groin nodes in women with vulvar cancer. Individual patients not physically able to withstand surgery may be treated with primary radiotherapy. 

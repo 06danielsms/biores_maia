@@ -1,0 +1,16 @@
+Background
+Osteoporosis is an abnormal reduction in bone mass and bone deterioration leading to increased fracture risk. Alendronate belongs to the bisphosphonate class of drugs, which act to inhibit bone resorption by interfering with the activity of osteoclasts. 
+Objectives
+To assess the efficacy of alendronate in the primary and secondary prevention of osteoporotic fractures in postmenopausal women. 
+Search methods
+We searched CENTRAL, MEDLINE and EMBASE for relevant randomized controlled trials published between 1966 to 2007. 
+Selection criteria
+Women receiving at least one year of alendronate, for postmenopausal osteoporosis, were compared to those receiving placebo and/or concurrent calcium/vitamin D. The outcome was fracture incidence. 
+Data collection and analysis
+We undertook study selection and data abstraction in duplicate. We performed meta‐analysis of fracture outcomes using relative risks and a > 15% relative change was considered clinically important. We assessed study quality through reporting of allocation concealment, blinding and withdrawals. 
+Main results
+Eleven trials representing 12,068 women were included in the review.
+Relative (RRR) and absolute (ARR) risk reductions for the 10 mg dose were as follows. For vertebral fractures, a significant 45% RRR was found (RR 0.55, 95% CI 0.45 to 0.67). This was significant for both primary prevention, with 45% RRR (RR 0.55, 95% CI 0.38 to 0.80) and 2% ARR, and secondary prevention with 45% RRR (RR 0.55, 95% CI 0.43 to 0.69) and 6% ARR. For non‐vertebral fractures, a significant 16% RRR was found (RR 0.84, 95% CI 0.74 to 0.94). This was significant for secondary prevention, with 23% RRR (RR 0.77, 95% CI 0.64 to 0.92) and 2% ARR, but not for primary prevention (RR 0.89, 95% CI 0.76 to 1.04). There was a significant 40% RRR in hip fractures (RR 0.60, 95% CI 0.40 to 0.92), but only secondary prevention was significant with 53% RRR (RR 0.47, 95% CI 0.26 to 0.85) and 1% ARR. The only significance found for wrist was in secondary prevention, with a 50% RRR (RR 0.50 95% CI 0.34 to 0.73) and 2% ARR. 
+For adverse events, we found no statistically significant differences in any included study. However, observational data raise concerns regarding potential risk for upper gastrointestinal injury and, less commonly, osteonecrosis of the jaw. 
+Authors' conclusions
+At 10 mg per day, both clinically important and statistically significant reductions in vertebral, non‐vertebral, hip and wrist fractures were observed for secondary prevention ('gold' level evidence, www.cochranemsk.org). We found no statistically significant results for primary prevention, with the exception of vertebral fractures, for which the reduction was clinically important ('gold' level evidence). 

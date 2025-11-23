@@ -1,0 +1,15 @@
+Background
+Neurally mediated reflex syncope is the most common cause of transient loss of consciousness. In patients not responding to non‐pharmacological treatment, pharmacological or pacemaker treatment might be considered. 
+Objectives
+To examine the effects of pharmacological therapy and pacemaker implantation in patients with vasovagal syncope, carotid sinus syncope and situational syncope. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 1, 2008), PubMed (1950 until February 2008), EMBASE on OVID (1980 until February 2008) and CINAHL on EBSCOhost (1937 until February 2008). No language restrictions were applied. 
+Selection criteria
+We included parallel randomized controlled trials and randomized cross‐over trials of pharmacological treatment (beta‐blockers, fludrocortisone, alpha‐adrenergic agonists, selective serotonine reuptake inhibitors, ACE inhibitors, disopyramide, anticholinergic agents or salt tablets) or dual chamber pacemaker treatment. Studies were included if pharmacological or pacemaker treatment was compared with any form of standardised control treatment (standard treatment), placebo treatment, or (other) pharmacological or pacemaker treatment. We did not include non‐randomized studies. 
+Data collection and analysis
+Two reviewers independently assessed the risk of bias. Using a standardised data extraction form, they extracted characteristics and results of the various studies. In a consensus meeting they discussed any disagreements that had occurred during data extraction. If no agreement could be reached, a third reviewer was asked to make a decision. Summary estimates with 95% confidence intervals of treatment effect were calculated using relative risks, rate ratios or weighted means differences depending on the type of outcome reported. 
+Main results
+We included 46 randomized studies, 40 on vasovagal syncope and six on carotid sinus syncope. No studies on situational syncope matched the criteria for inclusion in our review. Studies in general were small with a median sample size of 42. A wide range of control treatments were used with 22 studies using a placebo arm. Blinding of patients and treating physicians was applied in eight studies. Results varied considerably between studies and between types of outcomes. 
+For vasovagal syncope, the occurrence of syncope upon provocational head‐up tilt testing was lower upon treatment with beta‐blockers, ACE‐inhibitors and anticholinergic agents compared to standard treatment. For carotid sinus syncope, the occurrence of syncope upon carotid sinus massage was lower on midodrine treatment compared to placebo treatment in one study. 
+Authors' conclusions
+There is insufficient evidence to support the use of any of the pharmacological or pacemaker treatments for vasovagal syncope and carotid sinus syncope. Larger studies using patient relevant outcomes are needed. 

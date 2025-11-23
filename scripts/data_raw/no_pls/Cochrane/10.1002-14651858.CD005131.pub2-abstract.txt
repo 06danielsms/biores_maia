@@ -1,0 +1,14 @@
+Background
+Recurrent urinary tract infection (RUTI) is defined as three episodes of urinary tract infection (UTI) in the previous 12 months or two episodes in the last six months. The main factors associated with RUTI in postmenopausal women are vesical prolapse, cystocoele, post‐voidal residue and urinary incontinence, all associated with a decrease in oestrogen. The use of oestrogens to prevent RUTI has been proposed. 
+Objectives
+To estimate the efficacy and safety of oral or vaginal oestrogens for preventing RUTI in postmenopausal women. 
+Search methods
+We searched the Cochrane Renal Group's specialised register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (from 1950), EMBASE (from 1980), reference lists of articles without language restriction.  Date of last search: February 2007. 
+Selection criteria
+Randomised controlled trials (RCTs) in which postmenopausal women (more than 12 months since last menstrual period) diagnosed with RUTI received any type of oestrogen (oral , vaginal) versus placebo or any other intervention were included. 
+Data collection and analysis
+Authors extracted data and assessed quality. Statistical analyses were performed using the random effects model and the results expressed as risk ratios (RR) for dichotomous outcomes or mean difference (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+Nine studies (3345 women) were included. Oral oestrogens did not reduce UTI compared to placebo (4 studies, 2798 women: RR 1.08, 95% CI 0.88 to 1.33). Vaginal oestrogens versus placebo reduced the number of women with UTIs in two small studies using different application methods. The RR for one was 0.25 (95% CI 0.13 to 0.50) and 0.64 (95% CI 0.47 to 0.86) in the second. Two studies compared oral antibiotics versus vaginal oestrogens (cream (1), pessaries (1)). There was very significant heterogeneity and the results could not be pooled. Vaginal cream reduced the proportion of UTIs compared to antibiotics in one study and in the second study antibiotics were superior to vaginal pessaries. Adverse events for vaginal oestrogens were breast tenderness, vaginal bleeding or spotting, nonphysiologic discharge, vaginal irritation, burning and itching. 
+Authors' conclusions
+Based on only two studies comparing vaginal oestrogens to placebo, vaginal oestrogens reduced the number of UTIs in postmenopausal women with RUTI, however this varied according to the type of oestrogen used and the treatment duration. 

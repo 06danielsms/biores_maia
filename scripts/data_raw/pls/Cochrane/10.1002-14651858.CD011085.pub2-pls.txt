@@ -1,0 +1,33 @@
+Effects of governance arrangements for health systems in low‐income countries
+What is the aim of this overview? 
+The aim of this Cochrane Overview is to provide a broad summary of what is known about the effects of different governance arrangements for health systems in low‐income countries. 
+This overview is based on 19 relevant systematic reviews. These systematic reviews searched for studies that evaluated different types of governance arrangements. The reviews included a total of 172 studies. 
+This overview is one of a series of four Cochrane Overviews that evaluate health system arrangements. 
+Main results 
+What are the effects of different ways of organising authority and accountability for health policies? 
+Three reviews were included and the key findings are that:
+‐ collaboration between local health agencies and other local government agencies may lead to little or no difference in physical health or quality of life (low‐certainty evidence); 
+‐ placing restrictions on the medicines reimbursed by health insurance systems probably decreases the use of and spending on these medicines (moderate‐certainty evidence); 
+‐ it is uncertain if fraud prevention, detection and response interventions reduce healthcare fraud and related spending (very low‐certainty evidence). 
+What are the effects of different ways of organising authority and accountability for organisations? 
+Two reviews were included and the key findings are that:
+‐ Contracting non‐state, not‐for‐profit providers to deliver health services may increase access to and use of these services, improve people's health outcomes and reduce household spending on health (low‐certainty evidence). No evidence was available on whether contracting out was more effective than using these funds in the state sector. 
+What are the effects of different ways of organising authority and accountability for commercial products such as medicines and technologies? 
+Three reviews were included and the key findings are that:
+‐ systems in which the World Health Organization (WHO) certifies medicine manufacturers (prequalification) and medicines registration (in which medicine regulatory authorities assess medicine manufacturers to ensure they meet international standards) may decrease the proportion of medicines that are substandard or counterfeit (low‐certainty evidence); 
+‐ establishing a maximum reimbursement for pharmacies dispensing similar medicines covered by insurance may increase the use of generic medicines and may reduce the use of brand‐name medicines (low‐certainty evidence), but it is uncertain whether this approach affects the overall amount spent on medicines (very low‐certainty evidence); 
+‐ direct‐to‐consumer advertising increases people's requests for medicines and the numbers of prescriptions given (high‐certainty evidence). 
+What are the effects of different ways of organising authority and accountability for healthcare providers? 
+Seven reviews were included and the key findings are that:
+‐ training programmes for district health system managers may increase their knowledge of planning processes and their monitoring and evaluation skills (low‐certainty evidence); 
+‐ reducing immigration restrictions in high‐income countries probably increases the migration of nurses from low‐ and middle‐income to these countries (moderate‐certainty evidence); 
+‐ it is uncertain whether inspection by an external body of healthcare organisation adherence to quality standards improves adherence, quality of care or health‐acquired infection rates in hospitals (very low‐certainty evidence). 
+What are the effects of different ways of organising stakeholder involvement in governing health services? 
+Four reviews were included and the key findings are that:
+‐ participatory learning and action groups for women probably improve newborn survival (moderate‐certainty evidence) and may improve maternal survival (low‐certainty evidence); 
+‐ disclosing performance data on health insurance scheme quality to the public may lead people to select health plans that have better quality ratings or to avoid those with worse ratings and may lead to slight improvements in clinical outcomes for health insurance schemes (low‐certainty evidence); 
+‐ disclosing performance data on hospital quality to the public may lead to little or no difference in people's selection of hospitals (low‐certainty evidence), probably encourages hospitals to implement quality improvement activities (moderate‐certainty evidence) and may lead to slight improvements in hospital clinical outcomes (low‐certainty evidence); 
+‐ disclosing performance on individual healthcare providers to the public probably leads people to select providers that have better quality ratings (moderate‐certainty evidence). 
+No studies evaluated the effects of stakeholder participation in policy and organisational decisions. 
+How up‐to‐date is this overview? 
+The overview authors searched for systematic reviews that had been published up to 17 December 2016. 

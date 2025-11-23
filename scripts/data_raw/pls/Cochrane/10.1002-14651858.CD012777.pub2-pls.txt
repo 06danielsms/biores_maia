@@ -1,0 +1,20 @@
+Abdominal ultrasound for diagnosing abdominal tuberculosis or disseminated tuberculosis with abdominal involvement in people with HIV 
+Why is improving tuberculosis diagnosis in people with HIV important? 
+Diagnosing active tuberculosis in people living with HIV is challenging. People with advanced immunosuppression have high rates of extrapulmonary tuberculosis (tuberculosis outside the lungs). 
+What is the aim of this review? 
+The aim of this review is to find out how accurate an ultrasound examination of the abdomen (abdominal ultrasound) is for diagnosing tuberculosis in people with HIV suspected of having tuberculosis in the abdomen or widespread tuberculosis (disseminated tuberculosis) involving the abdomen. 
+What was studied in the review? 
+Abdominal ultrasound can be done after other tests (e.g. the chest x‐ray did not indicate tuberculosis ) or it can be done before other tests in people suspected of having tuberculosis. This review focuses on situations where other tests are not available. 
+What are the main results in this review? 
+We found 11 studies, but only six were relevant for the main analyses. The six studies were divided into two groups. In the first group tuberculosis was diagnosed by identifying the organism causing tuberculosis from any specimen (microbiological confirmation). For the second group, tuberculosis was diagnosed when healthcare personnel suspected tuberculosis and started anti‐tuberculosis treatment, but without identifying the organism (clinical diagnosis). Three studies provided results for both groups. 
+The review included five studies (a total of 879 participants) with microbiological confirmation. The results showed that if abdominal ultrasound were to be used in a group of 1000 people with HIV where 200 (20%) have tuberculosis then: 
+‐ About 382 individuals would have an ultrasound result indicating tuberculosis; of these, 256 (67%) would be incorrectly classified as having tuberculosis (false positives). 
+‐ Of the 618 individuals with a result indicating that tuberculosis is not present, 74 (12%) would be incorrectly classified as not having tuberculosis (false negatives). 
+How reliable are the results of the studies in this review? 
+Microbiological confirmation is likely to be a reliable method for deciding whether people really have tuberculosis; clinical diagnosis is likely to be less trustworthy. We found problems in both groups with how studies were conducted. Decreasing the number of false positive results may make abdominal ultrasound appear more accurate than it is. Numbers shown are an average across studies. As estimates from individual studies varied, we cannot be sure that abdominal ultrasound will always produce these results. Not enough people have been studied for us to be confident about the results. 
+Who do the results of the review apply to? 
+Studies included in the main analyses were done in Cambodia, India, South Africa, South Sudan, Spain, and Tanzania. Reasons for including people differed between the studies. Four studies used trained radiologists (specialists) or sonographers; two used doctors trained in ultrasound (non‐specialists), and two included people without any suspicion of tuberculosis. Across the studies, the percentage of people with a final diagnosis of tuberculosis ranged from 18% to 64%. 
+What are the implications of this review? 
+If the test is used to rule in the disease in the absence of other evidence, then, the chance of diagnosing someone with tuberculosis when they actually do not have it is high. Chances of missing a diagnosis of tuberculosis when the test is positive are lower, but a negative test alone is probably insufficient to rule out the disease. These findings should be considered when deciding whether or not to use abdominal ultrasound to test for tuberculosis involving the abdomen and how to interpret the results in the context of other clinical and diagnostic test information. 
+How up‐to‐date is this review? 
+The review authors searched for studies up to 4 April 2019.

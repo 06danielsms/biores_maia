@@ -1,0 +1,29 @@
+Clinical Study Results
+
+What adverse reactions happened during this study?
+The most common adverse reactions were diarrhea and headache.
+
+Adverse reactions that happened in the study:
+
+- AZD5718 dose 1
+   - Diarrhea: 0.0% (0)
+   - Headache: 7.1% (1)
+   - Stomach pain: 0.0% (0)
+   - Swollen belly: 0.0% (0)
+
+- AZD5718 dose 2
+   - Diarrhea: 0.0% (0)
+   - Headache: 7.1% (1)
+   - Stomach pain: 0.0% (0)
+   - Swollen belly: 0.0% (0)
+
+- AZD5718 dose 3
+   - Diarrhea: 14.3% (2)
+   - Headache: 0.0% (0)
+   - Stomach pain: 7.1% (1)
+   - Swollen belly: 7.1% (1)
+
+How has this study helped patients and researchers?
+This study helped researchers learn more about how much AZD5718 got into the blood of healthy men.
+Researchers look at the results of many studies to decide which treatments work best and are safest. This summary shows only the main results from this one study. Other studies may provide new information or different results.
+Further clinical studies with AZD5718 are planned.

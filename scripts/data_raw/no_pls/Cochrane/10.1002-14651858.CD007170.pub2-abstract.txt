@@ -1,0 +1,14 @@
+Background
+Diabetes mellitus is a chronic metabolic disorder that is associated with an increased risk of cardiovascular disease, retinopathy, nephropathy, neuropathy, sexual dysfunction and periodontal disease. Improvements in glycaemic control may help to reduce the risk of these complications. Several animal studies show that cinnamon may be effective in improving glycaemic control. While these effects have been explored in humans also, findings from these studies have not yet been systematically reviewed. 
+Objectives
+To evaluate the effects of cinnamon in patients with diabetes mellitus.
+Search methods
+Pertinent randomised controlled trials were identified through AARP Ageline, AMED, AMI, BioMed Central gateway, CAM on PubMed, CINAHL, Dissertations Abstracts International, EMBASE, Health Source Nursing/Academic edition, International Pharmaceutical Abstracts, MEDLINE, Natural medicines comprehensive database, The Cochrane Library and TRIP database. Clinical trial registers and the reference lists of included trials were searched also (all up to January 2012). Content experts and manufacturers of cinnamon extracts were also contacted. 
+Selection criteria
+All randomised controlled trials comparing the effects of orally administered monopreparations of cinnamon (Cinnamomum spp.) to placebo, active medication or no treatment in persons with either type 1 or type 2 diabetes mellitus. 
+Data collection and analysis
+Two review authors independently selected trials, assessed risk of bias and trial quality, and extracted data. We contacted study authors for missing information. 
+Main results
+Ten prospective, parallel‐group design, randomised controlled trials, involving a total of 577 participants with type 1 and type 2 diabetes mellitus, were identified. Risk of bias was high or unclear in all but two trials, which were assessed as having moderate risk of bias. Risk of bias in some domains was high in 50% of trials. Oral monopreparations of cinnamon (predominantly Cinnamomum cassia) were administered at a mean dose of 2 g daily, for a period ranging from 4 to 16 weeks. The effect of cinnamon on fasting blood glucose level was inconclusive. No statistically significant difference in glycosylated haemoglobin A1c (HbA1c), serum insulin or postprandial glucose was found between cinnamon and control groups. There were insufficient data to pool results for insulin sensitivity. No trials reported health‐related quality of life, morbidity, mortality or costs. Adverse reactions to oral cinnamon were infrequent and generally mild in nature. 
+Authors' conclusions
+There is insufficient evidence to support the use of cinnamon for type 1 or type 2 diabetes mellitus. Further trials, which address the issues of allocation concealment and blinding, are now required. The inclusion of other important endpoints, such as health‐related quality of life, diabetes complications and costs, is also needed. 

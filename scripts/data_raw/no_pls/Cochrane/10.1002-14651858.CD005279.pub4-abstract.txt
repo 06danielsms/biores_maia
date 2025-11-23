@@ -1,0 +1,14 @@
+Background
+A significant proportion of patients starting dialysis do so with a temporary or tunnelled haemodialysis catheter. Insertion of these catheters can be achieved either by using the anatomical landmarks for the veins into which they are inserted or using ultrasound guidance. It has been suggested that the use of ultrasound guidance reduces the immediate complications of haemodialysis catheter insertions such as pneumothorax or arterial puncture. 
+Objectives
+The aim of the review was to compare the use of real‐time 2‐dimensional (2‐D) Doppler ultrasound venous imaging in the insertion of percutaneous central venous catheters for dialysis versus the traditional "blind" landmark method. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register, MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials (CENTRAL). Reference lists of identified studies and relevant narrative reviews were also screened. Search date: January 2011. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs evaluating ultrasound guidance in the percutaneous insertion of central venous catheters for dialysis (both cuffed and uncuffed) against the traditional blind landmark method. 
+Data collection and analysis
+Two authors assessed risk of bias and extracted data. Statistical analyses were performed using the random effects model and the results expressed as risk ratios (RR) for dichotomous outcomes or mean difference (MD) for continuous data with 95% confidence intervals (CI). 
+Main results
+We identified seven studies enrolling 767 patients and with 830 catheter insertions. Three of seven studies described the method of random sequence generation, none described allocation concealment, and blinding of participants and personnel was not possible. Real‐time ultrasound guidance was found to significantly reduce the risk of catheter placement failure on the first attempt (5 studies, 595 catheters): RR 0.40, 95% CI 0.30 to 0.52), significantly reduce the risk of arterial puncture (6 studies, 535 catheters: RR 0.13, 95% CI 0.04 to 0.37) and haematomas (4 studies, 323 catheters: RR 0.22, 95% CI 0.06 to 0.81) when compared to the landmark method. The time taken for successful cannulation was significantly lower with the use of real‐time ultrasound guidance (1 study, 73 catheters: MD ‐1.40 min, 95% CI ‐2.17 to ‐0.63) and there were less attempts/catheter insertion (1 study, 110 catheters: ‐0.35, 95% CI ‐0.54 to ‐0.16). 
+Authors' conclusions
+Use of real‐time 2‐D Doppler ultrasound guidance has significant benefits with respect to the number of catheters successfully inserted on the first attempt, reduction in the risk of arterial puncture and haematomas and the time taken for successful vein puncture. 

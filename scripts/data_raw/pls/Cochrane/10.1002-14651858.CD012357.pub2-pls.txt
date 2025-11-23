@@ -1,0 +1,14 @@
+N‐acetylcysteine taken with antibiotics for treatment of Helicobacter pylori infection
+Review question 
+Is the addition of N‐acetylcysteine to antibiotics safe and does it improve cure rates for Helicobacter pylori infection? 
+Background 
+Helicobacter pylori (H pylori) is a bacteria that lives in the stomach and might cause several diseases such as gastric cancer, ulcer disease, and others. Colonisation occurs in about one‐half of the world's population and is more common in countries with poor sanitary conditions. People become infected by consuming contaminated water. 
+The infection is treated using antibiotics and a drug which reduces acid production in the stomach. However, rates of antibiotic resistance are rising around the world, which is reducing the cure rates even with treatment. New medications are being tested to improve cure rates. One of these medications is N‐acetylcysteine (NAC). NAC is a drug that helps to dissolve mucus in respiratory diseases. It can be taken by mouth (orally) or injected into a vein (intravenous). NAC can destroy some mechanisms of survival of H pylori and could improve cure rates. 
+Study characteristics 
+We included eight studies (specifically, randomised controlled trials (RCTs)) with a total of 559 people aged between 17 and 76 years old. The evidence is current to April 2018. All studies recruited outpatients from endoscopy centres (centres that specialise in an examination done with a flexible tube with a camera that is inserted into stomach) in several countries. The antibiotic combinations tested were very different in the included studies, as were the doses of NAC (600 mg to 1800 mg per day). NAC was compared with placebo (dummy pill) or nothing. 
+Key results 
+We are uncertain whether the addition of NAC to antibiotics improves H pylori cure rates compared with the addition of placebo or no NAC. Any possible beneficial effect of NAC should be regarded cautiously because the included studies were very different and of low certainty, with some flaws that could have compromised their results and consequently, the results of this review. 
+We are uncertain whether NAC is associated with a higher risk of gastrointestinal or allergic adverse events compared with placebo or no NAC. There were no reports of toxic adverse events amongst the included studies. 
+Further large, well‐designed randomised clinical studies, with good reporting standards and appropriate collection of effectiveness and safety outcomes should be done, especially for current recommended antibiotic combinations. 
+Quality of the evidence 
+The overall certainty of the evidence for eradication rates ranged from very low to low. Five studies provided information on adverse events (side effects), and the certainy of evidence was very low. The included studies were poorly conducted and this reduced our confidence in the results. 

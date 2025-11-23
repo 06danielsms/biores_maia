@@ -1,0 +1,15 @@
+Background
+For gastric cancer surgery is the mainstay treatment. Chemotherapy seems to improve the survival results. But chemotherapy is not a complication‐free therapy and its role has been questioned by some trials. 
+Objectives
+To determine whether post‐surgical chemotherapy should be used routinely in resectable gastric cancer. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded (July 2013). 
+Selection criteria
+Randomised controlled trials (RCT) comparing post‐surgical chemotherapy versus surgery alone for resectable gastric cancer. 
+Data collection and analysis
+Two authors independently assessed trials for inclusion and independently extracted the data. We analysed the data with both the fixed‐effect and the random‐effects models using the RevMan analysis software. We calculated the hazard ratio (HR) with 95% confidence interval (CI) based on intention‐to‐treat or available case analysis. 
+Main results
+The authors identified 34 studies (7824 patients) reporting overall survival (OS) and only 15 reporting disease free survival (DFS) as well. Post‐surgical chemotherapy showed an improvement in OS (HR 0.85; 95% CI 0.80 to 0.90) and an improvement in DFS (HR 0.79; 95% CI 0.72 to 0.87), although all the trials had a high risk of bias. 
+The planned analysis of quality of life, return to work, and number of hospital admissions was impossible to complete as the outcome data for the analysis were not available from any trials. 
+Authors' conclusions
+Post‐surgical chemotherapy should be used routinely for resectable gastric cancer where possible. Further RCTs are needed to determine the role at each stage of disease. 

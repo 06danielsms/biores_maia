@@ -1,0 +1,17 @@
+Background
+Following a hip fracture, traction may be applied to the injured limb before surgery. This is an update of a Cochrane review first published in 1997, and previously updated in 2006. 
+Objectives
+To evaluate the effects of traction applied to the injured limb prior to surgery for a fractured hip. Different methods of applying traction (skin or skeletal) were considered. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (April 2011), the Cochrane Central Register of Controlled Trials (in The Cochrane Library 2011, Issue 4), MEDLINE (1948 to April week 2 2011), EMBASE (1980 to 2011 week 16), and CINAHL (1982 to 1 April 2011), conference proceedings, trials registries and reference lists of articles. 
+Selection criteria
+All randomised or quasi‐randomised trials comparing either skin or skeletal traction with no traction, or skin with skeletal traction for patients with an acute hip fracture prior to surgery. 
+Data collection and analysis
+At least two authors independently assessed trial quality and extracted data. Additional information was sought from all trialists. Wherever appropriate and possible, data were pooled. 
+Main results
+One new trial was included in this update. In all, 11 trials (six were randomised and five were quasi‐randomised), involving a total of 1654 predominantly elderly patients with hip fractures, are included in the review. Most trials were at risk of bias, particularly that resulting from inadequate allocation concealment, lack of assessor blinding and incomplete outcome assessment. Only very limited data pooling was possible. 
+Ten trials compared predominantly skin traction with no traction. The available data provided no evidence of benefit from traction either in the relief of pain (pain soon after immobilisation (visual analogue score 0: none to 10: worst pain): mean difference 0.11, 95% CI ‐0.27 to 0.50; 3 trials), ease of fracture reduction or quality of fracture reduction at time of surgery. There were inconclusive data for pressures sores and other complications, including fracture fixation failure. Three minor adverse effects (sensory disturbance and skin blisters) related to skin traction were reported. 
+One of the above trials included both skin and skeletal traction groups. This trial and one other compared skeletal traction with skin traction and found no important differences between these two methods, although the initial application of skeletal traction was noted as being more painful and more costly. 
+Authors' conclusions
+From the evidence available, the routine use of traction (either skin or skeletal) prior to surgery for a hip fracture does not appear to have any benefit. However, the evidence is also insufficient to rule out the potential advantages for traction, in particular for specific fracture types, or to confirm additional complications due to traction use. 
+Given the increasing lack of evidence for the use of pre‐operative traction, the onus should now be on clinicians who persist in using pre‐operative traction to either stop using it or to use it only in the context of a well‐designed randomised controlled trial. 

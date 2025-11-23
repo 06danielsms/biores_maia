@@ -1,0 +1,14 @@
+Background
+Liver (hepatic) resection refers to removal of the whole liver, or one or more of its vascular segments. Elective liver resection is mainly performed for benign and malignant liver tumours. The operation can be performed as an open procedure or with a laparoscopic approach. With the advancement of laparoscopic skills and equipment, liver resection is selectively being carried out with this approach. A laparoscopic procedure is intended to be less severe, allowing for quicker healing, fewer complications, and a shorter hospital stay as the insult to the body is minimised. However, evidence about the efficacy of this approach when compared to an open procedure is still scattered. Current practice at different hepato‐pancreato‐biliary centres is based on the clinical judgement of experts in their field, which is highly insufficient in terms of evidence. 
+Objectives
+To assess the benefits and harms of laparoscopic versus open liver resection for benign or malignant lesions on the liver in adult patients. 
+Search methods
+We searched the Cochrane Hepato‐Biliary Group Controlled Trials Register, Cochrane Central Register of Controlled Trials in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until February 2013. We also conducted searches of reference lists of relevant articles and reviews, conference proceedings, and ongoing trial databases. 
+Selection criteria
+We searched for randomised clinical trials of participants undergoing liver resection for benign or malignant lesions which reported on benefits and harms. We searched for quasi‐randomised or observational studies for reports of harm. 
+Data collection and analysis
+No data from randomised clinical trials could be collected.
+Main results
+Two authors performed study selection independently. We were not able to identify any randomised clinical trials that met the inclusion criteria of our review protocol. We identified two ongoing randomised clinical trials performed in Europe with data yet to be published. We retrieved a few observational studies (prospective and retrospective) with the searches for randomised clinical trials. They included a limited number of participants in whom laparoscopic and open liver resection was compared. Since these studies were non‐randomised observational studies, the results for any adverse events are not included in the review as the risk of bias in such studies is high. 
+Authors' conclusions
+No conclusions can be made at this time as no randomised clinical trials are available. In addition to the two ongoing randomised clinical trials for which results are expected to be published in the near future, well‐designed, prospective, randomised clinical trials are needed in order to evaluate the benefits and harms of the laparoscopic procedure versus open liver resection. 

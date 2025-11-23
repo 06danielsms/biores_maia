@@ -1,0 +1,15 @@
+Background
+Despite the increasing use of palliative chemotherapy for advanced colorectal cancer, there remains uncertainty as to the true effectiveness of this intervention. This review was therefore undertaken to assess the available evidence for the benefit of palliative chemotherapy in this disease. 
+Objectives
+To determine the benefits and harms of palliative chemotherapy in patients with locally advanced or metastatic colorectal cancer. A secondary objective was to investigate outcomes for younger and elderly patients. 
+Search methods
+Trials were identified by computerised and hand searches of the literature, scanning references and contacting investigators. 
+Selection criteria
+All randomised controlled trials of palliative chemotherapy compared with supportive care alone in patients with advanced or metastatic colorectal cancer. 
+Both randomised and non‐randomised studies were considered when searching for data on quality of life, resource use and cost effectiveness of palliative chemotherapy. 
+Data collection and analysis
+Investigators from all eligible studies were asked to supply individual patient data. Meta‐analysis was performed using both published data and individual patient data. Studies were grouped according to whether chemotherapy was administered regionally or systemically. 
+Main results
+13 randomised controlled trials representing a total of 1365 randomised patients met the inclusion criteria. Meta‐analysis of a subset of trials that provided individual patient data demonstrated that palliative chemotherapy was associated with a 35% (95% CI 24% to 44%) reduction in the risk of death. This translates into an absolute improvement in survival of 16% at both 6 months and 12 months and an improvement in median survival of 3.7 months. The overall quality of evidence relating to treatment toxicity, symptom control and quality of life was poor. 
+Authors' conclusions
+Chemotherapy is effective in prolonging time to disease progression and survival in patients with advanced colorectal cancer. The survival benefit may be underestimated by this meta‐analysis, as a proportion of patients in the control arms of some trials received chemotherapy. No age related differences were found in the effectiveness of chemotherapy, but elderly patients were under represented in trials. Treatment toxicity and impact upon quality of life and symptom control have been inadequately assessed in the majority of trials and further research is needed to clarify the palliative benefit of chemotherapy. 

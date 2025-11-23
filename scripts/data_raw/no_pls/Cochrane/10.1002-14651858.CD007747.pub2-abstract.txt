@@ -1,0 +1,14 @@
+Background
+Sexual dysfunction is very common in patients with chronic kidney disease (CKD), but it is still significantly understudied. Treatment options exist but concerns have been raised relating to their efficacy and safety in CKD. 
+Objectives
+We assessed the benefits and harms of existing interventions for treatment of sexual dysfunction in patients with CKD. 
+Search methods
+In October 2010 we searched the Cochrane Renal Group's specialised register, CENTRAL (The Cochrane Library, issue 10), MEDLINE (from 1966) and EMBASE (from 1980). 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐RCTs of any pharmacological and non‐pharmacological interventions used to treat sexual dysfunction in male and female CKD patients (predialysis, dialysis and kidney transplant) were included. 
+Data collection and analysis
+Two authors independently selected eligible studies, extracted data and assessed study quality. Disagreements were resolved in consultation with an arbitrator. Treatment effects were summarised as risk ratios (RR), mean differences (MD) or standardised mean difference (SMD) with 95% confidence intervals (CI) using a random‐effects model. 
+Main results
+Fifteen studies (8 parallel, 7 crossover; 352 patients) were included. Only one study enrolled women. Studies evaluated the effects of phosphodiesterase‐5 inhibitors (PDE5i), zinc, vitamin E, vitamin D or bromocriptine compared to placebo. PDE5i significantly increased the overall International Index of Erectile Function‐5 (IIEF‐5) score (2 studies, 101 patients, MD 10.65, 95% CI 5.34 to 15.96), all its individual domains and the complete 15‐item IIEF tool (1 study, 41 patients, MD 2.64, 95% CI 1.32 to 3.96). End of treatment testosterone levels were not significantly increased by addition of zinc to dialysate (2 studies, 22 patients, MD 0.21 ng/mL, 95% CI ‐2.14 to 2.55) but oral zinc improved end of treatment testosterone levels (1 study, 20 patients, SMD 1.62, 95% CI 0.58 to 2.66). There was no difference in plasma luteinizing and follicle‐stimulating hormone levels at the end of the study period with zinc therapy. Only sparse data were available for vitamin E, bromocriptine and dihydroxycholecalciferol in CKD patients and there were no studies of intracavernous injections, transurethral injections, mechanical devices or psychosexual therapies in people with CKD. 
+Authors' conclusions
+PDE5i and zinc are promising interventions for treating sexual dysfunction in men with CKD. Evidence supporting their routine use in CKD patients is limited. There is an unmet need for studying interventions for both male and female sexual dysfunction in CKD, considering the significant disease burden. 

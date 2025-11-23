@@ -1,0 +1,13 @@
+Addition of long‐acting beta2‐agonists to inhaled corticosteroids for chronic asthma in children 
+Background 
+Most consensus statements recommend use of long‐acting beta2‐agonists (LABA) as adjunct therapy to inhaled corticosteroids (ICS) for poorly controlled asthma, despite the use of low‐dose ICS. 
+Review question 
+What are the benefits and safety of the combination of LABA and ICS in children with persistent asthma when compared with the same dose or a higher dose of ICS alone? 
+What evidence did we find? 
+From available evidence until January 2015, we found 39 eligible studies evaluating the combination of LABA and ICS in children with persistent asthma. Of these, 28 studies compared LABA with the same dose of ICS, and the remaining studies compared LABA with a larger dose of ICS. 
+The number of people who had an exacerbation (worsening of symptoms) that required treatment with oral steroids was not significantly different. However, lung function improved in people taking LABA and steroids compared with the same dose of steroids only or larger doses of steroids. No evidence suggested increased serious adverse events or adverse events (also known as side effects) with the addition of LABA. 
+Compared with the same dose of ICS, people used less of their rescue/relief bronchodilator treatment. There was no benefit for control of asthma symptoms when LABA added to ICS was compared with higher doses of ICS. The higher dose of ICS was associated with 1.2 cm per year lower growth than was observed with the combination of LABA and a lower dose of ICS. 
+Conclusion 
+In children with persistent asthma, the combination of LABA and ICS did not reduce the risk of exacerbations requiring steroid treatment but did improve lung function when compared with the same, or a higher, dose of ICS. No differences in adverse effects were apparent, with the exception of better growth with use of ICS and LABA compared with a higher ICS dose. The trend towards increasing chances of hospital admission indicates the need for continuous monitoring and additional trials in children. 
+Quality of the evidence 
+Overall, we judged the quality of evidence to be moderate. Most outcomes showed wide confidence intervals, which led to downgrading of the quality of evidence to moderate. In a few outcomes for which open‐label studies contributed data, we further downgraded evidence quality to low. 

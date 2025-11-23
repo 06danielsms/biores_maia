@@ -1,0 +1,26 @@
+Clinical Trial Results
+Highest amount of AZD7594 in the blood
+Researchers measured the highest amount of AZD7594 in participants' blood in picomoles per liter of blood (pmol/L). 
+
+Highest amount of AZD7594 in the blood (16 participants)
+198.0
+200
+168.0
+161.9
+160 
+Large particles Medium particles Small particles
+
+How long it took for AZD7594 to reach its highest amount in the blood
+Researchers measured how long it took in hours (h) for AZD7594 to reach its highest amount in the blood. 
+
+How long it took for AZD7594 to reach its highest amount in the blood (16 participants)
+1.00 
+0.75 
+0.63 
+0.49 
+0.50 
+0.25 
+0.25 
+0 
+
+Large particles Medium particles Small particles

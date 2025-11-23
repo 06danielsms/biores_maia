@@ -1,0 +1,26 @@
+Background
+Antibiotics have been considered to treat ulcerative colitis (UC) due to their antimicrobial properties against intestinal bacteria linked to inflammation. However, there are concerns about their efficacy and safety. 
+Objectives
+To determine whether antibiotic therapy is safe and effective for the induction and maintenance of remission in people with UC. 
+Search methods
+We searched five electronic databases on 10 December 2021 for randomised controlled trials (RCTs) comparing antibiotic therapy to placebo or an active comparator. 
+Selection criteria
+We considered people with UC of all ages, treated with antibiotics of any type, dose, and route of administration for inclusion. Induction studies required a minimum duration of two weeks for inclusion. Maintenance studies required a minimum duration of three months to be considered for inclusion. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Our primary outcome for induction studies was failure to achieve remission and for maintenance studies was relapse, as defined by the primary studies. 
+Main results
+We included 12 RCTs (847 participants). One maintenance of remission study used sole antibiotic therapy compared with 5‐aminosalicylic acid (5‐ASA). All other trials used concurrent medications or standard care regimens and antibiotics as an adjunct therapy or compared antibiotics with other adjunct therapies to examine the effect on induction of remission. 
+There is high certainty evidence that antibiotics (154/304 participants) compared to placebo (175/304 participants) result in no difference in failure to achieve clinical remission (risk ratio (RR) 0.88, 95% confidence interval (CI) 0.74 to 1.06). A subgroup analysis found no differences when steroids, steroids plus 5‐ASA, or steroids plus 5‐ASA plus probiotics were used as additional therapies to antibiotics and placebo. 
+There is low certainty evidence that antibiotics (102/168 participants) compared to placebo (121/175 participants) may result in no difference in failure to achieve clinical response (RR 0.75, 95% CI 0.47 to 1.22). A subgroup analysis found no differences when steroids or steroids plus 5‐ASA were used as additional therapies to antibiotics and placebo. 
+There is low certainty evidence that antibiotics (6/342 participants) compared to placebo (5/349 participants) may result in no difference in serious adverse events (RR 1.19, 95% CI 0.38 to 3.71). A subgroup analysis found no differences when steroids were additional therapies to antibiotics and placebo. 
+There is low certainty evidence that antibiotics (3/342 participants) compared to placebo (1/349 participants) may result in no difference in withdrawals due to adverse events (RR 2.06, 95% CI 0.27 to 15.72). A subgroup analysis found no differences when steroids or steroids plus 5‐ASA were additional therapies to antibiotics and placebo. 
+It is unclear if there is any difference between antibiotics in combination with probiotics compared to no treatment or placebo for failure to achieve clinical remission (RR 0.68, 95% CI 0.39 to 1.19), serious adverse events (RR 1.00, 95% CI 0.07 to 15.08), or withdrawals due to adverse events (RR 1.00, 95% CI 0.07 to 15.08). The certainty of the evidence is very low. 
+It is unclear if there is any difference between antibiotics compared to 5‐ASA for failure to achieve clinical remission (RR 2.20, 95% CI 1.17 to 4.14). The certainty of the evidence is very low. 
+It is unclear if there is any difference between antibiotics compared to probiotics for failure to achieve clinical remission (RR 0.47, 95% CI 0.23 to 0.94). The certainty of the evidence is very low. 
+It is unclear if there is any difference between antibiotics compared to 5‐ASA for failure to maintain clinical remission (RR 0.71, 95% CI 0.47 to 1.06). The certainty of the evidence is very low. 
+It is unclear if there is any difference between antibiotics compared to no treatment for failure to achieve clinical remission in a mixed population of people with active and inactive disease (RR 0.56, 95% CI 0.29 to 1.07). The certainty of the evidence is very low. 
+For all other outcomes, no effects could be estimated due to a lack of data.
+Authors' conclusions
+There is high certainty evidence that there is no difference between antibiotics and placebo in the proportion of people who achieve clinical remission at the end of the intervention period. However, there is evidence that there may be a greater proportion of people who achieve clinical remission and probably a greater proportion who achieve clinical response with antibiotics when compared with placebo at 12 months. There may be no difference in serious adverse events or withdrawals due to adverse events between antibiotics and placebo. 
+No clear conclusions can be drawn for any other comparisons.
+A clear direction for future research appears to be comparisons of antibiotics and placebo (in addition to standard therapies) with longer‐term measurement of outcomes. Additionally. As there were single studies of other head‐to‐head comparisons, there may be scope for future studies in this area. 

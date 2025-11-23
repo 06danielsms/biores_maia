@@ -1,0 +1,14 @@
+Background
+Combined oral contraceptives (COCs) have been associated with an increased risk of arterial thrombosis, i.e. myocardial infarction or ischemic stroke. However, as these diseases are rare in young women and as many types of combined oral contraception exist, the magnitude of the risk and the effect of different hormonal contents of COC preparations remain unclear. 
+Objectives
+To estimate the risk of myocardial infarction or ischemic stroke in users compared with non‐users of different types, doses and generations of combined oral contraception. 
+Search methods
+We searched electronic databases (MEDLINE (1966 to July 08, 2015), EMBASE (1980 to July 08, 2015), Popline (1970 to July 08, 2015) and LILACS (1985 to July 08, 2015) for eligible studies, without language restrictions. 
+Selection criteria
+We included observational studies that recruited women in the reproductive age group (18 to 50 years) and compared the risk of myocardial infarction or ischemic stroke between users and non‐users of COCs. 
+Data collection and analysis
+Two review authors independently selected relevant studies and extracted data. We pooled relative risks ()(combined odds ratios and one incidence rate ratio) and 95% confidence intervals (CIs) for myocardial infarction or ischemic stroke in users versus non‐users of COCs. We combined the outcomes of myocardial infarction and ischemic stroke and also analysed these outcomes separately. Analyses were stratified according to estrogen dose and progestagen type. 
+Main results
+In total, we identified 1298 publications through the search strategy. We included 28 publications reporting on 24 studies. COC users were at increased risk of myocardial infarction or ischemic stroke compared with non‐users: relative risk (RR) 1.6 (95% CI 1.3‐1.9).These RRs were similar for myocardial infarction (1.6, 95% CI 1.2 to 2.1) and ischemic stroke (1.7, 95% CI 1.5 to 1.9). The risks did not vary clearly according to the generation of progestagen or according to progestagen type. When we stratified preparations according to estrogen dose, the risk of myocardial infarction or ischemic stroke seemed to increase with higher doses of estrogen. 
+Authors' conclusions
+This meta‐analysis showed that the risk of myocardial infarction or ischemic stroke was 1.6‐fold increased in women using COCs . The risk was highest for pills with > 50 microgram estrogen. When combined with the results of studies on the risk of venous thrombosis in COC users, it seems that the COC pill containing levonorgestrel and 30 µg of estrogen is the safest oral form of combined oral hormonal contraception. 

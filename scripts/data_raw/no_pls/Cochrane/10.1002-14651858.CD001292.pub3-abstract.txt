@@ -1,0 +1,15 @@
+Background
+Individual counselling from a smoking cessation specialist may help smokers to make a successful attempt to stop smoking. 
+Objectives
+The review addresses the following hypotheses:
+1. Individual counselling is more effective than no treatment or brief advice in promoting smoking cessation. 2. Individual counselling is more effective than self‐help materials in promoting smoking cessation. 3. A more intensive counselling intervention is more effective than a less intensive intervention. 
+Search methods
+We searched the Cochrane Tobacco Addiction Group Specialized Register for studies with counsel* in any field in May 2016. 
+Selection criteria
+Randomized or quasi‐randomized trials with at least one treatment arm consisting of face‐to‐face individual counselling from a healthcare worker not involved in routine clinical care. The outcome was smoking cessation at follow‐up at least six months after the start of counselling. 
+Data collection and analysis
+Both authors extracted data in duplicate. We recorded characteristics of the intervention and the target population, method of randomization and completeness of follow‐up. We used the most rigorous definition of abstinence in each trial, and biochemically‐validated rates where available. In analysis, we assumed that participants lost to follow‐up continued to smoke. We expressed effects as a risk ratio (RR) for cessation. Where possible, we performed meta‐analysis using a fixed‐effect (Mantel‐Haenszel) model. We assessed the quality of evidence within each study using the Cochrane 'Risk of bias' tool and the GRADE approach. 
+Main results
+We identified 49 trials with around 19,000 participants. Thirty‐three trials compared individual counselling to a minimal behavioural intervention. There was high‐quality evidence that individual counselling was more effective than a minimal contact control (brief advice, usual care, or provision of self‐help materials) when pharmacotherapy was not offered to any participants (RR 1.57, 95% confidence interval (CI) 1.40 to 1.77; 27 studies, 11,100 participants; I2 = 50%). There was moderate‐quality evidence (downgraded due to imprecision) of a benefit of counselling when all participants received pharmacotherapy (nicotine replacement therapy) (RR 1.24, 95% CI 1.01 to 1.51; 6 studies, 2662 participants; I2 = 0%). There was moderate‐quality evidence (downgraded due to imprecision) for a small benefit of more intensive counselling compared to brief counselling (RR 1.29, 95% CI 1.09 to 1.53; 11 studies, 2920 participants; I2 = 48%). None of the five other trials that compared different counselling models of similar intensity detected significant differences. 
+Authors' conclusions
+There is high‐quality evidence that individually‐delivered smoking cessation counselling can assist smokers to quit. There is moderate‐quality evidence of a smaller relative benefit when counselling is used in addition to pharmacotherapy, and of more intensive counselling compared to a brief counselling intervention. 

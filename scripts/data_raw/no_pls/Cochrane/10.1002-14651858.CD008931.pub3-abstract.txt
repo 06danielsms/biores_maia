@@ -1,0 +1,16 @@
+Background
+Every patient in residential healthcare has a bed. Falling out of bed is associated with preventable patient harm. Various interventions to prevent injury are available. Bed rails are the most common intervention designed to prevent patients falling out of bed; however, their effectiveness is uncertain and bed rail entrapment can also result in injuries. 
+Objectives
+To assess the effectiveness of interventions designed to prevent patient injuries and falls from their beds. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, Cochrane Central Register of Controlled Trials 2010, Issue 2 (The Cochrane Library), MEDLINE (Ovid), EMBASE (Ovid), CINAHL (EBSCO), ISOI Web of Science and Web‐based trials registers (all to December 2010) as well as reference lists. 
+Selection criteria
+Randomised controlled trials of interventions designed to prevent patient injuries from their beds which were conducted in hospitals, nursing care facilities or rehabilitation units were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed the risk of bias and extracted data from the included studies. Authors contacted investigators to obtain missing information. 
+Main results
+Two studies met the inclusion criteria, involving a total of 22,106 participants. One study tested low height beds and the other tested bed exit alarms. Both studies used standard care for their control group and both studies were conducted in hospitals. No study investigating bed rails met the inclusion criteria. Due to the clinical heterogeneity of the interventions in the included studies pooling of data and meta‐analysis was inappropriate, and so the results of the studies are described. 
+A single cluster randomised trial of low height beds in 18 hospital wards, including 22,036 participants, found no significant reduction in the frequency of patient injuries due to their beds (there were no injuries in either group), patient falls in the bedroom (rate ratio 0.69, 95% CI 0.35 to 1.34), all falls (rate ratio 1.26, 95% CI 0.83 to 1.90) or patient injuries due to all falls (rate ratio 1.35, 95% CI 0.68 to 2.68). 
+One randomised controlled trial of bed exit alarms in one hospital geriatric ward, involving 70 participants, found no significant reduction in the frequency of patient injuries due to their beds (there were no injuries in either group), patient falls out of bed (rate ratio 0.25, 95% CI 0.03 to 2.24), all falls (rate ratio 0.42, 95% CI 0.15 to 1.18) or patient injuries due to all falls (no injuries in either group). 
+Authors' conclusions
+The effectiveness of interventions designed to prevent patient injuries from their beds (including bed rails, low height beds and bed exit alarms) remains uncertain. The available evidence shows no significant increase or decrease in the rate of injuries with the use of low height beds and bed exit alarms. Limitations of the two included studies include lack of blinding and insufficient power. No randomised controlled trials of bed rails were identified. Future reports should fully describe the standard care received by the control group. 

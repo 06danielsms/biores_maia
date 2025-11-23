@@ -1,0 +1,22 @@
+(Ultra‐)long‐acting insulin analogues compared with NPH insulin (human isophane insulin) for adults with type 2 diabetes mellitus 
+Introduction 
+Type 2 diabetes mellitus is a progressive condition, meaning that ever more antihyperglycaemic medications are needed to achieve recommended glycosylated haemoglobin A1c (HbA1c) levels with increasing disease duration. The HbA1c test measures blood glucose levels over two to three months. Eventually, many people will require insulin treatment. Insulin treatment is frequently performed by administering human basal insulins once or twice daily. Basal insulins are long‐acting insulins with delayed onset of action covering the basic insulin needs of the body. Fast‐acting insulins are used to cover meals. The most common side effects of insulin treatment are low blood sugar (hypoglycaemia) and weight gain. Newer synthetic insulins, so‐called (ultra‐)long‐acting insulin‐analogues, have been developed with the intention of minimising side effects and allowing better blood glucose control. 
+Review question 
+We wanted to compare the effects of treatment with (ultra‐)long‐acting insulin analogues with NPH (neutral protamine Hagedorn) insulin (human isophane insulin). 
+Search date 
+The evidence is current to 5 November 2019.
+Background 
+It is unclear if or to what extent (ultra‐)long‐acting insulin analogues show more benefit or less harm compared to NPH insulin. 
+Study characteristics 
+All 24 included studies were randomised controlled trials (clinical studies in which people are randomly assigned to one of two or more treatment groups). Sixteen studies compared the long‐acting insulin glargine to NPH insulin and eight studies compared the long‐acting insulin detemir to NPH insulin. In these studies, 3419 people with type 2 diabetes mellitus were randomised to insulin glargine and 1321 people to insulin detemir. The duration of the studies ranged from 24 weeks to 5 years. 
+Key results 
+The different insulins reduced HbA1c by about the same amount.
+Treatment with insulin glargine or insulin detemir instead of NPH insulin resulted in fewer people with hypoglycaemia. Treatment with insulin detemir reduced the risk of serious hypoglycaemia. However, serious hypoglycaemia occurred only rarely in the studies, in fewer than one in 100 people treated with insulin detemir and in about one in 100 people treated with NPH insulin. Approximately one in 100 people treated with insulin detemir instead of NPH insulin benefited. 
+Information on diabetes‐related complications (such as heart disease, renal disease, damage to the retina of the eyes and amputations), death from any cause and health‐related quality of life was scarce. When available, study results did not suggest clear differences between insulin analogues and NPH insulin. 
+There was no clear difference between insulin analogues and NPH insulin for side effects or weight gain. 
+None of the included studies reported on socioeconomic effects (such as costs of the intervention, absence from work, medication consumption). 
+Certainty of the evidence 
+In the studies, very low blood glucose and HbA1c target values were set. However, doctors often recommend higher targets for people with a long history of type 2 diabetes, who have had a heart attack or stroke, or who are old. With higher target values, hypoglycaemia occurs less frequently and more people need to be treated with insulin analogues instead of NPH insulin to prevent hypoglycaemia in one person. Therefore, study results are only applicable to people who are treated to such low blood glucose target values. 
+In many studies, an adequate adjustment of NPH insulin was not possible. However, doctors will do that in daily practice. Therefore, a further decrease in the benefit of insulin analogues is expected. 
+Treatment in all but one study lasted for 12 months or less. However, diabetes‐related complications usually only develop over many years. Thus, most studies were unable to answer the important question whether treatment with different insulin preparations has different effects on diabetes‐related complications. This means that potentially important differences between insulin analogues and NPH insulin were not detected. 
+All studies had problems in the way they were conducted.

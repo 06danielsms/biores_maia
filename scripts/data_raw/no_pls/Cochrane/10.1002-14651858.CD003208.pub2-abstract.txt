@@ -1,0 +1,14 @@
+Background
+Methotrexate is a potent immunosuppressant which in theory could reduce relapse rates and delay disease progression in multiple sclerosis (MS). Subsequently, clinical trials of methotrexate have been conducted in people with MS. 
+Objectives
+To identify and summarise the evidence that methotrexate is beneficial and safe for people with MS. 
+Search methods
+We searched the Cochrane MS Group Specialised Register (September 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 3), MEDLINE (1966 to September 2007), EMBASE (1974 to Septermber 2007), Science Citation Index (SCISEARCH), British Medical Journal Register of unpublished clinical trials and reference lists from identified trials. We also contacted manufacturers and researchers in the field. 
+Selection criteria
+Randomised controlled trials of methotrexate for the prevention of relapses and disease progression in MS. 
+Data collection and analysis
+We obtained 1118 citations from our literature search, but found only 2 eligible randomised controlled clinical trials. One study was excluded on the basis of inadequate allocation concealment, leaving one eligible study. 
+Main results
+The included trial involved 60 participants with chronic progressive multiple sclerosis. There were no participants with relapsing‐remitting disease. The trial showed a non‐significant reduction in sustained EDSS progression and number of relapses in favour of methotrexate therapy. There was no difference in time to first relapse and no data on relapse rate. Minor side‐effects were reported frequently in both methotrexate (87.1%) and placebo groups (89.7%), but there were no major side‐effects. 
+Authors' conclusions
+In progressive MS, the single included trial reveals a non‐significant trend in reduction of sustained EDSS progression and number of relapses in favour of methotrexate. There are no studies of methotrexate in relapsing remitting MS. Before drawing further conclusions regarding the efficacy of methotrexate in MS, further trials of people with relapsing‐remitting MS or progressive MS are required. 

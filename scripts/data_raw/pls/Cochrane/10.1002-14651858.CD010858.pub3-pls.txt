@@ -1,0 +1,21 @@
+Vitamin D supplementation for sickle cell disease
+Review question 
+We reviewed the evidence about the effect of giving vitamin D supplements to people with sickle cell disease (SCD). 
+Background 
+Vitamin D deficiency is common in people with SCD. Vitamin D regulates calcium levels and supports bone health and a lack of it make worse any bone health problems that people with SCD may have. We wanted to discover whether vitamin D supplements for people with SCD were better or worse than either a placebo (substance which contains no medication) or no vitamin D supplements and also if one dose schedule was better than another. 
+Search date 
+The evidence is current to: 14 January 2020.
+Study characteristics 
+We looked at three studies where individuals were selected for different treatments at random. In one study, 39 people with SCD took either vitamin D or placebo tablets for six weeks and were then followed up for six months. In a second study, 62 people with SCD took either vitamin D 100,000 international units (IU)/month or 12,000 IU/month for two years. In the third study, 21 people with SCD took either 7000 IU/day or 4000 IU/day for three months. 
+Key results 
+Vitamin D versus placebo 
+People taking a vitamin D supplement had higher levels of vitamin D in their blood when it was measured after eight, 16 and 24 weeks. There were no differences in the number of people reporting side effects (tingling in the lips or hands). The vitamin D group had fewer days of pain. After eight weeks, the vitamin D group had a slightly worse score for health‐related quality of life (physical functioning score); the difference was greater after 16 and 24 weeks. However, the quality of this evidence was low. 
+Different vitamin D doses compared 
+Only one of the two included studies which compared different doses of vitamin D supplementation provided any data for analysis. In the study with data, those taking a high‐dose of vitamin D (100,000 IU/month) had higher levels of vitamin D in their blood when it was measured after one and two years. There were no differences in the number of people reporting side effects, respiratory events, lung function (forced expiratory volume in one second) and hand grip strength. But forced vital capacity (another measure of lung function) was lower in high‐dose group. 
+The study comparing oral vitamin D3 7000 IU/day to 4000 IU/day reported that people taking the low‐dose had lower average levels of vitamin D in the blood at both six and 12 weeks. At 12 weeks average levels of growth hormone were lower in the high‐dose group. 
+Given the results from three small clinical trials with moderate to low‐quality evidence, we do not think the results of our review are of sufficient quality to guide clinical practice. Until further evidence is available, clinicians should consider relevant existing guidelines for vitamin D supplementation, and recommendations for calcium and vitamin D intake. 
+Quality of the evidence 
+Vitamin D versus placebo 
+The risk of bias resulting from how people were put into the different groups was low. Also, neither those taking part or their doctor could guess which group they were in once the study started. Adverse events were not detailed in the original report, but the author provided the information when asked. More people dropped out of the placebo group (68.4%) than the vitamin D group (5%). The risk of bias from how the study reported results was high. We considered the evidence for vitamin D blood levels to be moderate quality, and for adverse events, days of pain and health‐related quality of life to be low quality. 
+Different vitamin D doses compared 
+The risk of bias resulting from how people were put into the different dose groups was low in one study and unclear in the second. Neither those taking part nor their doctor could guess which group they were in once both studies started. The risk of bias from people taking part dropping out was low, but the risk was high for how the study reported results. Tthe quality of the evidence for vitamin D blood levels and side effects was low, and for respiratory events it was moderate. 

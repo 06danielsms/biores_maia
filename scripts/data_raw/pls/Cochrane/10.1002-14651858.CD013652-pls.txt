@@ -1,0 +1,41 @@
+What is the diagnostic accuracy of antibody tests for the detection of infection with the COVID‐19 virus? 
+Background 
+COVID‐19 is an infectious disease caused by the SARS‐CoV‐2 virus that spreads easily between people in a similar way to the common cold or ‘flu. Most people with COVID‐19 have a mild to moderate respiratory illness, and some may have no symptoms (asymptomatic infection). Others experience severe symptoms and need specialist treatment and intensive care. 
+The immune system of people who have COVID‐19 responds to infection by developing proteins that can attack the virus (antibodies) in their blood. Tests to detect antibodies in peoples' blood might show whether they currently have COVID‐19 or have had it previously. 
+Why are accurate tests important? 
+Accurate testing allows identification of people who might need treatment, or who need to isolate themselves to prevent the spread of infection. Failure to detect people with COVID‐19 when it is present (a false negative result) may delay treatment and risk further spread of infection to others. Incorrect identification of COVID‐19 when it is not present (a false positive result) may lead to unnecessary further testing, treatment, and isolation of the person and close contacts. Correct identification of people who have previously had COVID‐19 is important in measuring disease spread, assessing the success of public health interventions (like isolation), and potentially in identifying individuals with immunity (should antibodies in the future be shown to indicate immunity). 
+To identify false negative and false positive results, antibody test results are compared in people known to have COVID‐19 and known not to have COVID‐19. Study participants are classified as to whether they are known or not known to have COVID‐19 based on criteria known as the ‘reference standard’. Many studies use samples taken from the nose and throat to identify people with COVID‐19. The samples undergo a test called reverse transcriptase polymerase chain reaction (RT‐PCR). This testing process can sometimes miss infection (false negative result), but additional tests can identify COVID‐19 infection in people with a negative RT‐PCR result. These include measuring clinical symptoms, like coughing or high temperature, or ‘imaging’ tests like chest X‐rays. People known not to have COVID‐19 are sometimes identified from stored blood samples taken before COVID‐19 existed, or from patients with respiratory symptoms found to be caused by other diseases. 
+What did the review study? 
+The studies looked at three types of antibody, IgA, IgG and IgM. Most tests measure both IgG and IgM, but some measure a single antibody or combinations of the three antibodies. 
+Levels of antibodies rise and fall at different times after infection. IgG is the last to rise but lasts longest. Levels of antibodies are usually highest a few weeks after infection. 
+Some antibody tests need specialist laboratory equipment. Others use disposable devices, similar to pregnancy tests. These tests can be used in laboratories or wherever the patient is (point‐of‐care), in hospital or at home. 
+We wanted to find out whether antibody tests:
+‐ are accurate enough to diagnose infection in people with or without symptoms of COVID‐19, and 
+‐ can be used to find out if someone has already had COVID‐19.
+What did we do? 
+We looked for studies that measured the accuracy of antibody tests compared with reference standard criteria to detect current or past COVID‐19 infection. Studies could assess any antibody test compared with any reference standard. People could be tested in hospital or the community. Studies could test people known to have – or not to have – or be suspected of having COVID‐19. 
+Study characteristics 
+We found 54 relevant studies. Studies took place in Asia (38), Europe (15), and in both USA and China (1). 
+Forty‐six studies included people who were in hospital with suspected or confirmed COVID‐19 infection only. Twenty‐nine studies compared test results in people with COVID‐19 with test results in healthy people or people with other diseases. 
+Not all studies provided details about participants’ age and gender. Often, we could not tell whether studies were evaluating current or past infection, as few reported whether participants were recovering. We did not find any studies that tested only asymptomatic people. 
+Main results 
+Our findings come mainly from 38 studies that provided results based on the time since people first noticed symptoms. 
+Antibody tests one week after first symptoms only detected 30% of people who had COVID‐19. Accuracy increased in week 2 with 70% detected, and was highest in week 3 (more than 90% detected). Little evidence was available after week 3. Tests gave false positive results in 2% of those without COVID‐19. 
+Results from IgG/IgM tests three weeks after symptoms started suggested that if 1000 people had antibody tests, and 50 (5%) of them really had COVID‐19 (as we might expect in a national screening survey): 
+‐ 58 people would test positive for COVID‐19. Of these, 12 people (21%) would not have COVID‐19 (false positive result). 
+‐ 942 people would test negative for COVID‐19. Of these, 4 people (0.4%) would actually have COVID‐19 (false negative result). 
+If we tested 1000 healthcare workers (in a high‐risk setting) who had had symptoms, and 500 (50%) of them really had COVID‐19: 
+‐ 464 people would test positive for COVID‐19. Of these, 7 people (2%) would not have COVID‐19 (false positive result). 
+‐ 537 people would test negative for COVID‐19. Of these, 43 (8%) would actually have COVID‐19 (false negative result). 
+We did not find convincing differences in accuracy for different types of antibody test. 
+How reliable were the results of the studies of this review? 
+Our confidence in the evidence is limited for several reasons. In general, studies were small, did not use the most reliable methods and did not report their results fully. Often, they did not include patients with COVID‐19 who may have had a false negative result on PCR, and took their data for people without COVID‐19 from records of tests done before COVID‐19 arose. This may have affected test accuracy, but it is impossible to identify by how much. 
+Who do the results of this review apply to? 
+Most participants were in hospital with COVID‐19, so were likely to have more severe disease than people with mild symptoms who were not hospitalised. This means that we don't know how accurate antibody tests are for people with milder disease or no symptoms. 
+More than half of the studies assessed tests they had developed themselves, most of which are not available to buy. Many studies were published quickly online as ‘preprints’. Preprints do not undergo the normal rigorous checks of published studies, so we are not certain how reliable they are. 
+As most studies took place in Asia, we don't know whether test results would be similar elsewhere in the world. 
+What are the implications of this review? 
+The review shows that antibody tests could have a useful role in detecting if someone has had COVID‐19, but the timing of when the tests are used is important. Antibody tests may help to confirm COVID‐19 infection in people who have had symptoms for more than two weeks and do not have a RT‐PCR test, or have negative RT‐PCR test results. The tests are better at detecting COVID‐19 in people two or more weeks after their symptoms started, but we do not know how well they work more than five weeks after symptoms started. We do not know how well the tests work for people who have milder disease or no symptoms, because the studies in the review were mainly done in people who were in hospital. In time, we will learn whether having previously had COVID‐19 provides individuals with immunity to future infection. 
+Further research is needed into the use of antibody tests in people recovering from COVID‐19 infection, and in people who have experienced mild symptoms or who never experienced symptoms. 
+How up‐to‐date is this review? 
+This review includes evidence published up to 27 April 2020. Because a lot of new research is being published in this field, we will update this review frequently. 

@@ -1,0 +1,14 @@
+Background
+Major urological complications (MUCs) after kidney transplantation contribute to patient morbidity and compromise graft function. The majority arise from the vesicoureteric anastomosis and present early after transplantation. Ureteric stents have been successfully used to treat such complications. A number of centres have adopted a policy of universal prophylactic stenting, at the time of graft implantation, to reduce the incidence of urine leaks and ureteric stenosis. Stents are associated with specific complications and some centres advocate a policy of only stenting selected anastomoses. 
+Objectives
+To examine the benefits and harms of routine ureteric stenting to prevent urological complications in kidney transplant recipients. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register (up to 8 January 2013) through contact with the Trials' Search Co‐ordinator using search terms relevant to this review. 
+Selection criteria
+All RCTs and quasi‐RCTs were included in our meta‐analysis.
+Data collection and analysis
+Four reviewers assessed the studies for quality against four criteria (allocation concealment, blinding, intention‐to‐treat and completeness of follow‐up). The primary outcome was the incidence of MUCs. Further outcomes of interest were graft and patient survival and the incidence of adverse events (urinary tract infection (UTI), haematuria, irritative symptoms, pain and stent migration). Statistical analyses were performed using the random effects model and the results expressed as relative risk (RR) with 95% confidence intervals (CI). 
+Main results
+Seven RCTs (1154 patients) of low or moderate quality were identified. The incidence of MUCs was significantly reduced (RR 0.24, 95% CI 0.07 to 0.77, P = 0.02, NNT 13) by universal prophylactic stenting. This was dependent on whether the same surgeon performed, or was in attendance, during the operations. Two patients lost their grafts to infective urinary tract complications in the stented group. UTIs, in general, were more common in stented patients (RR 1.49, 95% CI 1.04 to 2.15) unless the patients were prescribed cotrimoxazole 480 mg/d: in which case the incidence was equivalent (RR 0.97, 95% CI 0.71 to 1.33). Stents appeared generally well tolerated, although studies using longer stents (≥ 20 cm) for longer periods (> 6 weeks) had more problems with encrustation and migration. 
+Authors' conclusions
+Routine prophylactic stenting reduces the incidence of MUCs. Studies comparing selective stenting and universal prophylactic stenting, whilst difficult to design and analyse, would address the unresolved quality of life and economic issues. 

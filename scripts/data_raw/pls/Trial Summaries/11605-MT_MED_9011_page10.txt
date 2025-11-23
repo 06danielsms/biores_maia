@@ -1,0 +1,13 @@
+The trial doctors also kept track of the “adverse events” that the participants had.
+
+In this summary, there is information about 2 different types of medical problems that the participants had during this trial after receiving trial treatment. 
+
+An adverse event is any medical problem that a participant has during a trial. Doctors keep track of all adverse events that happen in trials, whether or not these may be related to the trial treatments. An adverse reaction is different from an adverse event because it is reported by the doctor as possibly related to the trial treatments. 
+
+An adverse event or adverse reaction is considered “serious” when it is life-threatening, causes lasting problems, or requires hospital care.
+
+Adverse reactions are adverse events that the trial doctors think may be related to the treatments.
+
+Adverse events are all of the medical problems the participants had during this trial.
+
+Adverse reactions are medical problems the participants had reactions during this trial that the doctor reported as possibly related to the trial treatment.

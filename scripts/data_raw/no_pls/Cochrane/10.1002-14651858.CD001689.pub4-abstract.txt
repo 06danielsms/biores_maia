@@ -1,0 +1,48 @@
+Background
+Venous thromboembolism (VTE), although rare, is a major cause of maternal mortality and morbidity. Some women are at increased risk of VTE during pregnancy and the early postnatal period (e.g. caesarean section, family history of VTE, or thrombophilia), and so prophylaxis may be considered. As some methods of prophylaxis carry risks of adverse effects, and risk of VTE is often low, benefits of thromboprophylaxis may be outweighed by harms. 
+Objectives
+To assess the effects of thromboprophylaxis during pregnancy and the early postnatal period on the risk of venous thromboembolic disease and adverse effects in women at increased risk of VTE. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (18 October 2019). In addition, we searched ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform (ICTRP) for unpublished, planned and ongoing trial reports (18 October 2019). 
+Selection criteria
+Randomised trials comparing one method of thromboprophylaxis with placebo or no treatment, or two (or more) methods of thromboprophylaxis. 
+Data collection and analysis
+At least two review authors assessed trial eligibility, extracted data, assessed risk of bias, and judged certainty of evidence for selected critical outcomes (using GRADE). We conducted fixed‐effect meta‐analysis and reported data (all dichotomous) as summary risk ratios (RRs) with 95% confidence intervals (CIs). 
+Main results
+Twenty‐nine trials (involving 3839 women), overall at moderate to high risk of bias were included. Trials were conducted across the antenatal, peripartum and postnatal periods, with most in high‐income countries. Interventions included types and regimens of heparin (low molecular weight heparin (LMWH) and unfractionated heparin (UFH)), hydroxyethyl starch (HES), and compression stockings or devices. Data were limited due to a small number of trials in comparisons and/or few or no events reported. All critical outcomes (assessed for comparisons of heparin versus no treatment/placebo, and LMWH versus UFH) were considered to have very low‐certainty evidence, downgraded mainly for study limitations and imprecise effect estimates.  Maternal death was not reported in most studies. 
+Antenatal (± postnatal) prophylaxis 
+For the primary outcomes symptomatic thromboembolic events pulmonary embolism (PE) and/or deep vein thrombosis (DVT), and the critical outcome of adverse effects sufficient to stop treatment, the evidence was very uncertain.  
+Symptomatic thromboembolic events:
+‐ heparin versus no treatment/placebo (RR 0.39; 95% CI 0.08 to 1.98; 4 trials, 476 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (RR 0.47; 95% CI 0.09 to 2.49; 4 trials, 404 women; very low‐certainty evidence); 
+Symptomatic PE:
+‐ heparin versus no treatment/placebo (RR 0.33; 95% CI 0.02 to 7.14; 3 trials, 187 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (no events; 3 trials, 287 women);
+Symptomatic DVT:
+‐ heparin versus no treatment/placebo (RR 0.33; 95% CI 0.04 to 3.10; 4 trials, 227 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (no events; 3 trials, 287 women);
+Adverse effects sufficient to stop treatment:
+‐ heparin versus no treatment/placebo (RR 0.49; 95% CI 0.05 to 5.31; 1 trial, 139 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (RR 0.07; 95% CI 0.01 to 0.54; 2 trials, 226 women; very low‐certainty evidence). 
+Peripartum/postnatal prophylaxis 
+Vaginal or caesarean birth  
+When UFH and no treatment were compared, the effects on symptomatic thromboembolic events (RR 0.16; 95% CI 0.02 to 1.36; 1 trial, 210 women; very low‐certainty evidence), symptomatic PE (RR 0.16; 95% CI 0.01 to 3.34; 1 trial, 210 women; very low‐certainty evidence), and symptomatic DVT  (RR 0.27; 95% CI 0.03 to 2.55; 1 trial, 210 women; very low‐certainty evidence) were very uncertain.  Maternal death and adverse effects sufficient to stop treatment were not reported. 
+Caesarean birth  
+Symptomatic thromboembolic events:
+‐ heparin versus no treatment/placebo (RR 1.30; 95% CI 0.39 to 4.27; 4 trials, 840 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (RR 0.33; 95% CI 0.01 to 7.99; 3 trials, 217 women; very low‐certainty evidence); 
+Symptomatic PE:
+‐ heparin versus no treatment/placebo (RR 1.10; 95% CI 0.25 to 4.87; 4 trials, 840 women; very low‐certainty evidence); 
+‐ LMWH versus UFH (no events; 3 trials, 217 women); 
+Symptomatic DVT:
+‐ heparin versus no treatment/placebo (RR 1.30; 95% CI 0.24 to 6.94; 5 trials, 1140 women; very low‐certainty evidence); LMWH versus UFH (RR 0.33; 95% CI 0.01 to 7.99; 3 trials, 217 women; very low‐certainty evidence); 
+Maternal death:
+‐ heparin versus placebo (no events, 1 trial, 300 women);
+Adverse effects sufficient to stop treatment:
+‐ heparin versus placebo (no events;  1 trial, 140 women).
+Postnatal prophylaxis 
+No events were reported for LMWH versus no treatment/placebo for: symptomatic thromboembolic events, symptomatic PE and symptomatic DVT (all 2 trials, 58 women), or maternal death (1 trial, 24 women). Adverse effects sufficient to stop treatment were not reported. 
+We were unable to conduct subgroup analyses due to lack of data.
+Sensitivity analysis including the nine studies at low risk of bias did not impact overall findings. 
+Authors' conclusions
+The evidence is very uncertain about benefits and harms of VTE thromboprophylaxis in women during pregnancy and the early postnatal period at increased risk of VTE. Further high‐quality very large‐scale randomised trials are needed to determine effects of currently used treatments in women with different VTE risk factors. As sufficiently large definitive trials are unlikely to be funded, secondary data analyses based on high‐quality registry data are important. 

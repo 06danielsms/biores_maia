@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is one of the most frequently performed operations. Open cholecystectomy has been the gold standard for over 100 years. Laparoscopic cholecystectomy was introduced in the 1980s. 
+Objectives
+To compare the beneficial and harmful effects of laparoscopic versus open cholecystectomy for patients with symptomatic cholecystolithiasis. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (April 2004), The Cochrane Library (Issue 1, 2004), MEDLINE (1966 to January 2004), EMBASE (1980 to January 2004), Web of Science (1988 to January 2004), and CINAHL (1982 to January 2004) for randomised trials. 
+Selection criteria
+All published and unpublished randomised trials in patients with symptomatic cholecystolithiasis comparing any kind of laparoscopic cholecystectomy versus any kind of open cholecystectomy. No language limitations were applied. 
+Data collection and analysis
+Two authors independently performed selection of trials and data extraction. The methodological quality of the generation of the allocation sequence, allocation concealment, blinding, and follow‐up was evaluated to assess bias risk. Analyses were based on the intention‐to‐treat principle. Authors were requested additional information in case of missing data. Sensitivity and subgroup analyses were performed when appropriate. 
+Main results
+Thirty‐eight trials randomised 2338 patients. Most of the trials had high bias risk. There was no significant difference regarding mortality (risk difference 0,00, 95% confidence interval (CI) ‐0.01 to 0.01). Meta‐analysis of all trials suggests less overall complications in the laparoscopic group, but the high‐quality trials show no significant difference ('allocation concealment' high‐quality trials risk difference, random effects ‐0.01, 95% CI ‐0.05 to 0.02). Laparoscopic cholecystectomy patients have a shorter hospital stay (weighted mean difference (WMD), random effects ‐3 days, 95% CI ‐3.9 to ‐2.3) and convalescence (WMD, random effects ‐22.5 days, 95% CI ‐36.9 to ‐8.1) compared to open cholecystectomy. 
+Authors' conclusions
+No significant differences were observed in mortality, complications and operative time between laparoscopic and open cholecystectomy. Laparoscopic cholecystectomy is associated with a significantly shorter hospital stay and a quicker convalescence compared with the classical open cholecystectomy. These results confirm the existing preference for the laparoscopic cholecystectomy over open cholecystectomy. 

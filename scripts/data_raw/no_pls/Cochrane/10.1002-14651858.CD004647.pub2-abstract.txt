@@ -1,0 +1,14 @@
+Background
+The use of loop ileostomy or loop transverse colostomy represents an important issue in colorectal surgery. Despite a slight preference for a loop ileostomy as a temporary stoma, the best form for temporary decompression of colorectal anastomosis still remains controversial. 
+Objectives
+To assess the evidence in the use of loop ileostomy compared with loop transverse colostomy for temporary decompression of colorectal anastomosis, comparing the safety and effectiveness. 
+Search methods
+We identified randomised controlled trials from MEDLINE, EMBASE, Lilacs, and the Cochrane Central Register of Controlled Trials. Further, by hand‐searching relevant medical journals and proceedings from major gastroenterological congresses. We did not limit the seaches regarding date and language. 
+Selection criteria
+We assessed all randomised clinical trials, that met the objectives and reported major outcomes: 1. Mortality; 2. Wound infection; 3. Time of formation of stoma; 4. Time of closure of stoma; 5. Time interval between formation and closure of stoma; 6. Stoma prolapse; 7. Stoma retraction; 8. Parastomal hernia; 9. Parastomal fistula; 10. Stenosis; 11. Necrosis; 12. Skin irritation; 13. Ileus; 14. Bowel leakage; 15. Reoperation; 16. Patient adaptation; 17. Length of hospital stay; 18. Colorectal anastomotic dehiscence; 19. Incisional hernia; 20. Postoperative bowel obstruction. 
+Data collection and analysis
+Details of the randomisation, blinding, whether an intention‐to‐treat analysis was done, and the number of patients lost to follow‐up was recorded. For data analysis the relative risk and risk difference were used with corresponding 95% confidence interval; fixed effect was used for all outcomes unless incisional hernia (random effect model). Statistical heterogeneity in the results of the meta‐analysis was assessed by inspection of graphical presentation (funnel plot) and by calculating a test of heterogeneity. 
+Main results
+Five trials were included with 334 patients: 168 to loop ileostomy group and 166 to loop transverse colostomy group. The continuous outcomes could not be measured because of the lack of the data. The outcomes stoma prolapse had statistical significant difference: p=0.00001, but with statistical heterogeneity, p=0,001. When the sensitive analysis was applied excluding the trials that included emergencies surgeries, the result had a discreet difference: p = 0.02 and Test for heterogeneity: chi‐square = 0.78, df = 2, p = 0.68, I2=0%. 
+Authors' conclusions
+The best available evidence for decompression of colorectal anastomosis, either use of loop ileostomy or loop colostomy, could not be clarified from this review. So far, the results in terms of occurrence of postoperative stoma prolapse support the choice of loop ileostomy as a technique for fecal diversion for colorectal anastomosis, but large scale RCT's is needed to verify this. 

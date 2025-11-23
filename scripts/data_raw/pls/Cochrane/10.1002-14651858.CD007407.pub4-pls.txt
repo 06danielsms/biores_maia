@@ -1,0 +1,21 @@
+What are the benefits and risks of psychological therapies for adults with persistent and distressing pain that is neither cancer‐related nor a headache? 
+Why this question is important 
+Many people experience pain that lasts more than three months that is neither cancer‐related nor a headache. The search for a diagnosis and pain relief is often long and can be discouraging. For some, persistent pain leads to disability, depression, anxiety and social isolation. 
+Psychological treatments (talking and behaviour therapies) aim to help people change the way they manage pain, to minimise disability and distress. To find out how effective these treatments are when delivered by a trained psychologist, and whether they cause any unwanted (adverse) effects, we reviewed the research evidence. 
+How we identified and assessed the evidence 
+First, we searched for all relevant studies in the medical literature. We then compared the results, and summarised the evidence from all the studies. Finally, we assessed the quality of the evidence. We considered factors such as the way studies were conducted, study sizes, and consistency of findings across studies. Based on our assessments, we rated the evidence as being of very low, low, moderate or high certain quality. 
+What we found 
+We found 75 studies that included 9401 people with a range of chronic pain conditions, including fibromyalgia, chronic low back pain, rheumatoid arthritis, and a mixture of persistent pain conditions. The average age of participants was 50, and the average duration of their pain was nine years. In the studies, people were followed for up to three years after the end of their treatment. 
+Studies evaluated the following psychological treatments: cognitive behavioural therapy (CBT, 59 studies), behavioural therapy (BT, eight studies), acceptance and commitment therapy (ACT, five studies) or another psychological therapy (six studies). We report the findings for the main treatment that was evaluated, CBT. CBT focuses on changing the way someone thinks and behaves, to help them manage their symptoms better. Results are averages for the whole population studied: individuals within the population may change more or less than the average. 
+The evidence suggests that:
+‐ On average, compared to people who receive no treatment for their pain, people treated with CBT probably experience slightly less pain and distress by the end of the treatment and six to 12 months later (moderate‐quality evidence). They may also experience slightly less disability on average (low‐quality evidence). 
+‐ On average, compared to people who receive a non‐psychological treatment for their pain (such as an exercise programme, or education about managing pain), people treated with CBT probably experience very slightly less pain, disability and distress by the end of the treatment (moderate‐quality evidence). On average, six to 12 months later, they probably experience very slightly less pain and distress (moderate‐quality evidence), but levels of disability may be similar to those of people who received a non‐psychological treatment (low‐quality evidence). 
+We do not know if CBT causes more, fewer or similar numbers of adverse effects than no treatment or another treatment, because the evidence is of very low quality. 
+What this means 
+CBT has the largest evidence base of all the psychological therapies for persistent pain that we reviewed. The evidence indicates that : 
+‐ On average, when compared to no treatment or a non‐psychological treatment, CBT probably reduces pain and distress by small or very small amounts; 
+‐ On average, compared to no treatment, CBT may reduce levels of disability at the end of the treatment by a small amount. Compared to a non‐psychological treatment, CBT probably reduces disability at the end of the treatment by a very small amount on average. 
+‐ On average, compared to no treatment, CBT may make a small difference to disability six to 12 months after the treatment. Compared to a non‐psychological treatment, however, it may make little to no difference on average. 
+There is insufficient evidence to draw conclusions about the risks of CBT, and psychological therapies in general, for treating persistent pain. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to April 2020.

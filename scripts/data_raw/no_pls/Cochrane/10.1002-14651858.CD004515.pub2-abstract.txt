@@ -1,0 +1,14 @@
+Background
+Anxiety disorders are very common mental health problems in the general population and in primary care settings. Herbal medicines are popular and used worldwide and might be considered as a treatment option for anxiety if shown to be effective and safe. 
+Objectives
+To investigate the effectiveness and safety of valerian for treating anxiety disorders.
+Search methods
+Electronic searches: The Cochrane Collaboration Depression, Anxiety and Neurosis Cochrane Controlled Trials Register (CCDANCTR‐Studies and CCDANCTR‐References) searched on 04/08/2006, MEDLINE, Lilacs. References of all identified studies were inspected for additional studies. First authors of each included study, manufacturers of valerian products, and experts in the field were contacted for information regarding unpublished trials. 
+Selection criteria
+Randomised controlled trials (RCTs) and quasi‐randomised trials of valerian extract of any dose, regime, or method of administration, for people with any primary diagnosis of general anxiety disorder, anxiety neurosis, chronic anxiety status, or any other disorder in which anxiety is the primary symptom (panic disorder, obsessive compulsive disorder, social phobia, agoraphobia, other types of phobia, postraumatic stress disorder). Effectiveness was measured using clinical outcome measures and other scales for anxiety symptoms. 
+Data collection and analysis
+Two review authors independently applied inclusion criteria, extracted and entered data, and performed the trial quality assessments. Where disagreements occurred, the third review author was consulted. Methodological quality of included trials was assessed using Cochrane Handbook criteria. For dichotomous outcomes, relative risk (RR) was calculated, and for continuous outcomes, the weighted mean difference (WMD) was calculated, with their respective 95% confidence intervals. 
+Main results
+One RCT involving 36 patients with generalised anxiety disorder was eligible for inclusion. This was a 4 week pilot study of valerian, diazepam and placebo. There were no significant differences between the valerian and placebo groups in HAM‐A total scores, or in somatic and psychic factor scores. Similarly, there were no significant differences in HAM‐A scores between the valerian and diazepam groups, although based on STAI‐Trait scores, significantly greater symptom improvement was indicated in the diazepam group. There were no significant differences between the three groups in the number of patients reporting side effects or in dropout rates. 
+Authors' conclusions
+Since only one small study is currently available, there is insufficient evidence to draw any conclusions about the efficacy or safety of valerian compared with placebo or diazepam for anxiety disorders. RCTs involving larger samples and comparing valerian with placebo or other interventions used to treat of anxiety disorders, such as antidepressants, are needed. 

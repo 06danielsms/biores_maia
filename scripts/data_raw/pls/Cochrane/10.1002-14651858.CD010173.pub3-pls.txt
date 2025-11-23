@@ -1,0 +1,19 @@
+What are the most accurate tests for screening for cancer of the mouth (oral cancer) and conditions that may lead to oral cancer? 
+Key messages 
+‐ There is a lack of high‐certainty evidence to support the use of screening tests for cancer of the mouth and conditions that may lead to mouth cancer in the general population.‐ General dental practitioners and healthcare professionals should be watchful for signs of oral potentially malignant disorders (OPMD) and malignancies whilst performing routine oral examinations in practice for other common oral lesions/conditions. 
+Detection of oral cancer 
+Cancer of the mouth (oral cancer) is a serious condition, and only half of those that develop the disease will survive after 5 years. This is because it is often detected late. Early detection when the oral cancer is small or as a 'preceding' condition or lesion (which can become cancer) can result in simpler treatment and much better outcomes. As a result, there is a need to understand how good different types of tests are at the early detection of oral cancer and the lesions that precede it. 
+What did we want to find out? 
+The aim of this review was to find out the accuracy of different screening tests for cancer of the mouth and conditions that may lead to mouth cancer. 
+What did we do? 
+We searched for studies that reported the test accuracy of different screening tests in detecting cancer of the mouth or OPMDs during a screening procedure. Diagnosis of cancer of the mouth or OPMDs was provided by specialist clinicians or pathologists, or alternatively through follow‐up. We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We included 18 studies recruiting 72,202 participants, published between 1986 and 2019. These studies evaluated a conventional oral examination (COE) or visual inspection (10 studies), mouth self‐examination (four studies), and remote screening (three studies). One randomised controlled trial of test accuracy directly compared conventional oral examination plus vital rinsing with conventional oral examination alone. 
+No eligible studies evaluated the accuracy of tests of blood or saliva.
+There was substantial variation in the participants that were recruited, the setting, the prevalence of mouth cancer or OPMDs, and how the different tests were carried out, and so we were unable to pool the data. 
+‐ Most studies evaluated the accuracy of the different COEs (10 studies, 25,568 participants). The prevalence of mouth cancer or OPMDs in these studies ranged from 1% to 51%. For the seven COE studies with a prevalence of 10% or lower, a prevalence more comparable to the general population, the sensitivity estimates (proportion of true positives) ranged from 0.50 to 0.99 with specificity estimates (proportion of true negatives) from 0.94 to 0.99. 
+‐ Evidence for mouth self‐examination (4 studies, 35,059 participants) and remote screening (3 studies, 3600 participants) was more limited. 
+What are the limitations of the evidence? 
+We judged the overall certainty of the evidence for COE to be low and downgraded for the variation across studies and applicability of the study samples. We judged the overall certainty of the evidence for mouth self‐examination and remote screening to be very low, and downgraded for variation across studies, applicability of the study samples, and imprecise accuracy estimates. 
+How up to date is this evidence? 
+The evidence is up to date to October 2020.

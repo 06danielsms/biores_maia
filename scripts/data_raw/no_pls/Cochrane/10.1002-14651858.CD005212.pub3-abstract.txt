@@ -1,0 +1,14 @@
+Background
+After surgery for localised breast cancer, radiotherapy (RT) improves both local control and breast cancer‐specific survival. In patients at risk of harbouring micro‐metastatic disease, adjuvant chemotherapy (CT) improves 15‐year survival. However, the best sequence of administering these two types of adjuvant therapy for early‐stage breast cancer is unclear. 
+Objectives
+To determine the effects of different sequencing of adjuvant CT and RT for women with early breast cancer. 
+Search methods
+An updated search was carried out in the Cochrane Breast Cancer Group's Specialised Register (20 May 2011), MEDLINE (14 December 2011), EMBASE (20 May 2011) and World Health Organization (WHO) International Clinical Trials Registry Platform (20 May 2011). Details of the search strategy and methods of coding for the Specialised Register are described in the Group's module in The Cochrane Library. We extracted studies that had been coded as 'early', 'chemotherapy' and 'radiotherapy'. 
+Selection criteria
+We included randomised controlled trials evaluating different sequencing of CT and RT. 
+Data collection and analysis
+We assessed the eligibility and quality of the identified studies and extracted data from the published reports of the included trials. We derived odds ratios (OR) and hazard ratios (HR) from the available numerical data. Toxicity data were extracted, where reported. We used a fixed‐effect model for meta‐analysis and conducted analyses on the basis of the method of sequencing of the two treatments. 
+Main results
+Three trials reporting two different sequencing comparisons were identified. There were no significant differences between the various methods of sequencing adjuvant therapy for local recurrence‐free survival, overall survival, relapse‐free survival and metastasis‐free survival based on 1166 randomised women in three trials. Concurrent chemoradiation increased anaemia (OR 1.54; 95% confidence interval (CI) 1.10 to 2.15), telangiectasia (OR 3.85; 95% CI 1.37 to 10.87) and pigmentation (OR 15.96; 95% CI 2.06 to 123.68). Treated women did not report worse cosmesis with concurrent chemoradiation but physician‐reported assessments did (OR 1.14; 95% CI 0.42 to 3.07). Other measures of toxicity did not differ between the two types of sequencing. On the basis of one trial (244 women), RT before CT was associated with an increased risk of neutropenic sepsis (OR 2.96; 95% CI 1.26 to 6.98) compared with CT before RT, but other measures of toxicity did not differ. 
+Authors' conclusions
+The data included in this review, from three well‐conducted randomised trials, suggest that different methods of sequencing CT and RT do not appear to have a major effect on recurrence or survival for women with breast cancer if RT is commenced within seven months after surgery. 

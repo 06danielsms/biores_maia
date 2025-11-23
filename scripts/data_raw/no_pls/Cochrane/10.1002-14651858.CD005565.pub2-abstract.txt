@@ -1,0 +1,14 @@
+Background
+Corticosteroids are commonly used in treatment of acute and chronic graft‐versus‐host disease (GvHD). Nevertheless, there has been no systematic analysis of effects of their use on the patients' survival and quality of life. 
+Objectives
+To compare the effect of corticosteroids in treatment of patients with GvHD and to compare the effect of different regimens of corticosteroids. 
+Search methods
+We searched MEDLINE (up to July 2008), EMBASE (up to July 2008) and the Cochrane Controlled Trials Register (up to July 2008) to identify relevant studies. All of the references were assessed in order to identify additional trials. 
+Selection criteria
+Randomized controlled trials of any language were included in the study as long as they met any of the predefined comparisons of interest. The primary outcome in question was the overall survival of the patients. Due to lack of evidence, inclusion criteria was revised during the process of the review to include studies comparing different dosage of corticosteroids. 
+Data collection and analysis
+All derived citations and abstracts were screened by two independent review authors for relevance. For the potentially relevant trials, the full text was obtained and reviewed by two review authors independently. Two review authors completed data extraction independently. After revising the inclusion criteria, this process was retried to ensure all relevant evidence is included in the review. 
+Main results
+No studies met the original inclusion criteria but two studies (four articles) met the revised inclusion criteria. As they addressed different clinical questions, meta‐analysis was not performed. The outcomes of one study were in favor of efficacy of corticosteroids in inducing an earlier remission of acute GvHD, while the other study reported that early corticosteroid therapy of acute GvHD could not prevent progression of the disease to higher grades, although it was accompanied by a slightly better prognosis in the patients who responded by the fifth day of treatment. 
+Authors' conclusions
+There is no certain study regarding appropriate use, dose and length of therapy for acute GvHD. Further studies are needed to define the appropriate use of steroids and whether other agents are appropriate as frontline therapy. 

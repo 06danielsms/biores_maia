@@ -1,0 +1,14 @@
+Background
+Parecoxib was the first COX‐2 available for parenteral administration, and may, given intravenously or intramuscularly, offer advantages over oral medication when patients have nausea and vomiting or are unable to swallow, such as in the immediate postoperative period. 
+Objectives
+Assess the efficacy of single dose intravenous or intramuscular parecoxib in acute postoperative pain, the requirement for rescue medication, and any associated adverse events. 
+Search methods
+We searched Cochrane CENTRAL, MEDLINE, EMBASE in November 2008.
+Selection criteria
+Randomised, double‐blind, placebo‐controlled clinical trials of parecoxib compared with placebo for relief of acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. The area under the “pain relief versus time” curve was used to derive the proportion of participants with parecoxib and placebo experiencing at least 50% pain relief over 6 hours, using validated equations. The number‐needed‐to‐treat‐to‐benefit (NNT) was calculated using 95% confidence intervals (CI). The proportion of participants using rescue analgesia over a specified time period, and time to use of rescue analgesia, were sought as additional measures of efficacy. Information on adverse events and withdrawals were also collected. 
+Main results
+Seven studies (1446 participants) were included. There was no significant difference between doses, or between intravenous and intramuscular administration for 50% pain relief over 6 hours: NNTs compared with placebo were 3.1 (2.4 to 4.5), 2.4 (2.1 to 2.8), and 1.8 (1.5 to 2.3) for 10, 20, and 40 mg parecoxib respectively. Fewer participants required rescue medication over 24 hours with parecoxib than placebo: parecoxib 40 mg was significantly better than parecoxib 20 mg (NNTs to prevent use of rescue medication 7.5 (5.3 to 12.8) and 3.3 (2.6 to 4.5) respectively; P < 0.0007). Median time to use of rescue medication was 3.1 hours, 6.9 hours and 10.6 hours with parecoxib 10 mg, 20 mg and 40 mg respectively, and 1.5 hours with placebo. Adverse events were generally mild to moderate, rarely led to withdrawal, and did not differ in frequency between groups. No serious adverse events were reported with parecoxib or placebo. 
+Authors' conclusions
+A single dose of parecoxib 20 mg or 40 mg provided effective analgesia for 50 to 60% of those treated compared to about 15% with placebo, and was well tolerated. Duration of analgesia was longer, and significantly fewer participants required rescue medication over 24 hours with the higher dose. 

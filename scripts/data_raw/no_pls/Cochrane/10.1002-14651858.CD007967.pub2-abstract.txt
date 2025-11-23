@@ -1,0 +1,18 @@
+Background
+Antipsychotic medication remains the mainstay of treatment for schizophrenia and has been in use for a long time. As evidenced by ongoing research and partial effectiveness of the antipsychotics on cognitive and negative symptoms, the search is on for drugs that may improve these domains of functioning for someone suffering from schizophrenia. Acetylcholinesterase inhibitors have long been in use for treating cognitive symptoms of dementia. 
+Objectives
+The aim of the review was to evaluate the clinical effects, safety and cost effectiveness of acetylcholinesterase inhibitors for treating people with schizophrenia 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (February 2009), and inspected the references of all identified studies for further trials. 
+Selection criteria
+We included all clinical randomised trials comparing acetylcholinesterase inhibitors with antipsychotics or placebo either alone, or in combination, for schizophrenia and schizophrenia‐like psychoses. 
+Data collection and analysis
+We extracted data independently. For dichotomous data, we calculated risk ratios (RR) and their 95% confidence intervals (CI) on an intention‐to‐treat (ITT) basis based on a random‐effects model. For continuous data, we calculated mean differences (MD), again based on a random‐effects model. 
+Main results
+The acetylcholinesterase inhibitor plus antipsychotic showed benefit over antipsychotic and placebo in the following outcomes. 
+1. Mental state ‐ PANSS negative symptoms average end point score (2 RCTs, n = 31, MD ‐1.69 95% CI ‐2.80 to ‐0.57), PANSS General Psychopathology average end point score (2 RCTs, n = 31, MD ‐3.86 95% CI ‐5.40 to ‐2.32), and improvement in depressive symptoms showed at least by one short‐term study as measured by CDSS scale (data skewed). 
+2. Cognitive domains ‐ attention, (1 RCT, n = 73, MD 1.20 95% CI 0.14 to 2.26), visual memory (2 RCTs, n = 48 , MD 1.90 95% CI 0.52 to 3.28), verbal memory and language (3 RCTs, n = 42, MD 3.46 95% CI 0.67 to 6.26) and executive functioning (1 RCT, n = 24, MD 17.10 95% CI 0.70 to 33.50). 
+3. Tolerability ‐ EPSE: AIMS, (1 RCT, n = 35, MD 1.50 95% CI 1.04 to 1.96).
+No difference was noted between the two arms in other outcomes. The overall rate of participants leaving studies early was low (13.6 %) and showed no clear difference between the two groups. 
+Authors' conclusions
+The results seem to favour the use of acetylcholinesterase inhibitors in combination with antipsychotics on a few domains of mental state and cognition, but because of the various limitations in the studies as mentioned in the main text, the evidence is weak. This review highlights the need for large, independent, well designed, conducted and reported pragmatic randomised studies. 

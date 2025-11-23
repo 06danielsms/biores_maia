@@ -1,0 +1,18 @@
+The chart below shows the treatment plan for the participants. The doses of treatment were measured in milligrams, also known as "mg".
+
+Group 1: 26 participants
+Group 2: 19 participants
+Group 3: 12 participants
+Group 4: 12 participants
+
+Had not already had treatment:
+- acalabrutinib: as a capsule by mouth
+- obinutuzumab: through a needle into a vein
+- venetoclax: as a tablet by mouth
+
+Had already had treatment:
+- acalabrutinib: twice daily
+- obinutuzumab: four times in the second cycle, then once at the start of each cycle for 5 cycles
+- venetoclax: once a day in the third cycle starting at a very low dose. This slowly got higher to 400 mg a day. This was then taken once a day until the end of cycle 15
+
+Participants stayed in the trial until their cancer got worse, or they decided to leave the trial. The participants were able to stay in the trial for as long as the doctors felt the trial treatment was helping them.

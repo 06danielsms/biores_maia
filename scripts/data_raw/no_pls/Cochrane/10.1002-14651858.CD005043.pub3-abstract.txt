@@ -1,0 +1,33 @@
+Background
+Intimate partner abuse is common worldwide, damaging the short‐ and long‐term physical, mental, and emotional health of survivors and children. Advocacy may contribute to reducing abuse, empowering women to improve their situation by providing informal counselling and support for safety planning and increasing access to different services. Advocacy may be a stand‐alone service, accepting referrals from healthcare providers, or part of a multi‐component (and possibly multi‐agency) intervention provided by service staff or others. 
+Objectives
+To assess the effects of advocacy interventions within or outside healthcare settings in women who have experienced intimate partner abuse. 
+Search methods
+In April 2015, we searched CENTRAL, Ovid MEDLINE, EMBASE, and 10 other databases. We also searched WHO ICTRP, mRCT, and UK Clinical Research Network (UKCRN), and examined relevant websites and reference lists with forward citation tracking of included studies. For the original review we handsearched six key journals. We also contacted first authors of eligible papers and experts in the field. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials comparing advocacy interventions for women with experience of intimate partner abuse versus no intervention or usual care (if advocacy was minimal and fewer than 20% of women received it). 
+Data collection and analysis
+Two review authors independently assessed risk of bias and undertook data extraction. We contacted authors for missing information needed to calculate statistics for the review and looked for adverse events. 
+Main results
+We included 13 trials involving 2141 participants aged 15 to 65 years, frequently having low socioeconomic status. 
+The studies were quite heterogeneous in terms of methodology, study processes and design, including with regard to the duration of follow‐up (postintervention to three years), although this was not associated with differences in effect. The studies also had considerable clinical heterogeneity in relation to staff delivering advocacy; setting (community, shelter, antenatal, healthcare); advocacy intensity (from 30 minutes to 80 hours); and abuse severity. Three trials evaluated advocacy within multi‐component interventions. Eleven measured some form of abuse (eight scales), six assessed quality of life (three scales), and six measured depression (three scales). Countries and ethnic groups varied (one or more minority ethnic groups in the USA or UK, and local populations in Hong Kong and Peru). Setting was associated with intensity and duration of advocacy. 
+Risk of bias was high in five studies, moderate in five, and low in three. The quality of evidence (considering multiple factors such as risk of bias, study size, missing data) was moderate to low for brief advocacy and very low for intensive advocacy. 
+Incidence of abuse 
+Physical abuse 
+Moderate quality pooled data from two healthcare studies (moderate risk of bias) and one community study (low risk of bias), all with 12‐month follow‐up data, showed no effect on physical abuse for brief (< 12 hours) advocacy interventions (standardised mean difference (SMD) 0.00, 95% confidence interval (CI) ‐ 0.17 to 0.16; n = 558). One antenatal study (low risk of bias) showed an association between brief advocacy and reduced minor physical abuse at one year (mean difference (MD) change ‐ 1.00, 95% CI ‐ 1.82 to ‐ 0.18; n = 110). An antenatal, multi‐component study showed a greater likelihood of physical abuse ending (odds ratio (OR) 0.42, 95% CI 0.23 to 0.75) immediately after advocacy (number needed to treat (NNT) = 8); we cannot exclude impact from other components. 
+Low to very low quality evidence from two intensive advocacy trials (12 hours plus duration) showed reduced severe physical abuse in women leaving a shelter at 24 months (OR 0.39, 95% CI 0.20 to 0.77; NNT = 8), but not at 12 or 36 months. 
+Sexual abuse 
+Meta‐analysis of two studies (n = 239) showed no effect of advocacy on sexual abuse (SMD ‐ 0.12, 95% CI ‐ 0.37 to 0.14), agreeing with the change score (MD ‐ 0.07, 95% CI ‐ 0.30 to 0.16) from a third study and the OR (0.96, 95% CI 0.44 to 2.12) from a fourth antenatal, multi‐component study. 
+Emotional abuse 
+One study in antenatal care, rated at low risk of bias, showed reduced emotional abuse at ≤ 12‐month follow‐up (MD (change score) ‐ 4.24, 95% CI ‐ 6.42 to ‐ 2.06; n = 110). 
+Psychosocial health 
+Quality of life 
+Meta‐analysis of two studies (high risk of bias) showed intensive advocacy slightly improved overall quality of life of women recruited from shelters (MD 0.23, 95% CI 0.00 to 0.46; n = 343) at 12‐month follow‐up, with greater improvement in perceived physical quality of life from a primary care study (high risk of bias; MD 4.90, 95% CI 0.98 to 8.82) immediately postintervention. 
+Depression 
+Meta‐analysis of two studies in healthcare settings, one at high risk of bias and one at moderate risk, showed that fewer women developed depression (OR 0.31, 95% CI 0.15 to 0.65; n = 149; NNT = 4) with brief advocacy. One study at high risk of bias reported a slight reduction in depression in pregnant women immediately after the intervention (OR 0.51, 95% CI 0.20 to 1.29; n = 103; NNT = 8). 
+There was no evidence that intensive advocacy reduced depression at ≤ 12‐month follow‐up (MD ‐ 0.14, 95% CI ‐ 0.33 to 0.05; 3 studies; n = 446) or at two years (SMD − 0.12, 95% CI − 0.36 to 0.12; 1 study; n = 265). 
+Adverse effects 
+Two women died, one who was murdered by her partner and one who committed suicide. No evidence links either death to study participation. 
+Authors' conclusions
+Results suggest some benefits from advocacy. However, most studies were underpowered. Clinical and methodological heterogeneity largely precluded pooling of trials. Therefore, there is uncertainty about the magnitude of benefit, the impact of abuse severity, and the setting. 
+Based on the evidence reviewed, intensive advocacy may improve short‐term quality of life and reduce physical abuse one to two years after the intervention for women recruited from domestic violence shelters or refuges. Brief advocacy may provide small short‐term mental health benefits and reduce abuse, particularly in pregnant women and for less severe abuse. 

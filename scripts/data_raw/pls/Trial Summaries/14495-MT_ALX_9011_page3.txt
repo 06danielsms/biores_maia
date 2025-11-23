@@ -1,0 +1,19 @@
+What treatments are available for PNH?
+Ravulizumab and eculizumab (trade name: Soliris®), known as complement inhibitors, aim to prevent the destruction of the red blood cells, improve common symptoms of PNH, and prevent life-threatening complications.
+Complement inhibitors work by sticking to a protein in the blood called C5, which helps stop the red blood cells from breaking down.
+
+Complement inhibitor | Protective protein | Less destruction
+------------------- | ------------------ | ----------------
+treatment given directly shields red blood happening to red
+into the bloodstream  | cell from attack   | blood cell
+
+What were the treatments used in this study?
+There were 2 groups in the study. Each group was given different doses of ravulizumab by an infusion. An infusion means it was administered directly into the bloodstream via a drip.
+
+GROUP 1     | GROUP 2
+----------- | -------------
+400 mg or 600 mg on Day 1, 400 mg on Day 8* | 600 mg on Day 1, 600 mg on Day 15, 900 mg on Day 15, then 1800 mg on Day 29
+then 900 mg on Day 29 | and once every 4 weeks after that.
+and once every 4 weeks after that. | 
+Patients in both groups had an end of treatment visit on Day 169, which was around 24 weeks of treatment.
+*Not all patients in Group 1 got a 400 mg infusion on Day 8.

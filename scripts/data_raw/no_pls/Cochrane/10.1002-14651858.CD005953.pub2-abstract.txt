@@ -1,0 +1,14 @@
+Background
+The EC/IC Bypass Study Group found no benefit of extracranial to intracranial (EC/IC) bypass surgery over medical therapy in patients with symptomatic carotid artery occlusion (sCAO). However, the study was criticised for many reasons and the real effect of this treatment is still not known conclusively. 
+Objectives
+To determine whether bypass surgery plus medical care is superior to medical care alone in patients with sCAO. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched June 2009). In addition, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 2, 2006), MEDLINE (1966 to June 2009) and EMBASE (1980 to June 2009). We also searched ongoing trials and research registers, checked reference lists of relevant articles, and contacted colleagues, trial authors and researchers. 
+Selection criteria
+Randomised controlled trials (RCT) and non‐random studies of EC/IC bypass surgery plus best medical treatment compared with best medical treatment alone to prevent subsequent stroke, improve cerebral haemodynamics and reduce dependency after stroke. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, and extracted data items on the number of outcome events onto a data extraction form. We only analysed secondary outcomes if the study provided information on at least one primary outcome. We also used intention‐to‐treat analysis where possible. 
+Main results
+We included 21 trials, including two RCTs, involving 2591 patients. For all endpoints, no benefit of EC/IC bypass surgery was shown either in the RCTs (any death: odds ratio (OR) 0.81, 95% confidence interval (CI) 0.62 to 1.05, P = 0.11; stroke: OR 0.99, 95% CI 0.79 to 1.23, P = 0.91; death and dependency: OR 0.94, 95% CI 0.74 to 1.21, P = 0.64), or in the non‐RCTs (any death: OR 1.00, 95% CI 0.62 to 1.62, P = 0.99; stroke: OR 0.80, 95% CI 0.54 to 1.18, P = 0.25; death and dependency: OR 0.80, 95% CI 0.50 to 1.29, P = 0.37). 
+Authors' conclusions
+EC/IC bypass surgery in patients with sCAO disease was neither superior nor inferior to medical care alone. However, most studies included patients irrespective of their cerebral haemodynamics. Participation in an ongoing RCT, which is restricted to patients with impaired haemodynamics, is recommended as these patients might benefit from bypass surgery. 

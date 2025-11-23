@@ -1,0 +1,13 @@
+Transcutaneous electrical nerve stimulation (TENS) for chronic neck pain
+Review question 
+What are the benefits and harms of TENS for people with chronic (> 12 weeks) neck pain? 
+Background 
+Chronic neck pain is defined as any continuous pain in the region of the cervical spine that extends from the base of the head to the upper shoulder, lasting 12 weeks or more, usually associated with reduced neck movement. TENS is a popular treatment for chronic neck pain. It is based on the use of a device that delivers an electric current to the skin, to promote pain relief. Although TENS is widely used in clinical practice, there is a lack of evidence about its benefits and harms for people with chronic neck pain. 
+Search date 
+We included studies published up to 9 November 2018.
+Study characteristics 
+We included seven studies that enrolled a total of 651 participants (mean age 31.7 to 55.5 years) with chronic neck pain. Each study included between 30 and 218 participants. The participants received TENS or a control intervention (placebo or another type of treatment). The studies were very different in terms of the duration of the TENS sessions (from 20 to 60 minutes), number of sessions (from 1 to 12) and total duration of the treatment programmes (from 1 to 45 days). 
+Key results 
+Because of the differences between each of the included studies, we decided that it would not be appropriate to combine their results. Out of the seven studies included, two reported that TENS was no better than inactive treatment (placebo) in reducing the participants' neck pain. None of the included studies assessed disability or adverse events. 
+Certainty of evidence 
+There was very low‐certainty evidence about the effects of TENS for treating chronic neck pain. 

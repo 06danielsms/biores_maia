@@ -1,0 +1,14 @@
+Background
+Aortic dissection is a potentially life‐threatening condition that occurs when a tear forms in the inner lining of the aorta. It has traditionally been treated by blood pressure control (medical treatment) or open surgery, both with high mortality rates. More recently stent‐graft repair has been suggested as an alternative. 
+Objectives
+To identify the best management for uncomplicated (without rupture of the organs or malperfusion of the extremities) subacute or chronic type B aortic dissection. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched their Specialised Register (last searched May 2012) and CENTRAL (2012, Issue 4). Clinical trials databases were searched for ongoing or unpublished studies. 
+Selection criteria
+All randomised controlled trials designed to compare the outcome of uncomplicated (without rupture of the organs or malperfusion of the extremities) chronic (occurring more than two weeks previously) type B aortic dissection when treated by stenting adjunctive to best medical treatment versus best medical treatment alone were included. 
+Data collection and analysis
+Data on all cause and aorta‐related mortality at two years was collected and analysed. In addition, secondary outcome measures were analysed, including morbidity, complications (additional endovascular or open surgery for rupture, expansion or malperfusion) and quality of life. 
+Main results
+A single trial was identified that fulfilled the inclusion criteria (INSTEAD trial). The two‐year all cause survival was not statistically significantly different between study groups (95.6% ± 2.5% in the optimised medical therapy (OMT) group and 88.9% ± 3.7% in the thoracic endovascular aneurysm repair (TEVAR) + OMT group; log rank test P = 0.15). 
+Authors' conclusions
+Overall, the data at two years were insufficient to make any practice recommendations. However, the data on the anatomic remodeling of dissected aortas observed after TEVAR + OMT is encouraging and future studies should follow up cases for at least five years to see if early endovascular interventions, even in stable initially uncomplicated type B patients, are of long‐term benefit. 

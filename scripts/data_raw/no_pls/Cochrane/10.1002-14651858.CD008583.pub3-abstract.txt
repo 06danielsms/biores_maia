@@ -1,0 +1,14 @@
+Background
+Ovulatory disturbance is a key diagnostic feature of polycystic ovarian syndrome (PCOS), leading to infertility and correspondingly heavy disease burden. Many therapeutic strategies have been used to induce ovulation for women with PCOS who are infertile. Ultrasound‐guided transvaginal ovarian needle drilling (UTND) is a novel surgical method used to induce ovulation for women with clomiphene‐resistant PCOS at the outpatient clinic.  
+Objectives
+To evaluate the efficacy and safety of UTND for subfertile women with clomiphene‐resistant PCOS. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register, CENTRAL, MEDLINE, Embase, and other databases to December 2020. We checked conference abstracts, reference lists, and clinical trials registries. We also contacted experts and specialists in the field for any additional trials . 
+Selection criteria
+We planned to include randomised controlled trials comparing UTND to laparoscopic ovarian drilling, and UTND combined with gonadotropins to gonadotropins, in women of reproductive age with clomiphene‐resistant PCOS and infertility. 
+Data collection and analysis
+Two review authors independently screened the trials identified by the search for inclusion, assessed methodological quality and risk of bias, and extracted data. The primary outcomes were live birth rate and incidence of surgical complications (bleeding and infection). Secondary outcomes included pregnancy rate, ovulation rate, and ovarian hyperstimulation syndrome. We planned to calculate odds ratios with 95% confidence intervals for dichotomous data. We would assess overall quality of the evidence by applying the GRADE criteria. 
+Main results
+We did not identify any trials for inclusion in the review. We were unable to assess the benefit or harm of applying UTND for women with clomiphene‐resistant PCOS, as no studies could be included in the current review. We moved the previously included trials to studies awaiting classification due to concerns regarding methodology. 
+Authors' conclusions
+Since we did not identify any studies for inclusion, we were unable to assess the benefit or harm of applying UTND for women with clomiphene‐resistant PCOS. 

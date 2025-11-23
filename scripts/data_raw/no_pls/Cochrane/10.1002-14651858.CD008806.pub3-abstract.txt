@@ -1,0 +1,19 @@
+Background
+Every day children and adults die from acute community‐acquired bacterial meningitis, particularly in low‐income countries, and survivors risk deafness, epilepsy and neurological disabilities. Osmotic therapies may attract extra‐vascular fluid and reduce cerebral oedema, and thus reduce death and improve neurological outcomes. 
+This is an update of a Cochrane Review first published in 2013.
+Objectives
+To evaluate the effects of osmotic therapies added to antibiotics for acute bacterial meningitis in children and adults on mortality, deafness and neurological disability. 
+Search methods
+We searched CENTRAL (2017, Issue 1), MEDLINE (1950 to 17 February 2017), Embase (1974 to 17 February 2017), CINAHL (1981 to 17 February 2017), LILACS (1982 to 17 February 2017) and registers of ongoing clinical trials (ClinicalTrials.com, WHO ICTRP) (21 February 2017). We also searched conference abstracts and contacted researchers in the field (up to 12 December 2015). 
+Selection criteria
+Randomised controlled trials testing any osmotic therapy in adults or children with acute bacterial meningitis. 
+Data collection and analysis
+Two review authors independently screened the search results and selected trials for inclusion. Results are presented using risk ratios (RR) and 95% confidence intervals (CI) and grouped according to whether the participants received steroids or not. We used the GRADE approach to assess the certainty of the evidence. 
+Main results
+We included five trials with 1451 participants. Four trials evaluated glycerol against placebo, and one evaluated glycerol against 50% dextrose; in addition three trials evaluated dexamethasone and one trial evaluated acetaminophen (paracetamol) in a factorial design. Stratified analysis shows no effect modification with steroids; we present aggregate effect estimates. 
+Compared to placebo, glycerol probably has little or no effect on death in people with bacterial meningitis (RR 1.08, 95% CI 0.90 to 1.30; 5 studies, 1272 participants; moderate‐certainty evidence), but may reduce neurological disability (RR 0.73, 95% CI 0.53 to 1.00; 5 studies, 1270 participants; low‐certainty evidence). 
+Glycerol may have little or no effect on seizures during treatment for meningitis (RR 1.08, 95% CI 0.90 to 1.30; 4 studies, 1090 participants; low‐certainty evidence). 
+Glycerol may reduce the risk of subsequent deafness (RR 0.64, 95% CI 0.44 to 0.93; 5 studies, 922 participants; low to moderate‐certainty evidence). 
+Glycerol probably has little or no effect on gastrointestinal bleeding (RR 0.93, 95% CI 0.39 to 2.19; 3 studies, 607 participants; moderate‐certainty evidence). The evidence on nausea, vomiting and diarrhoea is uncertain (RR 1.09, 95% CI 0.81 to 1.47; 2 studies, 851 participants; very low‐certainty evidence). 
+Authors' conclusions
+Glycerol was the only osmotic therapy evaluated, and data from trials to date have not demonstrated an effect on death. Glycerol may reduce neurological deficiency and deafness. 

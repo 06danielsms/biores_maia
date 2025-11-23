@@ -1,0 +1,27 @@
+Rapid diagnostic tests for plague
+Why is improving diagnosis of plague important? 
+Plague is a severe disease associated with high death rates. Pneumonic plague mainly affects the lungs, while bubonic plague present with painful swellings. Not recognizing plague early may result in delayed diagnosis and treatment associated with advanced illness and death, and increased disease spread. A rapid diagnostic test (RDT) could help prompt diagnosis of plague, especially in low‐resource settings. This would improve patient care and help appropriate response to avoid the disease spread. 
+What is the aim of this review? 
+To assess the accuracy of the F1RDT for detecting plague in people with suspected plague. 
+What was studied in this review? 
+F1RDT is a test that detects the F1 antigen, which is part of the outer surface of Yersinia pestis, the bacteria causing plague. The test is simple to perform and provides a result within 15 minutes. It can be performed in the pus contained in the buboes (swellings), or in the sputum (mucous coughed up from the respiratory tract) of people with suspected pneumonic plague. We measured the results of F1RDT against culture, molecular test, or serological tests. 
+What are the main results? 
+Seven studies (reported in eight manuscripts) provided findings of F1RDT used in people with suspected plague in three African countries. 
+For any form of plague and when compared to culture, F1RDT registered positive in 100% (sensitivity, which measures a test's ability to correctly identify a positive result for the disease) of people who had plague and registered negative in 70% of people who actually did not have plague (specificity, which measures a test's ability to correctly generate a negative result for people who do not have the condition that is being tested for). 
+For pneumonic plague, sensitivity was 100% and specificity 71% compared to culture.
+For bubonic plague, sensitivity was 100% and specificity 67% compared to culture. Compared to a molecular test for bubonic plague, sensitivity was 95% and specificity 93%. 
+How confident are we in the review's results? 
+Overall, the reliability of the evidence was very low. Results should be interpreted with caution. There were concerns about the quality of the methodology of all included studies. Also, culture might not work well as a reference standard (comparator) when people received antibiotics before sample collection for testing. 
+What do the results mean? 
+In a hypothetical population of 1000 people:
+• with symptoms of pneumonic plague where 40 of them have the disease confirmed by culture, the utilization of F1RDT would result in: 318 people to be F1RDT‐positive, of which 278 would not have pneumonic plague (called false positives); and 682 people to be F1RDT‐negative, of which none would have pneumonic plague (called false negatives). 
+• with symptoms of bubonic plague where 40 of them have the disease confirmed by culture, the utilization of F1RDT would result in: 357 people to be F1RDT‐positive, of which 317 would not have bubonic plague (false positives); and 643 people to be F1RDT‐negative, of which none would have bubonic plague (false negatives). 
+• with symptoms of bubonic plague where 40 of them have the disease confirmed by molecular test, the utilization of F1RDT would result in: 105 people to be F1RDT‐positive, of which 67 would not have bubonic plague (false positives); and 895 people to be F1RDT‐negative, of which two would have bubonic plague (false negatives). 
+Who do the review's results apply to? 
+Adults and children with suspected bubonic or pneumonic plague.
+What are the implications of this review? 
+F1RDT appears to be highly sensitive for pneumonic or bubonic plague. As a simple test that can be performed at a patient's bedside in remote and low‐resource areas, F1RDT can assist with plague diagnosis for early management, and appropriate preventive measures to avoid spread of the disease. 
+The number of false positives (people with a positive F1RDT but who do not have plague) indicate that F1RDT may need to be combined with other laboratory evaluations (culture or molecular test) to confirm the diagnosis of plague. 
+F1RDT does not replace culture, which provides additional information on resistance to antibiotics and bacterial strains. 
+How up‐to‐date is this review? 
+The review authors searched for studies up to 15 May 2019.

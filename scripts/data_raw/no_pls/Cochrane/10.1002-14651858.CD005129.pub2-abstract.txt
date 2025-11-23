@@ -1,0 +1,14 @@
+Background
+Cytomegalovirus (CMV) is the most common virus causing disease and death in solid organ transplant recipients during the first six months post‐transplant. Previous systematic reviews have demonstrated the efficacy of antiviral medications used prophylactically or pre‐emptively in preventing CMV disease. In this review the efficacy of older agents (immunoglobulins (IgG), anti CMV vaccines and interferon) are examined. 
+Objectives
+To assess the benefits and harms of IgG, anti CMV vaccines or interferon for preventing symptomatic CMV disease in solid organ transplant recipients. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, in The Cochrane Library), MEDLINE, EMBASE, reference lists and abstracts from conference proceedings without language restriction.  Date of last search: December 2005 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing IgG, anti CMV vaccine or interferon with placebo or no treatment, IgG alone or combined with antiviral medications with antiviral medications or IgG alone in recipients of any solid organ transplant. 
+Data collection and analysis
+Two of four authors independently assessed study quality and extracted data from each study. Statistical analyses were performed using the random effects model and results expressed as relative risk (RR) for dichotomous outcomes with 95% confidence intervals (CI). 
+Main results
+Thirty seven studies (2185 participants) were included in this review. There was no significant difference in the risk for CMV disease (16 studies, 770 patients: RR 0.80, 95% CI 0.61 to 1.05), CMV infection (14 studies, 775 patients: RR 0.94, 95% CI 0.80 to 1.10) or all‐cause mortality (8 studies, 502 patients: RR 0.57, 95% CI 0.32 to 1.03) with IgG compared with placebo/no treatment. However IgG significantly reduced the risk of death from CMV disease (6 studies, 346 patients: RR 0.33, 95% CI 0.14 to 0.80). There was no difference in the risk for CMV disease (4 studies, 298 patients: RR 1.17, 95% CI 0.74 to 1.86), CMV infection (4 studies, 298 patients: RR 1.16, 95% CI 0.89 to 1.52) or all‐cause mortality (2 studies, 217 patients: RR 0.92, 95% CI 0.37 to 2.29) between antiviral medication combined with IgG and antiviral medication alone. There was no significant difference in the risk of CMV disease with anti CMV vaccine or interferon compared with placebo or no treatment. 
+Authors' conclusions
+Currently there are no indications for IgG in the prophylaxis of CMV disease in recipients of solid organ transplants. 

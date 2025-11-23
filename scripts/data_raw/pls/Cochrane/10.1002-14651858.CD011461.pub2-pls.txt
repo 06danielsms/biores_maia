@@ -1,0 +1,11 @@
+Effect of molecular‐targeted therapy on the progress and survival of people in the late stages of stomach cancer 
+Review question 
+Does molecular‐targeted therapy (a type of treatment specifically targeting cancer cells) benefit people with late‐stage stomach cancer? 
+Background 
+Due to the lack of clinical symptoms, many stomach cancers are diagnosed at a very late stage (stage III or stage IV), for which surgery cannot be the best option anymore. The effects of chemotherapy and radiotherapy on late‐stage stomach cancer are very limited, leading to a low possibility of survival for people with the disease (fewer than one in five people survive for longer than five years). Recent research suggested that molecular‐targeted therapy may prolong the survival time for people with late‐stage stomach cancer. However, the therapeutic benefit of this treatment is still under debate. 
+Study characteristics 
+We searched databases until December 2015 for randomized controlled trials (clinical trials where people are randomly allocated to one of two or more treatment groups) in adults (aged 18 years or over), diagnosed with late‐stage stomach cancer. We found 11 trials (4014 participants) that met our selection requirements and randomized people to receive targeted treatment plus chemotherapy or chemotherapy alone. 
+Key results 
+Adding molecular‐targeted treatment to chemotherapy may have a small effect on survival and on stopping further development of the disease, compared with chemotherapy alone, but the evidence is of low quality. The treatment may increase the likelihood that tumors get smaller (low‐quality evidence), but there is insufficient evidence to know how much of a difference it can make to the person's quality of life (very low‐quality evidence). It probably increases the risk of adverse events and serious adverse events (moderate‐quality evidence). 
+Quality of the evidence 
+Currently, the evidence is of low quality for survival outcomes, mainly due to the type of study design, and the inconsistencies between the results of individual studies. We therefore suggest that well‐designed clinical trials should be performed, to improve the evidence base. 

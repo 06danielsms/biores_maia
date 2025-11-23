@@ -1,0 +1,14 @@
+Background
+Involvment of the shoulder joint in patients with rheumatoid arthritis (RA) leads to severe destruction of the glenohumeral joint. When conservative treatment does not result in sufficient improvement, surgical procedures may be considered as the only beneficial treatment option. 
+Objectives
+To assess beneficial and harmful effects of all forms of surgical treatment in the management of the shoulder in people with rheumatoid arthritis. 
+Search methods
+Articles were identified by searches in The Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, SCISEARCH and reference lists of relevant articles (January 1995 to May 2008). 
+Selection criteria
+Randomised Controlled Trials, and Controlled Clinical Trials reporting on effects of shoulder surgery. In addition case‐series were included for the assessment of complications. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed trial quality and extracted the data. 
+Main results
+One RCT, one CCT and 21 case‐series were included. The RCT compared cemented versus uncemented humeral stem fixation in arthroplasty and found no significant differences between the two groups after two years (low quality evidence). The CCT compared rotator cuff repair with augmented subscapularis transposition versus subscapularis transposition alone and reported significant differences in favour of the augmented subscapularis transposition after 2 years in function, mean difference (MD) 4.00 on a 0 to 30 scale (95% CI 1.11 to 6.89) and pain, MD 4.00 on a 0 to 20 scale (95% CI 0.84 to 7.16) (low quality evidence). Based on 11 case series (mean follow up 4.5 to 12 years) complications were reported in 11% (95% CI: 9.9% to 12.1%) of the total shoulder arthroplasties, while 10 case‐series (mean follow‐up 2.7 to 11.3 years) reported complications in 9.9% (95% CI: 8.4% to 11.4%) of the hemiarthroplasties (very low quality evidence). 
+Authors' conclusions
+The effects of surgical treatment in the management of the shoulder in people with rheumatoid arthritis are largely unknown due to the paucity of randomised controlled trials. 

@@ -1,0 +1,14 @@
+Background
+Spontaneous bacterial peritonitis is a complication of cirrhotic ascites that occurs in the absence of any intra‐abdominal, surgically treatable source of infection. Antibiotic therapy is indicated and should be initiated as soon as possible to avoid severe complications that may lead to death. It has been proposed that empirical treatment should cover gram‐negative enteric bacteria and gram‐positive cocci, responsible for up to 90% of spontaneous bacterial peritonitis cases. 
+Objectives
+This review aims to evaluate the beneficial and harmful effects of different types and modes of antibiotic therapy in the treatment of spontaneous bacterial peritonitis in cirrhotic patients. 
+Search methods
+We performed electronic searches in The Cochrane Hepato‐Biliary Group Controlled Trials Register (July 2008), the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 3, 2008), MEDLINE (1950 to July 2008), EMBASE (1980 to July 2008), and Science Citation Index EXPANDED (1945 to July 2008). In addition, we handsearched the references of all identified studies and contacted the first author of each included trial. 
+Selection criteria
+Randomised studies comparing different types of antibiotics for spontaneous bacterial peritonitis in cirrhotic patients. 
+Data collection and analysis
+Data were independently extracted from the trials by at least two authors. Peto odds ratios or average differences, with their 95% confidence intervals, were estimated. 
+Main results
+This systematic review attempted to summarise evidence from randomised clinical trials on the treatment of spontaneous bacterial peritonitis. Thirteen studies were included; each one of them compared different antibiotics in their experimental and control groups. No meta‐analyses could be performed, though data on the main outcomes were collected and analysed separately for each included trial. Currently, the evidence showing that lower dosage or short‐term treatment with third generation cephalosporins is as effective as higher dosage or long‐term treatment is weak. Oral quinolones could be considered an option for those with less severe manifestations of the disease. 
+Authors' conclusions
+This review provides no clear evidence for the treatment of cirrhotic patients with spontaneous bacterial peritonitis. In practice, third generation cephalosporins have already been established as the standard treatment of spontaneous bacterial peritonitis, and it is clear, that empirical antibiotic therapy should be provided in any case. However, until large, well‐conducted trials provide more information, practice will remain based on impression, not evidence. 

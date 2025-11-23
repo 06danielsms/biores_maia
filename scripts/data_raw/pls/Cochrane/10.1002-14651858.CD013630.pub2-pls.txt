@@ -1,0 +1,15 @@
+Image‐guided surgery for brain tumours
+Background 
+Surgery has a key role in the management of many types of brain tumour. Removing as much tumour as possible is very important, as in some types of brain tumour this can help people to live longer and to feel better. However, removing a brain tumour may be difficult because the tumour either looks like normal brain tissue or is near brain tissue that is needed for normal functioning. New methods of seeing tumours during surgery (called imaging) have been developed to help surgeons better identify tumour from normal brain tissue. 
+Questions 
+Is image‐guided surgery more effective at removing brain tumours than surgery without image guidance? 
+Is one image‐guidance technology or tool better than another?
+Study characteristics 
+Our search strategy is up to date as of May 2020. We found four trials looking at three different tools to help improve the amount of tumour that is removed. The tumour being evaluated was glioma. Imaging interventions used during surgery included: 
+– magnetic resonance imaging during surgery to assess the amount of remaining tumour;– fluorescent dye to mark out the tumour (5‐aminolevulinic acid);– imaging before surgery to map out the location of a tumour, which was then used at the time of surgery to guide the surgery (neuronavigation); or– ultrasound imaging during surgery to assess the amount of remaining tumour. 
+All the studies had compromised methods, which could mean their conclusions were biased. Some studies were funded by the manufacturers of the image guidance technology being evaluated. We intended to use a form of analysis called network meta‐analysis (which can incorporate comparisons of interventions even if they have not been directly compared within trials) to compare each of these interventions and identify which single technology might be best. 
+Key results 
+We found low‐ to very low‐certainty evidence that use of image‐guided surgery may result in more of the tumour being removed surgically in some people. The short‐ and long‐term neurological effects are uncertain. We did not have the data to determine whether any of the evaluated technologies affected overall survival, time until disease progression, or quality of life. There was very low‐certainty evidence for neuronavigation across all outcomes in one very small trial, and we identified no trials for ultrasound guidance. We were unable to perform a network meta‐analysis to compare imaging interventions. In terms of costs, compared with standard surgery, use of image‐guided surgery has an uncertain effect on costs and that 5‐aminolevulinic acid was more costly than conventional surgery. 
+Quality of the evidence 
+Evidence for intraoperative imaging technology for use in removing brain tumours is sparse and of low to very low certainty. Further research is needed to assess three main questions: 
+– Is removing more of the tumour better for the patient in the long term?– What are the risks of causing a patient to have worse symptoms by taking out more of the tumour?– How does resection affect a patient's quality of life? 

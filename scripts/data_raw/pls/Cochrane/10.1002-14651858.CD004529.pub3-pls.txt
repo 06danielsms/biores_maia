@@ -1,0 +1,25 @@
+What are the benefits and risks of atovaquone‐proguanil for treating uncomplicated malaria caused by the Plasmodium falciparum parasite? 
+What is the aim of this review? 
+The most common, and most serious, type of malaria is caused by Plasmodium falciparum. In its mild (uncomplicated) form, the symptoms are fever, headaches, muscle pain, and vomiting. The disease can become severe and life‐threatening if it is not treated soon enough or with the right medicines. 
+This review aimed to find out whether atovaquone‐proguanil is effective and safe for treating uncomplicated cases of P falciparum malaria. We aimed to achieve this by comparing the results of studies that had compared atovaquone‐proguanil to other malaria treatments. 
+Key messages 
+Atovaquone‐proguanil is as effective for treating uncomplicated Plasmodium falciparum malaria as artesunate‐mefloquine. It may be less effective than artemether‐lumefantrine, artesunate‐amodiaquine, and artesunate‐atovaquone‐proguanil, though more robust evidence is needed to confirm this. Side effects seem similar with atovaquone‐proguanil. 
+What was studied in this review? 
+The World Health Organization (WHO) recommends treating uncomplicated malaria with oral (by mouth) artemisinin‐based combination medicines (called ACTs). 
+ACTs are not always available worldwide and, in some places, Plasmodium falciparum is becoming resistant to recommended treatments (the medicines stop working). We looked at the evidence about the benefits and harms of combinations of medicines that are not artemisinin‐based, but contain atovaquone‐proguanil. This is an oral treatment commonly used by people from non‐malaria areas to prevent them catching malaria when they travel to malaria areas. We wanted to find out whether it works as well for treating uncomplicated Plasmodium falciparum malaria as ACTs and other malaria treatments. 
+We searched for randomized controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) that compared atovaquone‐proguanil against other malaria treatments. These studies provide the most robust evidence about the effects of a treatment. We compared results, summarized the evidence, and rated our confidence in the evidence. 
+What are the main results of the review? 
+We found 17 studies involving 4763 adults and children in Africa, South America, and South East Asia. People were followed for 28 days to one year. 
+Fifteen studies compared atovaquone‐proguanil against 12 different antimalarial treatments (ACTs in five studies; other therapies that combined several medicines in two studies; single medicines in nine studies). 
+Five studies compared atovaquone‐proguanil plus another medicine (artesunate or chloroquine) against atovaquone‐proguanil alone (three studies); atovaquone‐proguanil plus a different medicine (one study); a combination of therapies that did not include atovaquone‐proguanil (one study); or single medicines (two studies). 
+In 15 studies, the researchers and people who were treated knew which medicines participants received. Pharmaceutical companies funded 10 studies. 
+Atovaquone‐proguanil against ACTs recommended by the WHO 
+Atovaquone‐proguanil may work less well to clear Plasmodiumfalciparum parasites from the blood or prevent them from returning (treatment success) than artemether‐lumefantrine (rates of success compared 28 and 42 days after treatment; one study). However this evidence was based on one small study. 
+Atovaquone‐proguanil may work as well as, or less well than, artesunate‐amodiaquine depending on whether new infections appearing after the start of treatment were counted or not (rates of success compared three and 28 days after treatment; one study). However this evidence was based on one small study of children aged under five years. 
+When new infections after the start of treatment were excluded, there is strong evidence of little to no difference in treatment success between atovaquone‐proguanil and artesunate‐mefloquine after 42 days (two studies). When new infections were counted, atovaquone‐proguanil may be better than artesunate‐mefloquine, but this evidence was based on the imprecise results of one study. 
+Atovaquone‐proguanil against atovaquone‐proguanil plus artesunate 
+Compared to atovaquone‐proguanil plus artesunate, atovaquone‐proguanil may be less successful at treating uncomplicated malaria after three and 28 days, however this evidence is based on the results of two small studies. It is probably less successful at treating uncomplicated malaria after 42 days (two studies). 
+Side effects 
+Studies reported several side effects, such as nausea and vomiting, or headaches. Overall, they were similar between groups. 
+How‐up‐to date is this review? 
+The evidence is current to 30 January 2020.

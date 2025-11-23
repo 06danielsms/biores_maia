@@ -1,0 +1,14 @@
+Background
+Vestibular migraine is a common cause of episodic vertigo. Many preventive treatments have been proposed for this condition, including calcium antagonists, beta‐blockers, antidepressants, anticonvulsants, selective 5‐HT1 agonists, serotonin antagonists and non‐steroidal anti‐inflammatory drugs (NSAIDs). 
+Objectives
+To assess the effects of pharmacological agents for the prevention of vestibular migraine.
+Search methods
+The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co‐ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 5); PubMed; EMBASE; CINAHL; Web of Science; Clinicaltrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 5 June 2015. 
+Selection criteria
+Randomised controlled trials (RCTs) in adults (over 18 years) with a diagnosis of vestibular migraine orprobable vestibular migraine according to the Bárány Society/International Headache Society (IHS) criteria, treated in any setting, comparing pharmacological treatments used in the prevention of vestibular migraine, including beta‐blockers, calcium antagonists, anticonvulsants, antidepressants, serotonin antagonists and non‐steroidal anti‐inflammatory drugs (NSAIDs) against placebo or no treatment. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+Our literature search identified 558 reports, however only 11 were sufficiently relevant for further assessment. We excluded two studies because they did not use the IHS diagnostic criteria for vestibular migraine. We excluded a further eight studies for various reasons related to their design (e.g. lack of placebo or no treatment comparator), aim (e.g. treatment of vestibular migraine rather than prevention) or conduct (e.g. early termination). We identified one ongoing study comparing metoprolol to placebo. The results of this study are awaited; recruitment of the last patient is expected by the end of 2016. 
+Authors' conclusions
+We found no evidence from RCTs to answer the question set out in the review objectives. This review has identified the need for well‐designed randomised controlled trials to answer questions about the efficacy of current and new treatments. 

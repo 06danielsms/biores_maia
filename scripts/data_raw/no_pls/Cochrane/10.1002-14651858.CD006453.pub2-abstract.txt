@@ -1,0 +1,14 @@
+Background
+Partial onset seizures are often treated with the standard antiepileptic drug carbamazepine. Oxcarbazepine is a newer antiepileptic drug related to carbamazepine that is claimed to be better tolerated. 
+Objectives
+To compare efficacy and tolerability of carbamazepine and oxcarbazepine monotherapy for partial onset seizures. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialised Register (4 August 2009), the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library issue 3, 2009), MEDLINE (January 1966 to May 2008), reference lists of relevant articles and conference proceedings. We also contacted manufacturers and researchers in the field for published or unpublished data. 
+Selection criteria
+Blinded and unblinded randomised controlled trials of carbamazepine versus oxcarbazepine monotherapy for partial onset seizures. 
+Data collection and analysis
+Both authors independently assessed trial quality, according to the guidelines in the Cochrane Reviewer's Handbook, and extracted information about study population, type of intervention, outcome measures and study design. All analyses in this review are by intention‐to‐treat. We tested for statistical heterogeneity among the identified studies using the chi‐squared test. 
+Main results
+Three trials (723 participants) were included. Only one trial used adequate outcome measures of efficacy; therefore, the results pertaining to efficacy are based on a single trial, whereas the results pertaining to adverse events are based on all three included trials. There was no overall difference in time to treatment withdrawal between the two drugs (hazard ratio (HR) of oxcarbazepine (OXC) versus carbamazepine (CBZ): 1.04, 95% confidence interval (CI) 0.78 to 1.39). Further analyses showed no significant difference in treatment withdrawal for unacceptable side effects (HR of OXC versus CBZ: 0.85, 95% CI 0.59 to 1.24) and in treatment withdrawal for inadequate seizure control (HR of OXC versus CBZ: 1.33, 95% CI 0.82 to 2.15). Oxcarbazepine and carbamazepine appeared to be similarly effective and well tolerated although the confidence intervals around estimates were wide and do not rule out the possibility of important differences existing. Significantly fewer patients on carbamazepine treatment developed nausea or vomiting, or both (odds ratio of OXC versus CBZ: 3.15, 95% CI 1.39 to 7.14). 
+Authors' conclusions
+Oxcarbazepine and carbamazepine appear to be similarly effective and well tolerated. However, the possibility of important differences existing between these drugs cannot be ruled out. 

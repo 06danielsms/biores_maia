@@ -1,0 +1,16 @@
+Background
+A forceps delivery may be indicated when a fetus fails to progress to delivery, or when delivery needs to be expedited in the second stage of labour. Effective analgesia is required to ensure that the woman is comfortable throughout the delivery, to allow the obstetrician to safely perform the procedure. It is currently unclear what the most effective and safe agent or method is to provide pain relief during forceps delivery. 
+Objectives
+To assess the effectiveness and safety of different analgesic agents and methods available for forceps delivery for women and their babies. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2013), reviewed published guidelines and searched the reference lists of review articles. 
+Selection criteria
+Randomised controlled trials comparing an analgesic agent or method used for forceps delivery with placebo/no treatment or an alternative agent or method. 
+Data collection and analysis
+Two review authors independently assessed study eligibility, extracted data and assessed the risk of bias of included studies. 
+Main results
+We included four trials involving 388 women that were judged to be at an unclear to high risk of bias overall. A variety of different agents for providing analgesia were assessed in the trials, and a number of different methods to measure pain relief were used, and thus results could not be combined in meta‐analysis. Three trials compared diazepam with an alternative agent (ketamine; vinydan‐ether; "other" anaesthesic agent) for the provision of general anaesthesia, and one trial compared spinal analgesia to pudendal nerve block (in both groups lignocaine was administered). 
+With regard to the primary outcomes, women receiving diazepam for forceps delivery in one small trial were more likely to judge their pain relief as effective compared with women receiving vinydan‐ether (risk ratio (RR) 1.13; 95% confidence interval (CI) 1.02 to 1.25; 101 women). In a further small trial, no significant difference was seen in the number of women judging their pain relief as effective when diazepam was compared with ketamine (RR 1.42; 95% CI 0.98 to 2.07; 26 women). In the trial that compared spinal analgesia to pudendal nerve block, women receiving spinal analgesia were significantly more likely to regard their analgesia as adequate (RR 3.36; 95% CI 2.46 to 4.60; 183 women) and were less likely to report severe pain during forceps delivery (RR 0.02; 95% CI 0.00 to 0.27; 183 women). No trials reported on the review's other two primary outcomes of serious maternal adverse effects or complications, and neonatal mortality or serious morbidity. 
+In terms of secondary outcomes, women receiving diazepam compared with vinydan‐ether, were significantly less likely to experience vomiting (RR 0.04; 95% CI 0.00 to 0.62; 101 women). No significant differences were seen for the few neonatal outcomes that were reported across any of the comparisons (including Agpar score of less than seven at five minutes and acidosis as defined by cord blood arterial pH less than 7.2). 
+Authors' conclusions
+There is insufficient evidence to support any particular analgesic agent or method as most effective in providing pain relief for forceps delivery. Neonatal outcomes have largely not been evaluated. 

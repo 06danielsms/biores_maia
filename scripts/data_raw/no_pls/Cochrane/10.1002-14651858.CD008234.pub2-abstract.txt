@@ -1,0 +1,14 @@
+Background
+Ménière's disease is characterised by three major symptoms: vertigo, deafness and tinnitus, which may be accompanied by aural fullness, all of which are discontinuous and variable in intensity. While discontinuous, these symptoms are synchronous. Intratympanic application of gentamicin, an ototoxic aminoglycoside, is a relatively new ablative treatment for vertigo in Ménière's disease with promising results. 
+Objectives
+To assess the effectiveness of intratympanic gentamicin in the treatment of vertigo in Ménière's disease. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 30 June 2010. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials of intratympanic gentamicin versus placebo, or versus another treatment for Ménière's disease. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We contacted study authors for further information. 
+Main results
+We identified two trials, involving 50 participants, which fulfilled the inclusion criteria. Both of these trials are prospective, double‐blind, placebo‐controlled randomised clinical trials on the effect of intratympanic gentamicin on vertigo complaints. After assessing the risk of bias of both studies, we concluded that one had a greater risk of bias and deemed the other to be of higher quality. Both of these trials found a significant reduction in vertigo complaints in the gentamicin group when compared to the placebo group. Due to clinical heterogeneity we could not perform a meta‐analysis. One study described an increase in hearing loss in four patients (25%) treated with gentamicin while the other described no increase in hearing loss. No other adverse effects were noted by either study. 
+Authors' conclusions
+Based on the results of the two included studies, intratympanic gentamicin seems to be an effective treatment for vertigo complaints in Ménière's disease, but carries a risk of hearing loss. 

@@ -1,0 +1,14 @@
+Background
+Wheeze is a common symptom in infancy and is a common cause for both primary care consultations and hospital admission. Beta2‐adrenoceptor agonists (b2‐agonists) are the most frequently used as bronchodilator but their efficacy is questionable. 
+Objectives
+To determine the effectiveness of b2‐agonist for the treatment of infants with recurrent and persistent wheeze. 
+Search methods
+We identified relevant trials using the Cochrane Airways Group Specialised register composed of records identified in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and PUBMED. We used the following terms to search the database: Wheeze or asthma and Infant or Child and Short acting beta‐agonist or Salbutamol (variants), Albuterol, Terbutaline (variants), Orciprenaline, Fenoterol. 
+Selection criteria
+Randomised controlled trials comparing the effect of b2‐agonist against placebo in children under two years of age who had two or more previous episodes of wheeze, not related to another form of chronic lung disease. 
+Data collection and analysis
+Eight studies met the criteria for inclusion in this meta‐analysis. The studies investigated patients in three settings: at home (three studies), in hospital (two studies) and in the pulmonary function laboratory (three studies). The main outcome measure was change in respiratory rate except for community based studies where symptom scores were used. 
+Main results
+The studies were markedly heterogeneous and between study comparisons were limited. Improvement in respiratory rate, symptom score and oxygen saturation were noted in one study in the emergency department following two salbutamol nebulisers but this had no impact on hospital admission. There was a reduction in bronchial reactivity following salbutamol. There was no significant benefit from taking regular inhaled salbutamol on symptom scores recorded at home. 
+Authors' conclusions
+There is no clear benefit of using b2‐agonists in the management of recurrent wheeze in the first two years of life although there is conflicting evidence. At present, further studies should only be performed if the patient group can be clearly defined and there is a suitable outcome parameter capable of measuring a response. 

@@ -1,0 +1,15 @@
+Background
+The neural control of storage and voiding of urine is complex and dysfunction can be difficult to treat. One treatment for people with refractory symptoms is continuous electrical nerve stimulation of the sacral nerve roots using implanted electrodes and an implanted pulse generator. 
+Objectives
+To determine the effects of implantable electrical stimulation devices in the treatment of urine storage and voiding problems. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register (searched 10 February 2009), CENTRAL (The Cochrane Library 2008, Issue 1), MEDLINE (January 1980 to March 2008), EMBASE (January 1980 to March 2008), CINAHL (January 1982 to March 2008) and the reference lists of relevant articles. 
+Selection criteria
+Trials that tested implanted electronic stimulators connected to electrodes attached to the nerves and providing continuous electrical stimulation for neuromodulation. 
+Data collection and analysis
+Both authors selected studies, assessed quality, and extracted data.
+Main results
+Eight reports of randomised studies that evaluated implants which provided continuous stimulation were included. It was unclear whether some reports included patients who also appeared in other reports, so no data were pooled. In spite of this, it seems clear that continuous stimulation offers benefits for carefully selected people with overactive bladder syndrome and for those with urinary retention but no structural obstruction. 
+Many of the implants did not work and many required revision operations. Many questions remain about patient selection and the best way to use these devices. 
+Authors' conclusions
+In spite of methodological problems, it would appear that some people benefit from implants which provide continuous nerve stimulation. More research is needed on the best way to improve patient selection, carry out the implant, and to find why so many fail. The effectiveness of implants should be tested against other interventions, particularly in people with an overactive bladder. 

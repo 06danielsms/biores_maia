@@ -1,0 +1,14 @@
+Background
+Hyperopia, or hypermetropia (also known as long‐sightedness or far‐sightedness), is the condition where the unaccommodating eye brings parallel light to a focus behind the retina instead of on it. Hyperopia can be corrected with both non‐surgical and surgical methods, among them photorefractive keratectomy (PRK) and laser assisted In situ keratomileusis (LASIK). There is uncertainty as to whether hyperopic‐PRK or hyperopic‐LASIK is the better method. 
+Objectives
+The objectives of this review were to determine whether PRK or LASIK leads to more reliable, stable and safe results when correcting a hyperopic refractive error. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 2), MEDLINE (January 1950 to February 2012), EMBASE (January 1980 to February 2012), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to February 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). There were no date or language restrictions in the electronic searches for trials. The electronic databases were last searched on 17 February 2012. When trials are included in the review we will search the reference lists of the studies included in the review for information about further trials. We will use the Science Citation Index to search for papers that cite any studies included in this review. We did not handsearch journals or conference proceedings specifically for this review. 
+Selection criteria
+We planned to include only randomised controlled trials (RCTs) comparing PRK against LASIK for correction of hyperopia and then perform a sensitivity analysis of pre‐ and post‐millennial trials since this is the mid‐point in the history of both PRK and LASIK. 
+Data collection and analysis
+We did not identify any studies that met the inclusion criteria for this review.
+Main results
+As no studies met the inclusion criteria for this review, we discussed the results of non‐randomised trials comparing hyperopic‐PRK with hyperopic‐LASIK. 
+Authors' conclusions
+No robust, reliable conclusions could be reached, but the non‐randomised trials reviewed appear to be in agreement that hyperopic‐PRK and hyperopic‐LASIK are of comparable efficacy. High quality, well‐planned open RCTs are needed in order to obtain a robust clinical evidence base. 

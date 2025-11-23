@@ -1,0 +1,17 @@
+Background
+Breast cancer is the most common malignant disease diagnosed in women worldwide. Screening with mammography has the ability to detect breast cancer at an early stage. The diagnostic accuracy of mammography screening largely depends on the radiographic density of the imaged breasts. In radiographically dense breasts, non‐calcified breast cancers are more likely to be missed than in fatty breasts. As a consequence, some cancers are not detected by mammography screening. Supporters of adjunct ultrasonography to the screening regimen for breast cancer argue that it might be a safe and inexpensive approach to reduce the false negative rates of the screening process. Critics, however, are concerned that performing supplemental ultrasonography on women at average risk will also increase the rate of false positive findings and can lead to unnecessary biopsies and treatments. 
+Objectives
+To assess the comparative effectiveness and safety of mammography in combination with breast ultrasonography versus mammography for breast cancer screening for women at average risk of breast cancer. 
+Search methods
+We searched the Cochrane Breast Cancer Group's Specialised Register, MEDLINE (via OvidSP) and EMBASE up until February 2012. 
+To detect ongoing or unpublished studies, we searched the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP), ClinicalTrials.gov and the National Cancer Institute's clinical trial database until June 2012. In addition, we conducted grey literature searches using the following sources: OpenGrey; National Institute of Health RePORTER; Health Services Research Projects in Progress (HSRPROJ); Hayes, Inc. Health Technology Assessment; The New York Academy of Medicine’s Grey Literature Index and Conference Papers Index. 
+Selection criteria
+For efficacy, we considered randomised controlled trials (RCTs), with either individual or cluster randomisation, and prospective, controlled non‐randomised studies with a low risk of bias and a sample size of at least 500 participants. 
+In addition to studies eligible for efficacy, we considered any controlled, non‐randomised study with a low risk of bias and a study size of at least 500 participants for the assessment of harms. 
+Our population of interest were women between the ages of 40 and 75 years who were at average risk for breast cancer. 
+Data collection and analysis
+Two review authors screened abstracts and full‐text publications against the inclusion criteria. None of the studies met our inclusion criteria. 
+Main results
+Our review did not detect any controlled studies on the use of adjunct ultrasonography for screening in women at average risk for breast cancer. One ongoing randomised controlled trial was identified (J‐START, Japan). 
+Authors' conclusions
+Presently, there is no methodologically sound evidence available justifying the routine use of ultrasonography as an adjunct screening tool in women at average risk for breast cancer. 

@@ -1,0 +1,35 @@
+Clinical Study Results
+
+What kind of study was this?
+
+This was a "double-blind" study. This means none of the participants, doctors, or other study staff knew what treatment each participant received. Some studies are done this way because knowing what treatment the participants are getting can affect the results of the study. When the study ended, the sponsor found out which treatment the participants received so they could create a report of the study results.
+
+The participants in this study were given either anifrolumab or a placebo. A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure any of the effects they see in the participants who get the study drug are actually caused by the study drug.
+
+Anifrolumab and the placebo were each given through a needle under the skin, also called an injection. Doses of anifrolumab were measured in milligrams, also known as mg.
+
+A computer program was used to randomly choose the treatment each participant was given. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+
+There were 4 groups in this study. The different groups and the number of injections per dose are as follows:
+
+Group 1:
+- 150 mg of anifrolumab
+- 1 injection
+- 14 participants
+
+Group 2:
+- 300 mg of anifrolumab
+- 2 injections
+- 13 participants
+
+Group 3:
+- Placebo to match
+- 1 injection
+- 5 participants
+- 150 mg anifrolumab
+
+Group 4:
+- Placebo to match
+- 2 injections
+- 4 participants
+- 300 mg anifrolumab

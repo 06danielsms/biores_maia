@@ -1,0 +1,13 @@
+Exercise‐based cardiac rehabilitation for adult patients with an implantable cardioverter defibrillator 
+Review question 
+We reviewed the benefits and harms of exercise‐based cardiac rehabilitation programmes in adults who have been treated with an implantable cardioverter defibrillator from any cause. 
+Background 
+An implantable cardioverter defibrillator is a very effective device that prevents sudden cardiac death. This is done by the use of either antitachycardia pacing, high‐voltage shock therapy, or both. In spite of the potential mortality benefits, patients may also experience a negative impact on their health‐related quality of life, increased readmission to hospital and healthcare facilities, loss of productivity and employment earnings, and increased morbidity and mortality. Exercise‐based cardiac rehabilitation may benefit patients with an implantable cardioverter defibrillator. 
+Study characteristics 
+We searched for randomised controlled trials (experiments in which participants are randomly allocated to an experimental intervention compared with a control intervention) that investigated exercise‐based interventions compared with no exercise intervention control. We found eight trials published from 2004 to 2017 with a total of 1730 participants. Two trials did not report on funding and one trial reported funding from industry. The evidence is current to 30 August 2018. 
+Key results 
+The review showed no evidence of an impact on the risk of death, harmful side effects or having antitachycardia pacing or shock therapy when comparing the exercise intervention to the control. There was also little or no evidence of a difference on health‐related quality of life. However, there was an improvement in exercise capacity in favour of the exercise group. 
+Quality of the evidence 
+The quality of the evidence ranged from moderate to very low for all outcomes. The number of events was low, it was possible for people in the trials to know to which intervention group they were randomised, the reporting of the results was not complete in some trials, and for some outcomes, the results varied across trials. These considerations limited our confidence in the overall results of the review. 
+Conclusion 
+Further adequately powered and well‐conducted randomised trials are needed to assess the impact of exercise‐based cardiac rehabilitation in adults with an implantable cardioverter defibrillator. 

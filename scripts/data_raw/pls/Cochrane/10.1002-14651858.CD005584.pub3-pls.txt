@@ -1,0 +1,13 @@
+Epinephrine injection versus epinephrine injection and a second endoscopic method in high‐risk bleeding ulcers 
+Background 
+Peptic ulcers develop when the usual protective mechanism of the body breaks down and digestive juices produced in the stomach, intestines and digestive glands damage the lining of the stomach or duodenum. Non‐steroidal anti‐inflammatory drugs and a bacterium called Helicobacter pylori are common causes of ulcers. 
+When ulcers in the stomach and small intestine (duodenum) start to bleed extensively (haemorrhage), the bleeding can be life threatening and requires emergency treatment. 
+Patients undergo an endoscopy so clinicians can locate the source of bleeding. Active bleeding or non‐bleeding visible blood vessels at endoscopy are deemed 'high risk,' in that further bleeding may occur even if the initial haemorrhage can be stopped. Once the source of bleeding has been identified, endoscopic therapy reduces rebleeding rate, need for surgery and deaths. Endoscopic therapy consists of an agent to stop the bleeding, which is injected into the bleeding area; epinephrine (adrenaline) is the most popular agent. Experts disagree on the need for a second procedure such as bipolar electrocoagulation, heater probe, sclerosant or clips immediately after epinephrine; although it seems to reduce further bleeding, the effects of a second procedure on continuing illness (morbidity), surgery rates and death remain unclear. 
+Review question 
+In bleeding peptic ulcers, does a second endoscopic method reduce further bleeding, the need for emergency surgery and death rates? 
+Study characteristics 
+We performed an extensive search for randomised trials comparing epinephrine alone versus epinephrine plus a second method. We found 19 clinical trials involving 2033 randomly assigned participants 
+Key results 
+We found that adding a second procedure reduced the further bleeding rate and the need for emergency surgery, but the effect of this approach on death rates has not been proven. In conclusion, additional endoscopic treatment after epinephrine injection reduces further bleeding and the need for surgery in patients with high‐risk bleeding peptic ulcer. 
+Quality of the evidence 
+Our risk of bias estimates show that the overall quality of the included studies was moderate or high. Although some studies had limitations in their design or implementation, most were clear about important quality criteria including randomisation and allocation concealment, sequence generation and blinding. We rated the quality of evidence as moderate for most outcomes. Further research is likely to have an impact on our confidence in the estimate of effect and may change the conclusions of this review. 

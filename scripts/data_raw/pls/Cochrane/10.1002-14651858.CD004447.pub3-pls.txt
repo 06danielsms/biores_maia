@@ -1,0 +1,14 @@
+Synthetic human growth hormone for treating X‐linked hypophosphatemia (or vitamin D‐resistant rickets) in children 
+Review question 
+Can human growth hormone lead to improved clinical outcomes (such as increased growth and bone mineral density, as well as better kidney and hormone function) without side effects in children with X‐linked hypophosphataemia? 
+Background 
+X‐linked hypophosphataemia is a genetic disorder which causes abnormal levels of phosphate in the body. This can lead to short stature and rickets. Standard treatment of X‐linked hypophosphatemia can heal rickets, but does not always raise the level of phosphates in the blood or return growth levels to normal. It is unclear whether combining human growth hormone therapy with standard treatment improves the phosphate levels, growth rates and bone mineral density. 
+Search date 
+The evidence is current to: 12 January 2021
+Study characteristics 
+We included two small studies with a total of 20 children aged between 2.5 and nine years old in this review.  There were equal numbers of boys and girls. Both trials were randomised so that participants had an equal chance of being put in the growth hormone group or the control group (children in the control group either got no additional treatment or a placebo (sham) treatment). One (parallel) trial compared children given the growth hormone to children who did not have any treatment for three years. The second trial was a cross‐over trial, so to start with one group of children were given human growth hormone therapy and the second group were given a placebo for a year and then the groups were given the opposite treatment for a further year. 
+Results 
+The parallel trial found no difference in height scores after treatment with growth hormone compared to no additional treatment. No serious side effects were seen in either of the trials. In the cross‐over trial, human growth hormone therapy improved the height standard deviation score (z score), and temporarily increased blood phosphate levels.  
+We found no conclusive evidence that shows that human growth hormone treatment works for this condition. There have not been enough studies of human growth hormone treatment for this condition and more research is needed. This is an updated version of a previously published review. 
+Quality of the evidence 
+We mostly graded the certainty of the evidence as low or very low. This was because the trials were very small and only included a few children. We were also concerned that there might have been some bias in the results because of the design of the smaller cross‐over trial. 

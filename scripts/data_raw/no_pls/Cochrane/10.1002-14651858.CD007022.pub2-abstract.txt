@@ -1,0 +1,14 @@
+Background
+Vancomycin and teicoplanin are commonly used to treat gram‐positive infections, particularly those caused by methicillin‐resistant Staphylococcus aureus (MRSA). There is uncertainty regarding the effects of teicoplanin compared to vancomycin on kidney function with some previous studies suggesting teicoplanin is less nephrotoxic than vancomycin. 
+Objectives
+To investigate the efficacy and safety of vancomycin versus teicoplanin in patients with proven or suspected infection. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register, CENTRAL, MEDLINE, EMBASE, reference lists of nephrology textbooks, review articles with relevant studies and sent letters seeking information about unpublished or incomplete studies to investigators involved in previous studies. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) in any language comparing teicoplanin to vancomycin for patients with proven or suspected infection. 
+Data collection and analysis
+Two authors independently evaluated methodological quality and extracted data using standardised data extraction forms. Study investigators were contacted for information not available in the original manuscripts. Random effects model was used to estimate the pooled risk ratio (RR) with 95% confidence interval (CI). 
+Main results
+We included 24 studies (2,610 patients) in this review. Teicoplanin reduced the risk of nephrotoxicity compared to vancomycin (RR 0.66, 95% CI 0.48 to 0.90).The effects of teicoplanin or vancomycin were similar for clinical cure (RR 1.03, 95% CI 0.98 to 1.08), microbiological cure (RR 0.98, 95% CI 0.93 to 1.03) and mortality (RR 1.02, 95% CI 0.79 to1.30). Six studies reported no cases of acute kidney injury (AKI) needing dialysis. Adverse events were less frequent with teicoplanin including cutaneous rash (RR 0.57, 95% CI 0.35 to 0.92), red man syndrome (RR 0.21, 95% CI 0.08 to 0.59) and total adverse events (RR 0.73, 95% CI 0.53 to 1.00). A lower risk of nephrotoxicity with teicoplanin was observed in patients either with (RR 0.51, 95% CI 0.30 to 0.88) or without aminoglycosides (RR 0.31, 95% 0.07 to 1.50), and also when vancomycin dosing was guided by serum levels (RR 0.22, 95% CI 0.10 to 0.52). 
+Authors' conclusions
+Teicoplanin and vancomycin are both effective in treating those with proven or suspected infection; however the incidence of adverse effects including nephrotoxicity was lower with teicoplanin. There were no cases of AKI needing dialysis. It remains unclear whether the differential effect on kidney function should influence which antibiotic be prescribed, although it may be reasonable to consider teicoplanin for patients at higher risk for AKI needing dialysis. 

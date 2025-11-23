@@ -1,0 +1,14 @@
+Background
+Stroke affects 15 million people per year worldwide. Despite recent developments in acute stroke treatment, prevention remains very important. Stroke has a high rate of recurrence; therefore secondary prevention is also important. Many clinical approaches to control risk factors have been proposed. One of these approaches is the prescription of beta‐blockers that have effects beyond the reduction of blood pressure, which can reduce the recurrence of stroke. 
+Objectives
+To evaluate the efficacy of beta‐blockers for preventing stroke recurrence and for reducing death and major vascular events in people with a previous stroke or transient ischaemic attack (TIA), and to determine their safety, particularly with regard to the development of diabetes mellitus. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (May 2014), the Cochrane Central Register of Controlled Trials (CENTRAL) and the Cochrane Database of Systematic Reviews (CDSR) (The Cochrane Library 2014, Issue 5), the Database of Abstracts of Reviews of Effects (DARE) (May 2014), MEDLINE (1966 to May 2014), EMBASE (1980 to May 2014), and Latin American and Caribbean Health Sciences Literature (LILACS) (1982 to May 2014). We also searched ongoing trials registers and reference lists. 
+Selection criteria
+Randomised controlled trials (RCTs) that included participants with previous stroke or TIA due to arterial thrombosis or embolism. The intervention was any beta‐blocker versus control, or beta‐blocker plus other treatment versus other treatment. 
+Data collection and analysis
+Two review authors independently screened the trials identified, appraised quality, and extracted data. 
+Main results
+We included two RCTs involving 2193 participants in the review. Both studies randomised participants to either beta‐blocker (atenolol 5 mg) or placebo and were of a high methodological quality. We noted no statistical differences among the groups in risks of fatal and non‐fatal stroke (risk ratio (RR) 0.94, 95% confidence interval (CI) 0.76 to 1.18). For other outcomes analysed (major vascular events, death from all causes, death from cardiovascular causes) , we observed no significant differences between the groups. There were minor blood pressure reductions in the intervention group. Neither of the included studies reported the occurrence of diabetes among their outcomes or assessed quality of life. Adverse events were significantly more frequent in participants taking atenolol than in those given placebo, and were the most common reason given for discontinuing treatment (RR 1.85, 95% CI 1.45 to 2.35). 
+Authors' conclusions
+To date, no available evidence supports the routine use of beta‐blockers for secondary prevention after stroke or TIA. More studies with larger samples are needed. 

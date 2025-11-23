@@ -1,0 +1,14 @@
+Background
+The importance of appraising the risk of bias of studies included in systematic reviews is well‐established. However, uncertainty remains surrounding the method by which risk of bias assessments should be conducted. Specifically, no summary of evidence exists as to whether blinded (i.e. the assessor is unaware of the study author’s name, institution, sponsorship, journal, etc.) versus unblinded assessments of risk of bias yield systematically different assessments in a systematic review. 
+Objectives
+To determine whether blinded versus unblinded assessments of risk of bias yield systematically different assessments in a systematic review. 
+Search methods
+We searched MEDLINE (1966 to September week 4 2009), CINAHL (1982 to May week 3 2008), All EBM Reviews (inception to 6 October 2009), EMBASE (1980 to 2009 week 40) and HealthStar (1966 to September week 4 2009) (all Ovid interface). We applied no restrictions regarding language of publication, publication status or study design. We examined reference lists of included studies and contacted experts for potentially relevant literature. 
+Selection criteria
+We included any study that examined blinded versus unblinded assessments of risk of bias included within a systematic review. 
+Data collection and analysis
+We extracted information from each of the included studies using a pre‐specified 16‐item form. We summarized the level of agreement between blinded and unblinded assessments of risk of bias descriptively. We calculated the standardized mean difference whenever possible. 
+Main results
+We included six randomized controlled trials (RCTs). Four studies had unclear risk of bias and two had high risk of bias. The results of these RCTs were not consistent; two demonstrated no differences between blinded and unblinded assessments, two found that blinded assessments had significantly lower quality scores, and another observed significantly higher quality scores for blinded assessments. The remaining study did not report the level of significance. We pooled five studies reporting sufficient information in a meta‐analysis. We observed no statistically significant difference in risk of bias assessments between blinded or unblinded assessments (standardized mean difference ‐0.13, 95% confidence interval ‐0.42 to 0.16). The mean difference might be slightly inaccurate, as we did not adjust for clustering in our meta‐analysis. We observed inconsistency of results visually and noted statistical heterogeneity. 
+Authors' conclusions
+Our review highlights that discordance exists between studies examining blinded versus unblinded risk of bias assessments at the systematic review level. The best approach to risk of bias assessment remains unclear, however, given the increased time and resources required to conceal reports effectively, it may not be necessary for risk of bias assessments to be conducted under blinded conditions in a systematic review. 

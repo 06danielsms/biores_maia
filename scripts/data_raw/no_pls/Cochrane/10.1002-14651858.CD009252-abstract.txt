@@ -1,0 +1,15 @@
+Background
+Pelvic floor muscle training (PFMT) is an effective treatment for stress urinary incontinence in women. Whilst most of the PFMT trials have been done in women with stress urinary incontinence, there is also some trial evidence that PFMT is effective for urgency urinary incontinence and mixed urinary incontinence. Feedback or biofeedback are common adjuncts used along with PFMT to help teach a voluntary pelvic floor muscle contraction or to improve training performance. 
+Objectives
+To determine whether feedback or biofeedback adds further benefit to PFMT for women with urinary incontinence. 
+To compare the effectiveness of different forms of feedback or biofeedback.
+Search methods
+We searched the Cochrane Incontinence Group Specialised Trials Register (searched 13 May 2010) and the reference lists of relevant articles. 
+Selection criteria
+Randomised or quasi‐randomised trials in women with stress, urgency or mixed urinary incontinence (based on symptoms, signs or urodynamics). At least two arms of the trials included PFMT. In addition, at least one arm included verbal feedback or device‐mediated biofeedback. 
+Data collection and analysis
+Trials were independently assessed for eligibility and risk of bias. Data were extracted by two reviewers and cross‐checked. Disagreements were resolved by discussion or the opinion of a third reviewer. Data analysis was conducted in accordance with the Cochrane Handbook for Systematic Reviews of Intervention (version 5.1.0). Analysis within subgroups was based on whether there was a difference in PFMT between the two arms that had been compared. 
+Main results
+Twenty four trials involving 1583 women met the inclusion criteria; 17 trials contributed data to analysis for one of the primary outcomes. All trials contributed data to one or more of the secondary outcomes. Women who received biofeedback were significantly more likely to report that their urinary incontinence was cured or improved compared to those who received PFMT alone (risk ratio 0.75 , 95% confidence interval 0.66 to 0.86). However, it was common for women in the biofeedback arms to have more contact with the health professional than those in the non‐biofeedback arms. Many trials were at moderate to high risk of bias, based on trial reports. There was much variety in the regimens proposed for adding feedback or biofeedback to PFMT alone, and it was often not clear what the actual intervention comprised or what the purpose of the intervention was. 
+Authors' conclusions
+Feedback or biofeedback may provide benefit in addition to pelvic floor muscle training in women with urinary incontinence. However, further research is needed to differentiate whether it is the feedback or biofeedback that causes the beneficial effect or some other difference between the trial arms (such as more contact with health professionals). 

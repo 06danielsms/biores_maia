@@ -1,0 +1,14 @@
+Fluids for people with stroke
+Review question 
+What is the best fluid type, fluid volume, mode of fluid delivery, and duration of fluid treatment to reduce the risk of death or dependence in people with acute stroke? 
+Background 
+Fluids given into a vein (intravenous, or iv) or under the skin (subcutaneous) are commonly used in people with stroke, but there are no clear guidelines on the best fluid management in such cases. There are a number of possible different types of fluid that can be used: isotonic fluids, or crystalloids are solutions that contain similar amounts of dissolved salts as in normal cells and blood, whilst hypertonic fluids, or colloids usually contain more (or larger) dissolved particles than in normal cells and blood. Fluid can also be given in different volumes, or for different durations. Hence, we searched the available literature to find answers to these questions. 
+Study characteristics 
+The evidence is current to May 2015. We found 12 relevant studies (with 2351 participants) comparing colloids with crystalloids. Eleven of these studies included people with ischaemic stroke (stroke sustained due to a clot), whilst one study included people with haemorrhagic stroke (stroke due to a bleed). Five of these studies (1420 participants) also made a comparison between 0.9% saline, the most commonly prescribed iv fluid, and another fluid type. The largest study had 841 participants, whilst the smallest had 27 participants. The length of time that fluids were given varied between trials, from two hours to 10 days. 
+Ten studies revealed a source of funding. Of these, two studies were funded by fluid manufacturers. 
+Key results 
+We did not find any studies that examined the best fluid volume, mode of fluid delivery, or duration of fluid treatment. 
+We found that people with acute stroke given crystalloids (including 0.9% saline) had about the same risk of death or dependence as people given other fluid types. People given crystalloids also had a lower risk of pulmonary oedema, a complication that can lead to breathlessness due to excess collection of watery fluid in the lungs. From the evidence we obtained, it was difficult to make any concrete conclusions about which fluids were better for reducing brain swelling (cerebral oedema) or a serious lung infection (pneumonia). 
+We found no evidence to guide the best volume, duration, or mode of parenteral fluid delivery for people with acute stroke. 
+Quality of the evidence 
+The majority of studies had a low to moderate risk of bias based on study limitations and inconsistency. Most studies reported the outcomes they stated they would. 

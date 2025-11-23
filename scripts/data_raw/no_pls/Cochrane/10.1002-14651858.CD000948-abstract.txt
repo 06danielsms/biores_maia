@@ -1,0 +1,16 @@
+Background
+Endotracheal intubation is a common procedure in newborn intensive care units. The choice of the oral or nasal route for intubation is usually determined by an institution's customary practice. The procedure of intubation for both the oral and nasal routes can be associated with complications. This systematic review was undertaken to compare the complications of both methods. 
+Objectives
+The purpose of the review was to compare the complications associated with intubation by the nasal route with those associated with intubation by the oral route for mechanical ventilation in newborn infants. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group as outlined in The Cochrane Library was used. This included searches of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2006), MEDLINE (from January 1996 to July, 2006, all languages), EMBASE (1988 to July 2006) and CINAHL (from 1982 to July 2006), previous reviews including cross references and abstracts. A call was placed on the list servers, NICU‐NET and Neonatal Talk for unpublished trials, conference presentations and current trials. 
+Selection criteria
+All trials using random or quasi‐random allocation of patients to either the nasal or oral route of intubation were included. Study quality and eligibility were assessed independently by each author. 
+Data collection and analysis
+The standard method of the Cochrane Collaboration and the Neonatal Review Group was used to assess the methodological quality of the included studies.  The methodological quality of each study was reviewed by the second review author blinded to study authors and institutions. 
+Each review author extracted data separately before comparison and resolution of differences.  The standard method of the Neonatal Review Group was used to measure the effect of the different routes of intubation, using Relative Risk (RR) and 95% Confidence Intervals (CI). 
+Main results
+Only two eligible randomized trials were found. Data from these two trials did not demonstrate significant differences between the oral and nasal route of intubation for mechanically ventilated neonates. The rate of failure to intubate using the nasal route was higher in one study. One study found post extubation atelectasis occurred more frequently in nasally intubated infants who weighed less than 1500 grams. 
+The rates of malposition of the tube at the initial intubation, accidental extubation, tube blockage, re‐intubation after extubation, septicaemia, clinical infection and local trauma (nasal erosion or palatal groove) were not significantly different for the two groups. 
+Authors' conclusions
+Post extubation atelectasis may be more frequent after nasal intubation, particularly in very low birth weight infants. One route of intubation does not seem to be preferable to the other. There is a need for further randomized controlled trials containing larger numbers of infants. 

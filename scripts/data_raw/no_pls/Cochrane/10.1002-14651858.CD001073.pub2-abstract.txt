@@ -1,0 +1,14 @@
+Background
+The rate of retinopathy of prematurity (ROP) in moderately premature infants has decreased dramatically with improved care in the neonatal intensive care unit. A low rate of this disorder was unexpectedly observed among infants treated with intravenous D‐penicillamine to prevent hyperbilirubinaemia. This observation led to the investigation of its use, both enterally as well as intravenously, to prevent ROP. 
+Objectives
+To determine the effect of prophylactic administration of D‐penicillamine on the incidence of acute ROP or severe ROP and other morbidities in preterm infants. 
+Search methods
+We used the Cochrane Neonatal Review Group search strategy. Two review authors independently searched multiple electronic databases, previous reviews including cross references, abstracts, conference/symposia proceedings, and expert informants. We updated the search on November 27, 2012. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials if they administered D‐penicillamine and compared it with no treatment or placebo to premature infants and reported on the outcome of ROP. 
+Data collection and analysis
+We used the criteria and standard methods of the Cochrane Neonatal Review Group to assess the methodological quality of the included trials. One review author examined trials for validity. A second review author checked validity and they reached consensus on the final data before entry into this review. We used the standards of the Neonatal Cochrane Review Group to analyse data. 
+Main results
+Three randomised trials met the inclusion criteria. The meta‐analysis showed no significant differences in the risk of any stage ROP (typical risk ratio (RR) 0.32, 95% confidence interval (CI) 0.03 to 3.70), severe ROP (typical RR 0.38, 95% CI 0.03 to 4.26) or death (typical RR 0.95, 95% CI 0.68 to 1.32) in all treated infants. When the subgroup of infants under 1500 g birth weight was examined, the results were similar. No side effects were reported, and follow‐up at one year revealed no significant differences in spasticity or developmental delay. 
+Authors' conclusions
+Administration of prophylactic D‐penicillamine in preterm infants does not prevent acute or severe ROP, death or neurodevelopmental delay. D‐penicillamine cannot be recommended for the prevention of ROP based on the available evidence. 

@@ -1,0 +1,14 @@
+Background
+Functional endoscopic sinus surgery (FESS) has become a well‐established approach for treating patients with chronic rhinosinusitis (CRS) refractory to medical management. However, the surgical outcome may be compromised by postoperative inflammation, polyposis and adhesions, which often require subsequent intervention. Bioabsorbable, steroid‐eluting sinus stents are inserted into the nose, sinuses or both following surgery to prevent stenosis of the sinus openings during the postoperative healing period. The slow release of corticosteroid aims to decrease mucosal oedema and expedite wound healing. Whether a steroid‐eluting stent offers any beneficial effects in terms of improving sinonasal symptoms has not been systematically reviewed. 
+Objectives
+To assess the safety and efficacy of steroid‐eluting sinus stent placement in CRS patients after FESS. 
+Search methods
+The Cochrane Ear, Nose and Throat Disorders Group (CENTDG) Trials Search Co‐ordinator searched the CENTDG Trials Register; Central Register of Controlled Trials (CENTRAL 2015, Issue 4); PubMed; EMBASE; CINAHL; Web of Science; Clinicaltrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the search was 14 May 2015. 
+Selection criteria
+We included all randomised controlled trials (RCTs) comparing steroid‐eluting sinus stents with non‐steroid‐eluting sinus stents, nasal packing or no treatment in adult CRS patients undergoing FESS. 
+Data collection and analysis
+We used the standard methodological procedures expected by The Cochrane Collaboration.
+Main results
+We identified no RCTs that met our inclusion criteria. Among the 159 records retrieved using our search strategy, 21 trials had the potential to be included given that they had tested sinus stents, spacers and packing materials for patients with CRS undergoing FESS. However, we excluded these trials from the review because they met some but not all of the inclusion criteria. 
+Authors' conclusions
+We are unable to provide evidence to establish whether steroid‐eluting sinus stents have potential advantages and disadvantages for patients with CRS undergoing FESS. Future, high‐quality RCTs are needed to assess whether or not steroid‐eluting sinus stents confer any beneficial effects, over those of surgery alone, when compared to non‐steroid sinus stents. 

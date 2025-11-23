@@ -1,0 +1,18 @@
+Background
+Twin‐twin transfusion syndrome, a condition affecting monochorionic twin pregnancies, is associated with a high risk of perinatal mortality and morbidity. A number of treatments have been introduced to treat the condition but it is unclear which intervention improves maternal and fetal outcome. 
+Objectives
+The objective of this review was to evaluate the impact of treatment modalities in twin‐twin transfusion syndrome. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2013). 
+Selection criteria
+Randomised and quasi‐randomised studies of amnioreduction versus laser coagulation, septostomy versus laser coagulation or septostomy versus amnioreduction. 
+Data collection and analysis
+Two review authors independently assessed eligibility and extracted data. We contacted study authors for additional information. 
+Main results
+Three studies (253 women and 506 babies) were included. All three trials were judged to be of moderate quality. One study compared amnioreduction with septostomy (71 women), whilst the other two studies compared amnioreduction with endoscopic laser coagulation (182 women). Not all trials provided outcome data that could be included in all meta‐analyses. 
+Amnioreduction compared with laser coagulation  Although there was no difference in overall death between amnioreduction and laser coagulation (average risk ratio (RR) 0.87; 95% confidence interval (CI) 0.55 to 1.38 adjusted for clustering, two trials) or death of at least one infant per pregnancy (RR 0.91; 95% CI 0.75 to 1.09, two trials), or death of both infants per pregnancy (average RR 0.76; 95% 0.27 to 2.10, two trials), more babies were alive without neurological abnormality at the age of six years in the laser group than in the amnioreduction groups (RR 1.57; 95% CI 1.05 to 2.34 adjusted for clustering, one trial). There were no significant differences in the babies alive at six years with major neurological abnormality treated by laser coagulation or amnioreduction (RR 0.97; 95% CI 0.34 to 2.77 adjusted for clustering, one trial). Outcomes for death in this 2013 update are different from the previous 2008 update, where improvements in perinatal death and death of both infants per pregnancy were shown in the laser intervention arm. The NIHCD trial included in this update exerts an opposite direction of effects to the Eurofetus study, which was previously the only included laser study, hence the difference in outcome. 
+Amnioreduction compared with septostomy 
+There are no differences in overall death (RR 0.83; 95% CI 0.47 to 1.47, adjusted for clustering, one trial), death of at least one infant per pregnancy (RR 0.80; 95% CI 0.48 to 1.35, one trial), or death of both infants per pregnancy (RR 0.90; 95% CI 0.37 to 2.22, one trial) or gestational age at birth (RR 1.20; 95% CI ‐0.81 to 3.21, one trial) between amnioreduction and septostomy. 
+Authors' conclusions
+Endoscopic laser coagulation of anastomotic vessels should continue to be considered in the treatment of all stages of twin‐twin transfusion syndrome to improve neurodevelopmental outcomes. 
+Further research targeted towards assessing the effect of treatment on milder (Quintero stage 1 and 2) and more severe (Quintero stage 4) forms of twin‐twin transfusion syndrome is required. Studies should aim to assess long‐term outcomes of survivors. 

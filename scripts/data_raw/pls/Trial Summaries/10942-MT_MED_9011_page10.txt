@@ -1,0 +1,21 @@
+Clinical Study Results
+
+What adverse reactions did the participants have?
+
+The most common adverse reactions were constipation and injection site reactions.
+
+The table below shows the most common adverse reactions that happened in 2 or more participants during the study. There were other adverse reactions, but these happened in fewer participants. All of these adverse reactions are also listed in the adverse events section earlier in this summary.
+
+Most common adverse reactions during the study
+- Constipation: 66.7% (4) in Group 1, 0.0% (0) in Placebo, 22.2% (2) in MEDI0382, 33.3% (1) in Placebo, and 35.0% (7) in Total participants.
+- Injection site reactions: 50.0% (3) in Group 1, 0.0% (0) in Placebo, 44.4% (4) in MEDI0382, 0.0% (0) in Placebo, and 35.0% (7) in Total participants.
+- Bloated stomach: 16.7% (1) in Group 1, 50.0% (1) in Placebo, 22.2% (2) in MEDI0382, 33.3% (1) in Placebo, and 25.0% (5) in Total participants.
+- Diarrhea: 33.3% (2) in Group 1, 0.0% (0) in Placebo, 33.3% (3) in MEDI0382, 0.0% (0) in Placebo, and 25.0% (5) in Total participants.
+- Feeling of fullness: 0.0% (0) in Group 1, 0.0% (0) in Placebo, 44.4% (4) in MEDI0382, 0.0% (0) in Placebo, and 20.0% (4) in Total participants.
+- Indigestion: 0.0% (0) in Group 1, 0.0% (0) in Placebo, 44.4% (4) in MEDI0382, 0.0% (0) in Placebo, and 20.0% (4) in Total participants.
+- Loss of appetite: 66.7% (4) in Group 1, 0.0% (0) in Placebo, 0.0% (0) in MEDI0382, 0.0% (0) in Placebo, and 20.0% (4) in Total participants.
+- Skin redness at the injection site: 33.3% (2) in Group 1, 0.0% (0) in Placebo, 22.2%(2) in MEDI0382, 0.0% (0) in Placebo, and 20.0% (4) in Total participants.
+- Nausea: 33.3% (2) in Group 1, 0.0% (0) in Placebo, 11.1% (1) in MEDI0382, 0.0% (0) in Placebo, and 15.0% (3) in Total participants.
+- Feeling of spinning surroundings: 16.7% (1) in Group 1, 0.0% (0) in Placebo, 11.1% (1) in MEDI0382, 0.0% (0) in Placebo, and 10.0% (2) in Total participants.
+- Stomach pain: 0.0% (0) in Group 1, 0.0% (0) in Placebo, 22.2% (2) in MEDI0382, 0.0% (0) in Placebo, and 10.0% (2) in Total participants.
+- Tiredness: 0.0% (0) in Group 1, 0.0% (0) in Placebo, 22.2% (2) in MEDI0382, 0.0% (0) in Placebo, and 10.0% (2) in Total participants.

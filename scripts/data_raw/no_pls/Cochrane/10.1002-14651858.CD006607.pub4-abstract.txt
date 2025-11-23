@@ -1,0 +1,15 @@
+Background
+Oxygen therapy is widely used in the treatment of lung diseases. However, the effectiveness of oxygen therapy as a treatment for pneumonia is not well known. 
+Objectives
+To determine the effectiveness and safety of oxygen therapy in the treatment of pneumonia in adults older than 18 years. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) 2011, Issue 4, part of The Cochrane Library, www.thecochranelibrary.com (accessed 9 December 2011), which includes the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (1948 to November week 3, 2011) and EMBASE (1974 to December 2011). 
+Selection criteria
+Randomised controlled trials (RCTs) of oxygen therapy for adults with community‐acquired pneumonia (CAP) and nosocomial (hospital‐acquired) pneumonia (HAP or NP) in intensive care units (ICU). 
+Data collection and analysis
+Two review authors independently reviewed abstracts and assessed data for methodological quality. 
+Main results
+Three RCTs met our inclusion criteria. The studies enrolled 151 participants with CAP or immunosuppressed patients with pulmonary infiltrates. Overall, we found that non‐invasive ventilation can reduce the risk of death in the ICU, odd ratio (OR) 0.28, 95% confidence interval (CI) 0.09 to 0.88; endotracheal intubation, OR 0.26, 95% CI 0.11 to 0.61; complications, OR 0.23, 95% CI 0.08 to 0.70; and shorten ICU length of stay, mean duration (MD) ‐3.28, 95% CI ‐5.41 to ‐1.61. 
+Non‐invasive ventilation and standard oxygen supplementation via a Venturi mask were similar when measuring mortality in hospital, OR 0.54, 95% CI 0.11 to 2.68; two‐month survival, OR 1.67, 95% CI 0.53 to 5.28; duration of hospital stay, MD ‐1.00, 95% CI ‐2.05 to 0.05; and duration of mechanical ventilation, standard MD ‐0.26, 95% CI ‐0.66 to 0.14. Some outcomes and complications of non‐invasive ventilation were varied according to different participant populations. We also found that some subgroups had a high level of heterogeneity when conducting pooled analyses. 
+Authors' conclusions
+Non‐invasive ventilation can reduce the risk of death in the ICU, endotracheal intubation, shorten ICU stay and length of intubation. Some outcomes and complications of non‐invasive ventilation were varied according to different participant populations. Other than the oxygen therapy, we must mention the importance of standard treatment by physicians. The evidence is weak and we did not include participants with pulmonary tuberculosis and cystic fibrosis. More RCTs are required to answer these clinical questions. However, the review indicates that non‐invasive ventilation may be more beneficial than standard oxygen supplementation via a Venturi mask for pneumonia. 

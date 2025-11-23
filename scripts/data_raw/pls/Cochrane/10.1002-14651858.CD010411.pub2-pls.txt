@@ -1,0 +1,12 @@
+Systematic risk assessment (screening) for preventing cardiovascular disease
+Review question 
+Are systematic risk assessment (screening) programmes helpful in the prevention of cardiovascular disease? 
+Background 
+Cardiovascular disease (CVD) is a group of conditions affecting the heart and blood vessels. CVD is a global burden and is still the number one cause of early death and disability worldwide. Identification of those at increased risk of cardiovascular disease through screening‐like programmes may help with CVD prevention and management.This review assessed the effectiveness of systematic risk assessment or a screening‐like programme in reducing cardiovascular death, death from any cause, non‐fatal events (such as heart attacks, strokes and angina) and CVD risk factors in healthy adults and adults at high risk of CVD. 
+Study characteristics 
+We searched scientific databases for randomised controlled trials (clinical trials where people are allocated at random to one of two or more treatments), looking at the effects of systematic risk assessment in healthy adults or those at high risk of developing CVD. We did not include people who already had CVD (e.g. heart attacks and strokes), as these are already known to health services and are being treated. The evidence is current to January 2015. 
+Key results 
+Nine trials met our inclusion criteria. Limited data suggest that screening has no effect on deaths (from any cause) or the number of people having a stroke or developing coronary heart disease. Data were also limited for cardiovascular risk factors (blood lipids and blood pressure) where there were some favourable effects with systematic risk assessment, but there were differences between studies and so results are not certain. 
+Quality of the evidence 
+The evidence was generally of low or very low quality. Included studies were at some risk of bias, with four studies judged at high risk of bias. Bearing this in mind, the results of this review need to be interpreted cautiously. 
+There is currently limited evidence on the effects of systematic risk assessment for the prevention of CVD. We identified five ongoing trials and when the results are available we will incorporate these. 

@@ -1,0 +1,15 @@
+Background
+Ureteral stones frequently cause renal colic, and if left untreated, can lead to obstructive uropathy. Extracorporeal shock wave lithotripsy (ESWL) and ureteroscopy, with or without intracorporeal lithotripsy, are the most common interventions used to treat ureteral stones. ESWL treatment is less invasive than ureteroscopy, but has some limitations such as a high retreatment rate, and is not available in all centres. Recent advances in ureteroscopy have increased success rates and reduced complication rates. 
+Objectives
+To examine evidence from randomised controlled trials (RCTs) on the outcomes of ESWL or ureteroscopy in the treatment of ureteric calculi. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL in The Cochrane Library Issue 2, 2011), MEDLINE (1966 to March 2011), EMBASE (1980 to March 2011), CINAHL, Clinicaltrials.gov, Google Scholar, reference lists of articles and abstracts from conference proceedings, all without language restriction. 
+Selection criteria
+RCTs that compared ESWL with ureteroscopic retrieval of ureteric stones were included in this review. Study participants were adults with ureteric stones requiring intervention. Published and unpublished sources were considered for inclusion. 
+Data collection and analysis
+Three authors independently assessed study quality, risk of bias, and extracted data. Statistical analyses were performed using the random‐effects model. Results were expressed as risk ratios (RR) for dichotomous outcomes or mean differences (MD) for continuous data, both with 95% confidence intervals (CI). 
+Main results
+Seven RCTs (1205 patients) were included in the review. Stone‐free rates were lower in patients who underwent ESWL (7 studies, 1205 participants: RR 0.84, 95% CI 0.73 to 0.96) but re‐treatment rates were lower in ureteroscopy patients (6 studies, 1049 participants: RR 6.18, 95% CI 3.68 to 10.38. ESWL‐treated patients had less need for auxiliary treatment (5 studies, 751 participants: RR 0.43, 95% CI 0.25 to 0.74; fewer complications (7 studies, 1205 participants: RR 0.54, 95% CI 0.33 to 0.88); and shorter length of hospital stay (2 studies, 198 participants: MD ‐2.55 days, 95% CI ‐3.24 to ‐1.86). 
+Three studies adequately described the randomisation sequence, three studies were unclear on how they randomised, while one study had a high risk of selection bias. All the studies had an unclear risk of performance bias and detection bias, while all had a low risk of attrition bias, reporting bias, or other sources of bias identified. 
+Authors' conclusions
+Compared with ESWL, ureteroscopic removal of ureteral stones achieves a greater stone‐free state, but with a higher complication rate and longer hospital stay. 

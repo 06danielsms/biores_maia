@@ -1,0 +1,16 @@
+Background
+Abnormal delayed relaxation of skeletal muscles, known as myotonia, can cause disability in myotonic disorders. Sodium channel blockers, tricyclic antidepressive drugs, benzodiazepines, calcium‐antagonists, taurine and prednisone may be of use in reducing myotonia. 
+Objectives
+To consider the evidence from randomised controlled trials on the efficacy and tolerability of drug treatment in myotonia . 
+Search methods
+In July 2009 we updated the searches of the Cochrane Neuromuscular Disease Group Trials Specialized Register , The Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2009), MEDLINE (from January 1966) and EMBASE (from January 1980). We hand searched the grey literature and contacted disease experts and anti‐myotonic drug manufacturers. 
+Selection criteria
+We considered all (including quasi) randomised trials of participants with myotonia treated with any drug treatment versus no therapy, placebo or any other active drug treatment. 
+Primary outcome: reduction of clinical myotonia.
+Secondary outcomes:  (1) clinical relaxation time; (2) electromyographic relaxation time; (3) stair test; (4) presence of percussion myotonia; and (5) adverse events. 
+Data collection and analysis
+Two review authors extracted the data independently onto standardised extraction forms. Meta‐analysis was not possible. 
+Main results
+No new trials were found for this update.Ten double‐blind or single‐blind crossover studies involved a total of 143 participants of whom 113 had myotonic dystrophy type 1 and 30 had myotonia congenita. The studies were of poor quality and did not provide adequate data.Two small crossover studies without a washout period demonstrated a significant effect of imipramine and taurine in myotonic dystrophy. One small crossover study with a washout period demonstrated a significant effect of clomipramine in myotonic dystrophy. Meta‐analysis was not possible. 
+Authors' conclusions
+Due to insufficient good quality data and lack of randomised studies, it is impossible to determine whether drug treatment is safe and effective in the treatment of myotonia. Larger, well‐designed randomised controlled trials are needed to assess the efficacy and tolerability of drug treatment for myotonia. 

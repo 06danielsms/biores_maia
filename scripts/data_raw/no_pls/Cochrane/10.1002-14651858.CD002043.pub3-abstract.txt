@@ -1,0 +1,24 @@
+Background
+We know that the brain damage resulting from traumatic and other insults is not due solely to the direct consequences of the primary injury. A significant and potentially preventable contribution to the overall morbidity arises from secondary hypoxic‐ischaemic damage. Brain swelling accompanied by raised intracranial pressure (ICP) prevents adequate cerebral perfusion with well‐oxygenated blood. 
+Detection of raised ICP could be useful in alerting clinicians to the need to improve cerebral perfusion, with consequent reductions in brain injury. 
+Objectives
+To determine whether routine ICP monitoring in severe coma of any cause reduces the risk of all‐cause mortality or severe disability at final follow‐up. 
+Search methods
+We searched the Cochrane Injuries Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (OvidSP), EMBASE (OvidSP), CINAHL Plus, ISI Web of Science (SCI‐EXPANDED & CPCI‐S), clinical trials registries and reference lists. We ran the most recent search on 22 May 2015. 
+Selection criteria
+All randomised controlled studies of real‐time ICP monitoring by invasive or semi‐invasive means in acute coma (traumatic or non‐traumatic aetiology) versus clinical care without ICP monitoring (that is, guided only by clinical or radiological inference of the presence of raised ICP). 
+Data collection and analysis
+Two authors (ET and RF) worked independently to identify the one study that met inclusion criteria. JR and RF independently extracted data and assessed risk of bias. We contacted study authors for additional information, including details of methods and outcome data. 
+Main results
+One randomized controlled trial (RCT) meeting the selection criteria has been identified to date. 
+The included study had 324 participants. We judged risk of bias to be low for all categories except blinding of participants and personnel, which is not feasible for this intervention. There were few missing data, and we analysed all on an intention‐to‐treat basis. 
+Participants could be 13 years of age or older (mean age of sample 29; range 22 to 44), and all had severe traumatic brain injury, mostly due to traffic incidents. All were receiving care within intensive care units (ICUs) at one of six hospitals in either Bolivia or Ecuador. Investigators followed up 92% of participants for six months or until death. The trial excluded patients with a Glasgow Coma Score (GCS) equal to three and fixed dilated pupils on admission on the basis that they had sustained brain injury of an unsalvageable severity. 
+The study compared people managed using either an intracranial monitor or non‐invasive monitoring (imaging and clinical examination) to identify potentially harmful raised intracranial pressure. Both study groups used imaging and clinical examination measures. 
+Mortality at six months was 56/144 (39%) in the ICP‐monitored group and 67/153 (44%) in the non‐invasive group. 
+Unfavourable outcome (defined as death or moderate to severe disability at six months) as assessed by the extended Glasgow Outcome Scale (GOS‐E) was 80/144 (56%) in the ICP‐monitored group and 93/153 (61%) in the non‐invasive group. 
+Six percent of participants in the ICP monitoring group had complications related to the monitoring, none of which met criteria for being a serious adverse event. There were no complications relating to the non‐invasive group. 
+Other complications and adverse events were comparable between treatment groups, 70/157 (45%) in the ICP‐monitored group and 76/167 (46%) in the non‐invasive group. 
+Late mortality in both the monitored and non‐invasive groups was high, with 35% of deaths occurring > 14 days after injury. The authors comment that this high late mortality may reflect inadequacies in post‐ICU services for disabled survivors requiring specialist rehabilitation care. 
+Authors' conclusions
+The data from the single RCT studying the role of routine ICP monitoring in acute traumatic coma fails to provide evidence to support the intervention. 
+Research in this area is complicated by the fact that RCTs necessarily assess the combined impact of measurement of ICP with the clinical management decisions made in light of this data. Future studies will need to assess the added value of ICP data alongside other information from the multimodal monitoring typically performed in intensive care unit settings. Additionally, even within traumatically acquired brain injury (TBI), there is great heterogeneity in mechanisms, distribution, location and magnitude of injury, and studies within more homogeneous subgroups are likely to be more informative. 

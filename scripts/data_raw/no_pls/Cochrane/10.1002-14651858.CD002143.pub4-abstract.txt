@@ -1,0 +1,26 @@
+Background
+Palliative radiotherapy to the chest is often used in patients with lung cancer, but radiotherapy regimens are more often based on tradition than research results. This is an update of a Cochrane review first published in 2001 and previously updated in 2006. 
+Objectives
+The two objectives of this review were:
+1. To assess the effects of different palliative radiotherapy regimens on improving thoracic symptoms in patients with locally advanced or metastatic non‐small cell lung cancer who are not suitable for radical RT given with curative intent. 
+2. To assess the effects of radiotherapy dose on overall survival in patients with locally advanced or metastatic non‐small cell lung cancer who are not suitable for radical RT given with curative intent. 
+Search methods
+The electronic databases MEDLINE (1966 ‐ Jan 2014), EMBASE and the Cochrane Central Register of Controlled Trials, reference lists, handsearching of journals and conference proceedings, and discussion with experts were used to identify potentially eligible trials, published and unpublished. 
+Two authors (FM and RS) independently identified all studies that may be suitable for inclusion in the review. 
+We updated the search up to January 2014.
+Selection criteria
+Randomised controlled clinical trials comparing different regimens of palliative thoracic radiotherapy in patients with non‐small cell lung cancer. 
+Data collection and analysis
+The reviewers assessed search results independently and possible studies were highlighted and the full text obtained. Data were extracted and attempts were made to contact the original authors for missing information. 
+The primary outcome measure was improvement in major thoracic symptoms (degree and duration). Secondary outcome measures were short and long term toxicities, effect on quality of life and overall survival. 
+Patient reported outcomes were reported descriptively. Quantitative data such as survival and toxicity were analysed as dichotomous variables and reported using relative risks (RR). 
+For this update of the review a meta‐analysis of the survival data was carried out.
+Main results
+Fourteen randomised controlled trials (3576 patients) were included, with no new studies added in this update. 
+There were important differences in the doses of radiotherapy investigated, the patient characteristics including disease stage and performance status and the outcome measures.The doses of RT investigated ranged from 10 Gy in 1 fraction (10Gy/1F) to 60 Gy/30F over six weeks, with a total of 19 different dose/ fractionation regimens. 
+Potential biases were identified in some studies. Methods of randomisation, assessment of symptoms and statistical methods used were unclear in some papers. Withdrawal and drop‐outs were accounted for in all but one study. 
+All 13 studies that investigated symptoms reported that major thoracic symptoms improved following RT.There is no strong evidence that any regimen gives greater palliation. Higher dose regimens may give more acute toxicity and some regimens are associated with an increased risk of radiation myelitis. Variation in reporting of toxicities, in particular the absence of clear grading, means results of the meta‐analysis should be treated with caution. 
+Meta‐analysis of overall survival broken down by performance status, a key variable, is included in this update. Further information was sought from all the original authors if stratified data was not included in the original publication. Three published studies contained sufficient data and seven authors were able to provide further information which represented 1992 patients (56% of all patients). The absence of data for nearly half of the patients has affected the quality of evidence. 
+The meta‐analysis showed no significant difference in 1‐year overall survival between regimens with fewer radiotherapy fractions compared with regimens with more when patients were stratified by performance status. The results of the meta‐analysis of 1‐year overall survival for patients with good performance status (WHO performance status 0‐1) showed moderately high heterogeneity and a summary result was not thought meaningful. The results of 1‐year overall survival for patients with poor performance status was RR 0.96 (95% CI 0.91 to 1.02; moderate quality of evidence). 
+Authors' conclusions
+Radiotherapy for patients with incurable non‐small cell lung cancer can improve thoracic symptoms. Care should be taken with the dose to the spinal cord to reduce the risk of radiation myelopathy. The higher dose, more fractionated palliative radiotherapy regimens do not provide better or more durable palliation and their use to prolong survival is not supported by strong evidence. More research is needed into reducing the acute toxicity of large fraction regimens and into the role of radical compared to high dose palliative radiotherapy. In the future, large trials comparing different RT regimens may be difficult to set up because of the increasing use of systemic chemotherapy. Trials looking at how best to integrate these two modalities, particularly in good PS patients, need to be carried out. 

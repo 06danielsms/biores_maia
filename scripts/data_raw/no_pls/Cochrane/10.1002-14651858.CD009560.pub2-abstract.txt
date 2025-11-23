@@ -1,0 +1,16 @@
+Background
+Hypertriglyceridaemia is associated with many diseases including atherosclerosis, diabetes, hypertension and chylomicronaemia. Chinese herbal medicines have been used for a long time as lipid‐lowering agents. 
+Objectives
+To assess the effects and safety of Chinese herbal medicines for hypertriglyceridaemia.
+Search methods
+We searched a number of databases including The Cochrane Library, MEDLINE, EMBASE and several Chinese databases (all until May 2012). 
+Selection criteria
+Randomised controlled trials in participants with hypertriglyceridaemia comparing Chinese herbal medicines with placebo, no treatment, and pharmacological or non‐pharmacological interventions. 
+Data collection and analysis
+Two review authors independently extracted data and assessed the risk of bias. Any disagreement was resolved by discussion and a decision was achieved based on consensus. We assessed trials for risk of bias against key criteria: random sequence generation, allocation concealment, blinding of participants, incomplete outcome data, selective outcome reporting and other sources of bias. 
+Main results
+We included three randomised trials with 170 participants. Ninety participants were randomised to the Chinese herbal medicines groups and 80 to the comparator groups with numbers ranging from 50 to 60 participants per trial. The duration of treatment varied from four to six weeks. All the included trials were conducted in China and published in Chinese. Overall, the risk of bias of included trials was unclear. There were no outcome data in any of the trials on death from any cause, cardiovascular or cerebrovascular events, health‐related quality of life, or costs. 
+Three different herbal medicines, including Zhusuan Huoxue decoction, Huoxue Huayu Tongluo decoction, and Chushi Huayu decoction were evaluated. All three trials investigating Chinese herbal medicines treatment alone (two studies) or in combination with gemfibrozil (one study) reported results on serum triglyceride (TG) in favour of the herbal treatment. We did not perform a meta‐analysis due to significant clinical heterogeneity between the studies. 
+No relevant differences in adverse effects occurred and no serious adverse events were noted. 
+Authors' conclusions
+The present systematic review suggests that Chinese herbal medicines may have positive effects on hypertriglyceridaemia. The trials did not report serious adverse effects following Chinese herbal medicines treatment. However, based on an unclear risk of bias in included studies and lack of patient‐important long‐term outcomes, no definite conclusion could be reached. 

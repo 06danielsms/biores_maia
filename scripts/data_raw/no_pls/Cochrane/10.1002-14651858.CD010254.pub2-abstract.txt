@@ -1,0 +1,18 @@
+Background
+Rosuvastatin is one of the most potent statins and is currently widely prescribed. It is therefore important to know the dose‐related magnitude of effect of rosuvastatin on blood lipids. 
+Objectives
+Primary objective 
+To quantify the effects of various doses of rosuvastatin on serum total cholesterol, low‐density lipoprotein (LDL)‐cholesterol, high‐density lipoprotein (HDL)‐cholesterol, non‐HDL‐cholesterol and triglycerides in participants with and without evidence of cardiovascular disease. 
+Secondary objectives 
+To quantify the variability of the effect of various doses of rosuvastatin.
+To quantify withdrawals due to adverse effects (WDAEs) in the randomized placebo‐controlled trials. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) Issue 10 of 12, 2014 in The Cochrane Library, MEDLINE (1946 to October week 5 2014), EMBASE (1980 to 2014 week 44), Web of Science Core Collection (1970 to 5 November 2014) and BIOSIS Citation Index (1969 to 31 October 2014). No language restrictions were applied. 
+Selection criteria
+Randomized controlled and uncontrolled before‐and‐after trials evaluating the dose response of different fixed doses of rosuvastatin on blood lipids over a duration of three to 12 weeks. 
+Data collection and analysis
+Two review authors independently assessed eligibility criteria for studies to be included and extracted data. WDAEs information was collected from the placebo‐controlled trials. 
+Main results
+One‐hundred and eight trials (18 placebo‐controlled and 90 before‐and‐after) evaluated the dose‐related efficacy of rosuvastatin in 19,596 participants. Rosuvastatin 10 to 40 mg/day caused LDL‐cholesterol decreases of 46% to 55%, when all the trials were combined using the generic inverse variance method. The quality of evidence for these effects is high. Log dose‐response data over doses of 1 to 80 mg, revealed strong linear dose‐related effects on blood total cholesterol, LDL‐cholesterol and non‐HDL‐cholesterol. When compared to atorvastatin, rosuvastatin was about three‐fold more potent at reducing LDL‐cholesterol. There was no dose‐related effect of rosuvastatin on blood HDL‐cholesterol, but overall, rosuvastatin increased HDL by 7%. There is a high risk of bias for the trials in this review, which would affect WDAEs, but unlikely to affect the lipid measurements. WDAEs were not statistically different between rosuvastatin and placebo in 10 of 18 of these short‐term trials (risk ratio 0.84; 95% confidence interval 0.48 to 1.47). 
+Authors' conclusions
+The total blood total cholesterol, LDL‐cholesterol and non‐HDL‐cholesterol‐lowering effect of rosuvastatin was linearly dependent on dose. Rosuvastatin log dose‐response data were linear over the commonly prescribed dose range. Based on an informal comparison with atorvastatin, this represents a three‐fold greater potency. This review did not provide a good estimate of the incidence of harms associated with rosuvastatin because of the short duration of the trials and the lack of reporting of adverse effects in 44% of the placebo‐controlled trials. 

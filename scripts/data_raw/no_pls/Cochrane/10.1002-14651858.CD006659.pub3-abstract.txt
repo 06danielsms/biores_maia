@@ -1,0 +1,15 @@
+Background
+Inborn errors of metabolism are genetic conditions which can lead to abnormalities in the synthesis and metabolism of proteins, carbohydrates, or fats. It has been proposed that in some instances carnitine supplementation should be provided to infants with a suspected metabolic disease as an interim measure, particularly whilst awaiting test results. Carnitine supplementation is used in the treatment of primary carnitine deficiency, and also where the deficiency is a secondary complication of several inborn errors of metabolism, such as organic acidaemias and fatty acid oxidation defects in children and adults. 
+Objectives
+To assess the effectiveness and safety of carnitine supplementation in the treatment of inborn errors of metabolism. 
+Search methods
+We searched the Cystic Fibrosis and Genetic Disorders Group's Inborn Errors of Metabolism Trials Register, the Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 4) and MEDLINE via Ovid (1950 to July week 4 2007), LILACS (15/05/2008) and Iranmedex (15/05/2008) and also the reference lists of retrieved articles. 
+Date of most recent search of the Group's Inborn Errors of Metabolism Register: 27 October 2011. 
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials comparing carnitine supplementation (in different dose, frequency, or duration) versus placebo in children and adults diagnosed with an inborn error of metabolism. 
+Data collection and analysis
+Two authors independently screened and assessed the eligibility of the identified trials. 
+Main results
+No trials were included in the review.
+Authors' conclusions
+There are no published or ongoing randomised controlled clinical trials relevant to this review question. Therefore, in the absence of any high level evidence, clinicians should base their decisions on clinical experience and in conjunction with preferences of the individual where appropriate. This does not mean that carnitine is ineffective or should not be used in any inborn error of metabolism. However, given the lack of evidence both on the effectiveness and safety of carnitine and on the necessary dose and frequency to be prescribed, the current prescribing practice should continue to be observed and monitored with care until further evidence is available. Methodologically sound trials, reported according to the Consolidated Standards of Reporting Trials (CONSORT) statement, are required. It should be considered whether placebo‐controlled trials in potentially lethal diseases, e.g. carnitine transporter disorder or glutaric aciduria type I, are ethical. 

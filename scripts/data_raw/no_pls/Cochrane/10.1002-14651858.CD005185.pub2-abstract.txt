@@ -1,0 +1,14 @@
+Background
+Thiazide diuretics are one of the most commonly prescribed antihypertensive agents worldwide. Thiazides reduce urinary calcium excretion. Chronic ingestion of thiazides is associated with higher bone mineral density. It has been suggested that thiazides may prevent hip fracture. However, there are concerns that diuretics, by increasing the risk of fall in elderly, could potentially negate its beneficial effects on hip fracture. 
+Objectives
+To assess any association between the use of thiazide diuretics and the risk of hip fracture in adults. 
+Search methods
+We searched eligible studies up to December 2008 in MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (CENTRAL), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), International Pharmaceutical Abstracts, the Database of Abstracts of Review of Effects (DARE) and reference lists of previous reviews and included studies. 
+Selection criteria
+All randomized controlled trials and observational studies, which assessed the association between thiazide diuretic use and hip fracture. 
+Data collection and analysis
+Two review authors independently applied the selection criteria, extracted data and assessed risk of bias of each study selected.  The results were summarized descriptively and quantitatively. Cohort studies and case control studies were analysed separately. 
+Main results
+No randomized control trials were found. Twenty‐one observational studies with nearly four hundred thousand participants were included. Six of them were cohort studies and 15 were case‐control studies. Two cohort studies appear to involve the same cohort so there were only 5 unique ones. The risk of bias was assessed with the Newcastle‐Ottawa Scale (NOS). Five cohort studies had low risk of bias and one had moderate risk of bias. Seven case control studies had low risk of bias and 8 had moderate risk of bias. Meta‐analysis of cohort studies showed that thiazide use was associated with a reduction in risk of hip fracture by 24%, pooled RR 0.76 (95% CI 0.64‐0.89; p = 0.0009). We chose not to provide a pooled summary statistics for case‐control studies because of high heterogeneity (Tau2 = 0.03, I2 = 62%, p = 0.0008). 
+Authors' conclusions
+Thiazides appear to reduce the risk of hip fracture based on observational studies. Randomized controlled trials are needed to confirm these findings.   

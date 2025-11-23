@@ -1,0 +1,14 @@
+Background
+Restorative proctocolectomy with ileo pouch anal anastomosis (IPAA) is the main surgical treatment for patients with ulcerative colitis (UC) and familial adenomatous polyposis (FAP). With the advancements of minimal‐invasive surgery this demanding operation is increasingly being performed laparoscopically. Therefore, the presumed benefits of the laparoscopic approach need to be systematically evaluated. 
+Objectives
+To compare the beneficial and harmful effects of laparoscopic versus open IPAA for patients with UC and FAP. 
+Search methods
+We searched The Cochrane IBD/FBD Group Specialized Trial Register (April 2007), The Cochrane Library (Issue 1, 2007), MEDLINE (1990 to April 2007), EMBASE (1990 to April 2007), ISI Web of Knowledge (1990 to April 2007) and the web casts of the American Society of Colon and Rectal Surgeons (ASCRS) (up to 2006) for all trials comparing open versus laparoscopic IPAA. 
+Selection criteria
+All trials in patients with UC or FAP comparing any kind of laparoscopic IPAA versus open IPAA. No language limitations were applied. 
+Data collection and analysis
+Two authors independently performed selection of trials and data extraction. The methodological quality of all included trials was evaluated to assess bias risk. Analysis of RCTs and non‐RCTs was performed separately. Analyses were based on the intention‐to‐treat principle. Authors were requested additional information in case of missing data. Sensitivity and subgroup analyses were performed if appropriate. 
+Main results
+Eleven trials included 607 patients of whom 253 (41%) in the laparoscopic IPAA group. Only one of the included trials was a randomised controlled trial. There were no significant differences in mortality or complications between the two groups. Reoperation and readmission rates were not significantly different. Operative time was significantly longer in the laparoscopic group both in the RCT and meta‐analysis of non‐RCTs (weighted mean difference (WMD) 91 minutes; 95% Confidence Interval (CI) 53 to 130). There were no significant differences between the two groups regarding postoperative recovery parameters. Total incision length was significantly shorter in the laparoscopic group, while two trials evaluating cosmesis found significantly higher cosmesis scores in the laparoscopic group. Other long‐term outcomes were poorly reported. 
+Authors' conclusions
+The laparoscopic IPAA is a feasible and safe procedure. Short‐term advantages of the laparoscopic approach seem to be limited and their clinical significance is arguable. Large high‐quality trials focusing on differences regarding specific postoperative complications, cosmesis, quality of life and costs are needed. 

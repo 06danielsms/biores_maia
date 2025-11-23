@@ -1,0 +1,28 @@
+In IVF, does transferring the embryo in media containing high concentrations of hyaluronic acid result in more live births? 
+What is IVF? 
+In vitro fertilisation (IVF) is a fertility treatment that helps people with fertility problems to have a baby. During IVF an egg from a woman's ovaries is fertilised with sperm in a laboratory. The egg can be placed in a dish with multiple sperm to fertilise it, or a single sperm can be injected directly into it (intracytoplasmic sperm injection; ICSI). The fertilised egg (an embryo) is then placed (implanted) into the woman's womb to grow and develop. 
+The embryo is transferred to the womb in a special transfer media, a solution containing compounds that help the embryo stick (adhere) successfully to the inside of the womb (implantation). Hyaluronic acid is a natural compound found in the body that acts as a binding and protective agent in tissues. It is often added to embryo transfer media to help implant the embryo. 
+Why we did this Cochrane Review 
+We wanted to find out whether using transfer media with high concentrations of adherence compounds for embryo transfer such as hyaluronic acid improves success in implanting embryos, resulting in more live births. 
+What did we do? 
+We searched for studies that investigated the use of embryo transfer media containing different concentrations of hyaluronic acid in IVF/ICSI. 
+We looked for randomised controlled studies in which the treatments received are decided at random, because these studies usually give the most reliable evidence about the effects of a treatment. We assessed the evidence by looking at how the studies were conducted, study sizes, and whether study findings were consistent. 
+Search date: we included evidence published up to January 2020. 
+What we found 
+We found 26 studies including 6704 women aged 27 to 35 years who underwent IVF/ICSI. These studies compared embryo transfer using media containing high concentrations of hyaluronic acid versus solutions containing no or low concentrations of hyaluronic acid. 
+We were interested in learning how the concentration of hyaluronic acid in the transfer solution affected the numbers of: 
+· live births;
+· miscarriages (loss of pregnancy before 20 weeks' gestation);
+· clinical pregnancies;
+· multiple pregnancies; and
+· adverse (unwanted) events.
+What are the results of our review? 
+Embryo transfer using media with high concentrations of hyaluronic acid probably increases the number of live births compared with using solutions with low concentrations or no hyaluronic acid (10 studies). If transfer media with low concentrations or no hyaluronic acid have a 33% chance of resulting in a live birth, solutions with high concentrations increase the chance of a live birth to between 37% and 44%. There would probably be 1 additional live birth for every 14 embryos transferred in a high‐concentration hyaluronic acid solution. 
+High concentrations of hyaluronic acid in the embryo transfer solution probably also increase the number of clinical pregnancies (17 studies) and the number of multiple pregnancies (7 studies). 
+Using transfer solutions containing high concentrations of hyaluronic acid may result in slightly fewer miscarriages (7 studies). But our analysis did not show a clear difference if we left out studies whose results varied widely. 
+Reported adverse events included ectopic pregnancies (when an embryo becomes implanted outside the womb) and abnormalities affecting the embryo or the foetus. Similar numbers of adverse events were reported for both types of transfer solution (high and low concentrations of hyaluronic acid): we found no evidence that the concentration of hyaluronic acid in the transfer solution affected the number of adverse events reported. 
+How reliable are these results? 
+We are moderately confident about our results for the numbers of live births, clinical pregnancies, and multiple pregnancies. Our results may change if further evidence becomes available. 
+We are less confident about the rate of miscarriage and the number of adverse events, because results for these varied widely. Our results are likely to change if further evidence becomes available. 
+Conclusions 
+Embryo transfer using solutions containing high concentrations of hyaluronic acid probably increases the number of live births in IVF/ICSI. Transfer solutions containing high concentrations of hyaluronic acid may slightly decrease the rate of miscarriage. 

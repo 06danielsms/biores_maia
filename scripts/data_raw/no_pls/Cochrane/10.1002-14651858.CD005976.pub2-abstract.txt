@@ -1,0 +1,14 @@
+Background
+Pneumonia is the leading cause of mortality in children under five years of age. Treatment of pneumonia requires an effective antibiotic used in adequate doses for an appropriate duration. Recommended duration of treatment ranges between 7 and 14 days, but this is not based on any empirical evidence. Shorter duration of therapy, if found to be effective, could be particularly important in resource‐poor settings where there is a high risk of death, poor access to medicines and health care and limited budgets for medicines. 
+Objectives
+To evaluate the efficacy of short‐course versus long‐course therapy with the same antibiotic for non‐severe community‐acquired pneumonia (CAP) in children aged 2 to 59 months. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2010, Issue 3) which contains the Cochrane Acute Respiratory Infections Group's Specialised Register and the Database of Abstracts of Reviews of Effects, MEDLINE (OVID) (January 1966 to August Week 4, 2010), EMBASE (Embase.com) (1974 to August 2010) and LILACS (1982 to August 2010). 
+Selection criteria
+All randomised controlled trials (RCTs) evaluating the efficacy of short‐course versus long‐course therapy using the same antibiotic for non‐severe CAP in children. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted the data.
+Main results
+Four studies (6177 children) were included. Analysis of three days versus five days of treatment with the same antibiotic for non‐severe CAP in children showed non‐significant differences in rates of clinical cure at the end of treatment (risk ratio (RR) 0.99; 95% confidence interval (CI) 0.97 to 1.01), treatment failure at the end of treatment (RR 1.07; 95% CI 0.92 to 1.25), and relapse rate after seven days of clinical cure (RR 1.09; 95% CI 0.84 to 1.42), and we found no heterogeneity in the results. Subgroup analysis evaluating the impact of different antibiotics showed non‐significant differences for these outcomes with different durations of therapy. 
+Authors' conclusions
+The evidence of this review suggests that a short course (three days) of antibiotic therapy is as effective as a longer treatment (five days) for non‐severe CAP in children under five years of age. However, there is a need for more well‐designed RCTs to support our review findings. 

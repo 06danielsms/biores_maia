@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original Cochrane review published in Issue 4, 2010 (Kirthi 2010). Migraine is a common, disabling condition and a burden for the individual, health services and society. Many sufferers choose not to, or are unable to, seek professional help and rely on over‐the‐counter analgesics. Co‐therapy with an antiemetic should help to reduce nausea and vomiting commonly associated with migraine headaches. 
+Objectives
+To determine the efficacy and tolerability of aspirin, alone or in combination with an antiemetic, compared to placebo and other active interventions in the treatment of acute migraine headaches in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Relief Database, ClinicalTrials.gov, and reference lists for studies through 10 March 2010 for the original review and to 31 January 2013 for the update. 
+Selection criteria
+We included randomised, double‐blind, placebo‐controlled or active‐controlled studies, or both, using aspirin to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Numbers of participants achieving each outcome were used to calculate relative risk and numbers needed to treat (NNT) or harm (NNH) compared to placebo or other active treatment. 
+Main results
+No new studies were found for this update. Thirteen studies (4222 participants) compared aspirin 900 mg or 1000 mg, alone or in combination with metoclopramide 10 mg, with placebo or other active comparators, mainly sumatriptan 50 mg or 100 mg. For all efficacy outcomes, all active treatments were superior to placebo, with NNTs of 8.1, 4.9 and 6.6 for 2‐hour pain‐free, 2‐hour headache relief, and 24‐hour headache relief with aspirin alone versus placebo, and 8.8, 3.3 and 6.2 with aspirin plus metoclopramide versus placebo. Sumatriptan 50 mg did not differ from aspirin alone for 2‐hour pain‐free and headache relief, while sumatriptan 100 mg was better than the combination of aspirin plus metoclopramide for 2‐hour pain‐free, but not headache relief; there were no data for 24‐hour headache relief. 
+Adverse events were mostly mild and transient, occurring slightly more often with aspirin than placebo. 
+Additional metoclopramide significantly reduced nausea (P < 0.00006) and vomiting (P = 0.002) compared with aspirin alone. 
+Authors' conclusions
+We found no new studies since the last version of this review. Aspirin 1000 mg is an effective treatment for acute migraine headaches, similar to sumatriptan 50 mg or 100 mg. Addition of metoclopramide 10 mg improves relief of nausea and vomiting. Adverse events were mainly mild and transient, and were slightly more common with aspirin than placebo, but less common than with sumatriptan 100 mg. 

@@ -1,0 +1,16 @@
+Background
+Both chemotherapy and endocrine therapy can be used as treatments for metastatic breast cancer. 
+Objectives
+To review the evidence and determine whether starting treatment with chemotherapy or starting treatment with endocrine therapy has the more beneficial effect on outcomes (survival, response rate, toxicity and quality of life). 
+Search methods
+The Cochrane Breast Cancer Group Specialised Register was searched (31 August 2006) using the codes for "advanced breast cancer", "chemotherapy" and "endocrine therapy". Details of the search strategy applied by the Group to create the register, and the procedure used to code references, are described in the Group's module in The Cochrane Library. Handsearching the proceedings of the annual meetings of the American Society of Clinical Oncology (2005 to 2006) and the San Antonio Breast Cancer Symposium (2005) were also conducted. A further search was carried out in the Specialised Register (until 2008), MEDLINE (2008 to 24 September 2010), EMBASE (2008 to 30 September 2010) and the WHO International Clinical Trials Registry Platform search portal (23 July 2010). 
+Selection criteria
+Randomised trials comparing the effects of chemotherapy alone with endocrine therapy alone on pre‐specified endpoints in women with metastatic breast cancer. 
+Data collection and analysis
+Data were collected from published trials. Hazard ratios were derived for survival analysis and a fixed‐effect model was used for meta‐analysis. Response rates were analysed as dichotomous variables. Toxicity and quality of life data were extracted, where present. 
+Main results
+The primary analysis of overall effect using hazard ratios derived from published survival curves involved six trials (692 women). No significant difference was seen (hazard ratio 0.94, 95% CI 0.79 to 1.12, P = 0.5). A test for heterogeneity gave a P value of 0.1. 
+A pooled estimate of reported response rates in eight trials involving 817 women showed a significant advantage for chemotherapy over endocrine therapy with a relative risk of 1.25 (95% CI 1.01 to 1.54, P = 0.04). However the point estimates for the two largest trials were in opposite directions, and an overall test for heterogeneity gave a P value of 0.0009. 
+There was little information available on toxicity and quality of life. Six of the seven fully published trials commented on increased toxicity with chemotherapy, mentioning nausea, vomiting and alopecia. Three of the seven trials mentioned aspects of quality of life, with differing results. Only one trial formally measured quality of life, concluding that it was better with chemotherapy. 
+Authors' conclusions
+In women with metastatic breast cancer and where hormone receptors are present, a policy of treating first with endocrine therapy rather than chemotherapy is recommended except in the presence of rapidly progressive disease. 

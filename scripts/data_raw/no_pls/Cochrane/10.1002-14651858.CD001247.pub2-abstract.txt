@@ -1,0 +1,14 @@
+Background
+Increased body temperatures are common in patients with acute stroke and are associated with poor outcome. In animal models of focal cerebral ischaemia, temperature‐lowering therapy reduces infarct volume. In patients with acute stroke, lowering temperature may therefore improve outcome. This is an update of a Cochrane review first published in 1999. 
+Objectives
+To assess the effects of pharmacological and physical strategies to reduce body or brain temperature in patients with acute stroke. 
+Search methods
+We searched the Cochrane Stroke Group trials register (last searched December 2007). In addition, we searched MEDLINE and EMBASE (January 1998 to December 2007). We scanned references and contacted authors of included trials. For the previous version of this review, the authors contacted pharmaceutical companies and manufactures of cooling equipment in this field. 
+Selection criteria
+We considered all completed randomised or non‐randomised controlled clinical trials, published or unpublished, where pharmacological or physical strategies or both to reduce temperature were applied in patients with acute ischaemic stroke or intracerebral haemorrhage. Outcome measures were death or dependency (modified Rankin Scale score ≥ 3) at the end of follow up, and adverse effects. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, assessed trial quality, and extracted and cross‐checked the data. 
+Main results
+We included five pharmacological temperature reduction trials and three physical cooling trials involving a total of 423 participants. We found no statistically significant effect of pharmacological or physical temperature‐lowering therapy in reducing the risk of death or dependency (odds ratio (OR) 0.9, 95% confidence interval (CI) 0.6 to 1.4) or death (OR 0.9, 95% CI 0.5 to 1.5). Both interventions were associated with a non‐significant increase in the occurrence of infections. 
+Authors' conclusions
+There is currently no evidence from randomised trials to support routine use of physical or pharmacological strategies to reduce temperature in patients with acute stroke. Large randomised clinical trials are needed to study the effect of such strategies. 

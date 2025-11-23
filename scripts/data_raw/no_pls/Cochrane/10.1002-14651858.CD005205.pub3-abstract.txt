@@ -1,0 +1,15 @@
+Background
+Many people with atopic eczema are reluctant to use the most commonly recommended treatments because they fear the long‐term health effects. As a result, many turn to dietary supplements as a possible treatment approach, often with the belief that some essential ingredient is 'missing' in their diet. Various supplements have been proposed, but it is unclear whether any of these interventions are effective. 
+Objectives
+To evaluate dietary supplements for treating established atopic eczema/dermatitis.
+Evening primrose oil, borage oil, and probiotics are covered in other Cochrane reviews.
+Search methods
+We searched the following databases up to July 2010: the Cochrane Skin Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE (from 2005), EMBASE (from 2007), PsycINFO (from 1806), AMED (from 1985), LILACS (from 1982), ISI Web of Science, GREAT (Global Resource of EczemA Trials) database, and reference lists of articles. We searched ongoing trials registers up to April 2011. 
+Selection criteria
+Randomised controlled trials (RCTs) of dietary supplements for the treatment of those with established atopic eczema/dermatitis. 
+Data collection and analysis
+Two authors independently screened the titles and abstracts, read the full text of the publications, extracted data, and assessed the risk of bias. 
+Main results
+We included 11 studies with a total of 596 participants. Two studies assessed fish oil versus olive oil or corn oil placebo. The following were all looked at in single studies: oral zinc sulphate compared to placebo, selenium versus selenium plus vitamin E versus placebo, vitamin D versus placebo, vitamin D versus vitamin E versus vitamins D plus vitamin E together versus placebo, pyridoxine versus placebo, sea buckthorn seed oil versus sea buckthorn pulp oil versus placebo, hempseed oil versus placebo, sunflower oil (linoleic acid) versus fish oil versus placebo, and DHA versus control (saturated fatty acids of the same energy value). Two small studies on fish oil suggest a possible modest benefit, but many outcomes were explored. A convincingly positive result from a much larger study with a publicly‐registered protocol is needed before clinical practice can be influenced. 
+Authors' conclusions
+There is no convincing evidence of the benefit of dietary supplements in eczema, and they cannot be recommended for the public or for clinical practice at present. Whilst some may argue that at least supplements do not do any harm, high doses of vitamin D may give rise to serious medical problems, and the cost of long‐term supplements may also mount up. 

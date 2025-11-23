@@ -1,0 +1,14 @@
+Background
+Tetanus is a severe disease that can be prevented by vaccination. In developing countries vaccination coverage is not always high. Cases still occur also in developed countries, particularly in elderly people owing to their reduced immuno protection. There are about 1 million tetanus cases per year globally. In animal studies, vitamin C has protected against various infections and bacterial toxins. In a study with rats, vitamin C protected against the purified tetanus toxin. 
+Objectives
+To assess the prophylactic and therapeutic effect of vitamin C on tetanus.
+Search methods
+In May 2013 we searched the Cochrane Wounds Group Specialised Register; The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations ); and Ovid EMBASE for this third update. 
+Selection criteria
+Controlled trials of vitamin C as a prevention or treatment for tetanus, whether or not these were placebo controlled, in any language, published or unpublished. Two review authors independently made inclusion decisions. 
+Data collection and analysis
+Both review authors independently extracted data from trial reports and assessed methodological quality. Since one of the cells in a 2 × 2 table had no events, we calculated the odds ratio (OR) and its 95% confidence interval (CI) for case fatality rate by using the Peto‐method. Another of the 2 × 2 tables had no empty cells and the inverse‐variance method was used to calculate its risk ratio (RR) estimate and 95% CI. We also used the Fisher's exact test to calculate the exact 95% CI for the OR of the 2 × 2 table with the empty cell. 
+Main results
+One single trial was eligible for inclusion. This non‐randomised, unblinded, controlled trial undertaken in Bangladesh involved 117 tetanus patients. Vitamin C at a dosage of 1 g/day was administered intravenously alongside conventional treatment. At recruitment, the participants were stratified into two age groups and the results were reported by age. There was a significant difference in the vitamin C effect between the two age groups (P = 0.01). In the tetanus patients aged 1 to 12 years (n = 62), vitamin C treatment was associated with a 100% reduction in case fatality rate (95% CI from ‐100% to ‐94%). In patients aged 13 to 30 years (n = 55), vitamin C treatment was associated with a 45% reduction in case fatality rate (95% CI from ‐69% to ‐5%). 
+Authors' conclusions
+A single, non‐randomised, poorly reported trial of vitamin C as a treatment for tetanus suggests a considerable reduction in mortality. However, concerns about trial quality mean that this result must be interpreted with caution and vitamin C cannot be recommended as a treatment for tetanus on the basis of this evidence. New trials should be carried out to examine the effect of vitamin C on tetanus treatment. 

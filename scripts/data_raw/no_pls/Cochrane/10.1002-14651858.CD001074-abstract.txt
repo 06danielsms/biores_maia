@@ -1,0 +1,14 @@
+Background
+Randomized trials have shown that the neonatal mortality rate of low birth‐weight babies can be reduced by keeping them warm. For low birth‐weight babies nursed in incubators, warm conditions may be achieved either by heating the air to a desired temperature, or by servo‐controlling the baby's body temperature at a desired set‐point. 
+Objectives
+In low birth weight infants, to determine the effect on death and other important clinical outcomes of targeting body temperature rather than air temperature as the end‐point of control of incubator heating. 
+Search methods
+Standard search strategy of the Cochrane Neonatal Review Group. Searches were made of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2004) and MEDLINE, 1966 to April 2008. 
+Selection criteria
+Randomized or quasi‐randomized trials which test the effects of having the heat output of the incubator servo‐controlled from body temperature compared with setting a constant incubator air temperature. 
+Data collection and analysis
+Trial methodologic quality was systematically assessed. Outcome measures included death, timing of death, cause of death, and other clinical outcomes. Categorical outcomes were analyzed using relative risk and risk difference. Meta‐analysis assumed a fixed effect model. 
+Main results
+Two eligible trials were found. In total, they included 283 babies and 112 deaths. Compared to setting a constant incubator air temperature of 31.8C, servo‐control of abdominal skin temperature at 36C reduces the neonatal death rate among low birth weight infants: relative risk 0.72 (95% CI 0.54, 0.97); risk difference ‐12.7% (95% CI ‐1.6, ‐23.9). This effect is even greater among VLBW infants. 
+Authors' conclusions
+During at least the first week after birth, low birth weight babies should be provided with a carefully regulated thermal environment that is near the thermoneutral point. For LBW babies in incubators, this can be achieved by adjusting incubator temperature to maintain an anterior abdominal skin temperature of at least 36C, using either servo‐control or frequent manual adjustment of incubator air temperature. 

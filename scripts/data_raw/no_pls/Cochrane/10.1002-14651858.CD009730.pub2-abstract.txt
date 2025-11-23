@@ -1,0 +1,16 @@
+Background
+Cystic fibrosis is a multi‐system disease characterised by the production of thick secretions causing recurrent pulmonary infection, often with unusual bacteria. Intravenous antibiotics are commonly used in the treatment of acute deteriorations in symptoms (pulmonary exacerbations); however, recently the assumption that exacerbations are due to increases in bacterial burden has been questioned. 
+Objectives
+To establish if intravenous antibiotics for the treatment of pulmonary exacerbations in people with cystic fibrosis improve short‐ and long‐term clinical outcomes. 
+Search methods
+We searched the Cochrane Cystic Fibrosis Trials Register, compiled from electronic database searches and handsearching of journals and conference abstract books. We also searched the reference lists of relevant articles and reviews and ongoing trials registers. 
+Date of last search of Cochrane trials register: 27 July 2015.
+Selection criteria
+Randomised controlled trials and the first treatment cycle of cross‐over studies comparing intravenous antibiotics (given alone or in an antibiotic combination) with placebo, inhaled or oral antibiotics for people with cystic fibrosis experiencing a pulmonary exacerbation. 
+Data collection and analysis
+The authors assessed studies for eligibility and risk of bias and extracted data.
+Main results
+We included 40 studies involving 1717 participants. The quality of the included studies was largely poor and, with a few exceptions, these comprised of mainly small, inadequately reported studies. 
+When comparing treatment with a single antibiotic to a combined antibiotic regimen, those participants receiving a combination of antibiotics experienced a greater improvement in lung function when considered as a whole group across a number of different measurements of lung function, but with very low quality evidence. When limited to the four placebo‐controlled studies (n = 214), no difference was observed, again with very low quality evidence. With regard to the review's remaining primary outcomes, there was no effect upon time to next exacerbation and no studies in any comparison reported on quality of life. There were no effects on the secondary outcomes weight or adverse effects. When comparing specific antibiotic combinations there were no significant differences between groups on any measure. In the comparisons between intravenous and nebulised antibiotic or oral antibiotic (low quality evidence), there were no significant differences between groups on any measure. No studies in any comparison reported on quality of life. 
+Authors' conclusions
+The quality of evidence comparing intravenous antibiotics with placebo is poor. No specific antibiotic combination can be considered to be superior to any other, and neither is there evidence showing that the intravenous route is superior to the inhaled or oral routes. There remains a need to understand host‐bacteria interactions and in particular to understand why many people fail to fully respond to treatment. 

@@ -1,0 +1,16 @@
+Background
+Embryo transfer (ET) involves the placement of one or more embryos into the uterine cavity, usually by passing a catheter through the cervical os. ET is the final step in an assisted reproductive technology (ART) cycle, where a woman has undergone controlled ovarian stimulation, egg retrieval and in vitro fertilisation of her eggs. Despite the transfer of high quality embryos, many ETs do not result in a pregnancy. There are many factors which may affect the success of ET, including the presence of upper genital tract microbial colonisation. The administration of antibiotics prior to ET has been suggested as an intervention to reduce levels of microbial colonisation and hence improve pregnancy rates. 
+Objectives
+To evaluate the effectiveness and safety of antibiotic administration prior to ET during ART cycles. 
+Search methods
+We searched the Menstrual Disorders and Subfertility Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), The Cochrane Library, MEDLINE, Ovid MEDLINE® In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE® Daily and Ovid MEDLINE® (from inception to February 2011), Ovid EMBASE (January 2010 to February 2011), Ovid PsycINFO, CINAHL, LILACS, trial registers for ongoing and registered trials, citation indexes, ClinicalStudyResults, PubMed, OpenSIGLE database and for for herbal and complimentary therapy protocols and reviews. 
+Selection criteria
+Only randomised controlled trials were included.
+Data collection and analysis
+The titles and abstracts of articles identified by the search were screened by one review author for eligibility. Two review authors then independently examined the full text articles for suitability for inclusion in the review. Data were extracted independently by two review authors. 
+Main results
+We identified four potential studies, of which three were excluded.
+The included trial reported clinical pregnancy rates but not live births. There was no evidence of a difference in clinical pregnancy rate between those receiving an amoxycillin and clavulanic acid antibiotic combination (64/178: 36%) and those not (61/172: 35.5%) (OR1.02, 95% CI 0.66 to 1.58). Genital tract colonisation was significantly reduced in women receiving this antibiotic regimen (OR 0.59, 95% CI 0.37 to 0.95). 
+Authors' conclusions
+This review suggests that the administration of amoxycillin and clavulanic acid prior to embryo transfer reduced upper genital tract microbial contamination but did not alter clinical pregnancy rates. The effect of this intervention on live birth is unknown. There are no data from randomised controlled trials to support or refute other antibiotic regimens in this setting. 
+Future research is warranted to assess the efficacy of alternative antibiotic regimens. Researchers should assess live birth as the primary outcome and address quantitative microbial colonization as a secondary outcome. 

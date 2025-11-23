@@ -1,0 +1,22 @@
+Background
+Dornase alfa is currently used as a mucolytic to treat pulmonary disease (the major cause of morbidity and mortality) in cystic fibrosis. It reduces mucus viscosity in the lungs, promoting improved clearance of secretions. This is an update of a previously published review. 
+Objectives
+To determine whether the use of dornase alfa in cystic fibrosis is associated with improved mortality and morbidity compared to placebo or other medications that improve airway clearance, and to identify any adverse events associated with its use. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches, handsearching relevant journals and abstracts from conferences. Date of the most recent search of the Group's Cystic Fibrosis Register: 12 October 2020. 
+Clinicaltrials.gov and the International Clinical Trials Registry Platform were also searched to identify unpublished or ongoing trials. Date of most recent search: 08 February 2021. 
+Selection criteria
+All randomised and quasi‐randomised controlled trials comparing dornase alfa to placebo, standard therapy or other medications that improve airway clearance. 
+Data collection and analysis
+Authors independently assessed trials against the inclusion criteria; two authors carried out analysis of methodological quality and data extraction. GRADE was used to assess the level of evidence. 
+Main results
+The searches identified 74 trials, of which 19 (2565 participants) met our inclusion criteria. 15 trials compared dornase alfa to placebo or no dornase alfa (2447 participants); two compared daily dornase to hypertonic saline (32 participants); one compared daily dornase alfa to hypertonic saline and alternate day dornase alfa (48 participants); one compared dornase alfa to mannitol and the combination of both drugs (38 participants). Trial duration varied from six days to three years. 
+Dornase alfa compared to placebo or no treatment 
+Dornase alfa probably improved forced expiratory volume at one second (FEV1) at one month (four trials, 248 participants), three months (one trial, 320 participants; moderate‐quality evidence), six months (one trial, 647 participants; high‐quality evidence) and two years (one trial, 410 participants). Limited low‐quality evidence showed treatment may make little or no difference  in quality of life. Dornase alfa probably reduced the number of pulmonary exacerbations in trials of up to two years (moderate‐quality evidence). One trial that examined the cost of care, including the cost of dornase alfa, found that the cost savings from dornase alfa offset 18% to 38% of the medication costs. 
+Dornase alfa: daily versus alternate day 
+One cross‐over trial (43 children) found little or no difference between treatment regimens for lung function, quality of life or pulmonary exacerbations (low‐quality evidence). 
+Dornase alfa compared to other medications that improve airway clearance 
+Results for these comparisons were mixed. One trial (43 children) showed dornase alfa may lead to a greater improvement in FEV1 compared to hypertonic saline (low‐quality evidence), and one trial (23 participants) reported little or no differences in lung function between dornase alfa and mannitol or dornase alfa and dornase alfa plus mannitol (low‐quality evidence). One trial (23 participants) found dornase alfa may improve quality of life compared to dornase alfa plus mannitol (low‐quality evidence); other comparisons found little or no difference in this outcome (low‐quality evidence). No trials in any comparison reported any difference between groups in the number of pulmonary exacerbations (low‐quality evidence). 
+When all comparisons are assessed, dornase alfa did not cause significantly more adverse effects than other treatments, except voice alteration and rash. 
+Authors' conclusions
+There is evidence to show that, compared with placebo, therapy with dornase alfa may improve lung function in people with cystic fibrosis in trials lasting from one month to two years. There was a decrease in pulmonary exacerbations in trials of six months or longer, probably due to treatment. Voice alteration and rash appear to be the only adverse events reported with increased frequency in randomised controlled trials. There is not enough evidence to firmly conclude if dornase alfa is superior to other hyperosmolar agents in improving lung function. 

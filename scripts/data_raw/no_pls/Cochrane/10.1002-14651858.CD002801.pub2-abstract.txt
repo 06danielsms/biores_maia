@@ -1,0 +1,16 @@
+Background
+Habit retraining is a form of toileting assistance given by a caregiver to adults with urinary incontinence. It involves the identification of an incontinent person's natural voiding pattern and the development of an individualised toileting schedule, which pre‐empts involuntary bladder emptying. 
+Objectives
+To assess the effects of habit retraining for the management of urinary incontinence in adults. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register (2 April 2009), MEDLINE (January 1966 to February 2004), EMBASE (1980 to May 2002), CINAHL (January 1982‐February 2001), PsycINFO (January 1972‐July 2002), Biological Abstracts, Current Contents and the reference lists of relevant articles. We also contacted experts in the field, searched relevant websites and handsearched journals and conference proceedings. 
+Selection criteria
+Selection criteria include all randomised or quasi‐randomised controlled trials comparing habit retraining delivered either alone or in conjunction with another intervention for urinary incontinence in adults. 
+Data collection and analysis
+At least two people, working independently, undertook data extraction and quality assessment. We resolved any differences by discussion. 
+Main results
+Four trials with a total of 378 participants meet the inclusion criteria. Three of these (n = 337) test habit retraining combined with other approaches against usual care (Colling 1992; Colling 2003; Jirovec 2001). Participants in these trials were mainly women, with an average age of 80 years, who were physically and/or cognitively impaired, dependent on caregivers and residing in either a nursing home or in their own home. The included trials are considered too heterogeneous for meta‐analysis. Each trial is therefore considered individually. Primary outcomes are the incidence and/or severity of urinary incontinence. Other outcomes include the incidence of urinary‐tract infection, skin rash and skin breakdown, as well as measures of cost, caregiver preparedness, role strain and burden. 
+There are no statistically significant differences detailed in incontinence rates. However, the trials are characterised by limited data, difficulties maintaining compliance with the retraining regimes, and high rates of loss to follow up.  The fourth trial compares habit retraining alone with habit retraining plus an electronic monitoring device, aiming to identify episodes of incontinence more reliably. The 41 participants (25 women and 16 men; mean age 83 years) were from acute care rehabilitation wards. The data are too limited to provide reliable treatment after estimates. However, there is some evidence of less severe incontinence in the monitoring group. 
+A consistent finding from descriptive data suggest that caregivers involved in maintaining voiding records and implementing habit retraining find it difficult to adhere to the protocol. 
+Authors' conclusions
+The features of habit retraining programmes vary. Adherence to the protocol appears to be problematic for carers. The evidence from the four reviewed trials is too limited to judge whether or not there are improvements in continence that would make investment in habit‐retraining programmes worthwhile. 

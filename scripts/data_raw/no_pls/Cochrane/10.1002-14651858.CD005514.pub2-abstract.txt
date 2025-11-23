@@ -1,0 +1,14 @@
+Background
+Sleep bruxism is an oral activity characterised by teeth grinding or clenching during sleep. Several treatments for sleep bruxism have been proposed such as pharmacological, psychological, and dental. 
+Objectives
+To evaluate the effectiveness of occlusal splints for the treatment of sleep bruxism with alternative interventions, placebo or no treatment. 
+Search methods
+We searched the Cochrane Oral Health Group's Trials Register (to May 2007); the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007, Issue 1); MEDLINE (1966 to May 2007); EMBASE (1980 to May 2007); LILACS (1982 to May 2007); Biblioteca Brasileira de Odontologia (1982 to May 2007); Dissertation, Theses and Abstracts (1981 to May 2007); and handsearched abstracts of particular importance to this review. Additional reports were identified from the reference lists of retrieved reports and from article reviews about treating sleep bruxism. There were no language restrictions. 
+Selection criteria
+We selected randomised or quasi‐randomised controlled trials (RCTs), in which splint therapy was compared concurrently to no treatment, other occlusal appliances, or any other intervention in participants with sleep bruxism. 
+Data collection and analysis
+Data extraction was carried out independently and in duplicate. Validity assessment of the included trials was carried out at the same time as data extraction. Discrepancies were discussed and a third review author consulted. The author of the primary study was contacted when necessary. 
+Main results
+Thirty‐two potentially relevant RCTs were identified. Twenty‐four trials were excluded. Five RCTs were included. Occlusal splint was compared to: palatal splint, mandibular advancement device, transcutaneous electric nerve stimulation, and no treatment. There was just one common outcome (arousal index) which was combined in a meta‐analysis. No statistically significant differences between the occlusal splint and control groups were found in the meta‐analyses. 
+Authors' conclusions
+There is not sufficient evidence to state that the occlusal splint is effective for treating sleep bruxism. Indication of its use is questionable with regard to sleep outcomes, but it may be that there is some benefit with regard to tooth wear. This systematic review suggests the need for further investigation in more controlled RCTs that pay attention to method of allocation, outcome assessment, large sample size, and sufficient duration of follow up. The study design must be parallel, in order to eliminate the bias provided by studies of cross‐over type. A standardisation of the outcomes of the treatment of sleep bruxism should be established in the RCTs. 

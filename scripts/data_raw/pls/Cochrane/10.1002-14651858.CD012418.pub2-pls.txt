@@ -1,0 +1,42 @@
+Communication skills interventions for medical students
+What are the best ways to teach medical students how to talk to patients? 
+Teaching interpersonal skills 
+We use interpersonal skills every day when we talk and interact with other people. Interpersonal skills include communication skills such as listening, speaking, and asking questions. Good communication between doctor and patient is vital for all medical consultations. Doctors need to build relationships, show empathy, gather information, explain concepts, and plan treatment with their patients. 
+Medical students need to prove they are competent in interpersonal and communication skills before they graduate. Approaches to teaching medical students these skills include face‐to‐face teaching, online courses, programmes that give students personalised or tailored feedback, and use of role‐play with peers or with actors playing the role of the patient. 
+Why we did this Cochrane Review 
+Medical schools and universities around the world use different approaches to teach interpersonal and communication skills. We wanted to find out which types of educational programmes work best. 
+What did we do? 
+We searched for studies that assessed educational programmes to teach interpersonal and communication skills to medical students. 
+Search date: we included evidence published up to September 2020. 
+What we found 
+We found 90 relevant studies involving 10,124 students, conducted in the USA and in countries in Europe, the Middle East, and Asia Pacific. These studies assessed educational programmes to teach interpersonal and communication skills, including individual role‐play and feedback, and large group demonstrations. Programmes were delivered by face‐to‐face teaching, by video, or online. In most studies, results were assessed immediately after the educational programme concluded, and up to 12 months later. 
+We compared the results of studies conducted to find out how the different programmes affected: 
+· overall communication skills;
+· understanding of what another person is feeling (empathy);
+· relationship building or understanding one another's feelings or ideas (rapport);
+· gathering of information, including patients' satisfaction, understanding, or views; and 
+· explaining and planning (giving of information).
+What are the main results of our review? 
+Comparing interpersonal programmes against the usual educational programmes or being on a waiting list for an interpersonal programme showed that these programmes: 
+· may slightly improve students' overall communication skills (evidence from 18 studies, with 1356 students) and empathy (6 studies; 831 students); 
+· probably improve skills in gathering information about the patient's views (5 studies, 405 students); but 
+· may have little to no effect on rapport skills (9 studies, 834 students).
+We are uncertain about how the interpersonal programmes affected skills in giving information (5 studies, 659 students). 
+We are uncertain how online or self‐taught programmes affected students' overall communication skills (4 studies, 1578 students) or skills in gathering information (1 study, 164 students) compared with face‐to‐face teaching. 
+Online or self‐directed programmes compared with face‐to‐face teaching:
+· may have little to no effect on students' empathy skills (3 studies, 421 students);
+· probably have little to no effect on rapport skills (3 studies, 176 students); but
+· may slightly reduce skills in giving information (1 study, 122 students).
+Programmes that give students personalised or tailored feedback compared with those that involve general or no feedback: 
+· probably slightly improved overall communication skills (6 studies, 502 students); and 
+· may slightly improve empathy skills (1 study, 66 students) and skills in gathering information (1 study, 48 students). 
+We are uncertain how programmes with personalised or tailored feedback affected rapport skills (1 study, 190 students). No studies reported results for effects on skills in giving information. 
+We are uncertain whether programmes involving role‐play with people acting as patients improved students' overall communication skills (4 studies, 637 students) compared with programmes involving role‐play with peers. Role‐play with people acting as patients may slightly improve empathy skills (2 studies, 213 students). No studies reported results for how role‐play with people acting as patients affected skills in rapport or gathering and giving of information. 
+No studies reported any unwanted effects for any of the education programmes assessed.
+How confident are we in our results? 
+We are moderately confident that interpersonal education programmes and programmes involving personalised, specific feedback probably improve overall communication skills. 
+We are not confident in our results for the other types of programmes. Some studies had limitations in the ways they were designed, such as how students taking part were assigned to different groups. Other studies had widely varying results, and some had short follow‐up times. Further research is likely to change our results. 
+Key messages 
+Interpersonal education programmes for medical students had positive effects on most of the interpersonal skills we looked at, although these effects were small and our confidence in some of our results is low. 
+Programmes that include personalised feedback probably improve medical students' overall communication skills more than programmes that involve general or no feedback. 
+Online or self‐directed programmes may make little to no difference in improving skills in empathy or rapport compared with face‐to‐face teaching. 

@@ -1,0 +1,16 @@
+Background
+Recurrent apnea is common in preterm infants, particularly at very early gestational ages. These episodes of loss of effective breathing can lead to hypoxemia and bradycardia, which may be severe enough to require resuscitation including use of positive pressure ventilation. Two forms of methylxanthine (caffeine and theophylline) have been used to stimulate breathing in order to prevent apnea and its consequences. 
+Objectives
+To evaluate the effect of caffeine compared with theophylline treatment on the risk of apnea and use of mechanical ventilation in preterm infants with recurrent apnea. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. This included searches of electronic databases in August 2009: Oxford Database of Perinatal Trials; Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2009); MEDLINE (1966 to April 2009); and EMBASE Drugs and Pharmacology (1990 to April 2009), previous reviews including cross references. 
+Selection criteria
+Randomized and quasi‐randomized trials comparing caffeine to theophylline for treating apnea in preterm infants and reporting effects on apnea event rates. 
+Data collection and analysis
+Each author assessed eligibility and trial quality, extracted data separately and compared and resolved differences. Study authors were contacted for additional information. 
+Main results
+Five trials involving a total of 108 infants were included. The quality of most of these small trials was fair to good. No difference in treatment failure rate (less than 50% reduction in apnea/bradycardia) was found between caffeine and theophylline after one to three days treatment (based on two studies) or five to seven days treatment (based on one study). There was no difference in mean apnea rate between caffeine and theophylline groups after one to three days treatment (based on five trials) and five to seven days treatment (based on four trials). 
+Adverse effects, indicated by tachycardia or feed intolerance leading to change in dosing, were lower in the caffeine group (summary relative risk 0.17, 95% CI 0.04 to 0.72). This was reported and consistent in three studies. 
+No trial reported the use of ventilation and no data were available to assess effects on growth and development. 
+Authors' conclusions
+Caffeine appears to have similar short‐term effects on apnea/bradycardia as does theophylline although caffeine has certain therapeutic advantages over theophylline. Theophylline is associated with higher rates of toxicity. The possibility that higher doses of caffeine might be more effective in extremely preterm infants needs further evaluation in randomized clinical trials. 

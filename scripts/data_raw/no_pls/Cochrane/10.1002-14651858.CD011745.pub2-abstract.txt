@@ -1,0 +1,14 @@
+Background
+High blood pressure is an important public health problem because of associated risks of stroke and cardiovascular events. Antihypertensive drugs are often used in the belief that lowering blood pressure will prevent cardiac events, including myocardial infarction and sudden death (death of unknown cause within one hour of the onset of acute symptoms or within 24 hours of observation of the patient as alive and symptom free). 
+Objectives
+To assess the effects of antihypertensive pharmacotherapy in preventing sudden death, non‐fatal myocardial infarction and fatal myocardial infarction among hypertensive individuals. 
+Search methods
+We searched the Cochrane Hypertension Specialised Register (all years to January 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online (2016, Issue 1), Ovid MEDLINE (1946 to January 2016), Ovid EMBASE (1980 to January 2016) and ClinicalTrials.gov (all years to January 2016). 
+Selection criteria
+All randomised trials evaluating any antihypertensive drug treatment for hypertension, defined, when possible, as baseline resting systolic blood pressure of at least 140 mmHg and/or resting diastolic blood pressure of at least 90 mmHg. Comparisons included one or more antihypertensive drugs versus placebo, or versus no treatment. 
+Data collection and analysis
+Review authors independently extracted data. Outcomes assessed were sudden death, fatal and non‐fatal myocardial infarction and change in blood pressure. 
+Main results
+We included 15 trials (39,908 participants) that evaluated antihypertensive pharmacotherapy for a mean duration of follow‐up of 4.2 years. This review provides moderate‐quality evidence to show that antihypertensive drugs do not reduce sudden death (risk ratio (RR) 0.96, 95% confidence interval (CI) 0.81 to 1.15) but do reduce both non‐fatal myocardial infarction (RR 0.85, 95% CI 0.74, 0.98; absolute risk reduction (ARR) 0.3% over 4.2 years) and fatal myocardial infarction (RR 0.75, 95% CI 0.62 to 0.90; ARR 0.3% over 4.2 years). Withdrawals due to adverse effects were increased in the drug treatment group to 12.8%, as compared with 6.2% in the no treatment group. 
+Authors' conclusions
+Although antihypertensive drugs reduce the incidence of fatal and non‐fatal myocardial infarction, they do not appear to reduce the incidence of sudden death. This suggests that sudden cardiac death may not be caused primarily by acute myocardial infarction. Continued research is needed to determine the causes of sudden cardiac death. 

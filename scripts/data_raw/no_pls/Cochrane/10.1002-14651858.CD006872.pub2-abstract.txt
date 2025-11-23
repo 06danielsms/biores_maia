@@ -1,0 +1,14 @@
+Background
+Diabetic kidney disease (DKD) is one of the major chronic microvascular complications in diabetes mellitus, and may progress to end‐stage kidney disease (ESKD). There are no definitely effective approaches for preventing, delaying or treating DKD. Small studies have shown that Prostaglandin E1 (PGE1) can improve renal blood circulation and decrease proteinuria and albuminuria. 
+Objectives
+To assess the benefits and harms of PGE1 for preventing the progression of DKD.
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, Chinese Biomedicine Database (CBM) and reference lists of articles with no language restriction. 
+Selection criteria
+All randomised controlled trials (RCTs) or quasi‐RCTs comparing any PGE1 agent used for preventing the progression of DKD, regardless of dosage, mode of administration, addition of cointerventions or duration of treatment. 
+Data collection and analysis
+Two authors independently assessed study quality and extracted data. For dichotomous outcomes (all‐cause mortality, ESKD), results were expressed as relative risk (RR) with 95% confidence intervals (CI). Continuous outcomes (microalbuminuria, proteinuria, albuminuria, doubling of serum creatinine, serum creatinine) were expressed as mean difference (MD) with 95% CI. 
+Main results
+Six studies (271 patients) were included. Five studies investigated PGE1 with or without fosinopril/losartan versus fosinopril/losartan or no treatment and one compared PGE1 versus Xueshuantong (a Chinese medicinal herb). There was a significant decrease in urinary albumin excretion rate (UAER) in patients treated with PGE1 (MD ‐48.28 µg/min, 95% CI ‐75.29 to ‐21.28), other outcomes also showed a significant decrease in the patients with PGE1 (albuminuria: MD ‐143.66 mg/24 h, 95% CI ‐221.48 to ‐65.84; proteinuria: MD ‐300 g/24 h, 95% CI ‐518.34 to ‐81.66). PGE1 had a positive effect on albuminuria (MD ‐660 mg/24 h, 95% CI ‐867.07 to ‐452.93) in clinical DKD (CDN, III stage of DN) compared with Xueshuantong. No data on incidence of ESKD, all‐cause mortality or quality of life were available. 
+Authors' conclusions
+PGE1 may have positive effects on DKD by reducing UAER, decreasing albuminuria and lessening proteinuria, with no obvious serious adverse events. However, limited by the poor methodological quality of the included studies and the small number of participants, there is currently insufficient evidence for determining if PGE1 could be used for preventing the progression of DKD. Large, properly randomised, placebo‐controlled, double‐blind studies are urgently needed. 

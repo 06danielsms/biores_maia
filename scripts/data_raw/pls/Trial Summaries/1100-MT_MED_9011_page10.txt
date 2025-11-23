@@ -1,0 +1,31 @@
+Clinical Study Results
+
+What adverse reactions did the participants have?
+
+The most common adverse reaction related to AZD2014 and palbociclib was low neutrophil levels in the blood.
+
+Most common adverse reactions due to AZD2014 and palbociclib during the study:
+
+Part A          Part B
+
+Group 1        Group 2         Group 3         Group 4         Group 5         Group 6         Group 7
+
+Adverse (out of 6 participants) 
+
+Low neutrophil white blood cell count
+16.7% (1)             50.0% (3)             50.0% (3)            50.0% (3)            83.3% (5)            71.4% (5)            58.8% (10)
+
+Tiredness 
+66.7% (4)            66.7% (4)           33.3% (2)           0.0% (0)               33.3% (2)            71.4% (5)            41.2% (7)
+
+Nausea 
+16.7% (1)             50.0% (3)             33.3% (2)            50.0% (3)           66.7% (4)            42.9% (3)            23.5% (4)
+
+Low iron levels in the blood
+16.7% (1)             33.3% (2)             0.0% (0)                33.3% (2)           66.7% (4)            14.3% (1)            17.6% (3)
+
+Diarrhea 
+16.7% (1)            33.3% (2)            33.3% (2)            16.7% (1)            33.3% (2)            28.6% (2)            17.6% (3)
+
+Rash 
+0.0% (0)               50.0% (3)             50.0% (3)            16.7% (1)            16.7% (1)              0.0% (0)            17.6% (3)

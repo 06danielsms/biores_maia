@@ -1,0 +1,16 @@
+Background
+Lumiracoxib is a selective cyclooxygenase‐2 (COX‐2) inhibitor. COX‐2 inhibitors were developed to avoid COX‐1‐related gastrointestinal (GI) problems while maintaining the analgesic and anti‐inflammatory activity of traditional non‐steriodal anti‐inflammatory drugs (NSAIDs). 
+Objectives
+To review the analgesic efficacy, duration of analgesia, and adverse effects of a single oral dose of lumiracoxib for moderate to severe postoperative pain in adults. 
+Search methods
+We searched Cochrane CENTRAL, MEDLINE, and EMBASE to February 2010.
+Selection criteria
+Single oral dose, randomised, double‐blind, placebo‐controlled trials of lumiracoxib for relief of established moderate to severe postoperative pain in adults. 
+Data collection and analysis
+Studies were assessed for methodological quality and the data extracted by two review authors independently. Summed total pain relief over six hours (TOTPAR 6) was used to calculate the number of participants achieving at least 50% pain relief. These derived results were used to calculate, with 95% confidence intervals, the relative benefit compared to placebo, and the number needed to treat (NNT) for one participant to experience at least 50% pain relief over six hours. Numbers of participants using rescue medication, and time to use of rescue medication, were sought as additional measures of efficacy. Information on adverse events and withdrawals was collected. 
+Main results
+In this updated review four studies met the inclusion criteria. In total 366 participants were treated with lumiracoxib 400 mg, 51 with lumiracoxib 100 mg, and 212 with placebo. Active comparators were naproxen 500 mg, rofecoxib 50 mg, celecoxib 200 mg, celecoxib 400 mg, and ibuprofen 400 mg. With lumiracoxib 400 mg 50% of participants had at least 50% pain relief over six hours, compared with 8% given placebo; RB 6.9 (95% CI 4.1 to 12), NNT 2.4 (2.1 to 2.8). 
+Median time to onset of analgesia was shorter for lumiracoxib 400 mg (0.6 to 1.5 hours) than placebo (>12 hours). Fewer participants needed rescue medication with lumiracoxib (64%) than with placebo (91%) over 12 to 24 hours; NNT to prevent remedication 3.7 (2.9 to 5.0). The weighted median time to use of rescue medication was 9.4 hours for lumiracoxib 400 mg and 1.7 hours for placebo. 
+Adverse events were generally mild to moderate in severity, with one serious event reported in a placebo patient. 
+Authors' conclusions
+Lumiracoxib 400 mg given as a single oral dose is an effective analgesic for acute postoperative pain, and has a relatively long duration of action. Adverse events with lumiracoxib did not differ from placebo. 

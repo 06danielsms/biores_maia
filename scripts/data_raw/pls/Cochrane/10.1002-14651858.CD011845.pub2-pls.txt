@@ -1,0 +1,15 @@
+mHealth‐delivered education interventions in heart failure, using smartphone, tablet and internet‐based programmes and apps 
+Review question 
+What is the randomised controlled trial evidence for mHealth‐delivered education interventions in heart failure (HF) knowledge, self‐care and self‐efficacy for people with HF when compared to traditional methods of patient education? 
+Background 
+Education is vital for self‐care (activities individuals undertake with the intention of improving health, preventing disease, limiting illness and restoring health) in HF. Traditionally, education has been provided to people with heart failure in a face‐to‐face manner, using paper‐based materials or video/DVD presentations. In an age of rapidly‐evolving technology and uptake of smartphones and tablet devices, mHealth‐based technology is a new way to provide health education, with the benefit of being able to reach people who are unable or unwilling to access traditional HF education programmes and services. 
+Search date 
+We found studies by searches conducted in October 2019.
+Study characteristics 
+We include in this review five randomised controlled trials (971 participants) of mHealth‐delivered education interventions for people with HF. The average age of participants ranged from 60 years to 75 years and 63% of participants were men. Studies came from Australia, China, Iran, Sweden and The Netherlands. 
+Key results 
+Five studies addressed HF knowledge; we found that the use of mHealth‐delivered education programmes showed no evidence of a difference in HF knowledge compared to usual care. One study assessing self‐efficacy reported uncertainty in the evidence for mHealth‐delivered education compared with usual care. Three studies evaluated HF self‐care using different scales. We did not combine the studies, because of the differences between the outcome measures, and the evidence is uncertain. The studies did not report any side effects of the interventions. Four studies examined health‐related quality of life and showed uncertainty in the evidence between mHealth‐delivered education and usual care. Three studies reported on HF‐related hospitalisation rates. The use of mHealth‐delivered education may result in little to no difference in HF‐related hospitalisations. 
+Quality of the evidence 
+We rated the quality of the evidence as very low to low, due to limitations in study design and execution and fewer than 500 participants in the analysis. 
+Conclusion 
+There is no evidence for a difference in the use of mHealth‐delivered educational intervention for people with HF on HF knowledge. There is uncertainty in the evidence for self‐efficacy, self‐care and health‐related quality of life. There may be little to no difference in HF‐related hospitalisations, compared to usual care. 'Usual care' in this case means enrolment in a heart failure‐management programme (clinic‐ or home‐based). This is an area of HF research from which further evidence will emerge in the short and longer term. 

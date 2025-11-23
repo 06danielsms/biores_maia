@@ -1,0 +1,12 @@
+The effects of anti‐cancer therapies on advanced pancreatic cancer
+Review question 
+This review aimed to answer the question, which therapies are the most effective for advanced pancreatic cancer? 
+Background 
+Pancreatic cancer (PC) is a serious, often fatal disease, and many people are not diagnosed until they have advanced tumours that cannot be removed with surgery. Symptoms include abdominal pain, weight loss, and yellowing of the skin and eyes. Up until recently, gemcitabine was the standard drug for treating advanced pancreatic cancer, but this gave people only a modest benefit. 
+Study characteristics 
+We looked for all studies in people with pancreatic cancer that could not be operated on (locally advanced) or that had already spread beyond the pancreas (metastatic). We found 42 clinical studies involving 9463 participants who were receiving their first therapy for PC. Our search is current to June 2017. 
+The studies compared one therapy against either best supportive care (symptom management only) or another type of therapy. Studies had to evaluate overall survival (or time to death). The study could be testing either chemotherapy (drugs that kill or slow the growth of cancer cells) or radiotherapy (X‐ray treatment). We collected data on survival, tumour response rate, side effects and quality of life. The results of clinical studies addressing targeted/biological therapies, immunotherapies, second‐line therapies and local treatments for locally advanced disease will be reported in a separate Cochrane Review. 
+Key results 
+This review has shown that in advanced disease, combination chemotherapy with FOLFIRINOX (5‐fluorouracil, irinotecan, oxaliplatin combination); GEMOXEL (gemcitabine, oxaliplatin and capecitabine); cisplatin/epirubicin/5FU/gemcitabine; gemcitabine plus nab‐paclitaxel; and gemcitabine plus a fluoropyrimidine agent, provide a survival advantage over gemcitabine alone. These combinations do increase side effects. Gemcitabine given slowly using a fixed rate of infusion may be more effective than giving it in the standard way, which is quickly over 30 minutes. 
+Quality of the evidence 
+The quality of the evidence varied greatly amongst comparisons. The highest quality evidence was for gemcitabine versus fixed dose rate gemcitabine and some of the gemcitabine combinations (fluoropyrimidine, topoisomerase, and taxane). We judged the studies for quality using factors like how well they were conducted, how well they reported results and whether they used a placebo. 

@@ -1,0 +1,16 @@
+Background
+Premature birth carries substantial neonatal morbidity and mortality. Subclinical infection is associated with preterm rupture of membranes (PROM). Prophylactic maternal antibiotic therapy might lessen infectious morbidity and delay labour, but could suppress labour without treating underlying infection. 
+Objectives
+To evaluate the immediate and long‐term effects of administering antibiotics to women with PROM before 37 weeks, on maternal infectious morbidity, neonatal morbidity and mortality, and longer‐term childhood development. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2013). 
+Selection criteria
+Randomised controlled trials comparing antibiotic administration with placebo that reported clinically relevant outcomes were included as were trials of different antibiotics. Trials in which no placebo was used were included for the outcome of perinatal death alone. 
+Data collection and analysis
+We extracted data from each report without blinding of either the results or the treatments that women received. We sought unpublished data from a number of authors. 
+Main results
+We included 22 trials, involving 6872 women and babies.
+The use of antibiotics following PROM is associated with statistically significant reductions in chorioamnionitis (average risk ratio (RR) 0.66, 95% confidence interval (CI) 0.46 to 0.96, and a reduction in the numbers of babies born within 48 hours (average RR 0.71, 95% CI 0.58 to 0.87) and seven days of randomisation (average RR 0.79, 95% CI 0.71 to 0.89). The following markers of neonatal morbidity were reduced: neonatal infection (RR 0.67, 95% CI 0.52 to 0.85), use of surfactant (RR 0.83, 95% CI 0.72 to 0.96), oxygen therapy (RR 0.88, 95% CI 0.81 to 0.96), and abnormal cerebral ultrasound scan prior to discharge from hospital (RR 0.81, 95% CI 0.68 to 0.98). Co‐amoxiclav was associated with an increased risk of neonatal necrotising enterocolitis (RR 4.72, 95% CI 1.57 to 14.23). 
+One study evaluated the children's health at seven years of age (ORACLE Children Study) and found antibiotics seemed to have little effect on the health of children. 
+Authors' conclusions
+Routine prescription of antibiotics for women with preterm rupture of the membranes is associated with prolongation of pregnancy and improvements in a number of short‐term neonatal morbidities, but no significant reduction in perinatal mortality. Despite lack of evidence of longer‐term benefit in childhood, the advantages on short‐term morbidities are such that we would recommend antibiotics are routinely prescribed. The antibiotic of choice is not clear but co‐amoxiclav should be avoided in women due to increased risk of neonatal necrotising enterocolitis. 

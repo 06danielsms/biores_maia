@@ -1,0 +1,12 @@
+Deep brain stimulation for people with involuntary posturing, or dystonia
+The review question 
+We reviewed the evidence about the effect of deep brain stimulation (DBS) for adults with dystonia. We assessed the efficacy, safety, and tolerability of this procedure. 
+Background 
+Dystonia is a disease that causes undesired, uncontrollable, often painful, abnormal movement of an affected limb or body region. It is a relatively uncommon condition, which can be very disabling and negatively affect a person's quality of life. In most cases, the cause is unknown; no cure exists. Dystonia is normally a long‐term disease that requires long‐term treatment. 
+Deep brain stimulation (DBS) involves a surgical procedure to place electrical stimulators in the brain. Afterwards, the stimulators are connected to a battery, and deliver electrical impulses to the brain over time. For people with dystonia, DBS is usually considered to be a therapeutic option for severe cases only, once other treatments have failed. 
+Study characteristics 
+We conducted a literature search on 29 May 2018 for studies that compared DBS with sham stimulation (same surgical procedure, but no electrical impulses are delivered through the electrodes placed in the brain), best medical therapy, and placebo (a pretend medicine). We found two studies that compared DBS with sham stimulation, and included a total of 102 participants. One study included participants with dystonia of the limbs and trunk, and the other with dystonia of the neck. Participants received active DBS for a total of six months. The average age of people in the studies was 50 years; the average duration of the disease was 16 years. Both studies were funded by a DBS device manufacturer with possible interests in the results of the studies. 
+Key results 
+For limb and trunk dystonia, DBS may improve symptoms, self‐assessed clinical status, and functioning. The results showed that for neck dystonia, DBS may improve symptoms, clinical status, functioning, and mood. For either type of dystonia, we are uncertain about the impact that DBS has on harmful or undesired events, or treatment tolerability. 
+Quality of the evidence 
+The overall quality of the evidence for neck, limb, and trunk dystonia was low to very low. Further research is needed to draw conclusions about the clinical efficacy, safety, and tolerability of DBS in people with dystonia, especially beyond the three‐ to six‐month duration of the included studies. 

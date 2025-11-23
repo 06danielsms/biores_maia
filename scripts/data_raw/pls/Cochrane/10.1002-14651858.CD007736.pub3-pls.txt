@@ -1,0 +1,15 @@
+Do supportive, educational and behavioural interventions improve usage of continuous positive airway pressure in adults with obstructive sleep apnoea? 
+What is obstructive sleep apnoea (OSA) and continuous positive airway pressure (CPAP)? 
+Obstructive sleep apnoea (OSA) is a condition that causes interrupted breathing during sleep. People with OSA spend more time in light sleep and less time in deep sleep and consequently experience daytime sleepiness, which may affect their daily life. 
+Continuous positive airway pressure (CPAP) is a treatment that delivers pressurised air to keep the airway open. CPAP treatment involves a machine with three main parts: a device that fits over nose and mouth, a tube that connects the mask to the device's motor; and a motor that blows air into the tube. 
+Review question 
+We already know that CPAP treats OSA effectively in most people by improving symptoms resulting from OSA. However many people do not use their CPAP machine as much as is recommended. We wanted to look at interventions designed to educate and motivate people with OSA to use their CPAP machines more. 
+Study characteristics 
+We looked at evidence from randomised, parallel‐group, controlled studies. Following a comprehensive literature search and assessment of trials, we included 41 studies (number of participants = 9005). Most people experienced excessive daytime sleepiness and had newly diagnosed OSA. Duration of studies ranged from 28 days to two years. 
+Results 
+We grouped the trials into those that gave people a) education, b) a supportive intervention, c) behavioural intervention, and d) a mixed intervention (using all thee techniques). 
+We found that all types of interventions increase CPAP usage with varying levels of certainty. Behavioural therapy increases machine usage by 79 minutes per night, and ongoing supportive interventions probably increase machine use by about 42 minutes per night. Educational and mixed interventions may potentially improve machine usage, however the certainty of this evidence is very low. 
+We also wanted to look at other outcomes such as daytime sleepiness using the Epworth Sleepiness Scale (ESS), quality of life, depression, and apnoea hypopnoea index (measurement of pauses in breathing and slow or shallow breathing). Not all included studies consistently examined these other outcomes, however behavioural interventions may reduce daytime sleepiness. 
+Studies generally recruited people who were new to CPAP.
+Quality of the evidence 
+The quality of evidence for improved CPAP adherence varied considerably across studies and study types. We were confident that the behavioural interventions improve adherence for around 70 minutes per night. The quality of evidence for educational, supportive, and mixed interventions was not as strong. The quality of evidence for OSA‐related symptoms including daytime sleepiness, quality of life, anxiety or depression was affected by the low number of studies that measured these outcomes. 

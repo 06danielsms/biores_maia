@@ -1,0 +1,16 @@
+Background
+Osteoarthritis (OA) is a common form of arthritis and is often associated with significant disability and impaired quality of life. This is an update of a Cochrane review first published in 2001 and previously updated in 2005. 
+Objectives
+To review randomized controlled trials (RCTs) evaluating the effectiveness and toxicity of glucosamine in OA. 
+Search methods
+We searched CENTRAL and the Cochrane Database of Systematic Reviews (The Cochrane Library), MEDLINE, PREMEDLINE, EMBASE, AMED, ACP Journal Club, DARE (to January 2008); contacted content experts, and handsearched reference lists and pertinent review articles. 
+Selection criteria
+RCTs evaluating the effectiveness and safety of glucosamine in OA.
+Data collection and analysis
+Data abstraction was performed independently by two review authors and investigators were contacted for missing data. 
+Main results
+This update includes 25 studies with 4963 patients. Analysis restricted to studies with adequate allocation concealment failed to show any benefit of glucosamine for pain (based on a pooled measure of different pain scales) and WOMAC pain, function and stiffness subscales; however, it was found to be better than placebo using the Lequesne index (standardized mean difference (SMD) ‐0.54; 95% confidence interval (CI) ‐0.96 to ‐0.12). Collectively, the 25 RCTs favoured glucosamine with a 22% (change from baseline) improvement in pain (SMD ‐0.47; 95% CI ‐0.72 to ‐0.23) and a 11% (change from baseline) improvement in function using the Lequesne index (SMD ‐0.47; 95% CI ‐0.82 to ‐0.12). However, the results were not uniformly positive and the reasons for this remain unexplained. WOMAC pain, function and stiffness outcomes did not reach statistical significance. 
+RCTs in which the Rotta preparation of glucosamine was compared to placebo found glucosamine superior for pain (SMD ‐1.11; 95% CI ‐1.66 to ‐0.57) and function (Lequesne index SMD ‐0.47; 95% CI ‐0.82 to ‐0.12). Pooled results for pain (SMD ‐0.05; 95% CI ‐0.15 to 0.05) and function using the WOMAC index (SMD ‐0.01; 95% CI ‐0.13 to 0.10) in those RCTs using a non‐Rotta preparation of glucosamine did not reach statistical significance. Two RCTs using the Rotta preparation showed that glucosamine was able to slow radiological progression of OA of the knee over a three‐year period (mean difference (MD) 0.32; 95% CI 0.05 to 0.58). 
+Glucosamine was as safe as placebo in terms of the number of participants reporting adverse reactions (relative risk ratio 0.99; 95% CI 0.91 to 1.07). 
+Authors' conclusions
+Pooled results from studies using a non‐Rotta preparation or adequate allocation concealment failed to show benefit in pain and WOMAC function while those studies evaluating the Rotta preparation showed that glucosamine was superior to placebo in the treatment of pain and functional impairment resulting from symptomatic OA. 

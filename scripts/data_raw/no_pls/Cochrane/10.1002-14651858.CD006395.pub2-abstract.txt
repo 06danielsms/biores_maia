@@ -1,0 +1,14 @@
+Background
+Preterm birth occurs in up to 6% to 10% of all births and is the major complication of pregnancy associated with perinatal mortality and morbidity. Previous preterm delivery is a strong predictor for preterm labour, and the earlier the birth, the more likely it is to be repeated at the same gestation. In the acute setting, betamimetics can decrease contraction frequency or delay preterm birth by 24 to 48 hours. 
+Objectives
+To assess the effectiveness of prophylactic oral betamimetics for the prevention of preterm labour and birth for women with singleton pregnancies at high risk of preterm delivery. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (October 2010) and reference lists. 
+Selection criteria
+Randomised controlled trials in singleton pregnancies at high risk of preterm labour comparing prophylactic oral betamimetics with placebo or any intervention with the specific aim of preventing preterm birth. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data.
+Main results
+One trial (64 singleton pregnancies) was included. The trial compared the oral betamimetic agent isoxuprine with placebo. No difference was seen for perinatal mortality rate (risk ratio (RR) 4.74, 95% confidence interval (CI) 0.50 to 45.00). There was no evidence of an effect of oral betamimetic agents in reduction of spontaneous onset of preterm labour (RR 1.07, 95% CI 0.14 to 8.09) or preterm birth, less than 37 weeks' gestation. There was no significant association between the use of oral betamimetics and side effects sufficient to stop therapy (RR 2.51, 95% CI 0.59 to 10.76). No differences were found for infant outcomes; birthweight less than 2500 grams (RR 1.74, 95% CI 0.44 to 6.87) or neonatal death (RR 4.74, 95% CI 0.50 to 45.00). This trial had adequate methodological quality; however the sample size was inappropriate to determine any significance in neonatal outcome differences between the treatment groups. 
+Authors' conclusions
+There is insufficient evidence to support or refute the use of prophylactic oral betamimetics for preventing preterm birth in women at high risk of preterm labour with a singleton pregnancy. 

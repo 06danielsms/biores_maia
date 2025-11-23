@@ -1,0 +1,14 @@
+Background
+Childhood‐onset schizophrenia is schizophrenia with onset prior to the age of 13 years. Although it is rare, people who suffer from schizophrenia at an early age appear to have a clinically severe form of the illness with poor long‐term prognosis. Antipsychotic medication is one way of managing this rare but serious mental illness. 
+Objectives
+To examine the effects of antipsychotic medication for childhood‐onset schizophrenia.
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (November 2006 and February 2007), inspected references of all identified studies for further trials and contacted relevant pharmaceutical companies and authors of trials for additional information. 
+Selection criteria
+We included all randomised clinical trials involving children and young people with a diagnosis of childhood onset schizophrenia (i.e. with a diagnosis of schizophrenia before the age of 13) comparing any antipsychotic drug with another antipsychotic or placebo. 
+Data collection and analysis
+We reliably selected, quality assessed and extracted data from trials. We excluded data where more than 50% of participants in any group were lost to follow up. For homogenous dichotomous data we calculated random effects, relative risk (RR) and its 95% confidence interval (CI) and, where appropriate, number needed to treat (NNT) on an intention‐to‐treat basis. For normal continuous data we calculated the weighted mean difference (WMD). 
+Main results
+From a total of 2062 citations, we identified six relevant trials. We categorised trials into three comparisons: atypical versus typical, atypical versus atypical and typical versus typical antipsychotic drugs. The only comparison to find any differences between treatment groups was atypical versus typical antipsychotic drugs. A few results from one study favoured the atypical antipsychotic clozapine over haloperidol in treating treatment resistant childhood‐onset schizophrenia (n=21, WMD CGAS 17.00 CI 7.74 to 26.26; n=21, WMD Bunney‐Hamburg Psychosis Rating Scale ‐3.60 CI ‐6.64 to ‐0.56). Participants on clozapine, however, were three times more likely to have drowsiness (1 RCT, n=21, RR 3.30 CI 1.23 to 8.85, NNH 2 CI 2 to 17) and half of the children receiving clozapine had neutropenia (1 RCT, n=21, RR 12, CI 0.75 to192.86). 
+Authors' conclusions
+There are few relevant trials and, presently, there is little conclusive evidence regarding the effects of antipsychotic medication for those with early onset schizophrenia. Some benefits were identified in using the atypical antipsychotic clozapine compared with haloperidol but the benefits were offset by an increased risk of serious adverse effects. Larger, more robust, trials are required. 

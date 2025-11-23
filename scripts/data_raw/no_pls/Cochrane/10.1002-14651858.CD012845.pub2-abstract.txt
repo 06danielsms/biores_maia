@@ -1,0 +1,15 @@
+Background
+Post‐surgical hypoparathyroidism is a common complication after thyroid surgery. The incidence is likely to increase given the rising trend in the annual number of thyroid operations being performed. Measures to prevent post‐thyroidectomy hypoparathyroidism including different surgical techniques and prophylactic calcium and vitamin D supplements have been extensively studied. The management of post‐thyroidectomy hypoparathyroidism however has not been extensively evaluated. Routine use of calcium and vitamin D supplements in the postoperative period may reduce the risk of symptoms, temporary hypocalcaemia and hospital stay. However, this may lead to overtreatment and has no effect on long‐term hypoparathyroidism. Current recommendations on the management of post‐thyroidectomy hypoparathyroidism is based on low‐quality evidence. Existing guidelines do not often distinguish between surgical and non‐surgical hypoparathyroidism, and transient and long‐term disease. 
+The aim of this systematic review was to summarise evidence on the use of calcium, vitamin D and recombinant parathyroid hormone in the management of post‐thyroidectomy hypoparathyroidism. In addition, we aimed to highlight deficiencies in the current literature and stimulate further work in this field. 
+Objectives
+The objective of this systematic review was to assess the effects of calcium, vitamin D and recombinant parathyroid hormone in managing post‐thyroidectomy hypoparathyroidism. 
+Search methods
+We searched CENTRAL, MEDLINE, PubMed, Embase as well as ICTRP Search Portal and ClinicalTrials.gov. The date of the last search for all databases was 17 December 2018 (except Embase, which was last searched on 21 December 2017). No language restrictions were applied. 
+Selection criteria
+We planned to include randomised control trials (RCTs) or controlled clinical trials (CCTs) examining the effects of calcium, vitamin D or recombinant parathyroid hormone in people with temporary and long‐term post‐thyroidectomy hypoparathyroidism. 
+Data collection and analysis
+Two review authors independently screened titles, abstracts and full texts for relevance.
+Main results
+Database searches yielded a total of 1751 records. We retrieved potentially relevant full texts and excluded articles on the following basis: not a RCT or CCT; intervention, comparator or both did not match prespecified criteria; non‐surgical causes of hypoparathyroidism, and studies on prevention. None of the articles was eligible for inclusion in the systematic review. 
+Authors' conclusions
+This systematic review highlights a gap in the current literature and the lack of high‐quality evidence in the management of post‐thyroidectomy temporary and long‐term hypoparathyroidism. Further research focusing on clinically relevant outcomes is needed to examine the effects of current treatments in the management of temporary and long‐term post‐thyroidectomy hypocalcaemia. 

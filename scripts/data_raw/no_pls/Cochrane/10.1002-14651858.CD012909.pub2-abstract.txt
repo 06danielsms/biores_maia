@@ -1,0 +1,31 @@
+Background
+Ministries of health, donors, and other decision‐makers are exploring how they can use mobile technologies to acquire accurate and timely statistics on births and deaths. These stakeholders have called for evidence‐based guidance on this topic. This review was carried out to support World Health Organization (WHO) recommendations on digital interventions for health system strengthening. 
+Objectives
+Primary objective: To assess the effects of birth notification and death notification via a mobile device, compared to standard practice. 
+Secondary objectives: To describe the range of strategies used to implement birth and death notification via mobile devices and identify factors influencing the implementation of birth and death notification via mobile devices. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, the Global Health Library, and POPLINE (August 2, 2019). We searched two trial registries (August 2, 2019). We also searched Epistemonikos for related systematic reviews and potentially eligible primary studies (August 27, 2019). We conducted a grey literature search using mHealthevidence.org (August 15, 2017) and issued a call for papers through popular digital health communities of practice. Finally, we conducted citation searches of included studies in Web of Science and Google Scholar (May 15, 2020). We searched for studies published after 2000 in any language.  
+Selection criteria
+For the primary objective, we included individual and cluster‐randomised trials; cross‐over and stepped‐wedge study designs; controlled before‐after studies, provided they have at least two intervention sites and two control sites; and interrupted time series studies. For the secondary objectives, we included any study design, either quantitative, qualitative, or descriptive, that aimed to describe current strategies for birth and death notification via mobile devices; or to explore factors that influence the implementation of these strategies, including studies of acceptability or feasibility. 
+For the primary objective, we included studies that compared birth and death notification via mobile devices with standard practice. For the secondary objectives, we included studies of birth and death notification via mobile device as long as we could extract data relevant to our secondary objectives. 
+We included studies of all cadres of healthcare providers, including lay health workers; administrative, managerial, and supervisory staff; focal individuals at the village or community level; children whose births were being notified and their parents/caregivers; and individuals whose deaths were being notified and their relatives/caregivers. 
+Data collection and analysis
+For the primary objective, two authors independently screened all records, extracted data from the included studies and assessed risk of bias. For the analyses of the primary objective, we reported means and proportions, where appropriate. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to assess the certainty of the evidence and we prepared a 'Summary of Findings' table. 
+For the secondary objectives, two authors screened all records, one author extracted data from the included studies and assessed methodological limitations using the WEIRD tool and a second author checked the data and assessments. We carried out a framework analysis using the Supporting the Use of Research Evidence (SURE) framework to identify themes in the data. We used the GRADE‐CERQual (Confidence in the Evidence from Reviews of Qualitative research) approach to assess our confidence in the evidence and we prepared a 'Summary of Qualitative Findings' table. 
+Main results
+For the primary objective, we included one study, which used a controlled before‐after study design. The study was conducted in Lao People’s Democratic Republic and assessed the effect of using mobile devices for birth notification on outcomes related to coverage and timeliness of Hepatitis B vaccination. However, we are uncertain of the effect of this approach on these outcomes because the certainty of this evidence was assessed as very low. The included study did not assess resource use or unintended consequences. For the primary objective, we did not identify any studies using mobile devices for death notification. 
+For the secondary objective, we included 21 studies. All studies were conducted in low‐ or middle‐income settings. They focussed on identification of births and deaths in rural, remote, or marginalised populations who are typically under‐represented in civil registration processes or traditionally seen as having poor access to health services. 
+The review identified several factors that could influence the implementation of birth‐death notification via mobile device. These factors were tied to the health system, the person responsible for notifying, the community and families; and include: 
+‐ Geographic barriers that could prevent people’s access to birth‐death notification and post‐notification services 
+‐ Access to health workers and other notifiers with enough training, supervision, support, and incentives 
+‐ Monitoring systems that ensure the quality and timeliness of the birth and death data 
+‐ Legal frameworks that allow births and deaths to be notified by mobile device and by different types of notifiers 
+‐ Community awareness of the need to register births and deaths
+‐ Socio‐cultural norms around birth and death
+‐ Government commitment
+‐ Cost to the system, to health workers and to families
+‐ Access to electricity and network connectivity, and compatibility with existing systems 
+‐ Systems that protect data confidentiality
+We have low to moderate confidence in these findings. This was mainly because of concerns about methodological limitations and data adequacy. 
+Authors' conclusions
+We need more, well‐designed studies of the effect of birth and death notification via mobile devices and on factors that may influence its implementation. 

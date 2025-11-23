@@ -1,0 +1,14 @@
+Which antibiotic are useful to treat newborns with congenital syphilis?
+Review question 
+To assess the effectiveness and safety of antibiotic treatment for newborns with congenital syphilis. 
+Background 
+Pregnant women with syphilis can transmit it through the placenta to the fetus or at birth to the neonate; in such cases the baby is said to have congenital syphilis. This continues to be a substantial public health problem in many countries. In 2007, the World Health Organization launched a global initiative for the elimination of mother‐to‐child transmission of syphilis. 
+Trial characteristics 
+We identified only two clinical trials following extensive searches of medical databases carried out up to 23 May 2018 and involved two main formulations of penicillin, long‐acting benzathine penicillin and procaine benzylpenicillin. Both trials recruited infants with asymptomatic (no symptoms) congenital syphilis. The first with 22 newborns was undertaken in South Africa and compared benzathine penicillin with no treatment. The second trial was carried out in USA and recruited 169 infants and compared the effectiveness of benzathine penicillin and procaine benzylpenicillin. 
+Key results 
+The first study showed there was not difference in the rate of neonatal death due to any cause, moreover results suggested a possible reduction into the proportion of neonates with clinical manifestations of congenital syphilis. Also penicillin administration increase the number of patients who experience a favourable response in terms of the test used to monitor disease activity (serological cure). This trial was stopped early after there were four cases of congenital syphilis found in the no‐treatment group and none in the penicillin group. 
+The second trial showed that both benzathine penicillin and procaine benzylpenicillin were probably equally effective in treating congenital syphilis for the outcomes absence of clinical manifestations of congenital syphilis and serological cure. None of the studies assessed the side effects of treatment. 
+Quality of the evidence 
+The quality of the evidence for the first trial was low due to poor reporting of study methods. For the second trial, there was high‐quality evidence for the absence of clinical manifestations of congenital syphilis on neonates, but moderate‐quality evidence for serological cure due to few data. 
+Conclusions 
+Compared with no intervention, treatment with benzathine penicillin may increase rates of serological cure by the age of three months and possibly reduce the the clinical manifestation of congenital syphilis. There is probably no difference between long‐acting benzathine penicillin and procaine benzylpenicillin for treating newborns with congenital syphilis. 

@@ -1,0 +1,15 @@
+Background
+Intradialytic hypotension (IDH) is a common complication of haemodialysis (HD), and a risk factor of cardiovascular morbidity and death. Several clinical studies suggested that reduction of dialysate temperature, such as fixed reduction of dialysate temperature or isothermal dialysate using a biofeedback system, might improve the IDH rate. 
+Objectives
+This review aimed to evaluate the benefits and harms of dialysate temperature reduction for IDH among patients with chronic kidney disease requiring HD, compared with standard dialysate temperature. 
+Search methods
+We searched Cochrane Kidney and Transplant's Specialised Register up to 14 May 2019 through contact with the Information Specialist using search terms relevant to this review. Studies in the Register are identified through searches of CENTRAL, MEDLINE, EMBASE, conference proceedings, the International Clinical Trials Register (ICTRP) Search Portal, and ClinicalTrials.gov. 
+Selection criteria
+All randomised controlled trials (RCTs), cross‐over RCTs, cluster RCTs and quasi‐RCTs were included in the review. 
+Data collection and analysis
+Two authors independently extracted information including participants, interventions, outcomes, methods of the study, and risks of bias. We used a random‐effects model to perform quantitative synthesis of the evidence. We assessed the risks of bias for each study using the Cochrane ’Risk of bias’ tool. We assessed the certainty of evidence using Grades of Recommendation, Assessment, Development and Evaluation (GRADE). 
+Main results
+We included 25 studies (712 participants). Three studies were parallel RCTs and the others were cross‐over RCTs. Nineteen studies compared fixed reduction of dialysate temperature (below 36°C) and standard dialysate temperature (37°C to 37.5°C). Most studies were of unclear or high risk of bias. Compared with standard dialysate, it is uncertain whether fixed reduction of dialysate temperature improves IDH rate (8 studies, 153 participants: rate ratio 0.52, 95% CI 0.34 to 0.80; very low certainty evidence); however, it might increase the discomfort rate compared with standard dialysate (4 studies, 161 participants: rate ratio 8.31, 95% CI 1.86 to 37.12; very low certainty evidence). There were no reported dropouts due to adverse events. No study reported death, acute coronary syndrome or stroke. 
+Three studies compared isothermal dialysate and thermoneutral dialysate. Isothermal dialysate might improve the IDH rate compared with thermoneutral dialysate (2 studies, 133 participants: rate ratio 0.68, 95% CI 0.60 to 0.76; I2 = 0%; very low certainty evidence). There were no reports of discomfort rate (1 study) or dropouts due to adverse events (2 studies). No study reported death, acute coronary syndrome or stroke. 
+Authors' conclusions
+Reduction of dialysate temperature may prevent IDH, but the conclusion is uncertain. Larger studies that measure important outcomes for HD patients are required to assess the effect of reduction of dialysate temperature. Six ongoing studies may provide much‐needed high quality evidence in the future. 

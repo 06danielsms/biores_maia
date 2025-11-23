@@ -1,0 +1,15 @@
+Background
+Maternal caffeine consumption during pregnancy may have adverse effects on fetal, neonatal and maternal outcomes. 
+Objectives
+This review investigates the effects of restricting caffeine intake by mothers on fetal, neonatal and pregnancy outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (16 January 2015), scanned bibliographies of published studies and corresponded with investigators. 
+Selection criteria
+Randomised controlled trials (RCTs) including quasi‐RCTs investigating the effect of caffeine and/or supplementary caffeine versus restricted caffeine intake or placebo on pregnancy outcomes. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+Two studies met the inclusion criteria but only one contributed data for the prespecified outcomes. Caffeinated instant coffee (568 women) was compared with decaffeinated instant coffee (629 women) and it was found that reducing the caffeine intake of regular coffee drinkers (3+ cups/day) during the second and third trimester by an average of 182 mg/day did not affect birthweight (g) (mean difference (MD) 20.00, 95% confidence interval (CI) ‐48.68 to 88.68; one study, 1197 participants; low quality evidence), preterm birth (risk ratio (RR) 0.81, 95% CI 0.48 to 1.37; one study, 1153 participants; low quality evidence) or small‐for‐gestational age (RR 0.97, 95% 0.57 to 1.64; one study, 1150 participants). Risk of bias was moderate in both studies. 
+Two outcomes were assessed and assigned a quality rating using the GRADE methods. Evidence for these two outcomes (birthweight and preterm birth) was assessed as of low quality, with downgrading decisions due to the relatively small sample sizes and the wide confidence interval of the one included trial that contributed data. Neither of the studies reported on any of the other primary outcomes (low birthweight; first trimester fetal loss; perinatal mortality; fetal hypoxia; fetal tachycardia) or on any of the reviews neonatal or maternal outcomes. 
+Authors' conclusions
+There is insufficient evidence to confirm or refute the effectiveness of caffeine avoidance on birthweight or other pregnancy outcomes. There is a need to conduct high‐quality, double‐blinded RCTs to determine whether caffeine has any effect on pregnancy outcome. 

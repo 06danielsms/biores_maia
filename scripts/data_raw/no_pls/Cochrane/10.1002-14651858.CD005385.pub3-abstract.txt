@@ -1,0 +1,14 @@
+Background
+Sepsis is a common problem in preterm and term infants. The incidence of neonatal sepsis has declined, but mortality remains high. Recombinant human activated protein C (rhAPC) possess a broad spectrum of activity modulating coagulation and inflammation. In septic adults it may reduce mortality, but no significant benefit has been reported in children with severe sepsis. 
+Objectives
+To determine whether treatment with rhAPC reduces mortality and/or morbidity in neonatal sepsis. 
+Search methods
+For this update searches were carried out in May 2011 of the Cochrane Central Register of Controlled Trials (The Cochrane Library), MEDLINE, EMBASE, CINAHL, and abstracts of annual meetings of the Pediatric Academic Societies. Doctoral dissertations, theses and the Science Citation Index for articles on activated protein C were searched. No language restriction was applied. 
+Selection criteria
+Randomized or quasi‐randomized trials, assessing the efficacy of rhAPC compared to placebo or no intervention as an adjunct to antibiotic therapy of suspected or confirmed severe sepsis in term and preterm infants less than 28 days old. Eligible trials should report at least one of the following outcomes: mortality during initial hospital stay, neurodevelopmental assessment at two years of age or later, length of hospital stay, duration of ventilation, chronic lung disease, periventricular leukomalacia, intraventricular haemorrhage, necrotizing enterocolitis, bleeding, and any other adverse events. 
+Data collection and analysis
+Review authors were to independently evaluate the articles for inclusion criteria and quality, and abstract information for the outcomes of interest. Differences were to be resolved by consensus. The statistical methods were to include relative risk, risk difference, number needed to treat to benefit or number needed to treat to harm for dichotomous and weighed mean difference for continuous outcomes reported with 95% confidence intervals. A fixed effect model was to be used for meta‐analysis. Heterogeneity tests, including the I2 statistic, were to be performed to assess the appropriateness of pooling the data. 
+Main results
+No eligible trials were identified. In October 2011 rhAPC (Xigris®) was withdrawn from the market by Eli Lilly due to a higher mortality in a trial among adults. Xigris® (DrotAA)( rhAPC) should no longer be used in any age category and the product should be returned to the distributor. 
+Authors' conclusions
+Despite the scientific rationale for its use, there is insufficient data to use rhAPC for the management of severe sepsis in newborn infants. Due to the results among adults with lack of efficacy, an increase in bleeding and resulting withdrawal of rhAPC from the market, neonates should not be treated with rhAPC and further trials should not be conducted. 

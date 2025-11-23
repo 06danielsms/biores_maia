@@ -1,0 +1,14 @@
+Background
+Bed rest is prescribed to all patients with acute myocardial infarction (AMI), but to a variable extent. Current guidelines (American College of Cardiology/ American Heart Association) recommend at least 12 hours bed rest in patients with uncomplicated ST‐elevation myocardial infarction, however the basis for this recommendation is unclear. 
+Objectives
+To compare the effects of short versus longer bed rest in patients with uncomplicated AMI. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library 2009, Issue 3), MEDLINE (January 1966 to October 2009), EMBASE (January 1988 to October 2009), PASCAL BioMed (January 1996 to August 2005), PsycINFO (January 1966 to October 2009) and BIOSIS Previews (January 1990 to October 2009). Bibliographies were checked. No language restrictions were applied. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials of short versus longer bed rest in patients with uncomplicated AMI were sought. 
+Data collection and analysis
+Study selection was performed independently by at least two investigators according to the predefined inclusion criteria. Data were extracted by two investigators independently and in duplicate. Authors were contacted to obtain missing information. 
+Main results
+We found 15 trials with 1487 patients assigned to a short period of bed rest (median 6 days) and 1471 patients assigned to longer bed rest (median 13 days). Generally the studies were outdated and appeared to be of moderate to poor methodological reporting quality. There was no evidence that shorter bed rest was more harmful than longer bed rest in terms of all cause mortality (RR 0.85, 95%CI 0.68 to 1.07), cardiac mortality (RR 0.81, 95%CI 0.54 to 1.19), or reinfarction (RR 1.07, 95%CI 0.79 to 1.44). 
+Authors' conclusions
+Bed rest ranging from 2 to 12 days appears to be as safe as longer periods of bed rest. The quality of most trials is unsatisfactory. Current bed rest recommendations are not supported by the existing evidence as the optimal duration of bed rest is unknown. The lack of adequate trials is surprising, considering the large size of several studies to compare effectiveness of drugs on people with AMI. 

@@ -1,0 +1,14 @@
+Background
+Tuberculosis is a major global health challenge that is caused by a bacteria which is spread by airborne droplets. Mostly patients are identified in high‐burden countries when they visit health care facilities ('passive case finding'). Contacts of tuberculosis patients are a high‐risk group for developing the disease. Actively screening contacts of people with confirmed tuberculosis may improve case detection rates and control of the disease. 
+Objectives
+This study aims to compare whether active case finding among contacts of people with confirmed tuberculosis increases case detection compared to usual practice. 
+Search methods
+In April 2011 we searched CENTRAL (The Cochrane Library 2011, Issue 2), MEDLINE, EMBASE, LILACS and mRCT. We also checked article reference lists, the International Journal of Tuberculosis and Lung Disease and contacted relevant researchers and organizations. 
+Selection criteria
+Randomized and quasi‐randomized trials of active case finding to detect tuberculosis disease among close and casual contacts of patients with microbiologically proven pulmonary tuberculosis (by sputum smear and/or culture). 
+Data collection and analysis
+Two authors independently assessed eligibility and the methodological quality of the trials that were extracted using a search method that was outlined previously. 
+Main results
+No trials met the inclusion criteria for this review. One RCT did test the effect of active case finding in contacts, but the intervention in that trial also included screening for, and treatment of, LTBI in contacts; and the separate effect of active case finding could not be estimated. 
+Authors' conclusions
+There are currently insufficient data from randomized controlled trials or quasi‐randomized controlled trials to evaluate the effect of active case finding for tuberculosis among contacts of patients with confirmed disease. While observational studies show that contacts have a higher risk of developing tuberculosis than the general population, further research is needed to determine whether active case finding among contacts significantly increases case detection rates. 

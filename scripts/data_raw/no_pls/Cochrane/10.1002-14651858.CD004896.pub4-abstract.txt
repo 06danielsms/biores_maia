@@ -1,0 +1,22 @@
+Background
+Uncontrolled bleeding is an important cause of death in trauma victims. Antifibrinolytic treatment has been shown to reduce blood loss following surgery and may also be effective in reducing blood loss following trauma. 
+Objectives
+To assess the effect of antifibrinolytic drugs in patients with acute traumatic injury.
+Search methods
+We ran the most recent search in January 2015. We searched the Cochrane Injuries Group's Specialised Register, The Cochrane Library, Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic+Embase (OvidSP), PubMed and clinical trials registries. 
+Selection criteria
+Randomised controlled trials of antifibrinolytic agents (aprotinin, tranexamic acid [TXA], epsilon‐aminocaproic acid and aminomethylbenzoic acid) following acute traumatic injury. 
+Data collection and analysis
+From the results of the screened electronic searches, bibliographic searches, and contacts with experts, two authors independently selected trials meeting the inclusion criteria, and extracted data. One review author assessed the risk of bias for key domains. 
+Outcome measures included: mortality at end of follow‐up (all‐cause); adverse events (specifically vascular occlusive events [myocardial infarction, stroke, deep vein thrombosis or pulmonary embolism] and renal failure); number of patients undergoing surgical intervention or receiving blood transfusion; volume of blood transfused; volume of intracranial bleeding; brain ischaemic lesions; death or disability. 
+We rated the quality of the evidence as 'high', 'moderate', 'low' or 'very low' according to the GRADE approach. 
+Main results
+Three trials met the inclusion criteria.
+Two trials (n = 20,451) assessed the effect of TXA. The larger of these (CRASH‐2, n = 20,211) was conducted in 40 countries and included patients with a variety of types of trauma; the other (n = 240) restricted itself to those with traumatic brain injury (TBI) only. 
+One trial (n = 77) assessed aprotinin in participants with major bony trauma and shock.
+The pooled data show that antifibrinolytic drugs reduce the risk of death from any cause by 10% (RR 0.90, 95% CI 0.85 to 0.96; P = 0.002) (quality of evidence: high). This estimate is based primarily on data from the CRASH‐2 trial of TXA, which contributed 99% of the data. 
+There is no evidence that antifibrinolytics have an effect on the risk of vascular occlusive events (quality of evidence: moderate), need for surgical intervention or receipt of blood transfusion (quality of evidence: high). There is no evidence for a difference in the effect by type of antifibrinolytic (TXA versus aprotinin) however, as the pooled analyses were based predominantly on trial data concerning the effects of TXA, the results can only be confidently applied to the effects of TXA. The effects of aprotinin in this patient group remain uncertain. 
+There is some evidence from pooling data from one study (n = 240) and a subset of data from CRASH‐2 (n = 270) in patients with TBI which suggest that TXA may reduce mortality although the estimates are imprecise, the quality of evidence is low, and uncertainty remains. Stronger evidence exists for the possibility of TXA reducing intracranial bleeding in this population. 
+Authors' conclusions
+TXA safely reduces mortality in trauma patients with bleeding without increasing the risk of adverse events.  TXA should be given as early as possible and within three hours of injury, as further analysis of the CRASH‐2 trial showed that treatment later than this is unlikely to be effective and may be harmful. Although there is some promising evidence for the effect of TXA in patients with TBI, substantial uncertainty remains. 
+Two ongoing trials being conducted in patients with isolated TBI should resolve these remaining uncertainties. 

@@ -1,0 +1,45 @@
+Background
+Familial Mediterranean fever (FMF), a hereditary auto‐inflammatory disease, mainly affects ethnic groups living in the Mediterranean region. Early studies reported colchicine may potentially prevent FMF attacks. For people who are colchicine‐resistant or intolerant, drugs such as anakinra, rilonacept, canakinumab, etanercept, infliximab or adalimumab might be beneficial. This is an update of the review last published in 2018. 
+Objectives
+To evaluate the efficacy and safety of interventions for reducing inflammation in people with FMF. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and four Chinese databases on in August 2021. We searched clinical trials registries and references listed in relevant reports. 
+The last search was 17 August 2021.
+Selection criteria
+We included randomized controlled trials (RCTs) of people with FMF, comparing active interventions (including colchicine, anakinra, rilonacept, canakinumab, etanercept, infliximab, adalimumab, thalidomide, tocilizumab, interferon‐α and ImmunoGuard (herbal dietary supplement)) with placebo or no treatment, or comparing active drugs to each other. 
+Data collection and analysis
+We used standard Cochrane methodology. We assessed certainty of the evidence using GRADE. 
+Main results
+We included 10 RCTs with 312 participants (aged three to 53 years), including five parallel and five cross‐over designed studies. Six studies used oral colchicine, one used oral ImmunoGuard, and the remaining three used rilonacept, anakinra or canakinumab as a subcutaneous injection. The duration of each study arm ranged from one to eight months. 
+There were inadequacies in the design of the four older colchicine studies and the two studies comparing a single to a divided dose of colchicine. However, the four studies of ImmunoGuard, rilonacept, anakinra and canakinumab were generally well‐designed.  
+We aimed to report on the number of participants experiencing an attack, the timing of attacks, the prevention of amyloid A amyloidosis, adverse drug reactions and the response of a number of biochemical markers from the acute phase of an attack; but no study reported on the prevention of amyloid A amyloidosis. 
+Colchicine (oral) versus placebo 
+After three months, colchicine 0.6 mg three times daily may reduce the number of people experiencing attacks (risk ratio (RR) 0.21, 95% confidence interval (CI) 0.05 to 0.95; 1 study, 10 participants; low‐certainty evidence). One study (20 participants) of colchicine 0.5 mg twice daily showed there may be no difference in the number of participants experiencing attacks at two months (RR 0.78, 95% CI 0.49 to 1.23; low‐certainty evidence). 
+There may be no differences in the duration of attacks (narrative summary; very low‐certainty evidence), or in the number of days between attacks: (narrative summary; very low‐certainty evidence). 
+Regarding adverse drug reactions, one study reported loose stools and frequent bowel movements and a second reported diarrhea (narrative summary; both very low‐certainty evidence). 
+There were no data on acute‐phase response.
+Rilonacept versus placebo 
+There is probably no difference in the number of people experiencing attacks at three months (RR 0.87, 95% CI 0.59 to 1.26; moderate‐certainty evidence).  
+There may be no differences in the duration of attacks (narrative summary; low‐certainty evidence) or in the number of days between attacks (narrative summary; low‐certainty evidence). 
+Regarding adverse drug reactions, the rilonacept study reported there may be no differences in gastrointestinal symptoms, hypertension, headache, respiratory tract infections, injection site reactions and herpes, compared to placebo (narrative summary; low‐certainty evidence). 
+The study narratively reported there may be no differences in acute‐phase response indicators after three months (low‐certainty evidence). 
+ImmunoGuard versus placebo 
+The ImmunoGuard study observed there are probably no differences in adverse effects (moderate‐certainty evidence) or in acute‐phase response indicators after one month of treatment (moderate‐certainty evidence). 
+No data were reported for the number of people experiencing an attack, duration of attacks or days between attacks. 
+Anakinra versus placebo 
+A study of anakinra given to 25 colchicine‐resistant participants found there is probably no difference in the number of participants experiencing an attack at four months (RR 0.76, 95% CI 0.54 to 1.07; moderate‐certainty evidence).  
+There were no data for duration of attacks or days between attacks.
+There are probably no differences between anakinra and placebo with regards to injection site reaction, headache, presyncope, dyspnea and itching (narrative summary; moderate‐certainty evidence). 
+For acute‐phase response, anakinra probably reduced C‐reactive protein (CRP) after four months (narrative summary; moderate‐certainty evidence). 
+Canakinumab versus placebo 
+Canakinumab probably reduces the number of participants experiencing an attack at 16 weeks (RR 0.41, 95% CI 0.26 to 0.65; 1 study, 63 colchicine‐resistant participants; moderate‐certainty evidence). 
+There were no data for the duration of attacks or days between attacks.
+The included study reported the number of serious adverse events per 100 patient‐years was probably 42.7 with canakinumab versus 97.4 with placebo among people with colchicine‐resistant FMF (moderate‐certainty evidence). 
+For acute‐phase response, canakinumab probably caused a higher proportion of participants to have a CRP level of 10 mg/L or less compared to placebo (68% with canakinumab versus 6% with placebo; 1 study, 63 participants; moderate‐certainty evidence). 
+Colchicine single dose versus divided dose 
+There is probably no difference in the duration of attacks at three months (MD −0.04 hours, 95% CI −10.91 to 10.83) or six months (MD 2.80 hours, 95% CI −5.39 to 10.99; moderate‐certainty evidence). 
+There were no data for the number of participants experiencing an attack or days between attacks. 
+There is probably no difference in adverse events (including anorexia, nausea, diarrhea, abdominal pain, vomiting and elevated liver enzymes) between groups (narrative summary; moderate‐certainty evidence). 
+For acute‐phase response, there may be no evidence of a difference between groups (narrative summary; low‐ to moderate‐certainty evidence). 
+Authors' conclusions
+There were limited RCTs assessing interventions for people with FMF. Based on the evidence, three times daily colchicine may reduce the number of people experiencing attacks, colchicine single dose and divided dose may not be different for children with FMF, canakinumab probably reduces the number of people experiencing attacks, and anakinra or canakinumab probably reduce CRP in colchicine‐resistant participants; however, only a few RCTs contributed data for analysis. Further RCTs examining active interventions, not only colchicine, are necessary before a comprehensive conclusion regarding the efficacy and safety of interventions for reducing inflammation in FMF can be drawn. 

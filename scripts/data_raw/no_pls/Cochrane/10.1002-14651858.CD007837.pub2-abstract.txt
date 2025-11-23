@@ -1,0 +1,14 @@
+Background
+Adolescent idiopathic scoliosis (AIS) is a three‐dimensional deformity of the spine . While AIS can progress during growth and cause a surface deformity, it is usually not symptomatic. However, in adulthood, if the final spinal curvature surpasses a certain critical threshold, the risk of health problems and curve progression is increased. The use of scoliosis‐specific exercises (SSE) to reduce progression of AIS and postpone or avoid other more invasive treatments is controversial. 
+Objectives
+To evaluate the efficacy of SSE in adolescent patients with AIS.
+Search methods
+The following databases (up to 30 March 2011) were searched with no language limitations: CENTRAL (The Cochrane Library 2011, issue 2), MEDLINE (from January 1966), EMBASE (from January 1980), CINHAL (from January 1982), SportDiscus (from January 1975), PsycInfo (from January 1887), PEDro (from January 1929). We screened reference lists of articles and also conducted an extensive handsearch of grey literature. 
+Selection criteria
+Randomised controlled trials and prospective cohort studies with a control group comparing exercises with no treatment, other treatment, surgery, and different types of exercises. 
+Data collection and analysis
+Two review authors independently selected studies, assessed risk of bias and extracted data. 
+Main results
+Two studies (154 participants) were included. There is low quality evidence from one randomised controlled study that exercises as an adjunctive to other conservative treatments increase the efficacy of these treatments (thoracic curve reduced: mean difference (MD) 9.00, (95% confidence interval (CI) 5.47 to 12.53); lumbar curve reduced:MD 8.00, (95% CI 5.08 to 10.92)). There is very low quality evidence from a prospective controlled cohort study that scoliosis‐specific exercises structured within an exercise programme can reduce brace prescription (risk ratio (RR) 0.24, (95% CI 0.06 to1.04) as compared to usual physiotherapy (many different kinds of general exercises according to the preferences of the single therapists within different facilities). 
+Authors' conclusions
+There is a lack of high quality evidence to recommend the use of SSE for AIS. One very low quality study suggested that these exercises may be more effective than electrostimulation, traction and postural training to avoid scoliosis progression, but better quality research needs to be conducted before the use of SSE can be recommended in clinical practice. 

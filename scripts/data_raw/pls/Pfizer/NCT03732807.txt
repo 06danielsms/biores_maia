@@ -1,0 +1,67 @@
+What is alopecia areata? 
+Alopecia areata is an autoimmune disorder, which may be chronic and recurring, 
+where a patient experiences non-scarring hair loss. It can affect adults and children 
+across all ages, races, and sexes. Alopecia areata can have a large impact on the 
+psychological health of both adult and pediatric patients, including damage to the 
+patient’s self-esteem, an increased occurrence of anxiety and depression, and other 
+psychological conditions, problems with social relationships, decreased health-related 
+quality of life, and a general decline in quality of life. 
+Patchy alopecia areata is the most common form of alopecia areata, which may 
+develop into more widespread and often treatment-resistant forms of alopecia areata, 
+especially when the disease starts at an earlier age. Alopecia areata involving 50% or 
+greater scalp hair loss, including the loss of all the hair on the scalp (alopecia totalis) 
+and the loss of all scalp, face, and body hair (alopecia universalis) can be considered 
+extensive forms of alopecia areata. 
+What is Ritlecitinib? 
+Ritlecitinib is a small molecule oral medication. Small molecules can move easily 
+through the cell membrane to interact with targeted molecules present inside a cell. 
+Ritlecitinib inhibits the enzymes (protein molecule in cells which speed up chemical 
+reactions in the body) known as Janus kinase 3 (JAK3) and tyrosine kinase 
+expressed in hepatocellular carcinoma (TEC) family. These enzymes are important 
+regulators of inflammatory pathways in the cell and cause the production of molecules 
+known as cytokines. It is believed that these inflammatory pathways and cytokines are 
+involved in dermatologic diseases such as vitiligo, atopic dermatitis, as well as alopecia 
+areata. What was the purpose of this study? 
+The purpose of this study was to compare ritlecitinib with a placebo to determine 
+ritlecitinib’s efficacy and safety in treating alopecia areata patients. Ritlecitinib is an 
+investigational medication because it is not approved for use. The placebo looks like 
+the study medication but does not contain any active ingredients. Researchers 
+compared the results of taking the placebo to the results of taking ritlecitinib to see if 
+there were any differences. 
+Researchers wanted to know: 
+Did the participants taking ritlecitinib have a better response than 
+the participants taking placebo at Week 24?
+How was the study done? 
+Researchers tested ritlecitinib on a group of study participants to find out if study participants taking ritlecitinib had a better response as measured by the Severity Alopecia Tool (SALT) in comparison to placebo at Week 24. Following Week 24, participants taking placebo were switched to ritlecitinib during the extension period. The SALT score measures the severity of alopecia by capturing the percentage of hair loss. It was calculated by dividing the scalp into 4 quadrants with allocated percentage scalp surface area in each area. The study was carried out as shown in Figure 1 below. 
+
+Figure 1: Overall study design 
+The study participants and researchers did not know who took ritlecitinib, what dosage was received, or who took the placebo. This is known as a “blinded” study. Study participants were assigned to each group by chance alone. 
+
+Where did this study take place? 
+The Sponsor ran this study at 118 locations in Argentina, Australia, Canada, Chile, China, Colombia, Czech Republic, Germany, Hungary, Japan, Mexico, Poland, Russia, Spain, South Korea, Taiwan, United Kingdom, and the United States. 
+
+When did this study take place? 
+It began 03 December 2018 and ended 24 June 2021. 
+
+Who participated in this study? 
+The study included participants who:
+- Had a primary diagnosis of alopecia areata
+- Had at least 50% hair loss on their scalp
+- Were currently experiencing hair loss on their scalp
+- Were at least 12 years old or older, depending on the study location
+
+A total of 1097 participants were screened, and 718 participants were randomized or assigned to a treatment group by chance. A total of 272 males participated. A total of 446 females participated. Six hundred and thirteen out of 718 (85%) of participants were at least 18 years old. Participants were to be treated until the planned end of treatment at 48 weeks. Of the 718 participants who started the study, 614 participants completed the study treatment. 
+
+Three participants were not treated, and 101 participants did not finish the study because:
+- the participant left by their own choice
+- the participant experienced a medical problem
+- the participant discovered they were pregnant
+- a doctor decided it was best for a participant to stop being in the study
+- the participant could not be contacted
+- the treatment did not work for them
+- a protocol deviation occurred (an unplanned change from the study design)
+- the participant was non-compliant while taking the study medication
+- or for other reasons.
+
+How long did the study last? 
+Study participants were in the study for approximately 57 weeks. The entire study took approximately 2 and a half years to complete. When the last participant’s last visit occurred in June 2021, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

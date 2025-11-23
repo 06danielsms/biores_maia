@@ -1,0 +1,15 @@
+Background
+In patients presenting for surgical resection of lesions involving, or adjacent to, the functionally important eloquent cortical areas, it is vital to achieve complete or near complete resection of the pathology without damaging the healthy surrounding tissues.The eloquent areas that the surgeons are concerned with are the primary motor, premotor cortex, supplementary motor cortex and speech areas. If the lesions are within these regions surgeons could either take a biopsy or do a intracapsular decompression without damaging the mentioned areas to avoid postoperative dysfunction. If the lesions are adjacent to the above mentioned areas, the normal anatomy would get distorted. However, proper identification of the above mentioned areas would enable the surgeon to radically remove the tumours. Intraoperative mapping of the cortex with stimulating and recording electrodes is termed as electrophysiological (EP) mapping.The EP mapping of motor, sensory and language cortex is widely employed in the resection of lesions involving or adjacent to the eloquent areas. Both intravenous and inhalational agents are known to affect these EP mapping techniques. 
+Objectives
+The aim of this review was to evaluate the effect of anaesthetic agents on intra‐operative EP mapping in patients undergoing neurosurgical procedures involving, or adjacent to, the functional areas of the cortex under general anaesthesia. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialized Register (7 March 2011), The Cochrane Central Register of Controlled Trials (CENTRAL issue 1 of 4, The Cochrane Library 2011), MEDLINE (Ovid, 1948 to February week 4, 2011), PsycINFO (EBSCOhost, 7 March 2011), and the National Research Register Archive and UK Clinical Research Network (7 March 2011). We also contacted other researchers in the field in an attempt to ascertain unpublished studies. 
+Selection criteria
+We planned to include randomised and quasi randomised controlled trials irrespective of blinding in patients of any age or gender undergoing neurosurgery under general anaesthesia where cortical mapping was attempted to identify eloquent areas using either somatosensory evoked potentials (SSEPs), or direct cortical stimulation (DCS) triggered muscle motor evoked potentials (mMEPs), or both.   
+We excluded patients from trials where the anaesthetic effects were evaluated during spinal cord surgery or where MEPs were recorded from modes other than direct cortical stimulation such as transcranial electrical stimulation (TcMEPs), MEPs derived from epidural electrodes (D waves) and magnetic stimulation and trials involving awake craniotomies or the asleep‐awake‐asleep technique during cortical mapping. 
+Data collection and analysis
+Two review authors planned to independently apply the inclusion criteria and extract data. 
+Main results
+No RCTs were found for this study population.
+Authors' conclusions
+This review highlights the need for well‐designed randomised controlled trials to assess the effect of anaesthetic agents on cortical mapping during neurosurgical procedures involving eloquent areas of the brain. 

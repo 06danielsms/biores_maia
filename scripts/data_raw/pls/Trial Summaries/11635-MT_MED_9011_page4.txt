@@ -1,0 +1,16 @@
+"The purpose of this study was to learn how SZC works in healthy participants.
+
+The main questions the researchers wanted to answer in this study were:
+- Did the amount of tacrolimus or cyclosporin that got into the participants' blood differ when taken with SZC?
+- What medical problems did the participants have during the study?
+- What treatments did the participants take?
+
+In this study, there were 2 groups:
+- In the tacrolimus group, all of the participants took 1 dose of tacrolimus on its own and 1 dose of tacrolimus with SZC.
+- In the cyclosporin group, all of the participants took 1 dose of cyclosporin on its own and 1 dose of cyclosporin with SZC.
+
+This was an "open-label" study. This means the participants, researchers, study doctors, and other study staff knew what each participant was taking.
+
+The first treatment the participants took was called "treatment 1" and the second treatment they took was called "treatment 2". After the participants took treatment 1, they did not take any study treatment for at least 2 weeks. This was done so that treatment 1 could leave the participants' bodies before they took treatment 2.
+
+A computer program was used to randomly choose which group each participant was in, and which study treatment they took as treatment 1 and treatment 2. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible."

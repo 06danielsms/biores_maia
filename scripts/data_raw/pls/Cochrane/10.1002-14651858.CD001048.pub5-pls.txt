@@ -1,0 +1,13 @@
+Hypothermia (body temperature cooling) for people with an injury to the brain
+Review question 
+What is the effect of mild hypothermia (body temperature cooling) following a brain injury on whether a person dies, has a poor outcome, or gets a type of severe chest infection (pneumonia)? 
+Background 
+Hypothermia has been used for many years to treat people who have had a severe brain injury. This involves cooling the head or the whole body to a temperature below normal body temperature. We aimed to assess whether people treated with hypothermia after a brain injury are less likely to die or have a poor outcome (which we defined as death, coma or severe disability) and whether using hypothermia might increase the risk of a severe chest infection called pneumonia. 
+Search date 
+Evidence is current to March 2016.
+Study characteristics 
+We included 37 studies with 3110 participants. In each trial, patients were randomly divided into two groups: one group remained at normal body temperature of 36.5 to 38 °C, and the other group was cooled to a maximum of 35 °C for at least 12 hours. 
+Key results 
+We did not combine results of these studies to assess whether hypothermia improves patient outcome. This was because the results had large differences which we could not explain. We identified some differences in the ways in which the studies were carried out and the participants that study authors had recruited, but we did not assess whether this could explain the differences in results. We did not have enough good quality evidence that was sufficiently similar to be confident that treating people who have had a severe brain injury with hypothermia will reduce the incidence of death or severe disability, or increase the incidence of pneumonia. 
+Quality of evidence 
+Many of the studies were not well reported and we were unable to assess whether differences between the quality of the studies may also have affected our results. We used the GRADE approach to judge the quality of evidence. We judged the evidence for death or severe disability to be very low quality, and the evidence for pneumonia to be low quality. 

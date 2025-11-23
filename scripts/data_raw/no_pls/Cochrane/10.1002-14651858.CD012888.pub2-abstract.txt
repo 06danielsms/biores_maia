@@ -1,0 +1,16 @@
+Background
+Feeding practices around the time of packed red blood cell transfusion have been implicated in the subsequent development of necrotising enterocolitis (NEC) in preterm infants. Specifically, it has been suggested that withholding feeds around the time of transfusion may reduce the risk of subsequent NEC. It is important to determine if withholding feeds around transfusion reduces the risk of subsequent NEC and associated mortality. 
+Objectives
+• To assess the benefits and risks of stopping compared to continuing feed management before, during, and after blood transfusion in preterm infants 
+• To assess the effects of stopping versus continuing feeds in the following subgroups of infants: infants of different gestations; infants with symptomatic and asymptomatic anaemia; infants who received different feeding schedules, types of feed, and methods of feed delivery; infants who were transfused with different blood products, at different blood volumes, via different routes of delivery; and those who received blood transfusion with and without co‐interventions such as use of diuretics 
+• To determine the effectiveness and safety of stopping feeds around the time of a blood transfusion in reducing the risk of subsequent necrotising enterocolitis (NEC) in preterm infants 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 11), in the Cochrane Library; MEDLINE (1966 to 14 November 2018); Embase (1980 to 14 November 2018); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 14 November 2018). We also searched clinical trials databases, conference proceedings, and reference lists of retrieved articles for randomised controlled trials (RCTs), cluster‐RCTs, and quasi‐RCTs. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials that compared stopping feeds versus continuing feeds around the time of blood transfusion in preterm infants. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality, and extracted data from the included studies. 
+Main results
+The search revealed seven studies that assessed effects of stopping feeds during blood transfusion. However, only one RCT involving 22 preterm infants was eligible for inclusion in the review. This RCT had low risk of selection bias but high risk of performance bias, as care personnel were not blinded to the study allocation. The primary objective of this trial was to investigate changes in mesenteric blood flow, and no cases of NEC were reported in any of the infants included in the trial. We were unable to draw any conclusions from this single study. The overall GRADE rating for quality of evidence was very low. 
+Authors' conclusions
+Randomised controlled trial evidence is insufficient to show whether stopping feeds has an effect on the incidence of subsequent NEC or death. Large, adequately powered RCTs are needed to address this issue. 

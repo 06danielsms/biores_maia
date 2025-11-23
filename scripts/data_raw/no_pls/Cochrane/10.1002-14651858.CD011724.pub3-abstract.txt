@@ -1,0 +1,15 @@
+Background
+Pneumothorax occurs more frequently in the neonatal period than at any other time of life and is associated with increased mortality and morbidity. It can be treated with either aspiration with a syringe (using a needle or an angiocatheter) or a chest tube inserted in the anterior pleural space and then connected to a Heimlich valve or an underwater seal with continuous suction. 
+Objectives
+To compare the efficacy and safety of needle aspiration (either with immediate removal of the needle or with the needle left in situ) to intercostal tube drainage in the management of neonatal pneumothorax (PTX). 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2018, Issue 5), MEDLINE via PubMed (1966 to 4 June 2018), Embase (1980 to 4 June 2018), and CINAHL (1982 to 4 June 2018). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised controlled trials and cluster trials comparing needle aspiration (either with the needle or angiocatheter left in situ or removed immediately after aspiration) to intercostal tube drainage in newborn infants with pneumothorax. 
+Data collection and analysis
+For each of the included trials, two authors independently extracted data (e.g. number of participants, birth weight, gestational age, kind of needle and chest tube, choice of intercostal space, pressure and device for drainage) and assessed the risk of bias (e.g. adequacy of randomisation, blinding, completeness of follow‐up). The primary outcomes considered in this review are mortality during the neonatal period and during hospitalisation. 
+We used the GRADE approach to assess the quality of evidence.
+Main results
+Two randomised controlled trials (142 infants) met the inclusion criteria of this review. We found no differences in the rates of mortality when the needle was removed immediately after aspiration (risk ratio (RR) 3.92, 95% confidence interval (CI) 0.88 to 17.58; participants = 70; studies = 1) or left in situ (RR 1.50, 95% CI 0.27 to 8.45; participants = 72; studies = 1) or complications related to the procedure. With immediate removal of the needle following aspiration, 30% of the newborns did not require the placement of an intercostal tube drainage. None of the 36 newborns treated with needle aspiration with the angiocatheter left in situ required the placement of an intercostal tube drainage. Overall, the quality of the evidence supporting this finding is very low. 
+Authors' conclusions
+There is insufficient evidence to establish the efficacy and safety of needle aspiration and intercostal tube drainage in the management of neonatal pneumothorax. The two included trials showed no differences in mortality; however the information size is low. Needle aspiration reduces the need for intercostal tube drainage placement. Limited or no evidence is available on other clinically relevant outcomes. 

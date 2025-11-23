@@ -1,0 +1,14 @@
+Background
+Chronic pulmonary infection in cystic fibrosis results in progressive lung damage. Once colonisation of the lungs with Pseudomonas aeruginosa occurs, it is almost impossible to eradicate. Vaccines, aimed at reducing infection with Pseudomonas aeruginosa, have been developed. This is an update of a previously published review. 
+Objectives
+To assess the effectiveness of vaccination against Pseudomonas aeruginosa in cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register using the terms vaccines AND pseudomonas (last search 30 March 2015). We previously searched PubMed using the terms vaccin* AND cystic fibrosis (last search 30 May 2013). 
+Selection criteria
+Randomised trials (published or unpublished) comparing Pseudomonas aeruginosa vaccines (oral, parenteral or intranasal) with control vaccines or no intervention in cystic fibrosis. 
+Data collection and analysis
+The authors independently selected trials, assessed them and extracted data.
+Main results
+Six trials were identified. Two trials were excluded since they were not randomised and one old, small trial because it was not possible to assess whether is was randomised. The three included trials comprised 483, 476 and 37 patients, respectively. No data have been published from one of the large trials, but the company stated in a press release that the trial failed to confirm the results from an earlier study and that further clinical development was suspended. In the other large trial, relative risk for chronic infection was 0.91 (95% confidence interval 0.55 to 1.49), and in the small trial, the risk was also close to one. In the large trial, one patient was reported to have died in the observation period. In that trial, 227 adverse events (4 severe) were registered in the vaccine group and 91 (1 severe) in the control group. In this large trial of a vaccine developed against flagella antigens, antibody titres against the epitopes contained in the vaccine were higher in the vaccine group compared to the placebo group (P < 0.0001). 
+Authors' conclusions
+Vaccines against Pseudomonas aeruginosa cannot be recommended. 

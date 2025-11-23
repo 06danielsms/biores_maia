@@ -1,0 +1,12 @@
+What treatments did the participants receive?
+In this study, the participants either got 1 of 3 doses of AZD8233, or a placebo. They got their study treatment through a needle under the skin, also known as a subcutaneous injection. The dose of AZD8233 was measured in milligrams, also known as "mg". A placebo looks like a drug but does not have any medicine in it. Researchers use a placebo to help make sure any of the effects they see in the participants who get the drug are actually caused by the drug.
+A computer program was used to randomly choose the treatment each participant got. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.
+This was a "double-blind" study. This means none of the participants, researchers, study doctors, or other study staff knew what treatment each participant was getting. Some studies are done this way because knowing what treatment the participants are getting can affect the results of the study. When the study ended, the research sponsor found out which treatment the participants got so they could create a report of the study results.
+
+AZD8233 Placebo
+29 participants 30 participants 
+30 participants 30 participants
+90 mg 50 mg 
+15 mg Placebo
+One injection on days 1, 8, 29, and 57
+- Clinical Study Results

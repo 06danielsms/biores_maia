@@ -1,0 +1,16 @@
+Are psychological therapies effective in treating depression that did not get better with previous treatment? 
+Review question 
+Is psychological therapy an effective treatment for adults with treatment‐resistant depression (TRD)? 
+Background 
+Depression is a common problem often treated with antidepressant medication. However, many people do not get better with antidepressants. These patients may be said to have TRD. For these people, several different treatments can be tried ‐ such as increasing the dose of medicine being taken, adding another medicine, or switching to a new one. Another option is to add or switch to a psychotherapy. Evidence indicates that psychotherapies can help in depression. What we don't know is whether psychotherapies work in people with TRD. This review aimed to answer this question. 
+Search date 
+Searches are current up to May 2017.
+Study characteristics 
+We included six randomised trials (studies in which participants are allocated at random (by chance) to receive one of the treatments being compared). These trials included 698 people and tested three different types of psychotherapy. All studies looked at whether adding psychotherapy to current medical treatment leads to improvement in depression. 
+Study funding sources 
+All studies were funded by public research grants.
+Key results 
+We found that patients who receive psychotherapy as well as usual care with antidepressants had fewer depressive symptoms and were more often depression‐free six months later compared with patients who continued with usual care alone. We are moderately confident of these findings, which means that the true effect of adding CBT may be different from what we found, although findings are likely to be close. We also found that added psychotherapy was as acceptable to patients as usual care alone. Two studies noted similar beneficial effects after 12 months, and one study at 46 months. 
+Two studies reported harmful effects in people receiving usual care alone (one suicide, two people hospitalised) but none in people receiving psychotherapy in addition to usual care. 
+Quality of the evidence 
+Because participants were aware of the treatment they had received, and because we identified only a small number of studies, we graded the evidence as moderate in quality for findings at six months and low in quality for long‐term results. This assessment might change in the future, if higher‐quality research results become available. 

@@ -1,0 +1,14 @@
+Background
+Hepatic hydatid cyst is an important public health problem in parts of the world where dogs are used for cattle breeding. Management of uncomplicated hepatic hydatid cysts is currently surgical. However, the puncture, aspiration, injection, and re‐aspiration (PAIR) method with or without benzimidazole coverage has appeared as an alternative over the past decade. 
+Objectives
+To assess the benefits and harms of PAIR with or without benzimidazole coverage for patients with uncomplicated hepatic hydatid cyst in comparison with sham/no intervention, surgery, or medical treatment. 
+Search methods
+The Cochrane Hepato‐Biliary Group Controlled Trials Register, The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, DARE, and ACP Journal Club and full text searches were combined (all searched October 2010). Reference lists of pertinent studies and other identified literature were scanned. Researchers in the field were contacted. 
+Selection criteria
+Only randomised clinical trials using the PAIR method with or without benzimidazole coverage as the experimental treatment of uncomplicated hepatic hydatid cyst (ie, hepatic hydatid cysts, which are not infected and do not have any communication with the biliary tree or other viscera) versus no intervention, sham puncture (ie, performing all steps for puncture, pretending PAIR being performed, but actually not performing the procedure), surgery, or chemotherapy were included. 
+Data collection and analysis
+Data were independently extracted, and the risk of bias in each trial was assessed by the authors. Principal authors of the trials were contacted to retrieve missing data. 
+Main results
+We found no randomised clinical trials comparing PAIR versus no or sham intervention. We identified only two randomised clinical trials, one comparing PAIR versus surgical treatment (n = 50 participants) and the other comparing PAIR (with or without albendazole) versus albendazole alone (n = 30 participants). Both trials were graded as 'adequate' for allocation concealment; however, generation of allocation sequence and blinding methods were 'unclear' in both. Compared to surgery, PAIR plus albendazole obtained similar cyst disappearance and mean cyst diameter with fewer adverse events (32% versus 84%, P < 0.001) and fewer days in hospital (mean + SD) ( 4.2 + 1.5 versus 12.7 + 6.5 days, P < 0.001). Compared to albendazole, PAIR with or without albendazole obtained significantly more (P < 0.01) cyst reduction and symptomatic relief. 
+Authors' conclusions
+PAIR seems promising, but there is insufficient evidence to support or refute PAIR with or without benzimidazole coverage for treating patients with uncomplicated hepatic hydatid cyst. Further well‐designed randomised clinical trials are necessary to address the topic. 

@@ -1,0 +1,14 @@
+Background
+Electrostimulation might improve motor recovery after stroke by providing neuromuscular re‐training. 
+Objectives
+To find if electrostimulation improved functional motor ability, and the ability to undertake activities of daily living. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched August 2005), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2004), MEDLINE (1966 to January 2004), EMBASE (1980 to January 2004), CINAHL (1982 to January 2004), AMED ‐ Allied and Complementary Medicine Database (1985 to January 2004), Physiotherapy Evidence Database (PEDro), REHABDATA and the ISI Science Citation Index (1981 to 2003). We placed a request on the PHYSIO e‐mail discussion list and contacted authors of relevant studies to elicit any unpublished or ongoing studies, searched the reference lists of included trials and contacted trialists. 
+Selection criteria
+Randomised controlled trials of electrostimulation delivered to the peripheral neuromuscular system which was designed to improve voluntary movement control, functional motor ability and activities of daily living. 
+Data collection and analysis
+Two review authors independently selected trials for inclusion, assessed trial quality and extracted the data. 
+Main results
+Of the 2077 references identified, 24 trials were included in this review. For electrostimulation compared with no treatment this review found that electrostimulation improved some aspects of functional motor ability and some aspects of motor impairment and normality of movement. In addition, there was a significant difference in favour of no treatment compared with electrostimulation for an aspect of functional motor ability. For electrostimulation compared with placebo this review found that electrostimulation improved an aspect of functional motor ability. For electrostimulation compared with conventional physical therapy this review found that electrostimulation improved an aspect of motor impairment. There were no statistically significant differences between electrostimulation and control treatment for all other outcomes. However, these results need to be interpreted with reference to the following: (1) the majority of analyses only contained one trial; (2) variation was found between included trials in time after stroke, level of functional deficit, and dose of electrostimulation; and (3) the possibility of selection and detection bias in the majority of included trials. 
+Authors' conclusions
+At present, there are insufficient robust data to inform clinical use of electrostimulation for neuromuscular re‐training. Research is needed to address specific questions about the type of electrostimulation that might be most effective, in what dose and at what time after stroke. 

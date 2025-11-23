@@ -1,0 +1,17 @@
+Background
+Patients who have undergone total hip or knee replacement (THR, TKR) have a high risk of developing venous thromboembolism (VTE) following surgery, despite appropriate anticoagulation with warfarin or low molecular weight heparin (LMWH). New anticoagulants are under investigation. 
+Objectives
+To examine the efficacy and safety of prophylactic anticoagulation with direct thrombin inhibitors (DTIs) versus LMWH or vitamin K antagonists in the prevention of VTE in patients undergoing THR or TKR. 
+Search methods
+The Cochrane Peripheral Vascular Disease Group searched their Specialized Register (last searched 12 March 2010) and CENTRAL (last searched 2010, Issue 1). 
+Selection criteria
+Randomised controlled trials.
+Data collection and analysis
+Three reviewers independently assessed methodological quality and extracted data in pre‐designed tables. The reported follow‐up events were included 
+Main results
+We included 14 studies included involving 21,642 patients evaluated for efficacy and 27,360 for safety. No difference was observed in major VTE in DTIs compared with LMWH in both types of operations (odds ratio (OR) 0.91; 95% confidence interval (CI) 0.69 to 1.19), with high heterogeneity (I2 71%). No difference was observed with warfarin (OR 0.85; 95% CI 0.63 to 1.15) in TKR, with no heterogeneity (I2 0%). 
+More total bleeding events were observed in the DTI group (in ximelagatran and dabigatran but not in desirudin) in patients subjected to THR (OR 1.40; 95% CI 1.06, 1.85; I2 41%) compared with LMWH. No difference was observed with warfarin in TKR (OR 1.76; 95% CI 0.91 to 3.38; I2 0%).   All‐cause mortality was higher in the DTI group when the reported follow‐up events were included (OR 2.06; 95% CI 1.10 to 3.87). 
+Studies that initiated anticoagulation before surgery showed less VTE events; those that began anticoagulation after surgery showed more VTE events in comparison with LMWH. Therefore, the effect of the DTIs compared with LMWH appears to be influenced by the time of initiation of coagulation more than the effect of the drug itself. 
+The results obtained from sensitivity analysis, did not differ from the analysed results; this strengthens the value of the results. 
+Authors' conclusions
+Direct thrombin inhibitors are as effective in the prevention of major venous thromboembolism in THR or TKR as LMWH and vitamin K antagonists. However, they show higher mortality and cause more bleeding than LMWH. No severe hepatic complications were reported in the analysed studies. Use of ximelagatran is not recommended for VTE prevention in patients who have undergone orthopedic surgery. More studies are necessary regarding dabigatran. 

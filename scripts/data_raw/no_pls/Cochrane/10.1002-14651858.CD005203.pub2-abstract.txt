@@ -1,0 +1,16 @@
+Background
+Atopic eczema (AE) is a non‐infective chronic inflammatory skin disease characterised by an itchy red rash. 
+Objectives
+To assess the effects of dietary exclusions for the treatment of established atopic eczema. 
+Search methods
+We searched The Cochrane Skin Group Specialised Register (to March 2006), The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 1, 2006), MEDLINE (2003 to March 2006), EMBASE (2003 to March 2006), LILACS (to March 2006), PsycINFO (1806 to March 2006), AMED (1985 to March 2006), ISI Web of Science (March 2006), www.controlled‐trials.com, www.clinicaltrials.gov and www.nottingham.ac.uk/ongoingskintrials (March 2006). Pharmaceutical companies were contacted where appropriate for reviews or unpublished trials. 
+Selection criteria
+People who have atopic eczema as diagnosed by a doctor.
+Data collection and analysis
+Two independent authors carried out study selection and assessment of methodological quality. 
+Main results
+We found 9 RCTs involving a total of 421 participants of which 6 were studies of egg and milk exclusion (N=288), 1 was a study of few foods (N=85) and 2 were studies of an elemental diet (N=48). 
+There appears to be no benefit of an egg and milk free diet in unselected participants with atopic eczema. There is also no evidence of benefit in the use of an elemental or few‐foods diet in unselected cases of atopic eczema. There may be some benefit in using an egg‐free diet in infants with suspected egg allergy who have positive specific IgE to eggs ‐ one study found 51% of the children had a significant improvement in body surface area with the exclusion diet compared to normal diet (RR 1.51, 95% CI 1.07 to 2.11) and change in surface area and severity score was significantly improved in the exclusion diet compared to the normal diet at the end of 6 weeks (MD 5.50, 95% CI 0.19 to 10.81) and end of treatment (MD 6.10, 95% CI 0.06 to12.14). 
+Methodological difficulties have made it difficult to interpret these studies. Poor concealment of randomisation allocation, lack of blinding and high dropout rates without an intention‐to‐treat analysis indicates that these studies should be interpreted with great caution. 
+Authors' conclusions
+There may be some benefit in using an egg‐free diet in infants with suspected egg allergy who have positive specific IgE to eggs. Little evidence supports the use of various exclusion diets in unselected people with atopic eczema, but that may be because they were not allergic to those substances in the first place. Lack of any benefit may also be because the studies were too small and poorly reported. Future studies should be appropriately powered focusing on participants with a proven food allergy. In addition a distinction should be made between young children whose food allergies improve with time and older children/adults. 

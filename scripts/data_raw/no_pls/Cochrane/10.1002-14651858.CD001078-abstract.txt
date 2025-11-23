@@ -1,0 +1,14 @@
+Background
+Failure of extubation and subsequent reintubation may result in additional stress and trauma to the premature infant. Treating infants about to be extubated with a period of endotracheal CPAP has been suggested as a method of preparing for extubation. However, this process has been criticized as increasing the neonate's work of breathing and perhaps increasing the likelihood of extubation failure. 
+Objectives
+In premature infants having their endotracheal tube removed, is direct extubation from low rate intermittent positive pressure ventilation (IPPV) more successful than that following a period of endotracheal continuous positive airway pressure (CPAP)? 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group as outlined in The Cochrane Library was used. This included searches of the Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE, previous reviews including cross references, abstracts, conferences, symposia proceedings, expert informants and journal hand searching mainly in the English language. These searches were updated in November 2007. 
+Selection criteria
+Trials were included that used random or quasi‐random allocation and compared extubation of premature infants following a period of endotracheal CPAP to direct extubation following IPPV. 
+Data collection and analysis
+Data were extracted using standard methods of the Cochrane Collaboration and its Neonatal Review Group, with separate evaluation of trial quality and data extraction by each author and synthesis of data using relative risk. 
+Main results
+Three trials were identified that compared extubation of premature infants following a period of endotracheal CPAP to direct extubation following IPPV. Direct extubation from low rate ventilation is associated with a trend towards an increased chance of successful extubation when compared to extubation after a period of endotracheal CPAP, [typical RR 0.45 (0.19, 1.07), typical RD ‐0.103 (‐0.200, ‐0.006), NNT 10 (5, 167)]. When only truly randomized trials are considered, this result becomes both statistically significant and clinically important, [typical RR 0.10 (0.01, 0.78), typical RD ‐0.201 (‐0.319, ‐0.083), NNT 5 (3, 12)]. Similar differences are seen for the secondary outcome, apnea. 
+Authors' conclusions
+Preterm infants no longer requiring endotracheal intubation and IPPV should be directly extubated without a trial of ETT CPAP. 

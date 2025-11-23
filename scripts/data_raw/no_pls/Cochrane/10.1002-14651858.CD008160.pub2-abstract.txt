@@ -1,0 +1,14 @@
+Background
+Musculoskeletal disorders are the most common cause of disability in many industrial countries. Recurrent and chronic pain accounts for a substantial portion of workers' absenteeism. Neck pain seems to be more prominent in the general population than previously known. 
+Objectives
+To determine the effectiveness of workplace interventions (WIs) in adult workers with neck pain. 
+Search methods
+We searched: CENTRAL (The Cochrane Library 2009, issue 3), and MEDLINE, EMBASE, CINAHL, PsycINFO, ISI Web of Science, OTseeker, PEDro to July 2009, with no language limitations;screened reference lists; and contacted experts in the field.   
+Selection criteria
+We included randomised controlled trials (RCT), in which at least 50% of the participants had neck pain at baseline and received interventions conducted at the workplace. 
+Data collection and analysis
+Two review authors independently extracted data and assessed risk of bias. Authors were contacted for missing information. Since the interventions varied to a large extend, International Classification of Functioning, Disability and Health (ICF) terminology was used to classify the intervention components. This heterogeneity restricted pooling of data to only one meta‐analysis of two studies. 
+Main results
+We identified 1995 references and included10 RCTs (2745 workers). Two studies were assessed with low risk of bias. Most trials (N = 8) examined office workers. Few workers were sick‐listed. Thus, WIs were seldom designed to improve return‐to‐work. Overall, there was low quality evidence that showed no significant differences between WIs and no intervention for pain prevalence or severity. If present, significant results in favour of WIs were not sustained across follow‐up times. There was moderate quality evidence (1 study, 415 workers) that a four‐component WI was significantly more effective in reducing sick leave in the intermediate‐term (OR 0.56, 95% CI 0.33 to 0.95), but not in the short‐ (OR 0.83, 95% CI 0.52 to 1.34) or long‐term (OR 1.28, 95% CI 0.73 to 2.26). These findings might be because only a small proportion of the workers were sick‐listed. 
+Authors' conclusions
+Overall, this review found low quality evidence that neither supported nor refuted the benefits of any specific WI for pain relief and moderate quality evidence that a multiple‐component intervention reduced sickness absence in the intermediate‐term, which was not sustained over time. Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. There is an urgent need for high quality RCTs with well designed WIs. 

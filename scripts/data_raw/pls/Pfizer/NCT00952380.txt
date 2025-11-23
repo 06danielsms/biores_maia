@@ -1,0 +1,39 @@
+"Venous thromboembolism," or VTE, is the name for a blood clot that forms in the body. VTE can happen in a vein located in different parts of the body, including the legs, the arms, the groin, the lungs, or other parts of the body. A VTE can be life-threatening if not treated.
+
+Certain children may be more likely to have a VTE, such as those with cancer or other serious conditions that require hospitalization. VTE may be treated or prevented with a type of medicine called an "anticoagulant," also known as a "blood thinner." One anticoagulant that is used is called dalteparin. It is given as an injection under the skin. Dalteparin has been approved for use in adults with VTE in the United States and Europe, but has not been approved in children because additional studies are needed to find out if dalteparin could be a useful medicine for children.
+
+The main purpose of this study was to learn more about the use of dalteparin in children with or without cancer, and to help determine the appropriate dose of dalteparin for treating VTE in children. The study doctors collected blood samples from the children and did a blood test to find out what the "anti-Xa level" was after certain doses of dalteparin were given. The Anti-Xa level shows how well dalteparin makes blood clots go away or stops a blood clot from forming.
+
+Specifically, the study doctors wanted to answer these questions:
+• What effect would dalteparin, given at different doses, have on the bodies of children, including children with cancer and children without cancer?
+• What would be the average dalteparin dose required to treat VTE in children, based on age and weight?
+• How long did it take the children's anti-Xa test results to reach target levels?
+This study was done to learn more about the use of dalteparin in children who have a VTE. The children who entered the study had to have VTE, and may also have had a type of cancer. First, the children were checked by the study doctor to make sure they were a good fit for the study. This was called “screening”. The children were grouped by age:
+- Group 1 (1 child): 0 weeks old to less than 8 weeks old
+- Group 2 (2 children): At least 8 weeks old, but less than 2 years old
+- Group 3 (8 children): At least 2 years old, but less than 8 years old
+- Group 4 (7 children): At least 8 years old, but less than 12 years old
+- Group 5 (20 children): At least 12 years old, but less than 19 years old
+
+This was an “open label” study, which means that the children, their parents/guardians, and the study doctors knew which medicine the children received during the study. In this study, all children received dalteparin.
+There were 3 phases to this study. Phase 1 was known as the “dose adjustment phase”. This phase started when the child received their first (starting) dose of study medicine and continued for up to 7 days.
+
+The starting dose depended on the age and weight of the child, as follows:
+- Group 1: 125 IU per kilogram (kg) of weight
+- Group 2: 150 IU per kg of weight
+- Group 3: 125 IU per kg of weight
+- Group 4: 125 IU per kg of weight
+- Group 5: 100 IU per kg of weight
+
+Then, during this 7-day “dose adjustment phase”, the study doctors tested the child’s anti-Xa levels. Each child’s dalteparin dose was adjusted (upward or downward), as needed, until the child’s anti-Xa test result was between 0.5 and 1.0 (the “target” range). The dose that put the child’s anti-Xa level into that target range is called the “maintenance dose”. This is the dose that would be used going forward, in order to keep the child’s anti-Xa level within the target range.
+
+Once the children had reached the target anti-Xa level, they entered Phase 2 of the study. Phase 2 was known as the “pharmacodynamics phase”, and it lasted between 1 and 7 days (enough time to collect 2 blood samples from each child). During this time, children received their maintenance dose from Phase 1, given every 12 hours.
+
+After they completed Phase 2, the children entered Phase 3 of the study. Phase 3 was known as the “follow-up phase”, and it lasted until the end of the study. The children continued receiving their maintenance dose of dalteparin, given every 12 hours. The study doctors tested the children’s blood to make sure anti-Xa was still within the target range (0.5 to 1.0).
+The figure below shows what happened during this study.
+
+While children were only in the study for up to 90 days, the entire study took almost 9 years to complete. The sponsor ran this study at 15 locations in Norway, Russia, Slovenia, Spain, and the United States. It began 20 August 2009 and finished 20 March 2018. A total of 14 girls and 24 boys participated. All children were between the ages of 0 and 18 years old.
+
+The study required the children to come to a total of 7 visits at the study center. Of the 38 children who were treated in the study, 26 children (68%) completed all of the study visits. At total of 12 children (32%) did not finish the study, either due to medical problems or by their parent/guardian’s choice.
+
+When the study ended in March 2018, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

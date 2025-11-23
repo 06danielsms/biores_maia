@@ -1,0 +1,15 @@
+Background
+The scientific literature examining effective treatments for opioid dependent adults clearly indicates that pharmacotherapy is a necessary and acceptable component of effective treatments for opioid dependence. Nevertheless, no studies have been published that systematically assess the effectiveness of the pharmacological detoxification among adolescents. 
+Objectives
+To assess the effectiveness of any detoxification treatment alone or in combination with psychosocial intervention compared with no intervention, other pharmacological intervention or psychosocial interventions on completion of treatment, reducing the use of substances and improving health and social status. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (2014, Issue 1), PubMed (January 1966 to January 2014), EMBASE (January 1980 to January 2014), CINHAL (January 1982 to January 2014), Web of Science (1991‐January 2014) and reference lists of articles. 
+Selection criteria
+Randomised controlled clinical trials comparing any pharmacological interventions alone or associated with psychosocial intervention aimed at detoxification with no intervention, placebo, other pharmacological intervention or psychosocial intervention in adolescents (13 to 18 years). 
+Data collection and analysis
+We used standard methodological procedures recommended by The Cochrane Collaboration
+Main results
+Two trials involving 190 participants were included. One trial compared buprenorphine with clonidine for detoxification. No difference was found for drop out: risk ratio (RR) 0.45 (95% confidence interval (CI): 0.20 to 1.04) and acceptability of treatment: withdrawal score mean difference (MD): 3.97 (95% CI ‐1.38 to 9.32). More participants in the buprenorphine group initiated naltrexone treatment: RR 11.00 (95% CI 1.58 to 76.55), quality of evidence moderate. 
+The other trial compared maintenance treatment versus detoxification treatment: buprenorphine‐naloxone maintenance versus buprenorphine detoxification. For drop out the results were in favour of maintenance treatment: RR 2.67 (95% CI 1.85, 3.86), as well as for results at follow‐up RR 1.36 [95% CI 1.05to 1.76); no differences for use of opiate, quality of evidence low. 
+Authors' conclusions
+It is difficult to draw conclusions on the basis of two trials with few participants. Furthermore, the two studies included did not consider the efficacy of methadone that is still the most frequent drug utilised for the treatment of opioid withdrawal. One possible reason for the lack of evidence could be the difficulty in conducting trials with young people due to practical and ethical reasons. 

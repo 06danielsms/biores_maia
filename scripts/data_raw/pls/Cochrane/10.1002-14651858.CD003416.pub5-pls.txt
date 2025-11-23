@@ -1,0 +1,16 @@
+Number of embryos for transfer in women undergoing assisted reproductive technology (ART) 
+Review question 
+How many embryos should be transferred in couples undergoing ART?
+Background 
+Multiple pregnancy causes serious health risks for mothers and babies. Single embryo transfer (SET) can reduce the chance of having twins, triplets or higher order multiples but this needs to be balanced against the risk of lowering the chance of pregnancy or live birth. We reviewed the evidence about the number of embryos transferred in women undergoing ART. The evidence is current to March 2020. 
+Study characteristics 
+We found 17 randomised controlled trials with a total of 2505 participants. Most were not commercially funded. None of the trials compared repeated single embryo transfer (SET) with multiple embryo transfer. A majority of the studies had low numbers of participants. Reported results of multiple embryo transfer below refer to double embryo transfer. 
+Key findings 
+Repeated single embryo transfer versus multiple embryo transfer in a single cycle 
+Based on low‐quality evidence, there was no indication that overall live birth and clinical pregnancy rates differed substantially when repeated SET (either two cycles of single embryo transfer or one cycle of single embryo transfer followed by transfer of a single frozen embryo) was compared with double embryo transfer (DET). For a woman with a 42% chance of live birth following a single cycle of DET, the chance following repeated single embryo transfer would be between 34% and 46%. Moderate‐quality evidence suggests that the risk of multiple birth is much lower in the SET group (between 0% and 3%) compared to a 13% chance of multiple pregnancy following a single cycle of DET. The chance of miscarriage rate is similar between the two groups. 
+Single versus multiple embryo transfer in a single cycle 
+We found low‐quality evidence that the rates of live birth and clinical pregnancy (CPR) were lower after one cycle of fresh SET compared with the outcome of one cycle of fresh DET. For a woman with a 46% chance of live birth following one cycle of DET, the chance following one cycle of SET was between 27% and 35%. However, the risk of multiple pregnancy was higher after DET. There was no difference in the chance of miscarriage between the two groups. 
+Conclusion 
+While live birth and clinical pregnancy was lower following SET compared to DET after single fresh cycle, there was no difference between overall live birth rate and CPR following consecutive SET versus a single cycle of DET. However, the multiple pregnancy rate is much lower following SET compared to DET. Most of the evidence currently available concerns younger women with a good prognosis. 
+Quality of evidence 
+The quality of evidence was low to moderate primarily due to inadequate reporting of study methods and absence of masking those delivering, as well as receiving the interventions. 

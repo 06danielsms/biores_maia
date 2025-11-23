@@ -1,0 +1,26 @@
+Background
+Postoperative administration of non‐steroidal anti‐inflammatory drugs (NSAIDs) reduces patient opioid requirements and, in turn, may reduce the incidence and severity of opioid‐induced adverse events (AEs). 
+Objectives
+To assess the analgesic efficacy and adverse effects of single‐dose intravenous (IV) ibuprofen, compared with placebo or an active comparator, for moderate‐to‐severe postoperative pain in adults. 
+Search methods
+We searched the following databases without language restrictions: CENTRAL, MEDLINE, Embase and LILACS on 10 June 2021. We checked clinical trials registers and reference lists of retrieved articles for additional studies. 
+Selection criteria
+We included randomized trials that compared a single postoperative dose of intravenous (IV) ibuprofen with placebo or another active treatment, for treating acute postoperative pain in adults following any surgery. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Two review authors independently considered trials for review inclusion, assessed risk of bias, and extracted data.Our primary outcome was the number of participants in each arm achieving at least 50% pain relief over a 4‐ and 6‐hour period. 
+Our secondary outcomes were time to, and number of participants using rescue medication; withdrawals due to lack of efficacy, adverse events (AEs), and for any other cause; and number of participants reporting or experiencing any AE, serious AEs (SAEs), and specific NSAID‐related or opioid‐related AEs. 
+We were not able to carry out any planned meta‐analysis. We assessed the certainty of the evidence using GRADE. 
+Main results
+Only one study met our inclusion criteria, involving 201 total participants, mostly female (mean age 42 years), undergoing primary, unilateral, distal, first metatarsal bunionectomy (with osteotomy and internal fixation). Ibuprofen 300 mg, placebo or acetaminophen 1000 mg was administered intravenously to participants reporting moderate pain intensity the day after surgery. Since we identified only one study for inclusion, we did not perform any quantitative analyses. The study was at low risk of bias for most domains. We downgraded the certainty of the evidence due to serious study limitations, indirectness and imprecision. 
+Ibuprofen versus placebo 
+Findings of the single study found that at both the 4‐hour and 6‐hour assessment period, the proportion of participants with at least 50% pain relief was 32% (24/76) for those assigned to ibuprofen and 22% (11/50) for those assigned to placebo. These findings produced a risk ratio (RR) of 1.44 (95% confidence interval (CI) 0.77 to 2.66 versus placebo for at least 50% of maximum pain relief over the 4‐hour and 6‐hour period (very low‐certainty evidence). 
+Median time to rescue medication was 101 minutes for ibuprofen and 71 minutes for placebo (1 study, 126 participants; very low‐certainty evidence). The number of participants using rescue medication was not reported within the included study. 
+During the study (1 study, 126 participants), 58/76 (76%) of participants assigned to ibuprofen and 39/50 (78%) assigned to placebo reported or experienced any adverse event (AE), (RR 0.98, 95% CI 0.81 to 1.19; low‐certainty evidence). 
+No serious AEs (SAEs) were experienced (1 study, 126 participants; very low‐certainty evidence). 
+Ibuprofen versus active comparators 
+Ibuprofen (300 mg) was similar to the active comparator, IV acetaminophen (1000 mg) at 4 hours and 6 hours (1 study, 126 participants). For those assigned to active control (acetaminophen), the proportion of participants with at least 50% pain relief was 35% (26/75) at 4 hours and 31% (23/75) at 6 hours. At 4 hours, these findings produced a RR of 0.91 (95% CI 0.58 to 1.43; very low‐certainty evidence) versus active comparator (acetaminophen). At 6 hours, these findings produced a RR of 1.03 (95% CI 0.64 to 1.66; very low‐certainty evidence) versus active comparator (acetaminophen). 
+Median time to rescue medication was 101 minutes for ibuprofen and 125 minutes for the active comparator, acetaminophen (1 study, 151 participants; very low‐certainty evidence). The number of participants using rescue medication was not reported within the included study. 
+During the study, 58/76 (76%) of participants assigned to ibuprofen and 45/75 (60%) assigned to active control (acetaminophen) reported or experienced any AE, (RR 1.27, 95% CI 1.02 to 1.59; very low‐certainty evidence). 
+No SAEs were experienced (1 study, 151 participants; very low‐certainty evidence).
+Authors' conclusions
+There is insufficient evidence to support or refute the suggestion that IV ibuprofen is effective and safe for acute postoperative pain in adults.  

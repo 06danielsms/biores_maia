@@ -1,0 +1,14 @@
+Background
+Neovascular age‐related macular degeneration (AMD) is associated with rapid vision loss due to choroidal neovascularization (CNV), leakage, and scarring. Steroids have gained attention in their role for the treatment of neovascular AMD for their antiangiogenic and anti‐inflammatory properties. 
+Objectives
+This review aims to examine effects of steroids with antiangiogenic properties in the treatment of neovascular AMD. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (The Cochrane Library 2012, Issue 11), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to November 2012), EMBASE (January 1980 to November 2012), Latin American and Caribbean Literature on Health Sciences (LILACS) (January 1982 to November 2012), the metaRegister of Controlled Trials (mRCT) (www.controlled‐trials.com), ClinicalTrials.gov (www.clinicaltrials.gov) and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 21 November 2012. 
+Selection criteria
+We included randomized controlled clinical trials of intra‐ and peri‐ocular antiangiogenic steroids in people diagnosed with neovascular AMD. 
+Data collection and analysis
+Two authors independently screened abstracts and full‐text articles, assessed risk of bias in the included trials, and extracted data. We did not conduct a meta‐analysis. 
+Main results
+We included three trials after screening a total of 1503 abstracts and 21 full‐text articles. The three trials included a total of 809 participants. One trial compared different doses of acetonide anecortave acetate with placebo, a second trial compared triamcinolone acetonide versus placebo, and the third trial compared anecortave acetate against photodynamic therapy (PDT). We did not conduct a meta‐analysis owing to heterogeneity of interventions and comparisons. The risk ratio for loss of 3 or more lines of vision at 12 months follow‐up was 0.8 (95% confidence interval (CI) 0.45 to 1.45) with 3 mg anecortave acetate, 0.45 (95% CI = 0.21 to 0.97) with 15 mg anecortave acetate, 0.91 (0.52 to 1.58) with 30 mg anecortave acetate, 0.97 (95% CI 0.74 to 1.26) with triamcinolone acetonide, all compared to placebo and 1.08 (95% CI 0.91 to 1.29) with anecortave acetate compared with PDT. 
+Authors' conclusions
+Based on the included trials, we found no evidence that antiangiogenic steroids prevent visual loss in patients with neovascular AMD. With the emergence of anti‐vascular endothelial growth factor modalities, based on evidence summarized in this review, it is unclear what role steroids have in treating patients with neovascular AMD. 

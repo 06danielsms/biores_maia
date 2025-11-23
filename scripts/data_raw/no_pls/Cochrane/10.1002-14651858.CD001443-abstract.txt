@@ -1,0 +1,16 @@
+Background
+Growth monitoring is widely accepted and strongly supported by health professionals, and is a standard component of community paediatric services throughout the world. We sought to evaluate research evidence of its impact. This requires definition, consideration of the setting, and discussion of the intended effects of this activity. In this review, we define growth monitoring as the regular recording of a child's weight, coupled with some specified remedial actions if the weight is abnormal in some way. Although the causes of growth faltering and the responses to it may be region specific, the process is the same, and we consider here growth monitoring in both the deprived and richer populations of the world. 
+Objectives
+Growth monitoring consists of routine measurements to detect abnormal growth, combined with some action when this is detected. As primary care workers worldwide invest time in this activity, we sought evidence of its benefits and harms. The review objectives are to evaluate the effects of routine growth monitoring on: 
+1. The child, in relation to preventing death, illness or malnutrition; and referrals for medical care, medical specialist assessment or professional social support follow‐up. 
+2. The mother, in relation to nutritional knowledge, anxiety or reassurance about the child's health, and satisfaction with services. 
+Search methods
+Cochrane Controlled Trials Register; MEDLINE; EMBASE; CINAHL; World Health Organization and World Bank publications; specialists in this area; citations in existing reviews and identified studies. 
+Selection criteria
+Randomised or quasi‐randomised trials comparing routine growth monitoring (regular monitoring of growth, plotting on a chart, combined with referral or intervention when growth is abnormal) with no growth monitoring. 
+Data collection and analysis
+Trial quality was assessed, and data abstracted by both reviewers.
+Main results
+Two studies included, both conducted in developing countries. In one, the nutritional status at 30 months in 500 children showed no difference between those allocated to growth monitoring and those not. The other study examined whether counselling improved mothers' knowledge of the growth chart, and reported better test scores at four months. 
+Authors' conclusions
+Given the level of investment in growth monitoring worldwide, it is surprising there is so little research evaluating its potential benefits and harms. 

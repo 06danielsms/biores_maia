@@ -1,0 +1,14 @@
+Background
+Deep vein thrombosis (DVT) and resulting pulmonary embolism (PE) are important complications of stroke. Physical methods to reduce the risk of DVT and PE, such as graduated compression stockings (GCS) or intermittent pneumatic compression (IPC) applied to the legs, do not appear to be associated with any bleeding risk and reduce the risk of DVT in some categories of surgical patients. We sought to assess their effects in stroke patients. 
+Objectives
+To assess the effectiveness and safety of physical methods of reducing the risk of DVT, fatal or non‐fatal PE and death in patients with recent stroke. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched November 2009), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2009), MEDLINE (1966 to November 2009), EMBASE (1980 to November 2009), CINAHL (1982 to November 2009) and The British Nursing Index (1985 to November 2009). We screened reference lists of all relevant papers, searched ongoing trials registers (November 2009) and contacted experts in the field. 
+Selection criteria
+Unconfounded randomised controlled trials comparing physical methods for reducing the risk of DVT with control and in which prophylaxis was started within seven days of the onset of stroke. 
+Data collection and analysis
+Two review authors searched for trials and extracted data.
+Main results
+We identified two trials of GCS that included 2615 patients and two small studies of IPC that included 177 patients. Overall, physical methods were not associated with a significant reduction in DVTs during the treatment period (odds ratio (OR) 0.85, 95% confidence interval (CI) 0.70 to 1.04) or deaths (OR 1.12, 95% CI 0.87 to 1.45). Use of GCS was not associated with any significant reduction in risk of DVT (OR 0.88, 95% CI 0.72 to 1.08) or death (OR 1.13, 95% CI 0.87 to 1.47) at the end of follow up. IPC was associated with a non‐significant trend towards a lower risk of DVTs (OR 0.45, 95% CI 0.19 to 1.10) with no evidence of an effect on deaths (OR 1.04, 95% CI 0.37 to 2.89). 
+Authors' conclusions
+Evidence from randomised trials does not support the routine use of GCS to reduce the risk of DVT after acute stroke. There is insufficient evidence to support the routine use of IPC to reduce the risk of DVT in acute stroke and further larger randomised studies of IPC are needed to reliably assess the balance of risks and benefits of this intervention. 

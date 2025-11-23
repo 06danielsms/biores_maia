@@ -1,0 +1,14 @@
+Background
+Acute traumatic brain injury is a leading cause of death and disability in young adults. Numerous pharmacological and non‐pharmacological tools have been investigated and considered as potential mechanisms for improving neurological outcome. Magnesium has been considered as one of these potential therapeutic tools because of its activity on NMDA‐receptors, calcium channels and neuron membranes. Animal studies have indicated a beneficial effect of magnesium on outcome after brain injury, but its efficacy in humans is unknown. 
+Objectives
+To quantify the effect of magnesium administration on mortality and morbidity in patients with acute traumatic brain injury. 
+Search methods
+We searched the Cochrane Injuries Group's specialised register, Cochrane Central Register of Controlled Trials, CENTRAL (The Cochrane Library issue 2, 2008), MEDLINE (and PubMed to 28 May, 2008: last 60 days), EMBASE, National Research Register, Current Controlled Trials, SIGLE, LILACS, and Zetoc. Searches were initially conducted in July 2005. The latest search was conducted in May 2008. 
+Selection criteria
+We included all randomized controlled trials comparing any magnesium salt with no magnesium or with placebo, in patients following acute traumatic brain injury. 
+Data collection and analysis
+Two authors independently screened search results and assessed the full texts of potentially relevant studies for inclusion. Data were extracted and methodological quality was examined. 
+Main results
+Four studies met the inclusion criteria; one of which is an ongoing study. Data from three studies were included in the analysis. Data on mortality were only available in one study; RR 1.48 [1.00, 2.19], Test for overall effect: Z = 1.96 (P = 0.05). Glasgow Outcome Score at six months was described in the three studies. The Mean Difference = 0.02 (95% CI ‐0.38 to 0.041), Test for overall effect: Z = 0.08 (P = 0.94). 
+Authors' conclusions
+There is currently no evidence to support the use of magnesium salts in patients with acute traumatic brain injury. 

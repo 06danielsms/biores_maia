@@ -1,0 +1,17 @@
+Sound therapy (using amplification devices or sound generators) for tinnitus
+Review question 
+Is sound therapy (using amplification devices, sound generators or both) effective for tinnitus in adults? 
+Background 
+Tinnitus is the awareness of a sound in the ear or head without any outside source. It affects 10% to 15% of the adult population. About 20% of people with tinnitus experience symptoms that negatively affect their quality of life including sleep disturbances, difficulties with hearing and concentration, social isolation, anxiety, depression, irritation or stress. Tinnitus can be managed through education and advice, relaxation therapy, psychological therapy, or devices that improve hearing or generate sound such as sound generators or hearing aids. Sometimes drugs are prescribed to manage problems associated with tinnitus such as sleep problems, anxiety or depression. The purpose of this review is to evaluate the evidence from high‐quality clinical trials to work out the effects of sound therapy (hearing aids, sound generators and combination hearing aids) on adults with tinnitus. We particularly wanted to look at the effects of sound therapy on tinnitus severity and any side effects. 
+Study characteristics 
+Our review identified eight randomised controlled trials with 590 participants in total. Seven studies looked at the effects of hearing aids, four combination hearing aids and three sound generators. Seven studies allocated participants into parallel groups and in one study participants tried each intervention in a random order. The outcomes that we looked for were severity of tinnitus symptoms, depression, anxiety, quality of life and side effects. In general, the risk of bias in the studies was unclear. There was also little or no use of blinding. 
+Key results 
+We did not find any data for our outcomes for any of our three main comparisons (comparing hearing aids, sound generators and combination devices with a waiting list control group, placebo or education/information only). There were also few data for our additional comparisons (comparing these devices with each other) and it was difficult to pool (combine) the data. 
+Hearing aid only versus sound generator device only  
+One study compared patients fitted with sound generators with those fitted with hearing aids and found no difference between them in their effects on our primary outcome, tinnitus symptom severity, at 3, 6 or 12 months. The use of both types of device was associated with a clinically significant reduction in tinnitus symptom severity. 
+Combination hearing aid versus hearing aid only  
+Three studies compared combination hearing aids/sound generators with hearing aids alone and measured tinnitus symptom severity. When we combined the data for tinnitus symptom severity we found no difference between them. The use of both types of device was again associated with a clinically significant reduction in tinnitus symptom severity. 
+Adverse effects were not assessed in any of the included studies.
+None of the studies measured depressive symptoms or depression, anxiety symptoms or generalised anxiety, or other important outcomes of interest in this review. 
+Quality of evidence 
+Where outcomes that we were interested in for this review were reported, we assessed the quality of the evidence available as low. Using a hearing aid, sound generator or combination device might result in little or no difference in tinnitus symptom severity. 

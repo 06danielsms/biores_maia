@@ -1,0 +1,15 @@
+Background
+Preterm prelabour rupture of membranes (PPROM) is associated with increased risk of maternal and neonatal morbidity and mortality. Women with PPROM have been predominantly managed in hospital. It is possible that selected women could be managed at home after a period of observation. The safety, cost and women's views about home management have not been established. 
+Objectives
+To assess the safety, cost and women's views about planned home versus hospital care for women with PPROM. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2013) and the reference lists of all the identified articles. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing planned home versus hospital management for women with PPROM before 37 weeks' gestation. 
+Data collection and analysis
+Two review authors independently assessed clinical trials for eligibility for inclusion, risk of bias, and carried out data extraction. 
+Main results
+We included two trials (116 women) comparing planned home versus hospital management for PPROM. Overall, the number of included women in each trial was too small to allow adequate assessment of pre‐specified outcomes. Investigators used strict inclusion criteria and in both studies relatively few of the women presenting with PPROM were eligible for inclusion. Women were monitored for 48 to 72 hours before randomisation. Perinatal mortality was reported in one trial and there was insufficient evidence to determine whether it differed between the two groups (risk ratio (RR) 1.93, 95% confidence interval (CI) 0.19 to 20.05).  There was no evidence of differences between groups for serious neonatal morbidity, chorioamnionitis, gestational age at delivery, birthweight and admission to neonatal intensive care. 
+There was no information on serious maternal morbidity or mortality. There was some evidence that women managed in hospital were more likely to be delivered by caesarean section (RR (random‐effects) 0.28, 95% CI 0.07 to 1.15). However, results should be interpreted cautiously as there is moderate heterogeneity for this outcome (I² = 35%). Mothers randomised to care at home spent approximately 10 fewer days as inpatients (mean difference ‐9.60, 95% CI ‐14.59 to ‐4.61) and were more satisfied with their care. Furthermore, home care was associated with reduced costs. 
+Authors' conclusions
+The review included two relatively small studies that did not have sufficient statistical power to detect meaningful differences between groups. Future large and adequately powered randomised controlled trials are required to measure differences between groups for relevant pre‐specified outcomes. Special attention should be given to the assessment of maternal satisfaction with care and cost analysis as they will have social and economic implications in both developed and developing countries. 

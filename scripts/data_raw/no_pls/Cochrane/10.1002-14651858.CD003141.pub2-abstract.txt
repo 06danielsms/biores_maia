@@ -1,0 +1,15 @@
+Background
+Lymphoedema is the accumulation of excess fluid in the body caused by obstruction of the lymphatic drainage mechanisms. Management involves decongesting the reduced lymphatic pathways in order to reduce the size of the limb. There is a great deal of debate as to which components of a physical treatment programme are the most crucial. 
+Objectives
+To assess the effect of physical treatment programmes on:
+volume, shape, condition and long‐term control of oedema in lymphoedematous limbs;  psycho‐social benefits. 
+Search methods
+We searched the Cochrane Breast Cancer Group trials register (October 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2008), MEDLINE, EMBASE, CINAHL and the National Research Register (February 2008) and UnCover, PASCAL, SIGLE, reference lists produced by The British Lymphology Society and The International Society of Lymphology congress proceedings (September 2003). 
+Selection criteria
+Randomised controlled clinical trials that tested physical therapies with a follow‐up period of at least six months. 
+Data collection and analysis
+Two blinded reviewers independently assessed trial quality and extracted data . Meta‐analysis was not performed due to the poor quality of the trials. 
+Main results
+Only three studies involving 150 randomised patients were included. Since none studied the same intervention it was not possible to combine the data. One crossover study of manual lymph drainage (MLD) followed by self‐administered massage versus no treatment, concluded that improvements seen in both groups were attributable to the use of compression sleeves and that MLD provided no extra benefit at any point during the trial. Another trial looked at hosiery versus no treatment and had a very high dropout rate, with only 3 out of 14 participants in the intervention group finishing the trial and only 1 out of 11 in the control group. The authors concluded that wearing a compression sleeve is beneficial. The bandage plus hosiery versus hosiery alone trial, concluded that in this mixed group of participants bandage plus hosiery resulted in a greater reduction in excess limb volume than hosiery alone and this difference in reduction was maintained long‐term. 
+Authors' conclusions
+All three trials have their limitations and have yet to be replicated, so their results must be viewed with caution. There is a clear need for well‐designed, randomised trials of the whole range of physical therapies if the best approach to managing lymphoedema is to be determined. 

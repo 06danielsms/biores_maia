@@ -1,0 +1,39 @@
+Background
+Subfertility due to anovulation is a common problem in women. First‐line oral treatment is with antioestrogens such as clomiphene citrate, but resistance may be apparent with clomiphene. Alternative and adjunctive treatments have been used including tamoxifen, dexamethasone, and bromocriptine. The effectiveness of these is to be determined. 
+Objectives
+To determine the relative effectiveness of antioestrogen agents including clomiphene alone or in combination with other medical therapies in women with subfertility associated with anovulation, possibly caused by polycystic ovarian syndrome. 
+Search methods
+We conducted a search of the Cochrane Gynaecology and Fertility Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, PsycINFO, and CINAHL (all from inception to August 2016) to identify relevant randomised controlled trials (RCTs). We searched the United Kingdom National Institute for Clinical Excellence (NICE) guidelines and the references of relevant reviews and RCTs. We also searched the clinical trial registries for ongoing trials (inception until August 2016). 
+Selection criteria
+We considered RCTs comparing oral antioestrogen agents for ovulation induction (alone or in conjunction with medical therapies) in anovulatory subfertility. We excluded insulin‐sensitising agents, aromatase inhibitors, and hyperprolactinaemic infertility. 
+Data collection and analysis
+Two review authors independently performed data extraction and quality assessment. The primary outcome was live birth; secondary outcomes were pregnancy, ovulation, miscarriage, multiple pregnancy, ovarian hyperstimulation syndrome, and adverse effects. 
+Main results
+This is a substantive update of a previous review. We identified an additional 13 studies in the 2016 update. The review now includes 28 RCTs (3377 women) and five RCTs awaiting classification. Five of the 28 included trials reported live birth/ongoing pregnancy. Secondary outcomes were poorly reported. 
+The quality of the evidence ranged from low to very low. The primary reasons for downgrading the evidence were imprecision and risk of bias associated with poor reporting. 
+Antioestrogen versus placebo 
+Live birth rate, miscarriage rate, multiple pregnancy rate, and ovarian hyperstimulation syndrome (OHSS) 
+No data were reported for these outcomes.
+Clinical pregnancy rate 
+Clomiphene citrate was associated with an increased chance of a clinical pregnancy compared with placebo, though the size of the benefit was very uncertain (odds ratio (OR) 5.91, 95% confidence interval (CI) 1.77 to 19.68; 3 studies; 133 women; low‐quality evidence). If the chance of a clinical pregnancy was 5% in the placebo group, then between 8% and 50% of women would have a clinical pregnancy in the clomiphene group. 
+Clomiphene citrate versus tamoxifen 
+Live birth rate 
+There was no clear evidence of a difference in the chance of a live birth between the clomiphene citrate and tamoxifen groups (OR 1.24, 95% CI 0.59 to 2.62; 2 studies; 195 women; low‐quality evidence). If 20% of women in the tamoxifen group had a live birth, then between 13% and 40% of women in the clomiphene citrate group would have a live birth. 
+Miscarriage rate 
+There was no clear evidence of a difference in the chance of a miscarriage between the clomiphene citrate and tamoxifen groups (OR 1.81, 95% CI 0.80 to 4.12; 4 studies; 653 women; low‐quality evidence). If 3% of women in the tamoxifen group had a miscarriage, then between 2% and 10% in the clomiphene citrate group would have a miscarriage. 
+Clinical pregnancy rate 
+There was no clear evidence of a difference in the chance of a clinical pregnancy between the clomiphene citrate and tamoxifen groups (OR 1.30, 95% CI 0.92 to 1.85; 5 studies; 757 women; I2 = 69%; low‐quality evidence). If 22% of women in the tamoxifen group had a clinical pregnancy, then between 21% and 35% in the clomiphene citrate group would have a clinical pregnancy. 
+Multiple pregnancy rate 
+There was insufficient evidence of a difference in the chance of a multiple pregnancy between the clomiphene citrate group (OR 2.34, 95% CI 0.34 to 16.04; 3 studies; 567 women; very low‐quality evidence). If 0% of women in the tamoxifen group had a multiple pregnancy, then between 0% and 0.5% of women in the clomiphene group would have a multiple pregnancy. 
+OHSS 
+There were no instances of OHSS in either the clomiphene citrate or the tamoxifen group reported from three studies. 
+Clomiphene citrate with tamoxifen versus tamoxifen alone 
+Clinical pregnancy rate 
+There was insufficient evidence to determine whether there was a difference between groups (OR 3.32, 95% CI 0.12 to 91.60; 1 study; 20 women; very low‐quality evidence). No data were reported for the other outcomes. 
+Other comparisons of interest 
+Limited evidence suggested that compared with a gonadotropin, clomiphene citrate was associated with a reduced chance of a pregnancy, ongoing pregnancy, or live birth, with no clear evidence of a difference in multiple pregnancy rates. 
+The comparison of clomiphene citrate plus medical adjunct versus clomiphene alone was limited by the number of trials reporting the comparison and poor reporting of clinical outcomes relevant to this systematic review and by the number of adjuncts reported (ketoconazole, bromocriptine, dexamethasone, combined oral contraceptive, human chorionic gonadotropin, hormone supplementation). The addition of dexamethasone or combined oral contraceptive suggested a possible benefit in pregnancy outcomes, but findings were very uncertain and further research is required to confirm this. 
+There was limited evidence suggesting that a 10‐day regimen of clomiphene citrate improves pregnancy outcomes compared with a 5‐day regimen. Data for early versus late regimens of clomiphene citrate were insufficient to be able to make a judgement on differences for pregnancy outcomes. 
+Authors' conclusions
+We found evidence suggesting that clomiphene citrate improves the chance of a clinical pregnancy compared with placebo, but may reduce the chance of live birth or ongoing pregnancy when compared with a gonadotropin. Due to low event rates, we advise caution interpreting these data. 
+The comparison of clomiphene citrate plus medical adjunctive versus clomiphene alone was limited by the number of trials reporting the comparison. The evidence was very low quality and no firm conclusions could be drawn, but very limited evidence suggested a benefit from adjunctive dexamethasone or combined oral contraceptives. Low‐quality evidence suggested that a 10‐day regimen of clomiphene citrate improves pregnancy rates compared with a 5‐day regimen, but further research is required. 

@@ -1,0 +1,14 @@
+Background
+Individuals who have failed one or more full thickness penetrating keratoplasties may be offered repeat corneal surgery using an artificial or donor cornea. An artificial or prosthetic cornea is known as a keratoprosthesis. Both donor and artificial corneal transplantations involve removal of the diseased and opaque recipient cornea (or the previously failed cornea) and replacement with another donor or prosthetic cornea. 
+Objectives
+To assess the effectiveness of artificial versus donor corneas in individuals who have had one or more failed donor corneal transplantations. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2019, Issue 11); Ovid MEDLINE; Ovid Embase; LILACS (Latin American and Caribbean Health Sciences Literature database); ClinicalTrials.gov; and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP). We did not use any date or language restrictions in the electronic search for trials. We last searched the electronic databases on 4 November 2019. 
+Selection criteria
+Two review authors independently assessed reports from the electronic searches to identify randomized controlled trials or controlled clinical trials. Any discrepancies were resolved by discussion or consultation. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. For discussion purposes, we summarized findings from relevant comparative case series. We performed no data synthesis. 
+Main results
+We did not identify any randomized controlled trials or controlled clinical trials comparing artificial corneas with donor corneas for repeat corneal transplantations. 
+Authors' conclusions
+The optimal management for those individuals who have failed a conventional corneal transplantation is unknown. Currently, in some centers, artificial corneal devices are routinely recommended after just one graft failure, while in other centers, they are not recommended until after multiple graft failures, or not at all. To date, there have been no controlled trials comparing the visual outcomes and complications of artificial corneal devices (particularly the Boston type 1 keratoprosthesis, which is the most commonly implanted artificial corneal device) with repeat donor corneal transplantation, in order to guide surgeons and their patients. Such a trial is needed and would offer significant benefit to an ever‐increasing pool of people with visual disability due to corneal opacification, most of whom are still in productive stages of their lives. 

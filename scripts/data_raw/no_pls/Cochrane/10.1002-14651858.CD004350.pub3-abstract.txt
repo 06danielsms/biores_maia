@@ -1,0 +1,17 @@
+Background
+Regional anaesthesia (RA) and general anaesthesia (GA) are commonly used for caesarean section (CS) and both have advantages and disadvantages. It is important to clarify what type of anaesthesia is more efficacious. 
+Objectives
+To compare the effects of RA with those of GA on the outcomes of CS.
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 November 2011). We updated the search on 20 August 2012 and added the results to the awaiting classification section of the review. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials evaluating the use of RA and GA in women who had CS for any indication. Cluster‐randomised trials and trials using a cross‐over design are not included. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion, assessed risk of bias and extracted data. Data were checked for accuracy. 
+Main results
+Twenty‐two out of 29 included studies (1793 women) contributed data to this review.
+The included studies did not report some our primary outcomes: maternal death, incidence of maternal postoperative wound infection, maternal postoperative other infection such as endometritis and urinary tract infection, neonatal death. 
+Compared to women who had GA, women who had either epidural anaesthesia or spinal anaesthesia were found to have a significantly lower difference between pre and postoperative haematocrit. For epidural, the mean difference (MD) was 1.70% and 95% confidence interval (CI) 0.47 to 2.93 (one trial, 231 women) and for spinal anaesthesia, the MD was 3.10% and 95% CI 1.73 to 4.47 (one trial, 209 women). Compared with GA, women having either an epidural anaesthesia or spinal anaesthesia had a lower estimated maternal blood loss (epidural versus GA: standardised mean difference (SMD) ‐0.32 mL; 95% CI ‐0.56 to ‐0.07; two trials, 256 women; spinal versus GA anaesthesia: SMD ‐0.59 mL; 95% CI ‐0.83 to 0.35; two trials, 279 women). There was evidence of a significant difference in terms of satisfaction with anaesthetic technique ‐  compared with the epidural or spinal group, more women in the GA group stated they would use the same technique again if they needed CS for a subsequent pregnancy (epidural versus GA: risk ratio (RR) 0.80; 95% CI 0.65 to 0.98; one trial, 223 women; spinal versus GA anaesthesia: RR 0.80; 95% CI 0.65 to 0.99; one trial, 221 women). 
+No significant difference was seen in terms of neonatal Apgar scores of six or less and of four or less at five minutes and the need for neonatal resuscitation with oxygen. 
+Authors' conclusions
+There is no evidence from this review to show that RA is superior to GA in terms of major maternal or neonatal outcomes. Further research to evaluate neonatal morbidity and maternal outcomes, such as satisfaction with technique, will be useful. 

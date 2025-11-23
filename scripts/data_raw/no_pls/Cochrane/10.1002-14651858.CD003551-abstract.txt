@@ -1,0 +1,14 @@
+Background
+The cervical cap and the diaphragm are vaginal barrier contraceptive methods that prevent pregnancy by covering the cervix. The two devices also act as a reservoir for spermicide. The cervical cap is smaller and can remain in place longer than the diaphragm. The Prentif cap and the FemCap have been compared to the diaphragm in randomized controlled trials. 
+Objectives
+To compare the contraceptive efficacy, safety, discontinuation, and acceptability of the cervical cap with that of the diaphragm. 
+Search methods
+In February 2012, we searched MEDLINE, POPLINE, CENTRAL, and LILACS for randomized controlled trials of cervical caps. In addition, we searched for recent clinical trials through ClinicalTrials.gov and the International Clinical Trials Registry Platform (ICTRP). Previous searches also included EMBASE. For the initial review, we wrote to manufacturers and investigators for information about other published or unpublished trials. 
+Selection criteria
+All randomized controlled trials in any language comparing a cervical cap with a diaphragm were eligible for inclusion. 
+Data collection and analysis
+Articles identified for inclusion were independently abstracted by two reviewers. Data were entered into RevMan, and a second reviewer verified the data entered. Outcome measures include contraceptive efficacy, safety, discontinuation, and acceptability. Outcomes were calculated as Peto odds ratios (OR) with 95% confidence intervals (CI). Life‐table and Kaplan‐Meier cumulative rate ratios for selected measures are presented. 
+Main results
+The curves for the life‐table cumulative pregnancy rates for the Prentif cap and the diaphragm did not differ. However, the Kaplan‐Meier six‐month cumulative pregnancy rates for the FemCap and the diaphragm were not clinically equivalent. The Prentif cap had more Class I to Class III cervical cytologic conversions than the diaphragm (OR 2.31; 95% CI 1.04 to 5.11). The FemCap trial did not find differences in Papanicolaou smear results between the groups. Fewer Prentif cap users had vaginal ulcerations or lacerations (OR 0.31; 95% CI 0.14 to 0.71) than diaphragm users. Fewer FemCap users had blood in the device (OR 2.29; 95% CI 1.27 to 4.14), but more had urinary tract infections (OR 0.59; 95% CI 0.39 to 0.95). In the FemCap trial, similar proportions of women reported liking their device. However, FemCap users were less likely to use the device alone after the trial (OR 0.47; 95% CI 0.31 to 0.71) or recommend it to a friend (OR 0.48; 95% CI 0.29 to 0.81). 
+Authors' conclusions
+The Prentif cap was as effective as its comparison diaphragm in preventing pregnancy, but the FemCap was not. Both cervical caps appear to be medically safe. 

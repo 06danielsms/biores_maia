@@ -1,0 +1,14 @@
+Background
+Critically ill newborn infants undergo a variety of painful procedures or experience a variety of painful conditions during their early life in the neonatal unit. In the critically ill paediatric and neonatal population, clonidine is prescribed as an adjunct to opioids or benzodiazepines aiming to reduce the doses of these drugs that are required for analgesia or sedation, or to facilitate weaning from mechanical ventilation. It has been shown that clonidine premedication might have a positive effect on postoperative pain in children. 
+Objectives
+To assess the benefit and harms of clonidine for the prevention or treatment of procedural pain; postoperative pain; or pain associated with clinical conditions in non‐ventilated neonates. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the CENTRAL, MEDLINE via PubMed, Embase, and CINAHL to December 2018. We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. We ran an updated search from 1 January 2018 to 11 March 2020 in CENTRAL via CRS Web, MEDLINE via Ovid, and CINAHL via EBSCOhost. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised controlled trials, and cluster trials comparing clonidine to placebo or no treatment, opioids, paracetamol, dexmedetomidine, or non‐pharmacological pain‐reducing interventions for the management of procedural pain, postoperative pain, and pain associated with clinical conditions in preterm and term newborns. 
+Data collection and analysis
+Two review authors independently planned to extract data (e.g. number of participants, birth weight, gestational age, modality of administration, and dose of clonidine) and assess the risk of bias (e.g. adequacy of randomisation, blinding, completeness of follow‐up). The primary outcome considered was pain: for procedural pain, the mean values of each analgesia scale assessed during the procedure and at one to two hours after the procedure; for postoperative pain and for pain associated with clinical conditions, the mean values of each analgesia scale assessed at 30 minutes, three hours, and 12 hours after the administration of the intervention. We planned to use the GRADE approach to assess the quality of evidence. 
+Main results
+Our search strategy yielded 3383 references. Two review authors independently assessed all references for inclusion. We did not find any completed studies for inclusion. We excluded three trials where clonidine was administered for spinal anaesthesia. 
+Authors' conclusions
+We did not find any studies that met our inclusion criteria and hence there is no evidence to recommend or refute the use of clonidine for the prevention or treatment of procedural or postoperative pain, or pain associated with clinical conditions in neonates. 

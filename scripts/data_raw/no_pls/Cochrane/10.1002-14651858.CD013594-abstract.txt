@@ -1,0 +1,24 @@
+Background
+Progressive disseminated histoplasmosis (PDH) is a serious fungal infection that affects people living with HIV. The best way to treat the condition is unclear. 
+Objectives
+We assessed evidence in three areas of equipoise.
+1. Induction. To compare efficacy and safety of initial therapy with liposomal amphotericin B versus initial therapy with alternative antifungals. 
+2. Maintenance. To compare efficacy and safety of maintenance therapy with 12 months of oral antifungal treatment with shorter durations of maintenance therapy. 
+3. Antiretroviral therapy (ART). To compare the outcomes of early initiation versus delayed initiation of ART. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; Cochrane CENTRAL; MEDLINE (PubMed); Embase (Ovid); Science Citation Index Expanded, Conference Proceedings Citation Index‐Science, and BIOSIS Previews (all three in the Web of Science); the WHO International Clinical Trials Registry Platform, ClinicalTrials.gov, and the ISRCTN registry, all up to 20 March 2020. 
+Selection criteria
+We evaluated studies assessing the use of liposomal amphotericin B and alternative antifungals for induction therapy; studies assessing the duration of antifungals for maintenance therapy; and studies assessing the timing of ART. We included randomized controlled trials (RCT), single‐arm trials, prospective cohort studies, and single‐arm cohort studies. 
+Data collection and analysis
+Two review authors assessed eligibility and risk of bias, extracted data, and assessed certainty of evidence. We used the Cochrane 'Risk of bias' tool to assess risk of bias in randomized studies, and ROBINS‐I tool to assess risk of bias in non‐randomized studies. We summarized dichotomous outcomes using risk ratios (RRs), with 95% confidence intervals (CI). 
+Main results
+We identified 17 individual studies. We judged eight studies to be at critical risk of bias, and removed these from the analysis. 
+1. Induction 
+We found one RCT which compared liposomal amphotericin B to deoxycholate amphotericin B. Compared to deoxycholate amphotericin B, liposomal amphotericin B may have higher clinical success rates (RR 1.46, 95% CI 1.01 to 2.11; 1 study, 80 participants; low‐certainty evidence). Compared to deoxycholate amphotericin B, liposomal amphotericin B has lower rates of nephrotoxicity (RR 0.25, 95% CI 0.09 to 0.67; 1 study, 77 participants; high‐certainty evidence). We found very low‐certainty evidence to inform comparisons between amphotericin B formulations and azoles for induction therapy. 
+2. Maintenance 
+We found no eligible study that compared less than 12 months of oral antifungal treatment to 12 months or greater for maintenance therapy. 
+For both induction and maintenance, fluconazole performed poorly in comparison to other azoles. 
+3. ART 
+We found one study, in which one out of seven participants in the 'early' arm and none of the three participants in the 'late' arm died. 
+Authors' conclusions
+Liposomal amphotericin B appears to be a better choice compared to deoxycholate amphotericin B for treating PDH in people with HIV; and fluconazole performed poorly compared to other azoles. Other treatment choices for induction, maintenance, and when to start ART have no evidence, or very low certainty evidence. PDH needs prospective comparative trials to help inform clinical decisions. 

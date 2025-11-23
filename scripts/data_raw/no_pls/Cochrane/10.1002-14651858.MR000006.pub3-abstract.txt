@@ -1,0 +1,15 @@
+Background
+The tendency for authors to submit, and of journals to accept, manuscripts for publication based on the direction or strength of the study findings has been termed publication bias. 
+Objectives
+To assess the extent to which publication of a cohort of clinical trials is influenced by the statistical significance, perceived importance, or direction of their results. 
+Search methods
+We searched the Cochrane Methodology Register (The Cochrane Library [Online] Issue 2, 2007), MEDLINE (1950 to March Week 2 2007), EMBASE (1980 to Week 11 2007) and Ovid MEDLINE In‐Process & Other Non‐Indexed Citations (March 21 2007). We also searched the Science Citation Index (April 2007), checked reference lists of relevant articles and contacted researchers to identify additional studies. 
+Selection criteria
+Studies containing analyses of the association between publication and the statistical significance or direction of the results (trial findings), for a cohort of registered clinical trials. 
+Data collection and analysis
+Two authors independently extracted data. We classified findings as either positive (defined as results classified by the investigators as statistically significant (P < 0.05), or perceived as striking or important, or showing a positive direction of effect) or negative (findings that were not statistically significant (P ≥ 0.05), or perceived as unimportant, or showing a negative or null direction in effect). We extracted information on other potential risk factors for failure to publish, when these data were available. 
+Main results
+Five studies were included. Trials with positive findings were more likely to be published than trials with negative or null findings (odds ratio 3.90; 95% confidence interval 2.68 to 5.68). This corresponds to a risk ratio of 1.78 (95% CI 1.58 to 1.95), assuming that 41% of negative trials are published (the median among the included studies, range = 11% to 85%). In absolute terms, this means that if 41% of negative trials are published, we would expect that 73% of positive trials would be published. 
+Two studies assessed time to publication and showed that trials with positive findings tended to be published after four to five years compared to those with negative findings, which were published after six to eight years. Three studies found no statistically significant association between sample size and publication. One study found no significant association between either funding mechanism, investigator rank, or sex and publication. 
+Authors' conclusions
+Trials with positive findings are published more often, and more quickly, than trials with negative findings. 

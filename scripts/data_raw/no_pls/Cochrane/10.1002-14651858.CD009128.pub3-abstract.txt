@@ -1,0 +1,14 @@
+Background
+Sweet potato (Ipomoea batatas) is among the most nutritious subtropical and tropical vegetables. It is also used in traditional medicine practices for type 2 diabetes mellitus. Research in animal and human models suggests a possible role of sweet potato in glycaemic control. 
+Objectives
+To assess the effects of sweet potato for type 2 diabetes mellitus.
+Search methods
+We searched several electronic databases, including The Cochrane Library (2013, Issue 1), MEDLINE, EMBASE, CINAHL, SIGLE and LILACS (all up to February 2013), combined with handsearches. No language restrictions were used. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared sweet potato with a placebo or a comparator intervention, with or without pharmacological or non‐pharmacological interventions. 
+Data collection and analysis
+Two authors independently selected the trials and extracted the data. We evaluated risk of bias by assessing randomisation, allocation concealment, blinding, completeness of outcome data, selective reporting and other potential sources of bias. 
+Main results
+Three RCTs met our inclusion criteria: these investigated a total of 140 participants and ranged from six weeks to five months in duration. All three studies were performed by the same trialist. Overall, the risk of bias of these trials was unclear or high. All RCTs compared the effect of sweet potato preparations with placebo on glycaemic control in type 2 diabetes mellitus. There was a statistically significant improvement in glycosylated haemoglobin A1c (HbA1c) at three to five months with 4 g/day sweet potato preparation compared to placebo (mean difference ‐0.3% (95% confidence interval ‐0.6 to ‐0.04); P = 0.02; 122 participants; 2 trials). No serious adverse effects were reported. Diabetic complications and morbidity, death from any cause, health‐related quality of life, well‐being, functional outcomes and costs were not investigated. 
+Authors' conclusions
+There is insufficient evidence about the use of sweet potato for type 2 diabetes mellitus. In addition to improvement in trial methodology, issues of standardization and quality control of preparations ‐ including other varieties of sweet potato ‐ need to be addressed. Further observational trials and RCTs evaluating the effects of sweet potato are needed to guide any recommendations in clinical practice. 

@@ -1,0 +1,22 @@
+Treatments for mycosis fungoides (a malignant cancerous condition of immune cells in the blood that affects the skin) 
+What was the aim of this review? 
+This Cochrane Review compared treatments for mycosis fungoides (also called cutaneous T‐cell lymphoma, Alibert‐Bazin syndrome or granuloma fungoides). 
+What was studied in the review? 
+Mycosis fungoides (MF) typically starts as flat and scaly pink or red areas (patches) on the torso, upper thighs or buttocks. At this stage, life expectancy is unaffected. As the disease develops, life expectancy reduces. Patches can turn into raised, itchy plaques. Plaques can become thicker, deeper, and develop into tumours. In rare cases, the disease spreads to other organs. 
+Many treatments exist for MF; these target specific body areas (local therapy) or the entire body (systemic therapy). Treatments include creams, ointments, oral or injected medicines, light therapy, radiotherapy (radiation that kills cancer cells) and chemotherapy (medicines that kill cancer cells). 
+We compared the benefits and harms of different treatments in adults, at different disease stages. We identified 20 studies published up to May 2019. 
+The studies included 1369, mainly male, adults. Most ran from 4 weeks to 12 months. Only five studies investigated the later stages of disease. All were set in specialised healthcare centres in Europe (12 studies), North America (11 studies), Australia (three studies), Brazil and Japan (one study each; satellite centres for studies already listed). Treatments were compared with another treatment (13 studies); an inactive treatment (placebo) (five studies); or no treatment (two studies). 
+Five studies did not report their funding. Eleven studies were funded by pharmaceutical companies and four by academic institutions or hospitals. 
+Key results 
+We do not know how different treatments for MF affect quality of life. Very few studies assessed this outcome and they presented no usable data. 
+Unwanted (adverse) effects ranged from mild symptoms to severe life‐threatening complications. More aggressive treatments (such as chemotherapy) generally caused more severe adverse effects. 
+PUVA (a light treatment) is the first treatment used for MF. Results from five studies provided low‐certainty evidence: 
+There may be little to no difference between giving PUVA alone and PUVA plus injected interferon‐α (IFN‐ α) (a messenger substance of the immune system) for 24 to 52 weeks for making the disease disappear completely. No studies investigated adverse events in these treatments or disappearance of at least 50% of the disease. 
+There may be little to no difference between an oral vitamin A derivative (bexarotene) plus PUVA, and PUVA alone, for complete or at least 50% disease disappearance (treatment duration: up to 16 weeks). Extreme sensitivity to ultraviolet (UV) rays occurred in some people who received bexarotene and PUVA, but not PUVA alone. 
+There may be little to no difference between IFN‐ α plus PUVA and IFN‐α plus acitretin (another oral vitamin A derivative) on flu‐like symptoms, when treatment is given for up to 48 weeks or until complete disease disappearance. However, there may be a lower rate of complete disease disappearance with IFN‐α plus acitretin. No studies investigated the effect on partial disappearance. 
+It is not clear how PUVA maintenance treatment (to prevent the disease from reappearing after it has disappeared) compares with no maintenance treatment, since the only study on this reported very limited information. 
+One small trial (eight people) compared extracorporeal photopheresis (ECP, a light therapy) once monthly for six months with twice‐weekly PUVA for three months. It reported complete or at least 50% disappearance of MF in some participants treated with PUVA and none who received ECP. Common side effects were reported with each treatment (PUVA may be associated with mild nausea, and ECP with hypotension). However, the very‐low certainty evidence means we are not sure of these results. 
+How confident are we in the results of this review? 
+Our confidence in the results of this review is mainly low, but very low for one set of key results. The review is based on small and poorly designed studies. Further research is likely to change its message. 
+Conclusion 
+We found no evidence to challenge or support the standard treatment (PUVA). In the absence of a cure, treatment of MF should be based on disease stage, with a focus on limiting severe adverse effects. 

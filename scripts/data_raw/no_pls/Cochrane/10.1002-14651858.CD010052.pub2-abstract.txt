@@ -1,0 +1,14 @@
+Background
+Calcium channel blockers are a heterogeneous class of drugs, including dihydropyridine and non‐dihydropyridine subgroups, commonly used in the treatment of hypertension. A systematic review of the 24‐hour time course of the blood pressure‐lowering effect has not been published. 
+Objectives
+To assess how much variation there is in hourly systolic and diastolic blood pressure lowering by dihydropyridine calcium channel blockers over a 24‐hour period in people with hypertension aged 18 years or over, with baseline systolic blood pressure of at least 140 mmHg or diastolic blood pressure of at least 90 mmHg, or both. 
+Search methods
+We performed electronic searches of the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 1, 2014), MEDLINE (1946 to February 2014), EMBASE (1974 to February 2014), and ClinicalTrials.gov (to February 2014). We also screened references of published studies and reviews to identify additional trials. 
+Selection criteria
+We included all randomized, placebo‐controlled trials assessing the hourly effects of dihydropyridine calcium channel blockers by ambulatory blood pressure monitoring in adults with hypertension with a follow‐up of at least three weeks. 
+Data collection and analysis
+Two authors independently selected the included trials, evaluated the risk of bias, and analyzed the data. 
+Main results
+We included 16 randomized controlled trials of dihydropyridine calcium channel blockers in this systematic review, with 2768 randomized participants. Drugs studied included amlodipine, lercanidipine, mandipine, nifedipine, and felodipine (all administered once daily) and nicardipine (administered twice daily). We analyzed and presented data by hour post dose. The blood pressure‐lowering effect was stable over time; there were no clinically important differences in blood pressure‐lowering effect of calcium channel blockers between each hour for either systolic blood pressure (estimated mean hourly differences ranged between 9.45 mmHg and 13.2 mmHg) or diastolic blood pressure (estimated mean hourly differences ranged between 5.85 mmHg and 8.5 mmHg). However, there was a moderate risk of bias for this finding. Once‐daily dihydropyridine calcium channel blockers appeared to lower blood pressure by a relatively constant amount throughout the 24‐hour dosing interval. 
+Authors' conclusions
+Six dihydropyridine calcium channel blockers studied in this review lowered blood pressure by a relatively similar amount each hour over the course of 24 hours. The benefits and harms of this pattern of blood pressure lowering are unknown. Further trials are needed with accurate recording of time of drug intake and with reporting of standard deviation of blood pressure at each hour. We did not attempt to assess adverse effects in this review due to the lack of reporting and the short duration of follow‐up. 

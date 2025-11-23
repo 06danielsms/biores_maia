@@ -1,0 +1,34 @@
+Background
+Malignant pleural effusion (MPE) is a common problem for people with cancer and usually associated with considerable breathlessness. A number of treatment options are available to manage the uncontrolled accumulation of pleural fluid, including administration of a pleurodesis agent (via a chest tube or thoracoscopy) or placement of an indwelling pleural catheter (IPC). This is an update of a review published in Issue 5, 2016, which replaced the original, published in 2004. 
+Objectives
+To ascertain the optimal management strategy for adults with malignant pleural effusion in terms of pleurodesis success and to quantify differences in patient‐reported outcomes and adverse effects between interventions. 
+Search methods
+We searched CENTRAL, MEDLINE (Ovid), Embase (Ovid) and three other databases to June 2019. We screened reference lists from other relevant publications and searched trial registries. 
+Selection criteria
+We included randomised controlled trials of intrapleural interventions for adults with symptomatic MPE, comparing types of sclerosant, mode of administration and IPC use. 
+Data collection and analysis
+Two review authors independently extracted data on study design, characteristics, outcome measures, potential effect modifiers and risk of bias. 
+The primary outcome was pleurodesis failure rate. Secondary outcomes were adverse events, patient‐reported breathlessness control, quality of life, cost, mortality, survival, duration of inpatient stay and patient acceptability. 
+We performed network meta‐analyses of primary outcome data and secondary outcomes with enough data. We also performed pair‐wise meta‐analyses of direct comparison data. If we deemed interventions not jointly randomisable, or we found insufficient available data, we reported results by narrative synthesis. For the primary outcome, we performed sensitivity analyses to explore potential causes of heterogeneity and to evaluate pleurodesis agents administered via a chest tube only. 
+We assessed the certainty of the evidence using GRADE.
+Main results
+We identified 80 randomised trials (18 new), including 5507 participants. We found all except three studies at high or unclear risk of bias for at least one domain. Due to the nature of the interventions, most studies were unblinded. 
+Pleurodesis failure rate 
+We included 55 studies of 21 interventions in the primary network meta‐analysis. We estimated the rank of each intervention's effectiveness. Talc slurry (ranked 6, 95% credible interval (Cr‐I) 3 to 10)  is an effective pleurodesis agent (moderate certainty for comparison with placebo) and may result in fewer pleurodesis failures than bleomycin and doxycycline (bleomycin versus talc slurry: odds ratio (OR) 2.24, 95% Cr‐I 1.10 to 4.68; low certainty; ranked 11, 95% Cr‐I 7 to 15; doxycycline versus talc slurry: OR 2.51, 95% Cr‐I 0.81 to 8.40; low certainty; ranked 12, 95% Cr‐I 5 to 18). 
+There is little evidence of a difference between the pleurodesis failure rate of talc poudrage and talc slurry (OR 0.50, 95% Cr‐I 0.21 to 1.02; moderate certainty). Evidence for any difference was further reduced when restricting analysis to studies at low risk of bias (defined as maximum one high risk domain in the risk of bias assessment) (pleurodesis failure talc poudrage versus talc slurry: OR 0.78, 95% Cr‐I 0.16 to 2.08). 
+IPCs without daily drainage are probably less effective at obtaining a definitive pleurodesis (cessation of pleural fluid drainage facilitating IPC removal) than talc slurry (OR 7.60, 95% Cr‐I 2.96 to 20.47; rank = 18/21, 95% Cr‐I 13 to 21; moderate certainty). Daily IPC drainage or instillation of talc slurry via IPC are likely to reduce pleurodesis failure rates. 
+Adverse effects 
+Adverse effects were inconsistently reported. We performed network meta‐analyses for the risk of procedure‐related fever and pain. 
+The evidence for risk of developing fever was of low certainty, but suggested there may be little difference between interventions relative to talc slurry (talc poudrage: OR 0.89, 95% Cr‐I 0.11 to 6.67; bleomycin: OR 2.33, 95% Cr‐I 0.45 to 12.50; IPCs: OR 0.41, 95% Cr‐I 0.00 to 50.00; doxycycline: OR 0.85, 95% Cr‐I 0.05 to 14.29). 
+Evidence also suggested there may be little difference between interventions in the risk of developing procedure‐related pain, relative to talc slurry (talc poudrage: OR 1.26, 95% Cr‐I 0.45 to 6.04; very‐low certainty; bleomycin: OR 2.85, 95% Cr‐I 0.78 to 11.53; low certainty; IPCs: OR 1.30, 95% Cr‐I 0.29 to 5.87; low certainty; doxycycline: OR 3.35, 95% Cr‐I 0.64 to 19.72; low certainty). 
+Patient‐reported control of breathlessness 
+Pair‐wise meta‐analysis suggests there is likely no difference in breathlessness control, relative to talc slurry, of talc poudrage ((mean difference (MD) 4.00 mm, 95% CI –6.26 to 14.26) on a 100 mm visual analogue scale for breathlessness; studies = 1; participants = 184; moderate certainty) and IPCs without daily drainage (MD –6.12 mm, 95% CI –16.32 to 4.08; studies = 2; participants = 160; low certainty). 
+Overall mortality 
+There may be little difference between interventions when compared to talc slurry (bleomycin and IPC without daily drainage; low certainty) but evidence is uncertain for talc poudrage and doxycycline. 
+Patient acceptability 
+Pair‐wise meta‐analysis demonstrated that IPCs probably result in a reduced risk of requiring a repeat invasive pleural intervention (OR 0.25, 95% Cr‐I 0.13 to 0.48; moderate certainty) relative to talc slurry. There is likely little difference in the risk of repeat invasive pleural intervention with talc poudrage relative to talc slurry (OR 0.96, 95% CI 0.59 to 1.56; moderate certainty). 
+Authors' conclusions
+Based on the available evidence, talc poudrage and talc slurry are effective methods for achieving a pleurodesis, with lower failure rates than a number of other commonly used interventions. 
+IPCs provide an alternative approach; whilst associated with inferior definitive pleurodesis rates, comparable control of breathlessness can probably be achieved, with a lower risk of requiring repeat invasive pleural intervention.  
+Local availability, global experience of agents and adverse events (which may not be identified in randomised trials) and patient preference must be considered when selecting an intervention. 
+Further research is required to delineate the roles of different treatments according to patient characteristics, such as presence of trapped lung. Greater attention to patient‐centred outcomes, including breathlessness, quality of life and patient preference is essential to inform clinical decision‐making. Careful consideration to minimise the risk of bias and standardise outcome measures is essential for future trial design. 

@@ -1,0 +1,14 @@
+Background
+Idiopathic acute vestibular dysfunction (vestibular neuritis) is the second most common cause of peripheral vertigo after benign paroxysmal positional vertigo (BPPV) and accounts for 7% of the patients who present at outpatient clinics specialising in the treatment of dizziness. The exact aetiology of the condition is unknown and the effects of corticosteroids on the condition and its recovery are uncertain. 
+Objectives
+To assess the effectiveness of corticosteroids in the management of patients with idiopathic acute vestibular dysfunction (vestibular neuritis). 
+Search methods
+We searched the Cochrane ENT Group Trials Register; CENTRAL; PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 28 December 2010. 
+Selection criteria
+Randomised controlled trials comparing corticosteroids with placebo, no treatment or other active treatments, for adults diagnosed with idiopathic acute vestibular dysfunction. 
+Data collection and analysis
+Two authors independently selected studies from the search results and extracted data. Three authors independently assessed risk of bias. 
+Main results
+Four trials, involving a total of 149 participants, compared the effectiveness of oral corticosteroids against placebo. All the trials were small and of low methodological quality. Although there was an overall significant effect of corticosteroids compared with placebo medication on complete caloric recovery at one month (risk ratio (RR) of 2.81; 95% confidence interval (CI) 1.32 to 6.00, P = 0.007), no significant effect was seen on complete caloric recovery at 12 months (RR 1.58; 95% CI 0.45 to 5.62, P = 0.48), or on the extent of caloric recovery at either one month (mean difference (MD) 9.60%; 95% CI ‐20.66 to 39.86, P = 0.53) or at 12 months (MD 6.83%; 95% CI ‐27.69 to 41.36, P = 0.70). In addition, there was no significant difference between corticosteroids and placebo medication in the symptomatic recovery of vestibular function following idiopathic acute vestibular dysfunction with respect to vertigo at 24 hours (RR 0.39; 95% CI 0.04 to 3.57, P = 0.40) and use of the Dizziness Handicap Inventory score at one, three, six and 12 months. 
+Authors' conclusions
+Overall, there is currently insufficient evidence from these trials to support the administration of corticosteroids to patients with idiopathic acute vestibular dysfunction. We found no trials with a low risk of methodological bias that used the highest level of diagnostic criteria and outcome measures. We recommend that future studies should include health‐related quality of life and symptom‐based outcome measures, in addition to objective measures of vestibular improvement, such as caloric testing and electronystagmography. 

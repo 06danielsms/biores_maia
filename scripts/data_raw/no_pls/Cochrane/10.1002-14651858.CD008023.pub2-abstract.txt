@@ -1,0 +1,14 @@
+Background
+Post‐operative urinary retention, the inability to void following surgery despite a full bladder, is usually transitory but can be prolonged in some cases. It can lead to several complications including urinary tract infection, long term bladder dysfunction and kidney damage leading to chronic kidney disease. Catheterisation, generally regarded as the optimal management method, is associated with risks and so pharmacological treatment of post‐operative urinary retention that could remove or reduce the need for catheterisation is desirable. 
+Objectives
+To assess the effectiveness of drugs for treatment of post‐operative urinary retention either alone or as an adjunct to catheterisation. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register (searched 10 February 2010), CENTRAL (2010, Issue 1), MEDLINE (January 1950 to Week 1 January 2010), EMBASE (January 1980 to 2010 Week 5) and the reference lists of relevant articles.  
+Selection criteria
+Randomised and quasi randomised controlled trials in which at least one arm of the study included a drug treatment for post‐operative urinary retention. 
+Data collection and analysis
+Published reports of all potentially eligible studies were evaluated by two reviewers independently. No language or other limitations were applied. Standardised data extraction forms were used by two reviewers independently and cross‐checked. Where insufficient data were reported authors were contacted where possible for further information. The risk of bias in eligible trials was assessed independently by two reviewers using the Cochrane risk of bias tool. 
+Main results
+Seven studies including 494 participants formed the evidence base for this review. Drug treatments assessed in studies in the review included cholinergic agents, alpha‐blockers, sedatives and prostaglandin on their own or in combinations. No statistically significant associations were reported between successful treatment or any other outcome and cholinergic agents, alpha‐blockers and sedatives as monotherapies. A statistically significant association between intravesically administered prostaglandin and successful voiding was detected, Risk Ratio 3.07 (95% CI 1.22 to 7.72). A statistically significant association was detected between cholinergic agents combined with sedative and an improved likelihood of spontaneous voiding compared with placebo, Risk Ratio 1.39 (95% CI 1.07 to 1.82). Significant heterogeneity was identified between the two studies in this analysis, however. 
+Authors' conclusions
+Whilst it may appear that cholinergic agents and intravesically administered prostaglandin offer most promise in the treatment of post‐operative urinary retention, the evidence is weak. There is a need for further research into pharmacological alternatives to catheterisation in the treatment of this common surgical complication. 

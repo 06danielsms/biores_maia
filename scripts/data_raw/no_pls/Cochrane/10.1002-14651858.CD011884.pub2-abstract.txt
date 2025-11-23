@@ -1,0 +1,14 @@
+Background
+Many people with schizophrenia do not respond to an initially prescribed antipsychotic drug. In such cases, one treatment strategy could be to increase the antipsychotic dose; and another strategy could be to switch to a different antipsychotic drug. 
+Objectives
+To examine the efficacy of increasing the antipsychotic dose versus switching the antipsychotic drug in the treatment of non‐responsive people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (10 June 2014, 6 October 2015, and 30 March 2017). We examined references of all included studies for further trials. 
+Selection criteria
+All relevant randomised controlled trials (RCTs) comparing increasing the antipsychotic dose versus switching to a different antipsychotic drug for people with schizophrenia who have not responded to their initial antipsychotic treatment. 
+Data collection and analysis
+At least two review authors independently extracted data. We analysed dichotomous data using relative risks (RR) and their 95% confidence intervals (CIs). We analysed continuous data using mean differences (MD) and their 95% CIs. We assessed risk of bias for included studies and used GRADE to create a 'Summary of findings' table. 
+Main results
+We include one RCT with relevant data on 29 participants in this review. The trial had a parallel design and was double‐blind, but blinding procedures were not described. The trial included people who were non‐responsive to fluphenazine 20 mg/day administered for 4 weeks. Participants were randomly assigned to continuing treatment with fluphenazine 20 mg/day, increasing the dose to fluphenazine 80 mg/day or switching to haloperidol 20 mg/day for four additional weeks. Data were reported only for 47 out of 58 initially randomised participants. The trial was published in 1993. The fact that only one RCT with a small sample size (N = 29) was included in the analysis limits the quality of the evidence. Overall, no clear difference was found between groups in terms of the three available outcomes: global state (number of participants with clinically relevant response (RR 1.63, 95% CI 0.17 to 15.99, very low quality evidence); general mental state (endpoint score, BPRS total) (MD 2.00, 95% CI −4.20 to 8.20, very low quality evidence); and negative symptoms (endpoint score, SANS) (MD 3.40, 95% CI −12.56 to 19.36). No data were reported for leaving the study early, adverse effects, time in hospital, quality of life, satisfaction with care and functioning. 
+Authors' conclusions
+There is extremely limited evidence and no clear conclusions can be drawn. There is an urgent need for further trials in order to determine the optimal treatment strategy for people with schizophrenia who do not respond to their initial antipsychotic treatment. 

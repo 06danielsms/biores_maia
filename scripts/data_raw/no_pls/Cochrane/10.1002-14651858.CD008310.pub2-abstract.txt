@@ -1,0 +1,14 @@
+Background
+Nebulised surfactant has the potential to deliver surfactant to the infant lung with the goal of avoiding endotracheal intubation and ventilation, ventilator‐induced lung injury and bronchopulmonary dysplasia (BPD). 
+Objectives
+To determine the effect of nebulised surfactant administration either as prophylaxis or treatment compared to placebo, no treatment or intratracheal surfactant administration on morbidity and mortality in preterm infants with, or at risk of, respiratory distress syndrome (RDS). 
+Search methods
+Searches were performed of CENTRAL (The Cochrane Library, January 2012), MEDLINE and PREMEDLINE (1950 to January 2012), EMBASE (1980 to January 2012) and CINAHL (1982 to January 2012), as well as proceedings of scientific meetings, clinical trial registries, Google Scholar and reference lists of identified studies. Expert informants and surfactant manufacturers were contacted. 
+Selection criteria
+Randomised, cluster‐randomised or quasi‐randomised controlled trials of nebulised surfactant administration compared to placebo, no treatment, or other routes of administration (laryngeal, pharyngeal instillation of surfactant before the first breath, thin endotracheal catheter surfactant administration or intratracheal surfactant instillation) on morbidity and mortality in preterm infants at risk of RDS. We considered published, unpublished and ongoing trials. 
+Data collection and analysis
+Two review authors independently assessed studies for eligibility and quality, and extracted data. 
+Main results
+No studies of prophylactic or early nebulised surfactant administration were found. A single small study of late rescue nebulised surfactant was included. The study is of moderate risk of bias. The study enrolled 32 preterm infants born < 36 weeks' gestation with RDS on nasal continuous positive airway pressure (nCPAP). The study reported no significant difference between nebulised surfactant administration compared to no treatment groups in chronic lung disease (risk ratio (RR) 5.00; 95% confidence interval (CI) 0.26 to 96.59) or other outcomes (oxygenation 1 to 12 hours after randomisation, need for mechanical ventilation, days of mechanical ventilation or continuous positive airways pressure (CPAP) or days of supplemental oxygen). No side effects of the nebulised surfactant therapy or aerosol inhalation were reported. 
+Authors' conclusions
+There are insufficient data to support or refute the use of nebulised surfactant in clinical practice. Adequately powered trials are required to determine the effect of nebulised surfactant administration for prevention or early treatment of RDS in preterm infants. Nebulised surfactant administration should be limited to clinical trials. 

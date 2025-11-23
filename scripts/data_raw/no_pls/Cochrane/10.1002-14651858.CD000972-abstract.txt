@@ -1,0 +1,14 @@
+Background
+Cerebral malaria is associated with swelling of the brain. Corticosteroid drugs could reduce the harmful effects of this swelling, but they could also suppress host immunity to infection. 
+Objectives
+To assess the effects of corticosteroid drugs in patients with cerebral malaria on death, life‐threatening complications, and residual disability in survivors. 
+Search methods
+In March 2008, we searched the Cochrane Infectious Disease Group Specialized Register, CENTRAL (The Cochrane Library 2008, Issue 1), MEDLINE, EMBASE, LILACS, and mRCT. We also checked reference lists. 
+Selection criteria
+Randomized controlled trials comparing corticosteroids with no corticosteroids in addition to otherwise identical treatments for patients with cerebral malaria. 
+Data collection and analysis
+Both authors independently assessed trial eligibility and risk of bias (methodological quality), and extracted data. Outcomes sought included death, death with life‐threatening complications, other complications, and disability. 
+Main results
+Two trials with 143 participants met the inclusion criteria. There were 30 deaths in the two trials, distributed evenly between the corticosteroid and control groups (risk ratio 0.89; 95% confidence interval 0.48 to 1.68; 143 participants). Clinical complications were reported as the number of events in each trial arm and did not exclude complications occurring in fatalities. This made it difficult to interpret the reports of significantly more episodes of gastrointestinal bleeding and seizures in the corticosteroid group. Neither trial examined disability. 
+Authors' conclusions
+There is currently no evidence of benefit from corticosteroids, but the small number of participants means it is difficult to exclude an effect on death in either direction. Data on clinical complications are difficult to assess. 

@@ -1,0 +1,34 @@
+Psoriatic arthritis (also known as "PsA") is a disease that can cause pain and swelling (inflammation) in or around the joints, tendon areas, fingers, toes, and back, and is often combined with itchy, scaly rashes on the skin. These problems are because the immune system, whose job is to attack foreign invaders like viruses and other germs, mistakenly attacks other parts of the body instead. If PsA inflammation is left untreated, joints, tendon areas, fingers, and toes may become painful or swollen; skin rashes may occur; and people may become extremely tired. There is no cure for PsA at this time, but common treatments for PsA include medicines that control pain, reduce inflammation, and prevent the immune system from attacking the joints. Tofacitinib is a medicine that may reduce the activity of the immune system. It is an oral (taken by mouth) medication used to treat adults with PsA. In this study, researchers wanted to learn more about the use of tofacitinib in people who had not been helped by conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) like methotrexate, which were being used to treat PsA. Researchers did this study to find out if tofacitinib, when compared to placebo, in patients on background therapy of csDMARD, reduced PsA symptoms and improved a patient's ability to perform physical activities (improved physical functioning). Researchers wanted to answer this question: Does tofacitinib help reduce pain, inflammation, and other symptoms caused by PsA in patients that were not helped by other drugs (csDMARDs) previously being used to treat PsA?
+This study compared 5 groups of patients to find out if patients who took tofacitinib had an improvement in PsA symptoms and physical functioning, compared to patients who took placebo. A placebo does not have any medicine in it, but looks just like the medicine being tested. Using a placebo helps researchers learn if the study drug works better than no treatment at all. In this study, all patients (including those taking placebo) received 1 csDMARD as background therapy; thus, patients taking placebo did take some medicine in this study. Background therapy is the standard treatment routinely used to treat a disease or condition.
+
+In this study, some patients were given adalimumab, which is a medication that is used to treat PsA. Adalimumab is a biologic DMARD (bDMARD) and has been shown to reduce pain and inflammation in patients with PsA. Researchers also wanted to find out if patients who took adalimumab, an active control, had an improvement in the same symptoms and functioning compared to patients who took placebo. An active control is a drug that is already being used to treat patients with the disease being studied. In this study, the active control was tested against placebo to see if the standard treatment available to patients worked better than no treatment at all.
+
+This study included adult men and women who:
+-Had active psoriatic arthritis for more than 6 months;
+-Had active plaque psoriasis (skin lesions) that had been diagnosed or confirmed by a doctor;
+-Had 3 or more swollen joints and 3 or more tender (painful to the touch) joints ;
+-Were not helped by at least 1 csDMARD (like methotrexate) for the treatment of psoriatic arthritis.
+
+All patients were taking a medication to treat their PsA that was prescribed by their doctors before they entered the study. At the start of the study, these patients continued to take the prescribed medication and were also assigned by chance alone to receive some combination of tofacitinib, placebo, or adalimumab in 1 of 5 different orders (treatment sequences). This is known as a “randomized” study. This is done to make the groups more similar. Reducing differences between the groups (like age or the number of men and women), makes the groups more even to compare.
+
+This trial was also “double-blinded”. This means that patients and doctors did not know who was given which treatment/medicine. This was done to make sure that the trial results were not influenced in any way.
+
+The study had two parts: Part 1, which lasted for 3 months; and Part 2, which lasted for 9 months. Some patients received the same treatment in both parts of the study, but some patients received a different treatment in Part 2 than they received in Part 1. Patients were randomized to receive some combination of tofacitinib, placebo, or adalimumab in 1 of 5 different sequences:
+
+Medicines Given in Each Treatment Sequence
+Treatment Sequence Part 1 (3 months) Part 2 (9 months)
+A Tofacitinib 5 milligrams (mg) tablets twice a day (BID) plus placebo injection once every 2 weeks Same as Part 1
+B Tofacitinib 10 mg tablets BID plus placebo injection once every 2 weeks Same as Part 1
+C Adalimumab injection (40 mg) once every 2 weeks plus placebo tablets BID Same as Part 1
+D Placebo tablets BID plus placebo injection once every 2 weeks Tofacitinib 5 mg BID plus placebo injection once every 2 weeks
+E Placebo tablets BID plus placebo injection once every 2 weeks Tofacitinib 10 mg BID plus placebo injection once every 2 weeks
+
+All patients were required to receive 1 csDMARD (like methotrexate) during the study.
+
+Patients were checked (screened) to make sure they were a good fit for the study. A total of 422 patients who met all the study requirements were randomized to receive tofacitinib, placebo, or adalimumab in 1 of 5 different treatment sequences.
+
+While patients were only in the study for 12 months, the entire study took about 2 years to complete. The Sponsor ran this study at 94 locations in Australia, Canada, Mexico, Russian Federation, Taiwan, the United Kingdom, the United States, and throughout Europe. It began on 20 January 2014 and ended on 18 December 2015. A total of 225 women (53%) and 197 men (47%) participated. All patients were between the ages of 18 and 81 years.
+
+Patients were to be treated for 12 months. Of the 422 patients who started the study, 373 (88%) finished the whole study. A total of 49 patients (12%) left before the study was over by their choice or because a doctor decided it was best for them to stop the study.
+
+When the study ended in December 2015, the Sponsor began reviewing the study results. The Sponsor then created a report of the results. This is a summary of that report.

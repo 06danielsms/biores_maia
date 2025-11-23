@@ -1,0 +1,20 @@
+Background
+In 2011 the World Health Organization (WHO) recommended parenteral artesunate in preference to quinine as first‐line treatment for people with severe malaria. Prior to this recommendation many countries, particularly in Africa, had begun to use artemether, an alternative artemisinin derivative. This Cochrane Review evaluates intramuscular artemether compared with both quinine and artesunate. 
+Objectives
+To assess the efficacy and safety of intramuscular artemether versus any other parenteral medication in the treatment of severe malaria in adults and children. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (the Cochrane Library), MEDLINE, Embase, and LILACS, ISI Web of Science, conference proceedings, and reference lists of articles. We also searched the WHO International Clinical Trial Registry Platform, ClinicalTrials.gov, and the metaRegister of Controlled Trials (mRCT) for ongoing trials up to 7 September 2018. We checked the reference lists of all studies identified by the search. We examined references listed in review articles and previously compiled bibliographies to look for eligible studies. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing intramuscular artemether with intravenous/intramuscular quinine or artesunate for treating severe malaria. 
+Data collection and analysis
+The primary outcome was all‐cause death. Two review authors independently screened each article by title and abstract, and examined potentially relevant studies for inclusion using an eligibility form. Two review authors independently extracted data and assessed risk of bias of included studies. We summarized dichotomous outcomes using risk ratios (RRs) and continuous outcomes using mean differences (MDs), and have presented both measures with 95% confidence intervals (CIs). Where appropriate, we combined data in meta‐analyses and used the GRADE approach to summarize the certainty of the evidence. 
+Main results
+We included 19 RCTs, enrolling 2874 adults and children with severe malaria, carried out in Africa (12 trials) and in Asia (7 trials). 
+Artemether versus quinine 
+For children, there is probably little or no difference in the risk of death between intramuscular artemether and quinine (RR 0.97, 95% CI 0.77 to 1.21; 13 trials, 1659 participants, moderate‐certainty evidence). Coma resolution time may be about five hours shorter with artemether (MD −5.45, 95% CI −7.90 to −3.00; six trials, 358 participants, low‐certainty evidence). Artemether may make little difference to neurological sequelae (RR 0.84, 95% CI 0.66 to 1.07; seven trials, 968 participants, low‐certainty evidence). Compared to quinine, artemether probably shortens the parasite clearance time by about nine hours (MD −9.03, 95% CI −11.43 to −6.63; seven trials, 420 participants, moderate‐certainty evidence), and may shorten the fever clearance time by about three hours (MD −3.73, 95% CI −6.55 to −0.92; eight trials, 457 participants, low‐certainty evidence). 
+For adults, treatment with intramuscular artemether probably results in fewer deaths than treatment with quinine (RR 0.59, 95% CI 0.42 to 0.83; four trials, 716 participants, moderate‐certainty evidence). 
+Artemether versus artesunate 
+Artemether and artesunate have not been directly compared in randomized trials in children. 
+For adults, mortality is probably higher with intramuscular artemether (RR 1.80, 95% CI 1.09 to 2.97; two trials, 494 participants, moderate‐certainty evidence). 
+Authors' conclusions
+Artemether appears to be more effective than quinine in children and adults. Artemether compared to artesunate has not been extensively studied, but in adults it appears inferior. These findings are consistent with the WHO recommendations that artesunate is the drug of choice, but artemether is acceptable when artesunate is not available. 

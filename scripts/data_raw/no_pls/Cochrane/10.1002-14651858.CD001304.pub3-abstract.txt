@@ -1,0 +1,15 @@
+Background
+Phenylketonuria is an inherited disease treated with dietary restriction of the amino acid phenylalanine. The diet is initiated in the neonatal period to prevent learning disability; however, it is restrictive and can be difficult to follow. Whether the diet can be relaxed or discontinued during adolescence or should be continued for life remains a controversial issue, which we aim to address in this review. This is an updated version of a previously published review. 
+Objectives
+To assess the effects of a low‐phenylalanine diet commenced early in life for people with phenylketonuria. To assess the possible effects of relaxation or termination of the diet on intelligence, neuropsychological outcomes and mortality, growth, nutritional status, eating behaviour and quality of life. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches, handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search of the Inborn Errors of Metabolism Trials Register: 30 April 2020.
+Selection criteria
+All randomised or quasi‐randomised controlled trials comparing a low‐phenylalanine diet to relaxation or termination of dietary restrictions in people with phenylketonuria. 
+Data collection and analysis
+Two authors independently assessed study eligibility and methodological quality, and subsequently extracted the data. 
+Main results
+We included four studies in this review (251 participants), and found few significant differences between treatment and comparison groups for the outcomes of interest. Blood phenylalanine levels were significantly lower in participants with phenylketonuria following a low‐phenylalanine diet compared to those on a less restricted diet, mean difference (MD) at three months ‐698.67 (95% confidence interval (CI) ‐869.44 to ‐527.89). Intelligence quotient was significantly higher in participants who continued the diet than in those who stopped the diet, MD after 12 months 5.00 (95% CI 0.40 to 9.60). However, these results came from a single study. 
+Authors' conclusions
+The results of non‐randomised studies have concluded that a low‐phenylalanine diet is effective in reducing blood phenylalanine levels and improving intelligence quotient and neuropsychological outcomes. We were unable to find any randomised controlled studies that have assessed the effect of a low‐phenylalanine diet versus no diet from diagnosis. In view of evidence from non‐randomised studies, such a study would be unethical and it is recommended that low‐phenylalanine diet should be commenced at the time of diagnosis. There is uncertainty about the precise level of phenylalanine restriction and when, if ever, the diet should be relaxed. This should be addressed by randomised controlled studies; however, no new studies are expected in this area so we do not plan to update this review. 

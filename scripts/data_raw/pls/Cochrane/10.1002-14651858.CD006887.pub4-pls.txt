@@ -1,0 +1,12 @@
+Clinical effects of cardiovascular risk scores in people without cardiovascular disease
+Review question  
+What is the evidence about the potential clinical benefits and harms of providing cardiovascular disease (CVD) risk scores in people without a history of heart disease or stroke? 
+Background  
+Cardiovascular disease (CVD) is a group of conditions that includes heart disease and stroke. CVD prevention guidelines emphasise the use of risk scores, equations that use clinical variables to estimate the chance of a first heart attack or stroke, to guide treatment decisions in the general population. While there has been much attention to developing different types of CVD risk scores, there is uncertainty about the effects of providing a CVD risk score in clinical practice. 
+The aim of this systematic review was to assess the effects of evaluating CVD risk scores in adults without a history of heart disease or stroke on cardiovascular outcomes, risk factor levels, preventive medication prescribing, and health behaviours. 
+Study characteristics  
+We searched scientific databases for randomised trials (clinical studies that randomly put people into different treatment groups) that systematically provided CVD risk scores or usual care to adults without a history of heart disease or stroke. The evidence is current to March 2016. Funding for the majority of trials came from government sources or pharmaceutical companies. 
+Key results  
+We identified 41 trials that included 194,035 participants. Many of the studies had limitations. Low‐quality evidence suggests that providing CVD risk scores had little or no effect on the number of people who develop heart disease or stroke. Providing CVD risk scores may reduce CVD risk factor levels (like cholesterol, blood pressure, and multivariable CVD risk) by a small amount and may increase cholesterol‐lowering and blood pressure‐lowering medication prescribing in higher risk people. Providing CVD risk scores may reduce harms, but the results were imprecise. 
+Quality of the evidence  
+There is low‐quality evidence to guide the use of CVD risk scores in clinical practice. Studies had multiple limitations and used different methods to provide CVD risk scores. It is likely that further research will influence these results. 

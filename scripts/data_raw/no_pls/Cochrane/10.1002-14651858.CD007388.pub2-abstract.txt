@@ -1,0 +1,16 @@
+Background
+Magnesium sulphate remains the drug of choice for both prevention and treatment of women with eclampsia. Regimens for administration of this drug have evolved over the years, but have not yet been formally evaluated. 
+Objectives
+To assess the comparative effects of alternative regimens for the administration of magnesium sulphate when used for the care of women with pre‐eclampsia or eclampsia, or both. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (June 2010).
+Selection criteria
+Randomised trials comparing different regimens for administration of magnesium sulphate used for the care of women with pre‐eclampsia or eclampsia, or both. 
+Data collection and analysis
+All four review authors assessed trial quality and extracted data independently.
+Main results
+We identified 17 studies of which six (866 women) met the inclusion criteria: two trials (451 women) compared regimens for women with eclampsia and four (415 women) for women with pre‐eclampsia. 
+Treatment of eclampsia: one trial compared loading dose alone with loading dose plus maintenance therapy for 24 hours (401 women). There was no clear difference between the groups in the risk ratio (RR) of recurrence of convulsions (RR 1.13, 95% confidence interval (CI) 0.42 to 3.05) or stillbirth (RR 1.13, 95% CI 0.66 to 1.92), and the CIs are wide. One trial compared a low dose regimen with a standard dose regimen over 24 hours (50 women). This study was too small for any reliable conclusions about the comparative effects. 
+Prevention of eclampsia: one trial compared intravenous with intramuscular maintenance regimen for 24 hours (17 women). This trial was too small for any reliable conclusions. Three trials compared short maintenance regimens postpartum with continuing for 24 hours after the birth (398 women), even taken together these trials were too small for any reliable conclusions. 
+Authors' conclusions
+Although strong evidence supports the use of magnesium sulphate for prevention and treatment of eclampsia, trials comparing alternative treatment regimens are too small for reliable conclusions. 

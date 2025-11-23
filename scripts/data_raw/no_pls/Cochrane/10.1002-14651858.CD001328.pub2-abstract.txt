@@ -1,0 +1,14 @@
+Background
+In industrialised countries sterilisation is generally performed by laparoscopy. In settings where the resources for purchase and maintenance of laparoscopic equipment are limited, minilaparotomy may still be the most common approach. The advantages and disadvantages of laparoscopic sterilisation compared to minilaparotomy have not been systematically evaluated. The ideal method would be one which is highly effective, economical, able to be performed on an outpatient basis, allowing rapid resumption of normal activity and producing a minimal or invisible scar. This review considers the methods to enter the abdominal cavity through the abdominal wall, regardless of the technique used for tubal sterilisation. 
+Objectives
+To compare laparoscopic tubal sterilisation to minilaparotomy in terms of operative morbidity and mortality. Trials comparing laparoscopy or minilaparotomy with culdoscopy were also included.  Different methods used to interrupt tubal patency and comparison of different forms of anaesthesia will be considered in different reviews. 
+Search methods
+Randomised controlled trials (RCTs) were identified by using the search strategy of the Cochrane Collaboration. Reference lists of identified trials have been searched. 
+Selection criteria
+All randomised controlled trials comparing laparoscopy, minilaparotomy and/or culdoscopy for tubal sterilisation. 
+Data collection and analysis
+Trials were evaluated for methodological quality and appropriateness for inclusion. Data were extracted independently by the reviewers. Results are reported as odds ratio for dichotomous outcomes and weighted mean differences for continuous outcomes. 
+Main results
+Six trials were included in the review.  Minilaparotomy vs laparoscopy: There was no difference in major morbidity between the 2 groups. Minor morbidity was significantly less in the laparoscopy group (Peto OR 1.89; 95% CI 1.38, 2.59). Duration of operation was shorter with laparoscopy (WMD 5.34; 95% CI 4.52, 6.16).  Minilaparotomy vs culdoscopy: Major morbidity was higher for culdoscopy compared to minilaparotomy (Peto OR 0.14; 95% CI 0.02, 0.98). Duration of operation was shorter with culdoscopy (WMD 4.91; 95% CI 3.82, 6.01).  Laparoscopy vs culdoscopy: In the one trial comparing the two interventions there was no significant difference between the groups with regard to major morbidity. Significantly more women suffered from minor morbidities with culdoscopy (Peto OR 0.20; 95% CI 0.05, 0.77). 
+Authors' conclusions
+Major morbidity seems to be a rare outcome for both, laparoscopy and minilaparotomy. Personal preference of the woman and/or of the surgeon can guide the choice of technique. Practical aspects must be taken into account before implementing endoscopic techniques in settings with limited resources. Culdoscopy is not recommended as it carries a higher complication rate. 

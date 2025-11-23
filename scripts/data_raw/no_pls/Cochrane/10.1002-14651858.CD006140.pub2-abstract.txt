@@ -1,0 +1,15 @@
+Background
+Naltrexone is an opioid antagonist which effectively blocks heroin effects. Since opioid dependence treatment with naltrexone tablets suffers from high dropout rates, several depot injections and implants are under investigation. Sustained‐release formulations are claimed to be effective, but a systematic review of the literature is lacking. 
+Objectives
+To evaluate the effectiveness of sustained‐release naltrexone for opioid dependence and its adverse effects in different study populations. 
+Search methods
+The following databases were searched from their inception to November 2007: Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE, CINAHL, LILACS, PsycINFO, ISI Web of Science, trial database at http://clinicaltrials.gov, available NIDA monographs, CPDD and AAAP conference proceedings. The reference lists of identified studies, published reviews and relevant web sides were searched manually. Study authors and drug companies were contacted to obtain any unpublished material or missing data. 
+Selection criteria
+To evaluate effectiveness only RCTs were included. To evaluate safety, any clinical trial reporting adverse effects was assessed. Treatment condition was extended to include alcohol dependent subjects and healthy volunteers. 
+Data collection and analysis
+Reviewers independently evaluated the reports, rated methodological quality and extracted data. Analyses were performed separately for opioid dependent, alcohol dependent and healthy participants. 
+Main results
+Foe effectiveness, one report met inclusion criteria. Two dosages of naltrexone depot injections (192 and 384 mg) were compared to placebo. High‐dose significantly increased days in treatment compared to placebo (WMD 21.00, 95% CI 10.68 to 31.32, p<0.0001). High‐dose compared to low‐dose significantly increased days in treatment (WMD 12.00, 95% CI 1.69 to 22.31, p=0.02). Number of patients retained in treatment did not show significant differences between groups. 
+For adverse effects, seventeen reports met inclusion criteria analyses, six were RCTs. Side effects were significantly more frequent in naltrexone depot groups compared to placebo. In alcohol dependent samples only, adverse effects appeared to be significantly more frequent in the low‐dose naltrexone depot groups compared to placebo (RR 1.18, 95% CI 1.02 to 1.36, p=0.02). In the opioid dependent sample, group differences were not statistically significant. Reports on systematic assessment of side effects and adverse events were scarce. 
+Authors' conclusions
+There is insufficient evidence to evaluate the effectiveness of sustained‐release naltrexone for treatment of opioid dependence.  For naltrexone injections, administration site‐related adverse effects appear to be frequent, but of moderate intensity and time limited. For a harm‐benefit evaluation of naltrexone implants, more data on side effects and adverse events are needed. 

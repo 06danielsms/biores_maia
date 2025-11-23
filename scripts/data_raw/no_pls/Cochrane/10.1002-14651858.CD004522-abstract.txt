@@ -1,0 +1,14 @@
+Background
+Osteoarthritis is a degenerative joint disease that affects mostly the weight‐bearing joints in the knees and hips. As the affected joint degenerates pain and restriction of movement often occur. Inflammation can also occur sometimes resulting in edema of the joint with OA. Treatment focuses on decreasing pain and improving movement. 
+Objectives
+To determine the effectiveness of thermotherapy in the treatment of OA of the knee. The outcomes of interest were relief of pain, reduction of edema, and improvement of flexion or range of motion (ROM) and function. 
+Search methods
+Two independent reviewers selected randomized and controlled clinical trials with participants with clinical and/or radiological confirmation of OA of the knee; and interventions using heat or cold therapy compared with standard treatment and/or placebo. Trials comparing head to head therapies, such as two different types of diathermy, were excluded. 
+Selection criteria
+Randomized and controlled clinical trials including participants with clinical or radiographical confirmation of OA of the knee and interventions using heat or cold compared to standard treatment or placebo were considered for inclusion. 
+Data collection and analysis
+Study results were extracted by two independent reviewers. Outcomes were continuous in nature (pain, strength, improvement) and were analyzed by weighted mean difference using a fixed effects model. Graphical data were used when table data were not available. 
+Main results
+Three randomized controlled trials, involving 179 patients, were included in this review. The included trials varied in terms of design, outcomes measured, cryotherapy or thermotherapy treatments and overall methodological quality. In one trial, administration of 20 minutes of ice massage, 5 days per week, for 3 weeks, compared to control demonstrated a clinically important benefit for knee OA on increasing quadriceps strength (29% relative difference). There was also a statistically significant improvement, but no clinical benefit in improving knee flexion ROM (8% relative difference) and functional status (11% relative difference). Another trial showed that cold packs decreased knee edema. 
+Authors' conclusions
+Ice massage compared to control had a statistically beneficial effect on ROM, function and knee strength. Cold packs decreased swelling. Hot packs had no beneficial effect on edema compared with placebo or cold application. Ice packs did not affect pain significantly, compared to control, in patients with OA. More well designed studies with a standardized protocol and adequate number of participants are needed to evaluate the effects of thermotherapy in the treatment of OA of the knee. 

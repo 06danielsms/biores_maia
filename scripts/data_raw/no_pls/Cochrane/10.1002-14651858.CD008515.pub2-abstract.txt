@@ -1,0 +1,15 @@
+Background
+Dilation of sinus ostia using a high‐pressure balloon has been introduced as a treatment for chronic rhinosinusitis (CRS) refractory to medical treatment. The efficacy of this technology, however, has not been systematically reviewed. 
+Objectives
+To assess the effectiveness of balloon sinus ostial dilation as a treatment for patients suffering with CRS refractory to medical treatment. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; CENTRAL; PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 20 December 2010. 
+Selection criteria
+Randomised controlled trials in patients of any age with rhinosinusitis lasting longer than 12 weeks who have failed a prolonged course of medical treatment. Studies compared either balloon sinus ostial dilation or a hybrid procedure (balloon dilation in conjunction with functional endoscopic sinus surgery (FESS)) versus conventional surgery (e.g. FESS) or a waiting list control. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, extracted data and assessed risk of bias. 
+Main results
+One study (34 patients) met our inclusion criteria although it was not yet a peer reviewed publication. The study randomised patients with chronic frontal sinusitis who had failed a prolonged course of medical treatment into two groups: balloon dilatation of the frontal recess (plus conventional FESS of other involved sinuses) versus conventional FESS (Draf type 1/2a procedures on the frontal sinuses). At 12 months follow up there was no statistically significant difference in radiological resolution of frontal sinuses between the two groups. The percentages of directly observed patent frontal recesses at 12 months were 75% in the balloon dilation group versus 63% in the FESS‐only group. The authors state that this was statistically significant but details of the analysis were not presented. Indeed the study as a whole suffers from a bias in the way its outcome measures were reported. 
+No major complications were reported. Three patients in the FESS‐only group required further revision frontal sinus surgery compared to one in the balloon dilation group, although synechiae were more common in the latter. 
+Authors' conclusions
+At present there is no convincing evidence supporting the use of endoscopic balloon sinus ostial dilation compared to conventional surgical modalities in the management of CRS refractory to medical treatment. With the escalating use of balloon sinuplasty, there is an urgent need for more randomised controlled trials to determine its efficacy over conventional surgical treatment modalities. 

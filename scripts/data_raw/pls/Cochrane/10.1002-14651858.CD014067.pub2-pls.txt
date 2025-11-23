@@ -1,0 +1,16 @@
+Do synbiotics prevent necrotising enterocolitis in very preterm or very low birth weight infants? 
+Background 
+Very preterm (born more than eight weeks early) and very low birth weight (less than 1.5 kg) infants are at risk of developing necrotising enterocolitis, a severe condition where some of the lining of the infant's bowel becomes inflamed, and the cells of this tissue die. This condition is associated with death, serious infection, and long‐term disability, as well as developmental problems. 
+What did we want to find out? 
+One way to help prevent necrotising enterocolitis may be to add synbiotics (combinations of probiotic bacteria or yeasts plus non‐digestible sugars to support probiotic growth and colonisation) to milk feeds. We wanted to find out whether synbiotics might benefit very preterm and very low birth weight infants. Our outcomes of interest included necrotising enterocolitis, death from any cause, serious infection, duration of hospitalisation since birth and neurodevelopmental outcomes. 
+What did we do? 
+For our Cochrane Review, we searched several important databases to identify randomized controlled trials that investigated the use of synbiotics for preventing necrotising enterocolitis in very preterm and very low birth weight infants. We used standard Cochrane methods to conduct our review and perform our analyses. We used the GRADE approach to assess the certainty of the evidence for each outcome. 
+What did we find? 
+We found six trials with a total of 925 infant participants. Trials were mostly small, and most had design flaws that might have biased their findings. 
+Main results 
+Combined analyses showed that giving synbiotics to very preterm or very low birth weight infants may reduce the risk of necrotising enterocolitis and death. Synbiotics may have little or no effect in reducing the risk of serious infection, but the evidence is very uncertain. None of the studies that we identified assessed the effect of synbiotics on disability or developmental outcomes. 
+What are the limitations of this evidence? 
+Although the evidence from randomised controlled trials can potentially be of high certainty, the methods used in our review's included trials may have introduced biases that exaggerated the benefits of giving synbiotics to very preterm and very low birth weight infants. Also, because most of the trials were small, the effect estimates for some outcomes were imprecise. For these reasons, we graded down the certainty of the evidence. All evidence in our review is of low or very low certainty. 
+There is low‐certainty evidence that synbiotics prevent necrotising enterocolitis and death from any cause. There is very low‐certainty evidence that synbiotics may have little or no effect in preventing serious infection. 
+How up to date is this evidence? 
+We conducted our database searches on 17 June 2021.

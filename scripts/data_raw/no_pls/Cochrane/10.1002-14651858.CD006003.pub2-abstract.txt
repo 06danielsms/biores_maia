@@ -1,0 +1,14 @@
+Background
+Cholecystectomy is the removal of gallbladder and is performed mainly for symptomatic gallstones. Although laparoscopic cholecystectomy is currently preferred over open cholecystectomy for elective cholecystectomy, reports of randomised clinical trials comparing the choice of cholecystectomy (open or laparoscopic) in acute cholecystitis are still being conducted. Drainage in open cholecystectomy is a matter of considerable debate. Surgeons use drains primarily to prevent subhepatic abscess or bile peritonitis from an undrained bile leak. Critics of drain condemn drain use as it increases wound and chest infection. 
+Objectives
+To assess the benefits and harms of routine abdominal drainage in uncomplicated open cholecystectomy. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until April 2006. 
+Selection criteria
+We included randomised clinical trials comparing 'no drain' versus 'drain' in patients who had undergone uncomplicated open cholecystectomy (irrespective of language, publication status, and the type of drain). Randomised clinical trials comparing one drain with another were also included. 
+Data collection and analysis
+We collected the data on the characteristics and methodological quality of each trial, number of abdominal collections requiring different treatments, bile peritonitis, wound infection, chest complications, and hospital stay from each trial. We analysed the data with both the fixed‐effect and the random‐effects models using RevMan Analysis. For each outcome, we calculated the odds ratio (OR) with 95% confidence intervals (CI) based on intention‐to‐treat analysis. 
+Main results
+Twenty eight trials involving 3659 patients were included. There were 20 comparisons of 'no drain' versus 'drain' and 12 comparisons of one drain with another. There was no statistically significant difference in mortality, bile peritonitis, total abdominal collections, abdominal collections requiring different treatments, or infected abdominal collections. 'No drain' group had statistically significant lower wound infection (OR 0.61, 95% CI 0.43 to 0.87) and statistically significant lower chest infection (OR 0.59, 95% CI 0.42 to 0.84) than drain group. We found no significant differences between different types of drains. 
+Authors' conclusions
+Drains increase the harms to the patient without providing any additional benefit for patients undergoing open cholecystectomy and should be avoided in open cholecystectomy. 

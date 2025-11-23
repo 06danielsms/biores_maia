@@ -1,0 +1,16 @@
+Background
+Many members of the public have negative attitudes towards antidepressants. Psychological interventions are more acceptable but require considerable therapist training. Acceptable psychological interventions that require less training and skill are needed to ensure increased uptake of intervention. A potential intervention of this sort is relaxation techniques. 
+Objectives
+To determine whether relaxation techniques reduce depressive symptoms and improve response/remission. 
+Search methods
+The register of trials kept by the Cochrane Collaboration Depression, Anxiety and Neurosis Group was searched up to February 2008. We also searched the reference lists of included studies. 
+Selection criteria
+Studies were included if they were randomised or quasi‐randomised controlled trials of relaxation techniques (progressive muscle relaxation, relaxation imagery, autogenic training) in participants diagnosed with depression or having a high level of depression symptoms. Self‐rated and clinician‐rated depression scores and response/remission were the primary outcomes. 
+Data collection and analysis
+Two reviewers selected the trials, assessed the quality and extracted trial and outcome data, with discrepancies resolved by consultation with a third. Trial authors were approached for missing data where possible and missing data were estimated or imputed in some cases. Continuous measures were summarised using standardised mean differences and dichotomous outcomes by risk ratios. 
+Main results
+There were 15 trials with 11 included in the meta‐analysis. Five trials showed relaxation reduced self‐reported depression compared to wait‐list, no treatment, or minimal treatment post intervention (SMD ‐0.59 (95% CI ‐0.94 to ‐0.24)). For clinician‐rated depression, two trials showed a non‐significant difference in the same direction (SMD ‐1.35 (95% CI ‐3.06 to 0.37)). 
+Nine trials showed relaxation produced less effect than psychological (mainly cognitive‐behavioural) treatment on self‐reported depression (SMD = 0.38 (95% CI 0.14 to 0.62)). Three trials showed no significant difference between relaxation and psychological treatment on clinician‐rated depression at post intervention (SMD 0.29 (95% CI ‐0.18 to 0.75)). 
+Inconsistent effects were found when comparing relaxation training to medication and there were few data available comparing relaxation with complementary and lifestyle treatments. 
+Authors' conclusions
+Relaxation techniques were more effective at reducing self‐rated depressive symptoms than no or minimal treatment. However, they were not as effective as psychological treatment. Data on clinician‐rated depressive symptoms were less conclusive. Further research is required to investigate the possibility of relaxation being used as a first‐line treatment in a stepped care approach to managing depression, especially in younger populations and populations with subthreshold or first episodes of depression. 

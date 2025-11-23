@@ -1,0 +1,16 @@
+Background
+Fatigue is a common symptom in cancer patients receiving active treatment. There are a limited number of reviews evaluating interventions for fatigue during active treatment, and they are restricted to patients with advanced cancer, or to patients during radiotherapy. To date there is no systematic review on psychosocial interventions for fatigue during cancer treatment. 
+Objectives
+To evaluate if psychosocial interventions are effective in reducing fatigue in cancer patients receiving active treatment for cancer, and which types of psychosocial interventions are the most effective. 
+Search methods
+In September 2008 we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), PUBMED, MEDLINE, EMBASE, CINAHL and PsycINFO, and checked the reference lists. 
+Selection criteria
+Randomised controlled trials (RCTs) were included which evaluated psychosocial interventions in adult cancer patients during treatment, with fatigue as an outcome measure. 
+Data collection and analysis
+Three review authors independently extracted data from the selected studies, and assessed the methodological quality using several quality rating scales and additional criteria. 
+Main results
+Twenty‐seven studies met the inclusion criteria with a total of 3324 participants, and seven studies reported significant effects of the psychosocial intervention on fatigue. In three studies the effect was maintained at follow‐up. The quality of the studies was generally moderate. Effect sizes varied between 0.17 to 1.07. 
+The effectiveness of interventions specific for fatigue was significantly higher (80%) compared to interventions not specific for fatigue (14%). In five studies the interventions were specifically focused on fatigue, with four being effective. The five interventions were brief, consisting of three individual sessions, provided by (oncology) nurses. In general, during these interventions participants were educated about fatigue, were taught in self‐care or coping techniques, and learned activity management. 
+Of the remaining 22 studies only three were effective in reducing fatigue, and these interventions had a more general approach. These interventions were aimed at psychological distress, mood and physical symptoms, and varied strongly in duration and content. 
+Authors' conclusions
+There is limited evidence that psychosocial interventions during cancer treatment are effective in reducing fatigue. At present, psychosocial interventions specifically for fatigue are a promising type of intervention. However, there is no solid evidence for the effectiveness of interventions not specific for fatigue. Most aspects of the included studies were heterogeneous, and therefore it could not be established which other types of interventions, or elements were essential in reducing fatigue. 

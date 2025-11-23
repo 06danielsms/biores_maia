@@ -1,0 +1,43 @@
+What is Advanced Breast Cancer?
+Sometimes, breast cancer can spread from the breast to other parts of the body, most often to the bones, lungs, liver, or brain. This is called advanced breast cancer. Advanced breast cancer cannot be treated by surgery or radiation therapy with the intention to cure the cancer, but to slow down the development of the cancer and help the patient live longer. The participants in this study had estrogen receptor-positive [ER(+)] breast cancer, human epidermal growth factor receptor 2 negative [HER2(-)] advanced breast cancer. The cells of ER(+) breast cancer have receptors that allow them to use the hormone estrogen to grow and HER2(-) means that the participants have a normal amount of HER2 proteins in the breast cells (too much of this protein means that there is another type of cancer present). This type [ER(+), HER2(-)] of advanced breast cancer is sensitive to hormonal treatment.
+What is Palbociclib?
+Palbociclib is a medicine that has been used to treat a specific type of breast cancer known as hormone receptor positive [HR(+)] and HER2(-). A hormone receptor is a receptor molecule that binds to a specific hormone. A breast cancer is classified as HR(+) if its cells have receptors for the hormones; estrogen and progesterone. Palbociclib targets the functioning of specific proteins or enzymes called cyclin-dependent kinases (CDK4 and CDK6). These enzymes are important for normal cell division and when they are damaged, they may cause cancer cells to grow and spread. Certain cancers, for example, ER(+), are more likely to have disturbances in CDK4 and CDK6. Palbociclib prevents the CDK4 and CDK6 enzymes from functioning which stops the cells from dividing and stops the growth of breast cancer cells.
+What was the purpose of this study?
+The purpose of this research study was to compare the effect of the study drug, palbociclib, plus letrozole, with placebo plus letrozole to find out which is better for treating advanced breast cancer in Asian women who have not received any previous systemic treatment and have already experienced menopause (stopping of menstrual periods permanently).
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+- Palbociclib is an approved medicine.
+- Systemic treatment is any medication that travels through your body in the bloodstream to find, damage, or destroy cancer cells. It includes chemotherapy, immunotherapy, hormone therapy, or targeted therapy.
+- A placebo looks like the medicine under study but does not contain any medicine. Researchers use a placebo to see if the study medicine works better or is safer than not taking it.
+- Letrozole is a hormonal medicine that is approved for the treatment of advanced breast cancer that is sensitive to hormonal treatment. Letrozole is available outside of this research study by a doctor's prescription.
+Researchers wanted to know:
+Did the participants taking palbociclib plus letrozole have a better progression-free survival (PFS) than participants that were taking placebo plus letrozole?
+- Researchers wanted to determine the PFS of participants taking palbociclib plus letrozole and compare it to the PFS of participants taking placebo plus letrozole.
+- The PFS is the length of time during and after receiving a treatment for a disease, during which a patient lives with the disease not getting worse.
+How participants tolerated palbociclib and whether it caused any medical problems?
+- Researchers also wanted to learn more about the safety and tolerability of palbociclib.
+- They monitored the participants for any medical problems that happened while they were in the study.
+090177e1978c0819\Approved\Approved On: 19-Jul-2021 02:52 (GMT)
+How was the study done?
+Researchers tested palbociclib (test medicine) combined with letrozole on a group of study participants with advanced breast cancer to find out if it provided a longer PFS than study participants with advanced breast cancer taking a placebo plus letrozole. A description of how the study was done can be seen in Figure 1 below.  
+Figure 1. A description of how the study was done.  
+After the last dose of palbociclib treatment, study participants were contacted by the study team every 6 months to ask about:  
+- Any changes in the health of the participant  
+- Any medications the participant was taking  
+Study participants were assigned to each group by chance alone. Neither the study participants nor the researchers knew who took palbociclib and who took the placebo. This is known as a “blinded” study.  
+Where did this study take place?  
+The Sponsor ran this study at 52 locations across Mainland China, Hong Kong, Taiwan, Thailand, and Singapore.  
+When did this study take place?  
+It began 23 March 2015, and the primary completion date was 31 August 2020. Primary completion date corresponds to the date when the last participant was examined or received treatment and that results for the main outcome were collected.  This study is ongoing.  
+Who participated in this study?  
+The study included participants with advanced breast cancer, who were between the ages of 18 and 70 years, had already experienced menopause, and had not received any systemic treatment for their advanced disease.  
+- A total of 340 women participated and 339 women were treated in this study  
+- All participants were between the ages of 29 and 70 years  
+Participants were to be treated until disease progression, death, or inability to tolerate the treatment, or withdrawal of consent, whichever occurred first.  PFS was determined based on the disease progression or death of the study participants.  Of the 340 participants who started the study, 138 are still participating in the study.  
+Two hundred and ninety participants discontinued the study treatment because:  
+- The participant died  
+- The participant was lost to follow-up  
+- The participant’s cancer got worse  
+- The participant experienced medical problems  
+- The participants left by their choice or a doctor decided it was best for a participant to stop being in the study  
+How long did the study last?  
+The entire study took 5 years to the primary completion date, the study is still ongoing. However, when the primary completion point was reached in August 2020, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

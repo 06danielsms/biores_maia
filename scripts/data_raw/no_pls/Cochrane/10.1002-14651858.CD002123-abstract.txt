@@ -1,0 +1,14 @@
+Background
+Medical therapy for dysmenorrhoea (painful menstrual cramps of the uterus) such as non‐steroidal anti‐inflammatory drugs or the oral contraceptive pill work by reducing myometrial (uterine muscle) activity. Transcutaneous electrical nerve stimulation (TENS) is a non‐pharmacological intervention shown to be effective for pain relief in a variety of conditions. TENS may be able to alter the body's ability to receive and perceive pain signals rather than having a direct effect on uterine contractions. 
+Objectives
+To determine the effectiveness of high and low‐frequency TENS when compared to placebo, no treatment, or medical treatment for primary dysmenorrhoea. 
+Search methods
+Electronic searches of the Cochrane Menstrual Disorders and Subfertility Group Register of controlled trials, The Cochrane Library (Issue 1, 2009), MEDLINE, EMBASE, CINAHL, and AMED were performed (updated April 2009) to identify relevant randomised controlled trials. The Cochrane Complementary Medicine Field Register of controlled trials (CISCOM) was also searched. Attempts were also made to identify trials from the UK National Research Register, the Clinical Trial Register, and the citation lists of review articles and included trials. 
+Selection criteria
+The inclusion criteria were: randomised controlled trials (RCTs) of TENS compared to placebo, no treatment, or medical treatment for primary dysmenorrhoea. Exclusion criteria were: mild, infrequent, or secondary dysmenorrhoea and dysmenorrhoea associated with an intrauterine device (IUD). 
+Data collection and analysis
+Seven RCTs were identified that fulfilled the inclusion criteria for this review. No new studies were identified in the update. Quality assessment and data extraction were performed independently by two review authors. Data unsuitable for meta‐analysis were reported as descriptive data and were included for discussion. The outcome measures were pain relief (dichotomous, visual analogue scale, descriptive), adverse effects, use of analgesics additional to treatment, and absence from work or school. 
+Main results
+Overall, high‐frequency TENS was shown to be more effective for pain relief than placebo TENS (OR 7.2, 95% CI 3.1 to 16.5). Low‐frequency TENS was found to be no more effective in reducing pain than placebo TENS (OR 1.48, 95% CI 0.43 to 5.08). There were conflicting results regarding whether high‐frequency TENS was more effective than low‐frequency TENS. 
+Authors' conclusions
+High‐frequency TENS was found to be effective for the treatment of dysmenorrhoea by a number of small trials. The minor adverse effects reported in one trial require further investigation. There is insufficient evidence to determine the effectiveness of low‐frequency TENS in reducing dysmenorrhoea. 

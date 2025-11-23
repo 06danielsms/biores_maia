@@ -1,0 +1,15 @@
+Background
+Mild cognitive impairment (MCI) has been proposed as a condition of intermediate symptomatology between the cognitive changes of ageing and fully developed symptoms of dementia. Treatment in the stages of MCI may delay the deterioration of cognitive impairment and delay the progression to dementia. Currently, the treatments for Alzheimer's disease have been focused on increasing acetylcholine levels in the brain. However, these drugs have not been proven to be effective for MCI and have numerous side effects. Huperzine A may have some beneficial effects in MCI. 
+Objectives
+To assess the clinical efficacy and safety of huperzine A for the treatment of patients with MCI. 
+Search methods
+We searched ALOIS: the Cochrane Dementia and Cognitive Improvement Group's Specialized Register on 23 May 2011 using the terms: huperzine, ayapin, scoparon. ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases, numerous trial registries and grey literature sources. Additional searches were also performed separately in MEDLINE, EMBASE, PsycINFO, LILACS, clinicalTrials.gov, the ICTRP (WHO portal), CENTRAL (The Cochrane Library) and Web of Science with Conference Proceedings. 
+The following Chinese databases were searched: The Chinese Biomedical Database, VIP Chinese Science and Technique Journals Database, China National Knowledge Infrastructure and The Chinese Clinical Trials Register. In addition, we handsearched 20 Chinese traditional medicine journals from between 1970 and 1989. 
+Selection criteria
+Randomised, parallel‐group, placebo‐controlled trials comparing huperzine A with placebo in patients with MCI were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently assessed studies for their eligibility for inclusion.
+Main results
+No eligible trials were identified. In the absence of any suitable randomised placebo‐controlled trials in this area, we were unable to perform a meta‐analysis. 
+Authors' conclusions
+The currently available evidence is insufficient to assess the potential for huperzine A in the treatment of MCI. Randomised double‐blind placebo‐controlled trials are needed. 

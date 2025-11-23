@@ -1,0 +1,17 @@
+Background
+People with neuromuscular disorders may have a weak, ineffective cough predisposing them to respiratory complications. Cough augmentation techniques aim to improve cough effectiveness and mucous clearance, reduce the frequency and duration of respiratory infections requiring hospital admission, and improve quality of life. 
+Objectives
+To determine the efficacy and safety of cough augmentation techniques in adults and children with chronic neuromuscular disorders. 
+Search methods
+On 13 April 2020, we searched the Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, CINAHL, and ClinicalTrials.gov for randomised controlled trials (RCTs), quasi‐RCTs, and randomised cross‐over trials. 
+Selection criteria
+We included trials of cough augmentation techniques compared to no treatment, alternative techniques, or combinations thereof, in adults and children with chronic neuromuscular disorders. 
+Data collection and analysis
+Two review authors independently assessed trial eligibility, extracted data, and assessed risk of bias. The primary outcomes were the number and duration of unscheduled hospitalisations for acute respiratory exacerbations. We assessed the certainty of evidence using GRADE. 
+Main results
+The review included 11 studies involving 287 adults and children, aged three to 73 years. Inadequately reported cross‐over studies and the limited additional information provided by authors severely restricted the number of analyses that could be performed. 
+Studies compared manually assisted cough, mechanical insufflation, manual and mechanical breathstacking, mechanical insufflation‐exsufflation, glossopharyngeal breathing, and combination techniques to unassisted cough and alternative or sham interventions. None of the included studies reported on the primary outcomes of this review (number and duration of unscheduled hospital admissions) or listed 'adverse events' as primary or secondary outcome measures. 
+The evidence suggests that a range of cough augmentation techniques may increase peak cough flow compared to unassisted cough (199 participants, 8 RCTs), but the evidence is very uncertain. There may be little to no difference in peak cough flow outcomes between alternative cough augmentation techniques (216 participants, 9 RCTs). 
+There was insufficient evidence to determine the effect of interventions on measures of gaseous exchange, pulmonary function, quality of life, general function, or participant preference and satisfaction. 
+Authors' conclusions
+We are very uncertain about the safety and efficacy of cough augmentation techniques in adults and children with chronic neuromuscular disorders and further studies are needed. 

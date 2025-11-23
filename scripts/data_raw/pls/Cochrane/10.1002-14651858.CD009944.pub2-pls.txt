@@ -1,0 +1,11 @@
+Ultrasound for determining the spread of stomach cancer
+Review question 
+There is much debate on the diagnostic performance of endoscopic ultrasound (EUS) in the preoperative staging of gastric cancer. The aim of this review was to collect the available evidence and then to calculate how well EUS stages stomach cancer. 
+Background 
+EUS is a diagnostic test that can be used to determine how far (stage) cancer of the stomach reaches prior to surgery. It consists of an endoscope coupled with an ultrasound device capable of scanning the stomach wall, which shows the different layers of the stomach. Changes from the normal ultrasonographic patterns due to the tumor growth can be used to determine the extent of cancer in the stomach wall (T‐stage) and the lymph nodes related to the stomach (N‐stage). Since the correct staging of the tumor enables physicians to personalize cancer treatment, it is important to understand the reliability of staging devices. 
+Study characteristics 
+We conducted a meta‐analysis according to the most recent methods for diagnostic tests. The last literature search was performed in January 2015. We included 66 studies (of 7747 patients) in the review. 
+Key results 
+We found that EUS can distinguish between superficial (T1 ‐ T2) and advanced (T3 ‐ T4) primary tumors with a sensitivity and a specificity greater than 85%. This performance is maintained for the discrimination between T1 and T2 superficial tumors. However, EUS diagnostic accuracy is lower when it comes to distinguishing between the different types of early tumors (T1a versus T1b) and between tumors with versus those without lymph node disease. 
+Quality of the evidence 
+Overall, EUS provides physicians with some helpful information on the stage of gastric cancer. Nevertheless, in the light of the variability of the results reported in the international medical literature, its limitations in terms of performance must be kept in mind in order to make the most out of the diagnostic potential of this tool. Finally, more work is needed to assess whether some technical improvements and the combination with other staging instruments may increase our ability to correctly stage the disease and thus optimize patient treatment. 

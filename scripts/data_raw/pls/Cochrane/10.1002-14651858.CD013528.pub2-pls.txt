@@ -1,0 +1,14 @@
+Is magnetic seizure therapy an effective add‐on treatment for people with treatment‐resistant depression? 
+Review question 
+Whether magnetic seizure therapy (MST) is effective and acceptable to treat treatment‐resistant depression (TRD). 
+Why this is important 
+More than 30% of patients with depression respond poorly to medicine and psychotherapy. We recognise those people as patients with TRD. They suffer from much higher rates of disability and economic burden compared with non‐TRD patients. 
+Electroconvulsive therapy (ECT) is an important treatment for people with TRD. Nevertheless, ECT is often associated with cognitive adverse effects, such as memory loss. Magnetic seizure therapy (MST) is a potential alternative to ECT with fewer cognitive adverse effects. Therefore, it is important to know how well MST works for treating people with TRD. 
+What we did 
+In March 2020, we searched randomised controlled trials (RCTs) for studies of MST for treatment‐resistant depression. Participants received different treatments at random. This study design provides the most reliable evidence. 
+Outcomes included how well treatments worked (improvement in symptom severity, quality of life, and social functioning, as well as in numbers of participants conducting suicides, making suicide attempts, or inflicting self‐harm) and whether participants experienced adverse effects (cognitive function, number of dropouts, and number of adverse events). 
+What we found 
+We included three studies involving 65 participants. These studies compared MST and ECT with up to 12 treatment sessions in six weeks. Existing evidence did not reveal differences in effectiveness or tolerance between MST and ECT. 
+However, we are not sure how reliable study results are. All findings are based on only a few studies with a small number of participants. Participants knew which treatment they received. Studies were conducted in a different way from their protocols. Some key information was not reported, such as how participants were allocated to different treatments and whether there were participant dropouts from these studies. All studies were conducted by a single research team in Germany and were funded in part by the manufacturer of an MST device. 
+Conclusions 
+Evidence regarding effects of MST on patients with TRD is currently insufficient. Our analyses of available data did not reveal clearly different effects between MST and ECT. Our certainty in the evidence is very low. Large, long, well‐designed, well‐reported trials are needed to further examine the effects of MST. 

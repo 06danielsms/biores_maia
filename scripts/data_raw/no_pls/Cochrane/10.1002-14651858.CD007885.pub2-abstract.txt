@@ -1,0 +1,15 @@
+Background
+Antibodies to the red cell Rhesus D (RhD) antigen can be produced during pregnancy in a RhD‐negative mother carrying a RhD‐positive fetus, in particular following feto‐maternal haemorrhage at birth or following any procedure that may cause feto‐maternal haemorrhage. While the first baby is usually not harmed, these antibodies may cause haemolytic disease of the fetus/newborn (HDFN) in subsequent RhD‐positive babies. RhD incompatibility is a major cause of HDFN. 
+To reduce the risk of HDFN, anti‐D is given to RhD‐negative mothers at 28 or 30 weeks of pregnancy and within 72 hours of potential maternal exposure to fetal red cells. Anit‐D is currently available in both intramuscular (IM) and intravenous (IV) preparations. 
+Objectives
+To compare the efficacy and effectiveness of IM versus IV anti‐D IgG in preventing RhD alloimmunization in RhD‐negative pregnant women. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2012). 
+Selection criteria
+Randomized controlled trials, quasi‐randomized trials and cluster‐randomized trials comparing IM and IV anti‐D for preventing RhD alloimmunization in RhD‐negative pregnant women. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and assessed trial quality. Two review authors extracted data. Data were checked for consistency by both authors. 
+Main results
+Two studies involving 447 (with sample sizes 14 and 432) RhD negative women were included. The studies compared IM and IV administration of anti‐D prophylaxis. In both studies the women received a 1500 IU (300 microgram) dose of Rhophylac during week 28 of gestation. There was no incidence of RhD alloimmunization in either of the studies, as the sample size was insufficient for meaningful comparison of this uncommon outcome. One of the studies found that the mean anti‐D IgG concentrations after IV and IM administration differed up to seven days (36.1 (2.6) ng/mL IV; 19.8 (8.7) ng/mL IM on day seven). However, from two to three weeks post‐administration, the concentrations were similar for both routes of administration. None of the women involved in the studies developed antibodies against the RhD antigen. 
+Authors' conclusions
+It appears that IM and IV administration of anti‐D are equally effective. The number of included studies and the number of participants are not enough to assess whether there are any differences. Anti‐D can be administered by IM or IV injection. The choice of IM or IV route of administration will depend on the available preparations, the dose to be administered and also on the patients' preferences. This review found insufficient information upon which to guide practice due to the limited number of included studies, small sample sizes and methodological limitations. 

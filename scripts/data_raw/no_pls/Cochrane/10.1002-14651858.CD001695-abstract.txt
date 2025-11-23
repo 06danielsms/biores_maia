@@ -1,0 +1,15 @@
+Background
+Congenital diaphragmatic hernia, although rare (1 per 2‐4,000 births), is associated with high mortality and cost. Opinion regarding the timing of surgical repair has gradually shifted from emergent repair to a policy of stabilization using a variety of ventilatory strategies prior to operation. Whether delayed surgery is beneficial remains controversial. 
+Objectives
+To summarize the available data regarding whether surgical repair in the first 24 hours after birth rather than later than 24 hours of age improves survival to hospital discharge in infants with congenital diaphragmatic hernia who are symptomatic at or immediately after birth. 
+Search methods
+Search of MEDLINE (1966 to Sept 2003), EMBASE (1978 to Oct 2003) and the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 3, 2003); citations search, and contact with experts in the field to locate other published and unpublished studies. 
+This search was updated in 2009. 
+Selection criteria
+Studies were eligible for inclusion if they were randomized or quasi‐randomized trials that addressed infants with CDH who were symptomatic at or shortly after birth, comparing early (< 24 hours) vs late (> 24 hours) surgical intervention, and evaluated mortality as the primary outcome. 
+Data collection and analysis
+Data were collected regarding study methods and outcomes including mortality, need for ECMO and duration of ventilation, both from the study reports and from personal communication with investigators. Analysis was performed in accordance with the standards of the Cochrane Neonatal Review Group. 
+Main results
+Two trials met the pre‐specified inclusion criteria for this review. Both were small trials (total n<90) and neither showed any significant difference between groups in mortality. Meta‐analysis was not performed because of significant clinical heterogeneity between the trials. 
+Authors' conclusions
+There is no clear evidence which favors delayed (when stabilized) as compared with immediate (within 24 hours of birth) timing of surgical repair of congenital diaphragmatic hernia, but a substantial advantage to either one cannot be ruled out. A large, multicenter randomized trial would be needed to answer this question. 

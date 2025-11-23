@@ -1,0 +1,14 @@
+Background
+People with eosinophilic esophagitis (EE) have clinical symptoms of esophageal disease, an elevated intraepithelial eosinophil count (15 in one or more high power field at endoscopy), consistent endoscopic findings and failure to respond to gastric acid suppressants. The cause of EE is unknown, however dietary, environmental and immunological factors may contribute. Current medical therapies include steroids, dietary manipulation, mast cell inhibitors, leukotriene receptor antagonists and immune modulators; however there is no universal approach to treatment. 
+Objectives
+To evaluate the benefits and harms of medical interventions for EE.
+Search methods
+We searched the Cochrane Upper Gastrointestinal and Pancreatic Diseases Group trials register (The Cochrane Library Issue 1, 2009), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2009), MEDLINE (1966 to February 2009) and EMBASE (1980 to February 2009). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing a medical or dietary intervention for EE with a placebo or with another medical intervention. 
+Data collection and analysis
+Two reviewers independently screened the titles of abstracts.
+Main results
+Three RCTs fulfilled inclusion criteria, two in children and one in adults. In one trial, topical fluticasone decreased vomiting more than placebo (67% versus (vs) 27%, P<0.05) but did not improve dysphagia. Histological remission was reported in fluticasone group compared with placebo group (50% vs 9%, P=0.05; RR 5.5, 95%CI 0.81 to 37.49). One recipient of fluticasone developed oral candidiasis. In trial comparing fluticasone with oral prednisone, symptom resolution and improvement of esophagitis were similar. Majority of participants were symptom free at four weeks with no difference between groups (RR 1.03, 95%CI 0.95 to 1.11). Symptom relapse usually occurred within six weeks of stopping therapy and 45% had symptom relapse at six month follow‐up with no difference between groups. With prednisone, 40% suffered adverse effects and three withdrew early from treatment with severe adverse effects (hyperphagia, weight gain, cushingoid features). With fluticasone, 15% developed esophageal candidiasis and 45% had relapse in symptoms at week 24. Histological improvement occurred in majority at four weeks with no difference between groups. In the third trial comparing mepolizumab to placebo, there was no difference in symptom response with mepolizumab compared to placebo, but decrease in esophageal eosinophil count was greater with mepolizumab than placebo (67% vs 25%). 
+Authors' conclusions
+As only three relevant RCTs were identified, we have limited capacity to compare the benefits and harms of medical interventions currently used for treating EE. Further RCTs on therapies for EE are required. 

@@ -1,0 +1,15 @@
+Automated telephone communication systems for preventing disease and managing long‐term conditions 
+Background 
+Automated telephone communication systems (ATCS) send voice messages and collect health information from people using their telephone's touch‐tone keypad or voice recognition software. This could replace or supplement telephone contact between health professionals and patients. There are several types of ATCS: one‐way voice messages to patients (unidirectional), interactive voice response (IVR) systems, those with added functions like referral to advice (ATCS Plus), or those where ATCS are part of a complex intervention (multimodal). 
+Review question 
+This review assessed the effectiveness of ATCS for preventing disease and managing long‐term conditions. 
+Results 
+We found 132 trials with over 4 million participants across preventive healthcare areas and for the management of long‐term conditions. 
+Studies compared ATCS types in many ways.
+Some studies reported findings across diseases. For prevention, ATCS probably increase immunisation uptake in children, and slightly in adolescents, but in adults effects are uncertain. Also for prevention, multimodal ATCS increase numbers of people screened for breast or colorectal cancers, and may increase osteoporosis screening. ATCS Plus probably slightly increases attendance for cervical cancer screening, with uncertain effects on osteoporosis screening. IVR probably increases the numbers screened for colorectal cancer up to six months, with little effect on breast cancer screening. 
+ATCS (unidirectional or IVR) may improve appointment attendance, key to both preventing and managing disease. 
+For long‐term management, multimodal ATCS had inconsistent effects on medication adherence. ATCS Plus probably improves medication adherence versus usual care. Compared with control, ATCS Plus and IVR probably slightly improve adherence, while unidirectional ATCS may have little, or slightly positive, effects. No intervention consistently improved clinical outcomes. IVR probably improves test adherence, but ATCS Plus may have little effect. 
+ATCS were also used in specific conditions. Effects varied by condition and ATCS type. Multimodal ATCS, but not other ATCS types, probably decrease cancer pain and chronic pain. Outcomes may improve to a small degree when ATCS are applied to physical activity, weight management, alcohol use and diabetes.However, there is little or no effect in heart failure, hypertension, mental health or quitting smoking. In several areas (alcohol/substance misuse, addiction, asthma, chronic obstructive pulmonary disease, HIV/AIDS, high cholesterol, obstructive sleep apnoea, spinal cord dysfunction, carers' psychological stress), there is not enough evidence to tell what effects ATCS have. 
+Only four trials reported adverse events. Our certainty in the evidence varied (high to very low), and was often lowered because of study limitations, meaning that further research may change some findings. 
+Conclusion 
+ATCS may be promising for changing certain health behaviours, improving health outcomes and increasing healthcare uptake. 

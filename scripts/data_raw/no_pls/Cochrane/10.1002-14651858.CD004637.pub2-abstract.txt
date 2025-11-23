@@ -1,0 +1,35 @@
+Background
+Elective hysterectomy is commonly performed for benign gynaecological conditions. Hysterectomy can be performed abdominally, laparoscopically, or vaginally, with or without laparoscopic assistance. Antibiotic prophylaxis consists of administration of antibiotics to reduce the rate of postoperative infection, which otherwise affects 40%‐50% of women after vaginal hysterectomy, and more than 20% after abdominal hysterectomy. No Cochrane review has systematically assessed evidence on this topic. 
+Objectives
+To determine the effectiveness and safety of antibiotic prophylaxis in women undergoing elective hysterectomy. 
+Search methods
+We searched electronic databases to November 2016 (including the Cochrane Gynaecology and Fertility Group Specialised Register, the Cochrane Central Register of Studies (CRSO), MEDLINE, Embase, PsycINFO, and the Cumulative Index to Nursing and Allied Health Literature (CINAHL), as well as clinical trials registers, conference abstracts, and reference lists of relevant articles. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing use of antibiotics versus placebo or other antibiotics as prophylaxis in women undergoing elective hysterectomy. 
+Data collection and analysis
+We used Cochrane standard methodological procedures.
+Main results
+We included in this review 37 RCTs, which performed 20 comparisons of various antibiotics versus placebo and versus one another (6079 women). The quality of the evidence ranged from very low to moderate. The main limitations of study findings were risk of bias due to poor reporting of methods, imprecision due to small samples and low event rates, and inadequate reporting of adverse effects. 
+Any antibiotic versus placebo 
+Vaginal hysterectomy 
+Low‐quality evidence shows that women who received antibiotic prophylaxis had fewer total postoperative infections (risk ratio (RR) 0.28, 95% confidence interval (CI) 0.19 to 0.40; four RCTs, N = 293; I2 = 85%), less urinary tract infection (UTI) (RR 0.58, 95% CI 0.43 to 0.77; eight RCTs, N = 1473; I2 = 44%), fewer pelvic infections (RR 0.28, 95% CI 0.20 to 0.39; 11 RCTs, N = 1693; I2 = 57%), and fewer postoperative fevers (RR 0.43, 95% CI 0.34 to 0.54; nine RCTs, N = 1562; I2 = 47%) than women who did not receive such prophylaxis. This suggests that antibiotic prophylaxis reduces the average risk of postoperative infection from about 34% to 7% to 14%. Whether this treatment has led to differences in rates of other serious infection remains unclear (RR 0.20, 95% CI 0.01 to 4.10; one RCT, N = 146; very low‐quality evidence). 
+Data were insufficient for comparison of adverse effects.
+Abdominal hysterectomy 
+Women who received antibiotic prophylaxis of any class had fewer total postoperative infections (RR 0.38, 95% CI 0.21 to 0.67; one RCT, N = 158; low‐quality evidence), abdominal wound infections (RR 0.51, 95% CI 0.36 to 0.73; 11 RCTs, N = 2247; I2 = 6%; moderate‐quality evidence), UTIs (RR 0.41, 95% CI 0.31 to 0.53; 11 RCTs, N = 2705; I2 = 28%; moderate‐quality evidence), pelvic infections (RR 0.50, 95% CI 0.35 to 0.71; 11 RCTs, N = 1883; I2 = 11%; moderate‐quality evidence), and postoperative fevers (RR 0.59, 95% CI 0.50 to 0.70; 11 RCTs, N = 2394; I2 = 55%; moderate‐quality evidence) than women who did not receive prophylaxis, suggesting that antibiotic prophylaxis reduces the average risk of postoperative infection from about 16% to 1% to 6%. Whether this treatment has led to differences in rates of other serious infection remains unclear (RR 0.44, 95% CI 0.12 to 1.69; two RCTs, N = 476; I2 = 29%; very low‐quality evidence). 
+It is unclear whether rates of adverse effects differed between groups (RR 1.80, 95% CI 0.62 to 5.18; two RCTs, N = 430; I2 = 0%; very low‐quality evidence). 
+Head‐to‐head comparisons between antibiotics 
+Vaginal hysterectomy 
+We identified four comparisons: cephalosporin versus penicillin (two RCTs, N = 470), cephalosporin versus tetracycline (one RCT, N = 51), antiprotozoal versus lincosamide (one RCT, N = 80), and cephalosporin versus antiprotozoal (one RCT, N = 78). Data show no evidence of differences between groups for any of the primary outcomes, except that fewer cases of total postoperative infection and postoperative fever were reported in women who received cephalosporin than in those who received antiprotozoal. 
+Only one comparison (cephalosporin vs penicillin; two RCTs, N = 451) yielded data on adverse effects and showed no differences between groups. 
+Abdominal hysterectomy 
+We identified only one comparison: cephalosporin versus penicillin (N = 220). Data show no evidence of differences between groups for any of the primary outcomes. Adverse effects were not reported. 
+Combined antibiotics versus single antibiotics 
+Vaginal hysterectomy 
+We identified three comparisons: cephalosporin plus antiprotozoal versus cephalosporin (one RCT, N = 78), cephalosporin plus antiprotozoal versus antiprotozoal (one RCT, N = 78), and penicillin plus antiprotozoal versus penicillin (one RCT, N = 18). Data were unavailable for most outcomes, including adverse effects. We found no evidence of differences between groups, except that fewer women receiving cephalosporin with antiprotozoal received a diagnosis of total postoperative infection, UTI, or postoperative fever compared with women receiving antiprotozoal. 
+Abdominal hysterectomy 
+We identified one comparison (penicillin plus antiprotozoal vs penicillin only; two RCT, N = 155). Whether differences between groups occurred was unclear. Adverse effects were not reported. 
+Comparison of cephalosporins in different regimens 
+Single small trials addressed dose comparisons and provided no data for most outcomes, including adverse effects. Whether differences between groups occurred was unclear. No trials compared route of administration. 
+The quality of evidence for all head‐to‐head and dose comparisons was very low owing to very serious imprecision and serious risk of bias related to poor reporting of methods. 
+Authors' conclusions
+Antibiotic prophylaxis appears to be effective in preventing postoperative infection in women undergoing elective vaginal or abdominal hysterectomy, regardless of the dose regimen. However, evidence is insufficient to show whether use of prophylactic antibiotics influences rates of adverse effects. Similarly, evidence is insufficient to show which (if any) individual antibiotic, dose regimen, or route of administration is safest and most effective. The most recent studies included in this review were 14 years old at the time of our search. Thus findings from included studies may not reflect current practice in perioperative and postoperative care and may not show locoregional antimicrobial resistance patterns. 

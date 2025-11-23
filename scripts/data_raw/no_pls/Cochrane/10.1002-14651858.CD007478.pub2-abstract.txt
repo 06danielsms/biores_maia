@@ -1,0 +1,26 @@
+Background
+Lupus erythematosus is an autoimmune disease with significant morbidity and mortality. Cutaneous disease in systemic lupus erythematosus (SLE) is common. Many interventions are used to treat SLE with varying efficacy, risks, and benefits. 
+Objectives
+To assess the effects of interventions for cutaneous disease in SLE.
+Search methods
+We searched the following databases up to June 2019: the Cochrane Skin Specialised Register, CENTRAL, MEDLINE, Embase, Wiley Interscience Online Library, and Biblioteca Virtual em Saude (Virtual Health Library). We updated our search in September 2020, but these results have not yet been fully incorporated. 
+Selection criteria
+We included randomised controlled trials (RCTs) of interventions for cutaneous disease in SLE compared with placebo, another intervention, no treatment, or different doses of the same intervention. We did not evaluate trials of cutaneous lupus in people without a diagnosis of SLE. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane. Primary outcomes were complete and partial clinical response. Secondary outcomes included reduction (or change) in number of clinical flares; and severe and minor adverse events. We used GRADE to assess the quality of evidence. 
+Main results
+Sixty‐one RCTs, involving 11,232 participants, reported 43 different interventions. Trials predominantly included women from outpatient clinics; the mean age range of participants was 20 to 40 years. Twenty‐five studies reported baseline severity, and 22 studies included participants with moderate to severe cutaneous lupus erythematosus (CLE); duration of CLE was not well reported. Studies were conducted mainly in multi‐centre settings. Most often treatment duration was 12 months. Risk of bias was highest for the domain of reporting bias, followed by performance/detection bias. We identified too few studies for meta‐analysis for most comparisons. We limited this abstract to main comparisons (all administered orally) and outcomes. We did not identify clinical trials of other commonly used treatments, such as topical corticosteroids, that reported complete or partial clinical response or numbers of clinical flares. 
+Complete clinical response 
+Studies comparing oral hydroxychloroquine against placebo did not report complete clinical response. 
+Chloroquine may increase complete clinical response at 12 months' follow‐up compared with placebo (absence of skin lesions) (risk ratio (RR) 1.57, 95% confidence interval (CI) 0.95 to 2.61; 1 study, 24 participants; low‐quality evidence). 
+There may be little to no difference between methotrexate and chloroquine in complete clinical response (skin rash resolution) at 6 months' follow‐up (RR 1.13, 95% CI 0.84 to 1.50; 1 study, 25 participants; low‐quality evidence). 
+Methotrexate may be superior to placebo with regard to complete clinical response (absence of malar/discoid rash) at 6 months' follow‐up (RR 3.57, 95% CI 1.63 to 7.84; 1 study, 41 participants; low‐quality evidence). 
+At 12 months' follow‐up, there may be little to no difference between azathioprine and ciclosporin in complete clinical response (malar rash resolution) (RR 0.83, 95% CI 0.46 to 1.52; 1 study, 89 participants; low‐quality evidence). 
+Partial clinical response 
+Partial clinical response was reported for only one key comparison: hydroxychloroquine may increase partial clinical response at 12 months compared to placebo, but the 95% CI indicates that hydroxychloroquine may make no difference or may decrease response (RR 7.00, 95% CI 0.41 to 120.16; 20 pregnant participants, 1 trial; low‐quality evidence). 
+Clinical flares 
+Clinical flares were reported for only two key comparisons: hydroxychloroquine is probably superior to placebo at 6 months' follow‐up for reducing clinical flares (RR 0.49, 95% CI 0.28 to 0.89; 1 study, 47 participants; moderate‐quality evidence). At 12 months' follow‐up, there may be no difference between methotrexate and placebo, but the 95% CI indicates there may be more or fewer flares with methotrexate (RR 0.77, 95% CI 0.32 to 1.83; 1 study, 86 participants; moderate‐quality evidence). 
+Adverse events 
+Data for adverse events were limited and were inconsistently reported, but hydroxychloroquine, chloroquine, and methotrexate have well‐documented adverse effects including gastrointestinal symptoms, liver problems, and retinopathy for hydroxychloroquine and chloroquine and teratogenicity during pregnancy for methotrexate. 
+Authors' conclusions
+Evidence supports the commonly‐used treatment hydroxychloroquine, and there is also evidence supporting chloroquine and methotrexate for treating cutaneous disease in SLE. Evidence is limited due to the small number of studies reporting key outcomes. Evidence for most key outcomes was low or moderate quality, meaning findings should be interpreted with caution. Head‐to‐head intervention trials designed to detect differences in efficacy between treatments for specific CLE subtypes are needed. Thirteen further trials are awaiting classification and have not yet been incorporated in this review; they may alter the review conclusions. 

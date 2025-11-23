@@ -1,0 +1,14 @@
+Background
+Syphilis is a complex systemic disease caused by a spirochete, Treponema pallidum. The World Health Organization estimates that at least 12 million people worldwide are currently infected with syphilis. In this review we compared two current standards of treatment for early syphilis, benzathine benzylpenicillin (penicillin G) and azithromycin. 
+Objectives
+To evaluate the efficacy and safety of azithromycin versus benzathine penicillin (penicillin G) for early syphilis. 
+Search methods
+We searched the following databases using the search terms detailed in Appendix 1: the Cochrane Sexually Transmitted Diseases Group Specialized Register (July 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) published in The Cochrane Library (Issue 7 2011), MEDLINE (1948 to July 2011), EMBASE (1980 to July 2011), PsycINFO (1806 to July 2011) and the Chinese Biological Medicine Literature Database (CBM) (1978 to 2011). The search was not limited by language. 
+Selection criteria
+Randomized controlled trials comparing azithromycin with benzathine penicillin G at any dose for the treatment of early syphilis. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria to potential studies, with any disagreements resolved by discussion. The risk of bias of each study was assessed by the same two review authors. We pooled data using an odds ratio (OR). 
+Main results
+Three studies (generating four eligible study comparisons) were included. One study is ongoing. There was no statistically significant difference between azithromycin and benzathine penicillin treatment in the odds of cure (OR 1.04, 95% CI 0.69 to 1.56); nor any difference at three months (OR 0.97, 95% CI 0.62 to 1.50), six months (OR 1.09, 95% CI 0.76 to 1.54) or nine months (OR 1.45, 95% CI 0.46 to 6.42). Subgroup analysis by primary and latent syphilis and by dose of azithromycin (2 g and 4 g) did not explain the variation between the study results. The reporting of computed mild to tolerated adverse events, from two included trials, indicated no statistically significant difference between azithromycin and benzathine penicillin (OR 1.43, 95% CI 0.42 to 4.95), although with a high level of heterogeneity (P = 0.05, I2 = 74%). 
+Authors' conclusions
+Differences in the odds of cure did not reach statistical significance when azithromycin was compared with benzathine penicillin for the treatment of early syphilis. No definitive conclusion can be made regarding the relative safety of benzathine penicillin G and azithromycin for early syphilis. Further studies on the utility of benzathine penicillin G for early syphilis are warranted. 

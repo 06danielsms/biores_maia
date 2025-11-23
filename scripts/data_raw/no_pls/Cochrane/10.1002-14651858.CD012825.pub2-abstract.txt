@@ -1,0 +1,14 @@
+Background
+An increasing body of evidence suggests that inflammation plays a key role in stroke, in particular stroke of atherosclerotic origin. Anti‐inflammatory medications are a widely heterogeneous group of drugs that are used to suppress the innate inflammatory pathway and thus prevent persistent or recurrent inflammation. Anti‐inflammatory agents have the potential to stabilise atherosclerotic plaques by impeding the inflammatory pathway. By targeting specific cytokines, the inflammatory pathway may be interrupted at various stages. 
+Objectives
+To assess the benefits and harms of anti‐inflammatory medications plus standard care versus standard care with or without placebo for prevention of vascular events (stroke, myocardial infarction (MI), non‐fatal cardiac arrest, unstable angina requiring revascularisation, vascular death) and all‐cause mortality in people with a prior history of ischaemic stroke or transient ischaemic attack (TIA). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; last searched 29 May 2019); MEDLINE (1948 to 29 May 2019); Embase (1980 to 29 May 2019); the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 29 May 2019); and Scopus (1995 to 29 May 2019). In an effort to identify additional published, unpublished, and ongoing trials, we searched several grey literature sources (last searched 30 May 2019). We incorporated all identified studies into the results section. We applied no restrictions with respect to language, date of publication, or study setting. 
+Selection criteria
+We considered randomised controlled trials (RCTs) and cluster‐randomised controlled trials that evaluated anti‐inflammatory medications for prevention of major cardiovascular events following ischaemic stroke or TIA. 
+Data collection and analysis
+Two review authors independently assessed for inclusion titles and abstracts of studies identified by the search. Two review authors independently reviewed full‐text articles for inclusion in this review. We planned to assess risk of bias and to apply the GRADE method. 
+Main results
+We identified no studies that met the inclusion criteria.
+Authors' conclusions
+There is currently a paucity of evidence on the use of anti‐inflammatory medications for prevention of major cardiovascular events following ischaemic stroke or TIA. RCTs are needed to assess whether use of anti‐inflammatory medications in this setting is beneficial. 

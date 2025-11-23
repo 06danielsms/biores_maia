@@ -1,0 +1,26 @@
+Partial removal of skull (decompressive craniectomy) to lower treatment‐resistant high pressure in the skull and brain after traumatic brain injury 
+Review question 
+This Cochrane Review investigated the effects of a surgical procedure, decompressive craniectomy (DC), on survival and neurological (functional) outcomes for people who have a traumatic brain injury (TBI) that does not penetrate the skull, and high pressure inside the skull that does not respond to medical treatment. In DC part of the skull is removed so the brain has room to expand, and pressure inside the skull can decrease. We compared DC to conventional medical treatments in patients over 12 months old. 
+Background 
+The skull is a rigid bone 'box' that protects the brain. Consequently, if an injury causes the brain to swell, this leads to an increase in pressure within the skull. This excess pressure is known as high intracranial pressure (ICP), and is a frequent cause of death and disability in brain‐injured people. If ICP cannot be controlled using standard medical measures, then DC may be tried. DC is the surgical removal of a portion of the skull to relieve pressure on the brain. Clinicians are uncertain how effective it is, and do not agree on its role in treatment of TBI. 
+Search date 
+This evidence is current to December 2019.
+Study characteristics 
+We identified three relevant trials. One included 27 children (under 18 years); another trial was conducted in multiple sites and recruited 155 adults; and the third was conducted in 24 countries and recruited 408 participants (adolescents and adults). Each compared DC plus standard medical care against standard medical care alone. 
+In trials, the results are more reliable if patients and medical staff are unaware of which treatment a patient receives. However, the treatment given was evident in these trials, as it is not possible to conceal this type of surgery. The reliability of the results from the trial on children might have been affected because of the methods used to decide which children had DC, and because the trial stopped early. Similarly, the results of another trial might have been affected because of the treatment point at which DC was performed, and because of changes in methods for measuring outcomes. The third trial fit all of our criteria, and was well‐conducted. 
+Study funding sources 
+Funders of two studies included national research bodies and the third (and smallest) study reported no specific source of funding. 
+Key results 
+Mortality 
+There is moderate‐quality evidence that DC reduces the risk of death slightly at six months compared to standard medical treatment (3 studies), and high‐quality evidence that it reduces death at 12 months (1 study). 
+Function 
+We analyzed functional outcome in three ways, splitting it into good and bad recovery as follows. 
+1. Good outcome (including serious disability) versus death or vegetative state: at six months there was no clear benefit for DC (2 studies, low‐quality evidence), but at 12 months there was a clear benefit of DC (1 study, high‐quality evidence). 
+2. Good outcome (including moderate disability) versus death, vegetative state or serious disability: at six months there was no clear benefit for DC (2 studies), but at 12 months there was a clear benefit of DC (1 study). 
+3. Good outcome (including minor disability) versus death, vegetative state, serious or moderate disability: at six months (3 studies) and 12 months (1 study) there was no clear benefit for DC. 
+ICP 
+DC was superior to standard medical treatment for reducing high ICP within 48 hours (2 studies, moderate‐quality evidence). 
+Adverse events 
+Adverse events affected more people who have DC, than those who had medical treatment alone (low‐quality evidence). These adverse events included problems that occur later, when the skull fragment was surgically replaced. 
+Quality of the evidence 
+The quality of our evidence ranges from high to very low. Evidence for outcomes other than mortality was complicated by differences concerning when to perform DC, as the two largest studies used different criteria for this. The small study on children produced low‐quality evidence that DC has some benefits; a larger study on children is now in progress, and will improve the quality of our evidence once its results are available. 

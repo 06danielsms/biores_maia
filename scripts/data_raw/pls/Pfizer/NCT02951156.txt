@@ -1,0 +1,31 @@
+Diffuse Large B-Cell Lymphoma (or "DLBCL") is a kind of non-Hodgkin lymphoma. It is the most common type of blood cancer. DLBCL happens when cells of the immune system, known as B-cells, grow and multiply uncontrollably. DLBCL occurs mostly in adults and is a fast-growing (aggressive) lymphoma. While there are treatments available for DLBCL, some patients' cancer does not get better or gets worse over time. Researchers are looking for new and better treatments that can be combined with other medicines to help keep patients' DLBCL from getting worse over time.
+Avelumab and utomilumab were investigational treatments for DLBCL when this study began. Both of these treatments are a type of protein called "monoclonal antibodies", and they are thought to work by helping the cells of the immune system fight cancer cells. Although avelumab is approved for use in other types of cancer under the brand name Bavencio®, it is not approved for use in DLBCL.
+The medicines rituximab, azacitidine, and bendamustine are commonly used to treat DLBCL, but these medicines may not work well for all patients. Patients whose DLBCL did not get better with approved cancer treatments are said to have "refractory" DLBCL. Patients whose DLBCL got better after treatment but later got worse are said to have "relapsed" DLBCL.
+This study was divided into 2 parts, or "phases". The main purpose of the first phase of the study (Phase 1) was to learn about the effects of avelumab when given with other investigational or approved cancer therapies. This information would determine the best treatment combination to use in the second phase of the study (Phase 3). To do this, the researchers asked:
+- How many dose-limiting toxicities, or "DLTs", did patients have when taking avelumab with other therapies?
+DLTs are certain medical problems caused by taking avelumab which require the patient to lower the dose or stop taking the medicine temporarily or permanently.
+- How many patients had their DLBCL get better when taking avelumab with other therapies?
+To do this, the researchers looked to see if the patients' tumors got smaller after taking the study medications.
+090177e1956de91f\Approved\Approved On: 04-Nov-2020 05:37 (GMT)
+4
+This study compared three groups of patients taking avelumab with other investigational and approved cancer medications to see what DLTs the patients had, and to see if their DLBCL improved. The study included adult patients with relapsed or refractory DLBCL who met the following conditions:
+
+- They had completed at least two (but no more than four) cycles of treatment with rituximab and chemotherapy, with or without a stem cell transplant. If they were not eligible to be treated with a stem cell transplant and/or intensive chemotherapy (for example, due to medical problems), they must have completed one cycle of treatment with rituximab and chemotherapy.
+- They did not have evidence of cancer in the brain or spinal cord.
+- They had not received an organ transplant.
+- They had not been treated before with certain monoclonal antibody medications or non-drug anti-cancer therapies.
+- They had not received any anti-cancer therapy in the two weeks before starting the study medications. 
+
+Patients were put into one of the three treatment groups by chance alone. This is known as a “randomized” study. This is done to make the groups more similar and more even to compare. The patients and researchers knew which medications the patients were taking. This is known as an “open-label” study. The medications given to each treatment group are shown in the table below. All medications were given through a needle into a vein (intravenous) except for azacitidine, which was given by injection under the skin (subcutaneous).
+
+Group A: Avelumab 10 mg/kg, Utomilumab 100 mg, Rituximab 375 mg/m2
+Group B: Avelumab 10 mg/kg, Utomilumab 100 mg, Azacitidine 40 mg/m2
+Group C: Avelumab 10 mg/kg, Bendamustine 90 mg/m2, Rituximab 375 mg/m2
+
+A diagram of the study is shown below. This study took three years to complete. The Sponsor ran this study at 15 locations in five countries in Europe, the United States, and Australia. It began 16 December 2016 and ended on 02 December 2019. A total of 24 men and 5 women participated. Ten patients were under the age of 65 and 19 patients were 65 years of age or older.
+
+Patients were to be treated until the patient or their doctor decided it was best for them to stop treatment. Of the 29 patients who started the study, no patients finished the first phase of the study. The most common reason for patients leaving the study was because their DLBCL got worse. Two patients left before the study was over by their choice or a doctor decided it was best for a patient to stop being in the study. 
+
+The study was stopped before the second phase (Phase 3) began. Group A and Group B were closed to enrollment in May 2018, due to less than two patients in these groups having their DLBCL get better. Enrollment in Group C was closed in September 2018 due to lack of new patients enrolling in the study.
+
+When the study ended in December 2019, the Sponsor reviewed the information collected. The Sponsor then created a report of the results. This is a summary of that report.

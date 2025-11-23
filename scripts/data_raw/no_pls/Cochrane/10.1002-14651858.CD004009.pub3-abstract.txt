@@ -1,0 +1,14 @@
+Background
+In children with falciparum malaria, a proprietary quinine preparation (adjusted to make it less acidic) administered rectally may be easier to use and less painful than intramuscular or intravenous administration. However, rectal quinine may be less effective. 
+Objectives
+To compare intrarectal quinine with intravenous or intramuscular quinine for treating malaria caused by Plasmodium falciparum. 
+Search methods
+In May 2008, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2008, Issue 2), MEDLINE, EMBASE, LILACS, and CINAHL. We also searched conference proceedings, contacted individual researchers and a pharmaceutical company, and checked reference lists. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing intrarectal quinine with intramuscular and intravenous quinine for treating people with uncomplicated and severe Plasmodium falciparum malaria. 
+Data collection and analysis
+We independently assessed each trial's risk of bias quality and extracted data, including adverse event data. We analysed dichotomous data using the odds ratio and continuous data using the mean difference. 
+Main results
+Ten randomized controlled trials, all involving children only (total of 1417 children), fulfilled the inclusion criteria. The same investigator was involved in nine of the trials. Seven trials compared proprietary intrarectal with intravenous quinine, and seven trials compared it with intramuscular treatment. We detected no statistically significant difference between intrarectal and intravenous or intramuscular routes for death, parasite clearance by 48 hours and seven days, parasite clearance time, fever clearance time, coma recovery time, duration of hospitalization, and time to drinking. The trials reporting on these outcomes were small, which resulted in large confidence intervals for all outcomes apart from duration of hospitalization. One large trial (898 children) reported that intrarectal was less painful than intramuscular administration. 
+Authors' conclusions
+We detected no difference in the effect on parasites and clinical illness for intrarectal quinine, but most trials were small. Pain may be less with intrarectal proprietary, buffered quinine preparations (made less acidic by adjustment of the pH to 4.5). Further larger trials in patients with severe malaria and in adults are required before the intrarectal route can be recommended. 

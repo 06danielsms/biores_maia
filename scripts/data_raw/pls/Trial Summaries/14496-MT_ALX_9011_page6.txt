@@ -1,0 +1,24 @@
+STUDY RESULTS
+
+Answer to the main question:
+Did the different dosing regimens of ravulizumab lower the patients’ LDH level?
+LDH levels show how much hemolysis is happening in the body. LDH levels are measured by a blood test as enzyme unit per liter, also called U/L. The normal level of LDH is 234 U/L or lower.
+Ravulizumab aims to prevent hemolysis. If the treatment is working and preventing hemolysis, then the patients’ LDH level should fall back to a normal range.
+The diagram below shows the average LDH level for patients in each group before and at the end of ravulizumab treatment. The average reduction in LDH level in each group is shown as a percentage.
+
+GROUP 1         GROUP 2        GROUP 3         GROUP 4
+Day 1          1027 U/L          1224 U/L          2128 U/L          2142 U/L
+                 73%                 78%                  85%                  90%
+Day 253       230 U/L           266 U/L            306 U/L          228 U/L*
+*Day 281 for patients in Group 4 who got up to 40 weeks of treatment.
+
+This study found that all 4 dosing regimens of ravulizumab lowered the patients’ LDH level during 36 to 40 weeks of treatment.
+
+Answers to the other important questions:
+Did ravulizumab have an effect on the patients’ red blood cells?
+During the study, the researchers took several blood samples from each patient and performed specific tests. These tests helped the researchers understand more about red blood cells, blood clotting, and specific blood proteins in patients with PNH.
+The results from these specific tests confirmed that ravulizumab helped to reduce hemolysis.
+
+Protocol, ALXN1210-PNH-201
+
+-

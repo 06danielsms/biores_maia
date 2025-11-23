@@ -1,0 +1,14 @@
+Background
+Auricular acupuncture (insertion of acupuncture into a number, usually five, of specific points in the ear) is a widely‐used treatment for cocaine dependence. 
+Objectives
+To determine whether auricular acupuncture is an effective treatment for cocaine dependence, and to investigate whether its effectiveness is influenced by the treatment regimen. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2004); MEDLINE (January 1966 to October 2004) , EMBASE (January 1988 to October 2004); PsycInfo (1985 to October 2004); CINAHL (1982 to October 2004); SIGLE (1980 to October 2004) and reference lists of articles. 
+Selection criteria
+Randomised controlled trials comparing a therapeutic regimen of auricular acupuncture with sham acupuncture or no treatment for reduction of cocaine use in cocaine dependents. 
+Data collection and analysis
+Two authors independently extracted data from published reports and assessed study quality using the Drug and Alcohol CRG checklist. All authors were contacted for additional information; two provided data. Separate meta‐analyses were conducted for studies comparing auricular acupuncture with sham acupuncture, and with no treatment. For the main cocaine use outcomes, analyses were conducted by intention to treat, assuming that missing data were treatment failures. Available case analyses, using only individuals who provided data, were also conducted. 
+Main results
+Seven studies with a total of 1,433 participants were included. All were of generally low methodological quality. No differences between acupuncture and sham acupuncture were found for attition RR 1.05 (95% CI 0.89 to 1.23) or acupuncture and no acupuncture: RR 1.06 (95% CI 0.90 to 1.26) neither for any measure of cocaine or other drug use. However, the number of participants included in meta‐analyses was low, and power was limited. Moderate benefit or harm is not ruled out by these results. Methodological limitations of the included studies may have also made the results open to bias. 
+Authors' conclusions
+There is currently no evidence that auricular acupuncture is effective for the treatment of cocaine dependence. The evidence is not of high quality and is inconclusive. Further randomised trials of auricular acupuncture may be justified. 

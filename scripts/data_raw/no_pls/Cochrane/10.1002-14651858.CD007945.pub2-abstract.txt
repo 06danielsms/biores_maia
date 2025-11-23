@@ -1,0 +1,16 @@
+Background
+Gynaecological cancers are the second most common cancers among women. It has been suggested that centralised care improves outcomes but consensus is lacking. 
+Objectives
+To assess the effectiveness of centralisation of care for patients with gynaecological cancer. 
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, CENTRAL (The Cochrane Library, Issue 4, 2010), MEDLINE, and EMBASE up to November 2010. We also searched registers of clinical trials, abstracts of scientific meetings, and reference lists of included studies. 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐RCTs, controlled before‐and‐after studies, interrupted time series studies, and observational studies that examined centralisation of services for gynaecological cancer, and used multivariable analysis to adjust for baseline case mix. 
+Data collection and analysis
+Three review authors independently extracted data, and two assessed risk of bias. Where possible, we synthesised the data on survival in a meta‐analysis. 
+Main results
+Five studies met our inclusion criteria; all were retrospective observational studies and therefore at high risk of bias. 
+Meta‐analysis of three studies assessing over 9000 women suggested that institutions with gynaecologic oncologists on site may prolong survival in women with ovarian cancer, compared to community or general hospitals: hazard ratio (HR) of death was 0.90 (95% confidence interval (CI) 0.82 to 0.99). Similarly, another meta‐analysis of three studies assessing over 50,000 women, found that teaching centres or regional cancer centres may prolong survival in women with any gynaecological cancer compared to community or general hospitals (HR 0.91; 95% CI 0.84 to 0.99). The largest of these studies included all gynaecological malignancies and assessed 48,981 women, so the findings extend beyond ovarian cancer. One study compared community hospitals with semi‐specialised gynaecologists versus general hospitals and reported non‐significantly better disease‐specific survival in women with ovarian cancer (HR 0.89; 95% CI 0.78 to 1.01). The findings of included studies were highly consistent. Adverse event data were not reported in any of the studies. 
+Authors' conclusions
+We found low quality, but consistent evidence to suggest that women with gynaecological cancer who received treatment in specialised centres had longer survival than those managed elsewhere. The evidence was stronger for ovarian cancer than for other gynaecological cancers. 
+Further studies of survival are needed, with more robust designs than retrospective observational studies. Research should also assess the quality of life associated with centralisation of gynaecological cancer care. Most of the available evidence addresses ovarian cancer in developed countries; future studies should be extended to other gynaecological cancers within different healthcare systems. 

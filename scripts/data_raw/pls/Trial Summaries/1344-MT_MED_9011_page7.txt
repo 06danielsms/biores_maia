@@ -1,0 +1,39 @@
+Clinical Trial RESULTS
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting problems, or requires hospital care. No participants died during this study, and no participants developed serious medical problems.
+
+What were the medical problems in the study?
+The table below shows the medical problems that happened to at least 1 participant in the study.
+```
+Placebo
+Dry throat                      0
+Stuffy nose                     0
+Pain in the upper part of the throat    0
+Folliculitis (infection of hair follicles)   0
+Gout (swelling of joints caused by having too much uric acid in the blood) 1 (16.7%)
+Lightheadedness                            0
+
+AZD7594 200 µg
+Dry throat                                 1 (14.3%)
+Stuffy nose                                1 (14.3%)
+Pain in the upper part of the throat       1 (14.3%)
+Folliculitis (infection of hair follicles) 1 (14.3%)
+Gout (swelling of joints caused by having too much uric acid in the blood) 0
+Lightheadedness                            0
+
+AZD7594 400 µg
+Dry throat                                 0
+Stuffy nose                                0
+Pain in the upper part of the throat       0
+Folliculitis (infection of hair follicles) 1 (14.3%)
+Gout (swelling of joints caused by having too much uric acid in the blood) 0
+Lightheadedness                            0
+
+AZD7594 1600 µg
+Dry throat                                 0
+Stuffy nose                                0
+Pain in the upper part of the throat       0
+Folliculitis (infection of hair follicles) 0
+Gout (swelling of joints caused by having too much uric acid in the blood) 0
+Lightheadedness                            1 (14.3%)
+```

@@ -1,0 +1,14 @@
+Background
+Burkitt lymphoma (BL) is an important cancer found mostly in children but uncertainty remains as to the most effective form of management. In endemic areas, late‐stage presentation as a result of delayed access to treatment compounds the situation. 
+Objectives
+To assess the evidence for chemotherapy, surgery, radiotherapy and immunotherapy in the treatment of children with endemic BL. 
+Search methods
+We updated and re‐ran the searches in the following electronic databases from the time of the first publication; the Cochrane Controlled Trials Register (CENTRAL) (Issue 1, 2011); MEDLINE (January 2011); EMBASE (January 2011); and the clinical trials registry (up to January 2011) to identify relevant trials. In addition, we also updated the search of the US clinical trials register for on‐going and completed trials up to January 2011. We also updated the search terms and used the Cochrane filter for identifying randomised trials in MEDLINE. 
+Selection criteria
+We included randomised controlled trials (RCTs) of any duration. We included studies conducted in children with a confirmed diagnosis of BL. We did not restrict studies by geographical location or by language of publication. We considered any therapeutic intervention. The primary outcome was overall survival. 
+Data collection and analysis
+Two review authors assessed studies for relevance. We assessed studies that met the entry criteria for study quality. We independently extracted data and entered the data into Review Manager (RevMan). In this update, two review authors independently assessed citations from the updated search and reviewed abstracts for relevance. 
+Main results
+We included one new study in this update. In total, 13 trials involving 1824 participants met the inclusion criteria for this review however, data in usable format were only available in 10 trials (732 participants). Inadequate reporting of study methodology was a common feature of the trials preventing thorough assessment of study quality. We were unable to pool data for any of the outcomes due to the differences between the interventions assessed in the studies. Eight studies aimed to induce remission; overall survival did not differ significantly between treatment groups. Five studies aimed to maintain remission. In two out of three studies reporting survival, this was substantial but the difference was not statistically significant between treatment groups. Less aggressive treatment schedules appear to produce similar effects with less adverse event profiles. 
+Authors' conclusions
+This review notes a preference in more recent studies for less aggressive care options for treatment of BL. However, the evidence for the relative effectiveness of interventions to treat BL is not strong as studies were small, underpowered and prone to both systematic and random error. We included one additional trial without change of conclusions. 

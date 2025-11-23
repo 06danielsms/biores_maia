@@ -1,0 +1,17 @@
+Background
+Each year approximately 350,000 women in the United Kingdom and millions more worldwide, experience perineal suturing following childbirth. The postpartum management of perineal trauma is a core component of routine maternity care. However, for those women whose perineal wound dehisces (breaks down), the management varies depending on individual practitioners preferences as there is limited scientific evidence and no clear guidelines to inform best practice. For most women the wound will be managed expectantly whereas, others may be offered secondary suturing. 
+Objectives
+To evaluate the therapeutic effectiveness of secondary suturing of dehisced perineal wounds compared to non‐suturing (healing by secondary intention, expectancy). 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2013) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials of secondary suturing of dehisced perineal wounds (second‐, third‐ or fourth‐degree tear or episiotomy), following wound debridement and the removal of any remaining suture material within the first six weeks following childbirth compared with non‐suturing. 
+Data collection and analysis
+Three review authors independently assessed trials for inclusion. Two review authors independently assessed trial quality and extracted data. Data were checked for accuracy. 
+Main results
+Two small studies of poor methodological quality including 52 women with a dehisced and/or infected episiotomy wound at point of entry have been included. 
+Only one small study presented data in relation to wound healing at less than four weeks, (the primary outcome measure for this review), although no reference was made to demonstrate how healing was measured. There was a trend to favour this outcome in the resuturing group, however, this difference was not statistically significant (risk ratio (RR) 1.69, 95% confidence interval (CI) 0.73 to 3.88, one study, 17 women). 
+Similarly, only one trial reported on rates of dyspareunia (a secondary outcome measure for this review) at two months and six months with no statistically significant difference between both groups; two months, (RR 0.44, 95% CI 0.18 to 1.11, one study, 26 women) and six months, (RR 0.39, 95% CI 0.04 to 3.87, one study 32 women). This trial also included data on the numbers of women who resumed sexual intercourse by two months and six months. Significantly more women in the secondary suturing group had resumed intercourse by two months (RR 1.78, 95% CI 1.10 to 2.89, one study, 35 women), although by six months there was no significant difference between the two groups (RR 1.08, 95% CI, 0.91 to 1.28). 
+Neither of the trials included data in relation to the following prespecified secondary outcome measures: pain at any time interval; the woman's satisfaction with the aesthetic results of the perineal wound; exclusive breastfeeding; maternal anxiety or depression. 
+Authors' conclusions
+Based on this review, there is currently insufficient evidence available to either support or refute secondary suturing for the management of broken down perineal wounds following childbirth. There is an urgent need for a robust randomised controlled trial to evaluate fully the comparative effects of both treatment options. 

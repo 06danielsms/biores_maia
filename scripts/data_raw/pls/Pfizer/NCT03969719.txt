@@ -1,0 +1,90 @@
+What is non-alcoholic fatty liver disease with type 2 diabetes mellitus? 
+Non-alcoholic fatty liver disease (NAFLD) is a condition where too much fat is 
+stored in the liver and where those affected drink little to no alcohol. NAFLD may 
+worsen into a condition called non-alcoholic steatohepatitis (NASH). NASH 
+develops when excess fat contributes to increased inflammation and liver cell death. 
+NASH is associated with increased risk of death, scarring and failure of the liver, and 
+liver cancers. 
+Conditions that increase the risk of NAFLD and NASH to develop include being 
+overweight, type 2 diabetes mellitus (T2DM), high blood pressure, and high levels of 
+cholesterol and fats in the blood. Participants with T2DM are of special interest and 
+included in this study.
+What is PF-06835919?
+PF-06835919 was the drug investigated in this study in participants who have T2DM 
+and may have NAFLD. PF-06835919 reduces the activity of an enzyme called 
+ketohexokinase (KHK). KHK speeds up the change of fruit sugar (fructose) to 
+energy used by the body and increases fat production in the liver. Fructose increases 
+the risk of too much fat in the liver. PF-06835919 was used as a treatment to lower 
+the activity of KHK, reduce liver fat, reduce HbA1c, and prevent the development of 
+NASH. PF-06835919 is an investigational drug because it is not approved for use in 
+this country.
+What were the purposes of this study?
+The primary purposes of the study were to compare the effects of PF-06835919 at 
+2 doses (150 mg and 300 mg) compared with a placebo to find out if PF-06835919 
+helps reduce liver fat and hemoglobin A1C (HbA1c). The amount of HbA1c in the 
+blood shows the average amount of glucose (a type of sugar) over the past 3 months. 
+This study looked at the efficacy, safety, and tolerability of 2 doses of PF-06835919 
+over a 16-week period. Specifically, researchers wanted to know if PF-06835919 
+reduced liver fat and HbA1c at 16 weeks compared to placebo (efficacy). Safety 
+means that any medical problems that happened were studied. Tolerability means 
+whether a medical problem interfered with a participant's usual activities.
+How was the study done?
+This study lasted about 24 weeks and was in 3 parts: a screening period, a treatment period, and a follow-up period. 
+
+The screening period lasted up to 3 weeks and included:
+- Scans of the liver to test for fat and stiffness
+- Magnetic resonance imaging (MRI) of the liver to measure fat content in the liver
+- A period of taking a placebo for 14 days to make sure participants were comfortable taking a study drug. 
+
+The treatment period lasted for 16 weeks. Participants were randomized (assigned by an equal chance) to one of 2 treatment doses of PF-06835919 tablets taken by mouth or a placebo tablet taken by mouth. A total of 164 participants were given one of the following during the treatment period:
+- 55 participants: PF-06835919 150 mg. Researchers wanted to know: Did PF-06835919 reduce the fat in the liver and HbA1c in the blood compared to a placebo.
+- 55 participants: PF-06835919 300 mg 
+- 54 participants: Placebo 
+
+The follow-up period lasted up to 35 days. Participants were seen in person at a study clinic 7 days to 14 days after their last dose. Participants received a phone call between 28 days to 35 days after their last dose.
+
+Researchers tested PF-06835919 on 2 groups of study participants to find out if PF-06835919 lowered the amount of fat in liver cells and lowered HbA1c in the blood. Researchers then compared the results of study participants taking the study medication to the results of study participants taking a placebo. A placebo does not have any medicine in it, but it looks just like the study medication.
+
+The study participants and researchers did not know who took PF-06835919 and who took the placebo. This is known as a “double-blinded” study. Study participants were assigned to each group by chance alone (randomization). 
+
+The trial was completed even with the COVID-19 pandemic, and the primary objectives of the study were successfully evaluated. The impact of the pandemic enrollment pause was limited, as sites were able to recruit and enroll quickly once sites were allowed to restart.
+
+Where did this study take place? 
+The Sponsor ran this study at 58 locations in 2 countries in North America, specifically in Canada and the United States.
+
+When did this study take place?
+It began 18 July 2019 and ended 30 March 2021.
+
+Who participated in this study?
+Requirements for being in the study included:
+- Male or female participants aged between 18 years and 70 years
+- Participants with T2DM taking greater than or equal to 500 mg/day metformin alone for at least 8 weeks prior to screening visit 1
+- Liver fat content greater than or equal to 8% at screening visit 3 on MRI 
+
+Conditions that kept participants out of the study included:
+- Type 1 diabetes mellitus
+- Complications from diabetes (kidney or nerve complications) 
+
+Participants included:
+- A total of 71 (43%; 43 out of 100) men participated
+- A total of 93 (57%; 57 out of 100) women participated
+- All participants were between the ages of 21 years and 71 years 
+
+Participants were to be treated until Week 16. Of the 164 participants who started the study, 145 (88%; 88 out of 100) finished the treatment period. A total of 19 participants out of 164 (12%; 12 out of 100) discontinued the double-blind treatment:
+- 9 (16%; 16 out of 100) participants in the PF-06835919 150 mg group
+- 6 (11%; 11 out of 100) participants in the PF-06835919 300 mg group
+- 4 (7%; 7 out of 100) participants in the placebo group 
+
+19 participants out of 164 (12%; 12 out of 100) did not finish the treatment period because:
+- 7 participants (4%; 4 out of 100) stopped treatment because of their choice
+- 4 participants (2%; 2 out of 100) stopped treatment because of medical problems
+- 4 participants (2%; 2 out of 100) stopped treatment because of other reasons
+- 3 participants (2%; 2 out of 100) stopped treatment because of problems with study procedures
+- 1 participant (1%; 1 out of 100) stopped treatment because they were lost to follow-up 
+
+How long did the study last?
+Study participants were in the study for about 24 weeks. The entire study took around 1 year and 8 months to complete.
+
+Due to the COVID-19 pandemic, enrollment in the trial was paused temporarily in all sites between 24 March 2020 and 26 May 2020, and then restarted. 
+
+When the study ended in March 2021 the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

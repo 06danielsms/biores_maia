@@ -1,0 +1,18 @@
+Background
+This review replaces part of an earlier review that evaluated gabapentin for both neuropathic pain and fibromyalgia, now split into separate reviews for the two conditions. This review will consider pain in fibromyalgia only. 
+Fibromyalgia is associated with widespread pain lasting longer than three months, and is frequently associated with symptoms such as poor sleep, fatigue, depression, and reduced quality of life. Fibromyalgia is more common in women. 
+Gabapentin is an antiepileptic drug widely licensed for treatment of neuropathic pain. It is not licensed for the treatment of fibromyalgia, but is commonly used because fibromyalgia can respond to the same medicines as neuropathic pain. 
+Objectives
+To assess the analgesic efficacy of gabapentin for fibromyalgia pain in adults and the adverse events associated with its use in clinical trials. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online, MEDLINE via Ovid and Embase via Ovid from inception to 24 May 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries. 
+Selection criteria
+Randomised, double‐blind trials of eight weeks' duration or longer for treating fibromyalgia pain in adults, comparing gabapentin with placebo or an active comparator. 
+Data collection and analysis
+Two independent review authors extracted data and assessed trial quality and risk of bias. We planned to use dichotomous data to calculate risk ratio and number needed to treat for one additional event, using standard methods. We assessed the evidence using GRADE (Grading of Recommendations Assessment, Development and Evaluation) and created a 'Summary of findings' table. 
+Main results
+Two studies tested gabapentin to treat fibromyalgia pain. One was identified in previous versions of the review and is included here. We identified another study as a conference abstract, with insufficient detail to determine eligibility for inclusion; it is awaiting assessment. The one included study of 150 participants was a 12‐week, multi‐centre, randomised, double‐blind, placebo‐controlled, parallel‐group study using last‐observation‐carried‐forward imputation for withdrawals. The maximum dose was 2400 mg daily. The overall risk of bias was low, except for attrition bias. 
+At the end of the trial, the outcome of 50% reduction in pain over baseline was not reported. The outcome of 30% or greater reduction in pain over baseline was achieved by 38/75 participants (49%) with gabapentin compared with 23/75 (31%) with placebo (very low quality). A patient global impression of change any category of "better" was achieved by 68/75 (91%) with gabapentin and 35/75 (47%) with placebo (very low quality). 
+Nineteen participants discontinued the study because of adverse events: 12 in the gabapentin group (16%) and 7 in the placebo group (9%) (very low quality). The number of serious adverse events were not reported, and no deaths were reported (very low quality). 
+Authors' conclusions
+We have only very low quality evidence and are very uncertain about estimates of benefit and harm because of a small amount of data from a single trial. There is insufficient evidence to support or refute the suggestion that gabapentin reduces pain in fibromyalgia. 

@@ -1,0 +1,16 @@
+Background
+Dementia is a widespread condition characterized by acquired global impairment of intellect, memory and personality, but without impairment of consciousness. There is no definitive treatment for vascular dementia. Acupuncture is an ancient Chinese method that has been used for the prevention and treatment of diseases over three‐thousand years. Many kinds of acupuncture methods such as body acupuncture, scalp acupuncture and electroacupuncture are in use for the treatment of vascular dementia in hospitals in China. Body acupuncture and electroacupuncture are the most commonly used. 
+Objectives
+To assess the efficacy and possible adverse effects of acupuncture therapy for treating vascular dementia. 
+Search methods
+We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group Specialized Register, on 24 January 2011 using the terms and tags created for records of studies in dementia using acupuncture. ALOIS contains records of clinical trials identified from monthly searches of a number of major healthcare databases, numerous trial registries and grey literature sources. 
+In addition, the Allied and Complementary Medicine Database was searched and the web was searched using the search engine Copernic. 
+Selection criteria
+Randomized controlled trials (RCTs) testing acupuncture therapy in the treatment of vascular dementia were eligible for inclusion, regardless of language and publication type. Studies with inadequate randomisation were excluded. 
+Studies were excluded if participants were receiving any treatment for their vascular dementia other than the acupuncture intervention or control treatment. 
+Data collection and analysis
+Studies were selected for inclusion and data were extracted by two review authors working independently.  Comparisons were made between patients treated with acupuncture and controls, on an intention‐to‐treat basis where possible. If possible, data from different trials were pooled and overall estimates of the treatment difference were calculated. Weighted or standardised mean differences or odds ratios were used, as appropriate. 
+Main results
+In the absence of any suitable randomized placebo‐controlled trials in this area, we were unable to perform a meta‐analysis. 
+Authors' conclusions
+The effectiveness of acupuncture for vascular dementia is uncertain. More evidence is required to show that vascular dementia can be treated effectively by acupuncture. There are no RCTs and high quality trials are few. Randomized double‐blind placebo‐controlled trials are urgently needed. 

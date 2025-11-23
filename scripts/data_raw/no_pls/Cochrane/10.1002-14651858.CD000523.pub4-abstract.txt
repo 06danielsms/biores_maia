@@ -1,0 +1,17 @@
+Background
+Isolated fractures of the shaft of the ulna, which are often sustained when the forearm is raised to shield against a blow, are generally treated on an outpatient basis. This is an update of a Cochrane review first published in 1998 and last updated in 2009. 
+Objectives
+To assess the effects of various forms of treatment for isolated fractures of the ulnar shaft in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (April 2012), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2012, Issue 3), MEDLINE (1966 to April week 1 2012), EMBASE (1981 to week 15 2012), CINAHL (1982 to 16 April 2012), various trial registers, various conference proceedings and bibliographies of relevant articles. 
+Selection criteria
+Randomised or quasi‐randomised trials of conservative and surgical treatment of isolated fractures of the ulnar shaft in adults. Excluded were fractures of the proximal ulna and Monteggia fracture dislocations. 
+Data collection and analysis
+We performed independent assessment of risk of bias and data extraction. We contacted trialists for more information. There was no pooling of data. 
+Main results
+The updated search resulted in the identification of one ongoing trial comparing surgery versus conservative treatment. 
+Four trials, involving a total of 237 participants, were included. All four trials were methodologically flawed and potentially biased. 
+Three trials tested conservative treatment interventions. One trial, which compared short arm (below elbow) pre‐fabricated functional braces with long arm (elbow included) plaster casts, found there was no significant difference in the time it took for fracture union. Patient satisfaction and return to work during treatment were significantly better in the brace group. The other two trials, both quasi‐randomised, had three treatment groups. One trial compared Ace Wrap elastic bandage versus short arm plaster cast versus long arm plaster cast. The large loss to follow‐up in this trial makes any data analysis tentative. However, the need for replacement of the Ace wrap by other methods due to pain indicates the potential for a serious problem with this intervention. The other trial, which compared immediate mobilisation versus short arm plaster cast versus long arm plaster cast for minimally displaced fractures, found no significant differences in outcome between these three interventions. 
+The fourth trial, which compared two types of plates for surgical fixation, found no significant differences in functional or anatomical outcomes nor complications between the two groups. 
+Authors' conclusions
+There is insufficient evidence from randomised trials to determine which method of treatment is the most appropriate for isolated fractures of the ulnar shaft in adults. Well designed and reported randomised trials of current forms of conservative treatment are recommended. 

@@ -1,0 +1,12 @@
+Anti‐inflammatory drugs for acute low back pain
+Review question 
+We examined the effect of non‐steroidal anti‐inflammatory drugs (NSAIDs), such as diclofenac, ibuprofen, and naproxen, for people with acute low back pain. Acute low back pain is defined as the presence of pain in the back, below the ribs and above the buttocks, for under 12 weeks. We compared NSAIDs to placebo, paracetamol, other NSAIDs, other drugs, and non‐drug treatments. 
+Background 
+Acute low back pain is common, and causes pain and disability. Physicians often prescribe NSAIDs to treat acute low back pain. Different types of NSAIDs are available, both over‐the‐counter and as prescription drugs. 
+Study characteristics 
+We searched for randomised controlled trials that were published or registered before 7 January 2020. We included 32 trials with 5356 participants. Trial participants were 16 to 78 years old and had acute low back pain. Study length varied from one day to six months. The studies took place in many different countries. More than half of the studies was done in Europe and North‐America. 
+Key results 
+NSAIDs were slightly more effective than placebo for pain reduction in the first three weeks. On average, the pain intensity decreased by 7.3 points on a 100‐point scale. This means there was a small difference between the two treatments, but it was not clinically relevant. People receiving NSAIDs also scored 2.0 points better on a 24‐point disability scale than those receiving placebo. This is unlikely to be of real‐world benefit. There was a similar number of side effects between people receiving NSAIDs and people receiving placebo. However, the type of studies that we investigated are not designed to find side effects. Therefore, we should be careful about drawing conclusions based upon these findings. 
+We also compared two different types of NSAIDs; non‐selective NSAIDs versus COX‐2 inhibitors. We found no clear differences in effect. There was also a similar number of reported side effects of the digestive system, such as abdominal pain, nausea, diarrhoea, or stomach symptoms. 
+Quality of the evidence 
+There is moderate quality evidence that NSAIDs are slightly more effective than placebo for reducing short‐term pain, and high quality evidence that they are slightly more effective than placebo for reducing disability in acute low back pain. The magnitude of the effect is very small. 

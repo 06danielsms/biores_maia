@@ -1,0 +1,27 @@
+Background
+Miscarriage is a common complication of pregnancy that can be caused by a wide range of factors. Poor dietary intake of vitamins has been associated with an increased risk of miscarriage, therefore supplementing women with vitamins either prior to or in early pregnancy may help prevent miscarriage. 
+Objectives
+The objectives of this review were to determine the effectiveness and safety of any vitamin supplementation, on the risk of spontaneous miscarriage. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group Trials Register (6 November 2015) and reference lists of retrieved studies. 
+Selection criteria
+All randomised and quasi‐randomised trials comparing supplementation during pregnancy with one or more vitamins with either placebo, other vitamins, no vitamins or other interventions. We have included supplementation that started prior to conception, periconceptionally or in early pregnancy (less than 20 weeks' gestation). 
+Data collection and analysis
+Three review authors independently assessed trials for inclusion, extracted data and assessed trial quality. We assessed the quality of the evidence using the GRADE approach. The quality of evidence is included for numerical results of outcomes included in the 'Summary of findings' tables. 
+Main results
+We included a total of 40 trials (involving 276,820 women and 278,413 pregnancies) assessing supplementation with any vitamin(s) starting prior to 20 weeks' gestation and reporting at least one primary outcome that was eligible for the review. Eight trials were cluster‐randomised and contributed data for 217,726 women and 219,267 pregnancies in total. 
+Approximately half of the included trials were assessed to have a low risk of bias for both random sequence generation and adequate concealment of participants to treatment and control groups. 
+Vitamin C supplementation 
+There was no difference in the risk of total fetal loss (risk ratio (RR) 1.14, 95% confidence interval (CI) 0.92 to 1.40, seven trials, 18,949 women; high‐quality evidence); early or late miscarriage (RR 0.90, 95% CI 0.65 to 1.26, four trials, 13,346 women; moderate‐quality evidence); stillbirth (RR 1.31, 95% CI 0.97 to 1.76, seven trials, 21,442 women; moderate‐quality evidence) or adverse effects of vitamin supplementation (RR 1.16, 95% CI 0.39 to 3.41, one trial, 739 women; moderate‐quality evidence) between women receiving vitamin C with vitamin E compared with placebo or no vitamin C groups. No clear differences were seen in the risk of total fetal loss or miscarriage between women receiving any other combination of vitamin C compared with placebo or no vitamin C groups. 
+Vitamin A supplementation 
+No difference was found in the risk of total fetal loss (RR 1.01, 95% CI 0.61 to 1.66, three trials, 1640 women; low‐quality evidence); early or late miscarriage (RR 0.86, 95% CI 0.46 to 1.62, two trials, 1397 women; low‐quality evidence) or stillbirth (RR 1.29, 95% CI 0.57 to 2.91, three trials, 1640 women; low‐quality evidence) between women receiving vitamin A plus iron and folate compared with placebo or no vitamin A groups. There was no evidence of differences in the risk of total fetal loss or miscarriage between women receiving any other combination of vitamin A compared with placebo or no vitamin A groups. 
+Multivitamin supplementation 
+There was evidence of a decrease in the risk for stillbirth among women receiving multivitamins plus iron and folic acid compared iron and folate only groups (RR 0.92, 95% CI 0.85 to 0.99, 10 trials, 79,851 women; high‐quality evidence). Although total fetal loss was lower in women who were given multivitamins without folic acid (RR 0.49, 95% CI 0.34 to 0.70, one trial, 907 women); and multivitamins with or without vitamin A (RR 0.60, 95% CI 0.39 to 0.92, one trial, 1074 women), these findings included one trial each with small numbers of women involved. Also, they include studies where the comparison groups included women receiving either vitamin A or placebo, and thus require caution in interpretation. 
+We found no difference in the risk of total fetal loss (RR 0.96, 95% CI 0.93 to 1.00, 10 trials, 94,948 women; high‐quality evidence) or early or late miscarriage (RR 0.98, 95% CI 0.94 to 1.03, 10 trials, 94,948 women; moderate‐quality evidence) between women receiving multivitamins plus iron and folic acid compared with iron and folate only groups. 
+There was no evidence of differences in the risk of total fetal loss or miscarriage between women receiving any other combination of multivitamins compared with placebo, folic acid or vitamin A groups. 
+Folic acid supplementation 
+There was no evidence of any difference in the risk of total fetal loss, early or late miscarriage, stillbirth or congenital malformations between women supplemented with folic acid with or without multivitamins and/or iron compared with no folic acid groups. 
+Antioxidant vitamins supplementation 
+There was no evidence of differences in early or late miscarriage between women given antioxidant compared with the low antioxidant group (RR 1.12, 95% CI 0.24 to 5.29, one trial, 110 women). 
+Authors' conclusions
+Taking any vitamin supplements prior to pregnancy or in early pregnancy does not prevent women experiencing miscarriage. However, evidence showed that women receiving multivitamins plus iron and folic acid had reduced risk for stillbirth. There is insufficient evidence to examine the effects of different combinations of vitamins on miscarriage and miscarriage‐related outcomes. 

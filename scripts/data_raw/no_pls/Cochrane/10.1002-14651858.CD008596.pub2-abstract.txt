@@ -1,0 +1,14 @@
+Background
+Urticaria is a common skin disease characterised by itching weals or hives, which can occur almost anywhere on the body. There are a number of different subtypes and a range of available treatment options. There is lack of agreement on the efficacy of H2‐receptor antagonists used in the treatment of urticaria. 
+Objectives
+To assess the safety and effectiveness of H2‐receptor antagonists in the treatment of urticaria. 
+Search methods
+We searched the following databases up to 7 October 2011: the Cochrane Skin Group Specialised Register, CENTRAL in The Cochrane Library (2011, Issue 4), MEDLINE (from 2005), EMBASE (from 2007), and LILACS (from 1982). We also searched online trials registries for ongoing trials. 
+Selection criteria
+Randomised controlled trials of H2‐receptor antagonists in people with a clinical diagnosis of urticaria of any duration or of any subtype. Studies including H1‐antihistamines for chronic urticaria are the topic of a separate Cochrane review; thus, they were not included in this review. 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted and analysed data.
+Main results
+Four studies of a relatively small size, involving 144 participants, were included in this review. A combination of ranitidine with diphenhydramine was more effective at improving the resolution of urticaria than diphenhydramine administered alone (risk ratio (RR) 1.59, 95% confidence interval (CI) 1.07 to 2.36). Although there was a similar improvement in itching, weal size, and intensity, cimetidine provided no statistically significant greater overall improvement in symptoms of urticaria when compared to diphenhydramine. However, a combination of these medications was more effective than diphenhydramine alone (RR 2.02, 95% CI 1.03 to 3.94). Adverse events were reported with several of the interventions, i.e. ranitidine and diphenhydramine, causing drowsiness and sedation, but there was no significant difference in the level of sedation from baseline with either famotidine or diphenhydramine. 
+Authors' conclusions
+The very limited evidence provided by this review was based on a few old studies of a relatively small size, which we categorised as having high to unclear risk of bias. Thus, at present, the review does not allow confident decision‐making about the use of H2‐receptor antagonists for urticaria. Although some of these studies have reported a measure of relief of symptoms of urticaria and rather minimal clinical improvement in some of the participants, the evidence was weak and unreliable. We have emphasised the lack of precision and limitations in the reported data where appropriate in this review. 

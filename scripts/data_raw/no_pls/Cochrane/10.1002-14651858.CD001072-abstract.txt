@@ -1,0 +1,15 @@
+Background
+Recurrent apnea is common in preterm infants, particularly at very early gestational ages. These episodes of loss of effective breathing can lead to hypoxemia and bradycardia which may be severe enough to require resuscitation including use of positive pressure ventilation. Theophylline and continuous positive airways pressure (CPAP) are two treatments that have been used to prevent apnea and its consequences. 
+Objectives
+The main objective was to determine in preterm infants with recurrent apnea, if treatment with CPAP compared with treatment with theophylline leads to a clinically important reduction in apnea or use of mechanical ventilation, without clinically important side effects. 
+Search methods
+Searches were made of the Oxford Database of Perinatal Trials, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1 2005), MEDLINE (1966 ‐ March 2005), EMBASE (1980 ‐ March 2005), and CINAHL (1982 ‐ March 2005). Previous reviews including cross references were also examined. Expert informants were also questioned. Abstracts of the Society for Pediatric Research from 1996 ‐ 2004 inclusive were searched. 
+Selection criteria
+All trials using random or quasi‐random allocation to CPAP or theophylline in preterm infants with clinical recurrent apnea/bradycardia were eligible. 
+Data collection and analysis
+Data were extracted using standard methods of the Cochrane Collaboration and its Neonatal Review Group, with separate evaluation of trial quality and data extraction by each author and synthesis of data using relative risk. 
+Main results
+Only one eligible trial was found. The use of mask CPAP is associated with a higher treatment failure rate as measured by less than a 50% reduction in apnea or use of an alternative treatment [RR 2.89 (95% CI 1.12, 7.47); RD 0.42 (95% CI 0.11, 0.74)]. For every 2.4 infants (95% CI 1.4, 9.5) treated with mask CPAP rather than theophylline, there results one treatment failure. In the mask CPAP group there is more use of IPPV [RR 3.09 (1.42, 6.70); RD 0.58 (95% CI 0.30, 0.86). For every 1.7 infants (95% CI 1.2, 3.3) treated with mask CPAP rather than theophylline, one infant is intubated for IPPV. 
+In the mask CPAP group, there are trends towards more deaths in the first year, and in death or major disability in survivors at follow up, which do not reach significance. There are no differences in rates of necrotizing enterocolitis or major disability in survivors at follow up. 
+Authors' conclusions
+Theophylline is more effective than mask CPAP for preterm infants with apnea. Since CPAP is no longer administered by mask, the results of this review have limited importance for current clinical practice. Further evaluation of the benefits and harms of CPAP vs theophylline for preterm infants with apnea requires further trials in which CPAP is administered by current methods. 

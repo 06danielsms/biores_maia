@@ -1,0 +1,14 @@
+Background
+Sudden infant death syndrome (SIDS) has been most recently defined as the sudden unexpected death of an infant less than one year of age, with onset of the fatal episode apparently occurring during sleep, that remains unexplained after a thorough investigation, including the performance of a complete autopsy and a review of the circumstances of death and clinical history. Despite the success of several prevention campaigns, SIDS remains a leading cause of infant mortality. In 1994, a 'triple risk model' for SIDS was proposed that described SIDS as an event that results from the intersection of three factors: a vulnerable infant; a critical development period in homeostatic control (age related); and an exogenous stressor. The association between pacifier (dummy) use and reduced incidence of SIDS has been shown in epidemiological studies since the early 1990s. Pacifier use, given its low cost, might be a cost‐effective intervention for SIDS prevention if it is confirmed effective in randomised controlled trials. 
+Objectives
+To determine whether the use of pacifiers during sleep versus no pacifier during sleep reduces the risk of SIDS. 
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 2), MEDLINE via PubMed, Embase, and CINAHL to 16 March 2016. We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Published and unpublished controlled trials using random and quasi‐random allocations of infants born at term and at preterm (less than 37 weeks' gestation) or with low birth weight (< 2500 g). Infants must have been randomised by one month' postmenstrual age. We planned to include studies reported only by abstracts, and cluster and cross‐over randomised trials. 
+Data collection and analysis
+Two review authors independently reviewed studies from searches. We found no eligible studies. 
+Main results
+We identified no randomised controlled trials examining infant pacifiers for reduction in risk of SIDS. 
+Authors' conclusions
+We found no randomised control trial evidence on which to support or refute the use of pacifiers for the prevention of SIDS. 

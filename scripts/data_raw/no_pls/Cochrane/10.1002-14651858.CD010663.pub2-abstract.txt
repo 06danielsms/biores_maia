@@ -1,0 +1,14 @@
+Background
+Adolescent idiopathic scoliosis (AIS) is a three‐dimensional deformity of the spine. While AIS can progress during growth and cause a surface deformity, it is usually not symptomatic. However, if the final spinal curvature surpasses a certain critical threshold, the risk of health problems and curve progression is increased. Interventions for the prevention of AIS progression include scoliosis‐specific exercises, bracing, and surgery. The main aims of all types of interventions are to correct the deformity and prevent further deterioration of the curve and to restore trunk asymmetry and balance, while minimising morbidity and pain, allowing return to full function. Surgery is normally recommended for curvatures exceeding 40 to 50 degrees to stop curvature progression with a view to achieving better truncal balance and cosmesis. Short‐term results of the surgical treatment of people with AIS demonstrate the ability of surgery to improve various outcome measures. However there is a clear paucity of information on long‐term follow‐up of surgical treatment of people with AIS. 
+Objectives
+To examine the impact of surgical versus non‐surgical interventions in people with AIS who have severe curves of over 45 degrees, with a focus on trunk balance, progression of scoliosis, cosmetic issues, quality of life, disability, psychological issues, back pain, and adverse effects, at both the short term (a few months) and the long term (over 20 years). 
+Search methods
+We searched the Cochrane Back Review Group Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, four other databases, and three trials registers up to August 2014 with no language limitations. We also checked the reference lists of relevant articles and conducted an extensive handsearch of the grey literature. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) and prospective controlled trials comparing spinal fusion surgery with non‐surgical interventions in people with AIS with a Cobb angle greater than 45 degrees. We were interested in all types of instrumented surgical interventions with fusion that aimed to provide curve correction and spine stabilisation. 
+Data collection and analysis
+We found no RCTs or prospective controlled trials that met our inclusion criteria.
+Main results
+We did not identify any evidence comparing surgical to non‐surgical interventions for AIS with severe curves of over 45 degrees. 
+Authors' conclusions
+We cannot draw any conclusions.

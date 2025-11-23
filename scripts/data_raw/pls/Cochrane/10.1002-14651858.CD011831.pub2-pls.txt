@@ -1,0 +1,11 @@
+Chlorpromazine versus penfluridol for schizophrenia
+Review question 
+How effective is the antipsychotic chlorpromazine as a treatment for schizophrenia compared to penfluridol? 
+Background 
+Schizophrenia is serious mental disorder where people experience symptoms such as hallucinations and delusions, social withdrawal, decreased motivation and poor emotional response. The main treatment for schizophrenia is antipsychotic drugs. Chlorpromazine and penfluridol are widely used antipsychotics. However, different antipsychotics have different effects, and knowing the individual effects of different antipsychotics and what particular side effects they cause could help with deciding which antipsychotic to prescribe for an individual with schizophrenia. This review compares chlorpromazine with penfluridol and is one of a series of reviews comparing chlorpromazine directly with other antipsychotics. 
+Searching 
+The Information Specialist of Cochrane Schizophrenia searched their trials register in March, 2017 for trials that randomised adults with schizophrenia or related disorders to receive either chlorpromazine or penfluridol. Seven records were found and checked by the review authors 
+Evidence found 
+Only three randomised controlled trials, with a total of 130 participants met the review requirements and provided useable data. The quality of evidence available was low, no real difference was noted between chlorpromazine and penfluridol for hospital admissions, incidence of akathisia or numbers of participants leaving the study early. There were no deaths during the trials. We were unable to use the available data for global and mental state due to poor reporting, and no studies reported relapse data. 
+Conclusions 
+We can not make firm conclusions regarding the comparable effectiveness between chlorpromazine and penfluridol with such poor quality data ‐ but penfluridol only needs to be given once per week ‐ which could help the poor adherence to medication common with schizophrenia. Remarkably, for such old drugs, more trials that report high‐quality data are needed. 

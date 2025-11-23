@@ -1,0 +1,35 @@
+Background
+A frozen embryo transfer (FET) cycle is when one or more embryos (frozen during a previous treatment cycle) are thawed and transferred to the uterus. Some women undergo fresh embryo transfer (ET) cycles with embryos derived from donated oocytes. In both situations, the endometrium is primed with oestrogen and progestogen in different doses and routes of administration. 
+Objectives
+To evaluate the most effective endometrial preparation for women undergoing transfer with frozen embryos or embryos from donor oocytes with regard to the subsequent live birth rate (LBR). 
+Search methods
+The Cochrane Gynaecology and Fertility Group trials register, CENTRAL, MEDLINE, Embase, PsycINFO, LILACS, trials registers and abstracts of reproductive societies' meetings were searched in June 2020 together with reference checking and contact with study authors and experts in the field to identify additional studies. 
+Selection criteria
+Randomised controlled trials (RCTs) evaluating endometrial preparation in women undergoing fresh donor cycles and frozen embryo transfers. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. We analysed all available interventions versus placebo, no treatment, or between each other. The primary review outcome was live birth rate. Secondary outcomes were clinical and multiple pregnancy, miscarriage, cycle cancellation, endometrial thickness and adverse effects. 
+Main results
+Thirty‐one RCTs (5426 women) were included. Evidence was moderate to very low‐quality: the main limitations were serious risk of bias due to poor reporting of methods, and serious imprecision. 
+Stimulated versus programmed cycle 
+We are uncertain whether a letrozole‐stimulated cycle compared to a programmed cycle, for endometrial preparation, improves LBR (odds ratio (OR) 1.26, 95% confidence interval (CI) 0.49 to 3.26; 100 participants; one study; very low‐quality evidence). 
+Stimulating with follicle stimulating hormone (FSH), letrozole or clomiphene citrate may improve clinical pregnancy rate (CPR) (OR 1.63, 95% CI 1.12 to 2.38; 656 participants; five studies; I2 = 11%; low‐quality evidence). We are uncertain if they reduce miscarriage rate (MR) (OR 0.79, 95% CI 0.36 to 1.71; 355 participants; three studies; I2 = 0%; very low‐quality evidence). Endometrial thickness (ET) may be reduced with clomiphene citrate (mean difference(MD) ‐1.04, 95% CI ‐1.59 to ‐0.49; 92 participants; one study; low‐quality evidence). Other outcomes were not reported. 
+Natural versus programmed cycle 
+We are uncertain of the effect from a natural versus programmed cycle for LBR (OR 0.97, 95% CI 0.74 to 1.28; 1285 participants; four studies; I2 = 0%; very low‐quality evidence) and CPR (OR 0.79, 95% CI 0.62 to 1.01; 1249 participants; five studies; I2 = 60%; very low‐quality evidence), while a natural cycle probably reduces the cycle cancellation rate (CCR) (OR 0.60, 95% CI 0.44 to 0.82; 734 participants; one study; moderate‐quality evidence). We are uncertain of the effect on MR and ET. No study reported other outcomes. 
+Transdermal versus oral oestrogens 
+From low‐quality evidence we are uncertain of the effect transdermal compared to oral oestrogens has on CPR (OR 0.86, 95% CI 0.59 to 1.25; 504 participants; three studies; I2 = 58%) or MR (OR 0.55, 95% CI 0.27 to 1.09; 414 participants; two studies; I2 = 0%). Other outcomes were not reported. 
+Day of starting administration of progestogen 
+When doing a fresh ET using donated oocytes in a synchronised cycle starting progestogen on the day of oocyte pick‐up (OPU) or the day after OPU, in comparison with recipients that start progestogen the day prior to OPU, probably increases the CPR (OR 1.87, 95% CI 1.13 to 3.08; 282 participants; one study, moderate‐quality evidence). We are uncertain of the effect on multiple pregnancy rate (MPR) or MR. It probably reduces the CCR (OR 0.28, 95% CI 0.11 to 0.74; 282 participants; one study; moderate‐quality evidence). No study reported other outcomes. 
+Gonadotropin‐releasing hormone (GnRH) agonist versus control 
+A cycle with GnRH agonist compared to without may improve LBR (OR 2.62, 95% CI 1.19 to 5.78; 234 participants; one study; low‐quality evidence). From low‐quality evidence we are uncertain of the effect on CPR (OR 1.08, 95% CI 0.82 to 1.43; 1289 participants; eight studies; I2 = 20%), MR (OR 0.85, 95% CI 0.36 to 2.00; 828 participants; four studies; I2 = 0%), CCR (OR 0.49, 95% CI 0.21 to 1.17; 530 participants; two studies; I2 = 0%) and ET (MD ‐0.08, 95% CI ‐0.33 to 0.16; 697 participants; four studies; I2 = 4%). No study reported other outcomes. 
+Among different GnRH agonists 
+From very low‐quality evidence we are uncertain if cycles among different GnRH agonists improves CPR or MR. No study reported other outcomes. 
+GnRH agonists versus GnRH antagonists 
+GnRH antagonists compared to agonists probably improves CPR (OR 0.62, 95% CI 0.42 to 0.90; 473 participants; one study; moderate‐quality evidence). We are uncertain of the effect on MR and MPR. No study reported other outcomes. 
+Aspirin versus control 
+From very low‐quality evidence we are uncertain whether a cycle with aspirin versus without improves LBR, CPR, or ET. 
+Steroids versus control 
+From very low‐quality evidence we are uncertain whether a cycle with steroids compared to without improves LBR, CPR or MR. No study reported other outcomes. 
+Authors' conclusions
+There is insufficient evidence on the use of any particular intervention for endometrial preparation in women undergoing fresh donor cycles and frozen embryo transfers. In frozen embryo transfers, low‐quality evidence showed that clinical pregnancy rates may be improved in a stimulated cycle compared to a programmed one, and we are uncertain of the effect when comparing a programmed cycle to a natural cycle. Cycle cancellation rates are probably reduced in a natural cycle. Although administering a GnRH agonist, compared to without, may improve live birth rates, clinical pregnancy rates will probably be improved in a GnRH antagonist cycle over an agonist cycle. 
+In fresh synchronised oocyte donor cycles, the clinical pregnancy rate is probably improved and cycle cancellation rates are probably reduced when starting progestogen the day of or day after donor oocyte retrieval. 
+Adequately powered studies are needed to evaluate each treatment more accurately.

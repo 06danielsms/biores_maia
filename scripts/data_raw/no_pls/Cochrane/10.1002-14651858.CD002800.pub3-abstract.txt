@@ -1,0 +1,14 @@
+Background
+Randomised clinical trials have addressed the question whether propylthiouracil has any beneficial effects in patients with alcoholic liver disease. 
+Objectives
+To assess the beneficial and harmful effects of propylthiouracil for patients with alcoholic liver disease. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register (April 2011), The Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (April 2011), MEDLINE (1948 to April 2011), EMBASE (1980 to April 2011), and Science Citation Index Expanded (1900 to April 2011). These electronic searches were combined with full text searches. Manufacturers and researchers in the field were also contacted. 
+Selection criteria
+Randomised clinical trials studying patients with alcoholic steatosis, alcoholic fibrosis, alcoholic hepatitis, and/or alcoholic cirrhosis were included irrespective of blinding, publication status, or language. Interventions encompassed propylthiouracil at any dose versus placebo or no intervention. 
+Data collection and analysis
+All analyses were performed according to the intention‐to‐treat method in RevMan Analyses. The risk of bias of the randomised clinical trials was evaluated by bias risk domains such as generation of allocation sequence, allocation concealment, blinding, incomplete outcome data, selective outcome reporting, academic bias, and source of funding. 
+Main results
+Combining the results of six randomised clinical trials with high risk of bias which included 710 patients demonstrated no significant effects of propylthiouracil versus placebo on all‐cause mortality (risk ratio (RR) 0.93, 95% confidence interval (CI) 0.66 to 1.30), liver‐related mortality (RR 0.90, 95% CI 0.58 to 1.40), or complications of the liver disease. Although propylthiouracil was not associated with a significant increased risk of non‐serious adverse events, there were occasional instances of serious adverse events such as leukopenia and generalised bullous eruption. 
+Authors' conclusions
+We could not demonstrate any significant beneficial effect of propylthiouracil on all‐cause mortality, liver‐related mortality, liver complications, or liver histology of patients with alcoholic liver disease. Propylthiouracil was associated with adverse events. Confidence intervals were wide. Thus, the risk of random errors and systematic errors was high. Accordingly, there is no evidence for using propylthiouracil for alcoholic liver disease outside randomised clinical trials. 

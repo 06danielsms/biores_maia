@@ -1,0 +1,14 @@
+Background
+Various techniques of flushing and reperfusion have been advocated to improve outcomes after liver transplantation. There is considerable uncertainty as to which method is superior. 
+Objectives
+To compare the benefits and harms of different methods of flushing and reperfusion during liver implantation in the transplant recipients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until March 2011. 
+Selection criteria
+We included all randomised clinical trials that were performed to compare different techniques of flushing and reperfusion during liver transplantation. 
+Data collection and analysis
+Two authors independently identified the trials and extracted the data. We analysed the data with both the fixed‐effect model and the random‐effects model using RevMan analysis. For each outcome we calculated the hazard ratio (HR), risk ratio (RR), rate ratio, mean difference (MD), or standardised mean difference (SMD) with 95% confidence intervals (CI) based on available case analysis. 
+Main results
+We included six trials involving 418 patients for this review. The sample size in the trials varied from 30 to 131 patients. Only one trial involving 131 patients was of low risk of bias for mortality. This trial was at high risk of bias for other outcomes. Four trials excluded patients who underwent liver transplantation for acute liver failure. All the trials included livers obtained from cadaveric donors. The remaining five trials were of high risk of bias for all outcomes. Liver transplantation was performed by the conventional method (caval replacement) in two trials and piggy‐back method (caval preservation) in one trial. The method of liver transplantation was not available in the remaining three trials. The comparisons performed included an initial hepatic artery flush versus initial portal vein flush; blood venting via inferior vena cava in addition to venting of storage fluid versus no blood venting; initial hepatic artery reperfusion versus initial portal vein reperfusion; simultaneous hepatic artery and portal vein reperfusion versus initial portal vein reperfusion; and retrograde inferior vena cava reperfusion versus simultaneous hepatic artery and portal vein reperfusion. Only one or two trials could be included under each comparison. There was no significant difference in mortality, graft survival, or severe morbidity rates in any of the comparisons. Quality of life was not reported in any of the trials. 
+Authors' conclusions
+There is currently no evidence to support or refute the use of any specific technique of flushing or reperfusion during liver transplantation. Due to the paucity of data, absence of evidence should not be confused with evidence of absence of any differences. Further well designed trials with low risk of systematic error and low risk of random errors are necessary. 

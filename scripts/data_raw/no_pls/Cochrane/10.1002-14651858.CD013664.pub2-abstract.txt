@@ -1,0 +1,14 @@
+Background
+Trabeculectomy is a surgical treatment for glaucoma to lower intraocular pressure with high success rates; however, it is often associated with an increased rate of cataract formation. Cataract can cause symptoms such as glare in bright conditions, foggy vision, and difficulty in driving at night. Cataract extraction surgery is highly successful in improving vision, but it comes at a cost of trabeculectomy failure, with a reported risk of 30% to 40%. An additional intervention to promote trabeculectomy survival after cataract extraction is needed. This review encompassed all adjunctive therapies used at the time of cataract surgery to increase trabeculectomy survival rate. 
+Objectives
+To investigate the effect of the adjunctive modulation of wound healing during cataract surgery on the survival of a previously functioning trabeculectomy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL; which contains the Cochrane Eyes and Vision Trials Register; 2021, Issue 4); Ovid MEDLINE; Ovid Embase; the ISRCTN registry; ClinicalTrials.gov; and the WHO ICTRP. We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 14 April 2021. 
+Selection criteria
+We planned to include all randomised controlled trials (RCTs) of participants who had a functioning trabeculectomy and were undergoing cataract surgery that compared any adjunctive therapy intended to modulate wound healing (such as 5‐fluorouracil, mitomycin C, or anti‐vascular endothelial growth factor (VEGF) therapy) with no adjuvant therapy.  
+Data collection and analysis
+We used standard methods expected by Cochrane. Our primary outcome was trabeculectomy failure at 6 months and 12 months after cataract surgery. Secondary outcomes were mean intraocular pressure difference from pre‐cataract surgery baseline to 6 to 18 months post‐cataract surgery; number of medications required to control eye pressure compared to before cataract surgery; bleb appearance as measured by a summation score of the Moorfields bleb grading system or other equivalent numerical grading systems; visual field progression measured by difference in mean deviation from baseline; and any complications. 
+Main results
+We did not identify any RCTs of adjunctive modulation of wound healing during cataract surgery to promote survival of a previous trabeculectomy. 
+Authors' conclusions
+There is a need for an RCT to investigate the role of adjuvant wound modulating therapy at the time of cataract surgery to promote survival of a functioning trabeculectomy. 

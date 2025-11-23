@@ -1,0 +1,17 @@
+Background
+Thyroid nodules are very common in general medical practice, but rarely turn out to be a medullary thyroid carcinoma (MTC). Calcitonin is a sensitive tumour marker for the detection of MTC (basal calcitonin). Sometimes a stimulation test is used to improve specificity (stimulated calcitonin). Although the European Thyroid Association's guideline advocates calcitonin determination in people with thyroid nodules, the role of routine calcitonin testing in individuals with thyroid nodules is still questionable. 
+Objectives
+The objective of this review was to determine the diagnostic accuracy of basal and/or stimulated calcitonin as a triage or add‐on test for detection of MTC in people with thyroid nodules. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and Web of Science from inception to June 2018. 
+Selection criteria
+We included all retrospective and prospective cohort studies in which all participants with thyroid nodules had undergone determination of basal calcitonin levels (and stimulated calcitonin, if performed). 
+Data collection and analysis
+Two review authors independently scanned all retrieved records. We extracted data using a standard data extraction form. We assessed risk of bias and applicability using the QUADAS‐2 tool. Using the hierarchical summary receiver operating characteristic (HSROC) model, we estimated summary curves across different thresholds and also obtained summary estimates of sensitivity and specificity at a common threshold when possible. 
+Main results
+In 16 studies, we identified 72,368 participants with nodular thyroid disease in whom routinely calcitonin testing was performed. All included studies performed the calcitonin test as a triage test. Median prevalence of MTC was 0.32%. Sensitivity in these studies ranged between 83% and 100% and specificity ranged between 94% and 100%. 
+An important limitation in 15 of the 16 studies (94%) was the absence of adequate reference standards and follow‐up in calcitonin‐negative participants. This resulted in a high risk of bias with regard to flow and timing in the methodological quality assessment. 
+At the median specificity of 96.6% from the included studies, the estimated sensitivity (95% confidence interval (CI)) from the summary curve was 99.7% ( 68.8% to 100%). For the median prevalence of MTC of 0.23%, the positive predictive value (PPV) for basal calcitonin testing at a threshold of 10 pg/mL was 7.7% (4.9% to 12.1%). 
+Summary estimates of sensitivity and specificity for the threshold of 10 pg/mL of basal calcitonin testing was 100% (95% CI 99.7 to 100) and 97.2% (95% CI 95.9 to 98.6), respectively. For combined basal and stimulated calcitonin testing, sensitivity ranged between 82% and 100% with specificity between 99% and 100%. The median specificity was 99.8% with an estimated sensitivity of 98.8% (95% CI 65.8 to 100) . 
+Authors' conclusions
+Both basal and combined basal and stimulated calcitonin testing have a high sensitivity and specificity. However, this may be an overestimation due to high risk of bias in the use and choice of reference standard The value of routine testing in patients with thyroid nodules remains questionable, due to the low prevalence, which results in a low PPV of basal calcitonin testing. Whether routine calcitonin testing improves prognosis in MTC patients remains unclear. 

@@ -1,0 +1,28 @@
+Benefits and risks of antibiotics taken orally or given as an injection to treat chronic suppurative otitis media (persistent or recurring ear infection with discharge) 
+Why is this question important? 
+Chronic suppurative otitis media (CSOM), also known as chronic otitis media (COM), is an inflammation and infection of the middle ear that lasts for two weeks or more. People with CSOM usually experience recurrent or persistent discharge – fluid that leaks out from a hole or tear in the eardrum – and hearing loss. 
+CSOM can be treated with antibiotics (medicines that fight bacterial infections) taken orally or given as an injection (i.e. systemic treatment in which the whole body is treated). Systemic antibiotics can be used: 
+‐ alone;‐ in combination with antibiotics in the form of drops, sprays, ointments or creams (topical, i.e. localised surface treatment); or‐ in combination with other treatments such as steroids (anti‐inflammation medicines) or antiseptics (substances that stop or slow down the growth of micro‐organisms). 
+To find out how effective systemic antibiotics are for treating CSOM, and whether they lead to side effects, we reviewed the evidence from research studies. 
+How did we identify and evaluate the evidence? 
+First, we searched the medical literature for studies that followed people with CSOM for at least one week and compared: 
+‐ a systemic antibiotic used alone against a placebo (dummy) treatment, no treatment or another systemic antibiotic;‐ a systemic antibiotic combined with another treatment, against that treatment alone. 
+We then compared the results, and summarised the evidence from all the studies. Finally, we rated our confidence in the evidence, based on factors such as study methods and sizes, and the consistency of findings across studies. 
+What did we find? 
+We found 18 studies that involved a total of 2135 people with CSOM. People were treated for between five days and 12 weeks, and were followed for up to one year. Four studies provided information about how they were funded or who supplied the medicines: two were publicly funded, and medicines were provided by pharmaceutical companies in the other two studies. 
+Studies compared:
+‐ systemic antibiotics against no treatment (one study);‐ systemic antibiotics plus topical antibiotics against topical antibiotics alone (six studies);‐ systemic antibiotics plus other treatments (other than topical antibiotics alone), against these same treatments without systemic antibiotics (four studies);‐ different systemic antibiotics against one another (eight studies). 
+Systemic antibiotics alone against no treatment 
+We cannot determine from the only study we found whether systemic antibiotics alone are better or worse than no treatment. This is mainly because the study: 
+‐ was small;‐ was conducted in ways that could have introduced error in the results; and‐ reported limited information. 
+Systemic antibiotics plus topical antibiotics against topical antibiotics alone 
+Systemic antibiotics plus topical antibiotics may have little to no effect on whether discharge stops after one to two weeks, compared against topical antibiotics alone (five studies). We do not know if systemic antibiotics added to topical antibiotics have any other positive or negative effects, because: 
+‐ there are too few studies;‐ available studies were small and may have been conducted in ways that introduce error in their results. 
+Systemic antibiotics plus other treatments (other than topical antibiotics alone), against these same treatments without systemic antibiotics 
+We cannot determine from the evidence available whether systemic antibiotics are effective or lead to adverse events when added to treatments other than topical antibiotics only. This is mainly because the few studies available reported limited information. 
+Comparisons between different systemic antibiotics 
+We do not know whether some systemic antibiotics are better than others. This is mainly because the way studies were conducted is likely to have introduced error in their results. 
+What does this mean? 
+There is insufficient robust evidence to determine whether systemic antibiotics are effective treatments for CSOM, and whether they lead to side effects. Evidence about side effects is particularly limited. When added to topical antibiotics, systemic antibiotics may make little to no difference to whether discharge resolves after one to two weeks. We do not know if some systemic antibiotics are better than others. 
+How‐up‐to date is this review? 
+The evidence in this Cochrane Review is current to March 2020.

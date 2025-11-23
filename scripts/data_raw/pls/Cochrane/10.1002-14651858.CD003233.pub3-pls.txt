@@ -1,0 +1,9 @@
+Immunosuppressive treatment for focal segmental glomerulosclerosis in adults
+What is the issue? 
+Nephrotic syndrome is a condition where the kidneys leak protein from the blood into the urine. Focal segmental glomerulosclerosis (FSGS) defined on kidney biopsy is an uncommon cause of nephrotic syndrome disease but it progresses to kidney failure in about half of all cases. It can be divided into three groups ‐ primary FSGS (thought to be due to a factor circulating in the blood that damages the kidneys), genetic (secondary to mutations in one or more genes), and secondary to other causes, including certain infections. Treatments aim to reduce the amount of protein in the urine completely or partly to increase the time before kidney failure develops.  
+What did we do? 
+We looked at all randomised controlled trials (RCTs) which examined therapy with prednisone or other agents which affect the immune system such as cyclosporin and mycophenolate mofetil and other agents with or without steroid therapy.  
+What did we find? 
+We found 15 studies involving 553 participants. In five studies cyclosporin was compared with different treatments. Combining four studies (231 participants) showed that cyclosporin was more effective than these other treatments in achieving complete remission of nephrotic syndrome. The studies were too small and lasted for too short a time to determine if cyclosporin reduced the risk of kidney failure. Nine small studies examined different medicines that suppress the body's immune system. None of these treatments reduced the amount of protein in the urine. 
+Conclusions 
+We found limited information that cyclosporin may reduce the amount of protein in the urine in some people with FSGS but the data are uncertain because the studies enrolled too few participants. We need new agents for the treatment of FSGS with nephrotic syndrome to prevent kidney failure. 

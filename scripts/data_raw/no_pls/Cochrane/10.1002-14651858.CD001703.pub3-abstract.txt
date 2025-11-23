@@ -1,0 +1,14 @@
+Background
+Antidepressants are commonly used in the management of low‐back pain. However, their use is controversial. 
+Objectives
+The aim of this review was to determine whether antidepressants are more effective than placebo for the treatment of non‐specific low‐back pain. 
+Search methods
+Randomised controlled trials were identified from MEDLINE, EMBASE and PsycINFO (to November 2008), the Cochrane Central Register of Controlled Trials 2008, Issue 4, and previous systematic reviews. 
+Selection criteria
+We included randomised controlled trials that compared antidepressant medication and placebo for patients with non‐specific low‐back pain and used at least one clinically relevant outcome measure. 
+Data collection and analysis
+Two blinded review authors independently extracted data and assessed the risk of bias in the trials. Meta‐analyses were used to examine the effect of antidepressants on pain, depression and function, and the effect of antidepressant type on pain. To account for studies that could not be pooled, additional qualitative analyses were performed using the levels of evidence recommended by the Cochrane Back Review Group. 
+Main results
+Ten trials that compared antidepressants with placebo were included in this review. The pooled analyses showed no difference in pain relief (six trials (one trial with two treatment arms and a second trial with 3 treatment arms); standardized mean difference (SMD) ‐0.04 (95% confidence interval (CI) ‐0.25 to 0.17)) or depression (two trials; SMD 0.06 (95% CI ‐0.29 to 0.40)) between antidepressant and placebo treatments. The qualitative analyses found conflicting evidence on the effect of antidepressants on pain intensity in chronic low‐back pain, and no clear evidence that antidepressants reduce depression in chronic low‐back pain patients. Two pooled analyses showed no difference in pain relief between different types of antidepressants and placebo. Our findings were not altered by the sensitivity analyses, which varied the risk of bias allowed for inclusion in the meta‐analyses to allow data from additional trials to be examined. 
+Authors' conclusions
+There is no clear evidence that antidepressants are more effective than placebo in the management of patients with chronic low‐back pain. These findings do not imply that severely depressed patients with back pain should not be treated with antidepressants; furthermore, there is evidence for their use in other forms of chronic pain. 

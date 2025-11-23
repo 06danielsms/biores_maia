@@ -1,0 +1,18 @@
+Background
+Pericyazine is a 3‐cyano‐10 (3‐4'‐hydroxypiperidinopropyl) phenothiazine. It is overall pharmacologically similar with chlorpromazine, though particularly sedating. Dopamine receptor subtype analysis has not been performed for pericyazine, but the drug appears to induce greater noradrenergic than dopaminergic blockade. Compared to chlorpromazine, pericyazine reportedly has more potent antiemetic, antiserotonin, and anticholinergic activity. 
+Objectives
+To evaluate the clinical effects and safety of pericyazine in comparison with placebo, typical and atypical antipsychotic agents and standard care for people with schizophrenia. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (February 2013) which is based on regular searches of CINAHL, EMBASE, MEDLINE and PsycINFO. We inspected references of all identified studies for further trials. 
+Selection criteria
+All relevant randomised controlled trials focusing on pericyazine for schizophrenia and other types of schizophrenia‐like psychoses (schizophreniform and schizoaffective disorders). We excluded quasi‐randomised trials. 
+Data collection and analysis
+Data were extracted independently from included papers by at least two review authors. Risk ratios (RR) and 95% confidence intervals (CI) of homogeneous dichotomous data were calculated. We assessed risk of bias for included studies and used GRADE to judge quality of evidence. 
+Main results
+We could only include five studies conducted between 1965 and 1980. Most of the included studies did not report details of randomisation, allocation concealment, details of blinding and we could not assess the impact of attrition due to poor reporting. 
+For the primary outcome of Global state ‐ not improved, the confidence interval was compatible with a small benefit and increased risk of not improving with pericyazine compared with typical antipsychotics (2 RCTs, n = 122, RR 1.24 CI 0.93 to 1.66, very low quality of evidence) or atypical antipsychotics (1 RCT, n = 93, RR 0.97 CI 0.67 to 1.42, very low quality of evidence). 
+When compared with typical antipsychotics relapse was only experienced by one person taking pericyazine (1 RCT, n = 80, RR 2.59 CI 0.11 to 61.75, very low quality of evidence). 
+Pericyazine was associated with more extrapyramidal side effects than typical antipsychotics (3 RCTs, n = 163, RR 0.52 CI 0.34 to 0.80, very low quality of evidence) and atypical antipsychotics (1 RCT, n = 93, RR 2.69 CI 1.35 to 5.36, very low quality of evidence). 
+The estimated risk of leaving the study early for specific reasons was imprecise for the comparisons of pericyazine with typical antipsychotics (2 RCTs, n = 71, RR 0.46 CI 0.11 to 1.90, very low quality of evidence), and with atypical antipsychotics (1 RCT, n = 93, RR 0.13 CI 0.01 to 2.42, very low quality of evidence). 
+Authors' conclusions
+On the basis of very low quality evidence we are unable to determine the effects of pericyazine in comparison with typical or atypical antipsychotics for the treatment of schizophrenia. However, there is some evidence that pericyazine may be associated with a higher incidence of extrapyramidal side effects than other antipsychotics, and again this was judged to be very low quality evidence. Large, robust studies are still needed before any firm conclusions can be drawn. 

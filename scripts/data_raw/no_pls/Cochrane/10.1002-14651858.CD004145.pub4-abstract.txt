@@ -1,0 +1,14 @@
+Background
+Injecting drug users are vulnerable to infection with Human Immunodeficiency Virus (HIV) and other blood borne viruses as a result of collective use of injecting equipment as well as sexual behaviour 
+Objectives
+To assess the effect of oral substitution treatment for opioid dependent injecting drug users on risk behaviours and rates of HIV infections 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and PsycINFO to May 2011. We also searched reference lists of articles, reviews and conference abstracts 
+Selection criteria
+Studies were required to consider the incidence of risk behaviours, or the incidence of HIV infection related to substitution treatment of opioid dependence. All types of original studies were considered. Two authors independently assessed each study for inclusion 
+Data collection and analysis
+Two authors independently extracted key information from each of the included studies. Any differences were resolved by discussion or by referral to a third author. 
+Main results
+Thirty‐eight studies, involving some 12,400 participants, were included. The majority were descriptive studies, or randomisation processes did not relate to the data extracted, and most studies were judged to be at high risk of bias. Studies consistently show that oral substitution treatment for opioid‐dependent injecting drug users with methadone or buprenorphine is associated with statistically significant reductions in illicit opioid use, injecting use and sharing of injecting equipment. It is also associated with reductions in the proportion of injecting drug users reporting multiple sex partners or exchanges of sex for drugs or money, but has little effect on condom use. It appears that the reductions in risk behaviours related to drug use do translate into reductions in cases of HIV infection. However, because of the high risk of bias and variability in several aspects of the studies, combined totals were not calculated. 
+Authors' conclusions
+Oral substitution treatment for injecting opioid users reduces drug‐related behaviours with a high risk of HIV transmission, but has less effect on sex‐related risk behaviours. The lack of data from randomised controlled studies limits the strength of the evidence presented in this review. 

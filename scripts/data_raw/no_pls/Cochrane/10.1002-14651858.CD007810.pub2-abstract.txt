@@ -1,0 +1,18 @@
+Background
+Adenoidectomy, surgical removal of the adenoids, is a common ENT operation worldwide in children with otitis media. A systematic review on the effectiveness of adenoidectomy in this specific group has not previously been performed. 
+Objectives
+To assess the effectiveness of adenoidectomy versus non‐surgical management or tympanostomy tubes in children with otitis media. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; mRCT and additional sources for published and unpublished trials. The date of the most recent search was 30 March 2009. 
+Selection criteria
+Randomised controlled trials comparing adenoidectomy, with or without tympanostomy tubes, versus non‐surgical management or tympanostomy tubes only in children with otitis media. The primary outcome studied was the proportion of time with otitis media with effusion (OME). Secondary outcomes were mean number of episodes, mean number of days per episode and per year, and proportion of children with either acute otitis media (AOM) or otitis media with effusion (OME), as well as mean hearing level. Tertiary outcome measures included atrophy of the tympanic membrane, tympanosclerosis, retraction of the pars tensa and pars flaccid and cholesteatoma. 
+Data collection and analysis
+Two authors assessed trial quality and extracted data independently.
+Main results
+Fourteen randomised controlled trials (2712 children) studying the effectiveness of adenoidectomy in children with otitis media were evaluated. Most of these trials were too heterogeneous to pool in a meta‐analysis. Loss to follow up varied from 0% to 63% after two years. 
+Adenoidectomy in combination with a unilateral tympanostomy tube has a beneficial effect on the resolution of OME (risk difference (RD) 22% (95% CI 12% to 32%) and 29% (95% CI 19% to 39%) for the non‐operated ear at six and 12 months, respectively (n = 3 trials)) and a very small (< 5 dB) effect on hearing, compared to a unilateral tympanostomy tube only. The results of studies of adenoidectomy with or without myringotomy versus non‐surgical treatment or myringotomy only, and those of adenoidectomy in combination with bilateral tympanostomy tubes versus bilateral tympanostomy tubes only, also showed a small beneficial effect of adenoidectomy on the resolution of the effusion. The latter results could not be pooled due to large heterogeneity of the trials. 
+Regarding AOM, the results of none of the trials including this outcome indicate a significant beneficial effect of adenoidectomy. The trials were too heterogeneous to pool in a meta‐analysis. 
+The effects of adenoidectomy on changes of the tympanic membrane or cholesteatoma have not been studied. 
+Authors' conclusions
+Our review shows a significant benefit of adenoidectomy as far as the resolution of middle ear effusion in children with OME is concerned. However, the benefit to hearing is small and the effects on changes in the tympanic membrane are unknown. The risks of operating should be weighed against these potential benefits. 
+The absence of a significant benefit of adenoidectomy on AOM suggests that routine surgery for this indication is not warranted. 

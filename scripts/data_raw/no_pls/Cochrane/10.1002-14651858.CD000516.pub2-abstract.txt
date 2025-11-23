@@ -1,0 +1,14 @@
+Background
+Surgery for vertebral artery stenosis is technically difficult, potentially hazardous and is not considered in most centres. There is growing evidence from case series that vertebral artery stenosis may be treated endovascularly by percutaneous transluminal angioplasty and stenting. This may be a feasible alternative to surgery to relieve symptoms caused by significant stenosis. 
+Objectives
+To assess the safety and efficacy of vertebral artery percutaneous transluminal angioplasty, with or without stenting, combined with medical care, compared to medical care alone, in patients with vertebral artery stenosis. 
+Search methods
+We searched the Cochrane Stroke Group's trials register (last searched 28 July 2004), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 3, 2002), MEDLINE (1966 to July 2004), EMBASE (1980 to July 2004), and Science Citation Index (1981 to July 2004). We contacted researchers in the field, and balloon catheter and stent manufacturers. 
+Selection criteria
+Randomised trials of endovascular treatment of vertebral artery stenosis combined with best medical therapy, compared with best medical therapy alone, in patients with symptomatic or asymptomatic vertebral artery stenosis. 
+Data collection and analysis
+Two review authors independently applied the inclusion criteria, extracted data and assessed trial quality. 
+Main results
+One completed randomised trial was found. In one subgroup of this trial, 16 patients with symptomatic severe vertebral artery stenosis were randomised to endovascular treatment (eight patients) or medical treatment alone (eight patients). There were no strokes in any arterial territory or deaths from any cause in either group within 30 days of treatment (endovascular group) or 30 days of randomisation (medical group). In the endovascular group, two patients had a posterior circulation transient ischaemic attack at the time of the procedure. In the endovascular group, the mean vessel stenosis at follow up was 47% (range 0% to 80%). Patients were followed up for a mean of 4.5 years in the endovascular group and 4.9 years in the medical group. There were no further vertebrobasilar territory strokes in either group for the duration of follow up. Morbidity and mortality was related to carotid and coronary artery disease in this study. 
+Authors' conclusions
+There is currently insufficient evidence to assess the effects of percutaneous transluminal angioplasty with or without stenting or primary stenting for vertebral artery stenosis. 

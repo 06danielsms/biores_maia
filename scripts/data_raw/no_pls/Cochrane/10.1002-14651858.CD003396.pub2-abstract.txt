@@ -1,0 +1,17 @@
+Background
+Manual fetal manipulation has been suggested to improve the efficiency of antepartum fetal heart rate testing. 
+Objectives
+The objective of this review was to assess the merits or adverse effects of the use of manual fetal manipulation in conjunction with tests of fetal wellbeing. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2013). 
+Selection criteria
+All published and unpublished randomised controlled trials assessing the use of fetal manipulation versus mock stimulation, no stimulation or other types of stimulation, used in conjunction with cardiotocography or other tests of fetal wellbeing. 
+Data collection and analysis
+Three review authors independently assessed studies for inclusion, assessed trial quality and extracted data. Data were checked for accuracy. We contacted authors of published and unpublished trials for further information. 
+Main results
+We included four trials with a total of 1280 women with 2670 episodes of participation. No trial was at low risk of bias for all domains and only two trials were at low risk of bias for both selection and attrition bias. 
+Fetal manual manipulation decreased the incidence of non‐reactive antenatal cardiotocography test compared to mock or no stimulation. However, this was not statistically significant (average risk ratio (RR) 0.31, 95% confidence interval (CI) 0.02 to 6.20, I² = 96%; two trials, N = 2350). There was also no significant reduction in the mean testing time to achieve a reactive result (mean difference ‐2.29 minutes, 95% CI ‐9.61 minutes to 5.03 minutes, I² = 97%; two trials, N = 560). 
+Comparing fetal manual manipulation with vibroacoustic stimulation, there was no significant difference in the incidence of non‐reactive cardiotocography or the need for contraction‐stress test. 
+There were no data available on other outcomes such as perinatal mortality, fetal distress, maternal anxiety and gestation at delivery. 
+Authors' conclusions
+There is insufficient evidence to support the use of manual fetal manipulation during cardiotocography or other tests of fetal wellbeing. More studies of manual fetal manipulation that utilises standardised protocol should be encouraged. 

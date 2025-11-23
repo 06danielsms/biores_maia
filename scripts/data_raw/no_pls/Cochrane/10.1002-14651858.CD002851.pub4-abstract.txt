@@ -1,0 +1,18 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 3, 2004 and previously updated in 2007 and 2009. 
+Motion sickness, the discomfort experienced when perceived motion disturbs the organs of balance, may include symptoms such as nausea, vomiting, pallor, cold sweats, hypersalivation, hyperventilation and headaches. The control and prevention of these symptoms has included pharmacological, behavioural and complementary therapies. Although scopolamine (hyoscine) has been used in the treatment and prevention of motion sickness for decades, there have been no systematic reviews of its effectiveness. 
+Objectives
+To assess the effectiveness of scopolamine versus no therapy, placebo, other drugs, behavioural and complementary therapy or two or more of the above therapies in combination for motion sickness in persons (both adults and children) without known vestibular, visual or central nervous system pathology. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 14 April 2011. 
+Selection criteria
+All parallel‐arm, randomised controlled trials (RCTs) focusing on scopolamine versus no therapy, placebo, other drugs, behavioural and complementary therapy or two or more of the above therapies in combination. We considered outcomes relating to the prevention of onset or treatment of clinically‐defined motion sickness, task ability and psychological tests, changes in physiological parameters and adverse effects. 
+Data collection and analysis
+Two authors independently extracted data from the studies using standardised forms. We assessed study quality. We expressed dichotomous data as odds ratio (OR) and calculated a pooled OR using the random‐effects model. 
+Main results
+Of 35 studies considered potentially relevant, 14 studies enrolling 1025 subjects met the entry criteria. Scopolamine was administered via transdermal patches, tablets or capsules, oral solutions or intravenously. Scopolamine was compared against placebo, calcium channel antagonists, antihistamine, methscopolamine or a combination of scopolamine and ephedrine. Studies were generally small in size and of varying quality. 
+Scopolamine was more effective than placebo in the prevention of symptoms. Comparisons between scopolamine and other agents were few and suggested that scopolamine was superior (versus methscopolamine) or equivalent (versus antihistamines) as a preventative agent. Evidence comparing scopolamine to cinnarizine or combinations of scopolamine and ephedrine is equivocal or minimal. 
+Although sample sizes were small, scopolamine was no more likely to induce drowsiness, blurring of vision or dizziness compared to other agents. Dry mouth was more likely with scopolamine than with methscopolamine or cinnarizine. 
+No studies were available relating to the therapeutic effectiveness of scopolamine in the management of established symptoms of motion sickness. 
+Authors' conclusions
+The use of scopolamine versus placebo in preventing motion sickness has been shown to be effective. No conclusions can be made on the comparative effectiveness of scopolamine and other agents such as antihistamines and calcium channel antagonists. In addition, we identified no randomised controlled trials that examined the effectiveness of scopolamine in the treatment of established symptoms of motion sickness. 

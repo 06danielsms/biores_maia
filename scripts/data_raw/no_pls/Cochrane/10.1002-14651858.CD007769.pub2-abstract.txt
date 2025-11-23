@@ -1,0 +1,16 @@
+Background
+Ginseng is a herbal medicine in widespread use throughout the world. Its effect on the brain and nervous system has been investigated. It has been suggested, on the basis of both laboratory and clinical studies, that it may have beneficial effects on cognitive performance. 
+Objectives
+To evaluate the efficacy and adverse effects of ginseng given to improve cognitive performance in healthy participants, participants with cognitive impairment or dementia. 
+To highlight the quality and quantity of research evidence available.
+Search methods
+The Specialized Register of the Cochrane Dementia and Cognitive Improvement Group (CDCIG), The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS, clinical trials registries and grey literature sources were searched on 24 February 2009 using the following terms: ginseng* OR panax OR ginsan OR "Jen Shen"OR shinseng OR Renshen OR schinseng OR ninjin OR gingilone OR panaxoside* OR ginsenoside* OR protopanaxa* OR protopanaxadiol OR protopanaxatriol OR panaxagin OR ginsenol OR ginsenine and terms for dementia and cognition. The CDCIG Specialized Register contains records from all major health care databases (The Cochrane Library, MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS) as well as from many clinical trials registries and grey literature sources. 
+Selection criteria
+All double‐blind and single‐blind randomized, placebo controlled trials assessing the effects of ginseng on cognitive function were eligible for inclusion. Interventions were considered to be ginseng if they were compounds containing ginseng or active agents of the Panax genus as the major component. 
+Data collection and analysis
+Characteristics of each included trial were extracted independently by two reviewers using a self‐developed data extraction form and entered into RevMan 5.0 software. Authors of identified trials were contacted for additional information and unpublished data. The effects of ginseng in healthy participants, participants with cognitive impairment or dementia were addressed independently. 
+Main results
+Nine randomized, double‐blind, placebo controlled trials meeting the inclusion criteria were identified. Eight trials enrolled healthy participants, and one was of subjects with age‐associated memory impairment (AAMI). 
+Only five of the identified trials had extractable information and were included in the analysis. Four studies investigated the effects of ginseng extract and one assessed the efficacy of ginseng compound HT008‐1. All of these trials investigated the effects of ginseng on healthy participants. Pooling the data was impossible owing to heterogeneity in outcome measures, trial duration, and ginseng dosage. Results of the analysis suggested improvement of some aspects of cognitive function, behavior and quality of life. No serious adverse events associated with ginseng were found. 
+Authors' conclusions
+Currently, there is a lack of convincing evidence to show a cognitive enhancing effect of Panax ginseng in healthy participants and no high quality evidence about its efficacy in patients with dementia. Randomized, double‐blind, placebo‐controlled, parallel group trials with large sample sizes are needed to further investigate the effect of ginseng on cognition in different populations, including dementia patients. 

@@ -1,0 +1,14 @@
+Background
+The question of the target blood pressure in pregnant women with mild‐moderate hypertension continues to be an area of debate. 
+Objectives
+To compare tight versus very tight control of mild‐moderate pre‐existing or non‐proteinuric gestational hypertension for improving outcomes 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 March 2011), CENTRAL (The Cochrane Library 2011, Issue 3), MEDLINE (January 1966 to March 2011), and the metaRegister of Controlled Trials (31 March 2011). We handsearched citation lists of relevant publications, review articles, and included studies. 
+Selection criteria
+Randomized controlled trials of tight versus very tight control in pregnant women with mild or moderate pre‐existing or non‐proteinuric gestational hypertension. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We expressed results as risk ratio (RR) or mean differences, together with their 95% confidence intervals (CI). 
+Main results
+We included two studies (256 participants) with mild‐moderate pre‐existing or non‐proteinuric gestational hypertension. There was no evidence of a difference between tight and very tight control groups regarding severe pre‐eclampsia (risk ratio (RR) 1.28, 95% CI 0.97 to 1.70; two trials, 256 participants). More women in the tight group were hospitalized during their pregnancy (RR 2.53, 95% CI 1.14 to 5.63; one trial, 125 participants). There was no evidence of a difference in other outcome measures including fetal distress, IUGR, neonatal admission to a NICU, perinatal deaths, induction of labor and cesarean delivery between the tight and the very tight control groups. Gestational age at delivery had a non‐significant mean difference (MD) of ‐0.15 weeks between the tight and very tight control groups (MD ‐0.15, 95% CI ‐1.52 to 1.21, random‐effects, T² = 0.75, I² = 77%; two trials, 256 participants). The MD in birthweight between the tight and the very tight control group was not significant (MD ‐100.00 grams, 95% CI ‐363.69 to 163.69; one trial, 125 participants). 
+Authors' conclusions
+For pregnant women with non‐severe pre‐existing or non‐proteinuric gestational hypertension, there is insufficient evidence to determine how tight control of hypertension should be achieved to improve maternal and fetal‐neonatal outcomes. 

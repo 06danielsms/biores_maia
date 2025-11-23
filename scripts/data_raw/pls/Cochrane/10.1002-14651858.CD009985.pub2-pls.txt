@@ -1,0 +1,26 @@
+Interventions for reducing medication errors in adults in hospital settings
+Background to the question 
+An adverse drug event (ADE) is an injury resulting from a medical intervention related to a drug. ADEs are sometimes associated with medication errors. ADEs and medication errors may cause important harm, costs and even death. 
+Interventions for reducing medication errors include medication reconciliation, which is the process of comparing a patient's medication orders to the medications that the patient has been taking. Medication reconciliation can be performed jointly with other interventions, such as electronic prescribing systems, barcoding for a correct administering of medications, organisational changes, feedback on medication errors, education of professionals and improved medication dispensing systems. 
+Review question 
+What is the effectiveness of interventions to reduce medication errors for adults in hospital settings? 
+We included inpatient care settings (secondary or tertiary units, intensive care units, operating theatres), outpatient care settings, and accident and emergency departments. 
+Study characteristics 
+We searched databases of scientific studies. We included 65 studies, 51 of which were randomised trials, involving 23,182 adults in hospital settings. The remaining 14 studies were large interrupted time‐series that concern long‐term period before and after a point of intervention to assess the intervention's effects, involving more than 87,000 participants. 
+Certainty of the evidence 
+We assessed the included evidence to establish how certain we are that the effects are true and would not be altered with the addition of more evidence. In general, we judged the certainty of the evidence to be low to moderate, but it was very low for some outcomes. 
+Key results 
+Medication reconciliation compared with no medication reconciliation probably reduce ADEs and may reduce medication errors. It may have little to no effect on length of stay or quality of life. However, the effect of medication reconciliation on these latter outcomes is imprecise; it is not clear if the effects are beneficial or detrimental (low‐ to moderate‐certainty evidence). 
+Compared to medication reconciliation by other professionals, medication reconciliation performed by pharmacists may increase ADEs (but this result is imprecise); may reduce medication errors; and may have little to no effect on length of stay, mortality during hospitalisation, and readmissions. However, these effects are imprecise (low‐certainty evidence). 
+Compared to no assistance, database‐assisted medication reconciliation conducted by pharmacists may reduce potential ADEs and may have no effect on length of stay, but the last effect is imprecise (low‐certainty evidence). 
+Medication reconciliation performed by trained pharmacist technicians instead of pharmacists, may have no effect on length of stay, but this effect is imprecise (low‐certainty evidence). 
+Medication reconciliation before admission, versus after admission, may increase identified discrepancies; however, the effect is imprecise (low‐certainty evidence). 
+Compared to usual care, some interventions have different effects:
+Multimodal interventions probably increase discrepancy resolutions (moderate‐certainty evidence). 
+Electronic prescribing systems probably reduce medication errors and ADEs. Prioritised alerts may additionally prevent ADEs (low‐ to moderate‐certainty evidence). 
+Barcode identification of participants or medications may reduce medication errors (low‐certainty evidence). 
+Reduced working hours and feedback on medication errors may reduce serious medication errors; however, the effect is imprecise (low‐certainty evidence). 
+Authors' conclusions 
+Compared to usual care, medication reconciliation, electronic prescribing systems, barcoding and feedback to professionals may reduce ADEs or medication errors, or both. Nonetheless, the best modalities to deliver these interventions, and the effect of other interventions, are less clear. 
+How up to date is this review? 
+The review authors searched for studies that had been published up to January 2020.

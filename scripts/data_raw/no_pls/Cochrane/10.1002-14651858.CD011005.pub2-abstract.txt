@@ -1,0 +1,17 @@
+Background
+Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), is terminal, progressive neurological condition for which there are no curative treatments. Among people with ALS/MND, fatigue is a common and debilitating symptom, which is characterised by reversible motor weakness and whole‐body tiredness that is only partially relieved by rest. The effectiveness of pharmacological or non‐pharmacological treatments for fatigue in ALS/MND is not yet established. 
+Objectives
+To assess the effects of pharmacological and non‐pharmacological interventions for fatigue in ALS/MND. 
+Search methods
+We searched the following databases on 5 September 2017: Cochrane Neuromuscular Specialised Register, CENTRAL, MEDLINE, Embase, PsycINFO, CINAHL Plus, and ERIC. We also searched two clinical trials registries. 
+Selection criteria
+We selected randomised and quasi‐randomised controlled trials of any intervention which sought to reduce fatigue for people with ALS/MND. We included studies if reduction in fatigue was a primary or secondary outcome of the trial. 
+Data collection and analysis
+We used the standard methodological procedures expected by Cochrane.
+Main results
+We included one pharmacological (modafinil) study and three non‐pharmacological studies (resistance exercise, respiratory exercise, and repetitive transcranial magnetic stimulation (rTMS)), involving a total of 86 participants with ALS/MND. None of the included studies were free from risk of bias. Since there was only one trial for each intervention, no meta‐analysis was possible. All studies assessed fatigue using the Fatigue Severity Scale (FSS; scale from 9 to 63, higher scores indicate more fatigue). Information for assessing bias was often lacking in study reports, making the risk of bias unclear across several domains in all trials. Blinding of participants was not possible in exercise trials, but the outcome assessment was blinded. 
+We found very low‐quality evidence suggesting possible improvements in fatigue for modafinil treatment versus placebo (MD ‐11.00, 95% CI ‐23.08 to 1.08), respiratory exercise versus a sham intervention (MD ‐9.65, 95% CI ‐22.04 to 2.73), and rTMS versus sham rTMS (data not provided), which warrant further investigation to clarify the efficacy of these treatments for fatigue in ALS/MND. We found no clear improvements in fatigue for resistance exercise versus usual care (MD 0.20, 95% CI ‐10.98 to 11.38; very low‐quality evidence). 
+Three participants in the modafinil group dropped out of the modafinil study, two citing issues with headache and one with chest tightness; other adverse effects were anxiety, nausea, dizziness, and sialorrhoea (probably ALS‐related). The trials reported no adverse effects of exercise or rTMS. 
+We cannot be certain about the effects of any of the interventions studied because of imprecision (small numbers of participants, wide CI), and possible study limitations. 
+Authors' conclusions
+It is impossible to draw firm conclusions about the effectiveness of interventions to improve fatigue for people with ALS/MND as there are few randomised studies, and the quality of available evidence is very low. 

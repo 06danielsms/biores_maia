@@ -1,0 +1,14 @@
+Background
+Aceclofenac is the prodrug of the non‐steroidal anti‐inflammatory drug (NSAID) diclofenac, widely used to treat acute and chronic pain. There are no known systematic reviews of its analgesic efficacy in acute postoperative pain. This review sought to evaluate the efficacy and safety of oral aceclofenac in acute postoperative pain, using clinical studies of patients with established pain, and with outcomes measured primarily over 6 hours using standard methods. This type of study has been used for many decades to establish that drugs have analgesic properties. 
+Objectives
+To assess the efficacy of single dose oral aceclofenac in acute postoperative pain, and any associated adverse events. 
+Search methods
+We searched The Cochrane Library (Issue 1, 2009), MEDLINE via Ovid (1966 to March 2009); EMBASE via Ovid (1980 to March 2009); the Oxford Pain Relief Database (1950 to 1994); and reference lists of articles. 
+Selection criteria
+Randomised, double‐blind, placebo‐controlled clinical trials of oral aceclofenac for relief of acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. The area under the "pain relief versus time" curve was used to derive the proportion of participants with paracetamol plus codeine and placebo or paracetamol alone experiencing least 50% pain relief over 4 to 6 hours, using validated equations. The number needed to treat to benefit (NNT) was calculated using 95% confidence intervals (CI). The proportion of participants using rescue analgesia over a specified time period, and time to use of rescue analgesia, were sought as additional measures of efficacy. Information on adverse events and withdrawals was also collected. 
+Main results
+Searches identified only one study (217 participants total), which used oral aceclofenac 150 mg in patients with established postoperative pain. Aceclofenac 150 mg could not be distinguished from placebo, though ibuprofen 400 mg was distinguished from placebo. 
+Authors' conclusions
+In the absence of evidence of efficacy for oral aceclofenac in acute postoperative pain (at least at 150 mg single dose), its use in this indication is not justified. Because trials clearly demonstrating analgesic efficacy in the most basic of acute pain studies are lacking, use in other indications should be evaluated carefully. Given the large number of effective drugs available in this and similar classes of analgesics, there is no urgent research agenda required to demonstrate the effective dose of aceclofenac in acute postoperative pain. 

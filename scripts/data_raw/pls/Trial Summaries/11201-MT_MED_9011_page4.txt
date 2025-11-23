@@ -1,0 +1,29 @@
+Clinical Study Results
+
+The study doctors measured:
+- The average highest amount of AZD5718 in the participants' blood
+- The average total amount of AZD5718 in the participants' blood over time
+
+The researchers found that for both measurements, the average amounts of AZD5718 in the blood corresponded with the levels of doses the participants took. This means they were lowest when the participants took dose 1 and highest when they took dose 3.
+
+Average highest amount of AZD5718
+The average highest amount of AZD5718 was measured in units called nanomoles per litre, also known as nmol/L. The researchers found that the average highest amount of AZD5718 in the blood after each dose was:
+- 13.4 nmol/L when the participants took dose 1 of AZD5718
+- 38.4 nmol/L when the participants took dose 2 of AZD5718
+- 157.1 nmol/L when the participants took dose 3 of AZD5718
+
+The chart below shows these results:
+
+Average highest amount of AZD5718 in the participants' blood
+180 157.1 nmol/L
+160
+140
+120
+100
+80
+60
+40
+20
+0
+AZD5718 AZD5718 AZD5718
+dose 1 dose 2 dose 3

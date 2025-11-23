@@ -1,0 +1,21 @@
+Background
+Chronic lung disease (CLD) is a major cause of mortality and morbidity in very low birth weight infants despite increased use of antenatal steroids and surfactant therapy. Ventilator injury and oxygen toxicity are thought to be important factors in the pathogenesis of chronic pulmonary disease. Evidence from animal studies and from adult human studies indicates that high‐frequency jet ventilation may reduce the severity of lung injury associated with mechanical ventilation. 
+Objectives
+To compare use of high‐frequency jet ventilation (HFJV) versus conventional ventilation (CV) in preterm infants with severe pulmonary dysfunction. 
+Subgroup analyses include the following.
+• Trials with and without surfactant replacement therapy.
+• Trials with and without strategies to maintain lung volume.
+• Trials with infants of different gestational ages and birth weights (specific subgroups to include < 28 weeks' gestation and < 1000 grams). 
+• Trials with and without adequate humidification of inspired gases.
+Search methods
+The original search included MEDLINE (1966 to August 2005), the Cochrane Central Register of Controlled Trials (CENTRAL; 2005, Issue 3) and EMBASE (1988 to August 2005). We also obtained information from experts in the field and checked cross‐references. We updated the electronic search in June 2013 and again in June 2015. 
+Selection criteria
+We included in this systematic review randomised and quasi‐randomised controlled trials of rescue high‐frequency jet ventilation versus conventional ventilation in preterm infants born at less than 35 weeks' gestation or with birth weight less than 2000 grams in respiratory distress. 
+Data collection and analysis
+We used standard methods of the Cochrane Neonatal Review Group, including independent trial assessment and data extraction. We analysed data using risk ratios (RRs) and risk differences (RDs). 
+Main results
+We included only one trial in the review. Keszler 1991 randomly assigned 166 preterm infants; reported data on 144 infants; and permitted cross‐over to the alternate treatment if initial treatment failed. Investigators found no statistically significant differences in overall mortality (including survival after cross‐over) between the two groups (RR 1.07, 95% confidence interval (CI) 0.67 to 1.72). In a secondary analysis of infants up to the time of cross‐over, rescue treatment with HFJV was associated with lower mortality (RR 0.66, 95% CI 0.45 to 0.97). Researchers reported no significant differences in the incidence of CLD among survivors at 28 days of age, nor in the incidence of intraventricular haemorrhage, new air leaks, airway obstruction and necrotising tracheobronchitis. 
+Authors' conclusions
+Study authors reported no significant differences in overall mortality between rescue high‐frequency jet ventilation and conventional ventilation and presented highly imprecise results for important adverse effects such as intraventricular haemorrhage, new air leaks, airway obstruction and necrotising tracheobronchitis. 
+The overall quality of evidence is affected by limitations in trial design and by imprecision due to the small number of infants in the included study. Existing evidence does not support the use of high‐frequency jet ventilation as rescue therapy in preterm infants. 
+Studies that target populations at greatest risk and that have sufficient power to assess important outcomes are needed. These trials should incorporate long‐term pulmonary and neurodevelopmental outcomes. 

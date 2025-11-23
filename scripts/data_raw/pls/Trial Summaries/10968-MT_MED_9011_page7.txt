@@ -1,0 +1,11 @@
+What were the results of this study? This is a summary of the main results from this study overall. The results each participant had might be different and are not in this summary. A full list of the questions that researchers wanted to answer can be found on the websites listed at the end of this summary. When a full report of the study results is available, it can also be found on these websites.
+Researchers look at the results of many studies to decide which treatments work best and are safest. Other studies may provide new information or different results. Always talk to a doctor before making any treatment changes.
+Did durvalumab, when given alone or with another treatment, reduce the number of tumor cells in participants with non-small cell lung cancer? To answer this question, the researchers looked at a sample of each participant’s tumor from after they got treatment. The researchers measured the percentage of live or "viable" tumor cells at the time of surgery, compared to the overall tumor area. If the percentage of viable tumor cells was less than or equal to 10% of the tumor area in the surgical sample, the researchers called it a "major pathological response".
+There were 27 participants who were planned to get durvalumab alone, but the results below are for 26 of these participants because 1 patient withdrew from the study before they got any treatment.
+Number of participants who had a
+Treatment group
+major pathological response
+Durvalumab alone - 11.1% (3 out of 26)
+Durvalumab and oleclumab - 19.0% (4 out of 21)
+Durvalumab and monalizumab - 30.0% (6 out of 20)
+Durvalumab and danvatirsen - 31.3% (5 out of 16)

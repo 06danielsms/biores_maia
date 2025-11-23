@@ -1,0 +1,21 @@
+Background
+Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), is a progressive neurodegenerative disease without effective therapies. Several studies have suggested that repetitive transcranial magnetic stimulation (rTMS) may have positive benefit in ALS. However, the efficacy and safety of this therapy remain uncertain. This is the first update of a review published in 2011. 
+Objectives
+To determine the clinical efficacy and safety of rTMS for treating ALS.
+Search methods
+On 30 July 2012, we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL (2012, issue 7 in The Cochrane Library), MEDLINE (1966 to July 2012), EMBASE (1980 to July 2012), CINAHL (1937 to July 2012), Science Citation Index Expanded (January 1945 to July 2012), AMED (January 1985 to July 2012). We searched the Chinese Biomedical Database (1979 to August 2012). We also searched for ongoing studies on clinicaltrials.gov (August 2012). 
+Selection criteria
+Randomised and quasi‐randomised controlled trials assessing the therapeutic efficacy and safety of rTMS for patients with a clinical diagnosis of ALS. 
+Comparisons eligible for inclusion were:
+1. rTMS versus no intervention;
+2. rTMS versus sham rTMS;
+3. rTMS versus physiotherapy;
+4. rTMS versus medications;
+5. rTMS + other therapies or drugs versus sham rTMS + the same therapies or drugs;
+6. different methods of application of rTMS such as high‐frequency (> 1Hz) compared to low‐frequency (≤ 1Hz) rTMS. 
+Data collection and analysis
+Two authors independently selected papers, assessed risk of bias and extracted data. We resolved disagreements through discussion. We contacted study authors for additional information. 
+Main results
+Three randomised, placebo‐controlled trials with a total of 50 participants were included in the review. All three trials compared rTMS with sham TMS. All the trials were of poor methodological quality and were insufficiently homogeneous to allow the pooling of results. Moreover, the high rate of attrition further increased the risk of bias. None of the trials provided detailed data on the ALS Functional Rating Scale‐Revised (ALSFRS‐R) scores at six months follow‐up which was pre‐assigned as our primary outcome. One trial contained data in a suitable form for quantitative analysis of our secondary outcomes. No difference was seen between rTMS and sham rTMS using the ALSFRS‐R scores and manual muscle testing (MMT) scores at 12 months follow‐up in this trial. Additionally, none of the trials reported any adverse events associated with the use of rTMS. However, in view of the small sample size, the methodological limitations and incomplete outcome data, treatment with rTMS cannot be judged as completely safe. 
+Authors' conclusions
+There is currently insufficient evidence to draw conclusions about the efficacy and safety of rTMS in the treatment of ALS. Further studies may be helpful if their potential benefit is weighed against the impact of participation in a randomised controlled trial on people with ALS. 

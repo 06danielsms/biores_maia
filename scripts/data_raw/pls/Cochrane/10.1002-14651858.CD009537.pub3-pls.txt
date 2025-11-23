@@ -1,0 +1,21 @@
+Interventions for preventing delirium in older people in institutional long‐term care (LTC) 
+Review question 
+How effective are treatments to prevent delirium in older people living in long‐term care (LTC)? 
+Background 
+LTC is the name used for residential homes, which provide personal care, supervision with medications and help with day‐to‐day activities, and nursing homes, which provide 24‐hour nursing care. Delirium is a common and serious illness for older people living in LTC. Delirium is a condition that causes confusion, usually over a few hours or days. Some people with delirium become quiet and sleepy while others become agitated and disorientated, so it can be a very distressing condition. Delirium can increase the chances of being admitted to hospital, developing dementia and can increase the risk of death. 
+Importantly, studies of people in hospital have shown that it is possible to prevent around a third of cases of delirium by providing an environment and care plan that target the main delirium risk factors, including, providing better lighting and signs to avoid disorientation; avoiding unnecessary use of catheters to help prevent infection; and avoiding certain medications which increase the risk of delirium. 
+This review has searched for and assessed research on preventing delirium in older people living in LTC. 
+Study characteristics 
+The evidence is current to February 2019. We found three studies that included 3851 participants. Two studies took place in the US and one study in the UK. 
+One study tested whether delirium could be prevented by calculating how much fluid an older person in a care home needs each day and ensuring hydration was maintained. There were 98 people in the study, which lasted four weeks. 
+One study tested the effect of a computer program which searched for prescriptions of medications that might increase the chance of developing delirium, to enable a pharmacist to adjust or stop them. There were 3538 people in the study, which lasted 12 months. 
+One study tested an enhanced educational intervention which included learning sessions on delirium with care home staff and group meetings to identity targets for preventing delirium. There were 215 people in the study, which lasted 16 months. 
+Key findings 
+It was not possible to determine if the hydration intervention reduced the occurrence of delirium. This was a small study of short duration with serious design problems. 
+The study of a computerised medication search programme probably reduced delirium, but there was no clear reduction in hospital admissions, deaths or falls. A potential problem is that it might not be possible to use this computer program in different countries that do not have similar computer systems available. 
+It was not possible to determine if the enhanced education intervention reduced the occurrence of delirium and there was no clear reduction in the number of deaths. The intervention was probably associated with a reduction in hospital admissions. This is based on findings from a small study. 
+Quality of the evidence 
+There is very low‐quality evidence on the effectiveness of hydration interventions for reducing the incidence of delirium. Therefore, it was not possible to draw firm conclusions. 
+There is moderate‐quality evidence that a computerised medication search programme may reduce the incidence of delirium. There is no clear evidence for reducing hospitalisations, mortality or falls. 
+There is very low‐quality evidence of the effectiveness of an enhanced educational intervention for reducing delirium. Therefore, it was not possible to draw firm conclusions. There is moderate‐quality evidence for reducing hospital admissions. 
+As this review only found a small number of research studies, we recommend that further research be conducted, testing different ways of preventing delirium for older people in LTC. 

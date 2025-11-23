@@ -1,0 +1,14 @@
+Background
+Muscle weakness in old age is associated with physical function decline. Progressive resistance strength training (PRT) exercises are designed to increase strength. 
+Objectives
+To assess the effects of PRT on older people and identify adverse events.
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialized Register (to March 2007), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2007, Issue 2), MEDLINE (1966 to May 01, 2008), EMBASE (1980 to February 06 2007), CINAHL (1982 to July 01 2007) and two other electronic databases. We also searched reference lists of articles, reviewed conference abstracts and contacted authors. 
+Selection criteria
+Randomised controlled trials reporting physical outcomes of PRT for older people were included. 
+Data collection and analysis
+Two review authors independently selected trials, assessed trial quality and extracted data. Data were pooled where appropriate. 
+Main results
+One hundred and twenty one trials with 6700 participants were included. In most trials, PRT was performed two to three times per week and at a high intensity. PRT resulted in a small but significant improvement in physical ability (33 trials, 2172 participants; SMD 0.14, 95% CI 0.05 to 0.22). Functional limitation measures also showed improvements: e.g. there was a modest improvement in gait speed (24 trials, 1179 participants, MD 0.08 m/s, 95% CI 0.04 to 0.12); and a moderate to large effect for getting out of a chair (11 trials, 384 participants, SMD ‐0.94, 95% CI ‐1.49 to ‐0.38). PRT had a large positive effect on muscle strength (73 trials, 3059 participants, SMD 0.84, 95% CI 0.67 to 1.00). Participants with osteoarthritis reported a reduction in pain following PRT(6 trials, 503 participants, SMD ‐0.30, 95% CI ‐0.48 to ‐0.13). There was no evidence from 10 other trials (587 participants) that PRT had an effect on bodily pain. Adverse events were poorly recorded but adverse events related to musculoskeletal complaints, such as joint pain and muscle soreness, were reported in many of the studies that prospectively defined and monitored these events. Serious adverse events were rare, and no serious events were reported to be directly related to the exercise programme. 
+Authors' conclusions
+This review provides evidence that PRT is an effective intervention for improving physical functioning in older people, including improving strength and the performance of some simple and complex activities. However, some caution is needed with transferring these exercises for use with clinical populations because adverse events are not adequately reported. 

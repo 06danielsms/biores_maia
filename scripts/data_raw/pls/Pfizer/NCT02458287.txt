@@ -1,0 +1,8 @@
+Heart disease is a leading cause of death in both men and women. One of the biggest risks for getting heart disease is having high "bad" cholesterol (called LDL, or low-density lipoprotein cholesterol). Having high LDL cholesterol can lead to heart disease. 
+Doctors prescribe medicines called "statins" to patients with high LDL cholesterol to lower the LDL cholesterol in the blood. For some people, statins may not lower cholesterol enough. 
+Researchers did this study to look for a new way to treat patients who are taking a statin and who still have LDL cholesterol above what their doctors consider ideal. Bococizumab was the medicine tested in this study. It is not a statin. 
+Bococizumab is a medicine that is given as an injection under the skin (subcutaneous) which may help to lower LDL cholesterol. 
+In most studies with bococizumab, patients had to use a pre-filled syringe to inject the medicine. The Sponsor developed a more automated way of giving an injection using a device called a pre-filled pen (autoinjector). For this study, researchers wanted to test the pre-filled pen as a new way to give this medicine. 
+For this study, researchers wanted to know: 
+- Does bococizumab help to lower LDL cholesterol in patients who are taking a statin and who still have LDL cholesterol above ideal levels? 
+- How well can patients (or a helper) use a pre-filled pen to inject bococizumab?

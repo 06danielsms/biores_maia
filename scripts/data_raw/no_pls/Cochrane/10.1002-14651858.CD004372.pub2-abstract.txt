@@ -1,0 +1,14 @@
+Background
+Adult and adolescent congenital heart disease is increasing in prevalence as better medical care means more children are surviving to adulthood. People with chronic disease often also experience depression. There are several non‐pharmacological treatments that might be effective in treating depression and improving quality of life for adults and young adults with congenital heart disease. The aim of this review was to assess the effects of treatments such as psychotherapy, cognitive behavioural therapies and talking therapies for treating depression in this population. 
+Objectives
+To update the previous review on the effects (both harms and benefits) of psychological interventions for treating depression in young adults and adults with congenital heart disease. Psychological interventions include cognitive behavioural therapy, psychotherapy, or 'talking/counselling' therapy for depression. 
+Search methods
+We updated the searches of the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 1, 2013), MEDLINE (OVID, 1946 to January week 4 2013), EMBASE (OVID, 1980 to 2013 week 05), PsycINFO (OVID, 1806 to January week 5 2013), the Database of Abstracts of Reviews of Effectiveness (DARE) on The Cochrane Library (Issue 1, 2013), BIOSIS (Thomson Reuters, 1969 to 21 February 2013), and CINAHL (January 1980 to February 2013) on 5 February 2013. We did not search abstracts from national and international cardiology and psychology conferences and dissertation abstracts for this update. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials comparing psychological interventions with no intervention for people over 15 years with depression who have congenital heart disease. 
+Data collection and analysis
+Two review authors independently screened titles and abstracts of studies that were potentially relevant to the review. We rejected studies that were clearly ineligible. Two review authors independently assessed the abstracts or full papers for inclusion criteria. We sought further information from the authors where papers contained insufficient information to make a decision about eligibility. 
+Main results
+We did not identify any randomised controlled trials that met the inclusion criteria.
+Authors' conclusions
+Depression is common in people with congenital heart disease and can exacerbate the physical consequences of the illness. There are effective pharmacological and non‐pharmacological treatments for depression, but we have not been able to identify any trials showing the effectiveness of non‐pharmacological treatments. A well‐designed randomised controlled trial is needed to assess the effects of psychological interventions for depression in congenital heart disease. 

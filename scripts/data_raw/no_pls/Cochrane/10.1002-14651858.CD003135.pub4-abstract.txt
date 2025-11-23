@@ -1,0 +1,14 @@
+Background
+Inhaled fluticasone propionate (FP) is a relatively new inhaled corticosteroid for the treatment of asthma. 
+Objectives
+To assess efficacy and safety outcomes in studies that compared FP to placebo for treatment of chronic asthma. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register (January 2008), reference lists of articles, contacted trialists and searched abstracts of major respiratory society meetings (1997‐2006). 
+Selection criteria
+Randomised trials in children and adults comparing FP to placebo in the treatment of chronic asthma. Two reviewers independently assessed articles for inclusion and risk of bias. 
+Data collection and analysis
+Two review authors extracted data. Quantitative analyses were undertaken using Review Manager software. 
+Main results
+Eighty‐six studies met the inclusion criteria, recruiting 16,160 participants. In non‐oral steroid treated asthmatics with mild and moderate disease FP resulted in improvements from baseline compared with placebo across all dose ranges (100 to 1000 mcg/d) in FEV1 (between 0.1 to 0.43 litres); morning PEF (between 23 and 46 L/min); symptom scores (based on a standardised scale, between 0.44 and 0.7); reduction in rescue beta‐2 agonist use (between 1 and 1.4 puffs/day). High dose FP increased the number of patients who could withdraw from prednisolone: FP 1000‐1500 mcg/day Peto Odds Ratio 14.07 (95% CI 7.17 to 27.57). FP at all doses led to a greater likelihood of sore throat, hoarseness and oral Candidiasis. 
+Authors' conclusions
+Doses of FP in the range 100‐1000 mcg/day are effective. In most patients with mild‐moderate asthma improvements with low dose FP are only a little less than those associated with high doses when compared with placebo. High dose FP appears to have worthwhile oral‐corticosteroid reducing properties. FP use is accompanied by an increased likelihood of oropharyngeal side effects. 

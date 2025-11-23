@@ -1,0 +1,14 @@
+Background
+Erythropoiesis‐stimulating agents (ESAs) reduce anemia in cancer patients and may improve quality of life, but there are concerns that ESAs might increase mortality. 
+Objectives
+Our objectives were to examine the effect of ESAs and identify factors that modify the effects of ESAs on overall survival, progression free survival, thromboembolic and cardiovascular events as well as need for transfusions and other important safety and efficacy outcomes in cancer patients. 
+Search methods
+We searched the Cochrane Library, Medline, Embase and conference proceedings for eligible trials. Manufacturers of ESAs were contacted to identify additional trials. 
+Selection criteria
+We included randomized controlled trials comparing epoetin or darbepoetin plus red blood cell transfusions (as necessary) versus red blood cell transfusions (as necessary) alone, to prevent or treat anemia in adult or pediatric cancer patients with or without concurrent antineoplastic therapy. 
+Data collection and analysis
+We performed a meta‐analysis of randomized controlled trials comparing epoetin alpha, epoetin beta or darbepoetin alpha plus red blood cell transfusions versus transfusion alone, for prophylaxis or therapy of anemia while or after receiving anti‐cancer treatment. Patient‐level data were obtained and analyzed by independent statisticians at two academic departments, using fixed‐effects and random‐effects meta‐analysis. Analyses were according to the intention‐to‐treat principle. Primary endpoints were on study mortality and overall survival during the longest available follow‐up, regardless of anticancer treatment, and in patients receiving chemotherapy. Tests for interactions were used to identify differences in effects of ESAs on mortality across pre‐specified subgroups. The present review reports only the results for the primary endpoint. 
+Main results
+A total of 13933 cancer patients from 53 trials were analyzed, 1530 patients died on‐study and 4993 overall. ESAs increased on study mortality (combined hazard ratio [cHR] 1.17; 95% CI 1.06‐1.30) and worsened overall survival (cHR 1.06; 95% CI 1.00‐1.12), with little heterogeneity between trials (I2 0%, p=0.87 and I2 7.1%, p=0.33, respectively). Thirty‐eight trials enrolled 10441 patients receiving chemotherapy. The cHR for on study mortality was 1.10 (95% CI 0.98‐1.24) and 1.04; 95% CI 0.97‐1.11) for overall survival. There was little evidence for a difference between trials of patients receiving different cancer treatments (P for interaction=0.42). 
+Authors' conclusions
+ESA treatment in cancer patients increased on study mortality and worsened overall survival. For patients undergoing chemotherapy the increase was less pronounced, but an adverse effect could not be excluded. 

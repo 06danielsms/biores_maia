@@ -1,0 +1,14 @@
+Background
+It has been suggested that the severity of autism spectrum disorder (ASD) symptoms is positively correlated with the level of circulating or stored toxic metals, and that excretion of these heavy metals, brought about by the use of pharmaceutical chelating agents, results in improved symptoms. 
+Objectives
+To assess the potential benefits and adverse effects of pharmaceutical chelating agents (referred to as chelation therapy throughout this review) for autism spectrum disorder (ASD) symptoms. 
+Search methods
+We searched the following databases on 6 November 2014: CENTRAL, Ovid MEDLINE, Ovid MEDLINE In‐Process, Embase, PsycINFO, Cumulative Index to Nursing and Allied Health Literature (CINAHL) and 15 other databases, including three trials registers. In addition we checked references lists and contacted experts. 
+Selection criteria
+All randomised controlled trials of pharmaceutical chelating agents compared with placebo in individuals with ASD. 
+Data collection and analysis
+Two review authors independently selected studies, assessed them for risk of bias and extracted relevant data. We did not conduct a meta‐analysis, as only one study was included. 
+Main results
+We excluded nine studies because they were non‐randomised trials or were withdrawn before enrolment. We included one study, which was conducted in two phases. During the first phase of the study, 77 children with ASD were randomly assigned to receive seven days of glutathione lotion or placebo lotion, followed by three days of oral dimercaptosuccinic acid (DMSA). Forty‐nine children who were found to be high excreters of heavy metals during phase one continued on to phase two to receive three days of oral DMSA or placebo followed by 11 days off, with the cycle repeated up to six times. The second phase thus assessed the effectiveness of multiple doses of oral DMSA compared with placebo in children who were high excreters of heavy metals and who received a three‐day course of oral DMSA. Overall, no evidence suggests that multiple rounds of oral DMSA had an effect on ASD symptoms. 
+Authors' conclusions
+This review included data from only one study, which had methodological limitations. As such, no clinical trial evidence was found to suggest that pharmaceutical chelation is an effective intervention for ASD. Given prior reports of serious adverse events, such as hypocalcaemia, renal impairment and reported death, the risks of using chelation for ASD currently outweigh proven benefits. Before further trials are conducted, evidence that supports a causal link between heavy metals and autism and methods that ensure the safety of participants are needed. 

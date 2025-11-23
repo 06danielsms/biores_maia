@@ -1,0 +1,14 @@
+Background
+Fetomaternal alloimmune thrombocytopenia results from the formation of antibodies by the mother which are directed against a fetal platelet alloantigen inherited from the father. The resulting fetal thrombocytopenia (reduced platelet numbers) may cause bleeding, particularly into the brain, before or shortly after birth. Antenatal treatment of fetomaternal alloimmune thrombocytopenia includes the administration of intravenous immunoglobulin (IVIG) and/or corticosteroids to the mother to prevent severe fetal thrombocytopenia. IVIG and corticosteroids both have short‐term and possibly long‐term side effects. IVIG is also costly and optimal regimens need to be identified. 
+Objectives
+To determine the optimal antenatal treatment of fetomaternal alloimmune thrombocytopenia to prevent fetal and neonatal haemorrhage and death. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (28 February 2011) and bibliographies of relevant publications and review articles. 
+Selection criteria
+Randomised controlled studies comparing any intervention with no treatment, or comparing any two interventions. 
+Data collection and analysis
+Two review authors independently assessed eligibility, trial quality and extracted data. 
+Main results
+We included four trials involving 206 people. One trial involving 39 people compared a corticosteroid (prednisone) versus IVIG alone. In this trial, where analysable data were available, there was no statistically significant differences between the treatment arms for predefined outcomes. Three trials involving 167 people compared IVIG plus a corticosteroid (prednisone in two trials and dexamethasone in one trial) versus IVIG alone. In these trials there was no statistically significant difference in the findings between the treatment arms for predefined outcomes (intracranial haemorrhage; platelet count at birth and preterm birth). Lack of complete data sets and important differences in interventions precluded the pooling of data from these trials. 
+Authors' conclusions
+The optimal management of fetomaternal alloimmune thrombocytopenia remains unclear. Lack of complete data sets for two trials and differences in interventions precluded the pooling of data from these trials which may have enabled a more developed analysis of the trial findings. Further trials would be required to determine optimal treatment (the specific medication and its dose and schedule). Such studies should include long‐term follow up of all children and mothers. 

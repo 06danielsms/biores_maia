@@ -1,0 +1,15 @@
+Pembrolizumab versus chemotherapy for treating advanced bladder cancer after recurrence/progression following platinum‐based chemotherapy 
+Review question 
+How does pembrolizumab (a newer medicine that works through the body's immune system) compare to chemotherapy in patients with cancer of the inner lining of the urinary system, called urothelial cancer, that has either come back or worsened after treatment? 
+Background 
+Medications that target the body's immune system have been used for a long time to treat urothelial cancer. When the cancer has spread to other organs outside the urinary tract, patients are often treated with chemotherapy using medicines called cisplatin or carboplatin (platinum‐containing chemotherapy). However, often the cancer comes back or becomes worse despite treatment. This review considers the evidence for pembrolizumab, which is a member of a new class of medications that work through the immune sytem, and compares it to chemotherapy. 
+Study characteristics 
+We considered only randomised controlled trials in this Cochrane Rapid Review, as they offer the most reliable results. This review is current to 20 June 2018. 
+Key results 
+We found only one randomised study for our question. Participants included in this trial had metastatic (cancer that has spread to other parts of the body) or advanced cancer that could not be removed by surgery, that had come back or worsened with other chemotherapy. 
+We found that pembrolizumab probably improves overall survival a little (evidence of moderate certainty). It may improve quality of life slightly (low certainty evidence). 
+Pembrolizumab may have little or not effect on the time for the cancer to worsen or advance (low certainty evidence). It probably improves treatment response as seen on X‐ray scans such as computer tomography (moderate certainty of evidence). 
+Pembrolizumab may have little or no effect on deaths resulting from the treatment itself (low certainty evidence) but may result in fewer patients stopping treatment due to unwanted side effects (low certainty evidence). It may also cause less serious side effects. 
+These conclusions are based on a single trial paid for by the company that makes pembrolizumab.
+Certainty of evidence 
+The certainty of evidence ranged from moderate to very low.

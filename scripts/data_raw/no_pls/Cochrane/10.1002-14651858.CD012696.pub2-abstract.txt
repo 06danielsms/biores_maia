@@ -1,0 +1,18 @@
+Background
+Pregnancies with pre‐existing diabetes are high risk, with increased risk of poorer fetal, neonatal, and maternal outcomes. Identifying interventions to improving health outcomes for women with diabetes and their infants is a priority, as rates of diabetes continue to increase. 
+Exercise has been shown to have benefits for non‐pregnant individuals with pre‐existing type 2 diabetes, such as improving glycaemic control, and reducing visceral adipose tissue and plasma triglycerides. For pregnant women with pre‐existing diabetes, the effects of exercise interventions on the mother and her baby are unknown. 
+An earlier Cochrane review on 'Exercise for pregnant women with diabetes' considered both pre‐existing diabetes and gestational diabetes. That Cochrane review has now been split into two new reviews (following new protocols) ‐ one on gestational diabetes and one on pre‐existing diabetes (this review). 
+Objectives
+To evaluate the effects of exercise interventions for improving maternal and fetal outcomes in women with pre‐existing diabetes. 
+Search methods
+We searched Cochrane Pregnancy and Childbirth’s Trials Register, ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP) on 27 June 2017, and reference lists of retrieved studies. 
+Selection criteria
+We had planned to include published or unpublished randomised controlled trials (RCT) or cluster‐randomised trials, in full text or abstract format that compared any type of exercise programme, added to standard care, targeted at women with known pre‐gestational diabetes (type 1 or type 2 diabetes), at any stage of pregnancy, compared with 1) standard care alone or 2) standard care plus another exercise intervention. Quasi‐randomised and cross‐over trials were excluded. Conference abstracts were handled in the same way as full‐text publications. 
+Women with gestational diabetes mellitus were excluded, as they were covered in a separate Cochrane review. 
+Data collection and analysis
+We had planned that two review authors would independently assess all the potential studies we identified as a result of the search strategy. For eligible studies, two review authors would have independently extracted the data using an agreed form. We had planned to resolve discrepancies through discussion, or by consulting a third person. We also had planned to assess the evidence using the GRADE approach. 
+Main results
+We did not identify any randomised controlled trials.
+Authors' conclusions
+There was no evidence from RCTs that evaluated the effects of exercise interventions for improving maternal and fetal outcomes in women with pre‐existing diabetes. 
+Good quality, large randomised controlled trials are urgently needed to identify exercise interventions that are safe, and improve health outcomes for women with pre‐existing diabetes and their babies. Future studies in this area could utilise the standardised outcomes in this review, in order to improve consistency between trials in this area, and aid future meta‐analysis. 

@@ -1,0 +1,14 @@
+Background
+Pathologic myopia is usually defined as the need for a spectacle correction of ‐6 diopters or higher. Choroidal neovascularisation (CNV) is the most commonly occurring cause of visual loss in people with pathologic myopia. In myopic macular degeneration the occurrence of newly formed vessels in the macula often leads to a fibrotic pigmented scar causing a blind spot in the centre of the visual field. 
+Objectives
+The primary objective of this review was to examine the effects of laser photocoagulation for CNV associated with pathologic myopia. A secondary objective was to compare the effects of different photocoagulation techniques. 
+Search methods
+We searched the Cochrane Controlled Trials Register (CENTRAL) (which contains the Cochrane Eyes and Vision Group Trials Register) in The Cochrane Library (Issue 1, 2007), MEDLINE (1966 to March 2007), EMBASE (1980 to March 2007), LILACS (March 2007) and reference lists of identified trial reports. 
+Selection criteria
+We included randomised controlled trials comparing photocoagulation with observation or comparing different photocoagulation techniques in people with CNV associated with myopia of ‐6 diopters or higher. 
+Data collection and analysis
+Two authors independently assessed the search results for eligibility.
+Main results
+Two studies were included that enrolled people with CNV located at 100 microns or more from the foveal centre. One study compared photocoagulation with observation. At the final examination, 16/35 participants randomised to photocoagulation versus 31/35 randomised to observation had visual acuity of 20/100 or worse after six to 48 months. The second study randomised 27 eyes (26 participants) to photocoagulation with three laser wavelengths (nine eyes per group). The number of eyes losing two or more lines was two (577 nm), three (590 nm) and three (620 nm) after three to 17 months. In both studies comparisons were made using outcomes assessed at the final examination. As the final examination took place at different follow‐up times it was difficult to interpret the findings and it was impossible to extract data for further analyses. 
+Authors' conclusions
+Despite its use over several years the effectiveness of laser photocoagulation for myopic CNV has not been established. Although there was a suggestion of short‐term effectiveness in one small study on non‐subfoveal CNV the results were potentially biased. Observational studies suggest that the enlargement of the atrophic laser scar after laser treatment of non‐subfoveal CNV could be a potentially vision‐threatening long‐term complication, even in eyes free of CNV recurrence. 

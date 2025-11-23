@@ -1,0 +1,14 @@
+Background
+Rotator cuff disease is a common cause of shoulder pain. Topical glyceryl trinitrate is a possible new treatment. 
+Objectives
+To determine the effectiveness and safety of topical glyceryl trinitrate for rotator cuff disease. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, CINAHL, SPORTDiscus, PEDro, the Australian Clinical Trials Registry, Current Controlled Trials (to October 2007) and the references and citations of included studies. 
+Selection criteria
+We included randomised controlled trials and controlled clinical trials of people with rotator cuff disease who received topical glyceryl trinitrate, alone or in combination, compared to placebo or active therapy. 
+Data collection and analysis
+Two authors independently assessed risk of bias and extracted data.
+Main results
+Three small studies, one at moderate risk of bias and two at high risk of bias, were included. Meta‐analysis was precluded due to different interventions and outcome measures. Study participants also had differing durations of symptoms and data for pain and function could only be extracted from one study. One placebo‐controlled trial (20 participants) tested 5 mg glyceryl trinitrate patches, used daily for three days, among participants with 'acute supraspinatus tendinitis' of less than seven days duration. Treatment resulted in reduced pain intensity (adjusted MD ‐3.50, 95% CI ‐3.96 to ‐3.04). Function was not measured. One trial (53 participants) compared one quarter of a 5 mg glyceryl trinitrate patch used daily for up to 24 weeks combined with rehabilitation to placebo patches and rehabilitation among participants with 'supraspinatus tendinopathy' for longer than six months. A third trial (48 participants) tested 5 mg glyceryl trinitrate patches, used daily for three days, compared to corticosteroid injection among participants with 'rotator cuff tendinitis' of less than six‐weeks duration. Fifteen out of 24 participants in the glyceryl trinitrate treatment reported headache (RR 0.11, 95% CI 0.01 to 1.96). 
+Authors' conclusions
+There is some evidence from one study at high risk of bias that topical glyceryl trinitrate is more effective than placebo for rotator cuff disease among patients with acute symptoms (< seven‐days duration), but there is insufficient evidence to be certain about their longer‐term effects. Headache was a common side effect in one trial and any benefits of treatment need to be balanced against the risk of headache. Further high quality research is needed to determine the effectiveness and safety of this new therapy. 

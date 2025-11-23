@@ -1,0 +1,16 @@
+Background
+Muscle invasive bladder cancer is a serious clinical problem and is fatal for the majority of patients. Alternative treatments for this condition are radical cystectomy or radical radiotherapy. The choice of treatment varies according to the resident country. The ideal treatment would be a bladder preserving therapy with total eradication of the tumour without compromising survival. 
+Objectives
+The objective of this review was to compare the overall survival after radical surgery (cystectomy) versus radical radiotherapy in patients with muscle invasive cancer. 
+Search methods
+We searched the Cochrane Controlled Trials Register (July 2001), MEDLINE (July 2001), EMBASE (July 2001), CancerLIT (July 2001), Healthstar (July 2001) and the Database of Abstracts of Reviews of Effectiveness (July 2001). Attempts to contact authors of unpublished data were undertaken. 
+Selection criteria
+Randomised trials comparing surgery versus radiotherapy were eligible for assessment.
+Data collection and analysis
+Three reviewers assessed trial quality based on the Cochrane Guidelines. Data were extracted from the text of the article or extrapolated from the Kaplan‐Meier plot. The Peto odds ratio was determined to compare the overall survival and disease‐specific survival. Analysis was performed on an intention‐to‐treat basis and treatment actually received. 
+Main results
+Three randomised trials comparing pre‐operative radiotherapy followed by radical cystectomy (surgery) versus radical radiotherapy with salvage cystectomy (radical radiotherapy) were eligible for assessment. These trials represented a total of 439 patients, 221 randomised to surgery and 218 to radical radiotherapy. Three trials were combined for the overall survival results and one for the disease‐specific analysis (Bloom 1982). 
+The mean overall survival (intention‐to‐treat analysis) at 3 and 5 years were 45% and 36% for surgery, and 28% and 20% for radiotherapy, respectively. Peto odds ratio (95% confidence interval) analysis consistently favoured surgery in terms of overall survival. The results were significantly in favour of surgery at 3 years (OR = 1.91, 95% CI 1.30 to 2.82) and at 5 years (OR = 1.85 95% CI 1.22 to 2.82). 
+On a 'treatment received' basis, the results were significantly in favour of surgery at 3 (OR = 1.84, 95% CI 1.17 to 2.90) and 5 years (OR = 2.17, 95% CI 1.39 to 3.38) for overall survival and at 3 years (OR = 1.96, 95% CI 1.06 to 3.65) for disease‐specific survival. 
+Authors' conclusions
+The analysis of this review suggests that there is an overall survival benefit with radical surgery compared to radical radiotherapy in patients with muscle‐invasive bladder cancer. However, it must be considered that only three trials were included for analysis, the patients numbers were small and that many patients did not receive the treatment they were randomised to. It must also be noted that many improvements in both radiotherapy and surgery have taken place since the initiation of these trials. 

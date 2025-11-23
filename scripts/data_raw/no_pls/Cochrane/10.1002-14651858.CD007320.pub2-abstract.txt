@@ -1,0 +1,14 @@
+Background
+Osteoarthritis is the most common form of joint disorder and a leading cause of pain and physical disability. Observational studies suggested a benefit for joint lavage, but recent, sham‐controlled trials yielded conflicting results, suggesting joint lavage not to be effective. 
+Objectives
+To compare joint lavage with sham intervention, placebo or non‐intervention control in terms of effects on pain, function and safety outcomes in patients with knee osteoarthritis. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE, and CINAHL up to 3 August 2009, checked conference proceedings, reference lists, and contacted authors. 
+Selection criteria
+We included studies if they were randomised or quasi‐randomised trials that compared arthroscopic and non‐arthroscopic joint lavage with a control intervention in patients with osteoarthritis of the knee. We did not apply any language restrictions. 
+Data collection and analysis
+Two independent review authors extracted data using standardised forms. We contacted investigators to obtain missing outcome information. We calculated standardised mean differences (SMDs) for pain and function, and risk ratios for safety outcomes. We combined trials using inverse‐variance random‐effects meta‐analysis. 
+Main results
+We included seven trials with 567 patients. Three trials examined arthroscopic joint lavage, two non‐arthroscopic joint lavage and two tidal irrigation. The methodological quality and the quality of reporting was poor and we identified a moderate to large degree of heterogeneity among the trials (I2 = 65%). We found little evidence for a benefit of joint lavage in terms of pain relief at three months (SMD ‐0.11, 95% CI ‐0.42 to 0.21), corresponding to a difference in pain scores between joint lavage and control of 0.3 cm on a 10‐cm visual analogue scale (VAS). Results for improvement in function at three months were similar (SMD ‐0.10, 95% CI ‐0.30 to 0.11), corresponding to a difference in function scores between joint lavage and control of 0.2 cm on a WOMAC disability sub‐scale from 0 to 10. For pain, estimates of effect sizes varied to some degree depending on the type of lavage, but this variation was likely to be explained by differences in the credibility of control interventions: trials using sham interventions to closely mimic the process of joint lavage showed a null‐effect. Reporting on adverse events and drop out rates was unsatisfactory, and we were unable to draw conclusions for these secondary outcomes. 
+Authors' conclusions
+Joint lavage does not result in a relevant benefit for patients with knee osteoarthritis in terms of pain relief or improvement of function. 

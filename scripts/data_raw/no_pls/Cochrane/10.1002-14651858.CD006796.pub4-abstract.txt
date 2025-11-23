@@ -1,0 +1,14 @@
+Background
+Thoracic aortic aneurysm (TAA) is an uncommon disease with an incidence of 10.4 per 100,000 inhabitants. It occurs mainly in older individuals and is evenly distributed among both sexes. There are no signs or symptoms indicative of the presence of the disease. Progressive but unpredictable enlargement of the dilated aorta is the natural course of the disease and can lead to rupture. Open chest surgical repair using prosthetic graft interposition has been a conventional treatment for TAAs. Despite improvements in surgical procedures perioperative complications remain significant. The alternative option of thoracic endovascular aneurysm repair (TEVAR) is considered a less invasive and potentially safer technique, with lower morbidity and mortality compared with conventional treatment. Evidence is needed to support the use of TEVAR for these patients, rather than open surgery. This is an update of the review first published in 2009. 
+Objectives
+This review aimed to assess the efficacy of TEVAR versus conventional open surgery in patients with thoracic aortic aneurysms. 
+Search methods
+For this update the Cochrane Vascular Information Specialist searched the Specialised Register (last searched January 2016) and CENTRAL (2015, Issue 12). 
+Selection criteria
+Randomised controlled trials in which patients with TAAs were randomly assigned to TEVAR or open surgical repair. 
+Data collection and analysis
+Two review authors independently identified and evaluated potential trials for eligibility. Excluded studies were further checked by another author. We did not perform any statistical analyses as no randomised controlled trials were identified. 
+Main results
+We did not find any published or unpublished randomised controlled trials comparing TEVAR with conventional open surgical repair for the treatment of thoracic aortic aneurysms. 
+Authors' conclusions
+Stent grafting of the thoracic aorta is technically feasible and non‐randomised studies suggest reduction of early outcomes such as paraplegia, mortality and hospital stay. High quality randomised controlled trials assessing all clinically relevant outcomes including open‐conversion, aneurysm exclusion, endoleaks, and late mortality are needed. 

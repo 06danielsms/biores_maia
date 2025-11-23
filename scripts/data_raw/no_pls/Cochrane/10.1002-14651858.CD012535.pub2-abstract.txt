@@ -1,0 +1,29 @@
+Background
+Pain is a common feature of childhood and adolescence around the world, and for many young people, that pain is chronic. The World Health Organization guidelines for pharmacological treatments for children's persisting pain acknowledge that pain in children is a major public health concern of high significance in most parts of the world. While in the past pain was largely dismissed and was frequently left untreated, views on children's pain have changed over time and relief of pain is now seen as important. 
+We designed a suite of seven reviews on chronic non‐cancer pain and cancer pain (looking at antidepressants, antiepileptic drugs, non‐steroidal anti‐inflammatory drugs, opioids, and paracetamol) in order to review the evidence for children's pain utilising pharmacological interventions. 
+As the leading cause of morbidity in the world today, chronic disease (and its associated pain) is a major health concern. Chronic pain (that is pain lasting three months or longer) can arise in the paediatric population in a variety of pathophysiological classifications (nociceptive, neuropathic, or idiopathic) from genetic conditions, nerve damage pain, chronic musculoskeletal pain, and chronic abdominal pain, as well as for other unknown reasons. 
+Antidepressants have been used in adults for pain relief and pain management since the 1970s. The clinical impression from extended use over many years is that antidepressants are useful for some neuropathic pain symptoms, and that effects on pain relief are divorced and different from effects on depression; for example, the effects of tricyclic antidepressants on pain may occur at different, and often lower, doses than those on depression. Amitriptyline is one of the most commonly used drugs for treating neuropathic pain in the UK. 
+Objectives
+To assess the analgesic efficacy and adverse events of antidepressants used to treat chronic non‐cancer pain in children and adolescents aged between birth and 17 years, in any setting. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online, MEDLINE via Ovid, and Embase via Ovid from inception to 6 September 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries. 
+Selection criteria
+Randomised controlled trials, with or without blinding, of any dose and any route, treating chronic non‐cancer pain in children and adolescents, comparing any antidepressant with placebo or an active comparator. 
+Data collection and analysis
+Two review authors independently assessed studies for eligibility. We planned to use dichotomous data to calculate risk ratio and number needed to treat for one additional event, using standard methods. We assessed the evidence using GRADE and created three 'Summary of findings' tables. 
+Main results
+We included four studies with a total of 272 participants (6 to 18 years of age) who had either chronic neuropathic pain, complex regional pain syndrome type 1, irritable bowel syndrome, functional abdominal pain, or functional dyspepsia. All of the studies were small. One study investigated amitriptyline versus gabapentin (34 participants), two studies investigated amitriptyline versus placebo (123 participants), and one study investigated citalopram versus placebo (115 participants). Due to a lack of available data we were unable to complete any quantitative analysis. 
+Risk of bias for the four included studies varied, due to issues with randomisation and allocation concealment (low to unclear risk); blinding of participants, personnel, and outcome assessors (low to unclear risk); reporting of results (low to unclear risk); and size of the study populations (high risk). We judged the remaining domains, attrition and other potential sources of bias, as low risk of bias. 
+Primary outcomes 
+No studies reported our primary outcomes of participant‐reported pain relief of 30% or greater or 50% or greater, or Patient Global Impression of Change. 
+Secondary outcomes 
+All studies measured adverse events, with very few reported (11 out of 272 participants). All but one adverse event occurred in the active treatment groups (amitriptyline, citalopram, and gabapentin). Adverse events in all studies, across active treatment and comparator groups, were considered to be a mild reaction, such as nausea, dizziness, drowsiness, tiredness, and abdominal discomfort (very low‐quality evidence). 
+There were also very few withdrawals due to adverse events, again all but one from the active treatment groups (very low‐quality evidence). 
+No serious adverse events were reported across any of the studies (very low‐quality evidence). 
+There were few or no data for our remaining secondary outcomes.
+Quality of evidence 
+For the outcomes with available data, we downgraded the quality of the evidence by three levels to very low‐quality due to too few data and the fact that the number of events was too small to be meaningful. 
+Authors' conclusions
+We identified only a small number of studies with small numbers of participants and insufficient data for analysis. 
+As we could undertake no meta‐analysis, we are unable to comment about efficacy or harm from the use of antidepressants to treat chronic non‐cancer pain in children and adolescents. Similarly, we could not comment on our remaining secondary outcomes: Carer Global Impression of Change; requirement for rescue analgesia; sleep duration and quality; acceptability of treatment; physical functioning; and quality of life. 
+We know from adult randomised controlled trials that some antidepressants, such as amitriptyline, can provide some pain relief in certain chronic non‐cancer pain conditions. 

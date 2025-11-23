@@ -1,0 +1,16 @@
+Background
+Among people who have suffered a traumatic brain injury, increased intracranial pressure continues to be a major cause of early death; it is estimated that about 11 people per 100 with traumatic brain injury die. 
+Indomethacin (also known as indometacin) is a powerful cerebral vasoconstrictor that can reduce intracranial pressure and, ultimately, restore cerebral perfusion and oxygenation. Thus, indomethacin may improve the recovery of a person with traumatic brain injury. 
+Objectives
+To assess the effects of indomethacin for adults with severe traumatic brain injury.
+Search methods
+We ran the searches from inception to 23 August 2019. We searched the Cochrane Central Register of Controlled Trials (CENTRAL; 2019, Issue 8) in the Cochrane Library, Ovid MEDLINE, Ovid Embase, CINAHL Plus (EBSCO), four other databases, and clinical trials registries. We also screened reference lists and conference abstracts, and contacted experts in the field. 
+Selection criteria
+Our search criteria included randomised controlled trials (RCTs) that compared indomethacin with any control in adults presenting with severe traumatic brain injury associated with elevated intracranial pressure, with no previous decompressive surgery. 
+Data collection and analysis
+Two review authors independently decided on the selection of the studies. We followed standard Cochrane methods. 
+Main results
+We identified no eligible studies for this review, either completed or ongoing.
+Authors' conclusions
+We found no studies, either completed or ongoing, that assessed the effects of indomethacin in controlling intracranial hypertension secondary to severe traumatic brain injury. Thus, we cannot draw any conclusions about the effects of indomethacin on intracranial pressure, mortality rates, quality of life, disability or adverse effects. 
+This absence of evidence should not be interpreted as evidence of no effect for indomethacin in controlling intracranial hypertension secondary to severe traumatic brain injury. It means that we have not identified eligible research for this review. 

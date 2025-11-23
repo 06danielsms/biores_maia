@@ -1,0 +1,14 @@
+Background
+Surgery has been the treatment of choice for patients with rectal cancer. For locally advanced cancer results were poor, with high rates of locoregional recurrences and poor overall survival data. Adding (chemo)radiotherapy upfront improved results mainly in locoregional control. Adding hyperthermia to radiotherapy preoperatively might have an equivalent beneficial effect. 
+Objectives
+To quantify the potential beneficial effect of thermo radiation compared to chemo‐radiation with respect to pathological complete responses, overall survival and toxicity in rectal cancer therapy. 
+Search methods
+We identified the relevant phase II and III randomised controlled trials in any language trough electronic searches May 2007 of the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2007), the Cochrane Colorectal Cancer Groups Specialised Register, MEDLINE (from 1966), EMBASE (from 1974), CINAHL (from 1982). Furthermore, various trial databases were searched for the identification of recent completed and ongoing trials (metaRegister of Controlled Trials, Cancer Research UK, Cancer.gov, The Eastern Cooperative Oncology Group Trials Database). All studies identified until May 2007 were considered for inclusion in the present study. 
+Selection criteria
+Only phase II and III randomised controlled clinical trials were included in the analysis.
+Data collection and analysis
+All identified studies were assessed by two independent reviewers. A weighted estimate of the treatment effect was computed for 2, 3, 4 and 5‐year survival, for local tumour recurrence, severe acute and late toxicity and complete tumour response (CR). CR was defined either clinically by disappearance of all pretreatment signs of local tumour or pathologically by microscopically free margins. The risk ratio (RR) and hazard ratio (HR) were used. Analyses were performed with the Reference Manager (RevMan). 
+Main results
+Six RCTs published between 1990 and 2007 were identified. A total number of 520 patients was treated, 258 in the radiotherapy only arm (RT) and 262 in the radiotherapy‐hyperthermia arm (RHT).  Four studies (424 patients) reported overall survival (OS) rates. After 2 years, OS was significantly better in the RHT group (HR 2.06; 95% CI 1.33‐3.17; p=.001), but this difference disappeared after a longer period (3, 4 and 5 year OS).  All but one studies reported CR rates. A significant higher CR rate was observed in the RHT group (RR 2.81; 95% CI 1.22‐6.45; p=.01).  Only 2 studies reported on acute toxicity. In these 2 studies no significant differences were observed between the RT and the RHT group. Late toxicity data were not reported. 
+Authors' conclusions
+Further studies are needed to compare chemoradiation versus thermoradiation versus chemoradiation plus hyperthermia in well selected/conducted and quality controlled randomised trials. 

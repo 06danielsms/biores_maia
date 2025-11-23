@@ -1,0 +1,14 @@
+Background
+Amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND), is a rare neurodegenerative disease. Approximately 5% to 7% of ALS/MND patients report a family history of a similarly affected relative. Superoxide dismutase‐1 gene mutations are the cause in about 20% of familial cases. In those with non‐familial (sporadic) ALS/MND the cause is unknown. Also unknown is whether people with familial and sporadic ALS/MND respond differently to treatment. 
+Objectives
+To systematically review the literature and to answer the specific question: 'Is there a differential response to treatment between people with sporadic and familial forms of ALS?' 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register, the Cochrane Central register of Controlled Trials (CENTRAL), MEDLINE and EMBASE for randomized controlled trials (RCTs). Two review authors read the titles and abstracts of all articles and reviewed the full text of all possibly relevant articles. We scanned references of all included trials to identify additional relevant articles. For all trials eligible for inclusion we contacted the authors to request the necessary raw data. 
+Selection criteria
+Studies had to meet two criteria: (a) randomized controlled study design, and (b) inclusion of participants with both familial and sporadic ALS/MND. 
+Data collection and analysis
+We attempted to contact authors of all trials that met inclusion criteria. We obtained data regarding ALS/MND type (sporadic versus familial), treatment assignment (active versus placebo), survival and ALS Functional Rating Scale (ALSFRS) scores for included RCTs. 
+Main results
+Five RCTs involving 895 sporadic and 52 familial ALS/MND participants were included. There was no statistical evidence for a differential response to treatment in participants with familial ALS/MND compared to those with sporadic ALS/MND. The pooled estimate of the hazard ratio for the interaction term (treatment x familial ALS) suggested a more beneficial response with respect to survival among participants with familial ALS/MND, but the result was not statistically significant. Pooled estimates of the rate of decline on the ALSFRS suggested a slightly better overall response to treatment among those with familial ALS/MND, but the result was not statistically significant. 
+Authors' conclusions
+Based on the available data, there is little evidence for a differential response to treatment among people with familial and sporadic ALS/MND. Future randomized controlled trials should document whether people with familial ALS/MND are included and the presence or absence of a mutation in an ALS susceptibility gene amongst those with familial ALS/MND. 

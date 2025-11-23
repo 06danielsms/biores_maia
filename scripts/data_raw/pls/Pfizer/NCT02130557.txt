@@ -1,0 +1,36 @@
+What is Chronic Myeloid Leukemia?
+Chronic myeloid leukemia (CML) is a cancer that begins in cells within the bone marrow. The bone marrow is the spongy inner portion of bones where blood cells are made. Normally, these cells divide into different types of blood cells: white blood cells, red blood cells, and platelets.
+Sometimes a mistake happens when the bone marrow cells divide and unhealthy cells are produced. In CML, the unhealthy cells produce a protein called breakpoint cluster region protein/Abelson murine leukemia viral oncogene (BCR-ABL). The protein BCR-ABL causes CML. This protein leads to the production of too many unhealthy cells (leukemic cells) that crowd out healthy cells. 
+What is Bosutinib?
+Tyrosine kinases are proteins in the body that control how cells grow and divide. Bosutinib is a drug that blocks a tyrosine kinase called BCR-ABL, which means that when treated with bosutinib, BCR-ABL is deactivated or is less active. This study compared Bosulif®/bosutinib 400 mg and imatinib 400 mg. Both drugs are tablets taken by mouth.  
+At the time this study began, bosutinib was approved for patients with CML when the initial treatment given is no longer controlling the disease (known as resistance) or has had to be stopped because they could not tolerate it (known as intolerance). Imatinib is a marketed drug approved for the treatment of patients with newly diagnosed CML, and is considered a standard treatment for newly diagnosed/previously untreated CML.
+090177e198e479d0\Approved\Approved On: 16-Dec-2021 07:52 (GMT)
+What was the purpose of this study?
+The main reason researchers did this study was to provide another choice for the treatment of CML in adult patients who were newly diagnosed. Specifically, researchers wanted to know what percentage (%) of participants receiving bosutinib 400 mg reached a major molecular response (MMR) at 48 weeks after treatment started compared to participants receiving imatinib 400 mg. A major molecular response means that the participant has low levels of BCR-ABL, more specifically, levels of BCR-ABL that are 0.1% or less. In addition, researchers wanted to know about any medical problems participants had during the study.
+How was the study done? Researchers tested bosutinib on a group of study participants to find out if participants taking bosutinib 400 mg reached MMR at 48 weeks compared to participants taking imatinib 400 mg. Participants were assigned to one of the following treatment groups: Researchers wanted to know: What percentage (%) of participants receiving bosutinib 400 mg reached a MMR at 48 weeks compared to participants receiving imatinib 400 mg? A major molecular response means that BCR-ABL levels were 0.1% or less. 
+
+Bosutinib 400 mg, an investigational drug, which means bosutinib was not approved for use in this country to treat CML as initial therapy when the study started. Imatinib 400 mg. This was an “open-label” study, which means that doctors and participants knew which treatment participants were receiving. However, the laboratory that evaluated MMR was not aware of which treatment participants received (blinded). Participants were assigned to each treatment group by chance, like a flip of a coin, and had an equal chance of assignment to either treatment group. This is called randomization and is done to make the groups more similar. 
+
+Study Plan: During this 48-week treatment period, participants were required to meet with their study doctor every 4 weeks for the first 24 weeks, then at 36 weeks, and at 48 weeks for an exam (Core Treatment Phase). If participants responded to treatment, they continued to take their assigned treatment for 4 more years (192 weeks) (Extension Phase) after the initial 48 weeks of treatment. Participants met with their study doctor for follow-up visits until they reached 5 years of treatment or until the CML got worse. The participants could continue to receive treatment after the study was completed at the discretion of their treating physician. 
+
+Where did this study take place? The Sponsor ran this study at 146 locations in 26 countries in 6 regions of the world, including: Australia, Asia, Europe, Middle East, North America, and South Africa. 
+
+When did this study take place? This study began 15 July 2014 and ended 17 April 2020. 
+
+Who participated in this study? Participants in this study had to meet the following inclusion/exclusion criteria: newly diagnosed CML; molecular diagnosis of CML positive for BCR-ABL; no previous treatment except for hydroxyurea or anagrelide; acceptable liver and kidney function; no central nervous system (brain and spinal cord) involvement; and the ability to swallow tablets. 
+
+A total of 311 men participated. A total of 225 women participated. All participants were between the ages of 18 years and 84 years. Participants were to be treated until 5 years after starting the study. Of the 536 participants who started the study, 463 participants finished the study. 73 participants (14%; 14 out of 100) did not finish the study because of: 
+
+- Participant request: 24 participants (5%; 5 out of 100)
+- Participant passed away: 28 participants (5%; 5 out of 100)
+- Lost to follow-up: 13 participants (2%; 2 out of 100)
+- Missing: 3 participants (1%; 1 out of 100)
+- Other reason: 3 participants (1%; 1 out of 100)
+- Physician request: (2 participants, or less than 1%, did not finish the study because their doctor decided it was best for a participant to stop being in the study).
+
+Of the 533 participants who received treatment, a total of 314 participants (59%; 59 out of 100) were still receiving the study drug at the end of the 5-year study period in both groups. 160 (60%; 60 out of 100) participants in the bosutinib group were still receiving bosutinib at the end of the study period. 154 (58%; 58 out of 100) participants in the imatinib group were still receiving imatinib at the end of the study period. 219 (41%; 41 out of 100) participants discontinued treatment. The most common reasons for discontinuing treatment (occurring in ≥5% of participants) were:
+
+- 100 participants (19%; 19 out of 100) stopped treatment due to a medical problem. 67 participants (25%; 25 out of 100) in the bosutinib group stopped treatment because of a medical problem and 33 participants (13%; 13 out of 100) in the imatinib group stopped treatment because of a medical problem.
+- 56 participants (11%; 11 out of 100) stopped treatment because they did not respond to treatment as expected (treatment failure). 13 participants (5%; 5 out of 100) in the bosutinib group and 43 participants (16%; 16 out of 100) in the imatinib group stopped treatment because of treatment failure.
+
+How long did the study last? Study participants were in the study for 5 years. The entire study took almost 6 years to complete. The Sponsor began reviewing the information collected in 2016 and the created a report of the results. The study ended in April 2020 and another report was created that included longer-term information. This is a summary of the 2020 report.

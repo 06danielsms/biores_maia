@@ -1,0 +1,15 @@
+Background
+Cytomegalovirus (CMV) is a virus that usually affects people with reduced immunity. In recent years, this virus has been thought to cause repeated inflammation in the eye, in otherwise healthy people. This form of inflammation can cause damage to the cornea (the outer layer of the eye) or to the optic nerve by causing secondary glaucoma, or to both, leading to visual loss. 
+Objectives
+Our primary objective was to assess the effects of drug therapies for the treatment of CMV‐associated anterior segment inflammation. 
+Our secondary objective was to determine the optimal dose and duration of treatment with respect to recurrence and adverse effects. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2017, Issue 2), MEDLINE Ovid (1946 to 21 March 2017), Embase Ovid (1947 to 21 March 2017), the ISRCTN registry (www.isrctn.com/editAdvancedSearch); searched 21 March 2017, ClinicalTrials.gov (www.clinicaltrials.gov); searched 21 March 2017, and the WHO International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en); searched 21 March 2017. We did not use any date or language restrictions in the electronic searches for trials. Two review authors independently reviewed the titles and abstracts. 
+Selection criteria
+We searched for randomised controlled trials (RCTs) on the management of CMV‐associated anterior segment inflammation. 
+Data collection and analysis
+We planned to have two review authors independently extract data from reports of included studies and analyse data based on methods expected by Cochrane. 
+Main results
+We did not identify any RCTs that met our inclusion criteria.
+Authors' conclusions
+There is currently no good‐quality evidence on the management of CMV‐associated anterior segment inflammation. Ideally, a well‐designed RCT is needed to evaluate the effectiveness of different anti‐CMV medications as well as the optimal dose and duration. 

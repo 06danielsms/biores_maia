@@ -1,0 +1,15 @@
+Pyronaridine‐artesunate for treating uncomplicated Plasmodium falciparum malaria
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out if the antimalarial drug pyronaridine‐artesunate is effective and safe in treating uncomplicated cases of an important type of malaria (Plasmodium falciparum). We collected and analysed all relevant studies to answer this question and found 10 studies. 
+Key messages 
+Pyronaridine‐artesunate is effective in treating uncomplicated P falciparum malaria. Pyronaridine‐artesunate is generally safe, but some people who receive it have blood tests suggesting liver damage. This appears to neither be long‐lasting nor to make people ill. 
+What was studied in the review? 
+The World Health Organization (WHO) recommends that malaria be treated with combinations of drugs called artemisinin‐based combination therapies (ACTs). Pyronaridine‐artesunate is a new ACT. New ACTs are needed to treat malaria that has become resistant to currently available ACTs, and to help prevent malaria from becoming more resistant to treatment. 
+We compared pyronaridine‐artesunate to other ACTs to evaluate its effectiveness against P falciparum malaria, and compared pyronaridine‐artesunate and pyronaridine alone to other drugs to evaluate its safety. 
+What are the main results of the review? 
+We included five studies in our analysis of treatment effectiveness. Four studies compared pyronaridine‐artesunate to artemether‐lumefantrine in adults and children of all ages in Africa and Asia. One study compared pyronaridine‐artesunate to artesunate‐amodiaquine in adults and older children in Africa, and one study compared pyronaridine‐artesunate to mefloquine plus artesunate in adults and older children in Africa and Asia. We included another five studies in our analysis of drug safety. 
+Pyronaridine‐artesunate effectively treated uncomplicated P falciparum malaria, and may be at least as good as or better than existing ACTs (low‐ to moderate‐certainty evidence). Pyronaridine‐artesunate increases the risk of having blood tests that suggest mild liver injury (moderate‐ to high‐certainty evidence). We did not find evidence that any such liver injury was severe or irreversible. We do not know how pyronaridine‐artesunate might affect people who already have liver damage. 
+We found two trials that exclusively recruited children under 12, with a total of 732 participants. When only including data from these trials, we did not find differences in treatment effectiveness or safety between pyronaridine‐artesunate and artemether‐lumefantrine. 
+We identified a further seven studies that provided observational data on the safety of pyronaridine. The data from these studies allowed us to increase the population within which safety was assessed. The observational data did not suggest an excess of important adverse effects.   
+How up‐to‐date is the review? 
+We searched for studies that had been published up to 27 October 2021.

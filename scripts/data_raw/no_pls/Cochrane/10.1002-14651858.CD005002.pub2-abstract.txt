@@ -1,0 +1,15 @@
+Background
+Currently, preoperative chemotherapy is the standard of care in locally advanced breast cancer to achieve local tumour downsizing in order to make surgery possible. Since the early 1980s, the role of preoperative chemotherapy in early stage (or operable) breast cancer has been the subject of study. Potential advantages are early introduction of systemic therapy, determination of chemosensitivity, reduction of tumour volume and downstaging of surgical requirement. Concerns exist about local control after downsized surgery and the delay of local treatment in patients with tumours resistant to chemotherapy. 
+Objectives
+To assess the effectiveness of preoperative chemotherapy in women with operable breast cancer when compared to postoperative chemotherapy. 
+Search methods
+The Specialised Register maintained by the Editorial Base of the Cochrane Breast Cancer Group was searched on 4th of August 2005. 
+Selection criteria
+Randomised trials comparing preoperative chemotherapy with postoperative in women with operable breast cancer. 
+Data collection and analysis
+Studies were assessed for eligibility and quality, and data were extracted by two independent review authors. Hazard ratios were derived for time‐to‐event outcomes directly or indirectly using the methods described by Parmar. Relative risks were derived for dichotomous outcomes. Meta‐analyses were performed using fixed effect model. 
+Main results
+We identified 14 eligible studies which randomised a total of 5,500 women. Median follow‐up ranged from 18 to 124 months. Eight studies described a satisfactory method of randomisation. 
+Data, based on 1139 estimated deaths in 4620 women available for analysis, show equivalent overall survival rates with a HR of 0.98 (95% CI, 0.87 to 1.09; p, 0.67; no heterogeneity). Preoperative chemotherapy increases breast conservation rates, yet at the associated cost of increased loco regional recurrence rates. However, this rate was not increased as long as surgery remains part of the treatment even after complete tumour regression (HR, 1.12; 95% CI, 0.92 to 1.37; p, 0.25; no heterogeneity. Preoperative chemotherapy was associated with fewer adverse effects. Pathological complete response is associated with better survival than residual disease (HR, 0.48; 95% CI, 0.33 to 0.69; p, < 10‐4). 
+Authors' conclusions
+This review suggests safe application of preoperative chemotherapy in the treatment of women with early stage breast cancer in order to down‐stage surgical requirement, to evaluate chemosensitivity and to facilitate translational research. 

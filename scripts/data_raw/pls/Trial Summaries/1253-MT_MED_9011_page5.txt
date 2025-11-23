@@ -1,0 +1,13 @@
+Clinical Study Results
+What were the results of the study?
+This is a summary of the main results from this study overall. The results each participant had might be different and individual results are not in this summary. A full list of the questions researchers wanted to answer can be found on the websites listed at the end of this summary. If a full report of the study results is available, it can also be found on these websites.
+Researchers look at the results of many studies to decide which treatments work best and are safest. Other studies may provide new information or different results. Always talk to a doctor before making any treatment changes.
+
+What was the highest amount of anifrolumab in the participants’ blood after receiving the first dose?
+To answer this question, the researchers took blood samples from the participants right after they received their first dose of anifrolumab. The researchers measured the amount of anifrolumab in the blood in Groups 1 and 2. This was measured in micrograms per milliliter, also called µg/mL.
+The researchers looked at the highest amounts of anifrolumab in the participants’ blood using the median. The median is the middle number in a set of numbers. It is between the highest and lowest numbers. So, researchers collected all the values for the highest amount of anifrolumab and used the middle one of these.
+They found that after the first dose, the median highest amount of anifrolumab was higher in the participants who received 300 mg of anifrolumab than in the participants who received 150 mg of anfrolumab.
+
+After the first dose, the median highest amount of anifrolumab in the blood of participants who got anifrolumab was:
+- 16.6 µg/mL in Group 1
+- 25.9 µg/mL in Group 2

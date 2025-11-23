@@ -1,0 +1,14 @@
+Background
+This review is one in a series of reviews of interventions for lateral elbow pain.
+Objectives
+To determine the effectiveness and safety of extracorporeal shock wave therapy (ESWT) for lateral elbow pain. 
+Search methods
+Searches of the Cochrane Controlled Trials Register (Cochrane Library Issue 2, 2004), MEDLINE, EMBASE, CINAHL, and Science Citation Index (SCISEARCH) were conducted in February 2005, unrestricted by date. 
+Selection criteria
+We included nine trials that randomised 1006 participants to ESWT or placebo and one trial that randomised 93 participants to ESWT or steroid injection. 
+Data collection and analysis
+For each trial two independent reviewers assessed the methodological quality and extracted data. Methodological quality criteria included appropriate randomisation, allocation concealment, blinding, number lost to follow up and intention to treat analysis. Where appropriate, pooled analyses were performed. If there was significant heterogeneity between studies or the data reported did not allow statistical pooling, individual trial results were described in the text. 
+Main results
+Eleven of the 13 pooled analyses found no significant benefit of ESWT over placebo. For example, the weighted mean difference for improvement in pain (on a 100‐point scale) from baseline to 4‐6 weeks from a pooled analysis of three trials (446 participants) was ‐9.42 (95% CI ‐20.70 to 1.86) and the weighted mean difference for improvement in pain (on a 100‐point scale) provoked by resisted wrist extension (Thomsen test) from baseline to 12 weeks from a pooled analysis of three trials (455 participants) was ‐9.04 (95% CI ‐19.37 to 1.28). Two pooled results favoured ESWT. For example, the pooled relative risk of treatment success (at least 50% improvement in pain with resisted wrist extension at 12 weeks) for ESWT in comparison to placebo from a pooled analysis of two trials (192 participants) was 2.2 (95% CI 1.55 to 3.12). However this finding was not supported by the results of four other individual trials that were unable to be pooled. Steroid injection was more effective than ESWT at 3 months after the end of treatment assessed by a reduction of pain of 50% from baseline (21/25 (84%) versus 29/48 (60%), p<0.05). Minimal adverse effects of ESWT were reported. Most commonly these were transient pain, reddening of the skin and nausea and in most cases did not require treatment discontinuation or dosage adjustment. 
+Authors' conclusions
+Based upon systematic review of nine placebo‐controlled trials involving 1006 participants, there is "Platinum" level evidence that shock wave therapy provides little or no benefit in terms of pain and function in lateral elbow pain. There is "Silver" level evidence based upon one trial involving 93 participants that steroid injection may be more effective than ESWT. 

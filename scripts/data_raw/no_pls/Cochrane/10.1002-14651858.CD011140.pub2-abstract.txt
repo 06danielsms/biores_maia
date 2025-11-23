@@ -1,0 +1,14 @@
+Background
+Age‐related macular degeneration (AMD) causes progressive and irreversible damage to the retina, resulting in loss of central vision. AMD is the third leading cause of irreversible visual impairment worldwide and the leading cause of blindness in industrialized countries. Since AMD is more common in older individuals, the number of affected individuals will increase significantly as the population ages. The implantable miniature telescope (IMT) is an ophthalmic device developed to improve vision in individuals who have lost vision due to AMD. Once implanted, the IMT is used to enlarge objects in the central visual field and focus them onto healthy areas of the retina not affected by AMD, allowing individuals to recognize objects that they otherwise could not see. It is unclear whether and how much the IMT can improve vision in individuals with end‐stage AMD. 
+Objectives
+To assess the effectiveness and safety of the IMT in improving visual acuity and quality of life in people with late or advanced AMD. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (which contains the Cochrane Eyes and Vision Trials Register) (2017, Issue 11); Ovid MEDLINE; Embase.com; PubMed; LILACS; AMED; Web of Science Conference Proceedings Citation Index‐Science; OpenSIGLE; the metaRegister of Controlled Trials (mRCT) (last searched 27 June 2014); ClinicalTrials.gov; the ICTRP and the US Food and Drug Administration (FDA) Medical Devices database. The date of the search was 2 November 2017, with the exception of mRCT which is no longer in service. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) and quasi‐randomized trials that compared the IMT versus no IMT. 
+Data collection and analysis
+Two review authors independently assessed all studies for inclusion, using standard methodological procedures expected by Cochrane. 
+Main results
+Our search yielded 1042 unique records. We removed irrelevant studies after screening titles and abstracts, and evaluated five full‐text reports from four studies; three were non‐randomized studies. There was one ongoing RCT that compared the OriLens intraocular telescope with standard low vision training in eyes with end‐stage AMD. Results for this study are expected in 2020. 
+Authors' conclusions
+We found no RCT or quasi‐RCT and can draw no conclusion about the effectiveness and safety of the IMT in improving visual acuity in individuals with late or advanced AMD. Since the IMT is typically implanted monocularly based upon which eye has better best‐corrected distance visual acuity, randomization between eyes within an individual may not be acceptable. Studies are needed that compare outcomes between individuals randomized to the device versus individuals not implanted, at least during study follow‐up, who serve as controls. 

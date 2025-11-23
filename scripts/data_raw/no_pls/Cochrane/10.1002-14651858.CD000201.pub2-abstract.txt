@@ -1,0 +1,14 @@
+Background
+The routine prophylactic administration of an uterotonic agent is an integral part of active management of the third stage of labour, helping to prevent postpartum haemorrhage (PPH). The two most widely used uterotonic agents are: ergometrine‐oxytocin (Syntometrine®) (a combination of oxytocin 5 international units (iu) and ergometrine 0.5 mg) and oxytocin (Syntocinon®). 
+Objectives
+To compare the effects of ergometrine‐oxytocin with oxytocin in reducing the risk of PPH (blood loss of at least 500 ml) and other maternal and neonatal outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2007). 
+Selection criteria
+Randomised trials comparing ergometrine‐oxytocin use with oxytocin use in women having the third stage of labour managed actively. 
+Data collection and analysis
+We independently assessed trial eligibility and quality and extracted data. We contacted study authors for additional information. 
+Main results
+Six trials were included (9332 women). Compared with oxytocin, ergometrine‐oxytocin was associated with a small reduction in the risk of PPH using the definition of PPH of blood loss of at least 500 ml (odds ratio 0.82, 95% confidence interval 0.71 to 0.95). This advantage was found for both a dose of 5 iu oxytocin and a dose of 10 iu oxytocin, but was greater for the lower dose. There was no difference detected between the groups using either 5 or 10 iu for the stricter definition of PPH of blood loss at least 1000 ml. Adverse effects of vomiting, nausea and hypertension were more likely to be associated with the use of ergometrine‐oxytocin. When heterogeneity between trials was taken into account there were no statistically significant differences found for the other maternal or neonatal outcomes. 
+Authors' conclusions
+The use of ergometrine‐oxytocin as part of the routine active management of the third stage of labour appears to be associated with a small but statistically significant reduction in the risk of PPH when compared to oxytocin for blood loss of 500 ml or more. No statistically significant difference was observed between the groups for blood loss of 1000 ml or more. A statistically significant difference was observed in the presence of maternal side‐effects, including elevation of diastolic blood pressure, vomiting and nausea, associated with ergometrine‐oxytocin use compared to oxytocin use. Thus, the advantage of a reduction in the risk of PPH, between 500 and 1000 ml blood loss, needs to be weighed against the adverse side‐effects associated with the use of ergometrine‐oxytocin. 

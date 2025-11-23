@@ -1,0 +1,37 @@
+How effective is screening for COVID‐19?
+Why does screening matter? 
+Screening aims to identify a condition in people who may not be showing any symptoms. Some people may have the COVID‐19 virus but appear healthy or have only mild symptoms. It is important to identify infected people so they can stay away from others and seek appropriate care. Incorrectly identifying COVID‐19 in healthy people could lead to unnecessary self‐isolation and further tests. Incorrectly identifying no infection in infected people could spread the virus. 
+Screening for COVID‐19 can include temperature checks, or asking about international travel or contact with COVID‐19 cases, or rapid tests. Screening can occur over the telephone, online, or in person, in homes, clinics, workplaces, airports or schools. 
+What did the review study? 
+We wanted to identify:
+· the benefits and negative effects of screening apparently healthy people for COVID‐19 infection; 
+· whether screening can identify those with and without the virus correctly.
+To answer these questions rapidly, we shortened some steps of the normal Cochrane Review process. We are confident these changes do not affect our overall conclusions. 
+What did we do? 
+We looked for studies that screened people who had not sought care for potential COVID‐19 symptoms. 
+This review includes evidence up to May 2020.
+Key results 
+We found 22 studies; 17 assessed people (cohort studies) and five were computer‐generated models (modelling studies). Studies took place in USA, Europe, and Asia. 
+Benefits and negative effects  Two modelling studies reported on the benefits and negative effects of screening. One suggested that asking about symptoms at airports may slightly slow, but not stop, the importation of infected people. 
+Another model reported that weekly or biweekly screening of healthcare workers may reduce transmission to patients and other healthcare workers in emergency departments. 
+No studies reported on negative effects of screening.
+Identification of infected people  Seventeen cohort studies and three modelling studies reported on whether screening can correctly identify those with and without the virus. Studies varied widely in the baseline level of COVID‐19, settings, and methods. All cohort studies compared screening strategies to a ‘gold standard’ test called RT‐PCR. 
+Cohort studiesAll screening strategies (17 studies, 17,574 people), incorrectly identified: 
+· between 20 and 100 out of 100 infected people as healthy;
+· between 0 and 38 people out of 100 healthy people as infected
+Asking about symptoms (13 studies, 16,762 people ), incorrectly identified: 
+· between 40 to 100 out of 100 infected people as healthy
+· between 0 to 34 out of 100 healthy people as infected
+Temperature measurements, asking about international travel, exposure to known infected people and exposure to known or suspected infected people (6 studies, 14,741 people), incorrectly identified: 
+· between 77 and 100 out of 100 infected people as healthy
+· between 0 and 10 out of 100 healthy people as infected
+Asking about symptoms plus temperature measurement (2 studies, 779 people), incorrectly identified: 
+· between 31 and 88 out of 100 infected people as healthy
+· between 0 to 10 people out of 100 healthy people as infected
+There was insufficient evidence from two small studies on rapid laboratory tests and repeated symptom assessment to tell how accurate they were in identifying healthy and infected people. 
+Modelling studiesThree studies modelled entry and exit screening in airports. One study missed 70% of infected travellers. Another detected 90% of infections, but used an unrealistic scenario. The third used very unreliable methods so we cannot use evidence from this study. 
+How confident are we in the results of the studies? 
+Our confidence in these findings is limited because most studies did not describe their screening methods clearly, some found very few cases of infections and the types of participants and settings varied greatly, making it difficult to judge whether the results apply broadly. 
+Authors’ conclusions 
+One‐time screening in apparently healthy people is likely to miss people who are infected. We are unsure whether combined screenings, repeated symptom assessment, or rapid laboratory tests are useful. 
+As more people become infected, screening will identify more cases. However, because screening can miss people who are infected, public health measures such as face coverings, physical distancing, and quarantine for those who are apparently healthy, continue to be very important. 

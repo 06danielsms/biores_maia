@@ -1,0 +1,14 @@
+Background
+The evidence of tapered methadone's efficacy in managing opioid withdrawal has been systematically evaluated in the previous version of this review that needs to be updated 
+Objectives
+To evaluate the effectiveness of tapered methadone compared with other detoxification treatments and placebo in managing opioid withdrawal on completion of detoxification and relapse rate. 
+Search methods
+We searched: Cochrane Central Register of Controlled Trials (The Cochrane Library 2012, Issue 4), PubMed (January 1966 to May 2012), EMBASE (January 1988 to May 2012), CINAHL (2003‐ December 2007), PsycINFO (January 1985 to December 2004), reference lists of articles. 
+Selection criteria
+All randomised controlled trials that focused on the use of tapered methadone versus all other pharmacological detoxification treatments or placebo for the treatment of opiate withdrawal. 
+Data collection and analysis
+Two review authors assessed the included studies. Any doubts about how to rate the studies were resolved by discussion with a third review author. Study quality was assessed according to the criteria indicated in the Cochrane Handbook for Systematic Reviews of Interventions. 
+Main results
+Twenty‐three trials involving 2467 people were included. Comparing methadone versus any other pharmacological treatment, we observed no clinical difference between the two treatments in terms of completion of treatment, 16 studies 1381 participants, risk ratio (RR) 1.08 (95% confidence interval (CI) 0.97 to 1.21); number of participants abstinent at follow‐up, three studies, 386 participants RR 0.98 (95% CI 0.70 to 1.37); degree of discomfort for withdrawal symptoms and adverse events, although it was impossible to pool data for the last two outcomes. These results were confirmed also when we considered the single comparisons: methadone with: adrenergic agonists (11 studies), other opioid agonists (eight studies), anxiolytic (two studies), paiduyangsheng (one study). Comparing methadone with placebo (two studies) more severe withdrawal and more drop‐outs were found in the placebo group.   The results indicate that the medications used in the included studies are similar in terms of overall effectiveness, although symptoms experienced by participants differed according to the medication used and the program adopted. 
+Authors' conclusions
+Data from literature are hardly comparable; programs vary widely with regard to the assessment of outcome measures, impairing the application of meta‐analysis. The studies included in this review confirm that slow tapering with temporary substitution of long‐ acting opioids, can reduce withdrawal severity. Nevertheless, the majority of patients relapsed to heroin use. 

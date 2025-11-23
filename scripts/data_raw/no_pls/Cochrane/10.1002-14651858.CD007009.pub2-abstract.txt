@@ -1,0 +1,14 @@
+Background
+Attention‐deficit hyperactivity disorder (ADHD) is increasingly recognised as occurring in people with intellectual disability (ID), although treatment of ADHD in this population has not been tested widely. Amfetamine has been used to treat ADHD in people with and without ID, although the evidence for its efficacy in people with ID is unclear. 
+Objectives
+To examine the effectiveness of amfetamine for the treatment of attention deficit hyperactivity disorder in people with intellectual disabilities. 
+Search methods
+MEDLINE, PsycINFO, EMBASE, AMED, ISI Web of Science and WorldCat Dissertations were searched using an extensive list of synonyms for ADHD and ID. CENTRAL, Current Controlled Trials meta‐register (mRCT), CenterWatch, NHS National Research Register, clinicaltrials.gov were searched in August 2007. Pharmaceutical companies and experts in the field were contacted. Reference lists of review articles were examined and citation searches were performed in ISI Web of Knowledge. 
+Selection criteria
+All randomised controlled studies, both published and unpublished, in any language, in which children or adults with ADHD and ID were treated with amfetamine. 
+Data collection and analysis
+Data were extracted independently by two reviewers using a standardised extraction sheet. Risk of bias was assessed by two authors using a standardised framework. Meta‐analyses were planned but were not performed due to a lack of suitable studies. 
+Main results
+Only one study was suitable for inclusion. This was a cross‐over study in 15 children with ADHD, ID and Fragile X syndrome. Duration of treatment was only one week. No significant difference was reported between amfetamine and placebo for any of the ADHD measures, but significantly more side effects were reported while taking amfetamine, mainly mood lability and irritability. 
+Authors' conclusions
+There is very little evidence for the effectiveness of amfetamine for ADHD in people with ID . Prescribing in this population is based on extrapolation of research in people without ID. More research into effectiveness and tolerability is urgently needed. 

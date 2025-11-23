@@ -1,0 +1,17 @@
+Background
+Invasive cervical carcinoma is preceded by a precancerous phase, cervical intra‐epithelial neoplasia (CIN), which can be detected on cervical smears and confirmed by colposcopy and biopsy. Moderate and severe cases of intra‐epithelial neoplasia (CIN2 and CIN3) are treated mainly with surgery to prevent progression to invasive carcinoma. Medical methods of preventing the progression or inducing the regression of CIN are needed. Retinoids are potent modulators of epithelial cell growth and differentiation that may have potential for the treatment of CIN. 
+Objectives
+To ascertain whether retinoids can cause regression or prevent progression of CIN.
+Search methods
+We searched the Cochrane Gynaecological Cancer Review Group's Specialised Register and Non‐Trials Database, the Cochrane Central Register of Controlled Trials (CENTRAL) (Issue 3, 2010), and MEDLINE and Embase (July 2010). 
+For the 2013 update, the searches were re‐run as follows: CENTRAL, Issue 3, 2013; MEDLINE, April, Week 2, 2013; and Embase, Week 16, 2013. In Novemeber 2015 the searches were updated: CENTRAL, Issue 10, 2015; MEDLINE, Nov, Week 1, 2015; and Embase, Week 46, 2015. 
+Selection criteria
+Randomized controlled trials (RCTs) and non‐RCTs of retinoids for treating CIN in women. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data from the trials. Adverse effects information was also collected from the trials. 
+Main results
+Five RCTs comparing the efficacy of four different retinoids were identified. Two studies examined the effects on CIN2 and CIN3 of the retinoids N‐(4‐hydroxyphenyl)retinamide (fenretinide) and 9‐cis‐retinoic acid (aliretinoin) given orally. Two examined the effect of all‐trans‐retinoic acid administered topically to the cervix. The fifth study investigated the use of 13‐cis‐retinoic acid (isotretinoin) given orally to human immunodeficiency virus (HIV)‐positive participants with CIN1 and condyloma. 
+Four studies reported no significant effect of retinoids on the progression to higher grades of CIN, and the fifth did not report data on progression. In all studies retinoids had no significant effect on regression of CIN3. Two studies reported that retinoids were associated with regression of CIN2. One reported a greater complete regression of CIN2 over that seen with placebo, which was of borderline statistical significance (odds ratio (OR) 0.5, 95% confidence interval (CI) 0.25 to 1.02). The other study reported a nonsignificant dose‐related trend toward increased rates of complete and partial regression compared with placebo. One study reported significantly worse outcomes in women receiving retinoid (OR for regression 6.00, 95% CI 1.00 to 35.91). In general, the retinoid medications were well tolerated. 
+In the 2010, 2013 and 2015 updates, no new studies were identified for inclusion, therefore the review has been marked as stable. 
+Authors' conclusions
+The retinoids studied are not effective in causing regression of CIN3 but may have some effect on CIN2. The data on CIN1 are inadequate. Retinoids are not effective in preventing progression of CIN of any grade. At the doses given for the duration of treatment studied, the retinoids were reasonably well tolerated. 

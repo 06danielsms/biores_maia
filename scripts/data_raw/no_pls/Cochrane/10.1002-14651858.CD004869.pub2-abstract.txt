@@ -1,0 +1,16 @@
+Background
+Cysteine is a precursor of glutathione, an antioxidant that may reduce oxidation injury. The addition of cysteine to parenteral nutrition (PN) allows for the reduction of the amount of methionine in PN, thereby limiting hepatotoxicity and acidifies the solution, thereby increasing calcium and phosphate solubility and potentially improving bone mineralization. 
+Objectives
+To determine the effects of supplementing PN with cysteine, cystine or its precursor N‐acetylcysteine on neonatal growth and short and long‐term outcomes. 
+Search methods
+The standard search method of the Cochrane Neonatal Review Group was used. MEDLINE, EMBASE, the Cochrane Central Register of Controlled Trials (The Cochrane Library) and recent abstracts from the Society for Pediatric Research/ American Pediatric Society, Eastern Society for Pediatric Research, and Society for Parenteral and Enteral Nutrition were originally searched in 2005. In August 2009 updated searches were done of The Cochrane Library, MEDLINE (search via PubMed), CINAHL and EMBASE from 2006 to 2009. 
+Selection criteria
+All randomized (RCTs) and quasi‐randomized trials that examined the effects of cysteine, cystine or N‐acetylcysteine supplementation of neonatal PN were reviewed. 
+Data collection and analysis
+The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. Statistical analysis included relative risk, risk difference, and weighted mean difference (WMD). 
+Main results
+Six trials fulfilled entry criteria. The majority of patients in these trials were preterm. Five small trials evaluated short‐term cysteine supplementation of cysteine‐free PN. One large multicenter RCT evaluated short‐term N‐acetylcysteine supplementation of cysteine‐containing PN in extremely low birth weight infants (≤ 1000 grams). 
+Growth was not significantly affected by cysteine supplementation (1 trial) or by N‐acetylcysteine supplementation (1 trial). Nitrogen retention was significantly increased by cysteine supplementation (4 trials) (WMD 31.8 mg/kg/day, 95% confidence interval +8.2, +55.4, n = 95, including 73 preterm infants). 
+Plasma levels of cysteine were significantly increased by cysteine supplementation but not by N‐acetylcysteine supplementation. N‐acetylcysteine supplementation did not significantly affect the risks of death by 36 postmenstrual weeks, bronchopulmonary dysplasia (BPD), death or BPD, retinopathy of prematurity (ROP), severe ROP, necrotizing enterocolitis requiring surgery, periventricular leukomalacia, intraventricular hemorrhage (IVH), or severe IVH. 
+Authors' conclusions
+Available evidence from RCTs shows that routine short‐term cysteine chloride supplementation of cysteine‐free PN in preterm infants improves nitrogen balance. However, there is insufficient evidence to assess the risks of cysteine supplementation, especially regarding metabolic acidosis, which has been reported during the first two weeks of cysteine chloride administration. Available evidence from a large RCT trial does not support routine N‐acetylcysteine supplementation of cysteine‐containing PN in extremely low birth weight infants. 

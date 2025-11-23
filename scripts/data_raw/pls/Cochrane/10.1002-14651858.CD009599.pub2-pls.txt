@@ -1,0 +1,25 @@
+What are the most effective interventions during pregnancy for preventing stillbirth?
+What is stillbirth? 
+A stillbirth is generally defined as the death of a baby before birth, at or after 22 weeks of development. 
+Why is this important? 
+Stillbirth can be very upsetting for families. It is most common in low‐ and middle‐income countries but also affects people in high‐income countries. Numbers of stillbirths have not fallen much in the last 20 years and, despite the high numbers, it is not widely recognised as a global health problem. It is important to raise awareness of effective methods of preventing stillbirths, particularly in low‐ and middle‐income countries. 
+What did we do? 
+Cochrane systematic reviews of interventions aim to answer specific medical questions based on up‐to‐date research studies. We searched for all Cochrane systematic reviews that assessed ways of preventing stillbirth during pregnancy to produce an overview of Cochrane evidence on preventing stillbirth. 
+What evidence did we find? 
+We found 43 Cochrane reviews that assessed 61 different ways of preventing stillbirth during pregnancy, or infant deaths around the time of birth. However, few of these provided any clear evidence of an effect during pregnancy to reduce the risk of stillbirth or infant death. 
+We grouped them into four different areas: nutrition, preventing infection, managing mothers' other healthcare problems, and looking after the baby before it is born. 
+Nutrition  
+‐ Giving mothers balanced energy and protein supplements to increase the growth of the baby, particularly in undernourished pregnant women, probably reduces stillbirth by 40%. 
+‐ For Vitamin A alone versus placebo (sham) or no treatment, and multiple micronutrients with iron and folic acid compared with iron with or without folic acid, there was clear evidence of no effect. 
+Prevention and management of infections  
+‐ Insecticide‐treated anti‐malarial nets versus no nets may reduce loss of the baby in the womb (fetus) by 33%. 
+Prevention, detection and management of other healthcare problems  
+‐ Where midwives were the primary healthcare provider, particularly for low‐risk pregnant women, loss of the fetus or infant deaths fell by 16%. 
+‐ Having a trained traditional birth attendant versus having an untrained traditional birth attendant probably reduces stillbirth in rural populations of low‐ and middle‐income countries by 31% and infant death by 30%. 
+‐ A reduced number of antenatal care visits probably results in an increase in infant death around the time of birth. 
+‐ Community‐based intervention packages (including community‐support groups/women's groups, community mobilisation and home visits, or training traditional birth attendants who made home visits) may reduce stillbirth by 19%. 
+Checking the baby before birth  
+‐ Cardiotocography measures the baby's heart rate and contractions in the womb. It can be recorded automatically by computer or manually, with pen and paper. Computerised cardiotocography to monitor baby’s well‐being in the womb, by measuring contractions, probably reduces the rate of infant deaths around the time of birth by 80% when compared with traditional cardiotocography. 
+We were uncertain about the effects of other methods.
+What does this mean? 
+We found a large number of reviews but few produced clear evidence. The effectiveness of the methods used to prevent stillbirth varied depending on where they took place, highlighting that it is important to understand how they were tested. The findings cannot be applied to women in general and across all global settings. 

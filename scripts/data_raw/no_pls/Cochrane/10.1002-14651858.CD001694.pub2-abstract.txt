@@ -1,0 +1,17 @@
+Background
+Lung disease in preterm infants is often complicated with lung edema.
+Objectives
+To determine the risks and benefits of aerosolized diuretic administration in preterm infants with or developing chronic lung disease (CLD). Primary objectives are to assess effects on short‐term outcome (changes in need for oxygen or ventilatory support) and effects on long‐term outcome. Secondary objectives are to assess changes in pulmonary mechanics and potential complications of therapy. 
+Search methods
+We used the standard search method of the Cochrane Neonatal Review Group. We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2006), MEDLINE (1966 to 1998) and EMBASE (1974 to 1998). We hand searched several abstract books of national and international American and European Societies. The searches of MEDLINE (search via PubMed), CINAHL, EMBASE and The Cochrane Library were updated in July 2009. 
+Selection criteria
+We included trials in which preterm infants with or developing CLD and at least five days of age were randomly allocated to receive an aerosolized loop diuretic. 
+Data collection and analysis
+We used the standard method for the Cochrane Collaboration. We combined parallel and cross‐over trials and, whenever possible, transformed baseline and final outcome data measured on a continuous scale into change scores using Follmann's formula. 
+Main results
+Eight studies met selection criteria. Most studies focused on pathophysiological parameters and did not assess effects on important clinical outcomes or potential complications of diuretic therapy. No study assessed the amount of diuretic effectively delivered to the patient. Furosemide was the only diuretic used in the eight studies included in this review. 
+Among preterm infants < 3 weeks of age developing CLD, not enough information is available to assess the effect of aerosolized furosemide on outcome or lung function. 
+Among infants > 3 weeks with CLD, a single aerosolized dose of 1 mg/kg of furosemide may transiently improve pulmonary mechanics. Not enough information is available to assess the effect of chronic administration of aerosolized furosemide on oxygenation and pulmonary mechanics. 
+Authors' conclusions
+In preterm infants > 3 weeks with CLD administration of a single dose of aerosolized furosemide improves pulmonary mechanics. In view of the lack of data from randomized trials concerning effects on important clinical outcomes, routine or sustained use of aerosolized loop diuretics in infants with (or developing) CLD cannot be recommended based on current evidence. 
+Randomized controlled trials are needed to evaluate clinically important effects of aerosolized diuretics. 

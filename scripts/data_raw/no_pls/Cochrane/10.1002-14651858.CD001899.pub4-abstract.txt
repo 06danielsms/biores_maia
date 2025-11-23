@@ -1,0 +1,16 @@
+Background
+Intermittent pneumatic compression (IPC) is a mechanical method of delivering compression to swollen limbs that can be used to treat venous leg ulcers and limb swelling due to lymphoedema. 
+Objectives
+To determine whether IPC increases the healing of venous leg ulcers. To determine the effects of IPC on health related quality of life of venous leg ulcer patients. 
+Search methods
+In April 2014, for this third update, we searched the Cochrane Wounds Group Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library); Ovid MEDLINE; Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations); Ovid EMBASE; and EBSCO CINAHL. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared the effects of IPC with control (sham IPC or no IPC) or made comparisons between IPC treatment regimens, in venous ulcer management. 
+Data collection and analysis
+ Two review authors reviewed titles and abstracts and agreed on full studies to be retrieved. One review author extracted data and assessed studies for risk of bias and this was checked by a second review author. 
+Main results
+We identified nine randomised controlled trials (including 489 people in total). Only one trial was at low risk of bias overall having reported adequate randomisation, allocation concealment and blinded outcome assessment.  In one trial (80 people) more ulcers healed with IPC than with dressings (62% vs 28%; p=0.002). Five trials compared IPC plus compression with compression alone. Two of these (97 people) found increased ulcer healing with IPC plus compression than with compression alone. The remaining three trials (122 people) found no evidence of a benefit for IPC plus compression compared with compression alone. 
+Two trials (86 people) found no difference between IPC (without additional compression) and compression bandages alone. 
+One trial (104 people) compared different ways of delivering IPC and found that rapid IPC healed more ulcers than slow IPC (86% vs 61%). 
+Authors' conclusions
+IPC may increase healing compared with no compression. It is unclear whether it can be used instead of compression bandages. There is some limited evidence that IPC may improve healing when added to compression bandages. Rapid IPC was better than slow IPC in one trial. Further trials are required to determine the reliability of current evidence, which patients may benefit from IPC in addition to compression bandages, and the optimum treatment regimen. 

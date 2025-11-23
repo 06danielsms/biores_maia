@@ -1,0 +1,15 @@
+Background
+Clozapine is an efficacious treatment for treatment‐resistant schizophrenia; however its use can be limited by side effect intolerability. Sinus tachycardia is a common adverse event associated with clozapine treatment. Various pharmacological treatments are used to control heart rate increase due to clozapine use and can include a decreased rate of clozapine titration, a switch to a different antipsychotic, or treatment with negative chronotropic drugs. 
+Objectives
+To assess the clinical effects and efficacy of pharmacological interventions for clozapine‐induced sinus tachycardia. 
+To systematically review the adverse events associated with pharmacological interventions for clozapine‐induced sinus tachycardia. 
+Search methods
+On 23 March 2015, we searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials, which is based on regular searches of CINAHL, BIOSIS, AMED, EMBASE, PubMed, MEDLINE, PsycINFO and registries of clinical trials. There are no language, date, document type or publication status limitations for inclusion of records in the register. 
+Selection criteria
+Randomised controlled trials comparing pharmacological interventions, at any dose and by any route of administration, for clozapine‐induced tachycardia. 
+Data collection and analysis
+We independently screened and assessed studies for inclusion using pre‐specified inclusion criteria. 
+Main results
+The electronic searches located three references. However, we did not identify any studies that met our inclusion criteria. 
+Authors' conclusions
+With no studies meeting the inclusion criteria, it is not possible to arrive at definitive conclusions. There are currently insufficient data to confidently inform clinical practice. We cannot, therefore, conclude whether specific interventions, such as beta‐blockers, are less effective or more effective than standard courses of alternative treatments for tachycardia. This lack of evidence for the treatment of clozapine‐induced tachycardia has implications for research and practice. Well‐planned, conducted and reported randomised trials are indicated. One trial is currently underway. Current practice outside of well‐designed randomised trials should be clearly justified. 

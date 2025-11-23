@@ -1,0 +1,14 @@
+Background
+The management of gallbladder polyps is controversial. Cholecystectomy has been recommended for gallbladder polyps larger than 10 mm because of the association with gallbladder cancer. Cholecystectomy has also been suggested for gallbladder polyps smaller than 10 mm in patients with biliary type of symptoms. 
+Objectives
+The aim of this review is to compare the benefits (relief of symptoms, decreased incidence of gallbladder cancer) and harms (surgical morbidity) of cholecystectomy in patients with gallbladder polyp(s). 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, and Science Citation Index Expanded until July 2008 to identify the randomised trials. 
+Selection criteria
+Only randomised clinical trials (irrespective of language, blinding, or publication status) comparing cholecystectomy and no cholecystectomy were considered for the review. 
+Data collection and analysis
+We planned to collect the data on the characteristics, methodological quality, mortality, number of patients in whom symptoms were improved or cured from the one identified trial. We planned to analyse the data using the fixed‐effect and the random‐effects models using RevMan Analysis. For each outcome we planned to calculate the risk ratio (RR) with 95% confidence intervals based on intention‐to‐treat analysis. 
+Main results
+We were unable to identify any randomised clinical trials comparing cholecystectomy versus no cholecystectomy in patients with a gallbladder polyp. 
+Authors' conclusions
+There are no randomised trials comparing cholecystectomy versus no cholecystectomy in patients with gallbladder polyps. Randomised clinical trials with low bias ‐risk are necessary to address the question of whether cholecystectomy is indicated in gallbladder polyps smaller than10 mm. 

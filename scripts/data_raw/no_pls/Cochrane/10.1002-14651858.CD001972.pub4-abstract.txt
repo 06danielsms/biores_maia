@@ -1,0 +1,14 @@
+Background
+Treatment of cancer is increasingly effective but is associated with short and long term side effects. Oral and gastrointestinal side effects, including oral candidiasis, remain a major source of illness despite the use of a variety of agents to treat them. 
+Objectives
+To assess the effectiveness of interventions for the treatment of oral candidiasis for patients with cancer receiving chemotherapy or radiotherapy or both. 
+Search methods
+Computerised searches of Cochrane Oral Health Group and PaPaS Trials Registers (to 1 June 2010), CENTRAL via the Cochrane Library (Issue 2, 2010, 1 June 2010), MEDLINE via OVID (1 June 2010), EMBASE via OVID (1 June 2010), CINAHL via EBSCO (1 June 2010), CANCERLIT via PubMed (1 June 2010), OpenSIGLE (1 June 2010) and LILACS via Virtual Health Library (1 June 2010) were undertaken.  Reference lists from relevant articles were searched and the authors of eligible trials were contacted to identify trials and obtain additional information. 
+Selection criteria
+All randomised controlled trials comparing agents prescribed to treat oral candidiasis in people receiving chemotherapy or radiotherapy for cancer. The outcomes were eradication of oral candidiasis, dysphagia, systemic infection, amount of analgesia, length of hospitalisation, cost and patient quality of life. 
+Data collection and analysis
+Data were independently extracted, in duplicate, by two review authors. Trial authors were contacted for details of randomisation and withdrawals and a quality assessment was carried out. Risk ratios (RR) were calculated using fixed‐effect models. 
+Main results
+Ten trials involving 940 patients, satisfied the inclusion criteria and are included in this review. Drugs absorbed from the gastrointestinal (GI) tract were beneficial in eradication of oral candidiasis compared with drugs not absorbed from the GI tract (three trials: RR = 1.29, 95% confidence interval (CI) 1.09 to 1.52), however there was significant heterogeneity. A drug absorbed from the GI tract, ketoconazole, was more beneficial than placebo in eradicating oral candidiasis (one trial: RR = 3.61, 95% CI 1.47 to 8.88). Clotrimazole, at a higher dose of 50 mg was more effective than a lower 10 mg dose in eradicating oral candidiasis, when assessed mycologically (one trial: RR = 2.00, 95% CI 1.11 to 3.60). Only one of the ten trials was assessed as at low risk of bias. 
+Authors' conclusions
+There is insufficient evidence to claim or refute a benefit for any antifungal agent in treating candidiasis. Further well designed, placebo‐controlled trials assessing the effectiveness of old and new interventions for treating oral candidiasis are needed. Clinicians need to make a decision on whether to prevent or treat oral candidiasis in patients receiving treatment for cancer. 

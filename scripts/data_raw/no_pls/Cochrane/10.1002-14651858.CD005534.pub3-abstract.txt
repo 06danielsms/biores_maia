@@ -1,0 +1,16 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a global leading cause of morbidity and mortality, characterised by acute deterioration in symptoms. During these exacerbations, people are prone to developing alveolar hypoventilation, which may be partly caused by the administration of high inspired oxygen concentrations. 
+Objectives
+To determine the effect of different inspired oxygen concentrations ("high flow" compared to "controlled") in the pre‐hospital setting (prior to casualty/emergency department) on outcomes for people with acute exacerbations of COPD (AECOPD). 
+Search methods
+The Cochrane Airways Group Specialised Register, reference lists of articles and online clinical trial databases were searched. Authors of identified randomised controlled trials (RCTs) were also contacted for details of other relevant published and unpublished studies. The most recent search was conducted on 16 September 2019. 
+Selection criteria
+We included RCTs comparing oxygen therapy at different concentrations or oxygen therapy versus placebo in the pre‐hospital setting for treatment of AECOPD. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. The primary outcome was all‐cause and respiratory‐related mortality. 
+Main results
+The search identified a total of 824 citations; one study was identified for inclusion and two studies are awaiting classification. The 214 participants involved in the included study were adults with AECOPD, receiving treatment by paramedics en route to hospital. The mean age of participants was 68 years. 
+A reduction in pre/in‐hospital mortality was observed in favour of the titrated oxygen group (two deaths in the titrated oxygen group compared to 11 deaths in the high‐flow control arm; risk ratio (RR) 0.22, 95% confidence interval (CI) 0.05 to 0.97; 214 participants). This translates to an absolute effect of 94 per 1000 (high‐flow oxygen) compared to 21 per 1000 (titrated oxygen), and a number needed to treat for an additional beneficial outcome (NNTB) of 14 (95% CI 12 to 355) with titrated oxygen therapy. Other than mortality, no other adverse events were reported in the included study. 
+Wide confidence intervals were observed between groups for arterial blood gas (though this may be confounded by protocol infidelity in the included study for this outcome measure), treatment failure requiring invasive or non‐invasive ventilation or hospital utilisation. No data were reported for quality of life, lung function or dyspnoea. Risk of bias within the included study was largely unclear, though there was high risk of bias in domains relating to performance and attrition bias. We judged the evidence to be of low certainty, according to GRADE criteria. 
+Authors' conclusions
+The one included study found a reduction in pre/in‐hospital mortality for the titrated oxygen arm compared to the high‐flow control arm. However, the paucity of evidence somewhat limits the reliability of these findings and generalisability to other settings. There is a need for robust, well‐designed RCTs to further investigate the effect of oxygen therapies in the pre‐hospital setting for people with AECOPD. 

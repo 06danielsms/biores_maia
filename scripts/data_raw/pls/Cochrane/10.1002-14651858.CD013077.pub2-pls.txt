@@ -1,0 +1,11 @@
+Contact tracing methods for tuberculosis
+What is the aim of this review? 
+This Cochrane Review aims to establish whether any evidence is available to support the current approach to contact tracing (the process of identifying individuals exposed to an infectious case of tuberculosis), and whether alternate options could result in a higher rate of infection detection in contacts. We searched for all relevant studies to answer this question. 
+Key messages 
+Contact tracing is an important method to further reduce the rates of tuberculosis. Cochrane Review authors identified no studies addressing this question. Therefore further research is needed to determine whether alternate contact tracing approaches could produce a greater yield in the number of contacts detected and the proportion of individuals with disease. 
+What was studied in the review? 
+Tuberculosis (TB) is an infectious disease caused by Mycobacterium tuberculosis bacteria. Globally, tuberculosis infects an estimated 1.7 billion people, with 1.3 million deaths and 10 million new cases each year. Tuberculosis is transmitted via droplets coughed up from infected patients to susceptible contacts. The World Health Organization (WHO) aims to eliminate this disease by 2035. To achieve this ambitious task, the current decline in new cases must be at a faster rate. In high‐income countries with low rates of tuberculosis, contact tracing is the primary method used to find those at risk of developing tuberculosis. 
+What are the main results of the review? 
+The review authors found that no suitable randomized controlled trials have been conducted to answer this question. There is insufficient high‐certainty evidence comparing current contact tracing methods used against alternate options; further research is therefore needed. 
+How up‐to‐date is this review 
+We searched for studies published up to 15 July 2019.

@@ -1,0 +1,34 @@
+Background
+Trichotillomania (TTM; hair‐pulling disorder) is a prevalent and disabling disorder characterised by recurrent hair‐pulling. Here we update a previous Cochrane Review on the effects of medication for TTM. 
+Objectives
+To assess the effects of medication for trichotillomania (TTM) in adults, children and adolescents compared with placebo or other medication. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, PsycINFO, eleven other bibliographic databases, trial registries and grey literature sources (to 26 November 2020). We checked reference lists and contacted subject experts. 
+Selection criteria
+We selected randomised controlled trials of medication versus placebo or other medication for TTM in adults, children and adolescents. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+Twelve studies were included. We identified 10 studies in adults (286 participants) with a mean sample size of 29 participants per trial; one study in children and adolescents (39 participants); and, one study in adults and adolescents (22 participants: 18 adults and 4 adolescents). All studies were single‐centre, outpatient trials. Eleven studies compared medication and placebo (334 participants); one study compared two medications (13 participants). Studies were 5 to 13 weeks duration. We undertook meta‐analysis only for opioid antagonists as other comparisons contained a single study, or reported insufficient data. 
+Antioxidants versus placebo in adults 
+There was little to no difference in treatment response between antioxidant (35.7%) and placebo groups (28.6%) after six weeks, based on a single trial of silymarin (risk ratio (RR) 2.25, 95% confidence interval (CI) 0.84 to 5.99; 36 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (18 participants; low‐certainty evidence). 
+Antioxidants versus placebo in adolescents 
+There was little to no difference in treatment response between antioxidant (50%) and placebo groups (25%) after six weeks, based on a single trial of silymarin (RR 2.00, 95% CI 0.28 to 14.20; 8 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (8 participants; low‐certainty evidence). 
+Antipsychotics versus placebo in adults 
+There may be greater treatment response in the antipsychotic group (85%) compared to the placebo group (17%) after 12 weeks, based on a single trial of olanzapine (RR 5.08, 95% CI 1.4 to 18.37; 25 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (25 participants; low‐certainty evidence). 
+Cell signal transducers versus placebo in adults 
+There was little to no difference in treatment response between cell signal transducer (42.1%) and placebo groups (31.6%) after 10 weeks, based on a single trial of inositol (RR 1.33, 95% CI 0.57 to 3.11; 38 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (38 participants; low‐certainty evidence). 
+Glutamate modulators versus placebo in adults 
+There is probably greater treatment response in the glutamate modulator group (56%) compared to the placebo group (16%) after 12 weeks, based on a single trial of N‐acetylcysteine (RR 3.5, 95% CI 1.34 to 9.17; 50 participants; moderate‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (50 participants; low‐certainty evidence). 
+Glutamate modulators versus placebo in children and adolescents 
+There was little to no difference in treatment response between the glutamate modulator (25%) and placebo groups (21.1%) in children and adolescents, based on a single trial of N‐acetylcysteine (RR 1.19, 95% CI 0.37 to 3.77; 39 participants; low‐certainty evidence). There was little to no difference in dropouts due to adverse events between glutamate modulator (5%) and placebo (0%) groups, based on a single trial (RR 2.86, 95% CI 0.12 to 66.11; 39 participants; low‐certainty evidence). 
+Opioid antagonists versus placebo in adults 
+There may be little to no difference in treatment response between opioid antagonist (37.5%) and placebo groups (25%) after six to eight weeks, based on two studies of naltrexone, but the evidence is very uncertain (RR 2.14, 95% CI 0.25 to 18.17; 2 studies, 68 participants; very low‐certainty evidence). No data were available regarding dropouts due to adverse events. 
+Selective serotonin reuptake inhibitors (SSRIs) versus placebo in adults 
+There were no data available for treatment response to SSRIs. There was little to no difference in dropouts due to adverse events in the SSRI group (5.1%) compared to the placebo group (0%) after 6 to 12 weeks, based on two trials of fluoxetine (RR 3.00, 95% CI 0.33 to 27.62; 2 studies, 78 participants; low‐certainty evidence). 
+Tricyclic antidepressants (TCAs) with predominantly serotonin reuptake inhibitor (SRI) actions versus placebo in adults 
+There may be greater treatment response in the TCAs with predominantly SRI actions group (40%) compared to the placebo group (0%) after nine weeks, but the evidence is very uncertain, based on a single trial of clomipramine (RR 5.73, 95% CI 0.36 to 90.83; 16 participants; very low‐certainty evidence). There may be increased dropouts due to adverse events in the TCAs with predominantly SRI actions group (30%) compared to the placebo group (0%), but the evidence is very uncertain (RR 4.45, 95% CI 0.27 to 73.81; 16 participants; very low‐certainty evidence). 
+TCAs with predominantly SRI actions versus other TCAs in adults 
+There may be greater treatment response in the TCAs with predominantly SRI actions group compared to the other TCAs group after five weeks, based on a single trial comparing clomipramine to desipramine (mean difference (MD) ‐4.00, 95% CI ‐6.13 to ‐1.87; 26 participants; low‐certainty evidence). We could not calculate differences in number of dropouts as there were no events in either group (26 participants; low‐certainty evidence). 
+Authors' conclusions
+There was insufficient evidence from meta‐analysis to confirm or refute the efficacy of any agent or class of medication for the treatment of TTM in adults, children or adolescents. Preliminary evidence suggests there may be beneficial treatment effects for N‐acetylcysteine, clomipramine and olanzapine in adults based on four trials, albeit with relatively small sample sizes. 

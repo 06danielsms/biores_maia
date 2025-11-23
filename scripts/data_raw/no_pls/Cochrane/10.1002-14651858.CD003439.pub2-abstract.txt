@@ -1,0 +1,14 @@
+Background
+The tobacco industry denies that their marketing is targeted at young nonsmokers, but it seems more probable that tobacco advertising and promotion influences the attitudes of nonsmoking adolescents, and makes them more likely to try smoking. 
+Objectives
+To assess the effects of tobacco advertising and promotion on nonsmoking adolescents' future smoking behaviour. 
+Search methods
+We searched the Cochrane Tobacco Group specialized register, the Cochrane Central Register of Controlled Trials, MEDLINE, the Cochrane Library, Sociological Abstracts, PsycLIT, ERIC, WorldCat, Dissertation Abstracts, ABI Inform and Current Contents to August 2011. 
+Selection criteria
+We selected longitudinal studies that assessed individuals' smoking behaviour and exposure to advertising, receptivity or attitudes to tobacco advertising, or brand awareness at baseline, and assessed smoking behaviour at follow ups. Participants were adolescents aged 18 or younger who were not regular smokers at baseline. 
+Data collection and analysis
+Studies were prescreened for relevance by one reviewer. Two reviewers independently assessed relevant studies for inclusion. Data were extracted by one reviewer and checked by a second. 
+Main results
+Nineteen longitudinal studies that followed up a total of over 29,000 baseline nonsmokers met inclusion criteria. The studies measured exposure or receptivity to advertising and promotion in a variety of ways, including having a favourite advertisement or an index of receptivity based on awareness of advertising and ownership of a promotional item. One study measured the number of tobacco advertisements in magazines read by participants. All studies assessed smoking behaviour change in participants who reported not smoking at baseline. In 18 of the 19 studies the nonsmoking adolescents who were more aware of tobacco advertising or receptive to it, were more likely to have experimented with cigarettes or become smokers at follow up. There was variation in the strength of association, and the degree to which potential confounders were controlled for. 
+Authors' conclusions
+Longitudinal studies consistently suggest that exposure to tobacco advertising and promotion is associated with the likelihood that adolescents will start to smoke. Based on the strength and specificity of this association, evidence of a dose‐response relationship, the consistency of findings across numerous observational studies, temporality of exposure and smoking behaviours observed, as well as the theoretical plausibility regarding the impact of advertising, we conclude that tobacco advertising and promotion increases the likelihood that adolescents will start to smoke. 

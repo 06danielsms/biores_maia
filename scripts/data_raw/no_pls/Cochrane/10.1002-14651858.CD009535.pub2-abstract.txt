@@ -1,0 +1,15 @@
+Background
+Home haemodialysis is associated with improved survival and quality of life in uncontrolled studies. However, relative benefits and harms of home versus in‐centre haemodialysis in randomised controlled trials (RCTs) are uncertain. 
+Objectives
+To evaluate the benefits and harms of home haemodialysis versus in‐centre haemodialysis in adults with end‐stage kidney disease (ESKD). 
+Search methods
+The Cochrane Renal Group's Specialised Register was searched up to 31 October 2014.
+Selection criteria
+RCTs of home versus in‐centre haemodialysis in adults with ESKD were included.
+Data collection and analysis
+Data were extracted by two investigators independently. Study risk of bias and other patient‐centred outcomes were extracted. Insufficient data were available to conduct meta‐analyses. 
+Main results
+We identified a single cross‐over RCT (enrolling 9 participants) that compared home haemodialysis (long hours: 6 to 8 hours, 3 times/week) with in‐centre haemodialysis (short hours: 3.5 to 4.5 hours, 3 times/weeks) for 8 weeks in prevalent home haemodialysis patients. Outcome data were limited and not available for the end of the first phase of treatment in this cross‐over study which was at risk of bias due to differences in dialysate composition between the two treatment comparisons. 
+Overall, home haemodialysis reduced 24 hour ambulatory blood pressure and improved uraemic symptoms, but increased treatment‐related burden of disease and interference in social activities. Insufficient data were available for mortality, hospitalisation or dialysis vascular access complications or treatment durability. 
+Authors' conclusions
+Insufficient randomised data were available to determine the effects of home haemodialysis on survival, hospitalisation, and quality of life compared with in‐centre haemodialysis. Given the consistently observed benefits of home haemodialysis on quality of life and survival in uncontrolled studies, and the low prevalence of home haemodialysis globally, randomised studies evaluating home haemodialysis would help inform clinical practice and policy. 

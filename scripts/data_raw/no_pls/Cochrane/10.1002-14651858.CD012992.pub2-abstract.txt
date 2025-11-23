@@ -1,0 +1,14 @@
+Background
+Type B aortic dissection can lead to serious and life‐threatening complications such as aortic rupture, stroke, renal failure, and paraplegia, all of which require intervention. Traditionally, these complications have been treated with open surgery. Recently however, endovascular repair has been proposed as an alternative. 
+Objectives
+To assess the effectiveness and safety of thoracic aortic endovascular repair versus open surgical repair for treatment of complicated chronic Type B aortic dissection (CBAD). 
+Search methods
+The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, CINAHL, and AMED databases, as well as the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers, to 2 August 2021. We searched references of relevant articles retrieved through the electronic search for additional citations. 
+Selection criteria
+We considered all randomised controlled trials (RCTs) and controlled clinical trials (CCTs) assessing the effects of thoracic aortic endovascular repair (TEVAR) versus open surgical repair (OSR) for treatment of complicated chronic Type B aortic dissection (CBAD). Outcomes of interest were mortality (all‐cause, dissection‐related), neurological sequelae (stroke, spinal cord ischaemia/paresis‐paralysis, vertebral insufficiency), morphological outcomes (false lumen thrombosis, progression of dissection, aortic diameters), acute renal failure, ischaemic symptoms (visceral ischaemia, limb ischaemia), re‐intervention, and health‐related quality of life. 
+Data collection and analysis
+Two review authors independently screened all titles and abstracts identified by the searches to identify those that met the inclusion criteria. From title and abstract screening, we did not identify any trials (RCTs or CCTs) that required full‐text assessment. We planned to undertake data collection and analysis in accordance with recommendations described in the Cochrane Handbook for Systematic Reviews of Interventions. We planned to assess the certainty of evidence using GRADE. 
+Main results
+We did not identify any trials (RCTs or CCTs) that met the inclusion criteria for this review. 
+Authors' conclusions
+Due to lack of RCTs or CCTs investigating the effectiveness and safety of TEVAR compared to OSR for patients with complicated CBAD, we are unable to provide any evidence to inform decision‐making on the optimal intervention for these patients. High‐quality RCTs or CCTs addressing this objective are necessary. However, conducting such studies will be challenging for this life‐threatening disease. 

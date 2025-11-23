@@ -1,0 +1,13 @@
+Devices to continuously monitor sugar (glucose) levels in the blood in newborns born preterm 
+Review questions 
+What are the benefits and harms of the use of subcutaneous (under the skin) sensors for continuous glucose monitoring (CGM) with or without an algorithm (a set of mathematical rules) to correct too high or too low ​​​​​ levels of blood glucose versus intermittent modalities to measure blood glucose with or without an algorithm to guide the correction of too high or too low blood glucose in preterm infants 1. at risk of too high or too low ​​​​​​ levels of blood glucose; 2. with proven too low ​​​​​​levels of blood glucose; and 3. with proven too high​​​​​​ levels of blood glucose? 
+Background 
+Newborns born too early ('preterm') are susceptible to levels of blood glucose that are too high or too low. Most preterm babies with these abnormal concentrations  have a full recovery, or only mild problems. For some preterm babies with extremely high or low (or more prolonged) blood glucose, this may lead to death or to problems later in life. 
+The aim of this updated review was to assess whether the use of CGM could improve the long‐term development or reduce deaths in preterm newborns. CGM devices are inserted subcutaneously, and provide data on blood glucose in real time. The standard method of measuring blood glucose consists of measuring blood glucose concentrations intermittently by  withdrawing small amounts of blood, often by heel pricks.  
+Study characteristicsWe collected and analyzed all relevant studies to answer the review question, and found four studies enrolling 300 babies. These studies compared the use of CGM to intermittent measurements in infants at risk of too high or too low ​​​​​​ levels of blood glucose. 
+Key results 
+None of the four included studies reported on the long‐term neurodevelopmental outcome of preterm infants. The studies were too small to determine if CGM has an effect on survival. One study is ongoing. Although one study published in 2021 reported the incidence of serious intestinal injury (necrotizing enterocolitis, a serious inflammation of the intestines that can be life threatening) was lower in the CGM group, this finding is very uncertain because the results were very imprecise.  Further research is needed. 
+Quality of the evidence 
+The quality of the evidence was very low due to the overall limited number of studies, with few babies enrolled. 
+How up‐to‐date is this review? 
+We searched for studies that were available up to 1 April 2021. 

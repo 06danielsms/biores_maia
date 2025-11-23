@@ -1,0 +1,14 @@
+Background
+Hepatocellular carcinoma is a disease of great concern. Surgery is the treatment of choice, but there is still a high recurrence rate after resection. 
+Objectives
+To determine the benefits and harms of neoadjuvant and adjuvant therapies compared to surgery alone or surgery and placebo/supportive therapy after curative resection for operable hepatocellular carcinoma. 
+Search methods
+We searched The Cochrane Hepato‐Biliary Group Controlled Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, Science Citation Index Expanded, Chinese Biomedical Database, and US National Cancer Institute's Physician's Data Query Trials Database until 2005. References of the identified trials were also searched for identifying further trials. 
+Selection criteria
+Randomised and quasi‐randomised trials that compared hepatocellular carcinoma patients who were given and not given neoadjuvant/adjuvant therapy as a supplement to curative liver resection. 
+Data collection and analysis
+Data were extracted independently by two authors and discrepancies resolved by consensus. The survival and disease‐free survival curves were compared using their one, two, three, four, and five‐year survival rates, median survival times, and the result of the significance tests (P‐values). 
+Main results
+A total of 12 randomised trials were identified, totaling 843 patients. The size of the randomised clinical trials ranged from 30 to 155 patients. Both preoperative (neoadjuvant) and postoperative (adjuvant), systemic and locoregional (+/‐ embolisation), chemo‐ and immunotherapy interventions were tested. Treatment regimens and patients selected were not comparable, so no pooling was done. Only one regimen using preoperative transcatheter arterial chemoembolisation with doxorubicin was similar in two trials. Four of the twelve trials reported survival benefit at five years when given adjuvant or neoadjuvant therapy. Disease‐free survival was reported in nine trials, and the estimated hazard ratios show that disease‐free survival was significant in two trials at five years. These two trials had not shown a survival advantage, but the recurrence was significantly lower in patients given adjuvant or neoadjuvant therapy. The highest toxicity rate was in a trial using oral 1‐hexylcarbamoyl 5‐fluorouracil which resulted in 12 out of 38 patients being withdrawn from the trial because of adverse events. 
+Authors' conclusions
+There is no clear evidence for efficacy of any of the adjuvant and neo‐adjuvant protocols reviewed, but there is some evidence to suggest that adjuvant therapy may be beneficial offering prolonged disease‐free survival. In order to detect a realistic treatment advantage, larger trials with lower risk of systematic error will have to be conducted. 

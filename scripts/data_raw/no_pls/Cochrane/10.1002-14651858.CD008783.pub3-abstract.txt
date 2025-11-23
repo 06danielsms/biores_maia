@@ -1,0 +1,16 @@
+Background
+This review is an update of a previously published review in Issue 2, 2012 (Derry 2012a). Migraine is a common, disabling condition and a burden for the individual, health services and society. Many sufferers choose not to, or are unable to, seek professional help and rely on over‐the‐counter (OTC) analgesics. Diclofenac is an established analgesic, and new formulations using the potassium or epolamine salts, which can be dissolved in water, have been developed for rapid absorption, which may be beneficial in acute migraine. Co‐therapy with an antiemetic should help to reduce the nausea and vomiting commonly associated with migraine. 
+Objectives
+To determine the efficacy and tolerability of diclofenac, alone or in combination with an antiemetic, compared to placebo and other active interventions in the treatment of acute migraine headaches in adults. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Relief Database, ClinicalTrials.gov, and reference lists for studies through 27 September 2011 for the original review and 15 February 2013 for the update. 
+Selection criteria
+We included randomised, double‐blind, placebo‐controlled or active‐controlled studies, or both, using self administered diclofenac to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We used numbers of participants achieving each outcome to calculate relative risk (or 'risk ratio') and numbers needed to treat to benefit (NNT) or harm (NNH) compared to placebo or a different active treatment. 
+Main results
+Five studies (1356 participants, 2711 attacks) compared oral diclofenac with placebo, and one also compared it with sumatriptan; none combined diclofenac with a self administered antiemetic. Four studies treated attacks with single doses of medication, and two allowed an optional second dose for inadequate response. Only two studies, with three active treatment arms, provided data for pooled analysis of primary outcomes. For single doses of diclofenac potassium 50 mg versus placebo (two studies), the NNTs were 8.9, 6.2, and 9.5 for pain‐free at two hours, headache relief at two hours, and pain‐free responses at 24 hours, respectively. 
+Similar numbers of participants experienced adverse events, which were mostly mild and transient, with diclofenac and placebo. 
+There were insufficient data to evaluate other doses of oral diclofenac, or to compare different formulations or different dosing regimens; only one study compared oral diclofenac with an active comparator (oral sumatriptan 100 mg). 
+Authors' conclusions
+Oral diclofenac potassium 50 mg is an effective treatment for acute migraine, providing relief from pain and associated symptoms, although only a minority of patients experience pain‐free responses. Adverse events are mostly mild and transient and occur at the same rate as with placebo. 

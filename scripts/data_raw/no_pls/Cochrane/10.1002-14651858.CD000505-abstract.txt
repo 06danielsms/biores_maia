@@ -1,0 +1,14 @@
+Background
+Umbilical arterial catheters (UACs) are among the most commonly used monitoring methodologies in neonatal intensive care. There seems to be significant variance between neonatal intensive care units in exactly how these catheters are used. This variance involves heparin dosing, catheter materials and catheter design and positioning of the catheter. 
+Objectives
+To determine whether the position of the tip of an umbilical arterial catheter influences the frequency of ischemic events, aortic thrombosis, intraventricular hemorrhage, mortality or necrotising enterocolitis in newborn infants. 
+Search methods
+Randomized and quasi‐randomized controlled trials of umbilical catheterization use were obtained using the standard search methods of the Cochrane Neonatal Review Group. The Cochrane Library, MEDLINE (search via PubMed), CINAHL and EMBASE were searched from 1999 to 2009. 
+Selection criteria
+Randomized trials in newborn infants of any birthweight or gestation.  Comparison of high catheter placement with the tip above the diaphragm to a lower position just above the aortic bifurcation. End points included ischemic events, aortic thrombosis, necrotising enterocolitis, intraventricular hemorrhage, hypertension, hematuria or death. 
+Data collection and analysis
+Five randomized controlled trials and one alternate assignment study had sufficiently detailed data to allow interpretation. 
+Main results
+High placed umbilical artery catheters are associated with a lower incidence of clinical vascular complications, without an increase in any adverse sequelae. Intraventricular hemorrhage rates, death and necrotising enterocolitis are not more frequent with high compared to low catheters. 
+Authors' conclusions
+There appears to be no evidence to support the use of low placed umbilical artery catheters. High catheters should be used exclusively. 

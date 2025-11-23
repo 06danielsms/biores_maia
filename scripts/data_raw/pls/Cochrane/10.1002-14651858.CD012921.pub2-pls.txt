@@ -1,0 +1,25 @@
+Does random drug and alcohol testing prevent injuries in workers?
+Background 
+Workplace accidents and injuries happen more often when people's physical abilities and judgement are impaired by drugs or alcohol. The workplace is not usually a place where research is conducted. There are many factors that make it difficult for an employer to measure the impact of a workplace drug testing program on the overarching goal of ensuring a safe workplace. 
+Some employers — particularly in sectors where safety is very important, such as the commercial driving and airline industries — choose to test workers randomly for drugs and alcohol (random drug and alcohol testing (RDAT)). Through such testing, employers hope to deter employees from inappropriate use of these substances. However, we do not know if RDAT produces the desired effect. 
+Review question 
+We wanted to know whether RDAT in the workplace prevents injuries and unplanned events that result in damage or loss of property (non‐injury accidents) compared with no RDAT. 
+Search date 
+The evidence in this Cochrane Review is current to 1 November 2020.
+Study characteristics 
+We wanted to include all of the relevant research about RDAT in the workplace in our review. We looked for different kinds of published studies that measured how RDAT affected workplace safety. We excluded research on RDAT in commercial drivers, because another Cochrane Review covering these studies has already been published. 
+Two authors from our team examined all of the references identified by our search, but they found only one study that met our selection criteria and could be included in the review. 
+This study investigated random alcohol testing in airline employees in the USA whose jobs included safety‐related tasks. The study did not test employees for drugs. Airlines are required by law to test and report on a randomly selected sample of their employees. The study used testing data from between 1995 and 2002. A total of 511,745 random alcohol tests were performed on airline employees. 
+Key results 
+From 1995 to 1997, random tests for alcohol included 25% of the relevant airlines' workforce each year. During this period, the average percentage of employees who tested positive for alcohol was 0.07%. From 1998 to 2002, the proportion of the workforce tested each year dropped to 10%. During this period, the average percentage of employees who tested positive for alcohol increased to 0.11%. 
+This means that when the airlines randomly tested a larger percentage of employees per year, a smaller proportion of them tested positive for alcohol. This relationship between the frequency of alcohol testing and the proportion of positive tests is what we would expect to see if testing has a deterrent effect, though one study alone cannot prove that there is a deterrent effect. 
+This study did not provide any information for other areas of interest to us, specifically:
+‐ fatal injuries;
+‐ non‐fatal injuries (in which people are physically injured, but do not die);
+‐ 'non‐injury accidents'; that is, accidents in which people are not injured, but property, processes, materials, and/or the environment are damaged; 
+‐ absenteeism; and
+‐ unwanted, or adverse, events associated with RDAT, including impacts on privacy, confidentiality and employee perceptions. 
+Quality of the evidence 
+Two of our team rated our confidence in the evidence, based on factors such as number of studies, study size and methods. Overall, our confidence in the evidence was very low. This means we cannot rely on what this study reported to make generalisations about the effectiveness of random alcohol testing alone, or random alcohol testing combined with drug testing (RDAT), in the workplace. We need researchers to do more studies to find the answers. 
+Study funding sources 
+The one study we included in our review was funded in part by two grants: a grant from the National Institute on Alcohol Abuse and Alcoholism, and a grant from the Centers for Disease Control and Prevention. 

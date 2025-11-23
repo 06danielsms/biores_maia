@@ -1,0 +1,17 @@
+Background
+Cystic fibrosis is an inherited condition resulting in thickened, sticky respiratory secretions. Respiratory failure, due to recurrent pulmonary infection and inflammation, is the most common cause of mortality. Muco‐active therapies (e.g. dornase alfa and nebulized hypertonic saline) may decrease sputum viscosity, increase airway clearance of sputum, reduce infection and inflammation and improve lung function. Thiol derivatives, either oral or nebulized, have shown benefit in other respiratory diseases. Their mode of action is likely to differ according to the route of administration. There are several thiol derivatives, and it is unclear which of these may be beneficial in cystic fibrosis. 
+Objectives
+To evaluate the efficacy and safety of nebulized and oral thiol derivatives in people with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register, comprising references identified from comprehensive electronic database searches, hand searches of relevant journals, abstract books and conference proceedings. 
+Most recent search: 13 June 2013.
+We also conducted a PubMed search on 26 February 2013 for relevant published articles.
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing nebulized or oral thiol derivatives to placebo or another thiol derivative in people with cystic fibrosis. 
+Data collection and analysis
+The authors independently assessed trials for inclusion, analysed risk of bias and extracted data. 
+Main results
+Searches identified 23 trials; nine trials (255 participants) are included, of these seven trials are more than 10 years old. Three trials of nebulized thiol derivatives were identified (one compared 20% N‐acetylcysteine to 2% N‐acetylcysteine; another compared sodium‐2‐mercaptoethane sulphonate to 7% hypertonic saline; and another compared glutathione to 4% hypertonic saline). Although generally well‐tolerated with no significant adverse effects, there was no evidence of significant clinical benefit in our primary outcomes in participants receiving these treatments. 
+Six trials of oral thiol derivatives were identified. Three trials compared N‐acetylcysteine to placebo; one compared N‐acetylcysteine, ambroxol and placebo; one compared carbocysteine to ambroxol; and one compared low and high‐dose N‐acetylcysteine. Oral thiol derivatives were generally well‐tolerated with no significant adverse effects, however there was no evidence of significant clinical benefit in our primary outcomes in participants receiving these treatments. 
+Authors' conclusions
+We found no evidence to recommend the use of either nebulized or oral thiol derivatives in people with cystic fibrosis. There are very few good quality trials investigating the effect of these medications in cystic fibrosis, and further research is required to investigate the potential role of these medications in improving the outcomes of people with cystic fibrosis. 

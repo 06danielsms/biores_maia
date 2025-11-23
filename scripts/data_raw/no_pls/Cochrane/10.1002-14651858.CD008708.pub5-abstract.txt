@@ -1,0 +1,15 @@
+Background
+Thalassaemia is an autosomal recessive blood disorder, caused by mutations in globin genes or their regulatory regions, resulting in a reduced rate of synthesis of one of the globin chains that make up haemoglobin. In β‐thalassaemia there is an underproduction of β‐globin chains combined with excess of free α‐globin chains. The excess free α‐globin chains precipitate in red blood cells, leading to their increased destruction (haemolysis) and ineffective erythropoiesis. The conventional treatment is based on the correction of haemoglobin through regular red blood cell transfusions and treating the iron overload that develops subsequently with iron chelation therapy. Although, early detection and initiations of such supportive treatment has improved the quality of life for people with transfusion‐dependent thalassaemia, allogeneic hematopoietic stem cell transplantation is the only widely available therapy with a curative potential. Gene therapy for β‐thalassaemia has recently received conditional authorisation for marketing in Europe, and may soon become widely available as another alternative therapy with curative potential for people with transfusion‐dependent thalassaemia. This is an update of a previously published Cochrane Review. 
+Objectives
+To evaluate the effectiveness and safety of different types of hematopoietic stem cell transplantation, in people with transfusion‐dependent β‐thalassaemia. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. We also searched online trial registries. 
+Date of the most recent search: 07 April 2021.
+Selection criteria
+Randomised controlled trials and quasi‐randomised controlled trials comparing hematopoietic stem cell transplantation with each other or with standard therapy (regular transfusion and chelation regimen). 
+Data collection and analysis
+Two review authors independently screened trials and had planned to extract data and assess risk of bias using standard Cochrane methodologies and assess the quality using GRADE approach, but no trials were identified for inclusion in the current review. 
+Main results
+No relevant trials were retrieved after a comprehensive search of the literature.
+Authors' conclusions
+We were unable to identify any randomised controlled trials or quasi‐randomised controlled trials on the effectiveness and safety of different types of hematopoietic stem cell transplantation in people with transfusion‐dependent β‐thalassaemia. The absence of high‐level evidence for the effectiveness of these interventions emphasises the need for well‐designed, adequately‐powered, randomised controlled clinical trials. 

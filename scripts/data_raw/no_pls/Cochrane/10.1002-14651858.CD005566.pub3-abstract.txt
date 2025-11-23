@@ -1,0 +1,14 @@
+Background
+High‐dose prophylactic corticosteroids are often administered during cardiac surgery. Their use, however, remains controversial, as no trials are available that have been sufficiently powered to draw conclusions on their effect on major clinical outcomes. 
+Objectives
+The objective of this meta‐analysis was to estimate the effect of prophylactic corticosteroids in cardiac surgery on mortality, cardiac and pulmonary complications. 
+Search methods
+Major medical databases (CENTRAL, MEDLINE, EMBASE, CINAHL and Web of Science) were systematically searched for randomised studies assessing the effect of corticosteroids in adult cardiac surgery. Database were searched for the full period covered, up to December 2009. No language restrictions were applied. 
+Selection criteria
+Randomised controlled trials comparing corticosteroid treatment to either placebo treatment or no treatment in adult cardiac surgery were selected. There were no restrictions with respect to length of the follow‐up period. All selected studies qualified for pooling of results for one or more end‐points. 
+Data collection and analysis
+The processes of searching and selection for inclusion eligibility were performed independently by two authors. Also, quality assessment and data‐extraction of selected studies were independently performed by two authors. The primary endpoints were mortality, cardiac and pulmonary complications. The main effect measure was the Peto odds ratio comparing corticosteroids to no treatment/placebo. 
+Main results
+Fifty‐four randomised studies, mostly of limited quality, were included. Altogether, 3615 patients were included in these studies. The pooled odds ratio for mortality was 1.12 (95% CI 0.65 to 1.92), showing no mortality reduction in patients treated with corticosteroids. The odds ratios for myocardial and pulmonary complications were 0.95, (95% CI 0.57 to 1.60) and 0.83 (95% CI 0.49 to 1.40), respectively. The use of a random effects model did not substantially influence study results. Analyses of secondary endpoints showed a reduction of atrial fibrillation and an increase in gastrointestinal bleeding in the corticosteroids group. 
+Authors' conclusions
+This meta‐analysis showed no beneficial effect of corticosteroid use on mortality, cardiac and pulmonary complications in cardiac surgery patients. 

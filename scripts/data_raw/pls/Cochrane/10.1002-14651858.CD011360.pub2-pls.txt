@@ -1,0 +1,16 @@
+Does written information reduce antibiotic use for upper airway infections among people treated in primary care settings? 
+Review question 
+We wanted to find out if written information reduces antibiotic use for acute upper airway infections (colds, sore throats, cough, or earaches). 
+Background 
+Most colds, sore throats, coughs and earaches are caused by viruses. Although antibiotics do not work against viruses, they are sometimes prescribed. We wanted to find out if giving written information about antibiotics immediately before or during doctor visits, together with usual care, changed antibiotic use compared with the doctor's usual practice or something else. We also wanted to know if: patients would be more likely to return to their doctor; symptoms would improve sooner; patients' knowledge about antibiotics would improve; patients were satisfied with their doctor's care; and if complications occurred. 
+Search date 
+We searched the literature up to July 2016.
+Study characteristics 
+We found two studies that included children with upper airway infections: one involved 558 children who were recruited from 61 general practices in England and Wales; and another of 269 doctors who provided data on 33,792 patient‐doctor consultations in Kentucky, USA. Participants were children accompanied by an adult. One study trained general practitioners (GPs) to discuss written information with parents, and in the other, doctors distributed copies of government‐sponsored pamphlets to parents. 
+Study funding sources 
+Both studies were funded by government bodies and one was also funded by Pfizer (a pharmaceutical company). 
+Key results 
+Providing a booklet and explanation by a specially‐trained doctor reduced the number of antibiotics children consumed by 20% (from 42% to 22%) without affecting parent satisfaction with consultation or numbers of return visits for the same illness. Compared to the doctor’s usual practice, two studies showed that providing a booklet reduced the proportion of children prescribed an antibiotic by 9% to 21%. When doctors were also given feedback on their antibiotic prescribing along with providing a booklet to parents, the proportion of children prescribed an antibiotic increased by 6% (from 44% to 50%). None of the included studies assessed if people were better informed, how long symptoms lasted, or if people had complications. 
+Quality of evidence 
+Evidence quality was moderate to low. Doctors and parents knew when written information had been used. One study had a high risk of bias because study groups were not comparable at baseline, so we can be less confident of its findings. 
+Studies were set in the UK and USA, so results are not applicable to lower‐income countries, nor for different primary healthcare services, including settings where prescriptions are unnecessary to obtain antibiotics. 

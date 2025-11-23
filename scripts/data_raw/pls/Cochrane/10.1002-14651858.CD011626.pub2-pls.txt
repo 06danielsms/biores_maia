@@ -1,0 +1,13 @@
+Calcium channel blockers for preventing heart dysfunction related with iron overload in transfusion‐dependent beta thalassaemia 
+Review question 
+We reviewed the evidence on whether drugs can prevent heart dysfunction due to excessive iron deposits in the hearts of people with beta thalassaemia who receive regular blood transfusions. 
+Background 
+Beta thalassaemia is a common inherited blood disorder that causes anaemia. People with this disorder need frequent blood transfusions which result in excess iron deposited in the heart causing it to be damaged. Complications related to the heart are the most common cause of death and disability in these individuals. High levels of iron in the heart strongly predicts subsequent heart failure. It is common practice to give drugs to reduce iron in the body (known as chelators) but there is no specific treatment for reducing iron deposited in the heart and protecting it from damage. Drugs that block calcium channels in the heart have been shown to reduce iron entering into this organ. However, little is known about how effective and safe these drugs are in people with beta thalassaemia. 
+Search date 
+The evidence is current to 24 February 2018.
+Trial characteristics 
+We included two trials (74 participants) in the review, an earlier pilot study and the later larger study. Participants had beta thalassaemia, significant iron overload, and were receiving standard chelation treatment; they had an average age of 24 years. They were randomly selected to be treated for 12 months with either amlodipine (a calcium channel blocker) in addition to their chelation drugs or with chelation drugs alone (in the earlier trial) or with chelation drugs together with a placebo (dummy drug with no active medication) in the later trial. 
+Key results 
+Although there was no significant decrease in the amount of iron in the heart (main outcome) seen after 12 months of treatment with amlodipine when measured in one way, there was a significant decrease after 12 months of treatment using another measurement. There was no difference in other outcomes such as iron levels in the blood or the liver or in a further measure of heart function. Even though no serious adverse events were noted, further trials are needed to assess the safety of this treatment. Further research with larger, long‐term trials is needed. 
+Quality of the evidence 
+Overall, the trials included in this review appeared to be well run. However, the main outcome was reported differently in both trials and several other outcomes were missing details. The quality of evidence was low for all outcomes. 

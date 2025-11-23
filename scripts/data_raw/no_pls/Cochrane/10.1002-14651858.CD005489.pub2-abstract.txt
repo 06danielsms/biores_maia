@@ -1,0 +1,14 @@
+Background
+A burn injury increases the body's metabolic demands, and therefore nutritional requirements. Provision of an adequate supply of nutrients is believed to lower the incidence of metabolic abnormalities, thus reducing septic morbidity, improving survival rates, and decreasing hospital length of stay. Enteral nutrition support is the best feeding method for patients who are unable to achieve an adequate oral intake to maintain gastrointestinal functioning, however, its timing (i.e. early versus late) needs to be established. 
+Objectives
+To assess the effectiveness and safety of early versus late enteral nutrition support in adults with burn injury. 
+Search methods
+We searched Cochrane Injuries Group's Specialised Register (Dec 2007), CENTRAL (The Cochrane Library, issue 4, 2007), MEDLINE (1966 to December, 2007), EMBASE (1980 to December 2007) and CINAHL (1982 to May, 2006). 
+Selection criteria
+We included all randomised controlled trials comparing early enteral nutrition support (within 24 hours of injury) versus delayed enteral support (greater than 24 hours). 
+Data collection and analysis
+Two authors used standardised forms to independently extract the data. Each trial was assessed for internal validity with differences resolved by discussion. 
+Main results
+A total of three randomised controlled trials were eligible for inclusion in this review. Results of the studies indicate that evidence about the benefit of early enteral nutritional support on standardised clinical outcomes such as length of hospital stay and mortality, remains inconclusive. Similarly, the question of whether early enteral feeding influenced or decreased metabolic rate as documented in part by our included studies, remains uncertain. 
+Authors' conclusions
+This systematic review has not found sufficient evidence to support or refute the effectiveness of early versus late enteral nutrition support in adults with burn injury. The trials showed some promising results that would suggest early enteral nutrition support may blunt the hypermetabolic response to thermal injury, but this is insufficient to provide clear guidelines for practice. Further research incorporating larger sample sizes and rigorous methodology that utilises valid and reliable outcome measures, is essential. 

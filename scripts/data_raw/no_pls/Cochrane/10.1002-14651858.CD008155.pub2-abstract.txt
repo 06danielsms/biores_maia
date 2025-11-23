@@ -1,0 +1,14 @@
+Background
+Pulmonary surfactant is an important part of the host defence against respiratory infections. Bacterial pneumonia in late preterm or term newborn infants often leads to surfactant deficiency or dysfunction, as surfactant is either inactivated or peroxidated. Studies of animal models of pneumonia and clinical case reports suggest that exogenous surfactant might be beneficial to infants with bacterial pneumonia. 
+Objectives
+To assess the effect of exogenous surfactant treatment on mortality and pulmonary complications in infants with bacterial pneumonia. 
+Search methods
+We used standard Cochrane Collaboration methodology to conduct our search of databases. We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 6); MEDLINE (accessed via Ovid SP June 2011); EMBASE (via Ovid SP 1980 to June 2011); and CINAHL Plus (accessed via EBSCOHost June 2011). 
+Selection criteria
+We limited our search to randomised and quasi‐randomised trials of surfactant replacement therapy in infants > 35 weeks gestation with bacterial pneumonia in the first 28 days of life. The primary outcome measures were death, time to resolution of pneumonia, incidence of chronic lung disease, pneumothoraces and pulmonary haemorrhage. 
+Data collection and analysis
+We assessed all studies with predefined criteria as to whether they were eligible for inclusion. We extracted data using RevMan 5 (RevMan 2011). We used the standard Cochrane Collaboration methodology for data collection and analysis to assess risk of bias, heterogeneity, treatment effect, missing data and reporting bias where appropriate. 
+Main results
+We did not identify any studies that met our inclusion criteria.
+Authors' conclusions
+There is no evidence from randomised controlled trials (RCTs) to support or refute the efficacy of surfactant in near‐term and term infants with proven or suspected bacterial pneumonia. RCTs are still required to answer this question. 

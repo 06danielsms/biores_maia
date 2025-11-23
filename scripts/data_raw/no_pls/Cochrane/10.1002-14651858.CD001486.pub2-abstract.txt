@@ -1,0 +1,14 @@
+Background
+Varicose vein surgery is a common surgical procedure but there is no consensus regarding the best surgical technique. The use of tourniquets during varicose vein surgery has been advocated as a means of reducing the potential for blood loss during the operation. 
+Objectives
+To identify whether the use of a tourniquet should be recommended when undertaking surgery for the management of primary varicose veins. 
+Search methods
+For this update the Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched April 2013) and the CENTRAL (2013, Issue 3). 
+Selection criteria
+All studies described as randomised controlled trials that examined the use of tourniquets during surgery for patients with primary varicose veins were included. 
+Data collection and analysis
+Data from eligible studies were extracted and summarised independently by two authors. All studies were cross‐checked independently by the authors. 
+Main results
+No additional studies were included or excluded in the updated review. Twenty papers detailing 18 trials were considered. Only three trials were randomised controlled trials and were included in the review. The remaining fifteen studies were excluded for various reasons. All three included trials had a small sample size and reported the trial design, outcome measures and analysis poorly. There were also variations in the outcome measures used between the trials. In addition, there was no consistency on the reporting of mean and medians for blood loss during the operation. It was therefore not possible to pool the data to perform meta‐analysis. However, the reported blood loss when using a tourniquet was between 0 and 16 ml compared to between 107 to 133 ml when not using a tourniquet (P < 0.01). 
+Authors' conclusions
+Although there were significant quality issues with the available evidence, the use of a tourniquet would appear to reduce blood loss during surgery. There were no reported differences between the use or non‐use of a tourniquet in terms of complications and morbidity. However, the available trials were not of sufficient size to detect rarer complications such as nerve damage. 

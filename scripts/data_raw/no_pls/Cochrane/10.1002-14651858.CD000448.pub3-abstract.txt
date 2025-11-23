@@ -1,0 +1,14 @@
+Background
+In some countries extracts of the plant Hypericum perforatum L. (popularly called St. John's wort) are widely used for treating patients with depressive symptoms. 
+Objectives
+To investigate whether extracts of hypericum are more effective than placebo and as effective as standard antidepressants in the treatment of major depression; and whether they have fewer adverse effects than standard antidepressant drugs. 
+Search methods
+Trials were searched in computerised databases, by checking bibliographies of relevant articles, and by contacting manufacturers and researchers. 
+Selection criteria
+Trials were included if they: (1) were randomised and double‐blind; (2) included patients with major depression; (3) compared extracts of St. John's wort with placebo or standard antidepressants; (4) included clinical outcomes assessing depressive symptoms. 
+Data collection and analysis
+At least two independent reviewers extracted information from study reports. The main outcome measure for assessing effectiveness was the responder rate ratio (the relative risk of having a response to treatment). The main outcome measure for adverse effects was the number of patients dropping out due to adverse effects. 
+Main results
+A total of 29 trials (5489 patients) including 18 comparisons with placebo and 17 comparisons with synthetic standard antidepressants met the inclusion criteria. Results of placebo‐controlled trials showed marked heterogeneity. In nine larger trials the combined response rate ratio (RR) for hypericum extracts compared with placebo was 1.28 (95% confidence interval (CI), 1.10 to 1.49) and from nine smaller trials was 1.87 (95% CI, 1.22 to 2.87). Results of trials comparing hypericum extracts and standard antidepressants were statistically homogeneous. Compared with tri‐ or tetracyclic antidepressants and selective serotonin reuptake inhibitors (SSRIs), respectively, RRs were 1.02 (95% CI, 0.90 to 1.15; 5 trials) and 1.00 (95% CI, 0.90 to 1.11; 12 trials). Both in placebo‐controlled trials and in comparisons with standard antidepressants, trials from German‐speaking countries reported findings more favourable to hypericum. Patients given hypericum extracts dropped out of trials due to adverse effects less frequently than those given older antidepressants (odds ratio (OR) 0.24; 95% CI, 0.13 to 0.46) or SSRIs (OR 0.53, 95% CI, 0.34‐0.83). 
+Authors' conclusions
+The available evidence suggests that the hypericum extracts tested in the included trials a) are superior to placebo in patients with major depression; b) are similarly effective as standard antidepressants; c) and have fewer side effects than standard antidepressants. The association of country of origin and precision with effects sizes complicates the interpretation. 

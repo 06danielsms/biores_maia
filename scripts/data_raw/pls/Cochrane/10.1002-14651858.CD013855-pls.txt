@@ -1,0 +1,20 @@
+Light‐based tests for the detection and diagnosis of early tooth decay
+Why is it important to improve dental caries (tooth decay) detection? 
+Dentists often aim to identify tooth decay that has already advanced to a level which needs a filling. If dentists were able to find tooth decay when it has only affected the outer layer of the tooth (enamel) then it is possible to stop the decay from spreading any further and prevent the need for fillings. It is also important to avoid a false‐positive result, when treatment may be provided when caries is absent. 
+What is the aim of this review? 
+This Cochrane Review aimed to find out how accurate different forms of light‐based tests are for detecting early tooth decay in patients who regularly visit their dentist. Researchers in Cochrane included 23 studies published between 1988 and 2019 to answer this question. 
+What was studied in the review? 
+We included three different types of light‐based devices in this review: optical coherence tomography (OCT), near‐infrared (NIR), and fibre‐optic (FOTI/DIFOTI) technology. All devices rely on shining different types of light on the tooth and can improve the dentist's ability to identify tooth decay. 
+What are the main results of the review? 
+The review included 23 studies with a total of 16,702 tooth surfaces. The results of these studies indicate that if the illumination devices were used by a dentist for a routine dental examination of 1000 tooth surfaces, of which 570 (57%) have early tooth decay: 
+• an estimated 484 would be found to have tooth decay using one of the illumination detection methods, and of these 56 (12%) would not have tooth decay (false positive ‐ incorrect diagnosis);• of the 516 tooth surfaces in which a device indicated that tooth decay is not present, 142 (28%) tooth surfaces will truly have early tooth decay (false negative ‐ incorrect diagnosis). 
+Please see oralhealth.cochrane.org/transillumination-and-optical-coherence-tomography-detection-and-diagnosis-enamel-caries-results. 
+In this example illumination devices produce a relatively high proportion of false‐negative results, whereby patients do not receive treatment for early tooth decay, for example, high fluoride toothpaste or oral health advice and guidance from the dentist, as they should. Of the data collected from three types of illumination devices, it seems that the OCT device is more sensitive (produces fewer false‐negative results) than NIR or fibre‐optic technology. 
+How reliable are the results of the studies in this review? 
+We only included studies that assessed healthy teeth or those that were thought to have early tooth decay, as teeth with deep tooth decay would be easier to identify. There were some shortcomings in how the studies were conducted, and this may have resulted in the illumination devices appearing more accurate than they really are, increasing the number of correct classifications (green rectangles in the diagram). Many studies evaluated the performance of the devices on extracted teeth, which is very different from when the devices are used inside a person's mouth, where is difficult to see clearly and where teeth may be stained or have a covering of plaque. 
+Who do the results of this review apply to? 
+Studies included in the review were carried out in the United States, Europe, Japan, Brazil, China, Malaysia, and Australia. Most studies were completed in dental hospitals, general dental practices, or schools. 
+What are the implications of this review? 
+Optical coherence tomography (OCT) shows potential as a device to detect early/enamel caries but more high‐quality research and development are required as OCT is not currently available to general dental practitioners. The analysis suggests that OCT is superior to NIR and fibre‐optic technologies. 
+How up‐to‐date is this review? 
+The review authors searched for and used studies published up to 15 February 2019.

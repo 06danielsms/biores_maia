@@ -1,0 +1,41 @@
+Are oral blood thinners safe and effective for people being treated for cancer?
+Key messages 
+‐ It is reasonable to give direct oral anticoagulants (a type of blood thinning medicine) to people being treated for cancer, especially if they have an increased risk of blood clots, because the benefit of reduction in blood clots appears to outweigh the risk of major bleeding. 
+‐ For a different type of blood thinner, vitamin K antagonists (warfarin), the risk of major bleeding might outweigh the benefit of a reduction in formation of blood clots in the legs and lungs. 
+‐ More research is needed on the effects of blood thinners in people with different types and stages of cancers. 
+What are blood thinners 
+Blood thinners are medicines that help prevent blood from clotting. People at a high risk of getting blood clots can take blood thinners to reduce their chances of developing serious conditions such as heart attacks and strokes. 
+Why might blood‐thinning treatment be helpful for people with cancer?
+People with cancer undergoing systemic treatment (any medication that travels through your body in the bloodstream to find, damage or destroy cancer cells, including chemotherapy, radiotherapy, immunotherapy and target therapy) are at increased risk of blood clots. While blood thinners can decrease the risk of getting blood clots, they can also increase the risk of serious and fatal bleeding. Therefore, it is important to understand the benefits and harms of using blood thinners in these people to allow them and their doctors to make informed decisions. 
+What did we want to find out? 
+We wanted to find out if giving preventative, oral (by mouth) blood thinners was better than no preventative treatment for people being treated for cancer. We focused on people with cancer who were not admitted to hospital for their cancer treatment. 
+We were interested in the effects of blood thinners on:
+‐ death;
+‐ formation of blood clots in veins (venous thromboembolism). Venous thromboembolism includes deep vein thrombosis (DVT) where a clot lodges in the lower leg, thigh or pelvis, and pulmonary embolism where a clot lodges in the lungs; 
+‐ major and minor bleeding.
+What did we do? 
+We searched for studies that examined the benefits and harms of blood thinners for people being treated for cancer who otherwise had no signs, symptoms or conditions that suggested blood thinning was definitely needed. 
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and sizes. 
+What did we find? 
+We found 10 studies that involved 2934 people with cancer. The biggest study had 841 people and the smallest had 24 people. The studies used two types of blood thinner: 
+‐ the vitamin K antagonist, warfarin; or
+‐ direct [ER1] oral anticoagulants (specifically, apixaban and rivaroxaban).
+Main results 
+Compared to no preventative treatment, warfarin, the vitamin K antagonist medicine:
+‐ probably reduces death at 6 months and at 12 months slightly (22 and 29 fewer deaths, respectively, per 1000 people); 
+‐ may have little to no effect on formation of blood clots, but we are very uncertain about the results; 
+‐ probably increases major bleeding and minor bleeding at 12 months (107 more major bleeds and 167 more minor bleeds per 1000 people). 
+Compared to no preventative treatment, direct oral anticoagulant medicines:
+‐ probably reduce death at 3 to 6 months slightly (11 fewer deaths per 1000 people);
+‐ probably reduce blood clots in the lungs and legs slightly (24 fewer in the lungs and 19 fewer in the legs per 1000 people); 
+‐ probably do not increase major bleeding (9 more major bleeds per 1000 people);
+‐ may increase minor bleeding (55 more minor bleeds per 1000 people).
+This suggests that: 
+with a vitamin K antagonist, the risk of major bleeding might outweigh the benefit of any reduction in the risk of blood clots in the legs and lungs; 
+with direct oral anticoagulants, the benefit of reduction in the risk of blood clots in the legs and lungs outweighs the risk of major bleeding. 
+What are the limitations of the evidence? 
+We are moderately confident in the evidence for death, major bleeding and minor bleeding. In eight of the studies, the methods used may have affected the results. 
+We are not confident in the evidence for blood clots in people who were given vitamin K antagonist medicine because the evidence came from one study only. This study gave the medicine in a fixed rather than variable dose, which is not current best practice. 
+How up to date is this evidence? 
+This review updates our previous review. The evidence is up to date to June 2021.
+Editorial note: this is a living systematic review. Living systematic reviews offer a new approach to review updating in which the review is continually updated, incorporating relevant new evidence as it becomes available. Please refer to the 'What's new' section on the Cochrane Database of Systematic Reviews for the current status of this review. 

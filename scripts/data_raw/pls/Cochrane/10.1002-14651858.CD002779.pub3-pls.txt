@@ -1,0 +1,25 @@
+Interventions for treating burning mouth syndrome
+Review question 
+Which treatments help to relieve symptoms for people with burning mouth syndrome (BMS)?
+Background 
+BMS is a common painful condition. Symptoms include burning, dryness or uncomfortable sensations in the mouth and changes to taste, with no obvious underlying medical or dental cause. BMS is usually persistent and suffered long term, and can lead to a reduced quality of life (QoL). Currently, scientific research suggests that BMS is caused by underlying damage to the nerves. There are many treatments available including drugs for anxiety, other psychological conditions and increasing saliva production, protective barriers and treatments applied to the mouth surface amongst others. 
+Study characteristics 
+This review of studies was carried out through Cochrane Oral Health, and the evidence is current up to 31 December 2015. 
+We found 23 studies (assessing 1121 people; 83% were women), published between 1995 and 2015 to include in this review. Twenty‐one studies assessed short‐term (up to three months) symptom relief, and four studies assessed long‐term (from three to six months) symptom relief. Seventeen studies provided information about side effect occurrence, seven studies assessed a measure of QoL, and two studies assessed changes in taste and feeling of dryness. 
+All of the 23 treatments included in this review were compared to a placebo (fake treatment): antidepressants and antipsychotics (two studies), antiseizure drugs (one study), types of tranquillisers (four studies), saliva stimulants (one study), dietary supplements (12 studies), directed energy waves (one study), physical barriers (one study), psychological therapies (one study), and treatments applied to the mouth surface (five studies). 
+Key results 
+Short‐term symptom relief  
+We found evidence of short‐term symptom relief for directed energy waves (one study, 58 participants), a type of tranquilliser used topically (that is held in the mouth before being removed, and which also acts as an antiseizure drug) called clonazepam (two studies, 111 participants), thin plastic tongue covers (one study, 50 participants), and an antiseizure drug called gabapentin (one study, 100 participants). 
+There was no difference in short‐term symptom relief found for antidepressants, saliva stimulants, and another type of tranquilliser used systemically (one that is swallowed) also called clonazepam. We were unable to show whether dietary supplements or treatments applied to the mouth surface provide symptom relief in the short term or not. 
+Short‐term relief was not reported for the single study that assessed a psychological therapy. 
+Long‐term symptom relief  
+We found evidence of long‐term symptom relief for psychological therapy (one study, 30 participants), chili pepper mouthrinse (one study, 18 participants) and the topical tranquilliser called clonazepam (one study, 66 participants). 
+We found there was no difference in long‐term symptom relief for dietary supplements or treatments applied to the mouth surface. 
+Studies which assessed antidepressants, directed energy waves, saliva stimulants, antiseizure drugs, or physical barriers did not evaluate long‐term symptom relief. 
+Change in QoL  
+There was evidence of short‐term improvement in QoL for directed energy waves (one study, 58 patients), although no difference was found for antidepressants, tranquillisers, dietary supplements and physical barriers. No study assessed long‐term QoL changes. 
+Change in taste or feeling of dryness  
+A few studies assessed short‐term change in taste or feeling of dryness (none evaluated these outcomes long‐term), but there was not enough evidence to judge the effects of treatment on these outcomes. 
+Side effects  
+Side effects were more likely to be experienced with antidepressants (dizziness and drowsiness more likely: one study, 37 people), and with a dietary supplement called alpha lipoic acid (also known as ALA) with or without other ingredients (headaches more likely: two studies, 118 people; and upset stomachs more likely: three studies, 138 people). 
+Quality of the evidence  Overall, we found very low‐quality evidence for each short‐ and long‐term outcome we investigated (symptom relief; changes in QoL, taste and feeling of dryness; and side effects) in all types of assessed treatment: antidepressants and antipsychotics, antiseizure drugs, types of tranquillisers, saliva stimulants, dietary supplements, directed energy waves, physical barriers (except side effects, which was assessed as low quality), psychological therapies, and treatments applied to the mouth surface. As we found so few studies at low risk of bias, we are currently unable to prove or disprove the effectiveness of any treatments for managing BMS. 

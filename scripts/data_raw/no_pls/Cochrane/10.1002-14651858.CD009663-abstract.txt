@@ -1,0 +1,16 @@
+Background
+Migraine is a highly disabling condition for the individual and also has wide‐reaching implications for society, healthcare services, and the economy. Sumatriptan is an abortive medication for migraine attacks, belonging to the triptan family. Intranasal administration may be preferable to oral for individuals experiencing nausea and/or vomiting, although it is primarily absorbed in the gut, not the nasal mucosa. 
+Objectives
+To determine the efficacy and tolerability of intranasal sumatriptan compared to placebo and other active interventions in the treatment of acute migraine attacks in adults. 
+Search methods
+We searched Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, online databases, and reference lists for studies through 13 October 2011. 
+Selection criteria
+We included randomised, double‐blind, placebo‐ and/or active‐controlled studies using intranasal sumatriptan to treat a migraine headache episode, with at least 10 participants per treatment arm. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. We used numbers of participants achieving each outcome to calculate relative risk (or 'risk ratio') and numbers needed to treat to benefit (NNT) or harm (NNH) compared to placebo or a different active treatment. 
+Main results
+Twelve studies (4755 participants) compared intranasal sumatriptan with placebo or an active comparator. Most of the data were for the 10 mg and 20 mg doses. Sumatriptan surpassed placebo for all efficacy outcomes. For sumatriptan 10 mg versus placebo the NNTs were 7.3, 7.4, and 5.5 for pain‐free at two hours, and headache relief at one and two hours, respectively. For sumatriptan 20 mg versus placebo the NNTs were 4.7, 4.9, and 3.5, respectively, for the same outcomes. The 20 mg dose was significantly better than the 10 mg dose for each of these three primary efficacy outcomes. 
+Relief of headache‐associated symptoms, including nausea, photophobia, and phonophobia, was greater with sumatriptan than with placebo, and use of rescue medication was lower with sumatriptan than placebo. For the most part, adverse events were transient and mild and were more common with sumatriptan than placebo. 
+Direct comparison of sumatriptan with active treatments was limited to two studies, one comparing sumatriptan 20 mg and dihydroergotamine (DHE) 1 mg, and one comparing sumatriptan 20 mg with rizatriptan 10 mg. 
+Authors' conclusions
+Intranasal sumatriptan is effective as an abortive treatment for acute migraine attacks, relieving pain, nausea, photophobia, phonophobia, and functional disability, but is associated with increased adverse events compared with placebo. 

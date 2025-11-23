@@ -1,0 +1,35 @@
+Surgery for rotator cuff disease
+Background 
+The rotator cuff is a group of tendons that holds the shoulder joint in place allowing people to lift their arm and reach overhead. Some people can develop pain in their shoulder related to wear and tear of the rotator cuff. There may also be inflammation of the shoulder tendons or bursa (another part of the shoulder that helps it move), and pressure on the tendons by the overlying bone when lifting the arm up (impingement). Often the pain is made worse by sleeping on the affected shoulder and moving the shoulder in certain directions. 
+Surgery on your rotator cuff may include removing part of your bone to take the pressure off the rotator cuff tendons (acromioplasty), removing any swollen or inflamed bursa (the small sack of fluid that cushions the shoulder joint), and removing any damaged tissue or bone to widen the space where the tendons pass (subacromial decompression). Most rotator cuff surgery is now performed arthroscopically (surgical instruments are inserted through a small incision or key hole to perform surgery). 
+Study characteristics 
+This Cochrane Review is current to 22 October 2018. Trials were performed in hospitals in Denmark, Finland, Germany, Norway, Sweden and the UK. We included eight trials (1062 participants), comparing surgery with placebo (fake) surgery or other non‐operative treatment, such as exercise in people with impingement of the shoulder rotator cuff tendons. 
+The number of participants ranged from 42 to 313, mean age from 42 to 65 years, and duration of follow‐up from one year up to 12 to 13 years. Five trials failed to report funding sources, three received funding from non‐commercial foundations, and one trial author was paid by an instrument company. 
+Key results 
+Two trials (506 participants) met our criteria for inclusion for our main comparison, surgery versus placebo. Subacromial decompression resulted in little benefit to people at one‐year follow‐up. 
+Pain (lower scores mean less pain): 
+improved by 3% (3% worse to 8% better), or 0.26 points on a zero to 10 scale
+• People who had placebo rated their pain as 2.9 points
+• People who had surgery rated their pain as 2.6 points
+Function (0 to 100; higher scores mean better function): 
+improved by 3% (1% worse to 7% better) or 3 points on a zero to 100 scale
+• People who had placebo rated their function as 69 points
+• People who had surgery rated their function as 72 points
+Treatment success (much better or no problems at all): 
+5% more people rated their treatment a success (5% fewer to 16% more), or five more people out of 100 
+• 66 out of 100 people considered treatment as successful after placebo procedure
+• 71 out of 100 people considered treatment as successful after surgery
+Health‐related quality of life (higher scores mean better quality of life): 
+worsened 2% (8% worse to 4% better) or 0.02 points on a −0.59 to 1 scale
+• People who had placebo rated their quality of life as 0.73 points
+• People who had surgery rated their quality of life 0.71 points
+Adverse events 
+1% fewer people (4% fewer to 3% more) had adverse events with surgery
+• 4 out of 100 people reported adverse events after placebo
+• 3 out of 100 people reported adverse event after surgery
+Serious adverse events 
+No serious adverse events were reported in the trials. In observational studies the rate of serious adverse events was between 0.5% and 0.6%. 
+• 5 or 6 out of 1000 people had a serious adverse event after surgery
+Certainty of the evidence 
+In people with painful shoulder impingement, high‐certainty evidence shows that subacromial decompression surgery does not improve pain, function or health‐related quality of life compared with placebo surgery, and moderate‐certainty evidence (downgraded due to imprecision), shows no improvement in the number of people reporting treatment success. We are uncertain if surgery is associated with more adverse events compared with no surgery. 
+Serious adverse events including deep infection, pulmonary embolism, nerve injury, and death can occur following shoulder surgery. Although precise estimates are unknown, the risk of serious adverse events is likely less than 1% (moderate‐certainty evidence, downgraded due to imprecision). 

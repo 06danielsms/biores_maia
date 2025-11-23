@@ -1,0 +1,21 @@
+Medical problems that were not considered serious in the first 7 days of the study:
+1-strain vaccine Placebo
+- Stuffy nose: 3 (1.2%) 0 (0.0%)
+- Nausea: 2 (0.8%) 0 (0.0%)
+- Sneezing: 2 (0.8%) 0 (0.0%)
+- Fever: 1 (0.4%) 1 (1.7%)
+- Bad taste in the mouth: 1 (0.4%) 0 (0.0%)
+- Inflammation of the back of the throat: 1 (0.4%) 0 (0.0%)
+- Inflammation of the voice box: 1 (0.4%) 0 (0.0%)
+
+Medical problems that were not considered serious in the first 14 days of the study:
+1-strain vaccine Placebo
+- Stuffy nose: 5 (2.1%) 0 (0.0%)
+- Nausea: 3 (1.2%) 0 (0.0%)
+- Sneezing: 2 (0.8%) 0 (0.0%)
+- Fever: 1 (0.4%) 1 (1.7%)
+- Bad taste in the mouth: 1 (0.4%) 0 (0.0%)
+- Diarrhea: 1 (0.4%) 0 (0.0%)
+- Food poisoning: 1 (0.4%) 0 (0.0%)
+- Inflammation of the back of the throat: 1 (0.4%) 0 (0.0%)
+- Inflammation of the voice box: 1 (0.4%) 0 (0.0%)

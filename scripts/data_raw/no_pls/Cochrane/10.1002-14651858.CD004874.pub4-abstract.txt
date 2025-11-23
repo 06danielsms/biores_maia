@@ -1,0 +1,19 @@
+Background
+Pneumonia caused by bacterial pathogens is the leading cause of mortality in children in low‐income countries. Early administration of antibiotics improves outcomes. 
+Objectives
+To identify effective antibiotic drug therapies for community‐acquired pneumonia (CAP) of varying severity in children by comparing various antibiotics. 
+Search methods
+We searched CENTRAL 2012, Issue 10; MEDLINE (1966 to October week 4, 2012); EMBASE (1990 to November 2012); CINAHL (2009 to November 2012); Web of Science (2009 to November 2012) and LILACS (2009 to November 2012). 
+Selection criteria
+Randomised controlled trials (RCTs) in children of either sex, comparing at least two antibiotics for CAP within hospital or ambulatory (outpatient) settings. 
+Data collection and analysis
+Two review authors independently extracted data from the full articles of selected studies. 
+Main results
+We included 29 trials, which enrolled 14,188 children, comparing multiple antibiotics. None compared antibiotics with placebo. 
+Assessment of quality of study revealed that 5 out of 29 studies were double‐blind and allocation concealment was adequate. Another 12 studies were unblinded but had adequate allocation concealment, classifying them as good quality studies. There was more than one study comparing co‐trimoxazole with amoxycillin, oral amoxycillin with injectable penicillin/ampicillin and chloramphenicol with ampicillin/penicillin and studies were of good quality, suggesting the evidence for these comparisons was of high quality compared to other comparisons. 
+In ambulatory settings, for treatment of World Health Organization (WHO) defined non‐severe CAP, amoxycillin compared with co‐trimoxazole had similar failure rates (odds ratio (OR) 1.18, 95% confidence interval (CI) 0.91 to 1.51) and cure rates (OR 1.03, 95% CI 0.56 to 1.89). Three studies involved 3952 children. 
+In children with severe pneumonia without hypoxaemia, oral antibiotics (amoxycillin/co‐trimoxazole) compared with injectable penicillin had similar failure rates (OR 0.84, 95% CI 0.56 to 1.24), hospitalisation rates (OR 1.13, 95% CI 0.38 to 3.34) and relapse rates (OR 1.28, 95% CI 0.34 to 4.82). Six studies involved 4331 children below 18 years of age. 
+In very severe CAP, death rates were higher in children receiving chloramphenicol compared to those receiving penicillin/ampicillin plus gentamicin (OR 1.25, 95% CI 0.76 to 2.07). One study involved 1116 children. 
+Authors' conclusions
+For treatment of patients with CAP in ambulatory settings, amoxycillin is an alternative to co‐trimoxazole. With limited data on other antibiotics, co‐amoxyclavulanic acid and cefpodoxime may be alternative second‐line drugs. Children with severe pneumonia without hypoxaemia can be treated with oral amoxycillin in an ambulatory setting. For children hospitalised with severe and very severe CAP, penicillin/ampicillin plus gentamycin is superior to chloramphenicol. The other alternative drugs for such patients are co‐amoxyclavulanic acid and cefuroxime. Until more studies are available, these can be used as second‐line therapies. 
+There is a need for more studies with radiographically confirmed pneumonia in larger patient populations and similar methodologies to compare newer antibiotics. Recommendations in this review are applicable to countries with high case fatalities due to pneumonia in children without underlying morbidities and where point of care tests for identification of aetiological agents for pneumonia are not available. 

@@ -1,0 +1,20 @@
+Background
+Urodynamic tests are used to investigate people who have urinary incontinence or other urinary symptoms in order to make a definitive, objective diagnosis. The aim is to help select the treatment most likely to be successful. The investigations are invasive and time consuming. 
+Objectives
+The objective of this review was to determine if treatment according to a urodynamic‐based diagnosis, compared to treatment based on history and examination, led to more effective clinical care of people with urinary incontinence and better clinical outcomes. 
+The intention was to test the following hypotheses in predefined subgroups of people with incontinence: (i) urodynamic investigations improve the clinical outcomes; 
+(ii) urodynamic investigations alter clinical decision making;
+(iii) one type of urodynamic test is better than another in improving the outcomes of management of incontinence or influencing clinical decisions, or both. 
+Search methods
+We searched the Cochrane Incontinence Group Specialised Register, which contains trials identified from the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and MEDLINE In‐Process, handsearching of journals and conference proceedings (searched 19 February 2013), and the reference lists of relevant articles. 
+Selection criteria
+Randomised and quasi‐randomised trials comparing clinical outcomes in groups of people who were and were not investigated using urodynamics, or comparing one type of urodynamic test against another were included. Trials were excluded if they did not report clinical outcomes. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data.
+Main results
+Eight trials involving around 1100 people were included but data were only available for 1036 women in seven trials, of whom 526 received urodynamics. There was some evidence of risk of bias. The four deaths and 12 dropouts in the control arm of one trial were unexplained. 
+There was significant evidence that the tests did change clinical decision making. Women in the urodynamic arms of three trials were more likely to have their management changed (proportion with change in management compared with the control arm 17% versus 3%, risk ratio (RR) 5.07, 95% CI 1.87 to 13.74), although there was statistical heterogeneity. There was evidence from two trials that women treated after urodynamic investigations were more likely to receive drugs (RR 2.09, 95% CI 1.32 to 3.31). On the other hand, in five trials women undergoing treatment following urodynamic investigation were not more likely to undergo surgery (RR 0.99, 95% CI 0.88 to 1.12). 
+There was no statistically significant difference however in the number of women with urinary incontinence if they received treatment guided by urodynamics (37%) compared with those whose treatment was based on history and clinical findings alone (36%) (for example, RR for the number with incontinence after the first year 1.02, 95% CI 0.86 to 1.21). It was calculated that the number of women needed to treat was 100 women (95% CI 86 to 114 women) undergoing urodynamics to prevent one extra individual being incontinent at one year. 
+One trial reported adverse effects and no significant difference was found (RR 1.10, 95% CI 0.81 to 1.50). 
+Authors' conclusions
+While urodynamic tests did change clinical decision making, there was some evidence that this did not result in better outcomes in terms of a difference in urinary incontinence rates after treatment. There was no evidence about their use in men, children, or people with neurological diseases. Larger definitive trials are needed in which people are randomly allocated to management according to urodynamic findings or to management based on history and clinical examination to determine if performance of urodynamics results in higher continence rates after treatment. 

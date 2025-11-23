@@ -1,0 +1,15 @@
+Background
+Eclampsia, the occurrence of a seizure in association with pre‐eclampsia, remains a rare but serious complication of pregnancy. A number of different anticonvulsants have been used to control eclamptic fits and to prevent further seizures. 
+Objectives
+The objective of this review was to assess the effects of magnesium sulphate compared with phenytoin when used for the care of women with eclampsia. Magnesium sulphate is compared with diazepam and with lytic cocktail in other Cochrane reviews. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 April 2010). 
+Selection criteria
+Randomised trials comparing magnesium sulphate (intravenous or intramuscular administration) with phenytoin for women with a clinical diagnosis of eclampsia. 
+Data collection and analysis
+Two review authors assessed trial quality and extracted data.
+Main results
+We have included data from seven trials, involving 972 women. One large trial (775 women) was of good quality. Magnesium sulphate was associated with a substantial reduction in the recurrence of seizures, when compared to phenytoin (six trials, 972 women; risk ratio (RR) 0.34, 95% confidence interval (CI) 0.24 to 0.49). The trend in maternal mortality favours magnesium sulphate, but the difference does not reach statistical significance (three trials, 847 women; RR 0.50, 95% CI 0.24 to 1.05). There were reductions in the risk of pneumonia (one trial, RR 0.44, 95% CI 0.24 to 0.79), ventilation (one trial, RR 0.68, 95% CI 0.50 to 0.91) and admission to an intensive care unit (one trial, RR 0.67, 95% CI 0.50 to 0.89) associated with the use of magnesium sulphate rather than phenytoin. 
+For the baby, magnesium sulphate was associated with fewer admissions to a special care baby unit (SCBU) (one trial, 518 babies; RR 0.73, 95% CI 0.58 to 0.91) and fewer babies who died or were in SCBU for more than seven days (one trial, 643 babies; RR 0.77, 95% CI 0.63 to 0.95) than phenytoin. There was no clear difference in perinatal deaths (two trials, 665 babies; (RR 0.85, 95% CI 0.67 to 1.09). 
+Authors' conclusions
+Magnesium sulphate, rather than phenytoin, for women with eclampsia reduces the risk ratio of recurrence of seizures, probably reduces the risk of maternal death, and improves outcome for the baby. Magnesium sulphate is the drug of choice for women with eclampsia. The use of phenytoin should be abandoned. 

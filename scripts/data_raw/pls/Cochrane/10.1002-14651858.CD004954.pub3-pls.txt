@@ -1,0 +1,11 @@
+Hyperbaric oxygen therapy for treating people with acute ischaemic stroke
+Question 
+We wanted to compare the safety and effectiveness of hyperbaric oxygen therapy (HBOT) versus no HBOT (either no treatment or an ineffective intervention designed to mimic the true treatment) for treating people who had suffered an acute ischaemic stroke. 
+Background 
+Hyperbaric oxygen therapy (HBOT) is a treatment designed to increase the supply of oxygen to the part of the brain affected by stroke and to reduce the extent of irreversible damage. HBOT involves people breathing pure oxygen in a specially designed chamber (such as those used for deep sea divers with the bends) for a period of about an hour and a half each day for 10 to 20 days. 
+Study characteristics 
+We identified 11 studies, involving 705 participants, up to April 2014. All studies included adult participants (41% female) who had suffered an acute stroke within the past two weeks, although most studies enrolled participants within three days of the stroke. All trials evaluated the addition of HBOT to standard practice for study participants. Most trials reported the number of deaths and some measure of functional ability, although the actual measures used varied considerably, making comparisons between trials difficult. Follow‐up periods varied from 90 days to one year. 
+Key results 
+Too few patients have been studied to say whether HBOT decreases the chance of dying, and only three trials have suggested improvement in the ability to do everyday tasks. Overall, little evidence is currently available to support the use of HBOT for people with stroke. 
+Quality of the evidence 
+In general, the quality of the evidence was moderate, given the small numbers of participants and the many different instruments used to estimate the quality of life and the functional ability of participants. The methodology used in many of these trials was poorly described, making a good estimate of the reliability of the evidence difficult. We could pool data only for the chance of dying after the stroke, and although no evidence suggested that HBOT reduced the chance of death following a stroke, the confidence we have in this result is relatively low. We have not excluded the possibility that HBOT may be harmful or beneficial. 

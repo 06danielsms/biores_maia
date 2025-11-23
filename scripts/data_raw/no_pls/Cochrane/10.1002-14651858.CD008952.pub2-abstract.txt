@@ -1,0 +1,19 @@
+Background
+Pain in rheumatoid arthritis is common, is often multi‐factorial and many different pharmacotherapeutic agents are routinely used for pain management. There are concerns that some of the pain pharmacotherapies currently used may increase the risk of adverse events in people with rheumatoid arthritis and concurrent cardiovascular or renal disease. 
+Objectives
+To systematically assess and collate the scientific evidence on the efficacy and safety of using pain pharmacotherapy in people with rheumatoid arthritis and cardiovascular or renal comorbidities. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2010, Issue 4); MEDLINE, from 1950; EMBASE, from 1980; the Cochrane Database of Systematic Reviews (CDSR) and the Database of Abstracts of Reviews of Effects (DARE). We also handsearched the conference proceedings for American College of Rheumatology (ACR) and European League against Rheumatism (EULAR) for 2008‐09, and checked the websites of regulatory agencies for reported adverse events, labels and warnings. 
+Selection criteria
+We considered randomised controlled trials and non‐randomised studies comparing the efficacy and safety of pain pharmacotherapies in patients with rheumatoid arthritis, with and without comorbid cardiovascular or renal conditions. 
+In addition, we also considered controlled before‐after studies, interrupted time series, cohort and case control studies and case series (N ≥ 20) to assess safety. 
+For the purpose of our review, pain pharmacotherapy was defined as including simple analgesics (such as paracetamol), non‐steroidal anti‐inflammatory drugs (NSAIDs), opioids or opioid‐like drugs (such as tramadol), and neuromodulators (including anti‐depressants, anti‐convulsants, and muscle relaxants). 
+Data collection and analysis
+Two review authors independently assessed the search results and planned to extract data and appraise the risk of bias of included studies. 
+Main results
+We did not identify any studies meeting our inclusion criteria. Many of the trials of NSAIDs explicitly excluded patients with cardiovascular or renal comorbidities. 
+We did identify one trial that reported evidence in mixed populations (including both rheumatoid arthritis and osteoarthritis) taking either diclofenac or etoricoxib. In this study, the presence of cardiovascular disease increased the likelihood of a further cardiovascular event three‐fold. Patients with two or more cardiovascular comorbidities showed a two‐fold increased likelihood of adverse cardiovascular events. 
+Authors' conclusions
+There were no trials that specifically compared the efficacy and safety of pain pharmacotherapies for patients with rheumatoid arthritis, with and without comorbid cardiovascular or renal conditions. 
+In the absence of specific evidence in rheumatoid arthritis, current guidelines recommend that NSAIDs be used with caution in the general rheumatoid arthritis population while highlighting the added need for extra vigilance in patients with established cardiovascular disease or risk factors for its development. Current guidelines regarding the use of NSAIDs and opioids in moderate to severe renal impairment should also be applied to the rheumatoid arthritis population. 
+Further research is required to guide clinicians when treating pain in rheumatoid arthritis. 

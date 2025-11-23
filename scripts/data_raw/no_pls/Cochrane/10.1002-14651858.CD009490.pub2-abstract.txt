@@ -1,0 +1,24 @@
+Background
+Pressure ulcers are treated by reducing pressure on the areas of damaged skin. Special support surfaces (including beds, mattresses and cushions) designed to redistribute pressure, are widely used as treatments. The relative effects of different support surfaces are unclear. This is an update of an existing review. 
+Objectives
+To assess the effects of pressure‐relieving support surfaces in the treatment of pressure ulcers. 
+Search methods
+In September 2017 we searched the Cochrane Wounds Specialised Register; the Cochrane Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE (including In‐Process & Other Non‐Indexed Citations); Ovid Embase and EBSCO CINAHL Plus. We also searched clinical trials registries for ongoing and unpublished studies, and scanned reference lists of relevant included studies as well as reviews, meta‐analyses and health technology reports to identify additional studies. There were no restrictions with respect to language, date of publication or study setting. 
+Selection criteria
+We included published or unpublished randomised controlled trials (RCTs), that assessed the effects of support surfaces for treating pressure ulcers, in any participant group or setting. 
+Data collection and analysis
+Data extraction, assessment of 'Risk of bias' and GRADE assessments were performed independently by two review authors. Trials with similar participants, comparisons and outcomes were considered for meta‐analysis. Where meta‐analysis was inappropriate, we reported the results of the trials narratively. Where possible, we planned to report data as either risk ratio or mean difference as appropriate. 
+Main results
+For this update we identified one new trial of support surfaces for pressure ulcer treatment, bringing the total to 19 trials involving 3241 participants. Most trials were small, with sample sizes ranging from 20 to 1971, and were generally at high or unclear risk of bias. 
+Primary outcome: healing of existing pressure ulcers 
+Low‐tech constant pressure support surfaces 
+It is uncertain whether profiling beds increase the proportion of pressure ulcer which heal compared with standard hospital beds as the evidence is of very low certainty: (RR 3.96, 95% CI 1.28 to 12.24), downgraded for serious risk of bias, serious imprecision and indirectness (1 study; 70 participants). 
+There is currently no clear difference in ulcer healing between water‐filled support surfaces and foam replacement mattresses: (RR 0.93, 95% CI 0.63 to 1.37); low‐certainty evidence downgraded for serious risk of bias and serious imprecision (1 study; 120 participants). 
+Further analysis could not be performed for polyester overlays versus gel overlays (1 study; 72 participants), non‐powered mattresses versus low‐air‐loss mattresses (1 study; 20 participants) or standard hospital mattresses with sheepskin overlays versus standard hospital mattresses (1 study; 36 participants). 
+High‐tech pressure support surfaces 
+It is currently unclear whether high‐tech pressure support surfaces (such as low‐air‐loss beds, air suspension beds, and alternating pressure surfaces) improve the healing of pressure ulcers (14 studies; 2923 participants) or which intervention may be more effective. The certainty of the evidence is generally low, downgraded mostly for risk of bias, indirectness and imprecision. 
+Secondary outcomes 
+No analyses were undertaken with respect to secondary outcomes including participant comfort and surface reliability and acceptability as reporting of these within the included trials was very limited. 
+Overall, the evidence is of low to very low certainty and was primarily downgraded due to risk of bias and imprecision with some indirectness. 
+Authors' conclusions
+Based on the current evidence, it is unclear whether any particular type of low‐ or high‐tech support surface is more effective at healing pressure ulcers than standard support surfaces. 

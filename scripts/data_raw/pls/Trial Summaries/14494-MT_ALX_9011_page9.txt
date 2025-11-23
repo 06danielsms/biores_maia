@@ -1,0 +1,25 @@
+SAFETY RESULTS
+
+How is the safety of participants in clinical studies monitored?
+
+The safety of every participant is essential throughout the development and testing of treatments. The study doctors keep a record of all symptoms or abnormal findings the participants have during treatment. These symptoms and abnormal findings are called "adverse events." Adverse events may or may not be caused by treatments in the study.
+
+Adverse events vary from person to person. For example, one participant might get a headache or have unusual blood results, while another might get a rash.
+
+An adverse event that is life-threatening or causes a participant to be hospitalized is called serious.
+
+An independent committee of experts met regularly throughout the study to review all of the safety information.
+
+Was ravulizumab safe during 52 weeks of treatment?
+
+All patients had at least 1 adverse event during the study. The most common adverse events, experienced by more than 20% of patients, are shown below:
+
+- Headache: 22 out of 58 patients (38%)
+- Diarrhea: 19 out of 58 patients (33%)
+- Vomiting: 18 out of 58 patients (31%)
+- Nausea: 15 out of 58 patients (26%)
+- Joint pain: 15 out of 58 patients (26%)
+- High blood pressure: 14 out of 58 patients (24%)
+- Fever: 12 out of 58 patients (21%)
+
+Protocol, ALXN1210-aHUS-311

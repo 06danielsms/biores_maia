@@ -1,0 +1,31 @@
+Background
+Adults spend a majority of their time outside the workplace being sedentary. Large amounts of sedentary behaviour increase the risk of type 2 diabetes, cardiovascular disease, and both all‐cause and cardiovascular disease mortality. 
+Objectives
+Primary 
+• To assess effects on sedentary time of non‐occupational interventions for reducing sedentary behaviour in adults under 60 years of age 
+Secondary 
+• To describe other health effects and adverse events or unintended consequences of these interventions 
+• To determine whether specific components of interventions are associated with changes in sedentary behaviour 
+• To identify if there are any differential effects of interventions based on health inequalities (e.g. age, sex, income, employment) 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, Cochrane Database of Systematic Reviews, CINAHL, PsycINFO, SportDiscus, and ClinicalTrials.gov on 14 April 2020. We checked references of included studies, conducted forward citation searching, and contacted authors in the field to identify additional studies. 
+Selection criteria
+We included randomised controlled trials (RCTs) and cluster RCTs of interventions outside the workplace for community‐dwelling adults aged 18 to 59 years. We included studies only when the intervention had a specific aim or component to change sedentary behaviour. 
+Data collection and analysis
+Two review authors independently screened titles/abstracts and full‐text articles for study eligibility. Two review authors independently extracted data and assessed risk of bias. We contacted trial authors for additional information or data when required. We examined the following primary outcomes: device‐measured sedentary time, self‐report sitting time, self‐report TV viewing time, and breaks in sedentary time. 
+Main results
+We included 13 trials involving 1770 participants, all undertaken in high‐income countries. Ten were RCTs and three were cluster RCTs. The mean age of study participants ranged from 20 to 41 years. A majority of participants were female. All interventions were delivered at the individual level. Intervention components included personal monitoring devices, information or education, counselling, and prompts to reduce sedentary behaviour. We judged no study to be at low risk of bias across all domains. Seven studies were at high risk of bias for blinding of outcome assessment due to use of self‐report outcomes measures. 
+Primary outcomes 
+Interventions outside the workplace probably show little or no difference in device‐measured sedentary time in the short term (mean difference (MD) ‐8.36 min/d, 95% confidence interval (CI) ‐27.12 to 10.40; 4 studies; I² = 0%; moderate‐certainty evidence). We are uncertain whether interventions reduce device‐measured sedentary time in the medium term (MD ‐51.37 min/d, 95% CI ‐126.34 to 23.59; 3 studies; I² = 84%; very low‐certainty evidence) 
+We are uncertain whether interventions outside the workplace reduce self‐report sitting time in the short term (MD ‐64.12 min/d, 95% CI ‐260.91 to 132.67; I² = 86%; very low‐certainty evidence). 
+Interventions outside the workplace may show little or no difference in self‐report TV viewing time in the medium term (MD ‐12.45 min/d, 95% CI ‐50.40 to 25.49; 2 studies; I² = 86%; low‐certainty evidence) or in the long term (MD 0.30 min/d, 95% CI ‐0.63 to 1.23; 2 studies; I² = 0%; low‐certainty evidence). 
+It was not possible to pool the five studies that reported breaks in sedentary time given the variation in definitions used. 
+Secondary outcomes 
+Interventions outside the workplace probably have little or no difference on body mass index in the medium term (MD ‐0.25 kg/m², 95% CI ‐0.48 to ‐0.01; 3 studies; I² = 0%; moderate‐certainty evidence). Interventions may have little or no difference in waist circumference in the medium term (MD ‐2.04 cm, 95% CI ‐9.06 to 4.98; 2 studies; I² = 65%; low‐certainty evidence). 
+Interventions probably have little or no difference on glucose in the short term (MD ‐0.18 mmol/L, 95% CI ‐0.30 to ‐0.06; 2 studies; I² = 0%; moderate‐certainty evidence) and medium term (MD ‐0.08 mmol/L, 95% CI ‐0.21 to 0.05; 2 studies, I² = 0%; moderate‐certainty evidence) 
+Interventions outside the workplace may have little or no difference in device‐measured MVPA in the short term (MD 1.99 min/d, 95% CI ‐4.27 to 8.25; 4 studies; I² = 23%; low‐certainty evidence). We are uncertain whether interventions improve device‐measured MVPA in the medium term (MD 6.59 min/d, 95% CI ‐7.35 to 20.53; 3 studies; I² = 70%; very low‐certainty evidence). 
+We are uncertain whether interventions outside the workplace improve self‐reported light‐intensity PA in the short‐term (MD 156.32 min/d, 95% CI 34.34 to 278.31; 2 studies; I² = 79%; very low‐certainty evidence). 
+Interventions may have little or no difference on step count in the short‐term (MD 226.90 steps/day, 95% CI ‐519.78 to 973.59; 3 studies; I² = 0%; low‐certainty evidence) 
+No data on adverse events or symptoms were reported in the included studies.
+Authors' conclusions
+Interventions outside the workplace to reduce sedentary behaviour probably lead to little or no difference in device‐measured sedentary time in the short term, and we are uncertain if they reduce device‐measured sedentary time in the medium term. We are uncertain whether interventions outside the workplace reduce self‐reported sitting time in the short term. Interventions outside the workplace may result in little or no difference in self‐report TV viewing time in the medium or long term. The certainty of evidence is moderate to very low, mainly due to concerns about risk of bias, inconsistent findings, and imprecise results. Future studies should be of longer duration; should recruit participants from varying age, socioeconomic, or ethnic groups; and should gather quality of life, cost‐effectiveness, and adverse event data. We strongly recommend that standard methods of data preparation and analysis are adopted to allow comparison of the effects of interventions to reduce sedentary behaviour. 

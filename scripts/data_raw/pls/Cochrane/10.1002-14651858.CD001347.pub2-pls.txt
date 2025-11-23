@@ -1,0 +1,25 @@
+Bisphosphonates for treating osteoporosis caused by the use of steroids
+Background 
+Steroids (glucocorticosteroids) are widely used to treat inflammation. Bone loss (osteoporosis) and spinal fractures are serious side effects of this therapy. Bisphosphonates are considered a first‐line treatment for osteoporosis and have been used since the 1990s. 
+Methods 
+We examined the research published up to April 2016 and found a total of 27 eligible trials, which included 3075 adults with inflammatory diseases that required steroid treatment for at least one year. People were randomly assigned to receive either bisphosphonate treatment (alone or with calcium or vitamin D, or both) or 'no treatment' (given calcium or vitamin D or a placebo). Our objective was to determine the benefits and harms of bisphosphonates for adults on long‐term steroid therapy. 
+Main Results 
+New spinal fractures (12 to 24 months) 
+There were 12 trials with 1343 people for this analysis. We found that 77 per 1000 people with no treatment experienced new spinal fracture compared to 44 per 1000 (range 27 to 70) people taking bisphosphonates; an absolute benefit of 2% fewer people (5% fewer to 1% more) sustaining spinal fractures when taking bisphosphonates. 
+Approximately 31 people (range 20 to 145) would need to be treated with bisphosphonates to prevent spinal fractures in one person. 
+New non‐spinal fractures (12 to 24 months) 
+There were nine trials with 1245 people for this analysis. We found that 55 per 1000 people with no treatment experienced new non‐spinal fractures compared to 42 per 1000 (range 25 to 69) people taking bisphosphonates; an absolute benefit of 1% fewer people (4% fewer to 1% more) sustaining non‐spinal fractures when taking bisphosphonates. 
+Lumbar spine bone mineral density (BMD) at 12 months 
+There were 23 trials with 2042 people for this outcome. We found that the BMD of the lumbar spine of people taking bisphosphonates was 3.50% higher (2.90% to 4.10% higher) than in people who had no treatment. 
+Approximately three people (range 2 to 3) would need to be treated with bisphosphonates for 12 months for one person to see a minimally important difference in BMD at the lumbar spine. 
+Femoral neck (top of thigh bone) BMD at 12 months 
+There were 18 trials with 1665 people for this outcome. We found that the BMD of the femoral neck was 2.06% higher in the bisphosphonate group (1.45% to 2.68% more) than in people with no treatment. 
+Approximately five people (range 4 to 7) would need to be treated with bisphosphonates for 12 months for one person to see a minimally important difference in BMD at the femoral neck. 
+Serious adverse events (requiring hospitalisations, life threatening or fatal) 
+There were 15 trials with 1703 people for this outcome. We found that 162 per 1000 people with no treatment experienced serious adverse events compared to 147 per 1000 (range 120 to 181) taking bisphosphonates; an absolute increased harm of 0% more serious adverse events (2% fewer to 2% more) with bisphosphonates. 
+Withdrawals due to adverse events 
+There were 15 trials with 1790 people for this outcome. We found that 73 per 1000 people with no treatment withdrew compared to 77 per 1000 (range 56 to 107) people taking bisphosphonates; an absolute increased harm of 1% more withdrawals due to adverse events (1% fewer to 3% more) with bisphosphonates. 
+Authors' conclusions 
+Based on moderate‐ to high‐certainty evidence, we found that bisphosphonates are beneficial in preventing new spinal fractures and preventing and treating steroid‐induced bone loss at the lumbar spine and femoral neck. For preventing non‐spinal fractures, we found that there was little or no difference whether patients used bisphosphonates or not, although this evidence was low‐certainty because the methods used to assess non‐spinal fractures were subject to bias. 
+We found that there was little or no difference in the number of serious adverse events or withdrawals due to adverse events when comparing bisphosphonates to no treatment. The evidence for these outcomes was of low certainty and we are cautious in making firm conclusions about the harm of bisphosphonates based only on these measures. 
+Overall, our review supports the use of bisphosphonates to reduce the risk of spinal fractures and in the prevention and treatment of steroid‐induced bone loss. 

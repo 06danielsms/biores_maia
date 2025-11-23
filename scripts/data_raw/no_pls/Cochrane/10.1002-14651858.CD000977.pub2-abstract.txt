@@ -1,0 +1,14 @@
+Background
+Tick‐borne encephalitis (TBE) is a disease of the central nervous system caused by a tick‐borne viral infection. TBE can lead to severe neurological syndromes such as meningitis, meningoencephalitis, and meningoencephalomyelitis, which can result in death. There is no treatment, and prevention with the vaccine is the only intervention currently available. 
+Objectives
+To evaluate vaccines for preventing TBE in terms of effectiveness and adverse effects.
+Search methods
+In June 2008, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2008, Issue 2), MEDLINE, EMBASE, LILACS, and mRCT. We also checked reference lists of articles. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing TBE vaccines against placebo, control vaccines, no intervention, or a different dose or schedule of the intervention vaccine. 
+Data collection and analysis
+Two authors applied the inclusion criteria, extracted data, and assessed each trial's risk of bias. We could not combine the included trials in a meta‐analysis because of differences in comparisons and outcomes. 
+Main results
+Eleven trials (corresponding to 10 papers) involving 8184 participants (6586 adults and 1598 children) were included. Different versions of three types of TBE vaccines were tested (IPVE, FSME‐IMMUN, and Encepur); out of which only three (Encepur children, Encepur Adults, and FSME‐IMMUN "new") are currently licensed. No trials reported on cases of clinical TBE, but all reported on antibody titre (seroconversion). All the vaccines gave seroconversion rates of over 87%. Systemic and local adverse effects were common; none were severe or life threatening. 
+Authors' conclusions
+Tick‐borne encephalitis vaccines appear to be highly immunogenic, but the relationship between seroconversion and clinical protection has not been established. Although adverse effects were commonly reported, none were serious or life threatening. 

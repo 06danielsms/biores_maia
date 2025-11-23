@@ -1,0 +1,15 @@
+Immunomodulators and immunosuppressants for relapsing‐remitting multiple sclerosis: a network meta‐analysis 
+Background 
+Different therapeutic strategies are available for the treatment of people with relapsing‐remitting multiple sclerosis (RRMS), including immunomodulators, immunosuppressants, and biologics. Although there is consensus that these therapies may reduce the frequency of relapses, their relative benefit (effectiveness compared to each other) in delaying new relapses or disability worsening remains unclear due to the limited number of direct comparison studies (i.e. studies comparing two or more active agents with each other). 
+Objectives 
+We aimed to assess and rank the benefit from and the extent of adverse events associated with 15 drugs, i.e. interferon beta‐1b, interferon beta‐1a (Avonex, Rebif), glatiramer acetate, natalizumab, mitoxantrone, fingolimod, teriflunomide, dimethyl fumarate, alemtuzumab, pegylated interferon beta‐1a, daclizumab, laquinimod, azathioprine, and immunoglobulins. 
+Study characteristics 
+We included 39 studies up to September 2014 in this review, comprising a total of 25,113 participants suffering from RRMS. The majority of the included studies were short‐term, with a median duration of 24 months. 
+Key results and quality of the evidence 
+For preventing relapses, alemtuzumab, natalizumab, and fingolimod are more effective than the other drugs, based on moderate to high quality evidence. 
+For preventing irreversible disability worsening, insufficient evidence is currently available. 
+Almost all of the agents included in this review were associated with a higher proportion of participants who withdrew due to any adverse event compared to placebo. 
+It is worth noting the following:
+‐ The benefit of all of these treatments beyond two years is uncertain and this is a very relevant issue for people with a lifelong disease such as multiple sclerosis, who will possibly need long‐term treatments. 
+‐ Safety data from these short‐term studies are scanty, poorly reported and cannot provide enough evidence for us to obtain a reliable risk profile of the treatments included in this review. 
+‐ Most of the included studies were sponsored by pharmaceutical companies and this is a known potential source of bias. 

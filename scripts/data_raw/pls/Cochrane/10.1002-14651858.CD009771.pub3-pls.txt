@@ -1,0 +1,14 @@
+Protocol‐directed sedation to reduce duration of mechanical ventilation
+Review question 
+We reviewed the evidence to determine if the use of protocol‐directed sedation reduced the time on mechanical ventilation (method to mechanically assist breathing). We also determined if it reduced the intensive care unit (ICU) or hospital death rate in critically ill adults and children. 
+Background 
+Determining the sedation needs of critically ill people is an important part of critical care to help with recovery and guarantee humane treatment. Protocol‐directed sedation is one management strategy that could be used as a way to reduce both under‐ and over‐sedation. Protocol‐directed sedation is sedation that is given by a nurse, pharmacist or other member of the healthcare team. That team member follows written, approved procedures outlined in a protocol (document). The initial order for protocol‐directed sedation is written by a medical officer or physician. The aim of protocol‐directed sedation is to improve patient outcomes, for example, to reduce the length of time a person is on mechanical ventilation or to reduce the death rate. 
+Search date 
+In this update we included evidence up to December 2017. This updates the previous version of the review which was current to November 2013. 
+Study characteristics 
+We searched scientific databases for studies that examined protocol‐directed sedation in adult and paediatric intensive care patients. We identified four studies with 3308 participants (864 adults and 2459 paediatrics) to include in this review. 
+Key results 
+All of these included studies compared the use of protocol‐directed sedation delivered by nurses to usual care (that is, non‐protocol‐directed sedation). There was no difference in the length of time mechanical ventilation was needed or in ICU or hospital deaths between people who received protocol‐directed sedation and those people managed with usual care. There was a significant reduction in the number of days people treated with protocol‐directed sedation spent in hospital, when compared to those managed with usual care. There was no difference between the two groups in the number of people who accidentally removed their breathing tube or required their tube to be reinserted after accidentally removing it. 
+In conclusion, the benefits of protocol‐directed sedation delivered by nurses compared to usual care are currently unclear in relation to the important outcomes of length of time mechanical ventilation was needed or number of deaths. 
+Quality of the evidence 
+The evidence available to answer our review question is low to moderate. This is mainly due to the often conflicting results that were reported from the four eligible studies. Further studies need to be conducted to determine the effectiveness of this intervention. 

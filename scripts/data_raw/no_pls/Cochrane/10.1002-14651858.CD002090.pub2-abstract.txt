@@ -1,0 +1,14 @@
+Background
+Animal research shows that treatment with amphetamines improves recovery after focal cerebral ischaemia. If the effects are similar in humans, amphetamine treatment could have a major impact on recovery from stroke. 
+Objectives
+To assess the effects of amphetamine treatment in patients with stroke.
+Search methods
+We searched the Cochrane Stroke Group Trials Register (last searched January 2006), the Cochrane Central Register of Controlled Trials (The Cochrane Library Issue 1, 2006), MEDLINE (1966 to January 2006), EMBASE (1980 to January 2006), CINAHL (1982 to January 2006), CINAHL (1982 to January 2006), Science Citation Index (1992 to March 2005) and registers of ongoing trials. We also checked the reference lists of all relevant articles and reviews, and contacted researchers in the field. 
+Selection criteria
+Randomized unconfounded trials comparing amphetamine with placebo.
+Data collection and analysis
+Two review authors independently selected trials for inclusion and assessed trial quality; one extracted the data. 
+Main results
+Ten studies involving 287 patients were included, but not all trials contributed data to each outcome examined in this review. The quality of the trials varied but was generally high. Based on three trials (106 patients) there was no evidence that amphetamine treatment reduced death or dependence (Peto's odds ratio (Peto OR) 1.5, 95% confidence interval (CI) 0.6 to 3.3). Imbalances at baseline with more serious stroke allocated to amphetamine may account for the trend for more deaths at the end of follow up among amphetamine‐allocated patients (Peto OR 2.8, 95% CI 0.9 to 8.6). Based on two trials (73 patients) systolic (weighted mean difference (WMD) 8.4 mm Hg, 95% CI 1.6 to 15.2) and diastolic (WMD 4.9 mm Hg, 95% CI 1.1 to 8.8) blood pressure, as well as heart rate, increased (WMD 10.6 bpm, 95% CI 3.3 to 17.8) in amphetamine‐allocated patients. Based on six studies (176 patients) there was evidence of a better relative change from baseline to last follow up in motor function (WMD ‐6.1 points; 95% CI ‐10.4 to ‐1.9) Different results with different analysis approaches emphasize caution in the interpretation of the results. 
+Authors' conclusions
+At present, too few patients have been studied to draw any definite conclusions about the effects of amphetamine treatment on recovery from stroke. The suggested benefits on motor function and the non‐significant trend towards increased risk of death could be related to imbalances in prognostic variables or other bias in the studies. Further research is therefore justified. 

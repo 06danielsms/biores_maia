@@ -1,0 +1,24 @@
+Background
+Urinary schistosomiasis is caused by an intravascular infection with parasitic Schistosoma haematobium worms. The adult worms typically migrate to the venous plexus of the human bladder and excrete eggs which the infected person passes in their urine. Chronic infection can cause substantial morbidity and long‐term complications as the eggs become trapped in human tissues causing inflammation and fibrosis. We summarised evidence of drugs active against the infection. This is new edition of a review first published in 1997. 
+Objectives
+To evaluate the efficacy and safety of drugs for treating urinary schistosomiasis.
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register, MEDLINE, CENTRAL, EMBASE and LILACS and reference lists of articles up to 23 May 2014. 
+Selection criteria
+Randomized controlled trials (RCTs) of antischistosomal drugs and drug combinations compared to placebo, no intervention, or each other. 
+Data collection and analysis
+Two researchers independently screened the records, extracted the data and assessed risk of bias. The primary efficacy outcomes were parasitological failure (defined as the continued presence of S. haematobium eggs in the urine at time points greater than one month after treatment), and percent reduction of egg counts from baseline. We presented dichotomous data as risk ratios (RR), and continuous data as mean difference (MD), alongside their 95% confidence intervals (CIs). Where appropriate we combined trials in meta analyses or tables. We assessed the quality of evidence using the GRADE approach. 
+Main results
+We included 30 RCTs enrolling 8165 participants in this review. Twenty‐four trials were conducted in children in sub‐Saharan Africa, and 21 trials were over 20 years old. Many studies were assessed as being at unclear risk of bias due to inadequate descriptions of study methods. 
+Praziquantel 
+On average, a single 40 mg/kg dose of praziquantel reduced the proportion of people still excreting eggs in their urine by around 60% compared to placebo at one to two months after treatment (treatment failure: RR 0.42, 95% CI 0.29 to 0.59, 864 participants, seven trials, high quality evidence). The proportion of people cured with praziquantel varied substantially between trials, from 22.5% to 83.3%, but was higher than 60% in five of the seven trials. At one to two months following praziquantel treatment at 40 mg/kg, the mean number of schistosome eggs in the urine was reduced by over 95% in five out of six trials (678 participants, six trials, high quality evidence). 
+Splitting praziquantel 40 mg/kg into two doses over 12 hours probably has no benefits over a single dose, and in a single trial of 220 participants the split dose caused more vomiting (RR 0.5, 95% CI 0.29 to 0.86) and dizziness (RR 0.39, 95% CI 0.16 to 0.94). 
+Metrifonate 
+A single dose of metrifonate 10 mg/kg reduced egg excretion (210 participants, one trial, at eight months), but was only marginally better than placebo at achieving cure at one month (RR 0.83, 95% CI 0.74 to 0.94, 142 participants, one trial). In a single trial comparing one, two and three doses, the absolute number of participants cured improved from 47% after one dose to 81% after three doses (93 participants, one trial, low quality evidence). 
+Two small trials compared 40 mg/kg single dose praziquantel with two or three doses of 10 mg/kg metrifonate and found no clear evidence of differences in cure (metrifonate 2 x 10 mg/kg at one month: RR 1.03, 95% CI 0.8 to 1.34, 72 participants, one trial; metrifonate 3 x 10 mg/kg at three months: RR 0.33, 95% CI 0.07 to 1.57, 100 participants, one trial. In one trial both drugs performed badly and in one trial both performed well. 
+Other drugs 
+Three trials have evaluated the antimalarial artesunate; with inconsistent results. Substantial antischistosomal effects were only seen in one of the three trials, which was at unclear risk of bias due to poor reporting of the trial methods. Similarly, another anti‐malarial mefloquine has been evaluated in two small trials with inconsistent effects. 
+Adverse events were described as mild for all evaluated drugs, but adverse event monitoring and reporting was generally of low quality. 
+Authors' conclusions
+Praziquantel 40 mg/kg is the most studied drug for treating urinary schistosomiasis, and has the strongest evidence base. 
+Potential strategies to improve future treatments for schistosomiasis include the combination of praziquantel with metrifonate, or with antimalarial drugs with antischistosomal properties such as artesunate and mefloquine. Evaluation of these combinations requires rigorous, adequately powered trials using standardized outcome measures. 

@@ -1,0 +1,14 @@
+Background
+Cataract is a major cause of blindness worldwide. Unless medically contraindicated, cataract surgery is usually performed under local (regional) anaesthesia. Local anaesthesia involves the blockage of a nerve subserving a given part of the body. It involves infiltration of the area around the nerve with local anaesthetic. The two main approaches in the eye are retrobulbar and peribulbar. There is debate over whether the peribulbar approach provides more effective, safer anaesthesia for cataract surgery than retrobulbar block. 
+Objectives
+The objective of this review was to assess the effects of peribulbar anaesthesia (PB) compared to retrobulbar anaesthesia (RB) on pain scores, ocular akinesia, patient acceptability and ocular and systemic complications. 
+Search methods
+In the previous version of our review, we searched the databases until December 2007. In this updated version, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (March 2015); MEDLINE (1960 to March 2015); and EMBASE (1980 to March 2015). 
+Selection criteria
+We included randomized controlled clinical trials comparing peribulbar anaesthesia and retrobulbar anaesthesia for cataract surgery. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted trial authors for additional information, study methodology and missing data. We carried out a descriptive narrative of results as the included studies used varied methods for reporting the outcomes. We performed a subgroup analysis for globe akinesia. 
+Main results
+We included six trials involving 1438 participants. Three of the six trials had adequate sequence generation while all the trials had unclear allocation concealment There was no evidence of any difference in pain perception during surgery with either retrobulbar or peribulbar anaesthesia. Both were largely effective. There was no evidence of any difference in complete akinesia or the need for further injections of local anaesthetic. Conjunctival chemosis was more common after peribulbar block (relative risk (RR) 2.11, 95% confidence interval (CI) 1.46 to 3.05) and lid haematoma was more common after retrobulbar block (RR 0.36, 95% CI 0.15 to 0.88). Retrobulbar haemorrhage was uncommon and occurred only once, in a patient who had a retrobulbar block. 
+Authors' conclusions
+There is little to choose between peribulbar and retrobulbar block in terms of anaesthesia and akinesia during surgery measuring acceptability to patients, need for additional injections and development of severe complications. Severe local or systemic complications were rare for both types of block. 

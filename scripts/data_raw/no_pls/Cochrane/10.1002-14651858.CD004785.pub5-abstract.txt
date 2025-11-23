@@ -1,0 +1,15 @@
+Background
+Meningococcal disease is a contagious bacterial infection caused by Neisseria meningitidis (N meningitidis). Household contacts have the highest risk of contracting the disease during the first week of a case being detected. Prophylaxis is considered for close contacts of people with a meningococcal infection and populations with known high carriage rates. 
+Objectives
+To study the effectiveness, adverse events and development of drug resistance of different antibiotics as prophylactic treatment regimens for meningococcal infection. 
+Search methods
+We searched CENTRAL 2013, Issue 6, MEDLINE (January 1966 to June week 1, 2013), Embase (1980 to June 2013) and LILACS (1982 to June 2013). 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐RCTs addressing the effectiveness of different antibiotics for: (a) prophylaxis against meningococcal disease; (b) eradication of N meningitidis. 
+Data collection and analysis
+Two review authors independently appraised the quality and extracted data from the included trials. We analysed dichotomous data by calculating the risk ratio (RR) and 95% confidence interval (CI) for each trial. 
+Main results
+No new trials were found for inclusion in this update. We included 24 studies; 19 including 2531 randomised participants and five including 4354 cluster‐randomised participants. There were no cases of meningococcal disease during follow‐up in the trials, thus effectiveness regarding prevention of future disease cannot be directly assessed. 
+Mortality that was reported in one study was not related to meningococcal disease or treatment. Ciprofloxacin (RR 0.04; 95% CI 0.01 to 0.12), rifampin (rifampicin) (RR 0.17; 95% CI 0.13 to 0.24), minocycline (RR 0.28; 95% CI 0.21 to 0.37) and penicillin (RR 0.47; 95% CI 0.24 to 0.94) proved effective at eradicating N meningitidis one week after treatment when compared with placebo. Rifampin (RR 0.20; 95% CI 0.14 to 0.29), ciprofloxacin (RR 0.03; 95% CI 0.00 to 0.42) and penicillin (RR 0.63; 95% CI 0.51 to 0.79) still proved effective at one to two weeks. Rifampin was effective compared to placebo up to four weeks after treatment but resistant isolates were seen following prophylactic treatment. No trials evaluated ceftriaxone against placebo but rifampin was less effective than ceftriaxone after one to two weeks of follow‐up (RR 5.93; 95% CI 1.22 to 28.68). Mild adverse events associated with treatment were observed. 
+Authors' conclusions
+Using rifampin during an outbreak may lead to the circulation of resistant isolates. Use of ciprofloxacin, ceftriaxone or penicillin should be considered. All four agents were effective for up to two weeks follow‐up, though more trials comparing the effectiveness of these agents for eradicating N. meningitidis would provide important insights. 

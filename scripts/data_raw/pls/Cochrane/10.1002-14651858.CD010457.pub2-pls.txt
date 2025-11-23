@@ -1,0 +1,26 @@
+Uricosuric medications for chronic gout
+Background ‐ what is chronic gout and what are uricosuric medications? 
+Chronic gout is a type of inflammatory arthritis caused by high levels of uric acid in the blood leading to crystal formation in the joints and repeated attacks of acute gout. Treatment of chronic gout can make acute gout attacks less likely. 
+Uricosuric medications work to lower blood uric acid levels by increasing the amount of uric acid that is eliminated via the kidneys. 
+Study characteristics 
+This summary of a Cochrane review presents what we know from research about the effect of uricosuric medications for treating chronic gout. After searching for all relevant studies to May 2013, we found five studies. Most participants in these studies were male (81% to 100%), aged between 50 and 70 years and did not have significant kidney or liver disease. Two trials compared benzbromarone with allopurinol, two trials compared benzbromarone with probenecid and one trial compared allopurinol with probenecid. We found no studies comparing uricosuric medications with placebo, or with newer urate‐lowering therapies such as febuxostat or pegloticase. We restricted reporting of results here to benzbromarone versus allopurinol, as allopurinol is a commonly used first‐line treatment for gout. 
+Key results ‐ what happens to people with chronic gout who take uricosuric medications 
+Benzbromarone compared with allopurinol: 
+Acute gout attacks:
+‐ 4 fewer people out of 100 had acute gout attacks after four months' treatment with allopurinol compared with benzbromarone. 
+‐ 4 people out of 100 on benzbromarone had acute gout attacks.
+‐ 0 people out of 100 on allopurinol had acute gout attacks.
+Proportion achieving normal serum urate:
+‐ 17 more people out of 100 achieved a normal serum urate level after for months on benzbromarone compared with allopurinol. 
+‐ 76 people out of 100 on benzbromarone achieved a normal serum urate level after four months. 
+‐ 60 people out of 100 on allopurinol achieved a normal serum urate level after four months. 
+Withdrawal due to side effects:
+‐ 1 more person out of 100 stopped benzbromarone due to side effects compared with allopurinol. 
+‐ 8 people out of 100 stopped benzbromarone due to side effects.
+‐ 6 people out of 100 stopped allopurinol due to side effects.
+The trials did not report pain, function and tophus regression.
+Quality of the evidence 
+Low‐quality evidence indicated that there was no important difference in acute gout attacks, or in the number of people who had to stop the medication due to a side effect between benzbromarone and allopurinol. Moderate‐quality evidence from two studies showed that both medications reduced uric acid levels to a similar degree. Benzbromarone was no more likely than probenecid to result in acute gout attacks, but may result in fewer withdrawals due to side effects (low‐quality evidence), and is probably more likely to reduce uric acid levels to a normal level (moderate‐quality evidence). The trials did not measure pain, function and tophus regression. 
+Low‐quality evidence from a single study indicated that probenecid was no more likely to result in acute gout attacks than allopurinol. Further research is highly likely to impact on this estimate. This study did not measure proportion of people achieving a normal serum urate level, pain reduction, function, tophus regression or the number of people stopping the medication due to side effects. 
+Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimates. 
+We found no studies that looked at sulphinpyrazone in treating chronic gout. We do not have information about the effects of uricosuric medications in particular groups of patients such as people with impaired kidney function or with different levels of uric acid. Possible side effects of uricosuric medications may include rash, stomach upset, flushing, dizziness, headache or acute gout attacks. Rare complications may include liver failure, kidney stones, anaemia or allergic reaction. 

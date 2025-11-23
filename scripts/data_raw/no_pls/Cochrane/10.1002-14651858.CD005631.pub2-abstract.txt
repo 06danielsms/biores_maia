@@ -1,0 +1,14 @@
+Background
+Diabetic kidney disease (DKD, also called diabetic nephropathy, DN) is the major cause of end‐stage kidney disease (ESKD) in many countries and is associated with increased morbidity and mortality as compared to other causes of kidney disease. One of the pathological changes of DKD is the thickening of the glomerular basement membrane, mesangial expansion and proliferation. The presence of the glycosaminoglycan side chains of heparan sulfate proteoglycan, an important constituent of the glomerular basement membrane, is decreased in DKD proportionally to the increasing degree of proteinuria. Research on animals has suggested that heparin and related substances may prevent glomerular membrane thickening. However, it is not known whether heparin and related substances can prevent the onset of DKD and, therefore, be recommended for primary prevention of this condition. 
+Objectives
+To assess the benefits and harms of heparin and related substances for preventing the onset of DKD. 
+Search methods
+We searched the Cochrane Renal Group's Specialised Register and the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library (Issue 2, 2009). We also searched MEDLINE (1966 to June 2009), EMBASE (1980 to June 2009), China Biological Medicine (CBM; 1979 to June 2009), VIP Chinese Science and Technique Journals Database (until June 2009), China National Infrastructure (CNKI) (until June 2009) and Wanfang database (until June 2009). Reference lists of nephrology textbooks, review articles and relevant studies were also searched. 
+Selection criteria
+All relevant randomised controlled trials (RCTs) and quasi‐RCTs looking at the benefits and harms of heparin and related substances for preventing the onset of DKD were eligible. 
+Data collection and analysis
+We planned for two authors to extract data independently using a self‐developed data extraction form and enter them into RevMan 5 software; for meta‐analyses to be performed when more than one study provided data on a comparable outcome on sufficiently similar patients; for random‐effects analyses to be performed whenever heterogeneity between results appeared to be present; and for standardised differences in mean outcome measures to be used due to the use of different scales and periods of treatment. 
+Main results
+No studies met our inclusion criteria.
+Authors' conclusions
+Rigorously well‐designed, randomised, multi‐centre, large‐sample studies of heparin and related substances for preventing the onset of DKD are needed. 

@@ -1,0 +1,10 @@
+Clinical Study Results
+How many participants had adverse reactions?
+There were 28.4% of participants who had adverse reactions during the study. This was 130 out of 457 participants.
+- 35.5% of participants who got 150 mg of anifrolumab had adverse reactions during the study. This was 33 out of 93 participants.
+- 30.6% of participants who got 300 mg of anifrolumab had adverse reactions during the study. This was 55 out of 180 participants.
+- 22.8% of participants who got the placebo had adverse reactions during the study. This was 42 out of 184 participants.
+There were 2.4% of participants who stopped getting treatment due to adverse reactions they had during the study. This was 11 out of 457 participants.
+- There were 4.3% of participants who stopped getting 150 mg anifrolumab because of adverse reactions they had during the study. This was 4 out of 93 participants.
+- There were 2.8% of participants who stopped getting 300 mg of anifrolumab because of adverse reactions they had during the study. This was 5 out of 180 participants.
+- There were 1.1% of participants who stopped getting the placebo because of adverse reactions they had during the study. This was 2 out of 184 participants.

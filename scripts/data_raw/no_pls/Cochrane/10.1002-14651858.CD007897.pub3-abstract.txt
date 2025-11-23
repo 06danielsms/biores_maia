@@ -1,0 +1,17 @@
+Background
+Dampness and mould in buildings have been associated with adverse respiratory symptoms, asthma and respiratory infections of inhabitants. Moisture damage is a very common problem in private houses, workplaces and public buildings such as schools. 
+Objectives
+To determine the effectiveness of repairing buildings damaged by dampness and mould in order to reduce or prevent respiratory tract symptoms, infections and symptoms of asthma. 
+Search methods
+We searched CENTRAL (2014, Issue 10), MEDLINE (1951 to November week 1, 2014), EMBASE (1974 to November 2014), CINAHL (1982 to November 2014), Science Citation Index (1973 to November 2014), Biosis Previews (1989 to June 2011), NIOSHTIC (1930 to March 2014) and CISDOC (1974 to March 2014). 
+Selection criteria
+Randomised controlled trials (RCTs), cluster‐RCTs (cRCTs), interrupted time series studies and controlled before‐after (CBA) studies of the effects of remediating dampness and mould in a building on respiratory symptoms, infections and asthma. 
+Data collection and analysis
+Two authors independently extracted data and assessed the risk of bias in the included studies. 
+Main results
+We included 12 studies (8028 participants): two RCTs (294 participants), one cRCT (4407 participants) and nine CBA studies (3327 participants). The interventions varied from thorough renovation to cleaning only. 
+Repairing houses decreased asthma‐related symptoms in adults (among others, wheezing (odds ratio (OR) 0.64; 95% confidence interval (CI) 0.55 to 0.75) and respiratory infections (among others, rhinitis (OR 0.57; 95% CI 0.49 to 0.66), two studies, moderate‐quality evidence). For children, we did not find a difference between repaired houses and receiving information only, in the number of asthma days or emergency department visits because of asthma (one study, moderate‐quality evidence). 
+One CBA study showed very low‐quality evidence that after repairing a mould‐damaged office building, asthma‐related and other respiratory symptoms decreased. In another CBA study, there was no difference in symptoms between full or partial repair of houses. 
+For children in schools, the evidence of an effect of mould remediation on respiratory symptoms was inconsistent and out of many symptom measures only respiratory infections might have decreased after the intervention. For staff in schools, there was very low‐quality evidence that asthma‐related and other respiratory symptoms in mould‐damaged schools were similar to those of staff in non‐damaged schools, both before and after intervention. 
+Authors' conclusions
+We found moderate to very low‐quality evidence that repairing mould‐damaged houses and offices decreases asthma‐related symptoms and respiratory infections compared to no intervention in adults. There is very low‐quality evidence that although repairing schools did not significantly change respiratory symptoms in staff, pupils' visits to physicians due to a common cold were less frequent after remediation of the school. Better research, preferably with a cRCT design and with more validated outcome measures, is needed. 

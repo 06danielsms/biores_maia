@@ -1,0 +1,15 @@
+Background
+During percutaneous coronary intervention (PCI), and in non‐ST segment elevation acute coronary syndromes (NSTEACS), the risk of acute vessel occlusion by thrombosis is high. Glycoprotein IIb/IIIa blockers strongly inhibit platelet aggregation and may prevent mortality and myocardial infarction. This is an update of a Cochrane review first published in 2001, and previously updated in 2007 and 2010. 
+Objectives
+To assess the efficacy and safety effects of glycoprotein IIb/IIIa blockers when administered during PCI, and as initial medical treatment in patients with NSTEACS. 
+Search methods
+We updated the searches of the Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library (Issue 12, 2012), MEDLINE (OVID, 1946 to January Week 1 2013) and EMBASE (OVID, 1947 to Week 1 2013) on 11 January 2013. 
+Selection criteria
+Randomised controlled trials comparing intravenous IIb/IIIa blockers with placebo or usual care. 
+Data collection and analysis
+Two authors independently selected studies for inclusion, assessed trial quality and extracted data. We collected major bleeding as adverse effect information from the trials. We used odds ratios (OR) and 95% confidence intervals (CI) for effect measures. 
+Main results
+Sixty trials involving 66,689 patients were included. During PCI (48 trials with 33,513 participants) glycoprotein IIb/IIIa blockers decreased all‐cause mortality at 30 days (OR 0.79, 95% CI 0.64 to 0.97) but not at six months (OR 0.90, 95% CI 0.77 to 1.05). All‐cause death or myocardial infarction was decreased both at 30 days (OR 0.66, 95% CI 0.60 to 0.72) and at six months (OR 0.75, 95% CI 0.64 to 0.86), although severe bleeding was increased (OR 1.39, 95% CI 1.21 to 1.61; absolute risk increase (ARI) 8.0 per 1000). The efficacy results were homogeneous for every endpoint according to the clinical condition of the patients, but were less marked for patients pre‐treated with clopidogrel, especially in patients without acute coronary syndromes. 
+As initial medical treatment of NSTEACS (12 trials with 33,176 participants), IIb/IIIa blockers did not decrease mortality at 30 days (OR 0.90, 95% CI 0.79 to 1.02) or at six months (OR 1.00, 95% CI 0.87 to 1.15), but slightly decreased death or myocardial infarction at 30 days (OR 0.91, 95% CI 0.85 to 0.98) and at six months (OR 0.88, 95% CI 0.81 to 0.96), although severe bleeding was increased (OR 1.29, 95% CI 1.14 to 1.45; ARI 1.4 per 1000). 
+Authors' conclusions
+When administered during PCI, intravenous glycoprotein IIb/IIIa blockers reduce the risk of all‐cause death at 30 days but not at six months, and reduce the risk of death or myocardial infarction at 30 days and at six months, at a price of an increase in the risk of severe bleeding. The efficacy effects are homogeneous but are less marked in patients pre‐treated with clopidogrel where they seem to be effective only in patients with acute coronary syndromes. When administered as initial medical treatment in patients with NSTEACS, these agents do not reduce mortality although they slightly reduce the risk of death or myocardial infarction. 

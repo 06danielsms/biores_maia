@@ -1,0 +1,14 @@
+Background
+Waldenstrom's macroglobulinaemia (WM) is an uncommon B‐cell lymphoproliferative disorder characterized by bone marrow infiltration and production of monoclonal immunoglobulin. Uncertainty remains if alkylating agents, such as chlorambucil, melphalan or cyclophosphamide, are an effective form of management. 
+Objectives
+To assess the effects and safety of the alkylating agents on Waldenstrom's macroglobulinaemia (WM). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (Issue1, 2008), MEDLINE (1966 to 2008), EMBASE (1980 to 2008), the Chinese Biomedical Base (1982 to 2008) and reference lists of articles.We also handsearched relevant conference proceedings from 1990 to 2008. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing alkylating agents given concomitantly with radiotherapy, splenectomy, plasmapheresis, stem‐cell transplantation in patients with a confirmed diagnosis of WM. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected adverse effects information from the trials. 
+Main results
+One trial involving 92 participants with pretreated/relapsed WM compared the effect of fludarabine versus the combination of cyclophosphamide (the alkylating agent), doxorubicin and prednisone (CAP). Compared to CAP, the Hazard ratio (HR) for deaths of treatment with fludarabine was estimated to be 1.04, with a standard error of 0.30 (95% CI 0.58 to 1.48) and it indicated that the mean difference of median survival time was ‐4.00 months, and 16.00 months for response duration. The relative risks (RR) of response rate was 2.80 (95% CI 1.10 to 7.12). There were no statistically difference in overall survival rate and median survival months, while on the basis of response rate and response duration, fludarabine seemed to be superior to CAP for pretreated/relapsed patients with macroglobulinaemia. 
+Authors' conclusions
+Although alkylating agents have been used for decades they have never actually been tested in a proper randomised trial. This review demonstrated that there is currently no evidence to suggest that alkylating agents are effective in treating Waldenstrom's macroglobulinaemia. 

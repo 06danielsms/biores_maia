@@ -1,0 +1,15 @@
+Background
+Vitreoretinal surgeons proposed submacular surgery to remove the fibrovascular tissue causing damage to the centre of the retina, in the attempt to limit central visual loss in people affected by neovascular age‐related macular degeneration (AMD). 
+Objectives
+This review aims at assessing the effectiveness of submacular surgery for preserving or improving vision in patients with AMD. 
+Search methods
+We searched CENTRAL, MEDLINE, EMBASE and LILACS. There were no language or date restrictions in the search for trials. The electronic databases were last searched on 11 February 2009. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials comparing submacular surgery with any other treatment or observation. 
+Data collection and analysis
+Two authors independently extracted the data. The risk ratio (RR) of visual loss and visual gain was estimated at one year. 
+Main results
+Two multicentre studies with a similar design were conducted between 1997 and 2003 and compared submacular surgery with observation in people affected by subfoveal neovascular AMD with (n=336) or without (n=454) extensive blood in the macula. At one year there was high quality evidence of no benefit for preventing visual loss (RR: 0.96; 95% confidence interval (CI): 0.84 to 1.09). No difference could be demonstrated regarding the chance of visual gain (RR: 1.06; 95% CI: 0.75 to 1.51), although this evidence was of low quality because of imprecision. The risk difference was ‐2% (95% CI: ‐10% to 5%) and 1% (95% CI: ‐4% to 6%) for visual loss and visual gain, respectively, thus excluding a large benefit with surgery in terms of absolute risk in this sample. There was high quality evidence that cataract needing surgery (RR: 8.69; 95% CI: 4.06 to 18.61) and retinal detachment (RR: 6.13; 95% CI: 2.81 to 13.38) were more common among operated patients, and detachment occurred in 5% of patients with no extensive blood and in 18% of those with extensive blood beneath the macula. 
+A pilot study compared submacular surgery with laser photocoagulation in 70 patients. No difference between the two treatments could be demonstrated for any outcome measure, but estimates were very imprecise because of small sample size. 
+Authors' conclusions
+There is no benefit with submacular surgery in most people with subfoveal choroidal neovascularisation due to AMD in terms of prevention of visual loss. Furthermore, the risk of developing cataract and retinal detachment increases after surgery. 

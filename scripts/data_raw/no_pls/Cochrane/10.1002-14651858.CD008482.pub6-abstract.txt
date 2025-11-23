@@ -1,0 +1,19 @@
+Background
+Malabsorption and deficiency of fat‐soluble vitamins K may occur in cystic fibrosis, a genetic disorder affecting multiple organs. Vitamin K is known to play an important role in both blood coagulation and bone formation, hence the role of supplementation of vitamin K in this category needs to be reviewed. This is an updated version of the review. 
+Objectives
+To assess the effects of vitamin K supplementation in people with cystic fibrosis and to investigate the hypotheses that vitamin K will decrease deficiency‐related coagulopathy, increase bone mineral density, decrease risk of fractures and improve quality of life in people with CF. Also to determine the optimal dose and route of administration of vitamin K for people with CF (for both routine and therapeutic use). 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search: 12 August 2019.
+Selection criteria
+Randomised controlled trials of all preparations of vitamin K used as a supplement compared to either no supplementation (or placebo) at any dose or route and for any duration, in patients with cystic fibrosis. 
+Data collection and analysis
+Two authors independently screened papers, extracted trial details and assessed their risk of bias. The quality of the evidence was assessed using the GRADE criteria. 
+Main results
+Three trials (total 70 participants, aged 8 to 46 years) assessed as having a moderate risk of bias were included. One trial compared vitamin K to placebo, a second to no supplementation and the third compared two doses of vitamin K. No trial in either comparison reported our primary outcomes of coagulation and quality of life or the secondary outcomes of nutritional parameters and adverse events. 
+Vitamin K versus control 
+Two trials compared vitamin K to control, but data were not available for analysis. One 12‐month trial (n = 38) compared 10 mg vitamin K daily or placebo in a parallel design and one trial (n = 18) was of cross‐over design with no washout period and compared 5 mg vitamin K/week for four‐weeks to no supplementation for four‐weeks. Only the 12‐month trial reported on the primary outcome of bone formation; we are very uncertain whether vitamin K supplementation has any effect on bone mineral density at the femoral hip or lumbar spine (very low‐quality evidence). Both trials reported an increase in serum vitamin K levels and a decrease in undercarboxylated osteocalcin levels. The cross‐over trial also reported that levels of proteins induced by vitamin K absence (PIVKA) showed a decrease and a return to normal following supplementation, but due to the very low‐quality evidence we are not certain that this is due to the intervention. 
+High‐dose versus low‐dose vitamin K 
+One parallel trial (n = 14) compared 1 mg vitamin K/day to 5 mg vitamin K/day for four weeks. The trial did report that there did not appear to be any difference in serum undercarboxylated osteocalcin or vitamin K levels (very low‐quality evidence). While the trial reported that serum vitamin K levels improved with supplementation, there was no difference between the high‐dose and low‐dose groups. 
+Authors' conclusions
+There is very low‐quality evidence of any effect of vitamin K in people with cystic fibrosis. While there is no evidence of harm, until better evidence is available the ongoing recommendations by national CF guidelines should be followed. 

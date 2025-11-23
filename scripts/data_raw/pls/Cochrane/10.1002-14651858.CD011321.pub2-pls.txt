@@ -1,0 +1,27 @@
+Benefits and harms of exercise programmes for people with ankylosing spondylitis
+Review question 
+We reviewed the evidence for the benefits and harms of exercise programmes for people with ankylosing spondylitis (AS). 
+Background 
+Exercise programmes are often recommended for people with AS, to reduce pain, and improve joint mobility or function. 
+Study characteristics 
+We searched for randomised controlled trials (RCT) to December 2018. We found 14 reports (1579 participants). Studies were performed in nine different countries. Most participants were men, aged 39 to 47 years old, who had symptom from 9 to 18 years. Mostly, the programmes included exercises developed to improve strength, flexibility, stretching, and breathing, and were added to drug therapy or a biological agent. 
+Key results 
+All data were obtained immediately upon completion of the exercise programme.
+Exercise programmes versus no intervention 
+Exercise probably slightly improves function (moderate‐quality evidence), slightly reduces patient‐reported disease activity (moderate‐quality evidence), and may reduce pain (low‐quality evidence). We are uncertain of the effect on spinal mobility and fatigue (very low‐quality evidence). 
+Physical function was measured on a self‐reporting questionnaire, the Bath Ankylosing Spondylitis Functional Index (BASFI) scale (0 to 10; lower means better function). People who did not exercise rated their function at 4.1 points; those who exercised rated it 1.3 points lower (13% absolute improvement). 
+Pain was measured on a visual analogue scale (VAS, 0 to 10; lower means less pain). People who did not exercise rated their pain at 6.2 points; those who exercised rated it 2.1 points lower (21% absolute improvement). 
+Patient global assessment of disease activity was measured on a self‐reporting questionnaire, the Bath Ankylosing Spondylitis Disease Activity Index (BASDAI, 0 to 10, lower means less disease activity). People who did not exercise rated their disease activity at 3.7 points; those who exercised rated it 0.9 points lower (9% absolute improvement). 
+Spinal mobility was measured on a self‐reporting questionnaire, the Bath Ankylosing Spondylitis Metrology Index (BASMI, 0 to 10, lower means better mobility). People who did not exercise rated their spinal mobility at 3.8 points; those who exercised rated it 0.7 points lower (7% absolute improvement). 
+Fatigue was measured on a VAS (0 to 10, lower means less fatigue). People who did not exercise rated their fatigue at 3 points; those who exercised rated it 1.4 points lower (14% absolute improvement). 
+Exercise programmes versus usual care 
+Exercise probably results in little or no improved function or reduced pain (moderate‐quality evidence), and may have little or no effect in reducing patient‐reported disease activity (low‐quality evidence). We are uncertain of the effect on spinal mobility (very low‐quality evidence). 
+Physical function. People who received usual care rated their function at 3.7 points on the BASFI; those who exercised rated it 0.4 points lower (4% absolute improvement). 
+Pain. People who received usual care rated their pain at 3.7 points on a 10‐point VAS; those who exercised rated it 0.5 points lower (5% absolute improvement). 
+Patient global assessment of disease activity. People who received usual care rated their disease activity at 3.7 points on the BASDAI; those who exercised rated it 0.7 points lower (7% absolute improvement). 
+Spinal mobility. People who received usual care rated their spinal mobility at 8.9 points on the BASMI; those who exercised rated it 1.2 points lower (12% absolute improvement). 
+None of the studies measured fatigue.
+Adverse effects (AE) 
+One of 67 participants in the exercise groups, and none of 43 participants in the control groups, experienced an AE. 
+Quality of the evidence 
+We downgraded the evidence due to issues with study design, variability between interventions, and not enough data, resulting in a rating of moderate to very low‐quality evidence across outcomes. 

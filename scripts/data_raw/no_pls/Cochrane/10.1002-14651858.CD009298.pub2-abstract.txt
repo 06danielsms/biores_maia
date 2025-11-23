@@ -1,0 +1,17 @@
+Background
+Manual rotation is commonly performed to increase the chances of normal vaginal delivery and is perceived to be safe. Manual rotation has the potential to prevent operative delivery and caesarean section, and reduce obstetric and neonatal complications. 
+Objectives
+To assess the effect of prophylactic manual rotation for women with malposition in labour on mode of delivery, and maternal and neonatal outcomes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group’s Trials Register (31 October 2014), the Australian and New Zealand Clinical Trials Registry (ANZCTR), ClinicalTrials.gov, Current Controlled Trials and the WHO International Clinical Trials Registry Platform (ICTRP) (all searched 23 February 2014), previous reviews and, references of retrieved studies. 
+Selection criteria
+Randomised, quasi‐randomised or cluster‐randomised clinical trials comparing prophylactic manual rotation in labour for fetal malposition versus expectant management, augmentation of labour or operative delivery. We defined prophylactic manual rotation as rotation performed without immediate assisted delivery. 
+Data collection and analysis
+Two review authors independently assessed study eligibility and quality, and extracted data. 
+Main results
+We included only one small pilot study (involving 30 women). The study, which we considered to be at low risk of bias, was conducted in a tertiary referral hospital in Australia, and involved women with cephalic, singleton pregnancies. The primary outcome was operative delivery (instrumental delivery or caesarean section). 
+In the manual rotation group, 13/15 women went on to have an instrumental delivery or caesarean section, whereas in the control group, 12/15 women had an operative delivery. The estimated risk ratio was 1.08 (95% confidence interval 0.79 to 1.49). There were no maternal or fetal mortalities in either group 
+There were no clear differences for any of the secondary maternal or neonatal outcomes reported (e.g. perineal trauma, analgesia use duration of labour). 
+In terms of adverse events, there were no reported cases of umbilical cord prolapse or cervical laceration and a single case of a non‐reassuring or pathological cardiotocograph during the procedure. 
+Authors' conclusions
+Currently, there is insufficient evidence to determine the efficacy of prophylactic manual rotation early in the second stage of labour for prevention of operative delivery. One additional study is ongoing. Further appropriately designed trials are required to determine the efficacy of manual rotation. 

@@ -1,0 +1,14 @@
+Background
+Lymphomas are the third most common malignancy in childhood. Cure rates are high but have reached a plateau. Therefore new treatment modalities should be developed. Antibody therapy is a successful new treatment option in adult lymphoma. However, none of the therapeutic antibodies available for adults with cancer have been approved for treatment of paediatric lymphoma. 
+Objectives
+To assess the efficacy of antibody therapy for childhood lymphoma in terms of survival, response and relapse rates, compared with therapy not including antibody treatment. To assess quality of life and the occurrence of adverse effects caused by antibody therapy treatment in children compared with therapy not including antibody treatment. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, 2014, Issue 10), MEDLINE in PubMed (from 1945 to October 2014), EMBASE in EMBASE.com (from 1980 to October 2014) and reference lists of relevant articles. Furthermore, we searched conference proceedings abstracts of SIOP, ASCO and ASH for studies from 2009 to 2013), and the World Health Organization (WHO) ICTRP portal and ClinicalTrials.gov for ongoing trials. 
+Selection criteria
+Randomised controlled trials and controlled clinical trials comparing conventional therapy with antibody therapy in children with lymphoma. 
+Data collection and analysis
+Two authors independently performed the study selection.
+Main results
+We found no studies meeting the inclusion criteria of the review.
+Authors' conclusions
+At this moment, it is not possible to draw evidence‐based conclusions regarding clinical practice. Phase I and II studies show a positive effect of using antibody therapy in childhood lymphoma. Further research is needed to evaluate and implement antibody therapy for paediatric lymphoma. 

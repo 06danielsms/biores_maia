@@ -1,0 +1,15 @@
+Background
+Weaning and extubating preterm infants on intermittent positive pressure ventilation (IPPV) for respiratory failure may be difficult. A significant contributing factor is thought to be the relatively poor respiratory drive and tendency to develop hypercarbia and apnoea, particularly in very preterm infants. Methylxanthine treatment started before extubation might stimulate breathing and increase the chances of successful weaning from IPPV. 
+Objectives
+To determine the effects of prophylactic methylxanthine treatment on the use of intubation and IPPV and other clinically important side effects in preterm infants being weaned from IPPV and in whom endotracheal extubation is planned. 
+Search methods
+The standard search strategy of the Cochrane Neonatal Review Group was used. This included searches of The Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2010), the Oxford Database of Perinatal Trials, MEDLINE (1966 to July 2010), CINAHL (1982 to July 2010) and EMBASE (1988 to July 2010). 
+Selection criteria
+All published trials utilising random or quasi‐random patient allocation in which treatment with methylxanthines (theophylline or caffeine) was compared with placebo or no treatment to improve the chances of successful extubation of preterm or low birth weight infants were included. 
+Data collection and analysis
+The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. 
+Main results
+Seven studies were identified for inclusion. Methylxanthine treatment results in a reduction in failure of extubation within one week (summary RR 0.48, 95%CI 0.32 to 0.71; summary RD ‐0.27, 95%CI ‐0.39 to ‐0.15; NNT 4, 95%CI 3 to 7; six trials, 172 infants). There is significant heterogeneity in the RD meta‐analysis perhaps related to the large variation in baseline rate in the control groups (range 20 to 100%). 
+The CAP trial enrolled the largest number of infants, but did not report extubation rates. In the caffeine group, there were lower rates of bronchopulmonary dysplasia, PDA ligation, cerebral palsy and death or major disability at 18 to 21 months. Infants receiving caffeine had reduced postmenstrual ages at time of discontinuing oxygen therapy, positive pressure ventilation and endotracheal intubation. 
+Authors' conclusions
+Methylxanthines increase the chances of successful extubation of preterm infants within one week of age. Important neurodevelopmental outcomes are improved by methylxanthine therapy. In any future trials, there is a need to stratify infants by gestational age (a better indicator of immaturity than birth weight). Caffeine, with its wider therapeutic margin, would be the better treatment to evaluate against placebo. 

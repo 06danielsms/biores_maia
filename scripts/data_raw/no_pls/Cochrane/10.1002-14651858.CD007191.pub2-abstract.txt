@@ -1,0 +1,20 @@
+Background
+Mycobacterium avium complex (MAC) infection is a common complication of advanced acquired immunodeficiency syndrome (AIDS) disease and is an independent predictor of mortality and shortened survival. 
+Objectives
+To determine the effectiveness and safety of interventions aimed at preventing MAC infection in adults and children with HIV infection. 
+Search methods
+We searched MEDLINE, EMBASE, and The Cochrane Library (search date December 2012).
+Selection criteria
+Randomised controlled trials comparing different strategies for preventing MAC infection in HIV‐infected individuals. 
+Data collection and analysis
+Two reviewers independently assessed trial eligibility and quality, and extracted data. Where data were incomplete or unclear, a third reviewer resolved conflicts and/or trial authors were contacted for further details. Development of MAC infection and survival were compared using risk ratios (RR) and 95% confidence intervals (CI). The quality of evidence has been assessed using the GRADE methodology. 
+Main results
+Eight studies met the inclusion criteria.
+Placebo‐controlled trials 
+There was no statistically significant difference between clofazimine and no treatment groups in the number of patients that developed MAC infection (RR 1.01; 95% CI 0.37 to 2.80). Rifabutin (one study; RR 0.48; 95% CI 0.35 to 0.67), azithromycin (three studies; RR 0.37; 95% CI 0.19 to 0.74) and clarithromycin (one study; RR 0.35; 95% CI 0.21 to 0.58) were more effective than placebo in preventing the development of MAC infection. There was no statistically significant difference between those treated with clofazimine (one study; RR 0.98; 95% CI 0.41 to 2.32), rifabutin (one study RR 0.91; 95% CI 0.78 to 1.05), azithromycin (three studies, pooled RR 0.96; 95% CI 0.69 to 1.32) and placebo in number of reported deaths. One study found that the risk of death was reduced by 22% in patients treated with clarithromycin compared to those treated with placebo (RR 0.78; 95% CI 0.64 to 0.96).   
+Monotherapy vs. monotherapy 
+Patients treated with clarithromycin (RR 0.60; 95% CI 0.41 to 0.89) and azithromycin (RR 0.60; 95% CI 0.40 to 0.89) were 40% less likely to develop MAC infection than those treated with rifabutin. There was no statistically significant difference between those treated with clarithromycin (RR 0.98; 95% CI 0.83 to 1.15), azithromycin (RR 0.98; 95% CI 0.77 to 1.24) and rifabutin in the number of reported deaths 
+Combination therapy versus monotherapy 
+There was no statistically significant difference between patients treated with a combination of rifabutin and clarithromycin and those treated with clarithromycin alone (RR 0.74; 95% CI 0.46 to 1.20); and those treated with combination of rifabutin and azithromycin and those treated with azithromycin alone (RR 0.59; 95% CI 1.03). Patients treated with a combination of rifabutin plus clarithromycin were 56% less likely to develop MAC infection than those treated with rifabutin alone (RR 0.44; 95% CI 0.29 to 0.69). Patients treated with a combination of rifabutin plus azithromycin were 65% less likely to develop MAC infection than those treated with rifabutin alone (RR 0.35; 95% CI 0.21 to 0.59). There was no statistically significant difference in the number of reported deaths in all the four different comparisons of prophylactic agents. 
+Authors' conclusions
+Based on limited data, azithromycin or clarithromycin appeared to be a prophylactic agent of choice for MAC infection. Further studies are needed, especially direct comparison of clarithromycin and azithromycin. In additions, studies that will compare different doses and regimens are needed. 

@@ -1,0 +1,14 @@
+Background
+Treatment foster care (TFC) is a foster family‐based intervention that aims to provide young people (and, where appropriate, their families) with a tailored programme designed to effect positive changes in their lives. TFC was designed specifically to cater for the needs of children whose difficulties or circumstances place them at risk of multiple placements and/or more restrictive placements such as hospital or secure residential or youth justice settings. 
+Objectives
+To assess the impact of TFC on psychosocial and behavioural outcomes, delinquency, placement stability, and discharge status for children and adolescents who require out‐of‐home placement. 
+Search methods
+We searched the Cochrane Controlled Trials Register (CENTRAL) 2006 (Issue 4), MEDLINE (1966 to January 2007), CINAHL (1982 to December 2006), PsycINFO (1872 to January 2007), ASSIA (1987 to January 2007), LILACS (1982 to January 2007), ERIC (1966 to January 2007), Sociological Abstracts (1963 to January 2007), and the National Research Register 2006 (Issue 4). 
+Selection criteria
+Included studies were randomised controlled trials investigating the effectiveness of TFC with children and young people up to the age of 18 who, for reasons of severe medical, social, psychological and behavioural problems, were placed in out of home care in restrictive settings (e.g. secure residential care, psychiatric hospital) or at risk of placement in such settings. 
+Data collection and analysis
+Titles and abstracts identified in the search were independently assessed for eligibility by the two authors (GM and WT) who also extracted and entered into REVMAN. Date were synthesised on the few occasions where this was possible. Results are presented in tabular, graphical (forest plots) and textual form. 
+Main results
+Five studies including 390 participants were included in this review. Data suggest that treatment foster care may be a useful intervention for children and young people with complex emotional, psychological and behavioural need, who are at risk of placements in non‐family settings that restrict their liberty and opportunities for social inclusion. 
+Authors' conclusions
+Although the inclusion criteria for this systematic review set a study design threshold higher than that of previous reviews, the results mirror those of earlier reviews but also highlights the tendency of the perceived effectiveness of popular interventions to outstrip their evidence base. Whilst the results of individual studies generally indicate that TFC is a promising intervention for children and youth experiencing mental health problems, behavioural problems or problems of delinquency, the evidence base is less robust than that usually reported. 

@@ -1,0 +1,20 @@
+Background
+Vulvovaginal candidiasis (VVC) is one of the most common fungal infections that recur frequently in HIV infected women. Symptoms of VVC are pruritis, discomfort, dyspareunia, and dysuria. Vulval infection presents as a morbiliform rash that may extend to the thighs. Vaginal infection is associated with white discharge, and plaques are seen on erythematous vaginal walls. 
+Even though rarely or never resulting in systemic fungal infection or mortality, left untreated these lesions contribute considerably to the morbidity associated with HIV infection. Prevention and treatment of this condition is an essential part of maintaining the quality of life for these individuals. 
+Objectives
+‐To compare the efficacy of various antifungals given vaginally or orally for the treatment and prophylaxis of VVC in HIV‐infected women and to evaluate the risks of the same. 
+Search methods
+The search strategy was comprehensive, iterative and based on that of the HIV/AIDS Cochrane Review Group. The aim was to locate all relevant trials, irrespective of publication status or language. Electronic databases :CENTRAL, Medline, EMBASE, LILACS and CINAHL were searched for randomised controlled trials for the years 1980 to 1st October 2010. WHO ICTRP site and other relevant web sites were also searched for conference abstracts. 
+Selection criteria
+Randomised controlled trials (RCTs) of palliative, preventative or curative therapy were considered. Participants were HIV positive women receiving one or more of the following:treatment / prophylaxis for VVC or HAART(Highly Active Antiretroviral Therapy). 
+Data collection and analysis
+Three authors independently assessed the methodological quality of the trials and extracted data. The quality of the evidence generated was graded using the GRADE approach. 
+Main results
+Our search did not yield any trial investigating treatment of VVC in HIV positive women. 
+Two trials dealing with prophylaxis were eligible for inclusion.One trial (n= 323) favoured the use of weekly Fluconazole as compared to placebo (RR 0.68; 95% CI 0.47 to 0.97). 
+The second trial with three arms of comparison; Clotrimazole, Lactobacillus and Placebo gave no definitive results in preventing an episode of VVC. Clotrimazole against placebo (RR 0.49; 95% CI 0.22 to 1.09), Clotrimazole against lactobacillus (RR 1.11; 95% CI 0.45 to 2.76) and lactobacillus against placebo (RR 0.54 ;95% CI 0.26 to 1.13). 
+Authors' conclusions
+Implications for practice
+No trials were found addressing treatment of VVC in HIV positive women.In comparison to placebo,Fluconazole was found to be an effective preventative intervention. However, the potential for resistant Candida organisms to develop might impact the feasibility of implementation. 
+Direction of findings suggests that Clotrimazole and Lactobacillus improved the prophylactic outcomes when compared to placebo. 
+Implications for research  There is a need to evaluate drugs and drug regimens for VVC treatment and prophylaxis in HIV positive women through randomised clinical trials. Development of resistance to azoles remains under‐studied and more work must be done in this area, so as to determine whether routine prophylaxis for VVC is at all needed or whether adequate ART would be sufficient to prevent recurrent VVC. The viral load in vaginal secretions with or without treatment or prophylaxis has not been studied, this is very relevant to the spread of HIV. 

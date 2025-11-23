@@ -1,0 +1,14 @@
+Background
+The development of Rhesus immunisation and its prophylactic use since the 1970s has meant that severe Rhesus D (RhD) alloimmunisation is now rarely seen. 
+Objectives
+The objective of this systematic review was to assess the effects of giving anti‐D to Rhesus negative women, with no anti‐D antibodies, who had given birth to a Rhesus positive infant. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2010) and reference lists of relevant articles. 
+Selection criteria
+Randomised trials in Rhesus negative women without antibodies who were given anti‐D immunoglobulin postpartum compared with no treatment or placebo. 
+Data collection and analysis
+Assessments of inclusion criteria, trial quality and data extraction were done by each author independently. Initial analyses included all trials. Other analyses assessed the effect of trial quality, ABO compatibility and dose. 
+Main results
+Six eligible trials compared postpartum anti‐D prophylaxis with no treatment or placebo. The trials involved over 10,000 women, but trial quality varied. Anti‐D lowered the incidence of RhD alloimmunisation six months after birth (risk ratio (RR) 0.04, 95% confidence interval (CI) 0.02 to 0.06), and in a subsequent pregnancy (RR 0.12, 95% CI 0.07 to 0.23). These benefits were seen regardless of the ABO status of the mother and baby, when anti‐D was given within 72 hours of birth. Higher doses (up to 200 micrograms) were more effective than lower doses (up to 50 micrograms) in preventing RhD alloimmunisation in a subsequent pregnancy. 
+Authors' conclusions
+Anti‐D, given within 72 hours after childbirth, reduces the risk of RhD alloimmunisation in Rhesus negative women who have given birth to a Rhesus positive infant. However the evidence on the optimal dose is limited. 

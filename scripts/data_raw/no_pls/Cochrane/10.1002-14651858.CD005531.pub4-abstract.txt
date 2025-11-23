@@ -1,0 +1,14 @@
+Background
+Measles is an infectious disease caused by the Morbillivirus. Chinese physicians believe that medicinal herbs are effective in alleviating symptoms and preventing complications. Chinese herbal medicines are dispensed according to the particular symptoms. This is the second update of a Cochrane Review first published in 2006. 
+Objectives
+To assess the effectiveness and possible adverse effects of Chinese medicinal herbs for measles. 
+Search methods
+We searched the Cochrane Central Register of Controlled Clinical Trials (CENTRAL Issue 1, 2011) which contains the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to March week 5, 2011), EMBASE (1980 to April 2011), Web of Science (2005 to 30 April 2011), AMED (1985 to 30 April 2011), Chinese Biomedical Database (1976 to 30 June 2011), VIP Information (1989 to 30 June 2011), China National Knowledge Infrastructure (CNKI) (1976 to 30 June 2011), Chinese Journals full‐article database (1994 to 30 June 2011) and the metaRegister of Controlled Trials for ongoing trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of Chinese medicinal herbs in patients with measles (without complications). 
+Data collection and analysis
+Two review authors (SC, TW) independently assessed trial quality and extracted data. We telephone interviewed the trial authors for missing information regarding participant allocation. Some trials allocated participants according to the sequence they were admitted to the trials, that is to say, by using a pseudo‐random allocation method. None of the trials concealed the allocation or used blinding methods. 
+Main results
+We did not identify any suitable trials for inclusion. In this updated review we identified 80 trials which claimed to use random allocation. We contacted 32 trial authors by telephone and learned that the allocation methods used were not randomised. We excluded 34 studies because the participants experienced complications such as pneumonia. We excluded 10 trials because of non‐random allocation and complications experienced by the participants. We were unable to contact the remaining four trials' authors, so they require further assessment and have been allocated to the 'Studies awaiting classification' section. 
+Authors' conclusions
+There is no RCT evidence for or against Chinese medicinal herbs as a treatment for measles. We hope high‐quality, robust RCTs in this field will be conducted in the future. 

@@ -1,0 +1,30 @@
+Is stretch effective for treating and preventing joint deformities?
+Review question: we reviewed the evidence about the effect of stretch in people who had or were vulnerable to joint deformities. 
+Background: we wanted to know whether stretch interventions are effective for the treatment and prevention of joint deformities (also known as contractures) in people with neurological and non‐neurological conditions. Some of the conditions contained in this review included people with fracture, stroke, brain injury, arthritis or burns. 
+Stretch can be administered with splints and positioning programmes, or with casts, which are changed at regular intervals (serial casts). Alternatively, stretch can be self‐administered or applied manually by therapists. 
+Study characteristics: this Cochrane review is current to November 2015. It includes the results of 49 randomised controlled trials involving 2135 participants. The participants had a variety of neurological and non‐neurological conditions including stroke, acquired brain injury and spinal cord injury, arthritis, wrist fracture and burns. 
+Studies compared stretch to no stretch, often delivered with standard care for the disorder or another co‐intervention such as exercise or botulinum toxin injection in the case of spasticity. 
+The stretch was administered in a variety of different ways including through passive stretching (self‐administered, therapist‐administered and device‐administered), positioning, splinting and serial casting. 
+The stretch dosage was highly variable, ranging from five minutes to 24 hours per day (median 420 minutes, IQR 38 to 600) for between two days and seven months (median 35 days, IQR 23 to 84). The total cumulative time that stretch was administered ranged from 23 minutes to 1456 hours (median 168 hours, IQR 24 to 672). 
+The outcomes of interest were joint range of motion, spasticity, pain, ability to move, ability to participate in life, quality of life and adverse events. The short‐term (less than one week) and long‐term (more than one week) effects were investigated separately. 
+Study funding sources: no study was funded by a drug manufacturer or by an agency with a commercial interest in the results of the studies. 
+Key results: we found the following short‐term effects up to one week after the last stretch intervention in studies that compared stretch with no stretch: 
+Joint Mobility (high score is better outcome) 
+Neurological conditions: stretch improves joint mobility by 1% (0% to 2% better) or 2° (0° to 3°) 
+Non‐neurological conditions: stretch improves joint mobility by 1% (0% to 3% better)
+Quality of life (high score is better outcome) 
+Neurological conditions: no studies
+Non‐neurological conditions: stretch improves quality of life by 1% (0% to 3% better)
+Pain (low score is better outcome) 
+Neurological conditions: stretch increases pain by 2% (1% worse to 6% worse)
+Non‐neurological conditions: stretch decreases pain by 1% (3% better to 1% worse)
+Activity limitation (high score is better outcome) 
+Neurological conditions: stretch improves the ability to move by 1% (0% to 2% better)
+Non‐neurological conditions: stretch improves the ability to move by 1% (2% worse to 4% better) 
+Participation (high score is better outcome) 
+Neurological conditions: no studies
+Non‐neurological conditions: stretch decreases engagement in participation with life by 12% (31% worse to 6% better) 
+Adverse events 
+Neurological and non‐neurological conditions: 49 adverse events were reported, including skin breakdown, pain, numbness, venous thrombosis, wound infections, haematoma, flexion deficits and swelling. We could not calculate the risk of such events with stretch as adverse events were not reported in all studies, or not reported for both the treatment and control groups. 
+Quality of the evidence: there was high‐quality evidence that stretch does not have clinically important short‐term effects on joint mobility in people with neurological or non‐neurological conditions. There was high quality evidence that stretch does not have clinically important short‐term effects on pain, and moderate‐quality evidence that stretch does not have clinically important short‐term effects on quality of life in people with non‐neurological conditions. 
+Conclusion: stretch is not effective for the treatment and prevention of contractures and does not have short‐term effects on quality of life and pain in people with non‐neurological conditions. The short‐term and long‐term effects of stretch on other outcomes in people with neurological and non‐neurological conditions are not known. 

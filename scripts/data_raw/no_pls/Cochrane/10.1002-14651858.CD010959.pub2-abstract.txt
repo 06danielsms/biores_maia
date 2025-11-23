@@ -1,0 +1,14 @@
+Background
+Serum procalcitonin (PCT) evaluation has been proposed for early diagnosis and accurate staging and to guide decisions regarding patients with sepsis, severe sepsis and septic shock, with possible reduction in mortality. 
+Objectives
+To assess the effectiveness and safety of serum PCT evaluation for reducing mortality and duration of antimicrobial therapy in adults with sepsis, severe sepsis or septic shock. 
+Search methods
+We searched the Central Register of Controlled Trials (CENTRAL; 2015, Issue 7); MEDLINE (1950 to July 2015); Embase (Ovid SP, 1980 to July 2015); Latin American Caribbean Health Sciences Literature (LILACS via BIREME, 1982 to July 2015); and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; EBSCO host, 1982 to July 2015), and trial registers (ISRCTN registry, ClinicalTrials.gov and CenterWatch, to July 2015). We reran the search in October 2016. We added three studies of interest to a list of ‘Studies awaiting classification' and will incorporate these into formal review findings during the review update. 
+Selection criteria
+We included only randomized controlled trials (RCTs) testing PCT‐guided decisions in at least one of the comparison arms for adults (≥ 18 years old) with sepsis, severe sepsis or septic shock, according to international definitions and irrespective of the setting. 
+Data collection and analysis
+Two review authors extracted study data and assessed the methodological quality of included studies. We conducted meta‐analysis with random‐effects models for the following primary outcomes: mortality and time spent receiving antimicrobial therapy in hospital and in the intensive care unit (ICU), as well as time spent on mechanical ventilation and change in antimicrobial regimen from a broad to a narrower spectrum. 
+Main results
+We included 10 trials with 1215 participants. Low‐quality evidence showed no significant differences in mortality at longest follow‐up (risk ratio (RR) 0.81, 95% confidence interval (CI) 0.65 to 1.01; I2 = 10%; 10 trials; N = 1156), at 28 days (RR 0.89, 95% CI 0.61 to 1.31; I2 = 0%; four trials; N = 316), at ICU discharge (RR 1.03, 95% CI 0.50 to 2.11; I2 = 49%; three trials; N = 506) and at hospital discharge (RR 0.98, 95% CI 0.75 to 1.27; I2 = 0%; seven trials; N = 805; moderate‐quality evidence). However, mean time receiving antimicrobial therapy in the intervention groups was ‐1.28 days (95% CI to ‐1.95 to ‐0.61; I2 = 86%; four trials; N = 313; very low‐quality evidence). No primary study has analysed the change in antimicrobial regimen from a broad to a narrower spectrum. 
+Authors' conclusions
+Up‐to‐date evidence of very low to moderate quality, with insufficient sample power per outcome, does not clearly support the use of procalcitonin‐guided antimicrobial therapy to minimize mortality, mechanical ventilation, clinical severity, reinfection or duration of antimicrobial therapy of patients with septic conditions. 

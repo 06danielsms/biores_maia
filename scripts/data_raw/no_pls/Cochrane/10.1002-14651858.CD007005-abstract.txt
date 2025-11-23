@@ -1,0 +1,15 @@
+Background
+Adhesive capsulitis (frozen shoulder or painful stiff shoulder) is characterised by spontaneous onset of shoulder pain accompanied by progressive stiffness and disability. It is usually self‐limiting but often has a prolonged course over two to three years. 
+Objectives
+To determine the effectiveness and safety of arthrographic distension of the glenohumeral joint in the treatment of adults with adhesive capsulitis. 
+Search methods
+We searched the Cochrane Musculoskeletal Review Group Register, CENTRAL, MEDLINE, CINAHL, and EMBASE to November 2006, unrestricted by date or language. 
+Selection criteria
+We included randomised controlled trials and controlled clinical trials comparing arthrographic distension with placebo or other interventions. 
+Data collection and analysis
+Two review authors independently assessed study quality and extracted data.
+Main results
+Five trials with 196 people were included. One three‐arm trial (47 participants) compared arthrographic distension using steroid and air to distension using air alone and to steroid injection alone. One trial (46 participants) compared arthrographic distension using steroid and saline to placebo. Two trials (45 and 22 participants) compared arthrographic distension using steroid to steroid injection alone. One trial (36 participants) compared arthrographic distension using steroid and saline plus physical therapy to physical therapy alone. Trials included similar study participants, but quality and reporting of data were variable. Only one trial was at low risk of bias. No meta‐analysis was performed. 
+The trial with low risk of bias demonstrated that distension with saline and steroid was better than placebo for pain (number needed to treat to benefit (NNTB) = 2), function (NNTB = 3) and range of movement at three weeks. This benefit was maintained at six and 12 weeks only for one of two scores measuring function (NNT = 3). A second trial with high risk of bias also reported that distension combined with physical therapy improved range of movement and median percent improvement in pain (but not pain score) at eight weeks compared to physical therapy alone. Three further trials, all at high risk of bias, reported conflicting, variable effects of arthrographic distension with steroid compared to distension alone, and arthrographic distension with steroid compared to intra‐articular steroid injection. The trials reported a small number of minor adverse effects, mainly pain during and after the procedure. 
+Authors' conclusions
+There is "silver" level evidence that arthrographic distension with saline and steroid provides short‐term benefits in pain, range of movement and function in adhesive capsulitis. It is uncertain whether this is better than alternative interventions. 

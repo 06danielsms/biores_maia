@@ -1,0 +1,11 @@
+Collaborative writing applications to support the implementation of best practices in healthcare. 
+What is the aim of this review? 
+The aim of this Cochrane review was to find out whether collaborative writing applications (CWAs), also known as collaborative writing tools, could improve the way health professionals work, and improve patients’ health. Another goal of our study was to examine the costs and resources needed to use CWAs. Finally, we wanted to know if certain CWA features (for example, being open, like Wikipedia, versus being closed, like the Canadian CPOE toolkit), and different clinical practice change factors (for example, the presence of a moderator) increased the CWAs' impact on healthcare. We searched for studies to answer these questions. 
+Key messages 
+We did not identify any studies that measured the effect of CWAs on how healthcare professionals care for their patients. 
+What was studied in this review? 
+When people receive healthcare, it is important that they are treated according to best practices. However, decision makers, health professionals, researchers, and patients need tools to support best practices. Collaborative writing applications are a new category of information and communication technologies that allow multiple individuals to share, create, and revise online documents at the same time. They could help implement best practices in healthcare. Collaborative writing applications could also help adapt online documents to local contexts. This could help reduce duplication and waste of resources. The most widely known example of a CWA is Wikipedia, the online encyclopaedia. However, there are many other examples of CWAs (e.g. WikEM, WikiDoc, Canadian CPOE toolkit, WikiTrauma). Despite the fact that CWAs are promising tools, it is not yet known if they improve how healthcare professionals care for their patients. 
+What are the main results of the review? 
+We searched 14 scientific bibliographic databases, two trial registries, and grey literature sources. We also contacted 106 authors and experts in the field to ask for relevant papers. No studies met our eligibility criteria; two potentially relevant studies are ongoing. 
+How up to date is this review? 
+We searched for evidence to August 2016.

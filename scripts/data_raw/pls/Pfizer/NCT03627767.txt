@@ -1,0 +1,25 @@
+Atopic dermatitis (or "AD"), which is also sometimes called atopic eczema, is a common skin disorder that causes patches of flaky, red, and very itchy skin. Some of the current medicines available for AD can only be used for short time periods, or can cause other health problems. Researchers are looking for new treatments for AD that can be taken for long periods of time.
+While researchers think that many things cause AD, it is made worse by the body's immune system (the body's defense against infection) causing redness and swelling (inflammation). Cells in the immune system trigger inflammation by making special proteins called "cytokines". Researchers think that medicines that modify the way these cytokines work could help treat patients with AD.
+The drug tested in this study was PF-04965842, which now has the generic name abrocitinib. PF-04965842 is an experimental drug that has not been approved for sale. PF-04965842 blocks the activity of a protein called "Janus kinase 1", which acts like an on/off switch for the cells of the immune system. By blocking Janus kinase 1 activity, the signal to the cells that triggers inflammation is modified.
+Patients with AD can have "flare-ups", which are times when AD symptoms are worse. The researchers in this study wanted to learn if patients who saw improvement in AD after beginning PF-04965842 would be able to maintain this improvement and have fewer flare-ups. The researchers asked this question:
+- How many patients who took PF-04965842 had a flare-up, compared to patients who took placebo?
+This study compared 3 groups of patients who saw improvement in AD after first taking PF-04965842 200 mg for 12 weeks, to find out if patients who then took PF-04965842 for 40 weeks would have fewer flare-ups, compared to patients who then took placebo for 40 weeks. A placebo does not have any medicine in it, but it looks just like the medicine being tested. Using a placebo helps researchers learn if the study drug works better than no treatment at all. 
+
+The study included adult men and women, and boys and girls who were aged 12 years and older, and who weighed at least 40 kilograms (about 88 pounds). Patients included in the study:
+-Had chronic (long-term) AD for at least 1 year, and had moderate to severe AD when they entered the study.
+-Also had one of the following:
+-Had been treated up to 6 months earlier for AD with medicines applied to the skin, and their AD did not get better.
+-Needed to use medicines that reach all parts of the body to control their AD (for example, taking medicines by mouth).
+
+The first part of the study was “open-label”, which means that the patients and doctors knew what treatment was being given. During this open-label period, all patients received PF-04965842 at a dose of 200 mg every day for 12 weeks. Next, those patients who saw improvement during the open-label period were assigned to 1 of 3 treatment groups by chance (like the flip of a coin or drawing straws) to receive either PF-04965842 at a dose of 100 mg, PF-04965842 at a dose of 200 mg, or placebo for 40 weeks. This is known as a “randomized” study. This is done so that every patient has an equal chance of getting one of the 3 treatments, and there is no bias or selection involved in assigning the treatments.
+
+During this part of the study, the patients, doctors, and researchers did not know who took PF-04965842 and who took the placebo. This is known as a “double-blinded” period. This is done to make sure the results of the research study cannot be unfairly influenced by anyone.
+Patients who had a flare-up during the double-blind period could start “rescue treatment” with PF-04965842 at a dose of 200 mg every day plus medicine applied to the skin for 12 weeks.
+
+Patients were expected to be in the study for about 56 weeks total (treatment plus follow-up), but the entire study took more than 2 years to complete. The Sponsor ran this study at 236 locations in Asia, Europe, North America, and South America. It began on 11 June 2018 and ended on 7 October 2020. A total of 684 boys/men (55%) and 549 girls/women (45%) participated. All patients were between the ages of 12 and 82 years. 
+
+Of the 1233 patients who started the 12-week open-label period and received treatment, 798 (65%) saw improvement and were therefore eligible to enter the double-blind period. During the 12-week open-label period, a total of 120 patients (10%) stopped taking study treatment or left the study early by their choice or because a doctor decided it was best for them to stop the study. A total of 315 patients (26%) completed the 12-week open-label period, but their response was not good enough to enter the double-blind period.
+
+Of the 798 patients who entered the 40-week double-blind period, 705 patients (88%) completed it. A total of 93 patients (12%) stopped taking study treatment or left the study early by their choice or because a doctor decided it was best for them to stop the study.
+
+When the study ended in October 2020, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

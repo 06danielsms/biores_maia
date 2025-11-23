@@ -1,0 +1,17 @@
+Background
+Variation in blood pressure levels display circadian rhythms. The morning surge in blood pressure is known to increase the risk of myocardial events in the first several hours post awakening. A systematic review of the administration‐time‐related‐effects of evening versus morning dosing regimen of antihypertensive drugs in the management of patients with primary hypertension has not been conducted. 
+Objectives
+To evaluate the administration‐time‐related‐effects of antihypertensive drugs administered as once daily monotherapy in the evening versus morning administration regimen on all cause mortality, cardiovascular morbidity and reduction of blood pressure in patients with primary hypertension. 
+Search methods
+We searched Cochrane CENTRAL on Ovid (4th Quarter 2009), Ovid MEDLINE (1950 to October 2009), EMBASE (1974 to October 2009), the Chinese Biomedical literature database (1978 to 2009) and the reference lists of relevant articles. No language restrictions were applied. 
+Selection criteria
+Randomized controlled trials comparing the administration‐time‐related effects of evening with morning dosing monotherapy regimens in patients with primary hypertension were included. Patients with known secondary hypertension, shift workers or white coat hypertension were excluded. 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality. Disagreements were resolved by discussion or a third reviewer. Data synthesis and analysis were done using RevMan 5.1. Random effects meta‐analysis and sensitivity analysis were conducted. 
+Main results
+21 randomized controlled trials (RCTs) in 1,993 patients with primary hypertension met the inclusion criteria for this review ‐ ACEIs (5 trials), CCBs (7 trials), ARBs (6 trials), diuretics (2 trials), alpha‐blockers (1 trial), and beta‐blockers (1 trial). Meta‐analysis showed significant heterogeneity across trials. 
+No RCT reported on all cause mortality, cardiovascular mortality, cardiovascular morbidity and serious adverse events. 
+There was no statistically significant difference for overall adverse events (RR=0.78, 95%CI: 0.37 to 1.65) and withdrawals due to adverse events (RR=0.53, 95%CI: 0.26 to 1.07). 
+No significant differences were noted for morning SBP (‐1.62 mm Hg, 95% CI: ‐4.19 to 0.95) and morning DBP (‐1.21 mm Hg, 95% CI: ‐3.28 to 0.86); but 24‐hour BP (SBP: ‐1.71 mm Hg, 95% CI: ‐2.78 to ‐0.65; DBP: ‐1.38 mm Hg, 95% CI: ‐2.13 to ‐0.62) showed a statistically significant difference. 
+Authors' conclusions
+No RCT reported on clinically relevant outcome measures ‐ all cause mortality, cardiovascular morbidity and morbidity. There were no significant differences in overall adverse events and withdrawals due to adverse events among the evening versus morning dosing regimens. In terms of BP lowering efficacy, for 24‐hour SBP and DBP, the data suggests that better blood pressure control was achieved with bedtime dosing than morning administration of antihypertensive medication, the clinical significance of which is not known. 

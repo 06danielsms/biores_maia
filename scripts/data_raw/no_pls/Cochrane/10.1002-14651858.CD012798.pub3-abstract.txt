@@ -1,0 +1,15 @@
+Background
+Cystic fibrosis is the most common life‐limiting autosomal recessive genetic disorder in white populations. Distal intestinal obstruction syndrome (DIOS) is an important morbidity in cystic fibrosis. It is the result of the accumulation of viscid faecal material within the bowel which combines with thick, sticky mucus produced in the intestines of people with cystic fibrosis. The intestine may be completely blocked (complete DIOS) or only partially blocked (incomplete DIOS). Once a diagnosis of DIOS has been made, the goal of therapy is to relieve the acute complete or incomplete faecal obstruction and ultimately prevent the need for surgical intervention. 
+Objectives
+This review aimed to evaluate the effectiveness and safety of different treatment regimens for the treatment of DIOS (complete and incomplete) in children and adults with cystic fibrosis. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. Date of search: 09 September 2021. 
+We also searched online trial registries. Date of last search: 12 October 2021.
+Selection criteria
+Randomised controlled trials, quasi‐randomised controlled trials (including cross‐over trials (to be judged on an individual basis)) comparing the use of laxative agents or surgery for treating DIOS in children, young people and adults with cystic fibrosis to each other, placebo or no intervention. 
+Data collection and analysis
+Two authors independently screened papers, extracted trial details and assessed for risk of bias. The authors assessed the quality of evidence using GRADE. 
+Main results
+There was one trial with 20 participants (16 females) included in the review. The mean age of participants was 13.1 years. The trial was a double‐blinded, randomised cross‐over trial which had a duration of 12 months in total and compared high‐dose and low‐dose pancreatic enzyme therapy. As only the abstract of the trial was available, the overall risk of bias was judged to be unclear. The trial did not address either of our primary outcomes (time until resolution of DIOS and treatment failure rate), but reported episodes of acute DIOS, presence of abdominal mass and abdominal pain. There were no numerical data available for these outcomes, but the authors stated that there was no difference between treatment with high‐dose or low‐dose pancreatic enzymes. The overall certainty of the evidence was found to be very low. 
+Authors' conclusions
+There is a clear lack of evidence for the treatment of DIOS in people with cystic fibrosis. The included abstract did not address our primary outcome measures and did not provide numerical data for the two secondary outcomes it did address. Therefore, we cannot justify the use of high‐dose pancreatic enzymes for treating DIOS, nor can we comment on the efficacy and safety of other laxative agents. From our findings, it is clear that more randomised controlled trials need to be conducted in this area. 

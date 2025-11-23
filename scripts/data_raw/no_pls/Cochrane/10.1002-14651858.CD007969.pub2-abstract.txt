@@ -1,0 +1,14 @@
+Background
+Phototherapy is the mainstay of treatment of neonatal hyperbilirubinaemia. The commonly used light sources for providing phototherapy are special blue fluorescent tubes, compact fluorescent tubes and halogen spotlights. However, light emitting diodes (LEDs) as light sources with high luminous intensity, narrow wavelength band and higher delivered irradiance could make phototherapy more efficacious than the conventional phototherapy units. 
+Objectives
+To evaluate the effect of LED phototherapy as compared to conventional phototherapy in decreasing serum total bilirubin levels and duration of treatment in neonates with unconjugated hyperbilirubinaemia. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2010, Issue 1), MEDLINE (1966 to April 30, 2010) and EMBASE (1988 to July 8, 2009). Handsearches of the proceedings of annual meetings of The European Society for Paediatric Research and The Society for Pediatric Research were conducted through 2010. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials were eligible for inclusion if they enrolled neonates (term and preterm) with unconjugated hyperbilirubinaemia and compared LED phototherapy with other light sources (fluorescent  tubes, compact fluorescent tubes, halogen spotlight; method of administration: conventional or fibreoptic). 
+Data collection and analysis
+We used the standard methods of The Cochrane Collaboration and its Neonatal Review Group for data collection and analysis. 
+Main results
+Six randomised controlled trials met the inclusion criteria for this review. Four studies compared LED and halogen light sources. Two studies compared LED and compact fluorescent light sources. The duration of phototherapy (six studies, 630 neonates) was comparable in LED and non‐LED phototherapy groups (mean difference (hours) ‐0.43, 95% CI ‐1.91 to 1.05). The rate of decline of serum total bilirubin (STB) (four studies, 511 neonates) was also similar in the two groups (mean difference (mg/dL/hour) 0.01, 95% CI ‐0.02 to 0.04). Treatment failure, defined as the need of additional phototherapy or exchange blood transfusion (1 study, 272 neonates), was comparable (RR 1.83, 95% CI 0.47 to 7.17). Side effects of phototherapy such as hypothermia (RR 6.41, 95% CI 0.33 to 122.97), hyperthermia (RR 0.61, 95% CI 0.18 to 2.11) and skin rash (RR 1.83, 95% CI 0.17 to 19.96) were rare and occurred with similar frequency in the two groups. 
+Authors' conclusions
+LED light source phototherapy is efficacious in bringing down levels of serum total bilirubin at rates that are similar to phototherapy with conventional (compact fluorescent lamp (CFL) or halogen) light sources. Further studies are warranted for evaluating efficacy of LED phototherapy in neonates with haemolytic jaundice or in the presence of severe hyperbilirubinaemia (STB ≥ 20 mg/dL). 

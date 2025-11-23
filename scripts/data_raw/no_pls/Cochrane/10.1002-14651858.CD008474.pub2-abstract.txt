@@ -1,0 +1,16 @@
+Background
+It has been reported that ozone therapy might be helpful in treating foot ulcers in people with diabetes mellitus (DM). 
+Objectives
+To assess the effects of ozone therapy on the healing of foot ulcers in people with DM. 
+Search methods
+In March 2015 we searched: The Cochrane Wounds Group Specialised Register, The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), Ovid MEDLINE, Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations), Ovid EMBASE, EBSCO CINAHL, Science Citation Index, Chinese Biomedical Literature Database and The Chinese Clinical Registry. There were no restrictions based on language, date or study setting. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared ozone therapy with sham ozone therapy or any other interventions for foot ulcers in people with DM, irrespective of publication date or language. 
+Data collection and analysis
+Two reviewers independently screened all retrieved citations, selected relevant citations and extracted data. Disagreements were resolved by discussion with a third reviewer. The methodological quality of included studies and the evidence level of outcomes were assessed using the Cochrane risk of bias tool and the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach respectively. Data were expressed using risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with their 95% confidence interval (95% CI). Review Manager (RevMan) software was used to analyse the data. 
+Main results
+Three studies (212 participants) were included in this review. The overall risk of bias was high for two trials and unclear for one. 
+One trial (101 participants) compared ozone treatment with antibiotics for foot ulcers in people with DM. The study had a follow‐up period of 20 days. This study showed that ozone treatment was associated with a greater reduction in ulcer area from baseline to the end of the study than treatment with antibiotics (MD ‐20.54 cm2, 95% CI ‐20.61 to ‐20.47), and a shorter duration of hospitalisation (MD ‐8.00 days, 95% CI ‐14.17 to ‐1.83), but did not appear to affect the number of ulcers healed over 20 days (RR 1.10, 95% CI 0.87 to 1.40). No side effects were observed in either group. 
+The other two trials (111 participants) compared ozone treatment plus usual care with usual care for foot ulcers in people with DM. The meta‐analysis results did not show evidence of a difference between groups for the outcomes of reduction of ulcer area (MD ‐2.11 cm2, 95% CI ‐5.29 to 1.07), the number of ulcers healed (RR 1.69, 95% CI 0.90 to 3.17), adverse events (RR 2.27, 95% CI 0.48 to 10.79), or amputation rate (RR 2.73, 95%CI 0.12, 64.42). 
+Authors' conclusions
+The available evidence was three small RCTs with unclear methodology, so we are unable to draw any firm conclusions regarding the effectiveness of ozone therapy for foot ulcers in people with DM. 

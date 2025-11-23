@@ -1,0 +1,46 @@
+Neuromodulators for pain management in rheumatoid arthritis
+This summary of a Cochrane review presents what we know from research about the effect of neuromodulators on pain in patients with rheumatoid arthritis. 
+The review shows that in people with rheumatoid arthritis 
+‐ Nefopam, topical capsaicin and oromucosal cannabis may improve pain levels
+‐ Oromucosal cannabis may slightly improve sleep
+‐ No trials were found that evaluated whether neuromodulators affect functional status, quality of life, withdrawals due to inadequate analgesia or depression 
+We also do not have precise information about serious side effects and complications. Possible side effects of nefopam that were found in the trials include nausea, dry mouth, sweating and feeling tired. However, rare complications have also been reported and include convulsions and cardiac arrhythmias. 
+Common side effects of topical capsaicin therapy include local skin irritation and burning. More serious allergic reactions are rare but have been reported. 
+Possible side effects of oromucosal cannabis found in this review were dizziness, fatigue and loss of balance. Readers should be aware that, although not seen in our review, rarer complications including psychosis and suicidal thoughts have also been reported. 
+What is rheumatoid arthritis and what are neuromodulators? 
+When you have rheumatoid arthritis your immune system, which normally fights infection, attacks the lining of your joints. This makes your joints swollen, stiff and painful. The small joints of your hands and feet are usually affected first. There is no cure for rheumatoid arthritis at present, so the treatments aim to relieve pain and stiffness and improve your ability to move. 
+Neuromodulators are broadly defined as substances which alter the way nerves communicate with each other and, consequently, the overall activity level of the brain. By acting on these nerve signals it is thought that these drugs can reduce the amount of pain felt by an individual. Neuromodulators sometimes used in pain management include the anticonvulsant agents (drugs used to prevent seizures); oral, intramuscular or intravenous ketamine; oral or intravenous nefopam; topical capsaicin, cannabis based medications (oral, oromucosal or inhaled); and more recently intra‐articular botulinum toxin. 
+Best estimate of what happens to people with rheumatoid arthritis who take neuromodulators 
+Oral nefopam 
+Pain (higher scores mean worse or more severe pain)
+‐ People who took nefopam rated their pain 21 points lower on a scale of 0 to 100 after 2 weeks treatment with nefopam (21% absolute improvement) 
+‐ People who took nefopam rated their pain as 18 on a scale of 0 to 100 after 2 weeks
+‐ People who took a placebo rated their pain as 39 on a scale of 0 to 100
+Total adverse events
+‐ 27 more people out of 100 experienced an adverse event after 4 weeks treatment with nefopam (absolute difference 27%). These were predominantly nausea (56%), sweating (44%), insomnia (11%), pruritus (11%) and malaise (11%). They completely settled once treatment was ceased 
+‐ 35 out of 100 people who took nefopam suffered an adverse event
+‐ 8 out of 100 people who took a placebo suffered an adverse event
+Topical capsaicin 
+Pain (higher scores mean worse or more severe pain)
+‐ People who took capsaicin rated their pain 34 points lower on a scale of 0 to 100 after 2 weeks treatment (34% absolute improvement) 
+‐ People who took capsaicin rated their pain as 14 on a scale of 0 to 100 after 2 weeks 
+‐ People who took a placebo rated their pain as 48 on a scale of 0 to 100
+Adverse events
+No data
+Oromucosal cannabis 
+Pain (higher scores mean worse or more severe pain)
+‐ People who took oromucosal cannabis rated their pain 0.7 points lower on a scale of 0 to 5 after 5 weeks treatment 
+‐ People who took oromucosal cannabis rated their pain as 2.6 on a scale of 0 to 5 after 5 weeks 
+‐ People who took a placebo rated their pain as 3.3 on a scale of 0 to 5
+Quality of sleep
+‐ People who received oromucosal cannabis rated their sleep 1.2 points better on a scale of 0 to 10 after 5 weeks treatment (12% absolute improvement) 
+‐ People who received oromucosal cannabis rated their sleep as 4.6 on a scale of 0 to 10 after 5 weeks 
+‐ People who received a placebo rated their sleep as 3.4 on a scale of 0 to 10
+Total adverse events
+‐ 27 more people out of 100 experienced an adverse event after 4 weeks treatment with oromucosal cannabis (absolute difference 27%). These were most commonly dizziness (26%), light headedness (10%), dry mouth (13%), nausea (6%) and falls (6%); they completely resolved once treatment was ceased 
+‐ 35 out of 100 people who took oromucosal cannabis suffered an adverse event
+‐ 8 out of 100 people who took a placebo suffered an adverse event
+We looked at all the published scientific literature and identified four drug trials that evaluated different neuromodulators. Two small studies with a total of 52 patients tested the drug nefopam (which is only available in some parts of the world). One trial each tested capsaicin cream (31 participants) and a cannabis based mouth spray (58 participants). Note: use of medicinal cannabis is illegal and therefore unavailable in most countries. 
+When patients took nefopam they had a greater improvement in pain levels, on average 21 points on a 100 point scale, than those patients who were given a placebo (an inactive substance that has no treatment value). However, patients on nefopam also developed side effects, which mainly consisted of nausea and sweating. Many patients stopped taking the drug because the symptoms were so bad. These studies were performed in the 1980s when treatment for RA was very different to what it is now. Until further, larger studies are carried out to better assess nefopam, with many other effective pain relieving medications on the market, the risks of harm seem to outweigh the benefit arguing against its routine use. 
+In the one small study testing capsaicin cream (0.025%) in patients with persistent knee pain, patients also had better pain relief with capsaicin cream than for those given a placebo cream. On average, patients receiving the active treatment improved by 34 more points (out of 100) than the control group. The most common side effect was a local burning sensation at the site that the cream was applied. This was usually mild but was moderate to severe in a few patients. About 50% of patients who use capsaicin cream on their skin will develop this local burning but only 2 in 100 will stop treatment because of this. 
+The one small study of the cannabis based mouth spray Setivax also showed reduced pain levels in patients, to a small extent. Pain was measured on a 0 to 5 point scale and there was an improvement in patients receiving Setivax of 0.74 points. About one in every three patients taking this medication developed a side effect, which was commonly dizziness (26%), dry mouth (13%) or light headedness (10%). Although this is only one study, weighing up these side effects and the minimal benefit on pain levels, until further trials are carried out we cannot recommend the use of this medication. 

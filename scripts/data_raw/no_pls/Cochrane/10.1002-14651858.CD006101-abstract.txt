@@ -1,0 +1,14 @@
+Background
+Chronic obstructive pulmonary disease (COPD) is a condition associated with high morbidity, mortality and cost to the community. Patients often report symptomatic improvement with long acting beta‐2 agonists (LABAs) and anticholinergic bronchodilator medications, both of which are recommended in COPD guidelines. These medications have different mechanisms of action and therefore theoretically could have an additive effect when combined. As these medications are prescribed in COPD as long term therapy, it is important to assemble reliable evidence on their relative and additive effects. 
+Objectives
+To compare the relative efficacy and safety of regular long term use (at least four weeks) of ipratropium bromide and LABA in patients with stable COPD. Comparisons were made between single agents and in combination versus LABAs alone. 
+Search methods
+We searched the Cochrane Airways Group Specialised Register of Trials (July 2008) and reference lists of articles. We also contacted drug companies for relevant trial data. 
+Selection criteria
+All randomised controlled trials comparing treatment for at least four weeks with an anticholinergic agent (ipratropium bromide) alone or in combination with LABA versus LABA alone, delivered via metered dose inhaler or nebuliser, in non‐asthmatic adult subjects with stable COPD. 
+Data collection and analysis
+Three review authors independently performed data extraction and study quality assessment. We contacted study authors and pharmaceutical companies for missing data. 
+Main results
+Seven studies met the inclusion criteria of the review (2652 participants). Monotherapy comparison (six studies): There was a significantly greater change in favour of salmeterol in morning PEF and FEV1. There were no significant differences in quality of life, exacerbations, or symptoms. Formoterol appeared to confer some benefits over ipratropium treatment in terms of morning peak flow. Combination comparison (three studies): There was a significant improvement in post‐bronchodilator lung function, supplemental short‐acting beta‐agonist use and HRQL in favour of combination therapy compared with salmeterol alone. 
+Authors' conclusions
+The available data from the trials suggest that there is little difference between regular long term use of IpB alone and salmeterol if the aim is to improve COPD symptoms and exercise tolerance. However, salmeterol was more effective in improving lung function variables. In terms of post‐bronchodilator lung function, combination therapy conferred modest benefits, a significant improvement in HRQL, and reduced supplemental short‐acting beta‐agonist requirement, although this effect was not consistent. Additional studies are needed to assess the relative effects of combining therapies, using validated subjective measurements, and should consider concordance and the convenience of people having to use different inhaler devices. 

@@ -1,0 +1,14 @@
+Background
+Apathy is a deficiency in overt behavioural, emotional and cognitive components of goal‐directed behaviour. It is a common occurrence after traumatic brain injury (TBI), with widespread impact. We have systematically reviewed studies examining the effectiveness of interventions for apathy in the TBI population. 
+Objectives
+To investigate the effectiveness of interventions for apathy in adults who have sustained a TBI. This was evaluated by changes in behavioural, cognitive and emotional measures of apathy. 
+Search methods
+We searched the following databases up to January 2008: CENTRAL (The Cochrane Library 2008, Issue 1), Database of Abstracts of Reviews of Effects, ACP Journal Club, MEDLINE (1950 to Jan 2008), EMBASE (1980 to Jan 2008), PsycINFO (1806 to Jan 2008), CINAHL (1982 Jan 2008), PsycBITE, AMED (1985 to Jan 2008), www.controlled‐trials.com, www.clinicaltrials.gov and www.actr.org.au.The Cochrane Injuries Group's Specialised Register was searched to Jan 2009. Additionally, we examined key conference proceedings and reference lists of included trials to identify further studies meeting the inclusion criteria. 
+Selection criteria
+Randomised controlled trials (RCTs) of interventions specifically targeting apathy for people with TBI. 
+Data collection and analysis
+Two authors (ALB and RLT) independently assessed studies for inclusion. We rated the methodological quality of included studies and extracted data. 
+Main results
+We identified one trial that satisfied the inclusion criteria for this review. This trial (N = 21) showed that cranial electrotherapy stimulation (CES) decreased inertia, which is a component of apathy, while no changes were seen in the sham treatment or no treatment control groups. Given that no between‐group analysis was reported, it was not possible to determine if the CES treatment group improved significantly more than the control group. 
+Authors' conclusions
+No evidence was provided to support the use of CES treatment for inertia, a component of apathy. Between‐group statistical analyses were not conducted and it was therefore not possible to determine the efficacy of the treatment relative to no treatment or sham treatment. Results regarding the effectiveness of treatment can only be inferred, and this evidence is based on only one trial with a small sample size. More randomised controlled trials evaluating different ways of treating apathy would be valuable. Trials should have larger sample sizes and use rigorous research designs and statistical analyses appropriate for examining between‐group differences. 

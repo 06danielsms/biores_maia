@@ -1,0 +1,14 @@
+Background
+Strong evidence supports the use of metered‐dose inhalers combined with a spacer for delivering rapid‐acting inhaled beta‐2 agonists in the treatment of acute exacerbations of asthma in children. The high cost and lack of availability of commercially produced spacers however, have limited their use in developing countries. 
+Objectives
+The aim of this review was to compare the response to inhaled beta‐2 agonists delivered through metered‐dose inhaler using home‐made spacers, to the use of commercially produced spacers, in children with acute exacerbations of wheezing or asthma. 
+Search methods
+We searched the Cochrane Airwyas Group Register (up to August 2010), Cochrane Central Register of Controlled Trials (CENTRAL) on The Cochrane Library, MEDLINE , EMBASE, CINHAL, LILACS and reference lists of included studies. We contacted authors and known experts in the field, and approached pharmaceutical companies that manufacture inhalation spacers to identify additional published or unpublished data. No language restrictions were applied. 
+Selection criteria
+Trials comparing treatment with rapid acting beta 2‐agonists delivered through a MDI attached to home‐made spacers, versus the same bronchodilator therapy delivered with a MDI and commercially produced spacers, in children under 18 years with acute exacerbations of wheezing or asthma. 
+Data collection and analysis
+Two review authors independently extracted the data and assessed trial quality. Missing data were obtained from the authors or estimated from information available in published reports. 
+Main results
+Six trials with 658 participants met the inclusion criteria. At the time of this review, five trials were published in full text, and one study was available in abstract form only. No significant differences were demonstrated between the two delivery methods in terms of the need for hospital admission (RR 1.00, 95% CI 0.63 to 1.59), change in oxygen saturation (SMD ‐0.03, 95% CI ‐0.39 to 0.33), PEFR (SMD 0.04, 95% CI ‐0.72 to 0.80), clinical score (WMD 0.00, 95% CI ‐0.37 to 0.37), in terms of need for additional treatment (RR 1.18, 95% CI 0.84 to 1.65), or regarding change in heart rate per minute (SMD 0.09, 95% CI ‐0.24 to 0.42). 
+Authors' conclusions
+Overall, this review did not identify a statistically significant difference between these two methods for delivering bronchodilator therapy to children with acute asthma or lower airways obstruction attacks. Care should be taken in the interpretation and applicability of our results because of the small number of RCTs along with few events available meeting the criteria for inclusion in the review, absence of the primary outcome of interest and other clinically important outcomes in the majority of included studies. The possible need for a face‐mask in younger children using home‐made spacers should also be considered in practice. 

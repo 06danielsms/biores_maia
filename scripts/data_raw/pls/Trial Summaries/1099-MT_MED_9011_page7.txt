@@ -1,0 +1,19 @@
+Clinical Trial Results
+How many participants had serious medical problems?
+A medical problem is considered serious when it is life threatening, causes lasting problems, or needs hospitalization. No participants died during the study. Two participants developed serious medical problems during the study:
+- 1 participant who took AZD2014 developed malaise, or feelings of general discomfort and uneasiness.
+- 1 participant who took AZD2014 and fulvestrant developed urinary tract infections. Study doctors did not consider these serious medical problems to be related to AZD2014 treatment.
+What were the most common medical problems in the study?
+Nausea and vomiting were the most common medical problems. The table below shows the medical problems that happened in at least 50% of participants in this study.
+
+Most common medical problems in the study:
+- Nausea: 66.7% (2) with AZD2014, 100.0% (1) with AZD2014 fulvestrant, 75.0% (3) total participants
+- Vomiting: 66.7% (2) with AZD2014, 100.0% (1) with AZD2014 fulvestrant, 75.0% (3) total participants
+- Decrease in white blood cell count: 33.3% (1) with AZD2014, 100.0% (1) with AZD2014 fulvestrant, 50.0% (2) total participants
+- Dry skin: 66.7% (2) with AZD2014, 0.0% (0) with AZD2014 fulvestrant, 50.0% (2) total participants
+- Itchy skin: 66.7% (2) with AZD2014, 0.0% (0) with AZD2014 fulvestrant, 50.0% (2) total participants
+- Low red blood cell count: 33.3% (1) with AZD2014, 100.0% (1) with AZD2014 fulvestrant, 50.0% (2) total participants
+- Swelling and sores in the mouth: 66.7% (2) with AZD2014, 0.0% (0) with AZD2014 fulvestrant, 50.0% (2) total participants
+- Swelling of the mucus membranes: 33.3% (1) with AZD2014, 100.0% (1) with AZD2014 fulvestrant, 50.0% (2) total participants
+
+UK 7

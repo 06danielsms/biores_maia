@@ -1,0 +1,20 @@
+Background
+Inability to communicate in a manner that can be understood causes extreme distress for people requiring an artificial airway and has implications for care quality and patient safety. Options for aided communication include non‐vocal, speech‐generating, and voice‐enabling aids. 
+Objectives
+To assess effectiveness of communication aids for people requiring an artificial airway (endotracheal or tracheostomy tube), defined as the proportion of people able to: use a non‐vocal communication aid to communicate at least one symptom, need, or preference; or use a voice‐enabling communication aid to phonate to produce at least one intelligible word. 
+To assess time to communication/phonation; perceptions of communication; communication quality/success; quality of life; psychological distress; length of stay and costs; and adverse events. 
+Search methods
+We searched the Cochrane Library (Wiley version), MEDLINE (OvidSP), Embase (OvidSP), three other databases, and grey literature from inception to 30 July 2020. 
+Selection criteria
+We included randomised controlled trials (RCTs), quasi‐RCTs, cluster‐RCTs, controlled non‐randomised parallel group, and before‐after studies evaluating communication aids used in adults with an artificial airway. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane. Two review authors independently performed data extraction and assessment of risk of bias. 
+Main results
+We included 11 studies (1931 participants) conducted in intensive care units (ICUs). Eight evaluated non‐vocal communication aids and three voice‐enabling aids. Usual care was the comparator for all. For six studies, this comprised no aid; usual care in the remaining five studies comprised use of various communication aids. 
+Overall, our confidence in results regarding effectiveness of communication interventions was very low due to imprecision, measurement heterogeneity, inconsistency in results, and most studies at high or unclear risk of bias across multiple domains. 
+No non‐vocal aid studies reported our primary outcome. We are uncertain of the effects of early use of a voice‐enabling aid compared to routine use on ability to phonate at least one intelligible word (risk ratio (RR) 3.03, 95% confidence interval (CI) 0.18 to 50.08; 2 studies; very low‐certainty evidence). 
+Compared to usual care without aids, we are uncertain about effects of a non‐vocal aid (communication board) on patient satisfaction (standardised mean difference (SMD) 2.92, 95% CI 1.52 to 4.33; 4 studies; very low‐certainty evidence). 
+No studies of non‐vocal aids reported quality of life. Low‐certainty evidence from two studies suggests early use of a voice‐enabling aid may have no effect on quality of life (MD 2.27, 95% CI –7.21 to 11.75). Conceptual differences in measures of psychological distress precluded data pooling; however, intervention arm participants reported less distress suggesting there might be benefit, but our certainty in the evidence is very low. 
+Low‐certainty evidence suggest voice‐enabling aids have little or no effect on ICU length of stay; we were unable to determine effects of non‐vocal aids. Three studies reported different adverse events (physical restraint use, bleeding following tracheostomy, and respiratory parameters indicating respiratory decompensation). Adverse event rates were similar between arms in all three studies. However, uncertainty remains as to any harm associated with communication aids. 
+Authors' conclusions
+Due to a lack of high‐quality studies, imprecision, inconsistency of results, and measurement heterogeneity,  the evidence provides insufficient information to guide practice as to which communication aid is more appropriate and when to use them. Understanding effectiveness of communication aids would benefit from development of a core outcome measurement set. 

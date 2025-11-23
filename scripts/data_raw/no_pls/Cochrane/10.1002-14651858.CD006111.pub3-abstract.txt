@@ -1,0 +1,16 @@
+Background
+Sickle cell disease is one of the most common genetic disorders. Sickle cell crises in which irregular and dehydrated cells contribute to blocking of blood vessels are characterised by episodes of pain. Treatment is mainly supportive and symptomatic. In vitro studies with piracetam indicate that it has the potential for inhibition and a reversal of the process of sickling of erythrocytes. This is an update of a previously published Cochrane review. 
+Objectives
+To assess the effectiveness of piracetam for reducing the incidence of painful sickle cell disease crises. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Haemoglobinopathies Trials Register which comprises of references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Last search of the Group's Haemoglobinopathies Trials Register: 21 September 2015.
+Selection criteria
+Randomised controlled trials comparing orally administered piracetam to placebo or standard care in people, of all ages and both sexes, with sickle cell disease. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. Trial authors were contacted for additional information. Adverse effects data were collected from the trials. 
+Main results
+Three trials involving 169 participants were included in the review. A limited amount of data addressing some of the primary and some of the secondary outcomes were provided, but data were incomplete and based on un‐validated assumptions used in the evaluation of outcomes. One trial reported a reduction in the number of pain crises and their severity with active intervention than placebo but presented no data to confirm these results. A second trial presented a monthly global pain score based on the number of sickle cell crises and severity of pain but included no separate data for these primary outcomes. Although there was no significant difference between the piracetam and placebo periods for the number of days of hospitalisation (P = 0.87) in one trial, inconsistencies in the criteria necessary for hospitalisation during sickle crises did not permit accurate conclusions to be drawn. Two of the trials reported participant satisfaction with piracetam but provided no details as to how this satisfaction had been assessed. There were no reports of toxicity or adverse effects with piracetam other than one participant who experienced dizziness. 
+Authors' conclusions
+The small number of included trials and their poor methodological quality provided insufficient reliable evidence to support the routine use of this medication for preventing the incidence of painful sickle cell disease crises. 
+We will continue to run searches to identify any potentially relevant trials; however, we do not plan to update other sections of the review until new trials are published. 

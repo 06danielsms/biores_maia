@@ -1,0 +1,16 @@
+Background
+Surgical options for treating stress urinary incontinence (SUI) are usually explored after conservative interventions have failed. Surgeries fall into two categories: traditional techniques (open surgery) and minimally invasive procedures, such as laparoscopic procedures, midurethral sling and injections with urethral bulking agents. Postsurgery infections, such as infections of the surgical site or urinary tract, are common complications. To minimise the risk of postoperative bacterial infections, prophylactic antibiotics may be given before or during surgery.  
+Objectives
+To assess the effects of prophylactic antibiotics for preventing infection following continence surgery in women with stress urinary incontinence.  
+Search methods
+We searched the Cochrane Incontinence Specialised Register, which contains trials identified from CENTRAL, MEDLINE, MEDLINE In‐Process, MEDLINE Epub Ahead of Print, CINAHL, ClinicalTrials.gov and WHO ICTRP; and handsearched journals and conference proceedings to 18 March 2021. We also searched the reference lists of relevant articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐RCTs assessing prophylactic antibiotics in women undergoing continence surgery to treat SUI. 
+Data collection and analysis
+Two review authors selected potentially eligible trials, extracted data and assessed risk of bias. We expressed results as risk ratios (RR) for dichotomous outcomes and as mean differences (MD) for continuous outcomes, both with 95% confidence intervals (CIs). We assessed the certainty of evidence using the GRADE approach. 
+Main results
+We identified one quasi‐RCT and two RCTs, involving a total of 390 women. One study performed retropubic urethropexy surgery requiring a transverse suprapubic incision, while the other two studies performed midurethral sling surgery. It should be noted that none of the included studies clearly specified the timing of outcome assessment. 
+We are very uncertain whether prophylactic antibiotics (cefazolin) have an effect on surgical site infections (RR 0.56, 95% CI 0.03 to 12.35; 2 studies, 85 women; very low‐certainty evidence) or urinary tract infections or bacteriuria (RR 0.84, 95% CI 0.05 to 13.24; 2 studies, 85 women; very low‐certainty evidence). The effect of prophylactic antibiotics (cefazolin) on febrile morbidity is also uncertain (RR 0.08, 95% CI 0.00 to 1.29; 2 studies, 85 women; very low‐certainty evidence). We are very uncertain whether prophylactic antibiotics (cefazolin) have any effect on mesh exposure (RR 0.32, 95% CI 0.01 to 7.61; 1 study, 59 women; very low‐certainty evidence). None of the three included studies described the assessment of adverse events from antibiotic use, sepsis or bacteraemia in their reports. 
+Authors' conclusions
+Only limited data are available from the three included studies and, overall, the certainty of evidence was very low. Moreover, the three included studies evaluated different surgical procedures and dosages of antibiotic administration. 
+Thus, there is insufficient evidence to support or refute the use of prophylactic antibiotics to prevent infection following anti‐incontinence surgery. In addition, there were no data regarding adverse effects of prophylactic antibiotics. More RCTs are required. 

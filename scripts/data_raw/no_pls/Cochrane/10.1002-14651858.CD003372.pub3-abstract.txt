@@ -1,0 +1,16 @@
+Background
+Combination chemotherapy regimens are frequently favoured over single agents for the treatment of metastatic breast cancer, in an attempt to achieve superior tumour response rates. It is not known however whether giving more intensive chemotherapy regimens results in better health outcomes, when both survival and toxicity are considered, and whether better response rates and rates of progression free survival actually translate to better overall survival. 
+Objectives
+To compare single agent with combination chemotherapy for the treatment of metastatic breast cancer. 
+Search methods
+We searched the Cochrane Breast Cancer Group Specialised Register November 2008. Handsearching of recent conference proceedings was also undertaken. 
+Selection criteria
+Randomised trials of single agent chemotherapy compared to combination therapy in metastatic breast cancer. 
+Data collection and analysis
+Two authors independently assessed trials for eligibility and quality, and extracted data. Hazard ratios were derived for reported time‐to‐event outcomes.Response rates were analysed as dichotomous variables. Toxicity and quality of life data were extracted where present. 
+Main results
+Forty three eligible trials (48 comparisons) were identified. These included 9742 women, 55% of whom were receiving first‐line treatment for metastatic disease. For overall survival there was a statistically significant difference in favour of the combination regimens with no heterogeneity (HR 0.88, 95% CI 0.83‐0.93, p<0.00001). Results were very similar when trials of first‐line treatment were analysed, and for analyses where the single agent was also included in the combination regimen. Combination regimens showed a statistically significant advantage for survival over single agent taxane (HR 0.82; 95% CI 0.75‐0.89, p<0.00001), but not anthracycline (HR 0.94.86‐1.02, p=0.15). 
+Combination regimens were also associated with significantly better time to progression (HR 0.78, 95% CI 0.74 ‐ 0.82, p<0.00001) and response (RR 1.29, 95% CI 1.14 ‐1.45, p<0.0001) although heterogeneity was statistically significant in both instances and probably due to clinical diversity of the participants and interventions. 
+Women receiving combination regimens experienced a statistically significant detrimental effect on white cell count, increased alopecia and nausea and vomiting. 
+Authors' conclusions
+Combination chemotherapy regimens show a statistically significant advantage for survival, tumor response and time to progression in women with metastatic breast cancer but they also produce more toxicity. An unresolved question is whether combination regimens are more effective than single agents given sequentially. 

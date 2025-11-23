@@ -1,0 +1,15 @@
+Background
+Vaginal candidiasis (moniliasis or thrush) is a common and frequently distressing infection for many women. It is even more common in pregnancy. There is no evidence that thrush in pregnancy is harmful to the baby. 
+Objectives
+The objective of this review was to assess the effects of different methods of treating vaginal candidiasis in pregnancy. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (March 2001). We updated this search on 1 October 2009 and added the results to the awaiting classification section. 
+Selection criteria
+Randomised trials of any treatment for vaginal candidiasis in pregnancy.
+Data collection and analysis
+Two reviewers assessed trial quality and extracted data.
+Main results
+Ten trials were included. Based on five trials, imidazole drugs were more effective than nystatin when treating vaginal candidiasis in pregnancy (odds ratio 0.21, 95% confidence interval 0.16 to 0.29). In turn, Nystatin was as effective as hydrargaphen in one trial (odds ratio 0.29, 95% confidence interval 0.05‐1.84). A trial of clotrimazole was more effective than placebo (odds ratio 0.14, 95% confidence interval 0.06 to 0.31). Single dose treatment was no more or less effective than three or four days treatment. However, two trials involving 81 women, showed that treatment lasting for four days was less effective than treatment for seven days (odds ratio 11.7, 95% confidence interval 4.21 to 29.15). Based on two trials, treatment for seven days was no more or less effective than treatment for 14 days (odds ratio 0.41, 95% confidence interval 0.16 to 1.05). Terconazole was as effective as clotrimazole (odds ratio 1.41, 95% confidence interval 0.28‐ 7.10). 
+Authors' conclusions
+Topical imidazole appears to be more effective than nystatin for treating symptomatic vaginal candidiasis in pregnancy. Treatments for seven days may be necessary in pregnancy rather than the shorter courses more commonly used in non‐pregnant women. 
+[Note: The seven citations in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

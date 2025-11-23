@@ -1,0 +1,17 @@
+Intravenous fluids compared to nasogastric or orogastric tube hydration for children hospitalised with bronchiolitis 
+Review question 
+Is feeding tube or intravenous catheter better for hydrating children hospitalised with bronchiolitis? 
+Background 
+Bronchiolitis is a common respiratory infection in young children that makes feeding difficult due to increased breathing effort and mucous production. When infants are considered unsafe to feed by mouth (orally), there are two ways that fluid can be given: a feeding tube and/or an intravenous catheter. A feeding tube is inserted through the nose or mouth into a child’s stomach and can be used to give milk or clear fluids like rehydration solution. The intravenous cannula is inserted into a vein and gives medical hydration fluids into the vein. It is not clear if one way to give fluids is better than the other, and there is a lot of variation in which method is used in children hospitalised with bronchiolitis. Our review used standard Cochrane methods to identify studies that randomly assigned children to receive fluids either by a feeding tube or intravenous catheter, and then compared the effects of the two fluid therapy methods on the children. The aim of this review was to find out if one method is better than the other. 
+Search date 
+The evidence is current 8 March 2021.
+Study characteristics 
+We found only two studies that compared using a feeding tube to an intravenous catheter for children hospitalised with bronchiolitis. The studies included 810 children in total who were younger than two years of age, and who were randomly assigned to either a feeding tube or an intravenous catheter. 
+Study funding sources 
+The authors of the Oakley trial indicated that the study was funded by the Australian National Health and Medical Research Council, Samuel Nissen Charitable Foundation (Perpetual), Murdoch Children’s Research Institute, and the Victorian Government, but that the funders had no role in the design and interpretation of the trial. The Kugelman trial did not describe the study funder. 
+Key results 
+The two studies found no differences in the number of hours children stayed in hospital, nor were there any differences in recovery time to resume full oral feeding. The main difference between groups was greater success in inserting a feeding tube on first try compared to an intravenous catheter, which often required several attempts. Also, children who received intravenous fluid were more prone to switching to an enteral tube feeding and experienced more side effects. One of the studies reported that parents were satisfied with both hydration methods. However, because there were only two included studies, it is hard to tell if enteral tube feeding is better or worse than intravenous fluids. 
+Conclusions 
+There is a need for more specific research on this topic, including a better understanding of parent and caregiver preferences related to giving non‐oral fluids and how to incorporate shared decision‐making, where both patient and doctor work together to make treatment decisions.  
+Certainty of evidence 
+In one study, the methods used to randomly assign and allocate participants to treatment groups were unclear. It was unclear how this may have caused bias in the study. As one study had an unclear risk of bias, we rated the overall certainty of evidence for the primary outcome as moderate.  None of the study authors declared any conflict of interest.  

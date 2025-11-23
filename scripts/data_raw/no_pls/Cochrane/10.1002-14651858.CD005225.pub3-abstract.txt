@@ -1,0 +1,14 @@
+Background
+Creatine, a naturally‐occurring nitrogenous organic acid involved in adenosine triphosphate (ATP) production, has been shown to increase survival in mouse models of amyotrophic lateral sclerosis (ALS), also known as motor neuron disease (MND). Results from human trials, however, have been mixed. Given conflicting results regarding the efficacy of creatine, we conducted a systematic review, which was updated in 2012. 
+Objectives
+To systematically examine the efficacy of creatine efficacy in prolonging ALS survival and in slowing ALS disease progression. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (16 July 2012), CENTRAL (2012, issue 7 in the Cochrane Library), MEDLINE (January 1966 to July 2012) and EMBASE (January 1980 to July 2012) for any trial involving creatine in the treatment of ALS. We also contacted experts in the field for any additional studies. 
+Selection criteria
+Randomized trials of treatment with creatine or placebo in patients diagnosed with ALS. Our primary outcome was tracheostomy‐free survival time; secondary outcomes were ALS progression as measured by changes in ALS functional rating revised scores (ALSFRS‐R) and per cent predicted forced vital capacity (FVC) over time. 
+Data collection and analysis
+Two authors independently selected studies, assessed risk of bias and extracted data. We obtained and analyzed individual participant data from each study. 
+Main results
+We included three trials involving 386 participants randomized to either creatine 5 to 10 g per day or placebo. When we updated the searches in 2012 we found no additional trials. Creatine was reportedly well‐tolerated in all three included studies, with no evidence of renal failure or serious adverse events specifically attributable to creatine. Using a pooled log‐rank statistical test, we found no statistical difference in survival between the placebo and creatine groups across all three studies (Chi2 = 0.09, P = 0.76). In addition, we found no statistical difference in ALSFRS‐R slopes between the two groups across all three studies using a pooled linear mixed‐effects model (slope difference of +0.03 ALSFRS‐R/month in the creatine group; P = 0.76). Interestingly, there was a trend towards slightly worsened FVC slope in the creatine group (slope difference of ‐0.63 FVC/month in the creatine group) using a pooled linear mixed‐effects model across the two studies which included FVC as an outcome, but this difference was not statistically significant (P = 0.054). 
+Authors' conclusions
+In patients already diagnosed with clinically probable or definite ALS, creatine at doses ranging from 5 to 10 g per day did not have a statistically significant effect on survival, ALSFRS‐R progression or percent predicted FVC progression. 

@@ -1,0 +1,14 @@
+Background
+Prostaglandin E1 (PGE1) is used to keep the ductus arteriosus patent and can be life‐saving in neonates with ductal‐dependent cardiac lesions. PGE1 is used to promote mixing of pulmonary and systemic blood flow or improve pulmonary or systemic circulations, prior to balloon atrial septostomy or surgery. PGE1 therapy may cause several short‐term and long‐term adverse effects. The efficacy and safety of PGE1 in neonates with ductal‐dependent cardiac lesions has not been systematically reviewed. 
+Objectives
+To determine the efficacy and safety of both short‐term (< 120 hours) and long‐term (≥120 hours) PGE1 therapy in maintaining patency of the ductus arteriosus and decreasing mortality in ductal‐dependent cardiac lesions. 
+Search methods
+We searched the literature in October 2017, using the search strategy recommended by Cochrane Neonatal. We searched electronic databases (CENTRAL (in the Cochrane Library), MEDLINE, CINAHL, Embase); abstracts of the Pediatric Academic Societies; websites for registered trials at www.clinicaltrials.gov and www.controlled‐trials.com; and in the reference list of identified articles. 
+Selection criteria
+Randomized or quasi‐randomized trials using PGE1 at any dose or duration to maintain ductal patency in term or late preterm (≥ 34 weeks' gestation) infants with ductal‐dependent cardiac lesions and which reported effectiveness and safety in the short term or long term. 
+Data collection and analysis
+We followed the standard Cochrane methods for conducting a systematic review. Two review authors (SA and MP) independently assessed the titles and abstracts of studies identified by the search strategy to determine eligibility for inclusion. We obtained the full‐text version if eligibility could not be done reliably by title and abstract. We resolved any differences by discussion. We designed electronic forms for trial inclusion/exclusion, data extraction, and for requesting additional published information from authors of the original reports. 
+Main results
+Our search did not identify any completed or ongoing trials that met our inclusion criteria. 
+Authors' conclusions
+There is insufficient evidence from randomized controlled trials to determine the safety and efficacy of PGE1 in neonates with ductal‐dependent cardiac lesions. Evidence from observational trials have informed clinical practice on the use of PGE, which is now considered the standard of care for ductal‐dependent cardiac lesions. It is unlikely that randomized controlled studies will be performed for this indication but comparative efficacy of newer formulations of PGE1, different doses of PGE1 and studies comparing PGE with PDA stents or other measures to keep the ductus open may be ethical and necessary. 

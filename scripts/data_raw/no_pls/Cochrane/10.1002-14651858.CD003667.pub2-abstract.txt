@@ -1,0 +1,15 @@
+Background
+Early‐onset group B streptococcal disease (EOGBSD) is the most frequent cause of serious infection in the newborn period. Current strategies used to prevent EOGBSD are focused upon maternal antibiotic prophylaxis to reduce transmission of GBS to the infant. Observational studies have suggested that the administration of intramuscular penicillin to the newborn immediately following delivery may be an effective strategy to reduce the incidence of EOGBSD. 
+Objectives
+To determine if the administration of intramuscular penicillin to newborns at birth is a safe and effective method to prevent morbidity and mortality from EOGBSD. 
+Search methods
+The standard search strategy of the Neonatal Review Group was used. This included searches of electronic databases: Oxford Database of Perinatal Trials, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library Issue 1, 2004), and MEDLINE (1966 ‐ Dec 2003); and previous reviews including cross references, expert informants and journal hand searching in the English language as well as conference and symposia proceedings published in Pediatric Research. 
+Selection criteria
+Randomised trials in which intramuscular penicillin was administered as prophylaxis for EOGBSD within four hours of birth. 
+Outcomes considered were EOGBSD, neonatal mortality, late‐onset GBSD, neonatal sepsis, and other secondary outcomes such as neurodevelopmental status and length of hospital stay. 
+Data collection and analysis
+The search for and assessment of trials for inclusion, quality assessment and data extraction were undertaken independently by the reviewers. Meta‐analysis was not undertaken as data from only one trial is included in this review. Data were analysed using relative risk (RR) with 95% confidence intervals (CI). 
+Main results
+One randomised controlled trial was included in this review. In this trial of 1187 infants of birthweight 501 to 2000 grams, there were no significant differences found for the outcomes of EOGBSD (RR 0.73; 95%CI 0.32, 1.62), or neonatal mortality (RR 0.78; 95% CI 0.55, 1.11). No other outcomes were able to be assessed. 
+Authors' conclusions
+This review does not support the routine use of intramuscular penicillin to prevent EOGBSD in newborn infants. There is a discrepancy between this finding and the results of a number of larger non‐randomised trials. Explanations for this are proposed. There is a need for this intervention to be tested as a component of the existing prevention strategies in widespread use. 

@@ -1,0 +1,14 @@
+Background
+Impaction of a soft food bolus in the oesophagus causes dysphagia and regurgitation. If the bolus does not pass spontaneously, then the patient is at risk of aspiration, dehydration, perforation, and death. Definitive management is with endoscopic intervention, recommended within 24 hours. Prior to endoscopy, many patients undergo a period of observation, awaiting spontaneous disimpaction, or may undergo enteral or parenteral treatments to attempt to dislodge the bolus. There is little consensus as to which of these conservative strategies is safe and effective to be used in this initial period, before resorting to definitive endoscopic management for persistent impaction. 
+Objectives
+To evaluate the efficacy of non‐endoscopic conservative treatments in the management of soft food boluses impacted within the oesophagus. 
+Search methods
+We searched the following databases, using relevant search terms: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase and CINAHL. The date of the search was 18 August 2019. We screened the reference lists of relevant studies and reviews on the topic to identify any additional studies. 
+Selection criteria
+We included randomised controlled trials of the management of acute oesophageal soft food bolus impaction, in adults and children, reporting the incidence of disimpaction (confirmed radiologically or clinically by return to oral diet) without the need for endoscopic intervention. We did not include studies focusing on sharp or solid object impaction. 
+Data collection and analysis
+We used standard methodological procedures recommended by Cochrane.
+Main results
+We identified 890 unique records through the electronic searches. We excluded 809 clearly irrelevant records and retrieved 81 records for further assessment. We subsequently included one randomised controlled trial that met the eligibility criteria, which was conducted in four Swedish centres and randomised 43 participants to receive either intravenous diazepam followed by glucagon, or intravenous placebos. The effect of the active substances compared with placebo on rates of disimpaction without intervention is uncertain, as the numbers from this single study were small, and the rates were similar (38% versus 32%; risk ratio 1.19, 95% confidence interval 0.51 to 2.75, P = 0.69). The certainty of the evidence using GRADE for this outcome is low. Data on adverse events were lacking. 
+Authors' conclusions
+There is currently inadequate data to recommend the use of any enteral or parenteral treatments in the management of acute oesophageal soft food bolus impaction. There is also inadequate data regarding potential adverse events from the use of these treatments, or from potential delays in definitive endoscopic management. Caution should be exercised when using any conservative management strategies in these patients. 

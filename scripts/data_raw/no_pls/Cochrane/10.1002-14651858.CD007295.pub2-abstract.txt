@@ -1,0 +1,18 @@
+Background
+Depression is a common problem in patients with multiple sclerosis (MS). It is unclear which pharmacologic treatment is the most effective and the least harmful. 
+Objectives
+To investigate the efficacy and tolerability of pharmacologic treatments for depression in patients with MS. 
+Search methods
+We searched the Cochrane Multiple Sclerosis Group's Trials Register (June 2010), reference lists of relevant articles and conference proceedings. Regulatory agencies were used as additional sources of information on adverse effects. 
+Selection criteria
+Adequately and quasi‐randomized controlled blinded or unblinded trials in children and adults with MS. Experimental intervention: pharmacologic treatments for depression without restrictions regarding dose, route of administration, frequency, or duration. Control intervention: placebo treatment or no treatment. 
+Data collection and analysis
+Two teams of reviewers independently assessed trial quality and extracted data. We contacted study authors for additional information. We collected adverse effects from the trials. 
+Information about study population, type of intervention, outcome measures, and study design were extracted from the selected studies. Trial quality was evaluated with the criteria: randomization, allocation concealment, blinding, handling of incomplete outcome data, freedom from selective reporting and freedom from other bias. 
+The impact of missing data on the study results was explored with sensitivity analyses comparing the results from the analyses of study completers with those from best‐ and worst‐case scenarios. 
+Main results
+Two trials (70 participants) were included. One trial (28 participants) compared treatment with desipramine for five weeks to placebo. The other trial (42 participants) compared treatment with paroxetine for twelve weeks to placebo. Both trials had a significant number of patients lost to follow‐up or with missing outcome measurements. 
+There was a trend towards efficacy of both treatments compared to placebo, but this difference was not statistically significant except for one outcome. Confidence intervals were wide in all analyses and our sensitivity analysis showed that the missing data may have had an important effect in both trials, with large differences between best‐case and worst‐case scenarios for all assessed outcomes. 
+Both treatments were associated with adverse effects, with significantly more patients treated with paroxetine suffering from nausea or headache. Given the difference in trial duration and type of drug, we decided not to perform a meta‐analysis. 
+Authors' conclusions
+Both desipramine and paroxetine show a trend towards efficacy in depression in MS the short term, but both treatments were associated with adverse effects, with significantly more patients treated with paroxetine suffering from nausea or headache. Further clinical research on the treatment of depression in MS is clearly needed. Future trials should address the efficacy and tolerability in the long term and compare antidepressant treatments head‐to‐head. 

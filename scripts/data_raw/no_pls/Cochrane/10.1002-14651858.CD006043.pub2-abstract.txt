@@ -1,0 +1,15 @@
+Background
+This is an updated version of the original Cochrane Review published in Issue 4, 2008 of The Cochrane Library. There is variation in the use of pain relief for managing pain or discomfort of femoral sheath removal. The efficacy of pain relief to promote comfort during this procedure or to reduce the incidence of vascular and procedural complications has not been established. 
+Objectives
+To assess the efficacy of pain relief used to manage pain of femoral sheath removal in adults after interventional cardiology. 
+To determine if pain relief influences rates of complications associated with this procedure. 
+Search methods
+We brought the search up to date by searching the Cochrane Central Register of Controlled Trials (CENTRAL) in The Cochrane Library, MEDLINE, EMBASE, CINAHL, Australasian Medical Index, Web of Knowledge and Digital Dissertations up to June 2011. 
+Selection criteria
+Randomised studies comparing opioid, local anaesthetic, anxiolytic, no treatment or placebo administered for alleviation of pain or discomfort of the femoral sheath removal procedure. 
+Data collection and analysis
+Two review authors assessed study quality and extracted data. We calculated mean differences (MD) where meta‐analysis was feasible. We collected adverse effects information. 
+Main results
+Four studies involving 971 participants were included. All results were reported using a zero to 10 pain scale. Three studies (four treatment arms) involving 498 participants compared subcutaneous lignocaine with control with no significant difference between pain scores; MD 0.12 (95% confidence interval (CI) ‐0.46 to 0.69). Two studies (three treatment arms) involving 399 participants compared intravenous pain regimens with control. A significant reduction in pain score was observed with intravenous opioid and anxiolytic; MD ‐0.90 (95% CI ‐1.54 to ‐0.27). One study involving 60 participants compared levobupivacaine with placebo. Longer‐acting local anaesthetic significantly lowered the pain score by a MD of ‐1.10 (95% CI ‐1.26 to ‐0.94). The data are insufficient to identify any influence of pain regimens on vascular and procedural complication rates. No studies reported appropriate blinding for all treatment arms. The largest study, comprising 661 participants, was unblinded with a quality score of two out of five. 
+Authors' conclusions
+No new studies have been found since the last version of this review and the conclusions therefore remain the same. Intravenous pain regimens and levobupivacaine may have greater efficacy when compared to control for the management of pain related to femoral sheath removal. However, a definitive study is still required because the clinical difference is small. There is no evidence to support the use of subcutaneous lignocaine. There is insufficient evidence to determine if pain relief influences the rate of complications. One new study has been included as a 'study awaiting assessment' as we await further information from the study authors. 

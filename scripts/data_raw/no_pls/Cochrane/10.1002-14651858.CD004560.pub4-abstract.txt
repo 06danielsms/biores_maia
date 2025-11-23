@@ -1,0 +1,14 @@
+Background
+Acute bronchitis is one of the most common diagnoses made by primary care physicians. It is traditionally treated with antibiotics (although the evidence for their effectiveness is weak, and modest at best) and other even less effective treatments. Chinese medicinal herbs have also been used as a treatment. 
+Objectives
+This review aimed to summarise the existing evidence on the comparative effectiveness and safety of Chinese medicinal herbs for treating uncomplicated acute bronchitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 4) which includes the Cochrane Acute Respiratory Infections Group's Specialised Register, MEDLINE (1966 to 19 September 19, 2011), EMBASE (1988 to 19 September 2011) and CNKI and the Chinese Biomedical Database (CBM) (1980 to 19 September, 2011). 
+Selection criteria
+Randomised controlled trials (RCTs) comparing Chinese medicinal herbs with placebo, antibiotics or other Western medicines for the treatment of uncomplicated acute bronchitis. 
+Data collection and analysis
+At least two review authors independently extracted data and assessed trial quality.
+Main results
+In this updated review, 74 studies involving 6877 participants were reported as RCTs by the study authors. None of them met the inclusion criteria for this review. Out of the 74 trials, we identified 39 as non‐RCTs and 35 compared different Chinese herbal medicines in the intervention and control groups. 
+Authors' conclusions
+There is insufficient quality data to recommend the routine use of Chinese herbs for acute bronchitis. Trial design limitations of the individual studies meant that we could not draw any conclusions about the benefits of Chinese herbs for acute bronchitis. In addition, the safety of Chinese herbs is unknown due to the lack of toxicological evidence for these herbs, although adverse events were reported in some case reports. 

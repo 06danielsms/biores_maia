@@ -1,0 +1,14 @@
+Background
+Intrauterine insemination (IUI) is a recommended treatment for unexplained subfertility. The treatment involves the direct delivery of spermatozoa into the uterus using a catheter. Many factors influence the success of IUI treatments including the type of catheter used. 
+Objectives
+To compare pregnancy‐related outcomes from women undergoing intrauterine insemination cycles performed with either soft or firm catheters in subfertile women. 
+Search methods
+We searched the following databases (inception to July 2010) with no language restrictions: Cochrane Menstrual Disorders and Subfertility Group Specialised Register, CENTRAL (The Cochrane Library), MEDLINE, EMBASE, PsycINFO, CINAHL, LILACS and OpenSigle. We also searched the conference abstracts in the ISI Web of Knowledge and Google, and conference abstracts and citation lists of relevant publications, reviews and included studies. 
+Selection criteria
+We included only truly randomised controlled studies of women who underwent IUI using either soft or firm catheter types and reporting data on rates of live birth, clinical pregnancy, multiple pregnancy, miscarriage, ease of introduction of the catheter, occurrence of trauma, or woman's discomfort. 
+Data collection and analysis
+Two review authors screened the titles and abstracts of 78 potentially eligible studies and excluded 66 of these. We critically appraised the full texts of twelve studies and excluded three studies. Nine publications of six studies were remaining. We extracted data from the six remaining studies and there were no disagreements. We assessed risk of bias and pooled dichotomous data and presented the Peto odds ratios (OR) with 95% confidence intervals (CI). 
+Main results
+There was no evidence of a significant effect difference regarding the choice of catheter type for any of the outcomes. Three studies reported live birth rates (OR 0.94, 95% CI 0.65 to 1.35) with a translated OR percentages (1.3, 95% CI 0.56 to 3.1) while six studies reported clinical pregnancy rates (OR 1.0, 95% CI 0.73 to 1.35 ). Two studies were pooled for the analysis of miscarriages (OR 1.25, 95% CI 0.49 to 3.22). Results of other adverse outcomes were reported per cycle and were therefore not pooled. 
+Authors' conclusions
+On the basis of the evidence available in this review, no specific conclusion can be made regarding the superiority of one catheter class over another. Further adequately powered studies reporting on clinical outcomes (e.g. live birth rate) are required. Additional outcomes such as miscarriage rates and measures of discomfort need to be reported. 

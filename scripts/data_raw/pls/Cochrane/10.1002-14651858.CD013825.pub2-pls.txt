@@ -1,0 +1,60 @@
+Are laboratory‐made, COVID‐19‐specific monoclonal antibodies an effective treatment for COVID‐19? 
+Key messages 
+‐ We do not know whether antibodies (the body’s natural defence against disease) made in a laboratory and all the same as one another (monoclonal) and designed to target COVID‐19, are an effective treatment for COVID‐19 because we assessed only six studies exploring different treatments in different types of patients. 
+‐ We identified 36 ongoing studies that will provide more evidence when completed.
+‐ We will update this review regularly as more evidence becomes available.
+What are ‘monoclonal’ antibodies? 
+Antibodies are made by the body as a defence against disease. However, they can also be produced in a laboratory from cells taken from people who have recovered from a disease.  
+Antibodies that are designed to target only one specific protein – in this case, a protein on the virus that causes COVID‐19 – are ‘monoclonal’. They attach to the COVID‐19 virus and stop it from entering and replicating in human cells, which helps to fight the infection. Monoclonal antibodies have been used successfully to treat other viruses. They are thought to cause fewer unwanted effects than convalescent plasma, which contains a variety of different antibodies. 
+What did we want to find out? 
+We wanted to know if COVID‐19 specific monoclonal antibodies are an effective treatment for COVID‐19. We looked at whether they:  
+‐ reduced the number of deaths from any cause; 
+‐ improved symptoms or made them worse; 
+‐ increased admissions to hospital; and
+‐ caused any serious or other unwanted effects.
+What did we do? 
+We searched for studies that investigated one or more monoclonal antibodies to treat people with confirmed COVID‐19 compared with placebo (sham treatment), another treatment or no treatment. Studies could take place anywhere globally and include participants of any age, gender or ethnicity, with mild, moderate or severe COVID‐19.  
+We compared and summarised the results of the studies and rated our confidence in the evidence, based on factors such as study methods and size. 
+What did we find? 
+We found six active studies including a total of 17,495 people. Four studies investigated non‐hospitalised people with no symptoms or mild COVID‐19. Two studies investigated hospitalised people with moderate to severe COVID‐19. Studies took place across the world. Three studies were funded by pharmaceutical companies. The monoclonal antibodies they studied were bamlanivimab, etesevimab, casirivimab and imdevimab, sotrovimab, regdanvimab. We did not identify data for mortality at 60 days and quality of life. 
+Non‐hospitalised people, with no symptoms or mild COVID‐19 (four studies)  
+One study investigated different doses of bamlanivimab (465 people), compared to placebo.
+We don’t know whether bamlanivimab:
+‐ increases or reduces the number of deaths because no participants died within 30 days of treatment; 
+‐ causes more or fewer serious unwanted effects because there were few events.
+Bamlanivimab may reduce the number of admissions to hospital within 30 days of treatment compared to placebo. 
+‐ May cause slightly fewer unwanted effects than placebo. 
+‐ We did not find data for improved symptoms or worsened symptoms.
+One study investigated a combination of bamlanivimab and etesevimab (1035 people), compared to placebo. 
+‐ Bamlanivimab and etesevimab may reduce the number of deaths and admissions to hospital.
+‐ May cause slightly more unwanted effects.
+‐ May cause more serious unwanted effects.
+For treatment with bamlanivimab alone or in combination with etesevimab we did not find data for improved symptoms or worsened symptoms. 
+One study (phase 1/2 with 799 people) investigated different doses of casirivimab combined with imdevimab, compared to placebo. 
+‐ Casirivimab combined with imdevimab may reduce the number of hospital admissions or death. 
+‐ We don't know whether casirivimab and imdevimab causes more unwanted (grades 3 and 4) and serious unwanted effects than placebo because there were too few deaths to allow us to make a judgment.  
+‐  We did not find data for the number of people who died at day 30 and development of severe symptoms. 
+‐ We did not include results from phase 3 (5607 people) of this study, because of high risk of bias, as it was not clear which participants were included in the analysis. 
+One study (583 people) investigated sotrovimab, compared to placebo.
+We don't know whether sotrovimab: 
+‐ increases or reduces the number of deaths and people requiring invasive mechanical ventilation or dying, because there were too few deaths to allow us to make a judgment. 
+‐ Sotrovimab may reduce the number of people requiring oxygen, unwanted (grades 3 to 4) and serious unwanted effects; 
+‐ may have little or no effect on unwanted effects (all grades). 
+Another study (327 people) investigated different doses of regdanvimab (40 mg/kg and 80 mg/kg), compared to placebo. 
+‐ Regdanvimab at either dose may reduce the number of admissions to hospital or death.
+‐ May increase unwanted events (grades 3 to 4).
+‐ Regdanvimab at a dose of 80 mg/kg may reduce unwanted effects (all grades) and 40 mg/kg may have little to no effect. 
+‐ We don't know whether regdanvimab increases or decreases the number of deaths, requirement for invasive mechanical ventilation, and serious unwanted effects,  because there were too few events to allow us to make a judgment. 
+Hospitalised people with moderate to severe COVID‐19 (2 studies)  
+One study (314 people) investigated bamlanivimab compared to placebo.
+‐ We don’t know whether bamlanivimab increases or decreases the number of deaths due to any cause up to 30 or 90 days after treatment because there were too few deaths to allow us to make a judgment (6 deaths with bamlanivimab and 4 deaths with placebo in 314 people).  
+‐ Bamlanivimab may slightly increase the development of severe COVID‐19 symptoms five days after treatment and the number of people with unwanted effects. 
+‐ Bamlanivimab may have little to no effect on time until discharge from hospital.
+‐ We don’t know whether bamlanivimab causes serious unwanted effects by day 30 because the study was small and reported few serious unwanted effects.  
+Another study (9785 people) investigated casirivimab combined with imdevimab, compared to standard of care. 
+‐ Casirivimab combined with imdevimab has probably little to no effect on the number of deaths, requirement for invasive mechanical ventilation or death, and hospital discharge alive.  
+‐  We did not find data for unwanted and serious unwanted effects.
+What are the limitations of the evidence?  
+Our confidence in the evidence is low because we found only six studies, and they did not report everything we were interested in, such as the number of deaths within 60 days and quality of life. We found 36 ongoing studies. When they are published, we will add their results to our review. These results are likely to change our conclusions and will also help us understand how new variants affect how well monoclonal antibodies work.  
+How up to date is this evidence?  
+The evidence is up to date to 17 June 2021.

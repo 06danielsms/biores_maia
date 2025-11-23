@@ -1,0 +1,14 @@
+Background
+Nearly 30% of patients with epilepsy continue to have seizures despite using several antiepileptic drugs (AEDs). Such patients are regarded as having refractory, or uncontrolled, epilepsy. While there is no universally accepted definition of uncontrolled, or medically refractory, epilepsy, for the purposes of this review we will consider seizures as drug resistant if they have failed to respond to a minimum of two AEDs. Specialists consider that early surgical intervention may prevent seizures at a younger age, which in turn may improve the intellectual and social status of children. Many types of surgery are available for treating refractory epilepsy; one such procedure is known as subpial transection. 
+Objectives
+To assess the effects of subpial transection for focal‐onset seizures and generalised tonic‐clonic seizures in children and adults. 
+Search methods
+For the latest update we searched the following databases on 7 August 2018: the Cochrane Register of Studies (CRS Web), which includes the Cochrane Epilepsy Group Specialized Register and the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (Ovid, 1946 to August 06, 2018), ClinicalTrials.gov, and the WHO International Clinical Trials Registry Platform (ICTRP). We imposed no language restrictions. 
+Selection criteria
+We considered all randomised and quasi‐randomised parallel‐group studies, whether blinded or non‐blinded. 
+Data collection and analysis
+Two review authors (BK and SR) independently screened trials identified by the search. The same two review authors planned to independently assess the methodological quality of studies. Had we identified studies for inclusion, one review author would have extracted the data, and the other would have verified the data. 
+Main results
+We found no relevant studies.
+Authors' conclusions
+We found no evidence to support or refute the use of subpial transection surgery for patients with medically refractory epilepsy. Well‐designed randomised controlled trials are needed to guide clinical practice. 

@@ -1,0 +1,14 @@
+Background
+Type 1 diabetes is a metabolic disorder resulting from a defect in insulin secretion. Onset of type 1 diabetes mellitus may occur at any age and it is one of the most common chronic diseases of childhood and adolescence. Since there are no interventions known to prevent onset, it is vital that effective treatment regimes are available. Glycaemic control is maintained by replacement of insulin and may be in the form of 'conventional' insulin therapy (multiple injections per day) or continuous subcutaneous insulin infusion (CSII). 
+Objectives
+To assess the effects of CSII compared to multiple insulin injections (MI) in people with type 1 diabetes mellitus. 
+Search methods
+Studies were obtained from electronic searches of The Cochrane Library, MEDLINE, EMBASE and CINAHL. 
+Selection criteria
+Studies were included if they were randomised controlled trials comparing CSII with three or more insulin injections per day (MI) in people with type 1 diabetes mellitus. 
+Data collection and analysis
+Two authors independently assessed risk of bias and extracted characteristics of included studies. Authors contacted study investigators to obtain missing information. Generic inverse variance meta‐analyses using a random‐effects model were performed. 
+Main results
+Twenty three studies randomised 976 participants with type 1 diabetes to either intervention. There was a statistically significant difference in glycosylated haemoglobin A1c (HbA1c) favouring CSII (weighted mean difference ‐0.3% (95% confidence interval ‐0.1 to ‐0.4). There were no obvious differences between the interventions for non‐severe hypoglycaemia, but severe hypoglycaemia appeared to be reduced in those using CSII. Quality of life measures suggest that CSII is preferred over MI. No significant difference was found for weight. Adverse events were not well reported, no information is available on mortality, morbidity and costs. 
+Authors' conclusions
+There is some evidence to suggest that CSII may be better than MI for glycaemic control in people with type 1 diabetes. Non‐severe hypoglycaemic events do not appear to be reduced with CSII. There is insufficient evidence regarding adverse events, mortality, morbidity and costs. 

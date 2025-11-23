@@ -1,0 +1,10 @@
+Endoscopic scoring indices for evaluation of disease activity in ulcerative colitis
+What is ulcerative colitis? 
+Ulcerative colitis is an inflammatory bowel disease characterized by long‐term (chronic) inflammation and ulcers (sores) in the inner most lining of the large intestine and the rectum. Common symptoms include diarrhea, abdominal pain and cramping, weight loss and tiredness. 
+What is an endoscopic scoring index? 
+An endoscopic scoring index measures disease activity based on what a physician can see during an endoscopy procedure. An endoscopy is a non‐surgical procedure whereby a small camera is used to view the digestive tract. The physician who performs the endoscopy may rate disease activity using the index, or this may be done by another physician if the procedure was video recorded or photographs were taken. 
+Commonly used endoscopic indices include the Baron Score, Rachmilewitz Index, Ulcerative Colitis Endoscopic Index of Severity, Mayo Clinic Endoscopic Subscore, and the Ulcerative Colitis Colonoscopic Index of Serverity. 
+What did the researchers investigate? 
+It is important for endoscopic indices to be valid, meaning that they accurately evaluate what they are intended to measure. The researchers investigated the validity of various endoscopic indices for assessing disease activity in ulcerative colitis. While the Ulcerative Colitis Endoscopic Index of Severity, Mayo Clinic Endoscopic Subscore, and the Ulcerative Colitis Colonoscopic Index of Serverity have undergone extensive validation compared to the other indices, none of these instruments have been fully validated, 
+What did the researchers find? 
+The researchers found that none of the currently used endoscopic indices have been fully validated. Further research on the operating properties of these indices is needed given the lack of a fully‐validated endoscopic scoring instrument for the evaluation of disease activity in ulcerative colitis. 

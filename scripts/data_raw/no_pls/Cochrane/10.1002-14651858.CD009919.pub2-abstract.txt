@@ -1,0 +1,16 @@
+Background
+Thoracic trauma (TT) is common among people with multiple traumatic injuries. One of the injuries caused by TT is the loss of thoracic stability resulting from multiple fractures of the rib cage, otherwise known as flail chest (FC). A person with FC can be treated conservatively with orotracheal intubation and mechanical ventilation (internal pneumatic stabilization) but may also undergo surgery to fix the costal fractures. 
+Objectives
+To evaluate the effectiveness and safety of surgical stabilization compared with clinical management for people with FC. 
+Search methods
+We ran the search on the 12 May 2014. We searched the Cochrane Injuries Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), MEDLINE (OvidSP), EMBASE Classic and EMBASE (OvidSP), CINAHL Plus (EBSCO), ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S, and CPSI‐SSH), and clinical trials registers. We also screened reference lists and contacted experts. 
+Selection criteria
+Randomized controlled trials of surgical versus nonsurgical treatment for people diagnosed with FC. 
+Data collection and analysis
+Two review authors selected relevant trials, assessed their risk of bias, and extracted data. 
+Main results
+We included three studies that involved 123 people. The methods used for blinding the participants and researchers to the treatment group were not reported, but as the comparison is surgical treatment with medical treatment this bias is hard to avoid. There was no description of concealment of the randomization sequence in two studies. 
+All three studies reported on mortality, and deaths occurred in two studies. There was no clear evidence of a difference in mortality between treatment groups (risk ratio (RR) 0.56, 95% confidence interval (CI) 0.13 to 2.42); however, the analysis was underpowered to detect a difference between groups. Out of the 123 people randomized and treated, six people died; the causes of death were pneumonia, pulmonary embolism, mediastinitis, and septic shock. 
+Among people randomized to surgery, there were reductions in pneumonia (RR 0.36, 95% 0.15 to 0.85; three studies, 123 participants), chest deformity (RR 0.13, 95% CI 0.03 to 0.67; two studies, 86 participants), and tracheostomy (RR 0.38, 95% CI 0.14 to 1.02; two studies, 83 participants). Duration of mechanical ventilation, length of intensive care unit stay (ICU), and length of hospital stay were measured in the three studies. Due to differences in reporting, we could not combine the results and have listed them separately. Chest pain, chest tightness, bodily pain, and adverse effects were each measured in one study. 
+Authors' conclusions
+There was some evidence from three small studies that showed surgical treatment was preferable to nonsurgical management in reducing pneumonia, chest deformity, tracheostomy, duration of mechanical ventilation, and length of ICU stay. Further well‐designed studies with a sufficient sample size are required to confirm these results and to detect possible surgical effects on mortality. 

@@ -1,0 +1,13 @@
+Beta‐blockers versus placebo or no intervention for patients with suspected or diagnosed myocardial infarction 
+Background 
+According to the World Health Organization, 7.4 million people died from ischaemic heart disease in 2012, representing 15% of all global deaths. The role of acute or subacute treatment with beta‐blockers in people suspected of or diagnosed with a heart attack, rests on their inhibition of so‐called beta‐receptors. This may result in a reduction in the oxygen demand of the heart. Hence, the inhibition of the beta‐receptor may or may not decrease the complications associated with heart attack. 
+Review question 
+The aim of this Cochrane Systematic Review was to assess the benefits and harms of beta‐blockers in people with suspected or diagnosed acute myocardial infarction (heart attack). 
+Search date 
+We searched scientific databases from their inception to June 2019.
+Study characteristics 
+We found 63 randomised clinical trials where people with or suspected of a heart attack were randomly allocated to receiving beta‐blockers compared with placebo or no intervention. The 63 trials included 85,550 adults with a mean age of 57.4 years. Only one trial was at low risk of bias. The remaining trials were at high risk of bias. The quality of the evidence according to GRADE ranged from very low to high. Fifty‐six trials commenced beta‐blockers versus control during the acute phase of acute myocardial infarction and seven trials during the subacute phase. 
+Study funding sources 
+We found 33 trials that were fully or partly funded by the industry, 20 trials that did not report their funding source, and 10 trials that were funded by other sources than the industry. 
+Key results and conclusion 
+Our present review shows that people receiving beta‐blockers compared with people receiving placebo or no intervention seem at lower risk of a new heart attack in the acute phase after a heart attack. People receiving beta‐blockers also seem at lower risk of dying from any cause and from any cardiac cause at long‐term follow‐up after a heart attack. Nevertheless, people receiving beta‐blockers do not seem to have a lower or a higher risk of dying from any cause or from any cardiac cause in the acute phase after a heart attack. The effects of beta‐blockers on all remaining outcomes (serious adverse events according to International Conference on Harmonization ‐ Good Clinical Practice, major adverse cardiovascular events (composite of dying from a cardiac cause and a new non‐fatal heart attack), new heart attack at long‐term follow‐up, quality of life, and angina) are uncertain due to none or sparse data. 

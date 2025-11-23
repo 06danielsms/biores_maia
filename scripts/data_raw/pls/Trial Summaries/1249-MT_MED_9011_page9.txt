@@ -1,0 +1,23 @@
+Clinical Study Results
+
+The table below shows the serious adverse reactions that participants had during the study.
+
+Serious adverse reactions during the study
+
+Anifrolumab             Placebo
+Serious adverse         Serious adverse
+reactions               reactions 
+(Out of 180 participants)   (Out of 182 participants)
+- Pneumonia          1.7% (3)          3.8% (7)
+- Allergic reaction          0.6% (1)          0.0% (0)
+- Cancerous growth on the cervix          0.6% (1)          0.0% (0)
+- Kidney stones          0.6% (1)          0.0% (0)
+- Shingles          0.6% (1)          0.0% (0)
+- Blood infection          0.0% (0)          0.5% (1)
+- Flu-like illness          0.0% (0)          0.5% (1)
+- Heart failure          0.0% (0)          0.5% (1)
+- Infection of the gut          0.0% (0)          0.5% (1)
+- Infection of the upper airways of the nose and throat          0.0% (0)          0.5% (1)
+- Inflammation of the gallbladder          0.0% (0)          0.5% (1)
+- Saliva gland infection          0.0% (0)          0.5% (1)
+- Tooth infection          0.0% (0)          0.5% (1)

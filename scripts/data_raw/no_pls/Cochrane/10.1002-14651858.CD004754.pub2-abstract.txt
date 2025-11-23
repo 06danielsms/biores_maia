@@ -1,0 +1,14 @@
+Background
+Idiopathic hypercalciuria is an inherited metabolic abnormality characterised by excessive amounts of calcium excreted into the urine in patients with normal serum levels of calcium. The morbidity of hypercalciuria is related to kidney stone disease and bone demineralization. In children, hypercalciuria can cause recurrent haematuria, frequency‐dysuria syndrome, urinary tract infection and abdominal and lumbar pain. Several pharmacological treatments have been described that can decrease the levels of urinary calcium or its index of urinary crystallization. 
+Objectives
+To assess the benefits and harms of pharmacological interventions for preventing complications and decreasing urological symptoms in patients with idiopathic hypercalciuria. 
+Search methods
+We searched MEDLINE, EMBASE, the Cochrane Renal Group's specialised register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), handsearched relevant conference proceedings and reference lists of articles. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTS that compared any pharmacological intervention for preventing complications in idiopathic hypercalciuria, with placebo, other pharmacological intervention or a different administration mode or dose of the same treatment given for a minimum duration of four months and had a follow‐up period of at least six months. 
+Data collection and analysis
+Four authors assessed the studies for inclusion and extracted the data. Disagreements were resolved through discussion. Results were expressed as risk ratios (RR) with 95% confidence intervals (CI) or mean difference (MD). 
+Main results
+Five studies (316 adult patients) were included. Four compared thiazides with standard treatment (periodic clinical follow‐up and increased water intake) or specific dietary recommendations and one analysed the effect of thiazide plus a neutral potassium salt. There was a significant decrease in the number of new stone recurrences in those treated with thiazides (RR 1.61, 95% CI 1.33 to 1.96), although the follow‐up periods varied. The stone formation rate also showed a statistically significant decrease in the patients treated with diuretics (MD ‐0.18, 95% CI ‐0.30 to ‐0.06). Thiazides plus potassium salts significantly decreased calciuria and vitamin D levels. 
+Authors' conclusions
+There is some evidence that in patients with idiopathic hypercalciuria and recurrent stones, the addition of thiazides to a normal or modified diet for short to long periods (five months to three years) reduced the number of stone recurrences and decreased the stone formation rate. Thiazides and neutral potassium phosphate decreased calciuria in symptomatic patients with idiopathic hypercalciuria. There were no studies investigating the effect of pharmacological treatment on other clinical complications or asymptomatic idiopathic hypercalciuria. 

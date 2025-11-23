@@ -1,0 +1,13 @@
+How many participants’ prostate-specific antigen levels decreased significantly after receiving AZD4635 with durvalumab or with oleclumab?
+
+To answer this question, the study doctors measured the levels of prostate-specific antigen, also called “PSA”, in the participants’ blood before they received treatment and throughout the study. When PSA levels are high or increasing, it can mean that tumors are growing. When PSA levels are low or decreasing, it can mean that tumors are shrinking.
+
+The researchers calculated the percentage of participants whose PSA levels decreased significantly. This means that a participant’s PSA level had decreased by more than half of what it was before they received treatment. This percentage of participants needed to be at least 30.0% for the researchers to decide that AZD4635 with durvalumab or with oleclumab worked in a meaningful way. There was 1 participant in the AZD4635 with durvalumab group that was not included in this calculation because they did not have an abnormal PSA level.
+
+Overall, the researchers found that after receiving AZD4635 with durvalumab: X 1 out of 28 participants had their PSA levels decrease significantly. This was 3.6% of participants.
+
+Overall, the researchers found that after receiving AZD4635 with oleclumab: X 1 out of 30 participants had their PSA levels decrease significantly. This was 3.3% of participants.
+
+What medical problems happened during this study?
+
+This section is a summary of the medical problems the participants had during the study that the study doctors thought might be related to the study treatments. These medical problems are called “adverse reactions”. An adverse reaction is considered “serious” when it is life-threatening, causes lasting problems, or requires hospital care.

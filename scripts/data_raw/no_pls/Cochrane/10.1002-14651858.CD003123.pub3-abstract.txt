@@ -1,0 +1,15 @@
+Background
+Bronchodilators are commonly used for acute bronchiolitis, despite uncertain effectiveness.
+Objectives
+To examine the efficacy and safety of epinephrine in children less than two with acute viral bronchiolitis. 
+Search methods
+We searched CENTRAL (2010, Issue 3) which contains the Acute Respiratory Infections Group's Specialized Register, MEDLINE (1950 to September Week 2, 2010), EMBASE (1980 to September 2010), Scopus (1823 to September 2010), PubMed (March 2010), LILACS (1985 to September 2010) and Iran MedEx (1998 to September 2010). 
+Selection criteria
+We included randomized controlled trials comparing epinephrine to placebo or another intervention involving children less than two years with acute viral bronchiolitis. Studies were included if the trials presented data for at least one quantitative outcome of interest. 
+We selected primary outcomes a priori, based on clinical relevance: rate of admission by days one and seven of presentation for outpatients, and length of stay (LOS) for inpatients. Secondary outcomes included clinical severity scores, pulmonary function, symptoms, quality of life and adverse events. 
+Data collection and analysis
+Two review authors independently screened the searches, applied inclusion criteria, assessed risk of bias and graded the evidence. We conducted separate analyses for different comparison groups (placebo, non‐epinephrine bronchodilators, glucocorticoids) and for clinical setting (inpatient, outpatient). 
+Main results
+We included 19 studies (2256 participants). Epinephrine versus placebo among outpatients showed a significant reduction in admissions at Day 1 (risk ratio (RR) 0.67; 95% confidence interval (CI) 0.50 to 0.89) but not at Day 7 post‐emergency department visit. There was no difference in LOS for inpatients. Epinephrine versus salbutamol showed no differences among outpatients for admissions at Day 1 or 7. Inpatients receiving epinephrine had a significantly shorter LOS compared to salbutamol (mean difference ‐0.28; 95% CI ‐0.46 to ‐0.09). One large RCT showed a significantly shorter admission rate at Day 7 for epinephrine and steroid combined versus placebo (RR 0.65; 95% CI 0.44 to 0.95). There were no important differences in adverse events. 
+Authors' conclusions
+This review demonstrates the superiority of epinephrine compared to placebo for short‐term outcomes for outpatients, particularly in the first 24 hours of care. Exploratory evidence from a single study suggests benefits of epinephrine and steroid combined for later time points. More research is required to confirm the benefits of combined epinephrine and steroids among outpatients. There is no evidence of effectiveness for repeated dose or prolonged use of epinephrine or epinephrine and dexamethasone combined among inpatients. 

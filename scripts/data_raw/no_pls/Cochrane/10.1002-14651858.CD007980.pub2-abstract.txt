@@ -1,0 +1,14 @@
+Background
+As medical care becomes more complex and the ability to test for conditions grows, pressure on healthcare providers to convey increasing volumes of test results to patients is driving investigation of alternative technological solutions for their delivery. This review addresses the use of email for communicating results of diagnostic medical investigations to patients. 
+Objectives
+To assess the effects of using email for communicating results of diagnostic medical investigations to patients, compared to SMS/ text messaging, telephone communication or usual care, on outcomes, including harms, for health professionals, patients and caregivers, and health services. 
+Search methods
+We searched: the Cochrane Consumers and Communication Review Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1 2010), MEDLINE (OvidSP) (1950 to January 2010), EMBASE (OvidSP) (1980 to January 2010), PsycINFO (OvidSP) (1967 to January 2010), CINAHL (EbscoHOST) (1982 to February 2010), and ERIC (CSA) (1965 to January 2010). We searched grey literature: theses/dissertation repositories, trials registers and Google Scholar (searched July 2010). We used additional search methods: examining reference lists and contacting authors. 
+Selection criteria
+Randomised controlled trials, quasi‐randomised trials, controlled before and after studies and interrupted time series studies of interventions using email for communicating results of any diagnostic medical investigations to patients, and taking the form of 1) unsecured email 2) secure email or 3) web messaging. All healthcare professionals, patients and caregivers in all settings were considered. 
+Data collection and analysis
+Two review authors independently assessed the titles and abstracts of retrieved citations. No studies were identified for inclusion. Consequently, no data collection or analysis was possible. 
+Main results
+No studies met the inclusion criteria, therefore there are no results to report on the use of email for communicating results of diagnostic medical investigations to patients. 
+Authors' conclusions
+In the absence of included studies, we can draw no conclusions on the effects of using email for communicating results of diagnostic medical investigations to patients, and thus no recommendations for practice can be stipulated. Further well‐designed research should be conducted to inform practice and policy for communicating patient results via email, as this is a developing area. 

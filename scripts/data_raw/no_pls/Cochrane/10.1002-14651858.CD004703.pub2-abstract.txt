@@ -1,0 +1,14 @@
+Background
+The choice of approach to the laparoscopic repair of inguinal hernia is controversial. There is a scarcity of data comparing the laparoscopic transabdominal preperitoneal (TAPP) approach with the laparoscopic totally extraperitoneal (TEP) approach and questions remain about their relative merits and risks. 
+Objectives
+To compare the clinical effectiveness and relative efficiency of laparoscopic TAPP and laparoscopic TEP for inguinal hernia repair. 
+Search methods
+We searched Medline Extra, Embase, Biosis, Science Citation Index, Cochrane Central Register of Controlled Trials (CENTRAL), Journals@ Ovid Full Text and the electronic version of the journal, Surgical Endscopy. Recent conference proceedings by the following organisations were hand searched: Association of Endoscopic Surgeons of Great Britain & Ireland; International Congress of the European Association for Endoscopic Surgery; Scientific Session of the Society of American Gastrointestinal & Endoscopic Surgeons (SAGES); and the Italian Society of Endoscopic Surgery. In addition, specialists involved in research on the repair of inguinal hernia were contacted to ask for information about any further completed and ongoing trials, relevant websites were searched and reference lists of the all included studies were checked for additional reports. 
+Selection criteria
+All published and unpublished randomised controlled trials and quasi‐randomised controlled trials comparing laparoscopic TAPP with laparoscopic TEP for inguinal hernia repair were eligible for inclusion. Non‐randomised prospective studies were also eligible for inclusion to provide further comparative evidence of complications and adverse events. 
+Data collection and analysis
+Statistical analyses were performed using the fixed effects model and the results expressed as relative risk (RR) for dichotomous outcomes and weighted mean difference (WMD) for continuous outcomes with 95% confidence intervals (CI). 
+Main results
+The search identified one RCT which reported no statistical difference between TAPP and TEP when considering duration of operation, haemotoma, length of stay, time to return to usual activity and recurrence. The eight non‐randomised studies suggest that TAPP is associated with higher rates of port‐site hernias and visceral injuries whilst there appear to be more conversions with TEP. Vascular injuries and deep/mesh infections were rare and there was no obvious difference between the groups. No studies reporting economic evidence were identified. Very limited data were available on learning effects but these data suggest that operators become experienced at between 30 and 100 procedures. 
+Authors' conclusions
+There is insufficient data to allow conclusions to be drawn about the relative effectiveness of TEP compared with TAPP. Efforts should be made to start and complete adequately powered RCTs, which compare the different methods of laparoscopic repair. 

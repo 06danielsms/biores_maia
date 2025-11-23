@@ -1,0 +1,13 @@
+Janus kinase‐1 and Janus kinase‐2 inhibitors for treating myelofibrosis
+Review question 
+We reviewed the effects of Janus kinase‐1 and Janus kinase‐2 inhibitors for treating people with myelofibrosis. 
+Background 
+Myelofibrosis is a disorder of the bone marrow in which the bone marrow is replaced by fibrous tissue. The symptoms depend on the degree of anemia and enlargement of the spleen. This condition has a poor prognosis and generally its treatment is palliative. 
+Ruxolitinib is a drug in the class of Janus kinase inhibitors that tries to block the enzyme that derives in the scar tissue. 
+Study characteristics 
+We identified two clinical trials that included a limited number of patients comparing ruxolitinib to placebo or standard medical treatment. Both studies were published in 2012, and were conducted in the United States of America (USA) and the United Kingdom (UK). Drug companies sponsored both trials. 
+Key results 
+Although the results of the studies only showed a moderate improvement of patients treated with ruxolitinib in terms of their quality of life and a reduction in their spleen size, we could not be sure whether these effects were reliable because of the limitations of the studies and the low number of people they recruited. We also could not be sure whether the drug has an effect on overall survival compared with a placebo, or when it was compared with an active treatment. The effect of ruxolitinib in terms of progression‐free survival was also uncertain. In addition, people treated with this drug showed higher rates of anemia, thrombocytopenia and neutropenia compared with patients treated with a placebo, but the rate of adverse effects was similar to those treated with a medical treatment. 
+Quality of evidence 
+The confidence in the results of this review is very low. The studies have limitations in the way they were designed and executed. Moreover, the limited number of patients included in the studies led to imprecise results. Larger studies should provide more information about the effect of ruxolitinib. 
+Researchers from Cochrane searched all available literature up to 13 November 2014.

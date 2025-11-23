@@ -1,0 +1,14 @@
+Background
+Acute kidney injury (AKI) is associated with substantial morbidity and mortality. Recent studies have shown that dialysis dose was a major factor associated with patient survival. Unresolved questions persist about which mode of peritoneal dialysis (PD) should be used for most patients with AKI. 
+Objectives
+To assess the benefits and harms of tidal PD (TPD) versus other forms of PD on outcomes for patients with AKI. 
+Search methods
+In February 2012 we searched the Cochrane Renal Group's specialised register, CENTRAL (in The Cochrane Library), MEDLINE (from 1966) and EMBASE (from 1980). We also searched reference lists of included studies, review articles and nephrology text books, and contacted local and international experts. 
+Selection criteria
+All randomised controlled trials (RCTs) and quasi‐RCTs (RCTs in which allocation to treatment was obtained by alternation, use of alternate medical records, date of birth or other predictable methods) of TPD versus other forms of PD for AKI. 
+Data collection and analysis
+Two authors independently reviewed search results, extracted data and assessed risk of bias. Results were expressed as risk ratios (RR) with 95% confidence intervals (CI) for dichotomous outcomes and mean difference (MD) for continuous outcomes using a random‐effects model. 
+Main results
+We included one randomised cross‐over study, enrolling 87 participants, which compared TPD with continuous equilibrating PD (CEPD) for patients with AKI. Sequence generation was adequate while allocation concealment was not reported. Our primary outcomes of mortality and recovery of renal function (complete or partial) were not reported (high risk of selective reporting bias). The results from this one study showed TPD resulted in higher creatinine clearance (CrCl) (MD 1.88 mL/min, 95% CI 0.91 to 2.85) and blood urea nitrogen (BUN) clearance (MD 14.71 mL/min, 95% CI 8.24 to 21.18) than CEPD; was superior to CEPD in the removal of potassium, phosphates and in generating ultrafiltrate; was better tolerated; consumed less time and was less expensive than CEPD. There was greater protein loss with TPD. No adverse events were reported. 
+Authors' conclusions
+At present, there is insufficient RCT evidence to enable evaluation of the effect of TPD in patients with AKI. Well‐designed and larger RCTs are required to better understand the risks and benefits of TPD for AKI. 

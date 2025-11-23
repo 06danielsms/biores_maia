@@ -1,0 +1,14 @@
+Clinical Study Results
+
+What kind of study was this?
+This was an "open-label" study. This means the researchers and the participants knew what treatment the participant took, and in what order.
+
+The study had 2 parts, called Part A and Part B.
+
+In Part A, the researchers wanted to compare how 4 different AZD9977 forms acted in the blood when taken without food. Based on these results, the researchers decided which form should be taken in Part B.
+
+All 4 of the AZD9977 forms in Part A were taken by mouth. There were 3 different types of capsules, and 1 type of tablet. All of the participants in Part A took each of the AZD9977 forms, but in a different order. The doses of AZD9977 were measured in milligrams, also called mg.
+
+In Part B, the researchers studied how 1 dose of AZD9977 acted in the blood when taken without food, and another dose of AZD9977 when taken with food. All of the participants in Part B took each of the doses of AZD9977 as a capsule, but in a different order.
+
+During both parts, a computer program was used to randomly choose the order in which the participants took each treatment. This helps make sure the groups are chosen fairly. Researchers do this so that comparing the results of each treatment is as accurate as possible.

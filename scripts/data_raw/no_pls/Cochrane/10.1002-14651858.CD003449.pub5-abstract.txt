@@ -1,0 +1,20 @@
+Background
+Despite their high effectiveness, progestin‐only contraceptives are considered less than ideal by the many women who experience irregular vaginal bleeding when using them. Current treatments to control these bleeding problems are not sufficiently effective. 
+Objectives
+We evaluated preventive and therapeutic approaches to normalise bleeding irregularities associated with the use of progestin‐only contraceptives. 
+Search methods
+Literature was identified through database searches, reference lists, organisations and individuals, covering the period until May‐June 2012. 
+Selection criteria
+Trials with random or systematic allocation, testing interventions for the prevention or treatment of bleeding irregularities associated with the use of progestin‐only contraceptives were eligible. 
+Data collection and analysis
+Results are expressed as relative risks (RR) with 95% confidence interval (CI) for categorical data and as weighted mean difference (WMD) with 95% CI for continuous data. When we encountered heterogeneity (visual or statistical) we used the random‐effects model (quantitative) or did not produce a summary estimate (qualitative). 
+Main results
+Thirty‐three randomised controlled trials enrolling 3677 participants were included. Two thirds of the trials were determined to reflect low to moderate risk of bias. 
+Estrogen treatments reduced the number of days of an ongoing bleeding episode in DMPA and Norplant users. However, treatment frequently led to more discontinuation due to gastrointestinal upset. 
+Combinations of oral ethinyl estradiol and levonorgestrel improved bleeding patterns in Norplant users, but method discontinuation rates were unchanged. One trial reported successful use of combined oral contraceptives in treating amenorrhea among DMPA users. 
+Norplant users, but not Implanon users, administered the anti‐progestin mifepristone reported fewer days of bleeding during treatment than those given placebo. Mifepristone used monthly by new Norplant acceptors reduced bleeding, when compared to placebo. 
+A variety of NSAIDS have been evaluated for their ability to treat abnormal bleeding, with mixed results. 
+Norplant users receiving SERM (tamoxifen) had less unacceptable bleeding after treatment and were more likely to continue using Norplant than those receiving placebo. 
+Tranexamic acid, mifepristone combined with an estrogen and doxycycline were more effective than placebo in terminating an episode of bleeding in women using progestin‐only contraceptives, according to three small studies. 
+Authors' conclusions
+Some women may benefit from the interventions described, particularly with cessation of current bleeding. Several regimens offer promise in regulating bleeding, but findings need to be reproduced in larger trials. The results of this review do not support routine clinical use of any of the regimens included in the trials, particularly for long‐term effect. 

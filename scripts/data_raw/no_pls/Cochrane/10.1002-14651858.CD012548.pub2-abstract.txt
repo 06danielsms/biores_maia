@@ -1,0 +1,23 @@
+Background
+Degarelix is a gonadotropin‐releasing hormone antagonist that leads to medical castration used to treat men with advanced or metastatic prostate cancer, or both. It is unclear how its effects compare to standard androgen suppression therapy. 
+Objectives
+To assess the effects of degarelix compared with standard androgen suppression therapy for men with advanced hormone‐sensitive prostate cancer. 
+Search methods
+We searched multiple databases (CENTRAL, MEDLINE, Embase, Scopus, Web of Science, LILACS until September 2020), trial registries (until October 2020), and conference proceedings (until December 2020). We identified other potentially eligible trials by reference checking, citation searching, and contacting study authors. 
+Selection criteria
+We included randomized controlled trials comparing degarelix with standard androgen suppression therapy for men with advanced prostate cancer. 
+Data collection and analysis
+Three review authors independently classified studies and abstracted data from the included studies. The primary outcomes were overall survival and serious adverse events. Secondary outcomes were quality of life, cancer‐specific survival, clinical progression, other adverse events, and biochemical progression. We used a random‐effects model for meta‐analyses and assessed the certainty of evidence for the main outcomes according to GRADE. 
+Main results
+We included 11 studies with a follow‐up of between three and 14 months. We also identified five ongoing trials. 
+Primary outcomes 
+Data to evaluate overall survival were not available. 
+Degarelix may result in little to no difference in serious adverse events compared to standard androgen suppression therapy (risk ratio (RR) 0.80, 95% confidence interval (CI) 0.62 to 1.05; low‐certainty evidence; 2750 participants). Based on 114 serious adverse events in the standard androgen suppression group, this corresponds to 23 fewer serious adverse events per 1000 participants (43 fewer to 6 more). We downgraded the certainty of evidence for study limitations and imprecision. 
+Secondary outcomes 
+Degarelix likely results in little to no difference in quality of life assessed with a variety of validated questionnaires (standardized mean difference 0.06 higher, 95% CI 0.05 lower to 0.18 higher; moderate‐certainty evidence; 2887 participants), with higher scores reflecting better quality of life. We downgraded the certainty of evidence for study limitations. 
+Data to evaluate cancer‐specific survival were not available.
+The effects of degarelix on cardiovascular events are very uncertain (RR 0.15, 95% CI 0.04 to 0.61; very low‐certainty evidence; 80 participants). We downgraded the certainty of evidence for study limitations, imprecision, and indirectness as this trial was conducted in a unique group of high‐risk participants with pre‐existing cardiovascular morbidities. 
+Degarelix likely results in an increase in injection site pain (RR 15.68, 95% CI 7.41 to 33.17; moderate‐certainty evidence; 2670 participants). Based on 30 participants per 1000 with injection site pain with standard androgen suppression therapy, this corresponds to 440 more injection site pains per 1000 participants (192 more to 965 more). We downgraded the certainty of evidence for study limitations. 
+We did not identify any relevant subgroup differences for different degarelix maintenance doses. 
+Authors' conclusions
+We did not find trial evidence for overall survival or cancer‐specific survival comparing degarelix to standard androgen suppression, but serious adverse events and quality of life may be similar between groups. The effects of degarelix on cardiovascular events are very uncertain as the only eligible study had limitations, was small with few events, and was conducted in a high‐risk population. Degarelix likely results in an increase in injection site pain compared to standard androgen suppression therapy. Maximum follow‐up of included studies was 14 months, which is short. There is a need for methodologically better designed and executed studies with long‐term follow‐up evaluating men with metastatic prostate cancer. 

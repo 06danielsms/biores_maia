@@ -1,0 +1,13 @@
+Macrolides for diffuse panbronchiolitis
+Research question 
+To summarise the evidence about the effect and safety of macrolide antibiotics for diffuse panbronchiolitis (DPB). 
+Background 
+DPB, characterised by progressive airflow limitation and recurrent respiratory tract infection (RTI), is a chronic airways disease that mainly affects people in east Asia. The prevalence of DPB in Japan is about 11 cases per 100,000 people; the prevalence outside Japan is still unknown. 
+Macrolides are antibiotics that are used against a wide range of disease‐causing bacteria and various infectious diseases. They have been the first choice for DPB since the 1980s, based on several observational studies, which found that they could significantly improve the outcome of DPB. However, high‐quality evidence to support their use is unclear. 
+Study characteristics 
+We conducted a systematic review of key medical databases, searching for high‐quality trials on the use of macrolides in the management of DPB. We retrieved only one randomised controlled trial (RCT) involving 19 participants, which was of poor methodological quality. 
+Key results 
+All primary outcomes and most secondary outcomes specified (e.g. five‐year survival rate, lung function or clinical response) in our review were not reported in the included trial. The included trial found that the computerised tomography (CT) images of all participants treated with long‐term, low‐dose erythromycin improved from baseline, while the images of 71.4% of participants with no treatment worsened and 28.6% remained unchanged. Adverse effects were not reported. The evidence is current to July 2014 and we have identified no new trials for inclusion or exclusion. 
+We conclude that the use of macrolides for DPB is based on non‐RCTs or retrospective studies and there is little evidence from RCTs. We are unable to make any new recommendations based on the findings of this review. However, while awaiting evidence from new, high‐quality, well‐designed studies, it is reasonable to use low‐dose macrolides soon after diagnosis is made and to continue for at least six months, according to current guidelines. 
+Quality of the evidence 
+We downgraded the quality of the evidence due to limitations in study design, which indicated high risk of potential bias and too small a sample size. 

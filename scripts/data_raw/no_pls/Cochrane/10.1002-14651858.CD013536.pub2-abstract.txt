@@ -1,0 +1,14 @@
+Background
+Around a third of people with schizophrenia or related serious mental illness will be a parent. Both the parents and the children in this population are at increased risk of adverse outcomes due to parental mental illness. Parenting interventions are known to improve parenting skills and decrease child disruptive behaviour. This systematic review aimed to synthesise the evidence base for parenting interventions designed specifically for parents who have schizophrenia or related serious mental illness. 
+Objectives
+To assess the effects of parenting interventions for people with schizophrenia or related serious mental illness. 
+Search methods
+On 10 February 2021 we searched the Cochrane Schizophrenia Group's Study‐Based Register of Trials, which is based on the following: Cochrane Central Register of Controlled Trials (CENTRAL), Cumulative Index to Nursing and Allied Health Literature (CINAHL), ClinicalTrials.Gov, Embase, International Standard Randomised Controlled Trial Number (ISRCTN), MEDLINE, PsycINFO, PubMed, and the World Health Organization International Clinical Trials Registry Platform. 
+Selection criteria
+Eligible studies were randomised controlled trials (RCTs) that compared parenting interventions with a control condition for people with schizophrenia or related serious mental illness with a child between the ages of 0 and 18 years. 
+Data collection and analysis
+We independently inspected citations, selected studies, extracted data and appraised study quality. We assessed risk of bias for included studies. 
+Main results
+We only included one trial (n = 50), and it was not possible to extract any data because the authors did not provide any means and standard deviations for our outcomes of interest; they only reported whether outcomes were significant or not at the 0.05 level. Three domains of the trial were rated as having a high risk of bias. 
+Authors' conclusions
+The only included trial provided inconclusive evidence. There is insufficient evidence to make recommendations to people with schizophrenia (or related serious mental illness) or clinicians, or for policy changes. Although there is no RCT evidence, parenting interventions for people with schizophrenia or related serious mental illness have been developed. Future research should test these in RCTs in order to improve the evidence base for this population. 

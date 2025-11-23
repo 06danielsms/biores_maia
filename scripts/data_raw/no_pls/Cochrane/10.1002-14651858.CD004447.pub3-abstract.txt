@@ -1,0 +1,15 @@
+Background
+Conventional treatment of X‐linked hypophosphatemia with oral phosphate and calcitriol can heal rickets, but it does not always raise serum phosphate concentrations significantly, nor does it always normalize linear growth. Some clinical trials suggest that combining recombinant human growth hormone therapy with conventional treatment improves growth velocity, phosphate retention, and bone mineral density, but some clinical trials suggest that it appears to aggravate the pre‐existent disproportionate stature of such children. This is an updated version of a previously published review. 
+Objectives
+To determine whether recombinant human growth hormone therapy for children with X‐linked hypophosphatemia is associated with changes in longitudinal growth, mineral metabolism, endocrine function, renal function, bone mineral density, body proportions, and also with any adverse effects. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register which comprises references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. In addition, we searched the Cochrane Central Register of Controlled Trials, Ovid MEDLINE and the reference lists of identified trials and other reviews. We also undertook some additional handsearching of relevant journals and conference proceedings. 
+Date of the most recent search: 12 January 2021
+Selection criteria
+All randomized controlled studies or quasi‐randomized controlled studies comparing growth hormone (alone or combined with conventional treatment) with either placebo or conventional treatment alone in children with X‐linked hypophosphatemia. 
+Data collection and analysis
+Two authors independently assessed studies for risk of bias and extracted data from eligible studies. GRADE criteria were used to assess the certainty of the evidence for each outcome. 
+Main results
+We included two studies (20 participants) in the review. In one cross‐over study, results showed that recombinant human growth hormone therapy may improve the height standard deviation (SDS) score (z score), but we are unsure whether the intervention was the reason behind a transient increase in serum phosphate and tubular maximum for phosphate reabsorption. In the second, parallel study, treatment may also have improved the height SDS from baseline in the rhGH group compared to the control group, although no significant difference was seen between groups after three years, MD 0.50 SDS (95 % CI ‐0.54 to 1.54) (low‐certainty evidence). The treatment was possibly well‐tolerated during both studies with only transient adverse effects seen in three participants (low‐certainty evidence). We are uncertain whether growth hormone improves serum phosphate levels or change in TmP/GFR (very low‐certainty evidence). The treatment may make little or no difference to alkaline phosphatase levels (low‐certainty evidence). 
+Authors' conclusions
+We do not have enough high‐certainty evidence to recommend the use of recombinant human growth hormone therapy in children with X‐linked hypophosphatemia. 

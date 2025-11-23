@@ -1,0 +1,15 @@
+Background
+Antihypertensives, such as beta‐blockers, are used for pregnancy hypertension in the belief these will improve outcome for mother and baby. 
+Objectives
+To assess whether oral beta‐blockers are better than placebo, or no beta‐blocker, and have advantages over other antihypertensives, for women with mild to moderate pregnancy hypertension. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group trials register (January 2004) and bibliographies of retrieved papers and personal files. We updated this search on 4 July 2012 and added the results to the awaiting classification section of the review. 
+Selection criteria
+Trials comparing beta‐blockers with placebo or no therapy, or other antihypertensives, for women with mild to moderate pregnancy hypertension. 
+Data collection and analysis
+We extracted the data independently and were not blinded to trial characteristics or outcomes. Whenever possible, we contacted authors for missing data. 
+Main results
+Twenty‐nine trials (approximately 2500 women) are included. Thirteen trials (1480 women) compared beta‐blockers with placebo/no beta blocker. Oral beta‐blockers decrease the risk of severe hypertension (relative risk (RR) 0.37, 95% confidence interval (CI) 0.26 to 0.53; 11 trials, N = 1128 women) and the need for additional antihypertensives (RR 0.44, 95% CI 0.31 to 0.62; 7 trials, N = 856 women). There are insufficient data for conclusions about the effect on perinatal mortality or preterm birth. Beta‐blockers seem to be associated with an increase in small‐for‐gestational‐age (SGA) infants (RR 1.36, 95% CI 1.02 to 1.82; 12 trials; N = 1346 women). Maternal hospital admission may be decreased, neonatal bradycardia increased and respiratory distress syndrome decreased, but these outcomes are reported in only a small proportion of trials. In 13 trials (854 women), beta‐blockers were compared with methyldopa. Beta‐blockers appear to be no more effective and probably equally as safe. Single small trials have compared beta‐blockers with hydralazine, nicardipine or isradipine. It is unusual for women to change drugs due to side effects. 
+Authors' conclusions
+Improvement in control of maternal blood pressure with use of beta‐blockers would be worthwhile only if it were reflected in substantive benefits for mother and/or baby, and none have been clearly demonstrated. The effect of beta‐blockers on perinatal outcome is uncertain; the worrying trend to an increase in SGA infants is partly dependent on one small outlying trial. Large randomised trials are needed to determine whether antihypertensive therapy in general (rather than beta‐blocker therapy specifically) results in greater benefit than risk, for treatment of mild‐moderate pregnancy hypertension. If so, then it would be appropriate to consider which antihypertensive is best, and beta‐blockers should be evaluated. 
+[Note: the seventeen reports in the awaiting classification section of the review may alter the conclusions of the review once assessed.] 

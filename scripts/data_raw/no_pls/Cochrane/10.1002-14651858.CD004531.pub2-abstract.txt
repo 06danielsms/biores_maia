@@ -1,0 +1,16 @@
+Background
+Using a pilot system we have categorised this review as: “Historical question – no update intended: monotherapy no longer recommended" (see published notes). 
+Multiple‐drug‐resistant malaria is widespread, and in South‐East Asia resistance is high against nearly all single therapy antimalarial drugs. Here, and in other areas with low malaria transmission, the combination of artesunate and mefloquine may provide an effective alternative. 
+Objectives
+To compare artesunate plus mefloquine with mefloquine alone for treating uncomplicated Plasmodium falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (May 2005), CENTRAL (The Cochrane Library Issue 2, 2005), MEDLINE (1966 to May 2005), EMBASE (1988 to May 2005), LILACS (May 2005), BIOSIS (1985 to June 2005), conference proceedings, and reference lists. We also contacted researchers, organizations, and pharmaceutical companies. 
+Selection criteria
+Randomized and quasi‐randomized controlled trials comparing artesunate plus mefloquine with mefloquine alone for treating uncomplicated malaria. 
+Data collection and analysis
+Two authors independently applied the inclusion criteria, extracted data, and assessed methodological quality. The primary outcome was treatment failure by day 28, defined as evidence of parasitaemia with or without clinical failure between days zero (start of treatment) and 28. For dichotomous data we calculated risk ratios (RR) and 95% confidence intervals (CI). 
+Main results
+Eight trials involving 1996 participants met the inclusion criteria. All were conducted in areas with low malaria transmission, seven in South‐East Asia and one in the Peruvian Amazon. The doses and dosing regimens of artesunate and mefloquine varied across trials. The trials using a total dose of 25 mg/kg mefloquine and 10 mg artesunate reported fewer treatment failures with the combination at all time points: day 28 (RR 0.17, 95% CI 0.06 to 0.47; 824 participants, 4 trials), day 42 (RR 0.23, 95% CI 0.14 to 0.39; 298 participants, 1 trial), and day 63 (RR 0.26, 95% CI 0.09 to 0.77; 501 participants, 2 trials). The results for parasitaemia showed a similar trend. Trials using a lower dose of artesunate tended to favour the artesunate plus mefloquine combination. Overall, adverse events were similar across treatment arms. 
+Authors' conclusions
+Artesunate plus mefloquine performs better than mefloquine alone for treating uncomplicated falciparum malaria in areas with low malaria transmission. A total dose of 25 mg/kg mefloquine and at least 10 mg artesunate leads to higher cure rates. Better reporting of methods and standardisation of outcomes would help the interpretation of future trials. 
+2008: As monotherapy is no longer recommended by the World Health Organization for malaria treatment, the authors do not intend to update this review. 

@@ -1,0 +1,14 @@
+Background
+Prematurity is not only the leading cause of perinatal morbidity and mortality but is associated with long‐term impairment. Studies of various tocolytic agents have shown mixed results with little effect in improving pregnancy duration and insufficient data to confirm a definite beneficial effect on neonatal morbidity or mortality. Progesterone is known to have an inhibitory effect on uterine contractility and is thought to play a key role in the maintenance of pregnancy until term. 
+Objectives
+To determine if the use of progestational agents is effective as a form of treatment or co‐treatment for women with threatened or established preterm labour with intact membranes. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 August 2013), CENTRAL (The Cochrane Library 2013, Issue 10), MEDLINE (1966 to August 31 2013) and Embase (1974 to 31 August 2013). We checked the reference lists of all included studies to identify any additional studies and communicated with authors and the pharmaceutical industry. 
+Selection criteria
+Randomised controlled trials that compared progestational agents, given either alone or in combination with other tocolytics, with a control group receiving another tocolytic, placebo or no treatment, for the treatment of preterm labour. 
+Data collection and analysis
+Two review authors independently extracted data and assessed trial quality.
+Main results
+Eight studies were included in this review, involving 563 women, but only seven studies, involving 538 women, contributed data for analyses. There are some data suggesting that the use of progestational agents results in a reduction of preterm deliveries at less than 37 weeks of gestation and an increase in birthweight. The use of a progestational agent may also reduce the frequency of uterine contractions, prolong pregnancy and attenuate the shortening of cervical length. However, the analysis was limited by the relatively small number of available studies. The power of the meta‐analysis was also limited by the varying types, dosages and routes of administration of progesterone. 
+Authors' conclusions
+There is insufficient evidence to advocate progestational agents as a tocolytic for women presenting with preterm labour. 

@@ -1,0 +1,14 @@
+Background
+Chest physiotherapy (CPT) has been used in many neonatal nurseries around the world to improve airway clearance and treat lung collapse; however, the evidence to support its use has been conflicting. Despite the large number of studies there is very little evidence of sufficiently good quality on which to base current practice. 
+Objectives
+To assess the effects of active CPT techniques, such as percussion and vibration followed by suction compared with suction alone, on the respiratory system in infants receiving mechanical ventilation. Additionally, differences between types of active CPT techniques were assessed. 
+Search methods
+Our search included The Cochrane Library (Issue 2, 2007), MEDLINE (1966 to 2007), EMBASE (1988 to 2007), CINAHL, Science Citation Index, previous reviews including cross‐references, abstracts, conference proceedings and grey literature. 
+Selection criteria
+Trials in which ventilated newborn infants up to four weeks of age were randomly or quasi‐randomly assigned to receive active CPT or suction alone. Infants receiving CPT for the extubation period were excluded. 
+Data collection and analysis
+Two review authors independently conducted quality assessments and data extraction for included trials. We analysed data for individual trial results using relative risk (RR) and mean difference (MD). Results are presented with 95% confidence intervals (CI). Due to insufficient data, we could not undertake meta‐analysis. 
+Main results
+Three trials involving 106 infants were included in this review. In one trial (n = 20) CPT was no better than standard care in clearing secretions. No increase in the risk of intraventricular haemorrhage was noted. Two trials compared different types of active CPT. One trial (n = 56) showed that non‐resolved atelectasis was reduced in more neonates receiving the lung squeezing technique (LST) when compared to postural drainage, percussion and vibration (PDPV) (RR 0.25; 95% CI 0.11 to 0.57). No difference in secretion clearance or in the rate of intraventricular haemorrhage or periventricular leucomalacia was demonstrated. The other trial (n = 30) showed that the use of percussion or 'cupping' resulted in an increased incidence of hypoxaemia (RR 0.53; 95% CI 0.28 to 0.99) and increased oxygen requirements (MD ‐9.68; 95% CI ‐14.16 to ‐5.20) when compared with contact heel percussion. There was insufficient information to adequately assess important short and longer‐term outcomes, including adverse effects. 
+Authors' conclusions
+The results of this review do not provide sufficient evidence on which to base clinical practice. There is a need for larger randomised controlled trials to address these issues. 

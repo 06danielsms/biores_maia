@@ -1,0 +1,16 @@
+Background
+Colloids are widely used in the replacement of fluid volume. However, doubts remain as to which colloid is best. Different colloids vary in their molecular weight and therefore in the length of time they remain in the circulatory system. Because of this, and their other characteristics, they may differ in their safety and efficacy. 
+Objectives
+To compare the effects of different colloid solutions in patients thought to need volume replacement. 
+Search methods
+We searched the Cochrane Injuries Specialised Register (searched 1 December 2011), the Cochrane Central Register of Controlled Trials 2011, issue 4 (The Cochrane Library); MEDLINE (Ovid) (1948 to November Week 3 2011); EMBASE (Ovid) (1974 to 2011 Week 47); ISI Web of Science: Science Citation Index Expanded (1970 to 1 December 2011); ISI Web of Science: Conference Proceedings Citation Index‐Science (1990 to 1 December 2011); CINAHL (EBSCO) (1982 to 1 December 2011); National Research Register (2007, Issue 1) and PubMed (searched 1 December 2011). Bibliographies of trials retrieved were searched, and for the initial version of the review drug companies manufacturing colloids were contacted for information (1999). 
+Selection criteria
+Randomised controlled trials comparing colloid solutions in critically ill and surgical patients thought to need volume replacement. 
+Data collection and analysis
+Two review authors independently extracted the data and assessed the quality of the trials. The outcomes sought were death, amount of whole blood transfused, and incidence of adverse reactions. 
+Main results
+Eighty‐six trials, with a total of 5,484 participants, met the inclusion criteria. Quality of allocation concealment was judged to be adequate in 33 trials and poor or uncertain in the rest. 
+Deaths were reported in 57 trials. For albumin or plasma protein fraction (PPF) versus hydroxyethyl starch (HES) 31 trials (n = 1719) reported mortality. The pooled relative risk (RR) was 1.06 (95% confidence interval (CI) 0.86 to 1.31). When the trials by Boldt were removed from the analysis the pooled RR was 0.90 (95% CI 0.68 to 1.20). For albumin or PPF versus gelatin, nine trials (n = 824) reported mortality. The RR was 0.89 (95% CI 0.65 to 1.21). Removing the study by Boldt from the analysis did not change the RR or CIs. For albumin or PPF versus dextran four trials (n = 360) reported mortality. The RR was 3.75 (95% CI 0.42 to 33.09). For gelatin versus HES 22 trials (n = 1612) reported mortality and the RR was 1.02 (95% CI 0.84 to 1.26). When the trials by Boldt were removed from the analysis the pooled RR was 1.03 (95% CI 0.84 to 1.27). RR was not estimable in the gelatin versus dextran and HES versus dextran groups. 
+Forty‐one trials recorded the amount of blood transfused; however, quantitative analysis was not possible due to skewness and variable reporting. Twenty‐four trials recorded adverse reactions, with two studies reporting possible adverse reactions to gel and one to HES. 
+Authors' conclusions
+From this review, there is no evidence that one colloid solution is more effective or safe than any other, although the CIs were wide and do not exclude clinically significant differences between colloids. Larger trials of fluid therapy are needed if clinically significant differences in mortality are to be detected or excluded. 

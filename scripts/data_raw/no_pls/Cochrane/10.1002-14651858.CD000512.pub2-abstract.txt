@@ -1,0 +1,14 @@
+Background
+Infants of very low birth weight often receive multiple transfusions of red blood cells, usually in response to predetermined haemoglobin or haematocrit thresholds. In the absence of better indices, haemoglobin levels are imperfect but necessary guides to the need for transfusion. Chronic anaemia in premature infants may, if severe, cause apnoea, poor neurodevelopmental outcomes or poor weight gain. On the other hand, red blood cell transfusion may result in transmission of infections, circulatory or iron overload, or dysfunctional oxygen carriage and delivery. 
+Objectives
+To determine if erythrocyte transfusion administered to maintain low as compared to high haemoglobin thresholds reduces mortality or morbidity in very low birth weight infants enrolled within three days of birth. 
+Search methods
+Two review authors independently searched the Cochrane Central Register of Controlled Trials (The Cochrane Library) , MEDLINE, EMBASE, and conference proceedings through June 2010. 
+Selection criteria
+We selected randomised controlled trials (RCTs) comparing the effects of early versus late, or restrictive versus liberal erythrocyte transfusion regimes in low birth weight infants applied within three days of birth, with mortality or major morbidity as outcomes. 
+Data collection and analysis
+Two review authors independently selected the trials.
+Main results
+Four trials, enrolling a total of 614 infants, compared low (restrictive) to high (liberal) haemoglobin thresholds. Restrictive thresholds tended to be similar, but one trial used liberal thresholds much higher than the other three. There were no statistically significant differences in the combined outcomes of death or serious morbidity at first hospital discharge (typical risk ratio (RR) 1.19; 95% confidence interval (CI) 0.95 to 1.49) or in component outcomes. Only the largest trial reported follow‐up at 18 to 21 months corrected gestational age; in this study there was no statistically significant difference in a composite of death or adverse neurodevelopmental outcome (RR 1.06; 95% CI 0.95 to 1.19). One additional trial comparing transfusion for clinical signs of anaemia versus transfusion at a set level of haemoglobin or haematocrit, reported no deaths and did not address disability. 
+Authors' conclusions
+The use of restrictive as compared to liberal haemoglobin thresholds in infants of very low birth weight results in modest reductions in exposure to transfusion and in haemoglobin levels. Restrictive practice does not appear to have a significant impact on death or major morbidities at first hospital discharge or at follow‐up. However, given the uncertainties of these conclusions, it would be prudent to avoid haemoglobin levels below the lower limits tested here. Further trials are required to clarify the impact of transfusion practice on long term outcome. 

@@ -1,0 +1,14 @@
+Background
+Uterine fibroids, also called uterine leiomyomas or myomas, are the most common benign tumours in women of reproductive age. Albeit generally benign, uterine ﬁbroids can have a major impact on women's health and quality of life by contributing to abnormal uterine bleeding and causing pelvic pressure symptoms (such as increased urinary frequency, pelvic pain and constipation). Traditional treatments for symptomatic ﬁbroids include a variety of surgical techniques. However, because of the high recurrence rate, as well as possible pain and infertility caused by the formation of postoperative adhesions, this approach may not be advisable. Safer and more effective medical therapy has long been awaited. Both in vitro studies and clinical trials have suggested that use of the aromatase inhibitors (AIs), a class of anti‐oestrogens, might inhibit ﬁbroid growth, thereby eliminating the need for surgery. 
+Objectives
+To evaluate the effectiveness and safety of aromatase Inhibitors (AIs) in women with uterine fibroids. 
+Search methods
+We searched the following databases (from inception to August 21, 2013): Cochrane Menstrual Disorders and Subfertility Group Specialised Register, Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE, EMBASE, CINAHL and PsycINFO. In addition, the reference lists of included trials were searched, and experts in the field were contacted. 
+Selection criteria
+Randomised controlled trials (RCTs) in women of reproductive age comparing the effects of any AI versus placebo, no treatment or any medical treatment/surgery were included. 
+Data collection and analysis
+Selection of eligible trials, assessment of trial quality and data extraction were performed independently by two review authors. If data were available, we planned to calculate odds ratios (ORs) for analysis of dichotomous data and mean differences for continuous data, with 95% confidence intervals (CIs). 
+Main results
+Only one trial involving 70 participants was included. This trial did not report our primary review outcome (relief of symptoms of fibroids). The only secondary review outcomes reported by this trial were adverse effects (hot flushes) and reduction in fibroid size. Significantly fewer women reported hot flushes in the letrozole group than in the GnRHa group (0/33 vs 26/27, P < 0.05). Use of letrozole reduced fibroid volume by 46% and use of a gonadotrophin‐releasing hormone (GnRH) agonist (GnRHa) by 32% after 12 weeks of treatment; these proportions were not significantly different. The included trial did not report data on fibroid volume in a form that permitted calcuation of an odds ratio. Morevoer it was unblinded and included only 60/70 women in analysis. 
+Authors' conclusions
+Evidence is insufficient to support the use of AI drugs in the treatment of women with uterine fibroids. 

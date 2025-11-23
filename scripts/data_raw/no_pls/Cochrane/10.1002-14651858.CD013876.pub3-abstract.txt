@@ -1,0 +1,19 @@
+Background
+Olfactory dysfunction is a common consequence of COVID‐19 infection and persistent symptoms can have a profound impact on quality of life. At present there is little guidance on how best to treat this condition. A variety of interventions have been suggested to promote recovery, including medication and olfactory training. However, it is uncertain whether any intervention is of benefit. This is an update of the 2021 review with one additional study added.  
+Objectives
+1) To evaluate the benefits and harms of any intervention versus no treatment for people with persisting olfactory dysfunction due to COVID‐19 infection.  
+2) To keep the evidence up‐to‐date, using a living systematic review approach. 
+Search methods
+The Cochrane ENT Information Specialist searched the Cochrane ENT Register; Central Register of Controlled Trials (CENTRAL); Ovid MEDLINE; Ovid Embase; Web of Science; ClinicalTrials.gov; ICTRP and additional sources for published and unpublished trials. The date of the latest search was 20 October 2021.   
+Selection criteria
+We included randomised controlled trials (RCTs) in people with COVID‐19 related olfactory disturbance that had persisted for at least four weeks. We included any intervention compared to no treatment or placebo.  
+Data collection and analysis
+We used standard Cochrane methods. Our primary outcomes were the recovery of sense of smell, disease‐related quality of life and serious adverse effects. Secondary outcomes were the change in sense of smell, general quality of life, prevalence of parosmia and other adverse effects (including nosebleeds/bloody discharge). We used GRADE to assess the certainty of the evidence for each outcome. 
+Main results
+We included two studies with 30 participants. The studies evaluated the following interventions: systemic corticosteroids plus intranasal corticosteroid/mucolytic/decongestant and palmitoylethanolamide plus luteolin.  
+Systemic corticosteroids plus intranasal corticosteroid/mucolytic/decongestant compared to no intervention  
+We included a single RCT with 18 participants who had anosmia for at least 30 days following COVID‐19 infection. Participants received a 15‐day course of oral corticosteroids combined with nasal irrigation (consisting of an intranasal corticosteroid/mucolytic/decongestant solution) or no intervention. Psychophysical testing was used to assess olfactory function at 40 days. This is a single, small study and for all outcomes the certainty of evidence was very low. We are unable to draw meaningful conclusions from the numerical results. 
+Palmitoylethanolamide plus luteolin compared to no intervention  
+We included a single RCT with 12 participants who had anosmia or hyposmia for at least 90 days following COVID‐19 infection. Participants received a 30‐day course of palmitoylethanolamide and luteolin or no intervention. Psychophysical testing was used to assess olfactory function at 30 days. This is a single, small study and for all outcomes the certainty of evidence was very low. We are unable to draw meaningful conclusions from the numerical results. 
+Authors' conclusions
+There is very limited evidence available on the efficacy and harms of treatments for persistent olfactory dysfunction following COVID‐19 infection. However, we have identified a number of ongoing trials in this area. As this is a living systematic review we will update the data regularly, as new results become available. 

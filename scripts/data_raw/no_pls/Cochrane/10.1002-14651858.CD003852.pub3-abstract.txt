@@ -1,0 +1,16 @@
+Background
+This is an update of a Cochrane review first published in The Cochrane Library in Issue 2, 2004 and previously updated in 2007 and 2009. 
+Tinnitus can be described as the perception of sound in the absence of external acoustic stimulation. At present no specific therapy for tinnitus is acknowledged to be satisfactory in all patients. There are a number of reports in the literature suggesting that Ginkgo biloba may be effective in the management of tinnitus. However, there also appears to be a strong placebo effect in tinnitus management. 
+Objectives
+To assess the effect of Ginkgo biloba in patients who are troubled by tinnitus.
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; AMED; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ICTRP and additional sources for published and unpublished trials. The date of the most recent search was 12 March 2012. 
+Selection criteria
+Adults (18 years and over) complaining of tinnitus or adults with a primary complaint of cerebral insufficiency, where tinnitus forms part of the syndrome. 
+Data collection and analysis
+Both original authors independently extracted data and assessed trials for quality. For the 2012 update two authors determined trial eligibility, extracted data, analysed data and updated the contents of the review. 
+Main results
+Four trials with a total of 1543 participants were included in the review; we assessed all the included studies as having a low risk of bias. Three trials (1143 participants) included patients with a primary complaint of tinnitus and one (400 participants) included patients with mild to moderate dementia, some of whom had tinnitus. 
+There was no evidence that Gingko biloba was effective in patients with a primary complaint of tinnitus. In the study of patients with dementia, mean baseline levels of tinnitus were low (1.7 to 2.5 on a 10‐point subjective symptom rating scale). A small but statistically significant reduction of 1.5 and 0.7 points was seen in patients taking Gingko biloba with vascular dementia and Alzheimer's disease respectively. The practical clinical significance of this is unclear. The incidence of side effects was low. 
+Authors' conclusions
+The limited evidence does not demonstrate that Ginkgo biloba is effective for tinnitus when this is the primary complaint. 

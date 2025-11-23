@@ -1,0 +1,15 @@
+Background
+This is an update of the original review published in the Cochrane Database of Systematic Reviews Issue 1, 2000 and updated in 2003, 2007 and 2010. 
+People with a presumed high‐grade glioma (HGG) identified by clinical evaluation and radiological investigation have two initial surgical options: biopsy or resection. In certain situations, such as severe raised intracranial pressure, surgical resection is clinically indicated. Where surgical resection is not feasible, biopsy is the only reasonable option. Most people fall somewhere between these extremes, and in such circumstances it is uncertain which procedure is the best surgical option for the patient. Opinion is divided regarding the relative risks and benefits of each procedure. 
+Objectives
+To estimate the clinical effectiveness of surgical resection compared to biopsy in people with a new presumptive diagnosis of HGG. 
+Search methods
+We updated our searches of the following databases to 12 September 2018: Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase. We also handsearched the Journal of Neuro‐Oncology and Neuro‐Oncology from 2010 to 2018 (including all conference abstracts). 
+Selection criteria
+We included randomised controlled trials (RCTs) involving people of all ages with a presumed diagnosis of HGG based upon clinical and radiological investigation. Interventions included any form of biopsy or resection. Surgery was at the time of initial presentation and not for recurrence. 
+Data collection and analysis
+Two reviews authors independently assessed the search results for relevance and undertook critical appraisal according to prespecified guidelines. Outcome measures included survival, time to progression/progression‐free survival, quality of life, symptom control, adverse events, and mortality. 
+Main results
+We identified a single RCT of biopsy versus resection in presumed HGG. No other articles met the inclusion criteria. Personal communication revealed that an RCT of biopsy versus resection in elderly people with HGG is underway. Further communication as part of this 2018 update revealed that the results of this study are due to be published in 2019. 
+Authors' conclusions
+There is no high‐quality evidence on biopsy versus resection for HGG that can be used to guide management. The single included RCT was of inadequate methodology to reach reliable conclusions. Further large, multicentred RCTs are required to conclusively answer the question of whether biopsy or resection is the best initial surgical management for HGG. 

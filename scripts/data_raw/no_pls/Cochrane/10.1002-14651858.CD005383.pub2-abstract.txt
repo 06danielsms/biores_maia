@@ -1,0 +1,14 @@
+Background
+Acquired Antithrombin (AT) deficiency is a common and prognostically important finding in sick preterm infants with respiratory distress syndrome (RDS). It has been hypothesised that AT concentrate may improve clinical outcomes in preterm infants with RDS. 
+Objectives
+To determine the effect of administration of AT concentrate compared with placebo or no treatment on mortality in preterm infants with RDS. 
+Search methods
+An electronic literature search in CENTRAL, MEDLINE, and EMBASE was performed in August 2006. References from identified studies were cross checked for possible additional studies. Experts in the field and pharmaceutical companies were contacted for unpublished data. Abstracts of the American Society of Pediatric Research and European Society of Pediatric Research meetings (1983 to 2005) were searched and authors of relevant studies were contacted to obtain additional information. The electronic search was updated in December 2009. 
+Selection criteria
+Randomized controlled trials comparing any dose and duration of AT therapy with placebo or no treatment in preterm infants with RDS. 
+Data collection and analysis
+Two review authors independently extracted data from included studies. Data for similar outcomes were combined where appropriate, using a fixed‐effects model in RevMan 4. 
+Main results
+Two trials consisting of 182 preterm infants fulfilled the inclusion criteria. Mean gestational age of patients included was 28 weeks. In one trial, patients had to be intubated and ventilated for RDS to be eligible for the study. In the other trial, RDS was not mentioned as an inclusion criteria; however, the vast majority of infants in the study received surfactant. No individual trial showed a significant difference in mortality. One of the trials was stopped early because of an increase in deaths in the AT group. The pooled analysis for mortality within the first week of life showed a typical relative risk of 2.67 (95% CI 0.72 to 9.83) in favour of the control group. Only the trial that was stopped early followed the infants long enough to report neonatal mortality. This trial reported 7 deaths (11.5%) in the AT group and two deaths (3.3%) in the placebo group within 28 days of life. Secondary outcomes included days of mechanical ventilation and supplemental oxygen which were only reported in 1 trial. Both outcomes were in favour of the control group and statistically significant (p < 0.05). 
+Authors' conclusions
+Preterm infants with RDS are unlikely to benefit from AT treatment and may be harmed.

@@ -1,0 +1,22 @@
+Background
+Currently the World Health Organization only recommend fluoroquinolones for people with presumed drug‐sensitive tuberculosis (TB) who cannot take standard first‐line drugs. However, use of fluoroquinolones could shorten the length of treatment and improve other outcomes in these people. This review summarises the effects of fluoroquinolones in first‐line regimens in people with presumed drug‐sensitive TB. 
+Objectives
+To assess fluoroquinolones as substitute or additional components in antituberculous drug regimens for drug‐sensitive TB. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register; CENTRAL (The Cochrane Library 2013, Issue 1); MEDLINE; EMBASE; LILACS; Science Citation Index; Databases of Russian Publications; and metaRegister of Controlled Trials up to 6 March 2013. 
+Selection criteria
+Randomized controlled trials (RCTs) of antituberculous regimens based on rifampicin and pyrazinamide and containing fluoroquinolones in people with presumed drug‐sensitive pulmonary TB. 
+Data collection and analysis
+Two authors independently applied inclusion criteria, assessed the risk of bias in the trials, and extracted data. We used the risk ratio (RR) for dichotomous data and the fixed‐effect model when it was appropriate to combine data and no heterogeneity was present. We assessed the quality of evidence using the GRADE approach. 
+Main results
+We identified five RCTs (1330 participants) that met the inclusion criteria. None of the included trials examined regimens of less than six months duration. 
+Fluoroquinolones added to standard regimens 
+A single trial (174 participants) added levofloxacin to the standard first‐line regimen. Relapse and treatment failure were not reported. For death, sputum conversion, and adverse events we are uncertain if there is an effect (one trial, 174 participants, very low quality evidence for all three outcomes). 
+Fluoroquinolones substituted for ethambutol in standard regimens 
+Three trials (723 participants) substituted ethambutol with moxifloxacin, gatifloxacin, and ofloxacin into the standard first‐line regimen. For relapse, we are uncertain if there is an effect (one trial, 170 participants, very low quality evidence). No trials reported on treatment failure. For death, sputum culture conversion at eight weeks, or serious adverse events we do not know if there was an effect (three trials, 723 participants, very low quality evidence for all three outcomes). 
+Fluoroquinolones substituted for isoniazid in standard regimens 
+A single trial (433 participants) substituted moxifloxacin for isoniazid. Treatment failure and relapse were not reported. For death, sputum culture conversion, or serious adverse events the substitution may have little or no difference (one trial, 433 participants, low quality evidence for all three outcomes). 
+Fluoroquinolines in four month regimens 
+Six trials are currently in progress testing shorter regimens with fluoroquinolones.
+Authors' conclusions
+Ofloxacin, levofloxacin, moxifloxacin, and gatifloxacin have been tested in RCTs of standard first‐line regimens based on rifampicin and pyrazinamide for treating drug‐sensitive TB. There is insufficient evidence to be clear whether addition or substitution of fluoroquinolones for ethambutol or isoniazid in the first‐line regimen reduces death or relapse, or increases culture conversion at eight weeks. Much larger trials with fluoroquinolones in short course regimens of four months are currently in progress. 

@@ -1,0 +1,14 @@
+Background
+Multifocal motor neuropathy (MMN) is characterised by progressive, predominantly distal, asymmetrical limb weakness and usually multiple partial motor nerve conduction blocks. Intravenous immunoglobulin (IVIg) is beneficial but the role of immunosuppressive agents is uncertain. This is an update of a review first published in 2002 and previously updated in 2003, 2005, 2008 and 2011. 
+Objectives
+To assess the effects of immunosuppressive agents for the treatment of multifocal motor neuropathy. 
+Search methods
+On 22 September 2014 we searched the Cochrane Neuromuscular Disease Group Specialized Register, CENTRAL, MEDLINE, EMBASE and LILACS for trials of MMN. We also searched two trials registers for ongoing studies. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) and quasi‐RCTs. We considered prospective and retrospective case series and case reports in the Discussion. 
+Data collection and analysis
+Two review authors searched the titles and abstracts of the articles identified and extracted the data independently. 
+Main results
+Only one RCT of an immunosuppressive or immunomodulatory agent has been performed in MMN. This study randomised 28 participants and showed that mycophenolate mofetil, when used with IVIg, did not significantly improve strength, function or reduce the need for IVIg. No serious adverse events were observed. The study was deemed at low risk of bias. We summarised the results of retrospective and prospective case series in the discussion. 
+Authors' conclusions
+According to moderate quality evidence, mycophenolate mofetil did not produce significant benefit in terms of reducing need for IVIg or improving muscle strength in MMN. Trials of other immunosuppressants should be undertaken. 

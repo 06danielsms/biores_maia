@@ -1,0 +1,14 @@
+Background
+Evidence from some, but not all non‐randomised studies suggest the possibility that cognitive training may influence cognitive functioning in older people. Due to the differences among cognitive training interventions reported in the literature, giving a general overview of the current literature remains difficult. 
+Objectives
+To systematically review the literature and summarize the effect of cognitive training interventions on various domains of cognitive function (ie memory, executive function, attention and speed) in healthy older people and in people with mild cognitive impairment. 
+Search methods
+The CDCIG Specialized Register was searched on 30 September 2007 for all years up to December 2005. The Cochrane Library, MEDLINE, EMBASE, PsycINFO and CINAHL were searched separately on 30 September 2007 to find trials with healthy people. These results were supplemented by searches from January 1970 to September 2007 in PsychInfo/Psyndex, ISI Web of Knowledge and PubMed. 
+Selection criteria
+RCTs of interventions evaluating the effectiveness of cognitive training for healthy older people and people with mild cognitive impairment from 1970 to 2007 that met inclusion criteria were selected. 
+Data collection and analysis
+Authors independently extracted data and assessed trial quality. Meta‐analysis was performed when appropriate. 
+Main results
+Only data on memory training could be pooled for analysis. Within this domain, training interventions were grouped according to several outcome variables. Results showed that for healthy older adults, immediate and delayed verbal recall improved significantly through training compared to a no‐treatment control condition. We did not find any specific memory training effects though as the improvements observed did not exceed the improvement in the active control condition. For individuals with mild cognitive impairment, our analyses demonstrate the same pattern. Thus, there is currently little evidence on the effectiveness and specificity of memory interventions for healthy older adults and individuals with mild cognitive impairment. 
+Authors' conclusions
+There is evidence that cognitive interventions do lead to performance gains but none of the effects observed could be attributable specifically to cognitive training, as the improvements observed did not exceed the improvement in active control conditions. This does not mean that longer, more intense or different interventions might not be effective, but that those which have been reported thus far have only limited effect. We therefore suggest more standardized study protocols in order to maximize comparability of studies and to maximize the possibility of data pooling ‐ also in other cognitive domains than memory. 

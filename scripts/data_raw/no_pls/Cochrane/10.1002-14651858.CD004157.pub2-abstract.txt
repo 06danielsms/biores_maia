@@ -1,0 +1,14 @@
+Background
+Cramps are painful, involuntary muscle contractions. They commonly affect people with amyotrophic lateral sclerosis/motor neuron disease (ALS/MND) at all stages of the disease. To date, the treatment of muscle cramps in ALS has been largely empirical without any evidence from randomised controlled trials. 
+Objectives
+To systematically assess the effect of interventions on muscle cramps as a primary or secondary endpoint or adverse event in people with ALS/MND. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Specialized Register (14 February 2011), the Cochrane Central Register of Controlled Trials (Issue 1, 2011 in The Cochrane Library), MEDLINE (January 1966 to January 2011) and EMBASE (January 1980 to January 2011) and reference lists of articles searched using the terms motor neuron disease, motor neurone disease, motoneuron disease or amyotrophic lateral sclerosis. We contacted authors of trials for further information. 
+Selection criteria
+We included all randomised and quasi‐randomised trials of oral medications in people with ALS which assessed cramps as a primary or secondary outcome measure or as an adverse event. We also included trials using subcutaneous or intravenous medications or physical therapy. 
+Data collection and analysis
+All authors applied the selection criteria and assessed study quality independently, and all authors performed independent data extraction. 
+Main results
+Twenty studies including 4789 participants were identified. Only one trial, of tetrahydrocannabinol (THC), assessed cramps as the primary endpoint. Thirteen studies assessed cramps as a secondary endpoint. The medications comprised vitamin E, baclofen, riluzole, L‐threonine, xaliproden, indinavir, and memantine. Six studies assessed cramps as an adverse event. The medications comprised creatine, gabapentin, dextromethorphan, quinidine, and lithium. In all 20 studies no favourable effect for the treatment of cramps in ALS/MND could be demonstrated, but many studies were underpowered to draw a definite conclusion. A meta‐analysis of two small studies showed a statistically nonsignificant result for the amino acid L‐threonine for the treatment of cramps in ALS/MND. No study was identified using physical therapy as a therapeutic intervention for cramps. 
+Authors' conclusions
+There is no evidence to support the use of any intervention for muscle cramps in ALS/MND. More and larger randomised controlled trials evaluating treatments for muscle cramps in ALS/MND are needed. 

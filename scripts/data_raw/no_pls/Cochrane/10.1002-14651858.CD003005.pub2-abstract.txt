@@ -1,0 +1,14 @@
+Background
+Techniques to minimize the postoperative discomfort of penile surgery, such as circumcision, include caudal block; penile block; systemic opioids and topical local anaesthetic cream, emulsion or gel. 
+Objectives
+To compare the effects of caudal epidural analgesia with other forms of postoperative analgesia following circumcision in boys. 
+Search methods
+We searched CENTRAL (The Cochrane Library 2008, Issue 1), MEDLINE (to April 2008) and EMBASE (to April 2008). 
+Selection criteria
+Randomized and quasi‐randomized trials of postoperative analgesia by caudal epidural block compared with non‐caudal analgesia in boys, aged between 28 days and 16 years, having elective surgery for circumcision. 
+Data collection and analysis
+Two review authors independently carried out assessment of study eligibility, data extraction and assessment of the risk of bias in included studies. 
+Main results
+We included 10 trials involving 721 boys. No difference was seen between caudal and parenteral analgesia in the need for rescue or other analgesia (relative risk (RR) 0.41, 95% confidence interval (CI) 0.12 to 1.43; 4 trials, 235 boys; random‐effects model) or on the incidence of nausea and vomiting (RR 0.61, 95% CI 0.36 to 1.05; 4 trials, 235 boys). No difference in the need for rescue or other analgesia was seen for caudal compared with dorsal nerve penile block (DNPB) (RR 1.25, 95% CI 0.64 to 2.44; 4 trials, 336 boys; random‐effects model). No differences were seen between caudal block and DNPB in the incidence of nausea and vomiting (RR 1.88, 95% CI 0.70 to 5.04; 4 trials, 334 boys; random effects model) or individual complications except for motor block (RR 17.00, 95% CI 1.01 to 286.82; 1 trial, 100 boys) and motor or leg weakness (RR 10.67, 95% CI 1.32 to 86.09; 2 trials, 107 boys). These were significantly more common in the caudal block groups than with DNPB. No differences were seen between caudal and rectal or intravenous analgesia in the need for rescue analgesia or any other outcomes (2 trials, 162 boys). 
+Authors' conclusions
+Differences in the need for rescue or other analgesia could not be detected between caudal, parenteral and penile block methods. In day‐case surgery, penile block may be preferable to caudal block in children old enough to walk due to the possibility of temporary leg weakness after caudal block. Evidence from trials is limited by small numbers and poor methodology. There is a need for properly designed trials comparing caudal epidural block with other methods such as morphine, simple analgesics and topical local anaesthetic creams, emulsions or gels. 

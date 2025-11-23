@@ -1,0 +1,13 @@
+Interventions to improve people's drug‐taking behaviour with lipid‐lowering drugs
+Review question 
+Which interventions help improve people's ability to take lipid‐lowering medications more regularly? 
+Background 
+Lipid‐lowering therapy has been shown to decrease the risk of both heart attacks and strokes. However, taking these medications as prescribed has not been as high as one would wish. In the past, several methods have been tried to improve the rate at which people take these lipid‐lowering treatments. Previous Cochrane Reviews have not shown a clear benefit of any particular method. We have updated our review to see if any new methods in this digital age have been tested as ways of improving these rates. 
+Search 
+Our search included the 11 studies identified from previous versions in 2004 and 2010. We conducted an updated search of the same electronic databases on 3 February 2016, and we searched clinical trials registers up to 27 July 2016. 
+Study characteristics 
+The people included in the studies were adults over 18 years of age in outpatient settings, for whom lipid‐lowering therapy was recommended. We now include 35 studies covering 925,171 participants in this review. 
+Key results 
+Of the 35 included studies, 16 compared interventions categorised as 'intensified patient care' versus usual care. These interventions included electronic reminders, pharmacist‐led interventions, and healthcare professional education to help people better remember to take their medications. These types of interventions when compared to standard care demonstrated significantly better adherence rates both over the short term (up to and including six months) as well as the long term (longer than six months). Additionally, cholesterol levels were better over both long‐ and short‐term periods in those offered the intervention, compared to those receiving usual care. 
+Quality of the evidence 
+We considered only randomised controlled trials for this review. Given the nature of the interventions, it was not possible to keep participants unaware of which group they were in. However, analysis of other forms of bias indicated that generally the studies were at low risk of bias. We assessed the evidence for the outcomes using the GRADE system, and rated it as high quality for long‐term adherence (more than six months) and for reduction in total cholesterol, and moderate quality for short‐term medication adherence (up to six months) and for LDL‐cholesterol levels. For the outcome total cholesterol levels at less than six months follow‐up, we downgraded the evidence to low quality. 

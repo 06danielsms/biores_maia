@@ -1,0 +1,49 @@
+What are Streptococcus pneumoniae and influenza?
+Streptococcus pneumoniae is a type of bacteria that can cause serious diseases, including infections of the lung (pneumonia), brain lining (meningitis), blood (bacteremia), or ear (otitis). These infections may be very serious in older adults. Streptococcus pneumoniae is also known as S. pneumoniae or pneumococcus. 
+Influenza (or "the flu") is a respiratory illness caused by influenza viruses. The flu may cause symptoms like fever, body aches, or sore throat. The flu can be serious in older adults.
+What are 20vPnC and SIIV?
+A vaccine is used to help prevent infection by helping the body to fight off germs. After a vaccine is injected into a person's body, the body responds to help fight infections and prevent diseases. The response to vaccines includes making "antibodies", which are proteins that fight infections and help to prevent disease.
+The "20-valent pneumococcal conjugate vaccine", or 20vPnC, may help to prevent infections caused by S. pneumoniae. It is called "20-valent" because 20vPnC may help to prevent 20 of the most common types of S. pneumoniae. 20vPnC is an investigational vaccine and it was not approved for general use at the time of this study.
+The seasonal inactivated influenza vaccine (SIIV) is commonly known as a "flu shot". The SIIV used in the study is currently approved in the United States for helping to prevent influenza ("the flu") in adults 65 years of age and over.
+What was the purpose of this study?
+The main purpose of this study was to learn about the safety and the effects of 20vPnC and SIIV in participants 65 years and older, when given together or separately. Researchers wanted to know:
+Did participants who received 20vPnC and SIIV together have antibody responses against S. pneumoniae that were considered to be not lower (noninferior) to those who received 20vPnC separately?
+Did participants who received 20vPnC and SIIV together have antibody responses against influenza that were considered to be not lower (noninferior) to those who received SIIV separately?
+How many participants had redness, swelling, or pain at the injection site within 10 days after vaccination with 20vPnC?
+How many participants had fever, headache, tiredness, muscle pain, or joint pain within 7 days after vaccination with 20vPnC?
+How many participants had medical problems within 1 month after each vaccination?
+How many participants had serious medical problems within 6 months after the last vaccination?
+How many participants had newly diagnosed chronic medical conditions within 6 months after the last vaccination?
+How was the study done? Researchers studied 2 groups of study participants. Group 1 received injections of 20vPnC and SIIV at the same visit, followed by an injection of saline (a mix of salt and water) 1 month later. Group 2 received injections of SIIV and saline at the same visit, followed by a separate injection of 20vPnC 1 month later. The saline injections were given so that the participants and researchers did not know who was in each treatment group. This is known as a “blinded” study. Study participants were first sorted according to whether they had ever had a vaccine for S. pneumoniae, and then assigned to each group by chance alone.
+
+- Group 1: 895 participants received a study vaccine
+- Group 2: 896 participants received a study vaccine
+
+Participants were first screened by medically-qualified study staff to make sure they met the requirements to join the study. Participants were in the study for about 7 months, and were expected to attend 4 study visits during this time. At these visits, participants had their blood drawn, received study injections, and were monitored for any medical problems. The figure below shows what happened during the study. 
+
+Where did this study take place? The Sponsor ran this study at 66 locations in the United States. 
+
+When did this study take place? It began 01 September 2020 and ended 29 June 2021. 
+
+Who participated in this study? The study included men and women 65 years and older. Study participants:
+- Were examined by the study doctor and determined to be appropriate for study participation
+- Had either never received a vaccine for S. pneumoniae, or had received their last vaccine for S. pneumoniae at least 6 months before starting the study
+- Had received their last flu vaccine at least 6 months before starting the study
+- Were not allergic to any of the ingredients in the study vaccines
+- A total of 812 men (45%) participated
+- A total of 979 women (55%) participated
+- All participants were between the ages of 65 and 103 years. 
+
+A total of 1796 participants joined the study, and 1791 participants (more than 99%) received at least 1 study vaccine. 1727 participants (96%) completed the study. A total of 69 participants (4%) left the study early for the following reasons:
+
+- 2 participants (less than 1%) had a medical problem
+- 5 participants (less than 1%) passed away
+- 18 participants (1%) were “lost to follow-up” (stopped participating in the study and could not be reached)
+- 16 participants (1%) no longer met the criteria to participate in the study
+- 4 participants (less than 1%) were withdrawn from the study due to an unplanned variation from the study design
+- 21 participants (1%) chose to leave the study early
+- 3 participants (less than 1%) left the study early for other reasons
+
+How long did the study last? Study participants were in the study for up to 7 months. The entire study took about 10 months to complete. 
+
+When the study ended in June 2021, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

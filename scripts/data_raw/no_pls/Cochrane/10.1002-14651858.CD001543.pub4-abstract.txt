@@ -1,0 +1,14 @@
+Background
+Inguinal hernia repair is the most frequent operation in general surgery. There are several techniques: the Shouldice technique is sometimes considered the best method but different techniques are used as the "gold standard" for open hernia repair. Outcome measures, such as recurrence rates, complications and length of post operative stay, vary considerably among the various techniques. 
+Objectives
+To evaluate the efficacy and safety of the Shouldice technique compared to other non‐laparoscopic techniques for hernia repair. 
+Search methods
+We searched MEDLINE, EMBASE, and The Cochrane Central Register of Controlled Trials (CENTRAL), April 2008 and updated the searches September 2011, for relevant randomised controlled trials. 
+Selection criteria
+Any randomised or quasi‐randomised controlled trials (RCT) on the treatment of primary inguinal hernia in adults were considered for inclusion. 
+Data collection and analysis
+All abstracts identified by the search strategies were assessed by two independent researchers to exclude studies that did not meet the inclusion criteria. The full publications of all possibly relevant abstracts were obtained and formally assessed. Missing or updated informations was sought by contacting the authors. 
+Main results
+Sixteen trials contributed to this review. A total of 2566 hernias were analysed in the Shouldice group with 1121 mesh and 1608 non‐mesh techniques. The recurrence rate with Shouldice techniques was higher than mesh techniques (OR 3.80, 95% CI 1.99 to 7.26) but lower than non‐mesh techniques (OR 0.62, 95% CI 0.45 to 0.85). There were no significant differences in chronic pain, complications and post‐operative stay. Female were nearly 3% of included patients. 
+Authors' conclusions
+Shouldice herniorrhaphy is the best non‐mesh technique in terms of recurrence, though it is more time consuming and needs a slightly longer post‐operative hospital stay. The use of mesh is associated with a lower rate of recurrence. The quality of included studies, assessed with jaded scale, were low. Patients have similar characteristic in the treatment and control group but seems more healthy than in general population, this features may affect the dimension of effect in particularly recurrence rate could be higher in general population. Lost to follow‐up were similar in the treatment and control group but the reasons were often not reported. The length of follow‐up vary broadly among the studies from 1 year to 13.7 year. 

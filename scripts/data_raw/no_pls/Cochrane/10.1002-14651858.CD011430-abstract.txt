@@ -1,0 +1,20 @@
+Background
+To evaluate the effects of administering chemotherapy following surgery, or following surgery plus radiotherapy (known as adjuvant chemotherapy) in patients with early stage non‐small cell lung cancer (NSCLC),we performed two systematic reviews and meta‐analyses of all randomised controlled trials using individual participant data. Results were first published in The Lancet in 2010. 
+Objectives
+To compare, in terms of overall survival, time to locoregional recurrence, time to distant recurrence and recurrence‐free survival: 
+A. Surgery versus surgery plus adjuvant chemotherapy B. Surgery plus radiotherapy versus surgery plus radiotherapy plus adjuvant chemotherapy 
+in patients with histologically diagnosed early stage NSCLC.
+(2)To investigate whether or not predefined patient subgroups benefit more or less from cisplatin‐based chemotherapy in terms of survival. 
+Search methods
+We supplemented MEDLINE and CANCERLIT searches (1995 to December 2013) with information from trial registers, handsearching relevant meeting proceedings and by discussion with trialists and organisations. 
+Selection criteria
+We included trials of a) surgery versus surgery plus adjuvant chemotherapy; and b) surgery plus radiotherapy versus surgery plus radiotherapy plus adjuvant chemotherapy, provided that they randomised NSCLC patients using a method which precluded prior knowledge of treatment assignment. 
+Data collection and analysis
+We carried out a quantitative meta‐analysis using updated information from individual participants from all randomised trials. Data from all patients were sought from those responsible for the trial. We obtained updated individual participant data (IPD) on survival, and date of last follow‐up, as well as details of treatment allocated, date of randomisation, age, sex, histological cell type, stage, and performance status. To avoid potential bias, we requested information for all randomised patients, including those excluded from the investigators' original analyses. We conducted all analyses on intention‐to‐treat on the endpoint of survival. For trials using cisplatin‐based regimens, we carried out subgroup analyses by age, sex, histological cell type, tumour stage, and performance status. 
+Main results
+We identified 35 trials evaluating surgery plus adjuvant chemotherapy versus surgery alone. IPD were available for 26 of these trials and our analyses are based on 8447 participants (3323 deaths) in 34 trial comparisons. There was clear evidence of a benefit of adding chemotherapy after surgery (hazard ratio (HR)= 0.86, 95% confidence interval (CI)= 0.81 to 0.92, p< 0.0001), with an absolute increase in survival of 4% at five years. 
+We identified 15 trials evaluating surgery plus radiotherapy plus chemotherapy versus surgery plus radiotherapy alone. IPD were available for 12 of these trials and our analyses are based on 2660 participants (1909 deaths) in 13 trial comparisons. There was also evidence of a benefit of adding chemotherapy to surgery plus radiotherapy (HR= 0.88, 95% CI= 0.81 to 0.97, p= 0.009). This represents an absolute improvement in survival of 4% at five years. 
+For both meta‐analyses, we found similar benefits for recurrence outcomes and there was little variation in effect according to the type of chemotherapy, other trial characteristics or patient subgroup. 
+We did not undertake analysis of the effects of adjuvant chemotherapy on quality of life and adverse events. Quality of life information was not routinely collected during the trials, but where toxicity was assessed and mentioned in the publications, it was thought to be manageable. We considered the risk of bias in the included trials to be low. 
+Authors' conclusions
+Results from 47 trial comparisons and 11,107 patients demonstrate the clear benefit of adjuvant chemotherapy for these patients, irrespective of whether chemotherapy was given in addition to surgery or surgery plus radiotherapy. This is the most up‐to‐date and complete systematic review and individual participant data (IPD) meta‐analysis that has been carried out. 

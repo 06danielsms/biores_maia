@@ -1,0 +1,32 @@
+Can international travel‐related control measures contain the spread of the COVID‐19 pandemic? 
+What are international travel‐related control measures? 
+International travel control measures are methods to manage international travel to contain the spread of COVID‐19. Measures include: 
+‐ closing international borders to stop travellers crossing from one country to another;
+‐ restricting travel to and from certain countries, particularly those with high infection levels; 
+‐ screening or testing travellers entering or leaving a country if they have symptoms or have been in contact with an infected person; 
+‐ quarantining newly‐arrived travellers from another country, that is, requiring travellers to stay at home or in a specific place for a certain time. 
+What did we want to find out? 
+We wanted to find out how effective international travel‐related control measures are in containing the COVID‐19 pandemic. 
+What we did 
+We searched for studies on the effects of these measures on the spread of COVID‐19. Studies had to report how many cases these measures prevented or detected, or whether they changed the course of the pandemic. The studies could include people of any age, anywhere. They could be of any design including those that used ‘real‐life’ data (observational studies) or hypothetical data from computer‐generated simulations (modelling studies). 
+This is the first update of our review. This update includes only studies on COVID‐19, published up to 13 November 2020. 
+What we found 
+We found 62 studies. Most (49 studies) were modelling studies; only 13 used real‐life data (observational studies). Studies took place across the world and at different times during the pandemic. Levels of COVID‐19 within countries varied. 
+Most studies compared current travel‐related control measures with no travel‐related controls. However, some modelling studies also compared current measures against possible measures, for example, to see what might happen if controls were more or less relaxed or were combined with other measures. 
+Main results 
+Below we summarise the findings of some outcomes.
+Travel restrictions reducing or stopping cross‐border travel (31 modelling studies) 
+Most studies showed that travel restrictions reducing or stopping cross‐border travel were beneficial, but this beneficial effect ranged from small to large. Additionally, some studies found no effect. Studies also predicted that these restrictions would delay the outbreak, but the delay ranged from one day to 85 days in different studies. 
+Screening at borders (13 modelling studies and 13 observational studies) 
+These studies assessed screening at borders, including screening people with symptoms or who had potentially been exposed to COVID‐19, or testing people, before or after they travelled. 
+For screening based on symptoms or potential exposure to COVID‐19, modelling studies found that screening reduced imported or exported cases and delayed outbreaks. Modelling studies predicted that 1% to 53% of cases would be detected. Observational studies reported a wide range of cases detected, from 0% to 100%, with the majority of studies reporting less than 54% of cases detected. 
+For screening based on testing, studies reported that testing travellers reduced imported or exported cases, and cases detected. Observational studies reported that the proportion of cases detected varied from 58% to 90%. This variation might be due to the timing of testing. 
+Quarantine (12 modelling studies) 
+All studies suggested that quarantine may be beneficial, but the size of this effect ranged from small to large in the different studies. Modelling studies, for example, predicted that quarantine could lead to between 450 and over 64,000 fewer cases in the community. Differences in effects may depend on how long people were quarantined for and how well they followed the rules. 
+Quarantine and screening at borders (7 modelling studies and 4 observational studies) 
+For quarantine and screening at borders, most studies suggested some benefit, however the size of this effect differed between studies. For example, observational studies reported that between 68% and 92% of cases would be detected. Differences in effects may depend on how long people were quarantined for and how often they were tested while in quarantine. 
+How reliable are these results? 
+Our confidence in these results is limited. Most studies were based on mathematical predictions (modelling), so we lack real‐life evidence. Further, we were not confident that models used correct assumptions, so our confidence in the evidence on travel restrictions and quarantine, in particular, is very low. Some studies were published quickly online as ‘preprints’. Preprints do not undergo the normal rigorous checks of published studies, so we are not certain how reliable they are. Also, the studies were very different from each other and their results varied according to the specification of each travel measure (e.g. the type of screening approach), how it was put into practice and enforced, the amount of cross‐border travel, levels of community transmission and other types of national measures to control the pandemic. 
+What this means 
+Overall, international travel‐related control measures may help to limit the spread of COVID‐19 across national borders. Restricting cross‐border travel can be a helpful measure. Screening travellers only for symptoms at borders is likely to miss many cases; testing may be more effective but may also miss cases if only performed upon arrival. Quarantine that lasts at least 10 days can prevent travellers spreading COVID‐19 and may be more effective if combined with another measure such as testing, especially if people follow the rules. 
+Future research needs to be better reported. More studies should focus on real‐life evidence, and should assess potential benefits and risks of travel‐related control measures to individuals and society as a whole. 

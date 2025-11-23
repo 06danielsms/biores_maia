@@ -1,0 +1,56 @@
+Background
+Various hormone therapies (HT) are available to treat menopausal vasomotor symptoms. Bioidentical hormones are chemically identical to those produced by the human body, and several types are well‐tested and available on prescription. Many women have opted for bioidentical hormone therapy (BHT) on the assumption that it is safer than other forms of HT. We evaluated the evidence. 
+Objectives
+To determine the effectiveness and safety of bioidentical hormones compared to placebo or non‐bioidentical hormones for the relief of vasomotor symptoms. 
+Search methods
+In July 2015 we searched the Cochrane Central Register of Controlled Trials, PubMed, Embase, Literatura Latino‐Americana e do Caribe em Ciências da Saúde (LILACS), registers of ongoing trials and the reference lists of articles retrieved. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing bioidentical hormone therapy (BHT) versus placebo or non‐bioidentical hormones. 
+Data collection and analysis
+We used standard methodological procedures expected by the Cochrane Collaboration. Our primary outcome was vasomotor symptoms (hot flushes and night sweats). We evaluated the overall quality of the evidence using Grading of Recommendations Assessment, Development and Evaluation criteria (GRADE). 
+Main results
+We included 23 RCTs (5779 participants). Most studies (20/23) included only women with moderate to severe hot flushes. All studies compared unopposed 17 beta‐estradiol (beta‐estradiol) versus placebo or conjugated equine estrogens (CEE). None of the studies reported night sweats as a separate outcome. 
+BHT patch versus placebo 
+Frequency of hot flushes 
+Four RCTs reported data suitable for analysis. There were fewer hot flushes in the BHT group, with a moderate to large effect size (SMD ‐0.68, 95% CI ‐0.83 to ‐0.53, four RCTs, 793 women, I2 = 67%, low quality evidence). There was moderate heterogeneity, but a consistent direction of effect. Seven RCTs reported data unsuitable for analysis; all reported a benefit in the intervention group. 
+Symptom intensity 
+Two RCTs reported analysable data. Measured on a 0‐100 visual analogue scale (VAS), hot flush intensity was lower in the BHT group (MD ‐19.94 points, 95% CI ‐24.86 to ‐15.02, two RCTs, 393 women, I2 = 54%, low quality evidence). There was moderate heterogeneity, but a consistent direction of effect. 
+Adverse effects 
+Adverse events (such as headache, vaginal bleeding, breast tenderness and skin reactions) were more common in the intervention group (odds ratio (OR) 2.14, 95% CI 1.29 to 3.54, 9 RCTs, 1822 women, I2 = 73%, low quality evidence). There was moderate heterogeneity, but a consistent direction of effect. In one study, five women in the intervention group developed endometrial hyperplasia. 
+BHT gel versus placebo 
+Hot flush frequency 
+Three RCTs reported this outcome, but the data were unsuitable for analysis. All reported a benefit in the BHT group. 
+Adverse effects 
+Adverse events were more common in the BHT group (OR 1.41, 95% CI 1.09 to 1.83, 3 RCTs, 1086 women, I2 = 0%, moderate quality evidence). 
+Oral BHT versus placebo 
+Hot flush frequency 
+Two studies reported analysable data. There were fewer hot flushes in the BHT group, with a moderate to large effect size (SMD ‐0.80, 95% CI ‐1.03 to ‐0.57, two RCTs, 356 women, I2 = 14%, low quality evidence). 
+Adverse effects 
+There was no evidence of a difference between the groups (OR 1.28, 95% CI 0.84 to 1.96, 3 RCTs, 433 women, I2 = 0%, low quality evidence). 
+Topical BHT emulsion versus placebo 
+Hot flush frequency 
+One study with data unsuitable for analysis reported a benefit in the intervention group. 
+Adverse effects 
+There was no evidence of a difference between the groups (OR 1.46, 95% CI 0.80 to 2.66, one RCT, 200 women, low quality evidence). 
+Intranasal BHT versus placebo 
+Hot flush frequency 
+Only one study reported analysable data. There were fewer hot flushes per day in the BHT group (MD ‐3.04 95% CI ‐4.05 to ‐2.03, one study, 458 women, moderate quality evidence) 
+Adverse effects 
+Adverse events (such as headache, breast tenderness, arthralgia and nausea) were more common in the intervention group (OR 1.96, 95% CI 1.26 to 3.03, one RCT, 458 women, moderate quality evidence). 
+Subgroup analyses 
+Subgroup analyses by dose of BHT suggested that higher doses of BHT may be associated with more effectiveness but also higher risk of adverse effects. 
+BHT patch versus 0.625 mg CEE 
+Two RCTs reported this comparison, but the data were unsuitable for analysis.
+Hot flush frequency 
+Both RCTs reported no evidence of a difference between the groups.
+Adverse effects 
+Findings were inconsistent. In one comparison (0.1 mg BHT versus CEE), breast pain and vaginal bleeding were more frequent in the BHT group. 
+Oral BHT versus 0.625 mg CEE 
+Hot flush frequency 
+One study with data unsuitable for analysis reported no evidence of a difference between the groups. 
+Adverse effects 
+There was no evidence of a difference between the groups (OR 1.20, 95% CI 0.50 to 2.87, one RCT, 103 women, very low quality evidence). 
+Authors' conclusions
+There was low to moderate quality evidence that BHT in various forms and doses is more effective than placebo for treating moderate to severe menopausal hot flushes. There was low to moderate quality evidence of higher rates of adverse effects such as headache, vaginal bleeding, breast tenderness and skin reactions in the BHT group. There was some evidence to suggest that higher doses of BHT are associated with greater effectiveness but also with higher risk of adverse effects. Although all the included studies used unopposed estrogen, it is recommended best practice to use progestogen therapy in women with a uterus taking estrogen in order to avoid endometrial hyperplasia, regardless of the source of the estrogen. No data are yet available about the safety of BHT with regard to long‐term outcomes such as heart attack, stroke and breast cancer. 
+There was no good evidence of a difference in effectiveness between BHT and CEE, and findings with regard to adverse effects were inconsistent. The quality of the evidence was too low to reach any firm conclusions. 
+The main limitations in the quality of the evidence were study risk of bias (mainly due to poor reporting of methods), imprecision and lack of data suitable for analysis. 

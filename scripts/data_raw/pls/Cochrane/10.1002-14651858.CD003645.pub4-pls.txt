@@ -1,0 +1,16 @@
+Positioning for hospitalised infants and children with acute respiratory distress
+Review question 
+We investigated whether there was a difference in the outcomes for infants and young children with acute respiratory distress syndrome (ARDS) on artificial ventilation who were positioned lying on their abdomen (the prone position), compared to lying on their back (the supine position), or on their side. 
+Background 
+ARDS is one of the most frequent causes of hospitalisation and death in infants and young children globally. When children with severe respiratory distress are hospitalised, treatment may include additional oxygen, with or without assisted ventilation. These attempts to increase oxygenation may damage the lungs. Infants and children with respiratory distress placed in particular positions may be more comfortable, breathe more easily, and have better outcomes. However, different positions may also increase the risk of adverse outcomes, such as obstruction of the endotracheal tube (the tube that connects the person to a ventilator), and accidental extubation (removal of the tube). To find out if this was the case, we searched the literature to identify randomised controlled trials (RCTs) and quasi‐RCTs comparing two or more body positions for managing infants and children hospitalised with ARDS. 
+Search date 
+Our evidence is current to 26 July 2021.
+Study characteristics 
+We included six trials, with a total of 198 participants aged from four weeks to 16 years. The majority were on mechanical ventilators. The timing of interventions ranged from 15 minutes after the child had been settled in a hospital bed, to a maximum of seven days over the duration of the intervention. Only a small number (n = 15) of the children did not have their breathing supported by a ventilator. 
+Study funding source 
+The trials included in this review were supported by public agencies.
+Key results 
+Lying on their abdomen appeared to improve the use of oxygen (oxygenation index is the need for additional oxygen relative to the child’s oxygen level) compared to lying on their back. This finding was based on data from three trials with 141 children. Only one trial with 102 children reported adverse effects, which did not differ between the two positions. One trial with 50 children compared lying on their back to other positions, and was not able to show consistent differences in blood oxygenation. There is not enough information to make any conclusions about the benefits and harms of any position in infants and children with acute respiratory distress. 
+It is important to remember that these children were hospitalised, and on assisted breathing. Because of the association between lying on their abdomen and SIDS, children should not be positioned on their abdomen unless they are in hospital, and their breathing is constantly monitored. 
+Certainty of the evidence 
+The findings of this review are limited by the small number of identified trials, five of which had fewer than 40 participants; the short duration of the interventions; and the lack of description of how the study authors addressed the risk of bias in their trials. Overall, we are uncertain how different positions affect our main outcomes, such as oxygenation levels. This means that future research is needed to improve the certainty of our results. 

@@ -1,0 +1,14 @@
+Is the blood pressure‐lowering effect of beta‐blockers with partial agonist activity consistent or variable throughout the day? 
+Review question 
+This review explores whether the blood pressure‐lowering effect of beta‐blockers with partial agonist activity is consistent or variable throughout the day in adults with high blood pressure (upper blood pressure reading of at least 140 mmHg, or lower blood pressure reading of at least 90 mmHg, or both). 
+Background 
+High blood pressure, also known as hypertension, is very common in the general population, and if not treated, can increase the risk of stroke and heart disease. In an individual, blood pressure naturally varies throughout the day. It is at its lowest at night, rises before awakening, and then falls progressively during the day. Changes to this pattern of variation have been found to be a risk factor for heart disease, independent of the degree of rise in blood pressure. 
+Beta‐blockers are commonly used in the treatment of high blood pressure. Currently, we do not know whether beta‐blockers lower blood pressure to different degrees at different times of the day, and how this differs when compared to other classes of drugs used to treat high blood pressure. This review focused on a particular class of beta‐blockers – those with partial agonist activity (molecules that both activate and inhibit its receptor). 
+Search date 
+We searched the available scientific literature, and included relevant studies up to June 2020. 
+Study characteristics 
+We sought studies that examined the blood pressure‐lowering effects of treatment with six beta‐blockers with partial agonist activity at different times throughout a 24‐hour period, measured by a device that automatically measures blood pressure at regular intervals (ambulatory monitoring). 
+Key results 
+We identified seven studies, involving 121 participants, that studied three of the six beta‐blockers with partial agonist activity (acebutolol, pindolol, and bopindolol). We found that these beta‐blockers lowered blood pressure and heart rate more during the day and evening than at night. Currently, we do not know the benefits and harms of this pattern of blood pressure lowering, such as its impact on reducing stroke and heart disease. 
+Certainty of the evidence 
+Only a small number of eligible studies were identified, involving relatively few participants. We judged the majority of studies at high or unclear risk of bias. We judged the overall certainty of the evidence to be very low for all outcomes. Further research is likely to have important impact on the estimate of effect and may change the conclusion. 

@@ -1,0 +1,14 @@
+Background
+Graduated compression stockings (GCS) are a valuable means of thromboprophylaxis in hospitalised postoperative surgical patients. But it is still unclear whether knee length graduated compression stockings (KL) or thigh length (TL) stockings are more effective. 
+Objectives
+The aim of this review was to systematically analyse the randomised, controlled trials that have evaluated the effectiveness of KL versus TL GCS as a thromboprophylaxis tool in hospitalised patients undergoing various types of surgery. 
+Search methods
+The Cochrane Peripheral Vascular Diseases Group Trials Search Co‐ordinator searched the Specialised Register (last searched February 2012) and CENTRAL (2012, Issue 1). The authors searched MEDLINE and EMBASE (until 27 February 2012) and they also searched the reference lists of relevant articles to identify additional trials. 
+Selection criteria
+Randomised controlled trials published in any language on KL versus TL GCS used as a thromboprophylaxis tool in hospitalised patients of any age and either gender. 
+Data collection and analysis
+Data extraction was undertaken independently by two review authors using data extraction sheets and confirmed by the third review author. 
+Main results
+Three studies, with a combined total of 496 patients, matched the inclusion criteria for this review. All three included studies evaluated the role of KL and TL in thromboprophylaxis among a group of postoperative patients. These studies showed no significant difference in the ability of the two modalities of leg compression to reduce the incidence of deep vein thrombosis in postoperative patients. In both the fixed‐effect model (odds ratio (OR) 1.55, 95% confidence interval (CI) 0.78 to 3.07, P = 0.21) and random‐effects model (OR 1.32, 95% CI 0.43 to 4.06, P = 0.63) KL graduated compression stockings were as effective as TL stockings in thromboprophylaxis. However, there was significant heterogeneity (Tau2 = 0.50; Chi2 = 4.12, df = 2 (P = 0.13); I2 = 51%) among trials. Results of this review may be considered weak because there was significant heterogeneity among included trials resulting from inadequate randomisation techniques, allocation concealment, power calculations and the absence of intention‐to‐treat analysis. 
+Authors' conclusions
+This review found that there is insufficient high quality evidence to determine whether or not KL and TL GCS differ in their effectiveness in terms of reducing the incidence of deep vein thrombosis (DVT) in hospitalised patients.  A major multicentre RCT is required to address this issue. In the meantime, the decision on which type of stocking to use in clinical practice is likely to be influenced by factors such as patient compliance, ease of use and cost implications. 

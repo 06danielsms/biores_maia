@@ -1,0 +1,38 @@
+Background
+The development of severe coronavirus disease 2019 (COVID‐19) and poor clinical outcomes are associated with hyperinflammation and a complex dysregulation of the immune response. Colchicine is an anti‐inflammatory medicine and is thought to improve disease outcomes in COVID‐19 through a wide range of anti‐inflammatory mechanisms. Patients and healthcare systems need more and better treatment options for COVID‐19 and a thorough understanding of the current body of evidence. 
+Objectives
+To assess the effectiveness and safety of Colchicine as a treatment option for COVID‐19 in comparison to an active comparator, placebo, or standard care alone in any setting, and to maintain the currency of the evidence, using a living systematic review approach. 
+Search methods
+We searched the Cochrane COVID‐19 Study Register (comprising CENTRAL, MEDLINE (PubMed), Embase, ClinicalTrials.gov, WHO International Clinical Trials Registry Platform, and medRxiv), Web of Science (Science Citation Index Expanded and Emerging Sources Citation Index), and WHO COVID‐19 Global literature on coronavirus disease to identify completed and ongoing studies without language restrictions to 21 May 2021. 
+Selection criteria
+We included randomised controlled trials evaluating colchicine for the treatment of people with COVID‐19, irrespective of disease severity, age, sex, or ethnicity. 
+We excluded studies investigating the prophylactic effects of colchicine for people without severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) infection but at high risk of SARS‐CoV‐2 exposure. 
+Data collection and analysis
+We followed standard Cochrane methodology. We used the Cochrane risk of bias tool (ROB 2) to assess bias in included studies and GRADE to rate the certainty of evidence for the following prioritised outcome categories considering people with moderate or severe COVID‐19: all‐cause mortality, worsening and improvement of clinical status, quality of life, adverse events, and serious adverse events and for people with asymptomatic infection or mild disease: all‐cause mortality, admission to hospital or death, symptom resolution, duration to symptom resolution, quality of life, adverse events, serious adverse events. 
+Main results
+We included three RCTs with 11,525 hospitalised participants (8002 male) and one RCT with 4488 (2067 male) non‐hospitalised participants. Mean age of people treated in hospital was about 64 years, and was 55 years in the study with non‐hospitalised participants. Further, we identified 17 ongoing studies and 11 studies completed or terminated, but without published results. 
+Colchicine plus standard care versus standard care (plus/minus placebo) 
+Treatment of hospitalised people with moderate to severe COVID‐19 
+All‐cause mortality: colchicine plus standard care probably results in little to no difference in all‐cause mortality up to 28 days compared to standard care alone (risk ratio (RR) 1.00, 95% confidence interval (CI) 0.93 to 1.08; 2 RCTs, 11,445 participants; moderate‐certainty evidence). 
+Worsening of clinical status: colchicine plus standard care probably results in little to no difference in worsening of clinical status assessed as new need for invasive mechanical ventilation or death compared to standard care alone (RR 1.02, 95% CI 0.96 to 1.09; 2 RCTs, 10,916 participants; moderate‐certainty evidence). 
+Improvement of clinical status: colchicine plus standard care probably results in little to no difference in improvement of clinical status, assessed as number of participants discharged alive up to day 28 without clinical deterioration or death compared to standard care alone (RR 0.99, 95% CI 0.96 to 1.01; 1 RCT, 11,340 participants; moderate‐certainty evidence). 
+Quality of life, including fatigue and neurological status: we identified no studies reporting this outcome. 
+Adverse events: the evidence is very uncertain about the effect of colchicine on adverse events compared to placebo (RR 1.00, 95% CI 0.56 to 1.78; 1 RCT, 72 participants; very low‐certainty evidence). 
+Serious adverse events: the evidence is very uncertain about the effect of colchicine plus standard care on serious adverse events compared to standard care alone (0 events observed in 1 RCT of 105 participants; very low‐certainty evidence). 
+Treatment of non‐hospitalised people with asymptomatic SARS‐CoV‐2 infection or mild COVID‐19 
+All‐cause mortality: the evidence is uncertain about the effect of colchicine on all‐cause mortality at 28 days (Peto odds ratio (OR) 0.57, 95% CI 0.20 to 1.62; 1 RCT, 4488 participants; low‐certainty evidence). 
+Admission to hospital or death within 28 days: colchicine probably slightly reduces the need for hospitalisation or death within 28 days compared to placebo (RR 0.80, 95% CI 0.62 to 1.03; 1 RCT, 4488 participants; moderate‐certainty evidence). 
+Symptom resolution: we identified no studies reporting this outcome. 
+Quality of life, including fatigue and neurological status: we identified no studies reporting this outcome. 
+Adverse events: the evidence is uncertain about the effect of colchicine on adverse events compared to placebo . Results are from one RCT reporting treatment‐related events only in 4412 participants (low‐certainty evidence). 
+Serious adverse events: colchicine probably slightly reduces serious adverse events (RR 0.78, 95% CI 0.61 to 1.00; 1 RCT, 4412 participants; moderate‐certainty evidence). 
+Colchicine versus another active treatment (e.g. corticosteroids, anti‐viral drugs, monoclonal antibodies) 
+No studies evaluated this comparison.
+Different formulations, doses, or schedules of colchicine 
+No studies assessed this.
+Authors' conclusions
+Based on the current evidence, in people hospitalised with moderate to severe COVID‐19 the use of colchicine probably has little to no influence on mortality or clinical progression in comparison to placebo or standard care alone. We do not know whether colchicine increases the risk of (serious) adverse events. 
+We are uncertain about the evidence of the effect of colchicine on all‐cause mortality for people with asymptomatic infection or mild disease. However, colchicine probably results in a slight reduction of hospital admissions or deaths within 28 days, and the rate of serious adverse events compared with placebo. 
+None of the studies reported data on quality of life or compared the benefits and harms of colchicine versus other drugs, or different dosages of colchicine. 
+We identified 17 ongoing and 11 completed but not published RCTs, which we expect to incorporate in future versions of this review as their results become available. 
+Editorial note: due to the living approach of this work, we monitor newly published results of RCTs on colchicine on a weekly basis and will update the review when the evidence or our certainty in the evidence changes. 

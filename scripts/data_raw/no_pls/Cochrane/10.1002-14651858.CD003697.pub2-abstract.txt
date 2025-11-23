@@ -1,0 +1,15 @@
+Background
+Effective treatment for advanced melanoma is lacking. While no drug therapy currently exists for prevention of melanoma, in vitro, case‐control, and animal model evidence suggest that lipid‐lowering medications, commonly taken for high cholesterol, might prevent melanoma. 
+Objectives
+To assess the effects of statin or fibrate lipid‐lowering medications on melanoma outcomes. 
+Search methods
+We searched the Cochrane Skin Group Specialised Register (February 2003), CENTRAL (The Cochrane Library Issue 1, 2005), MEDLINE (to March 2003), EMBASE (to September 2003), CANCERLIT (to October 2002), Web of Science (to May 2003), and reference lists of articles. We approached study investigators and pharmaceutical companies for additional information (published or unpublished studies). 
+Selection criteria
+Trials involving random allocation of study participants, where experimental groups used statins or fibrates and participants were enrolled for at least four years of therapy. 
+Data collection and analysis
+Three authors screened 109 abstracts of articles with titles of possible relevance. We then thoroughly examined the full text of 72 potentially relevant articles. We requested unpublished melanoma outcomes data from the corresponding author of each qualifying trial. 
+Main results
+We identified 16 qualifying randomised controlled trials (RCTs) (7 statin, 9 fibrate). Thirteen of these trials (involving 62,197 participants) provided data on incident melanomas (6 statin, 7 fibrate). A total of 66 melanomas were reported in groups receiving the experimental drug and 86 in groups receiving placebo or other control therapies. For statin trials this translated to an odds ratio of 0.90 (95% confidence interval 0.56 to 1.44) and for fibrate trials an odds ratio of 0.58 (95% confidence interval 0.19 to 1.82). 
+Subgroup analyses failed to show statistically significant differences in melanoma outcomes by gender, melanoma occurrence after two years of participation in trial, stage or histology, or trial funding. Subgroup analysis by type of fibrate or statin also failed to show statistically significant differences, except for the statin subgroup analysis which showed reduced melanoma incidence for lovastatin, based on one trial only (odds ratio 0.52, 95% confidence interval 0.27 to 0.99). 
+Authors' conclusions
+The melanoma outcomes data collected in this review of RCTs of statins and fibrates does not exclude the possibility that these drugs prevent melanoma. There was a 10% and 42% reduction for participants on statins and fibrates, respectively, however these results were not statistically significant. Until further evidence is established, limiting exposure to ultraviolet radiation remains the most effective way to reduce the risk of melanoma. 

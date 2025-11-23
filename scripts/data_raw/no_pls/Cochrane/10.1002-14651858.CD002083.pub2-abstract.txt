@@ -1,0 +1,16 @@
+Background
+Antipsychotic therapy is the mainstay of treatment for people with schizophrenia. In recent years new or atypical antipsychotics have been introduced. These are less likely to produce movement disorders and raise serum prolactin. 
+Researchers have suggested that molindone should be classified as an atypical antipsychotic.
+Objectives
+To determine the effects of molindone compared with placebo, typical and other atypical antipsychotic drugs for schizophrenia and related psychoses. 
+Search methods
+For the original search we searched the following databases: Biological Abstracts (1980‐1999), The Cochrane Library CENTRAL (Issue 1, 1999), The Cochrane Schizophrenia Group's Register (January 1999), CINAHL (1982‐1999), EMBASE (1980‐1999), MEDLINE (1966‐1999), LILACS (1982‐1999), PSYNDEX (1977‐1999), and PsycLIT (1974‐1999). We also searched pharmaceutical databases on the Dialog Corporation Datastar and Dialog and the references of all identified studies for further trials. Finally, we contacted the manufacturer of molindone and the authors of any relevant trials. 
+For the update of this review, we searched The Cochrane Schizophrenia Group's Trials Register (August 2005). 
+Selection criteria
+We included all randomised controlled trials that compared molindone to other treatments for schizophrenia and schizophrenia‐like psychoses. 
+Data collection and analysis
+We extracted data independently and analysed on an intention to treat basis calculating, for binary data, the fixed effect relative risk (RR), their 95% confidence intervals (CI), and the number needed to treat or harm (NNT or NNH). We excluded data if loss to follow up was greater than 50%. 
+Main results
+We included fourteen studies. Duration ranged from very short (10 days) studies of the intramuscular preparation, to trials lasting over three months. For measures of global assessment, available data do not justify any conclusions on the comparative efficacy of molindone and placebo. When compared to other typical antipsychotics we found no evidence of a difference in effectiveness (doctors' 4 RCTs n=150, RR 1.13, CI 0.69 to 1.86; nurses 4RCTs n=146, RR 1.23, CI 0.82 to 1.86). Molindone is no more or less likely than typical drugs to cause movement disorders, but it does cause significantly more weight loss (2RCTs n=60 RR 2.78, CI 1.10 to 6.99, NNH 5 CI 2 to 77). 
+Authors' conclusions
+The strength of the evidence relating to this compound is limited, owing to small sample size, poor study design, limited outcomes and incomplete reporting. Molindone may be an effective antipsychotic but its adverse effect profile does not differ significantly from that of typical antipsychotics (apart from the event of weight loss). Data from this review suggest, at present, there is no evidence to suggest that it may have an atypical profile. 

@@ -1,0 +1,14 @@
+Background
+Many patients experience depression, social isolation and anxiety post stroke. These are associated with a poorer outcome. Ameliorating these problems may improve patient wellbeing. 
+Objectives
+To evaluate the impact of a healthcare worker or volunteer whose multi‐dimensional roles have been grouped under the title 'stroke liaison worker'. 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (searched February 2009), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 1, 2009), MEDLINE (1966 to 2009), EMBASE (1980 to 2009) and four other databases. We performed a cited reference search, searched conference proceedings and trials registers, checked reference lists and contacted authors and trial investigators. 
+Selection criteria
+Randomised controlled trials investigating the impact of a stroke liaison worker versus usual care. 
+Data collection and analysis
+We invited trialists to participate in a review of individual patient data. Primary outcomes for patients were subjective health status and extended activities of daily living. Primary outcomes for carers were subjective health status including measures of carer strain. 
+Main results
+We included 16 trials involving 4759 participants. Analysis did not show a significant overall difference for subjective health status (standardised mean difference (SMD) ‐0.03, 95% confidence interval (CI) ‐0.11 to 0.04, P = 0.34) or extended activities of daily living (SMD 0.04, 95% CI ‐0.03 to 0.11, P = 0.22). There was no overall significant effect for the outcome of carer subjective health status (SMD 0.04, 95% CI ‐0.05 to 0.14, P = 0.37). Patients with mild to moderate disability (Barthel 15 to 19) had a significant reduction in dependence (odds ratio (OR) 0.62, 95% CI 0.44 to 0.87, P = 0.006). This would equate to 10 fewer dependent patients (95% CI 17 fewer to 4 fewer) for every 100 patients seen by the stroke liaison worker. Similar results were seen for the outcome of death or dependence for the subgroup with Barthel 15 to 19 (OR 0.55, 95% CI 0.38 to 0.81, P = 0.002). This risk difference equates to 11 fewer dead or dependent patients (95% CI 17 fewer to 4 fewer) for every 100 patients seen by the stroke liaison worker. 
+Authors' conclusions
+There is no evidence for the effectiveness of this multifaceted intervention in improving outcomes for all groups of patients or carers. Patients with mild to moderate disability benefit from a reduction in death and disability. Patients and carers do report improved satisfaction with some aspects of service provision. 

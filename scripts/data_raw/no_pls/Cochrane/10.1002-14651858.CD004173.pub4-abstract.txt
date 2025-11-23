@@ -1,0 +1,14 @@
+Background
+Injury is responsible for an increasing global burden of death and disability. As a result, new models of trauma care have been developed. Many of these, though initially developed in high‐income countries (HICs), are now being adopted in low and middle‐income countries (LMICs). One such trauma care model is advanced trauma life support (ATLS) training in hospitals, which is being promoted in LMICs as a strategy for improving outcomes for victims of trauma. The impact of this health service intervention, however, has not been rigorously tested by means of a systematic review in either HIC or LMIC settings. 
+Objectives
+To quantify the impact of ATLS training for hospital staff on injury mortality and morbidity in hospitals with and without such a training program. 
+Search methods
+The search for studies was run on the 16th May 2014. We searched the Cochrane Injuries Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic+Embase (Ovid), ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S & CPSI‐SSH), CINAHL Plus (EBSCO), PubMed and screened reference lists. 
+Selection criteria
+Randomised controlled trials, controlled trials and controlled before‐and‐after studies comparing the impact of ATLS‐trained hospital staff versus non‐ATLS trained hospital staff on injury mortality and morbidity. 
+Data collection and analysis
+Three authors applied the eligibility criteria to trial reports for inclusion, and extracted data. 
+Main results
+None of the studies identified by the search met the inclusion criteria for this review.
+Authors' conclusions
+There is no evidence from controlled trials that ATLS or similar programs impact the outcome for victims of injury, although there is some evidence that educational initiatives improve knowledge of hospital staff of available emergency interventions. Furthermore, there is no evidence that trauma management systems that incorporate ATLS training impact positively on outcome. Future research should concentrate on the evaluation of trauma systems incorporating ATLS, both within hospitals and at the health system level, by using more rigorous research designs. 

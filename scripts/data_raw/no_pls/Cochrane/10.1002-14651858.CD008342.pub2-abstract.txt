@@ -1,0 +1,20 @@
+Background
+Vitamin K is necessary for the synthesis of coagulation factors. Term infants, especially those who are exclusively breast fed, are deficient in vitamin K and consequently may have vitamin K deficiency bleeding (VKDB). Preterm infants are potentially at greater risk for VKDB because of delayed feeding and subsequent delay in the colonization of their gastrointestinal system with vitamin K producing microflora, as well as immature hepatic and hemostatic function.  
+Objectives
+To determine the effect of vitamin K prophylaxis in the prevention of vitamin K deficiency bleeding (VKDB) in preterm infants. 
+Search methods
+We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 11), MEDLINE via PubMed (1966 to 5 December 2016), Embase (1980 to 5 December 2016), and CINAHL (1982 to 5 December 2016). We also searched clinical trials databases, conference proceedings, and the reference lists of retrieved articles. 
+Selection criteria
+Randomized controlled trials (RCTs) or quasi‐RCTs of any preparation of vitamin K given to preterm infants. 
+Data collection and analysis
+We evaluated potential studies and extracted data in accordance with the recommendations of Cochrane Neonatal. 
+Main results
+We did not identify any eligible studies that compared vitamin K to no treatment.
+One study compared intravenous (IV) to intramuscular (IM) administration of vitamin K and compared various dosages of vitamin K. Three different prophylactic regimes of vitamin K (0.5 mg IM, 0.2 mg vitamin K1, or 0.2 mg IV) were given to infants less than 32 weeks' gestation. Given that only one small study met the inclusion criteria, we assessed the quality of the evidence for the outcomes evaluated as low. 
+Intramuscular versus intravenous 
+There was no statistically significant difference in vitamin K levels in the 0.2 mg IV group when compared to the infants that received either 0.2 or 0.5 mg vitamin K IM (control) on day 5. By day 25, vitamin K1 levels had declined in all of the groups, but infants who received 0.5 mg vitamin K IM had higher levels of vitamin K1 than either the 0.2 mg IV group or the 0.2 mg IM group. 
+Vitamin K1 2,3‐epoxide (vitamin K1O) levels in the infants that received 0.2 mg IV were not statistically different from those in the control group on day 5 or 25 of the study. All of the infants had normal or supraphysiologic levels of vitamin K1 concentrations and either no detectable or insignificant amounts of prothrombin induced by vitamin K absence‐II (PIVKA II). 
+Dosage comparisons 
+Day 5 vitamin K1 levels and vitamin K1O levels were significantly lower in the 0.2 mg IM group when compared to the 0.5 mg IM group. On day 25, vitamin K1O levels and vitamin K1 levels in the 0.2 mg IM group and the 0.5 mg IM group were not significantly different. Presence of PIVKA II proteins in the 0.2 mg IM group versus the 0.5 mg IM group was not significantly different at day 5 or 25 of the study. 
+Authors' conclusions
+Preterm infants have low levels of vitamin K and develop detectable PIVKA proteins during the first week of life. Despite being at risk for VKDB, there are no studies comparing vitamin K versus non‐treatment and few studies that address potential dosing strategies for effective treatment. Dosage studies suggest that we are currently giving doses of vitamin K to preterm infants that lead to supraphysiologic levels. Because of current uncertainty, clinicians will have to extrapolate data from term infants to preterm infants. Since there is no available evidence that vitamin K is harmful or ineffective and since vitamin K is an inexpensive drug, it seems prudent to follow the recommendations of expert bodies and give vitamin K to preterm infants. However, further research on appropriate dose and route of administration is warranted. 

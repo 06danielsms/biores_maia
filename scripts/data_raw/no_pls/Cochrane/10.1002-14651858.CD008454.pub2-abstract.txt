@@ -1,0 +1,16 @@
+Background
+Neuroinflammation may play a key role in the neurodegeneration associated with Parkinson's disease (PD). Non‐steroidal anti‐inflammatory drugs (NSAIDs) may be beneficial in the primary and secondary prevention of PD. 
+Objectives
+1) Do NSAIDs prevent the onset of PD?
+2) Are NSAIDs neuroprotective in PD ‐ do they slow the progression of disease once PD is established? 
+3) What are the adverse effects of taking NSAIDs in PD?
+Search methods
+We searched electronic databases, including trial registers, complemented with handsearching of conference proceedings and citation searching on key articles. All searching was updated in May 2011. We contacted authors to provide additional information where necessary. 
+Selection criteria
+For the primary prevention review, we sought primary prevention trials and observational studies (cohort and case‐control studies). Participants were free of PD when exposure to NSAIDs was assessed. For the secondary prevention review, we sought clinical trials in patients with a well‐defined definition of PD. Two people independently selected studies for inclusion using predetermined criteria. 
+Data collection and analysis
+Two review authors abstracted data from the source papers and assessed methodological quality independently. No studies met the inclusion criteria for the secondary prevention review. For the primary prevention review only observational studies were found. We combined data where appropriate using the inverse variance method. We assessed methodological quality using the Newcastle Ottawa Scales and by examining the period of exposure assessed prior to PD onset (or the index date in controls). 
+Main results
+Fourteen observational studies met the inclusion criteria for the primary prevention review (five cohort, nine case‐control studies). Exposure to any NSAIDs or aspirin had no effect on the risk of developing PD. Exposure to non‐aspirin NSAIDs reduced the risk of developing PD by 13% (effect estimate 0.87 (95% CI 0.73 to 1.04 ‐ random‐effects model), but this did not reach statistical significance. We found similar results for the most robust studies. Ibuprofen in isolation was examined in four studies and was associated with a 27% reduction in risk (effect estimate 0.73, 95% CI 0.63 to 0.85). There was a lack of information on adverse effects. 
+Authors' conclusions
+There is currently no evidence for the use of NSAIDs in the secondary prevention of PD. Non‐aspirin NSAIDs, particularly ibuprofen, may reduce the risk of developing PD. However, little is known of the effects of other individual drugs and at present no recommendations can be made regarding their use in primary prevention. 

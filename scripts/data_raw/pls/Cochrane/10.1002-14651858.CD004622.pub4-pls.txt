@@ -1,0 +1,15 @@
+Treating all teeth (full mouth) within 24 hours for gum disease (periodontitis) in adults 
+Background 
+Long‐lasting gum disease (periodontitis) is a common chronic inflammatory disease that causes damage to soft tissues (gums) and bone around teeth, and can result in tooth loss. Non‐surgical treatments are used to stop and control the disease. These are based on 'subgingival instrumentation', that is, the mechanical removal of bacteria below the gums from the infected root surfaces of the teeth. 
+Conventional treatment is carried out in two to four sessions over several weeks, scaling a different section (or 'quadrant') of the mouth each time. This has traditionally been known as 'scaling and root planing' (SRP). An alternative approach is to treat the whole mouth within 24 hours in one or two sessions (known as full‐mouth scaling (FMS)). When an antiseptic agent (like chlorhexidine) is added to FMS, the intervention is called full‐mouth disinfection (FMD). The rationale for using these full‐mouth approaches is to reduce the likelihood of re‐infection in already treated sites. 
+Review question 
+This review, produced within Cochrane Oral Health, is the second update of one we originally published in 2008. It evaluates the effectiveness of full‐mouth treatments within 24 hours (FMS and FMD) compared to conventional treatment over a number of weeks, and whether there is a difference between FMS and FMD. The evidence is current up to June 2021. 
+Study characteristics 
+The included studies were randomised controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) that evaluated a full‐mouth approach to subgingival instrumentation, with at least three months of monitoring (follow‐up). Both FMS and FMD were compared to conventional quadrant SRP (control). Participants had a clinical diagnosis of chronic periodontitis and we excluded studies of people with aggressive periodontitis, systemic disorders (affecting other part of the body) or who were taking antibiotics. 
+We included nine new studies in this update and we excluded one trial that had been included in the previous version of the review. In total, the review now includes 20 studies that involved 944 participants. 
+Key results 
+Treatment effects of FMS and FMD are modest and there are no clear implications for periodontal care. Neither treatment was superior to the usual treatment of scaling and root planing a quarter of the mouth at a time. 
+The most important harm identified was an increased body temperature after FMS or FMD treatments, reported in three out of 13 studies. 
+In practice, the decision to select one approach over another will be based on preference and convenience for patient and dentist. 
+Certainty of the evidence 
+Our confidence in the results is low for most comparisons and outcomes, due to the small number of studies and participants involved, and limitations in study designs. The addition of nine studies has not changed the findings of our previous version of this review. 

@@ -1,0 +1,22 @@
+Background
+Disease recurrence and progression remain major challenges in the treatment of non‐muscle invasive bladder cancer (NMIBC). Blue light‐enhanced transurethral resection of bladder cancer (TURBT) is an approach to improve staging and achieve a complete resection of NMIBC. 
+Objectives
+To assess the effects of blue light‐enhanced TURBT compared to white light‐based TURBT in the treatment of NMIBC. 
+Search methods
+We searched several medical literature databases, including the Cochrane Library, MEDLINE, and Embase, as well as trial registers, including ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform. We performed a comprehensive search with no restrictions on language of publication or publication status until March 2021. 
+Selection criteria
+We included randomized controlled trials using blue light versus white light TURBT. Included participants had a high level of suspicion based on imaging or ‘visible diagnosis’ for primary urothelial carcinoma of the bladder or recurrent urothelial carcinoma of the bladder upon cytoscopy. We excluded studies in which blue light was used in a surveillance setting.  
+Data collection and analysis
+Two review authors independently performed data extraction and risk of bias assessment. Our primary outcomes were time to disease recurrence, time to disease progression, and serious surgical complications. Secondary outcomes were time to death from bladder cancer, any adverse events, and non‐serious complications. We rated the certainty of evidence using the GRADE approach. 
+Main results
+We included 16 randomized controlled trials involving a total of 4325 participants in the review. The studies compared blue light versus white light TURBT for treatment of NMIBC.  
+Primary outcomes 
+Blue light TURBT may reduce the risk of disease recurrence over time (hazard ratio (HR) 0.66, 95% confidence interval (CI) 0.54 to 0.81; low‐certainty evidence) depending on baseline risk. For participants with low‐, intermediate‐, and high‐risk NMIBC, this corresponded to 48 (66 fewer to 27 fewer), 109 (152 fewer to 59 fewer), and 147 (211 fewer to 76 fewer) fewer recurrences per 1000 participants when compared to white light TURBT, respectively.  
+Blue light TURBT may also reduce the risk of disease progression over time (HR 0.65, 95% CI 0.50 to 0.84; low‐certainty evidence) depending on baseline risk. For participants with low‐, intermediate‐, and high‐risk NMIBC, this corresponded to 1 (1 fewer to 0 fewer), 17 (25 fewer to 8 fewer), and 56 (81 fewer to 25 fewer) fewer progressions per 1000 participants when compared to white light TURBT, respectively. 
+Blue light TURBT may have little or no effect on serious surgical complications (risk ratio (RR) 0.54, 95% CI 0.14 to 2.14; low‐certainty evidence). This corresponded to 10 fewer (19 fewer to 25 more) surgical complications per 1000 participants with blue light TURBT.  
+Secondary outcomes 
+Blue light TURBT may have little or no effect on the risk of death from bladder cancer over time (HR 0.55, 95% CI 0.19 to 1.61; low‐certainty evidence). This corresponded to 22 deaths per 1000 participants with white light TURBT and 10 fewer (17 fewer to 13 more) deaths per 1000 participants with blue light TURBT.   
+We are very uncertain how blue light TURBT affects the outcome adverse events of any grade (RR 1.09, 95% CI 0.88 to 1.33; low‐certainty evidence).  
+No analysis was possible for the outcome non‐serious surgical complications, as it was not reported by any of the included studies. 
+Authors' conclusions
+Blue light‐enhanced TURBT for the treatment of non‐muscle invasive bladder cancer compared to white light‐based TURBT may reduce the risk of disease recurrence and disease progression over time depending on baseline risk. There may be little or no effect on serious surgical complications. The certainty of evidence for our findings was low, meaning that future studies are likely change to the reported estimates of effect. Frequent issues that led to downgrading of the certainty of the evidence were study limitations, inconsistency, and imprecision.  

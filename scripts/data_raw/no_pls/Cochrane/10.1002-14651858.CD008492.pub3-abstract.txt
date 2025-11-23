@@ -1,0 +1,23 @@
+Background
+Plasmodium vivax is an important cause of malaria in many parts of Asia and South America, and parasite resistance to the standard treatment (chloroquine) is now high in some parts of Oceania. This review aims to assess the current treatment options in the light of increasing chloroquine resistance. 
+Objectives
+To compare artemisinin‐based combination therapies (ACTs) with alternative antimalarial regimens for treating acute uncomplicated P. vivax malaria. 
+Search methods
+We searched the Cochrane Infectious Disease Group Specialized Register; the Cochrane Central Register of Controlled Trials (CENTRAL); MEDLINE; EMBASE; LILACS; and the metaRegister of Controlled Trials (mRCT) up to 28 March 2013 using  “vivax” and “arte* OR dihydroarte*” as search terms. 
+Selection criteria
+Randomized controlled trials comparing ACTs versus standard therapy, or comparing alternative ACTs, in adults and children with uncomplicated P. vivax malaria. 
+Data collection and analysis
+Two authors independently assessed trials for eligibility and risk of bias, and extracted data. We used recurrent parasitaemia prior to day 28 as a proxy for effective treatment of the blood stage parasite, and compared drug treatments using risk ratios (RR) and 95% confidence intervals (CIs). We used trials following patients for longer than 28 days to assess the duration of the post‐treatment prophylactic effect of ACTs. We assessed the quality of the evidence using the GRADE approach. 
+Main results
+We included 14 trials, that enrolled 2592 participants, and were all conducted in Asia and Oceania between 2002 and 2011. 
+ACTs versus chloroquine 
+ACTs clear parasites from the peripheral blood quicker than chloroquine monotherapy (parasitaemia after 24 hours of treatment: RR 0.42, 95% CI 0.36 to 0.50, four trials, 1652 participants, high quality evidence). 
+In settings where chloroquine remains effective, ACTs are as effective as chloroquine at preventing recurrent parasitaemias before day 28 (RR 0.58, 95% CI 0.18 to 1.90, five trials, 1622 participants, high quality evidence). In four of these trials, recurrent parasitaemias before day 28 were very low following treatment with both chloroquine and ACTs. The fifth trial, from Thailand in 2011, found increased recurrent parasitaemias following treatment with chloroquine (9%), while they remained low following ACT (2%) (RR 0.25, 95% CI 0.09 to 0.66, one trial, 437 participants). 
+ACT combinations with long half‐lives probably also provide a longer prophylactic effect after treatment, with significantly fewer recurrent parasitaemias between day 28 and day 42 or day 63 (RR 0.57, 95% CI 0.40 to 0.82, three trials, 1066 participants, moderate quality evidence). One trial, from Cambodia, Thailand, India and Indonesia, gave additional primaquine to both treatment groups to reduce the risk of spontaneous relapses. Recurrent parasitaemias after day 28 were lower than seen in the trials that did not give primaquine, but the ACT still appeared to have an advantage (RR 0.27, 95% CI 0.08 to 0.94, one trial, 376 participants, low quality evidence). 
+ACTs versus alternative ACTs 
+In high transmission settings, dihydroartemisinin‐piperaquine is probably superior to artemether‐lumefantrine, artesunate plus sulphadoxine‐pyrimethamine and artesunate plus amodiaquine at preventing recurrent parasitaemias before day 28 (RR 0.20, 95% CI 0.08 to 0.49, three trials, 334 participants, moderate quality evidence). 
+Dihydroartemisinin‐piperaquine may also have an improved post‐treatment prophylactic effect lasting for up to six weeks, and this effect may be present even when primaquine is also given to achieve radical cure (RR 0.21, 95% CI 0.10 to 0.46, two trials, 179 participants, low quality evidence). 
+The data available from low transmission settings is too limited to reliably assess the relative effectiveness of ACTs. 
+Authors' conclusions
+ACTs appear at least equivalent to chloroquine at effectively treating the blood stage of P. vivax infection. Even in areas where chloroquine remains effective, this finding may allow for simplified protocols for treating all forms of malaria with ACTs. In areas where chloroquine no longer cures the infection, ACTs offer an effective alternative. 
+Dihydroartemisinin‐piperaquine is the most studied ACT. It may provide a longer period of post‐treatment prophylaxis than artemether‐lumefantrine or artesunate plus amodiaquine. This effect may be clinically important in high transmission settings whether primaquine is also given or not. 

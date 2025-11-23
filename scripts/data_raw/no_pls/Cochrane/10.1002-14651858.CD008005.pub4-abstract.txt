@@ -1,0 +1,17 @@
+Background
+Phenylketonuria results from a deficiency of the enzyme phenylalanine hydroxylase. Dietary restriction of phenylalanine keeps blood phenylalanine concentration low. Most natural foods are excluded from diet and supplements are used to supply other nutrients. Recent publications report a decrease in blood phenylalanine concentration in some patients treated with sapropterin dihydrochloride. We examined the evidence for the use of sapropterin dihydrochloride to treat phenylketonuria. This is an update of a previously published Cochrane Review.  
+Objectives
+To assess the safety and efficacy of sapropterin dihydrochloride in lowering blood phenylalanine concentration in people with phenylketonuria. 
+Search methods
+We identified relevant trials from the Group's Inborn Errors of Metabolism Trials Register. Date of last search: 11 August 2014. 
+We also searched ClinicalTrials.gov and Current controlled trials. Last search: 4 September 2014 
+We contacted the manufacturers of the drug (BioMarin Pharmaceutical Inc.) for information regarding any unpublished trials. 
+Selection criteria
+Randomized controlled trials comparing sapropterin with no supplementation or placebo in people with phenylketonuria due to phenylalanine hydroxylase deficiency. 
+Data collection and analysis
+Two authors independently assessed trials and extracted outcome data.
+Main results
+Two placebo‐controlled trials were included. One trial administered 10 mg/kg/day sapropterin in 89 children and adults with phenylketonuria whose diets were not restricted and who had previously responded to saproterin.This trial measured change in blood phenylalanine concentration. The second trial screened 90 children (4 to 12 years) with phenylketonuria whose diet was restricted, for responsiveness to sapropterin. Forty‐six responders entered the placebo‐controlled part of the trial and received 20 mg/kg/day sapropterin. This trial measured change in both phenylalanine concentration and protein tolerance. Both trials reported adverse events. The trials showed an overall low risk of bias; but both are Biomarin‐sponsored. One trial showed a significant lowering in blood phenylalanine concentration in the sapropterin group (10 mg/kg/day), mean difference ‐238.80 μmol/L (95% confidence interval ‐343.09 to ‐134.51); a second trial (20 mg/kg/day sapropterin) showed a non‐significant difference, mean difference ‐51.90 μmol/L (95% confidence interval ‐197.27 to 93.47). The second trial also reported a significant increase in phenylalanine tolerance, mean difference18.00 mg/kg/day (95% confidence interval 12.28 to 23.72) in the 20 mg/kg/day sapropterin group. 
+Authors' conclusions
+There is evidence of short‐term benefit from using sapropterin in some people with sapropterin‐responsive forms of phenylketonuria; blood phenylalanine concentration is lowered and protein tolerance increased. There are no serious adverse events associated with using sapropterin in the short term. 
+There is no evidence on the long‐term effects of sapropterin and no clear evidence of effectiveness in severe phenylketonuria. 

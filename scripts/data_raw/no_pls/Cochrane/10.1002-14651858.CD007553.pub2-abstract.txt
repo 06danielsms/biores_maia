@@ -1,0 +1,14 @@
+Background
+Mefenamic acid is a non‐steroidal anti‐inflammatory drug (NSAID). It is most often used for treating pain of dysmenorrhoea in the short term (seven days or less), as well as mild to moderate pain including headache, dental pain, postoperative and postpartum pain. It is widely available in many countries worldwide. 
+Objectives
+To assess the efficacy of single dose oral mefenamic acid in acute postoperative pain, and any associated adverse events. 
+Search methods
+We searched Cochrane CENTRAL, MEDLINE, EMBASE and the Oxford Pain Relief Database for studies to December 2010. 
+Selection criteria
+Single oral dose, randomised, double‐blind, placebo‐controlled trials of mefenamic acid for relief of established moderate to severe postoperative pain in adults. 
+Data collection and analysis
+Studies were assessed for methodological quality and the data extracted by two review authors independently. Summed total pain relief (TOTPAR) or pain intensity difference (SPID) over 4 to 6 hours was used to calculate the number of participants achieving at least 50% pain relief. These derived results were used to calculate, with 95% confidence intervals, the relative benefit compared to placebo, and the number needed to treat (NNT) for one participant to experience at least 50% pain relief over 4 to 6 hours. Numbers of participants using rescue medication over specified time periods, and time to use of rescue medication, were sought as additional measures of efficacy. Information on adverse events and withdrawals was collected. 
+Main results
+Four studies with 842 participants met the inclusion criteria; 126 participants were treated with mefenamic acid 500 mg, 67 with mefenamic acid 250 mg, 197 with placebo, and 452 with lignocaine, aspirin, zomepirac or nimesulide. Participants had pain following third molar extraction, episiotomy and orthopaedic surgery. The NNT for at least 50% pain relief over 6 hours with a single dose of mefenamic acid 500 mg compared to placebo was 4.0 (2.7 to 7.1), and the NNT to prevent use of rescue medication over 6 hours was 6.5 (3.6 to 29). There were insufficient data to analyse other doses or active comparators, or numbers of participants experiencing any adverse events. No serious adverse events or adverse event withdrawals were reported in these studies. 
+Authors' conclusions
+Oral mefenamic acid 500 mg was effective at treating moderate to severe acute postoperative pain, based on limited data. Efficacy of other doses, and safety and tolerability could not be assessed. 

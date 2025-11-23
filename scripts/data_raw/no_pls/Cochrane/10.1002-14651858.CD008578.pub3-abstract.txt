@@ -1,0 +1,14 @@
+Background
+Mumps is an infectious disease caused by the mumps virus. Chinese physicians generally believe that Chinese medicinal herbs are effective in alleviating symptoms and reducing the duration of mumps. Herbalists tend to develop a treatment plan according to the individual's symptoms. 
+Objectives
+To evaluate the effectiveness and safety of Chinese medicinal herbs combined with routine treatments for mumps. 
+Search methods
+We searched CENTRAL (2015, Issue 1), MEDLINE (1948 to January week 4, 2015), EMBASE (1974 to February 2015), CINAHL (1981 to February 2015), AMED (1985 to April 2014), the Chinese Biomedical Database (CBM) (1980 to February 2015), China National Knowledge Infrastructure (CNKI) (1979 to February 2015), VIP Information (1989 to February 2015), and relevant databases of ongoing trials. 
+Selection criteria
+Randomised controlled trials (RCTs) of Chinese medicinal herbs for mumps (with or without complications). 
+Data collection and analysis
+Two review authors independently evaluated trial quality and conducted data extraction. We contacted the trial authors for missing data regarding participant allocation. Some trials allocated participants according to the participants' admission sequence, making it a pseudo‐random allocation. None of the trials concealed participants' allocation or used blinding. 
+Main results
+We did not identify any eligible trials for inclusion. We identified 108 studies that claimed to use random allocation. We excluded 104 studies because the allocation methods the authors had used were not actually randomised. We were unable to contact the trial authors of the remaining four studies. These trials require further evaluation and have been allocated to the 'Studies awaiting classification' section. 
+Authors' conclusions
+We did not find any RCTs for or against Chinese herbal medicine used in the treatment of mumps. We hope more high‐quality RCTs will be conducted in the future. 

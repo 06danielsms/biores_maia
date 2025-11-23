@@ -1,0 +1,14 @@
+Background
+Anal sphincter injury during childbirth ‐ obstetric anal sphincter injuries (OASIS) ‐ are associated with significant maternal morbidity including perineal pain, dyspareunia (painful sexual intercourse) and anal incontinence, which can lead to psychological and physical sequelae. Many women do not seek medical attention because of embarrassment. The two recognised methods for the repair of damaged external anal sphincter (EAS) are end‐to‐end (approximation) repair and overlap repair. 
+Objectives
+To compare the effectiveness of overlap repair versus end‐to‐end repair following OASIS in reducing subsequent anal incontinence, perineal pain, dyspareunia and improving quality of life. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 September 2013) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials comparing different techniques of immediate primary repair of EAS following OASIS. 
+Data collection and analysis
+Trial quality was assessed independently by all authors.
+Main results
+Six eligible trials, of variable quality, involving 588 women, were included. There was considerable heterogeneity in the outcome measures, time points and reported results. Meta‐analyses showed that there was no statistically significant difference in perineal pain (risk ratio (RR) 0.08, 95% confidence interval (CI) 0.00 to 1.45, one trial, 52 women), dyspareunia (average RR 0.77, 95% CI 0.48 to 1.24, two trials, 151 women), flatus incontinence (average RR 1.14, 95% CI 0.58 to 2.23, three trials, 256 women) between the two repair techniques at 12 months. However, it showed a statistically significant lower incidence of faecal urgency (RR 0.12, 95% CI 0.02 to 0.86, one trial, 52 women), and lower anal incontinence score (standardised mean difference (SMD) ‐0.70, 95% CI ‐1.26 to ‐0.14, one trial, 52 women) in the overlap group. The overlap technique was also associated with a statistically significant lower risk of deterioration of anal incontinence symptoms over 12 months (RR 0.26, 95% CI 0.09 to 0.79, one trial, 41 women). There was no significant difference in quality of life. At 36 months follow‐up, there was no difference in flatus incontinence (average RR 1.12, 95% CI 0.63 to 1.99, one trial, 68 women) or faecal incontinence (average RR 1.01, 95% CI 0.34 to 2.98, one trial, 68 women). 
+Authors' conclusions
+The data available show that at one‐year follow‐up, immediate primary overlap repair of the external anal sphincter compared with immediate primary end‐to‐end repair appears to be associated with lower risks of developing faecal urgency and anal incontinence symptoms. At the end of 36 months there appears to be no difference in flatus or faecal incontinence between the two techniques. However, since this evidence is based on only two small trials, more research evidence is needed in order to confirm or refute these findings. 

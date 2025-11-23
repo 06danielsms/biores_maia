@@ -1,0 +1,18 @@
+Background
+Congenital bleeding disorders can cause obstetric haemorrhage during pregnancy, labour and following delivery. Desmopressin acetate (DDAVP) is found to be an effective drug which can reduce the risk of haemorrhage and can also stop bleeding in certain congenital bleeding disorders. Its use in pregnancy has been controversial. Hence beneficial and adverse effects of DDAVP in these groups of pregnant women should be evaluated. 
+This is an update of a Cochrane Review first published in 2013 and updated in 2015.
+Objectives
+To evaluate the efficacy and safety of DDAVP in preventing and treating acute bleeding in pregnant women with bleeding disorders. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coaguopathies Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant and abstract books of conferences proceedings. We also searched several clinical trial registries and grey literature (27 August 2017). 
+Date of most recent search of the Cochrane Cystic Fibrosis and Genetic Disorders Group's Coaguopathies Trials Register: 01 October 2018. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials investigating the efficacy of DDAVP versus tranexamic acid or factor VIII or rFactor VII or fresh frozen plasma in preventing and treating congenital bleeding disorders during pregnancy were eligible. 
+Data collection and analysis
+No trials matching the selection criteria were eligible for inclusion.
+Main results
+No trials matching the selection criteria were eligible for inclusion.
+Authors' conclusions
+No randomised controlled trials were identified investigating the relative effectiveness of DDAVP for bleeding during pregnancy in women with congenital bleeding disorders. In the absence of high‐quality evidence, clinicians need to use their clinical judgement and lower level evidence (e.g. from observational trials) to decide whether or not to treat women with congenital bleeding disorders with DDAVP. 
+Given the ethical considerations, future randomised controlled trials are unlikely. However, other high‐quality controlled studies (such as risk allocation designs, sequential design, parallel cohort design) to investigate the risks and benefits of using DDAVP in this population are needed. 
+Given that there are unlikely to be any trials published in this area, this review will no longer be regularly updated. 

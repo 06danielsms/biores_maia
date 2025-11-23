@@ -1,0 +1,12 @@
+Are there good ways to find out if people living with HIV are taking their medicines every day? 
+The issue 
+For people with HIV, taking their HIV medicines every day (adherence), is vital to keep HIV under control. The best way to measure peoples’ adherence to HIV medicines is with ‘viral load testing’, which tells us how much virus there is in the blood. Viral load testing is not available everywhere, such as in places where there is lack of funds. If we could measure adherence with a more readily available measure, this might help detect people who need more help with taking their medicines. 
+Aim of this review 
+To find out if simple measures of adherence can tell us whether people might not be taking their medication every day and might then have higher (detectable) viral loads. These people might be helped by extra viral load monitoring. This could then prevent them developing complications from HIV or passing HIV to other people. 
+What we found 
+We looked at 51 studies involving children and adults with HIV that happened between 2003 and 2021. These studies tested different ways to measure adherence, including surveys or rating scales filled out by patients, counting of patients’ pills, pharmacy notes, or gadgets. 
+All the measures we looked at did not help find patients who might not be taking their medications and who had higher viral loads. Different studies showed very different results. We could not explain these differences by whether the studies included children or adults, whether they were in richer or poorer areas, or what cut off they used to say if the viral load was high. This also meant that we could not combine the studies. 
+What are the implications of this review? 
+Based on the results, it is uncertain that simple measures of adherence to ART treatment can help find people living with HIV who may have a higher viral load. Still, there may be other values to trying to measure adherence that this review cannot show. 
+Reporting how current the evidence is 
+The evidence is up‐to‐date to 22 April 2021.

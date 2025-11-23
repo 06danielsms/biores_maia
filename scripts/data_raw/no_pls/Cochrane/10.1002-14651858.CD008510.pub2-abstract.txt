@@ -1,0 +1,18 @@
+Background
+Threatened miscarriage occurs in 10% to 15% of all pregnancies. Vaginal spotting or bleeding during early gestation is common, with nearly half of those pregnancies resulting in pregnancy loss. To date, there is no effective preventive treatment for threatened miscarriage. Chinese herbal medicines have been widely used in Asian countries for centuries and have become a popular alternative to Western medicines in recent years. Many studies claim to show that they can prevent miscarriage. However, there has been no systematic evaluation of the effectiveness of Chinese herbal medicines for threatened miscarriage. 
+Objectives
+To review the therapeutic effects of Chinese herbal medicines for the treatment of threatened miscarriage. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 January 2012), Chinese Biomedical Database (1978 to 31 January 2012), China Journal Net (1915 to 31 January 2012), China National Knowledge Infrastructure (1915 to 31 January 2012), WanFang Database (1980 to 31 January 2012), Chinese Clinical Trial Registry (31 January 2012), EMBASE (1980 to 31 January 2012), CINAHL (31 January 2012), PubMed (1980 to 31 January 2012), Wiley InterScience (1966 to 31 January 2012), International Clinical Trials Registry Platform (31 January 2012) and reference lists of retrieved studies. We also contacted organisations, individual experts working in the field, and medicinal herb manufacturers. 
+Selection criteria
+Randomised or quasi‐randomised controlled trials that compared Chinese herbal medicines (alone or combined with other pharmaceuticals) with placebo, no treatment (including bed rest), or other pharmaceuticals as treatments for threatened miscarriage. 
+Data collection and analysis
+Two review authors independently assessed all the studies for inclusion in the review, assessed risk of bias and extracted the data. Data were checked for accuracy. 
+Main results
+In total, we included 44 randomised clinical trials with 5100 participants in the review. 
+We did not identify any trials which used placebo or no treatment (including bed rest) as a control. 
+The rate of effectiveness (continuation of pregnancy after 28 weeks of gestation) was not significantly different between the Chinese herbal medicines alone group compared with the group of women receiving Western medicines alone (average risk ratio (RR) 1.23; 95% confidence interval (CI) 0.96 to 1.57; one trial, 60 women). 
+Chinese herbal medicines combined with Western medicines were more effective than Western medicines alone to continue the pregnancy beyond 28 weeks of gestation (average RR 1.28; 95% CI 1.18 to 1.38; five trials, 550 women). 
+Authors' conclusions
+There was insufficient evidence to assess the effectiveness of Chinese herbal medicines alone for treating threatened miscarriage. 
+A combination of Chinese herbal and Western medicines was more effective than Western medicines alone for treating threatened miscarriage. However, the quality of the included studies was poor. More high quality studies are necessary to further evaluate the effectiveness of Chinese herbal medicines for threatened miscarriage. 

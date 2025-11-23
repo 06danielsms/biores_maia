@@ -1,0 +1,16 @@
+Interventions for non‐tubal ectopic pregnancy
+Review question 
+How effective and safe are surgery, medical treatment, and expectant management for non‐tubal ectopic pregnancy? 
+Background 
+Non‐tubal ectopic pregnancy is the implantation of an embryo outside the womb (uterus) or fallopian tubes (which connect the uterus to the ovaries). Sites include a caesarean scar formed as the healing of an incision in the uterus after caesarean section, the cornua uteri (where the uterus and fallopian tubes meet), the ovary, the cervix, and the abdomen. There has been an increase in the occurrence of these rare conditions, especially caesarean scar pregnancy (CSP). Ectopic pregnancy makes up 80% of maternal deaths that occur in the first trimester, of which non‐tubal ectopic pregnancy deaths account for a higher rate than tubal pregnancy deaths. Early diagnosis and effective treatment are essential to reduce the immediate and delayed side effects, and to avoid significant maternal illness and death. Treatments include surgery (e.g. uterine arterial embolization (UAE; a tube delivers small particles that block the blood supply to the uterus), uterine arterial chemoembolization (UACE; a tube delivers small particles that block the blood supply to the uterus and chemotherapy), dilation and suction curettage (to remove the products of the pregnancy)); medical treatment (e.g. a medicine called methotrexate); or expectant management (wait to see if a miscarriage occurs naturally). 
+Study characteristics 
+Cochrane researchers found five clinical trials including 303 women. The evidence is current to December 2019. 
+Key results 
+Caesarean scar pregnancy  
+Two studies compared UAE/UACE with methotrexate (surgery) versus systemic (into a vein or muscle) methotrexate injection (medical treatment) following suction curettage. Evidence was insufficient for treatment success, complications, and side effects. Moderate‐quality evidence showed that blood loss from the treatment in the surgery group was lower than in the medical treatment group.There were no data for time for β‐hCG levels to return to normal. 
+One study compared UAE with local (into uterine artery) methotrexate injection (surgery) versus ultrasound‐guided local methotrexate injection (medical treatment). Evidence was insufficient for treatment success and time for β‐hCG levels to return to normal. The study reported the same number of failed treatments in each arm There were no data for complications or other side effects. 
+Two studies compared suction curettage under hysteroscopy (insertion of a narrow telescope with a light and camera at the end into the uterus) versus suction curettage under ultrasound after UAE/UACE with methotrexate. Evidence was insufficient for treatment success, complications, side effects, and time for β‐hCG levels to return to normal. 
+Non‐tubal ectopic pregnancies other than caesarean scar pregnancy  
+No studies reported on non‐tubal ectopic pregnancies in locations other than on a caesarean scar. 
+Quality of the evidence 
+The quality of evidence ranged from moderate to very low. The main limitations were small numbers of participants and trials, very wide range of results for most comparisons, and insufficient data to assess differences. 

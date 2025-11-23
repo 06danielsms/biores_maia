@@ -1,0 +1,14 @@
+Background
+Ewing sarcoma is a solid tumour, which is the second most common primary bone malignancy in children, often occurring in the long bones and pelvis. An incidence rate of 4.5 per million a year is reported, with a peak incidence of 11 per million at the age of 12 years. Despite more intensive chemotherapy, 30% to 40% of young people with Ewing sarcoma will have recurrence of the disease. Less than 30% of young people with a recurrence of Ewing sarcoma are alive at 24 months, and less than 10% are alive at 48 months. High‐dose chemotherapy (HDC), followed by autologous haematopoietic cell transplantation (AHCT), is used in a variety of paediatric groups with diverse solid tumours. The hypothesis is that HDC regimens may overcome resistance to standard polychemotherapy, and this way may eradicate minimal residual disease, leading to improved survival after a first recurrence of disease. 
+Objectives
+To assess the efficacy of HDC with AHCT versus conventional chemotherapy in improving event‐free survival, overall survival, quality‐adjusted survival, and progression‐free survival in children, adolescents, and young adults with first recurrence of Ewing sarcoma, and to determine the toxicity of the treatment. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase, conference proceedings from the SIOP, ASPHO, CTOS, ASBMT, EBMT, and EMSOS, and two trial registries in January 2020. We also searched reference lists of relevant articles and review articles. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) or (historical) controlled clinical trials (CCTs) comparing the effectiveness of HDC plus AHCT with conventional chemotherapy for children, adolescents, and young adults (up to 30 years old at the date of diagnostic biopsy) with a first recurrence of Ewing sarcoma. 
+Data collection and analysis
+We used standard methodological procedures expected by Cochrane.
+Main results
+We did not identify any eligible studies.
+Authors' conclusions
+Since we did not identify any eligible studies, we are unable to draw any conclusions about the efficacy and toxicity of HDC with AHCT versus conventional chemotherapy in children, adolescents, and young adults with a first recurrence of Ewing sarcoma. Further high‐quality research is urgently needed. 

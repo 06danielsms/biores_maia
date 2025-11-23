@@ -1,0 +1,40 @@
+Vertebroplasty for treating spinal fractures due to osteoporosis
+Background 
+Osteoporosis is characterised by thin, fragile bones and may result in minimal trauma fractures of the spine bones (vertebrae). They can cause severe pain and disability. 
+Vertebroplasty involves injecting medical‐grade cement into a fractured vertebra, under light sedation or general anaesthesia. The cement hardens in the bone space to form an internal cast. 
+Study characteristics 
+This Cochrane review is current to November 2017. Studies compared vertebroplasty versus placebo (no cement injected) (five studies, 541 participants); usual care (eight studies, 1136 participants); kyphoplasty (similar, but before cement is injected a balloon is expanded in the fractured vertebra; seven studies, 968 participants) and facet joint steroid injection (one study, 217 participants). Trials were performed in hospitals in 15 countries, the majority of participants were female, mean age ranged between 63.3 and 80 years, and symptom duration ranged from a week to six months or more. Eight trials received at least some funding from medical device manufacturers and only two reported that they had no role in the trial. 
+Key results 
+Compared with a placebo (fake) procedure, vertebroplasty resulted in little benefit at one month: 
+Pain (lower scores mean less pain) 
+Improved by 7% (3% better to 12% better), or 0.7 points (0.3 better to 1.2 better) on a zero‐0 to 10‐point scale. 
+• People who had vertebroplasty rated their pain as 4.3 points.
+• People who had placebo rated their pain as 5 points.
+Disability (lower scores mean less disability) 
+Improved by 7% (2% better to 11% better), or 1.5 points (0.4 better to 2.6 better) on a zero to 23‐point scale. 
+• People who had vertebroplasty rated their disability as 12.7 points.
+• People who had placebo rated their disability as 14.2 points.
+Vertebral fracture or osteoporosis‐specific quality of life (lower scores mean better quality of life) 
+Better by 2% (1% worse to 6% better), or 2.33 points better (1.41 worse to 6.06 better) on a zero to 100‐point scale. 
+• People who had vertebroplasty rated their quality of life related to their fracture as 59.7 points. 
+• People who had placebo rated their quality of life related to their fracture as 62 points. 
+Overall quality of life (higher scores mean better quality of life) 
+Improved by 5% (1% better to 9% better), or 0.05 units (0.01 better to 0.09 better) on a zero = death to one = perfect health scale. 
+• People who had vertebroplasty rated their general quality of life as 0.43 points.
+• People who had placebo rated their general quality of life as 0.38 points.
+Treatment success (defined as pain moderately or a great deal better) 
+9% more people rated their treatment a success (11% fewer to 29% more), or nine more people out of 100. 
+• 32 out of 100 people reported treatment success with vertebroplasty.
+• 23 out of 100 people reported treatment success with placebo.
+Compared with a placebo or usual care:
+New symptomatic vertebral fractures (at 12 to 24 months) 
+3% more new fractures with vertebroplasty (8% fewer to 13% more), or one more person out of 100. 
+• 10 out of 100 people had a new fracture with vertebroplasty.
+• 7 out of 100 people had a new fracture with placebo or usual care.
+Other serious adverse events: 
+1% fewer people (6% fewer to 4% more), had other serious adverse events with vertebroplasty; relative change 39% fewer (67% fewer to 10% more). 
+• 4 out of 100 people reported other serious adverse events with vertebroplasty.
+• 5 out of 100 people reported other serious adverse events with placebo.
+Quality of the evidence 
+High‐quality evidence shows that vertebroplasty does not provide more clinically important benefits than placebo. We are less certain of the risk of new vertebral fractures or other serious effects; quality was moderate due to the small number of events. 
+Serious adverse events that may occur include spinal cord or nerve root compression due to cement leaking out from the bone, cement leaking into the blood stream, rib fractures, infection in the bone, fat leaking into the bloodstream, damage to the covering of the spinal cord that could result in leakage of cerebrospinal fluid, anaesthetic complications and death. 

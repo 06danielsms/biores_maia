@@ -1,0 +1,17 @@
+Administering antimalarial drugs to prevent malaria in infants
+What is the aim of the review? 
+This Cochrane Review aimed to find out if administering repeated doses of antimalarial treatment to infants living in sub‐Saharan Africa can prevent malaria. We found and analysed results from 12 relevant studies conducted between 1999 and 2013 that addressed this question in infants (defined as young children aged between 1 to 12 months). 
+Key messages 
+Intermittent preventive treatment with sulfadoxine‐pyrimethamine (SP) 
+Giving SP as preventive antimalarial treatment to infants probably reduced the risk of clinical malaria, anaemia, and hospital admissions in the African countries it was evaluated. However, this effect was attenuated in more recent studies. 
+Intermittent preventive treatment with artemisinin‐based combination therapy (ACT) 
+Giving ACT as preventive antimalarial treatment to infants may reduce the risk of clinical malaria. It may also reduce the proportion of infants with malaria parasites in their blood. 
+What was studied in the review? 
+In areas where malaria is common, infants often suffer repeated episodes of malarial illness. In areas where malaria transmission occurs all‐year, some authorities recommend intermittent preventive treatment, which requires giving drugs at regular intervals (at child vaccination visits) regardless of whether the child has malaria symptoms or not to prevent malarial illness. 
+We studied the effects of IPTi with SP and other medicines (including ACTs) on malaria‐related outcomes. Review outcomes included clinical malaria, severe malaria, death, hospital admission, parasitaemia, anaemia, change in haemoglobin level, and side effects. 
+What are the main results of the review? 
+We included 12 studies that enrolled 19,098 infants. All studies were done in sub‐Saharan Africa (Gabon, Ghana, Kenya, Mali, Mozambique, Tanzania, and Uganda). These studies compared infants who received IPTi to those who received placebo pills or nothing. The infants in the IPTi group were given different medicines, in different doses, and for different lengths of time. 
+Ten studies evaluated IPTi with SP from 1999 to 2013. The effect of SP appear to wane over time, with trials conducted after 2009 showing little or no effect of the intervention. The studies show that IPTi with SP probably resulted in fewer episodes of clinical malaria, anaemia, hospital admission, and blood parasites without symptoms (moderate‐certainty evidence). IPTi with SP probably made little or no difference to the risk of death (moderate‐certainty evidence). 
+Since 2009, IPTi some small studies have evaluated artemisinin‐based combination medicines and indicate impact on clinical malaria and blood parasites. A small study of IPTi with dihydroartemisinin‐piperaquine in 2013 showed up to 58% reduction in episodes of clinical malaria (moderate‐certainty evidence) and reductions in proportion of infants with blood parasites (moderate‐certainty evidence). 
+How up‐to‐date is this review? 
+The review authors searched for studies published up to 3 December 2018.

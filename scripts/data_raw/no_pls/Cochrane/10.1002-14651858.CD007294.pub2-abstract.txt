@@ -1,0 +1,14 @@
+Background
+Standard treatment for high grade glioma (HGG) usually entails surgery (either biopsy or resection) followed by radiotherapy plus or minus temozolomide. Implanting wafers impregnated with chemotherapy agents into the resection cavity represents a novel means of delivering drugs directly to the resection cavity with potentially fewer systemic side effects. It is not clear how effective this modality is or whether it should be recommended as part of standard care for patients with HGG. 
+Objectives
+To estimate the clinical effectiveness of chemotherapy wafers for patients with HGG.
+Search methods
+The following databases were searched: CENTRAL (issue 4. 2010); MEDLINE and EMBASE. The original search strategy also included: Science Citation Index; Physician Data Query; and the meta‐Register of Controlled Trials. Reference lists of all identified studies were searched. The Journal of Neuro‐Oncology and Neuro‐oncology were hand searched from 1999 to 2010, including all conference abstracts. Neuro‐oncologists, trial authors and drug manufacturers were contacted regarding ongoing and unpublished trials. 
+Selection criteria
+Patients included those of all ages with a histologically proven diagnosis of HGG (using intra‐operative analysis when undergoing first resection). Therapy could be instigated for either newly diagnosed disease (primary therapy) or at recurrence. Interventions included insertion of chemotherapy wafers to the resection cavity. Included studies had to be randomised controlled trials (RCTs). 
+Data collection and analysis
+Two independent review authors assessed the search results for relevance and undertook critical appraisal according to pre‐specified guidelines. 
+Main results
+In primary disease two RCTs assessing the effect of carmustine impregnated wafers (Gliadel®) and enrolling a total of 272 participants were identified. Survival was increased with Gliadel® compared to placebo (hazard ratio (HR) 0.65, 95% Confidence Interval (CI) 0.48 to 0.86, P = 0.003). In recurrent disease a single RCT was included comparing Gliadel® with placebo and enrolled 222 participants. It did not demonstrate a significant survival increase (HR 0.83, 95% CI 0.62 to 1.10, P = 0.2). There was no suitable data for any of the secondary outcome measures. Adverse events were not more common in either arm and are presented in a descriptive fashion. 
+Authors' conclusions
+Carmustine impregnated wafers (Gliadel®) result in improved survival without an increased incidence of adverse events over placebo wafers when used for primary disease therapy. There is no evidence of benefit for any other outcome measures. In recurrent disease Gliadel® does not appear to confer any additional benefit. 

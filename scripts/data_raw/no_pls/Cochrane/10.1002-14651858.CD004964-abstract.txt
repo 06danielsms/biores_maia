@@ -1,0 +1,14 @@
+Background
+It is estimated that between 10% and 65% of people with schizophrenia use illicit drugs such as amphetamines. This group have an increased rate of hospitalisation, homelessness, unemployment and suicide compared with those with schizophrenia who do not abuse drugs. 
+Objectives
+To evaluate the effects of amphetamines for people with schizophrenia in terms of clinically meaningful outcomes, cognitive functioning and physiological tests. 
+Search methods
+We searched the Cochrane Schizophrenia Group's Register (February 2002).
+Selection criteria
+We included all randomised controlled trials investigating the effects of amphetamines on people with schizophrenia, compared with a placebo intervention. 
+Data collection and analysis
+Working independently, we selected and critically appraised studies, extracted data and analysed on an intention‐to‐treat basis. Where possible and appropriate we calculated risk ratios (RR) and their 95% confidence intervals (CI), with the number needed to treat (NNT). For continuous data we calculated Weighted Mean Differences (WMD). 
+Main results
+We included four short studies with a total of 83 participants. Data were few and poorly reported. The results indicated a reduction of negative symptoms for people allocated to amphetamines (n = 16, 1 RCT, WMD ‐3 CI ‐5.02 to ‐0.98). No such effect was found for positive symptom change (n = 16, 1 RCT, WMD 0 CI ‐4.46 to 4.46). Compared with placebo, amphetamines significantly increased metabolism in the left and right cerebellum (n = 23, 1 RCT, WMD 0.12 CI 0.06 to 0.18; n = 23 1 RCT, WMD 0.12 CI 0.06 to 0.18) and left striatum (n = 23, 1 RCT, WMD 0.14 CI 0.00 to 0.28) and also significantly decreased metabolism in the left dorsolateral prefrontal cortex (n = 23, 1 RCT, WMD ‐0.09 CI ‐0.17 to ‐0.01). 
+Authors' conclusions
+Understandably amphetamines are rarely formally evaluated in randomised studies and therefore unpublished work in this area is likely to exist. Addition of more studies may clarify reasons why people with schizophrenia persist in taking these harmful stimulants. 

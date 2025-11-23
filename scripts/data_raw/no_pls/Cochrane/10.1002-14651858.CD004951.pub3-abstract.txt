@@ -1,0 +1,19 @@
+Background
+It has been proposed that body positioning in preterm infants, as compared with other, more invasive measures, may be an effective method of reducing clinically significant apnoea. 
+Objectives
+To determine effects of body positioning on cardiorespiratory parameters in spontaneously breathing preterm infants with clinically significant apnoea. 
+Subgroup analyses examined effects of body positioning of spontaneously breathing preterm infants with apnoea from the following subgroups. 
+• Gestational age < 28 weeks or birth weight less than 1000 grams.
+• Apnoea managed with methylxanthines.
+• Frequent apnoea (> 10 events/d).
+• Type of apnoea measured (central vs mixed vs obstructive)
+Search methods
+We used the standard search strategy of the Cochrane Neonatal Review Group (CNRG) to search the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 10), MEDLINE via PubMed (1966 to 14 November 2016), Embase (1980 to 14 November 2016) and the Cumulative Index to Nursing and Allied Health Literature (CINAHL; 1982 to 2016 November 14). We also searched clinical trials databases and conference proceedings for randomised controlled trials and quasi‐randomised trials. 
+Selection criteria
+Randomised and quasi‐randomised controlled clinical trials with parallel, factorial or cross‐over design comparing the impact of different body positions on apnoea in spontaneously breathing preterm infants were eligible for our review. 
+Data collection and analysis
+We assessed trial quality, data extraction and synthesis of data using standard methods of the CNRG. We used the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to assess the quality of evidence. 
+Main results
+The search conducted in November 2016 identified no new studies. Five studies (N = 114) were eligible for inclusion. None of the individual studies nor meta‐analyses showed a reduction in apnoea, bradycardia, oxygen desaturation or oxygen saturation with body positioning (supine vs prone; prone vs right lateral; prone vs left lateral; right lateral vs left lateral; prone horizontal vs prone head elevated; right lateral horizontal vs right lateral head elevated, left lateral horizontal vs left lateral head elevated). 
+Authors' conclusions
+We found insufficient evidence to determine effects of body positioning on apnoea, bradycardia and oxygen saturation in preterm infants. No new studies have been conducted since the original review was published. Large, multi‐centre studies are warranted to provide conclusive evidence, but it may be plausible to conclude that positioning of spontaneously breathing preterm infants has no effect on their cardiorespiratory parameters. 

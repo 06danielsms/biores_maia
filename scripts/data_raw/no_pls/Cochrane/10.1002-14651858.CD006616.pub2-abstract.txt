@@ -1,0 +1,14 @@
+Background
+Death is common in systemic inflammatory response syndrome (SIRS) or sepsis‐induced multisystem organ failure and it has been thought that antioxidants such as N‐acetylcysteine could be beneficial. 
+Objectives
+We assessed the clinical effectiveness of intravenous N‐acetylcysteine for the treatment of patients with SIRS or sepsis. 
+Search methods
+We searched the following databases: Cochrane Central Register of Clinical Trials (CENTRAL) (The Cochrane Library 2011, Issue 12); MEDLINE (January 1950 to January 2012); EMBASE (January 1980 to January 2012); CINAHL (1982 to January 2012); the NHS Trusts Clinical Trials Register and Current Controlled Trials (www.controlled‐trials.com); LILACS; KoreaMED; MEDCARIB; INDMED; PANTELEIMON; Ingenta; ISI Web of Knowledge and the National Trials Register to identify all relevant randomized controlled trials available for review. 
+Selection criteria
+We included only randomized controlled trials (RCTs) in the meta‐analysis.
+Data collection and analysis
+We independently performed study selection, quality assessment and data extraction. We estimated risk ratios (RR) for dichotomous outcomes. We measured statistical heterogeneity using the I2 statistic. 
+Main results
+We included 41 fully published studies (2768 patients). Mortality was similar in the N‐acetylcysteine group and the placebo group (RR 1.06, 95% CI 0.79 to 1.42; I2 = 0%). Neither did N‐acetylcysteine show any significant effect on length of stay, duration of mechanical ventilation or incidence of new organ failure. Early application of N‐acetylcysteine to prevent the development of an oxidato‐inflammatory response did not affect the outcome, nor did late application that is after 24 hours of developing symptoms. Late application was associated with cardiovascular instability. 
+Authors' conclusions
+Overall, this meta‐analysis puts doubt on the safety and utility of intravenous N‐acetylcysteine as an adjuvant therapy in SIRS and sepsis. At best, N‐acetylcysteine is ineffective in reducing mortality and complications in this patient population. At worst, it can be harmful, especially when administered later than 24 hours after the onset of symptoms, by causing cardiovascular depression. Unless future RCTs provide evidence of treatment effect, clinicians should not routinely use intravenous N‐acetylcysteine in SIRS or sepsis and academics should not promote its use. 

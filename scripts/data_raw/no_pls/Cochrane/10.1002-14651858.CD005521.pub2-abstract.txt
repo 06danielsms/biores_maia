@@ -1,0 +1,14 @@
+Background
+Gout is one of the most frequently occurring rheumatic diseases, worldwide. Given the well‐known drawbacks of the regular treatments for acute gout (non‐steroidal anti‐inflammatory drugs (NSAIDs), colchicine), systemic corticosteroids might be safe alternatives. 
+Objectives
+To assess the efficacy and safety of systemic corticosteroids in the treatment of acute gout in comparison with placebo, NSAIDs, colchicine, other active drugs, other therapies, or no therapy. 
+Search methods
+Searches were done in the following electronic databases: Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2007); MEDLINE (1966 to 2007) through PubMed; EMBASE (1974 to 2007); Web of Science (1975 to 2007); LILACS (1986 to 2007); and databases of ongoing trials (up to April 2007). 
+Selection criteria
+Randomized controlled trials and controlled clinical trials investigating the use of systemic corticosteroids in the treatment of acute gout were included. 
+Data collection and analysis
+Two review authors decided independently which trials to include. The same review authors also collected the data in a standardised form and assessed the methodological quality of the trial using validated criteria. When possible, continuous and dichotomous data were summarised statistically. 
+Main results
+Three head to head trials involving 148 patients (74 systemic corticosteroids; 74 comparator drugs) were included. Placebo‐controlled trials were not found. In the studies, different kinds of systemic corticosteroids and different kinds of control drugs were used, both administered in different routes. Intramuscular triamcinolone acetonide was compared respectively to oral indomethacine, and intramuscular adrenocorticotropic hormone (ACTH); oral prednisolone (together with a single intramuscular diclophenac injection) was compared to oral indomethacine (together with a single placebo injection). Outcome measurements varied: average number of days until total relief of signs, mean decrease of pain per unit of time in mm on a visual analogue scale (VAS) ‐ during rest and activity. In the triamcinolone‐indomethacine trial the clinical joint status was used as an additional outcome. Clinically relevant differences between the studied systemic corticosteroids and the comparator drugs were not found; important safety problems attributable to the used corticosteroids were not reported. The quality of the three studies was graded as very low to moderate. Statistical pooling of results was not possible. 
+Authors' conclusions
+There is inconclusive evidence for the efficacy and effectiveness of systemic corticosteroids in the treatment of acute gout. Patients with gout did not report serious adverse effects from systemic corticosteroids, when used short term. 

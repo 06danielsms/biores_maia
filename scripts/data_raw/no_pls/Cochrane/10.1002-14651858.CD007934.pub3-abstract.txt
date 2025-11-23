@@ -1,0 +1,14 @@
+Background
+Mortality rates among patients with sepsis, severe sepsis or septic shock are highly variable throughout different regions or services and can be upwards of 50%. Empirical broad‐spectrum antimicrobial treatment is aimed at achieving adequate antimicrobial therapy, thus reducing mortality; however, there is a risk that empirical broad‐spectrum antimicrobial treatment can expose patients to overuse of antimicrobials. De‐escalation has been proposed as a strategy to replace empirical broad‐spectrum antimicrobial treatment by using a narrower antimicrobial therapy. This is done by reviewing the patient’s microbial culture results and then making changes to the pharmacological agent or discontinuing a pharmacological combination. 
+Objectives
+To evaluate the effectiveness and safety of de‐escalation antimicrobial treatment for adult patients diagnosed with sepsis, severe sepsis or septic shock caused by any micro‐organism. 
+Search methods
+In this updated version, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 10); MEDLINE via PubMed (from inception to October 2012); EMBASE (from inception to October 2012); LILACS (from inception to October 2012); Current Controlled Trials; bibliographic references of relevant studies; and specialists in the area. We applied no language restriction. We had previously searched the databases to August 2010. 
+Selection criteria
+We planned to include randomized controlled trials (RCTs) comparing de‐escalation (based on culture results) versus standard therapy for adults with sepsis, severe sepsis or septic shock. The primary outcome was mortality (at 28 days, hospital discharge or at the end of the follow‐up period). Studies including patients initially treated with an empirical but not adequate antimicrobial therapy were not considered for inclusion. 
+Data collection and analysis
+Two authors planned to independently select and extract data and to evaluate methodological quality of all studies. We planned to use relative risk (risk ratio) for dichotomous data and mean difference (MD) for continuous data, with 95% confidence intervals. We planned to use the random‐effects statistical model when the estimate effects of two or more studies could be combined in a meta‐analysis. 
+Main results
+Our search strategy retrieved 493 studies. No published RCTs testing de‐escalation of antimicrobial treatment for adult patients diagnosed with sepsis, severe sepsis or septic were included in this review. We found one ongoing RCT. 
+Authors' conclusions
+There is no adequate, direct evidence as to whether de‐escalation of antimicrobial agents is effective and safe for adults with sepsis, severe sepsis or septic shock. This uncertainty warrants further research via RCTs and the authors are awaiting the results of an ongoing RCT testing the de‐escalation of empirical antimicrobial therapy for severe sepsis. 

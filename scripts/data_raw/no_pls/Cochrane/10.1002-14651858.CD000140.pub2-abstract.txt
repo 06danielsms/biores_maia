@@ -1,0 +1,14 @@
+Background
+Recurrent apnoea is common in preterm infants, particularly at very early gestational ages. These episodes of ineffective breathing can lead to hypoxaemia and bradycardia that may be severe enough to require the use of positive pressure ventilation. Methylxanthines (such as caffeine, theophylline or aminophylline) have been used to stimulate breathing and reduce apnoea and its consequences. 
+Objectives
+To determine the effects of methylxanthine treatment on the incidence of apnoea and the use of intermittent positive pressure ventilation (IPPV) and other clinically important outcomes in preterm infants with recurrent apnoea. 
+Search methods
+Searches were made of the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 2, 2010), the Oxford Database of Perinatal Trials, MEDLINE (1966 to June 2010), EMBASE (1982 to June 2010), previous reviews including cross references, abstracts, conferences and symposia proceedings, expert informants, journal hand searching mainly in the English language. 
+Selection criteria
+All trials utilizing random or quasi‐random patient allocation in which methylxanthine (theophylline, caffeine or aminophylline) as treatment for apnoea was compared with placebo or no treatment for apnoea in preterm infants were included. 
+Data collection and analysis
+Methodological quality was assessed independently by the review authors. Data were extracted independently by the review authors. Analysis was done in accordance with the recommendations of the Cochrane Neonatal Review Group. 
+Main results
+Six trials reported on the effect of methylxanthine in the treatment of apnoea (three trials of theophylline and three trials of caffeine). Five trials that enrolled a total of 192 preterm infants with apnoea evaluated short term outcomes; in these studies, methylxanthine therapy led to a reduction in apnoea and use of IPPV in the first two to seven days. The post‐hoc analysis of the large CAP Trial comparing caffeine to control in a subgroup of infants being treated for apnoea reported significantly reduced rates of PDA ligation; postmenstrual age at last oxygen treatment, last endotracheal tube use, last positive pressure ventilation; and reduced chronic lung disease at 36 weeks. 
+Authors' conclusions
+Methylxanthine is effective in reducing the number of apnoeic attacks and the use of mechanical ventilation in the two to seven days after starting treatment. Caffeine is also associated with better longer term outcomes. In view of its lower toxicity, caffeine would be the preferred drug for the treatment of apnoea. 

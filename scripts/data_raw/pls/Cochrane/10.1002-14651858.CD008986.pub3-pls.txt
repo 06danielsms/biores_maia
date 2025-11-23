@@ -1,0 +1,13 @@
+Reassessment of drugs given to hospitalised adult patients to improve patients’ health
+Review question 
+This updated Cochrane systematic review studies the evidence for performing in‐hospital medication review (defined as a systematic reassessment by a healthcare professional of an individual patients's medication with suggestions for improvement). We aimed to assess whether medication review may improve the health of adult patients. 
+Background 
+Elderly patients are often prescribed several drugs despite a generally higher risk of adverse events and sometimes lesser treatment effectiveness in this population. 
+Search date 
+To find relevant trials, we searched electronic medical literature databases up to May 2015. 
+Study characteristics 
+We included 10 randomised controlled trials with a total of 3575 participants.
+Key results 
+We found that medication review does not seem to prevent death and hospital readmissions, but that it might reduce emergency department contacts. 
+Certainty of the evidence 
+Our confidence in results across studies ranged from low to high. We found no evidence that medication review in hospitalised patients makes a difference towards preventing mortality (low‐certainty evidence) or hospital readmissions (high‐certainty evidence), but we found that medication review may have a preventive effect on reducing the number of emergency department contacts (low‐certainty evidence). In the included trials, participants were followed for a short time (ranging from 30 days to one year). Therefore, important long‐term treatment effects may have been overlooked. We suggest that further research with long‐term patient follow‐up and examination of specific methods of medication review should be undertaken before this intervention is implemented in clinical practice. 

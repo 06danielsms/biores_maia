@@ -1,0 +1,14 @@
+Background
+Mechanical ventilation is commonly used in Neonatal Intensive Care Units to assist breathing in a variety of conditions. Mechanical ventilation is achieved through the placement of an endotracheal tube (ETT) which is left in‐situ. The ETT is suctioned to prevent a build‐up of secretions and blockage of the airway. Methods of suctioning the endotracheal tube vary according to institutional practice and the individual clinician performing the task. The depth of suctioning is one of these variables. The catheter may be passed to the tip of the ETT or beyond the tip into the trachea or bronchi to facilitate removal of secretions. However, trauma to the lower airways may result from the suction catheter being passed into the airway beyond the tip of the endotracheal tube. 
+Objectives
+To compare the effectiveness and complications of deep (catheter passed beyond the tip of the ETT) versus shallow (catheter passed to length of ETT only) suctioning of the endotracheal tube in ventilated infants. 
+Search methods
+In this first update the searches were expanded to the Cochrane Central Register of Controlled Trials (The Cochrane Library, March 30), MEDLINE (from January 1966 to May 30 2011), CINAHL (from 1982 to May 30 2011) and EMBASE (1980 to May 2011) using text words and subject headings relevant to endotracheal suctioning. There were no language restrictions. 
+Selection criteria
+Controlled trials using random or quasi‐random allocation of neonates receiving ventilatory support via an endotracheal tube to either deep or shallow endotracheal suctioning. 
+Data collection and analysis
+The updated search resulted in 149 potentially relevant references. Two of the studies from this search were identified as potentially relevant. We included one of the potentially relevant studies and the other was excluded because it did not fit the inclusion criteria. 
+Main results
+One small crossover trial (n = 27) of shallow versus deep suctioning met the criteria for inclusion in this review. The reported outcomes were oxygen saturation and heart rate, during and after suctioning. There were no significant differences when shallow and deep suctioning methods were compared. 
+Authors' conclusions
+There is no evidence from randomised controlled trials concerning the benefits or risks of deep versus shallow suctioning of endotracheal tubes in ventilated neonates and infants. Further high quality research is required. 

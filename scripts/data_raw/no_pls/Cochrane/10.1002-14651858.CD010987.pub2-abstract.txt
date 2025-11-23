@@ -1,0 +1,15 @@
+Background
+Low vision in childhood is a significant barrier to learning and development, particularly for reading and education. Optical low vision aids may be used to maximise the child's functional vision. The World Health Organization (WHO) has previously highlighted the importance of the use of low vision aids in managing children with visual impairment across the world. 
+Objectives
+To assess the effect of optical low vision aids on reading in children and young people with low vision. 
+Search methods
+We searched CENTRAL (which contains the Cochrane Eyes and Vision Group Trials Register) (2014, Issue 12), Ovid MEDLINE, Ovid MEDLINE In‐Process and Other Non‐Indexed Citations, Ovid MEDLINE Daily, Ovid OLDMEDLINE (January 1946 to January 2015), EMBASE (January 1980 to January 2015), the Health Technology Assessment Programme (HTA) (www.hta.ac.uk/), the ISRCTN registry (www.isrctn.com/editAdvancedSearch), ClinicalTrials.gov (www.clinicaltrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform (ICTRP) (www.who.int/ictrp/search/en). We did not use any date or language restrictions in the electronic searches for trials. We last searched the electronic databases on 8 January 2015. 
+We also used manual searching to check the references listed in retrieved articles. Manufacturers of low vision aids were contacted to request any information about studies or research regarding their products. 
+Selection criteria
+We planned to include randomised controlled trials (RCTs) and quasi‐RCTs where any optical low vision aid was compared to standard refractive correction in children and young people aged between 5 and 16 years of age with low vision as defined by the WHO. We planned to include within‐person design studies where the order of presentation of devices was randomised. 
+Data collection and analysis
+Two authors independently reviewed the search results for eligibility .
+Main results
+No studies met the inclusion criteria for this review.
+Authors' conclusions
+There is a lack of good quality evidence regarding the use of optical low vision aids in children and young people. As such, no implications for practice can be drawn. We believe future research should include functional outcome measures such as reading speed, accuracy and comprehension, as well as the effect of low vision aids on quality of life, in order to truly assess and compare the effect of these devices on a child's life and development. 

@@ -1,0 +1,14 @@
+Background
+Smallpox was eradicated by 1980, but its possible use as a bioweapon has rekindled interest in the development of protective vaccines. Therefore, stockpiled calf lymph‐derived vaccines and recently developed cell‐cultured vaccines have been investigated to contribute information to smallpox emergency response plans, while newer (non‐replication competent) vaccines are developed. 
+Objectives
+To assess the effects of smallpox vaccines in preventing the disease, in inducing immunity, and in regard to adverse events. 
+Search methods
+In December 2006, we searched the Cochrane Infectious Diseases Group Specialized Register, CENTRAL (The Cochrane Library 2006, Issue 4), MEDLINE, EMBASE, LILACS, and Current Controlled Trials, and handsearched Index Medicus. We also searched three databases of vaccine safety in December 2005. 
+Selection criteria
+Randomized controlled trials of smallpox vaccines versus placebo, other smallpox or non‐smallpox vaccine, no intervention, or different dose of the same vaccine in people receiving smallpox vaccination irrespective of age. 
+Data collection and analysis
+Both authors independently assessed trial quality and extracted data. We combined dichotomous data using risk ratio with a random‐effects model. 
+Main results
+Ten trials involving 2412 participants were included. The vaccines investigated were calf‐lymph derived first‐generation vaccines (Dryvax, APVS, Lancy‐vaxina, Lister), and cell‐cultured second‐generation vaccines (ACAM, CCSV). Vaccines were investigated in different dilutions. All undiluted vaccines induced a reaction in 95% of people vaccinated in terms of pustule and immunogenicity. Also 1:10 dilutions were fully efficient when the starting concentration was defined. Serious adverse events were reported in 1% to 2% of the volunteers. Fever was observed in 11% to 22% of participants, and headache in roughly half of the participants. Fever was less frequent when new vaccines were administered, but rates of headache were similar in new and old vaccines. 
+Authors' conclusions
+The evidence shows that stockpiled vaccines have maintained their immunogenicity and new cell‐cultured vaccines are similar to stockpiled vaccines in terms of vaccination success rate and immunogenicity. First‐ and second‐generation vaccines diluted to at least 1:10 are as effective as undiluted vaccine in terms of clinical success rate and immunogenicity. Dilution did not reduce the frequency of adverse events. Success rate and immunogenicity were similar in naive and previously vaccinated persons, but there were fewer adverse events in previously vaccinated persons. The rate of adverse events found in this review reveals the need for further development and improvement of smallpox vaccines. 

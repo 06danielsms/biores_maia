@@ -1,0 +1,14 @@
+Background
+Mannitol is an osmotic agent and a free radical scavenger which might decrease oedema and tissue damage in stroke. 
+Objectives
+To test whether treatment with mannitol reduces short and long‐term case fatality and dependency after acute ischaemic stroke or intracerebral haemorrhage (ICH). 
+Search methods
+We searched the Cochrane Stroke Group Trials Register (searched December 2006), MEDLINE (1966 to January 2007), the Chinese Stroke Trials Register (searched November 2006), the China Biological Medicine Database (searched December 2006) and the Latin‐American database LILACS (1982 to December 2006). We also searched the database of Masters and PhD degree theses at Sao Paulo University (searched January 2007), and neurology and neurosurgery conference proceedings in Brazil from 1965 to 2006. In an effort to identify further published, ongoing and unpublished studies we searched reference lists and contacted authors of published trials. 
+Selection criteria
+We included randomised controlled trials comparing mannitol with placebo or open control in patients with acute ischaemic stroke or non‐traumatic intracerebral haemorrhage. 
+Data collection and analysis
+Two review authors independently selected trials, assessed quality, extracted data, and performed the data analysis. 
+Main results
+Three small trials, involving 226 participants, were included. One trial included patients with presumed ischaemic stroke without computerised tomography (CT) verification, and the other two trials included patients with CT‐verified ICH. Data on the primary outcome measure (death and dependency) were not available in any of the trials. Death and disability could be calculated in the larger ICH trial without differences between the mannitol and control groups. Case fatality was not reported in the trial of ischaemic stroke. Case fatality did not differ between the mannitol and control groups in the ICH trials. Adverse events were either not found or not reported. The change in clinical condition was reported in two trials, and the proportion of those with worsening or not improving condition did not differ significantly between mannitol‐treated patients and controls. Based on these three trials neither beneficial nor harmful effects of mannitol could be proved. Although no statistically significant differences were found between the mannitol‐treated and control groups, the confidence intervals for the treatment effect estimates were wide and included both clinically significant benefits and clinically significant harms as possibilities. 
+Authors' conclusions
+There is currently not enough evidence to support the routine use of mannitol in acute stroke patients. Further trials are needed to confirm or refute whether mannitol is beneficial in acute stroke. 

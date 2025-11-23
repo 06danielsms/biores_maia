@@ -1,0 +1,32 @@
+Background
+Dysmenorrhoea refers to painful menstrual cramps and is a common gynaecological complaint. Conventional treatments include non‐steroidal anti‐inflammatory drugs (NSAIDs) and oral contraceptive pills (OCPs), which both reduce myometrial activity (contractions of the uterus). A suggested alternative approach is dietary supplements. We used the term 'dietary supplement' to include herbs or other botanical, vitamins, minerals, enzymes, and amino acids. We excluded traditional Chinese medicines. 
+Objectives
+To determine the efficacy and safety of dietary supplements for treating dysmenorrhoea.
+Search methods
+We searched sources including the Cochrane Gynaecology and Fertility Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, AMED, PsycINFO (all from inception to 23 March 2015), trial registries, and the reference lists of relevant articles. 
+Selection criteria
+We included randomised controlled trials (RCTs) of dietary supplements for moderate or severe primary or secondary dysmenorrhoea. We excluded studies of women with an intrauterine device. Eligible comparators were other dietary supplements, placebo, no treatment, or conventional analgesia. 
+Data collection and analysis
+Two review authors independently performed study selection, performed data extraction and assessed the risk of bias in the included trials. The primary outcomes were pain intensity and adverse effects. We used a fixed‐effect model to calculate odds ratios (ORs) for dichotomous data, and mean differences (MDs) or standardised mean differences (SMDs) for continuous data, with 95% confidence intervals (CIs). We presented data that were unsuitable for analysis either descriptively or in additional tables. We assessed the quality of the evidence using Grading of Recommendations Assessment, Development and Evaluation (GRADE) methods. 
+Main results
+We included 27 RCTs (3101 women). Most included studies were conducted amongst cohorts of students with primary dysmenorrhoea in their late teens or early twenties. Twenty‐two studies were conducted in Iran and the rest were performed in other middle‐income countries. Only one study addressed secondary dysmenorrhoea. Interventions included 12 different herbal medicines (German chamomile (Matricaria chamomilla, M recutita, Chamomilla recutita), cinnamon (Cinnamomum zeylanicum, C. verum), Damask rose (Rosa damascena), dill (Anethum graveolens), fennel (Foeniculum vulgare), fenugreek (Trigonella foenum‐graecum), ginger (Zingiber officinale), guava (Psidium guajava), rhubarb (Rheum emodi), uzara (Xysmalobium undulatum), valerian (Valeriana officinalis), and zataria (Zataria multiflora)) and five non‐herbal supplements (fish oil, melatonin, vitamins B1 and E, and zinc sulphate) in a variety of formulations and doses. Comparators included other supplements, placebo, no treatment, and NSAIDs. 
+We judged all the evidence to be of low or very low quality. The main limitations were imprecision due to very small sample sizes, failure to report study methods, and inconsistency. For most comparisons there was only one included study, and very few studies reported adverse effects. 
+Effectiveness of supplements for primary dysmenorrhoea 
+We have presented pain scores (all on a visual analogue scale (VAS) 0 to 10 point scale) or rates of pain relief, or both, at the first post‐treatment follow‐up. 
+Supplements versus placebo or no treatment 
+There was no evidence of effectiveness for vitamin E (MD 0.00 points, 95% CI −0.34 to 0.34; two RCTs, 135 women). 
+There was no consistent evidence of effectiveness for dill (MD ‐1.15 points, 95% CI −2.22 to −0.08, one RCT, 46 women), guava (MD 0.59, 95% CI −0.13 to 1.31; one RCT, 151 women); one RCT, 73 women), or fennel (MD −0.34 points, 95% CI −0.74 to 0.06; one RCT, 43 women). 
+There was very limited evidence of effectiveness for fenugreek (MD −1.71 points, 95% CI −2.35 to −1.07; one RCT, 101 women), fish oil (MD 1.11 points, 95% CI 0.45 to 1.77; one RCT, 120 women), fish oil plus vitamin B1 (MD −1.21 points, 95% CI −1.79 to −0.63; one RCT, 120 women), ginger (MD −1.55 points, 95% CI −2.43 to −0.68; three RCTs, 266 women; OR 5.44, 95% CI 1.80 to 16.46; one RCT, 69 women), valerian (MD −0.76 points, 95% CI −1.44 to −0.08; one RCT, 100 women), vitamin B1 alone (MD −2.70 points, 95% CI −3.32 to −2.08; one RCT, 120 women), zataria (OR 6.66, 95% CI 2.66 to 16.72; one RCT, 99 women), and zinc sulphate (MD −0.95 points, 95% CI −1.54 to −0.36; one RCT, 99 women). 
+Data on chamomile and cinnamon versus placebo were unsuitable for analysis.
+Supplements versus NSAIDS 
+There was no evidence of any difference between NSAIDs and dill (MD 0.13 points, 95% CI −1.01 to 1.27; one RCT, 47 women), fennel (MD −0.70 points, 95% CI −1.81 to 0.41; one RCT, 59 women), guava (MD 1.19, 95% CI 0.42 to 1.96; one RCT, 155 women), rhubarb (MD −0.20 points, 95% CI −0.44 to 0.04; one RCT, 45 women), or valerian (MD points 0.62 , 95% CI 0.03 to 1.21; one RCT, 99 women), 
+There was no consistent evidence of a difference between Damask rose and NSAIDs (MD −0.15 points, 95% CI −0.55 to 0.25; one RCT, 92 women). 
+There was very limited evidence that chamomile was more effective than NSAIDs (MD −1.42 points, 95% CI −1.69 to −1.15; one RCT, 160 women). 
+Supplements versus other supplements 
+There was no evidence of a difference in effectiveness between ginger and zinc sulphate (MD 0.02 points, 95% CI −0.58 to 0.62; one RCT, 101 women). Vitamin B1 may be more effective than fish oil (MD −1.59 points, 95% CI −2.25 to −0.93; one RCT, 120 women). 
+Effectiveness of supplements for secondary dysmenorrhoea  
+There was no strong evidence of benefit for melatonin compared to placebo for dysmenorrhoea secondary to endometriosis (data were unsuitable for analysis). 
+Safety of supplements  
+Only four of the 27 included studies reported adverse effects in both treatment groups. There was no evidence of a difference between the groups but data were too scanty to reach any conclusions about safety. 
+Authors' conclusions
+There is no high quality evidence to support the effectiveness of any dietary supplement for dysmenorrhoea, and evidence of safety is lacking. However for several supplements there was some low quality evidence of effectiveness and more research is justified. 

@@ -1,0 +1,11 @@
+Early treatment versus expectant management of symptomatic patent ductus arteriosus in preterm infants 
+Review question 
+Does early treatment (initiated within the first seven days after birth) or very early treatment (initiated within the first 72 hours after birth) of a symptomatic patent ductus arteriosus (PDA) with nonsteroidal anti‐inflammatory drugs (NSAIDs) compared to expectant management (without use of NSAIDs) improve outcomes in preterm infants? 
+Background 
+PDA is a common complication in preterm or low birth weight infants. PDA is an open vascular channel between the lungs and the heart which usually closes shortly after birth. In preterm infants, the PDA often remains open and may contribute to life‐threatening complications. Medications such as NSAIDs are used to prevent or treat a PDA before it becomes symptomatic. However, there are concerns regarding the side‐effects of NSAIDs in preterm infants. There is controversy on whether early treatment of a symptomatic PDA improves outcomes in preterm infants. 
+Study characteristics 
+We searched scientific databases for randomized controlled trials (clinical studies where people are randomly put into one of two or more treatment groups) in preterm (born at less than 37 weeks into pregnancy) or low‐birth‐weight (weighing less than 2500 grams) infants with a symptomatic PDA diagnosed using a combination of specific clinical features and ultrasound of the heart. The included studies compared early treatment, or very early treatment of a symptomatic PDA with NSAIDs compared to expectant management without the use of NSAIDs. The search is up to date as of 2 October 2020. 
+Key results 
+This review of 14 clinical trials (910 infants) found that early or very early treatment of a symptomatic PDA does not reduce death or other poor clinical outcomes in preterm infants. Early or very early treatment, on the other hand, appears to increase the number of preterm infants exposed to NSAIDs. There are currently two trials awaiting classification and two ongoing trials exploring this question. 
+Certainty of evidence 
+According to GRADE (a method to score the certainty of the trials supporting each outcome), the certainty of the evidence varied from very low to moderate but was moderate for the most important outcome of death. 

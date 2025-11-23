@@ -1,0 +1,18 @@
+Clinical Study Results
+
+Did any adverse reactions happen during this study?
+There were 15.0% of participants who had adverse reactions during the study that the study doctors thought might be related to savolitinib. This was 3 out of 20 participants.
+There were 50.0% of participants who had adverse reactions during the study that the study doctors thought might be related to rifampicin. This was 9 out of 18 participants.
+The table below shows how many participants had adverse reactions.
+
+Adverse reactions during this study
+Savolitinib Rifampicin
+15.0% (3) 50.0% (9)
+
+How many participants had adverse reactions?
+15.0% (3) 50.0% (9)
+
+How many participants left this study due to adverse reactions?
+5.0% (1) 0.0% (0)
+
+7

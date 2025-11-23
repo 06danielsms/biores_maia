@@ -1,0 +1,17 @@
+Background
+Mass treatment with diethylcarbamazine (DEC)‐medicated salt has been used in a number of places as a control measure for lymphatic filariasis. We sought reliable evidence about its effect on lymphatic filariasis transmission. 
+Objectives
+To evaluate the effects of DEC‐medicated salt on infection with lymphatic nematodes in studies of individuals and communities. 
+Search methods
+In August 2006, we searched the Cochrane Infectious Disease Group Specialized Register, CENTRAL (The Cochrane Library 2006, Issue 3), MEDLINE, EMBASE, and LILACS. We also checked reference lists. 
+Selection criteria
+Studies of DEC‐medicated salt in endemic populations or microfilaraemic individuals that reported on some measure of human infection before and after the intervention. 
+Data collection and analysis
+Two authors assessed study eligibility and methodological quality. We calculated the percentage change in microfilariae prevalence and density, adult worm prevalence, disease rates, and vector infection and infectivity. We carried out meta‐regression to explore the variability in percentage reduction in microfilariae prevalence between studies. 
+Main results
+Twenty‐one studies were included; two compared DEC‐medicated salt with other forms of DEC, five had some control group, and 14 were before‐and‐after studies. Five were efficacy and safety studies of individuals who were all microfilaraemic at baseline; the rest studied endemic communities. 
+Percentage reductions in microfilariae prevalence were large (43% to 100%) and consistent in most studies with high levels of coverage. Large reductions in microfilariae density were also observed, though most studies reported changes in microfilariae density only for people with microfilaraemia at baseline. Vector infection and infectivity also declined, but the samples were usually small. Changes in disease prevalence were inconclusive as most studies were not powered for this outcome. Adverse events seemed mild. 
+Only two studies compared DEC‐medicated salt with other forms of DEC (such as annual or standard 12‐day dose), but in both performance of DEC‐medicated salt was better. 
+A few studies included longer term follow up (two to 19 years). Reductions in microfilariae prevalence, density, and vector infectivity were maintained over time. The DEC concentration in the salt and the duration of intervention were significant factors influencing the percentage reduction in microfilariae prevalence in these studies. 
+Authors' conclusions
+DEC‐medicated salt is an effective intervention when maintained with levels of coverage of at least 90% for at least six months. Further studies are required to assess the effects of continuous low‐dose, DEC‐medicated salt on adult worms, disease prevalence, and development of drug resistance. 

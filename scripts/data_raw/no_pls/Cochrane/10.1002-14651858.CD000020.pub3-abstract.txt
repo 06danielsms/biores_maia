@@ -1,0 +1,16 @@
+Background
+During pregnancy, a Rhesus negative (Rh‐negative) woman may develop antibodies when her fetus is Rhesus positive (Rh‐positive). These antibodies may harm Rh‐positive babies. 
+Objectives
+To assess the effects of antenatal anti‐D immunoglobulin on the incidence of Rhesus D alloimmunisation when given to Rh‐negative women without anti‐D antibodies. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 May 2015) and reference lists of retrieved studies. 
+Selection criteria
+Randomised trials in Rh‐negative women without anti‐D antibodies given anti‐D after 28 weeks of pregnancy, compared with no treatment, placebo or a different regimen of anti‐D. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+We included two trials involving over 4500 women, comparing anti‐D prophylaxis with no anti‐D during pregnancy in this review. Overall, the trials were judged to be at moderate to high risk of bias. The quality of the evidence for pre‐specified outcomes was also assessed using the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach. 
+In regards to primary review outcomes, there did not appear to be a clear difference in the risks of immunisation when women who received anti‐D at 28 and 34 weeks' gestation were compared with women who were not given antenatal anti‐D: risk ratio (RR) for incidence of Rhesus D alloimmunisation during pregnancy was 0.42 (95% confidence interval (CI) 0.15 to 1.17, two trials, 3902 women; GRADE: low quality evidence); at birth of a Rh‐positive infant the RR was 0.42 (95% CI 0.15 to 1.17, two trials, 2297 women); and within 12 months after birth of a Rh‐positive infant the average RR was 0.39 (95% CI 0.10 to 1.62, two trials, 2048 women; Tau²: 0.47; I²: 39%; GRADE: low quality evidence). Neither of the trials reported on incidence of Rhesus D alloimmunisation in subsequent pregnancies. 
+Considering secondary outcomes, in one trial, women receiving anti‐D during pregnancy were shown to be less likely to register a positive Kleihauer test (which detects fetal cells in maternal blood) in pregnancy (at 32 to 25 weeks) (RR 0.60, 95% CI 0.41 to 0.88; 1884 women; GRADE: low quality evidence) and at the birth of a Rh‐positive infant (RR 0.60, 95% CI 0.46 to 0.79; 1189 women; GRADE: low quality evidence). No clear differences were seen for neonatal jaundice (RR 0.26, 95% CI 0.03 to 2.30; 1882 infants; GRADE: very low quality evidence). Neither of the trials reported on adverse effects associated with anti‐D treatment. 
+Authors' conclusions
+Existing studies do not provide conclusive evidence that the use of anti‐D during pregnancy benefits either mother or baby in terms of incidence of Rhesus D alloimmunisation during the pregnancy or postpartum, or the incidence of neonatal morbidity (jaundice) (low to very low quality evidence). However women receiving anti‐D may be less likely to register a positive Kleihauer test in pregnancy and at the birth of a Rh‐positive infant (low quality evidence). Fewer women who receive anti‐D during pregnancy may have Rhesus D antibodies in a subsequent pregnancy, with benefits for the baby, however this needs to be tested in studies of robust design. 

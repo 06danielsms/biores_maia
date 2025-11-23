@@ -1,0 +1,14 @@
+Background
+Facioscapulohumeral muscular dystrophy is a progressive muscle disease which has no agreed treatment. Early suggestions that corticosteroids might be helpful were not supported by a subsequent open label study. The beta 2 adrenergic agonist albuterol, also known as salbutamol, is known to have anabolic effects which might be beneficial for facioscapulohumeral muscular dystrophy. Creatine has been used as a muscle performance enhancer by athletes and it might be helpful in muscular dystrophies including facioscapulohumeral muscular dystrophy. 
+Objectives
+The objective of the review was to determine whether there is any drug treatment which alters the progression of facioscapulohumeral muscular dystrophy. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group specialised register (searched August 2003), MEDLINE (January 1966 to August 2003) and EMBASE (January 1980 to August 2003) for any references to facioscapulohumeral muscular dystrophy. Abstracts from the major neurological meetings and trial bibliographies were also searched for further references to trials. Experts were contacted for information regarding unpublished trials or trials in progress. 
+Selection criteria
+We included all randomised or quasi‐randomised trials of any drug treatment for facioscapulohumeral muscular dystrophy, in adults with a recognised diagnosis of facioscapulohumeral muscular dystrophy. Trials had to include an assessment of muscle strength at one year. 
+Data collection and analysis
+All identified trials were independently assessed by both reviewers to ensure that they fulfilled the selection criteria and were then rated for their quality. Trial data were extracted and entered by one reviewer and checked by the other. If appropriate data existed a weighted treatment effect was to be calculated across trials using the Cochrane statistical package, Review Manager. The results were to have been expressed as relative risks and 95% confidence intervals and risk differences and 95% confidence intervals for dichotomous outcomes, and weighted mean differences and 95% confidence intervals for continuous outcomes. 
+Main results
+Two published high quality randomised controlled trials fulfilled the selection criteria. One compared creatine supplementation with placebo and the other compared high and low‐dose albuterol with placebo. A further unpublished randomised controlled trial of albuterol in facioscapulohumeral muscular dystrophy was identified. The creatine trial showed a non‐significant difference in favour of creatine. The albuterol trial showed no significant difference in muscle strength at one year but some secondary measures such as lean body mass and handgrip strength did improve. 
+Authors' conclusions
+There is no evidence from randomised controlled trials to support any drug treatment for facioscapulohumeral muscular dystrophy but only two randomised controlled trials have been published. 

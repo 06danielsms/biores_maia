@@ -1,0 +1,14 @@
+Background
+There is an increasing global burden of injury especially in low‐ and middle‐income countries (LMICs). To address this, models of trauma care initially developed in high income countries are being adopted in LMIC settings. In particular, ambulance crews with advanced life support (ALS) training are being promoted in LMICs as a strategy for improving outcomes for victims of trauma. However, there is controversy as to the effectiveness of this health service intervention and the evidence has yet to be rigorously appraised. 
+Objectives
+To quantify the impact of ALS‐trained ambulance crews versus crews without ALS training on reducing mortality and morbidity in trauma patients. 
+Search methods
+The search for studies was run on the 16th May 2014. We searched the Cochrane Injuries Group's Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), Ovid MEDLINE(R), Ovid MEDLINE(R) In‐Process & Other Non‐Indexed Citations, Ovid MEDLINE(R) Daily and Ovid OLDMEDLINE(R), Embase Classic+Embase (Ovid), ISI WOS (SCI‐EXPANDED, SSCI, CPCI‐S & CPSI‐SSH), CINAHL Plus (EBSCO), PubMed and screened reference lists. 
+Selection criteria
+Randomised controlled trials, controlled trials and non‐randomised studies, including before‐and‐after studies and interrupted time series studies, comparing the impact of ALS‐trained ambulance crews versus crews without ALS training on the reduction of mortality and morbidity in trauma patients. 
+Data collection and analysis
+Two review authors assessed study reports against the inclusion criteria, and extracted data. 
+Main results
+We found one controlled before‐and‐after trial, one uncontrolled before‐and‐after study, and one randomised controlled trial that met the inclusion criteria. None demonstrated evidence to support ALS training for pre‐hospital personnel. In the uncontrolled before‐and‐after study, 'a priori' sub‐group analysis showed an increase in mortality among patients who had a Glasgow Coma Scale score of less than nine and received care from ALS trained ambulance crews. Additionally, when the pre‐hospital trauma score was taken into account in logistic regression analysis, mortality in the patients receiving care from ALS trained crews increased significantly. 
+Authors' conclusions
+At this time, the evidence indicates that there is no benefit of advanced life support training for ambulance crews on patient outcomes. 

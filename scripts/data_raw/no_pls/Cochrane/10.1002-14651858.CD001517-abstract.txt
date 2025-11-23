@@ -1,0 +1,14 @@
+Background
+Long‐term levodopa therapy for Parkinson's disease is complicated by the development of motor fluctuations and abnormal involuntary movements. One approach is to add a dopamine agonist at this stage of the disease to reduce the time the patient spends immobile or off and to reduce the dose of levodopa in the hope of reducing such problems in the future. 
+Objectives
+To compare the efficacy and safety of adjuvant ropinirole therapy with bromocriptine in patients with Parkinson's disease already established on levodopa therapy and suffering from motor complications. 
+Search methods
+Electronic searches of MEDLINE, EMBASE and the Cochrane Controlled Trials Register. Handsearching of the neurology literature as part of the Cochrane Movement Disorders Group's strategy. Examination of the reference lists of identified studies and other reviews. Contact with SmithKline Beecham. 
+Selection criteria
+Randomised controlled trials of ropinirole versus bromocriptine in patients with a clinical diagnosis of idiopathic Parkinson's disease and long‐term complications of levodopa therapy. 
+Data collection and analysis
+Data was abstracted independently by the authors and differences settled by discussion. The outcome measures used included Parkinson's disease rating scales, levodopa dosage, 'off' time measurements and the frequency of withdrawals and adverse events. 
+Main results
+In the 3 trials identified, no significant differences between ropinirole and bromocriptine were found in off time reduction, dyskinesia as an adverse event, motor impairment and disability, or levodopa dose reduction. Withdrawal rates and adverse event frequency were similar with the two agents apart from significantly less nausea with ropinirole (odds ratio 0.50; 0.29, 0.84 95% CI; p =0.01). 
+Authors' conclusions
+In patients with Parkinson's disease and motor complications, ropinirole has similar effects to bromocriptine in terms of improving off time and reducing levodopa dose, without increasing adverse events including dyskinesia. However, these comparator studies may have been underpowered to detect clinically meaningful differences between the agonists. 

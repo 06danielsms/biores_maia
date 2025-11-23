@@ -1,0 +1,14 @@
+Background
+Heart failure is a common and growing health problem. Depression is prevalent among these patients and is associated with an increased risk of mortality, in some, but not all, studies. Depression may increase the risk of recurrent cardiac events and death, either through direct pathophysiological mechanisms such as thrombogenesis or ventricular arrhythmias, or through behavioural mechanisms. Depressed patients are less likely to adhere to their medication regimen and modify their lifestyle appropriately, thereby increasing the likelihood of recurrent cardiac events and death. The effects of psychological interventions for depression in terms of reducing depression and improving prognosis in patients with heart failure are unknown. 
+Objectives
+To assess the effects of psychological interventions for depression in people with heart failure on depression and quality of life, morbidity, and mortality in these patients. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials and The Database of Abstracts of Reviews of Effects on The Cochrane Library (Issue 3, 2003), MEDLINE (1951 to August 2003), PsycINFO (1887 to August 2003), CINAHL (1980 to August 2003) and EMBASE (1980 to August 2003). Searches of reference lists of retrieved papers were also made and expert advice was sought. Abstracts from national and international cardiology, psychology, and psychiatry conferences in 2003 and dissertation abstracts were also searched. All relevant foreign language papers were translated. 
+Selection criteria
+RCTs of psychological interventions for depression in adults (18 years or older) with heart failure. The primary outcome was a significant reduction in depression. The secondary outcomes were the acceptability of treatment, quality of life, cardiac morbidity (hospital re‐admission for heart failure and non‐fatal cardiovascular events), reduction of cardiovascular behavioural risk factors, health economics, and death. 
+Data collection and analysis
+Two reviewers independently screened titles and abstracts of potential studies. Two reviewers independently assessed the full papers for inclusion criteria. Further information was sought from the authors where papers contained insufficient information to make a decision about eligibility. 
+Main results
+No RCTs of psychological interventions for depression in patients with heart failure were identified. 
+Authors' conclusions
+Depression is common among patients with heart failure. Randomised controlled trials of psychological interventions for depression in heart failure patients are needed to investigate the impact of such interventions on depression, quality of life, behavioural CVD risk factors, cardiac morbidity, health economics and mortality, given the paucity of such trials in this area and the increasing prevalence of heart failure. 

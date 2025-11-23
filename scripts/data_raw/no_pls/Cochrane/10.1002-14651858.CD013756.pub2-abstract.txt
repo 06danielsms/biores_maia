@@ -1,0 +1,35 @@
+Background
+Implanted spinal neuromodulation (SNMD) techniques are used in the treatment of refractory chronic pain. They involve the implantation of electrodes around the spinal cord (spinal cord stimulation (SCS)) or dorsal root ganglion (dorsal root ganglion stimulation (DRGS)), and a pulse generator unit under the skin. Electrical stimulation is then used with the aim of reducing pain intensity. 
+Objectives
+To evaluate the efficacy, effectiveness, adverse events, and cost‐effectiveness of implanted spinal neuromodulation interventions for people with chronic pain. 
+Search methods
+We searched CENTRAL, MEDLINE Ovid, Embase Ovid, Web of Science (ISI), Health Technology Assessments, ClinicalTrials.gov and World Health Organization International Clinical Trials Registry from inception to September 2021 without language restrictions, searched the reference lists of included studies and contacted experts in the field. 
+Selection criteria
+We included randomised controlled trials (RCTs) comparing SNMD interventions with placebo (sham) stimulation, no treatment or usual care; or comparing SNMD interventions + another treatment versus that treatment alone. We included participants ≥ 18 years old with non‐cancer and non‐ischaemic pain of longer than three months duration. Primary outcomes were pain intensity and adverse events. Secondary outcomes were disability, analgesic medication use, health‐related quality of life (HRQoL) and health economic outcomes. 
+Data collection and analysis
+Two review authors independently screened database searches to determine inclusion, extracted data and evaluated risk of bias for prespecified results using the Risk of Bias 2.0 tool. Outcomes were evaluated at short‐ (≤ one month), medium‐ four to eight months) and long‐term (≥12 months). Where possible we conducted meta‐analyses. We used the GRADE system to assess the certainty of evidence. 
+Main results
+We included 15 unique published studies that randomised 908 participants, and 20 unique ongoing studies. All studies evaluated SCS. We found no eligible published studies of DRGS and no studies comparing SCS with no treatment or usual care. We rated all results evaluated as being at high risk of bias overall. For all comparisons and outcomes where we found evidence, we graded the certainty of the evidence as low or very low, downgraded due to limitations of studies, imprecision and in some cases, inconsistency. 
+Active stimulation versus placebo  
+SCS versus placebo (sham)  
+Results were only available at short‐term follow‐up for this comparison.
+Pain intensity 
+Six studies (N = 164) demonstrated a small effect in favour of SCS at short‐term follow‐up (0 to 100 scale, higher scores = worse pain, mean difference (MD) ‐8.73, 95% confidence interval (CI) ‐15.67 to ‐1.78, very low certainty). The point estimate falls below our predetermined threshold for a clinically important effect (≥10 points). No studies reported the proportion of participants experiencing 30% or 50% pain relief for this comparison. 
+Adverse events (AEs) 
+The quality and inconsistency of adverse event reporting in these studies precluded formal analysis. 
+Active stimulation + other intervention versus other intervention alone  
+SCS + other intervention versus other intervention alone (open‐label studies)  
+Pain intensity 
+Mean difference  
+Three studies (N = 303) demonstrated a potentially clinically important mean difference in favour of SCS of ‐37.41 at short term (95% CI ‐46.39 to ‐28.42, very low certainty), and medium‐term follow‐up (5 studies, 635 participants, MD ‐31.22 95% CI ‐47.34 to ‐15.10 low‐certainty), and no clear evidence for an effect of SCS at long‐term follow‐up (1 study, 44 participants, MD ‐7 (95% CI ‐24.76 to 10.76, very low‐certainty). 
+Proportion of participants reporting ≥50% pain relief  
+We found an effect in favour of SCS at short‐term (2 studies, N = 249, RR 15.90, 95% CI 6.70 to 37.74, I2 0% ; risk difference (RD) 0.65 (95% CI 0.57 to 0.74, very low certainty), medium term (5 studies, N = 597, RR 7.08, 95 %CI 3.40 to 14.71, I2 = 43%; RD 0.43, 95% CI 0.14 to 0.73, low‐certainty evidence), and long term (1 study, N = 87, RR 15.15, 95% CI 2.11 to 108.91 ; RD 0.35, 95% CI 0.2 to 0.49, very low certainty) follow‐up. 
+Adverse events (AEs) 
+Device related  
+No studies specifically reported  device‐related adverse events at short‐term follow‐up. At medium‐term follow‐up, the incidence of lead failure/displacement (3 studies N = 330) ranged from 0.9 to 14% (RD 0.04, 95% CI ‐0.04 to 0.11, I2 64%, very low certainty). The incidence of infection (4 studies, N = 548) ranged from 3 to 7% (RD 0.04, 95%CI 0.01, 0.07, I2 0%, very low certainty). The incidence of reoperation/reimplantation (4 studies, N =5 48) ranged from 2% to 31% (RD 0.11, 95% CI 0.02 to 0.21, I2 86%, very low certainty). One study (N = 44) reported a 55% incidence of lead failure/displacement (RD 0.55, 95% CI 0.35, 0 to 75, very low certainty), and a 94% incidence of reoperation/reimplantation (RD 0.94, 95% CI 0.80 to 1.07, very low certainty) at five‐year follow‐up. No studies provided data on infection rates at long‐term follow‐up. 
+We found reports of some serious adverse events as a result of the intervention. These included autonomic neuropathy, prolonged hospitalisation, prolonged monoparesis, pulmonary oedema, wound infection, device extrusion and one death resulting from subdural haematoma. 
+Other  
+No studies reported the incidence of other adverse events at short‐term follow‐up. We found no clear evidence of a difference in otherAEs at medium‐term (2 studies, N = 278, RD ‐0.05, 95% CI ‐0.16 to 0.06, I2 0%) or long term (1 study, N = 100, RD ‐0.17, 95% CI ‐0.37 to 0.02) follow‐up. 
+Very limited evidence suggested that SCS increases healthcare costs. It was not clear whether SCS was cost‐effective. 
+Authors' conclusions
+We found very low‐certainty evidence that SCS may not provide clinically important benefits on pain intensity compared to placebo stimulation. We found low‐ to very low‐certainty evidence that SNMD interventions may provide clinically important benefits for pain intensity when added to conventional medical management or physical therapy. SCS is associated with complications including infection, electrode lead failure/migration and a need for reoperation/re‐implantation. The level of certainty regarding the size of those risks is very low. SNMD may lead to serious adverse events, including death. We found no evidence to support or refute the use of DRGS for chronic pain. 

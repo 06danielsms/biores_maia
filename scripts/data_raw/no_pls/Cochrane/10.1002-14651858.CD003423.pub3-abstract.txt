@@ -1,0 +1,15 @@
+Background
+This is an update of a Cochrane Review first published in The Cochrane Library in Issue 4, 2006. 
+Otitis media with effusion (OME) is common and may cause hearing loss with associated developmental delay. Treatment remains controversial. The effectiveness of antihistamines, decongestants and antihistamine/decongestant combinations in promoting the resolution of effusions has been assessed by randomized controlled trials. 
+Objectives
+The objective of this review was to determine whether antihistamine, decongestant or combination therapy is effective in treating children who present with OME. 
+Search methods
+We searched the Cochrane Ear, Nose and Throat Disorders Group Trials Register; the Cochrane Central Register of Controlled Trials (CENTRAL); PubMed; EMBASE; CINAHL; Web of Science; BIOSIS Previews; Cambridge Scientific Abstracts; ISRCTN and additional sources for published and unpublished trials. The date of the most recent search was 1 February 2011, following a previous search in 2006. 
+Selection criteria
+Randomized controlled trials (RCTs) using antihistamines, decongestants or antihistamine/decongestant combinations as treatment for OME in children. We excluded trials that randomized on the basis of acute otitis media (AOM) even though OME was also studied in follow up. 
+Data collection and analysis
+Two authors independently extracted data from the published reports using standardized data extraction forms and methods. The two authors assessed the methodological quality of the included studies independently. We expressed dichotomous results as a risk ratio with 95% confidence intervals using a fixed‐effect model when homogeneous and a random‐effects model when heterogeneous. Nearly all outcomes analyzed were homogeneous. We discussed continuous results qualitatively. We conducted statistical analysis using RevMan 5.1 software. 
+Main results
+Sixteen studies (1880 participants) were included in the review. No statistical or clinical benefit was found for any of the interventions or outcomes studied. However, treated study subjects experienced 11% more side effects than untreated subjects (number needed to treat to harm = 9). 
+Authors' conclusions
+The pooled data demonstrate no benefit and some harm from the use of antihistamines or decongestants alone or in combination in the management of OME, therefore we recommend against their use. 

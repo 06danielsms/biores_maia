@@ -1,0 +1,45 @@
+Background
+This is an update of the original Cochrane Review first published in Issue 10, 2016. For people with advanced cancer, the prevalence of pain can be as high as 90%. Cancer pain is a distressing symptom that tends to worsen as the disease progresses. Evidence suggests that opioid pharmacotherapy is the most effective of these therapies. Hydromorphone appears to be an alternative opioid analgesic which may help relieve these symptoms. 
+Objectives
+To determine the analgesic efficacy of hydromorphone in relieving cancer pain, as well as the incidence and severity of any adverse events. 
+Search methods
+We searched CENTRAL, MEDLINE, Embase and clinical trials registers in November 2020. We applied no language, document type or publication status limitations to the search. 
+Selection criteria
+We included randomised controlled trials (RCTs) that compared hydromorphone with placebo, an alternative opioid or another active control, for cancer pain in adults and children. Primary outcomes were participant‐reported pain intensity and pain relief; secondary outcomes were specific adverse events, serious adverse events, quality of life, leaving the study early and death. 
+Data collection and analysis
+Two review authors independently extracted data. We calculated risk ratio (RR) and 95% confidence intervals (CI) for binary outcomes on an intention‐to‐treat (ITT) basis. We estimated mean difference (MD) between groups and 95% CI for continuous data. We used a random‐effects model and assessed risk of bias for all included studies. We assessed the evidence using GRADE and created three summary of findings tables. 
+Main results
+With four new identified studies, the review includes a total of eight studies (1283 participants, with data for 1181 participants available for analysis), which compared hydromorphone with oxycodone (four studies), morphine (three studies) or fentanyl (one study). All studies included adults with cancer pain, mean age ranged around 53 to 59 years and the proportion of men ranged from 42% to 67.4%. We judged all the studies at high risk of bias overall because they had at least one domain with high risk of bias. 
+We found no studies including children. We did not complete a meta‐analysis for the primary outcome of pain intensity due to skewed data and different comparators investigated across the studies (oxycodone, morphine and fentanyl). 
+Comparison 1: hydromorphone compared with placebo 
+We identified no studies comparing hydromorphone with placebo.
+Comparison 2: hydromorphone compared with oxycodone 
+Participant‐reported pain intensity 
+We found no clear evidence of a difference in pain intensity (measured using a visual analogue scale (VAS)) in people treated with hydromorphone compared with those treated with oxycodone, but the evidence is very uncertain (3 RCTs, 381 participants, very low‐certainty evidence). 
+Participant‐reported pain relief 
+We found no studies reporting participant‐reported pain relief.
+Specific adverse events 
+We found no clear evidence of a difference in nausea (RR 1.13 95% CI 0.74 to 1.73; 3 RCTs, 622 participants), vomiting (RR 1.18, 95% CI 0.72 to 1.94; 3 RCTs, 622 participants), dizziness (RR 0.91, 95% CI 0.58 to 1.44; 2 RCTs, 441 participants) and constipation (RR 0.92, 95% CI 0.72 to 1.19; 622 participants) (all very low‐certainty evidence) in people treated with hydromorphone compared with those treated with oxycodone, but the evidence is very uncertain. 
+Quality of life 
+We found no studies reporting quality of life.
+Comparison 3: hydromorphone compared with morphine 
+Participant‐reported pain intensity 
+We found no clear evidence of a difference in pain intensity (measured using the Brief Pain Inventory (BPI) or VAS)) in people treated with hydromorphone compared with those treated with morphine, but the evidence is very uncertain (2 RCTs, 433 participants; very low‐certainty evidence). 
+Participant‐reported pain relief 
+We found no clear evidence of a difference in the number of clinically improved participants, defined by 50% or greater pain relief rate, in the hydromorphone group compared with the morphine group, but the evidence is very uncertain (RR 0.99, 95% CI 0.84 to 1.18; 1 RCT, 233 participants; very low‐certainty evidence). 
+Specific adverse events 
+At 24 days of treatment, morphine may reduce constipation compared with hydromorphone, but the evidence is very uncertain (RR 1.56, 95% CI 1.12 to 2.17; 1 RCT, 200 participants; very low‐certainty evidence). We found no clear evidence of a difference in nausea (RR 0.94, 95% CI 0.66 to 1.30; 1 RCT, 200 participants), vomiting (RR 0.87, 95% CI 0.58 to 1.31; 1 RCT, 200 participants) and dizziness (RR 1.15, 95% CI 0.71 to 1.88; 1 RCT, 200 participants) (all very low‐certainty evidence) in people treated with hydromorphone compared with those treated with morphine, but the evidence is very uncertain. 
+Quality of life 
+We found no studies reporting quality of life.
+Comparison 4: hydromorphone compared with fentanyl 
+Participant‐reported pain intensity 
+We found no clear evidence of a difference in pain intensity (measured by numerical rating scale (NRS)) at 60 minutes in people treated with hydromorphone compared with those treated with fentanyl, but the evidence is very uncertain (1 RCT, 82 participants; very low‐certainty evidence). 
+Participant‐reported pain relief 
+We found no studies reporting participant‐reported pain relief.
+Specific adverse events 
+We found no studies reporting specific adverse events.
+Quality of life 
+We found no studies reporting quality of life.
+Authors' conclusions
+The evidence of the benefits and harms of hydromorphone compared with other analgesics is very uncertain. The studies reported some adverse events, such as nausea, vomiting, dizziness and constipation, but generally there was no clear evidence of a difference between hydromorphone and morphine, oxycodone or fentanyl for this outcome. 
+There is insufficient evidence to support or refute the use of hydromorphone for cancer pain in comparison with other analgesics on the reported outcomes. Further research with larger sample sizes and more comprehensive outcome data collection is required. 

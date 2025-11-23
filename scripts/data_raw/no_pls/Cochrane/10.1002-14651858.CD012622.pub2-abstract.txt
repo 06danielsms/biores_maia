@@ -1,0 +1,17 @@
+Background
+Chronic pain is common and significantly impacts on the lives of persons with multiple sclerosis (pwMS). Various types of non‐pharmacological interventions are widely used, both in hospital and ambulatory/mobility settings to improve pain control in pwMS, but the effectiveness and safety of many non‐pharmacological modalities is still unknown. 
+Objectives
+This review aimed to investigate the effectiveness and safety of non‐pharmacological therapies for the management of chronic pain in pwMS. Specific questions to be addressed by this review include the following. 
+Are non‐pharmacological interventions (unidisciplinary and/or multidisciplinary rehabilitation) effective in reducing chronic pain in pwMS? 
+What type of non‐pharmacological interventions (unidisciplinary and/or multidisciplinary rehabilitation) are effective (least and most effective) and in what setting, in reducing chronic pain in pwMS? 
+Search methods
+A literature search was performed using the specialised register of the Cochrane MS and Rare Diseases of the Central Nervous System Review Group, using the Cochrane MS Group Trials Register which contains CENTRAL, MEDLINE, Embase, CINAHL, LILACUS, Clinical trials.gov and the World Health Organization International Clinical Trials Registry Platform on 10 December 2017. Handsearching of relevant journals and screening of reference lists of relevant studies was carried out. 
+Selection criteria
+All published randomised controlled trials (RCTs)and cross‐over studies that compared non‐pharmacological therapies with a control intervention for managing chronic pain in pwMS were included. Clinical controlled trials (CCTs) were eligible for inclusion. 
+Data collection and analysis
+All three review authors independently selected studies, extracted data and assessed the methodological quality of the studies using the Grades of Recommendation, Assessment, Development and Evaluation (GRADE) tool for best‐evidence synthesis. Pooling data for meta‐analysis was not possible due to methodological, clinical and statistically heterogeneity of the included studies. 
+Main results
+Overall, 10 RCTs with 565 participants which investigated different non‐pharmacological interventions for the management of chronic pain in MS fulfilled the review inclusion criteria. The non‐pharmacological interventions evaluated included: transcutaneous electrical nerve stimulation (TENS), psychotherapy (telephone self‐management, hypnosis and electroencephalogram (EEG) biofeedback), transcranial random noise stimulation (tRNS), transcranial direct stimulation (tDCS), hydrotherapy (Ai Chi) and reflexology. 
+There is very low‐level evidence for the use of non‐pharmacological interventions for chronic pain such as TENS, Ai Chi, tDCS, tRNS, telephone‐delivered self‐management program, EEG biofeedback and reflexology in pain intensity in pwMS. Although there were improved changes in pain scores and secondary outcomes (such as fatigue, psychological symptoms, spasm in some interventions), these were limited by methodological biases within the studies. 
+Authors' conclusions
+Despite the use of a wide range of non‐pharmacological interventions for the treatment of chronic pain in pwMS, the evidence for these interventions is still limited or insufficient, or both. More studies with robust methodology and greater numbers of participants are needed to justify the effect of these interventions for the management of chronic pain in pwMS. 

@@ -1,0 +1,23 @@
+Interventions for acute severe asthma attacks in children: an overview of Cochrane Reviews 
+Background  
+Asthma is a common childhood illness that is caused by narrowing of the small air passages in the lungs. This narrowing is due to swelling and inflammation and to muscles around the air passages becoming tighter. An acute asthma attack results in shortness of breath, cough, wheeze, and chest tightness. 
+When children have an asthma attack, the standard treatment is to give steroids to reduce inflammation and swelling (usually given by mouth) and inhaled medications to relax the muscles in the air passages (called "bronchodilators"). In this review, we call that standard treatment "first‐line" treatment. These medications are well understood to be the best treatments for use in the first instance. 
+Some children's asthma attacks do not improve with first‐line treatment, and more treatment is necessary ‐ usually at the emergency department or hospital; in this review, we call this 'second‐line' treatment. However, the best second‐line treatment for children who do not respond to first‐line treatment is poorly understood. Many treatment options are available, and what is done for children varies from hospital to hospital. 
+We wanted to look at existing Cochrane Reviews of second‐line treatments for children having asthma attacks. We hoped to be able to bring this information together in a useful document and to be able to present the evidence that would help the practitioner make the best treatment decision for each child having an asthma attack when inhaled bronchodilators and oral steroids have not helped with symptoms. 
+Review question  
+What is the effectiveness and safety of treatment options available for children with acute asthma who do not improve with standard first‐line treatment? 
+Study characteristics  
+We included 13 Cochrane Systematic Reviews on various treatment options, including inhaled medication, intravenous medications, and other therapies. This overview provides the most up‐to‐date evidence from systematic reviews with meta‐analyses of randomised controlled trials on acute severe asthma in children. This overview is current to December 2019. 
+Quality of the evidence  
+The quality of these reviews was assessed using a checklist, which helped us assess the risk of bias. Nine of the 13 reviews were considered to be high quality. Four reviews were considered at risk of bias due to concerns with the way studies were identified for inclusion in the reviews. Most of the reviews are out‐of‐date because they have not been updated since 2016. The quality of evidence for specific comparisons ranged from very low to high, with many results coming from small studies. It is difficult to be confident in making recommendations for clinical practice. 
+Key results  
+For children with acute severe asthma requiring additional treatment, we found that:
+‐ intravenous magnesium sulfate (a bronchodilator given through a vein) appears to reduce the length of time spent in hospital; 
+‐ no evidence suggests that any treatment reduced the risk of being admitted to intensive care; 
+‐ some treatments appeared to reduce the risk of hospital admission. These included adding a second type of inhaled bronchodilator treatment (anticholinergic medication such as ipratropium bromide) to standard inhaled treatment (beta‐agonist such as salbutamol), giving intravenous magnesium sulfate, and breathing a mixture of helium and oxygen; 
+‐ serious adverse events may be reduced by inhaled magnesium sulfate;
+‐ nausea and/or vomiting is more common with aminophylline (another bronchodilator medication given through a vein); and 
+‐ adding a second type of inhaled bronchodilator treatment (anticholinergic medication such as Ipratropium bromide) reduces the risk of nausea and tremor but not vomiting. 
+Recommendations for future research  
+One of the major problems with existing research is that a small number of patients is included in each study, likely because severe acute asthma in children is relatively uncommon. To work out whether or not a treatment is effective and/or to tell the difference between treatments, a research study must include enough patients receiving each treatment. Therefore, high‐quality research into severe acute asthma in children is likely to require studies that include a number of hospitals. 
+It is also important to be able to compare results across studies. To do this, researchers across the world should agree on a standard way of measuring results in studies of acute severe asthma in children. 

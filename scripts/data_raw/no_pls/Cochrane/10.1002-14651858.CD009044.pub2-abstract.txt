@@ -1,0 +1,33 @@
+Background
+Autism spectrum disorder (ASD) is a behaviourally diagnosed condition. It is defined by impairments in social communication or the presence of restricted or repetitive behaviours, or both. Diagnosis is made according to existing classification systems. In recent years, especially following publication of the Diagnostic and Statistical Manual of Mental Disorders ‐ Fifth Edition (DSM‐5; APA 2013), children are given the diagnosis of ASD, rather than subclassifications of the spectrum such as autistic disorder, Asperger syndrome, or pervasive developmental disorder ‐ not otherwise specified. Tests to diagnose ASD have been developed using parent or carer interview, child observation, or a combination of both. 
+Objectives
+Primary objectives 
+1. To identify which diagnostic tools, including updated versions, most accurately diagnose ASD in preschool children when compared with multi‐disciplinary team clinical judgement. 
+2. To identify how the best of the interview tools compare with CARS, then how CARS compares with ADOS. 
+a. Which ASD diagnostic tool ‐ among ADOS, ADI‐R, CARS, DISCO, GARS, and 3di ‐ has the best diagnostic test accuracy? 
+b. Is the diagnostic test accuracy of any one test sufficient for that test to be suitable as a sole assessment tool for preschool children? 
+c. Is there any combination of tests that, if offered in sequence, would provide suitable diagnostic test accuracy and enhance test efficiency? 
+d. If data are available, does the combination of an interview tool with a structured observation test have better diagnostic test accuracy (i.e. fewer false‐positives and fewer false‐negatives) than either test alone? 
+As only one interview tool was identified, we modified the first three aims to a single aim (Differences between protocol and review): This Review evaluated diagnostic tests in terms of sensitivity and specificity. Specificity is the most important factor for diagnosis; however, both sensitivity and specificity are of interest in this Review because there is an inherent trade‐off between these two factors. 
+Secondary objectives 
+1. To determine whether any diagnostic test has greater diagnostic test accuracy for age‐specific subgroups within the preschool age range. 
+Search methods
+In July 2016, we searched CENTRAL, MEDLINE, Embase, PsycINFO, 10 other databases, and the reference lists of all included publications. 
+Selection criteria
+Publications had to:  1. report diagnostic test accuracy for any of the following six included diagnostic tools: Autism Diagnostic Interview ‐ Revised (ADI‐R), Gilliam Autism Rating Scale (GARS), Diagnostic Interview for Social and Communication Disorder (DISCO), Developmental, Dimensional, and Diagnostic Interview (3di), Autism Diagnostic Observation Schedule ‐ Generic (ADOS), and Childhood Autism Rating Scale (CARS);  2. include children of preschool age (under six years of age) suspected of having an ASD; and  3. have a multi‐disciplinary assessment, or similar, as the reference standard. 
+Eligible studies included cohort, cross‐sectional, randomised test accuracy, and case‐control studies. The target condition was ASD. 
+Data collection and analysis
+Two review authors independently assessed all studies for inclusion and extracted data using standardised forms. A third review author settled disagreements. We assessed methodological quality using the QUADAS‐2 instrument (Quality Assessment of Studies of Diagnostic Accuracy ‐ Revised). We conducted separate univariate random‐effects logistical regressions for sensitivity and specificity for CARS and ADI‐R. We conducted meta‐analyses of pairs of sensitivity and specificity using bivariate random‐effects methods for ADOS. 
+Main results
+In this Review, we included 21 sets of analyses reporting different tools or cohorts of children from 13 publications, many with high risk of bias or potential conflicts of interest or a combination of both. Overall, the prevalence of ASD for children in the included analyses was 74%. 
+For versions and modules of ADOS, there were 12 analyses with 1625 children. Sensitivity of ADOS ranged from 0.76 to 0.98, and specificity ranged from 0.20 to 1.00. The summary sensitivity was 0.94 (95% confidence interval (CI) 0.89 to 0.97), and the summary specificity was 0.80 (95% CI 0.68 to 0.88). 
+For CARS, there were four analyses with 641 children. Sensitivity of CARS ranged from 0.66 to 0.89, and specificity ranged from 0.21 to 1.00. The summary sensitivity for CARS was 0.80 (95% CI 0.61 to 0.91), and the summary specificity was 0.88 (95% CI 0.64 to 0.96). 
+For ADI‐R, there were five analyses with 634 children. Sensitivity for ADI‐R ranged from 0.19 to 0.75, and specificity ranged from 0.63 to 1.00. The summary sensitivity for the ADI‐R was 0.52 (95% CI 0.32 to 0.71), and the summary specificity was 0.84 (95% CI 0.61 to 0.95). 
+Studies that compared tests were few and too small to allow clear conclusions.
+In two studies that included analyses for both ADI‐R and ADOS, tests scored similarly for sensitivity, but ADOS scored higher for specificity. In two studies that included analyses for ADI‐R, ADOS, and CARS, ADOS had the highest sensitivity and CARS the highest specificity. 
+In one study that explored individual and additive sensitivity and specificity of ADOS and ADI‐R, combining the two tests did not increase the sensitivity nor the specificity of ADOS used alone. 
+Performance for all tests was lower when we excluded studies at high risk of bias.
+Authors' conclusions
+We observed substantial variation in sensitivity and specificity of all tests, which was likely attributable to methodological differences and variations in the clinical characteristics of populations recruited. 
+When we compared summary statistics for ADOS, CARS, and ADI‐R, we found that ADOS was most sensitive. All tools performed similarly for specificity. In lower prevalence populations, the risk of falsely identifying children who do not have ASD would be higher. 
+Now available are new versions of tools that require diagnostic test accuracy assessment, ideally in clinically relevant situations, with methods at low risk of bias and in children of varying abilities. 

@@ -1,0 +1,18 @@
+Does using the Xpert MTB/RIF diagnostic test instead of smear microscopy when evaluating people for tuberculosis reduce death and successful treatment completion? 
+What is the aim of the review? 
+Tuberculosis (TB) is a bacterial infection that is spread by inhaling tiny droplets from the coughs or sneezes of an infected person. It mainly affects the lungs, but it can affect any part of the body. Tuberculosis can usually be cured by taking anti‐tuberculosis antibiotics for six months. Some bacteria are resistant, and then need to be treated with combinations of different antibiotics. Many countries use the Xpert MTB/RIF test to diagnose tuberculosis. We wanted to find out if using this test affected health outcomes, such as death or successful treatment in people suspected of having tuberculosis. 
+What was studied in this review? 
+A rapid, accurate diagnosis of tuberculosis ensures people who are ill start taking the right antibiotics as soon as possible. This might reduce the number of people dying, but also, if rifampicin‐resistant tuberculosis is detected early, they are more likely to get appropriate treatment. It also helps ensure people who do not have tuberculosis are not treated unnecessarily. 
+The Xpert MTB/RIF test is an automated molecular test, commonly used to identify tuberculosis and rifampicin resistance at the same time, in less than two hours. The World Health Organization (WHO) recommends using the Xpert MTB/RIF test to diagnose tuberculosis instead of smear microscopy – using a microscope to look for bacteria in samples of sputum (a mixture of saliva and mucus, coughed up from the lungs). This review investigates whether using Xpert MTB/RIF instead of microscopy improves health outcomes. 
+What are the main results of the review? 
+We searched for studies that assessed health outcomes in people who had sought treatment and were suspected of having tuberculosis and who were diagnosed using either the Xpert MTB/RIF test or smear microscopy. We found 12 relevant studies. Eight studies included only adults; four included people of all ages. Ten studies took place in sub‐Saharan Africa, one in Brazil, and one in Indonesia. The studies followed people for between two months and two years.  
+An effect of using the Xpert MTB/RIF test to diagnose tuberculosis, compared with smear microscopy, could not be ruled in or out a for the numbers of people who: 
+· died (5 studies; 10,409 people);· were successfully treated (3 studies; 4802 people);· died within six months (3 studies; 8143 people); or· were treated for tuberculosis (5 studies; 8793 people). 
+Compared with smear microscopy, use of the Xpert MTB/RIF test probably:
+· reduced the number of HIV‐positive people who died during follow‐up (5 studies; 1789 people);· increased the number of people with confirmed tuberculosis who started treatment (3 studies; 1217 people); and· increased the number of treated people who had a confirmed diagnosis of tuberculosis (6 studies; 2068 people). 
+None of the studies reported people's satisfaction, or the number of visits before tuberculosis was diagnosed. Only one study looked at the treatment of tuberculosis resistant to rifampicin. 
+Key messages 
+The results showed that there was a beneficial effect of Xpert MTB/RIF for some health outcomes, and inconclusive results (where an effect could not be ruled in or out) for others. 
+Together, these findings can help inform decisions about the uptake of Xpert MTB/RIF, alongside information on cost‐effectiveness and implementation. 
+How up to date is this review? 
+We included studies published to 24 July 2020.

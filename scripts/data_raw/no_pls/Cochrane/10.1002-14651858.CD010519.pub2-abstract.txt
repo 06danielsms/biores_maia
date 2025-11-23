@@ -1,0 +1,14 @@
+Background
+Although lifestyle interventions are often recommended in the management of chronic gout, the evidence from trial data of the benefits and safety of using lifestyle interventions for treating acute gout attacks have not previously been examined in a systematic review. 
+Objectives
+The objective of this systematic review was to evaluate the benefits and safety of lifestyle interventions for the treatment of people with acute gout. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE and EMBASE for studies (up to 5 April 2013). We also searched the 2010 to 2011 American College of Rheumatology (ACR) and European League Against Rheumatism (EULAR) abstracts and performed a handsearch of the reference lists of included articles. 
+Selection criteria
+Studies were included if they were randomised or quasi‐randomised controlled trials which compared lifestyle interventions to another therapy (active or placebo) in patients with acute gout. Outcomes of interest were the change in participant‐reported pain in the target joint(s), target joint inflammation and function, health‐related quality of life (HRQoL), patient global assessment, study participant withdrawals due to adverse events (AEs) and serious adverse events (SAEs). 
+Data collection and analysis
+Two review authors independently applied methods recommended by The Cochrane Collaboration for the selection, appraisal, data collection and synthesis of studies. We assessed the quality of the body of evidence for each outcome using the GRADE approach. 
+Main results
+Only one study (19 participants) at high risk of bias was included in the review. Patients were randomised to receive oral prednisolone and colchicine with or without concomitant topical ice therapy. Topical ice therapy provided significant additional benefit over oral prednisolone and colchicine alone with respect to pain, but did not significantly reduce swelling during acute gout episodes. Mean pain reduction with standard medical treatment was 4.4 cm on a 0 to 10 cm visual analogue scale (VAS) after one week; the addition of topical ice reduced pain by an additional 3.33 cm (95% CI 5.84 to 0.82), or an absolute reduction of 33% (8% to 58% reduction). Joint swelling was reduced by a mean of 3.8 cm in the standard medical treatment group; the addition of topical ice therapy did not reduce swelling significantly (mean difference (MD) 2.07 cm, 95% CI ‐1.56 to 5.70). Target joint function, HRQoL, patient global assessment, study participant withdrawals due to AEs and SEAs were not reported in this study. 
+Authors' conclusions
+There is low quality evidence, from a single trial at high risk of bias, that the addition of topical ice therapy to oral prednisolone and colchicine for oligoarticular attacks of acute gout results in significantly greater pain reduction at one week. 

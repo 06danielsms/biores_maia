@@ -1,0 +1,15 @@
+Background
+Primary open angle glaucoma (POAG) is a progressive optic neuropathy with an elevated intraocular pressure (IOP), where the optic nerve head becomes pathologically excavated and the visual field (VF) is characteristically altered. Ocular hypertension (OHT) is a condition with elevated IOP but without discernible pathology of the optic nerve head or the VF. It is a major risk factor for development of POAG. 
+Objectives
+To assess and compare the effectiveness of topical pharmacological treatment for POAG or OHT to prevent progression or onset of glaucomatous optic neuropathy. 
+Search methods
+We searched CENTRAL, MEDLINE and EMBASE in May 2007. We searched the bibliographies of identified articles and contacted experts, investigators and pharmaceutical companies for additional published and unpublished studies. 
+Selection criteria
+Randomised controlled trials comparing topical pharmacological treatment to placebo, no treatment or other treatment for specified endpoints which included people with POAG or OHT, and with duration of treatment of at least one year. 
+Data collection and analysis
+Two authors independently extracted data and assessed trial quality. Where appropriate, we summarised data using Peto odds ratio and mean difference after testing for heterogeneity between studies. 
+Main results
+We included 26 trials, which randomised 4979 participants, in this review. Meta‐analysis of 10 trials clearly demonstrated reduction of onset of VF defects in treated OHT (OR 0.62, 95% CI 0.47 to 0.81). No single drug showed a significant VF protection compared to placebo or untreated controls. We did identify some border line evidence for a positive influence of treatment on VF prognosis (OR 0.67, 95% CI 0.45 to 1.00) for the beta‐blockers . 
+Authors' conclusions
+The results of this review support the current practice of IOP lowering treatment of OHT. A visual field protective effect has been clearly demonstrated for medical IOP lowering treatment. Positive but weak evidence for a beneficial effect of the class of beta‐blockers has been shown. 
+Direct comparisons of prostaglandins or brimonidine to placebo are not available and the comparison of dorzolamide to placebo failed to demonstrate a protective effect. However, absence of data or failure to prove effectiveness should not be interpreted as proof of absence of any effect. The decision to treat a patient or not, as well as the decision regarding the drug with which to start treatment, should remain individualised, taking in to account the amount of damage, the level of IOP, age and other patient characteristics. 

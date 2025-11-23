@@ -1,0 +1,29 @@
+Protective clothes and equipment for healthcare workers to prevent them catching coronavirus and other highly infectious diseases 
+Background 
+Healthcare workers treating patients with infections such as coronavirus (COVID‐19) are at risk of infection themselves. Healthcare workers use personal protective equipment (PPE) to shield themselves from droplets from coughs, sneezes or other body fluids from infected patients and contaminated surfaces that might infect them. PPE may include aprons, gowns or coveralls (a one‐piece suit), gloves, masks and breathing equipment (respirators), and goggles. PPE must be put on correctly; it may be uncomfortable to wear, and healthcare workers may contaminate themselves when they remove it. Some PPE has been adapted, for example, by adding tabs to grab to make it easier to remove. Guidance on the correct procedure for putting on and removing PPE is available from organisations such as the Centers for Disease Control and Prevention (CDC) in the USA. 
+This is the 2020 update of a review first published in 2016 and previously updated in 2019. 
+What did we want to find out? 
+We wanted to know:
+what type of PPE or combination of PPE gives healthcare workers the best protection;
+whether modifying PPE for easier removal is effective;
+whether following guidance on removing PPE reduced contamination;
+whether training reduced contamination.
+What did we find? 
+We found 24 relevant studies with 2278 participants that evaluated types of PPE, modified PPE, procedures for putting on and removing PPE, and types of training. Eighteen of the studies did not assess healthcare workers who were treating infected patients but simulated the effect of exposure to infection using fluorescent markers or harmless viruses or bacteria. Most of the studies were small, and only one or two studies addressed each of our questions. 
+Types of PPE 
+Covering more of the body leads to better protection. However, as this is usually associated with increased difficulty in putting on and removing PPE, and the PPE is less comfortable. Coveralls are the most difficult PPE to remove but may offer the best protection, followed by long gowns, gowns and aprons. Respirators worn with coveralls may protect better than a mask worn with a gown, but are more difficult to put on. More breathable types of PPE may lead to similar levels of contamination but be more comfortable. Contamination was common in half the studies despite improved PPE. 
+Modified PPE 
+Gowns that have gloves attached at the cuff, so that gloves and gown are removed together and cover the wrist area, and gowns that are modified to fit tightly at the neck may reduce contamination. Also, adding tabs to gloves and face masks may lead to less contamination. However, one study did not find fewer errors in putting on or removing modified gowns. 
+Guidance on PPE use 
+Following CDC guidance for apron or gown removal, or any instructions for removing PPE compared to an individual’s own preferences may reduce self‐contamination. Removing gown and gloves in one step, using two pairs of gloves, and cleaning gloves with bleach or disinfectant (but not alcohol) may also reduce contamination. 
+User training 
+Face‐to‐face training, computer simulation and video training led to fewer errors in PPE removal than training delivered as written material only or a traditional lecture. 
+Certainty of the evidence 
+Our certainty (confidence) in the evidence is limited because the studies simulated infection (i.e. it was not real), and they had a small number of participants. 
+What do we still need to find out? 
+There were no studies that investigated goggles or face shields. We are unclear about the best way to remove PPE after use and the best type of training in the long term. 
+Hospitals need to organise more studies, and researchers need to agree on the best way to simulate exposure to a virus. 
+In future, simulation studies need to have at least 60 participants each, and use exposure to a harmless virus to assess which type and combination of PPE is most protective. 
+It would be helpful if hospitals could register and record the type of PPE used by their workers to provide urgently needed, real‐life information. 
+Search date 
+This review includes evidence published up to 20 March 2020.

@@ -1,0 +1,14 @@
+Background
+Antipsychotics are commonly prescribed for women suffering psychotic illnesses during pregnancy and the postpartum period. The potential adverse consequences of these different options are multiple and complex, impacting on the foetus, neonate, infant and early development of the child as well as the woman herself. 
+Objectives
+To establish whether the benefits of taking antipsychotic drugs outweigh the risks for pregnant or post partum women. 
+Search methods
+The Cochrane Schizophrenia Group's Register (January 2003) was searched in order to identify all published trials of women during pregnancy or the postpartum period. We inspected all references of all identified studies. If any studies had been found, the first authors of each included study would have been contacted. 
+Selection criteria
+Randomised controlled clinical trials investigating the effects of any type of antipsychotic drug compared with any other treatment option (including standard psychosocial care, any other antipsychotic drug, or an alternative therapy such as electro‐convulsive therapy or cognitive behavioural therapy) and involving pregnant women and/or women during the postpartum period diagnosed with a non‐affective psychotic disorder. 
+Data collection and analysis
+Citations, and where possible, abstracts were independently inspected by reviewers and the papers ordered were scrutinised and quality assessed. Data would have been extracted independently by at least two reviewers. Binary outcomes were to have been analysed using Relative Risks (RR) and their 95% Confidence Intervals (CI). 
+Main results
+We found no trials that met the broad inclusion criteria.
+Authors' conclusions
+Current guidelines and clinical practice for the use of antipsychotic drugs in women with non‐affective disorders during pregnancy and postpartum are not based on evidence from randomised controlled trials. Although ethical concerns have to date precluded the use of randomised controlled trials to address this research topic, the continued use of antipsychotic drugs in this group of women in itself poses significant clinical and ethical problems. Evidence is required from large pragmatic trials that reflect routine clinical practice, examine a broad range of outcomes and accurately quantify risks and benefits to both mothers and their offspring, so that comparison between different treatment options can be made. 

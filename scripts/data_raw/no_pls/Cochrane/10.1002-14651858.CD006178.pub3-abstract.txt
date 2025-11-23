@@ -1,0 +1,14 @@
+Background
+Genital tract infection is associated with preterm birth (before 37 weeks' gestation). Screening for infections during pregnancy may therefore reduce the numbers of babies being born prematurely. However, screening for infections may have some adverse effects, such as increased antibiotic drug resistance and increased cost of treatment. 
+Objectives
+To assess the effectiveness of antenatal lower genital tract infection screening and treatment programs for reducing preterm birth and subsequent morbidity. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (30 November 2014), the Cochrane Central Register of Controlled Trials (The Cochrane Library 2014, Issue 7) and reference lists of retrieved reports. 
+Selection criteria
+We included all published and unpublished randomised controlled trials in any language that evaluated any described methods of antenatal lower genital tract infection screening compared with no screening. 
+Data collection and analysis
+Two review authors independently assessed trials for inclusion and risk of bias, extracted data and checked for accuracy. 
+Main results
+One study (4155 women at less than 20 weeks' gestation) met the inclusion criteria. The intervention group (2058 women) received infection screening and treatment for bacterial vaginosis, trichomonas vaginalis and candidiasis; the control group (2097 women) also received screening, but the results of the screening program were not revealed and women received routine antenatal care. The rate of preterm birth before 37 weeks' gestation was significantly lower in the intervention group (3% versus 5% in the control group) with a risk ratio (RR) of 0.55 (95% confidence interval (CI) 0.41 to 0.75; the evidence for this outcome was graded as of moderate quality). The incidence of preterm birth for infants with a weight equal to or below 2500 g (low birthweight) and infants with a weight equal to or below 1500 g (very low birthweight) were significantly lower in the intervention group than in the control group (RR 0.48, 95% CI 0.34 to 0.66 and RR 0.34; 95% CI 0.15 to 0.75, respectively; both graded as moderate quality evidence). Based on a subset of costs for preterm births of < 1900 g, the authors reported that for each of those preterm births averted, EUR 60,262 would be saved. 
+Authors' conclusions
+There is evidence from one trial that infection screening and treatment programs for pregnant women before 20 weeks' gestation reduce preterm birth and preterm low birthweight. Infection screening and treatment programs are associated with cost savings when used for the prevention of preterm birth. Future trials should evaluate the effects of different types of infection screening programs. 

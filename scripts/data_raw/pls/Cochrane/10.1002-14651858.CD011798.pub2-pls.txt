@@ -1,0 +1,14 @@
+Glucose‐lowering medications to treat diabetes and chronic kidney disease
+What is the issue? Diabetes is the commonest cause of chronic kidney disease (CKD). Due to decreased kidney function and changes in the clearance of medications and glucose, treating people with diabetes and CKD is challenging. There is an increased risk of hypoglycaemia (low blood sugar). However, most glucose‐lowering medications have been studied in people with near normal kidney function. The aim of this review is to determine the effectiveness and safety of glucose‐lowering medication in people with diabetes and CKD. 
+What did we do? We looked at studies comparing different medications with each other or to no medications in people with diabetes and CKD. 
+What did we find? 
+We included 44 studies involving 13,036 people. Most studies compared different medication types ‐ sodium glucose co‐transporter‐2 (SGLT2) inhibitors, dipeptidyl peptidase‐4 (DPP‐4) inhibitors, glucagon‐like peptide‐1 (GLP‐1) agonists, and glitazones to no treatment. Two studies compared the medications sitagliptin to glipizide. 
+SGLT2 inhibitors probably reduce glucose levels, blood pressure, heart failure and high potassium levels but increase genital infections and slightly reduce kidney function. SGLT2 inhibitors may reduce weight. Their effect on the risk of death, hypoglycaemia, acute kidney injury, urinary tract infection, end‐stage kidney disease, low blood volume, bone fractures, diabetic ketoacidosis is uncertain. 
+DPP‐4 inhibitors may reduce glucose levels. Their effect on the risk of death due to heart attacks and strokes, heart failure, upper respiratory tract infections, liver problems, kidney function, hypoglycaemia, pancreatitis and pancreatic cancer is uncertain. 
+GLP‐1 agonists probably reduce glucose levels and may reduce weight. Their effect on kidney function, hypoglycaemia, gastrointestinal symptoms and pancreatitis is uncertain. 
+Compared to glipizide, sitagliptin probably has a lower risk of hypoglycaemia.
+No conclusions could be made regarding other glucose‐lowering medications when compared to another medication or no treatment because of the lack of studies. 
+Conclusions 
+Evidence concerning the efficacy and safety of glucose‐lowering agents for people with diabetes and CKD is limited. SGLT2 inhibitors and GLP‐1 agonists are probably efficacious for lowering glucose levels. Other potential effects of SGLT2 inhibitors include lower BP, lower potassium levels and a reduced risk of heart failure but an increased risk of genital infections. The safety of GLP‐1 agonists is uncertain. 
+The benefits and safety of other classes of glucose‐lowering agents are uncertain.
+More studies are required to help guide which glucose‐lowering medications are most suitable in people with both diabetes and CKD. 

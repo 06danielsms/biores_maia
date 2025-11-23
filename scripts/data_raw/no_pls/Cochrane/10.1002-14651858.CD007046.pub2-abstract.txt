@@ -1,0 +1,14 @@
+Background
+Surgery of primary tumour is the backbone of colorectal cancer treatment (CRC). But in stage III cancer, metastatic or local relapse is often observed (50%). So, adjuvant treatment is always considered in this setting. The best treatment duration of hypothetic disease is not easy to define. Adjuvant chemotherapy for CRC actually lasts 6 months. The choice of optimal duration is based upon old studies using 5‐fluorouracil (5FU). During the last ten years, results of major randomized controlled studies (RCTs) comparing different durations of treatments and different schedules in adjuvant setting were published. Several studies compared a 6‐month chemotherapy with a longer treatment. Conversely, a single study by Chau et al compared a 6 month chemotherapy with continuous treatment lasting 3 months. But the optimal duration of these chemotherapies could be challenged. Even though the optimal duration of chemotherapy in CRC is a major issue, it has never been answered adequately. 
+Objectives
+To evaluate the optimal duration of adjuvant treatment, we performed a meta‐analysis of all RCTs comparing two durations of adjuvant treatment, 6 months versus 9 to 12 months. 
+Search methods
+Publications were identified from PubMed (February 28th, 2009), Embase, and the Cochrane Database of Clinical Controlled Trials (CENTRAL) in the Cochrane Library 2009 issue 1. Reviews and books were also scrutinized.  Abstracts were reviewed from ASCO annual meetings proceedings from 1998 to 2009. 
+Selection criteria
+Patients with surgically resected colorectal cancer with high risk of recurrence.
+Data collection and analysis
+Several RCTs compared shorter versus longer durations of chemotherapy, 6 studies for overall survival (OS) and 7 studies for relapse free survival (RFS), for a total of 10326 patients, mean age 63.1 years, including 9826 colon and 500 rectum cancers. 
+Main results
+Treatments were always based on 5‐FU. Two studies were excluded, an epidemiological study and a study comparing continuous treatment during 3 months with conventional chemotherapy during 6 months. The later because it compared 2 durations less than or equal to 6 months.  Shorter duration of chemotherapy (3‐6 months) compared with longer duration (9‐12 months) was not associated to poorer RFS (RR =0.96, 95% CI : 0.90‐1.02) and OS (RR = 0.96 ; 95% CI : 0.91‐1.02). 
+Authors' conclusions
+The present meta‐analysis confirmed that adjuvant chemotherapy of CRC should not last for more than 6 months. Prolonged duration would result in lower benefit to risk ratio. However, the results do not make it possible to favour either 3 or 6 month durations. They should help design a future RCT comparing different durations of continuous treatment. 

@@ -1,0 +1,15 @@
+Background
+Overgowns are widely used in newborn nurseries and neonatal intensive care units. It is thought that gowns may help to prevent the spread of nosocomial infection and serve as a reminder to staff and visitors to wash their hands before contact with the infant. 
+Objectives
+The objective of this review is to assess the effects of the wearing of an overgown by attendants and visitors on the incidence of infection and death in infants in newborn nurseries. 
+Search methods
+The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. We searched the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library, Issue 1, 2009), MEDLINE (1950 ‐ January 2009), Embase (1950 ‐ January 2009) and CINAHL (1982 ‐ January 2009). 
+This search was updated in December 2010.
+Selection criteria
+The review includes all published trials using random or quasi‐random patient allocation, in which overgowns worn by attendants or visitors were compared with no overgowns worn by attendants or visitors. 
+Data collection and analysis
+The standard methods of the Cochrane Collaboration and its Neonatal Review Group were used. Data extraction and study quality were independently assessed by the two review authors. Missing information was sought from three authors, but only one responded. Results are expressed as relative risk or mean difference with 95% confidence intervals . 
+Main results
+Eight trials were included, reporting outcomes for 3,811 infants. Trial quality varied, with only two assessed as being of good quality. Not wearing overgowns was associated with a trend to reduction in the death rate (typical RR 0.84, 95% CI 0.70 to 1.02) compared to wearing overgowns, but these results did not reach statistical significance. There was no statistically significant effect of gowning policy on incidence of systemic nosocomial infection, (typical RR 1.24, 95% CI 0.90 to 1.71). The overall analysis showed no significant effects of gowning policy on the incidence of colonisation, length of hospital stay or handwashing frequency. No trials of visitor gowning were found. 
+Authors' conclusions
+There is no evidence from this systematic review and meta‐analysis to demonstrate that overgowns are effective in limiting death, infection or bacterial colonisation in infants admitted to newborn nurseries. 

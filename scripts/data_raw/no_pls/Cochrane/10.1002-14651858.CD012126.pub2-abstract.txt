@@ -1,0 +1,15 @@
+Background
+Late‐onset infection is the most common serious complication associated with hospital care for newborn infants. Because confirming the diagnosis by microbiological culture typically takes 24 to 48 hours, the serum level of the inflammatory marker C‐reactive protein (CRP) measured as part of the initial investigation is used as an adjunctive rapid test to guide management in infants with suspected late‐onset infection. 
+Objectives
+To determine the diagnostic accuracy of serum CRP measurement in detecting late‐onset infection in newborn infants. 
+Search methods
+We searched electronic databases (MEDLINE, Embase, and Science Citation Index to September 2017), conference proceedings, previous reviews, and the reference lists of retrieved articles. 
+Selection criteria
+We included cohort and cross‐sectional studies evaluating the diagnostic accuracy of serum CRP levels for the detection of late‐onset infection (occurring more than 72 hours after birth) in newborn infants. 
+Data collection and analysis
+Two review authors independently assessed eligibility for inclusion, evaluated the methodological quality of included studies, and extracted data to estimate diagnostic accuracy using hierarchical summary receiver operating characteristic (SROC) models. We assessed heterogeneity by examining variability of study estimates and overlap of the 95% confidence interval (CI) in forest plots of sensitivity and specificity. 
+Main results
+The search identified 20 studies (1615 infants). Most were small, single‐centre, prospective cohort studies conducted in neonatal units in high‐ or middle‐income countries since the late 1990s. Risk of bias in the included studies was generally low with independent assessment of index and reference tests. Most studies used a prespecified serum CRP threshold level as the definition of a 'positive' index test (typical cut‐off level between 5 mg/L and 10 mg/L) and the culture of a pathogenic micro‐organism from blood as the reference standard. 
+At median specificity (0.74), sensitivity was 0.62 (95% CI 0.50 to 0.73). Heterogeneity was evident in the forest plots but it was not possible to conduct subgroup or meta‐regression analyses by gestational ages, types of infection, or types of infecting micro‐organism. Covariates for whether studies used a predefined threshold or not, and whether studies used a standard threshold of between 5 mg/L and 10 mg/L, were not statistically significant. 
+Authors' conclusions
+The serum CRP level at initial evaluation of an infant with suspected late‐onset infection is unlikely to be considered sufficiently accurate to aid early diagnosis or select infants to undergo further investigation or treatment with antimicrobial therapy or other interventions. 

@@ -1,0 +1,18 @@
+Background
+Current treatment for Parkinson's disease (PD) is focused on relieving symptoms, at present there is nothing that is widely accepted to halt or slow disease progression. Potential neuroprotective or disease modifying agents have been identified from preclinical studies. One such group of compounds are anti‐hypertensive drugs. 
+Objectives
+1) Do anti‐hypertensive drugs prevent the onset of PD? (primary prevention)
+2) Are anti‐hypertensive drugs disease modifying agents in PD, do they slow the progression of disease once PD is established? (secondary prevention) 
+3) What are the adverse effects of taking anti‐hypertensive drugs for patients with PD? 
+Search methods
+Electronic databases including trial registers were searched, complemented with handsearching of conference proceedings and searching the citations of key articles (updated May 2011). Authors were contacted, to provide additional information, where necessary. 
+Selection criteria
+For the primary prevention review, primary prevention trials and observational studies (cohort and case control studies) were sought. Participants were free of PD when exposure to anti‐hypertensive drugs was assessed. For the secondary prevention review, clinical trials in patients with well defined PD were sought. Two people independently selected studies for inclusion using predetermined criteria. 
+Data collection and analysis
+Data were abstracted from the source papers and methodological quality was assessed independently by two review authors. Results for both reviews were dealt with descriptively. 
+Main results
+Two cohort studies and four case control studies met the inclusion criteria for the primary prevention review. The two cohort studies found no effect of exposure to calcium channel blockers on the risk of developing PD. Three case control studies looked at the effects of exposure to calcium channel blockers and beta blockers on the risk of developing PD but the assessment periods of exposure were markedly different prior to PD onset, and different subclasses of drugs were examined, so results were not comparable. A protective effect of centrally acting calcium channel blockers was found in one study. 
+Two trials and one ongoing trial met the inclusion criteria for the secondary prevention review. Each completed trial examined a different class of anti‐hypertensive drug. The ongoing trial is examining the effects of the calcium channel blocker isradipine on motor symptoms and disease progression. It follows an earlier tolerability study. The results are due in the year 2012. 
+Adverse effects were noted in all included trials and included intolerability to the drugs and worsening PD symptoms. 
+Authors' conclusions
+There is currently a lack of evidence for the use of antihypertensive drugs for either the primary or secondary prevention of PD. More observational studies are required to identify potential drugs to go forward for safety and tolerability studies in people with early PD. The results of the ongoing trial will help inform further research. 

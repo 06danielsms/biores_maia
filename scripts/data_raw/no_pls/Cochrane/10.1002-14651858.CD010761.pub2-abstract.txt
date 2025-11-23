@@ -1,0 +1,14 @@
+Background
+Acquired hemophilia A is a rare bleeding disorder caused by autoantibodies to coagulation factor VIII (FVIII). In most cases, bleeding episodes are spontaneous and severe at presentation. The optimal hemostatic therapy is controversial. 
+Objectives
+To determine the efficacy of hemostatic therapies for acute bleeds in people with acquired hemophilia A; and to compare different forms of therapy for these bleeds. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2014, Issue 4) and MEDLINE (Ovid) (1948 to 30 April 2014). We searched the conference proceedings of the: American Society of Hematology; European Hematology Association; International Society on Thrombosis and Haemostasis (ISTH); and the European Association for Haemophilia and Allied Disorders (EAHAD) (from 2000 to 30 April 2014). In addition to this we searched clinical trials registers. 
+Selection criteria
+All randomised controlled trials and quasi‐randomised trials of hemostatic therapies for people with acquired hemophilia A, with no restrictions on gender, age or ethnicity. 
+Data collection and analysis
+No trials matching the selection criteria were eligible for inclusion.
+Main results
+No trials matching the selection criteria were eligible for inclusion.
+Authors' conclusions
+No randomised clinical trials of hemostatic therapies for acquired hemophilia A were found. Thus, we are not able to draw any conclusions or make any recommendations on the optimal hemostatic therapies for acquired hemophilia A based on the highest quality of evidence. GIven that carrying out randomized controlled trials in this field is a complex task, the authors suggest that, while planning randomised controlled trials in which patients can be enrolled, clinicians treating the disease continue to base their choices on alternative, lower quality sources of evidence, which hopefully, in the future, will also be appraised and incorporated in a Cochrane Review. 

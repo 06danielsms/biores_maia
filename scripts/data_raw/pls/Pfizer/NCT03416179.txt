@@ -1,0 +1,83 @@
+What is acute myeloid leukemia?
+Acute myeloid leukemia is also known as AML and is a common cancer of the blood.  
+AML starts when myeloid cells in the bone marrow begin to grow out of control.  
+The bone marrow is the soft inner part of certain bones, and it is where new blood 
+cells are made. The myeloid cells would normally develop into red blood cells, certain 
+types of white blood cells, and platelets. Red blood cells are used to carry oxygen 
+from the lungs around the body to where it is needed. These red blood cells also take 
+carbon dioxide back to the lungs so it can be breathed out. White blood cells are used 
+to fight infections. Platelets help to stop bleeding when blood vessels are damaged.  
+While AML starts in the bone marrow, it often spreads to other areas of the body.
+What is glasdegib?
+This study investigated the use of glasdegib, which is a new type of treatment known as 
+a hedgehog or smoothened (SMO) inhibitors. Glasdegib is designed to reduce or stop 
+the growth of cancer cells. At the time this study began, glasdegib was an 
+investigational (or experimental) drug. An investigational drug is one that is not 
+approved for sale in the country where it is being used. During this study, the US 
+Food and Drug Administration (FDA) gave their approval for glasdegib to be used 
+with low dose cytarabine to treat newly diagnosed AML. This was in November 
+2018. The European Medicines Agency (EMA) gave their approval in June 2020. 
+Glasdegib is sold in these countries as DAURISMO®.
+The other treatments used in this study are cytarabine, daunorubicin, and azacitidine.  
+These are all licensed cancer treatments for AML and are often described as 
+chemotherapy.  
+What was the purpose of this study?
+The purpose of this research study is to compare the effects of the study drug, 
+glasdegib, with a placebo, to find out how well glasdegib worked in combination with 
+chemotherapy to help participants live longer. Two different types of chemotherapy 
+were tested in this study: 
+- Intensive chemotherapy with cytarabine and daunorubicin. These treatments are 
+often used to treat patients with AML in the US and Europe, but this type of 
+chemotherapy is quite aggressive. This means the medicines are strong and quite 
+toxic and not all patients with AML are suitable for this intensive chemotherapy. 
+- Standard chemotherapy with azacitidine. This is one of the medicines used to 
+treat patients with AML in the US and Europe if the patient is not suitable for 
+intensive chemotherapy.
+Researchers wanted to know: 
+Did the participants taking glasdegib with chemotherapy live 
+longer compared to participants not taking glasdegib?
+How was the study done?
+This study included participants with AML who had not previously been treated for their cancer. The participants were split into 2 groups:
+- An Intensive Treatment Group – this included participants who were suitable for intensive chemotherapy with cytarabine and daunorubicin
+- A Non-Intensive Treatment Group – this included participants who were not suitable for intensive chemotherapy and who were given standard chemotherapy with azacitidine.
+
+The researchers then tested glasdegib on each group of study participants to find out if study participants taking glasdegib plus chemotherapy lived longer compared to study participants given placebo plus chemotherapy. A placebo does not have any medicine in it, but it looks just like the study medication. Participants took glasdegib or placebo tablets once a day and this treatment could be continued for up to 2 years.
+
+Participants received intensive or non-intensive chemotherapy, and this was given according to the manufacturer’s recommendations. Participants who stopped treatment in this study were followed to check on their health.
+
+Researchers compared the results of study participants taking glasdegib plus chemotherapy to the results of study participants taking placebo plus chemotherapy. The study participants and researchers did not know who took glasdegib and who took the placebo. This is known as a “blinded” study. This study was double-blinded, which means nobody knew who was taking what treatment during the study. 
+
+Study participants were assigned to each group by chance alone. The study plan is shown in Figure 1. 
+
+Figure 1: Study Plan
+
+Where did this study take place?
+For the Intensive Treatment Group, the Sponsor ran this study at 94 locations in 20 countries in North America, Central America, Europe, Asia, and Australia. For the Non-Intensive Treatment Group, the Sponsor ran this study at 83 locations in 21 countries in North America, Central America, Europe, Asia, and Australia.
+
+When did this study take place?
+For the Intensive Treatment Group, the study began 20 April 2018 and ended 01 February 2021, with data collected up to 11 November 2021. For the Non-Intensive Treatment Group, the study began 18 June 2018 and ended 05 June 2020, with data collected up to 17 January 2022.
+
+Who participated in this study?
+The study included participants who had AML but who had not previously been treated for their cancer.
+In the Intensive Treatment Group,
+- A total of 236 men participated
+- A total of 168 women participated
+- All participants were between the ages of 19 and 86 years
+
+In the Non-Intensive Treatment Group,
+- A total of 186 men participated
+- A total of 139 women participated
+- All participants were between the ages of 47 and 94 years
+
+Participants were to be treated until their cancer got worse, they experienced unacceptable toxicity, they left the study, or the participant died.
+
+In the Intensive Treatment Group, of the 399 participants who started the study and received treatment, 390 participants stopped taking the study treatment. All 399 participants left before the study was over by their choice or a doctor decided it was best for a participant to stop being in the study, or because they passed away, or the Sponsor closed the study. Most participants left the study because they died.
+
+In the Non-Intensive Treatment Group, of the 322 participants who started the study and received treatment, 306 participants stopped taking the study treatment. There were 305 participants who left before the study was over by their choice or a doctor decided it was best for a participant to stop being in the study, or because they passed away, or the Sponsor closed the study. Most participants left the study because they died or because the Sponsor closed the study. There are 7 participants who are continuing in this study from the Non-Intensive Treatment Group.
+
+How long did the study last?
+In the Intensive Treatment Group, study participants were in the study for up to 2 years and 9 months, with data collected for around 3 years and 7 months. In the Non-Intensive Treatment Group, study participants were in the study for up to 1 year and 11 months, with data collected for around 3 years and 7 months.
+
+The researchers stopped participants in the Intensive Treatment Group from continuing in the study after an early analysis of the data in 2020. They did this because they found there was no difference between the participants who were treated with glasdegib plus intensive chemotherapy and participants who were treated with placebo plus intensive chemotherapy.
+
+For the Intensive Treatment Group, the Sponsor began reviewing the information collected up to November 2021 and closed this part of the study early. The Sponsor then created a report of the results. For the Non-Intensive Treatment Group, the Sponsor began reviewing the information collected up to January 2022. The Sponsor then created a report of the results. This is a summary of the reports for the Intensive Treatment Group and the Non-Intensive Treatment Group. At the time of writing, there are 7 participants from the Non-Intensive Treatment Group who are continuing in this study.

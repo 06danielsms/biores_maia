@@ -1,0 +1,14 @@
+Background
+Nursing homes for older people provide an environment likely to promote the acquisition and spread of meticillin‐resistant Staphylococcus aureus (MRSA), putting residents at increased risk of colonisation and infection. It is recognised that infection prevention and control strategies are important in preventing and controlling MRSA transmission. 
+Objectives
+To determine the effects of infection prevention and control strategies for preventing the transmission of MRSA in nursing homes for older people. 
+Search methods
+In August 2013, for this third update, we searched the Cochrane Wounds Group Specialised Register, the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library), Database of Abstracts of Reviews of Effects (DARE, The Cochrane Library), Ovid MEDLINE, OVID MEDLINE (In‐process and Other Non‐Indexed Citations), Ovid EMBASE, EBSCO CINAHL, Web of Science and the Health Technology Assessment (HTA) website. Research in progress was sought through Current Clinical Trials, Gateway to Reseach, and HSRProj (Health Services Research Projects in Progress). 
+Selection criteria
+All randomised and controlled clinical trials, controlled before and after studies and interrupted time series studies of infection prevention and control interventions in nursing homes for older people were eligible for inclusion. 
+Data collection and analysis
+Two review authors independently reviewed the results of the searches. Another review author appraised identified papers and undertook data extraction which was checked by a second review author. 
+Main results
+For this third update only one study was identified, therefore it was not possible to undertake a meta‐analysis. A cluster randomised controlled trial in 32 nursing homes evaluated the effect of an infection control education and training programme on MRSA prevalence. The primary outcome was MRSA prevalence in residents and staff, and a change in infection control audit scores which measured adherence to infection control standards. At the end of the 12 month study, there was no change in MRSA prevalence between intervention and control sites, while mean infection control audit scores were significantly higher in the intervention homes compared with control homes. 
+Authors' conclusions
+There is a lack of research evaluating the effects on MRSA transmission of infection prevention and control strategies in nursing homes. Rigorous studies should be conducted in nursing homes, involving residents and staff to test interventions that have been specifically designed for this unique environment. 

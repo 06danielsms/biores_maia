@@ -1,0 +1,14 @@
+Background
+Epilepsy is a common neurological disorder made particularly disabling in the 30% of patients who do not achieve freedom from seizures despite multiple trials of antiepileptic drugs (AEDs). Experimental and clinical evidence supports a role for inflammatory pathway activation in the pathogenesis of epilepsy which, if effectively targeted by immunomodulatory interventions, highlights a potentially novel therapeutic strategy. 
+Objectives
+To evaluate the efficacy and tolerability of immunomodulatory interventions as additional therapy in focal epilepsy syndromes in adults. 
+Search methods
+We searched the Cochrane Epilepsy Group Specialised Register (2 August 2012), the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2012, Issue 7), MEDLINE (Ovid, 1946 to July week 3, 2012), the World Health Organization's International Clinical Trials Registry (2 August 2012), ClinicalTrials.gov (2 August 2012) and the Current Controlled Trials International Standard Randomised Controlled Trial Number Register (2 August 2012). There were no language restrictions. We reviewed the bibliographies of retrieved studies to search for additional reports of relevant studies. 
+Selection criteria
+Randomised controlled trials of add‐on immunomodulatory drug interventions for the treatment of focal epilepsy in adults (aged over 16 years). 
+Data collection and analysis
+Three review authors independently assessed trial quality and extracted data. The primary outcomes were 50% or greater reduction in seizure frequency and seizure freedom; the secondary outcomes included serious and commonly occurring adverse effects, allergy, withdrawal and quality of life assessment. 
+Main results
+We identified one study involving both children and adults (n=61) that assessed the effect of intravenous immunoglobulin (IVIG) as add‐on therapy for the treatment of epilepsy. The authors found no significant difference between IVIG and placebo for the primary outcomes of seizure freedom or 50% or greater reduction in seizure frequency. The study reported a statistically significant effect for global blind assessment (rating scale involving multiple seizure‐related parameters) in favour of IVIG. Secondary outcomes including adverse effects and allergies were not demonstrated. 
+Authors' conclusions
+It is not possible to draw any conclusions about the role of immunomodulatory interventions in reducing seizure frequency or the safety of these agents in adults with epilepsy. Further randomised controlled trials are needed. 

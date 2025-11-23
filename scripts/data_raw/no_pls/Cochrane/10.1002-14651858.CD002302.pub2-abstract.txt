@@ -1,0 +1,16 @@
+Background
+Diabetes‐related foot ulceration is a major contributor to morbidity in diabetes. Diabetic foot ulcers are partly a consequence of abnormal foot pressures and pressure relief is a widely used treatment for healing diabetes‐related plantar foot ulcers, but the most effective method for healing is unclear. 
+Objectives
+To determine the effects of pressure‐relieving interventions on the healing of foot ulcers in people with diabetes. 
+Search methods
+For this update we searched the Cochrane Wounds Group Specialised Register (searched 2 November 2012); The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2012, Issue 10); Ovid MEDLINE (1950 to October Week 4 2012); Ovid MEDLINE (In‐Process & Other Non‐Indexed Citations, October 31, 2012); Ovid EMBASE (1980 to 2012 Week 43); and EBSCO CINAHL (1982 to 1 November 2012). There were no restrictions based on language or publication status. 
+Selection criteria
+Randomised controlled trials evaluating the effects of pressure‐relieving interventions on the healing of foot ulcers in people with diabetes. 
+Data collection and analysis
+Data from eligible trials were extracted, and summarised using a data extraction sheet, by two review authors independently. 
+Main results
+Fourteen trials (709 participants) met the inclusion criteria for the review. One study compared two different types of non‐removable casts with no discernable difference between the groups. Seven studies (366 participants) compared non‐removable casts with removable pressure‐relieving devices. In five of those studies non‐removable casts were associated with a statistically significant increase in the number of ulcers healed compared with the removable device (RR 1.17 95% CI 1.01 to 1.36: P value = 0.04). 
+Two studies (98 participants) found that significantly more ulcers healed with non‐removable casts than with dressings alone. Achilles tendon lengthening combined with a non‐removable cast in one study resulted in significantly more healed ulcers at 7 months than non‐removable cast alone (RR 2.23; 95% CI 1.32 to 3.76). More ulcers remained healed at two years in this group (RR 3.41; 95% CI 1.42 to 8.18). 
+Other comparisons included surgical debridement of ulcers; felt fitted to the foot; felted foam dressings and none of these showed a statistically significant treatment effect in favour of the intervention. 
+Authors' conclusions
+Non‐removable, pressure‐relieving casts are more effective in healing diabetes related plantar foot ulcers than removable casts, or dressings alone. Non‐removable devices, when combined with Achilles tendon lengthening were more successful in one forefoot ulcer study than the use of a non‐removable cast alone. 

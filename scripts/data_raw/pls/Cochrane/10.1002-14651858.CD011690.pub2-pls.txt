@@ -1,0 +1,9 @@
+Short‐acting erythropoiesis agents in chronic kidney disease patients not requiring dialysis 
+What is the issue? 
+Anaemia due to reduced production by the kidneys of erythropoietin (a hormone which increases red cell production) is a major cause of tiredness and other problems experienced by people with chronic kidney disease requiring or not requiring dialysis. 
+Manufactured erythropoietins (epoetins) improve anaemia and are often prescribed for people with chronic kidney disease. Several different manufactured epoetins are now available. 
+What did we do? 
+We searched the Cochrane Kidney and Transplant Specialised Register to 12 September 2016 through contact with the Information Specialist using search terms relevant to this review. We included randomised control trials (RCTs) comparing different frequencies, routes, doses and types of short‐acting ESAs in patients with chronic kidney disease. 
+What did we find? 
+We examined the evidence from 14 studies with 2616 participants with CKD not receiving dialysis published before 12 September 2016 to determine whether differences in improvement in anaemia and in side effects existed between different short‐acting epoetins or between the same epoetins given at different frequencies. We did not find any studies using different frequencies of epoetins in children. 
+We found that the traditionally shorter acting epoetins given less often (two weekly to every four weeks) resulted in similar correction of anaemia compared with administration every week or every two weeks; there were no differences in side effects between the different comparisons. One study comparing subcutaneous administration of a newly manufactured HX575 epoetin alpha compared with epoetin alpha was discontinued after two patients developed anti‐erythropoietin antibodies. However more studies are required as most studies were small and poorly designed, which limits their application to the care of patients. 

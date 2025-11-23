@@ -1,0 +1,14 @@
+Background
+Duchenne muscular dystrophy (DMD) is a progressive muscle condition starting in childhood, leading to severe disability and a shortened life span. It is due to severe deficiency of the protein dystrophin which performs both structural and signalling roles within skeletal and cardiac myocytes. Calcium accumulates in dystrophic muscle cells and plays a role in cell damage. It has been hypothesised that use of calcium antagonists might reduce this calcium load and its toxic effect on muscle cells. This is an updated review, in which no new trials were found. 
+Objectives
+To evaluate the effects of calcium antagonists on muscle function and muscle strength in people with DMD. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Trials Register (July 2010), MEDLINE (from January 1950 to July 2010) and EMBASE (from January 1947 to July 2010). We also searched bibliographies in reports of any trials. 
+Selection criteria
+All randomised or quasi‐randomised controlled trials of any calcium antagonist in people with DMD. 
+Data collection and analysis
+Both authors assessed all identified trials for inclusion in the study on the basis of whether they fulfilled the selection criteria. Both authors extracted data from the trials and assessed the methodological quality. Had there been more than one trial of the same intervention and outcome of sufficient methodological quality, we had planned to undertake a meta‐analysis. 
+Main results
+Five randomised or quasi‐randomised double‐blind trials fulfilled the selection criteria, but were not sufficiently comparable to undertake a meta‐analysis. The drugs studied were verapamil (8 participants), diltiazem (56 participants), nifedipine (105 participants) and flunarizine (27 participants). There were limitations in the description of blinding and randomisation, and definition of outcome measures. One trial, using verapamil, showed a difference between groups in muscle force measured by ergometry, but also revealed cardiac side effects. The numbers of people included in the trials were low, and so the studies may not have included enough people for sufficient power to detect small differences in muscle force or function between placebo and control groups. In addition, calcium antagonists were in an early stage of development and some of the second generation drugs that have a better side effect profile, such as amlodipine, have not been studied. 
+Authors' conclusions
+There is no evidence to show a significant beneficial effect of calcium antagonists on muscle function in DMD. 

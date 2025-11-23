@@ -1,0 +1,14 @@
+Background
+Liver metastases are often the dominant site of metastatic disease in colorectal cancer. Selective internal radiation therapy (SIRT) involves embolising radiolabeled spheres (SIR‐Spheres) into the arterial supply of the liver with the aim of improving the control of liver metastases. 
+Objectives
+To assess the effectiveness and toxicity of SIRT in the treatment of metastatic colorectal cancer liver metastasis when given alone or with systemic or regional hepatic artery chemotherapy. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Cochrane library 2008 issue 2, MEDLINE (1966 to October 2008), EMBASE (1980 to October 2008), and Pubmed (October 2008). The proceedings of ASCO (1985 to 2008) and ASCO GI (2004 to 2008) were also searched. The manufacturers of SIR‐Spheres were contacted and asked whether they were aware of any other unpublished studies. 
+Selection criteria
+Randomised controlled trials comparing SIRT and chemotherapy (systemic and/or regional) with chemotherapy alone, or comparing SIRT alone with best supportive care in patients with metastatic colorectal cancer. 
+Data collection and analysis
+Two authors (AT/TP) extracted data and assessed the trial quality. The study authors were contacted and individual patient data was obtained. Results were analysed separately for patients with and without extra‐hepatic disease. 
+Main results
+A single study of 21 patients compared SIRT and systemic chemotherapy (fluorouracil and leucovorin) with chemotherapy alone. There was a significant improvement in progression free survival and median survival associated with SIRT, both for the total studied population and for those disease limited to the liver. There was an increase in toxicity with the use of SIRT. A second study of 63 eligible patients compared SIRT and regional chemotherapy (floxuridine) with regional chemotherapy alone. There was no significant difference in progression free survival and median survival seen with SIRT, in either the total patient group or in the 22 patients with disease limited to the liver. There was no significant increase in toxicity with the addition of SIRT to regional chemotherapy. There were no randomised studies comparing SIRT with best supportive care in patients with refractory disease, and no randomised studies assessing the effect of SIRT in patients with resectable liver metastases. 
+Authors' conclusions
+There is a need for well designed, adequately powered phase III trials assessing the effect of SIRT when used with modern combination chemotherapy regimens. Further studies are also needed for patients with refractory disease with a particular focus on the impact on quality of life. 

@@ -1,0 +1,12 @@
+Short‐term and long‐term effects of tibolone in postmenopausal women
+Review question 
+Cochrane review authors aimed to evaluate the effectiveness and safety of tibolone for treatment of postmenopausal and perimenopausal women. 
+Background 
+Tibolone is an available option for the treatment of menopausal symptoms, and short‐term data suggest its efficacy. However, healthcare providers must consider the balance between benefits and risks of tibolone, as concerns have arisen about breast and endometrial cancer and stroke. 
+Study characteristics 
+We included 46 randomised controlled trials (RCTs), which included 19,976 postmenopausal women. Most studies evaluated tibolone for treatment of menopausal vasomotor symptoms. Some studies reported other objectives: Four RCTs aimed to assess endometrial safety, four bleeding patterns, five bone loss or fracture prevention, one sexual outcomes and three safety in women with a history of breast cancer; two studies examined use of tibolone in women with fibroids or lupus erythematosus. The evidence is current to October 2015. 
+Key results 
+Moderate‐quality evidence suggests that tibolone is more effective than placebo and less effective than combined hormone therapy (HT) in reducing vasomotor symptoms in postmenopausal women. Data suggest that if 67% of women taking placebo experience vasomotor symptoms, then between 35% and 45% of women taking tibolone will do so; and if 7% of women taking combined HT experience vasomotor symptoms, then between 8% and 14% of women taking tibolone will do so. Moderate‐quality evidence also suggests that tibolone is associated with a higher rate of unscheduled bleeding than placebo, but a lower rate than HT. 
+Compared with placebo, tibolone increases the risk of recurrent breast cancer in women with a history of breast cancer, and may increase the risk of stroke in women over 60 years of age. No evidence suggests that tibolone increases the risk of other serious adverse events, and no evidence shows differences between tibolone and HT with respect to long‐term adverse events. Nearly all evidence on adverse events was of very low quality, and reported events were scarce. 
+Quality of the evidence 
+Much of the evidence obtained was of low or very low quality. Limitations included high risk of bias in the included trials, very low event rates and potential conflicts of interest. Twenty‐six of the studies were financed by drug manufacturers, and another 14 studies failed to disclose their source of funding. 

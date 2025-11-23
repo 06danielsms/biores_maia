@@ -1,0 +1,14 @@
+Background
+Chronic fatigue syndrome (CFS) is a common, debilitating and serious health problem. Cognitive behaviour therapy (CBT) may help to alleviate the symptoms of CFS. 
+Objectives
+To examine the effectiveness and acceptability of CBT for CFS, alone and in combination with other interventions, compared with usual care and other interventions. 
+Search methods
+CCDANCTR‐Studies and CCDANCTR‐References were searched on 28/3/2008. We conducted supplementary searches of other bibliographic databases. We searched reference lists of retrieved articles and contacted trial authors and experts in the field for information on ongoing/completed trials. 
+Selection criteria
+Randomised controlled trials involving adults with a primary diagnosis of CFS, assigned to a CBT condition compared with usual care or another intervention, alone or in combination. 
+Data collection and analysis
+Data on patients, interventions and outcomes were extracted by two review authors independently, and risk of bias was assessed for each study. The primary outcome was reduction in fatigue severity, based on a continuous measure of symptom reduction, using the standardised mean difference (SMD), or a dichotomous measure of clinical response, using odds ratios (OR), with 95% confidence intervals (CI). 
+Main results
+Fifteen studies (1043 CFS participants) were included in the review. When comparing CBT with usual care (six studies, 373 participants), the difference in fatigue mean scores at post‐treatment was highly significant in favour of CBT (SMD ‐0.39, 95% CI ‐0.60 to ‐0.19), with 40% of CBT participants (four studies, 371 participants) showing clinical response in contrast with 26% in usual care (OR 0.47, 95% CI 0.29 to 0.76). Findings at follow‐up were inconsistent. For CBT versus other psychological therapies, comprising relaxation, counselling and education/support (four studies, 313 participants), the difference in fatigue mean scores at post‐treatment favoured CBT (SMD ‐0.43, 95% CI ‐0.65 to ‐0.20). Findings at follow‐up were heterogeneous and inconsistent. Only two studies compared CBT against other interventions and one study compared CBT in combination with other interventions against usual care. 
+Authors' conclusions
+CBT is effective in reducing the symptoms of fatigue at post‐treatment compared with usual care, and may be more effective in reducing fatigue symptoms compared with other psychological therapies. The evidence base at follow‐up is limited to a small group of studies with inconsistent findings. There is a lack of evidence on the comparative effectiveness of CBT alone or in combination with other treatments, and further studies are required to inform the development of effective treatment programmes for people with CFS. 

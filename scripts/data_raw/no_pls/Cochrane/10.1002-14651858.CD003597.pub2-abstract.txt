@@ -1,0 +1,14 @@
+Background
+Uncomplicated acute cystitis is one of the most common bacterial infections in adults. The percentage of women who have at least one episode of acute cystitis is estimated to be between 40% to 50%. Quinolones are recommended for acute cystitis in regions where the level of resistance to other antimicrobials namely co‐trimoxazole is high. However the efficacy, safety and tolerance of quinolones needs investigation. 
+Objectives
+To compare the efficacy, safety and tolerance of different quinolones in women with uncomplicated acute cystitis. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL, in The Cochrane Library Issue 3, 2003), MEDLINE (1966 ‐ September 2003), EMBASE (1988 ‐ September 2003), reference lists of articles and abstracts from conference proceedings without language restriction. Reference lists of urology, infectious diseases and nephrology textbooks, review articles and relevant studies. 
+Selection criteria
+Randomised and quasi‐randomised controlled trials comparing two or more different quinolones in women (≥ 16 years) with uncomplicated acute cystitis were selected. 
+Data collection and analysis
+Two reviewers independently assessed trial quality and extracted data. Statistical analyses were performed using the random effects model and the results expressed as risk ratio (RR) for dichotomous outcomes with 95% confidence intervals (CI). 
+Main results
+We identified 11 studies enrolling 7535 women. There were no significant differences in clinical or microbiological efficacy between quinolones. Photosensitivity reactions were more frequently observed for sparfloxacin when compared to ofloxacin. Any adverse event, adverse events causing withdrawal, skin adverse events, photosensitivity reactions were more common for lomefloxacin when compared to norfloxacin. Any adverse event, adverse drug reactions, CNS adverse events were more common for ofloxacin when compared to ciprofloxacin. CNS adverse events and insomnia were more often reported for rufloxacin when compared to pefloxacin. Adverse drug reactions occurred frequently for ofloxacin than levofloxacin. Insomnia was reported more frequently for enoxacin than ciprofloxacin. 
+Authors' conclusions
+We found no significant differences in clinical or microbiological efficacy between quinolones but some differences in occurrence and spectrum of quinolone safety. 

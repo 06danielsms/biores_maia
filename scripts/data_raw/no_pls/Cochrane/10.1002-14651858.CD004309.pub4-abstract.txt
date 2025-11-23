@@ -1,0 +1,16 @@
+Background
+This is an updated version of the original Cochrane review first published in Issue 2, 2009, and updated in Issue 4, 2012. 
+Etoricoxib is a selective cyclo‐oxygenase‐2 (COX‐2) inhibitor licensed for the relief of chronic pain in osteoarthritis and rheumatoid arthritis, and acute pain in some jurisdictions. This class of drugs is believed to be associated with fewer upper gastrointestinal adverse effects than conventional non‐steroidal anti‐inflammatory drugs (NSAIDs). 
+Objectives
+To assess the efficacy and adverse effects of single dose etoricoxib for acute postoperative pain using methods that permit accurate comparison with other analgesics evaluated in the same way, using criteria of efficacy recommended by in‐depth studies at the individual patient level. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, EMBASE, the Oxford Pain Database, www.clinicaltrials.gov, and reference lists of articles. The date of the most recent search was 31 January 2014. 
+Selection criteria
+Randomised, double‐blind, placebo‐controlled clinical trials of single dose, oral etoricoxib for acute postoperative pain in adults. 
+Data collection and analysis
+Two review authors independently considered studies for inclusion in the review, assessed quality, and extracted data. We used the area under the pain relief versus time curve to derive the proportion of participants prescribed etoricoxib or placebo with at least 50% pain relief over six hours, using validated equations. We calculated relative risk (RR) and number needed to treat to benefit (NNT). We used information on use of rescue medication to calculate the proportion of participants requiring rescue medication and the weighted mean of the median time to use. We also collected information on adverse events. 
+Main results
+We identified no new studies for this updated review, which includes six studies with 1214 participants in comparisons of etoricoxib with placebo. All six studies reported on the 120 mg dose (798 participants in a comparison with placebo). Sixty‐six per cent of participants with etoricoxib 120 mg and 12% with placebo reported at least 50% pain relief (NNT 1.8 (1.7 to 2.0); high‐quality evidence). For dental studies only, the NNT was 1.6 (1.5 to 1.8). A single dose of 90 mg produced similar results in one large trial. Other doses (60, 180, and 240 mg) were each studied in only one treatment arm. 
+Significantly fewer participants used rescue medication over 24 hours when taking etoricoxib 120 mg than placebo (NNT to prevent remedication 2.2 (1.9 to 2.8)), and the median time to use of rescue medication was 20 hours for etoricoxib and two hours for placebo. Adverse events were reported at a similar rate to placebo (moderate‐quality evidence), with no serious events. 
+Authors' conclusions
+Single‐dose oral etoricoxib produces high levels of good quality pain relief after surgery, and adverse events did not differ from placebo in these studies. The 120 mg dose is as effective as, or better than, other commonly used analgesics. 

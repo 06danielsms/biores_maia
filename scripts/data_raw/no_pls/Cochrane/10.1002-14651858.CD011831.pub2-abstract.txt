@@ -1,0 +1,14 @@
+Background
+The efficacy of chlorpromazine, a benchmark antipsychotic, has not been fully assessed in direct comparison with different individual antipsychotics. Penfluridol is another old antipsychotic with a long half‐life so one oral dose may last up to one week. This could confer advantage. 
+Objectives
+To assess the clinical effects of chlorpromazine compared with penfluridol for adults with schizophrenia. 
+Search methods
+On 31 March 2017, we searched the Cochrane Schizophrenia Group’s Study‐Based Register of Trials which is based on regular searches of CINAHL, BIOSIS, AMED, Embase, PubMed, MEDLINE, PsycINFO, and registries of clinical trials. There are no language, date, document type, or publication status limitations for inclusion of records in the register. 
+Selection criteria
+We included all randomised clinical trials focusing on chlorpromazine versus penfluridol for adults with schizophrenia or related disorders. Outcomes of interest were death, service utilisation, global state, mental state, adverse effects and leaving the study early. We included trials meeting our selection criteria and reporting useable data. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we planned to estimate the mean difference (MD) between groups and its 95% CI. We employed a fixed‐effect model for analyses. We assessed risk of bias for included studies and created a 'Summary of findings' table using GRADE. 
+Main results
+The review includes three studies with a total of 130 participants. Short‐term results for hospital admissions showed no clear difference between chlorpromazine and penfluridol (1 RCT, n = 29, RR 0.19, 95% CI 0.01 to 3.60, low‐quality evidence). No clear difference in the incidence of akathisia was found at medium term (2 RCTs, n = 85, RR 0.19, 95% CI 0.04 to 1.06, low‐quality evidence), and similar numbers of participants ‐ nearly half ‐ from each treatment group left the study early (3 RCTs, n = 130, RR 1.21, 95% CI 0.83 to 1.77, low‐quality evidence). The risk of needing additional antiparkinsonian medication was less in the chlorpromazine group (2 RCTs, n = 74, RR 0.70, 95% CI 0.51 to 0.95). No useable data reported clinically important change in global or mental state. No data were reported for relapse. No deaths were reported by the trials. 
+Authors' conclusions
+Only three small studies provided data and the quality of reporting and evidence is low. Limited data indicate the efficacy and adverse effects profiles of chlorpromazine and penfluridol are generally similar. Penfluridol, however, may confer advantage by needing to be given only once per week. Firm conclusions are not possible without good‐quality trials, and where these treatments are used, such trials are justified. 

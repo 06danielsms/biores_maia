@@ -1,0 +1,14 @@
+Background
+Fluvoxamine, one of the oldest selective serotonin reuptake inhibitors (SSRIs), is prescribed to patients with major depression in many countries. Several studies have previously reviewed the efficacy and tolerability of fluvoxamine for the treatment of major depression. However, these reviews are now outdated. 
+Objectives
+Our objective is to evaluate the effectiveness, tolerability and side effect profile of fluvoxamine for major depression in comparison with other anti‐depressive agents, including tricyclics (TCAs), heterocyclics, other SSRIs, SNRIs, other newer agents and other conventional psychotropic drugs. 
+Search methods
+We searched the Cochrane Collaboration Depression, Anxiety and Neurosis Controlled Trials Register. Trial databases and ongoing trial registers in North America, Europe, Japan and Australia, were handsearched for randomised controlled trials. We checked reference lists of the articles included in the review, previous systematic reviews and major textbooks of affective disorder for published reports and citations of unpublished research. The date of last search was 31 August 2008. 
+Selection criteria
+We included all randomised controlled trials, published in any language, that compared fluvoxamine with any other active antidepressants in the acute phase treatment of major depression. 
+Data collection and analysis
+Two independent review authors inspected citations and abstracts, obtained papers, extracted data and assessed the risk of bias of included studies. We analysed dichotomous data using odds ratios (ORs) and continuous data using the standardised mean difference (SMD). A random effects model was used to combine studies. 
+Main results
+A total of 54 randomised controlled trials (n = 5122) were included. No strong evidence was found to indicate that fluvoxamine was either superior or inferior to other antidepressants regarding response, remission and tolerability. However, differing side effect profiles were evident, especially with regard to gastrointestinal side effects of fluvoxamine when compared to other antidepressants. For example, fluvoxamine was generally associated with a higher incidence of vomiting/nausea (versus imipramine, OR 2.23, CI 1.59 to 3.14; versus clomipramine, OR 2.13, CI 1.06 to 4.27; versus amitriptyline, OR 2.86, CI 1.31 to 2.63). 
+Authors' conclusions
+We found no strong evidence that fluvoxamine was either superior or inferior to any other antidepressants in terms of efficacy and tolerability in the acute phase treatment of depression. However, differing side effect profiles were evident. Based on these findings, we conclude that clinicians should focus on practical or clinically relevant considerations, including these differences in side effect profiles. 

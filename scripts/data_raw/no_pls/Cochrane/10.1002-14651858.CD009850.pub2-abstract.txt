@@ -1,0 +1,14 @@
+Background
+Respiratory support is a central component of the management of critically ill children. It can be delivered invasively via an endotracheal tube or non‐invasively via face mask, nasal mask, nasal cannula or oxygen hood/tent. Invasive ventilation can be damaging to the lungs, and the tendency to use non‐invasive forms is growing. However, non‐invasive delivery is often poorly tolerated by children. High‐flow nasal cannula (HFNC) oxygen delivery is a relatively new therapy that shows the potential to reduce the need for intubation and be better tolerated by children than other non‐invasive forms of support. HFNC therapy differs from other non‐invasive forms of treatment in that it delivers heated, humidified and blended air/oxygen via nasal cannula at rates > 2 L/kg/min. This allows the user to deliver high concentrations of oxygen and to potentially deliver continuous distending pressure; this treatment often is better tolerated by the child. 
+Objectives
+To determine whether HFNC therapy is more effective than other forms of non‐invasive therapy in paediatric patients who require respiratory support. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (2013, Issue 4); MEDLINE via PubMed (January 1966 to April 2013); EMBASE (January 1980 to April 2013); CINAHL (1982 to April 2013); and LILACS (1982 to April 2013). Abstracts from conference proceedings, theses and dissertations and bibliographical references to relevant studies were also searched. We applied no restriction on language. 
+Selection criteria
+We planned to included randomized controlled trials (RCTs) and quas‐randomized trials comparing HFNC therapy with other forms of non‐invasive respiratory support for children. Non‐invasive support encompassed cot, hood or tent oxygen; low‐flow nasal cannulae (flow rates ≤ 2 L/min); and continuous positive airway pressure (CPAP) or bilevel positive airway pressure (BiPAP) delivered via facial or nasal mask/cannula. Treatment failure was defined by the need for additional respiratory support. We excluded children with a diagnosis of bronchiolitis. 
+Data collection and analysis
+Two review authors independently assessed all studies for selection and data extraction. We used standard methodological procedures expected by The Cochrane Collaboration. 
+Main results
+Our search yielded 922 records. A total of 109 relevant records were retrieved with reference to our search criteria. After duplicates and irrelevant studies were removed, 69 studies were further scrutinized. Of these, 11 studies involved children. No study matched our inclusion criteria. 
+Authors' conclusions
+Based on the results of this review, no evidence is available to allow determination of the safety or effectiveness of HFNC as a form of respiratory support in children. 

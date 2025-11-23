@@ -1,0 +1,14 @@
+Background
+Concern about estrogen‐related adverse effects has led to progressive reductions in the estrogen dose in combination oral contraceptives (COCs). However, reducing the amount of estrogen to improve safety could result in decreased contraceptive effectiveness and unacceptable changes in bleeding patterns. 
+Objectives
+To test the hypothesis that COCs containing ≤ 20 μg ethinyl estradiol (EE) perform similarly as those containing > 20 μg in terms of contraceptive effectiveness, bleeding patterns, discontinuation, and side effects. 
+Search methods
+In July 2013, we searched CENTRAL, MEDLINE, and POPLINE, and examined references of potentially eligible trials. We also searched for recent clinical trials using ClinicalTrials.gov and ICTRP. No new trials met the inclusion criteria. Previous searches included EMBASE. For the initial review, we wrote to oral contraceptive manufacturers to identify trials. 
+Selection criteria
+English‐language reports of randomized controlled trials were eligible that compare a COC containing ≤ 20 μg EE with a COC containing > 20 μg EE. We excluded studies where the interventions were designed to be administered for less than three consecutive cycles or to be used primarily as treatment for non‐contraceptive conditions. Trials had to report on contraceptive effectiveness, bleeding patterns, trial discontinuation due to bleeding‐related reasons or other side effects, or side effects to be included in the review. 
+Data collection and analysis
+One author evaluated all titles and abstracts from literature searches to determine whether they met the inclusion criteria. Two authors independently extracted data from studies identified for inclusion. We wrote to the researchers when additional information was needed. Data were entered and analyzed with RevMan. 
+Main results
+No differences were found in contraceptive effectiveness for the 13 COC pairs for which this outcome was reported. Compared to the higher‐estrogen pills, several COCs containing 20 μg EE resulted in higher rates of early trial discontinuation (overall and due to adverse events such as irregular bleeding) as well as increased risk of bleeding disturbances (both amenorrhea or infrequent bleeding and irregular, prolonged, frequent bleeding, or breakthrough bleeding or spotting). 
+Authors' conclusions
+While COCs containing 20 μg EE may be theoretically safer, this review did not focus on the rare events required to assess this hypothesis. Data from existing randomized controlled trials are inadequate to detect possible differences in contraceptive effectiveness. Low‐dose estrogen COCs resulted in higher rates of bleeding pattern disruptions. However, most trials compared COCs containing different progestin types, and changes in bleeding patterns could be related to progestin type as well as estrogen dose. Higher follow‐up rates are essential for meaningful interpretation of results. 

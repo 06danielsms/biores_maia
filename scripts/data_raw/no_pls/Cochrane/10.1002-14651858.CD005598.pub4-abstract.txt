@@ -1,0 +1,15 @@
+Background
+As a consequence of their condition, people with sickle cell disease are at high risk of developing an acute infection of the pulmonary parenchyma called community‐acquired pneumonia. Many different bacteria can cause this infection and antibiotic treatment is generally needed to resolve it. There is no standardized approach to antibiotic therapy and treatment is likely to vary from country to country. Thus, there is a need to identify the efficacy and safety of different antibiotic treatment approaches for people with sickle cell disease suffering from community‐acquired pneumonia. This is an update of a previously published Cochrane Review. 
+Objectives
+To determine the efficacy and safety of the antibiotic treatment approaches (monotherapy or combined) for people with sickle cell disease suffering from community‐acquired pneumonia. 
+Search methods
+We searched The Group's Haemoglobinopathies Trials Register (01 September 2016), which comprises references identified from comprehensive electronic database searches and handsearching of relevant journals and abstract books of conference proceedings. We also searched LILACS (1982 to 01 September 2016), African Index Medicus (1982 to 20 October 2016) and WHO ICT Registry (20 October 2016). 
+Selection criteria
+We searched for published or unpublished randomized controlled trials.
+Data collection and analysis
+We intended to summarise data by standard Cochrane methodologies, but no eligible randomized controlled trials were identified. 
+Main results
+We were unable to find any randomized controlled trials on antibiotic treatment approaches for community‐acquired pneumonia in people with sickle cell disease. 
+Authors' conclusions
+The updated review was unable to identify randomized controlled trials on efficacy and safety of the antibiotic treatment approaches for people with sickle cell disease suffering from community‐acquired pneumonia. Randomized controlled trials are needed to establish the optimum antibiotic treatment for this condition. The trials regarding this issue should be structured and reported according to the CONSORT statement for improving the quality of reporting of efficacy and improved reports of harms in clinical research. Triallists should consider including the following outcomes in new trials: number of days to become afebrile; mortality; onset of pain crisis or complications of sickle cell disease following community‐acquired pneumonia; diagnosis; hospitalization (admission rate and length of hospital stay); respiratory failure rate; and number of participants receiving a blood transfusion. 
+There are no trials included in the review and we have not identified any relevant trials up to September 2016. We therefore do not plan to update this review until new trials are published. 

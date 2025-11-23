@@ -1,0 +1,14 @@
+Background
+Researchers have consistently found that people with schizophrenia score more poorly than others on a wide array of cognitive tasks and that these deficits persist even when the illness is in remission. The perceived impact of cognitive impairment on day‐to‐day functioning has led to the development of cognitive rehabilitation techniques intended to remedy these impairments, and thus improve the functioning of people with schizophrenia. 
+Objectives
+To determine whether the use of cognitive rehabilitation techniques is associated with improvement in people with schizophrenia and related conditions. 
+Search methods
+Electronic searches of Biological Abstracts (1982‐1997), the Cochrane Schizophrenia Group's Register of trials (2000), EMBASE (1980‐1997), LILACS (1982‐1997), MEDLINE (1966‐1997), PsycLIT (1974‐1997) and SCISEARCH (1997) were undertaken. References of all identified studies were handsearched and the first author of each included trial was contacted. 
+Selection criteria
+The reviewers included randomised trials investigating the impact of cognitive rehabilitation on people with schizophrenia, or related conditions, compared to a placebo intervention, another intervention or standard treatment. This version of the review does not include comparisons of different types of cognitive rehabilitation. 
+Data collection and analysis
+Relevant studies were identified and data extracted reliably by two reviewers working independently. In studies which did not specify the reasons for participants dropping out, we assumed that those who had dropped out had experienced no change in the outcome measures. Where possible, Peto odds ratios (OR) and mean differences (MD) were calculated with their 95% confidence intervals (CI). 
+Main results
+Three small studies met the inclusion criteria. Two compared cognitive rehabilitation to a placebo intervention (total n=84), and the other to occupational therapy (n=33). Although cognitive rehabilitation was as acceptable as placebo and occupational therapy, with low attrition in both groups, no effects were demonstrated on measures of mental state, social behaviour, or cognitive functioning. An effect, in favour of cognitive rehabilitation, on a measure of self‐esteem (Rosenberg Self‐Esteem Scale, MD 6.3 CI 1.07‐11.53 ) is worthy of replication in any future trials. 
+Authors' conclusions
+Data are inconclusive and provide no evidence for or against cognitive rehabilitation as a treatment for schizophrenia. 

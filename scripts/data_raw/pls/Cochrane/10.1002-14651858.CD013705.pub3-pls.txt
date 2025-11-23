@@ -1,0 +1,39 @@
+How accurate are rapid antigen tests for diagnosing COVID‐19?
+Key messages 
+• Rapid antigen tests are most accurate when they are used in people who have signs or symptoms of COVID‐19, especially during the first week of illness. People who test negative may still be infected. 
+• Rapid antigen tests are considerably less accurate when they are used in people with no signs or symptoms of infection, but do perform better in people who have been in contact with someone who has confirmed COVID‐19. 
+• The accuracy of rapid antigen tests varies between tests that are produced by different manufacturers and there is a lack of evidence for many commercially available tests. 
+What are rapid point‐of‐care antigen tests for COVID‐19? 
+Rapid point‐of‐care tests aim to confirm or rule out COVID‐19 infection in people with or without COVID‐19 symptoms. They: 
+• are portable, so they can be used wherever the patient is (at the point‐of‐care) or in non‐healthcare settings such as in the home; 
+• are easy to perform, with a minimum amount of extra equipment or complicated preparation steps; 
+• are less expensive than standard laboratory tests;
+• do not require a specialist operator or setting; and
+• provide results ‘while you wait’.
+For this review we were interested in rapid antigen tests, sometimes referred to as ‘lateral flow tests’. These tests identify proteins on the virus in samples taken from the nose or throat. They come in disposable plastic cassettes, similar to over‐the‐counter pregnancy tests. 
+Why is this question important? 
+People with suspected COVID‐19 need to know quickly whether they are infected, so that they can self‐isolate, receive treatment, and inform close contacts. Currently, COVID‐19 infection is confirmed by a laboratory test called RT‐PCR, which uses specialist equipment and often takes at least 24 hours to produce a result. 
+In many places, rapid antigen tests have opened access to testing for many more people, with and without symptoms, and in locations other than healthcare settings. Faster diagnosis of COVID‐19 infection could allow people to take appropriate action more quickly, with the potential to reduce the spread of COVID‐19, but it is important to understand how accurate they are and the best way to use them. 
+What did we want to find out? 
+We wanted to know whether commercially available, rapid point‐of‐care antigen tests are accurate enough to diagnose COVID‐19 infection reliably, and to find out if accuracy differs in people with and without symptoms. 
+What did we do? 
+We looked for studies that measured the accuracy of any commercially produced rapid antigen test in people who were also tested for COVID‐19 using RT‐PCR. People could be tested in hospital, in the community or in their own homes. Studies could test people with or without symptoms. 
+What did we find? 
+We included 155 studies in the review. The main results are based on 152 studies investigating a total of 100,462 nose or throat samples; COVID‐19 was confirmed in 16,822 of these samples. Studies investigated 49 different antigen tests. Around 60% of studies took place in Europe. 
+Main results 
+In people with confirmed COVID‐19, antigen tests correctly identified COVID‐19 infection in an average of 73% of people with symptoms, compared to 55% of people without symptoms. Tests were most accurate when used in the first week after symptoms began (an average of 82% of confirmed cases had positive antigen tests). This is likely to be because people have the most virus in their system in the first days after they are infected. For people with no symptoms, tests were most accurate in people likely to have been in contact with a case of COVID‐19 infection (an average of 64% of confirmed cases had positive antigen tests). 
+In people who did not have COVID‐19, antigen tests correctly ruled out infection in 99.6% of people with symptoms and 99.7% of people without symptoms. 
+Different brands of tests varied in accuracy. Summary results (combined from more than one study per test brand) for seven tests met World Health Organization (WHO) standards as ‘acceptable’ for confirming and ruling out COVID‐19 in people with signs and symptoms of COVID‐19. Two more tests met the WHO acceptable standard in one study each. No test met this standard when evaluated in people without symptoms. 
+Using summary results for symptomatic people tested during the first week after symptoms began, if 1000 people with symptoms had the antigen test, and 50 (5%) of them really had COVID‐19: 
+• 45 people would test positive for COVID‐19. Of these, 5 people (11%) would not have COVID‐19 (false positive result). 
+• 955 people would test negative for COVID‐19. Of these, 10 people (1.0%) would actually have COVID‐19 (false negative result). 
+In people with no symptoms of COVID‐19 the number of confirmed cases is expected to be much lower than in people with symptoms. Using summary results for people with no known exposure to COVID‐19 in a bigger population of 10,000 people with no symptoms, where 50 (0.5%) of them really had COVID‐19: 
+• 62 people would test positive for COVID‐19. Of these, 30 people (48%) would not have COVID‐19 (false positive result). 
+• 9938 people would test negative for COVID‐19. Of these, 18 people (0.2%) would actually have COVID‐19 (false negative result). 
+What are the limitations of the evidence? 
+In general, studies used relatively rigorous methods, particularly for selecting participants and performing the tests. Sometimes studies did not perform the test on the people for whom it was intended and did not follow the manufacturers’ instructions for using the test. Sometimes the tests were not carried out at the point of care. Studies used less rigorous methods for confirming the presence or absence of COVID‐19 infection; 91% of studies relied on a single negative RT‐PCR result as evidence of no COVID‐19 infection. Results from different test brands varied, and relatively few studies directly compared one test brand with another. Finally, not all studies gave enough information about their participants for us to judge how long they had had symptoms, or even whether or not they had symptoms. 
+What does this mean? 
+In people with symptoms, some rapid antigen tests are accurate enough to replace RT‐PCR, especially for ruling in the presence of infection. Alternatively, where RT‐PCR is available, rapid antigen tests could be used to select which people with symptoms require further testing with RT‐PCR, thereby reducing the burden on laboratory services. This would be most useful when quick decisions are needed about patient care, to identify outbreaks, to allow people to self‐isolate more quickly, or to initiate contact tracing. Rapid antigen tests are less good at ruling out infection in symptomatic people ‐ individuals who receive a negative rapid antigen test result may still be infected. 
+Rapid antigen tests are less accurate when used in people with no symptoms of COVID‐19. More evidence is needed to understand the accuracy of rapid testing in people without symptoms and the extent to which repeated testing strategies can lead to reduced transmission, either for tests carried out at home or in non‐healthcare settings such as schools. There is no independent evidence to support the use of many test brands. More direct comparisons of test brands are needed, with testers following manufacturers’ instructions. 
+How up‐to‐date is this review? 
+This review updates our previous review and includes evidence published up to 8 March 2021. 

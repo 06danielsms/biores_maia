@@ -1,0 +1,14 @@
+Background
+Oxycodone is a strong opioid agonist used to treat severe pain. It is commonly combined with milder analgesics such as paracetamol. This review updates a previous review that concluded, based on limited data, that all doses of oxycodone exceeding 5 mg, with or without paracetamol, provided analgesia in postoperative pain, but with increased incidence of adverse events compared with placebo. Additional new studies provide more reliable estimates of efficacy and harm. 
+Objectives
+To assess efficacy, duration of action, and associated adverse events of single dose oral oxycodone, with or without paracetamol, in acute postoperative pain in adults. 
+Search methods
+Cochrane CENTRAL, MEDLINE, EMBASE and Oxford Pain Relief Database, searched in May 2009. 
+Selection criteria
+Randomised, double blind, placebo‐controlled trials of single dose orally administered oxycodone, with or without paracetamol, in adults with moderate to severe acute postoperative pain. 
+Data collection and analysis
+Two review authors independently assessed trial quality and extracted data. Pain relief or pain intensity data were extracted and converted into the dichotomous outcome of number of participants with at least 50% pain relief over 4 to 6 hours, from which relative risk and number‐needed‐to‐treat‐to‐benefit (NNT) were calculated. Numbers of participants remedicating over specified time periods, and time‐to‐use of rescue medication, were sought as additional measures of efficacy. Adverse events and withdrawals information was collected. 
+Main results
+This updated review includes 20 studies, with 2641 participants. For oxycodone 15 mg alone compared with placebo, the NNT for at least 50% pain relief was 4.6 (95% Confidence Interval 2.9 to 11). For oxycodone 10 mg plus paracetamol 650 mg, the NNT was 2.7 (2.4 to 3.1). A dose response was demonstrated for this outcome with combination therapy. Duration of effect was 10 hours with oxycodone 10 mg plus paracetamol 650 mg, and 4 hours with half that dose. Fewer participants needed rescue medication over 6 hours at the higher dose. Adverse events occurred more frequently with combination therapy than placebo, but were generally described as mild to moderate in severity and rarely led to withdrawal. 
+Authors' conclusions
+Single dose oxycodone is an effective analgesic in acute postoperative pain at doses over 5 mg; oxycodone is two to three times stronger than codeine. Efficacy increases when combined with paracetamol. Oxycodone 10 mg plus paracetamol 650 mg provides good analgesia to half of those treated, comparable to commonly used non‐steroidal anti‐inflammatory drugs, with the benefit of longer duration of action. 

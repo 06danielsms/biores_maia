@@ -1,0 +1,14 @@
+Background
+Pharmacological treatments are the principal intervention for bipolar disorder. Alone, however, they are not sufficient to control symptoms and maintain psychosocial functioning. Adjunctive psychosocial interventions may help to improve the patient's condition and the course of the illness. Family interventions are deserving of special attention, since they may help to relieve the burden of care borne by relatives and caregivers, which in turn may facilitate the task of supporting the patient. 
+Objectives
+The objective of this review was to investigate the effectiveness of family interventions in the treatment of bipolar disorder compared with no intervention and other forms of intervention. 
+Search methods
+We searched the electronic databases CCDANRCT‐Studies and CCDANCTR‐References on 1/8/2007, CENTRAL (2006‐3), MEDLINE (2006), EMBASE (2006) and LILACS (2006), and searched the reference lists of included studies. We also made personal contact with authors. 
+Selection criteria
+We included randomised controlled trials (RCTs) and quasi‐randomised trials. Participants were people with bipolar disorder and their relatives or caregivers; family psychosocial interventions of any type were considered; primary outcomes were changes in the status of symptoms and relapse rates. 
+Data collection and analysis
+Data were independently extracted by two review authors. Quality assessment of included studies was carried out. The findings were presented descriptively. Where there were sufficient studies, dichotomous data were combined using relative risk, and continuous data were combined using weighted mean difference, with their 95% CIs. 
+Main results
+Seven RCTs were included in the review, involving a total of 393 participants. All of the included studies assessed psychoeducational methods, and one study also assessed a type of systems psychotherapy. In all trials, participants continued to receive pharmacotherapy treatment. Due to the diversity of interventions, outcome measures and endpoints used across studies, it was not possible to perform meta‐analyses for primary outcomes. Five studies compared a variety of family interventions, involving carers, families or spouses, against no intervention, with individual findings indicating no significant added effect for family interventions. Three studies compared one type or modality of family intervention against another family intervention, with inconsistent findings. 
+Authors' conclusions
+To date there is only a small and heterogeneous body of evidence on the effectiveness of family oriented approaches for bipolar disorder, and it is not yet possible to draw any definite conclusions to support their use as an adjunctive treatment for bipolar disorder. Further well designed RCTs should be a research priority. 

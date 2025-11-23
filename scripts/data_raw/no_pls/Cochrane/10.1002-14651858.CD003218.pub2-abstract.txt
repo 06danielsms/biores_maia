@@ -1,0 +1,15 @@
+Background
+Excessive daytime sleepiness is a common symptom of myotonic dystrophy. Psychostimulants are drugs increasingly used to treat hypersomnia in myotonic dystrophy. 
+Objectives
+To search systematically for, and combine all evidence from, randomized trials relating to the effects of psychostimulants in myotonic dystrophy patients with hypersomnia. 
+Search methods
+We searched the Cochrane Neuromuscular Disease Specialized Register (October 2010), the Cochrane Central Register of Controlled Trials (CENTRAL) (19 October 2010, issue 4, 2010 in the Cochrane Library), MEDLINE (January 1966 to October 2010) and EMBASE (January 1980 to October 2010) for randomized trials concerning psychostimulants in myotonic dystrophy, checked the bibliographies of identified papers and made enquiries of the authors of the papers. 
+Selection criteria
+We considered all randomized or quasi‐randomized trials that have evaluated any type of psychostimulant (versus a placebo or no treatment) in children or adults with proven myotonic dystrophy and hypersomnia. 
+Data collection and analysis
+Potentially relevant papers were scrutinized by two authors and the selection of eligible studies was agreed by them and a third author. Data were extracted by one author and checked by a second author. 
+Main results
+Primary outcome  Mean improvement in the maintenance of wakefulness test was available for two of the five identified trials accounting for 48 participants. The mean difference +2.52(95% confidence interval (CI) ‐2.32 to +7.37), was not significant and there was marked heterogeneity across these studies (I2= 50%). 
+Secondary outcomes  Mean improvement in the Epworth Sleepiness Scale was available in four trials accounting for 101 participants. The mean difference was ‐2.26 (95% CI ‐3.78to ‐0.73), significantly in favor of modafinil with marked heterogeneity across the studies (I2= 84%). There was no evidence for any treatment benefit on the multiple sleep latency test or quality of life. 
+Authors' conclusions
+There is low quality evidence from two small trials that psychostimulants do not significantly improve the maintenance of wakefulness test in myotonic dystrophy. There is low quality evidence from four studies that modafinil significantly improves the Epworth Sleepiness Scale. More randomized trials are needed to evaluate the efficacy and safety of psychostimulants. 

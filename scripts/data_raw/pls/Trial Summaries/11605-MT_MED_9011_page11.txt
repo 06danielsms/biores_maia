@@ -1,0 +1,35 @@
+The information below is a summary of the adverse events that happened in this trial. More details about adverse reactions in this trial are included later in the summary.
+
+Group 1: 
+- Participants: 100% (26)
+- Adverse events: 100% (26)
+- Serious adverse events: 46.2% (12)
+- Participants who stopped receiving trial treatment due to adverse events: 15.4% (4)
+
+Group 2: 
+- Participants: 100% (19)
+- Adverse events: 100% (19)
+- Serious adverse events: 21.1% (4)
+- Participants who stopped receiving trial treatment due to adverse events: 5.3% (1)
+
+Group 3: 
+- Participants: 100% (12)
+- Adverse events: 100% (12)
+- Serious adverse events: 16.7% (2)
+- Participants who stopped receiving trial treatment due to adverse events: 16.7% (2)
+
+Group 4: 
+- Participants: 100% (12)
+- Adverse events: 100% (12)
+- Serious adverse events: 33.3% (4)
+- Participants who stopped receiving trial treatment due to adverse events: 16.7% (2)
+
+Across all treatment groups, the most common serious adverse events were:
+- Lung infection
+- Fever
+- Inflammation of the deep skin tissue
+- Diarrhea
+- Difficulty breathing
+- Inflammation of the gallbladder
+- Fainting
+- Pus-filled swelling on a limb

@@ -1,0 +1,17 @@
+Clonidine, lofexidine, and similar medications for the management of opioid withdrawal
+Review question 
+We reviewed the evidence about the effect of alpha2‐adrenergic agonists (clonidine, lofexidine, guanfacine, and tizanidine) in managing withdrawal in people who are dependent on opioid drugs (for example heroin, methadone). 
+Background 
+Managed withdrawal, or detoxification, is a required first step for longer‐term treatments of opioid dependence. The combination of uncomfortable symptoms and intense craving makes completion of opioid withdrawal difficult for most people. For many years, the main approach to detoxification involved suppression of withdrawal with methadone and gradual reduction of the methadone dose. The use of methadone in this way has been limited by government restrictions on prescription of methadone and dislike of the drawn‐out nature of methadone withdrawal. Clonidine and similar medications (known as alpha2‐adrenergic agonists) offer an alternative approach. This review considered whether alpha2‐adrenergic agonists are more effective than reducing doses of methadone, and whether there are any differences in the effectiveness of different types of alpha2‐adrenergic agonist. 
+Search date 
+The evidence is current to November 2015.
+Study characteristics 
+We identified 26 randomised controlled trials (clinical studies where people are randomly put into one of two or more treatment groups), involving 1728 opioid‐dependent participants. The studies were undertaken in 12 different countries and involved treatment with an alpha2‐adrenergic agonist (clonidine, lofexidine, guanfacine, and in one study, tizanidine) compared with reducing doses of methadone (12 studies), placebo (six studies), or symptomatic medications (four studies). Five studies compared different alpha2‐adrenergic agonists. Treatment was scheduled to last for one to two weeks in most studies; the shortest duration was three days, and the longest was 30 days. 
+Six studies received some financial support from a pharmaceutical company.
+Key results 
+Opioid withdrawal was similar with alpha2‐adrenergic agonists and reducing doses of methadone, but the duration of treatment was longer and there were fewer adverse effects with methadone. Withdrawal signs and symptoms occurred earlier with alpha2‐adrenergic agonists, within a few days of cessation of the opioid drugs. The chances of completing withdrawal treatment were similar. 
+Clonidine and lofexidine were more effective than placebo in managing withdrawal from heroin or methadone, and were associated with higher chances of completing treatment. 
+Lofexidine had less effect on blood pressure than clonidine.
+Quality of the evidence 
+For alpha2‐adrenergic agonists compared with placebo, the evidence was very low to moderate quality, indicating that further evidence would be likely to change the estimates of relative effect made in this review. However, the evidence is sufficient to indicate that alpha2‐adrenergic agonists are more effective than placebo, making further comparisons of this nature inappropriate on ethical grounds. 
+For the comparison of alpha2‐adrenergic agonists with reducing doses of methadone, the evidence was low to moderate quality. The key reasons for the low quality were small numbers of studies reporting some outcomes, low rates of occurrence of some events (for example drop‐out due to adverse effects), and variability between studies. 

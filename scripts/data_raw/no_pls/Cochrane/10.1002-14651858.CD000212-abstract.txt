@@ -1,0 +1,16 @@
+Background
+It has been estimated that arthritis occurs in 5‐7% of those with psoriasis. Relatively few clinical trials of treatment are available for psoriatic arthritis and data presentation in these trials is far from uniform making comparison difficult. 
+Objectives
+To assess the effects of sulfasalazine, auranofin, etretinate, fumaric acid, IMI gold, azathioprine, efamol marine and methotrexate, in psoriatic arthritis. 
+Search methods
+We searched MEDLINE up to February 2000, and Excerpta Medica (June 1974‐95). Search terms were psoriasis, arthritis, therapy and/or controlled trial. This was supplemented by manually searching bibliographies of previously published reviews, conference proceedings, contacting drug companies and referring to the Cochrane Clinical Trials Register. All languages were included in the initial search. 
+Selection criteria
+All randomized trials comparing sulfasalazine, auranofin, etretinate, fumaric acid, IMI gold, azathioprine, and methotrexate, in psoriatic arthritis. 
+Following a published a priori protocol, the main outcome measures included individual component variables derived from Outcome Measures in Rheumatology Clinical Trials (OMERACT). These include acute phase reactants, disability, pain, patient global assessment, physician global assessment, swollen joint count, tender joint count and radiographic changes of joints in any trial of one year or longer [Tugwell 1993], and the change in pooled disease index (DI). 
+Only English trials were included in the review.
+Data collection and analysis
+Data were independently extracted from the published reports by two of the reviewers (MC, GJ). An independent blinded quality assessment was also performed. 
+Main results
+Twenty randomized trials were identified of which thirteen were included in the quantitative analysis with data from 1022 subjects. Although all agents were better than placebo, parenteral high dose methotrexate (not included), sulfasalazine, azathioprine and etretinate were the agents that achieved statistical significance in a global index of disease activity (although it should be noted that only one component variable was available for azathioprine and only one trial was available for etretinate suggesting some caution is necessary in interpreting these results). Analysis of response in individual disease activity markers was more variable with considerable differences between different medications and responses. In all trials the placebo group improved over baseline (pooled improvement 0.39 DI units, 95% CI 0.26‐0.54). There was insufficient data to examine toxicity. 
+Authors' conclusions
+Parenteral high dose methotrexate and sulfasalazine are the only two agents with well demonstrated published efficacy in psoriatic arthritis. The magnitude of the effect seen with azathioprine, etretinate, oral low dose methotrexate and perhaps colchicine suggests that they may be effective but that further multicentre clinical trials are required to establish their efficacy. Furthermore, the magnitude of the improvement observed in the placebo group strongly suggests that uncontrolled trials should not be used to guide management decisions in this condition. 

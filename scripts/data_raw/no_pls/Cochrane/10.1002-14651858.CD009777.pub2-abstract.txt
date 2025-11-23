@@ -1,0 +1,14 @@
+Background
+Flupenthixol, first made available in the UK in 1965, has been used as a treatment for schizophrenia for decades. 
+Objectives
+To evaluate the absolute clinical effects of flupenthixol for schizophrenia in comparison with placebo. 
+Search methods
+We searched the Cochrane Schizophrenia Group Trials Register (August 2011), inspected references of all included or excluded studies for further trials, and contacted authors of trials for additional information. 
+Selection criteria
+All randomised controlled trials (RCTs) that compared flupenthixol with placebo for adults with schizophrenia or related disorders by any means of diagnosis. Primary outcomes of interest were clinically important change in global state, mental state and behaviour, and adverse effects. 
+Data collection and analysis
+We extracted data from the one included study, discussed any disagreement, documented decisions and contacted the authors of the included study for further information. We analysed binary outcomes using a standard estimation of the risk ratio (RR) and its 95% confidence intervals (CI). For homogenous data we used a fixed‐effect model. For rare events we analysed dichotomous data using Peto Odds ratio (OR), again with 95% CIs. 
+Main results
+We could include only one small (n = 45) study of moderate quality. When the active α‐flupenthixol was compared with the inactive placebo or β‐flupenthixol groups combined, fewer people in the active treatment group needed additional antipsychotic medication by around four weeks for deterioration in their general state (n = 45, OR 0.19 CI 0.05 to 0.71). There was no clear difference in social functioning at one year (n = 45, RR 1.33 CI 0.91 to 1.96). We found no clear data on mental state and behaviour, adverse effects, service use, satisfaction with treatment or costs. 
+Authors' conclusions
+We were surprised that this well‐established drug had so few data from trials investigating its absolute effects. We think this is unlikely to be rectified some 50 years after its launch and know that this would not happen today. However, even though data are very limited, flupenthixol may well be worthy of careful investigation ‐ partly to ensure that this inexpensive active drug is not forgotten. 

@@ -1,0 +1,14 @@
+Background
+Artemisinin‐based combination treatments are strongly advocated, but supplies are limited. Sulfadoxine combined with amodiaquine is an alternative non‐artemisinin combination. 
+Objectives
+To compare sulfadoxine‐pyrimethamine plus amodiaquine (SP plus AQ) with sulfadoxine‐pyrimethamine plus artesunate (SP plus AS) for treating uncomplicated Plasmodium falciparum malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (October 2005), CENTRAL (The Cochrane Library 2005, Issue 4), MEDLINE (1966 to October 2005), EMBASE (1988 to October 2005), LILACS (October 2005), and reference lists. We also contacted researchers and organizations working in this field. 
+Selection criteria
+Randomized controlled trials comparing SP plus AS with SP plus AQ for treating uncomplicated P. falciparum malaria. 
+Data collection and analysis
+Two authors independently applied the inclusion criteria, extracted data, and assessed methodological quality. The primary outcome measure was treatment failure (parasitological or clinical evidence of treatment failure between start of treatment and day 28). We calculated the risk ratio (RR) with 95% confidence intervals (CI) for dichotomous data. 
+Main results
+Four trials (775 participants) met the inclusion criteria. All were from areas of high and seasonal malaria transmission in Africa. Fewer participants using SP plus AQ failed treatment by day 28 (RR 0.59, 95% CI 0.42 to 0.83; 652 participants, 3 trials). Even excluding new infections, SP plus AQ performed better (RR 0.62, 95% CI 0.40 to 0.96; 649 participants, 3 trials). There was no statistically significant difference between the two treatments for treatment failure at day 14 (RR 1.14, 95% CI 0.47 to 2.78; 775 participants, 4 trials). SP plus AS was more effective at reducing gametocyte carriage at day seven (RR 2.31, 95% CI 1.36 to 3.92; 220 participants, 1 trial). One trial reported that one person − in the SP plus AQ group − developed severe malaria. Adverse events were poorly reported, but did not seem to differ in type and number between the two treatment combinations. 
+Authors' conclusions
+SP plus AQ performed better at controlling treatment failure at day 28, but was not as good as SP plus AS at reducing gametocyte carriage at day seven. Careful consideration of local resistance patterns is required because resistance to sulfadoxine‐pyrimethamine and amodiaquine are high in many areas. In order to delay development of resistance to artesunate, the combination with sulfadoxine‐pyrimethamine should only be considered where both drugs are known to be effective. Data on adverse events are still lacking. 

@@ -1,0 +1,14 @@
+Background
+Surgery is sometimes recommended for persistent lateral elbow pain where other less invasive interventions have failed. 
+Objectives
+To determine the benefits and safety of surgery for lateral elbow pain.
+Search methods
+We searched CENTRAL (The Cochrane Library), MEDLINE, EMBASE, CINAHL and Web of Science unrestricted by date or language (to 15 December 2010). 
+Selection criteria
+Randomised and controlled clinical trials assessing a surgical intervention compared with no treatment or another intervention including an alternate surgical intervention, in adults with lateral elbow pain. 
+Data collection and analysis
+Two authors independently selected trials for inclusion, assessed risk of bias and extracted data. 
+Main results
+We included five trials involving 191 participants with persistent symptoms of at least five months duration and failed conservative treatment. Three trials compared two different surgical procedures and two trials compared surgery to a non‐surgical treatment. All trials were highly susceptible to bias. Meta‐analysis was precluded due to differing comparator groups and outcome measures. One trial (24 participants) reported no difference between open extensor carpi radialis brevis (ECRB) surgery and radiofrequency microtenotomy, although reanalysis found that pain was significantly lower in the latter group at three weeks (MD ‐2.80 points on 10 point scale, 95% CI ‐5.07 to ‐0.53). One trial (26 participants) reported no difference between open ECRB surgery and decompression of the posterior interosseous nerve in terms of the number of participants with improvement in pain pain on activity, or tenderness on palpation after an average of 31 months following surgery. One trial (45 participants) found that compared with open release of the ERCB muscle, percutaneous release resulted in slightly better function. One trial (40 participants) found comparable results between open surgical release of the ECRB and botulinum toxin injection at two years, although we could not extract any data for this review. One trial (56 participants) found that extracorporeal shock wave therapy (ESWT) improved pain at night compared with percutaneous tenotomy at 12 months (MD 5 points on 100 point VAS, 95% CI 1.12 to 8.88), but there were no differences in pain at rest or pain on applying pressure. 
+Authors' conclusions
+Due to a small number of studies, large heterogeneity in interventions across trials, small sample sizes and poor reporting of outcomes, there was insufficient evidence to support or refute the effectiveness of surgery for lateral elbow pain. Further well‐designed randomised controlled trials and development of standard outcome measures are needed. 

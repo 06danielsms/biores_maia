@@ -1,0 +1,43 @@
+Background
+Oral zuclopenthixol dihydrochloride (Clopixol) is an anti‐psychotic treatment for people with psychotic symptoms, especially those with schizophrenia. It is associated with neuroleptic malignant syndrome, a prolongation of the QTc interval, extra‐pyramidal reactions, venous thromboembolism and may modify insulin and glucose responses. 
+Objectives
+To determine the effects of zuclopenthixol dihydrochloride for treatment of schizophrenia.
+Search methods
+We searched the Cochrane Schizophrenia Group's Trials Register (latest search 09 June 2015). There were no language, date, document type, or publication status limitations for inclusion of records in the register. 
+Selection criteria
+All randomised controlled trials (RCTs) focusing on zuclopenthixol dihydrochloride for schizophrenia. We included trials meeting our inclusion criteria and reporting useable data. 
+Data collection and analysis
+We extracted data independently. For binary outcomes, we calculated risk ratio (RR) and its 95% confidence interval (CI), on an intention‐to‐treat basis. For continuous data, we estimated the mean difference (MD) between groups and its 95% CI. We employed a random‐effect model for analyses. We assessed risk of bias for included studies and created 'Summary of findings' tables using GRADE. 
+Main results
+We included 20 trials, randomising 1850 participants. Data were reported for 12 comparisons, predominantly for the short term (up to 12 weeks) and inpatient populations. Overall risk of bias for included studies was low to unclear. 
+Data were unavailable for many of our pre‐stated outcomes of interest. No data were available, across all comparisons, for death, duration of stay in hospital and general functioning. 
+Zuclopenthixol dihydrochloride versus:
+1. placebo 
+Movement disorders (EPSEs) were similar between groups (1 RCT, n = 28, RR 6.07 95% CI 0.86 to 43.04 very low‐quality evidence). There was no clear difference in numbers leaving the study early (2 RCTs, n = 100, RR 0.29, 95% CI 0.01 to 6.60, very low‐quality evidence). 
+2. chlorpromazine 
+No clear differences were found for the outcomes of global state (average CGI‐SI endpoint score) (1 RCT, n = 60, MD 0.00, 95% CI ‐0.49 to 0.49) or movement disorders (EPSEs) (3 RCTs, n = 199, RR 0.94, 95% CI 0.61 to 1.45), both very low‐quality evidence. More people left the study early for any reason from the zuclopenthixol group (6 RCTs, n = 766, RR 0.54, 95% CI 0.36 to 0.81, low‐quality evidence). 
+3. chlorprothixene 
+There was no clear difference in numbers leaving the study early for any reason (1 RCT, n = 20, RR 1.00, 95% CI 0.34 to 2.93, very low‐quality evidence). 
+4. clozapine 
+No useable data were presented.
+5. haloperidol 
+No clear differences between treatment groups were found for the outcomes global state score (average CGI endpoint score) (1 RCT, n = 49, MD 0.13, 95% CI ‐0.30 to 0.55) or leaving the study early (2 RCTs, n = 141, RR 0.99, 95% CI 0.72 to 1.35), both very low‐quality evidence. 
+6. perphenazine 
+Those receiving zuclopenthixol were more likely to require medication in the short term for EPSEs than perphenazine (1 RCT, n = 50, RR 1.90, 95% CI 1.12 to 3.22, very low‐quality evidence). Similar numbers left the study early (2 RCTs, n = 104, RR 0.63, 95% CI 0.27 to 1.47, very low‐quality evidence). 
+7. risperidone 
+Those receiving zuclopenthixol were more likely to require medications for EPSEs than risperidone (1 RCT, n = 98,RR 1.92, 95% CI 1.12 to 3.28, very low quality evidence). There was no clear difference in numbers leaving the study early ( 3 RCTs, n = 154, RR 1.30, 95% CI 0.84 to 2.02) or in mental state (average PANSS total endpoint score) (1 RCT, n = 25, MD ‐3.20, 95% CI ‐7.71 to 1.31), both very low‐quality evidence). 
+8. sulpiride 
+No clear differences were found for global state (average CGI endpoint score) ( 1 RCT, n = 61, RR 1.18, 95% CI 0.49 to 2.85, very low‐quality evidence), requiring hypnotics/sedatives (1 RCT, n = 61, RR 0.60, 95% CI 0.27 to 1.32, very low‐quality evidence) or leaving the study early (1 RCT, n = 61, RR 2.07 95% CI 0.97 to 4.40, very low‐quality evidence). 
+9. thiothixene 
+No clear differences were found for the outcomes of 'global state (average CGI endpoint score) (1 RCT, n = 20, RR 0.50, 95% CI 0.17 to 1.46) or leaving the study early (1 RCT, n = 20, RR 0.57, 95% CI 0.24 to 1.35), both very low‐quality evidence). 
+10. trifluoperazine 
+No useable data were presented.
+11. zuclopenthixol depot 
+There was no clear difference in numbers leaving the study early (1 RCT, n = 46, RR 1.95, 95% CI 0.36 to 10.58, very low‐quality evidence). 
+12. Zuclopenthixol dihydrochloride (cis z isomer) versus zuclopenthixol (cis z/trans e isomer) 
+There were no clear differences in reported side‐effects ( 1 RCT, n = 57, RR 1.34, 95% CI 0.82 to 2.18, very low‐quality evidence) and in numbers leaving the study early (4 RCTs, n = 140, RR 2.15, 95% CI 0.49 to 9.41, very low‐quality evidence). 
+Authors' conclusions
+Zuclopenthixol dihydrochloride appears to cause more EPSEs than clozapine, risperidone or perphenazine, but there was no difference in EPSEs when compared to placebo or chlorpromazine. Similar numbers required hypnotics/sedatives when zuclopenthixol dihydrochloride was compared to sulpiride, and similar numbers of reported side‐effects were found when its isomers were compared. The other comparisons did not report adverse‐effect data. 
+Reported data indicate zuclopenthixol dihydrochloride demonstrates no difference in mental or global states compared to placebo, chlorpromazine, chlorprothixene, clozapine, haloperidol, perphenazine, sulpiride, thiothixene, trifluoperazine, depot and isomers. Zuclopenthixol dihydrochloride, when compared with risperidone, is favoured when assessed using the PANSS in the short term, but not in the medium term. 
+The data extracted from the included studies are mostly equivocal, and very low to low quality, making it difficult to draw firm conclusions. Prescribing practice is unlikely to change based on this meta‐analysis. Recommending any particular course of action about side‐effect medication other than monitoring, using rating scales and clinical assessment, and prescriptions on a case‐by‐case basis, is also not possible. 
+There is a need for further studies covering this topic with more antipsychotic comparisons for currently relevant outcomes. 

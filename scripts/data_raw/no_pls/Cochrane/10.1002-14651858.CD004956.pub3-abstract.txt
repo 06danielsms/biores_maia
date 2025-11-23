@@ -1,0 +1,29 @@
+Background
+Bisphosphonates are considered to be the treatment of choice for people with Paget's disease of bone. However, the effects of bisphosphonates on patient‐centred outcomes have not been extensively studied. There are insufficient data to determine whether reducing and maintaining biochemical markers of bone turnover to within the normal range improves quality of life and reduces the risk of complications. 
+Objectives
+To assess the benefits and harms of bisphosphonates for adult patients with Paget's disease of bone. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, Embase, ISI Web of Knowledge and trials registers up to March 2017. We searched regulatory agency published information for rare adverse events. 
+Selection criteria
+Randomised controlled trials (RCTs) of bisphosphonates as treatment for Paget's disease in adults. 
+Data collection and analysis
+Two review authors independently screened search results, extracted data and assessed studies for risk of bias. We used standard methodological procedures expected by The Cochrane Collaboration. 
+Main results
+We included 20 trials (25 reports, 3168 participants). Of these, 10 trials (801 participants) compared bisphosphonates (etidronate, tiludronate, ibandronate, pamidronate, olpadronate, alendronate, risedronate, zoledronate) versus placebo, seven compared two bisphosphonates (992 participants), one trial compared a bisphosphonates with a bisphosphonate plus calcitonin (44 participants), and two studies, the largest trial (1331 participants) and its interventional extension study (502 participants), compared symptomatic treatment and intensive treatment where the goal was to normalise alkaline phosphatase. 
+Most studies were assessed at low or unclear risk of bias. Six of 10 studies comparing bisphosphonates versus placebo were assessed at high risk of bias, mainly around incomplete outcome data and selective outcome reporting. 
+Participant populations were reasonably homogeneous in terms of age (mean age 66 to 74 years) and sex (51% to 74% male). Most studies included participants who had elevated alkaline phosphatase levels whether or not bone pain was present. Mean follow‐up was six months. 
+Bisphosphonates versus placebo 
+Bisphosphonates tripled the proportion (31% versus 9%) of participants whose bone pain disappeared (RR 3.42, 95% confidence interval (CI) 1.31 to 8.90; 2 studies, 205 participants; NNT 5, 95% CI 1 to 31; moderate‐quality evidence). This result is clinically important. Data were consistent when pain change was measured as any reduction (RR 1.97, 95% CI 1.29 to 3.01; 7 studies, 481 participants). 
+There was uncertainty about differences in incident fractures: 1.4% fractures occurred in the bisphosphonates group and none in the placebo group (RR 0.89, 95% CI 0.18 to 4.31; 4 studies, 356 participants; very low‐quality evidence). 
+None of the studies reported data on orthopaedic surgery, quality of life or hearing thresholds. 
+Results regarding adverse effects and treatment discontinuation were uncertain. There was a 64% risk of mild gastrointestinal adverse events in intervention group participants and 48% in the control group (RR 1.32, 95% CI 0.91 to 1.92; 6 studies, 376 participants; low‐quality evidence). The likelihood of study participants discontinuing due to adverse effects was slightly higher in intervention group participants (4.4%) than the control group (4.1%) (RR 1.01, 95% CI 0.41 to 2.52; 6 studies, 517 participants; low‐quality evidence). Zoledronate was associated with an increased risk of transient fever or fatigue (RR 2.57, 95% CI 1.21 to 5.44; 1 study, 176 participants; moderate‐quality evidence). 
+Bisphosphonates versus active comparator 
+More participants reported pain relief with zoledronate than pamidronate (RR 1.30, 95% CI 1.10 to 1.53; 1 study, 89 participants; NNT 5, 95% CI 3 to 11) or risedronate (RR 1.36, 95% CI 1.06 to 1.74; 1 study, 347 participants; NNT 7, 95% CI 4 to 24; very low quality evidence). This result is clinically important. 
+There was insufficient evidence to confirm or exclude differences in adverse effects of bisphosphonates (RR 1.05, 95% CI 0.95 to 1.76; 2 studies, 437 participants; low‐quality evidence) and treatment discontinuation (2 studies, 437 participants) (RR 2.04, 95% CI 0.43 to 9.59; 2 studies, 437 participants; very low‐quality evidence). 
+Intensive versus symptomatic treatment 
+There was no consistent evidence of difference to response in bone pain, bodily pain or quality of life in participants who received intensive versus symptomatic treatment. 
+Inconclusive results were observed regarding fractures and orthopaedic procedures for intensive versus symptomatic treatment (intensive treatment for fracture: RR 1.84, 95% CI 0.76 to 4.44; absolute risk 8.1% versus 5.2%; orthopaedic procedures: RR 1.58, 95% CI 0.80 to 3.11; absolute risk 5.6% versus 3.0%; 1 study, 502 participants; low‐quality evidence). 
+There was insufficient evidence to confirm or exclude an important difference in adverse effects between intensive and symptomatic treatment (RR 1.05, 95% CI 0.79 to 1.41; low‐quality evidence). 
+There was insufficient evidence to confirm or exclude an important difference of risk of rare adverse events (including osteonecrosis of the jaw) from the regulatory agencies databases. 
+Authors' conclusions
+We found moderate‐quality evidence that bisphosphonates improved pain in people with Paget's disease of bone when compared with placebo. We are uncertain about the results of head‐to‐head studies investigating bisphosphonates. We found insufficient evidence of benefit in terms of pain or quality of life from intensive treatment. Information about adverse effects was limited, but serious side effects were rare, and rate of withdrawals due to side effects was low. 

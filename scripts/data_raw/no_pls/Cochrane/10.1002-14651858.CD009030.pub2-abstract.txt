@@ -1,0 +1,14 @@
+Background
+Immobilisation and early motion (protected or unrestricted) are both used following hyperextension injuries to the proximal interphalangeal (PIP) joint of the finger. 
+Objectives
+To assess the effects of conservative interventions (non‐surgical management) for treating hyperextension injuries of the proximal interphalangeal joints of the fingers. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (January 2012), the Cochrane Central Register of Controlled Trials (in The Cochrane Library 2012, Issue 1), MEDLINE (1946 to January Week 2 2012), EMBASE (1980 to 2012 Week 03), CINAHL (1950 to 24 January 2012), PEDro (1929 to March 2012), trial registers and reference lists of articles. 
+Selection criteria
+Randomised and quasi‐randomised studies comparing immobilisation/protected mobilisation/unrestricted mobilisation in participants with PIP joint hyperextension injuries managed non‐surgically. 
+Data collection and analysis
+Two review authors independently assessed risk of bias and extracted data. There was no pooling of data. 
+Main results
+Three trials involving 366 people were identified. All three trials, which were over 15 years old, were methodologically flawed with unclear or high risk of bias. None of the studies reported on self assessment of function. One trial compared unrestricted mobility with immobilisation; one trial compared protected mobilisation with immobilisation; and the remaining trial compared immobilisation for one week versus three weeks. None of these trials found statistically significant differences between their intervention groups in various measures of poor outcome, pain and range of movement at six months follow‐up. This lack of difference applied at three years for the comparison between unrestricted mobility with immobilisation. 
+Authors' conclusions
+There is insufficient evidence from trials testing the need for, and the extent and duration of, immobilisation to inform on the key conservative management decisions for treating hyperextension injuries of the proximal interphalangeal joints. 

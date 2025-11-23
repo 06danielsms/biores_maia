@@ -1,0 +1,14 @@
+Background
+Quinine is used for treating severe malaria. There are arguments for giving an initial high dose. We examined the evidence for and against this policy. 
+Objectives
+To assess the clinical outcomes and adverse events of a high first (loading) dose regimen of quinine compared with a uniform (no loading) dose regimen in people with severe malaria. 
+Search methods
+We searched the Cochrane Infectious Diseases Group Specialized Register (February 2009), CENTRAL (The Cochrane Library Issue 1, 2009), MEDLINE (1966 to February 2009), EMBASE (1974 to February 2009), LILACS (1982 to February 2009), and conference proceedings for relevant abstracts. We also contacted researchers working in the field and checked the reference lists of all studies. 
+Selection criteria
+Randomized controlled trials comparing a high first (loading) dose of intravenous quinine with a uniform (no loading) dose of intravenous quinine in people with severe malaria. 
+Data collection and analysis
+Two reviewers independently assessed the risk of bias in the trials and extracted data (including adverse event data). We used Review Manager 5.0 to analyse the data: risk ratio (RR) for binary data and mean difference (MD) for continuous data with 95% confidence intervals (CI). We contacted study authors for additional information. 
+Main results
+Four trials (n = 144) met the inclusion criteria. Loading dose was associated with fewer deaths, but this was not statistically significant (RR 0.62, 95% CI 0.19 to 2.04; 3 trials). Loading dose was associated with faster clearance of parasites (WMD ‐7.44 hours, 95% CI ‐13.24 to ‐1.64 hours; 2 trials), resolution of fever (WMD ‐11.11 hours, 95% CI ‐20.04 to ‐2.18 hours; 2 trials). No statistically significant difference was detected for recovery of consciousness, neurological sequelae, or convulsions, but the numbers were small. 
+Authors' conclusions
+Quinine loading dose reduced fever clearance time and parasite clearance time. Data are insufficient to directly demonstrate an impact of loading dose on risk of death. 

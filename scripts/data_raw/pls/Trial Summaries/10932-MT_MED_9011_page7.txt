@@ -1,0 +1,17 @@
+Clinical Study Results
+
+Albuterol sulfate:
+- The amount of albuterol sulfate in the blood when the participants took albuterol sulfate only was 3,637 pg*h/mL. These results include 90 of the 91 participants.
+- The amount of albuterol sulfate in the blood when the participants took budesonide and albuterol sulfate together was 3,373 pg*h/mL. These results include 89 of the 91 participants.
+
+Amount of albuterol sulfate in the blood until the amounts became too low for the researchers to measure:
+- Albuterol sulfate only: 3,637 pg*h/mL
+- Budesonide and albuterol sulfate together: 3,373 pg*h/mL
+
+Highest amount of the drugs in the blood during the 24 hours after treatment:
+- Albuterol sulfate only: 3,637 pg*h/mL
+- Budesonide and albuterol sulfate together: 3,373 pg*h/mL
+
+Budesonide:
+- The highest amount of budesonide in the blood when the participants took budesonide only was 317 pg/mL. These results include 89 of the 91 participants.
+- The highest amount of budesonide in the blood when the participants took budesonide and albuterol sulfate together was 273 pg/mL. These results include 88 of the 91 participants.

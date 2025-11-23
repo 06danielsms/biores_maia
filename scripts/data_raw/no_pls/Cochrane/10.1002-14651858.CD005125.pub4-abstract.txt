@@ -1,0 +1,14 @@
+Background
+One to eight per cent of women suffer third‐degree perineal tear (anal sphincter injury) and fourth‐degree perineal tear (rectal mucosa injury) during vaginal birth, and these tears are more common after forceps delivery (28%) and midline episiotomies. Third‐ and fourth‐degree tears can become contaminated with bacteria from the rectum and this significantly increases in the chance of perineal wound infection. Prophylactic antibiotics might have a role in preventing this infection. 
+Objectives
+To assess the effectiveness of antibiotic prophylaxis for reducing maternal morbidity and side effects in third‐ and fourth‐degree perineal tear during vaginal birth. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 August 2014) and the reference lists of retrieved articles. 
+Selection criteria
+Randomised controlled trials comparing outcomes of prophylactic antibiotics versus placebo or no antibiotics in third‐ and fourth‐degree perineal tear during vaginal birth. 
+Data collection and analysis
+Two review authors independently assessed the trial reports for inclusion and risk of bias, extracted data and checked them for accuracy. 
+Main results
+We identified and included one trial (147 women from a pre‐planned sample size of 310 women) that compared the effect of prophylactic antibiotic (single‐dose, second‐generation cephalosporin ‐ cefotetan or cefoxitin, 1 g intravenously) on postpartum perineal wound complications in third‐ or fourth‐degree perineal tears compared with placebo. Perineal wound complications (wound disruption and purulent discharge) at the two‐week postpartum check up were 8.20% and 24.10% in the treatment and the control groups respectively (risk ratio (RR) 0.34, 95% confidence interval (CI) 0.12 to 0.96). However, the high failed‐appointment rate may limit the generalisability of the results. The overall risk of bias was low except for incomplete outcome data. The quality of the evidence using GRADE was moderate for infection rate at two weeks' postpartum, and low for infection rate at six weeks' postpartum. 
+Authors' conclusions
+Although the data suggest that prophylactic antibiotics help to prevent perineal wound complications following third‐ or fourth‐degree perineal tear, loss to follow‐up was very high. The results should be interpreted with caution as they are based on one small trial. 

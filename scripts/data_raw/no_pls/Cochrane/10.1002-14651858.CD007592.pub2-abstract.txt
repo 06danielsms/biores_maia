@@ -1,0 +1,17 @@
+Background
+Dietary fluoride supplements were first introduced to provide systemic fluoride in areas where water fluoridation is not available. Since 1990, the use of fluoride supplements in caries prevention has been re‐evaluated in several countries. 
+Objectives
+To evaluate the efficacy of fluoride supplements for preventing dental caries in children.
+Search methods
+We searched the Cochrane Oral Health Group's Trials Register (to 12 October 2011), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2011, Issue 3), MEDLINE via Ovid (1950 to 12 October 2011), EMBASE via Ovid (1980 to 12 October 2011), WHOLIS/PAHO/MEDCARIB/LILACS/BBO via BIREME (1982 to 12 October 2011), and Current Controlled Trials (to 12 October 2011). We handsearched reference lists of articles and contacted selected authors. 
+Selection criteria
+We included randomised or quasi‐randomised controlled trials comparing, with minimum follow‐up of 2 years, fluoride supplements (tablets, drops, lozenges) with no fluoride supplement or with other preventive measures such as topical fluorides in children less than 16 years of age at the start. The main outcome was caries increment measured by the change in decayed, missing and filled tooth surfaces (DMFS). 
+Data collection and analysis
+Two review authors, independently and in duplicate, assessed the eligibility of studies for inclusion, and carried out risk of bias assessment and data extraction. In the event of disagreement, we sought consensus and consulted a third review author. We contacted trial authors for missing information. We used the prevented fraction (PF) as a metric for evaluating the efficacy of the intervention. The PF is defined as the mean caries increment in controls minus mean caries increment in the treated group divided by mean caries increment in controls. We conducted random‐effects meta‐analyses when data could be pooled. We assessed heterogeneity in the results of the studies by examining forest plots and by using formal tests for homogeneity. We recorded adverse effects (fluorosis) when the studies provided relevant data. 
+Main results
+We included 11 studies in the review involving 7196 children.
+In permanent teeth, when fluoride supplements were compared with no fluoride supplement (three studies), the use of fluoride supplements was associated with a 24% (95% confidence interval (CI) 16 to 33%) reduction in decayed, missing and filled surfaces (D(M)FS). The effect of fluoride supplements was unclear on deciduous or primary teeth. In one study, no caries‐inhibiting effect was observed on deciduous teeth while in another study, the use of fluoride supplements was associated with a substantial reduction in caries increment. 
+When fluoride supplements were compared with topical fluorides or with other preventive measures, there was no differential effect on permanent or deciduous teeth. 
+The review found limited information on the adverse effects associated with the use of fluoride supplements. 
+Authors' conclusions
+This review suggests that the use of fluoride supplements is associated with a reduction in caries increment when compared with no fluoride supplement in permanent teeth. The effect of fluoride supplements was unclear on deciduous teeth. When compared with the administration of topical fluorides, no differential effect was observed. We rated 10 trials as being at unclear risk of bias and one at high risk of bias, and therefore the trials provide weak evidence about the efficacy of fluoride supplements. 

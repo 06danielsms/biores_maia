@@ -1,0 +1,15 @@
+Background
+Many treatments are available for whiplash patients but there is little scientific evidence for their accepted use. Patients with whiplash‐associated disorders (WAD) can be classified by the severity of signs and symptoms from Grade 0 (no complaints or physical signs) to Grade 4 (fracture or dislocation). 
+Objectives
+To assess the effectiveness of conservative treatment for patients with whiplash injuries rated as Grades 1 or 2 (neck and musculoskeletal complaints). 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (The Cochrane Library, 2006, Issue 3), MEDLINE, CINAHL, PsycINFO, and PEDro to November 2006 and screened references of identified randomised trials and relevant systematic reviews. 
+Selection criteria
+We selected randomised controlled trials published in English, French, German or Dutch, that included patients with a whiplash‐injury, conservative interventions, outcomes of pain, global perceived effect or participation in daily activities. 
+Data collection and analysis
+Two authors independently assessed the methodological quality using the Delphi criteria and extracted the data onto standardised data‐extraction forms. We did not pool the results because of the heterogeneity of the population, intervention and outcomes and lack of data. A pre‐planned stratified analysis was performed for three different comparisons. 
+Main results
+Twenty‐three studies (2344 participants) were included in this update, including nine new studies. A broad variety of conservative interventions were evaluated. Two studies included patients with chronic symptoms (longer than three months), two included subacute (four to six weeks) symptoms, two had undefined duration of symptoms, and 17 studied patients with acute (less than three weeks) symptoms. Only eight studies (33.3%) satisfied one of our criteria of high quality, indicating overall, a poor methodological quality. Interventions were divided into passive (such as rest, immobilisation, ultrasound, etc) and active interventions (such as exercises, act as usual approach, etc.) and were compared with no treatment, a placebo or each other. 
+Clinical and statistical heterogeneity and lack of data precluded pooling. Individual studies demonstrated effectiveness of one treatment over another, but the comparisons were varied and results inconsistent. Therefore, the evidence neither supports nor refutes the effectiveness of either passive or active treatments to relieve the symptoms of WAD, Grades 1 or 2. 
+Authors' conclusions
+The current literature is of poor methodological quality and is insufficiently homogeneous to allow the pooling of results. Therefore, clearly effective treatments are not supported at this time for the treatment of acute, subacute or chronic symptoms of whiplash‐associated disorders. 

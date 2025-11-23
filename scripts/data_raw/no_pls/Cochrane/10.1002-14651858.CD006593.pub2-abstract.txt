@@ -1,0 +1,14 @@
+Background
+Amniotic fluid volume is an important parameter in the assessment of fetal well‐being. Oligohydramnios occurs in many high‐risk conditions and is associated with poor perinatal outcomes. Many caregivers practice planned delivery by induction of labor or caesarean section after diagnosis of decreased amniotic fluid volume at term. There is no clear consensus on the best method to assess amniotic fluid adequacy. 
+Objectives
+To compare the use of the amniotic fluid index with the single deepest vertical pocket measurement as a screening tool for decreased amniotic fluid volume in preventing adverse pregnancy outcome. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (January 2009), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2008, Issue 4), MEDLINE (1966 to January 2008) and the metaRegister of Controlled Trials (December 2008). We handsearched the citation lists of relevant publications, review articles, and included studies. 
+Selection criteria
+Randomised controlled trials involving women with a singleton pregnancy, whether at low or high risk, undergoing ultrasound measurement of amniotic fluid volume as part of antepartum assessment of fetal well‐being that compared the amniotic fluid index and the single deepest vertical pocket measurement. 
+Data collection and analysis
+Both authors independently assessed eligibility and quality, and extracted the data.
+Main results
+Five trials (3226 women) met the inclusion criteria. There is no evidence that one method is superior to the other in the prevention of poor peripartum outcomes, including: admission to a neonatal intensive care unit (Risk Ratio (RR) 1.04; 95% Confidence Intervals (CI) 0.85 to 1.26); an umbilical artery pH of less than 7.1; the presence of meconium; an Apgar score of less than 7 at five minutes; or caesarean delivery. When the amniotic fluid index was used, significantly more cases of oligohydramnios were diagnosed (RR 2.39, 95% CI 1.73 to 3.28), and more women had inductions of labor (RR 1.92; 95% CI 1.50 to 2.46) and caesarean delivery for fetal distress (RR 1.46; 95% CI 1.08 to 1.96) 
+Authors' conclusions
+The single deepest vertical pocket measurement in the assessment of amniotic fluid volume during fetal surveillance seems a better choice since the use of the amniotic fluid index increases the rate of diagnosis of oligohydramnios and the rate of induction of labor without improvement in peripartum outcomes. A systematic review of the diagnostic accuracy of both methods in detecting decreased amniotic fluid volume is required. 

@@ -1,0 +1,14 @@
+Background
+Oral submucous fibrosis (OSF) is a chronic disease of the oral cavity which is more commonly found in patients in the Asian subcontinent and the Far East. It is characterised by the progressive build up of constricting bands of collagen in the cheeks and adjacent structures of the mouth which can severely restrict mouth opening and tongue movement and cause problems with speech and swallowing. 
+Objectives
+To assess the effectiveness of interventions for the management of pain and restricted jaw opening or movement occurring as a result of oral submucous fibrosis. 
+Search methods
+We searched the Cochrane Oral Health Group's Trials Register to July 2008; CENTRAL (The Cochrane Library 2008, Issue 2); MEDLINE (from 1950 to July 2008); EMBASE (from 1980 to July 2008) and IndMED on 18th November 2007. There were no language restrictions. 
+Selection criteria
+Randomised controlled trials comparing surgical interventions, systemic or topical medicines or other interventions to manage the symptoms of oral submucous fibrosis. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted trial data. Disagreements were resolved by consultation with a third author. Attempts were made to contact study authors where necessary for clarification and for additional information. 
+Main results
+Two trials, involving 87 participants, evaluated lycopene in conjunction with intralesional injections of a steroid, and pentoxifylline in combination with mouth stretching exercises and heat. Only two of the primary but none of the secondary outcomes of this review were considered in these trials and provided a limited amount of unreliable data. The data in one trial were based on inadequately defined evaluations of outcomes, and in the other trial are likely to be skewed due to a substantial number of withdrawals and therefore were not entered into the RevMan analyses. There were no reports of toxicity to the interventions but some side effects, which were mostly gastric irritation to pentoxifylline, were noted. 
+Authors' conclusions
+The lack of reliable evidence for the effectiveness of any specific interventions for the management of oral submucous fibrosis is illustrated by the paucity, and poor methodological quality, of trials retrieved for this review. 

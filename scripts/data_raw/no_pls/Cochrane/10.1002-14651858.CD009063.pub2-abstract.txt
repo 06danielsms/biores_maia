@@ -1,0 +1,16 @@
+Background
+Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) is a condition that is detrimental to the quality of life of men. Evidence suggests that it may have a neuropathic origin and therefore medications such as pregabalin might have a role in the controlling of symptoms. 
+Objectives
+The primary objective was to compare pregabalin to other modalities of pain relief to alleviate men's symptoms of CP/CPPS. 
+The secondary objective was to assess the safety and effectiveness of pregabalin to improve various individual symptoms consistent with CP/CPPS. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE (1966 to May 2012), EMBASE (1980 to May 2012), CINAHL, clinicaltrials.gov, Google Scholar, and reference lists of articles and abstracts from conference proceedings, without language restriction for pregabalin treatment of Class III prostatitis and CP/CPPS. 
+Selection criteria
+Randomized controlled trials (RCTs) comparing pregabalin to placebo or other types of analgesics for the management of patients with CP/CPPS were included. Patients with known causes of pain/discomfort were excluded. 
+Data collection and analysis
+Only one RCT was included. The trial compared pregabalin to placebo for patients who had CP/CPPS. 
+Main results
+For men who responded clinically (≥ 6‐point improvement), there was no difference between the pregabalin (103/218; 47.2%) and placebo (38/106; 35.8%) arms (risk ratio (RR) 1.32; 95% CI 0.99 to 1.76). There was less pain with a higher point improvement in the pregabalin group compared to the placebo group (4.2 points versus 1.7 points, respectively; mean difference (MD) ‐2.3 points; 95% CI ‐4.0 to ‐0.7 points). 
+Though 59% (191/324) of the patients developed side effects, no serious effects were experienced. There were significantly more neurologic side effects in the pregabalin group compared to the placebo group (38.5% (84/218) versus 22.6% (24/106), respectively; RR 1.7; 95% CI 1.15 to 2.51), and less pain in the pregabalin group than in the placebo group (17.4% (38/218) versus 33.3% (35/106), respectively; RR 0.53; 95% CI 0.36 to 0.78). However, no significant differences were seen between the pregabalin and placebo groups with regards to gastrointestinal disturbances (18.3% (40/218) versus 18.9% (20/106), respectively; RR 0.97; 95% CI 0.60 to 1.58), ocular/visual symptoms (6.9% (15/218) versus 2.8% (3/106), respectively; RR 2.43; 95% CI 0.72 to 8.22), and renal/genitourinary symptoms (5.5% (12/218) versus 1.9% (2/106), respectively; RR 3.03; 95% CI 0.67 to 13.79). 
+Authors' conclusions
+There is evidence from one RCT that pregabalin does not improve CP/CPPS symptoms and causes adverse effects in a large percentage of men. However, research is required to assess further whether pregabalin has a role in patients with CP/CPPS for symptom control. 

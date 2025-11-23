@@ -1,0 +1,16 @@
+Background
+Tuberculosis (TB) is an important cause of illness and death in HIV‐positive children living in areas of high TB prevalence. We know that isoniazid prophylaxis prevents TB in HIV‐negative children following TB exposure, but there is uncertainty related to its role in TB preventive treatment in HIV‐positive children. 
+Objectives
+To summarise the effects of TB preventive treatment versus placebo in HIV‐positive children with no known TB contact on active TB, death, and reported adverse events. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed, Embase and two trial registers up to February 2017. 
+Selection criteria
+We included trials of HIV‐positive children with and without known TB exposure, randomized to receive TB preventive treatment or placebo. 
+Data collection and analysis
+Two review authors independently used the study selection criteria, assessed risk of bias, and extracted data. We assessed effects using risk, incidence rate and hazard ratios and assessed the certainty of evidence using GRADE. 
+Main results
+We included three trials, involving 991 participants, below the age of 13 years, from South Africa and Botswana. Children were randomized to isoniazid prophylaxis or placebo, given daily or three times weekly. The median length of follow‐up ranged from 5.7 to 34 months; some were on antiretroviral therapy (ART). 
+In HIV‐positive children not on ART, isoniazid prophylaxis may reduce the risk of active TB (hazard ratio (HR) 0.31, 95% confidence interval (CI) 0.11 to 0.87; 1 trial, 240 participants, low certainty evidence), and death (HR 0.46, 95% CI 0.22 to 0.95; 1 trial, 240 participants, low certainty evidence). One trial (182 participants) reported number of children with laboratory adverse events, which was similar between the isoniazid prophylaxis and placebo groups. No clinical adverse events were reported. 
+In HIV‐positive children on ART, we do not know if isoniazid prophylaxis reduces the risk of active TB (risk ratio (RR) 0.76, 95% CI 0.50 to 1.14; 3 trials, 737 participants, very low certainty evidence) or death (RR 1.45, 95% CI 0.78 to 2.72; 3 trials, 737 participants, very low certainty evidence). Two trials (714 participants) reported number of clinical adverse events and three trials (795 participants) reported number of laboratory adverse events; for both categories, the number of adverse events were similar between the isoniazid prophylaxis and placebo groups. 
+Authors' conclusions
+Isoniazid prophylaxis given to all children diagnosed with HIV may reduce the risk of active TB and death in HIV‐positive children not on ART in studies from Africa. For children on ART, no clear benefit was detected. . 

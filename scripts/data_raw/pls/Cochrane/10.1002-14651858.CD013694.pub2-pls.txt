@@ -1,0 +1,34 @@
+How accurate are sputum Xpert tests for screening for active pulmonary tuberculosis and rifampicin resistance in adults whether or not they have tuberculosis symptoms? 
+Why is using Xpert tests to screen for pulmonary tuberculosis important? 
+Tuberculosis is the leading cause of infectious disease‐related death and one of the top 10 causes of death worldwide. The World Health Organization (WHO) recommends using specific rapid tests as initial tests for diagnosing tuberculosis and rifampicin resistance in people with signs and symptoms of tuberculosis. However, the WHO estimates that nearly one‐third of all active tuberculosis cases go undiagnosed and unreported. Not recognizing tuberculosis when it is present (a false negative test result) may result in illness and death and an increased risk of infecting others. An incorrect diagnosis of tuberculosis (false‐positive result) may mean that people are given antibiotics when there is no benefit to be gained. 
+What is the aim of this review? 
+To estimate the accuracy of Xpert MTB/RIF and Xpert Ultra as screening tests for pulmonary tuberculosis and rifampicin resistance in adults whether or not they have tuberculosis symptoms (such as cough, fever, weight loss, and night sweats). We were interested in how the tests worked in groups at high risk for tuberculosis, including people living with HIV (PLHIV), household contacts of people with tuberculosis, miners, people residing in prisons, people with diabetes, and in the general public. 
+What was studied in this review? 
+Xpert MTB/RIF and Xpert Ultra are rapid tests for simultaneously diagnosing tuberculosis and rifampicin resistance. We combined study results to determine: 
+‐ sensitivity: people with tuberculosis (rifampicin resistance) correctly diagnosed as having the condition. 
+‐ specificity: people without tuberculosis (rifampicin resistance) correctly identified as not having the condition. 
+The closer sensitivity and specificity are to 100%, the better the test.
+What are the main results in this review? 
+Twenty‐one studies: 18 studies (13,114 participants) evaluated Xpert MTB/RIF as a screening test for pulmonary tuberculosis and one study (571 participants) evaluated both Xpert MTB/RIF and Xpert Ultra. Three studies (159 participants) evaluated Xpert MTB/RIF for rifampicin resistance. 
+For every 1000 people tested, if 50 had tuberculosis according to the reference standard:
+PLHIV 
+‐ Xpert MTB/RIF (12 studies):
+· 40 people would test positive, including 9 without tuberculosis (62% sensitivity)
+· 960 people would test negative, including 19 with tuberculosis (99% specificity)
+‐ Xpert Ultra (1 study):
+· 53 people would test positive, including 19 without tuberculosis (69% sensitivity)
+· 947 people would test negative, including 16 with tuberculosis (98% specificity)
+For every 1000 people tested, if 10 had tuberculosis according to the reference standard:
+Other high‐risk groups combined 
+‐ Xpert MTB/RIF (5 studies):
+· 19 people would test positive, including 12 without tuberculosis (69% sensitivity)
+· 981 people would test negative, including 3 with tuberculosis (99% specificity)
+For detection of rifampicin resistance, Xpert MTB/RIF sensitivity was 81% and 100% (2 studies) and specificity was 94% to 100% (3 studies). 
+How reliable are the results of the studies in this review? 
+In the included studies, the reference standards for diagnosing pulmonary tuberculosis (culture) and rifampicin resistance (drug susceptibility testing) are likely to have been reliable methods for deciding whether patients really had the conditions. We were fairly confident in the results for Xpert MTB/RIF in PLHIV, and less so for other high‐risk groups. Not enough people have been studied to be confident about the results for Xpert Ultra or for detection of rifampicin resistance. 
+Who do the results of this review apply to? 
+Studies were mainly performed in high tuberculosis and high HIV burden settings. No studies evaluated the tests in people with diabetes mellitus or the general population. 
+What are the implications of this review? 
+In PLHIV, Xpert MTB/RIF as a screening test was accurate for tuberculosis in high tuberculosis burden settings. In high‐risk groups, Xpert MTB/RIF may assist in identifying tuberculosis, but the certainty of evidence is low. In PLHIV, Xpert Ultra sensitivity was slightly higher than that of Xpert MTB/RIF and specificity similar based on one study. There were few studies and few people tested for rifampicin resistance and no studies that evaluated the tests in people with diabetes or in the general population. 
+How up‐to‐date is this review? 
+19 March 2020.

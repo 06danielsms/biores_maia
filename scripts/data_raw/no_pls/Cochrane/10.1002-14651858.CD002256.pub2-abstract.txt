@@ -1,0 +1,14 @@
+Background
+Urinary tract infections, including pyelonephritis, are serious complications that may lead to significant maternal and neonatal morbidity and mortality. There is a large number of drugs, and combination of them, available to treat urinary tract infections, most of them tested in non‐pregnant women. Attempts to define the optimal antibiotic regimen for pregnancy have, therefore, been problematic. 
+Objectives
+The objective of this review was to determine, from the best available evidence from randomised controlled trials, which agent is the most effective for the treatment of symptomatic urinary tract infections during pregnancy in terms of cure rates, recurrent infection, incidence of preterm delivery and premature rupture of membranes, admission to neonatal intensive care unit, need for change of antibiotic, and incidence of prolonged pyrexia. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group Trials Register (November 2009) and reference lists of articles. 
+Selection criteria
+We considered all trials where the intention was to allocate participants randomly to one of at least two alternative treatments for any symptomatic urinary tract infection. 
+Data collection and analysis
+Both review authors assessed trial quality and extracted data.
+Main results
+We included 10 studies, recruiting a total of 1125 pregnant women. In most of the comparisons there were no significant differences between the treatments under study with regard to cure rates, recurrent infection, incidence of preterm delivery, admission to neonatal intensive care unit, need for change of antibiotic and incidence of prolonged pyrexia. When cefuroxime and cephradine were compared, there were better cure rates (29/49 versus 41/52) and fewer recurrences (20/49 versus 11/52) in the cefuroxime group. There was only one other statistically significant difference when comparing outpatient versus inpatient treatment. Gestational age at birth was greater in women from the outpatient group (38.86 versus 37.21), while birthweight was on average greater in the inpatient group (3120 versus 2659). 
+Authors' conclusions
+Although antibiotic treatment is effective for the cure of urinary tract infections, there are insufficient data to recommend any specific drug regimen for treatment of symptomatic urinary tract infections during pregnancy. All the antibiotics studied were shown to be very effective in decreasing the incidence of the different outcomes. Complications were very rare. All included trials had very small sample sizes to reliably detect important differences between treatments. Future studies should evaluate the most promising antibiotics, in terms of class, timing, dose, acceptability, maternal and neonatal outcomes and costs. 

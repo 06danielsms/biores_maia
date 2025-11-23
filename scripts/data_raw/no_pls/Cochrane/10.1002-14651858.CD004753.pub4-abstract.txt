@@ -1,0 +1,17 @@
+Background
+Endometriosis is a common gynaecological condition that affects women and can lead to painful symptoms and infertility. It greatly affects women's quality of life, impacting their careers, everyday activities, sexual and nonsexual relationships and fertility. Nonsteroidal anti‐inflammatory drugs (NSAIDs) are most commonly used as first‐line treatment for women with pain associated with endometriosis. 
+Objectives
+To assess effects of NSAIDs used for management of pain in women with endometriosis compared with placebo, other NSAIDs, other pain management drugs or no treatment. 
+Search methods
+We searched the Cochrane Gynaecology and Fertility Group Specialised Register of Controlled Trials (October 2016), published in the Cochrane Central Register of Controlled Trials (CENTRAL) in the Cochrane Library, as well as MEDLINE (January 2008 to October 2016), Embase (date limited from 1 January 2016 to 19 October 2016, as all earlier references are included in CENTRAL output as a result of the Embase project), registers of ongoing trials and the reference lists of relevant publications. We identified no new randomised controlled trials. Unless we identify new evidence in the future, we will not update this review. 
+Selection criteria
+We included all randomised controlled trials (RCTs) describing use of NSAIDs for management of pain associated with endometriosis in women of all ages. 
+Data collection and analysis
+In the 2009 update of this review, two review authors (CA and SH) independently read and extracted data from each of the included studies. We analysed cross‐over trials using the inverse variance method of RevMan to calculate odds ratios for binary outcomes. 
+Main results
+We identified no new trials for the 2016 update. This review includes two trials, but we included only one trial, with 24 women, in the analyses. 
+The overall risk of bias was unclear owing to lack of methodological detail. Using the GRADE method, we judged the quality of the evidence to be very low. We downgraded evidence for risk of bias and for imprecision (wide confidence intervals and evidence based on a single small trial). 
+Comparison of NSAIDs (naproxen) versus placebo revealed no evidence of a positive effect on pain relief (odds ratio (OR) 3.27, 95% confidence interval (CI) 0.61 to 17.69; one trial, 24 women; very low‐quality evidence) in women with endometriosis. Evidence indicating whether women taking NSAIDs (naproxen) were less likely to require additional analgesia (OR 0.12, 95% CI 0.01 to 1.29; one trial, 24 women; very low‐quality evidence) or to experience side effects (OR 0.46, 95% CI 0.09 to 2.47; one trial, 24 women; very low‐quality evidence) when compared with placebo was inconclusive. 
+Studies provided no data on quality of life, effects on daily activities, absence from work or school, need for more invasive treatment or participant satisfaction with treatment. 
+Authors' conclusions
+Owing to lack of high‐quality evidence and lack of reporting of outcomes of interest for this review, we can make no judgement as to whether NSAIDs (naproxen) are effective in managing pain caused by endometriosis. There is no evidence that one NSAID is more effective than another. As shown in other Cochrane reviews, women taking NSAIDs must be aware that these drugs may cause unintended effects. 

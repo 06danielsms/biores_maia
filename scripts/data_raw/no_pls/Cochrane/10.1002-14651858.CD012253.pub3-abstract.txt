@@ -1,0 +1,15 @@
+Background
+This is an updated version of the original Cochrane Review published in 2018, Issue 5. 
+Epilepsy affects over 70 million people worldwide, and nearly a quarter of patients with seizures have drug‐resistant epilepsy. People with drug‐resistant epilepsy have increased risks of premature death, injuries, psychosocial dysfunction, and a reduced quality of life. 
+Objectives
+To assess the efficacy and tolerability of clonazepam when used as an add‐on therapy for adults and children with drug‐resistant focal onset or generalised onset epileptic seizures, when compared with placebo or another antiepileptic agent. 
+Search methods
+For the latest update we searched the following databases on 4 June 2019: Cochrane Register of Studies (CRS Web), MEDLINE (Ovid) 1946 to 3 June, 2019. The Cochrane Register of Studies (CRS Web) includes the Cochrane Epilepsy Group Specialized Register, the Cochrane Central Register of Controlled Trials (CENTRAL), and randomised or quasi‐randomised, controlled trials from Embase, ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform (ICTRP). 
+Selection criteria
+Double‐blind randomised controlled studies of add‐on clonazepam in people with resistant focal or generalised onset seizures, with a minimum treatment period of eight weeks. The studies could be of parallel or cross‐over design. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, extracted relevant data, and assessed trial quality. We contacted study authors for additional information. 
+Main results
+We found no double‐blind randomised controlled trials which met the inclusion criteria.
+Authors' conclusions
+There is no evidence from double‐blind randomised controlled trials for or against the use of clonazepam as an add‐on therapy for adults and children with drug‐resistant focal or generalised onset epileptic seizures. Since the last version of this review no new studies have been found. 

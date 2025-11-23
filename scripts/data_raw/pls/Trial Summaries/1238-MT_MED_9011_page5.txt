@@ -1,0 +1,38 @@
+Clinical Trial Results
+
+Change in the amount of antibodies in the blood at Week 12
+
+Researchers measured the change in the amount of antibodies in the participants' blood. To do this, study doctors took blood samples throughout the study. At Week 12, researchers found that participants who got benralizumab and participants who got the placebo had a similar change in the amount of antibodies. This increase was similar across all 4 flu strains.
+
+Amount of antibodies in the blood at Week 12
+
+Researchers measured the amount of antibodies in the participants' blood at Week 12. They found that participants who got benralizumab and participants who got the placebo had similar amounts of antibodies. These amounts were similar across all 4 flu strains.
+
+Amount of antibodies at Week 12 of the study
+
+570.2
+600
+566.1
+500
+benralizumab seidobitna
+placebo
+400
+300
+263.7 fo
+206.3 rebmuN
+200
+100
+60.3 62.0 57.9 72.8
+0
+
+Strain 1 Strain 2 Strain 3 Strain 4
+
+Treatments
+
+Percentage of participants who had at least a 4 times increase in the amount of antibodies at Week 12 compared to Week 8
+
+Researchers measured the percentage of participants who had at least a 4 times increase in the amount of antibodies at Week 12 compared to Week 8. They found that the percentage of participants who had at least a 4 times increase in the amount of antibodies was similar between the benralizumab and placebo treatment groups. This percentage was similar across all 4 flu strains.
+
+Percentage of participants who had an increase of at least 40 antibodies at Week 12
+
+Researchers measured the percentage of participants who had at least 40 antibodies at Week 12. They found that the percentage of participants who had at least 40 antibodies was similar between the benralizumab and placebo treatment groups. This percentage was similar across all 4 flu strains.

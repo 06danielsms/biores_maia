@@ -1,0 +1,25 @@
+Clinical Trial Results
+
+What medical problems did participants have?
+A lot of research is needed to know whether a drug causes a medical problem. So, when new drugs are being studied, researchers keep track of all medical problems that participants have during the study. These medical problems are called "adverse events". They may or may not be caused by the study drug.
+
+How many participants had medical problems in the study?
+Overall, 16 participants (5.3%) had at least 1 medical problem. Thirteen out of the 240 participants (5.4%) who took the vaccine had at least 1 medical problem, and 3 out of 60 participants (5.0%) who took placebo had at least 1 medical problem.
+
+The table below shows how many participants had medical problems during the study by treatment group.
+
+Vaccine Placebo
+(Out of 240 participants) (Out of 60 participants)
+
+How many participants
+13 (5.4%) 3 (5.0%)
+had medical problems?
+
+How many participants had
+1 (0.4%) 0 (0.0%)
+serious medical problems?
+
+How many participants had serious medical problems?
+A medical problem is considered serious when it is life-threatening, causes lasting problems, or needs hospital care. One participant (0.4%) had a serious medical problem, a blood clot in the lungs, 88 days after getting the vaccine. This participant was taking another medication which can cause blood clots and the study doctors do not think this problem was related to the vaccine.
+
+No participants died during this study, and no participants stopped taking the study drug because of medical problems.

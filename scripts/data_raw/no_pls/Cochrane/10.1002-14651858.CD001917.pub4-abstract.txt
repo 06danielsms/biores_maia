@@ -1,0 +1,17 @@
+Background
+Recurrent endobronchial infection in cystic fibrosis requires treatment with intravenous antibiotics for several weeks usually in hospital, affecting health costs and quality of life for patients and their families. This is an update of a previously published review. 
+Objectives
+To determine whether home intravenous antibiotic therapy in cystic fibrosis is as effective as inpatient intravenous antibiotic therapy and if it is preferred by individuals or families or both. 
+Search methods
+We searched the Cochrane Cystic Fibrosis and Genetic Disorders Group Trials Register comprising references identified from comprehensive electronic database searches and handsearches of relevant journals and abstract books of conference proceedings. 
+Most recent search of the Group's Trials Register: 23 November 2015.
+Selection criteria
+Randomized and quasi‐randomized controlled studies of intravenous antibiotic treatment for adults and children with cystic fibrosis at home compared to in hospital. 
+Data collection and analysis
+The authors independently selected studies for inclusion in the review, assessed methodological quality of each study and extracted data using a standardised form. 
+Main results
+Eighteen studies were identified by the searches. Only one study could be included which reported results from 17 participants aged 10 to 41 years with an infective exacerbation of Pseudomonas aeruginosa. All their 31 admissions (18 hospital and 13 at home after two to four days of hospital treatment) were analysed as independent events. Outcomes were measured at 0, 10 and 21 days after initiation of treatment. Home participants underwent fewer investigations than hospital participants (P < 0.002) and general activity was higher in the home group. No significant differences were found for clinical outcomes, adverse events, complications or change of intravenous lines,or time to next admission. Home participants received less low‐dose home maintenance antibiotic. 
+Quality of life measures showed no significant differences for dyspnoea and emotional state, but fatigue and mastery were worse for home participants, possibly due to a higher general activity and need of support. Personal, family, sleeping and eating disruptions were less important for home than hospital admissions. 
+Home therapy was cheaper for families and the hospital. Indirect costs were not determined.
+Authors' conclusions
+Current evidence is restricted to a single randomized clinical trial. It suggests that, in the short term, home therapy does not harm individuals, entails fewer investigations, reduces social disruptions and can be cost‐effective. There were both advantages and disadvantages in terms of quality of life. The decision to attempt home treatment should be based on the individual situation and appropriate local resources. More research is urgently required. 

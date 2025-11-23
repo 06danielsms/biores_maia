@@ -1,0 +1,20 @@
+Background
+Lay‐led self‐management programmes are becoming widespread in the attempt to promote self‐care for people with chronic conditions. 
+Objectives
+To assess systematically the effectiveness of lay‐led self‐management programmes for people with chronic conditions. 
+Search methods
+We searched: the Cochrane Central Register of Controlled Trials (CENTRAL, The Cochrane Library 2005, Issue 1), MEDLINE (January 1986 to May 2006), EMBASE (January 1986 to June 2006), AMED (January 1986 to June 2006), CINAHL (January 1986 to June 2006), DARE (1994 to July 2006, National Research Register (2000 to July 2006), NHS Economic Evaluations Database (1994 to July 2006), PsycINFO (January 1986 to June 2006), Science Citation Index (January 1986 to July 2006), reference lists and forward citation tracking of included studies. We contacted principal investigators and experts in the field. There were no language restrictions. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing structured lay‐led self‐management education programmes for chronic conditions against no intervention or clinician‐led programmes. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data. We contacted study authors for additional information. Results of RCTs were pooled using a random‐effects model with standardised mean differences (SMDs) or weighted mean differences (WMDs) for continuous outcomes. 
+Main results
+We included seventeen trials involving 7442 participants. The interventions shared similar structures and components but studies showed heterogeneity in conditions studied, outcomes collected and effects. There were no studies of children and adolescents, only one study provided data on outcomes beyond six months, and only two studies reported clinical outcomes. 
+Primary outcomes 
+Health status: There was a small, statistically‐significant reduction in: pain (11 studies, SMD ‐0.10 (95% confidence interval (CI) ‐0.17 to ‐0.04)); disability (8 studies, SMD ‐0.15 (95% CI ‐0.25 to ‐0.05); and fatigue (7 studies, SMD ‐0.16 (95% CI ‐0.23 to ‐0.09); and small, statistically‐significant improvement in depression (6 studies, SMD ‐0.16 95% CI ‐0.24 to ‐0.07). There was a small (but not statistically‐ or clinically‐significant) improvement in psychological well‐being (5 studies; SMD ‐0.12 (95% CI ‐0.33 to 0.09)); but no difference between groups for health‐related quality of life (3 studies; WMD ‐0.03 (95% CI ‐0.09 to 0.02). Six studies showed a statistically‐significant improvement in self‐rated general health (WMD ‐0.20 (95% CI ‐0.31 to ‐0.10). 
+Health behaviours: 7 studies showed a small, statistically‐significant increase in self‐reported aerobic exercise (SMD ‐0.20 (95% CI ‐0.27 to ‐0.12)) and a moderate increase in cognitive symptom management (4 studies, WMD ‐0.55 ( 95% CI ‐0.85 to ‐0.26)). 
+Healthcare use: There were no statistically‐significant differences between groups in physician or general practitioner attendance (9 studies; SMD ‐0.03 (95% CI ‐0.09 to 0.04)). There were also no statistically‐significant differences between groups for days/nights spent in hospital (6 studies; WMD ‐0.32 (95% CI ‐0.71 to 0.07)). 
+Self‐efficacy: (confidence to manage condition) showed a small statistically‐significant improvement (10 studies): SMD ‐0.30, 95% CI ‐0.41 to ‐0.19. 
+No adverse events were reported in any of the studies.
+Authors' conclusions
+Lay‐led self‐management education programmes may lead to small, short‐term improvements in participants' self‐efficacy, self‐rated health, cognitive symptom management, and frequency of aerobic exercise. There is currently no evidence to suggest that such programmes improve psychological health, symptoms or health‐related quality of life, or that they significantly alter healthcare use. Future research on such interventions should explore longer term outcomes, their effect on clinical measures of disease and their potential role in children and adolescents. 

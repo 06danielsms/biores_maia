@@ -1,0 +1,44 @@
+Acute myeloid leukemia (or "AML") and myelodysplastic syndrome (or "MDS") are types of blood cancers that usually affect patients over the age of 40. These cancers are caused by too many immature white blood cells being made in the bone marrow. This reduces the ability of the body to make normal blood cells such as white blood cells (that fight off infections), red blood cells (that deliver oxygen to muscles and organs), and platelets (that help blood clot). The treatment options for AML and MDS are limited if the patient can't receive "intensive" chemotherapy (strong medications) because of other medical problems. Researchers are looking for new medicines that can help patients with AML and MDS live longer without their cancer rapidly getting worse.
+
+Glasdegib (now approved under the brand name Daurismo® in the United States) was the investigational medicine tested in this study, and it was not yet approved at the beginning of this study. Glasdegib was developed to help reduce the growth of cancerous stem cells in the bone marrow. Cancer stem cells are cells that self-regenerate and contribute to tumor growth. These cancer stem cells may be one of the reasons why some cancers return after chemotherapy treatment.
+
+This study was divided into 2 parts, or "phases". The main purpose of the first phase of the study (Phase 1) was to determine the best dose of glasdegib to use in the second phase of the study (Phase 2). To do this, the researchers asked:
+
+- What dose-limiting toxicities, or "DLTs", did patients have during treatment cycle with glasdegib?
+
+DLTs are certain medical problems caused by taking glasdegib which require the patient to lower the dose or stop taking the medicine temporarily or permanently.
+
+For Phase 2, there were 2 main questions that the researchers wanted to ask, depending on whether the patients were "Fit" (healthy enough to be treated with intensive chemotherapy) or "Unfit" (unable to be treated with intensive chemotherapy because of other medical problems):
+
+- How many Fit patients would achieve "complete remission" when taking glasdegib?
+
+In this study, complete remission or complete response meant that the patients no longer had any evidence of AML or MDS.
+
+- Do Unfit patients taking glasdegib with non-intensive chemotherapy (low-dose Ara-C, or "LDAC") live longer than those taking LDAC alone?
+
+In this study, Unfit patients received an alternative chemotherapy medicine (LDAC) that was approved for use in patients at the time.
+This study included patients who:
+- Were newly diagnosed with AML or high-risk MDS, and had not received treatment for their AML before.  Patients could have received treatment for their MDS before enrolling in the study.
+- Aged ≥18 years (for all Phase 1 patients and Phase 2 Fit patients) or aged ≥55 years (for Phase 2 Unfit patients)
+- Able to walk around, take care of themselves, and be active for more than 50% of the day
+
+Patients were considered Unfit for intensive chemotherapy if they:
+- Were aged ≥75 years, or
+- Were unable to do any work (such as household chores), or
+- Had evidence of kidney disease, or severe heart disease.
+
+What happened during Phase 1 of the study?
+
+Phase 1 of this study compared 3 groups of patients that were assigned to 1 of 2 doses of glasdegib (either 100 mg or 200 mg) to find the recommended dose of glasdegib for the Phase 2 portion of the study.  The patients were also given chemotherapy treatment based on whether their doctor thought they were Fit or Unfit for intensive chemotherapy.
+
+During Phase 1, each patient took 100 mg or 200 mg of glasdegib in pill form, once daily by mouth for 28 days.  The patients were also treated with different chemotherapy drugs as shown above, and monitored for medical problems. 
+
+What happened during Phase 2 of the study?
+
+Phase 2 of the study compared 2 groups of Unfit patients to find out if patients taking glasdegib with non-intensive chemotherapy (LDAC) would live longer than those taking LDAC alone.  Unfit patients were assigned to each group by chance alone, which is known as a “randomized” study.  This is done to make the groups more similar, which makes comparing the groups more fair.  Twice as many patients were assigned to take glasdegib with LDAC, compared to LDAC alone.  Phase 2 also treated 1 group of Fit patients, who took glasdegib along with intensive chemotherapy, to find out what percent would achieve complete remission.
+
+While most patients were only in the study for approximately 6 to 12 months, the entire study took over 6 years to complete.  The Sponsor ran this study at 48 locations in 6 countries in North America and Europe.  It began 27 June 2012 and ended 04 March 2019.  A total of 20 women and 32 men participated in Phase 1, and 65 women and 138 men participated in Phase 2.  All patients were between the ages of 27 and 92. 
+
+Patients were to be treated until their AML or MDS stopped responding or got worse, until they developed unacceptable medical problems, or until they chose to stop treatment.  Of the 52 patients who started Phase 1 of the study, 9 finished the study.  Of the 203 patients who started Phase 2 of the study, 23 finished the study.  The most common reason for not completing the study was because the patient died.  A total of 3 patients left Phase 1 and 8 patients left Phase 2 before the study was over by their choice or a doctor decided it was best for a patient to stop being in the study.
+
+When the study ended in March 2019, the Sponsor reviewed the information collected.  The Sponsor then created a report of the results.  This is a summary of that report.

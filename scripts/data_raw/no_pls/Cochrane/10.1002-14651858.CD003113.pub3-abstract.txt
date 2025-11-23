@@ -1,0 +1,15 @@
+Background
+Despite improvements in the management of rheumatoid arthritis (RA), pain control is often inadequate even when inflammation is well controlled. 
+Objectives
+To assess the efficacy and safety of opioid analgesics for treating pain in patients with RA. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE and EMBASE for studies to May 2010. We also searched the 2008 to 2009 American College of Rheumatology (ACR) and European League against Rheumatism (EULAR) abstracts and performed a handsearch of the reference lists of articles. 
+Selection criteria
+Studies were included if they were randomized or quasi‐randomized controlled trials (RCTs or CCTs) which compared opioid therapy to another therapy (active or placebo) for pain in patients with RA. Outcomes of interest were pain, adverse effects, function and quality of life. 
+Data collection and analysis
+Two review authors independently selected the studies for inclusion, extracted the data, and performed a risk of bias assessment. 
+Main results
+Eleven studies (672 participants) were included in the review. Four studies assessed the efficacy of single doses of various opioid and non‐opioid analgesics; a pooled analysis of these studies was not performed but in each study opioids reduced pain more than placebo. There were no differences between analgesic drugs in these studies. 
+Seven studies were between one and six weeks in duration and assessed six different oral opioids (dextropropoxyphene, codeine, tramadol, tilidine, pentazocine, morphine), either alone or combined with non‐opioid analgesics. The only strong opioid investigated was controlled‐release morphine sulphate, in a single study with 20 participants. Six studies compared an opioid to placebo. Opioids were superior to placebo in patient‐reported global impression of change (3 studies, 324 participants: relative risk (RR) 1.44, 95% CI 1.03 to 2.03) but not for the number of withdrawals due to inadequate analgesia (4 studies, 345 participants: RR 0.82, 95% CI 0.34 to 2.0). Adverse events (most commonly nausea, vomiting, dizziness and constipation) were more frequent in patients receiving opioids compared to placebo (4 studies, 371 participants: odds ratio 3.90, 95% CI 2.31 to 6.56); the pooled risk ratio for withdrawal due to adverse events was 2.67 (3 studies, 331 participants: 95% CI 0.52 to 13.75). One study compared an opioid (codeine with paracetamol) to an NSAID (diclofenac) and found no difference in efficacy or safety between interventions. 
+Authors' conclusions
+There is limited evidence that weak oral opioids may be effective analgesics for some patients with RA, but adverse effects are common and may offset the benefits of this class of medications. There is insufficient evidence to draw conclusions regarding the use of weak opioids for longer than six weeks, or the role of strong opioids. 

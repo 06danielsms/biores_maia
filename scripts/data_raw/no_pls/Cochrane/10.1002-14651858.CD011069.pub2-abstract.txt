@@ -1,0 +1,52 @@
+Background
+Incidence of gestational diabetes mellitus (GDM) is increasing worldwide. Blood glucose monitoring plays a crucial part in maintaining glycaemic control in women with GDM and is generally recommended by healthcare professionals. There are several different methods for monitoring blood glucose which can be carried out in different settings (e.g. at home versus in hospital). 
+Objectives
+The objective of this review is to compare the effects of different methods and settings for glucose monitoring for women with GDM on maternal and fetal, neonatal, child and adult outcomes, and use and costs of health care. 
+Search methods
+We searched the Cochrane Pregnancy and Childbirth Group Trials Register (30 September 2016) and reference lists of retrieved studies. 
+Selection criteria
+Randomised controlled trials (RCTs) or quasi‐randomised controlled trials (qRCTs) comparing different methods (such as timings and frequencies) or settings, or both, for blood glucose monitoring for women with GDM. 
+Data collection and analysis
+Two authors independently assessed study eligibility, risk of bias, and extracted data. Data were checked for accuracy. 
+We assessed the quality of the evidence for the main comparisons using GRADE, for:
+‐ primary outcomes for mothers: that is, hypertensive disorders of pregnancy; caesarean section; type 2 diabetes; and 
+‐ primary outcomes for children: that is, large‐for‐gestational age; perinatal mortality; death or serious morbidity composite; childhood/adulthood neurosensory disability; 
+‐ secondary outcomes for mothers: that is, induction of labour; perineal trauma; postnatal depression; postnatal weight retention or return to pre‐pregnancy weight; and 
+‐ secondary outcomes for children: that is, neonatal hypoglycaemia; childhood/adulthood adiposity; childhood/adulthood type 2 diabetes. 
+Main results
+We included 11 RCTs (10 RCTs; one qRCT) that randomised 1272 women with GDM in upper‐middle or high‐income countries; we considered these to be at a moderate to high risk of bias. We assessed the RCTs under five comparisons. For outcomes assessed using GRADE, we downgraded for study design limitations, imprecision and inconsistency. Three trials received some support from commercial partners who provided glucose meters or financial support, or both. 
+Main comparisons  
+Telemedicine versus standard care for glucose monitoring (five RCTs): we observed no clear differences between the telemedicine and standard care groups for the mother, for: 
+‐ pre‐eclampsia or pregnancy‐induced hypertension (risk ratio (RR) 1.49, 95% confidence interval (CI) 0.69 to 3.20; 275 participants; four RCTs; very low quality evidence); 
+‐ caesarean section (average RR 1.05, 95% CI 0.72 to 1.53; 478 participants; 5 RCTs; very low quality evidence); and 
+‐ induction of labour (RR 1.06, 95% CI 0.63 to 1.77; 47 participants; 1 RCT; very low quality evidence); 
+or for the child, for:
+‐ large‐for‐gestational age (RR 1.41, 95% CI 0.76 to 2.64; 228 participants; 3 RCTs; very low quality evidence); 
+‐ death or serious morbidity composite (RR 1.06, 95% CI 0.68 to 1.66; 57 participants; 1 RCT; very low quality evidence); and 
+‐ neonatal hypoglycaemia (RR 1.14, 95% CI 0.48 to 2.72; 198 participants; 3 RCTs; very low quality evidence). 
+There were no perinatal deaths in two RCTs (131 participants; very low quality evidence).
+Self‐monitoring versus periodic glucose monitoring (two RCTs): we observed no clear differences between the self‐monitoring and periodic glucose monitoring groups for the mother, for: 
+‐ pre‐eclampsia (RR 0.17, 95% CI 0.01 to 3.49; 58 participants; 1 RCT; very low quality evidence); and 
+‐ caesarean section (average RR 1.18, 95% CI 0.61 to 2.27; 400 participants; 2 RCTs; low quality evidence); 
+or for the child, for:
+‐ perinatal mortality (RR 1.54, 95% CI 0.21 to 11.24; 400 participants; 2 RCTs; very low quality evidence); 
+‐ large‐for‐gestational age (RR 0.82, 95% CI 0.50 to 1.37; 400 participants; 2 RCTs; low quality evidence); and 
+‐ neonatal hypoglycaemia (RR 0.64, 95% CI 0.39 to 1.06; 391 participants; 2 RCTs; low quality evidence). 
+Continuous glucose monitoring system (CGMS) versus self‐monitoring of glucose (two RCTs): we observed no clear differences between the CGMS and self‐monitoring groups for the mother, for: 
+‐ caesarean section (RR 0.91, 95% CI 0.68 to 1.20; 179 participants; 2 RCTs; very low quality evidence); 
+or for the child, for:
+‐ large‐for‐gestational age (RR 0.67, 95% CI 0.43 to 1.05; 106 participants; 1 RCT; very low quality evidence) and 
+‐ neonatal hypoglycaemia (RR 0.79, 95% CI 0.35 to 1.78; 179 participants; 2 RCTs; very low quality evidence). 
+There were no perinatal deaths in the two RCTs (179 participants; very low quality evidence). 
+Other comparisons  
+Modem versus telephone transmission for glucose monitoring (one RCT): none of the review's primary outcomes were reported in this trial 
+Postprandial versus preprandial glucose monitoring (one RCT): we observed no clear differences between the postprandial and preprandial glucose monitoring groups for the mother, for: 
+‐ pre‐eclampsia (RR 1.00, 95% CI 0.15 to 6.68; 66 participants; 1 RCT);
+‐ caesarean section (RR 0.62, 95% CI 0.29 to 1.29; 66 participants; 1 RCT); and
+‐ perineal trauma (RR 0.38, 95% CI 0.11 to 1.29; 66 participants; 1 RCT);
+or for the child, for:
+‐ neonatal hypoglycaemia (RR 0.14, 95% CI 0.02 to 1.10; 66 participants; 1 RCT).
+There were fewer large‐for‐gestational‐age infants born to mothers in the postprandial compared with the preprandial glucose monitoring group (RR 0.29, 95% CI 0.11 to 0.78; 66 participants; 1 RCT). 
+Authors' conclusions
+Evidence from 11 RCTs assessing different methods or settings for glucose monitoring for GDM suggests no clear differences for the primary outcomes or other secondary outcomes assessed in this review. 
+However, current evidence is limited by the small number of RCTs for the comparisons assessed, small sample sizes, and the variable methodological quality of the RCTs. More evidence is needed to assess the effects of different methods and settings for glucose monitoring for GDM on outcomes for mothers and their children, including use and costs of health care. Future RCTs may consider collecting and reporting on the standard outcomes suggested in this review. 

@@ -1,0 +1,14 @@
+Background
+Psychological problems are common complications following stroke that can cause stroke survivors to lack the motivation to take part in activities of daily living. Motivational interviewing provides a specific way for enhancing intrinsic motivation, which may help to improve activities of daily living for stroke survivors. 
+Objectives
+To investigate the effect of motivational interviewing for improving activities of daily living after stroke. 
+Search methods
+We searched the Cochrane Stroke Group's Trials Register (November 2014), the Cochrane Central Register of Controlled Trials (CENTRAL; 2015, Issue 1), MEDLINE (1948 to March 2015), EMBASE (1980 to March 2015), CINAHL (1982 to March 2015), AMED (1985 to March 2015), PsycINFO (1806 to March 2015), PsycBITE (March 2015) and four Chinese databases. In an effort to identify further published, unpublished and ongoing trials, we searched ongoing trials registers and conference proceedings, checked reference lists, and contacted authors of relevant studies. 
+Selection criteria
+Randomised controlled trials (RCTs) comparing motivational interviewing with no intervention, sham motivational interviewing or other psychological therapy for people with stroke were eligible. 
+Data collection and analysis
+Two review authors independently selected studies for inclusion, extracted eligible data and assessed risk of bias. Outcome measures included activities of daily living, mood and death. 
+Main results
+One study involving a total of 411 participants, which compared motivational interviewing with usual care, met our inclusion criteria. The results of this review did not show significant differences between groups receiving motivational interviewing or usual stroke care for participants who were not dependent on others for activities of daily living, nor on the death rate after three‐month and 12‐month follow‐up, but participants receiving motivational interviewing were more likely to have a normal mood than those who received usual care at three‐months and 12‐months follow‐up. 
+Authors' conclusions
+There is insufficient evidence to support the use of motivational interviewing for improving activities of daily living after stroke. Further well designed RCTs are needed. 

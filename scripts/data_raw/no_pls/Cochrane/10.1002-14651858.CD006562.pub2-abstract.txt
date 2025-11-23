@@ -1,0 +1,14 @@
+Background
+Genital warts are common and usually are harmless but can be painful and psychologically burdensome. Several local treatments can be used, including topical 5‐Fluorouracil (5‐FU). 
+Objectives
+To determine the effectiveness and safety of 5‐FU topical treatment for genital warts in nonimmunocompromised individuals. 
+Search methods
+Databases searched were Cochrane Central Register of Controlled Trials (The Cochrane Library 2009 Issue 3), MEDLINE (1966 to August 2009), EMBASE (until August 2009), LILACS (1982 to August 2009). The search had no language or publication restrictions. 
+Selection criteria
+The review included randomised controlled trials (RCTs) among women, men, or both sexes, aged 18 years and older, comparing: 5‐FU versus placebo or no treatment; 5‐FU in any dose versus other isolated treatment, topical or systemic; 5‐FU in any dose associated with other treatment versus placebo; 5‐FU in any dose associated with other treatment versus other isolated treatment, topical or systemic; 5‐FU in any dose associated with other treatment versus other associated treatment, topical or systemic. 
+Data collection and analysis
+Two authors independently assessed trial quality and extracted data from the original publications. 
+Main results
+Six trials involving 988 patients (645 women and 343 men) and reporting eight comparisons were found. Two studies reported withdrawals and dropouts, but none mentioned analysis by intention to treat (ITT). 5‐FU presented better results for cure than placebo or no treatment (relative risk (RR) 0.39, 95% confidence interval (CI) 0.23 to 0.67), meta‐cresol‐sulfonic acid (MCSA) (RR 2.11, 95% CI 0.83 to 5.37), Podophylin 2%, 4% or 25% (RR 1.26, 95% CI 0.86 to 1.82). There were no statistical differences for treatment failure for 5‐FU versus CO2 Laser (RR 0.69, 95% CI 0.43 to 1.11) versus 5‐FU + INFα‐2a (low dose) (RR 1.02, 95% CI 0.87 to 1.119). Worse results were found for 5‐FU versus 5‐FU + INFα‐2a (high dose) (RR 10.78, 95% CI 1.50 to 77.36), and 5‐FU + CO2 Laser INFα‐2a (high dose) (RR 7.97, 95% CI 2.87 to 22.13). 
+Authors' conclusions
+The reviewed trials were highly variable in methods and quality, and the evidence provided by these studies was weak. Cure rates with several treatments were variable, and although 5‐FU presents therapeutic results that are inferior to those seen with 5‐FU + Inf α‐2a (high dose) and 5‐FU + CO2 Laser + Inf α‐2a (high dose), the treatment should not be abandoned. Topical treatment with 5‐FU has a therapeutic effect; however, the benefits and risks have not been determined clearly and further studies are needed. 

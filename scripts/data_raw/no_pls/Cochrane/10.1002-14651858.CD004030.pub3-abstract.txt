@@ -1,0 +1,18 @@
+Background
+Enteral feeding (tube feeding) is offered to many people with amyotrophic lateral sclerosis/motor neuron disease experiencing difficulty swallowing (dysphagia) and maintaining adequate nutritional intake leading to weight loss. 
+Objectives
+To examine the efficacy of percutaneous endoscopic gastrostomy placement or other tube feeding placement on:  
+(1) survival;
+(2) nutritional status; 
+(3) quality of life;
+(4) minor and major complications of percutaneous endoscopic gastrostomy.
+Search methods
+We searched the Cochrane Neuromuscular Disease Group Trials Register (24 November 2009), MEDLINE (from January 1966 to September 2009), and EMBASE (from January 1980 to September 2009) for all papers on enteral tube feeding in amyotrophic lateral sclerosis/motor neuron disease. The results were screened to identify randomised controlled trials and to identify non‐randomized studies that might be worthy of review and discussion. We checked references in published articles and enlisted personal communications to identify any additional references.  
+Selection criteria
+A priori selection criteria included randomised and quasi‐randomized controlled trials evaluating the efficacy of percutaneous endoscopic gastrostomy or other feeding tube placement. Since no such trials were discovered, all prospective and retrospective controlled studies were reviewed in the 'Background' or 'Discussion' sections of the review. 
+Data collection and analysis
+We independently assessed study design and extracted data. We considered the following outcomes: (1) survival rate in months (of primary interest), (2) nutritional status measured by weight change, change in body mass index, or other quantitative index of nutritional status, (3) self‐perceived quality of life and (4) safety of the procedure as indicated by minor and major complications of surgical or radiological guided PEG tube insertion.  
+Main results
+We found no randomised controlled trials comparing the efficacy of enteral tube feeding with those people who continued to eat orally, without enteral feeding. We summarized the results of retrospective and prospective studies in the 'Discussion' section. 
+Authors' conclusions
+There are no randomised controlled trials to indicate whether enteral tube feeding is beneficial compared to continuation of oral feeding for any of the outcome measures. The 'best' evidence to date suggests a survival advantage for some people with amyotrophic lateral sclerosis/motor neuron disease, but these conclusions are tentative. Evidence for improved nutrition is also incomplete but tentatively favorable.  Quality of life has been addressed in studies and needs more attention. Based on a number of recent non‐randomized studies comparing surgical and radiographic approaches to feeding tube insertion these two procedures for PEG tube insertion appear to be equivalent. 

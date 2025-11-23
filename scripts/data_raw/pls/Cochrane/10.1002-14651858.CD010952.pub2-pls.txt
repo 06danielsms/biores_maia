@@ -1,0 +1,28 @@
+Non‐steroidal anti‐inflammatory drugs (NSAIDs) for axial spondyloarthritis (axSpA)
+In this Cochrane review of the effect of NSAIDs for people with axSpA (including ankylosing spondylitis and non‐radiographic (nr‐)axSpA), we included 39 studies with 4356 people (search up to 18 June 2014). One study looked at people with nr‐axSpA. 
+In people with axSpA: 
+Traditional and COX‐2 NSAIDs improve pain, disease activity and functioning (high quality evidence) and probably do not result in more withdrawals due to adverse events or serious adverse events compared with placebo in the short term (moderate quality evidence, as some outcomes suffered potential imprecision). We often do not have precise information about side effects, particularly for rare but serious side effects. Possible side effects may include gastrointestinal complaints. Rare complications may include gastrointestinal bleeding or problems with heart or blood vessels. 
+What is axSpA and what are NSAIDs? 
+AxSpA is a form of arthritis involving the joints of the pelvis or spine or both. It causes pain and stiffness in those regions and can result in deformities of the spine and poor functioning. 
+NSAIDs are commonly used to reduce pain and inflammation and are considered first‐line treatment for people with axSpA. COX‐2 NSAIDs are a subgroup of NSAIDs that potentially lead to less gastrointestinal complaints than traditional NSAIDs, although there is evidence that they may lead to other complications, like a higher risk of cardiovascular events. 
+What happens to people with axSpA taking NSAIDs after six weeks: 
+People who used a traditional NSAID rated their pain to be 16.5 points lower on a scale of 0 to 100 (lower score means less pain) (17% absolute improvement). 
+‐ People using a traditional NSAID rated their pain to be 44 points; people using placebo 60.5 points. 
+People who used a traditional NSAID rated their disease activity to be 17.5 points lower on a scale of 0 to 100 (lower score means less disease activity) (18% absolute improvement). 
+‐ People using a traditional NSAID rated their disease activity to be 37.2 points; people using placebo 54.7 points. 
+People who used a traditional NSAID rated their functioning to be 9.1 points lower on a scale of 0 to 100 (lower score means better functioning) (9% absolute improvement). 
+‐ People using a traditional NSAID rated their functioning to be 40.9 points; people using placebo 50.0 points. 
+Thirteen people less out of 1,000 stopped taking a traditional NSAID before the end of the study because of side effects (0% absolute difference). 
+‐ 39 people out of 1,000 receiving a traditional NSAID stopped, compared to 52 out of 1,000 receiving placebo. 
+One more person out of 1,000 had a serious adverse event while taking a traditional NSAID during the study (0% absolute difference). 
+‐ 3 people out of 1,000 receiving a traditional NSAID had a serious adverse event during the study, compared to 2 out of 1,000 receiving placebo. 
+People who used a COX‐2 NSAID rated their pain to be 21.7 points lower on a scale of 0 to 100 (22% absolute improvement). 
+‐ People using a COX‐2 NSAID rated their pain to be 42.3 points; people using placebo 64 points. 
+People who used a COX‐2 NSAID rated their disease activity to be 22 points lower on a scale of 0 to 100 (22% absolute improvement). 
+‐ People using a COX‐2 NSAID rated their disease activity to be 32.7 points; people using placebo 54.7 points. 
+People who used a selective COX‐2 NSAID rated their functioning to be 13.4 points lower on a scale of 0 to 100 (13% absolute improvement). 
+‐ People using a COX‐2 NSAID rated their functioning to be 36.6 points; people using placebo 50.0 points. 
+Thirteen people more out of 1,000 stopped taking a COX‐2 NSAID before the end of the study because of side effects (2% absolute difference). 
+‐ 24 people out of 1,000 receiving a COX‐2 NSAID stopped, compared to 11 out of 1,000 receiving placebo. 
+The same number of people had a serious adverse event while taking a COX‐2 NSAID or placebo during the study (0% absolute difference). 
+‐ 2 people out of 1,000 receiving a COX‐2 NSAID had a serious adverse event during the study, compared to 2 out of 1,000 receiving placebo. 

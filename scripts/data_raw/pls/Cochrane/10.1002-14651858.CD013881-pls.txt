@@ -1,0 +1,34 @@
+Can medicines that block interleukin‐6 (a protein involved in immune responses) treat COVID‐19? 
+Key messages 
+Treating COVID‐19 with tocilizumab (a medicine that blocks interleukin‐6) reduces the numbers of people who die within 28 days of treatment, and probably results in fewer serious unwanted effects than placebo treatment. 
+Studies of other medicines that block interleukin‐6 to treat COVID‐19 are under way. We will update this review when results from them become available. 
+COVID‐19 
+COVID‐19 is an infectious respiratory disease caused by a type of virus called a coronavirus. If the infection becomes severe, people may need intensive care and support in hospital, including machines to help them breathe (mechanical ventilation). Medicines that are currently used to treat other diseases are being tested in the search to find effective treatments for COVID‐19. 
+Blocking interleukin‐6 
+An immune response is how the body recognises and defends itself against harmful substances, such as viruses. COVID‐19 can disrupt the immune system, causing it to over‐react and produce dangerously high levels of inflammation. Interleukin‐6 (IL‐6) is a protein involved in triggering inflammation. Blocking the production of interleukin‐6 could reduce inflammation and help the immune system to fight COVID‐19. 
+Why we did this Cochrane Review 
+Tocilizumab and sarilumab are two medicines that block interleukin‐6. They are used to treat other conditions that involve an "over‐reactive" immune system, such as rheumatoid arthritis. We wanted to find out if medicines that block interleukin‐6 can be used to treat COVID‐19, and whether they might cause any unwanted effects. 
+What did we do? 
+We searched for studies that tested if medicines that block interleukin‐6 could treat COVID‐19. 
+We looked for randomised controlled studies, in which the treatments people received were decided by chance. This type of study usually gives the most reliable evidence about the effects of a treatment. 
+Search date: we searched for trials up to 26 February 2021. 
+What we found 
+We found 10 studies in 6896 people with COVID‐19. The average age of people in the studies was 56 to 65 years, and 66% of the people enrolled were men. The studies took place in Brazil, China, France, Italy, the UK and the USA; four studies took place in more than one country. Three studies were funded by pharmaceutical companies. 
+The medicines tested were tocilizumab and sarilumab. Both medicines were compared against a placebo (a dummy treatment that appears identical to the medicine being tested but without any active medicine) or standard care. The results were measured 28 days after treatment and after 60 days or more. 
+We also found 41 more studies of medicines blocking interleukin‐6 to treat COVID‐19 that had not yet published any results. These included 20 studies of tocilizumab, 11 studies of sarilumab and 10 studies of other medicines. Some of those studies are still ongoing and we will update this review to include their results when published. 
+What are the main results of our review? 
+Compared with placebo treatment or standard treatment, treatment with tocilizumab:
+· reduces the number of people who died, of any cause, after 28 days (evidence from 6363 people in 8 studies); on average, 32 fewer people per 1000 died when treated with tocilizumab plus standard care, compared with standard care alone or placebo. 
+· probably makes little or no difference to clinical improvement (which is defined as leaving hospital or improvement in COVID‐19 symptoms) at 28 days (evidence from 5585 people in 7 studies). 
+· probably reduces slightly the number of serious unwanted effects, such as life‐threatening conditions or death (evidence from 2312 people in 8 studies). 
+We are uncertain about the effects of tocilizumab treatment on:
+‐ severity of COVID‐19; that is, how many patients died of COVID‐19 or needed a ventilator or additional organ support at 28 days (evidence from 712 people in 3 studies); or 
+‐ how many patients died, of any cause, after 60 days or more (evidence from 519 people in 2 studies). 
+No results were reported for tocilizumab after 60 days or more for improvement, or severity at 28 days of COVID‐19. 
+We are uncertain about how sarilumab treatment affected the:
+‐ numbers of people who died (of any cause) at 28 days (evidence from 880 people in 2 studies) and after 60 days (evidence from 420 people in 1 study); or 
+‐ the numbers of serious unwanted effects, such as life‐threatening conditions or death (evidence from 880 people in 2 studies). 
+‐ Sarilumab probably does not cause more unwanted effects (of any type) than placebo treatment (evidence from 420 people in 1 study). No other results for sarilumab treatment were reported. 
+We were not able to explore which COVID‐19 patients are more likely to benefit from this treatment. 
+Our confidence in our results 
+We are confident that tocilizumab reduced the number of deaths (from any cause) at 28 days. Our confidence in the other results for tocilizumab is moderate to low; further evidence may change our results. Our confidence in the results for sarilumab is low; further evidence is likely to change these results. Our confidence was lowered because some of the studies did not report all their results. 

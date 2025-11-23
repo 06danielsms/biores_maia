@@ -1,0 +1,9 @@
+Clinical Study Results
+Amount of albuterol sulfate in the blood during the 24 hours after treatment:
+- Albuterol sulfate only: 3,935 pg*h/mL
+- Budesonide and albuterol sulfate together: 3,692 pg*h/mL
+
+Amount of the drugs in the blood until the amounts became too low for the researchers to measure:
+Budesonide:
+- Budesonide only: 1,102 pg*h/mL (including 89 of the 91 participants)
+- Budesonide and albuterol sulfate together: 942 pg*h/mL (including 89 of the 91 participants)

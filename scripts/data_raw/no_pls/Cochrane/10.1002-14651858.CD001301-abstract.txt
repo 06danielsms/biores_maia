@@ -1,0 +1,14 @@
+Background
+In vitro fertilisation (IVF) as treatment for male factor subfertility is associated with lower fertilisation and pregnancy rates than for other indications. Since the late 1980s several assisted fertilisation techniques have emerged and have been rapidly developed to try to enhance results for couples with male factor subfertility, or to help couples with severe male factor for whom conventional IVF was not possible. The techniques of partial zona dissection (PZD) and of subzonal microinjection of spermatozoa into the perivitelline space (SUZI) are by far surpassed by the technique of intra‐cytoplasmatic sperm injection (ICSI). ICSI has proven to be the therapy of choice for couples with severe male factor subfertility. This is an update of the review, first published in 1999, comparing ICSI to IVF for couples with non‐male fertility. 
+Objectives
+To investigate whether ICSI improves live birth rate in comparison to IVF in couples with non‐male subfertility. 
+Search methods
+We searched the Cochrane Menstrual Disorders and Subfertility Group Trials Register (searched 30 May 2002), the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library 2002, Issue 2), PubMed (January 1992 to July 2002) and reference lists of articles. This search was re‐run for the update (August 2010). 
+Selection criteria
+Trials were included if they compared the effects of the IVF and ICSI techniques on livebirths, pregnancy and fertilisation outcomes. Only randomised clinical studies were included in this review. 
+Data collection and analysis
+One study met the inclusion criteria for this review. The study compared ICSI with IVF within couples with non‐male infertility. Data was extracted independently by two review authors. 
+Main results
+There were no data comparing live birth rates. The single identified study did not find a difference in pregnancy rates (OR 1.4, 95% CI 0.95 to 2.2). There were no data on miscarriage rates from the one identified randomised clinical trial, nor on other adverse events that may be of concern such as congenital malformations. 
+Authors' conclusions
+Whether ICSI should be preferred to IVF for cases of non‐male factor subfertility remains an open question. Further research should report live birth rates and adverse events. 

@@ -1,0 +1,17 @@
+Background
+Appendicitis remains a difficult disease to diagnose, and imaging adjuncts are commonly employed. Magnetic resonance imaging (MRI) is an imaging test that can be used to diagnose appendicitis. It is not commonly regarded as a first‐line imaging test for appendicitis, but the reported diagnostic accuracy in some studies is equivalent to computed tomography (CT) scans. As it does not expose patients to radiation, it is an attractive imaging modality, particularly in women and children. 
+Objectives
+The primary objective was to determine the diagnostic accuracy of MRI for detecting appendicitis in all patients. 
+Secondary objectives:
+To investigate the accuracy of MRI in subgroups of pregnant women, children, and adults.
+To investigate the potential influence of MRI scanning variables such as sequences, slice thickness, or field of view. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE, and Embase until February 2021. We searched the references of included studies and other systematic reviews to identify further studies. We did not exclude studies that were unpublished, published in another language, or retrospective. 
+Selection criteria
+We included studies that compared the outcome of an MRI scan for suspected appendicitis with a reference standard of histology, intraoperative findings, or clinical follow‐up. Three study team members independently filtered search results for eligible studies. 
+Data collection and analysis
+We independently extracted study data and assessed study quality using the Quality Assessment of Studies of Diagnostic Accuracy ‐ Revised (QUADAS‐2) tool. We used the bivariate model to calculate pooled estimates of sensitivity and specificity. 
+Main results
+We identified 58 studies with sufficient data for meta‐analysis including a total of 7462 participants (1980 with and 5482 without acute appendicitis). Estimates of sensitivity ranged from 0.18 to 1.0; estimates of specificity ranged from 0.4 to 1.0. Summary sensitivity was 0.95 (95% confidence interval (CI) 0.94 to 0.97); summary specificity was 0.96 (95% CI 0.95 to 0.97). Sensitivity and specificity remained high on subgroup analysis for pregnant women (sensitivity 0.96 (95% CI 0.88 to 0.99); specificity 0.97 (95% CI 0.95 to 0.98); 21 studies, 2282 women); children (sensitivity 0.96 (95% CI 0.95 to 0.97); specificity 0.96 (95% CI 0.92 to 0.98); 17 studies, 2794 children); and adults (sensitivity 0.96 (95% CI 0.93 to 0.97); specificity 0.93 (95% CI 0.80 to 0.98); 9 studies, 1088 participants), as well as different scanning techniques. In a hypothetical cohort of 1000 patients, there would be 12 false‐positive results and 30 false‐negative results. Methodological quality of the included studies was poor, and the risk of bias was high or unclear in 53% to 83% of the QUADAS‐2 domains. 
+Authors' conclusions
+MRI appears to be highly accurate in confirming and excluding acute appendicitis in adults, children, and pregnant women regardless of protocol. The methodological quality of the included studies was generally low due to incomplete and low standards of follow‐up, so summary estimates of sensitivity and specificity may be biased. We could not assess the impact and direction of potential bias given the very low number of high‐quality studies. Studies comparing MRI protocols were few, and although we found no influence of MRI protocol variables on the summary estimates of accuracy, our results do not rule out that some MRI protocols are more accurate than others. 

@@ -1,0 +1,21 @@
+Hemophilia is a disease that is "inherited", which means it runs in families, and it mainly affects boys and men. People with hemophilia have problems with their blood not clotting. After an injury, someone with hemophilia will bruise more easily and, if cut, will bleed for longer. Sometimes the bleeding can happen inside the body and this "internal bleeding" can be serious as it can cause damage.
+Doctors prescribe medicines called "factor replacement therapy" to help the blood to clot in people with hemophilia. These treatments work by replacing the clotting factors that are missing from the blood of a person with hemophilia. Clotting factors are proteins in the blood that help stop bleeding after an injury as well as prevent bleeding from happening. There are many different clotting factors in the blood and these are numbered using Roman numerals. People with hemophilia B are missing Factor IX (9) (FIX). This means FIX is given to people with hemophilia B. Factor replacement therapy is given by "infusion" where the medicine is prepared in a syringe and then "injected" or pushed through a patient's skin into a "vein". A vein is a tube that carries blood around the body. Other treatments are also available that can be given by "injection", or a shot, "subcutaneously", to prevent or reduce the number of bleeding episodes (also known as bleeds). Subcutaneously means the injection is given just underneath the skin.
+Fidanacogene elaparvovec is a new kind of treatment being studied for hemophilia. It works in a different way to other treatments to help blood to clot. Fidanacogene elaparvovec is a novel recombinant adeno-associated virus (AAV), which in nature causes no disease, to deliver the human factor IX (hFIX) gene to the liver cells where FIX is normally made.
+For this study, researchers were interested in learning about the safety and kinetics (movement through the body) of a single dose of fidanacogene elaparvovec where it may help to prevent or reduce the number of bleeding episodes. 
+090177e1965907be\Approved\Approved On: 23-Feb-2021 03:07 (GMT)
+3
+Researchers in this study initially intended to look at 3 groups of patients treated with fidanacogene elaparvovec at one of three dose levels. This was done to see if patients had any medical problems after this treatment and also to see if this treatment could prevent bleeding episodes. Fidanacogene elaparvovec was given as an intravenous (IV) infusion, which means that a needle is placed in the vein and the study drug slowly drips into the vein. 
+
+A total of 22 patients were screened, 15 patients received fidanacogene elaparvovec. All 15 patients received the lowest dose in the study (5 x 1011vg/kg). No patient received the 2 higher doses of fidanacogene elaparvovec. Results presented here are from the lowest dose level.
+
+Patients were treated with 100 IU/kg of their usual FIX protein product over more or less 10 minutes at Day 0 visit. After this, the patients were treated with fidanacogene elaparvovec (5 x 1011vg/kg) for approximately 60 minutes via infusion pump, as shown in the figure below.
+
+This was an open-label study, so everyone, including the patient, knew what treatment was given.
+
+The study included patients who were men of 18 years of age and older with less than or equal to 2% FIX levels.
+
+While patients were only in the study for 1 year, the entire study took more than 3 years to complete. The Sponsor ran this study at 5 locations in 2 countries (Australia and United States). It began on 18th November 2015 and ended on 8th April 2019. All patients were men. All patients were between the ages of 18 and 61 years.
+
+Patients were to be treated with a single IV infusion. Of the 15 patients who started the study, all finished the study.
+
+When the study ended in April 2019, the Sponsor began reviewing the information collected. The Sponsor then created a report of the results. This is a summary of that report.

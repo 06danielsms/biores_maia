@@ -1,0 +1,28 @@
+Do health promotion programmes in the workplace increase people's physical activity if they include a pedometer? 
+Key messages 
+Overall, there is not enough evidence to show whether workplace health promotion programmes involving a pedometer affect people's physical activity, especially in the long term. 
+What is a pedometer? 
+A pedometer is a small, portable electronic device that counts the number of steps a person takes, but unlike an accelerometer, there is no record of intensity. Pedometers aim to encourage people to increase their physical activity by giving them feedback on their daily steps. 
+Why we did this review 
+Most people do not do enough physical activity. According to the World Health Organization, doing at least 30 minutes of moderately intense physical activity on most days can reduce a person's risk of developing cardiovascular disease, diabetes, and some cancers. We wanted to find out if workplace health promotion programmes that involve wearing pedometers would motivate people to increase their physical activity. 
+What did we do? 
+We searched for studies of workplace programmes that used pedometers to promote health in employees. We looked for randomised controlled studies, where the treatment each person receives is decided randomly. 
+Search date: We included evidence published up to December 2016. 
+What we found 
+We found 14 studies including 4762 people in different workplaces, ranging from offices to construction sites, mostly in high‐income countries. In all studies, pedometers were part of a health programme that included other components, such as walking groups, counselling, or dietary advice. Studies compared the effects of participating in pedometer programmes with: 
+‐ receiving no or a minimal health programme such as regular advice about the benefits of physical activity; and 
+‐ participating in other health programmes, that did not include a pedometer.
+The programmes lasted from two weeks to two years; assessments continued for three to ten months afterwards. 
+We were most interested to see whether there pedometers had a lasting effect on physical activity and health. We were also interested in learning about effects on sedentary behaviour (time spent sitting), risk factors for cardiovascular disease and diabetes (blood pressure, body mass index (BMI) and levels of cholesterol in the blood), quality of life (well‐being) and adverse (unwanted) effects. 
+What are the results of our review? 
+Compared with no or a minimal health programme: 
+Pedometer programmes may not affect physical activity at least one month after the programme end (6 studies), but they may reduce sedentary behaviour and may improve people's well‐being (1 study). We have very little certainty about these results. 
+Pedometer programmes may slightly reduce body mass index (3 studies, low certainty), but probably make little to no difference in blood pressure (2 studies, moderate certainty) and may reduce unwanted effects such as injuries (2 studies, low certainty). 
+No studies measured cholesterol or disease risk scores at least one month after the programme ended. 
+Compared with another health programme:
+Pedometer programmes may affect physical activity after at least one month since the programme end (1 study), but we have very little certainty about this result. 
+We could not draw conclusions about unwanted effects. The evidence was not good enough for us to be certain about effects on sedentary behaviour, BMI, blood pressure, cholesterol, cardiovascular disease risk and well‐being. Some effects were seen but findings were not consistent. 
+Conclusions 
+Exercise programmes can have positive effects on an employee's physical activity and health, but we did not find enough reliable evidence to be certain whether a pedometer programme is better than other types of health programmes, especially for achieving long‐term changes in behaviour. 
+Evidence is uncertain because results were reported by a small number of studies — sometimes only one study. In most studies, the people involved knew which study group they were in, which can affect results. Many people dropped out of studies before the studies ended, so not enough results were collected. Some studies did not report any results for some measures we were interested in or did not assess/evaluate if benefits were maintained after the program ended. 
+As pedometers are largely being replaced by more sophisticated devices such as accelerometers and Smartphone apps, we will not update this review again. 

@@ -1,0 +1,14 @@
+Background
+Urinary tract infections (UTI) are common in elderly patients. Authors of non systematic literature reviews often recommend longer treatment durations (7 to 14 days) for older women, but the evidence for such recommendations is unclear. 
+Objectives
+To determine the optimal duration of antibiotic treatment for uncomplicated symptomatic lower UTI in elderly women. 
+Search methods
+We contacted known investigators and pharmaceutical companies, screened reference lists of identified articles, reviews and books, and searched MEDLINE, EMBASE, CINAHL, Healthstar, Popline, Gerolit, Bioethics Line, The Cochrane Library, Dissertation Abstracts International and Index to Scientific & Technical Proceedings without language restriction.  Date of most recent search: 7 May 2008. 
+Selection criteria
+All randomised controlled trials (RCTs) comparing different treatment durations of oral antibiotics for uncomplicated symptomatic lower UTIs in elderly women were included. Whenever possible we obtained outcome data for older women included in studies with a broader age range. We excluded patients with fever, flank pain or complicating factors; studies with treatment durations longer than 14 days and prevention studies. 
+Data collection and analysis
+The two authors independently assessed study quality and extracted data. Statistical analyses were performed using the random effects model and results expressed as risk ratio (RR) for dichotomous outcomes and mean difference (MD) for continuous outcomes with 95% confidence intervals (CI). 
+Main results
+Fifteen studies (1644 elderly women) were included. Three studies compared single dose with short‐course treatment (3 to 6 days), six compared single dose with long‐course treatment (7 to 14 days) and six compared short‐ with long‐course treatment. Methodological quality of all studies was low except for a more recent geriatric study. There was a significant difference for persistent UTI between single dose and short‐course treatment (RR 2.01, 95% CI 1.05 to 3.84) and single versus long‐course treatment (RR 1.93, 1.01 to 3.70 95% CI), in the short‐term (< 2 weeks post‐treatment) but not at long‐term follow‐up or on clinical outcomes. Patients preferred single dose treatment (RR 0.73, 95% CI 0.60 to 0.88) to long‐course treatments, but this was based on one study comparing different antibiotics. Short versus longer treatments showed no significant difference in efficacy. Rate of adverse drug reactions increased significantly with longer treatment durations in only one study. 
+Authors' conclusions
+Short‐course treatment (3 to 6 days) could be sufficient for treating uncomplicated UTIs in elderly women, although more studies on specific commonly prescribed antibiotics are needed. 

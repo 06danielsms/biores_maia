@@ -1,0 +1,14 @@
+Background
+Alcohol dependence is among the main leading health risk factors in most developed and developing countries. Therapeutic success of psychosocial programs for relapse prevention is moderate, but could potentially be increased by an adjuvant treatment with the glutamate antagonist acamprosate. 
+Objectives
+To determine the effectiveness and tolerability of acamprosate in comparison to placebo and other pharmacological agents. 
+Search methods
+We searched the Cochrane Drugs and Alcohol Group (CDAG) Specialized Register, PubMed, EMBASE and CINAHL in January 2009 and inquired manufacturers and researchers for unpublished trials. 
+Selection criteria
+All double‐blind randomised controlled trials (RCTs) which compare the effects of acamprosate with placebo or active control on drinking‐related outcomes. 
+Data collection and analysis
+Two authors independently extracted data. Trial quality was assessed by one author and cross‐checked by a second author. Individual patient data (IPD) meta‐analyses were used to verify the primary effectiveness outcomes. 
+Main results
+24 RCTs with 6915 participants fulfilled the criteria of inclusion and were included in the review. Compared to placebo, acamprosate was shown to significantly reduce the risk of any drinking RR 0.86 (95% CI 0.81 to 0.91); NNT 9.09 (95% CI 6.66 to 14.28) and to significantly increase the cumulative abstinence duration MD 10.94 (95% CI 5.08 to 16.81), while secondary outcomes (gamma‐glutamyltransferase, heavy drinking) did not reach statistical significance. Diarrhea was the only side effect that was more frequently reported under acamprosate than placebo RD 0.11 (95% 0.09 to 0.13); NNTB 9.09 (95% CI 7.69 to 11.11). Effects of industry‐sponsored trials RR 0.88 (95% 0.80 to 0.97) did not significantly differ from those of non‐profit funded trials RR 0.88 (95% CI 0.81 to 0.96). In addition, the linear regression test did not indicate a significant risk of publication bias (p = 0.861). 
+Authors' conclusions
+Acamprosate appears to be an effective and safe treatment strategy for supporting continuous abstinence after detoxification in alcohol dependent patients. Even though the sizes of treatment effects appear to be rather moderate in their magnitude, they should be valued against the background of the relapsing nature of alcoholism and the limited therapeutic options currently available for its treatment. 

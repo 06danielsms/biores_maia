@@ -1,0 +1,14 @@
+Background
+Carotid stenosis and coronary artery disease can occur simultaneously. In patients with coronary artery disease who are scheduled for coronary artery bypass graft (CABG) surgery, but who also have carotid artery stenosis, there is controversy about the role of carotid surgery. It is not known whether any benefit from prophylactic carotid endarterectomy (by avoiding stroke and neurological dysfunction complicating CABG surgery) outweighs the risks. 
+Objectives
+To assess, in patients undergoing CABG surgery with a carotid stenosis more than 50%, the effects of carotid endarterectomy plus best medical therapy compared with best medical therapy alone on the overall risk of major clinical outcomes including death, stroke, and myocardial infarction. 
+Search methods
+We searched the trials registers of the Cochrane Stroke Group (searched October 2008) and the Cochrane Heart Group (searched November 2008). In addition, we searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2008), MEDLINE (1966 to November 2008), EMBASE (1980 to November 2008), reference lists of identified trials, and ongoing trials and research registers (last searched November 2008). 
+Selection criteria
+We planned to include all truly randomised controlled trials comparing carotid endarterectomy plus best medical therapy with best medical therapy alone in patients selected for CABG surgery. The main outcome was perioperative death. 
+Data collection and analysis
+We planned for two review authors to independently assess the methodological quality of included studies, and extract data. 
+Main results
+We did not find any eligible studies.
+Authors' conclusions
+We found no evidence from randomised trials by which to assess the benefits and risks of prophylactic carotid surgery before CABG surgery. Randomised controlled trials are required to reliably document the risks and benefits of such procedures. 

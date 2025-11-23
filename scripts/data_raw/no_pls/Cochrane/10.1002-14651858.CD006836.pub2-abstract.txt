@@ -1,0 +1,19 @@
+Background
+Surgical treatment of fractures of the distal radius can involve the implantation of bone scaffolding materials (bone grafts and substitutes) into bony defects that frequently arise after fracture reduction. 
+Objectives
+To review the evidence from randomised controlled trials evaluating the implanting of bone scaffolding materials for treating distal radial fractures in adults. 
+Search methods
+We searched the Cochrane Bone, Joint and Muscle Trauma Group Specialised Register (June 2007), the Cochrane Central Register of Controlled Trials, MEDLINE, EMBASE and other databases, conference proceedings and reference lists. No language restrictions were applied. 
+Selection criteria
+Randomised or quasi‐randomised controlled clinical trials evaluating the use of bone scaffolding for treating distal radial fracture in adults. 
+Data collection and analysis
+Two people independently selected studies and undertook assessment and data collection.
+Main results
+Ten heterogenous trials involving 874 adults with generally unstable fractures were grouped into six comparisons. No trial had proven allocation concealment. 
+Four trials (239 participants) found implantation of bone scaffolding (autogenous bone graft (one trial); Norian SRS ‐ a bone substitute (two trials); methylmethacrylate cement (one trial)) improved anatomical outcomes compared with plaster cast alone; and two found it improved function. Reported complications of bone scaffolding were transient discomfort resulting from extraosseous deposits of Norian SRS; with surgical removal of one intra‐articular deposit. 
+One trial (323 participants) comparing bone substitute (Norian SRS) versus plaster cast or external fixation found no difference in functional or anatomical outcomes at one year. Statistically significant complications in the respective groups were extraosseous Norian SRS deposits and pin track infection.   One trial (48 participants with external fixation) found that autogenous bone graft did not significantly change outcome. There was one serious donor‐site complication. 
+One trial (21 participants) found some indication of worse outcomes for hydroxyapatite bone cement compared with Kapandji's intrafocal pinning. 
+Three trials (180 participants) found bone scaffolding (autogenous bone graft (one trial); Norian SRS (one trial); methylmethacrylate cement (one trial)) gave no significant difference in functional outcomes but some indication of better anatomical outcomes compared with external fixation. Most reported complications were associated with external fixation; extraosseous deposits of Norian SRS occurred in one trial. 
+One trial (93 participants with dorsal plate fixation) found autografts slightly improved wrist function compared with allogenic bone material but with an excess of donor site complications. 
+Authors' conclusions
+Bone scaffolding may improve anatomical outcome compared with plaster cast alone but there is insufficient evidence to conclude on functional outcome and safety; or for other comparisons. 

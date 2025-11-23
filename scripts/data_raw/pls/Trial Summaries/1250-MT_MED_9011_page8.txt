@@ -1,0 +1,45 @@
+Clinical Study Results
+The table below shows the serious adverse reactions during the study.
+Serious adverse reactions during the study
+
+Anifrolumab 150 mg:
+- Infection of the blood: 1.1% (1)
+- Extreme allergic reaction: 1.1% (1)
+- Pneumonia: 1.1% (1)
+- Breast cancer: 1.1% (1)
+- Build-up of fluid: 0.0% (0)
+- Genital herpes: 0.0% (0)
+- Infection of the main airways of the lungs: 0.0% (0)
+- Inflammation of the sinuses: 0.0% (0)
+- Spread of lupus to the brain: 0.0% (0)
+- Infection of the colon: 0.0% (0)
+- Increased lupus disease activity: 0.0% (0)
+- Inflammation of the testicles: 0.0% (0)
+
+Anifrolumab 300 mg:
+- Infection of the blood: 0.0% (0)
+- Extreme allergic reaction: 0.0% (0)
+- Pneumonia: 0.0% (0)
+- Breast cancer: 0.0% (0)
+- Build-up of fluid: 0.6% (1)
+- Genital herpes: 0.6% (1)
+- Infection of the main airways of the lungs: 0.6% (1)
+- Inflammation of the sinuses: 0.0% (0)
+- Spread of lupus to the brain: 0.0% (0)
+- Infection of the colon: 0.0% (0)
+- Increased lupus disease activity: 0.0% (0)
+- Inflammation of the testicles: 0.0% (0)
+
+Placebo:
+- Infection of the blood: 0.5% (1)
+- Extreme allergic reaction: 0.0% (0)
+- Pneumonia: 0.0% (0)
+- Breast cancer: 0.0% (0)
+- Build-up of fluid: 0.0% (0)
+- Genital herpes: 0.0% (0)
+- Infection of the main airways of the lungs: 0.0% (0)
+- Inflammation of the sinuses: 0.5% (1)
+- Spread of lupus to the brain: 0.5% (1)
+- Infection of the colon: 0.5% (1)
+- Increased lupus disease activity: 0.5% (1)
+- Inflammation of the testicles: 0.5% (1)

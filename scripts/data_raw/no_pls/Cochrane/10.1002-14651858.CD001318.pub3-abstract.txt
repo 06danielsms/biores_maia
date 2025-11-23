@@ -1,0 +1,14 @@
+Background
+Cervical intraepithelial neoplasia (CIN) is the most common pre‐malignant lesion. Atypical squamous changes occur in the transformation zone of the cervix with mild, moderate or severe changes described by their depth (CIN 1, 2 or 3). Cervical intraepithelial neoplasia is treated by local ablation or lower morbidity excision techniques. Choice of treatment depends on the grade and extent of the disease. 
+Objectives
+To assess the effectiveness and safety of alternative surgical treatments for CIN.
+Search methods
+We searched the Cochrane Gynaecological Cancer Group Trials Register, Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), MEDLINE and EMBASE (up to November 2012). We also searched registers of clinical trials, abstracts of scientific meetings and reference lists of included studies. 
+Selection criteria
+Randomised controlled trials (RCTs) of alternative surgical treatments in women with cervical intraepithelial neoplasia. 
+Data collection and analysis
+Two review authors independently abstracted data and assessed risks of bias. Risk ratios that compared residual disease after the follow‐up examination and adverse events in women who received one of either laser ablation, laser conisation, large loop excision of the transformation zone (LLETZ), knife conisation or cryotherapy were pooled in random‐effects model meta‐analyses. 
+Main results
+Twenty‐nine trials were included. Seven surgical techniques were tested in various comparisons. No significant differences in treatment failures were demonstrated in terms of persistent disease after treatment. Large loop excision of the transformation zone appeared to provide the most reliable specimens for histology with the least morbidity. Morbidity was lower than with laser conisation, although the trials did not provide data for every outcome measure. There were not enough data to assess the effect on morbidity when compared with laser ablation. 
+Authors' conclusions
+The evidence suggests that there is no obvious superior surgical technique for treating cervical intraepithelial neoplasia in terms of treatment failures or operative morbidity. 

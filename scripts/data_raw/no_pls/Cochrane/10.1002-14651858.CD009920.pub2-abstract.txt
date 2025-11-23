@@ -1,0 +1,14 @@
+Background
+Although intra‐articular glucocorticoids are a commonly used intervention in the treatment of acute gout, there is little evidence to support their safety and efficacy in this setting. 
+Objectives
+To evaluate the safety and efficacy of intra‐articular glucocorticoids in the treatment of acute gout. 
+Search methods
+We searched the Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library), Ovid MEDLINE and Ovid EMBASE for studies to 16th October 2012. We also searched the 2010 to 2011 American College of Rheumatology (ACR) and European League against Rheumatism (EULAR) abstracts and performed a handsearch of the reference lists of articles considered for inclusion. 
+Selection criteria
+Studies were eligible for inclusion if they were randomised controlled trials (RCTs) or controlled clinical trials (CCTs) that used quasi‐randomisation methods to allocate participants to treatment and compared intra‐articular glucocorticoids to another therapy (active or placebo) in adults with acute gout. Outcomes selected for inclusion were pain, the proportion of participant withdrawals due to adverse events, inflammation, function, patient global assessment of treatment success, quality of life and proportion of particpants with serious adverse events. 
+Data collection and analysis
+Two review authors independently selected the studies for inclusion and planned to extract the data and perform a risk of bias assessment. 
+Main results
+No trials were identified that evaluated the efficacy and safety of intra‐articular glucocorticoids for acute gout. 
+Authors' conclusions
+There is presently no evidence from randomised trials to support the use of intra‐articular glucocorticoid treatment in acute gout. Evidence suggests intra‐articular glucocorticoids may be a safe and effective treatment in osteoarthritis and rheumatoid arthritis. These results may be generalisable to people with acute gout, and the treatment may be especially useful in people when non‐steroidal anti‐inflammatory drugs or colchicine are contraindicated. 

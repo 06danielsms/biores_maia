@@ -1,0 +1,19 @@
+Probiotics for the treatment of active ulcerative colitis
+What is the aim of this review? 
+The aim of this Cochrane Review was to find out whether probiotics can induce remission in people with ulcerative colitis. We analysed data from 14 studies to answer this question. 
+Key messages 
+Probiotics may be better at inducing remission than placebo (dummy treatment). It is unclear whether probiotics are better than 5‐aminosalicylic acid (5‐ASA, an anti‐inflammatory agent used to treat inflammatory bowel disease), however there is limited evidence that when both treatments are used as combined therapy they may be better than 5‐ASA alone in inducing remission. Most studies reported that no serious adverse events took place. For the studies that did report on it, serious adverse events did not occur in the probiotic group. Minor adverse events reported were bloating and diarrhoea. 
+What was studied in the review? 
+Ulcerative colitis is a relapsing and remitting disease which causes inflammation of the large bowel and leads to symptoms such as abdominal pain, diarrhoea and tiredness. There is some evidence to suggest that an imbalance in the bacteria of the gut is the cause of the disease, and therefore probiotics, which are live micro‐organisms, can alter the bacteria and possibly reduce the inflammation. 
+What are the main results of the review? 
+We searched for randomised controlled trials (RCTs; clinical studies where people are randomly put into one of two or more treatment groups) comparing probiotics with placebo, probiotics with 5‐ASA, and probiotics in combination with 5‐ASA. We found 14 RCTs looking at 865 participants. The trials looked at adult and paediatric participants. Eight studies allowed additional therapy to continue, whilst the other four studies were unclear about this. 
+1) Probiotics may improve induction of clinical remission when compared to placebo.
+2) It is unclear whether probiotics lead to a difference in adverse events (minor and serious) when compared to placebo. 
+3) There is limited evidence to determine whether probiotics offer better disease improvement when compared to placebo. 
+4) There may be little or no difference in the induction of remission with probiotics when compared to 5‐ASA (low‐certainty evidence). 
+5) There is limited evidence to suggest that when probiotics plus 5‐ASA are compared to 5‐ASA alone, probiotics may offer a slightly better chance of induction of remission. This is based on low‐certainty evidence from one study, and we are not sure of the type of remission studied. 
+6) Serious adverse events were reported when probiotics were compared with placebo, but only occurred in the placebo group. 
+Conclusion 
+Whilst the evidence suggests that probiotics may be better at improving induction than placebo, our confidence in the estimate is limited because of the low‐certainty evidence. This is attributed to the small number of participants in each study along with the unreliable methods utilised by the trials. With the evidence presented in these studies, we are unable to make strong conclusions into the effectiveness of probiotics; better designed studies with more participants are needed. 
+How up‐to‐date is this review? 
+This review is up‐to‐date as of October 2019.

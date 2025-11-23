@@ -1,0 +1,11 @@
+Comparison of two muscle relaxants, rocuronium and succinylcholine, to facilitate rapid sequence induction intubation 
+Review question 
+Which drug (rocuronium or succinylcholine) is better at providing excellent conditions to quickly insert breathing tubes into participants of all ages for elective and emergency situations? 
+Background 
+In emergency situations some people need a general anaesthetic with an endotracheal tube (a tube to help them breathe). It is important to have fast‐acting medications to allow physicians to complete this procedure quickly and safely. Currently, the medication used most frequently to relax muscles is succinylcholine. Succinylcholine is fast‐acting and lasts for only a few minutes, which is very desirable in this setting. However, some people cannot use this medication as it can cause serious salt imbalances or reactions, so an equally effective medication without these side effects would be advantageous. One possible alternative medication is rocuronium, a muscle relaxant with fewer side effects but longer duration of action. This review compares the quality of intubation conditions (the ease with which physicians can quickly and safely pass the endotracheal tube) between rocuronium and succinylcholine in all ages and varying clinical situations. 
+Study characteristics 
+We included in the review controlled trials from 1966 to February 2015 involving participants of all ages needing rapid intubation using rocuronium and succinylcholine . The minimum dose of rocuronium given was 0.6mg/kg and succinylcholine was 1mg/kg. We have combined the results of 50 trials, with a total of 4151 participants, which compared the effectiveness of succinylcholine versus rocuronium on intubation conditions. No major side effects from use of the drugs were reported. 
+Key results 
+We have found that rocuronium is slightly less effective than succinylcholine for creating excellent and acceptable intubation conditions. Rocuronium should therefore only be used as an alternative to succinylcholine when it is known that succinylcholine should not be used and a more prolonged intubation is expected. 
+Quality of evidence 
+The level of evidence is of moderate GRADE due to imperfect study designs and varying techniques used across trials . 

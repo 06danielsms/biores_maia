@@ -1,0 +1,14 @@
+Background
+Post‐extraction bleeding (PEB) is a recognised, frequently encountered complication in dental practice, which is defined as bleeding that continues beyond 8 to 12 hours after dental extraction. The incidence of post‐extraction bleeding varies from 0% to 26%. If post‐extraction bleeding is not managed, complications can range from soft tissue haematomas to severe blood loss. Local causes of bleeding include soft tissue and bone bleeding. Systemic causes include platelet problems, coagulation disorders or excessive fibrinolysis, and inherited or acquired problems (medication induced). There is a wide array of techniques suggested for the treatment of post‐extraction bleeding, which include interventions aimed at both local and systemic causes. This is an update of a review published in June 2016. 
+Objectives
+To assess the effects of interventions for treating different types of post‐extraction bleeding. 
+Search methods
+Cochrane Oral Health’s Information Specialist searched the following databases: Cochrane Oral Health’s Trials Register (to 24 January 2018), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2017, Issue 12), MEDLINE Ovid (1946 to 24 January 2018), Embase Ovid (1 May 2015 to 24 January 2018) and CINAHL EBSCO (1937 to 24 January 2018). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. We searched the reference lists of relevant systematic reviews. 
+Selection criteria
+We considered randomised controlled trials (RCTs) that evaluated any intervention for treating PEB, with male or female participants of any age, regardless of type of teeth (anterior or posterior, mandibular or maxillary). Trials could compare one type of intervention with another, with placebo, or with no treatment. 
+Data collection and analysis
+Three pairs of review authors independently screened search records. We obtained full papers for potentially relevant trials. If data had been extracted, we would have followed the methods described in the Cochrane Handbook for Systematic Reviews of Interventions for the statistical analysis. 
+Main results
+We did not find any randomised controlled trial suitable for inclusion in this review.
+Authors' conclusions
+We were unable to identify any reports of randomised controlled trials that evaluated the effects of different interventions for the treatment of post‐extraction bleeding. In view of the lack of reliable evidence on this topic, clinicians must use their clinical experience to determine the most appropriate means of treating this condition, depending on patient‐related factors. There is a need for well designed and appropriately conducted clinical trials on this topic, which conform to the CONSORT statement (www.consort‐statement.org/). 

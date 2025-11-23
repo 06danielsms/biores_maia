@@ -1,0 +1,15 @@
+Endovascular thrombectomy and intra‐arterial interventions for acute ischaemic stroke
+Review question 
+This review addressed whether endovascular thrombectomy (removal of a blood clot in a blood vessel using a mechanical device) or intra‐arterial thrombolysis (injecting clot‐dissolving drugs directly into the clot), or both, provide better outcomes than standard treatment alone in stroke caused by a blocked blood vessel. 
+Background 
+The majority of disabling strokes are due to a blockage of a large blood vessel by a blood clot in the brain. Such strokes lead to brain tissue damage because of oxygen deprivation. An ischaemic stroke is a stroke where the restriction of blood flow causes damage and death to the surrounding tissue due to oxygen shortage. For these patients, the most intuitive means of treatment is removal of the blockage by either injecting clot‐dissolving drugs directly into the clot or removal of the blood clot using a mechanical device, or both. Prompt treatment can restore blood flow before major brain damage has occurred, leading to a good recovery. However, these treatments can also cause bleeding in the brain, which can result in poorer outcomes. We searched for randomised controlled trials (studies in which participants are assigned to one of two or more treatment groups using a random method) of both endovascular mechanical thrombectomy and intra‐arterial thrombolysis to establish whether they are safe and effective treatments for stroke caused by a blocked blood vessel. 
+Search date 
+1 September 2020
+Study characteristics 
+Randomised controlled trials of endovascular thrombectomy or intra‐arterial thrombolysis, or both, plus routine medical treatment compared with routine medical treatment alone in people with a definite acute ischaemic stroke. 
+Study funding sources 
+No funding sources.
+Key results 
+We found 19 trials involving a total of 3793 participants. Treatment with endovascular thrombectomy can improve patients' chance of survival with the ability to function well without increasing the risk of bleeding in the brain or death. It is still unclear what the optimal time window is within which treatment is beneficial and whether treatment is effective in the posterior (supplying the rear part of the brain) circulation. There is also a need to study whether a strategy of primary endovascular thrombectomy or intra‐arterial thrombolysis, or both, is superior to a strategy where intravenous (injected into the vein) clot‐dissolving treatment is provided first in a local centre followed by transfer of selected patients to hospitals able to perform mechanical thrombectomy or intra‐arterial thrombolysis, or both. 
+Certainty of the evidence 
+We judged the available trials to be at low or unclear risk of bias, and so overall the evidence is reported to be of high certainty. 

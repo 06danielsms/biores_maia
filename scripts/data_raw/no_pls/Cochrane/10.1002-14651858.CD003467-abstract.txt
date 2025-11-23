@@ -1,0 +1,14 @@
+Background
+Abnormal involuntary movements known as dyskinesias are amongst the most disabling side‐effects of levodopa therapy. It is thought that amantadine, an NMDA‐receptor antagonist, may reduce dyskinesias in patients with Parkinson's disease without worsening Parkinsonian symptoms. 
+Objectives
+To compare the efficacy and safety of adjuvant amantadine therapy versus placebo in treating dyskinesia in patients with Parkinson's disease, already established on levodopa, and suffering from motor complications. 
+Search methods
+Electronic searches of The Cochrane Controlled Trials Register (The Cochrane Library Issue 3, 2001), MEDLINE (1966‐2001), EMBASE (1974‐2001), SCISEARCH (1974‐2001), BIOSIS (1993‐2001), GEROLIT (1979‐2001), OLDMEDLINE (1957‐1965), LILACS (1982‐2001), MedCarib (17th Century ‐ 2001), PASCAL (1973‐2001), JICST‐EPLUS (1985‐2001), RUSSMED (1973‐2001), DISSERTATION ABSTRACTS (2000‐2001), SIGLE (1980‐2001), ISI‐ISTP (1990‐2001), Aslib Index to Theses (2001), Clinicaltrials.gov (2001), metaRegister of Controlled Trials (2001), NIDRR (2001) and NRR (2001) were conducted. Grey literature was hand searched and the reference lists of identified studies and reviews examined. The manufacturers of amantadine were contacted. 
+Selection criteria
+Randomised controlled trials comparing amantadine with placebo in the treatment of dyskinesia in patients with a clinical diagnosis of idiopathic Parkinson's disease. 
+Data collection and analysis
+Data was abstracted independently by NC and KD onto standardised forms and disagreements were resolved by discussion. 
+Main results
+Three randomised controlled trials were found comparing amantadine with placebo in the treatment of dyskinesia in patients with idiopathic Parkinson's disease. Three trials were excluded on the basis that they had no control group and a further three did not state whether they randomised the treatment that participants received. The included trials were double‐blind cross‐over studies involving a total of 53 patients. All three studies failed to present data from the first arm, instead presenting results as combined data from both treatment arms and both placebo arms. Two trials had no wash‐out interval between the treatment periods. In view of the risk of a carry‐over effect into the second arm, the results of these trials were not analysed. The final trial had a one week wash‐out interval but only examined 11 participants. One study reported side‐effects of amantadine in 8 of the 18 participants, including confusion and worsening of hallucinations. Another reported reversible edema of both feet in one of eleven participants. 
+Authors' conclusions
+Due to lack of evidence it is impossible to determine whether amantadine is a safe and effective form of treatment for levodopa‐induced dyskinesias in patients with Parkinson's disease. 

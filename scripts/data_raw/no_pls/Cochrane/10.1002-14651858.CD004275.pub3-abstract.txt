@@ -1,0 +1,14 @@
+Background
+Nocturnal gastric acid breakthrough (NAB) is defined as intragastric pH<4 for more than one continuous hour overnight. Adding H2‐receptor antagonists (H2RAs) at bedtime to high‐dose proton pump inhibitors is likely to enhance nocturnal gastric pH control and decrease nocturnal gastric acid breakthrough. 
+Objectives
+To assess the effectiveness of additional bedtime H2‐receptor antagonists in suppressing nocturnal gastric acid breakthrough and the incidence of adverse effects. 
+Search methods
+We identified eligible trials by searching The Cochrane Central Register of Controlled Trials (CENTRAL) (The Cochrane Library Issue 4, 2008), MEDLINE (1966‐August 2008), EMBASE (1980‐August 2008) and CINAHL (1982‐August 2008). We re‐ran the search on CENTRAL (The Cochrane Library Issue 4, 2008), and in MEDLINE, EMBASE and CINAHL in June 2004, July 2005, August 2006 and August 2008. 
+Selection criteria
+All randomized controlled trials evaluating H2‐receptor antagonists for the control of nocturnal gastric acid breakthrough were eligible for inclusion. 
+Data collection and analysis
+Two reviewers have independently selected the trials to be included in the review according to the pre‐stated eligibility criteria. Disagreements were resolved by a third reviewer. If the data could not be pooled for meta‐analysis, a narrative description was provided. 
+Main results
+8 small randomized controlled trials were included for meta‐analysis. The results show that additional bedtime H2RAs can decrease the prevalence rate of nocturnal gastric acid breakthrough. The results of the analyses for secondary outcomes show that additional bedtime H2RAs can decrease the percentage of time during which pH is less than 4.0 inside the stomach and promote median intragastric pH. 
+Authors' conclusions
+We can conclude no implications for practice at this stage. Appropriately designed large‐scale randomized controlled trials with long‐term follow‐up are needed to determine the effects of additional bedtime H2RAs in suppressing nocturnal gastric acid breakthrough. 

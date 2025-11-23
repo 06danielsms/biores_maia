@@ -1,0 +1,14 @@
+Background
+Naloxone, a specific opioid antagonist, is available for the treatment of newborn infants with cardiorespiratory or neurological depression that may be due to intrauterine exposure to opioid. It is unclear whether newborn infants may benefit from this therapy and whether naloxone has any harmful effects. 
+Objectives
+To determine the effect of naloxone on the need for and duration of neonatal unit stay in infants of mothers who received opioid analgesia prior to delivery or of mothers who have used a prescribed or non‐prescribed opioid during pregnancy. 
+Search methods
+We searched the following databases in February 2018: the Cochrane Central Register of Controlled Trials (the Cochrane Library 2018, Issue 1), MEDLINE (OvidSP), MEDLINE In process & Other Non‐Indexed Citations (OvidSP), Embase (OvidSP), CINAHL (EBSCO), Maternity and Infant Care (OvidSP), and PubMed. We searched for ongoing and completed trials in the WHO International Clinical Trials Registry Platform and the EU Clinical Trials Register. We checked the reference lists of relevant articles to identify further potentially relevant studies. 
+Selection criteria
+Randomised controlled trials comparing the administration of naloxone versus placebo, or no drug, or another dose of naloxone to newborn infants with suspected or confirmed in utero exposure to opioid. 
+Data collection and analysis
+We extracted data using the standard methods of Cochrane Neonatal with separate evaluation of trial quality and data extraction by two review authors and synthesis of data using risk ratio, risk difference, and mean difference. 
+Main results
+We included nine trials, with 316 participants in total, that compared the effects of naloxone versus placebo or no drug in newborn infants exposed to maternal opioid analgesia prior to delivery. None of the included trials investigated infants born to mothers who had used a prescribed or non‐prescribed opioid during pregnancy. None of these trials specifically recruited infants with cardiorespiratory or neurological depression. The main outcomes reported were measures of respiratory function in the first six hours after birth. There is some evidence that naloxone increases alveolar ventilation. The trials did not assess the effect on the primary outcomes of this review (admission to a neonatal unit and failure to establish breastfeeding). 
+Authors' conclusions
+The existing evidence from randomised controlled trials is insufficient to determine whether naloxone confers any important benefits to newborn infants with cardiorespiratory or neurological depression that may be due to intrauterine exposure to opioid. Given concerns about the safety of naloxone in this context, it may be appropriate to limit its use to randomised controlled trials that aim to resolve these uncertainties. 

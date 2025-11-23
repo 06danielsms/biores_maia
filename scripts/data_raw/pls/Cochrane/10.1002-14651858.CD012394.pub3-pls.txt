@@ -1,0 +1,25 @@
+Interventions to prevent women from developing diabetes during pregnancy: an overview of Cochrane systematic reviews 
+What is the issue? 
+Gestational diabetes mellitus (GDM) is defined as high blood glucose levels (hyperglycaemia) first detected during pregnancy. GDM can affect the health of women and their babies. 
+During pregnancy a woman’s body changes how it processes the nutrients from her food, to ensure that the baby is well nourished. In the first three months the mother has increased sensitivity to insulin. In the second and third trimesters her insulin sensitivity is reduced. Women with GDM have less of an initial increase in sensitivity and their insulin sensitivity is reduced beyond normal later in pregnancy, resulting in the mother developing high blood glucose levels. Her blood levels of fats are also higher than normal, which may contribute to the risk of the baby becoming large for its gestational age. 
+Why is this important? 
+Women with GDM are more likely to develop complications in pregnancy including high blood pressure and need labour to be induced. They are at increased risk later of developing type 2 diabetes. Babies born to women with GDM are more likely to be born large, and therefore to experience birth injuries. Once born, the babies are at higher risk of experiencing difficulties in breathing, jaundice and reduced blood sugar levels, and later obesity and diabetes. 
+There are many risk factors for GDM, making it likely that interventions before/during pregnancy could reduce the risk of women developing GDM. This overview summarises evidence from Cochrane Reviews of randomised controlled trials on interventions that might prevent GDM. 
+What evidence did we find? 
+We searched the Cochrane Library (August 2019) and identified 11 Cochrane Reviews that assessed interventions during pregnancy and reported on GDM. The reviews had findings from 71 randomised controlled trials involving 23,154 pregnant women. Interventions included diet, exercise, a combination of diet and exercise, dietary supplements, medications, and management of other health problems. The evidence from the trials ranged from very low to high quality. We identified a further 10 reviews that may provide more information on this topic in the future. 
+Diet and exercise 
+Diet and exercise together possibly reduced the risk of a woman developing GDM when compared to standard care (19 trials; 6633 women; moderate‐quality evidence). 
+Dietary advice alone (5 trials; 1279 women; very low‐quality evidence) and a low glycaemic index diet compared with a moderate to high glycaemic index diet (4 trials; 912 women; low‐quality evidence) had an unclear effect on the risk of GDM. Exercise alone had an unclear effect on the risk of GDM (3 trials; 826 women; low‐quality evidence). 
+Dietary supplements 
+Omega‐3 fatty acid supplementation in pregnancy had no effect (12 trials; 5235 women; high‐quality evidence). 
+Myo‐inositol supplementation during pregnancy possibly reduced the risk of GDM (3 trials with 502 women; low‐quality evidence). 
+Vitamin D supplementation in pregnancy had a possible benefit in reducing the risk of developing GDM (4 trials with 446 women; low‐quality evidence). These trials were all from Asian countries and the women’s vitamin D levels before supplementation were mostly unknown. 
+Vitamin D given with calcium supplementation, or with calcium plus other minerals had an unclear effect. 
+Probiotic with dietary intervention had an unclear effect on the risk of developing GDM. 
+Medications 
+The drug metformin had a possible benefit in reducing the risk of developing GDM when given to obese pregnant women (3 trials; 892 women; moderate‐quality evidence). 
+Low‐ to very low‐quality evidence from eight small trials showed unclear effect on GDM risk for heparin, aspirin, leukocyte immunisation or immunoglobulin (IgG) given to women who had previously experienced a stillbirth. 
+Management of other health issues 
+Universal versus risk‐based screening for thyroid problems had no effect on the risk of GDM (1 trial; 4516 women; moderate‐quality evidence). Two different approaches to management of the mothers’ asthma had an unclear effect (low‐quality evidence). 
+What does this mean? 
+A combination of exercise and diet, supplementation with myo‐inositol and vitamin D supplementation were of possible benefit in reducing the risk of developing GDM. Further high‐quality evidence from randomised controlled trials is needed to confirm these results, and to look further at the use of metformin. No trials assessed interventions before pregnancy. 

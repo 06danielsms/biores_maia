@@ -1,0 +1,11 @@
+Antibiotics for treating pneumonia caught outside of hospital or care homes in people with sickle cell disease 
+Review question 
+We reviewed the evidence on the effect and safety of the antibiotic treatment approaches (one drug alone or combined drugs) for people with sickle cell disease with from community‐acquired pneumonia. This is an update of a previously published Cochrane Review. 
+Background 
+Sickle cell disease affects millions of people throughout the world. These people can catch pneumonia more easily due to sickle damage to the spleen. The germs causing pneumonia caught in the community vary across the world. They have different sensitivities and resistance levels which are affected by how antibiotics are prescribed in that area. 
+Search date 
+The evidence is current to: 01 September 2016.
+Study characteristics 
+We were not able to find any trials to include in this review.
+Key results 
+Trials addressing this issue should be structured and reported according to the CONSORT statement for improving the quality of reporting of efficacy and improved reports of harms in clinical research. Trial investigators should consider including the following outcomes in new trials: number of days to be free of fever, death, onset of pain crisis or complications of sickle cell disease following community‐acquired pneumonia, diagnosis, hospitalization (admission rate and length of hospital stay), respiratory failure rate, and number of participants receiving a blood transfusion. Since no trials have been included in the review up until September 2016, we will still search for trials every two years, but will not publish an updated version of this review until any eligible trials are identified. 

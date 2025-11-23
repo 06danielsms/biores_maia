@@ -1,0 +1,18 @@
+Clinical Trial RESULTS
+
+What medical problems did participants have?
+A lot of research is needed to know whether a drug causes a medical problem. So when new drugs are being studied, researchers keep track of all medical problems that participants have during the study. These medical problems are also called "adverse events". They may or may not be caused by the study drug.
+
+How many participants had medical problems in this study?
+For the participants in Group 1, 12 of the 20 participants (60.0%) had medical problems. Among the participants in Group 2, 16 of the 20 participants (80.0%) had medical problems. The table below shows how many participants in each treatment group had medical problems.
+ 
+How Many Participants Developed Medical Problems in Both Groups?
+
+Group 1: 
+- 12 participants (60.0%)
+
+Group 2:
+- 16 participants (80.0%)
+
+How many participants developed serious medical problems?
+A medical problem is considered serious when it is life-threatening or causes lasting problems or you need hospital care. No participants developed serious medical problems in this study, and no participants died.

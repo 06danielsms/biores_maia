@@ -1,0 +1,15 @@
+Background
+Beta‐blocker therapy has mortality benefit in patients with hypertension, heart failure and coronary artery disease, as well as during the perioperative period. These drugs have traditionally been considered contraindicated in patients with reversible airway disease. 
+Objectives
+To assess the effect of cardioselective beta‐blockers in patients with asthma or chronic obstructive pulmonary disease (COPD). 
+Search methods
+We performed a search of the Cochrane Airways Group Register of trials up to June 2011. We checked reference lists of trial reports and review articles. 
+Selection criteria
+Randomized, blinded, placebo‐controlled trials of the effects of single‐dose or continued‐treatment cardioselective beta‐blockers in patients with reversible airway disease. 
+Data collection and analysis
+Two independent review authors extracted data from the selected articles, reconciling differences by consensus. We divided beta1‐blockers into those with or without intrinsic sympathomimetic activity (ISA). Interventions were: administration of single‐dose or continued beta1‐blocker, and response to beta2‐agonist given after the study drug. 
+Main results
+Nineteen studies on single‐dose treatment and 10 studies on continued treatment met the inclusion criteria. Single‐dose cardioselective beta‐blocker produced a 7.46% (95% confidence interval (CI) 5.59 to 9.32) reduction in forced expiratory volume in one second (FEV1), but with a 4.63% (95% CI 2.47 to 6.78) increase in FEV1 with beta2‐agonist, compared to placebo. Treatment lasting three to 28 days produced no change in FEV1 (mean difference (MD) ‐0.42% change from baseline; 95% CI ‐3.74 to 2.91), symptoms or inhaler use, whilst maintaining an 8.74% (95% CI 1.96 to 15.52) response to beta2‐agonist. There was no significant change in FEV1 treatment effect for those patients with chronic obstructive pulmonary disease (COPD): single doses (MD ‐5.28%; 95% CI ‐10.03 to ‐0.54); continued treatment (MD 1.07%; 95% CI ‐3.30 to 5.44). 
+With continued treatment there was no significant difference in FEV1 response for beta1‐blockers without ISA compared to those with ISA: ‐3.22% (95% CI ‐7.79 to 1.36) compared to 2.72% (95% CI ‐2.12 to 7.57). Those without ISA produced a 12.0% increase in FEV1 after beta2‐agonist administration compared to placebo (95% CI 4.12 to 19.87) while beta1‐blockers with ISA produced no change compared to placebo (MD ‐0.60%; 95% CI ‐13.93 to 12.73). These results were obtained in a small number of studies with few patients. The difference was not significant. 
+Authors' conclusions
+Cardioselective beta‐blockers given in mild to moderate reversible airway disease or COPD do not produce adverse respiratory effects. Given their demonstrated benefit in conditions such as heart failure, cardiac arrhythmias and hypertension, these agents should not be withheld from such patients. Long‐term safety still needs to be established. 

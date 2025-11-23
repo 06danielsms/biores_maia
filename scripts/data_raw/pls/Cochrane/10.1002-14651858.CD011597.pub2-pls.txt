@@ -1,0 +1,15 @@
+Is vitamin D an effective and safe addition to antibiotics to treat children with acute pneumonia? 
+Review question 
+We wanted to find out if vitamin D helps children with acute pneumonia who are also receiving antibiotic treatment get better faster. 
+Background 
+Pneumonia is an acute lower respiratory tract infection that affects the lungs. Treatment for pneumonia includes antibiotics, providing supplementary oxygen to air that is breathed in through a mask, and other supportive therapies. Vitamin D boosts immune defences and reduces excessive inflammation, effects that may help children recover from an acute episode of pneumonia. 
+Search date 
+The evidence is current to 28 July 2017.
+Study characteristics 
+We included seven studies involving a total of 1529 children (780 with pneumonia (4 studies) and 749 with severe or very severe pneumonia (3 studies)) aged under 5 years from low‐income countries. In four studies, a single large dose of vitamin D was used either when the child joined the study or within 24 hours of admission to hospital; in two studies, vitamin D was used for five days; and in one study, vitamin D was used for two days. One study excluded children whose vitamin D levels were normal. One study reported the cause of children's pneumonia. 
+Study funding sources 
+One study was funded by the New Zealand Aid Corporation; one was funded by an institutional grant; and five studies were unfunded. 
+Key results 
+We are uncertain as to whether vitamin D has an important effect on outcomes due to the very‐low quality of the evidence. Vitamin D may slightly decrease the time taken to get better from acute pneumonia (by 60 minutes) and the risk of death, and Vitamin D may increase the length of time in hospital (by 30 minutes) and the time taken for fever to resolve (by 90 minutes). However, there was no significant difference between groups for these outcomes. No major adverse events were reported. 
+Quality of the evidence 
+The quality of the evidence was very low, except for time to resolution of acute illness, which we assessed as low quality. We identified problems with the study methods and reporting, resulting in lack of precision in the included studies. 

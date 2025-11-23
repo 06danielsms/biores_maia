@@ -1,0 +1,38 @@
+Ivermectin for preventing and treating COVID‐19
+Is ivermectin effective for COVID‐19? 
+Key messages 
+We found no evidence to support the use of ivermectin for treating COVID‐19 or preventing SARS‐CoV‐2 infection. The evidence base improved slightly in this update, but is still limited. 
+Evaluation of ivermectin is continuing in 31 ongoing trials, and we will update this review again when their results become available.  
+What is ivermectin? 
+Ivermectin is a medicine used to treat parasites, such as intestinal parasites in animals, and scabies in humans. It is inexpensive and is widely used in regions of the world where parasitic infestations are common. It has few unwanted effects.  
+Medical regulators have not approved ivermectin for COVID‐19.
+What did we want to find out? 
+We wanted to update our knowledge of whether ivermectin reduces death, illness, and length of infection in people with COVID‐19, or is useful in prevention of the infection. We included trials comparing the medicine to placebo (dummy treatment), usual care, or treatments for COVID‐19 that are known to work to some extent, such as dexamethasone. We excluded trials comparing ivermectin to other medicines that do not work, like hydroxychloroquine, or whose effectiveness against COVID‐19 is uncertain. 
+We evaluated the effects of ivermectin in infected people on:
+– people dying;– whether people's COVID‐19 got better or worse;– quality of life;– serious and non‐serious unwanted effects;– viral clearance. 
+For prevention, we sought the effect on preventing SARS‐CoV‐2 infection and COVID‐19 disease. 
+What did we do?  
+We searched for randomized controlled trials that investigated ivermectin to prevent or treat COVID‐19. People treated in hospital or as outpatients had to have laboratory‐confirmed COVID‐19. 
+In this update, we also investigated the trustworthiness of the trials and only included them if they fulfilled clear ethical and scientific criteria. 
+We compared and summarized the results of the trials and rated our confidence in the evidence, based on common criteria such as trial methods and sizes. 
+What did we find?  
+We excluded seven of the 14 trials included in the previous review as these trials did not fulfil the expected ethical and scientific criteria. Together with four new trials, we included 11 trials with 3409 participants that investigated ivermectin combined with any usual care compared to the same usual care or placebo. 
+For treatment, there were five trials of people in hospital with moderate COVID‐19 and six trials of outpatients with mild COVID‐19. The trials used different doses of ivermectin and different durations of treatment.  
+No trial investigated ivermectin to prevent SARS‐CoV‐2 infection.
+We also found 31 ongoing trials, and an additional 28 trials still requiring clarification from the authors or not yet published. 
+Main results  
+Treating people in hospital with COVID‐19 
+We do not know whether ivermectin compared with placebo or usual care 28 days after treatment: 
+– leads to more or fewer deaths (3 trials, 230 people); – worsens or improves patients' condition, assessed by need for ventilation or death (2 trials, 118 people);– increases or reduces serious unwanted events (2 trials, 197 people). 
+Ivermectin compared with placebo or usual care 28 days after treatment, may make little or no difference to: 
+– improving patients' condition, assessed by discharge from hospital (1 trial, 73 people);– non‐serious unwanted events (3 trials, 228 participants).  
+Seven days after treatment, ivermectin may make little or no difference to reduction of negative COVID‐19 tests (3 trials, 231 participants) compared with placebo or usual care. 
+Treating outpatients with COVID‐19 
+Ivermectin compared with placebo or usual care 28 days after treatment, probably makes little or no difference to people dying (6 trials, 2860 people). 
+Ivermectin compared with placebo or usual care 28 days after treatment, makes little or no difference to quality of life (1 trial, 1358 people). 
+Ivermectin compared with placebo or usual care 28 days after treatment, may make little or no difference to: 
+– worsening patients' condition, assessed by admission to hospital or death (2 trials, 590 people);– serious unwanted events (5 trials, 1502 people); – non‐serious unwanted events (5 trials, 1502 participants); – improving people's COVID‐19 symptoms in the 14 days after treatment (2 trials, 478 people);– number of people with negative COVID‐19 tests 7 days after treatment (2 trials, 331 people). 
+What are the limitations of the evidence? 
+Our confidence in the evidence, especially for outpatients, improved since the last review version, because we could look at more participants included in high‐quality trials. Although we are quite certain regarding our results on risk of people dying and quality of life, the confidence in the evidence is still low for many other outpatient and inpatient outcomes because there were only few events measured. The methods differed between trials, and they did not report everything we were interested in, such as relevant outcomes. 
+How up to date is this evidence? 
+The systematic literature search is up to date to 16 December 2021. Additionally, we included trials with > 1000 participants up to April 2022. 

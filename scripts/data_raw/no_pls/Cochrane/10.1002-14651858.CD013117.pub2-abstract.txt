@@ -1,0 +1,19 @@
+Background
+Malaria is transmitted through the bite of Plasmodium‐infected adult female Anopheles mosquitoes. Ivermectin, an anti‐parasitic drug, acts by killing mosquitoes that are exposed to the drug while feeding on the blood of people (known as blood feeds) who have ingested the drug. This effect on mosquitoes has been demonstrated by individual randomized trials. This effect has generated interest in using ivermectin as a tool for malaria control. 
+Objectives
+To assess the effect of community administration of ivermectin on malaria transmission.
+Search methods
+We searched the Cochrane Infectious Diseases Group (CIDG) Specialized Register, CENTRAL, MEDLINE, Embase, LILACS, Science Citation index ‐ expanded, the World Health Organization (WHO) International Clinical Trials Registry Platform, ClinicalTrials.gov, and the National Institutes of Health (NIH) RePORTER database to 14 January 2021. 
+We checked the reference lists of included studies for other potentially relevant studies, and contacted researchers working in the field for unpublished and ongoing trials. 
+Selection criteria
+We included cluster‐randomized controlled trials (cRCTs) that compared ivermectin, as single or multiple doses, with a control treatment or placebo given to populations living in malaria‐endemic areas, in the context of mass drug administration. Primary outcomes were prevalence of malaria parasite infection and incidence of clinical malaria in the community. 
+Data collection and analysis
+Two review authors independently extracted data on the number of events and the number of participants in each trial arm at the time of assessment. For rate data, we noted the total time at risk in each trial arm. To assess risk of bias, we used Cochrane's RoB 2 tool for cRCTs. We documented the method of data analysis, any adjustments for clustering or other covariates, and recorded the estimate of the intra‐cluster correlation (ICC) coefficient. 
+We re‐analysed the trial data provided by the trial authors to adjust for cluster effects. We used a Poisson mixed‐effect model with small sample size correction, and a cluster‐level analysis using the linear weighted model to adequately adjust for clustering.  
+Main results
+We included one cRCT and identified six ongoing trials. 
+The included cRCT examined the incidence of malaria in eight villages in Burkina Faso, randomized to two arms. Both trial arms received a single dose of ivermectin 150 µg/kg to 200 µg/kg, together with a dose of albendazole. The villages in the intervention arm received an additional five doses of ivermectin, once every three weeks. Children were enrolled into an active cohort, in which they were repeatedly screened for malaria infection.  
+The primary outcome was the cumulative incidence of uncomplicated malaria in a cohort of children aged five years and younger, over the 18‐week study. We judged the study to be at high risk of bias, as the analysis did not account for clustering or correlation between participants in the same village. 
+The study did not demonstrate an effect of Ivermectin on the cumulative incidence of uncomplicated malaria in the cohort of children over the 18‐week study (risk ratio 0.86, 95% confidence interval (CI) 0.62 to 1.17; P = 0.2607; very low‐certainty evidence). 
+Authors' conclusions
+We are uncertain whether community administration of ivermectin has an effect on malaria transmission, based on one trial published to date. 
