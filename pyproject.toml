@@ -33,6 +33,10 @@ dependencies = [
     "scikit-learn>=1.5.0",
     "watchdog>=6.0.0",
     "textstat>=0.7.11",
+    "filelock>=3.20.0",
+    "peft>=0.18.0",
+    "stable-baselines3==2.3.0",
+    "gymnasium==0.29.1",
 ]
 
 [tool.setuptools]

@@ -34,6 +34,13 @@ from metrics_visualizer import (
     plot_medians_comparison,
     render_metrics_summary,
 )
+from inference import (
+    InferenceConfig,
+    ModelInference,
+    get_available_models,
+    PEFT_AVAILABLE,
+    TD3_AVAILABLE,
+)
 
 st.set_page_config(page_title="BioRes MAIA Studio", layout="wide")
 st.title("BioRes MAIA · Laboratorio interactivo")
@@ -314,61 +321,333 @@ def render_validation() -> None:
         "para tus resúmenes generados."
     )
 
-    metrics_df = load_metrics_dataset()
-    if metrics_df is not None and not metrics_df.empty:
-        metric_choice = st.selectbox(
-            "Selecciona una métrica para visualizar",
-            options=[
-                "flesch_reading_ease",
-                "ari",
-                "n_words",
-                "n_sents",
-                "avg_word_len",
-                "stopword_ratio",
-            ],
-        )
-        try:
-            chart = plot_metric(metrics_df, metric_choice)
-            st.plotly_chart(chart, use_container_width=True)
-        except Exception as exc:  # pragma: no cover
-            st.warning(f"No se pudo renderizar la gráfica (instala plotly): {exc}")
-        st.dataframe(metrics_df.head(20))
-    else:
-        st.info("metrics.csv no está disponible; omitiendo la visualización base.")
-
-    st.markdown("#### Evalúa tus resúmenes")
-    uploaded = st.file_uploader("Carga un CSV con columnas prediction,reference[,document_id]", type=["csv"], key="eval-uploader")
-    if uploaded is not None:
-        try:
-            df_upload = pd.read_csv(uploaded)
-            scored = evaluate_rows(df_upload)
-            st.dataframe(scored)
-            aggregate = scored[["rouge_f1", "bleu", "f1"]].mean().round(4)
-            agg_col1, agg_col2, agg_col3 = st.columns(3)
-            agg_col1.metric("ROUGE-1 F1", aggregate["rouge_f1"])
-            agg_col2.metric("BLEU", aggregate["bleu"])
-            agg_col3.metric("F1 tokens", aggregate["f1"])
-
-            csv_buf = io.StringIO()
-            scored.to_csv(csv_buf, index=False)
-            st.download_button("Descargar métricas", data=csv_buf.getvalue(), file_name="validation_scores.csv", mime="text/csv")
-        except Exception as exc:
-            st.error(f"No se pudo procesar el archivo: {exc}")
-
-    st.markdown("#### Prueba rápida")
-    col_ref, col_pred = st.columns(2)
-    reference = col_ref.text_area("Referencia", height=140, key="ref")
-    prediction = col_pred.text_area("Predicción", height=140, key="pred")
-    if st.button("Calcular métricas", key="quick-eval"):
-        if not reference.strip() or not prediction.strip():
-            st.warning("Escribe tanto la referencia como la predicción.")
+    # Crear tabs para las diferentes secciones de validación
+    tab1, tab2, tab3 = st.tabs([
+        "📊 Métricas de Dataset",
+        "🤖 Inferencia en Tiempo Real",
+        "📝 Evaluación de Resúmenes"
+    ])
+    
+    # ============================================================================
+    # TAB 1: Métricas de Dataset
+    # ============================================================================
+    with tab1:
+        st.markdown("### Análisis de métricas del dataset")
+        
+        metrics_df = load_metrics_dataset()
+        if metrics_df is not None and not metrics_df.empty:
+            metric_choice = st.selectbox(
+                "Selecciona una métrica para visualizar",
+                options=[
+                    "flesch_reading_ease",
+                    "ari",
+                    "n_words",
+                    "n_sents",
+                    "avg_word_len",
+                    "stopword_ratio",
+                ],
+            )
+            try:
+                chart = plot_metric(metrics_df, metric_choice)
+                st.plotly_chart(chart, use_container_width=True)
+            except Exception as exc:  # pragma: no cover
+                st.warning(f"No se pudo renderizar la gráfica (instala plotly): {exc}")
+            st.dataframe(metrics_df.head(20))
         else:
-            scores = score_pair("quick", prediction, reference)
-            c1, c2, c3, c4 = st.columns(4)
-            c1.metric("ROUGE-P", scores.rouge_precision)
-            c2.metric("ROUGE-R", scores.rouge_recall)
-            c3.metric("ROUGE-F1", scores.rouge_f1)
-            c4.metric("BLEU", scores.bleu)
+            st.info("metrics.csv no está disponible; omitiendo la visualización base.")
+    
+    # ============================================================================
+    # TAB 2: Inferencia en Tiempo Real
+    # ============================================================================
+    with tab2:
+        st.markdown("### 🤖 Simplificación de Texto Médico")
+        st.write(
+            "Usa los modelos entrenados para simplificar texto médico en tiempo real. "
+            "Puedes elegir entre modelo base, LoRA (fine-tuned), y con/sin optimización TD3."
+        )
+        
+        # Detectar modelos disponibles
+        available_models = get_available_models("../inference")
+        
+        # Configuración del modelo
+        st.markdown("#### Configuración del Modelo")
+        
+        col_cfg1, col_cfg2 = st.columns(2)
+        
+        with col_cfg1:
+            use_lora = st.checkbox(
+                "Usar LoRA (Fine-tuned)",
+                value=bool(available_models["lora"]),
+                disabled=not bool(available_models["lora"]),
+                help="Activa el modelo con adaptadores LoRA entrenados" if available_models["lora"] else "No hay adaptadores LoRA disponibles"
+            )
+            
+            if not PEFT_AVAILABLE and use_lora:
+                st.error("⚠️ peft no está instalado. Ejecuta: `pip install peft`")
+                use_lora = False
+            
+            lora_path = None
+            if use_lora and available_models["lora"]:
+                lora_options = available_models["lora"]
+                lora_path = st.selectbox(
+                    "Adaptadores LoRA",
+                    options=lora_options,
+                    format_func=lambda x: Path(x).name
+                )
+        
+        with col_cfg2:
+            use_td3 = st.checkbox(
+                "Usar TD3 (Optimización dinámica)",
+                value=False,
+                disabled=not bool(available_models["td3_agents"]),
+                help="Optimiza temperatura y top_p automáticamente según el texto" if available_models["td3_agents"] else "No hay agentes TD3 disponibles"
+            )
+            
+            if not TD3_AVAILABLE and use_td3:
+                st.error("⚠️ stable_baselines3 no está instalado. Ejecuta: `pip install stable-baselines3`")
+                use_td3 = False
+            
+            td3_path = None
+            if use_td3 and available_models["td3_agents"]:
+                td3_options = available_models["td3_agents"]
+                selected_td3 = st.selectbox(
+                    "Agente TD3",
+                    options=td3_options,
+                    format_func=lambda x: x["name"]
+                )
+                td3_path = selected_td3["path"] if selected_td3 else None
+        
+        # Parámetros de generación (solo si no se usa TD3)
+        if not use_td3:
+            st.markdown("#### Parámetros de Generación")
+            col_param1, col_param2, col_param3 = st.columns(3)
+            
+            with col_param1:
+                temperature = st.slider(
+                    "Temperature",
+                    min_value=0.1,
+                    max_value=1.0,
+                    value=0.7,
+                    step=0.05,
+                    help="Mayor = más creativo, Menor = más determinista"
+                )
+            
+            with col_param2:
+                top_p = st.slider(
+                    "Top-p",
+                    min_value=0.1,
+                    max_value=1.0,
+                    value=0.9,
+                    step=0.05,
+                    help="Nucleus sampling: solo considera tokens hasta probabilidad acumulada"
+                )
+            
+            with col_param3:
+                max_tokens = st.slider(
+                    "Tokens máximos",
+                    min_value=64,
+                    max_value=512,
+                    value=256,
+                    step=32,
+                    help="Longitud máxima del resumen generado"
+                )
+        else:
+            temperature, top_p, max_tokens = 0.7, 0.9, 256
+        
+        st.divider()
+        
+        # Input de texto médico
+        st.markdown("#### Texto Médico de Entrada")
+        
+        # Ejemplo por defecto
+        default_medical_text = """This randomized controlled trial evaluated the efficacy of angiotensin-converting enzyme (ACE) inhibitors in patients diagnosed with essential hypertension. The study enrolled 450 participants aged 45-70 years with systolic blood pressure ≥140 mmHg and diastolic blood pressure ≥90 mmHg. Participants were randomly assigned to receive either an ACE inhibitor (enalapril 10-20 mg daily) or placebo for 12 weeks. The primary outcome was the change in mean systolic blood pressure from baseline to week 12. Results showed a statistically significant reduction in systolic blood pressure in the ACE inhibitor group compared to placebo (mean difference: -12.3 mmHg, 95% CI: -15.1 to -9.5, p<0.001)."""
+        
+        medical_text = st.text_area(
+            "Ingresa el texto médico a simplificar",
+            value=default_medical_text,
+            height=200,
+            help="Texto técnico médico para convertir en lenguaje simple"
+        )
+        
+        # Botón para generar
+        col_btn1, col_btn2, col_btn3 = st.columns([2, 1, 1])
+        
+        with col_btn1:
+            generate_btn = st.button(
+                "🚀 Generar Resumen Simplificado",
+                type="primary",
+                use_container_width=True
+            )
+        
+        with col_btn2:
+            if "inference_model" in st.session_state and st.session_state["inference_model"] is not None:
+                if st.button("🗑️ Liberar Memoria", use_container_width=True):
+                    st.session_state["inference_model"].unload_model()
+                    st.session_state["inference_model"] = None
+                    st.success("✓ Modelo liberado")
+                    st.rerun()
+        
+        # Generar resumen
+        if generate_btn:
+            if not medical_text.strip():
+                st.warning("⚠️ Por favor ingresa un texto médico")
+            else:
+                try:
+                    with st.spinner("🔄 Cargando modelo y generando resumen..."):
+                        # Crear configuración
+                        config = InferenceConfig(
+                            base_model_id="Qwen/Qwen2.5-3B-Instruct",
+                            lora_adapter_path=lora_path if use_lora else None,
+                            td3_agent_path=td3_path if use_td3 else None,
+                            temperature=temperature,
+                            top_p=top_p,
+                            max_new_tokens=max_tokens,
+                            device="auto"
+                        )
+                        
+                        # Crear o reutilizar instancia de inferencia
+                        if "inference_model" not in st.session_state or st.session_state["inference_model"] is None:
+                            st.session_state["inference_model"] = ModelInference(config)
+                        
+                        model_inference = st.session_state["inference_model"]
+                        
+                        # Actualizar config si cambió
+                        model_inference.config = config
+                        
+                        # Generar
+                        result = model_inference.generate(medical_text)
+                        st.session_state["last_inference_result"] = result
+                    
+                    st.success("✓ Resumen generado exitosamente")
+                    st.rerun()
+                    
+                except Exception as exc:
+                    st.error(f"❌ Error al generar resumen: {exc}")
+                    import traceback
+                    st.code(traceback.format_exc())
+        
+        # Mostrar resultado si existe
+        if "last_inference_result" in st.session_state:
+            result = st.session_state["last_inference_result"]
+            
+            st.markdown("---")
+            st.markdown("### 📋 Resultado")
+            
+            # Información del modelo
+            col_info1, col_info2, col_info3, col_info4 = st.columns(4)
+            col_info1.metric("Modelo", result.model_config)
+            col_info2.metric("Temperature", f"{result.temperature:.3f}")
+            col_info3.metric("Top-p", f"{result.top_p:.3f}")
+            if result.flesch_score is not None:
+                col_info4.metric("Flesch Score", f"{result.flesch_score:.1f}")
+            
+            # Textos en columnas
+            col_input, col_output = st.columns(2)
+            
+            with col_input:
+                st.markdown("#### 📄 Texto Original")
+                st.text_area(
+                    "Texto médico complejo",
+                    value=result.input_text,
+                    height=300,
+                    disabled=True,
+                    label_visibility="collapsed"
+                )
+                st.caption(f"Longitud: {result.input_length} caracteres")
+            
+            with col_output:
+                st.markdown("#### ✨ Texto Simplificado")
+                st.text_area(
+                    "Resumen en lenguaje simple",
+                    value=result.simplified_text,
+                    height=300,
+                    disabled=True,
+                    label_visibility="collapsed"
+                )
+                st.caption(f"Longitud: {result.output_length} caracteres")
+            
+            # Botón para descargar
+            st.download_button(
+                "📥 Descargar Resumen Simplificado",
+                data=result.simplified_text,
+                file_name="resumen_simplificado.txt",
+                mime="text/plain"
+            )
+            
+            # Interpretación de Flesch Score
+            if result.flesch_score is not None:
+                st.markdown("#### 📊 Interpretación de Legibilidad")
+                
+                if result.flesch_score >= 80:
+                    level = "Muy fácil de leer"
+                    color = "green"
+                elif result.flesch_score >= 60:
+                    level = "Estándar - Fácil"
+                    color = "blue"
+                elif result.flesch_score >= 50:
+                    level = "Moderadamente difícil"
+                    color = "orange"
+                elif result.flesch_score >= 30:
+                    level = "Difícil"
+                    color = "red"
+                else:
+                    level = "Muy difícil"
+                    color = "darkred"
+                
+                st.markdown(f"**Flesch Reading Ease:** {result.flesch_score:.1f} - :{color}[{level}]")
+                st.caption("Escala: < 30 (muy difícil), 30-50 (difícil), 50-60 (estándar), 60-70 (fácil), > 70 (muy fácil)")
+    
+    # ============================================================================
+    # TAB 3: Evaluación de Resúmenes
+    # ============================================================================
+    with tab3:
+        st.markdown("### Evaluación de Resúmenes Generados")
+        st.write("Calcula métricas ROUGE y BLEU para evaluar la calidad de tus resúmenes.")
+        
+        st.markdown("#### Evalúa tus resúmenes")
+        uploaded = st.file_uploader(
+            "Carga un CSV con columnas prediction,reference[,document_id]",
+            type=["csv"],
+            key="eval-uploader"
+        )
+        
+        if uploaded is not None:
+            try:
+                df_upload = pd.read_csv(uploaded)
+                scored = evaluate_rows(df_upload)
+                st.dataframe(scored)
+                aggregate = scored[["rouge_f1", "bleu", "f1"]].mean().round(4)
+                agg_col1, agg_col2, agg_col3 = st.columns(3)
+                agg_col1.metric("ROUGE-1 F1", aggregate["rouge_f1"])
+                agg_col2.metric("BLEU", aggregate["bleu"])
+                agg_col3.metric("F1 tokens", aggregate["f1"])
+
+                csv_buf = io.StringIO()
+                scored.to_csv(csv_buf, index=False)
+                st.download_button(
+                    "Descargar métricas",
+                    data=csv_buf.getvalue(),
+                    file_name="validation_scores.csv",
+                    mime="text/csv"
+                )
+            except Exception as exc:
+                st.error(f"No se pudo procesar el archivo: {exc}")
+
+        st.markdown("#### Prueba rápida")
+        col_ref, col_pred = st.columns(2)
+        reference = col_ref.text_area("Referencia", height=140, key="ref")
+        prediction = col_pred.text_area("Predicción", height=140, key="pred")
+        
+        if st.button("Calcular métricas", key="quick-eval"):
+            if not reference.strip() or not prediction.strip():
+                st.warning("Escribe tanto la referencia como la predicción.")
+            else:
+                scores = score_pair("quick", prediction, reference)
+                c1, c2, c3, c4 = st.columns(4)
+                c1.metric("ROUGE-P", scores.rouge_precision)
+                c2.metric("ROUGE-R", scores.rouge_recall)
+                c3.metric("ROUGE-F1", scores.rouge_f1)
+                c4.metric("BLEU", scores.bleu)
 
 
 stage = st.sidebar.radio(
