@@ -12,7 +12,7 @@ Universidad de los Andes, Bogotá D.C.
 - **Daniel S. Moreno-Sandoval** - [ds.morenos1@uniandes.edu.co](mailto:ds.morenos1@uniandes.edu.co)
 - **William A. Moreno-Agudelo** - [w.morenoa@uniandes.edu.co](mailto:w.morenoa@uniandes.edu.co)
 - **Gustavo Contreras-Herrera** - [g.contreras118@uniandes.edu.co](mailto:g.contreras118@uniandes.edu.co)
-- **Yernel A. Cardona-Chao** - [ma.cardona@uniandes.edu.co](mailto:ma.cardona@uniandes.edu.co)
+- **Miguel Á. Cardona-Chamorro** - [ma.cardona@uniandes.edu.co](mailto:ma.cardona@uniandes.edu.co)
 
 ## 🎯 Objetivo del Proyecto
 
