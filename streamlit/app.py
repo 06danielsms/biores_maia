@@ -373,6 +373,13 @@ def render_validation() -> None:
             "Puedes elegir entre modelo base, LoRA (fine-tuned), y con/sin optimización TD3."
         )
         
+        # Warning sobre infraestructura
+        st.warning(
+            "⚠️ **Nota sobre rendimiento**: Esta aplicación se ejecuta en una instancia EC2 t2.large con recursos limitados. "
+            "El proceso de clasificación y generación puede tardar varios minutos, especialmente en la primera ejecución "
+            "cuando se descargan los modelos. Por favor, ten paciencia."
+        )
+        
         # Detectar modelos disponibles
         available_models = get_available_models("../inference")
         
@@ -521,15 +528,21 @@ def render_validation() -> None:
                 if classifier_dict is None:
                     st.error("⚠️ Clasificador médico no disponible")
                 else:
+                    import time
+                    start_time = time.time()
+                    
                     try:
                         with st.spinner("🔍 Clasificando texto con BERT..."):
+                            classification_start = time.time()
                             text_class = classify_text(medical_text, classifier_dict)
+                            classification_time = time.time() - classification_start
                         
-                        st.info(f"📋 Clasificación detectada: **{text_class.upper()}**")
+                        st.info(f"📋 Clasificación detectada: **{text_class.upper()}** (⏱️ {classification_time:.2f}s)")
                         
                         # Si ya es PLS, no necesita simplificación
                         if text_class == "pls":
-                            st.success("✅ Este texto ya está en lenguaje simple (PLS). No requiere simplificación.")
+                            total_time = time.time() - start_time
+                            st.success(f"✅ Este texto ya está en lenguaje simple (PLS). No requiere simplificación. (⏱️ Tiempo total: {total_time:.2f}s)")
                             # Guardar resultado directo
                             from inference import InferenceResult
                             result = InferenceResult(
@@ -543,12 +556,15 @@ def render_validation() -> None:
                                 flesch_score=None
                             )
                             st.session_state["last_inference_result"] = result
+                            st.session_state["last_inference_time"] = total_time
                             st.rerun()
                         else:
                             # Si es NO_PLS, proceder con la simplificación
                             st.info("🔄 Texto clasificado como NO_PLS. Procediendo con la simplificación...")
                             
-                            with st.spinner("🤖 Cargando modelo y generando resumen..."):
+                            with st.spinner("🤖 Cargando modelo y generando resumen... (Esto puede tardar varios minutos)"):
+                                generation_start = time.time()
+                                
                                 # Crear configuración
                                 config = InferenceConfig(
                                     base_model_id="Qwen/Qwen2.5-3B-Instruct",
@@ -571,9 +587,15 @@ def render_validation() -> None:
                                 
                                 # Generar
                                 result = model_inference.generate(medical_text)
+                                generation_time = time.time() - generation_start
+                                total_time = time.time() - start_time
+                                
                                 st.session_state["last_inference_result"] = result
+                                st.session_state["last_inference_time"] = total_time
+                                st.session_state["classification_time"] = classification_time
+                                st.session_state["generation_time"] = generation_time
                             
-                            st.success("✓ Resumen generado exitosamente")
+                            st.success(f"✓ Resumen generado exitosamente (⏱️ Generación: {generation_time:.2f}s | Total: {total_time:.2f}s)")
                             st.rerun()
                         
                     except Exception as exc:
@@ -587,6 +609,20 @@ def render_validation() -> None:
             
             st.markdown("---")
             st.markdown("### 📋 Resultado")
+            
+            # Mostrar tiempos de ejecución
+            total_time = st.session_state.get("last_inference_time")
+            classification_time = st.session_state.get("classification_time")
+            generation_time = st.session_state.get("generation_time")
+            
+            if total_time:
+                time_cols = st.columns(3)
+                if classification_time:
+                    time_cols[0].metric("⏱️ Tiempo de Clasificación", f"{classification_time:.2f}s")
+                if generation_time:
+                    time_cols[1].metric("⏱️ Tiempo de Generación", f"{generation_time:.2f}s")
+                time_cols[2].metric("⏱️ Tiempo Total", f"{total_time:.2f}s")
+                st.divider()
             
             # Información del modelo
             col_info1, col_info2, col_info3, col_info4 = st.columns(4)
