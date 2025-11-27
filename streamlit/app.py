@@ -25,7 +25,14 @@ from training import (
     run_training_job,
 )
 from utils import load_repo_config, read_uploaded_text
-from validation import evaluate_rows, load_metrics_dataset, plot_metric, score_pair
+from validation import (
+    evaluate_rows, 
+    load_metrics_dataset, 
+    plot_metric, 
+    score_pair,
+    load_medical_classifier,
+    classify_text,
+)
 from metrics_computer import compute_metrics_batch
 from metrics_visualizer import (
     plot_histograms_streamlit,
@@ -322,10 +329,10 @@ def render_validation() -> None:
     )
 
     # Crear tabs para las diferentes secciones de validación
-    tab1, tab2, tab3 = st.tabs([
+    tab1, tab2 = st.tabs([
         "📊 Métricas de Dataset",
-        "🤖 Inferencia en Tiempo Real",
-        "📝 Evaluación de Resúmenes"
+        "🤖 Inferencia en Tiempo Real"
+        # "📝 Evaluación de Resúmenes"
     ])
     
     # ============================================================================
@@ -459,6 +466,22 @@ def render_validation() -> None:
         # Input de texto médico
         st.markdown("#### Texto Médico de Entrada")
         
+        # Cargar clasificador una sola vez (ahora es un dict con model, tokenizer, classifier)
+        if "medical_classifier" not in st.session_state:
+            try:
+                with st.spinner("Cargando clasificador médico y modelo BERT..."):
+                    st.session_state["medical_classifier"] = load_medical_classifier()
+                st.info("✓ Clasificador médico cargado exitosamente")
+            except FileNotFoundError as e:
+                st.error(f"⚠️ {e}")
+                st.session_state["medical_classifier"] = None
+            except ImportError as e:
+                st.error(f"⚠️ {e}")
+                st.session_state["medical_classifier"] = None
+            except Exception as e:
+                st.error(f"⚠️ Error al cargar clasificador: {e}")
+                st.session_state["medical_classifier"] = None
+        
         # Ejemplo por defecto
         default_medical_text = """This randomized controlled trial evaluated the efficacy of angiotensin-converting enzyme (ACE) inhibitors in patients diagnosed with essential hypertension. The study enrolled 450 participants aged 45-70 years with systolic blood pressure ≥140 mmHg and diastolic blood pressure ≥90 mmHg. Participants were randomly assigned to receive either an ACE inhibitor (enalapril 10-20 mg daily) or placebo for 12 weeks. The primary outcome was the change in mean systolic blood pressure from baseline to week 12. Results showed a statistically significant reduction in systolic blood pressure in the ACE inhibitor group compared to placebo (mean difference: -12.3 mmHg, 95% CI: -15.1 to -9.5, p<0.001)."""
         
@@ -492,39 +515,71 @@ def render_validation() -> None:
             if not medical_text.strip():
                 st.warning("⚠️ Por favor ingresa un texto médico")
             else:
-                try:
-                    with st.spinner("🔄 Cargando modelo y generando resumen..."):
-                        # Crear configuración
-                        config = InferenceConfig(
-                            base_model_id="Qwen/Qwen2.5-3B-Instruct",
-                            lora_adapter_path=lora_path if use_lora else None,
-                            td3_agent_path=td3_path if use_td3 else None,
-                            temperature=temperature,
-                            top_p=top_p,
-                            max_new_tokens=max_tokens,
-                            device="auto"
-                        )
+                # Primero, clasificar el texto
+                classifier_dict = st.session_state.get("medical_classifier")
+                
+                if classifier_dict is None:
+                    st.error("⚠️ Clasificador médico no disponible")
+                else:
+                    try:
+                        with st.spinner("🔍 Clasificando texto con BERT..."):
+                            text_class = classify_text(medical_text, classifier_dict)
                         
-                        # Crear o reutilizar instancia de inferencia
-                        if "inference_model" not in st.session_state or st.session_state["inference_model"] is None:
-                            st.session_state["inference_model"] = ModelInference(config)
+                        st.info(f"📋 Clasificación detectada: **{text_class.upper()}**")
                         
-                        model_inference = st.session_state["inference_model"]
+                        # Si ya es PLS, no necesita simplificación
+                        if text_class == "pls":
+                            st.success("✅ Este texto ya está en lenguaje simple (PLS). No requiere simplificación.")
+                            # Guardar resultado directo
+                            from inference import InferenceResult
+                            result = InferenceResult(
+                                input_text=medical_text,
+                                simplified_text=medical_text,
+                                temperature=0.0,
+                                top_p=0.0,
+                                model_config="Sin procesamiento (ya es PLS)",
+                                input_length=len(medical_text),
+                                output_length=len(medical_text),
+                                flesch_score=None
+                            )
+                            st.session_state["last_inference_result"] = result
+                            st.rerun()
+                        else:
+                            # Si es NO_PLS, proceder con la simplificación
+                            st.info("🔄 Texto clasificado como NO_PLS. Procediendo con la simplificación...")
+                            
+                            with st.spinner("🤖 Cargando modelo y generando resumen..."):
+                                # Crear configuración
+                                config = InferenceConfig(
+                                    base_model_id="Qwen/Qwen2.5-3B-Instruct",
+                                    lora_adapter_path=lora_path if use_lora else None,
+                                    td3_agent_path=td3_path if use_td3 else None,
+                                    temperature=temperature,
+                                    top_p=top_p,
+                                    max_new_tokens=max_tokens,
+                                    device="auto"
+                                )
+                                
+                                # Crear o reutilizar instancia de inferencia
+                                if "inference_model" not in st.session_state or st.session_state["inference_model"] is None:
+                                    st.session_state["inference_model"] = ModelInference(config)
+                                
+                                model_inference = st.session_state["inference_model"]
+                                
+                                # Actualizar config si cambió
+                                model_inference.config = config
+                                
+                                # Generar
+                                result = model_inference.generate(medical_text)
+                                st.session_state["last_inference_result"] = result
+                            
+                            st.success("✓ Resumen generado exitosamente")
+                            st.rerun()
                         
-                        # Actualizar config si cambió
-                        model_inference.config = config
-                        
-                        # Generar
-                        result = model_inference.generate(medical_text)
-                        st.session_state["last_inference_result"] = result
-                    
-                    st.success("✓ Resumen generado exitosamente")
-                    st.rerun()
-                    
-                except Exception as exc:
-                    st.error(f"❌ Error al generar resumen: {exc}")
-                    import traceback
-                    st.code(traceback.format_exc())
+                    except Exception as exc:
+                        st.error(f"❌ Error durante el proceso: {exc}")
+                        import traceback
+                        st.code(traceback.format_exc())
         
         # Mostrar resultado si existe
         if "last_inference_result" in st.session_state:
@@ -600,54 +655,54 @@ def render_validation() -> None:
     # ============================================================================
     # TAB 3: Evaluación de Resúmenes
     # ============================================================================
-    with tab3:
-        st.markdown("### Evaluación de Resúmenes Generados")
-        st.write("Calcula métricas ROUGE y BLEU para evaluar la calidad de tus resúmenes.")
+    # with tab3:
+    #     st.markdown("### Evaluación de Resúmenes Generados")
+    #     st.write("Calcula métricas ROUGE y BLEU para evaluar la calidad de tus resúmenes.")
         
-        st.markdown("#### Evalúa tus resúmenes")
-        uploaded = st.file_uploader(
-            "Carga un CSV con columnas prediction,reference[,document_id]",
-            type=["csv"],
-            key="eval-uploader"
-        )
+    #     st.markdown("#### Evalúa tus resúmenes")
+    #     uploaded = st.file_uploader(
+    #         "Carga un CSV con columnas prediction,reference[,document_id]",
+    #         type=["csv"],
+    #         key="eval-uploader"
+    #     )
         
-        if uploaded is not None:
-            try:
-                df_upload = pd.read_csv(uploaded)
-                scored = evaluate_rows(df_upload)
-                st.dataframe(scored)
-                aggregate = scored[["rouge_f1", "bleu", "f1"]].mean().round(4)
-                agg_col1, agg_col2, agg_col3 = st.columns(3)
-                agg_col1.metric("ROUGE-1 F1", aggregate["rouge_f1"])
-                agg_col2.metric("BLEU", aggregate["bleu"])
-                agg_col3.metric("F1 tokens", aggregate["f1"])
+    #     if uploaded is not None:
+    #         try:
+    #             df_upload = pd.read_csv(uploaded)
+    #             scored = evaluate_rows(df_upload)
+    #             st.dataframe(scored)
+    #             aggregate = scored[["rouge_f1", "bleu", "f1"]].mean().round(4)
+    #             agg_col1, agg_col2, agg_col3 = st.columns(3)
+    #             agg_col1.metric("ROUGE-1 F1", aggregate["rouge_f1"])
+    #             agg_col2.metric("BLEU", aggregate["bleu"])
+    #             agg_col3.metric("F1 tokens", aggregate["f1"])
 
-                csv_buf = io.StringIO()
-                scored.to_csv(csv_buf, index=False)
-                st.download_button(
-                    "Descargar métricas",
-                    data=csv_buf.getvalue(),
-                    file_name="validation_scores.csv",
-                    mime="text/csv"
-                )
-            except Exception as exc:
-                st.error(f"No se pudo procesar el archivo: {exc}")
+    #             csv_buf = io.StringIO()
+    #             scored.to_csv(csv_buf, index=False)
+    #             st.download_button(
+    #                 "Descargar métricas",
+    #                 data=csv_buf.getvalue(),
+    #                 file_name="validation_scores.csv",
+    #                 mime="text/csv"
+    #             )
+    #         except Exception as exc:
+    #             st.error(f"No se pudo procesar el archivo: {exc}")
 
-        st.markdown("#### Prueba rápida")
-        col_ref, col_pred = st.columns(2)
-        reference = col_ref.text_area("Referencia", height=140, key="ref")
-        prediction = col_pred.text_area("Predicción", height=140, key="pred")
+    #     st.markdown("#### Prueba rápida")
+    #     col_ref, col_pred = st.columns(2)
+    #     reference = col_ref.text_area("Referencia", height=140, key="ref")
+    #     prediction = col_pred.text_area("Predicción", height=140, key="pred")
         
-        if st.button("Calcular métricas", key="quick-eval"):
-            if not reference.strip() or not prediction.strip():
-                st.warning("Escribe tanto la referencia como la predicción.")
-            else:
-                scores = score_pair("quick", prediction, reference)
-                c1, c2, c3, c4 = st.columns(4)
-                c1.metric("ROUGE-P", scores.rouge_precision)
-                c2.metric("ROUGE-R", scores.rouge_recall)
-                c3.metric("ROUGE-F1", scores.rouge_f1)
-                c4.metric("BLEU", scores.bleu)
+    #     if st.button("Calcular métricas", key="quick-eval"):
+    #         if not reference.strip() or not prediction.strip():
+    #             st.warning("Escribe tanto la referencia como la predicción.")
+    #         else:
+    #             scores = score_pair("quick", prediction, reference)
+    #             c1, c2, c3, c4 = st.columns(4)
+    #             c1.metric("ROUGE-P", scores.rouge_precision)
+    #             c2.metric("ROUGE-R", scores.rouge_recall)
+    #             c3.metric("ROUGE-F1", scores.rouge_f1)
+    #             c4.metric("BLEU", scores.bleu)
 
 
 stage = st.sidebar.radio(
