@@ -580,7 +580,7 @@ def render_validation() -> None:
                             # Si es NO_PLS, proceder con la simplificación
                             st.info("🔄 Texto clasificado como NO_PLS. Procediendo con la simplificación...")
                             
-                            with st.spinner("🤖 Cargando modelo y generando resumen... (Esto puede tardar varios minutos)"):
+                            with st.spinner("🤖 Cargando modelo y generando resumen... (Esto puede tardar ~5 minutos)"):
                                 generation_start = time.time()
                                 
                                 # Crear configuración
