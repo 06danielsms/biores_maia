@@ -51,7 +51,29 @@ from inference import (
 
 st.set_page_config(page_title="BioRes MAIA Studio", layout="wide")
 st.title("BioRes MAIA · Laboratorio interactivo")
-st.caption("Preprocesamiento ➝ Entrenamiento ➝ Validación, todo en una sola app Streamlit.")
+st.caption("Preprocesamiento ➝ Entrenamiento ➝ Validación")
+
+# Sidebar styling
+with st.sidebar:
+    st.markdown("""
+        <div style="text-align: center; padding: 20px 0;">
+            <h2 style="margin-bottom: 10px;">🧬 BioRes MAIA</h2>
+            <p style="color: #666; font-size: 14px; margin-bottom: 20px;">
+                Medical AI Accessibility
+            </p>
+            <a href="https://github.com/06danielsms/biores_maia" target="_blank" 
+               style="display: inline-flex; align-items: center; gap: 8px; 
+                      padding: 10px 20px; background-color: #24292e; color: white; 
+                      text-decoration: none; border-radius: 6px; font-size: 14px;
+                      transition: background-color 0.2s;">
+                <svg height="20" width="20" viewBox="0 0 16 16" fill="currentColor">
+                    <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+                </svg>
+                Ver en GitHub
+            </a>
+        </div>
+        <hr style="margin: 20px 0; border: none; border-top: 1px solid #ddd;">
+    """, unsafe_allow_html=True)
 
 
 def render_preprocessing() -> None:
@@ -61,9 +83,9 @@ def render_preprocessing() -> None:
         "normalizar datos sensibles y preparar chunks antes del entrenamiento."
     )
 
-    uploaded = st.file_uploader("Carga un archivo (.txt, .md)", type=["txt", "md"])
+    # uploaded = st.file_uploader("Carga un archivo (.txt)", type=["txt"])
     default_text = load_default_text()
-    text_value = read_uploaded_text(uploaded) or default_text
+    text_value =  default_text
     
     # Layout con columnas: texto entrada y texto procesado lado a lado
     input_col, output_col = st.columns(2)
@@ -323,45 +345,41 @@ def render_training() -> None:
 
 def render_validation() -> None:
     st.subheader("3 · Validación y pruebas finales")
-    st.write(
-        "Analiza las métricas generadas a partir de `metrics.csv`, compara modelos y calcula ROUGE/BLEU "
-        "para tus resúmenes generados."
-    )
+    # st.write(
+    #     "Analiza las métricas generadas a partir de `metrics.csv`, compara modelos y calcula ROUGE/BLEU "
+    #     "para tus resúmenes generados."
+    # )
 
     # Crear tabs para las diferentes secciones de validación
-    tab1, tab2 = st.tabs([
-        "📊 Métricas de Dataset",
-        "🤖 Inferencia en Tiempo Real"
-        # "📝 Evaluación de Resúmenes"
-    ])
+    tab2 = st.tabs(["🤖 Inferencia en Tiempo Real"])[0]
     
     # ============================================================================
     # TAB 1: Métricas de Dataset
     # ============================================================================
-    with tab1:
-        st.markdown("### Análisis de métricas del dataset")
+    # with tab1:
+    #     st.markdown("### Análisis de métricas del dataset")
         
-        metrics_df = load_metrics_dataset()
-        if metrics_df is not None and not metrics_df.empty:
-            metric_choice = st.selectbox(
-                "Selecciona una métrica para visualizar",
-                options=[
-                    "flesch_reading_ease",
-                    "ari",
-                    "n_words",
-                    "n_sents",
-                    "avg_word_len",
-                    "stopword_ratio",
-                ],
-            )
-            try:
-                chart = plot_metric(metrics_df, metric_choice)
-                st.plotly_chart(chart, use_container_width=True)
-            except Exception as exc:  # pragma: no cover
-                st.warning(f"No se pudo renderizar la gráfica (instala plotly): {exc}")
-            st.dataframe(metrics_df.head(20))
-        else:
-            st.info("metrics.csv no está disponible; omitiendo la visualización base.")
+    #     metrics_df = load_metrics_dataset()
+    #     if metrics_df is not None and not metrics_df.empty:
+    #         metric_choice = st.selectbox(
+    #             "Selecciona una métrica para visualizar",
+    #             options=[
+    #                 "flesch_reading_ease",
+    #                 "ari",
+    #                 "n_words",
+    #                 "n_sents",
+    #                 "avg_word_len",
+    #                 "stopword_ratio",
+    #             ],
+    #         )
+    #         try:
+    #             chart = plot_metric(metrics_df, metric_choice)
+    #             st.plotly_chart(chart, use_container_width=True)
+    #         except Exception as exc:  # pragma: no cover
+    #             st.warning(f"No se pudo renderizar la gráfica (instala plotly): {exc}")
+    #         st.dataframe(metrics_df.head(20))
+    #     else:
+    #         st.info("metrics.csv no está disponible; omitiendo la visualización base.")
     
     # ============================================================================
     # TAB 2: Inferencia en Tiempo Real
@@ -743,7 +761,7 @@ def render_validation() -> None:
 
 stage = st.sidebar.radio(
     "Etapas",
-    options=["Preprocesamiento", "Entrenamiento", "Validación"],
+    options=["Preprocesamiento", "Validación"],
     index=0,
 )
 
