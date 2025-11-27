@@ -3,11 +3,15 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Any, Dict, Iterable, List, Tuple
+from typing import Any, Dict, Iterable, List, Tuple, Optional
 import math
 from collections import Counter
+import pickle
+from pathlib import Path
 
 import pandas as pd
+import numpy as np
+import torch
 
 try:
     from .utils import REPO_ROOT
@@ -15,6 +19,7 @@ except ImportError:  # pragma: no cover - Streamlit script mode
     from utils import REPO_ROOT  # type: ignore
 
 METRICS_PATH = REPO_ROOT / "metrics.csv"
+CLASSIFIER_PATH = REPO_ROOT / "inference" / "clasificador_medico_sencillo.pkl"
 
 
 def load_metrics_dataset(max_rows: int = 5_000) -> pd.DataFrame | None:
@@ -128,9 +133,107 @@ def evaluate_rows(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame([vars(r) for r in records])
 
 
+def load_medical_classifier():
+    """
+    Carga el clasificador médico y el modelo BERT necesario para generar embeddings.
+    
+    Returns:
+        dict con 'classifier', 'model', 'tokenizer', 'device'
+    """
+    if not CLASSIFIER_PATH.exists():
+        raise FileNotFoundError(
+            f"Clasificador médico no encontrado en: {CLASSIFIER_PATH}. "
+            "Asegúrate de que el archivo 'clasificador_medico_sencillo.pkl' existe."
+        )
+    
+    # Cargar el clasificador LogisticRegression
+    with open(CLASSIFIER_PATH, "rb") as f:
+        classifier = pickle.load(f)
+    
+    # Cargar modelo BERT (usar el mismo que se usó en entrenamiento)
+    # Según el notebook, se puede usar bert-base-uncased o ncbi/MedCPT-Article-Encoder
+    try:
+        from transformers import BertTokenizer, BertModel
+        
+        # Intentar primero con MedCPT (mejor para textos médicos)
+        try:
+            tokenizer = BertTokenizer.from_pretrained("ncbi/MedCPT-Article-Encoder")
+            model = BertModel.from_pretrained("ncbi/MedCPT-Article-Encoder")
+        except:
+            # Fallback a BERT base
+            tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+            model = BertModel.from_pretrained("bert-base-uncased")
+        
+        # Configurar device
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        model = model.to(device)
+        model.eval()
+        
+        return {
+            'classifier': classifier,
+            'model': model,
+            'tokenizer': tokenizer,
+            'device': device
+        }
+    except ImportError:
+        raise ImportError(
+            "transformers no está instalado. Instálalo con: pip install transformers torch"
+        )
+
+
+def classify_text(text: str, classifier_dict=None) -> str:
+    """
+    Clasifica un texto médico como 'pls' o 'no_pls'.
+    
+    Args:
+        text: Texto médico a clasificar
+        classifier_dict: Dict con classifier, model, tokenizer, device (opcional).
+                        Si no se proporciona, se carga automáticamente.
+    
+    Returns:
+        'pls' o 'no_pls' según la clasificación
+    """
+    if classifier_dict is None:
+        classifier_dict = load_medical_classifier()
+    
+    classifier = classifier_dict['classifier']
+    model = classifier_dict['model']
+    tokenizer = classifier_dict['tokenizer']
+    device = classifier_dict['device']
+    
+    # Tokenizar el texto (igual que en el notebook)
+    encoded_input = tokenizer(
+        text,
+        truncation=True,
+        padding=True,
+        return_tensors='pt',
+        max_length=512
+    )
+    encoded_input = {k: v.to(device) for k, v in encoded_input.items()}
+    
+    # Generar embedding usando BERT
+    with torch.no_grad():
+        output = model(**encoded_input).last_hidden_state[0, 0]
+    
+    # Normalizar el embedding
+    output = output.cpu().numpy()
+    normalized_output = output / np.linalg.norm(output)
+    
+    # Expandir dimensiones para que sea (1, n_features)
+    embedding = normalized_output.reshape(1, -1)
+    
+    # Clasificar
+    prediction = classifier.predict(embedding)
+    
+    # 0 = médico (no_pls), 1 = sencillo (pls)
+    return 'pls' if prediction[0] == 1 else 'no_pls'
+
+
 __all__ = [
     "load_metrics_dataset",
     "plot_metric",
     "score_pair",
     "evaluate_rows",
+    "load_medical_classifier",
+    "classify_text",
 ]
